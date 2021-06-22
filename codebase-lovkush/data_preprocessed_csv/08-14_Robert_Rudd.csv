@@ -1,0 +1,1637 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0,,,,start_chat
+1,114,4,24,I could look over it briefly.,side_chat,THE WITNESS,start_chat
+2,115,4,25,Okay.  I think that he's -- he's not waiving reading or signing.,side_chat,MR. CRANE,start_question
+3,119,5,3,"Mr. Rudd, you're a sworn witness.",q,MR. CRANE,start_answer
+4,120,5,4,"Yes, I am.",a,THE WITNESS,start_question
+5,121,5,5,Can you give us your complete name.,q,MR. CRANE,start_answer
+6,122,5,6,Robert Lee Rudd.,a,THE WITNESS,start_question
+7,123,5,7,And what is your address?,q,MR. CRANE,start_answer
+8,124,5,8,"5045 Ellsworth Street, Philadelphia, Pennsylvania 19143.",a,THE WITNESS,start_chat
+9,126,5,10,"And that address is also on Exhibit -- that's indicated right on Rudd-1.  You can see it's in the second line there, okay?",side_chat,MR. CRANE,start_question
+10,130,5,14,"Sir, what is your date of birth?",q,MR. CRANE,start_answer
+11,131,5,15,2/16/53.,a,THE WITNESS,start_question
+12,132,5,16,Are you married?,q,MR. CRANE,start_answer
+13,133,5,17,Yes.,a,THE WITNESS,start_question
+14,134,5,18,Do you have any children?,q,MR. CRANE,start_answer
+15,135,5,19,Yes.,a,THE WITNESS,start_question
+16,136,5,20,Ages?,q,MR. CRANE,start_answer
+17,137,5,21,"25, 40, and 33.",a,THE WITNESS,start_question
+18,138,5,22,"Do you have any military experience, sir?  Military experience.",q,MR. CRANE,start_answer
+19,140,5,24,"No, I do not.",a,THE WITNESS,start_question
+20,141,5,25,Tell us about your education.  How far did you go in school?,q,MR. CRANE,start_answer
+21,144,6,2,"12th grade, three years of college.",a,THE WITNESS,start_question
+22,145,6,3,You graduated from high school?,q,MR. CRANE,start_answer
+23,146,6,4,Yes.,a,THE WITNESS,start_question
+24,147,6,5,From where?,q,MR. CRANE,start_answer
+25,148,6,6,West Philadelphia High.,a,THE WITNESS,start_question
+26,149,6,7,Yes.  What year?,q,MR. CRANE,start_answer
+27,150,6,8,1970.,a,THE WITNESS,start_question
+28,151,6,9,And then you attended college three years?,q,MR. CRANE,start_answer
+29,152,6,10,Yes.,a,THE WITNESS,start_question
+30,153,6,11,Where?,q,MR. CRANE,start_answer
+31,154,6,12,Reading University -- I mean Reading Community College --,a,THE WITNESS,start_question
+32,156,6,14,Yes.,q,MR. CRANE,start_answer
+33,157,6,15,-- and Temple University.,a,THE WITNESS,start_question
+34,158,6,16,Have you obtained any degrees?,q,MR. CRANE,start_answer
+35,159,6,17,I have associate's --,a,THE WITNESS,start_question
+36,160,6,18,Yes.,q,MR. CRANE,start_answer
+37,161,6,19,"-- in psychology, anthropology, and sociology.",a,THE WITNESS,start_question
+38,162,6,20,Where did you get that associate's from?,q,MR. CRANE,start_answer
+39,163,6,21,"Well, actually, I gained most of the credits at Reading Community College --",a,THE WITNESS,start_question
+40,165,6,23,Understood.,q,MR. CRANE,start_answer
+41,166,6,24,-- and then transferred to Temple.,a,THE WITNESS,start_question
+42,167,6,25,"Yes.  All right.  Are you employed, sir?",q,MR. CRANE,start_answer
+43,169,7,1,Not at this time.,a,THE WITNESS,start_question
+44,170,7,2,Are you retired?,q,MR. CRANE,start_answer
+45,171,7,3,"I'm retired, yes.",a,THE WITNESS,start_question
+46,172,7,4,And when did you retire?,q,MR. CRANE,start_answer
+47,173,7,5,I -- I got injured.  I had a stroke in --,a,THE WITNESS,start_question
+48,174,7,6,A stroke.,q,MR. CRANE,start_answer
+49,175,7,7,-- just about ten years ago.,a,THE WITNESS,start_question
+50,176,7,8,So you mean in 2009?,q,MR. CRANE,start_answer
+51,177,7,9,Yes.,a,THE WITNESS,start_question
+52,178,7,10,"Who were -- and is that when you last worked, in 2009?  2009, is that when you last worked?",q,MR. CRANE,start_answer
+53,180,7,12,"No.  I did food service just after that, but I -- I couldn't hack it.",a,THE WITNESS,start_question
+54,182,7,14,Who -- who was -- who was your employer that you retired from?,q,MR. CRANE,start_answer
+55,184,7,16,"Actually, at the time of retirement, I was working for a caterer.",a,THE WITNESS,start_question
+56,186,7,18,A caterer?,q,MR. CRANE,start_answer
+57,187,7,19,"Yeah.  Well, actually Betty the Caterer in Philadelphia is one of the --",a,THE WITNESS,start_question
+58,189,7,21,What -- what was it called?,q,MR. CRANE,start_answer
+59,190,7,22,Betty the Caterer.,a,THE WITNESS,start_question
+60,191,7,23,Betty the Caterer?,q,MR. CRANE,start_answer
+61,192,7,24,Uh-huh.  That's mostly where I'm known in Philadelphia.,a,THE WITNESS,start_question
+62,195,8,1,All right.  How long did you work for Betty the Caterer?,q,MR. CRANE,start_answer
+63,197,8,3,Twenty years.,a,THE WITNESS,start_question
+64,198,8,4,"About 20 years, okay.  Where was that -- where is that located generally?  We don't need the address.  You know, where in Philadelphia?",q,MR. CRANE,start_answer
+65,201,8,7,Philadelphia.,a,THE WITNESS,start_question
+66,202,8,8,What section?,q,MR. CRANE,start_answer
+67,203,8,9,Mount Airy section.,a,THE WITNESS,start_question
+68,204,8,10,Mount -- is it still in existence?,q,MR. CRANE,start_answer
+69,205,8,11,"Yes, it is.",a,THE WITNESS,start_question
+70,206,8,12,Is it still called Betty the Caterer?,q,MR. CRANE,start_answer
+71,207,8,13,Yeah.  I think they moved the location though.,a,THE WITNESS,start_question
+72,208,8,14,"Well, that's fine.  We could -- this is just some background information to give -- to give us an idea of -- of yourself.  The purpose of this deposition, Mr. Rudd, is to ask you about the statement that you provided. You may end up being a witness in this case, essentially what we call ""damages witnesses,"" a witness to give a before-and-after picture to the jury relative to your knowledge of Mr. Bassett, the injuries he sustained in the 2/27/18 automobile accident, if you have any information regarding that, if you have any information regarding the accident, and any information or knowledge you have regarding how the accident has affected Mr. Bassett's life.  And much of that, you've revealed in this five-page statement --",q,MR. CRANE,start_answer
+73,223,9,3,That's correct.,a,THE WITNESS,start_question
+74,224,9,4,"-- that we -- we marked as Rudd-1.  It's gonna be attached to this transcript as an exhibit, okay? And so this is just an investigative tool for the defendants to learn or inquire about those areas that I just told you about.",q,MR. CRANE,start_answer
+75,229,9,9,Yes.,a,THE WITNESS,start_question
+76,230,9,10,"This is not a cross-examination or a -- this is not an interrogation, okay?",q,MR. CRANE,start_answer
+77,232,9,12,Uh-huh.,a,THE WITNESS,start_question
+78,233,9,13,"So if -- if you don't understand a question that we pose to you -- myself and Mr. O'Donnell or Mr. Sheridan, they may pose questions to you.  If you don't understand a question, say so, and we'll rephrase it, okay?",q,MR. CRANE,start_answer
+79,237,9,17,Okay.,a,THE WITNESS,start_question
+80,238,9,18,"And if you don't know the answer to a question, the answer ""I don't know"" is a perfectly acceptable answer, all right?",q,MR. CRANE,start_answer
+81,241,9,21,Yes.,a,THE WITNESS,start_question
+82,242,9,22,"Try to wait until the question is posed before you answer, and the attorneys will wait until you give your answer before we ask our next question.  That -- the purpose is to facilitate the court reporter.  One person speaking at a time, easier for the court reporter to take an accurate -- take the transcript accurately, okay?",q,MR. CRANE,start_answer
+83,249,10,3,I understand.,a,THE WITNESS,start_question
+84,250,10,4,"And the -- and the same instruction relative to answer verbally, which you have been doing.  Some people, you know, they shrug and they -- you know, they grunt. But you've been answering verbally, with -- with words, which is good.  That's what we need.  Once again, it facilitates the court reporter, okay?",q,MR. CRANE,start_answer
+85,256,10,10,I understand.,a,THE WITNESS,start_question
+86,257,10,11,"Have you ever given a deposition before, Mr. Rudd?",q,MR. CRANE,start_answer
+87,258,10,12,"Yeah, I think I have.",a,THE WITNESS,start_question
+88,259,10,13,"What are the details in that regard, do you know? Was that a civil case?  What was the matter about generally?",q,MR. CRANE,start_answer
+89,262,10,16,"It would -- it would probably be civil, yes.",a,THE WITNESS,start_question
+90,263,10,17,"Well, when you say ""probably,"" this is what I'm telling you:  If you don't remember or if you don't know, the answer ""I don't know"" is perfectly acceptable.  When you use a word like ""probably"" --",q,MR. CRANE,start_answer
+91,267,10,21,"Well, definitely.  Let me -- let me say ""definitely.""",a,THE WITNESS,start_question
+92,269,10,23,"Just a, you know, final instruction here.  When you use the word ""probably,"" that leads us to believe you're drawing a conclusion, which sometimes we might want; but mostly, we just want to have some facts from you.  And if you don't know a fact, then you can just say you don't know.",q,MR. CRANE,start_answer
+93,276,11,4,Right.,a,THE WITNESS,start_question
+94,277,11,5,But you did give a prior deposition?,q,MR. CRANE,start_answer
+95,278,11,6,Yes.,a,THE WITNESS,start_question
+96,279,11,7,And what was the nature of that?  Was that a case? Was that a -- was that a lawsuit?,q,MR. CRANE,start_answer
+97,281,11,9,Civil case.,a,THE WITNESS,start_question
+98,282,11,10,And what kind of civil case was it?,q,MR. CRANE,start_answer
+99,283,11,11,Probably involved in an accident.,a,THE WITNESS,start_question
+100,284,11,12,An automobile accident?,q,MR. CRANE,start_answer
+101,285,11,13,Yeah.,a,THE WITNESS,start_question
+102,286,11,14,Were you involved in that accident?,q,MR. CRANE,start_answer
+103,287,11,15,Yes.,a,THE WITNESS,start_question
+104,288,11,16,Were you -- were you the injured person?  Were you suing?,q,MR. CRANE,start_answer
+105,290,11,18,Yeah.  Yes.,a,THE WITNESS,start_question
+106,291,11,19,What was your injury?,q,MR. CRANE,start_answer
+107,292,11,20,"Well, at that time, I -- I think I injured my head.",a,THE WITNESS,start_question
+108,293,11,21,"Injured your head.  Did you receive any treatment, medical treatment?",q,MR. CRANE,start_answer
+109,295,11,23,Yeah.,a,THE WITNESS,start_question
+110,296,11,24,Do you know what year this was?  What year was the deposition?,q,MR. CRANE,start_answer
+111,299,12,1,"Well, you're saying -- what I'm thinking about is the interrogatory.  Are they the same?",a,THE WITNESS,start_question
+112,301,12,3,"No, they're not.  But that's a legitimate -- that's a legitimate inquiry.  Let me ask you this question: Relative to this auto accident that you were involved in, do -- do you know the date or the year when -- when it occurred?",q,MR. CRANE,start_answer
+113,306,12,8,The accident?,a,THE WITNESS,start_question
+114,307,12,9,Yeah.,q,MR. CRANE,start_answer
+115,308,12,10,I don't particularly know the date.,a,THE WITNESS,start_question
+116,309,12,11,What year was it?,q,MR. CRANE,start_answer
+117,310,12,12,"It was -- I think it's -- where are we at, 2019?",a,THE WITNESS,start_question
+118,311,12,13,Yeah.,q,MR. CRANE,start_answer
+119,312,12,14,I would say it was in 2017.,a,THE WITNESS,start_question
+120,313,12,15,"Where did that accident occur, in -- in Philadelphia?",q,MR. CRANE,start_answer
+121,315,12,17,No.,a,THE WITNESS,start_question
+122,316,12,18,Where?,q,MR. CRANE,start_answer
+123,317,12,19,It had to be where Marvin lived in -- in the Poconos area.,a,THE WITNESS,start_question
+124,319,12,21,"All right.  Do you know that to be true, that -- that the accident happened in the Poconos?",q,MR. CRANE,start_answer
+125,321,12,23,"I don't know that particularly, but I know he lives out there.",a,THE WITNESS,start_question
+126,323,12,25,Understood.  But all -- all we're trying to find out is if you know where this -- where this 2017 auto accident occurred.,q,MR. CRANE,start_answer
+127,327,13,3,"No, I don't.",a,THE WITNESS,start_question
+128,328,13,4,Was it in Pennsylvania?,q,MR. CRANE,start_answer
+129,329,13,5,Yes.,a,THE WITNESS,start_question
+130,330,13,6,And you say it was somewhere in the vicinity of where Mr. Bassett lived?,q,MR. CRANE,start_answer
+131,332,13,8,That's correct.,a,THE WITNESS,start_question
+132,333,13,9,Was Mr. Bassett in the car with you when -- when this accident occurred?,q,MR. CRANE,start_answer
+133,335,13,11,"Not with me, no.",a,THE WITNESS,start_question
+134,336,13,12,Were you alone in the car when the accident occurred?,q,MR. CRANE,start_answer
+135,338,13,14,What -- what are you referring to?,a,THE WITNESS,start_question
+136,339,13,15,"Were talking about the car accident of 2017, the accident that involved you.",q,MR. CRANE,start_answer
+137,341,13,17,"No, I wasn't in the car.  And I -- I wasn't in the car.  I'm a witness as a friend of his.",a,THE WITNESS,start_question
+138,343,13,19,Oh.  I see.  That -- that's for today.,q,MR. CRANE,start_answer
+139,344,13,20,That's --,a,THE WITNESS,start_question
+140,345,13,21,I -- I asked you if -- if you ever been in a motor vehicle accident.,q,MR. CRANE,start_answer
+141,347,13,23,"You asked me, and I was misconstrued by were you talking about me or were you talking about this present accident.",a,THE WITNESS,start_question
+142,351,14,1,"Understood.  That's reasonable.  Let me just clear this up.  I -- this area of questioning has to do with whether you -- you had ever given a deposition before, ever, prior to today.",q,MR. CRANE,start_answer
+143,355,14,5,Sure.,a,THE WITNESS,start_question
+144,356,14,6,"And you -- you told us that you did give a deposition, and it had something to do with an auto accident in which you were involved in --",q,MR. CRANE,start_answer
+145,359,14,9,That's correct.,a,THE WITNESS,start_question
+146,360,14,10,-- in 2017.,q,MR. CRANE,start_answer
+147,361,14,11,No.  I was -- I was mistaken there.,a,THE WITNESS,start_question
+148,362,14,12,That's all right.  When was it?,q,MR. CRANE,start_answer
+149,363,14,13,I'm jogging through my memory now.  Been a while since.,a,THE WITNESS,start_question
+150,365,14,15,Sure.,q,MR. CRANE,start_answer
+151,366,14,16,Let's see.  This year is 2019.  I'm trying to make a correlation in my mind.,a,THE WITNESS,start_question
+152,368,14,18,Take your time.,q,MR. CRANE,start_answer
+153,369,14,19,It's hard to say.  My memory is lost.,a,THE WITNESS,start_question
+154,370,14,20,Your memory is lost?,q,MR. CRANE,start_answer
+155,371,14,21,Yeah.  I had a stoke in 2 --,a,THE WITNESS,start_question
+156,372,14,22,You said 2009?,q,MR. CRANE,start_answer
+157,373,14,23,"Yeah, I had a stroke.  So dates and things like that get past me as far as if they're not fresh in my memory.  I -- I don't want to quote something that would give the wrong impression of dates, you know, that I'm not cognizant of it.",a,THE WITNESS,start_question
+158,379,15,3,"That's reasonable.  What -- what the attorneys would want you to do, though, if you could, in response to a question that we pose to you:  If you can give a reasonable estimate, well, then we would want to hear that.  But if you were just gonna guess in response to a question, we would rather -- that's not really helpful, okay?",q,MR. CRANE,start_answer
+159,386,15,10,And that's what I'm trying not to do.,a,THE WITNESS,start_question
+160,387,15,11,"Understood.  You -- you can certainly do that.  But is it accurate to say that you were involved in an accident, but you just don't know the date?  And you -- you had -- you sustained a head injury in that accident? Is that what you want to tell us?",q,MR. CRANE,start_answer
+161,392,15,16,Yeah.  And it would have to be more than 20 years.,a,THE WITNESS,start_question
+162,393,15,17,More than 20 years ago?,q,MR. CRANE,start_answer
+163,394,15,18,The date is -- just eludes me.,a,THE WITNESS,start_question
+164,395,15,19,Understood.,q,MR. CRANE,start_answer
+165,396,15,20,But I'm -- I'm looking at past events --,a,THE WITNESS,start_question
+166,397,15,21,Yes.,q,MR. CRANE,start_answer
+167,398,15,22,"-- friends that have long been deceased before that time, so I'm -- in my mind, I'm weighing it as episodes.",a,THE WITNESS,start_question
+168,400,15,24,"And you -- this accident that occurred more than 20 years ago, you sustained a head jury?",q,MR. CRANE,start_answer
+169,403,16,1,Yes.,a,THE WITNESS,start_question
+170,404,16,2,"Did you sustain any other injuries, if you remember?",q,MR. CRANE,start_answer
+171,406,16,4,Maybe shoulder.,a,THE WITNESS,start_question
+172,407,16,5,Shoulder?,q,MR. CRANE,start_answer
+173,408,16,6,Uh-huh.,a,THE WITNESS,start_question
+174,409,16,7,Which shoulder?,q,MR. CRANE,start_answer
+175,410,16,8,Right shoulder.,a,THE WITNESS,start_question
+176,411,16,9,All right.  Do you know where this -- this auto accident occurred that you were involved in generally? Was that --,q,MR. CRANE,start_answer
+177,414,16,12,In Philadelphia.,a,THE WITNESS,start_question
+178,415,16,13,Philadelphia.  Do you know what -- do you have -- do you have an exact location?,q,MR. CRANE,start_answer
+179,417,16,15,Sure.,a,THE WITNESS,start_question
+180,418,16,16,Where was it?,q,MR. CRANE,start_answer
+181,419,16,17,On Grays Ferry Avenue --,a,THE WITNESS,start_question
+182,420,16,18,Yes.,q,MR. CRANE,start_answer
+183,421,16,19,"-- in -- in Philadelphia, around 33rd.",a,THE WITNESS,start_question
+184,422,16,20,And what happened?  Were you rear-ended?,q,MR. CRANE,start_answer
+185,423,16,21,"No.  I was with a senior man.  He was 20 years my senior.  And we were -- we just stopped for gas.  We came out from the gas station lot, and they -- the gas company truck plowed into us from the side.",a,THE WITNESS,start_question
+186,427,16,25,Your vehicle was stopped in the -- in the gas station; is that it?,q,MR. CRANE,start_answer
+187,430,17,2,"No.  It was coming off the driveway, onto the street.",a,THE WITNESS,start_question
+188,432,17,4,Right.,q,MR. CRANE,start_answer
+189,433,17,5,And a -- a car convened and hit us.,a,THE WITNESS,start_question
+190,434,17,6,"Was your vehicle stopped at the incident of impact, the vehicle that you were in?",q,MR. CRANE,start_answer
+191,436,17,8,Yes.,a,THE WITNESS,start_question
+192,437,17,9,Were you driving?,q,MR. CRANE,start_answer
+193,438,17,10,No.  A friend of mines was -- Mr. Basil Harrison.,a,THE WITNESS,start_question
+194,439,17,11,All right.,q,MR. CRANE,start_answer
+195,440,17,12,He's long been deceased now.,a,THE WITNESS,start_question
+196,441,17,13,Understood.  And you were the passenger?,q,MR. CRANE,start_answer
+197,442,17,14,Yes.,a,THE WITNESS,start_question
+198,443,17,15,Did you require any surgery from that accident?,q,MR. CRANE,start_answer
+199,444,17,16,Not -- no surgery.,a,THE WITNESS,start_question
+200,445,17,17,No?  And -- and you sustained a head injury from that accident?,q,MR. CRANE,start_answer
+201,447,17,19,That's correct.,a,THE WITNESS,start_question
+202,448,17,20,Did you receive any kind of treatment for that -- medical treatment for that accident?,q,MR. CRANE,start_answer
+203,450,17,22,Yes.,a,THE WITNESS,start_question
+204,451,17,23,Was that with a neurologist or someone that would help you with your head injury?,q,MR. CRANE,start_answer
+205,453,17,25,Sure.,a,THE WITNESS,start_question
+206,455,18,1,Do you remember the name of the doctor or doctors that -- any doctors that treated you for this accident?,q,MR. CRANE,start_answer
+207,457,18,3,"Yes, Cecil Harrison.",a,THE WITNESS,start_question
+208,458,18,4,Cecil Harrison?,q,MR. CRANE,start_answer
+209,459,18,5,Harris.  Harris.,a,THE WITNESS,start_question
+210,460,18,6,"Harris, all right.  Do you know what kind of physician he is?",q,MR. CRANE,start_answer
+211,462,18,8,Neurologist.,a,THE WITNESS,start_question
+212,463,18,9,"Neurologist, all right.  Did you recover from the injuries from that auto accident?",q,MR. CRANE,start_answer
+213,465,18,11,"Yes, I have.",a,THE WITNESS,start_question
+214,466,18,12,"Did you have -- ever have any cognitive impairment as a result of that accident, that is to say, you know, memory loss or maybe inability to concentrate or this sort of thing following that accident?",q,MR. CRANE,start_answer
+215,470,18,16,No.  I was cleared up.  I had some -- maybe some trauma to the head.,a,THE WITNESS,start_question
+216,472,18,18,Right.,q,MR. CRANE,start_answer
+217,473,18,19,"But after that, taking medications, some -- what -- whatever the doctor gave me -- I couldn't recall it now -- but everything subsided within six months.",a,THE WITNESS,start_question
+218,476,18,22,What you want us to know is you recovered about six months after that accident that occurred more than twenty years ago; is that right?,q,MR. CRANE,start_answer
+219,479,18,25,That's correct.,a,THE WITNESS,start_question
+220,481,19,1,"Have you had any other automobile accidents, sir, in your life?",q,MR. CRANE,start_answer
+221,483,19,3,Yeah.  Yeah.,a,THE WITNESS,start_question
+222,484,19,4,Would it even be further than 20 years back or -- or sooner?,q,MR. CRANE,start_answer
+223,486,19,6,Sooner.,a,THE WITNESS,start_question
+224,487,19,7,All right.  What --,q,MR. CRANE,start_answer
+225,488,19,8,"Just about two years ago, I was, again, riding with a friend of mine.  We were rear-ended by a -- a truck.",a,THE WITNESS,start_question
+226,490,19,10,Were you the passenger?,q,MR. CRANE,start_answer
+227,491,19,11,"No.  No.  Yeah.  I was the passenger, yeah, never the driver.",a,THE WITNESS,start_question
+228,493,19,13,Where did that accident occur?,q,MR. CRANE,start_answer
+229,494,19,14,"In West Philadelphia, around 57th and Master Street.",a,THE WITNESS,start_question
+230,496,19,16,"Was there any litigation, or did you file a claim as a result of that accident?",q,MR. CRANE,start_answer
+231,498,19,18,"Yes, I did.",a,THE WITNESS,start_question
+232,499,19,19,"Who -- who was your attorney, if you remember?",q,MR. CRANE,start_answer
+233,500,19,20,Marc Batts.,a,THE WITNESS,start_question
+234,501,19,21,Marc Bass?,q,MR. CRANE,start_answer
+235,502,19,22,Batts.,a,THE WITNESS,start_question
+236,503,19,23,B-A --,q,MR. CRANE,start_answer
+237,504,19,24,"Double T, S.",a,THE WITNESS,start_question
+238,505,19,25,Yes.  And did you have an attorney relative to the -- the Grays Ferry accident over 20 years ago?,q,MR. CRANE,start_answer
+239,508,20,2,Yeah.,a,THE WITNESS,start_question
+240,509,20,3,Who was that attorney?,q,MR. CRANE,start_answer
+241,510,20,4,I can't recall at this time.,a,THE WITNESS,start_question
+242,511,20,5,That's fine.  Yeah.  Was there a -- a lawsuit filed for the accident that happened 20 year -- years ago in Philadelphia?,q,MR. CRANE,start_answer
+243,514,20,8,Yeah.,a,THE WITNESS,start_question
+244,515,20,9,Was that lawsuit filed to the --,q,MR. CRANE,start_answer
+245,516,20,10,Yeah.,a,THE WITNESS,start_question
+246,517,20,11,"And was the lawsuit relative to the accident two years ago, was that also filed in Philadelphia?",q,MR. CRANE,start_answer
+247,519,20,13,Yes.,a,THE WITNESS,start_question
+248,520,20,14,And did you recover money damages in both of these cases?,q,MR. CRANE,start_answer
+249,522,20,16,"No, not the one with the head injury.",a,THE WITNESS,start_question
+250,523,20,17,What happened?,q,MR. CRANE,start_answer
+251,524,20,18,"They -- they arbitrated, and the arbitration board --",a,THE WITNESS,start_question
+252,526,20,20,Yes.,q,MR. CRANE,start_answer
+253,527,20,21,"-- granted me the medical.  But they said -- as far as the claim, that being as it is, they said, ""You can't sue the city.""",a,THE WITNESS,start_question
+254,530,20,24,The city -- they city was one of the defendants in the case?,q,MR. CRANE,start_answer
+255,533,21,1,That's correct.,a,THE WITNESS,start_question
+256,534,21,2,All right.  So do --,q,MR. CRANE,start_answer
+257,535,21,3,Philadelphia Gas Works.,a,THE WITNESS,start_question
+258,536,21,4,Philadelphia Gas Works was a defendant --,q,MR. CRANE,start_answer
+259,537,21,5,Uh-huh.,a,THE WITNESS,start_question
+260,538,21,6,"-- in the accident that happened over 20 years ago on Grays Ferry and 33rd, correct?",q,MR. CRANE,start_answer
+261,540,21,8,That's correct.,a,THE WITNESS,start_question
+262,541,21,9,All right.  And do you remember the name of the defendant in the accident that happened about two years ago or no?,q,MR. CRANE,start_answer
+263,544,21,12,"Yes, a good friend of mine, Mr. Basil Harrison.",a,THE WITNESS,start_question
+264,545,21,13,He was the defendant?  Who -- who was the defendant?,q,MR. CRANE,start_answer
+265,547,21,15,Oh.  The defendant was Philadelphia Gas Work.  What are you saying?,a,THE WITNESS,start_question
+266,549,21,17,I'm talking about -- I'm moving away from the accident that happened on Grays Ferry.,q,MR. CRANE,start_answer
+267,551,21,19,Okay.,a,THE WITNESS,start_question
+268,552,21,20,And now we're talking about the accident that you just -- you told us about two years ago.,q,MR. CRANE,start_answer
+269,554,21,22,Okay.,a,THE WITNESS,start_question
+270,555,21,23,And I'm asking you if you know who the person is that was -- that injured you.  Philadelphia Gas Work was the -- were the people that injured you in the first accident we talked about.  Do you happen to know the names of the -- name of the defendant that injured you in the accident that occurred two years ago in West Philadelphia?,q,MR. CRANE,start_answer
+271,562,22,4,"I don't know particular names, no.",a,THE WITNESS,start_question
+272,563,22,5,And did you -- you -- you recovered money damages in that case?,q,MR. CRANE,start_answer
+273,565,22,7,Yeah.,a,THE WITNESS,start_question
+274,566,22,8,You have any other auto accidents?,q,MR. CRANE,start_answer
+275,567,22,9,"No, I don't.",a,THE WITNESS,start_question
+276,568,22,10,Have you had -- been involved in any other lawsuits other than the two that you just told us about?,q,MR. CRANE,start_answer
+277,570,22,12,Yes.,a,THE WITNESS,start_question
+278,571,22,13,Can you give a -- when?  When was the first lawsuit you -- you were involved in?,q,MR. CRANE,start_answer
+279,573,22,15,"You said ""the first one""?",a,THE WITNESS,start_question
+280,574,22,16,Yeah.  Other than the two auto accidents you -- you just told us about -- we don't need to know about them -- now I'm asking you about other lawsuits that you may have been involved in.  Maybe they had to do with business matters or --,q,MR. CRANE,start_answer
+281,579,22,21,Yes.,a,THE WITNESS,start_question
+282,580,22,22,-- child custody or --,q,MR. CRANE,start_answer
+283,581,22,23,"It's -- no.  Well, it's actually a suit pending now.",a,THE WITNESS,start_question
+284,583,22,25,You have a suit pending now?  Are you the plaintiff or defendant?,q,MR. CRANE,start_answer
+285,586,23,2,I'm the plaintiff.,a,THE WITNESS,start_question
+286,587,23,3,And what's the nature of that suit?,q,MR. CRANE,start_answer
+287,588,23,4,Okay.  I -- I fell on a trap.,a,THE WITNESS,start_question
+288,589,23,5,You -- you slipped and fell?,q,MR. CRANE,start_answer
+289,590,23,6,Right.  That's correct.,a,THE WITNESS,start_question
+290,591,23,7,Where?,q,MR. CRANE,start_answer
+291,592,23,8,At -- on a McDonald's lot --,a,THE WITNESS,start_question
+292,593,23,9,I see.,q,MR. CRANE,start_answer
+293,594,23,10,-- just last -- April before last.,a,THE WITNESS,start_question
+294,595,23,11,"You're talking about April of 2018, right?",q,MR. CRANE,start_answer
+295,596,23,12,That's correct.,a,THE WITNESS,start_question
+296,597,23,13,Where --,q,MR. CRANE,start_answer
+297,598,23,14,"Well, no.  2017.",a,THE WITNESS,start_question
+298,599,23,15,"Where was that McDonald's, sir?",q,MR. CRANE,start_answer
+299,600,23,16,"Around the corner from where I live, 58th and Baltimore Avenue.",a,THE WITNESS,start_question
+300,602,23,18,58th and Baltimore?,q,MR. CRANE,start_answer
+301,603,23,19,That's correct.,a,THE WITNESS,start_question
+302,604,23,20,All right.  And -- and what you want us to know is you presently are involved in litigation against McDonald's relative to that slip and fall?,q,MR. CRANE,start_answer
+303,607,23,23,"Not McDonald's, Dunkin' Donuts.",a,THE WITNESS,start_question
+304,608,23,24,"It was a Dunkin' Donuts, okay.  Do you have a -- who is your lawyer in that case?",q,MR. CRANE,start_answer
+305,611,24,1,My lawyer is Solomon and Sherman.,a,THE WITNESS,start_question
+306,612,24,2,Is it Dave -- is it Dave Sherman?,q,MR. CRANE,start_answer
+307,613,24,3,Uh-huh.,a,THE WITNESS,start_question
+308,614,24,4,Yeah.  I know Dave.,q,MR. CRANE,start_answer
+309,615,24,5,Yes.,a,THE WITNESS,start_question
+310,616,24,6,He's a good lawyer.,q,MR. CRANE,start_answer
+311,617,24,7,Huh?,a,THE WITNESS,start_question
+312,618,24,8,He's a good lawyer.,q,MR. CRANE,start_answer
+313,619,24,9,Thank you.,a,THE WITNESS,start_question
+314,620,24,10,"Yeah.  He's located on J.F.K., like 16th and J.F.K., right?",q,MR. CRANE,start_answer
+315,622,24,12,That's correct.,a,THE WITNESS,start_chat
+316,623,24,13,"That's J.F.K. Boulevard, okay?",side_chat,MR. CRANE,start_question
+317,625,24,15,"What was your injuries in that accident, sir, generally?",q,MR. CRANE,start_answer
+318,627,24,17,"Generally, my ankle.",a,THE WITNESS,start_question
+319,628,24,18,Which ankle?,q,MR. CRANE,start_answer
+320,629,24,19,The right ankle.  My knee and my -- and my hamstring.,a,THE WITNESS,start_question
+321,631,24,21,Right -- is this all right side?,q,MR. CRANE,start_answer
+322,632,24,22,"Yeah, all right side.",a,THE WITNESS,start_question
+323,633,24,23,Right knee and -- and right hamstring?,q,MR. CRANE,start_answer
+324,634,24,24,That's correct.,a,THE WITNESS,start_question
+325,635,24,25,"Did you have any surgery as a result of that accident, sir?",q,MR. CRANE,start_answer
+326,638,25,2,No.,a,THE WITNESS,start_question
+327,639,25,3,"As you sit here today, are you taking any kind of medications that might prevent you from understanding questions?",q,MR. CRANE,start_answer
+328,642,25,6,"I'm taking medication but it wouldn't prevent me, no.",a,THE WITNESS,start_question
+329,644,25,8,"What medications are you talking, sir?",q,MR. CRANE,start_answer
+330,645,25,9,I take a -- a pain pill.,a,THE WITNESS,start_question
+331,646,25,10,Do you know what it is?,q,MR. CRANE,start_answer
+332,647,25,11,I -- I can't recall.,a,THE WITNESS,start_question
+333,648,25,12,"That's fine.  Is there any other lawsuits that you've been involved in in your life, you know, other than child support.  We don't need to know about that or -- is there any other lawsuits you've been involved in business-wise or auto, slip and fall?",q,MR. CRANE,start_answer
+334,653,25,17,"It might have been going past the 20 years.  I -- I don't know.  I can't -- you know, I was a young man.  I get -- I was injured in an accident myself where a trolley car hit me.",a,THE WITNESS,start_question
+335,657,25,21,Do you know what -- what year that was?,q,MR. CRANE,start_answer
+336,658,25,22,"Oh, god.  All right.  That was 20 years ago, was the last accident.  And that would have had to have been 20 years before that.",a,THE WITNESS,start_question
+337,661,25,25,So maybe even as much as 40 years ago?,q,MR. CRANE,start_answer
+338,663,26,1,There you go.,a,THE WITNESS,start_question
+339,664,26,2,"Where'd that take place, in Philadelphia?",q,MR. CRANE,start_answer
+340,665,26,3,Yes.,a,THE WITNESS,start_question
+341,666,26,4,You know where -- what street?,q,MR. CRANE,start_answer
+342,667,26,5,On Lancaster Avenue.,a,THE WITNESS,start_question
+343,668,26,6,"Yeah.  That's -- those -- the trolleys are -- well, they were running then.",q,MR. CRANE,start_answer
+344,670,26,8,Right.,a,THE WITNESS,start_question
+345,671,26,9,"Actually, I think there still might be some trolleys on Lancaster Ave.",q,MR. CRANE,start_answer
+346,673,26,11,Yes.  They're still running.,a,THE WITNESS,start_question
+347,674,26,12,Yeah.  Do you -- did you bring a -- a lawsuit against -- I guess that would have been SEPTA?,q,MR. CRANE,start_answer
+348,676,26,14,Yes.,a,THE WITNESS,start_question
+349,677,26,15,I don't know if they called it SEPTA then.,q,MR. CRANE,start_answer
+350,678,26,16,"Yeah.  Well -- yeah, it was SEPTA then.",a,THE WITNESS,start_question
+351,679,26,17,Yeah?  All right.  And they have -- did you recover money damages in that --,q,MR. CRANE,start_answer
+352,681,26,19,"Yes, I did.",a,THE WITNESS,start_question
+353,682,26,20,"What -- what were your injuries in that case, sir?",q,MR. CRANE,start_answer
+354,683,26,21,"I -- that was first thought of -- of my accident, and I injured my chest and heart.",a,THE WITNESS,start_question
+355,685,26,23,You injured your chest and heart?,q,MR. CRANE,start_answer
+356,686,26,24,Yeah.,a,THE WITNESS,start_question
+357,687,26,25,"Did you have any surgery as a result of that accident, sir?",q,MR. CRANE,start_answer
+358,690,27,2,No.  No.  That's when I first learned I had an enlarged heart.,a,THE WITNESS,start_question
+359,692,27,4,That's when you first learned you had an enlarged heart?,q,MR. CRANE,start_answer
+360,694,27,6,Yes.,a,THE WITNESS,start_question
+361,695,27,7,"So maybe there was some benefit there, 'cause if you hadn't had that accident, you would not have learned that you had an enlarged heart.",q,MR. CRANE,start_answer
+362,698,27,10,That's correct.,a,THE WITNESS,start_question
+363,699,27,11,"And once you learned that you had an enlarged heart, then did you have to take medications and the like?",q,MR. CRANE,start_answer
+364,701,27,13,No.  I just had to be careful.,a,THE WITNESS,start_question
+365,702,27,14,Right.  Okay.  And you -- I think -- and do you remember the name of -- did you have an attorney relative to that case?  I know it's way back.,q,MR. CRANE,start_answer
+366,705,27,17,Sure.  Sure.,a,THE WITNESS,start_question
+367,706,27,18,"Could you -- could you possibly remember that attorney's name?  And if you can't, it's no big thing.",q,MR. CRANE,start_answer
+368,708,27,20,"Yeah.  That's a good friend of mine, Allan Jaffe.",a,THE WITNESS,start_question
+369,709,27,21,Allan Jaffe?,q,MR. CRANE,start_answer
+370,710,27,22,Yeah.,a,THE WITNESS,start_question
+371,711,27,23,Yeah.  I think he --,q,MR. CRANE,start_answer
+372,712,27,24,He's a president judge now for arbitration.,a,THE WITNESS,start_question
+373,713,27,25,He -- he's a -- he's a judge?,q,MR. CRANE,start_answer
+374,715,28,1,Yeah.,a,THE WITNESS,start_question
+375,716,28,2,"In Philadelphia, right?",q,MR. CRANE,start_answer
+376,717,28,3,"Yes, he is.",a,THE WITNESS,start_question
+377,718,28,4,"Yeah.  But I think he's a senior judge, right?",q,MR. CRANE,start_answer
+378,719,28,5,"Yes, he is.  I just talked to him about last year at this time.",a,THE WITNESS,start_question
+379,721,28,7,Yeah.,q,MR. CRANE,start_answer
+380,722,28,8,We're good friends.,a,THE WITNESS,start_question
+381,723,28,9,All right.  So is there any other accidents that you were involved in in your life?,q,MR. CRANE,start_answer
+382,725,28,11,No.,a,THE WITNESS,start_question
+383,726,28,12,Did you ever bring any Workers' Compensation claims in your life?,q,MR. CRANE,start_answer
+384,728,28,14,No.,a,THE WITNESS,start_question
+385,729,28,15,"All right.  So we're -- I'm gonna ask you about the statement that you -- that you gave, Mr. Rudd.",q,MR. CRANE,start_answer
+386,731,28,17,Yes.,a,THE WITNESS,start_question
+387,732,28,18,"And you have a copy of it in front of you, right?",q,MR. CRANE,start_answer
+388,733,28,19,"Yes, I do.",a,THE WITNESS,start_question
+389,734,28,20,Did you write this statement yourself?  I -- or -- did you write this statement yourself?,q,MR. CRANE,start_answer
+390,736,28,22,No.  It was taken over the phone by the investigator from the firm.,a,THE WITNESS,start_question
+391,738,28,24,From -- from Mr. O'Donnell's firm?,q,MR. CRANE,start_answer
+392,739,28,25,That's correct.,a,THE WITNESS,start_question
+393,741,29,1,And was -- is it your understanding that there was a recorded transcription of this statement?  Is that what you're telling us?,q,MR. CRANE,start_answer
+394,744,29,4,Yes.,a,THE WITNESS,start_question
+395,745,29,5,Do you have a copy of the recorded transcription? I mean do you have a copy of the recording?,q,MR. CRANE,start_answer
+396,747,29,7,Not of the recording.  I have the same dictation here in letter form.,a,THE WITNESS,start_question
+397,749,29,9,Understood.,q,MR. CRANE,start_answer
+398,750,29,10,Yes.,a,THE WITNESS,start_question
+399,751,29,11,"I -- obviously, we have the transcription.  This is the transcription of the recording.",q,MR. CRANE,start_answer
+400,753,29,13,Okay.  And I have that.,a,THE WITNESS,start_question
+401,754,29,14,Understood.  Do you have a copy -- but you don't have a copy of the actual audio --,q,MR. CRANE,start_answer
+402,756,29,16,"No.  No, I don't.  No, I don't.",a,THE WITNESS,start_question
+403,757,29,17,"All right.  The -- the words that are -- this is a five-page document.  Are these all your words, or are they someone else's words that you signed?",q,MR. CRANE,start_answer
+404,760,29,20,No.  These are my words.,a,THE WITNESS,start_question
+405,761,29,21,"Understood.  And the statement is dated 4/16/19. Is that the day that you gave the -- what I'm gonna call ""a recorded interview"" with an investigator?",q,MR. CRANE,start_answer
+406,764,29,24,That's correct.,a,THE WITNESS,start_question
+407,765,29,25,"Before this case occurred, did you know Mr. O'Donnell?  Mr. O'Donnell is the person seated to your right.  He represents Mr. Bassett.",q,MR. CRANE,start_answer
+408,769,30,3,No.  This is the first time I'm meeting Mr. --,a,THE WITNESS,start_question
+409,770,30,4,Today is the first day you met him?,q,MR. CRANE,start_answer
+410,771,30,5,That's correct.,a,THE WITNESS,start_question
+411,772,30,6,Have you ever spoken to Mr. O'Donnell prior to today?,q,MR. CRANE,start_answer
+412,774,30,8,No more than a day ago to find out where this place is.,a,THE WITNESS,start_question
+413,776,30,10,Right.  Just to -- to come for the dep?,q,MR. CRANE,start_answer
+414,777,30,11,Yes.,a,THE WITNESS,start_question
+415,778,30,12,"All right.  Have you ever spoke -- did you speak to Mr. Bassett prior to coming to this deposition, sir?",q,MR. CRANE,start_answer
+416,780,30,14,Yeah.  I just spoke with him last evening.,a,THE WITNESS,start_question
+417,781,30,15,Last evening.  And -- and can you tell us what was stated between you and him.,q,MR. CRANE,start_answer
+418,783,30,17,"Well, he's still going through pain and discomfort tremendously now.",a,THE WITNESS,start_question
+419,785,30,19,You're talking about in his right foot?,q,MR. CRANE,start_answer
+420,786,30,20,His right foot and -- and his back.  He's complaining of the back injury.,a,THE WITNESS,start_question
+421,788,30,22,He -- he says he has a back injury from this accident too?,q,MR. CRANE,start_answer
+422,790,30,24,"He's alluding to that, yes.",a,THE WITNESS,start_question
+423,791,30,25,"Understood.  Well, what I'm trying to get to is the -- did Mr. Bassett attempt to control any of the testimony you were gonna give today?",q,MR. CRANE,start_answer
+424,795,31,3,No.,a,THE WITNESS,start_question
+425,796,31,4,"No, okay.  All right.  So looking at the statement, it has your address, 5845 Ellsworth Street.  That's your current address, right?",q,MR. CRANE,start_answer
+426,799,31,7,That's correct.,a,THE WITNESS,start_question
+427,800,31,8,You've known Mr. Bassett for approximately 14 years?,q,MR. CRANE,start_answer
+428,802,31,10,That's correct.,a,THE WITNESS,start_question
+429,803,31,11,"And you know him through his brother, Omar?",q,MR. CRANE,start_answer
+430,804,31,12,That's correct.,a,THE WITNESS,start_question
+431,805,31,13,"What was the relationship with Omar, Omar Bassett?",q,MR. CRANE,start_answer
+432,806,31,14,"Yeah.  Omar Bassett moved here -- maybe about 16 years ago, he moved to Philadelphia.",a,THE WITNESS,start_question
+433,808,31,16,Yes.,q,MR. CRANE,start_answer
+434,809,31,17,"And we -- we became acquaintance.  And later, we became good friends.",a,THE WITNESS,start_question
+435,811,31,19,"And through Omar, you -- you got to meet Marvin?",q,MR. CRANE,start_answer
+436,812,31,20,That's correct.,a,THE WITNESS,start_question
+437,813,31,21,"All right.  Who -- who is older, Omar or Marvin?",q,MR. CRANE,start_answer
+438,814,31,22,Marvin is -- Omar is older.,a,THE WITNESS,start_question
+439,815,31,23,"And then apparently, unfortunately, Omar passed away?",q,MR. CRANE,start_answer
+440,817,31,25,That's correct.,a,THE WITNESS,start_question
+441,819,32,1,Do you know what the cause of death was?,q,MR. CRANE,start_answer
+442,820,32,2,Cause of death was diabetes.,a,THE WITNESS,start_question
+443,821,32,3,"And subsequent to the death of Omar Bassett, you became even more friendly with Marvin Bassett.  Is that true?",q,MR. CRANE,start_answer
+444,824,32,6,"Right after that, yes.",a,THE WITNESS,start_question
+445,825,32,7,"Yeah.  And you indicated that Marvin came to you for moral support following the death of his brother, Omar?",q,MR. CRANE,start_answer
+446,828,32,10,Uh-huh.,a,THE WITNESS,start_question
+447,829,32,11,"All right.  And so what you indicated here is Marvin would come to see you in Philadelphia, spend the day together?",q,MR. CRANE,start_answer
+448,832,32,14,That's correct.,a,THE WITNESS,start_question
+449,833,32,15,"Before Mr. -- before Omar died, did you have any interaction with Marvin, or he was just a brother of one of your friends?",q,MR. CRANE,start_answer
+450,836,32,18,"Well, when I met Marvin through his brother, me and his brother was avid weightlifting.  I was making my recovery as to the stroke, and we teamed up in the gym, and we became avid weightlifters.",a,THE WITNESS,start_question
+451,840,32,22,"But is it -- who's ""we""?  You and who?",q,MR. CRANE,start_answer
+452,841,32,23,"Me and his brother, Omar.",a,THE WITNESS,start_question
+453,842,32,24,"I see.  Okay.  So Omar passes, and then you develop a relationship with Marvin?",q,MR. CRANE,start_answer
+454,845,33,1,That's correct.,a,THE WITNESS,start_question
+455,846,33,2,And you indicated Marvin would come to see you in Philadelphia and would spend the entire day?,q,MR. CRANE,start_answer
+456,848,33,4,Uh-huh.,a,THE WITNESS,start_question
+457,849,33,5,From his -- do you know where he lives?,q,MR. CRANE,start_answer
+458,850,33,6,Do I know where --,a,THE WITNESS,start_question
+459,851,33,7,"He -- Marvin lived in -- lives in Kingston, Pennsylvania?",q,MR. CRANE,start_answer
+460,853,33,9,That's correct.,a,THE WITNESS,start_question
+461,854,33,10,Have you ever been to Marvin's home in Kingston?,q,MR. CRANE,start_answer
+462,855,33,11,"No, I haven't.",a,THE WITNESS,start_question
+463,856,33,12,"No?  So when -- whenever you would have interaction with Marvin, he would come here to Philadelphia and --",q,MR. CRANE,start_answer
+464,858,33,14,Sure.,a,THE WITNESS,start_question
+465,859,33,15,"-- visit you, right?",q,MR. CRANE,start_answer
+466,860,33,16,"Yes.  He was lamenting over the death of his brother.  It was quite shocking to him.  And our -- our friendship had just start to -- to build.  And so he came looking to -- for -- to -- for me to ask more about his brother and what was the actual causes. 'Cause Marvin had separated from his wife and got into the streets.  It was drug use.  And the girlfriend that he was going with used drugs, so it was coupled with the drugs and the -- the diabetes.  And far as I'm concerned, Omar couldn't face the reality of being -- have to depending on the medication with the diabetes.  So he, you know, being an athlete -- and he was actually a serviceman, the Navy SEALs, so he couldn't fathom with that. And I learned late that he was going through this.  And then, he started to deal with the drugs, and so that put us at a loss.  He hid the drugs, and the diabetes caught up with him.  And so painstakingly, it was a result of a bad cause of death.",a,THE WITNESS,start_question
+467,880,34,10,Understood.  And we -- we appreciate that information.,q,MR. CRANE,start_answer
+468,882,34,12,Sure.,a,THE WITNESS,start_question
+469,883,34,13,And -- and that's good background information. Our -- our main concern is your -- your connection and --,q,MR. CRANE,start_answer
+470,885,34,15,Sure.,a,THE WITNESS,start_question
+471,886,34,16,"-- and your interaction with Marvin.  Although, that's a good -- you just did give us some good background there. What you want us to know is Marvin Bassett, after his brother died, he would -- he would come to Philadelphia and spend the day with you?",q,MR. CRANE,start_answer
+472,892,34,22,Yes.,a,THE WITNESS,start_question
+473,893,34,23,"Would he ever spend the night at your house, or would he just drive back to Kingston?",q,MR. CRANE,start_answer
+474,895,34,25,He would go back to Kingston.,a,THE WITNESS,start_question
+475,897,35,1,Did he drive to Philadelphia when he came to see you?,q,MR. CRANE,start_answer
+476,899,35,3,Some of the time.,a,THE WITNESS,start_question
+477,900,35,4,"How else would he get there, you know?  Or -- he had public transit?",q,MR. CRANE,start_answer
+478,902,35,6,"I'm not sure.  But most of the time, he drove.",a,THE WITNESS,start_question
+479,903,35,7,"Yeah.  I mean 'cause from -- from Kingston so your address, that's at least a two-hour drive.",q,MR. CRANE,start_answer
+480,905,35,9,Sure it is.,a,THE WITNESS,start_question
+481,906,35,10,"You know, that's up in Luzerne County, right near Wilkes-Barre, you know?",q,MR. CRANE,start_answer
+482,908,35,12,"Yes.  And I made the statement in the transcript here that he would leave late at night from my home because traffic was light.  And he -- and he would be able to, in his condition, put on cruise control, drive with his left foot, and -- and get on -- and we would actually monitor each other's -- in a conversation through phone while he's riding in the --",a,THE WITNESS,start_question
+483,915,35,19,Understood.  And you -- and you did indicate that in your statement.  And what you're telling us here in the statement is Marvin would come to Philadelphia after the death of his -- of -- excuse me. MR. O'DONNELL:  Is that your call?,q,MR. CRANE,start_chat
+484,920,35,24,"No, not yet.  I just want to keep going.",side_chat,MR. CRANE,start_question
+485,924,36,2,"You -- you -- you did indicate after the death of Marvin -- after the death of Omar, Marvin would come to see you every three months or so?",q,MR. CRANE,start_answer
+486,927,36,5,That's correct.,a,THE WITNESS,start_question
+487,928,36,6,And you -- you became friends?,q,MR. CRANE,start_answer
+488,929,36,7,"Yes, we did.",a,THE WITNESS,start_question
+489,930,36,8,And you would also speak to him over the phone?,q,MR. CRANE,start_answer
+490,931,36,9,Yes.,a,THE WITNESS,start_question
+491,932,36,10,"All right.  Now, before this accident that brings us here today -- are you aware of the date of the accident that brings us here today?",q,MR. CRANE,start_answer
+492,935,36,13,"I -- I can't really call, but I knew it was -- I'm looking at the month of April.",a,THE WITNESS,start_question
+493,937,36,15,Okay.,q,MR. CRANE,start_answer
+494,938,36,16,You know?,a,THE WITNESS,start_question
+495,939,36,17,"Well -- well, let me just -- let me help you out. And this is not a test.",q,MR. CRANE,start_answer
+496,941,36,19,Sure.,a,THE WITNESS,start_question
+497,942,36,20,"Mr. Bassett got injured on February 27, 2018, all right?  And so really the question I have is:  Before 2/27/18 -- and you've indicated in here you -- Marvin was very active.  Is that what you want us to know?",q,MR. CRANE,start_answer
+498,946,36,24,That's correct.,a,THE WITNESS,start_question
+499,947,36,25,"And what -- when you say ""very active,"" what does that mean?  What would he do?",q,MR. CRANE,start_answer
+500,950,37,2,"Well, he took up after his brother.  His brother introduced him to me and let him know that we're buddies and we're also into fitness training, weightlifting, jogging, things like that. So he -- again, looking back, Marvin would you say, ""Wait 'til you meet my younger brother.  He's just like me,"" you know?  And we were gym rats, you know? We just go at it.  We work hard.",a,THE WITNESS,start_question
+501,958,37,10,Where -- what gyms -- what gym would you go to?,q,MR. CRANE,start_answer
+502,959,37,11,I would go to the YMCA.,a,THE WITNESS,start_question
+503,960,37,12,Which one?,q,MR. CRANE,start_answer
+504,961,37,13,52nd and Sansom.,a,THE WITNESS,start_question
+505,962,37,14,Yes.,q,MR. CRANE,start_answer
+506,963,37,15,"We also, at that time, me and Marvin, we went somewhere in South Philly at a gym.",a,THE WITNESS,start_question
+507,965,37,17,Do you know the name of that gym?,q,MR. CRANE,start_answer
+508,966,37,18,I can't recall it now.,a,THE WITNESS,start_question
+509,967,37,19,"And when you and Marvin would go to these gyms -- remember, we're -- we're talking about before the accident now --",q,MR. CRANE,start_answer
+510,970,37,22,Uh-huh.,a,THE WITNESS,start_question
+511,971,37,23,"-- what would he do, physically do?",q,MR. CRANE,start_answer
+512,972,37,24,"Well, again, I'm talking about his brother.",a,THE WITNESS,start_question
+513,973,37,25,Omar.,q,MR. CRANE,start_answer
+514,975,38,1,Omar.,a,THE WITNESS,start_question
+515,976,38,2,So let me stop you for a second.  I -- maybe I confused -- I confused you.  Did you go to this gym in South Philadelphia with Marvin?,q,MR. CRANE,start_answer
+516,979,38,5,"No.  I went to with Omar.  But I was alleviating (sic) to that when Marvin comes on the scene, Omar tells me that his brother also fitness trained.  And so when we started to get together our friendship, we continued on with fitness training with Marvin because of his --",a,THE WITNESS,start_question
+517,984,38,10,Understood.,q,MR. CRANE,start_answer
+518,985,38,11,-- introduction to me at that time from his brother.,a,THE WITNESS,start_question
+519,987,38,13,Understood.,q,MR. CRANE,start_answer
+520,988,38,14,So...,a,THE WITNESS,start_question
+521,989,38,15,And where would you and Marvin do fitness training?,q,MR. CRANE,start_answer
+522,990,38,16,Okay.  The YMCA.,a,THE WITNESS,start_question
+523,991,38,17,The YMCA at 52nd and Sansom?,q,MR. CRANE,start_answer
+524,992,38,18,That's correct.,a,THE WITNESS,start_question
+525,993,38,19,Any other location?,q,MR. CRANE,start_answer
+526,994,38,20,Most of our stuff was outside training.,a,THE WITNESS,start_question
+527,995,38,21,Outside such as -- what would you do --,q,MR. CRANE,start_answer
+528,996,38,22,And we would -- we would go in the park.,a,THE WITNESS,start_question
+529,997,38,23,You're talking about in Fairmount Park?,q,MR. CRANE,start_answer
+530,998,38,24,Fairmount Park.  I would take him around the drive. Me and Omar used to ride the drive.,a,THE WITNESS,start_question
+531,1001,39,1,Yes.,q,MR. CRANE,start_answer
+532,1002,39,2,I mean work out on the drive.  And we -- it was a lot of outside training.,a,THE WITNESS,start_question
+533,1004,39,4,Yeah.  You're talking about running?,q,MR. CRANE,start_answer
+534,1005,39,5,"Running, jogging.",a,THE WITNESS,start_question
+535,1006,39,6,Yes.,q,MR. CRANE,start_answer
+536,1007,39,7,Where you have pull-up bars out there.,a,THE WITNESS,start_question
+537,1008,39,8,"Yes.  All along at different spots, you stop --",q,MR. CRANE,start_answer
+538,1009,39,9,Sure.,a,THE WITNESS,start_question
+539,1010,39,10,-- and there's a -- there's an exercise spot?,q,MR. CRANE,start_answer
+540,1011,39,11,Yeah.  We were doing that type of thing.  Yeah.,a,THE WITNESS,start_question
+541,1012,39,12,Right.  Okay.  And you would do that with Marvin before the accident?,q,MR. CRANE,start_answer
+542,1014,39,14,"Before the accident, that's correct.",a,THE WITNESS,start_question
+543,1015,39,15,"And so before the accident of February 27, 2018, how often would you say you worked out with Marvin?",q,MR. CRANE,start_answer
+544,1017,39,17,"Well, when he came to -- when he --",a,THE WITNESS,start_question
+545,1018,39,18,When he came to Philadelphia?,q,MR. CRANE,start_answer
+546,1019,39,19,We would also -- we would do outside activity --,a,THE WITNESS,start_question
+547,1020,39,20,I understand.,q,MR. CRANE,start_answer
+548,1021,39,21,"-- running, jogging, biking, stuff like that.",a,THE WITNESS,start_question
+549,1022,39,22,And what you want us to know:  He would come -- he -- Marvin would come maybe every three months and visit you in Philadelphia?,q,MR. CRANE,start_answer
+550,1025,39,25,That's correct.,a,THE WITNESS,start_question
+551,1027,40,1,"And when he -- when he would come, how -- for example, how much distance would you and he run, you and Marvin run?  Could you give us a range that he was able to run?",q,MR. CRANE,start_answer
+552,1031,40,5,Yeah.  At least two miles.,a,THE WITNESS,start_question
+553,1032,40,6,"The purpose of all these questions, just so you know, Mr. Rudd, is I -- I want -- we want to find out what you can tell us about the physical conditioning of Marvin before the accident.  And then we're gonna ask you about the physical conditioning of Marvin after the accident that might have been diminished due to the accident.  This is the essential reason why you're here as a witness.",q,MR. CRANE,start_answer
+554,1039,40,13,I understand.,a,THE WITNESS,start_question
+555,1040,40,14,"So that's -- I'm trying to extract some details from you relative to the training, and you just gave us some details relative to running.",q,MR. CRANE,start_answer
+556,1043,40,17,Right.,a,THE WITNESS,start_question
+557,1044,40,18,"You -- whenever Marvin would come to visit you in Philadelphia, you would -- you would run at least two miles up in Fairmount Park.",q,MR. CRANE,start_answer
+558,1047,40,21,Sure.,a,THE WITNESS,start_question
+559,1048,40,22,"And then, you would stop and work out at the workout spots.",q,MR. CRANE,start_answer
+560,1050,40,24,Uh-huh.,a,THE WITNESS,start_question
+561,1051,40,25,"I think you can do sit-ups, right?  You can do pull-ups.",q,MR. CRANE,start_answer
+562,1054,41,2,You can do everything there.,a,THE WITNESS,start_question
+563,1055,41,3,"Well, you can't lift weights out there.",q,MR. CRANE,start_answer
+564,1056,41,4,No.,a,THE WITNESS,start_question
+565,1057,41,5,No.  But --,q,MR. CRANE,start_answer
+566,1058,41,6,"But with -- sometimes, we -- I did have weights in the car though.",a,THE WITNESS,start_question
+567,1060,41,8,"Understood.  But then, when you would go to the YMCA, you and Marvin, at the 52nd and Sansom, what would you do there when he would come?",q,MR. CRANE,start_answer
+568,1063,41,11,"There, it was more or less, what? light training, like light weight training.",a,THE WITNESS,start_question
+569,1065,41,13,Light weight training?,q,MR. CRANE,start_answer
+570,1066,41,14,Uh-huh.,a,THE WITNESS,start_question
+571,1067,41,15,All right.  Would you -- would you happen to be able to estimate the weight of Marvin before the accident?,q,MR. CRANE,start_answer
+572,1069,41,17,His weight?,a,THE WITNESS,start_question
+573,1070,41,18,"His weight, yeah, before the accident.  If you don't -- if you don't know, that's fine.  And if you're gonna guess, we really would rather not hear it; but if you can reasonably estimate, we'd like to hear that.",q,MR. CRANE,start_answer
+574,1074,41,22,I would estimate 150 pounds.,a,THE WITNESS,start_question
+575,1075,41,23,"A hundred and fifty pounds.  And then, after the accident occurred, did you -- did you notice any kind of weight gain on Marvin?",q,MR. CRANE,start_answer
+576,1079,42,1,"Not gained, but lost.",a,THE WITNESS,start_question
+577,1080,42,2,He lost weight?,q,MR. CRANE,start_answer
+578,1081,42,3,Yes.,a,THE WITNESS,start_question
+579,1082,42,4,Why -- why do you -- why do you think he lost weight?,q,MR. CRANE,start_answer
+580,1084,42,6,I don't know.,a,THE WITNESS,start_question
+581,1085,42,7,You don't know?,q,MR. CRANE,start_answer
+582,1086,42,8,I couldn't answer that.,a,THE WITNESS,start_question
+583,1087,42,9,Do you have any information or knowledge that Marvin might have used some drugs or anything of that nature?,q,MR. CRANE,start_answer
+584,1090,42,12,No.,a,THE WITNESS,start_question
+585,1091,42,13,Do you have any information at any time that Marvin had ever been convicted of a crime of dishonesty?,q,MR. CRANE,start_answer
+586,1093,42,15,Not to -- to my knowledge.,a,THE WITNESS,start_question
+587,1094,42,16,Right.,q,MR. CRANE,start_answer
+588,1095,42,17,Can I be excused?  I need to go to the bathroom.,a,THE WITNESS,start_chat
+589,1096,42,18,Absolutely.,side_chat,MR. CRANE,is brackets
+590,1097,42,19,(Recess was taken from 10:46 a.m. to 10:51 a.m.),brackets,,start_chat
+591,1099,42,21,What was the -- what was the last area of inquiry?,side_chat,MR. CRANE,is brackets
+592,1101,42,23,(The court reporter read back the record as requested.),brackets,,start_question
+593,1105,43,1,"You -- I'm just going down through your statement, Mr. Rudd.  You've indicated you -- you thought that Marvin was athletic before the accident?",q,MR. CRANE,start_answer
+594,1108,43,4,Of course.,a,THE WITNESS,start_question
+595,1109,43,5,"And you -- and you just gave us some information in that regard, but let me inquire a little further.  When you say ""athletic,"" do you have any information or knowledge that Marvin was -- was involved in any professional athletics or -- or college or high school? What do you know about his athletic abilities other than what you've told us regarding his working -- working out with you?",q,MR. CRANE,start_answer
+596,1117,43,13,"No, just from me observing him.",a,THE WITNESS,start_question
+597,1118,43,14,"Okay.  All right.  And you indicated you would park the car and just begin to walk, I guess, around Philadelphia.  You would do sightseeing with him?",q,MR. CRANE,start_answer
+598,1121,43,17,Uh-huh.,a,THE WITNESS,start_question
+599,1122,43,18,"And before the accident that brings us here today, did Marvin have any trouble walking?",q,MR. CRANE,start_answer
+600,1124,43,20,"Oh, definitely so.",a,THE WITNESS,start_question
+601,1125,43,21,"He had trouble walking before -- now, remember, listen.  Before the accident.",q,MR. CRANE,start_answer
+602,1127,43,23,No.  No.  No.  I'm sorry.,a,THE WITNESS,start_question
+603,1128,43,24,"That's all right.  And before the 2/27/18 accident, what you want us to know is Marvin had no trouble walking, correct?",q,MR. CRANE,start_answer
+604,1132,44,2,Before that?,a,THE WITNESS,start_question
+605,1133,44,3,Before the accident.,q,MR. CRANE,start_answer
+606,1134,44,4,That's correct.,a,THE WITNESS,start_question
+607,1135,44,5,And Marvin had no trouble running before the accident?,q,MR. CRANE,start_answer
+608,1137,44,7,Yes.  Yes.,a,THE WITNESS,start_question
+609,1138,44,8,"Now, you were -- you were -- you were able to tell us your first-hand observations when Marvin would come to Philadelphia a couple times a year, maybe four or five times a year.  Do you have any information of what Marvin would do when he was at his home in Kingston, what his workout regimen was -- was before the accident?  Do you have any information in that regard or no?",q,MR. CRANE,start_answer
+610,1145,44,15,Yes.,a,THE WITNESS,start_question
+611,1146,44,16,What would he tell you?,q,MR. CRANE,start_answer
+612,1147,44,17,He would tell me he would run.  He's always stayed active.  He told me he would ride his bike also.,a,THE WITNESS,start_question
+613,1149,44,19,Would he ever tell you how far he would ride his bike?,q,MR. CRANE,start_answer
+614,1151,44,21,He would say like sometimes he'd do a mile or five miles.,a,THE WITNESS,start_question
+615,1153,44,23,"Right.  And how about how far would he run?  Not when you were watching him, you know, when he came to Philadelphia, but in Kingston up in Luzerne County, do you know?",q,MR. CRANE,start_answer
+616,1158,45,2,No.,a,THE WITNESS,start_question
+617,1159,45,3,But he did tell you he would do running?,q,MR. CRANE,start_answer
+618,1160,45,4,Uh-huh.,a,THE WITNESS,start_question
+619,1161,45,5,"Did he lift weights or anything of that nature when he was up in Kingston, if you know?",q,MR. CRANE,start_answer
+620,1163,45,7,I wouldn't -- I wouldn't know.,a,THE WITNESS,start_question
+621,1164,45,8,You wouldn't know that?  Do you know if he was --,q,MR. CRANE,start_answer
+622,1165,45,9,"But, I think, in passing, he would say, ""I'm just like my brother.  I lift weights.  I jog.""  So it was believable because when we were together, we did a continuation of what his brother did.",a,THE WITNESS,start_question
+623,1169,45,13,Right.,q,MR. CRANE,start_answer
+624,1170,45,14,And we also did --,a,THE WITNESS,start_question
+625,1171,45,15,"Well, and that would make perfect sense.  I mean it -- you know, you're giving us some information:  He would come down and visit you once every three months or so.  And -- and that creates the inference that he can -- he works out at his home.",q,MR. CRANE,start_answer
+626,1176,45,20,Sure.  He was just --,a,THE WITNESS,start_question
+627,1177,45,21,And I --,q,MR. CRANE,start_answer
+628,1178,45,22,"Sure.  He was just like his brother, spitting image of his brother.  The younger brother -- you know the younger brother always try to implement the things that his older brother would do.",a,THE WITNESS,start_question
+629,1183,46,1,"Understood.  And -- and that's a reasonable inference.  And I was just trying to extract any details that you might have in that regard relative to activities that Marvin would do in his home.  And you've given us some information.  But you -- what you do want us to know is you -- you were never -- you never visited Marvin in his home in Kingston, PA; is that correct?",q,MR. CRANE,start_answer
+630,1190,46,8,"Yeah.  Because we -- we were going to get to that point, but, again, the accident caused that --",a,THE WITNESS,start_question
+631,1192,46,10,All right.,q,MR. CRANE,start_answer
+632,1193,46,11,-- aspect of our living --,a,THE WITNESS,start_question
+633,1194,46,12,Do you know if Marvin was married?,q,MR. CRANE,start_answer
+634,1195,46,13,"No, he's not married.",a,THE WITNESS,start_question
+635,1196,46,14,"Did he have any kids, do you know?",q,MR. CRANE,start_answer
+636,1197,46,15,"Not that I know, no.",a,THE WITNESS,start_question
+637,1198,46,16,Is it your understanding that he lived alone in Kingston?,q,MR. CRANE,start_answer
+638,1200,46,18,That's correct.,a,THE WITNESS,start_question
+639,1201,46,19,And when you would -- you -- you gave us some information about when Marvin would come here before the accident and run at Fairmount Park.  And you said you would run a couple miles.,q,MR. CRANE,start_answer
+640,1205,46,23,Uh-huh.,a,THE WITNESS,start_question
+641,1206,46,24,"When -- when you were walking around town in Philadelphia, sightseeing and so forth, how far would you think you would walk when he would come?",q,MR. CRANE,start_answer
+642,1210,47,2,"We have outdoors events, like I said.  If he came down early in the day, we -- we would hit Fairmount Park and do -- like I said, do the circle --",a,THE WITNESS,start_question
+643,1213,47,5,Yes.,q,MR. CRANE,start_answer
+644,1214,47,6,-- around Lincoln Drive --,a,THE WITNESS,start_question
+645,1215,47,7,Yes.,q,MR. CRANE,start_answer
+646,1216,47,8,"-- and exercise like that, run, jog.  And we -- for our cool-down period, we would get back in the car, go in town and walk.  We went South Street --",a,THE WITNESS,start_question
+647,1219,47,11,Yes.,q,MR. CRANE,start_answer
+648,1220,47,12,-- Penn's landing --,a,THE WITNESS,start_question
+649,1221,47,13,Yes.,q,MR. CRANE,start_answer
+650,1222,47,14,-- around the art museum --,a,THE WITNESS,start_question
+651,1223,47,15,Yes.,q,MR. CRANE,start_answer
+652,1224,47,16,"-- places like that, more outdoorsy stuff, moving, you know, and doing things.",a,THE WITNESS,start_question
+653,1226,47,18,Yes.  Okay.  Then there came -- you also pointed out that Marvin loved cars.,q,MR. CRANE,start_answer
+654,1228,47,20,He loves cars.,a,THE WITNESS,start_question
+655,1229,47,21,"And so before the accident, he -- would he work on cars?  Did -- what did he do?  Did he build engines?  What is your knowledge in that regard?",q,MR. CRANE,start_answer
+656,1232,47,24,He can do everything with a car.,a,THE WITNESS,start_question
+657,1233,47,25,Did you ever see him do things on a car?,q,MR. CRANE,start_answer
+658,1235,48,1,Sure.,a,THE WITNESS,start_question
+659,1236,48,2,What did you see?,q,MR. CRANE,start_answer
+660,1237,48,3,"Well, every time I seen him, he had the hood up. He would stop and pull over to the side, flip the hood up, and doing something.  ""Oh, I got to fix this and this here.  This is not acting like"" -- everything. I don't care what it was.  If the -- if the tailpipe had a little tinge on it, he would get under there and fix it right -- ""Oh, I can fix this in two minutes.  Give me two minutes.""  Or ""I don't like to hear this on my car,"" anything with his car.  His brother was the same way.",a,THE WITNESS,start_question
+661,1247,48,13,"Understood.  Did -- did Marvin own a number of cars, as far as you know, or not?",q,MR. CRANE,start_answer
+662,1249,48,15,I think he had a number of cars.,a,THE WITNESS,start_question
+663,1250,48,16,"When Marvin would drive down to Philadelphia to see you, do you recall what kind of cars he would drive?  Can you give us the names or types of cars that he would drive?",q,MR. CRANE,start_answer
+664,1254,48,20,"He had a -- a Lincoln, going back.  I don't -- I seen that maybe one time.",a,THE WITNESS,start_question
+665,1256,48,22,"Was that a big sedan, a four-door sedan?",q,MR. CRANE,start_answer
+666,1257,48,23,It might have been a two-door.,a,THE WITNESS,start_question
+667,1258,48,24,"Two-door, right.  Okay.",q,MR. CRANE,start_answer
+668,1259,48,25,"And then, he had a little -- I think he had a Toyota.",a,THE WITNESS,start_question
+669,1262,49,2,A Toyota?,q,MR. CRANE,start_answer
+670,1263,49,3,"It was a little, red car.",a,THE WITNESS,start_question
+671,1264,49,4,Yeah.,q,MR. CRANE,start_answer
+672,1265,49,5,And he would fix everything.  It ran smoothly.,a,THE WITNESS,start_question
+673,1266,49,6,"Do you know if he ever fixed cars for other people, or did he just fix his own car?",q,MR. CRANE,start_answer
+674,1268,49,8,He fixed other cars for other people.,a,THE WITNESS,start_question
+675,1269,49,9,"Do -- did he ever do that to make money, earning -- fixing cars, if you know?",q,MR. CRANE,start_answer
+676,1271,49,11,"Well, not professionally, just helping out and helping a friend out.  And sometimes he would go around the mechanics that would need his assistance, and -- and they work things out together.",a,THE WITNESS,start_question
+677,1275,49,15,"Understood.  And so after this accident, after 2/27/18, do you have any information or knowledge as to how this accident affected Mr. Marvin, how it affected his ability to work on vehicles or --",q,MR. CRANE,start_answer
+678,1279,49,19,"Oh, tremendously.",a,THE WITNESS,start_question
+679,1280,49,20,What -- what were the details?  What -- what do you mean by that?,q,MR. CRANE,start_answer
+680,1282,49,22,"Well, as I said in the statement, he would work on the car from bumper to bumper.",a,THE WITNESS,start_question
+681,1284,49,24,Yes.,q,MR. CRANE,start_answer
+682,1285,49,25,"Now, the -- the things that he would like to do -- matter fact, I -- I recall one time, I had a '89 Cadillac.",a,THE WITNESS,start_question
+683,1288,50,2,1989 Cadillac?,q,MR. CRANE,start_answer
+684,1289,50,3,"Yeah.  And the -- the engine was overheating.  And with that year, the -- the manifold block had a seal on it.  And those things would break, you know, bust if you didn't get the right type of fluid or just mundanely.  It was just the cars that -- it was actually a defect, as I'm -- I'm concerned. But he would tell me that he could go in there if I brought the car -- get it towed up there, he would be able to fix that.",a,THE WITNESS,start_question
+685,1298,50,12,Right.,q,MR. CRANE,start_answer
+686,1299,50,13,"I said, ""I don't want to put that much money into an old car like that.""  And -- and some mechanics could do it.  They're worth they weight when they do something like that --",a,THE WITNESS,start_question
+687,1303,50,17,Yes.,q,MR. CRANE,start_answer
+688,1304,50,18,-- put a seal in from a --,a,THE WITNESS,start_question
+689,1305,50,19,Yeah.,q,MR. CRANE,start_answer
+690,1306,50,20,-- an engine.  So he was willing to do that.,a,THE WITNESS,start_question
+691,1307,50,21,"Well, what you want us to know is that before the accident, part of Marvin's joy in life was to repair cars?",q,MR. CRANE,start_answer
+692,1309,50,23,Still -- still is.,a,THE WITNESS,start_question
+693,1310,50,24,"And so even after the accident, he still repair car -- he still --",q,MR. CRANE,start_answer
+694,1313,51,1,"No, he doesn't do it.  But I'm saying his love of -- of cars -- he still talk to -- I just talked to him last night.  He was telling me about fixing a car.  He can't even get out of bed.",a,THE WITNESS,start_question
+695,1317,51,5,"So what you want us to know:  He still loves cars, but he's not able to fix those cars anymore as a result of this accident?  Is that what you're --",q,MR. CRANE,start_answer
+696,1320,51,8,That's -- that's his old dream.,a,THE WITNESS,start_question
+697,1321,51,9,"Is -- is -- is, as far as you know, Mr. Marvin's inability to or -- or incapability to work on cars a result of this accident?",q,MR. CRANE,start_answer
+698,1324,51,12,That's correct.,a,THE WITNESS,start_question
+699,1325,51,13,All right.  And has Mr. -- has Marvin told you that he's been unable to work on cars since the accident?,q,MR. CRANE,start_answer
+700,1327,51,15,Every time I talk to him.,a,THE WITNESS,start_question
+701,1328,51,16,All right.  There apparently was a period of time that Marvin walked with crutches?,q,MR. CRANE,start_answer
+702,1330,51,18,Uh-huh.,a,THE WITNESS,start_question
+703,1331,51,19,Do -- did you ever see him walking with crutches?,q,MR. CRANE,start_answer
+704,1332,51,20,Yes.,a,THE WITNESS,start_question
+705,1333,51,21,"So what you want us to know is when Marvin would come and visit you, he would have crutches and would be walking around on crutches; is that right?",q,MR. CRANE,start_answer
+706,1336,51,24,"Yeah.  The first time I seen Marvin, he told me about the accident.  That's why I alluded to April --",a,THE WITNESS,start_question
+707,1339,52,1,Right.,q,MR. CRANE,start_answer
+708,1340,52,2,"-- because I think he had some injury.  He said, ""Bob, I've been in an accident.""",a,THE WITNESS,start_question
+709,1342,52,4,Right.,q,MR. CRANE,start_answer
+710,1343,52,5,"So when I see him in April and he -- I -- I live three blocks from the corner.  When he turned that corner with a crutch under his arm, I said, ""Oh my god.""",a,THE WITNESS,start_question
+711,1346,52,8,I see what you're saying.,q,MR. CRANE,start_answer
+712,1347,52,9,You know?,a,THE WITNESS,start_question
+713,1348,52,10,"What you -- what you've just told us is this accident happened in February of '18; and then in maybe of April of '18, he came to visit you in Philadelphia, and you saw him with crutches?",q,MR. CRANE,start_answer
+714,1352,52,14,That's correct.,a,THE WITNESS,start_question
+715,1353,52,15,And -- and -- and is that -- and that's when you first learned or you first -- that's the first time you saw Marvin subsequent to the accident?,q,MR. CRANE,start_answer
+716,1356,52,18,"Yeah, at that -- yeah.  Sure.",a,THE WITNESS,start_question
+717,1357,52,19,"How many times do you think you've seen him in total -- since 2/27/18, Mr. Rudd, how many times do you think you have physically seen Mr. Bassett?  An estimate, range.",q,MR. CRANE,start_answer
+718,1361,52,23,I would say approximately about 20 times.,a,THE WITNESS,start_question
+719,1362,52,24,"Twenty times, okay.  And all of those times are in Philadelphia, right?",q,MR. CRANE,start_answer
+720,1365,53,1,"Yeah.  Matter fact, I went through the whole course of him with the accident, walking -- you know, going with him to the doctors --",a,THE WITNESS,start_question
+721,1368,53,4,Okay.  What --,q,MR. CRANE,start_answer
+722,1369,53,5,-- going with him to the supermarket.  I really lived the life that he wanted to live at that time.,a,THE WITNESS,start_question
+723,1371,53,7,"Well, I'll ask you about that.  I have some questions, and it might be other questions.",q,MR. CRANE,start_answer
+724,1373,53,9,Sure.,a,THE WITNESS,start_question
+725,1374,53,10,We'll -- we'll ask you about what your knowledge is of his treatment and so forth.  I just want to just finish up with this statement.,q,MR. CRANE,start_answer
+726,1377,53,13,No problem.,a,THE WITNESS,start_question
+727,1378,53,14,Okay?  I'm just -- you can see I'm just reading down through the statement.,q,MR. CRANE,start_answer
+728,1380,53,16,Yeah.  Sure.  Sure.,a,THE WITNESS,start_question
+729,1381,53,17,"And I almost got to the part where you first saw him where -- using crutches and that when Marvin comes to visit you, you have to help raise his right foot?",q,MR. CRANE,start_answer
+730,1384,53,20,That's correct.,a,THE WITNESS,start_question
+731,1385,53,21,"Right.  That's -- you know, that -- you understand that he broke his right toe in this accident?",q,MR. CRANE,start_answer
+732,1387,53,23,Uh-huh.,a,THE WITNESS,start_question
+733,1388,53,24,Yeah.,q,MR. CRANE,start_answer
+734,1389,53,25,I think so.,a,THE WITNESS,start_question
+735,1391,54,1,And you were -- you were aware that Mr. -- that he did have surgery?,q,MR. CRANE,start_answer
+736,1393,54,3,Yes.,a,THE WITNESS,start_question
+737,1394,54,4,All right.  I think the surgery was on 8/1/18.,q,MR. CRANE,start_answer
+738,1395,54,5,Okay.,a,THE WITNESS,start_question
+739,1396,54,6,"And I'll ask you about your knowledge about the injury and so forth.  There's a statement in here, though, that you indicate that Marvin fears that he will be permanently crippled.  Did he tell you that?  What did he tell you?",q,MR. CRANE,start_answer
+740,1401,54,11,"Yes.  He -- he -- he told me what the doctor said, and I was there in the room when the doctor gave him his prognosis.",a,THE WITNESS,start_question
+741,1404,54,14,"What -- what was the name of that doctor, do you know?",q,MR. CRANE,start_answer
+742,1406,54,16,Dr. Mann.,a,THE WITNESS,start_question
+743,1407,54,17,Dr. Mann?,q,MR. CRANE,start_answer
+744,1408,54,18,"Uh-huh, from Philadelphia.",a,THE WITNESS,start_question
+745,1409,54,19,All right.  And can you tell us what that doctor -- whatever you overheard or -- or what Marvin told you?,q,MR. CRANE,start_answer
+746,1411,54,21,"Well, we heard it at the same time.",a,THE WITNESS,start_question
+747,1412,54,22,What did you hear?,q,MR. CRANE,start_answer
+748,1413,54,23,He -- he -- Marvin was worried about his -- before the operation --,a,THE WITNESS,start_question
+749,1415,54,25,Yes.,q,MR. CRANE,start_answer
+750,1417,55,1,"-- on his toe, he searched and found Dr. Mann, a very gifted doctor.",a,THE WITNESS,start_question
+751,1419,55,3,Yes.,q,MR. CRANE,start_answer
+752,1420,55,4,"And he gave him the prognosis of:  ""Okay.  Your toe is broken.  I can repair it,"" right?",a,THE WITNESS,start_question
+753,1422,55,6,Yes.,q,MR. CRANE,start_answer
+754,1423,55,7,"""You're not gonna be as good as new.""  So the doctor said, ""Well, since you did your research"" -- 'cause Marvin did the research on -- and he wanted the -- the titanium screw put in the foot.  And he rejected the doctor's prognosis in his hometown of --",a,THE WITNESS,start_question
+755,1428,55,12,Kingston?,q,MR. CRANE,start_answer
+756,1429,55,13,Kingston.,a,THE WITNESS,start_question
+757,1430,55,14,Or up thereabouts.,q,MR. CRANE,start_answer
+758,1431,55,15,"Yeah.  'Cause using that doctor's operation, he would be immobile.  And Marvin couldn't -- painstakingly, he couldn't deal with that.",a,THE WITNESS,start_question
+759,1434,55,18,He did not want to be immobile?,q,MR. CRANE,start_answer
+760,1435,55,19,Yeah.  So...,a,THE WITNESS,start_question
+761,1436,55,20,"So you -- Dr. Mann, is that a male or a female, do you know?",q,MR. CRANE,start_answer
+762,1438,55,22,A male.,a,THE WITNESS,start_question
+763,1439,55,23,"You -- you happen to know that person's first name or not?  Doesn't really matter.  If you don't, that's fine.",q,MR. CRANE,start_answer
+764,1443,56,1,"No, I don't.",a,THE WITNESS,start_question
+765,1444,56,2,"But anyway, your -- you -- you and Marvin are talking to Dr. Mann, I guess, in Dr. Mann's office?",q,MR. CRANE,start_answer
+766,1446,56,4,Yes.,a,THE WITNESS,start_question
+767,1447,56,5,And Dr. Mann is explaining to you before the surgery that Marvin has a broken toe and ways that he can repair it?,q,MR. CRANE,start_answer
+768,1450,56,8,Yes.,a,THE WITNESS,start_question
+769,1451,56,9,"And you gave us some information that Marvin wanted what's called -- you know, he wanted internal fixation, a titanium screw put in?",q,MR. CRANE,start_answer
+770,1454,56,12,That's correct.,a,THE WITNESS,start_question
+771,1455,56,13,And the reason -- did --,q,MR. CRANE,start_answer
+772,1456,56,14,He said that would give him more ability to move his toe over --,a,THE WITNESS,start_question
+773,1458,56,16,Dr. Mann said that?,q,MR. CRANE,start_answer
+774,1459,56,17,-- over a period of time.  Yeah.,a,THE WITNESS,start_question
+775,1460,56,18,Yeah.,q,MR. CRANE,start_answer
+776,1461,56,19,"He would -- he wouldn't gain full recovery of it, but he would have a -- a chance to be more mobile.  And the toe would -- after a while, he wouldn't recognize the disablement, but it would always be there.  So he didn't -- he didn't exaggerate on it.",a,THE WITNESS,start_question
+777,1466,56,24,"But then -- and we appreciate that information there.  The sentence that I'm looking at that you wrote: ""Marvin feared that"" -- ""feared that he would be permanently crippled.""  I'm -- I'm on page two.  It's like -- one, two, three, four -- five lines from the bottom, sir.",q,MR. CRANE,start_answer
+778,1473,57,5,Uh-huh.,a,THE WITNESS,start_question
+779,1474,57,6,And you wrote that Marvin feared that he would be permanently crippled.,q,MR. CRANE,start_answer
+780,1476,57,8,Yeah.,a,THE WITNESS,start_question
+781,1477,57,9,"And what is it that, you know -- what is it that motivated you to write that?  Did Marvin say that to you?",q,MR. CRANE,start_answer
+782,1479,57,11,Yeah.  That was --,a,THE WITNESS,start_question
+783,1480,57,12,Or did you draw a conclusion?,q,MR. CRANE,start_answer
+784,1481,57,13,"No.  That's -- that was his fear.  He told me that straight away.  Most of the time, he talked about that. And he said, ""Bob, I don't want to be a cripple.""",a,THE WITNESS,start_question
+785,1484,57,16,I gotcha.,q,MR. CRANE,start_answer
+786,1485,57,17,"And -- and he said, ""That's why I rejected the other doctor's prognosis, because he tell me that I would be immobile.  I can't have that.""  And -- and, in my words, that messed his mind up.",a,THE WITNESS,start_question
+787,1489,57,21,"Understood.  Did you have anything to do with getting Marvin in to see Dr. Mann, or he do that on his own?  Or how do you know he got to see Dr. Mann?",q,MR. CRANE,start_answer
+788,1492,57,24,"Well, he -- he -- he researched and found it on his own.",a,THE WITNESS,start_question
+789,1495,58,1,Right.,q,MR. CRANE,start_answer
+790,1496,58,2,"And he believed in Dr. Mann's prognosis, and he -- he trusted him.",a,THE WITNESS,start_question
+791,1498,58,4,Yes.,q,MR. CRANE,start_answer
+792,1499,58,5,And...,a,THE WITNESS,start_question
+793,1500,58,6,Did Dr. Mann do the surgery?,q,MR. CRANE,start_answer
+794,1501,58,7,"Yes, he did.",a,THE WITNESS,start_question
+795,1502,58,8,Were you at the hospital when the surgery was being done?,q,MR. CRANE,start_answer
+796,1504,58,10,"No.  That particular day, I missed.",a,THE WITNESS,start_question
+797,1505,58,11,"And you did indicate:  ""The thought of Marvin being permanently crippled has messed him up psychologically.""",q,MR. CRANE,start_answer
+798,1507,58,13,Right.,a,THE WITNESS,start_question
+799,1508,58,14,"When you say that, when -- ""messed him up psychologically,"" could -- can you give us some details in that regard.  What is it you meant by that?",q,MR. CRANE,start_answer
+800,1511,58,17,Okay.  Depression.,a,THE WITNESS,start_question
+801,1512,58,18,Gotcha.  Understood.,q,MR. CRANE,start_answer
+802,1513,58,19,"I would -- I'm not a doctor, but --",a,THE WITNESS,start_question
+803,1514,58,20,Understood.  But you -- you're his friend.,q,MR. CRANE,start_answer
+804,1515,58,21,Yes.,a,THE WITNESS,start_question
+805,1516,58,22,And you're -- we're asking you these questions 'cause we want to hear what you have to say.,q,MR. CRANE,start_answer
+806,1518,58,24,Sure.,a,THE WITNESS,start_question
+807,1519,58,25,Go ahead.,q,MR. CRANE,start_answer
+808,1521,59,1,"From a psychological standpoint, his mind wasn't together.  It -- it -- I wasn't seeing the Marvin that I seen before.  And I could see on his face the worry, the depression.  We would -- a lot of times, we would go out to eat.  It -- it wasn't enthusiastic like before. Everybody is crazy about the Philadelphia steak sandwich.",a,THE WITNESS,start_question
+809,1528,59,8,Yes.,q,MR. CRANE,start_answer
+810,1529,59,9,"So when he gets down this way, he's:  ""Where can we get that steak sandwich, Bob?""",a,THE WITNESS,start_question
+811,1531,59,11,Yes.,q,MR. CRANE,start_answer
+812,1532,59,12,"""You know all the good restaurants.  Come on,"" you know?  Even when we did it, it wasn't the same enthusiasm, you know? 'Cause that would bring joy like a little kid to his -- you know?  And so I tried to do the fun-filled things that we used to do, and it wasn't hitting.",a,THE WITNESS,start_question
+813,1539,59,19,Yes.,q,MR. CRANE,start_answer
+814,1540,59,20,So I know good and well that it's depression of -- of -- of his foot being broken -- toe being broken and other things psychologically that -- that's weighing on him.,a,THE WITNESS,start_question
+815,1544,59,24,"Did -- after the accident, did Mr. -- did Marvin limp?",q,MR. CRANE,start_answer
+816,1547,60,1,"Oh, definitely so.",a,THE WITNESS,start_question
+817,1548,60,2,Does he still limp even to this day?,q,MR. CRANE,start_answer
+818,1549,60,3,Yes.  Yes.,a,THE WITNESS,start_question
+819,1550,60,4,"How would you describe -- what words would you use to describe that limp, if you could?  I mean we -- and we all have an idea of what a limp is.",q,MR. CRANE,start_answer
+820,1553,60,7,It's just like what he said.,a,THE WITNESS,start_question
+821,1554,60,8,"Would you say ""severe"" or ""moderate""?  Or what word would you want to use to describe his limp?",q,MR. CRANE,start_answer
+822,1556,60,10,"I would say severe, and I would use the same words that it's alluding to here in the paragraph, ""cripple.""",a,THE WITNESS,start_question
+823,1558,60,12,"Cripple, okay.  Did -- did Marvin limp before the accident?",q,MR. CRANE,start_answer
+824,1560,60,14,No.,a,THE WITNESS,start_question
+825,1561,60,15,"No, okay.  And you -- you already told us some information relative to doctors' comments.  You wrote here:  ""Doctors have even told him that he will never be a hundred percent.""  Was that -- you told us what Dr. Mann told Marvin --",q,MR. CRANE,start_answer
+826,1566,60,20,Yeah.,a,THE WITNESS,start_question
+827,1567,60,21,-- that he would -- he --,q,MR. CRANE,start_answer
+828,1568,60,22,Shit.  I was right there in the room with him when he told him that.,a,THE WITNESS,start_question
+829,1570,60,24,Understood.,q,MR. CRANE,start_answer
+830,1571,60,25,Yeah.,a,THE WITNESS,start_question
+831,1573,61,1,"I get you.  That he wouldn't be a hundred percent, but the use of this titanium screw would provide Marvin with some movement as opposed to what the Kingston doctor was telling him?",q,MR. CRANE,start_answer
+832,1577,61,5,"Sure.  ""Give you more mobility,"" that was his exact words.",a,THE WITNESS,start_question
+833,1579,61,7,"Understood.  And you -- you indicate here:  ""I see and hear Marvin crying, which is something Marvin never did.""  So before the accident, Marvin -- you would -- never saw Marvin cry?",q,MR. CRANE,start_answer
+834,1583,61,11,No.,a,THE WITNESS,start_question
+835,1584,61,12,"But after the accident, you did?",q,MR. CRANE,start_answer
+836,1585,61,13,Yes.,a,THE WITNESS,start_question
+837,1586,61,14,"Where would he do that, in your home?  Or how's that -- how's that work?",q,MR. CRANE,start_answer
+838,1588,61,16,"Home, in the car.",a,THE WITNESS,start_question
+839,1589,61,17,But why was he crying?,q,MR. CRANE,start_answer
+840,1590,61,18,He felt that the accident threw him a curveball --,a,THE WITNESS,start_question
+841,1591,61,19,Yes.,q,MR. CRANE,start_answer
+842,1592,61,20,-- in my words.  And he never thought he would end up like this or it would be painful as it was.,a,THE WITNESS,start_question
+843,1594,61,22,Yes.  Is it your belief that Mr. -- that Marvin has had constant pain since the date of this accident?,q,MR. CRANE,start_answer
+844,1596,61,24,Yes.,a,THE WITNESS,start_question
+845,1597,61,25,Yes?  Do you have any information or knowledge that the surgery that was done on 8/1/18 had any beneficial effects?  I know you're not a doctor.  I'm just asking your belief.  Do you have any knowledge or information that the surgery was helpful or no?,q,MR. CRANE,start_answer
+846,1603,62,5,I would say 50/50.,a,THE WITNESS,start_question
+847,1604,62,6,"You think -- what you want us so know is the surgery was -- improved his -- improved Marvin's condition 50 percent?  See, that was a leading question.  You -- you can disagree with that.  I'm just trying to extract words from you, 'cause I see that you're -- you're trying to answer the question, and we appreciate that.  And it's a difficult question to ask --",q,MR. CRANE,start_answer
+848,1611,62,13,Sure.,a,THE WITNESS,start_question
+849,1612,62,14,-- and even probably more difficult to answer.,q,MR. CRANE,start_answer
+850,1613,62,15,Yeah.,a,THE WITNESS,start_question
+851,1614,62,16,"Well, all right.  All we're trying to find out is: There's a surgical procedure.  You're his buddy.",q,MR. CRANE,start_answer
+852,1616,62,18,Yeah.,a,THE WITNESS,start_question
+853,1617,62,19,"You're concerned for his welfare.  And of course, you know, everybody knows him, including yourself, are hoping that -- hoping that the surgery will help him.  And my -- our question to you is:  Are you able to give us any information that the surgery was helpful, that is to say reduced pain, improved mobility? or whatever words you want to use.",q,MR. CRANE,start_answer
+854,1625,63,1,"Again, I would have to say 50/50.",a,THE WITNESS,start_question
+855,1626,63,2,"Fifty-fifty.  And when you say ""50/50,"" what does that mean, 50/50?  It was only 50 percent -- the surgery was only 50 percent helpful?",q,MR. CRANE,start_answer
+856,1629,63,5,That's all.,a,THE WITNESS,start_question
+857,1630,63,6,"Okay.  Appreciate that.  And you indicate here: ""Marvin is not happy.""  So is it your -- your -- your testimony that you would -- you would tell a jury, if it goes that far, a fact-finder, that since this accident, Marvin is not a happy person?",q,MR. CRANE,start_answer
+858,1635,63,11,Not at all.,a,THE WITNESS,start_question
+859,1636,63,12,"And you indicate -- now I'm on page -- the top of page three, Mr. Rudd.",q,MR. CRANE,start_answer
+860,1638,63,14,Yes.,a,THE WITNESS,start_question
+861,1639,63,15,"You indicate that since the accident, Marvin and you have begun to have some arguments?  Do you need to --",q,MR. CRANE,start_answer
+862,1641,63,17,No.,a,THE WITNESS,start_question
+863,1642,63,18,Okay.  There you go.,q,MR. CRANE,start_answer
+864,1643,63,19,Pardon me.,a,THE WITNESS,start_question
+865,1644,63,20,That's all right.  I'm looking at the top of page three.,q,MR. CRANE,start_answer
+866,1646,63,22,Uh-huh.,a,THE WITNESS,start_question
+867,1647,63,23,"""Since the accident, Marvin and I have begun to argue.""",q,MR. CRANE,start_answer
+868,1649,63,25,Right.,a,THE WITNESS,start_question
+869,1651,64,1,Did you and Marvin have any arguments before the accident?,q,MR. CRANE,start_answer
+870,1653,64,3,No.,a,THE WITNESS,start_question
+871,1654,64,4,And so what is -- now there's an accident.  Now there's some arguments between you and Marvin.  Can you give us some details in that regard or no?,q,MR. CRANE,start_answer
+872,1657,64,7,Yeah.,a,THE WITNESS,start_question
+873,1658,64,8,Go ahead.,q,MR. CRANE,start_answer
+874,1659,64,9,"When I was talking to him, his mind is somewhere else.  And I'm telling him that he has to be more cognitive of the things around us, you know causation-wise.",a,THE WITNESS,start_question
+875,1663,64,13,Yes.,q,MR. CRANE,start_answer
+876,1664,64,14,"And his mind drifts off, you know?  And I know it's geared to the pain that he's feeling --",a,THE WITNESS,start_question
+877,1666,64,16,Yes.,q,MR. CRANE,start_answer
+878,1667,64,17,"-- the psychological differences.  But I'm talking about the reality, and he's somewhere thinking about his pain and off from reality.  So we argue like that.  I'll say, ""You got to pay attention.  You got to"" -- but I don't know that I'm being short on patience in dealing with him. And then, when we resurrect -- as my words are, when we resurrect, we see that it's not us.  It's the feelings that he's going -- his reality versus my reality. And then we come to a happy medium and then say, ""Well, Bob, you know it's 'cause of the accident and my mind is all messed up.""  Our words now.",a,THE WITNESS,start_question
+879,1680,65,4,"And you do indicate in this -- in this statement that you believe that the genesis of the -- some of the disagreements that you and -- or arguments that you and Marvin would have is due to the accident and his pain from the accident.  You indicate that Marvin can't smile, because the pain is too severe?",q,MR. CRANE,start_answer
+880,1686,65,10,At some points.,a,THE WITNESS,start_question
+881,1687,65,11,Some points.,q,MR. CRANE,start_answer
+882,1688,65,12,He was always a happy-go-lucky --,a,THE WITNESS,start_question
+883,1689,65,13,A happy guy?,q,MR. CRANE,start_answer
+884,1690,65,14,"-- person.  And you know how people, they could fill up a room with their smile.  And he was a person like that.  We were happy to see each other, you know?",a,THE WITNESS,start_question
+885,1693,65,17,Yes.,q,MR. CRANE,start_answer
+886,1694,65,18,"And I didn't see the same person, you know?",a,THE WITNESS,start_question
+887,1695,65,19,Yes.,q,MR. CRANE,start_answer
+888,1696,65,20,"And I tried to create that by doing the things that he liked when he came here, fun-filled things.  And still, the expression was lost in his facial expressions.",a,THE WITNESS,start_question
+889,1699,65,23,"And it's your belief that before the accident, Mr. -- Mr. -- Marvin's smile would be able to fill up a room, and after the accident, not so, and that's because of the pain from this accident?",q,MR. CRANE,start_answer
+890,1704,66,2,That's correct.,a,THE WITNESS,start_question
+891,1705,66,3,"And you indicate here that -- well, you indicate that you and Marvin ""no longer walk around like we used to.""  So do you -- when he comes to visit -- and does Marvin still come to visit you?",q,MR. CRANE,start_answer
+892,1709,66,7,Yes.,a,THE WITNESS,start_question
+893,1710,66,8,Is it still like once every three months or so or --,q,MR. CRANE,start_answer
+894,1712,66,10,"Yeah, as much as he can.",a,THE WITNESS,start_question
+895,1713,66,11,"Understood.  And subsequent to the accident and the surgery, when Marvin does come to visit you, how far do you walk or what -- what is your walking regimen now, subsequent to the accident?",q,MR. CRANE,start_answer
+896,1717,66,15,"Okay.  Now, it's been -- it's been challenged.",a,THE WITNESS,start_question
+897,1718,66,16,It's been challenging?,q,MR. CRANE,start_answer
+898,1719,66,17,Uh-huh.,a,THE WITNESS,start_question
+899,1720,66,18,Do you still try to -- do you and he still try to walk after the accident?,q,MR. CRANE,start_answer
+900,1722,66,20,"Sure.  Sure.  We -- I think just the past summer, in June, he came down.",a,THE WITNESS,start_question
+901,1724,66,22,You're talking about June of 2019?,q,MR. CRANE,start_answer
+902,1725,66,23,That's correct.,a,THE WITNESS,start_question
+903,1726,66,24,Go ahead.,q,MR. CRANE,start_answer
+904,1727,66,25,"We went down on Penn's Landing, where he likes to go, and we watched the ships and stuff like that --",a,THE WITNESS,start_question
+905,1730,67,2,Yes.,q,MR. CRANE,start_answer
+906,1731,67,3,-- and girl watching.,a,THE WITNESS,start_question
+907,1732,67,4,Understood.,q,MR. CRANE,start_answer
+908,1733,67,5,"And what had happened now, he -- he pulls out a cane, you know?  And I said, ""Marvin, we got to be careful.""  So once we walk down the landing where the docks is, we take a pair of steps.",a,THE WITNESS,start_question
+909,1737,67,9,Yes.,q,MR. CRANE,start_answer
+910,1738,67,10,"And usually, we would walk all the way to the other end.  But we -- we approached it, and I'm walking at his pace on the -- on the crutches -- or on the cane.",a,THE WITNESS,start_question
+911,1741,67,13,"On the cane, right.",q,MR. CRANE,start_answer
+912,1742,67,14,"And I'm saying, ""Well, take your time.  I got all day.""",a,THE WITNESS,start_question
+913,1744,67,16,Right.,q,MR. CRANE,start_answer
+914,1745,67,17,"You know?  And I'm just waiting for him, and we're taking our paces.  And then, we get to another pair of steps on the other end of the dock, at the -- maybe a half a mile.",a,THE WITNESS,start_question
+915,1749,67,21,Yes.,q,MR. CRANE,start_answer
+916,1750,67,22,"I'd say, ""We're not even gonna take these steps,"" 'cause I don't want to -- to see him go through the pain of trying to take steps.  And we just took the rear steps behind.  It's a half a mile away.  So he wasn't up for the task anyway.",a,THE WITNESS,start_question
+917,1756,68,2,"Yes.  And when -- when Marvin would walk with a cane down at Penn's Landing, would he -- what hand would he hold the cane in, do you know?",q,MR. CRANE,start_answer
+918,1759,68,5,I -- I think he would alternate.,a,THE WITNESS,start_question
+919,1760,68,6,"And Penn's Landing, I guess you would agree that that's at least -- what is that, like four blocks long, you think?",q,MR. CRANE,start_answer
+920,1763,68,9,Easily.,a,THE WITNESS,start_question
+921,1764,68,10,Maybe -- maybe more.,q,MR. CRANE,start_answer
+922,1765,68,11,Even more.,a,THE WITNESS,start_question
+923,1766,68,12,Yeah.  And there's -- there is a lot of steps down there.,q,MR. CRANE,start_answer
+924,1768,68,14,"Yeah, going down.",a,THE WITNESS,start_question
+925,1769,68,15,Going down.,q,MR. CRANE,start_answer
+926,1770,68,16,Going down is always easier --,a,THE WITNESS,start_question
+927,1771,68,17,Understood.,q,MR. CRANE,start_answer
+928,1772,68,18,-- in my recollection.,a,THE WITNESS,start_question
+929,1773,68,19,Yeah.,q,MR. CRANE,start_answer
+930,1774,68,20,Going up is a painful thing because it causes your body on an uphill climb.,a,THE WITNESS,start_question
+931,1776,68,22,"Yes.  Would you -- would you drive your vehicle to Penn's Landing, and then you and him would get out?  Or how would you get to Penn's Landing?",q,MR. CRANE,start_answer
+932,1779,68,25,"Well, we went in his car and him driving with his left foot.",a,THE WITNESS,start_question
+933,1782,69,2,Yes.,q,MR. CRANE,start_answer
+934,1783,69,3,And I showed him the easy traffic to get around with.,a,THE WITNESS,start_question
+935,1785,69,5,"Yes.  Do you -- do you drive, Mr. Rudd?",q,MR. CRANE,start_answer
+936,1786,69,6,Not at this time.,a,THE WITNESS,start_question
+937,1787,69,7,"Now, do you -- do you not -- why is that?  Do you not have a driver's license, or is there a reason why you don't drive?",q,MR. CRANE,start_answer
+938,1790,69,10,"Yeah, I don't have a driver's license.",a,THE WITNESS,start_question
+939,1791,69,11,Why do you not have a driver's license?,q,MR. CRANE,start_answer
+940,1792,69,12,For tickets.,a,THE WITNESS,start_question
+941,1793,69,13,"How long have you not had a driver's license, sir?",q,MR. CRANE,start_answer
+942,1794,69,14,"In the last five years, I --",a,THE WITNESS,start_question
+943,1795,69,15,Five years?,q,MR. CRANE,start_answer
+944,1796,69,16,Seven years.  I haven't drove in seven years.,a,THE WITNESS,start_question
+945,1797,69,17,"Seven years, all right.  And how do you get around, public transit?",q,MR. CRANE,start_answer
+946,1799,69,19,Public transit and bike.,a,THE WITNESS,start_question
+947,1800,69,20,You ride your bike?,q,MR. CRANE,start_answer
+948,1801,69,21,Uh-huh.,a,THE WITNESS,start_question
+949,1802,69,22,"And what -- you -- what -- oh, okay.  Yeah. There's a lot of -- around town these days, over the last three years, I think, there's been massive construction of bike lanes.",q,MR. CRANE,start_answer
+950,1807,70,1,Uh-huh.,a,THE WITNESS,start_question
+951,1808,70,2,Would you agree with that?  All from Philadelphia.,q,MR. CRANE,start_answer
+952,1809,70,3,It's a great thing.,a,THE WITNESS,start_question
+953,1810,70,4,"It is.  But it can be dangerous too, don't you think?  I mean some people just disregard people on bikes.",q,MR. CRANE,start_answer
+954,1812,70,6,"Well, they -- they -- we have to catch up to: We're there.",a,THE WITNESS,start_question
+955,1814,70,8,"Understood.  Like for example, do you ride your bike up around the art museum?",q,MR. CRANE,start_answer
+956,1816,70,10,"Yeah.  I do it all.  Matter fact, that was half of my rehabilitation, when I -- I went out dancing, biking. And I -- I have to be able to pick up my feet --",a,THE WITNESS,start_question
+957,1819,70,13,Yes.,q,MR. CRANE,start_answer
+958,1820,70,14,"-- you know, motor skill operation.",a,THE WITNESS,start_question
+959,1821,70,15,"So before this accident, would Marvin ride bikes with you?",q,MR. CRANE,start_answer
+960,1823,70,17,Sure.,a,THE WITNESS,start_question
+961,1824,70,18,And would you -- would you ride around Philadelphia?,q,MR. CRANE,start_answer
+962,1826,70,20,"Yeah.  Most of the time, we took the drive.",a,THE WITNESS,start_question
+963,1827,70,21,"Right.  You would -- when you say ""drive,"" you're talking about the Lincoln Drive?",q,MR. CRANE,start_answer
+964,1829,70,23,"Lincoln Drive, yes.",a,THE WITNESS,start_question
+965,1830,70,24,Or the -- or the Kelly Drive?,q,MR. CRANE,start_answer
+966,1831,70,25,Yeah.,a,THE WITNESS,start_question
+967,1833,71,1,Along the -- along the Schuylkill River?,q,MR. CRANE,start_answer
+968,1834,71,2,There you go.,a,THE WITNESS,start_question
+969,1835,71,3,"As opposed to Penn's Landing, along the Delaware River.",q,MR. CRANE,start_answer
+970,1837,71,5,There you go.,a,THE WITNESS,start_question
+971,1838,71,6,And there's -- there's a lot of -- there's bike paths all along the entire length of the Schuylkill River.,q,MR. CRANE,start_answer
+972,1840,71,8,That's what we're talking about.,a,THE WITNESS,start_question
+973,1841,71,9,"And specifically for bikes, what would -- do you have a bike here for him to use, or did he bring one with him?  Did Marvin bring one with him, or did you have an extra bike for him to ride?",q,MR. CRANE,start_answer
+974,1845,71,13,"Yeah, I have an extra bike.",a,THE WITNESS,start_question
+975,1846,71,14,"Yeah.  And so after the accident, was Marvin able to do any bike riding with you at all?",q,MR. CRANE,start_answer
+976,1848,71,16,No.  We canceled that altogether.,a,THE WITNESS,start_question
+977,1849,71,17,That's all gone?  All right.,q,MR. CRANE,start_answer
+978,1850,71,18,For -- on his aspect.  I still ride myself.,a,THE WITNESS,start_question
+979,1851,71,19,Understood.  But when -- when -- and did Marvin enjoy going bike riding with you before the accident?,q,MR. CRANE,start_answer
+980,1853,71,21,Sure.,a,THE WITNESS,start_question
+981,1854,71,22,And now that's something he can't do?,q,MR. CRANE,start_answer
+982,1855,71,23,That's for -- for sure.  For sure.,a,THE WITNESS,start_question
+983,1856,71,24,"Have you and Marvin gone -- since the accident, have you and him gone to the YMCA to work out?",q,MR. CRANE,start_answer
+984,1859,72,1,No.  That's out of the --,a,THE WITNESS,start_question
+985,1860,72,2,"So that's another thing that the accident has prevented Marvin from doing.  He can't work out with you, his buddy, at the YMCA, correct?",q,MR. CRANE,start_answer
+986,1863,72,5,That's correct.,a,THE WITNESS,start_question
+987,1864,72,6,"Since the accident, have you and Marvin gone up to Fairmount Park, where you -- you and he used to run and -- and work out at the different exercise locations?  Have you done that?",q,MR. CRANE,start_answer
+988,1868,72,10,"No.  All we do -- we go by there, and I do a scenic thing with him, glance at it, remember when and stuff like that and looking forward in the future of getting back to it some day after his recovery.",a,THE WITNESS,start_question
+989,1872,72,14,"Has Marvin expressed to you optimism that he may some day be able to not return to his pre-injury self, but maybe get back to working out with you in some capacity or no?",q,MR. CRANE,start_answer
+990,1876,72,18,"Well, with anybody being sick, Marvin was the same type of person.  He was saying, ""One day when I'll be better.""  That's how you think in the future anyway:  One day, I'll be better.  Everybody says that.",a,THE WITNESS,start_question
+991,1880,72,22,Understood.,q,MR. CRANE,start_answer
+992,1881,72,23,"I'm an old man now.  I want to be a young man, but it's not gonna happen like that.",a,THE WITNESS,start_question
+993,1883,72,25,"No.  That -- that -- we know that's not gonna happen, is it? All right.  And you indicated that Marvin likes the doctors in Philadelphia, and he comes to see them, right?",q,MR. CRANE,start_answer
+994,1889,73,5,Yes.,a,THE WITNESS,start_question
+995,1890,73,6,Would you be able -- you gave us the -- the name of Dr. Mann.,q,MR. CRANE,start_answer
+996,1892,73,8,Uh-huh.,a,THE WITNESS,start_question
+997,1893,73,9,"Would you be able to give us the names of any other doctors that Marvin sees in Philadelphia?  And if you can't give the name of the doctor, like just the name of the -- the practice.",q,MR. CRANE,start_answer
+998,1897,73,13,"Well, I went with him to the Rodman Institute.",a,THE WITNESS,start_question
+999,1898,73,14,Yes.  Rodman -- the Rothman Institute?,q,MR. CRANE,start_answer
+1000,1899,73,15,Rothman Institute.  Sorry.,a,THE WITNESS,start_question
+1001,1900,73,16,That's all right.  Where else have you gone with him?,q,MR. CRANE,start_answer
+1002,1902,73,18,I had so many visits.  I also went with him at Temple Hospital.,a,THE WITNESS,start_question
+1003,1904,73,20,Temple Hospital?,q,MR. CRANE,start_answer
+1004,1905,73,21,Uh-huh.,a,THE WITNESS,start_question
+1005,1906,73,22,All right.,q,MR. CRANE,start_answer
+1006,1907,73,23,"And then, Dr. Mann's practice in Philadelphia, at one of the surgical clinics.",a,THE WITNESS,start_question
+1007,1909,73,25,"All right.  Do you have any information at all as to whether Marvin ever sustained any right foot injuries before this accident, do you know?",q,MR. CRANE,start_answer
+1008,1913,74,3,No.,a,THE WITNESS,start_question
+1009,1914,74,4,He -- he -- that's -- that was a bad question by me.  The -- the question is:  Do you -- has Marvin -- did Marvin ever injure his right foot before this accident?,q,MR. CRANE,start_answer
+1010,1917,74,7,His right foot?,a,THE WITNESS,start_question
+1011,1918,74,8,"Yeah.  That's the injury that -- his right foot or toe, whatever.  Okay.  Well, that's -- that's another good distinction.  Before this accident, did Marvin ever have any injuries or conditions to his right toe --",q,MR. CRANE,start_answer
+1012,1922,74,12,No.,a,THE WITNESS,start_question
+1013,1923,74,13,-- right big toe?,q,MR. CRANE,start_answer
+1014,1924,74,14,No.,a,THE WITNESS,start_question
+1015,1925,74,15,"No, all right.  How about before this accident, did Marvin have any right foot injuries or conditions?",q,MR. CRANE,start_answer
+1016,1927,74,17,No.,a,THE WITNESS,start_question
+1017,1928,74,18,"Is there any other physicians or medical providers that you want to tell us about that you have knowledge about?  Dr. Mann, Rothman Institute, Temple Hospital -- did you visit all those three places with him?",q,MR. CRANE,start_answer
+1018,1932,74,22,Yes.,a,THE WITNESS,start_question
+1019,1933,74,23,"Well, how would you -- would -- how would -- how would he get there?  He would come to Philadelphia, and then --",q,MR. CRANE,start_answer
+1020,1937,75,1,Yeah.,a,THE WITNESS,start_question
+1021,1938,75,2,-- you and he would go how?,q,MR. CRANE,start_answer
+1022,1939,75,3,And I would show him how to take the safest routes --,a,THE WITNESS,start_question
+1023,1941,75,5,I see.,q,MR. CRANE,start_answer
+1024,1942,75,6,-- at gainful times.,a,THE WITNESS,start_question
+1025,1943,75,7,Would he drive?,q,MR. CRANE,start_answer
+1026,1944,75,8,Yes.,a,THE WITNESS,start_question
+1027,1945,75,9,And you would go with him?,q,MR. CRANE,start_answer
+1028,1946,75,10,Yes.,a,THE WITNESS,start_question
+1029,1947,75,11,"And when he drove, he used his left foot?",q,MR. CRANE,start_answer
+1030,1948,75,12,Yes.,a,THE WITNESS,start_question
+1031,1949,75,13,"As far as you know, is -- is -- is Marvin a right-hand dominant person or left-hand dominant person, or do you know?",q,MR. CRANE,start_answer
+1032,1952,75,16,I would say right-hand dominant.,a,THE WITNESS,start_question
+1033,1953,75,17,"Is it -- do you know him to be right-hand dominant, or did you just draw a conclusion?",q,MR. CRANE,start_answer
+1034,1955,75,19,I know that.,a,THE WITNESS,start_question
+1035,1956,75,20,"Okay.  He's right-hand dominant, all right.  You indicate that -- you -- you have a statement here about halfway down page three:  ""Marvin is no longer independent.""",q,MR. CRANE,start_answer
+1036,1960,75,24,"Oh, yeah.",a,THE WITNESS,start_question
+1037,1961,75,25,What do -- what do you mean by that?  What -- can you give us some details in that regard.,q,MR. CRANE,start_answer
+1038,1964,76,2,"Back when I was a youth, I worked in a convalescent center.  And from me seeing patients with severe injuries --",a,THE WITNESS,start_question
+1039,1967,76,5,Yes.,q,MR. CRANE,start_answer
+1040,1968,76,6,"-- I know that -- when a person has an independent will or has a dependent will, you know?  With independent will, you can do everything that you physically are able to do at certain ages.",a,THE WITNESS,start_question
+1041,1972,76,10,On your own?,q,MR. CRANE,start_answer
+1042,1973,76,11,On your own.,a,THE WITNESS,start_question
+1043,1974,76,12,Yes.,q,MR. CRANE,start_answer
+1044,1975,76,13,"Right.  Independently.  Dependent, you can't do the things within age brackets that you could have did, as a result to psychological damage or physical damage.",a,THE WITNESS,start_question
+1045,1978,76,16,Yes.,q,MR. CRANE,start_answer
+1046,1979,76,17,"So I weighed in on it, and I could see that the -- the physical damage along with the psychological damage, that he's impaired.",a,THE WITNESS,start_question
+1047,1982,76,20,"Understood.  Would you be able to give us some specific details relative to the loss of independence sustained by Marvin in this accident?  I mean he is able to drive his car, but you've told us that he has to -- he has made accommodation to drive with his left foot?",q,MR. CRANE,start_answer
+1048,1987,76,25,That's correct.,a,THE WITNESS,start_question
+1049,1989,77,1,What -- can you give us some other details relative to the deficit to Marvin's independence as a result of this accident?,q,MR. CRANE,start_answer
+1050,1992,77,4,Yeah.,a,THE WITNESS,start_question
+1051,1993,77,5,Go ahead.,q,MR. CRANE,start_answer
+1052,1994,77,6,"Again, his -- his walking is impeded.",a,THE WITNESS,start_question
+1053,1995,77,7,"Yes.  I see.  Well, we're not -- we're not gonna go through everything.  I don't want you to go through everything again --",q,MR. CRANE,start_answer
+1054,1998,77,10,Sure.,a,THE WITNESS,start_question
+1055,1999,77,11,"-- what you've told us about, you know, the -- the workouts and the like.  Well, I -- my question was, I guess, not too good.  Marvin lives alone?",q,MR. CRANE,start_answer
+1056,2002,77,14,That's correct.,a,THE WITNESS,start_question
+1057,2003,77,15,Is he -- does he still live alone after the accident?,q,MR. CRANE,start_answer
+1058,2005,77,17,Yeah.,a,THE WITNESS,start_question
+1059,2006,77,18,"So there's -- there's an element of independence there, right?",q,MR. CRANE,start_answer
+1060,2008,77,20,"Not so much.  In the home, he tells me how he's got to take the shower, lean on things.  Sometimes, he drop things and he got to leave it there.  He can't be able to -- to pick it up.",a,THE WITNESS,start_question
+1061,2012,77,24,Yes.,q,MR. CRANE,start_answer
+1062,2013,77,25,"And remember, it's a course of a year and a half, I'm hearing this.  So I'm hearing all of the -- and sometimes he calls me in the middle of the night, and we're talking.  And I'll bring up an argument so he can get past the pain, you understand? So we're arguing.  If it gets about the pain, ""Hey, man, just go to sleep.""  You know what I mean? You can't do nothing about that pain that you're suffering, you know?  I'm just being realistic about making him feel like a human being, you know?",a,THE WITNESS,start_question
+1063,2024,78,10,"Do you have any psychological training at all, sir?",q,MR. CRANE,start_answer
+1064,2025,78,11,From my training in school.,a,THE WITNESS,start_question
+1065,2026,78,12,"Right, from -- from college, you've indicated.",q,MR. CRANE,start_answer
+1066,2027,78,13,Uh-huh.,a,THE WITNESS,start_question
+1067,2028,78,14,I mean because you're giving some insightful comments here relative to --,q,MR. CRANE,start_answer
+1068,2030,78,16,"Well, once you've been trained, you never forget your training.",a,THE WITNESS,start_question
+1069,2032,78,18,"Yeah.  All right.  And so relative to Marvin's capabilities around his house and personal grooming, you gave us some information that he -- that he has trouble in the shower at times.",q,MR. CRANE,start_answer
+1070,2036,78,22,Very much so.,a,THE WITNESS,start_question
+1071,2037,78,23,"What's that mean, he can't get in and out?  What's that mean?  He can't -- can he bathe himself?",q,MR. CRANE,start_answer
+1072,2039,78,25,Half of the time.  I haven't observed him in the home.,a,THE WITNESS,start_question
+1073,2042,79,2,Understood.  But --,q,MR. CRANE,start_answer
+1074,2043,79,3,"What he'll tell me over the phone:  ""Bob, I'm in the tub.  I just sit here until I can get myself together, drain the water out.  I got to -- he said he's got to crawl out of the tub, whatever the case may be --",a,THE WITNESS,start_question
+1075,2047,79,7,Yes.,q,MR. CRANE,start_answer
+1076,2048,79,8,"-- to get out of the tub and make his way back to the bed, you know, holding onto a walker, this and that. And he's made his -- his apartment conducive to his injuries.",a,THE WITNESS,start_question
+1077,2052,79,12,He -- he's made some accommodation to his apartment?,q,MR. CRANE,start_answer
+1078,2054,79,14,"Yeah, for himself.",a,THE WITNESS,start_question
+1079,2055,79,15,"He lives in an apartment, not a house; is that what you're telling us?",q,MR. CRANE,start_answer
+1080,2057,79,17,That's correct.,a,THE WITNESS,start_question
+1081,2058,79,18,"Is that right?  Yeah, Apartment 8F in -- in 230 Wyoming Avenue in Kingston, PA.  What are some of these accommodations that you're aware of?",q,MR. CRANE,start_answer
+1082,2061,79,21,"Well, he's telling me that he's got his medication right by his bed, so he props that up.  When he makes his way to the kitchen to prepare a meal, he -- he's got to grab on things and -- you know, I guess he has a precise time that he can do more mobility in the daytime than at -- at night.",a,THE WITNESS,start_question
+1083,2068,80,2,"So what you want us to know:  When he walks around the apartment, he leans on things.  He leans on the walls?",q,MR. CRANE,start_answer
+1084,2070,80,4,Anything he can grab onto.,a,THE WITNESS,start_question
+1085,2071,80,5,Do you happen to know if -- if he had installed any kind of railing in his hallways or in his rooms that he can hold onto?,q,MR. CRANE,start_answer
+1086,2074,80,8,"I don't know.  But he'll tell me several times, he's slipped and fell.",a,THE WITNESS,start_question
+1087,2076,80,10,He's slipped and fallen at home?,q,MR. CRANE,start_answer
+1088,2077,80,11,Uh-huh.,a,THE WITNESS,start_question
+1089,2078,80,12,Why?  Why -- what's causing the slip and fall?,q,MR. CRANE,start_answer
+1090,2079,80,13,"'Cause his -- the -- he was -- to me, he was trying to get back some of his mobility.",a,THE WITNESS,start_question
+1091,2081,80,15,Yeah.,q,MR. CRANE,start_answer
+1092,2082,80,16,"But it -- it wasn't ready yet.  He's -- he's not fully recovered, as you can imagine.",a,THE WITNESS,start_question
+1093,2084,80,18,"Understood.  What I'm trying to find out is:  Do you have any information or knowledge relative to any physical accommodations that might have been made to Marvin's apartment as a result of this accident, a chair, railing, maybe a taller commode, you know, a chairlift that gets him up and down steps?  What do you know?",q,MR. CRANE,start_answer
+1094,2090,80,24,"Well, I know one day, he was down in Philadelphia, and we picked up some old chairs that was on the trash.",a,THE WITNESS,start_question
+1095,2093,81,1,Old chairs?,q,MR. CRANE,start_answer
+1096,2094,81,2,"But they were in good shape.  He said, ""Bob, I could use this in my apartment.""  So had him pick it up, put it in the car.  I said, ""Use it.  If it helps you, use it."" And he said -- and he told me later, ""This chair works out fine 'cause I can sit up in it sometime, and I can use it as a"" -- ""to put things on at"" -- ""late at night.  So I have two ends of the bed I can work with.""",a,THE WITNESS,start_question
+1097,2102,81,10,"Do you have any knowledge as to the size and shape of Mr. -- of Marvin's apartment?  What's he got, two bedrooms?  Do you know anything about it?",q,MR. CRANE,start_answer
+1098,2105,81,13,I -- I couldn't say.  I've never been there.,a,THE WITNESS,start_question
+1099,2106,81,14,Understood.  I know you have never.  You've indicated that.  But maybe he -- he told you.  Or do you -- have you ever seen photos of Mr. -- of Marvin's --,q,MR. CRANE,start_answer
+1100,2109,81,17,"Well, he -- he -- he told -- he told me about it.",a,THE WITNESS,start_question
+1101,2110,81,18,Yes.,q,MR. CRANE,start_answer
+1102,2111,81,19,"And then, he sent me a picture with him in -- in the wheelchair.  This is lately, in the last month or so. In a wheelchair, he shows me him.  He said, ""Bob, I'm right at the entrance to my kitchen, in my wheelchair.""",a,THE WITNESS,start_question
+1103,2115,81,23,So what you want us so know is Marvin has a wheelchair that he uses in his apartment?,q,MR. CRANE,start_answer
+1104,2117,81,25,Yeah.,a,THE WITNESS,start_question
+1105,2119,82,1,"When -- when Marvin comes to you house -- your house, do you have a wheelchair for him to use?",q,MR. CRANE,start_answer
+1106,2121,82,3,No.  He doesn't have it.  He just got the wheelchair.,a,THE WITNESS,start_question
+1107,2123,82,5,Understood.  Do you know when he -- when did he first obtain the wheelchair?  What's your knowledge of that?,q,MR. CRANE,start_answer
+1108,2126,82,8,Just about -- about three weeks ago.,a,THE WITNESS,start_question
+1109,2127,82,9,"Three weeks ago, all right.  And the next time that Marvin comes to your house, are you gonna have a wheelchair available for him?  Do you plan on doing that?",q,MR. CRANE,start_answer
+1110,2130,82,12,I don't think so.,a,THE WITNESS,start_question
+1111,2131,82,13,No?,q,MR. CRANE,start_answer
+1112,2132,82,14,He better bring it with him.,a,THE WITNESS,start_question
+1113,2133,82,15,Okay.  He's got to bring it with him?,q,MR. CRANE,start_answer
+1114,2134,82,16,Yeah.,a,THE WITNESS,start_question
+1115,2135,82,17,Do you know how -- and I know it's only been three weeks.  Do you know how often Marvin uses the wheelchair?,q,MR. CRANE,start_answer
+1116,2137,82,19,"Oh, he -- he -- right now, in the day, he's bedridden.",a,THE WITNESS,start_question
+1117,2139,82,21,Right now?  And -- and today is August 14th --,q,MR. CRANE,start_answer
+1118,2140,82,22,That's correct.,a,THE WITNESS,start_question
+1119,2141,82,23,-- 2019.,q,MR. CRANE,start_answer
+1120,2142,82,24,"I just talked to him last night.  He said, ""Bob, I can't even get out of bed.""  And he's got a nurse twice a day.",a,THE WITNESS,start_question
+1121,2146,83,2,A nurse comes to the apartment twice a day?  Why does that nurse come to his apartment?,q,MR. CRANE,start_answer
+1122,2148,83,4,"'Cause he's having trouble with his back and foot. And everything else that he could do physically, he can't do anymore.",a,THE WITNESS,start_question
+1123,2151,83,7,And you spoke to -- today -- you spoke to Marvin on the 13th of August?  That's yesterday.,q,MR. CRANE,start_answer
+1124,2153,83,9,That's correct.,a,THE WITNESS,start_question
+1125,2154,83,10,And he told you that he can't get out of bed?,q,MR. CRANE,start_answer
+1126,2155,83,11,Nope.,a,THE WITNESS,start_question
+1127,2156,83,12,And a nurse comes to the apartment two times a week?,q,MR. CRANE,start_answer
+1128,2158,83,14,Two times a day.,a,THE WITNESS,start_question
+1129,2159,83,15,Two times a day.  And what is your knowledge of the reason that nurse comes?  Is that for his back or for his foot or both?,q,MR. CRANE,start_answer
+1130,2162,83,18,Both.  His health has taken a turn for the worse. I was just telling him --,a,THE WITNESS,start_question
+1131,2164,83,20,You think he's taken a turn for the worse?,q,MR. CRANE,start_answer
+1132,2165,83,21,Yes.,a,THE WITNESS,start_question
+1133,2166,83,22,When -- when did that -- did you -- you just drew that conclusion as of last night or --,q,MR. CRANE,start_answer
+1134,2168,83,24,No.,a,THE WITNESS,start_question
+1135,2169,83,25,When -- when do you think he started to take a turn for the worse?,q,MR. CRANE,start_answer
+1136,2172,84,2,In -- maybe in the last six months.,a,THE WITNESS,start_question
+1137,2173,84,3,Last six months.,q,MR. CRANE,start_answer
+1138,2174,84,4,And I think it's been gradually that his -- his health is deteriorating.,a,THE WITNESS,start_question
+1139,2176,84,6,His health is deteriorating?,q,MR. CRANE,start_answer
+1140,2177,84,7,Uh-huh.,a,THE WITNESS,start_question
+1141,2178,84,8,Do you happen to -- has -- does Marvin suffer from any kind of diseases or conditions like diabetes?,q,MR. CRANE,start_answer
+1142,2180,84,10,"No, he doesn't.",a,THE WITNESS,start_question
+1143,2181,84,11,Do you know if has -- he has any heart conditions?,q,MR. CRANE,start_answer
+1144,2182,84,12,No.,a,THE WITNESS,start_question
+1145,2183,84,13,No?  No heart conditions?,q,MR. CRANE,start_answer
+1146,2184,84,14,He's got back pain.,a,THE WITNESS,start_question
+1147,2185,84,15,Understood.  And is it your understanding the back pain is from this accident?,q,MR. CRANE,start_answer
+1148,2187,84,17,I -- I can't make that decision.,a,THE WITNESS,start_question
+1149,2188,84,18,You don't know?,q,MR. CRANE,start_answer
+1150,2189,84,19,But I know he's been injured.  I know he's never complained about it before until after the accident.,a,THE WITNESS,start_question
+1151,2191,84,21,Understood.  You -- but you -- we do know that his -- his right foot -- right toe injury is from this accident.,q,MR. CRANE,start_answer
+1152,2194,84,24,That's correct.,a,THE WITNESS,start_question
+1153,2195,84,25,"Right.  And I -- I know you're able to definitively say that.  Are you able to definitively say that Marvin's back pain is also related to the 2/27/18 accident, or you just don't know?",q,MR. CRANE,start_answer
+1154,2200,85,4,"Well, judging what I've seen and judging from the complaints that he tells me about -- and I've seen his back physically.",a,THE WITNESS,start_question
+1155,2203,85,7,Yes.,q,MR. CRANE,start_answer
+1156,2204,85,8,"And I've seen the weight loss.  I've seen his -- his skeleton.  As far as his vertebrae, it's been -- it's bulging out of the -- of -- of his back.  And I've -- I've actually myself put the pain patches on his back myself. I've did that several times.",a,THE WITNESS,start_question
+1157,2209,85,13,What -- at your house?,q,MR. CRANE,start_answer
+1158,2210,85,14,Yes.,a,THE WITNESS,start_question
+1159,2211,85,15,How much do you think -- go ahead.  You were gonna say something.,q,MR. CRANE,start_answer
+1160,2213,85,17,For -- for the purpose of I'm taking care of him.,a,THE WITNESS,start_question
+1161,2214,85,18,Right.,q,MR. CRANE,start_answer
+1162,2215,85,19,"And like I was telling Mr. O'Donnell that painstakingly, I've been -- I'm kind of going through it. And it's now just starting to convalesce me.  Because I can't do the steps that he does.  You know, I can't walk along and -- and take care of a sick person.  That'll make me sick, you know? I'm fighting for my health as well.  You know, I have an enlarged heart, so I have to do robust things, do athletic things, walk, jog to keep my heart in pace.  And so now, working with a friend that been impaired physically, I can't no longer do it, because it's impeding on my health.",a,THE WITNESS,start_question
+1163,2228,86,6,Did you ever have any intention of moving up to Marvin's house for a while and staying with him to help him or no?,q,MR. CRANE,start_answer
+1164,2231,86,9,I thought about it.,a,THE WITNESS,start_question
+1165,2232,86,10,"Right.  But that's all?  That's -- you have -- you don't have any plans to do that, do you?",q,MR. CRANE,start_answer
+1166,2234,86,12,"Well, we planned for him getting better.  And then, we're -- we're -- our friendship in the athletic aspect and caring for each other would also extend from that point.",a,THE WITNESS,start_question
+1167,2238,86,16,Right.,q,MR. CRANE,start_answer
+1168,2239,86,17,And I'm hopeful that he would get well also.,a,THE WITNESS,start_question
+1169,2240,86,18,You're hopeful that he'll get better?,q,MR. CRANE,start_answer
+1170,2241,86,19,I'm hoping so.,a,THE WITNESS,start_question
+1171,2242,86,20,Do you know how old he is?,q,MR. CRANE,start_answer
+1172,2243,86,21,64 years old.,a,THE WITNESS,start_question
+1173,2244,86,22,He's 64?,q,MR. CRANE,start_answer
+1174,2245,86,23,Uh-huh.,a,THE WITNESS,start_question
+1175,2246,86,24,"All right.  You have some information that when Marvin drives a vehicle, he has -- he uses his left foot and cruise control due to his right foot injury, right?",q,MR. CRANE,start_answer
+1176,2250,87,2,"Uh-huh. MR. O'DONNELL:  Was that a ""yes""?  You have to say ""yes.""",a,THE WITNESS,start_chat
+1177,2253,87,5,Yes. MR. O'DONNELL,side_chat,THE WITNESS,start_question
+1178,2256,87,8,"And you -- you know that because you've -- you've actually been in -- in a car with Marvin when he drove that way.  And of course, he tells you that too; is that correct?",q,MR. CRANE,start_answer
+1179,2260,87,12,Uh-huh.,a,THE WITNESS,start_question
+1180,2261,87,13,All right.  And what you -- you also want us to know is Marvin has made some driving accommodations in that he tries not to drive during busy rush hour or heavy traffic.  Why is that?,q,MR. CRANE,start_answer
+1181,2265,87,17,"Well, because traffic causes a problem to him as a left foot driver not used to using left foot.  So you have to have a mind-set that:  I'm driving unorthodox.",a,THE WITNESS,start_question
+1182,2268,87,20,Yes.,q,MR. CRANE,start_answer
+1183,2269,87,21,"So at the same time, it's better for a person to be careful as they can, and low rate of traffic would actually benefit.",a,THE WITNESS,start_question
+1184,2272,87,24,"Right.  And so Marvin knows that he has a deficit driving a car, and to try to help that deficit, he drives at -- at hours where the traffic is lighter, such as at 1:00 a.m. or 2:00 a.m., he leaves your house.  That's what you're telling us, right?",q,MR. CRANE,start_answer
+1185,2278,88,4,That's correct.,a,THE WITNESS,start_question
+1186,2279,88,5,"All right.  And prior to the accident -- prior to the accident that brings us here today, did Marvin have any problems in driving in heavy traffic?",q,MR. CRANE,start_answer
+1187,2282,88,8,Prior to the accident?,a,THE WITNESS,start_question
+1188,2283,88,9,"Yeah, prior to --",q,MR. CRANE,start_answer
+1189,2284,88,10,"No.  No, he didn't.",a,THE WITNESS,start_question
+1190,2285,88,11,"Prior to the 2/27/18 accident, Marvin had no problems driving in heavy traffic conditions.  That's what you want us to know, right?",q,MR. CRANE,start_answer
+1191,2288,88,14,Yes.,a,THE WITNESS,start_question
+1192,2289,88,15,"You've indicated -- and I think you've already alluded to this -- ""Marvin thought"" -- I'm now at the top of page four: ""Marvin thought that he would have a complete recovery.  Unfortunately, this is not the case to this day.  Frequently, I would see Marvin fighting through pain and frustration.  It was difficult for Marvin to accept his new limitations, because he was so active before the accident but no longer is. After the accident and surgery, Marvin has limited physical activity.  He no longer goes to the park,"" like you were telling us.  ""Marvin doesn't eat because of his depression.""  What do you know about that?",q,MR. CRANE,start_answer
+1193,2303,89,3,"Okay.  Like I alluded to at first, that he was crazy about the steak sandwiches in Philadelphia --",a,THE WITNESS,start_question
+1194,2305,89,5,Yes.,q,MR. CRANE,start_answer
+1195,2306,89,6,-- and the hoagies and things like that.,a,THE WITNESS,start_question
+1196,2307,89,7,Right.,q,MR. CRANE,start_answer
+1197,2308,89,8,"And I seen prior to that, maybe a year back, we could sit down and he would eat a whole hoagie.  But now, gradually, he would only eat half of it, you know?  And I noticed eating half is what he could, you know?",a,THE WITNESS,start_question
+1198,2312,89,12,"What -- was Marvin raised in Philadelphia?  Did he grow up in Philadelphia, do you know?",q,MR. CRANE,start_answer
+1199,2314,89,14,"No, he didn't.",a,THE WITNESS,start_question
+1200,2315,89,15,Do you know where he grew up?,q,MR. CRANE,start_answer
+1201,2316,89,16,He grew up in Virginia and later moved down here. He had a --,a,THE WITNESS,start_question
+1202,2318,89,18,"When you say ""down here,"" where's down here?",q,MR. CRANE,start_answer
+1203,2319,89,19,"Well, in Kingston.",a,THE WITNESS,start_question
+1204,2320,89,20,"Right.  Okay.  Well, that's -- that's closer than Virginia.",q,MR. CRANE,start_answer
+1205,2322,89,22,Sure.  Sure.,a,THE WITNESS,start_question
+1206,2323,89,23,But I mean I think that Kingston might be 120 miles from here.,q,MR. CRANE,start_answer
+1207,2325,89,25,Yeah.,a,THE WITNESS,start_question
+1208,2327,90,1,From Philadelphia.,q,MR. CRANE,start_answer
+1209,2328,90,2,Sure.,a,THE WITNESS,start_question
+1210,2329,90,3,This -- this is King of Prussia.,q,MR. CRANE,start_answer
+1211,2330,90,4,I understand.  And he said he lived in Baltimore at one time.,a,THE WITNESS,start_question
+1212,2332,90,6,"Okay.  I mean I understand when -- when you're talking about Marvin's liking for hoagies and -- and steak -- cheese steaks and stuff.  I mean I've -- I went to school in Ohio and people would talk about it, you know?",q,MR. CRANE,start_answer
+1213,2337,90,11,That's right.,a,THE WITNESS,start_question
+1214,2338,90,12,And it's not the same.  You can't --,q,MR. CRANE,start_answer
+1215,2339,90,13,No.,a,THE WITNESS,start_question
+1216,2340,90,14,"A cheese steak in Columbus, Ohio is not -- is not a cheese steak -- a Jim cheese steak in Philly.",q,MR. CRANE,start_answer
+1217,2342,90,16,You already know it.,a,THE WITNESS,start_question
+1218,2343,90,17,Not even close.,q,MR. CRANE,start_answer
+1219,2344,90,18,Not even close.,a,THE WITNESS,start_question
+1220,2345,90,19,And they don't even call them hoagies.  They call them subs or some ridiculous --,q,MR. CRANE,start_answer
+1221,2347,90,21,"Subs, yeah.  There you go.",a,THE WITNESS,start_question
+1222,2348,90,22,They look at you like:  What's a hoagie?,q,MR. CRANE,start_answer
+1223,2349,90,23,I know that's right.,a,THE WITNESS,start_question
+1224,2350,90,24,"And I -- I don't know though.  Kingston, they probably know what hoagies and cheese steaks are, right? That's not that far from here.",q,MR. CRANE,start_answer
+1225,2354,91,2,No.  But you still want the taste of that Philadelphia --,a,THE WITNESS,start_question
+1226,2356,91,4,"Yeah.  That's true.  It's all about the roll, right?",q,MR. CRANE,start_answer
+1227,2358,91,6,"Yeah, it's all about the rolls.",a,THE WITNESS,start_question
+1228,2359,91,7,"Yeah.  But I mean I've -- I've been up to Kingston and Wilkes-Barre many times.  There's -- there's a decent Philadelphia connection there.  People go -- from there come down here.  They go to school -- Temple, Saint Joseph, South Penn, Drexel, Villanova, you know?",q,MR. CRANE,start_answer
+1229,2364,91,12,All you hear about the steak sandwich.,a,THE WITNESS,start_question
+1230,2365,91,13,Yeah.,q,MR. CRANE,start_answer
+1231,2366,91,14,"And he was -- like he would always say, ""Bob, where's South Street at?  I heard they got some good steak sandwich."" ""Let me take you to South Street.""",a,THE WITNESS,start_question
+1232,2370,91,18,Yeah.,q,MR. CRANE,start_answer
+1233,2371,91,19,That's what it was about.,a,THE WITNESS,start_question
+1234,2372,91,20,"All right.  Now, you -- we're on page -- I'm on page four.  ""Shopping, for Marvin, is a huge struggle."" Can you -- what does that mean?",q,MR. CRANE,start_answer
+1235,2375,91,23,"Well, I had to first get him to understand his limitation.  Now, we would be walking in the market, and you can walk a quarter mile around the market, you know? up and down the aisle.",a,THE WITNESS,start_question
+1236,2380,92,2,Yeah.,q,MR. CRANE,start_answer
+1237,2381,92,3,"So I would suggest to him, ""Get a motor chair. That way, we could save some time.  And plus, you wont be -- you know, it won't be that much pain to you.'. Cause we had a routine.  As we go through the day, get him some food and stuff like that, go to the supermarket or -- or a steak shop.  And then, I'd go home, let him get a little respite, maybe give him aid as far as getting him an ice pack for his foot --",a,THE WITNESS,start_question
+1238,2389,92,11,Yes.,q,MR. CRANE,start_answer
+1239,2390,92,12,"-- prop him up in the chair, elevate his feet, put a pillow behind his back, do all these things before he would set out on his night task to go back home.  So it was a routine that we had.",a,THE WITNESS,start_question
+1240,2394,92,16,"Understood.  And so you have information or knowledge:  When you would -- you would take him shopping when he would come here, he would actually use one of those mechanized carts?",q,MR. CRANE,start_answer
+1241,2398,92,20,That's correct.,a,THE WITNESS,start_question
+1242,2399,92,21,"All right.  And how did that make him feel, do you know?",q,MR. CRANE,start_answer
+1243,2401,92,23,"Psychologically, he -- he couldn't come to grips with it.  Because he's saying, ""This is not my life. I'm -- I can't fill it."" I said, But in the process of getting well, this is a part of it.  'Cause you can't get well using the -- the things that you're using.  The cane won't do it.  That will 'cause more agitation to the physical limitation, you know? I said, ""A lot of people use chairs.""  I had to -- I had to tell him I had to use a cane for maybe a year in my life, off -- off and on.  But I would do it when I felt my anatomy weakening.  That's the third leg.",a,THE WITNESS,start_question
+1244,2414,93,10,Right.,q,MR. CRANE,start_answer
+1245,2415,93,11,You know?  And it becomes your friend after a while.,a,THE WITNESS,start_question
+1246,2417,93,13,"You indicate here that Marvin never goes out.  I mean when -- when he comes and visits you, that's going out.  But when you say, ""Marvin never goes out,"" what does that mean?",q,MR. CRANE,start_answer
+1247,2421,93,17,Okay.  When he's at home.,a,THE WITNESS,start_question
+1248,2422,93,18,At his home in Kingston?,q,MR. CRANE,start_answer
+1249,2423,93,19,Sure.  He -- he tells me on several occasions --,a,THE WITNESS,start_question
+1250,2424,93,20,Yes.,q,MR. CRANE,start_answer
+1251,2425,93,21,"-- ""Bob, I ain't been nowhere.  I've just been stuck in the house all the time.""  'Cause he calls me any time that he feels like it during the day.  I may not have time to talk with him.  And I, way late -- and I said, ""Well, call me late tonight.  Your time, any time, just call me.""",a,THE WITNESS,start_question
+1252,2432,94,2,Right.,q,MR. CRANE,start_answer
+1253,2433,94,3,And he would do that.,a,THE WITNESS,start_question
+1254,2434,94,4,"When -- when Marvin is in his apartment, what's he doing?  Does he use a computer?  Is he watching TV?  Is he reading?  Do you know?",q,MR. CRANE,start_answer
+1255,2437,94,7,"He's talking about pain all the time.  All -- from the beginning of our conversation to the end, he's talking about his pain and his limitations.",a,THE WITNESS,start_question
+1256,2440,94,10,Yeah.,q,MR. CRANE,start_answer
+1257,2441,94,11,That -- that -- that's the truss of the conversation.,a,THE WITNESS,start_question
+1258,2443,94,13,"All right.  What I'm asking you now though is:  Do you have any knowledge or information as to what Marvin does in his apartment?  You said, ""He's not going out. He's stuck in there.""  Does -- for example, does he use a computer?",q,MR. CRANE,start_answer
+1259,2448,94,18,No.,a,THE WITNESS,start_question
+1260,2449,94,19,No?,q,MR. CRANE,start_answer
+1261,2450,94,20,"Uh-uh.  He -- most of the time, he -- ""Bob, I'm laying up here.  I got my foot elevated.  You want me to show you the picture?""  I couldn't believe it.  I don't -- you know, I -- I know what you do what -- when you're here, you know?",a,THE WITNESS,start_question
+1262,2455,94,25,Yes.,q,MR. CRANE,start_answer
+1263,2457,95,1,So I changed the conversation.,a,THE WITNESS,start_question
+1264,2458,95,2,"Is he watching TV?  What's he doing, do you know? As far as you know.",q,MR. CRANE,start_answer
+1265,2460,95,4,"Of course, he's watching TV sometimes.",a,THE WITNESS,start_question
+1266,2461,95,5,Yeah.,q,MR. CRANE,start_answer
+1267,2462,95,6,"But again, I'd like the say that the pain, psychologically and depression-wise, he can't get around it, just being --",a,THE WITNESS,start_question
+1268,2465,95,9,Do you know if he has friends or relatives up in where -- near where he lives?  Do you know about that?,q,MR. CRANE,start_answer
+1269,2467,95,11,"Well, he's got a girlfriend up there, and he alleviates that he -- he -- they're broken off, and she doesn't come to see him as used to.  Their relationship has went downhill.",a,THE WITNESS,start_question
+1270,2471,95,15,Why -- and why did that relationship go downhill?,q,MR. CRANE,start_answer
+1271,2472,95,16,Well --,a,THE WITNESS,start_question
+1272,2473,95,17,Because of this accident?,q,MR. CRANE,start_answer
+1273,2474,95,18,"Because of the accident, yes.",a,THE WITNESS,start_question
+1274,2475,95,19,"All right.  And you were -- I interrupted you because I wanted to hear you say that first.  Now, you were gonna give us some details.  How did -- how did -- what -- what became of this relationship due to this accident?",q,MR. CRANE,start_answer
+1275,2480,95,24,"Well, as friends, we would talk about male and female relationships.",a,THE WITNESS,start_question
+1276,2483,96,1,Yes.,q,MR. CRANE,start_answer
+1277,2484,96,2,"So he said, ""Bob, we"" -- ""we don't have the fun that we used to have.  She hasn't came to see me in a"" -- ""in a coon's age,"" if you can understand that.",a,THE WITNESS,start_question
+1278,2487,96,5,Yes.,q,MR. CRANE,start_answer
+1279,2488,96,6,And I would try to give him the understanding that people really can't care for sick people.  She cares about you --,a,THE WITNESS,start_question
+1280,2491,96,9,Yes.,q,MR. CRANE,start_answer
+1281,2492,96,10,"-- but the limitations that you have, you have to have a person that deal with sickness.  Not everybody can deal with sickness. And he had told me that she was a woman that lost her son and lost her -- her husband.  This was maybe a year ago.  So I'm trying to build confidence in him and tell him that she's not prepared to deal with another sickness right now.  And this has just been three or four years down the road.",a,THE WITNESS,start_question
+1282,2501,96,19,"Understood.  You indicate that Marvin no longer works.  At the time of this accident, was Marvin employed?",q,MR. CRANE,start_answer
+1283,2503,96,21,"Yes, he was.",a,THE WITNESS,start_question
+1284,2504,96,22,"Who was he employed by, do you know?",q,MR. CRANE,start_answer
+1285,2505,96,23,He worked at a -- I believe that he worked at a geriatrics home or center.,a,THE WITNESS,start_question
+1286,2507,96,25,Doing what?  What did he do there?,q,MR. CRANE,start_answer
+1287,2509,97,1,He worked in food service.,a,THE WITNESS,start_question
+1288,2510,97,2,All right.  Was he a full-time worker?,q,MR. CRANE,start_answer
+1289,2511,97,3,I think he had a part-time position.,a,THE WITNESS,start_question
+1290,2512,97,4,Did he have any other jobs?,q,MR. CRANE,start_answer
+1291,2513,97,5,No.,a,THE WITNESS,start_question
+1292,2514,97,6,Does -- did Marvin have any military experience?,q,MR. CRANE,start_answer
+1293,2515,97,7,No.,a,THE WITNESS,start_question
+1294,2516,97,8,"And then, I guess that job at the -- at the geriatric center, he had to do that on his feet?",q,MR. CRANE,start_answer
+1295,2518,97,10,Yes.,a,THE WITNESS,start_question
+1296,2519,97,11,"All right.  Did, as far as you know, Marvin ever return to work after this accident?",q,MR. CRANE,start_answer
+1297,2521,97,13,"No, he hasn't returned.",a,THE WITNESS,start_question
+1298,2522,97,14,"No.  And why doesn't he work, as far as you know?",q,MR. CRANE,start_answer
+1299,2523,97,15,The physical -- the physical limitations and psychological.,a,THE WITNESS,start_question
+1300,2525,97,17,Right.,q,MR. CRANE,start_answer
+1301,2526,97,18,He's not prepared to.,a,THE WITNESS,start_question
+1302,2527,97,19,From this accident?,q,MR. CRANE,start_answer
+1303,2528,97,20,Yes.,a,THE WITNESS,start_question
+1304,2529,97,21,Do you know if -- if Marvin has attempted to find employment elsewhere where maybe he doesn't have to stand up or it's so physical?,q,MR. CRANE,start_answer
+1305,2532,97,24,No.,a,THE WITNESS,start_question
+1306,2533,97,25,He -- he has not tried to find employment?,q,MR. CRANE,start_answer
+1307,2535,98,1,No.,a,THE WITNESS,start_question
+1308,2536,98,2,"No, okay.  I'm almost finished with my questioning. The other attorneys might have a few questions for you, Mr. Rudd. Well, you indicate that he did enjoy his part-time job.  That was another part of the -- life's enjoyment for Marvin.  He liked to go to work.  Why is that, 'cause he liked to interact with the people?",q,MR. CRANE,start_answer
+1309,2543,98,9,Yeah.,a,THE WITNESS,start_question
+1310,2544,98,10,Was that part of a social outlet for him?,q,MR. CRANE,start_answer
+1311,2545,98,11,It was a social outlet.,a,THE WITNESS,start_question
+1312,2546,98,12,Yeah.  Do you know if Marvin is a member at a church?,q,MR. CRANE,start_answer
+1313,2548,98,14,Yes.,a,THE WITNESS,start_question
+1314,2549,98,15,He is?,q,MR. CRANE,start_answer
+1315,2550,98,16,"Yes, he is.",a,THE WITNESS,start_question
+1316,2551,98,17,"And has this accident interfered with his churchgoing efforts, if you know?",q,MR. CRANE,start_answer
+1317,2553,98,19,"Yes, it has.",a,THE WITNESS,start_question
+1318,2554,98,20,Do you know the name of the church that he was a member at or --,q,MR. CRANE,start_answer
+1319,2556,98,22,"No, I don't.",a,THE WITNESS,start_question
+1320,2557,98,23,Does he -- do you know if Marvin still goes -- goes to church at all or he's reduced to -- what do you -- what can you tell us in --,q,MR. CRANE,start_answer
+1321,2561,99,1,"I think it's reduced.  I think he calls some of the members that he had a good relationship with.  Also, his pastor, he calls him and talks to him --",a,THE WITNESS,start_question
+1322,2564,99,4,Yes.,q,MR. CRANE,start_answer
+1323,2565,99,5,-- and the more people that was familiar with him and familiar with his being in an accident and his wellbeing.,a,THE WITNESS,start_question
+1324,2568,99,8,Yes.,q,MR. CRANE,start_answer
+1325,2569,99,9,"And so they miss him, of course.  And he missed doing the evangelistic work he used to do.",a,THE WITNESS,start_question
+1326,2571,99,11,"Yeah.  What -- what was that work?  What did he do? You said he did evangelistic work, so you're saying that he would maybe knock on doors or --",q,MR. CRANE,start_answer
+1327,2574,99,14,Well --,a,THE WITNESS,start_question
+1328,2575,99,15,-- go to a location -- I'm sorry.  What --,q,MR. CRANE,start_answer
+1329,2576,99,16,"Well, he would -- he was active with the church, so whatever his church did --",a,THE WITNESS,start_question
+1330,2578,99,18,Yes.,q,MR. CRANE,start_answer
+1331,2579,99,19,"-- and they did, he did likewise and attended bible studies and things like that.",a,THE WITNESS,start_question
+1332,2581,99,21,Yes.  And -- and it's your understanding that -- that Marvin no longer attends bible studies or engages in evangelical endeavors because of this accident?  Is that --,q,MR. CRANE,start_answer
+1333,2585,99,25,That is correct.,a,THE WITNESS,start_question
+1334,2587,100,1,All right.  Do you know if any of the church members come to visit him at his apartment?,q,MR. CRANE,start_answer
+1335,2589,100,3,I think that he talks to most of them on the phone.,a,THE WITNESS,start_question
+1336,2590,100,4,Right.,q,MR. CRANE,start_answer
+1337,2591,100,5,And I think I recall the -- maybe five times that he said that he -- this was before the accident --,a,THE WITNESS,start_question
+1338,2593,100,7,Yes.,q,MR. CRANE,start_answer
+1339,2594,100,8,-- and I think maybe one other time after the accident -- that he went and seen the pastor of the church.,a,THE WITNESS,start_question
+1340,2597,100,11,Right.,q,MR. CRANE,start_answer
+1341,2598,100,12,"I think that -- and the pastor gave him, more or less, a spiritual insight to help with his wellbeing --",a,THE WITNESS,start_question
+1342,2600,100,14,Understood.,q,MR. CRANE,start_answer
+1343,2601,100,15,Yeah.  Things like that.,a,THE WITNESS,start_question
+1344,2602,100,16,Understood.  Do you know if any people visit Marvin at his apartment?,q,MR. CRANE,start_answer
+1345,2604,100,18,No.  I think mostly phone calls.,a,THE WITNESS,start_question
+1346,2605,100,19,Phone calls.  Are his mother and father still alive or --,q,MR. CRANE,start_answer
+1347,2607,100,21,His mother is.,a,THE WITNESS,start_question
+1348,2608,100,22,Where?  Does she live in Virginia?,q,MR. CRANE,start_answer
+1349,2609,100,23,Yes.,a,THE WITNESS,start_question
+1350,2610,100,24,"Does she ever go up and visit him, do you know?",q,MR. CRANE,start_answer
+1351,2611,100,25,They just finished visiting just last week.,a,THE WITNESS,start_question
+1352,2613,101,1,"Who's ""they""?",q,MR. CRANE,start_answer
+1353,2614,101,2,His sister and his niece came here last -- he had a -- a postate operation just last week.,a,THE WITNESS,start_question
+1354,2616,101,4,Who had the operation?,q,MR. CRANE,start_answer
+1355,2617,101,5,Marvin.,a,THE WITNESS,start_question
+1356,2618,101,6,And what kind of operation was that?,q,MR. CRANE,start_answer
+1357,2619,101,7,A postate.,a,THE WITNESS,start_question
+1358,2620,101,8,"Oh, a prostate --",q,MR. CRANE,start_answer
+1359,2621,101,9,Prostate.,a,THE WITNESS,start_question
+1360,2622,101,10,"Yeah, prostate.  Yeah.",q,MR. CRANE,start_answer
+1361,2623,101,11,Uh-huh.,a,THE WITNESS,start_question
+1362,2624,101,12,Does he have -- does he have prostate cancer?,q,MR. CRANE,start_answer
+1363,2625,101,13,I don't think he's been diagnosed with cancer.,a,THE WITNESS,start_question
+1364,2626,101,14,He just had prostate operation.  And that -- when was that?,q,MR. CRANE,start_answer
+1365,2628,101,16,Just -- just last week.,a,THE WITNESS,start_question
+1366,2629,101,17,You're talking about the -- like in August of 2019?,q,MR. CRANE,start_answer
+1367,2630,101,18,Uh-huh.,a,THE WITNESS,start_question
+1368,2631,101,19,Where was that done?  Was that in Philly or was that up in Kingston?,q,MR. CRANE,start_answer
+1369,2633,101,21,Philadelphia.,a,THE WITNESS,start_question
+1370,2634,101,22,You know what hospital?,q,MR. CRANE,start_answer
+1371,2635,101,23,"Yeah, University of Pennsylvania.",a,THE WITNESS,start_question
+1372,2636,101,24,Yeah.,q,MR. CRANE,start_answer
+1373,2637,101,25,"Did I say ""University of Pennsylvania""?",a,THE WITNESS,start_question
+1374,2639,102,1,You did.,q,MR. CRANE,start_answer
+1375,2640,102,2,Presbyterian.,a,THE WITNESS,start_question
+1376,2641,102,3,"Presbyterian, okay.  And where would his mother and sister -- did they -- did they get a hotel room, or did you put them up in your place?",q,MR. CRANE,start_answer
+1377,2644,102,6,No.  They got a hotel room.,a,THE WITNESS,start_question
+1378,2645,102,7,Yeah.  Did you go to visit Marvin in the hospital?,q,MR. CRANE,start_answer
+1379,2646,102,8,"No, I didn't.",a,THE WITNESS,start_question
+1380,2647,102,9,Do you know the nature of Marvin's prostate problem?,q,MR. CRANE,start_answer
+1381,2649,102,11,"I don't know the nature, but I know he had a prostate problem.",a,THE WITNESS,start_question
+1382,2651,102,13,That's -- I understand.  I mean that's why I asked you maybe if you -- if you had any knowledge of whether he was diagnosed with cancer.,q,MR. CRANE,start_answer
+1383,2654,102,16,"No, he hasn't been diagnosed with cancer at all.",a,THE WITNESS,start_question
+1384,2655,102,17,"Was Marvin -- has he been released from the hospital, or is he still in Philadelphia?",q,MR. CRANE,start_answer
+1385,2657,102,19,"No, he's been released.",a,THE WITNESS,start_question
+1386,2658,102,20,How did he get home?  Did you -- did someone drive him to --,q,MR. CRANE,start_answer
+1387,2660,102,22,His sister drove him.,a,THE WITNESS,start_question
+1388,2661,102,23,His sister and mother drove him back to Kingston?,q,MR. CRANE,start_answer
+1389,2662,102,24,That's correct.,a,THE WITNESS,start_question
+1390,2663,102,25,Do you know of any other surgical procedure that Marvin may -- may have had in his life other than his right foot and his prostate?,q,MR. CRANE,start_answer
+1391,2667,103,3,That I know of?,a,THE WITNESS,start_question
+1392,2668,103,4,"Yeah, that you know of.  We only -- we only want -- can only ask you what you know of from whatever source, okay?  You have no information regarding any of the other surgeries that Marvin may have had?",q,MR. CRANE,start_answer
+1393,2672,103,8,"Surgeries, no, I don't.",a,THE WITNESS,start_question
+1394,2673,103,9,You told us that -- in the statement that Marvin had a long relationship with a woman prior to the accident.  Is that the woman that you were already telling us about?,q,MR. CRANE,start_answer
+1395,2677,103,13,That's correct.,a,THE WITNESS,start_question
+1396,2678,103,14,And you indicate in the statement that Marvin felt like this woman friend looked at him as a cripple.,q,MR. CRANE,start_answer
+1397,2680,103,16,Yeah.,a,THE WITNESS,start_question
+1398,2681,103,17,Did he tell you that?,q,MR. CRANE,start_answer
+1399,2682,103,18,"Yeah.  Again, in the statement, he tells me about a time that they were walking together.",a,THE WITNESS,start_question
+1400,2684,103,20,Yes.,q,MR. CRANE,start_answer
+1401,2685,103,21,"And she's taking the lead, and she's kind of shameful of his impairment.  So she's looking back on him, hoping that he can adjust himself.  But I know she blatantly calls him a cripple, and so I know that kind of depressed him.",a,THE WITNESS,start_question
+1402,2691,104,1,She called him a cripple?,q,MR. CRANE,start_answer
+1403,2692,104,2,Yeah.,a,THE WITNESS,start_question
+1404,2693,104,3,And Marvin told you that?,q,MR. CRANE,start_answer
+1405,2694,104,4,"Yeah.  ""You a cripple.""",a,THE WITNESS,start_question
+1406,2695,104,5,Did you ever meet this woman?,q,MR. CRANE,start_answer
+1407,2696,104,6,"No, I never met her.",a,THE WITNESS,start_question
+1408,2697,104,7,"And you indicate in the statement, ""Marvin believes he has lost some sexual powers as a result of this"" -- ""of the accident,"" right?",q,MR. CRANE,start_answer
+1409,2700,104,10,Yes.,a,THE WITNESS,start_question
+1410,2701,104,11,Did he tell you that?,q,MR. CRANE,start_answer
+1411,2702,104,12,Yes.,a,THE WITNESS,start_question
+1412,2703,104,13,And he -- Marvin also fears that he might not be able to find another woman because of physical limitations due to this accident?,q,MR. CRANE,start_answer
+1413,2706,104,16,That's correct.,a,THE WITNESS,start_question
+1414,2707,104,17,He told you that?,q,MR. CRANE,start_answer
+1415,2708,104,18,Yes.,a,THE WITNESS,start_question
+1416,2709,104,19,"All right.  And then, you -- we're almost finished here with this statement.  You just alluded to the situation where the woman friend was -- wouldn't walk beside him, but walked in front of him, shameful 'cause she was ashamed of being seen with him, I guess.  That's what you want us to know?",q,MR. CRANE,start_answer
+1417,2715,104,25,Yes.,a,THE WITNESS,start_question
+1418,2717,105,1,And Mr. -- and Marvin could feel -- feel that shame; is that it?,q,MR. CRANE,start_answer
+1419,2719,105,3,Sure.  Sure.,a,THE WITNESS,start_question
+1420,2720,105,4,"Just a few more questions, Mr. Rudd.",q,MR. CRANE,start_chat
+1421,2721,105,5,I got to go to the bathroom again.,side_chat,THE WITNESS,start_chat
+1422,2723,105,7,All right.,side_chat,MR. CRANE,is brackets
+1423,2724,105,8,(Recess taken from 11:57 a.m. to 12:01 p.m.),brackets,,start_question
+1424,2727,105,11,"Just a few more questions unrelated to the -- the -- your statement, Mr. Rudd.  What is your knowledge or information regarding the facts of the accident that brings us here today?  What do you know about that accident?  I mean I know you didn't witness it, but, you know, maybe Marvin told you some things or maybe you saw the police report.  I don't know.",q,MR. CRANE,start_answer
+1425,2734,105,18,"Well, from what he told me, he was in the right-hand lane on the -- a fast moving lane.  And --",a,THE WITNESS,start_question
+1426,2736,105,20,Yes.,q,MR. CRANE,start_answer
+1427,2737,105,21,"-- a guy crossed the median strip, making an illegal left turn, and collided into his car.",a,THE WITNESS,start_question
+1428,2739,105,23,And do you have any information or knowledge that Marvin had immediate pain in his foot?  Did he tell you that?,q,MR. CRANE,start_answer
+1429,2743,106,1,Yeah.,a,THE WITNESS,start_question
+1430,2744,106,2,What did he tell you?,q,MR. CRANE,start_answer
+1431,2745,106,3,"Well, the time that he told me about the accident through a phone call --",a,THE WITNESS,start_question
+1432,2747,106,5,Yes.,q,MR. CRANE,start_answer
+1433,2748,106,6,"-- he said, ""Bob, I've broken my toe due to the accident.""  And he don't know what else -- he said, ""I don't know what else is"" -- ""but right now, they have x-rayed it and found out I got a broken toe.""",a,THE WITNESS,start_question
+1434,2752,106,10,"Now, you gave us some information relative to the medical treatment that Mr. -- that Marvin had relative to this accident.  You -- you've taken -- you took him to a couple of visits?",q,MR. CRANE,start_answer
+1435,2756,106,14,"Oh, yeah.  I was with him every time he came down to Philadelphia except for one time when he went for the actual surgery.  That's the only time.  Maybe -- maybe one other time, I wasn't with him.  But everything then, that time -- it's been like a year -- year and eight -- eight months, I've been with him.",a,THE WITNESS,start_question
+1436,2762,106,20,"And other than -- other than the idea that Mr. -- that Marvin did break a toe, have you -- do you have any knowledge or information regarding the specific type of injury that Mr. -- that Marvin sustained in this accident? I mean we know he broke his toe, but there's some, you know, medical jargon relative to that.  Do you have any information in that regard?",q,MR. CRANE,start_answer
+1437,2770,107,2,"Well, I know that his -- his back is causing him a lot of problems.",a,THE WITNESS,start_question
+1438,2772,107,4,His back.  Has he had any back surgery from this accident?,q,MR. CRANE,start_answer
+1439,2774,107,6,No.,a,THE WITNESS,start_question
+1440,2775,107,7,No?,q,MR. CRANE,start_answer
+1441,2776,107,8,Not of yet.,a,THE WITNESS,start_question
+1442,2777,107,9,"Has any surgery been recommended to him, as far as you know, for his back?",q,MR. CRANE,start_answer
+1443,2779,107,11,"Yes, it's been recommended by a doctor.",a,THE WITNESS,start_question
+1444,2780,107,12,Do you know who did that?,q,MR. CRANE,start_answer
+1445,2781,107,13,"Well, I don't know the particular doctor's name. But the last told from him, told to me --",a,THE WITNESS,start_question
+1446,2783,107,15,Yes.,q,MR. CRANE,start_answer
+1447,2784,107,16,"-- that the doctor has said that the last vertebrae in his back is in the shape of a V.  And he says that that bone has been shifted out, and the bone that sits down into that V-like shape has been fractured.",a,THE WITNESS,start_question
+1448,2788,107,20,And so what you're telling us is Marvin has told you that a physician has told him that he should have back surgery.  Correct statement?,q,MR. CRANE,start_answer
+1449,2791,107,23,Yes.  And he told him if he doesn't have it -- back surgery --,a,THE WITNESS,start_question
+1450,2793,107,25,If he does not have the back surgery --,q,MR. CRANE,start_answer
+1451,2795,108,1,-- he will be paralyzed.,a,THE WITNESS,start_question
+1452,2796,108,2,He will be paralyzed --,q,MR. CRANE,start_answer
+1453,2797,108,3,Yeah.,a,THE WITNESS,start_question
+1454,2798,108,4,-- eventually?,q,MR. CRANE,start_answer
+1455,2799,108,5,Uh-huh.,a,THE WITNESS,start_question
+1456,2800,108,6,So --,q,MR. CRANE,start_answer
+1457,2801,108,7,"And if he does have it, he'd only give him a 50/50 chance that he won't be paralyzed from the waist down.",a,THE WITNESS,start_question
+1458,2803,108,9,When did you hear -- when did Marvin tell you that?,q,MR. CRANE,start_answer
+1459,2804,108,10,He's been telling me that for -- now --,a,THE WITNESS,start_question
+1460,2805,108,11,"Oh, I see.",q,MR. CRANE,start_answer
+1461,2806,108,12,-- for about a month and a half.,a,THE WITNESS,start_question
+1462,2807,108,13,Month and a half?,q,MR. CRANE,start_answer
+1463,2808,108,14,Uh-huh.,a,THE WITNESS,start_question
+1464,2809,108,15,So has Marvin told you or given you any information that he's trying to schedule this surgery or no?,q,MR. CRANE,start_answer
+1465,2811,108,17,He's still in the aspect of getting a second opinion.,a,THE WITNESS,start_question
+1466,2813,108,19,Second opinion.  And do you know the names of any of the doctors that treated him relative to his back?,q,MR. CRANE,start_answer
+1467,2815,108,21,"No.  He -- he gave me names, but if I didn't write it down, I couldn't --",a,THE WITNESS,start_question
+1468,2817,108,23,"Understood.  And -- and, you know, there's medical records, you know?",q,MR. CRANE,start_answer
+1469,2819,108,25,Sure.,a,THE WITNESS,start_question
+1470,2821,109,1,"And you're not -- we know that you're not a doctor. Once again, this purpose here is just to inquire any knowledge that you might have.  And if you don't know, you don't know.",q,MR. CRANE,start_answer
+1471,2825,109,5,Yeah.,a,THE WITNESS,start_question
+1472,2826,109,6,Yeah.  All right.,q,MR. CRANE,start_answer
+1473,2827,109,7,"And I've seen his back.  I've seen that, from my observation --",a,THE WITNESS,start_question
+1474,2829,109,9,Yes.,q,MR. CRANE,start_answer
+1475,2830,109,10,-- that he has something bulging out of his back. I know it's not right.,a,THE WITNESS,start_question
+1476,2832,109,12,Something bulging out of his lower back?,q,MR. CRANE,start_answer
+1477,2833,109,13,"Yeah.  Uh-huh.  I see it, and he points to the -- and like I said before, I put on the pain medication packs -- patches.",a,THE WITNESS,start_question
+1478,2836,109,16,Yes.,q,MR. CRANE,start_answer
+1479,2837,109,17,"And I can see it, you know?  And I get -- he would take his hand and point to it.  ""Bob, this is where the pain at.  I want you to put the"" -- ""the patch right on there.""",a,THE WITNESS,start_question
+1480,2841,109,21,"All right.  Are -- are you aware that, in the surgery that -- that Marvin had to his toe, he -- like -- like we talked about, it was called ""a hemiarthroplasty of the right first MPJ with implant""?  That's -- that's the surgery he had.",q,MR. CRANE,start_answer
+1481,2847,110,1,Uh-huh.,a,THE WITNESS,start_question
+1482,2848,110,2,"There -- there was a piece of hardware, titanium, as you indicated, put into his foot.  Are you aware of that?",q,MR. CRANE,start_answer
+1483,2851,110,5,Yes.  And he -- he -- he sent me a picture over the phone.,a,THE WITNESS,start_question
+1484,2853,110,7,"Yeah.  And he has a scar on his foot, right?",q,MR. CRANE,start_answer
+1485,2854,110,8,Yes.,a,THE WITNESS,start_question
+1486,2855,110,9,Could you describe the scar?  What's it look like?,q,MR. CRANE,start_answer
+1487,2856,110,10,"Well, it's a scar going down the center of his big toe, up past the -- where, I'd say, the joint.",a,THE WITNESS,start_question
+1488,2858,110,12,Yes.,q,MR. CRANE,start_answer
+1489,2859,110,13,I would say it's maybe a four-inch scar.,a,THE WITNESS,start_question
+1490,2860,110,14,"Four-inch, all right.  Just a few more questions, sir.  Have you actually ever reviewed any of the medical records?  I mean there -- there's no obligation for you to do that.",q,MR. CRANE,start_answer
+1491,2864,110,18,No.,a,THE WITNESS,start_question
+1492,2865,110,19,"No?  All right.  And you -- you gave us some information that you -- at one time, you were present when Dr. Mann spoke with Mr. -- with Marvin.  Did you -- did you, yourself, speak with Dr. Mann too or no?  Did you just listen?",q,MR. CRANE,start_answer
+1493,2870,110,24,I just listened.,a,THE WITNESS,start_question
+1494,2871,110,25,"And so have -- have you ever spoken to any of his doctors, you, yourself?",q,MR. CRANE,start_answer
+1495,2874,111,2,No.  I was just observing.,a,THE WITNESS,start_question
+1496,2875,111,3,"I -- I wouldn't really be -- I don't know if it would be appropriate or not.  I mean you -- you guys are buddies.  It's just an area of inquiry, just a ""T"" you cross, an ""I"" to dot, you know?  Maybe you -- at some point, maybe you had spoken to a doctor, and we would want to find that out.  But I wouldn't really expect that you would speak to his doctors, but I have to inquire about that.  You know what I'm saying?",q,MR. CRANE,start_answer
+1497,2883,111,11,I understand.,a,THE WITNESS,start_question
+1498,2884,111,12,"Yeah.  Okay.  When -- when you -- you've looked at Mr. -- you've looked at Marvin's right foot, and you told us you've seen the scar.  Have -- have you -- is it malformed in any other way?  What do you see when you look at his right foot?",q,MR. CRANE,start_answer
+1499,2889,111,17,"Yeah.  It's a -- it's a little bit malformed, from my observation.",a,THE WITNESS,start_question
+1500,2891,111,19,"Understood.  Like, for example, is his -- his right toe crooked in any manner?",q,MR. CRANE,start_answer
+1501,2893,111,21,"Yeah.  It -- it veers off to the right, you know? As paired to the other foot, it's straight.",a,THE WITNESS,start_question
+1502,2895,111,23,Yes.,q,MR. CRANE,start_answer
+1503,2896,111,24,"So, you know, due to the surgery and the stitches and --",a,THE WITNESS,start_question
+1504,2899,112,1,Understood.,q,MR. CRANE,start_answer
+1505,2900,112,2,"-- the titanium screw, it -- it kind of --",a,THE WITNESS,start_question
+1506,2901,112,3,Yes.,q,MR. CRANE,start_answer
+1507,2902,112,4,-- veers off just a -- a --,a,THE WITNESS,start_question
+1508,2903,112,5,Understood.,q,MR. CRANE,start_answer
+1509,2904,112,6,Yes.,a,THE WITNESS,start_question
+1510,2905,112,7,Has -- does -- does Marvin wear any specific or -- specific shoes as a result of this accident?  Has he had to wear orthotic shoes or change his shoe-wearing habits?,q,MR. CRANE,start_answer
+1511,2908,112,10,He -- he has a lot of shoes that he's changed. He's got some comfortable shoes --,a,THE WITNESS,start_question
+1512,2910,112,12,Yes.,q,MR. CRANE,start_answer
+1513,2911,112,13,"-- with soft, sponge-like -- maybe a Skechers-type of shoe, sneaker.",a,THE WITNESS,start_question
+1514,2913,112,15,Yes.,q,MR. CRANE,start_answer
+1515,2914,112,16,"So it's like that.  And even at times, he's got to take that off, you know, give his foot a little bit more of a -- a respite.",a,THE WITNESS,start_question
+1516,2917,112,19,Yes.,q,MR. CRANE,start_chat
+1517,2918,112,20,"All right.  Sir, I'm sorry for such exhausting questions.  That's all I have.  Neil might have some questions or Mr. Sheridan. Who's next?",side_chat,MR. CRANE,start_chat
+1518,2922,112,24,"I do.  Neil, you want me to go first? MR. O'DONNELL",side_chat,MR. SHERIDAN,start_question
+1519,2927,113,3,"Mr. Rudd, can you hear me?",q,MR. SHERIDAN,start_answer
+1520,2928,113,4,"Yes, I can, sir.",a,THE WITNESS,start_question
+1521,2929,113,5,"All right.  Very good.  So I'm the attorney for a fellow by the last name Agami, and he was the driver of the other car, all right?",q,MR. SHERIDAN,start_answer
+1522,2932,113,8,Understood.,a,THE WITNESS,start_question
+1523,2933,113,9,"And I'm calling you from Scranton.  Just so you know, that's where I am.",q,MR. SHERIDAN,start_answer
+1524,2935,113,11,Yes.,a,THE WITNESS,start_question
+1525,2936,113,12,So let me just back up a little bit.  What year did you first meet Mr. Bassett?,q,MR. SHERIDAN,start_answer
+1526,2938,113,14,"Year, per se -- but I would say approximately about 14 years ago.",a,THE WITNESS,start_question
+1527,2940,113,16,"All right.  And so for 14 years, has he been coming down to Philadelphia to visit you?",q,MR. SHERIDAN,start_answer
+1528,2942,113,18,Yes.,a,THE WITNESS,start_question
+1529,2943,113,19,And has he done that pretty consistently over that full period of time?,q,MR. SHERIDAN,start_answer
+1530,2945,113,21,"Yes, especially after the death of his older brother, Marvin.",a,THE WITNESS,start_question
+1531,2947,113,23,"His older brother -- MR. O'DONNELL:  You mean Omar, right?",q,MR. SHERIDAN,start_chat
+1532,2949,113,25,Omar.  I'm -- correction,side_chat,THE WITNESS,start_question
+1533,2953,114,3,Okay.  And when did that happen?,q,MR. SHERIDAN,start_answer
+1534,2954,114,4,The death of his brother?,a,THE WITNESS,start_question
+1535,2955,114,5,"Yeah, roughly.",q,MR. SHERIDAN,start_answer
+1536,2956,114,6,"I would think that -- we were last talking about it, and we -- we were saying that it's been more than five years.  I think it was back in 2013, as I can recall.",a,THE WITNESS,start_question
+1537,2959,114,9,"All right.  So from that point forward, he -- Mr. Bassett would come down and see you more often?",q,MR. SHERIDAN,start_answer
+1538,2961,114,11,Yes.,a,THE WITNESS,start_question
+1539,2962,114,12,"And if I understand correctly, you think that he came down about once every three or -- three or four months?",q,MR. SHERIDAN,start_answer
+1540,2965,114,15,"Yes, definitely so.",a,THE WITNESS,start_question
+1541,2966,114,16,And he would always come down just for one day?,q,MR. SHERIDAN,start_answer
+1542,2967,114,17,"Most of -- most of the time, yes.  It was no more than that.",a,THE WITNESS,start_question
+1543,2969,114,19,Did he ever -- yeah.  Did he ever spend the night with you?,q,MR. SHERIDAN,start_answer
+1544,2971,114,21,"No, sir.",a,THE WITNESS,start_question
+1545,2972,114,22,And what time would he normally get there?,q,MR. SHERIDAN,start_answer
+1546,2973,114,23,"Most of the time, it was morning time.  I would say that -- 10:00 or shortly thereafter.",a,THE WITNESS,start_question
+1547,2975,114,25,All right.  And you're home all day yourself?,q,MR. SHERIDAN,start_answer
+1548,2977,115,1,No.  We -- we --,a,THE WITNESS,start_question
+1549,2978,115,2,"I mean back then, were you working when he would come down and --",q,MR. SHERIDAN,start_answer
+1550,2980,115,4,"We would make appointments.  We would make appointment.  And he knew places where I would go, and he would inquire about me through friends and everything like that.  So if -- if he was to -- he would return upon me, getting the information from my friends and -- and him, if he didn't reach me by phone.",a,THE WITNESS,start_question
+1551,2986,115,10,"But when he would come down to see you, you know, after 2013, 2014, were you always living at the same address?",q,MR. SHERIDAN,start_answer
+1552,2989,115,13,"No.  No, I wasn't.  I was living at 4145 --",a,THE WITNESS,start_question
+1553,2990,115,14,That's okay.  I don't need the -- I don't need the address.  That's okay.,q,MR. SHERIDAN,start_answer
+1554,2992,115,16,Yeah.  No.,a,THE WITNESS,start_question
+1555,2993,115,17,"I'm just trying to get a sense of -- but so anyway, he would come down in the morning sometime and stay all day and then leave late that night or early the next morning; is that correct?",q,MR. SHERIDAN,start_answer
+1556,2997,115,21,"Never in the early the next -- late morning, yes. We're talking about maybe 1:00 or 2:00 o'clock in the morning.",a,THE WITNESS,start_question
+1557,3000,115,24,"All right.  And is it your testimony that in -- even after 2013 and 2014, the two of you would actually jog together or run together?",q,MR. SHERIDAN,start_answer
+1558,3004,116,2,Yes.,a,THE WITNESS,start_question
+1559,3005,116,3,And so are you still a runner yourself?,q,MR. SHERIDAN,start_answer
+1560,3006,116,4,"Yes, I am.",a,THE WITNESS,start_question
+1561,3007,116,5,All right.  And how often do you run?,q,MR. SHERIDAN,start_answer
+1562,3008,116,6,"I would say, in the last six months, at least once -- once a week.",a,THE WITNESS,start_question
+1563,3010,116,8,All right.  And are -- are you saying also that you and Mr. Bassett used to ride bikes together or no?,q,MR. SHERIDAN,start_answer
+1564,3012,116,10,That's correct.,a,THE WITNESS,start_question
+1565,3013,116,11,So you have a bike there at your place?,q,MR. SHERIDAN,start_answer
+1566,3014,116,12,"Yes, I do.  And I have a stand-up bike in the house also.",a,THE WITNESS,start_question
+1567,3016,116,14,"And so since the accident has happened, I think you testified that Mr. Bassett has -- that you have seen him something like 20 times since the accident happened.  Is that -- did I hear that accurately?",q,MR. SHERIDAN,start_answer
+1568,3020,116,18,Yes.,a,THE WITNESS,start_question
+1569,3021,116,19,"And is this the same kind of thing, he would come down in the morning and stay all day and then leave in the early morning hours of the next day?",q,MR. SHERIDAN,start_answer
+1570,3024,116,22,Yeah.  We worked out a routine.,a,THE WITNESS,start_question
+1571,3025,116,23,So how often after the accident was he coming to see you?,q,MR. SHERIDAN,start_answer
+1572,3027,116,25,"Again, maybe every two months.  'Cause now, the -- the -- the surgery is coming about, and we -- he was shopping for doctors, so to speak.  So he had to find a doctor that he wanted to perform the surgery.",a,THE WITNESS,start_question
+1573,3032,117,4,"And so why -- why did he have to do that in Philadelphia, at your house versus in Kingston?",q,MR. SHERIDAN,start_answer
+1574,3034,117,6,"Why did he -- explain yourself again, sir.  Ask the question a different way.",a,THE WITNESS,start_question
+1575,3036,117,8,"Well, I was asking you how often he came down, and you started talking about he was shopping for doctors, so I didn't really understand.  Was he researching doctors while he was with you?",q,MR. SHERIDAN,start_answer
+1576,3040,117,12,"Yes.  When we set out for the -- half of it, he did by phone and by conversations with other people to find a doctor that could repair his -- his -- his toe with a minimum amount of surgery and -- and disadvantage to himself physically.",a,THE WITNESS,start_question
+1577,3045,117,17,"Well, when he would come to see you, are -- are the two of you going to doctors' offices to interview doctors?",q,MR. SHERIDAN,start_answer
+1578,3047,117,19,Yes.  Yes.,a,THE WITNESS,start_question
+1579,3048,117,20,So you actually go to -- with him to doctors' appointments for the purposes of interviewing doctors to figuring out who the best surgeon would be for him?  Is that what you're telling me?,q,MR. SHERIDAN,start_answer
+1580,3052,117,24,"Yes.  As I recollect, he started at -- what do you call it? the Rothman Institute and gaining information there, particular types of surgery and one of the better clinics or -- or hospitals with better quality of doctors that he couldn't find in the hometown --",a,THE WITNESS,start_question
+1581,3058,118,4,All right.  Let me ask you --,q,MR. SHERIDAN,start_answer
+1582,3059,118,5,Yes.,a,THE WITNESS,start_question
+1583,3060,118,6,"That's fine.  I don't mean to cut you off, but I'm just curious:  So how many different doctors did you go to with Mr. Bassett to interview them to figure out who the best doctor would be?  How many times did you actually do that?  How many different doctors did you go see with him in terms of shopping or searching for a doctor to perform his surgery?",q,MR. SHERIDAN,start_answer
+1584,3067,118,13,"Well, for his foot, I could remember twice visiting the Rothman Institute.  And then, after he found some information on Dr. Mann that he was -- I made maybe two or three visits before the actual operation.  He -- he liked the prognosis that Dr. Mann has given him.",a,THE WITNESS,start_question
+1585,3072,118,18,"But in any event, so Mr. Bassett has been coming to see you about every other month since the accident, correct?",q,MR. SHERIDAN,start_answer
+1586,3075,118,21,That's correct.,a,THE WITNESS,start_question
+1587,3076,118,22,And has that been primarily for the purposes of socializing with you?,q,MR. SHERIDAN,start_answer
+1588,3078,118,24,"No.  That -- for the past year and a half, it's been a wellness aspect for me and him.",a,THE WITNESS,start_question
+1589,3081,119,1,Right.  And what does that mean?,q,MR. SHERIDAN,start_answer
+1590,3082,119,2,"It means that, to physically put yourself back together, you're gonna have to do something physical.  To psychologically put yourself back together, you're gonna have to do something psychological.  And we did both.",a,THE WITNESS,start_question
+1591,3086,119,6,All right.  So why is -- why -- what were you doing with him to assist him physically and psychologically?,q,MR. SHERIDAN,start_answer
+1592,3088,119,8,"Okay.  Psychologically, I was being his friend. Physically, I was helping him with his handicap, I would say.",a,THE WITNESS,start_question
+1593,3091,119,11,And how are you helping him with that?,q,MR. SHERIDAN,start_answer
+1594,3092,119,12,"Well, again, as a friend, I told him the -- the psychological impairments that he would go through.  Me having a stroke I alluded to -- to earlier, that I went through all the pains and ills physically and mentally, you know, and spiritually, if we can say that, being let down, being depressed.  I told him some of the -- the psychological dissidence he would have in going through trying to get well and stay in a permanent aspect in the reality of life.",a,THE WITNESS,start_question
+1595,3101,119,21,"All right.  So -- and that was all -- all that assistance that you were giving to him was done by you in person with him, correct?",q,MR. SHERIDAN,start_answer
+1596,3104,119,24,That's correct.,a,THE WITNESS,start_question
+1597,3105,119,25,And you think -- and that was the -- the principal reason he was coming to see you every other month after the accident?,q,MR. SHERIDAN,start_answer
+1598,3109,120,3,"Yes.  He seen me -- I told him about a stroke that I had ten years ago, and I had did my --",a,THE WITNESS,start_question
+1599,3111,120,5,I understand all that.,q,MR. SHERIDAN,start_answer
+1600,3112,120,6,Yes.,a,THE WITNESS,start_question
+1601,3113,120,7,"All right.  And then, also, so when he would come down there, you guys would go out, and you'd go to lunch, and you would do other things, I take it, other than -- or would you primarily just, you know, sit in your -- your apartment or your house?",q,MR. SHERIDAN,start_answer
+1602,3118,120,12,"No.  We tried to do the things that he was somewhat able to do with limitations.  And by me being an old geriatric worker, I knew what his physical limitations were and how he could get through it.",a,THE WITNESS,start_question
+1603,3122,120,16,And -- and -- and how often do you talk with him on the phone?,q,MR. SHERIDAN,start_answer
+1604,3124,120,18,"Now, at least three to four times a week.",a,THE WITNESS,start_question
+1605,3125,120,19,And is he still coming down to see you?,q,MR. SHERIDAN,start_answer
+1606,3126,120,20,The last he was here was just about two weeks ago.,a,THE WITNESS,start_question
+1607,3127,120,21,And what did you guys do during that visit?,q,MR. SHERIDAN,start_answer
+1608,3128,120,22,"I went with him to a -- I -- I think that that particular time, he was telling me that he was getting ready for a procedure with his postate.",a,THE WITNESS,start_question
+1609,3131,120,25,All right.  And did the -- did Mr. Bassett ever tell you that he had injured that foot before?,q,MR. SHERIDAN,start_answer
+1610,3134,121,2,No.,a,THE WITNESS,start_question
+1611,3135,121,3,Did he ever tell you that -- that this injury caused a -- a prior injury to get worse?,q,MR. SHERIDAN,start_answer
+1612,3137,121,5,He was telling me that his -- his gait was off.  He didn't walk as good as he used to walk.,a,THE WITNESS,start_question
+1613,3139,121,7,"Yeah.  I'm talking about before the accident, did -- did -- did he ever have any kind of a limp, that you remember?",q,MR. SHERIDAN,start_answer
+1614,3142,121,10,"Yeah.  He -- he did have a small limp.  He told me about it in -- in passing.  Now that I recall, Marvin, at three years old, was shot accidentally with a shotgun and -- when he was an infant.",a,THE WITNESS,start_question
+1615,3146,121,14,Okay.,q,MR. SHERIDAN,start_answer
+1616,3147,121,15,It was either an infant or --,a,THE WITNESS,start_question
+1617,3148,121,16,"So prior to this accident, you remember him walking with a -- I think we can call it a small limp; is that correct?",q,MR. SHERIDAN,start_answer
+1618,3151,121,19,That's correct.,a,THE WITNESS,start_question
+1619,3152,121,20,"And did he ever talk with you about having -- and this is before the accident, sir -- did he ever talk with you about having pain in his foot?",q,MR. SHERIDAN,start_answer
+1620,3155,121,23,No.,a,THE WITNESS,start_question
+1621,3156,121,24,Did he ever talk to you about having gout in his foot?,q,MR. SHERIDAN,start_answer
+1622,3159,122,1,No.,a,THE WITNESS,start_question
+1623,3160,122,2,Did he ever talk to you about having gout?,q,MR. SHERIDAN,start_answer
+1624,3161,122,3,No.,a,THE WITNESS,start_question
+1625,3162,122,4,And -- okay.  Let me take a look here.  Has Mr. Bassett talked with you about whether or not he might have another surgery to his foot that would actually fuse -- fuse his big toe?,q,MR. SHERIDAN,start_answer
+1626,3166,122,8,"No, he didn't talk about another surgery.",a,THE WITNESS,start_question
+1627,3167,122,9,He hasn't talked with you about other things that he could have done for his foot?,q,MR. SHERIDAN,start_answer
+1628,3169,122,11,"No.  He's in the process of -- of seeing that this surgery that he just had, what type of ability he would have after the surgery.  He's based on getting well.",a,THE WITNESS,start_question
+1629,3172,122,14,"And has he indicated to you that he feels like overall, he's been improving since the surgery was done?",q,MR. SHERIDAN,start_answer
+1630,3174,122,16,"No, he's not improving.",a,THE WITNESS,start_chat
+1631,3175,122,17,All right.  I think that's all I have.  Thank you. MR. O'DONNELL,side_chat,MR. SHERIDAN,start_chat
+1632,3179,122,21,That -- that's it.,side_chat,MR. CRANE,is brackets
+1633,3180,122,22,(Witness excused.),brackets,,is brackets
+1634,3181,122,23,"(Deposition ended 12:25 p.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+1635,3201,123,18,__________________________ Ian Monahan and Notary Public,symbols,,end

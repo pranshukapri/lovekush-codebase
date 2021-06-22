@@ -1,0 +1,1003 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," LAWRENCE MEEKS, having been first duly sworn, testified as follows: EXAMINATION",,,start_question
+1,159,5,16,"Mr. Meeks, my name is Matt Todd, and I represent the Lombardi Foundation and the trademark opposition that has been filed by the Rotary Club of Houston against the Lombardi Foundation for its trademark, the Lombardi Award. I assume you have some degree of familiarity with the dispute?",q,MR. TODD,start_answer
+2,166,5,23,"Uh-huh, I do.",a,THE WITNESS,start_question
+3,167,5,24,Okay.  All right.  I'd like to hand you what we're going to mark as Deposition Exhibit No. 1 which is the notice of the deposition for the Rotary Club of Houston.,q,MR. TODD,is brackets
+4,172,6,3,(Exhibit 1 marked.),brackets,,start_question
+5,173,6,4,(BY MR. TODD)  Have you seen this notice before?,q,MR. TODD,start_chat
+6,175,6,6,"You sent me this, right, Mike?",side_chat,THE WITNESS,start_chat
+7,177,6,8,I do not -- I did not send you this one.,side_chat,MR. GARVIN,start_question
+8,179,6,10,"(BY MR. TODD)  Okay.  Do you understand, Mr. Meeks, that you're here today as the representative of the Rotary Club of Houston?",q,MR. TODD,start_answer
+9,182,6,13,Yes.,a,THE WITNESS,start_question
+10,183,6,14,"Okay.  I would also like to hand you what we're going to mark as Deposition Exhibit No. 2, which is your -- the notice of your personal deposition.",q,MR. TODD,is brackets
+11,187,6,18,(Exhibit 2 marked.),brackets,,start_question
+12,188,6,19,(BY MR. TODD)  Have you seen that before today?,q,MR. TODD,start_answer
+13,190,6,21,I don't think so.,a,THE WITNESS,start_chat
+14,191,6,22,"I mean, I'll just say for the record I --",side_chat,MR. GARVIN,start_chat
+15,193,6,24,Okay.  That's fine.,side_chat,MR. TODD,start_chat
+16,194,6,25,This came out yesterday.,side_chat,MR. GARVIN,start_chat
+17,196,7,1,It's fine.,side_chat,MR. TODD,start_question
+18,197,7,2,"(BY MR. TODD)  So there are -- it's not uncommon for this -- for these sort of proceedings to be run together.  So my intention is to take your deposition as the corporate representative and also take your personal deposition at the same time so that we can save time for the parties. What I will do in order to accommodate that is if I am asking a question where I expect a response from the Rotary Club of Houston, I will indicate that I'm asking, ""What would Rotary's position be with regard to such and such?""  If I'm asking for your personal opinion or your personal testimony, I will say, ""Mr. Meeks, what is your personal opinion or your personal testimony?""",q,MR. TODD,start_answer
+19,211,7,16,Okay.,a,THE WITNESS,start_question
+20,212,7,17,Is that okay?,q,MR. TODD,start_answer
+21,213,7,18,"That's fine, as long as you understand that I am the past president of the Rotary Club.  I'm not the current president of the Rotary Club.",a,THE WITNESS,start_question
+22,216,7,21,Indeed I understand that.,q,MR. TODD,start_chat
+23,217,7,22,Yeah.,side_chat,MR. GARVIN,start_answer
+24,218,7,23,"So that -- and within Rotary that changes things in terms of, you know, what I say and whether it's binding on the Club, et cetera.",a,THE WITNESS,start_chat
+25,222,8,1,"Yeah, I just want to interject, too.  Matt, you-all served a notice of a 30(b)(6) deposition, and we objected to several categories.  So Mr. Meeks is being produced to pursuant to certain specific topics in your prior notice as the corporate representative and -- and otherwise not.",side_chat,MR. GARVIN,start_chat
+26,229,8,8,Understood.,side_chat,MR. TODD,start_chat
+27,230,8,9,Yeah.,side_chat,MR. GARVIN,start_chat
+28,231,8,10,"If we get into a category where Mr. Meeks is not the appropriate witness for the category, then we can take that up at that time.",side_chat,MR. TODD,start_chat
+29,235,8,14,Fair enough.,side_chat,MR. GARVIN,start_chat
+30,236,8,15,"And in those instances, I probably will be asking Mr. Meeks for his personal opinion even if he can't testify on behalf of the organization.",side_chat,MR. TODD,start_chat
+31,240,8,19,Personal knowledge as opposed to personal opinion?,side_chat,MR. GARVIN,start_chat
+32,242,8,21,Indeed.,side_chat,MR. TODD,start_chat
+33,243,8,22,Fair enough.,side_chat,MR. GARVIN,start_chat
+34,244,8,23,And it will be up to you guys to decide whether I'm the appropriate witness or not.  I wouldn't have any idea.,side_chat,THE WITNESS,start_chat
+35,248,9,1,"We'll work it out.  We'll work it out.  Thank you, Mike and Mr. Meeks.",side_chat,MR. TODD,start_question
+36,250,9,3,"(BY MR. TODD)  Okay.  So, Mr. Meeks, have you ever had your deposition taken before?",q,MR. TODD,start_answer
+37,252,9,5,I have.,a,THE WITNESS,start_question
+38,253,9,6,Okay.  And what kind of a proceeding was that?,q,MR. TODD,start_answer
+39,255,9,8,Related to professional practice.  I'm an architect.  So in matters involving a client or a general contractor claim.,a,THE WITNESS,start_question
+40,258,9,11,Okay.,q,MR. TODD,start_answer
+41,259,9,12,And I want to say two or three times in my career.,a,THE WITNESS,start_question
+42,261,9,14,All right.  So you're sort of familiar with the way this goes?,q,MR. TODD,start_answer
+43,263,9,16,I am.,a,THE WITNESS,start_question
+44,264,9,17,"I ask the question.  You give the answer.  I try to let you finish your answer before I interrupt you.  You try to let me finish the question before you start the answer.  It's hard for people to do that.  It's hard for me to do that, but I'll try -- I'll do my best. If you need a break at any point, that's certainly fine.  Just let me know.  We can stop. My only request is that we don't do that when there's a question pending.  So let's go ahead and finish out the answer to the question before we take the break.  If you do need to take a break to talk to Mr. Garvin about anything, that's also certainly fine.  But we'll -- Mr. Garvin and I will then need to have a little bit of a discussion about that once you come back.  So --",q,MR. TODD,start_answer
+45,281,10,8,Okay.,a,THE WITNESS,start_chat
+46,282,10,9,"Mike, have you talked to them about why we rescheduled this, what I've been through?",side_chat,THE WITNESS,start_chat
+47,285,10,12,"I have.  And just so everybody is on the same page, you know that Mr. Meeks has had some health problems.  And he's still confronting them, but he's a lot better. But he just -- there may be times he needs to take a pause because of those.",side_chat,MR. GARVIN,start_question
+48,291,10,18,"(BY MR. TODD)  Certainly.  If at any point you don't feel well, you need a break, just let us know.  It's perfectly acceptable.  We do understand, and we're happy to accommodate that. So in order to prepare for this deposition, did you -- did you meet with anybody or did you look at any documents?  What did you do to prepare?",q,MR. TODD,start_answer
+49,300,11,1,"I've looked at some of the documents that Mike has provided.  I've spoken with Mike.  I did not talk to anybody else about this deposition, what I should say or what anybody else has said or any of those kinds of things at all.  I didn't think that would have any bearing on how I would respond to your questions.",a,THE WITNESS,start_question
+50,307,11,8,"Okay.  So documents that you reviewed, were they -- did you happen to know if they were documents that were produced or not produced in the proceeding?",q,MR. TODD,start_answer
+51,311,11,12,Mike would have to tell you that because they're in his email that he sent to me.,a,THE WITNESS,start_question
+52,313,11,14,Okay.  Do you recall if they had a number in the bottom right-hand corner?,q,MR. TODD,start_answer
+53,315,11,16,"No, I don't.",a,THE WITNESS,start_question
+54,316,11,17,Okay.  Did you assist Mr. Garvin or his team with the preparation of responses to discovery requests in this matter?,q,MR. TODD,start_chat
+55,319,11,20,"He's referring to, for example, interrogatories, those written questions that were served by Mr. Todd's client.",side_chat,MR. GARVIN,start_answer
+56,322,11,23,Not that I recall.  So --,a,THE WITNESS,start_question
+57,323,11,24,(BY MR. TODD)  Okay.,q,MR. TODD,start_answer
+58,324,11,25,"-- I don't think we've had much discussion at all really, just given the situation that I've been through personally.  I've had my foot off the gas in this matter pretty extensively.",a,THE WITNESS,start_question
+59,329,12,4,It would have been probably some time ago that these requests were served.  And we need -- we just want to make sure that we understand who was sort of responsible for helping Mr. Garvin gather the information.,q,MR. TODD,start_answer
+60,334,12,9,"I did -- I did have a spreadsheet put together and provided it to Mike in answer to one of the questions.  So that I know specifically. If there were discussions on the phone or something like that, they were not extensive or long in nature.",a,THE WITNESS,start_question
+61,340,12,15,Do you recall generally what the spreadsheet contained?,q,MR. TODD,start_answer
+62,342,12,17,"Yeah, it contained revenue figures for the Lombardi Award event going back to -- five or six years at least.",a,THE WITNESS,start_question
+63,345,12,20,Okay.  Did you gather any documents to assist Rotary Club in its proceeding here?,q,MR. TODD,start_answer
+64,347,12,22,"No, I didn't.",a,THE WITNESS,start_question
+65,348,12,23,Okay.  Do you have any documents now that are relevant to the proceeding?,q,MR. TODD,start_answer
+66,350,12,25,Not that I'm aware of.,a,THE WITNESS,start_question
+67,352,13,1,Do you know how the Rotary Club of Houston maintains its documentation with regard to the Lombardi Award?,q,MR. TODD,start_answer
+68,355,13,4,"I know that we have a storeroom in a storage facility.  And I've never been there.  So, you know, I -- I didn't have a key for most of the time that I was president of the Club.  I transitioned out of being president at the end of June.  I gave that key to our current president. But I've never been to that storage room or was, you know, personally aware of anything that was in it.",a,THE WITNESS,start_question
+69,364,13,13,Okay.  Are there electronic storage mechanisms or devices that the Rotary Club of Houston uses?,q,MR. TODD,start_answer
+70,367,13,16,"I assume that there's -- there's -- some of that material exists, but I'm not personally aware of it.  I haven't been involved in it.  I mean, the Club administrator would know more about that than I.",a,THE WITNESS,start_question
+71,372,13,21,Okay.  Who is the current Club administrator?,q,MR. TODD,start_answer
+72,374,13,23,"Her name is Dena -- give me a minute.  I'll member her last name.  We can get you the name. Dena -- gosh, brain cramp.  Sorry.  It will come to me in a couple of minutes, I'm sure.",a,THE WITNESS,start_question
+73,379,14,2,"Some of the documents that we have in this case are quite old.  They date back to the '70s, for example.  Do you know how the Rotary Club of Houston would have stored those types of documents or how they would have been found?",q,MR. TODD,start_answer
+74,384,14,7,No.,a,THE WITNESS,start_question
+75,385,14,8,Do you know if the Rotary Club of Houston has a documentation retention policy?,q,MR. TODD,start_answer
+76,387,14,10,"Not that I'm aware of.  I think there's a lot of enthusiasm and interest in it, but it's more of a grassroots by member -- by member kind of thing.  So there isn't any stated policy or -- or structure that governs that that I'm aware of.",a,THE WITNESS,start_question
+77,392,14,15,"Okay.  And the Club administrator, she would be the person that would most likely be the person responsible for maintaining records in your opinion?",q,MR. TODD,start_answer
+78,396,14,19,"Not necessarily.  And I'm not trying to make this difficult.  It's just that we have -- we have a number of people in the Club that are currently or formerly in the Club that have amassed, you know, mementos and different things that go with the history of the Club. So I know Phil Hampton might have some of that kind of material.  I don't know specifically what he has.  I know that Angie Jimenez, who used to be with the Club and no longer is, is -- and this is all just hearsay, but widely discussed that -- that he took a lot of documentation with him and so on, not necessarily about this matter, but just stuff that he felt was his more than it was the Club's.",a,THE WITNESS,start_question
+79,412,15,9,Sure.  Okay.,q,MR. TODD,start_answer
+80,413,15,10,So --,a,THE WITNESS,start_question
+81,414,15,11,"When there's a transition from -- from one president to the next, is there a process involved, or how does that happen?",q,MR. TODD,start_answer
+82,417,15,14,"It -- it -- all of Rotary -- Rotary International, every Rotary Club gets new leadership on July 1st of every year.  And the vast majority of what is attended to in that transition is -- has to do with renewing memberships.  So while the Club gets completely new leadership, the Club also has to get all of its members renewed on that same date. The -- the big thing that overarches pretty much anybody's concern to anything else is filing that membership report with Rotary International at midnight on the last day of June.  So, you know, I've been through this twice when I was coming in as president and then going out as president.  It -- it -- it consumes a lot of time.",a,THE WITNESS,start_question
+83,433,16,4,Okay.  Are there any written guidelines or procedures for a president in terms of what you should do or how you should conduct meetings or what you should do with the board?,q,MR. TODD,start_answer
+84,437,16,8,"There's probably a ton of that out there in reality.  I'm not sure that it's organized coordinated, consistent.  Different clubs are very willing to publish what they think the duties of officers are, but those are Club publications. Rotary International has a lot of guidelines, and they are all basically crafted to help a new president not fall on their face.",a,THE WITNESS,start_question
+85,445,16,16,Does Rotary Club of Houston have any such guidelines?,q,MR. TODD,start_answer
+86,447,16,18,"Not specifically, not beyond anything that I've already said.  A lot of stuff gets handled by tradition.",a,THE WITNESS,start_question
+87,450,16,21,"Okay.  And you raise an important point, sort of a point of order for the deposition.  When I say ""Rotary"" or ""the Club,"" my intention is to refer to the Rotary Club of Houston.  If I'm going to ask you a question about Rotary International, I'll try to say ""Rotary International"" so that we sort of know the difference.  I don't expect very many questions at all, if any, about Rotary International.",q,MR. TODD,start_answer
+88,460,17,5,Okay.,a,THE WITNESS,start_question
+89,461,17,6,"But if I say ""Rotary"" or ""the Club,"" my intention is to mean the Rotary Club of Houston. If you have a question about that, just let me know; and I'll be more specific.",q,MR. TODD,start_answer
+90,465,17,10,"All right.  Well, I'll try to keep track of that, because in my mind anytime somebody says ""Rotary,"" it's not the Rotary Club of Houston. It's Rotary, et al.",a,THE WITNESS,start_question
+91,469,17,14,Okay.  Then how about --,q,MR. TODD,start_answer
+92,470,17,15,So we'll work through it.,a,THE WITNESS,start_question
+93,471,17,16,We'll work through it.  Fair enough.  Fair enough.  Let's talk a little bit about your personal history with Rotary.  When did you first join Rotary?,q,MR. TODD,start_answer
+94,475,17,20,September of 2013.,a,THE WITNESS,start_question
+95,476,17,21,What motivated you to join?,q,MR. TODD,start_answer
+96,477,17,22,I was invited by a fellow businessman that was -- that had an office in the same office building that I'm in.,a,THE WITNESS,start_question
+97,480,17,25,Is your office downtown?,q,MR. TODD,start_answer
+98,482,18,1,No.  We're in Greenway Plaza.,a,THE WITNESS,start_question
+99,483,18,2,"Okay.  So your friend was a member of the downtown -- or the Club that we're talking about here today, the Rotary Club of Houston?",q,MR. TODD,start_answer
+100,486,18,5,Yes.,a,THE WITNESS,start_question
+101,487,18,6,Okay.  What roles have you had in the Club since 2013?,q,MR. TODD,start_answer
+102,489,18,8,"So I've been a director, which means I've served on the board of directors of the Rotary Club of Houston, which is different than the Foundation.  I think you probably understand that. If you don't, I'd be happy to explain that.  And then I served as president elect and president.",a,THE WITNESS,start_question
+103,495,18,14,What years were you president elect?,q,MR. TODD,start_answer
+104,496,18,15,So my years -- my years as president elect ran from 2017 to 2018.,a,THE WITNESS,start_question
+105,498,18,17,So you --,q,MR. TODD,start_answer
+106,499,18,18,"Hang on.  Yeah, that's right, 2018.",a,THE WITNESS,start_question
+107,500,18,19,So when were you president?,q,MR. TODD,start_answer
+108,501,18,20,2018 to 2019.,a,THE WITNESS,start_question
+109,502,18,21,"And as I understand it, that means that you would then transition to the board of the Rotary Club of Houston Foundation after your president year?",q,MR. TODD,start_answer
+110,506,18,25,Yes.  Now I'm on that board.,a,THE WITNESS,start_question
+111,508,19,1,Okay.  Would your term for the board on the -- of the Foundation be 2019 to 2020?,q,MR. TODD,start_answer
+112,510,19,3,No.  It runs for three years.,a,THE WITNESS,start_question
+113,511,19,4,Okay.,q,MR. TODD,start_answer
+114,512,19,5,And it ends with you being the chairman of that board.,a,THE WITNESS,start_question
+115,514,19,7,Okay.  So you will be chairman of that board in 2022?,q,MR. TODD,start_answer
+116,516,19,9,"Yeah, I think so.  I think so.",a,THE WITNESS,start_question
+117,517,19,10,Roughly.  Okay.  What were some of the initiatives for Rotary Club of Houston when you were president?,q,MR. TODD,start_answer
+118,520,19,13,"What do you mean by ""initiatives""?",a,THE WITNESS,start_question
+119,521,19,14,"What programs did the Rotary Club of Houston put on under your tenure, fundraising programs, events, community?",q,MR. TODD,start_answer
+120,524,19,17,While I was president?,a,THE WITNESS,start_question
+121,525,19,18,While you were president.,q,MR. TODD,start_answer
+122,526,19,19,"So we had a Distinguished Citizen's Award event that's a fundraiser for the Club.  Welcome Wilson, Sr., was our honoree.  We also host a regular monthly schedule of events, like Rotary House Hospitality Night, for example.  We put on a lunch for veterans during -- it's the Veterans Day lunch.  And it's always as close to Veterans Day -- whatever the Thursday is closest to Veterans Day at the Junior League, another of our big events.  We were going to have a golf tournament during my year, but we cancelled that. Gosh, what else?  I'm sure there's some other things, but -- you know, if I had a calendar in front of me or something like that, I could give you an exhaustive list.",a,THE WITNESS,start_question
+123,542,20,9,Okay.  The -- do you engage -- does the Rotary Club of Houston engage in fundraising for any of these events from outside sources?,q,MR. TODD,start_answer
+124,545,20,12,Do we solicit -- ask for sponsorships?,a,THE WITNESS,start_question
+125,546,20,13,Yes.,q,MR. TODD,start_answer
+126,547,20,14,"Yes, we do.",a,THE WITNESS,start_question
+127,548,20,15,"For Distinguished Citizen, for example?",q,MR. TODD,start_answer
+128,549,20,16,"Yes, absolutely.",a,THE WITNESS,start_question
+129,550,20,17,"Who would be, like, perhaps -- like an example sponsor or donor to that?",q,MR. TODD,start_answer
+130,552,20,19,People -- people and companies out in the business community.,a,THE WITNESS,start_question
+131,554,20,21,"Do you remember there being, like, a primary, like, keynote-type sponsor in your year?",q,MR. TODD,start_answer
+132,556,20,23,"We typically did not have keynotes.  You know, we had sponsorship levels that people could participate in based on, you know, an ascending or descending amount of money classifying them as a gold, platinum, or silver, that kind of thing.",a,THE WITNESS,start_question
+133,562,21,3,Do you remember for your year with the Distinguished Citizen Award who might have been the biggest sponsor?,q,MR. TODD,start_answer
+134,565,21,6,"There were a number of sponsors in the 3,000-dollar range.  We may have had one person bigger than that.  I don't remember specifically. I'm sorry.",a,THE WITNESS,start_question
+135,569,21,10,Okay.  Do you -- did you have any association with any celebrities or public figures in association with any of these events?,q,MR. TODD,start_answer
+136,572,21,13,Our -- our master of ceremonies at the DCA was a very well-known reporter here in Tucson. And I'm trying to think of his name.,a,THE WITNESS,start_chat
+137,575,21,16,You just said Tucson.,side_chat,MR. GARVIN,start_chat
+138,576,21,17,"I did, didn't I?",side_chat,THE WITNESS,start_answer
+139,577,21,18,Sorry guys.  Here in Houston.,a,THE WITNESS,start_question
+140,578,21,19,(BY MR. TODD)  It's okay.,q,MR. TODD,start_answer
+141,579,21,20,"I can look the name up and let you know, but he's a well-known person, master of ceremonies.",a,THE WITNESS,start_question
+142,581,21,22,Is the Distinguished Citizen Award named after anyone?  Is there a name for that award other than the Rotary Distinguished Citizen Award?,q,MR. TODD,start_answer
+143,584,21,25,That's the name.,a,THE WITNESS,start_question
+144,586,22,1,It is the Rotary Distinguished Citizen Award?,q,MR. TODD,start_answer
+145,588,22,3,(Witness nodding head up and down.),a,THE WITNESS,start_question
+146,589,22,4,"Okay.  To your knowledge, does Rotary Club of Houston currently offer any trophies or awards that are associated with any public persona or celebrity or individual?",q,MR. TODD,start_answer
+147,593,22,8,We're not currently doing that.,a,THE WITNESS,start_question
+148,594,22,9,"During your tenure as president, was there a Lombardi Award dinner or event?",q,MR. TODD,start_answer
+149,596,22,11,No.,a,THE WITNESS,start_question
+150,597,22,12,"No?  Okay.  So by the time you were president, the -- well, the dispute had already begun.  Is that a fair statement?",q,MR. TODD,start_answer
+151,600,22,15,"Yeah, well before I was president.",a,THE WITNESS,start_question
+152,601,22,16,Well before.  Okay.  You were also at one time a member of the Lombardi Foundation.  Is that correct?,q,MR. TODD,start_answer
+153,604,22,19,I was.,a,THE WITNESS,start_question
+154,605,22,20,Okay.  How long were you a member of the Lombardi Foundation?,q,MR. TODD,start_answer
+155,607,22,22,I'm not aware of what the time frame was.  I agreed to be in that foundation only in as much as -- and I conditioned that that I would decide after the first meeting whether or not it was appropriate for me to continue on.  I attended the first board meeting -- what I thought was the first board meeting or assumed was the first board meeting and immediately resigned at the end of that meeting.,a,THE WITNESS,start_question
+156,617,23,6,Okay.  So you -- you -- what made you decide to join the Foundation to begin with?,q,MR. TODD,start_answer
+157,619,23,8,"I was asked to be on it, along with a number of other people from the Rotary Club.  And my perception was that -- that being there would lend itself to creating some kind of a bridge or -- or establishing a -- reestablishing a cooperative agreement with the family.",a,THE WITNESS,start_question
+158,625,23,14,And you attended one meeting you said?,q,MR. TODD,start_answer
+159,626,23,15,By phone.,a,THE WITNESS,start_question
+160,627,23,16,By telephone?,q,MR. TODD,start_answer
+161,628,23,17,Uh-huh.,a,THE WITNESS,start_question
+162,629,23,18,Okay.,q,MR. TODD,start_answer
+163,630,23,19,I was made aware of it at the last minute and dialed in.,a,THE WITNESS,start_question
+164,632,23,21,Do you recall what occurred at that meeting?,q,MR. TODD,start_answer
+165,633,23,22,"Yeah.  Rick Slemaker and Spencer Tillman basically talked to John Lombardi and other -- I'm not even sure who attended the meeting, to be candid with you.  I was not aware -- made aware of that.  I received no minutes.  And they talked about what they wanted to do with the Lombardi Award now that Rotary was removed from it in their opinion.",a,THE WITNESS,start_question
+166,642,24,5,And what was your -- what was your reaction to that at the time?,q,MR. TODD,start_answer
+167,644,24,7,I was horrified.,a,THE WITNESS,start_question
+168,645,24,8,Why?,q,MR. TODD,start_answer
+169,646,24,9,Because a number of things were said in that meeting that I didn't feel were true in regards to Rotary's actions and behavior in presenting the award.,a,THE WITNESS,start_question
+170,650,24,13,"Okay.  Did you -- while you were a member of the Rotary Club of Houston, did you ever serve on the Lombardi Award Committee?",q,MR. TODD,start_answer
+171,653,24,16,I did.,a,THE WITNESS,start_question
+172,654,24,17,What years did you serve on the committee?,q,MR. TODD,start_answer
+173,655,24,18,During Rick's year.,a,THE WITNESS,start_question
+174,656,24,19,So that would have been 2015?,q,MR. TODD,start_answer
+175,657,24,20,No.  Rick -- I'm sorry.  Rick Olsen's year.,a,THE WITNESS,start_question
+176,658,24,21,Okay.,q,MR. TODD,start_answer
+177,659,24,22,I was also on it during Rick Slemaker's year.,a,THE WITNESS,start_question
+178,661,24,24,"So you served on the Lombardi Award Committee for two events, let's say?",q,MR. TODD,start_answer
+179,664,25,1,One event.  On one event only.,a,THE WITNESS,start_question
+180,665,25,2,One event only?,q,MR. TODD,start_answer
+181,666,25,3,Uh-huh.,a,THE WITNESS,start_question
+182,667,25,4,And then -- and Rick -- so that would have been for Mr. Slemaker's year?,q,MR. TODD,start_answer
+183,669,25,6,Uh-huh.,a,THE WITNESS,start_question
+184,670,25,7,"And then for Mr. Olsen's year, you were on the committee, but there was no event?",q,MR. TODD,start_answer
+185,672,25,9,Right.,a,THE WITNESS,start_question
+186,673,25,10,Okay.  Did you attend the Lombardi Award event proceedings before your years on the committee?,q,MR. TODD,start_answer
+187,676,25,13,"I attended the -- I attended the last one, the last event that the Rotary Club of Houston was in charge of.",a,THE WITNESS,start_question
+188,679,25,16,"Okay.  But your first year, 2013, you did not attend?",q,MR. TODD,start_answer
+189,681,25,18,No.,a,THE WITNESS,start_question
+190,682,25,19,Okay.  What do you know from your work on the committee about how Rotary Club of Houston manages the money and the proceeds that are taken in as a result of the event?,q,MR. TODD,start_answer
+191,686,25,23,Can you be more specific?,a,THE WITNESS,start_question
+192,687,25,24,Sure.  So does the Rotary Club of Houston collect money for the -- from sponsors for the Lombardi Award dinner?,q,MR. TODD,start_answer
+193,691,26,2,Yes.,a,THE WITNESS,start_question
+194,692,26,3,Does it pay money to charities as a result of the dinner?,q,MR. TODD,start_answer
+195,694,26,5,Yes.,a,THE WITNESS,start_question
+196,695,26,6,Is it the Rotary Club of Houston or the Rotary Club of Houston Foundation that pays money to charity?,q,MR. TODD,start_answer
+197,698,26,9,"That's a specific that I'm unsure of. The -- the money goes into the Foundation because it's a 501(c)(3).  Where the check gets written, whether it gets written from the Foundation or transferred to the Club and written out of the Club, I'm -- candidly I'm not sure.",a,THE WITNESS,start_question
+198,704,26,15,Okay.  What other entities have a role either as sponsor or partner or contributor with regard to the Lombardi Award event?,q,MR. TODD,start_answer
+199,707,26,18,"Okay.  You said sponsor, contributor, participant?",a,THE WITNESS,start_question
+200,709,26,20,Sure.  So what other entities are associated with this event?,q,MR. TODD,start_answer
+201,711,26,22,Currently?,a,THE WITNESS,start_question
+202,712,26,23,During your tenure.,q,MR. TODD,start_answer
+203,713,26,24,"Well, we had a contract with Axiom to produce the event.",a,THE WITNESS,start_question
+204,716,27,1,Okay.  Was there a relationship with the American Cancer Society?,q,MR. TODD,start_answer
+205,718,27,3,As a -- as a recipient of proceeds.,a,THE WITNESS,start_question
+206,719,27,4,Did they help you promote the event?,q,MR. TODD,start_answer
+207,720,27,5,I wasn't involved in the public relations or the advertising or those kinds of elements of the effort.  So I can't say specifically that they did or didn't.  I believe they did.,a,THE WITNESS,start_question
+208,724,27,9,"When you were on the Lombardi Award Committee, do you recall any meetings with the American Cancer Society?",q,MR. TODD,start_answer
+209,727,27,12,Nothing that I attended.,a,THE WITNESS,start_question
+210,728,27,13,Do you know during your tenure on the committee or as president who the funds from the event were distributed to?,q,MR. TODD,start_answer
+211,731,27,16,We've produced a spreadsheet that identifies the recipients.,a,THE WITNESS,start_question
+212,733,27,18,Do you have any recollection of who that might have been?,q,MR. TODD,start_answer
+213,735,27,20,"I believe the American Cancer Society, Texas Children's Hospital, and MD Anderson, but that's in the spreadsheet.",a,THE WITNESS,start_question
+214,738,27,23,Do you recall any members of the American Cancer Society attending any -- any Rotary Club of Houston meetings?,q,MR. TODD,start_answer
+215,742,28,1,I'm not sure.  I'm not certain.,a,THE WITNESS,start_question
+216,743,28,2,Do you personally know anybody that's employed with or associated -- employed by or associated with the American Cancer Society?,q,MR. TODD,start_answer
+217,746,28,5,No.,a,THE WITNESS,start_question
+218,747,28,6,Do you know any member of the Lombardi family?,q,MR. TODD,start_answer
+219,749,28,8,Personally?,a,THE WITNESS,start_question
+220,750,28,9,Sure.,q,MR. TODD,start_answer
+221,751,28,10,"I mean, no.",a,THE WITNESS,start_question
+222,752,28,11,Have you ever met a member of the Lombardi family?,q,MR. TODD,start_answer
+223,754,28,13,I believe I did meet John Lombardi at the last event that we produced.,a,THE WITNESS,start_question
+224,756,28,15,"Do you -- have you ever -- to your knowledge, have you ever been in a meeting with him?",q,MR. TODD,start_answer
+225,759,28,18,"Other than that first board meeting of the Lombardi Foundation, no.",a,THE WITNESS,start_question
+226,761,28,20,Did he speak at that meeting?,q,MR. TODD,start_answer
+227,762,28,21,Yes.,a,THE WITNESS,start_question
+228,763,28,22,"Have you ever met Vince Lombardi, Jr.?",q,MR. TODD,start_answer
+229,764,28,23,No.,a,THE WITNESS,start_question
+230,765,28,24,Do you know Steve Werner?,q,MR. TODD,start_answer
+231,766,28,25,No.,a,THE WITNESS,start_question
+232,768,29,1,"During your tenure as president, was there any reporting to the Lombardi family about the Lombardi Award event?",q,MR. TODD,start_answer
+233,771,29,4,Not that I'm aware of while I was president.,a,THE WITNESS,start_question
+234,772,29,5,How about while you were on the Lombardi Award Committee?  Was there any communication to the family about the event?,q,MR. TODD,start_answer
+235,775,29,8,Rick Slemaker represented that he communicated with them on a regular basis.,a,THE WITNESS,start_question
+236,777,29,10,Okay.  But there was no written reporting or accounting or anything like that that you recall?,q,MR. TODD,start_answer
+237,779,29,12,Not that I'm aware of.,a,THE WITNESS,start_question
+238,780,29,13,Do you know if there's a reason why they didn't receive any information and reports?,q,MR. TODD,start_answer
+239,782,29,15,I'm not aware that any information was withheld from them.  I'm not aware that any information was given to them.,a,THE WITNESS,start_question
+240,785,29,18,Okay.,q,MR. TODD,start_answer
+241,786,29,19,A great deal of what happened when I was on the committee in Rick Slemaker's year was between Rick and the Lombardi family.  The committee struggled with the lack of transparency.,a,THE WITNESS,start_question
+242,790,29,23,What does that mean?,q,MR. TODD,start_answer
+243,791,29,24,It means that there was a lot of representation being made that seemed to be contrary to what the Rotary Club had traditionally done.  There was friction.,a,THE WITNESS,start_question
+244,796,30,3,"Okay.  When you were on the call with Mr. John Lombardi at the Lombardi Foundation, did he -- did he say anything about that to your memory?",q,MR. TODD,start_answer
+245,800,30,7,Not specifically.,a,THE WITNESS,start_question
+246,801,30,8,"You're on the Foundation board currently, correct?",q,MR. TODD,start_answer
+247,803,30,10,Uh-huh.,a,THE WITNESS,start_question
+248,804,30,11,"I'd like to ask you a little bit about the communications on the board about the proceeding. And having already had some testimony about this in this proceeding, I know that there are some concerns about privilege with regard to what is going on at those meetings and how this proceeding is being discussed.  But without revealing any discussion with any attorneys, can you tell me is this dispute discussed in Foundation board meetings?",q,MR. TODD,start_answer
+249,814,30,21,It's -- it's a topic that comes up.,a,THE WITNESS,start_question
+250,815,30,22,Is it sort of like a dominant topic?  Is it the primary topic?,q,MR. TODD,start_answer
+251,817,30,24,"I wouldn't say that.  It -- it is a topic, but there's other things that the Foundation has to pay attention to.  So it's part of -- part of dealing with things.",a,THE WITNESS,start_question
+252,822,31,3,"Is the Foundation board and the Rotary Club of Houston leadership, are they sort of aligned here?  Like, they sort of -- they all have the same vision of the proceeding generally speaking?",q,MR. TODD,start_answer
+253,826,31,7,Generally they tend to be aligned. Differences come out in terms of establishing budgets and different amounts of spend for -- for charitable efforts and so on that the Club is involved in.  So I think we fixed a lot of those issues while I was president because we -- we aligned our financial people between the board and the Foundation very nicely.  So that resolved a lot of those discussions.,a,THE WITNESS,start_question
+254,835,31,16,Are there -- are there written communications between the Foundation board and the Rotary Club of Houston about this dispute?,q,MR. TODD,start_answer
+255,838,31,19,"That's pretty broad.  But in a broad sense, I would say not that I'm specifically aware of.",a,THE WITNESS,start_question
+256,840,31,21,Is one or the other in control of what happens in this dispute?,q,MR. TODD,start_chat
+257,842,31,23,"I am going to object.  I think we're veering really far from anything that's relevant, and I'm -- at some point I'm just going to, you know, seek a protective order if I need to.  Because I don't think it's -- how different people from either place feel about this matter is relevant to the issues that are before the TTAB.  So I'm just going to ask you to limit your questions.  And if -- if we can't do that, then we'll just have to reserve this and -- and talk with the board about whether or not that's relevant.",side_chat,MR. GARVIN,start_chat
+258,855,32,10,"Well, I'm just trying to get to the bottom of who is in charge here.  Is it the Foundation or the board -- or the Club?",side_chat,MR. TODD,start_chat
+259,858,32,13,"I mean, the truth is I don't -- again, I don't understand why that's relevant.  I mean, there's a legal dispute between parties.  And who makes the decisions is not relevant to the issues before the TTAB.  I just really think it's veering way off the rails.  And I just -- I don't think it's appropriate, and I'm going to cut it off if we can't come up with some -- some way it's relevant to the issues before the board.",side_chat,MR. GARVIN,start_chat
+260,868,32,23,"I think it's relevant with regard to, let's say, ownership of the mark.",side_chat,MR. TODD,start_chat
+261,870,32,25,"I'm just going to respectfully disagree.  I mean, whoever makes the decisions in this litigation is who makes it.  So I -- I'd like to move on.  And if we can't, let's just reserve it and have a discussion with the TTAB about it.",side_chat,MR. GARVIN,start_chat
+262,877,33,6,Okay.  We can reserve it.,side_chat,MR. TODD,start_chat
+263,878,33,7,Okay.,side_chat,MR. GARVIN,start_question
+264,879,33,8,"(BY MR. TODD)  Okay.  To your knowledge, have there been communications with Rotary International about the dispute?",q,MR. TODD,start_answer
+265,882,33,11,"Again, that's very broad.  So is -- is the -- is -- for example, is the district -- is the district governor part of Rotary International in your mind?",a,THE WITNESS,start_question
+266,886,33,15,Yes.,q,MR. TODD,start_answer
+267,887,33,16,There's been communications with -- with all three of the governors that were -- that were in office during the width of this issue.,a,THE WITNESS,start_question
+268,890,33,19,Okay.  Is it -- is it regular or sporadic?,q,MR. TODD,start_answer
+269,891,33,20,Within my knowledge specifically?,a,THE WITNESS,start_question
+270,892,33,21,"Within your knowledge, yeah.",q,MR. TODD,start_answer
+271,893,33,22,Extremely sporadic.,a,THE WITNESS,start_question
+272,894,33,23,Okay.  We're going to transition to look at some documents here for a little while.  And we are at 3.  So I would like to hand you what we're going to mark as Deposition Exhibit No. 3.,q,MR. TODD,is brackets
+273,899,34,2,(Exhibit 3 marked.),brackets,,start_question
+274,900,34,3,(BY MR. TODD)  I'll give you just a moment to familiarize yourself with it.,q,MR. TODD,start_answer
+275,902,34,5,It's hard to read.,a,THE WITNESS,start_question
+276,903,34,6,Okay.  Have you seen this document before?,q,MR. TODD,start_answer
+277,904,34,7,I believe I have.,a,THE WITNESS,start_question
+278,905,34,8,Okay.  Do you recall in what context?,q,MR. TODD,start_answer
+279,906,34,9,No.,a,THE WITNESS,start_question
+280,907,34,10,Did you see it while you were president?  Do you remember?,q,MR. TODD,start_answer
+281,909,34,12,"I think I've probably seen it more than once, once -- maybe once during president and a time before that.",a,THE WITNESS,start_question
+282,912,34,15,"Okay.  I'd like to direct you to sort of where it begins below the header.  And I acknowledge that it is difficult to read, but let me see if I can do my best.  I think it says --",q,MR. TODD,start_chat
+283,916,34,19,Can I go off for a quick second.,side_chat,MR. GARVIN,start_question
+284,918,34,21,Yeah.,q,MR. TODD,is brackets
+285,919,34,22,(Off the record.),brackets,,start_question
+286,920,34,23,(BY MR. TODD)  Let's go ahead and mark Exhibit No. 4.,q,MR. TODD,is brackets
+287,922,34,25,(Exhibit 4 marked.),brackets,,start_answer
+288,924,35,1,Where does the quote start?,a,THE WITNESS,start_question
+289,925,35,2,"(BY MR. TODD)  Okay.  So one, two -- third paragraph down, which begins with, ""Mrs. Vince T. Lombardi.""",q,MR. TODD,start_answer
+290,928,35,5,Okay.,a,THE WITNESS,start_question
+291,929,35,6,"Okay.  I will represent to you that -- that we believe that that's a -- an accurate quote from the actual telegram.  It appears to be what the telegram says.  So with regard to -- let's look at Exhibit No. 4 and that quote.  Having read that, what -- what does that quote mean to you personally?",q,MR. TODD,start_answer
+292,936,35,13,What that quote means to me is that Mrs. Lombardi authorized the Rotary Club of Houston to use Vince Lombardi's name in putting together a national award.,a,THE WITNESS,start_question
+293,940,35,17,"Okay.  When you were -- when you were president -- let me back that up. When you were a member of the committee, was there any discussion about what the nature of your authority would be to use Mr. Lombardi's image?",q,MR. TODD,start_answer
+294,945,35,22,Not that I'm aware of.,a,THE WITNESS,start_question
+295,946,35,23,Was it assumed that you could and there was no -- nobody ever questioned it or brought it up in a conversation?,q,MR. TODD,start_answer
+296,950,36,1,"When I was involved in the committee, we were working on the 47th annual presentation of the award.",a,THE WITNESS,start_question
+297,953,36,4,Okay.,q,MR. TODD,start_answer
+298,954,36,5,So that's where I was.,a,THE WITNESS,start_question
+299,955,36,6,"When you look at the quote in Exhibit 4 and it says, ""...authorizes the American Cancer Society and the Rotary Club of Houston to establish,"" do you take that to mean forever?",q,MR. TODD,start_answer
+300,959,36,10,"Yes, I do.",a,THE WITNESS,start_question
+301,960,36,11,"Do you believe that by saying ""authorizes"" that Mrs. Lombardi was giving the Rotary Club of Houston some kind of permanent right to the Lombardi name?",q,MR. TODD,start_answer
+302,964,36,15,She authorized us to use his name.,a,THE WITNESS,start_question
+303,965,36,16,Okay.  Do you believe that that use would be unrestricted?,q,MR. TODD,start_answer
+304,967,36,18,"I don't see any restrictions in that -- in those words, to be candid with you.",a,THE WITNESS,start_question
+305,969,36,20,"Okay.  Do you see any language in there that relates to any sort of permanence, like ""aside"" or ""forever"" or ""perpetual""?",q,MR. TODD,start_answer
+306,972,36,23,I don't see those specific words.,a,THE WITNESS,start_question
+307,973,36,24,Anything that would indicate that it would be forever?,q,MR. TODD,start_answer
+308,976,37,1,There's nothing there that indicates that it's not.,a,THE WITNESS,start_question
+309,978,37,3,Okay.,q,MR. TODD,start_answer
+310,979,37,4,There's no term established that I can see.,a,THE WITNESS,start_question
+311,980,37,5,I'd like to hand you what we're going to mark as Deposition Exhibit No. 5.,q,MR. TODD,is brackets
+312,982,37,7,(Exhibit 5 marked.),brackets,,start_question
+313,983,37,8,"(BY MR. TODD)  Mr. Meeks, have you seen this document before?",q,MR. TODD,start_answer
+314,985,37,10,Not that I specifically recall.,a,THE WITNESS,start_question
+315,986,37,11,"Okay.  If you flip to the second page, the signatory is a Mr. Kirk W. Reimann.  Do you know who he is?",q,MR. TODD,start_answer
+316,989,37,14,No.,a,THE WITNESS,start_question
+317,990,37,15,And the addressee is a Mr. C.D. Tinsley.  Do you know who he is?,q,MR. TODD,start_answer
+318,992,37,17,"No, I don't.",a,THE WITNESS,start_question
+319,993,37,18,"Okay.  The first paragraph of the letter says, ""As you will be president of Rotary during the next Lombardi Award Banquet in 1979, I hope that I may share some of the concerns that have been expressed by some of our American Cancer Society members and by some Rotarian members."" Did I read that correctly?",q,MR. TODD,start_answer
+320,1000,37,25,Yeah.,a,THE WITNESS,start_question
+321,1002,38,1,"Okay.  So it appears that at least Mr. C.D. Tinsley is going to be the next president of Rotary that Mr. Reimann is referring to, at least according to Mr. Reimann, correct?",q,MR. TODD,start_answer
+322,1006,38,5,It would seem so.,a,THE WITNESS,start_question
+323,1007,38,6,"Okay.  The second paragraph says, ""The first concern is the rather tenuous nature of our original authority for the Rotary Club to sponsor the Lombardi Award Dinner with the proceeds to go to the American Cancer Society.  As you know, we have only a telegram authorizing us to proceed with such dinners.  The success of the dinner indicates that there may very well be additional organizations who would relish the opportunity to put on a similar event."" Did I read that correctly?",q,MR. TODD,start_answer
+324,1018,38,17,Uh-huh.,a,THE WITNESS,start_question
+325,1019,38,18,"Okay.  So how would you interpret the meaning of that first sentence, ""The first concern is the rather tenuous nature of our original authority""?  What does that mean to you?",q,MR. TODD,start_answer
+326,1023,38,22,"Well, to be candid with you, having just been president of this Club for a year and having encountered so many different opinions in response to a speaker or a topic from so many corners of the room, I read this without having any idea of what the context is, who these people are, what the personalities were that they were exerting over the Club, those kinds of things.  I have absolutely no idea if this letter is pandering or any of those kinds of things.  So it's -- it's really hard to respond to this as -- as anything that would be factual and specific over the general will or tenure of the Club.",a,THE WITNESS,start_question
+327,1037,39,10,Do you believe the Rotary Club of Houston's authority is tenuous with regard to the award?,q,MR. TODD,start_answer
+328,1039,39,12,Not in the least.,a,THE WITNESS,start_question
+329,1040,39,13,Why not?,q,MR. TODD,start_answer
+330,1041,39,14,"Because I believe we were given permission to use Lombardi's name, and we built an award around that and presented it for 47 years.  And so you take -- do the math, whatever 1979 is out of that.  You know, this is eight years into it -- seven or eight years into it, and the award continued on well past that.  So I don't see it as tenuous from where I'm sitting.",a,THE WITNESS,start_question
+331,1049,39,22,"But it appears that perhaps at least Mr. Reimann did, whoever he may be?",q,MR. TODD,start_answer
+332,1051,39,24,It may be.,a,THE WITNESS,start_question
+333,1052,39,25,Okay.,q,MR. TODD,start_answer
+334,1054,40,1,"I mean, he identifies himself as executive vice president.  I don't have any idea whether that pertains to the Rotary Club of Houston or not.",a,THE WITNESS,start_question
+335,1058,40,5,"In the one, two, three -- fourth paragraph down, it says, ""In conversation with my colleagues in New York, it has been indicated that Joe Lombardi, Vince's brother, has Marie's power of attorney, and we should be able to get such a letter without creating too much of a fuss."" Do you know if there was ever any such letter authorizing the Club beyond the telegram?",q,MR. TODD,start_answer
+336,1066,40,13,I don't know.,a,THE WITNESS,start_question
+337,1067,40,14,What does the Lombardi name mean to you personally?  What connotation does it have for you?,q,MR. TODD,start_answer
+338,1070,40,17,"I've always admired Vince Lombardi, the coach, and honored the work that he did.  And I've -- I've also had a great deal of regard and respect for the Lombardi Award.",a,THE WITNESS,start_question
+339,1074,40,21,"So when you say you admire Vince Lombardi, what -- why?  For what reason?",q,MR. TODD,start_answer
+340,1076,40,23,"For his coaching skills, his motivational abilities, the way he -- he took in people and made great football players out of them and stood them up as people in the community.  He's just a great example.",a,THE WITNESS,start_question
+341,1082,41,3,So Coach Lombardi's image is something that Rotary wanted to promote in conjunction with the -- its award?  Is that correct?,q,MR. TODD,start_answer
+342,1085,41,6,Clearly they wanted his name associated with the award.,a,THE WITNESS,start_question
+343,1087,41,8,"Because of some of the qualities that you've mentioned, or are there others?",q,MR. TODD,start_answer
+344,1089,41,10,"That would be assumptive on my part, but yeah.",a,THE WITNESS,start_question
+345,1091,41,12,Was there ever any discussion at the Rotary Club of Houston while you were either on the committee or as president about why to give the Lombardi Award?,q,MR. TODD,start_answer
+346,1095,41,16,"No, not -- not that I can specifically recall.",a,THE WITNESS,start_question
+347,1097,41,18,Do you know what the Club's motivation would have been to give the award or to continue the award?,q,MR. TODD,start_answer
+348,1100,41,21,"Well, primarily I would say as a -- as a fundraiser for cancer research.",a,THE WITNESS,start_question
+349,1102,41,23,"Okay.  So was the -- the primary motivation then for awarding the award would be to raise money for cancer research.  And then would that make the athletic piece a secondary concern, sort of the award to the students?  So what was -- what was primary, and what was secondary?  Or can you classify it that way?",q,MR. TODD,start_answer
+350,1110,42,5,I've never thought of it that way.,a,THE WITNESS,start_question
+351,1111,42,6,Okay.  Was it ever discussed?,q,MR. TODD,start_answer
+352,1112,42,7,"Oh, I don't -- I don't recall anybody ever taking the -- the Lombardi Award apart into its pieces like that.",a,THE WITNESS,start_question
+353,1115,42,10,Okay.  Do you associate the Lombardi name with leadership?,q,MR. TODD,start_answer
+354,1117,42,12,I associate Vince Lombardi with leadership.,a,THE WITNESS,start_question
+355,1118,42,13,Okay.  Do you associate either Vince Lombardi or the Lombardi family name with integrity?,q,MR. TODD,start_answer
+356,1121,42,16,I associate Vince Lombardi's name with integrity.,a,THE WITNESS,start_question
+357,1123,42,18,Okay.  Would you associate the Lombardi name or the Vince Lombardi name with sportsmanship?,q,MR. TODD,start_answer
+358,1125,42,20,"His name, yes.",a,THE WITNESS,start_question
+359,1126,42,21,Okay.  Would you associate the Lombardi name -- family name or Vince Lombardi's name with cancer?,q,MR. TODD,start_answer
+360,1129,42,24,"I associate the award with that, with cancer.",a,THE WITNESS,start_question
+361,1132,43,1,Okay.  How about with cancer research?,q,MR. TODD,start_answer
+362,1133,43,2,The same answer.,a,THE WITNESS,start_question
+363,1134,43,3,"Looking back at Exhibit No. 5 at the very last paragraph, it says, ""The third concern"" -- I'm sorry, last paragraph on the first page. Excuse me.  It says, ""The third concern is the need for an established budget approved by appropriate Rotary and American Cancer Society directors."" Do you see that sentence I'm talking about there?",q,MR. TODD,start_answer
+364,1143,43,12,Uh-huh.,a,THE WITNESS,start_question
+365,1144,43,13,"Okay.  Did the Lombardi Award -- during your tenure either as chair of the committee or as president, was there a budget that was approved for the award?",q,MR. TODD,start_answer
+366,1148,43,17,"I'm trying to understand what -- in the context of your question and what this is saying what ""an established budget"" actually means.",a,THE WITNESS,start_question
+367,1151,43,20,"Okay.  So when you were on the committee, was there a budget for the event?  Without reference to this document, just was there a budget for the event?",q,MR. TODD,start_answer
+368,1155,43,24,That's a hard question to answer because the -- the cost of putting the event on was a dynamic set of variables.,a,THE WITNESS,start_question
+369,1159,44,2,Okay.,q,MR. TODD,start_answer
+370,1160,44,3,"There -- there was never anything that I was aware of that was a cutoff on how much -- you know, how much we could spend or how much we should spend based on what we needed to spend to put on a great event.",a,THE WITNESS,start_question
+371,1165,44,8,"Okay.  So were there fundraising targets? Like, you wanted to raise a certain amount of money?  Was there something like that?",q,MR. TODD,start_answer
+372,1168,44,11,Everybody had a different opinion about how much money could be raised.,a,THE WITNESS,start_question
+373,1170,44,13,Okay.  And was there somebody keeping an eye on expenses?,q,MR. TODD,start_answer
+374,1172,44,15,"The cost of putting the event together kind of assembled itself over a span of meetings.  So, you know, where -- where the -- the costs were from month to month was reviewed.",a,THE WITNESS,start_question
+375,1176,44,19,"Over the course of that sort of performance period, how would you ensure that there was going to be money left to donate; in other words, that the expenses wouldn't consume the fundraiser?",q,MR. TODD,start_answer
+376,1180,44,23,I'm not sure I understand the question.  I'm sorry.  It's not you.  It's me.  Could you ask me the question again specifically?,a,THE WITNESS,start_question
+377,1184,45,1,"Sure.  I'm just trying to get an idea of how the committee would have managed a budget -- undefined budget, just a sort of, you know, income in, expenses out process for the award.  In other words, you -- you raised money, you paid expenses, and you had to make a donation to charity.  Is that sort of like the general process?",q,MR. TODD,start_answer
+378,1191,45,8,"Generally, yeah.",a,THE WITNESS,start_question
+379,1192,45,9,Okay.  So what I'm trying to get at is was there an idea in advance about what that process would look like in terms of fundraising and expense and hopeful donations?,q,MR. TODD,start_answer
+380,1196,45,13,"Again, it was a dynamic situation the year that I was on the committee and Rick Slemaker was in charge of the event.  The -- there were a lot of differences of opinion on what needed to be a part of the event.  There were differences of opinion on -- and those differences of opinion became more urgent, if you will, based on the cost of those things that were being added to the event. So it tended to be a number of conversations along the line of, ""Why are we doing this this year?  We didn't do it last year.""  ""Why are we not doing something last year"" -- or ""this year that we did do last year and previous years,"" and so on.  So with me being new to that event at that point in time, it was -- there were a number of -- any number of contentious moments where it seemed to me that the amount of money being spent only made sense by people going out and selling more sponsorships, which I think is a natural process.",a,THE WITNESS,start_question
+381,1217,46,8,Okay.,q,MR. TODD,start_answer
+382,1218,46,9,"But absent the continuity that other people had, it's hard for me to specifically answer your question.",a,THE WITNESS,start_question
+383,1221,46,12,Did the American Cancer Society have a voice in that process?,q,MR. TODD,start_answer
+384,1223,46,14,I assume they did.,a,THE WITNESS,start_question
+385,1224,46,15,Okay.  Did you -- but did they ever attend a meeting that you were at?,q,MR. TODD,start_answer
+386,1226,46,17,There were people on the committee that were responsible for dialoguing with them.,a,THE WITNESS,start_question
+387,1228,46,19,Okay.  Did the Lombardi family have a say in that process?,q,MR. TODD,start_answer
+388,1230,46,21,I assume they did.,a,THE WITNESS,start_question
+389,1231,46,22,Do you have any personal knowledge that they did?,q,MR. TODD,start_answer
+390,1233,46,24,"No, I don't.",a,THE WITNESS,start_question
+391,1234,46,25,Okay.  Do you recall during your year on the committee how much money was donated to charity following the event?,q,MR. TODD,start_answer
+392,1238,47,3,"No, I don't, but it's on the spreadsheet.",a,THE WITNESS,start_question
+393,1239,47,4,Okay.  Do you have any historical knowledge about donations to charities sort of over time?,q,MR. TODD,start_answer
+394,1241,47,6,Nothing specific.,a,THE WITNESS,start_question
+395,1242,47,7,Do you know if there's a trend up or down? Has it been increased -- was it increasing or decreasing?,q,MR. TODD,start_answer
+396,1245,47,10,"I think the number moved around.  So I can't tell you that -- that -- that -- you know, I -- I personally didn't have a pulse of this.  I was on the committee for one year, and I attended the event that year.  So --",a,THE WITNESS,start_question
+397,1250,47,15,Okay.,q,MR. TODD,start_answer
+398,1251,47,16,-- somewhat limited knowledge.,a,THE WITNESS,start_question
+399,1252,47,17,And you don't recall how much -- there was no sort of celebration about how much was donated that would spur your memory or --,q,MR. TODD,start_answer
+400,1255,47,20,"Yeah, I believe there was.",a,THE WITNESS,start_question
+401,1256,47,21,Okay.,q,MR. TODD,start_answer
+402,1257,47,22,But I don't remember the specifics of it.,a,THE WITNESS,start_question
+403,1258,47,23,And I believe you said that to your knowledge there were no reports made to the Lombardi family about this event.  Is that correct?,q,MR. TODD,start_answer
+404,1263,48,2,Nothing that I'm specifically aware of.,a,THE WITNESS,start_question
+405,1264,48,3,I would like to hand you what we will mark as Deposition Exhibit No. 6.,q,MR. TODD,is brackets
+406,1266,48,5,(Exhibit 6 marked.),brackets,,start_answer
+407,1267,48,6,Okay.,a,THE WITNESS,start_question
+408,1268,48,7,(BY MR. TODD)  Have you seen this document before?,q,MR. TODD,start_answer
+409,1270,48,9,Not that I recall.,a,THE WITNESS,start_question
+410,1271,48,10,"Okay.  At the top it has a -- some version of letterhead, I guess, that says ""Madeline and George Werner"" and a phone number.  Do you know who Madeline Warner is or George Warner?",q,MR. TODD,start_answer
+411,1275,48,14,No.,a,THE WITNESS,start_question
+412,1276,48,15,Have you ever heard of them before?,q,MR. TODD,start_answer
+413,1277,48,16,No.,a,THE WITNESS,start_question
+414,1278,48,17,"Okay.  And then it's addressed to a Mr. Jack Hardison, Executive Vice President, American Cancer Society.  Have you ever heard of Mr. Hardison before?",q,MR. TODD,start_answer
+415,1282,48,21,No.,a,THE WITNESS,start_question
+416,1283,48,22,"Okay.  So the first paragraph of that letter says, ""Since the November 1985 Lombardi Award Dinner, it has been my intention to write to you to reaffirm the Lombardi Family decision to exclusively have the American Cancer Society/Houston the sole recipient of the proceeds of the annual dinner."" Did I read that correctly?",q,MR. TODD,start_answer
+417,1292,49,5,Yes.,a,THE WITNESS,start_question
+418,1293,49,6,Do you have any idea why Ms. Werner would need to reaffirm --,q,MR. TODD,start_answer
+419,1295,49,8,No.,a,THE WITNESS,start_question
+420,1296,49,9,-- permission here --,q,MR. TODD,start_answer
+421,1297,49,10,No.,a,THE WITNESS,start_question
+422,1298,49,11,-- or reaffirm the decision?,q,MR. TODD,start_answer
+423,1299,49,12,No idea.,a,THE WITNESS,start_question
+424,1300,49,13,Okay.  Is that some indication to you that perhaps prior decisions weren't permanent?,q,MR. TODD,start_answer
+425,1302,49,15,"No, it really isn't.",a,THE WITNESS,start_question
+426,1303,49,16,Okay.,q,MR. TODD,start_answer
+427,1304,49,17,"To -- for it to be -- for that to be the case, you'd have to assume that this is some kind of summary document, and I just don't see it that way.",a,THE WITNESS,start_question
+428,1308,49,21,What do you mean by that?,q,MR. TODD,start_answer
+429,1309,49,22,"Well, it goes back to my answer on the previous document.  Having come out of being president of this Club for a year and understanding that anybody can write a letter to anybody for any reason, I just don't attach a lot of specific gravity to something that's -- that's not in the context of what's going on at the moment.  I have no idea of what the context was. So I don't know if this letter is straight down the middle of an issue or it comes out of the blue, no idea.",a,THE WITNESS,start_question
+430,1321,50,8,Is that the same for the communication that's the telegram?  Do you feel the same way about that?,q,MR. TODD,start_answer
+431,1324,50,11,"No, I think that that's different because it specifically gives the Rotary Club of Houston the right to use Vince Lombardi's name.  And that's more or less reaffirmed in this letter.",a,THE WITNESS,start_question
+432,1328,50,15,"So the second paragraph says, ""In 1970 when the Rotary Club of Houston called me for permission to use the Lombardi"" -- ""the name Lombardi in conjunction with Lineman of the Year Award dinner in honor of my brother Vince, it never occurred to me that from then to now the proceeds of the dinner would grow to such propositions."" Do you see what I'm pointing to there?",q,MR. TODD,start_answer
+433,1337,50,24,Uh-huh.,a,THE WITNESS,start_question
+434,1338,50,25,"So she's -- Mrs. Werner, who is the signatory here, is referencing a call from Houston for permission, correct?",q,MR. TODD,start_answer
+435,1342,51,3,"To use the name Lombardi, yes.",a,THE WITNESS,start_question
+436,1343,51,4,So is this some kind of a reflection of what was contained in the telegram?,q,MR. TODD,start_answer
+437,1345,51,6,I see a link to that.,a,THE WITNESS,start_question
+438,1346,51,7,Okay.  And is there any indication in there that this -- this grant -- is she referencing that the grant of permission in here is permanent in some way?,q,MR. TODD,start_answer
+439,1350,51,11,I don't -- I don't know how to answer that one way or the other.  I don't really infer anything of that kind into this.  It seems to me that this recognizes that they see that having the Rotary Club of Houston create and deploy the Lombardi Award year over year has been very successful.,a,THE WITNESS,start_question
+440,1357,51,18,And referencing the permission from the family?,q,MR. TODD,start_answer
+441,1359,51,20,To use the name.,a,THE WITNESS,start_question
+442,1360,51,21,Okay.  Let's take a break.,q,MR. TODD,is brackets
+443,1361,51,22,(Recess.),brackets,,start_question
+444,1362,51,23,"(BY MR. TODD)  Mr. Meeks, I'm going to hand you what we will mark as Deposition Exhibit No. 7.",q,MR. TODD,is brackets
+445,1364,51,25,(Exhibit 7 marked.),brackets,,start_answer
+446,1366,52,1,Okay.,a,THE WITNESS,start_question
+447,1367,52,2,"(BY MR. TODD)  Okay.  Have you seen this document before, Mr. Meeks?",q,MR. TODD,start_answer
+448,1369,52,4,Not that I recall.,a,THE WITNESS,start_question
+449,1370,52,5,"Okay.  I'll represent to you this is a document that was produced to us by the Rotary Club of Houston in this proceeding, indicated by the number at the bottom there that says RCH0 -- a bunch of zeros and then 26.",q,MR. TODD,start_answer
+450,1375,52,10,Uh-huh.,a,THE WITNESS,start_question
+451,1376,52,11,"Okay?  Do you see at the top -- at the very top left corner, it has a website address and it says ""rotarylombardiaward.com""?",q,MR. TODD,start_answer
+452,1379,52,14,Uh-huh.,a,THE WITNESS,start_question
+453,1380,52,15,Is that a website that is maintained by the Rotary Club of Houston?,q,MR. TODD,start_answer
+454,1382,52,17,I'm not -- I'm not certain if it's currently maintained.,a,THE WITNESS,start_question
+455,1384,52,19,Was it at one point maintained by the Rotary Club of Houston?,q,MR. TODD,start_answer
+456,1386,52,21,I believe so.,a,THE WITNESS,start_question
+457,1387,52,22,"Okay.  If we turn to the third page, there's some bold type sort of in the top third of the page?",q,MR. TODD,start_answer
+458,1390,52,25,Uh-huh.,a,THE WITNESS,start_question
+459,1392,53,1,"And it says, ""When Marie Lombardi granted us permission to use her late husband's name, she gave us one charge:  To raise funds for the sole benefit of the American Cancer Society.  We've consistently delivered on that charge, raising millions in the process."" Do you see that?",q,MR. TODD,start_answer
+460,1399,53,8,"Uh-huh, I do.",a,THE WITNESS,start_question
+461,1400,53,9,Did I read that correctly?,q,MR. TODD,start_answer
+462,1401,53,10,Yeah.,a,THE WITNESS,start_question
+463,1402,53,11,And do you believe that website to be referencing the telegram permission?,q,MR. TODD,start_answer
+464,1404,53,13,It's likely that it does.,a,THE WITNESS,start_question
+465,1405,53,14,Do you believe it accurately reflects the permission that she granted?,q,MR. TODD,start_answer
+466,1407,53,16,"It's not the same wording.  So it's an interpretation, I believe, of what she said.",a,THE WITNESS,start_question
+467,1409,53,18,Okay.  Do you -- do you think it's inaccurate?,q,MR. TODD,start_answer
+468,1411,53,20,Not necessarily.,a,THE WITNESS,start_question
+469,1412,53,21,"Do you see up at the top right right above that language, it has November 2006, and then it's kind of gray, December 12, 2007, and then sort of like a bold January 2008?",q,MR. TODD,start_answer
+470,1416,53,25,Uh-huh.,a,THE WITNESS,start_question
+471,1418,54,1,Do you -- do you know what that means?,q,MR. TODD,start_answer
+472,1419,54,2,"I would assume that the date of this document is December 12, 2007.",a,THE WITNESS,start_question
+473,1421,54,4,Okay.  Thank you.  Do you know why as late as 2007 the Rotary Club would still be referencing permission from Mrs. Lombardi?,q,MR. TODD,start_answer
+474,1424,54,7,"I read this as public relations script, not necessarily as a -- as a hard policy statement by the leadership of the Club or the membership of the Club.",a,THE WITNESS,start_question
+475,1428,54,11,What would be the difference?,q,MR. TODD,start_answer
+476,1429,54,12,"Well, my -- my interface with -- with what I've just said in my own life is that you hire somebody to write copy for you to put out a publication or to put out a notice and make it interesting, make it powerful, give some -- you know, people that write copy for a living are good at conveying things.  So that's kind of how I read this.",a,THE WITNESS,start_question
+477,1437,54,20,But in your opinion is it still a communication to the public about the permission that's been granted to the Club?,q,MR. TODD,start_answer
+478,1440,54,23,"The word ""permission"" is used here.  It says, ""...permission to use her late husband's name.""",a,THE WITNESS,start_question
+479,1444,55,1,Okay.  I'm going to hand you what we will mark as Deposition Exhibit No. 8.,q,MR. TODD,is brackets
+480,1446,55,3,(Exhibit 8 marked.),brackets,,start_answer
+481,1447,55,4,Okay.,a,THE WITNESS,start_question
+482,1448,55,5,(BY MR. TODD)  Have you seen this document before?,q,MR. TODD,start_answer
+483,1450,55,7,Not that I recall.,a,THE WITNESS,start_question
+484,1451,55,8,"Okay.  At the top in handwriting, it appears to be the name of a Mrs. Vicki Brentin.  Do you know Mrs. Brentin?",q,MR. TODD,start_answer
+485,1454,55,11,"I'm familiar with her, but I do not know her very well.",a,THE WITNESS,start_question
+486,1456,55,13,How are you familiar with her?,q,MR. TODD,start_answer
+487,1457,55,14,"Just from a couple of different Rotary events, meeting her and saying hello.",a,THE WITNESS,start_question
+488,1459,55,16,Is she a member of the Rotary Club of Houston?,q,MR. TODD,start_answer
+489,1461,55,18,I don't think she currently is.,a,THE WITNESS,start_question
+490,1462,55,19,Was she at some point while you were a member?,q,MR. TODD,start_answer
+491,1464,55,21,"No, I don't think she was a member while I was a member.",a,THE WITNESS,start_question
+492,1466,55,23,Do you know if she was ever a president of the Club?,q,MR. TODD,start_answer
+493,1468,55,25,That's easy to verify.  I don't know for sure.  I think maybe she was.,a,THE WITNESS,start_question
+494,1471,56,2,Okay.,q,MR. TODD,start_answer
+495,1472,56,3,"Again, I'm speculating.",a,THE WITNESS,start_question
+496,1473,56,4,So what -- did she attend a meeting that you were at or -- I'm trying to get the context of --,q,MR. TODD,start_answer
+497,1475,56,6,Not that I recall.,a,THE WITNESS,start_question
+498,1476,56,7,Okay.  But you know who she is or you've met her?,q,MR. TODD,start_answer
+499,1478,56,9,Yes.,a,THE WITNESS,start_question
+500,1479,56,10,"Okay.  In the first paragraph of this document, it says, ""RLA committee in dire need of 'revitalization,' needs energy and more depth for leadership.""",q,MR. TODD,start_answer
+501,1483,56,14,Okay.,a,THE WITNESS,start_question
+502,1484,56,15,Was that ever a concern during your tenure for the Club with regard to the Lombardi Award?,q,MR. TODD,start_answer
+503,1486,56,17,"You know, in general this is the sort of thing that gets talked about every year in every aspect of Rotary.  So do I -- am I aware of there being a dire need for revitalization?  No, I wouldn't put it that way from my own point of view.  And candidly I don't even know who wrote this --",a,THE WITNESS,start_question
+504,1493,56,24,Sure.,q,MR. TODD,start_answer
+505,1494,56,25,-- or where it comes from.  These could have been topics discussed 20 years ago or last month.,a,THE WITNESS,start_question
+506,1497,57,2,Were there discussions while you were on the committee about needs for revitalization?,q,MR. TODD,start_answer
+507,1499,57,4,"Not specifically.  Every year brings people that have enthusiasm and new ideas that -- if they're new to Rotary, they -- they feel that they can do something to help deal with issues they see as Rotary having too much of or not enough of. They sit and work with people that have been in those situations -- not just the Lombardi Award, but any situation -- that have been doing it that way for 20 years, and it works.  The Rotary constantly deals -- and I mean Rotary International constantly deals with the confluence of new ideas and doing things that work as -- as a historical precedent.  It's part of what makes Rotary a great organization, and it also generates a lot of letters of opinion that come out of nowhere.",a,THE WITNESS,start_question
+508,1515,57,20,"As the representative of Rotary, are you aware of things that the Rotary Club of Houston could have done to improve the award?",q,MR. TODD,start_answer
+509,1518,57,23,"I think every single person out there would have an opinion about how things could be done differently, done better, do more of this, not as much of that.  But this is -- this is a process of people working on ideas together year over year. Whether it's -- whether it's the Lombardi Award, whether it's the DCA, whether it's how to get more books into the hands of kids in Houston schools, everybody has got an idea of how to make things better.  And they have an idea of what doesn't work and what should be tried next.",a,THE WITNESS,start_question
+510,1530,58,9,"Well, were specific ideas for improving the award or the ceremony or the process discussed?",q,MR. TODD,start_answer
+511,1532,58,11,Can you give me something to anchor that to? Discussed when?  Discussed where?  Discussed --,a,THE WITNESS,start_question
+512,1534,58,13,"Okay.  So during your tenure on the committee, were there problems or challenges with the event discussed?",q,MR. TODD,start_answer
+513,1537,58,16,"When I was involved, there were discussions about, ""How can we raise more money?  What can we do better?  What shouldn't we do any more of?"" There were traditions in the award that were attractive to people, as I understood, that, you know, you do certain things in certain ways, and that's attractive.  There were people that wanted to do a bigger dinner.  There were people that didn't want to do dinner at all. So, I mean, basically -- and that's -- and to me that's how Rotary operates.  Every -- every year people talk about how to make the event bigger, better.  They bring their own preferences and experiences.  They compare it to other things that are done. Other people will say, ""This is how we've always done it, and it works really well.  And you can't criticize it.  It raised $300,000 one year,"" you know, that kind of stuff.  So it's just part of the context of being in a volunteer organization that embraces people to participate.",a,THE WITNESS,start_question
+514,1559,59,12,So the process is sort of inconsistent from year to year?,q,MR. TODD,start_answer
+515,1561,59,14,I wouldn't say that.,a,THE WITNESS,start_question
+516,1562,59,15,Okay.  But what would be consistent about what you just described?,q,MR. TODD,start_answer
+517,1564,59,17,"That people come together and get consensus understood, and then people -- so it's -- it's like a family discussion.  Everybody wants something different.  But when you agree on what you're going to do, people lean in and do it.",a,THE WITNESS,start_question
+518,1569,59,22,"But this deliberation process takes place sort of year after year after year in terms of what we're going to do, how we're going to do it?",q,MR. TODD,start_answer
+519,1572,59,25,"It can, but I don't think that's deleterious to the effort.  I think that's what engages people.",a,THE WITNESS,start_question
+520,1576,60,3,But does the effort change from year to year?,q,MR. TODD,start_answer
+521,1578,60,5,"It can move back and forth a little bit. The last event was -- was different in some ways from previous events because it did not involve a meal and it took place in an auditorium rather than a ballroom.  So, I mean, the -- the -- there's -- there's a willingness to try new things and innovate and improve and advance the award, as -- the same thing with Distinguished Citizen or with the Veterans Day Lunch. You know, just for context, I'm in charge of it this year.  I was president over it last year. We have a number of the same people helping out again this year that want to do things the way they used to do, and there's people that want to do things differently.  You find ways to incorporate those issues so that enthusiasm is maintained and people get engaged.",a,THE WITNESS,start_question
+522,1595,60,22,Is there a different chair of the Lombardi Committee every year?,q,MR. TODD,start_answer
+523,1597,60,24,Yes.,a,THE WITNESS,start_question
+524,1598,60,25,"And that different chair, they have their own vision of sort of how the event should proceed?",q,MR. TODD,start_answer
+525,1602,61,3,I think that's too polarizing to say that.,a,THE WITNESS,start_question
+526,1603,61,4,Did you have your own vision of how the event should proceed when you were chair?,q,MR. TODD,start_answer
+527,1605,61,6,I had enthusiasm for -- I was never chair of the event.  Did you just ask me that?,a,THE WITNESS,start_question
+528,1607,61,8,"I think I did, yes.",q,MR. TODD,start_answer
+529,1608,61,9,"No, I was never chair of the event.",a,THE WITNESS,start_question
+530,1609,61,10,"You were chair of the committee, the Lombardi Committee?",q,MR. TODD,start_answer
+531,1611,61,12,I was never chair of the Lombardi Committee.,a,THE WITNESS,start_question
+532,1612,61,13,What was your role with regard to the committee?,q,MR. TODD,start_answer
+533,1614,61,15,I was just a participant in the committee.,a,THE WITNESS,start_question
+534,1615,61,16,You were a member of the committee?,q,MR. TODD,start_answer
+535,1616,61,17,Yes.,a,THE WITNESS,start_question
+536,1617,61,18,"Excuse me.  So while you were a member of the committee, were you aware that the chair had their own vision of sort of how the event should proceed?",q,MR. TODD,start_answer
+537,1621,61,22,"I think that everybody had preferences for how they would change it, how they would grow it, but I don't want to -- I don't want to substantiate your question, if it's being asked in the context of, ""Was it different every year?  Was it reimagined every year?  Was"" -- ""was it"" -- ""was there no consistency or congruity?"" That was -- there was.  There was consistency.  There were -- there were congruous elements of that from one year to the next, if that's the right word.  People were interested in making it better, making it bigger, and -- and -- and with enthusiasm.",a,THE WITNESS,start_question
+538,1635,62,10,"In the year that you were involved, were there celebrity speakers?",q,MR. TODD,start_answer
+539,1637,62,12,"Yeah, there were.",a,THE WITNESS,start_question
+540,1638,62,13,Who was that?,q,MR. TODD,start_answer
+541,1639,62,14,"I'm trying to recall.  I think that -- gosh, that's all on record.  It's really hard for me to call up names.  I'm sorry.  But, yes, there were. There were some celebrity speakers.  And my understanding of their participation was they were secured by Axiom for that event.",a,THE WITNESS,start_question
+542,1645,62,20,Was there national broadcast coverage of the event?,q,MR. TODD,start_answer
+543,1647,62,22,I don't think there was.,a,THE WITNESS,start_question
+544,1648,62,23,Were there guidelines for the members of the committee on how to run the event?,q,MR. TODD,start_answer
+545,1650,62,25,Not that I'm aware of.,a,THE WITNESS,start_question
+546,1652,63,1,"Before you became a member of Rotary in 2013, were you aware of the award?",q,MR. TODD,start_answer
+547,1654,63,3,"No, because I had just moved to Houston.  I moved to Houston in the summer of 2012.",a,THE WITNESS,start_question
+548,1656,63,5,So you didn't -- it was -- your exposure to the award was when you became a member?,q,MR. TODD,start_answer
+549,1658,63,7,Yes.,a,THE WITNESS,start_question
+550,1659,63,8,"Okay.  Was it -- when you were part of the committee -- when you were a member on the committee, was there any discussion about inviting the Lombardis to the event?",q,MR. TODD,start_answer
+551,1663,63,12,I don't specifically recall.,a,THE WITNESS,start_question
+552,1664,63,13,Do you think they should have been invited to the event?,q,MR. TODD,start_answer
+553,1666,63,15,I can't say that they weren't.,a,THE WITNESS,start_question
+554,1667,63,16,Okay.  But let's say -- let's say -- let's say they weren't.  I'm not saying that that's your testimony.  Do you think they -- do you think they should be there?,q,MR. TODD,start_chat
+555,1671,63,20,Objection.  That's a different question.,side_chat,MR. GARVIN,start_chat
+556,1673,63,22,Okay.  I'll restate it.,side_chat,MR. TODD,start_question
+557,1674,63,23,"(BY MR. TODD)  Regardless of whether or not they were invited, do you think the Lombardis have a place at this event?  Do you think they have a role to play in this event?",q,MR. TODD,start_answer
+558,1679,64,2,My impression was that there was a standing invitation for anybody in the Lombardi family to attend the event.,a,THE WITNESS,start_question
+559,1682,64,5,Do you know if the Club made any attempt to coordinate their attendance?,q,MR. TODD,start_answer
+560,1684,64,7,I believe those attempts were made and that -- that people reached out.,a,THE WITNESS,start_question
+561,1686,64,9,Why do you believe that?,q,MR. TODD,start_answer
+562,1687,64,10,"Because it was talked about, like, ""Who's coming from the Lombardi family this year?  Who's going to attend?""",a,THE WITNESS,start_question
+563,1690,64,13,"So do you remember any more about that, like what kinds of invitations were extended or who -- who might be attending from the family?",q,MR. TODD,start_answer
+564,1693,64,16,"I don't.  I mean, my -- my -- looking back on it, my -- my view of that was that people with a much longer history than mine involved in the award were also involved in those matters. Certainly there was -- I never heard a single word of exclusionary intent towards anybody in the Lombardi family.",a,THE WITNESS,start_question
+565,1700,64,23,"Do you think -- in your opinion if the Lombardis had wanted something changed about the award, do you think Rotary would have responded to that?",q,MR. TODD,start_answer
+566,1705,65,2,"I think there would have been dialogue about it, yes, just -- we're all about dialogue.",a,THE WITNESS,start_question
+567,1707,65,4,Sure.  Do you feel like the Lombardis have a say in how this should -- this event should be carried out?,q,MR. TODD,start_answer
+568,1710,65,7,"I think that in proper context Rotary would embrace their input, but the name is separate from the award in my opinion.  The Rotary Lombardi Award is something that the Rotary Club built and did its best to advance every year, and the relationship with the Lombardi family was always a big element of that.  So, you know, if you're -- if there's a relationship, you respect what goes back and forth in that relationship.",a,THE WITNESS,start_question
+569,1719,65,16,Is it Rotary's duty to protect the legacy of Vince Lombardi?,q,MR. TODD,start_answer
+570,1721,65,18,"I really don't think I understand that question.  I don't think I've said anything that creates a context of duty, per se.  So --",a,THE WITNESS,start_question
+571,1724,65,21,"Well, Vince Lombardi certainly has a public persona, an image.  Would you agree with that?",q,MR. TODD,start_answer
+572,1726,65,23,"The name does, yes.",a,THE WITNESS,start_question
+573,1727,65,24,The legacy of Mr. -- of Coach Lombardi.,q,MR. TODD,start_answer
+574,1728,65,25,Uh-huh.,a,THE WITNESS,start_question
+575,1730,66,1,Does Rotary have an obligation to uphold the dignity of that image?,q,MR. TODD,start_answer
+576,1732,66,3,"I'm struggling with your question, to be candid with you.  I'm trying to -- I'm trying to think about what I know about Rotary and how Rotary operates, the good that we do in the world, somehow being held up against an interpretation of duty or obligation.  I'm not sure that -- that's just tough for me. Rotary does a lot of good things in the world.  And I don't feel like I have to sit here and defend Rotary, but -- but, you know, any -- any kind of an assertion that Rotary is not doing right by something is difficult for me.",a,THE WITNESS,start_question
+577,1744,66,15,"The implication here is that the Rotary Club of Houston has some kind of permanent right to use the Lombardi name.  At least that's what's sort of being debated as part of this dispute.  And what I'm getting at is if that's the case, can Rotary just do whatever they want with the Lombardi name?",q,MR. TODD,start_answer
+578,1750,66,21,"And -- and my answer is I think that's an irrelevant question, because Rotary is not going to do whatever it wants to the -- to the detriment of -- of something that it's built over 47 years.",a,THE WITNESS,start_question
+579,1754,66,25,"That's an assumption or an interpretation, correct?",q,MR. TODD,start_answer
+580,1757,67,2,That's my view.,a,THE WITNESS,start_question
+581,1758,67,3,Yeah.  Okay.  I'm going to hand you what we will mark as Deposition Exhibit No. 9.,q,MR. TODD,is brackets
+582,1760,67,5,(Exhibit 9 marked.),brackets,,start_answer
+583,1761,67,6,Okay.,a,THE WITNESS,start_question
+584,1762,67,7,(BY MR. TODD)  Have you seen this document before?,q,MR. TODD,start_answer
+585,1764,67,9,I believe I have.,a,THE WITNESS,start_question
+586,1765,67,10,Do you recall in what context?,q,MR. TODD,start_answer
+587,1766,67,11,"Well, in the context of John Lombardi wanting to end the Lombardi family's relationship with Rotary.",a,THE WITNESS,start_question
+588,1769,67,14,Did you -- did you receive this letter from Mr. Lombardi?,q,MR. TODD,start_answer
+589,1771,67,16,"I may have, but I can't say for certain that I did.  I believe I've seen it, but I don't think I would have automatically been on a copy list for this, depending on how it's delivered.",a,THE WITNESS,start_question
+590,1775,67,20,"While you were a member of the committee, did you -- did you understand Mr. John Lombardi to be the representative of the Lombardi family?",q,MR. TODD,start_answer
+591,1778,67,23,Not necessarily.,a,THE WITNESS,start_question
+592,1779,67,24,Who did you understand that representative to be?,q,MR. TODD,start_answer
+593,1782,68,1,I don't think I understood that there was a single representative of the overall family.,a,THE WITNESS,start_question
+594,1784,68,3,Do you know who Mr. John Lombardi is?,q,MR. TODD,start_answer
+595,1785,68,4,"Not specifically in regards to where his -- you know, I don't know who he's the son or grandson of, et cetera.  I understand he's a member of the Lombardi family.",a,THE WITNESS,start_question
+596,1789,68,8,Is there any reason why you would think he would not have the authority to issue this letter?,q,MR. TODD,start_answer
+597,1791,68,10,"I'm not aware of any sort of organizational structure within the Lombardi family.  I come from a big family, and I'm just here to tell you that everybody tends to speak for themselves.  So if there's some sort of document or something that establishes that John Lombardi is the spokesman for the Lombardi family, I'd be glad to look at that, but honestly I don't really know.",a,THE WITNESS,start_question
+598,1799,68,18,Did anybody tell you he was not the spokesman for the family?,q,MR. TODD,start_answer
+599,1801,68,20,"When this came out, there was a lot of discussion about whether he was in authority to do that, to make -- to write the letter and speak for the family.",a,THE WITNESS,start_question
+600,1805,68,24,What was the nature of that discussion? What kinds of discussions were they?,q,MR. TODD,start_answer
+601,1808,69,1,"Very -- very multiperson, lots of different opinions.  You know, there's -- there's people in this -- in the Rotary organization that have known various Lombardis for many, many years.  So some people immediately said, ""Well, he doesn't have the right to speak for the whole family.""",a,THE WITNESS,start_question
+602,1814,69,7,So who would those people be?,q,MR. TODD,start_answer
+603,1815,69,8,I have no idea.,a,THE WITNESS,start_question
+604,1816,69,9,Did they say it to you?,q,MR. TODD,start_answer
+605,1817,69,10,"People have been mentioned, like Steve Warner, for example -- or Werner -- were mentioned as having an equal opinion.  I just don't know the -- the Lombardi family tree and all the people that are associated with it.  It's really outside my direct experience.",a,THE WITNESS,start_question
+606,1823,69,16,"Certainly.  I understand that.  But you're talking about -- you sort of have raised the issue of there being debate and discussion around, you know, whether or not Mr. Lombardi had the authority.  And I'm just trying to get to the bottom of who was saying what.",q,MR. TODD,start_answer
+607,1829,69,22,There are other people that could tell you more directly than I.,a,THE WITNESS,start_question
+608,1831,69,24,Who would that be?,q,MR. TODD,start_answer
+609,1832,69,25,"Rick Olsen, for one.",a,THE WITNESS,start_question
+610,1834,70,1,Okay.  Anybody else?,q,MR. TODD,start_answer
+611,1835,70,2,In my view Rick probably has the best -- the best grip on that.,a,THE WITNESS,start_question
+612,1837,70,4,So were there also people saying that Mr. Lombardi did have the authority?,q,MR. TODD,start_answer
+613,1839,70,6,No.  This -- what I'm aware of in the context of what we're talking about proximate to this letter is that the discussions were that -- that -- that nobody really had the authority to speak for the entire family unless they could demonstrate they had that authority and that there was a lot of discussion that other people in the overall family may not and probably did not agree with this.,a,THE WITNESS,start_question
+614,1848,70,15,"What does ""a lot of discussion"" mean?  Does that mean formal agenda items at meetings, or does that mean --",q,MR. TODD,start_answer
+615,1851,70,18,No.,a,THE WITNESS,start_question
+616,1852,70,19,-- in the hallway or --,q,MR. TODD,start_answer
+617,1853,70,20,Yeah.  Sorry I cut you off.,a,THE WITNESS,start_question
+618,1854,70,21,It's okay.  Go ahead.  I'm done.,q,MR. TODD,start_answer
+619,1855,70,22,"No, just I was aware that people were talking about it.",a,THE WITNESS,start_question
+620,1857,70,24,How did you feel about it?,q,MR. TODD,start_answer
+621,1858,70,25,"I'm fairly new to this.  You know, I saw this as -- as a member of the Lombardi family saying that they wanted to end the relationship with Rotary.",a,THE WITNESS,start_question
+622,1863,71,4,"What if Vince Lombardi, Jr., had written this letter, the son of Vince Lombardi?",q,MR. TODD,start_answer
+623,1865,71,6,I have no idea.,a,THE WITNESS,start_question
+624,1866,71,7,Would that make a difference to you?,q,MR. TODD,start_answer
+625,1867,71,8,I really don't know.,a,THE WITNESS,start_question
+626,1868,71,9,"Do you think Vince Lombardi, Jr., has the authority to speak for the family?",q,MR. TODD,start_answer
+627,1870,71,11,My view of this is that the Lombardi Award and the relationship with the family are two different things.,a,THE WITNESS,start_question
+628,1873,71,14,How so?,q,MR. TODD,start_answer
+629,1874,71,15,We got permission to use the name.  We built a nationally recognized award year over year over year.  And that's -- that's a separate estate.,a,THE WITNESS,start_question
+630,1877,71,18,"And if they're not happy with it, it's just tough?",q,MR. TODD,start_answer
+631,1879,71,20,"No, don't put those words in my mouth.",a,THE WITNESS,start_question
+632,1880,71,21,Okay.  So what happens when they're not happy with it?,q,MR. TODD,start_answer
+633,1882,71,23,"With -- well, you have to define ""they,"" don't you?  Because the fact of the matter is, this is one Lombardi.",a,THE WITNESS,start_question
+634,1886,72,1,What happens when any Lombardi family member is not happy with it?,q,MR. TODD,start_answer
+635,1888,72,3,"We offer to get together and talk, just like we did with him.",a,THE WITNESS,start_question
+636,1890,72,5,"Did you, in fact, get together and talk?",q,MR. TODD,start_answer
+637,1891,72,6,I did not.,a,THE WITNESS,start_question
+638,1892,72,7,Did the Rotary Club of Houston?,q,MR. TODD,start_answer
+639,1893,72,8,"I think -- I think there were dialogues with him, I believe, but I don't know that for sure.",a,THE WITNESS,start_question
+640,1895,72,10,"Does it make a difference to you if the sole surviving heir of Coach Lombardi writes this letter and says, ""I'm not happy, and I'm ending this relationship""?  Does that make any difference to you?",q,MR. TODD,start_chat
+641,1900,72,15,"Objection, assumes facts not in evidence.  You can answer.",side_chat,MR. GARVIN,start_answer
+642,1902,72,17,There are mitigating circumstances to this letter that -- that affect my view of it.,a,THE WITNESS,start_question
+643,1904,72,19,(BY MR. TODD)  Like what?,q,MR. TODD,start_answer
+644,1905,72,20,I believe that John Lombardi was massively manipulated by Rick Slemaker.,a,THE WITNESS,start_question
+645,1907,72,22,Why?,q,MR. TODD,start_answer
+646,1908,72,23,To destroy the relationship between the Lombardi family or John Lombardi and the Rotary Club of Houston.,a,THE WITNESS,start_question
+647,1912,73,1,What do you base that on?,q,MR. TODD,start_answer
+648,1913,73,2,That's just how I feel about it.,a,THE WITNESS,start_question
+649,1914,73,3,Do you have any facts that would indicate that that was the case?,q,MR. TODD,start_answer
+650,1916,73,5,I had a number of discussions with Rick Slemaker to that effect.,a,THE WITNESS,start_question
+651,1918,73,7,To what effect?,q,MR. TODD,start_answer
+652,1919,73,8,"What I just said, that basically I feel -- I feel that he did what he could do to get between the Lombardi family and the Rotary Club of Houston to precipitate this letter and set up the Lombardi Foundation in an attempt to take the Lombardi Award and go his own way with it.",a,THE WITNESS,start_question
+653,1925,73,14,And you discussed this with him?,q,MR. TODD,start_answer
+654,1926,73,15,I did.,a,THE WITNESS,start_question
+655,1927,73,16,Can you be more specific about the content of those discussions?,q,MR. TODD,start_answer
+656,1929,73,18,"Just speaking in generalities -- I don't have dates.  I don't have times.  I don't have transcripts of that.  But on two different occasions, Rick Slemaker told me that the Rotary -- the Rotary Lombardi Award was his.",a,THE WITNESS,start_question
+657,1934,73,23,Was this before or after you joined the Foundation?,q,MR. TODD,start_answer
+658,1936,73,25,Pardon me.,a,THE WITNESS,start_question
+659,1938,74,1,Was this conversation before or after you joined the Foundation?,q,MR. TODD,start_answer
+660,1940,74,3,I joined the Foundation?  What do you mean by that?,a,THE WITNESS,start_question
+661,1942,74,5,"You attended a meeting, and then you resigned.",q,MR. TODD,start_answer
+662,1944,74,7,"Oh, the Lombardi Foundation?",a,THE WITNESS,start_question
+663,1945,74,8,"Correct.  Excuse me.  The Lombardi Foundation.  Was it before or after you joined the Lombardi Foundation, this conversation?",q,MR. TODD,start_answer
+664,1948,74,11,This was all concurrent with that situation.,a,THE WITNESS,start_question
+665,1949,74,12,"""That situation"" being your being a member of the Lombardi Foundation?",q,MR. TODD,start_answer
+666,1951,74,14,The situation with Slemaker.,a,THE WITNESS,start_question
+667,1952,74,15,So was the situation with Slemaker concurrent with your membership in the Lombardi Foundation?,q,MR. TODD,start_answer
+668,1955,74,18,"I didn't really view myself as a member of it until I participated in the first meeting, and then I resigned immediately.  Leading up to that, you know, we were in the middle of Hurricane Harvey.  There were a lot of things going on.  And a number of people in Rotary were interested in salvaging the relationship with John Lombardi at that time.",a,THE WITNESS,start_question
+669,1964,75,1,"I'm just trying to put the conversations in order with regard to what happened in time.  So, you know, were these conversations with Mr. Slemaker before you resigned?",q,MR. TODD,start_answer
+670,1968,75,5,Yes.,a,THE WITNESS,start_question
+671,1969,75,6,Were they before you attended the first meeting?,q,MR. TODD,start_answer
+672,1971,75,8,Yes.,a,THE WITNESS,start_question
+673,1972,75,9,What was Mr. Slemaker's vision for the award that you recall?,q,MR. TODD,start_answer
+674,1974,75,11,My impression of his vision for the award was to make it similar to the Heisman.,a,THE WITNESS,start_question
+675,1976,75,13,Was that Rotary's vision for the award?,q,MR. TODD,start_answer
+676,1977,75,14,"Not in the same context, not in the same scale, not the same way.",a,THE WITNESS,start_question
+677,1979,75,16,What was Rotary's vision for the award?,q,MR. TODD,start_answer
+678,1980,75,17,"To advance the award, as they had been doing for 47 years, find ways to make it more prestigious, grow it, have it become a -- a -- an increasingly more valuable tool for doing good in the world through funding cancer research.",a,THE WITNESS,start_question
+679,1985,75,22,How is it different from Mr. Slemaker's vision from the award -- for the award?  Excuse me.,q,MR. TODD,start_answer
+680,1988,75,25,I never heard anybody in Rotary say the award was personally theirs.,a,THE WITNESS,start_question
+681,1991,76,2,"Okay.  But we're talking about the vision for the award in terms of what it's going to accomplish, what it should represent, how it should be viewed in the community, was it being used to raise money for cancer research.  That's what I'm talking about.  So was there a difference between Rotary's vision and Mr. Slemaker's vision in those respects?",q,MR. TODD,start_answer
+682,1999,76,10,"Yeah, I believe there was.",a,THE WITNESS,start_question
+683,2000,76,11,Okay.  How was -- what were the differences in your opinion?,q,MR. TODD,start_answer
+684,2002,76,13,"It's a difficult question to answer.  I think that Rotary's -- Rotary's intention has always been with the Rotary Lombardi Award to advance the award, make it a prestigious event, use it for fundraising, innovate, improve, and increase it along the way, as they've done for all of these years.  And my view of what Rick Slemaker personally wanted to do with the award was to own it.",a,THE WITNESS,start_question
+685,2011,76,22,What does -- what does that mean?,q,MR. TODD,start_answer
+686,2012,76,23,"To be the executor of it, to be the controller of it, to be the vendor of it.",a,THE WITNESS,start_question
+687,2014,76,25,Is there any indication that the Lombardi Foundation did not want to raise money for cancer?,q,MR. TODD,start_answer
+688,2017,77,2,"It's hard for me to speak to that, having only attended one meeting.",a,THE WITNESS,start_question
+689,2019,77,4,Did they ever say anything like that in that meeting?,q,MR. TODD,start_answer
+690,2021,77,6,Like what?,a,THE WITNESS,start_question
+691,2022,77,7,That they didn't want to raise money for cancer?,q,MR. TODD,start_answer
+692,2024,77,9,No.,a,THE WITNESS,start_question
+693,2025,77,10,Did they say what they did want to do?,q,MR. TODD,start_answer
+694,2026,77,11,Basically raise money for cancer.,a,THE WITNESS,start_question
+695,2027,77,12,Okay.  And you said that Mr. Slemaker saw the Lombardi Award as maybe a potential competitor or similar to the Heisman Award.  Is that correct? Can you --,q,MR. TODD,start_answer
+696,2031,77,16,To have equal status.,a,THE WITNESS,start_question
+697,2032,77,17,Equal status as the Heisman Award.  Was that Rotary Club of Houston's goal?,q,MR. TODD,start_answer
+698,2034,77,19,"We're talking cats and dogs differences here.  The -- the -- advancing an award, increasing its prestige, having it be year over year beneficial to cancer research and so on is -- you don't know what you don't know.  I don't know what I don't know.  But I'm just telling you from me the difference of having this award be being at its base somebody's personal property and having ideas for the award and so on be driven by ego at a singular personal level after it being a product and something that evolved with the Rotary Club of Houston for 47 years, it's hard for me to talk about those two things as though they're on the same set of railroad tracks.  That's really what this is about.",a,THE WITNESS,start_question
+699,2050,78,9,"This bit about sort of your -- your opinion about Mr. Slemaker's vision for the -- for the award being driven by his singular personal purposes, do you -- do you have any facts to substantiate that?",q,MR. TODD,start_answer
+700,2055,78,14,Just discussions with him.,a,THE WITNESS,start_question
+701,2056,78,15,And he -- and he told you that?,q,MR. TODD,start_answer
+702,2057,78,16,"He said, ""The Rotary"" -- he said, ""The Rotary Lombardi Award is mine.""",a,THE WITNESS,start_question
+703,2059,78,18,In what context was that?,q,MR. TODD,start_answer
+704,2060,78,19,"The context of trying to work on the award as a committee, trying to have Rotary advance its involvement in the award, have Rotary give the award next year.",a,THE WITNESS,start_question
+705,2064,78,23,Was he chair of the committee at that time?,q,MR. TODD,start_answer
+706,2065,78,24,No.,a,THE WITNESS,start_question
+707,2066,78,25,No?  When was this?,q,MR. TODD,start_answer
+708,2068,79,1,This was in Rick's Olsen's year.  Graham Sharp was chair of the committee at that time.,a,THE WITNESS,start_question
+709,2070,79,3,"When Mr. Slemaker was chair of the committee, were you aware that he was prevented from doing anything that he wanted to do with regard to promotion of the award?",q,MR. TODD,start_answer
+710,2074,79,7,When Rick Slemaker was chair?,a,THE WITNESS,start_question
+711,2075,79,8,Uh-huh.,q,MR. TODD,start_answer
+712,2076,79,9,So I was on the committee when Rick Slemaker was president of the Club.  I'm not sure -- honestly I don't recall who was the chair of the committee at that time.  It might have been Billy Bray.,a,THE WITNESS,start_question
+713,2081,79,14,Did you ever hear Mr. Slemaker talk about things that he wanted to do with the award that he could not do with -- at Rotary?,q,MR. TODD,start_answer
+714,2084,79,17,No.,a,THE WITNESS,start_question
+715,2085,79,18,Does Rotary have any agreements with any other individuals regarding the use of their name? And by that I mean the Rotary Club of Houston.,q,MR. TODD,start_answer
+716,2088,79,21,Not that I'm aware of.,a,THE WITNESS,is brackets
+717,2089,79,22,(Exhibit 10 marked.),brackets,,start_question
+718,2090,79,23,(BY MR. TODD)  I'm going to hand you deposition Exhibit No. 10.,q,MR. TODD,start_answer
+719,2092,79,25,Okay.,a,THE WITNESS,start_question
+720,2094,80,1,Have you seen this document before?,q,MR. TODD,start_answer
+721,2095,80,2,"Yes, I have.",a,THE WITNESS,start_question
+722,2096,80,3,In what context?,q,MR. TODD,start_answer
+723,2097,80,4,"When it happened, so with Rick as president and efforts being made to see if there was way to continue a relationship with the family.",a,THE WITNESS,start_question
+724,2100,80,7,Did you help prepare this letter?,q,MR. TODD,start_answer
+725,2101,80,8,I did not.,a,THE WITNESS,start_question
+726,2102,80,9,Did you see a draft of this letter before it went out?,q,MR. TODD,start_answer
+727,2104,80,11,Not that I recall.,a,THE WITNESS,start_question
+728,2105,80,12,"Okay.  At the time Mr. Olsen was president of the Rotary Club of Houston, correct?",q,MR. TODD,start_answer
+729,2107,80,14,Yes.,a,THE WITNESS,start_question
+730,2108,80,15,"Okay.  So in the first paragraph, Mr. Olsen says, ""I write in response to your letter addressed to the Board of Directors of the Rotary Club of Houston on August 5, 2017.  Specifically, your decision to end the historic relationship between the Lombardi family and the Rotary Club of Houston without any explanation."" Did I read that correctly?",q,MR. TODD,start_answer
+731,2116,80,23,Uh-huh.,a,THE WITNESS,start_question
+732,2117,80,24,Okay.  Do you interpret that as an acknowledgment by Mr. Olsen that the relationship had terminated?,q,MR. TODD,start_answer
+733,2121,81,2,"I read it as a response to John Lombardi's letter.  Again, whether that -- whether any of this closes the loop and creates a certainty that Rotary's relationship with anybody in the -- and everybody in the Lombardi family is hereby terminated I think is -- I don't think I can say that.",a,THE WITNESS,start_question
+734,2128,81,9,So this letter was sent in August of 2017. When would the next Rotary Lombardi Award have taken place?,q,MR. TODD,start_answer
+735,2131,81,12,"Oh, gosh, I'm trying to remember.  I believe it would have taken place early in the year of 2018.",a,THE WITNESS,start_question
+736,2134,81,15,Okay.  Did it take place?,q,MR. TODD,start_answer
+737,2135,81,16,No.,a,THE WITNESS,start_question
+738,2136,81,17,Was there a Rotary Lombardi award in 2019?,q,MR. TODD,start_answer
+739,2137,81,18,No.,a,THE WITNESS,start_question
+740,2138,81,19,Okay.  Why not?,q,MR. TODD,start_answer
+741,2139,81,20,Because of all of this.,a,THE WITNESS,start_question
+742,2140,81,21,Because the relationship was terminated?,q,MR. TODD,start_answer
+743,2141,81,22,"No, it's because -- it's because of this controversy, because of the issues.  It's just extremely confusing to have two Rotary Clubs presenting two Lombardi Awards in the same community, especially in the context of the fact that a newly formed club was involved in and claimed it was now going to take the Lombardi award forward and so on.  There's a lot of -- just a lot of confusion in the air within the world of Rotary, as limited to Houston anyway.  And I don't think anybody thought that trying to have two awards was in the best interest of what we saw as our intellectual property -- what we see as our intellectual property.",a,THE WITNESS,start_question
+744,2156,82,11,Was there -- was there confusion about your authority to be able to give the award?,q,MR. TODD,start_answer
+745,2158,82,13,Not in my opinion.,a,THE WITNESS,start_question
+746,2159,82,14,Was there confusion at Rotary about Rotary's authority to give the award?,q,MR. TODD,start_answer
+747,2161,82,16,I don't think so.,a,THE WITNESS,start_question
+748,2162,82,17,So why wouldn't they proceed?,q,MR. TODD,start_chat
+749,2163,82,18,"Objection, asked and answered.  You can answer it once again.",side_chat,MR. GARVIN,start_answer
+750,2165,82,20,"The issue here is that an award that we developed was represented as having gone somewhere else, and that's patently not how we see it. Presenting the award just is a very, very difficult situation given all of these things that were going on in the context of Rotary Clubs, and it's hard to do.  Don't confuse the fact that we didn't do a presentation with any doubts whatsoever that we own the Lombardi Award.  That's not the case.",a,THE WITNESS,start_question
+751,2176,83,5,(BY MR. TODD)  Did Mr. Olsen say that to the Lombardi family?,q,MR. TODD,start_answer
+752,2178,83,7,I have no idea.,a,THE WITNESS,start_question
+753,2179,83,8,To your knowledge has -- has anybody from the Rotary Club of Houston communicated to the Lombardi family that the Rotary Club of Houston owns the Lombardi Award?,q,MR. TODD,start_answer
+754,2183,83,12,I have no idea.  I feel that we own it.,a,THE WITNESS,start_question
+755,2184,83,13,"In the last paragraph Mr. Olsen says, ""If your decision to now end the long-standing and valued relationship between the Lombardi family and the Rotary Club of Houston is somehow predicated upon the termination of the Axiom contract, I respectfully request that you reconsider the underlying facts.""",q,MR. TODD,start_answer
+756,2191,83,20,That's what it says.,a,THE WITNESS,start_question
+757,2192,83,21,"All right.  Well, would you agree that Mr. Olsen here somehow views Mr. John Lombardi as somebody that has the power to end the relationship?",q,MR. TODD,start_answer
+758,2196,83,25,I think he's talking to John Lombardi in the context of John's letter.,a,THE WITNESS,start_question
+759,2199,84,2,John's letter terminating the relationship?,q,MR. TODD,start_answer
+760,2200,84,3,Right.,a,THE WITNESS,start_chat
+761,2201,84,4,"Hey, why don't we take five?  It's been about an hour, and nature is calling me.",side_chat,MR. GARVIN,start_chat
+762,2204,84,7,"Yeah, that's fine.  Yeah, sure.",side_chat,MR. TODD,is brackets
+763,2206,84,9,(Recess.),brackets,,start_question
+764,2207,84,10,(BY MR. TODD)  Okay.  I'm going to hand you what we will mark as Deposition Exhibit No. 11.,q,MR. TODD,is brackets
+765,2209,84,12,(Exhibit 11 marked.),brackets,,start_answer
+766,2210,84,13,Okay.,a,THE WITNESS,start_question
+767,2211,84,14,(BY MR. TODD)  Do you remember -- do you -- do you -- have you seen this before?,q,MR. TODD,start_answer
+768,2213,84,16,"Yes, yes.",a,THE WITNESS,start_question
+769,2214,84,17,Okay.  Just as a recipient?  Or did you help draft it or --,q,MR. TODD,start_answer
+770,2216,84,19,I did not help draft it.,a,THE WITNESS,start_question
+771,2217,84,20,Okay.  Did you just receive it as a member of the Club?,q,MR. TODD,start_answer
+772,2219,84,22,"Yes, I did.",a,THE WITNESS,start_question
+773,2220,84,23,"Okay.  And the first paragraph there says -- well, let me back that up.  Do you understand this to be a press release from the Rotary Club of Houston?",q,MR. TODD,start_answer
+774,2225,85,2,Yes.,a,THE WITNESS,start_question
+775,2226,85,3,"Okay.  And in the first sentence there, it says, ""Representatives of the Lombardi family have elected to end the historic and long-standing relationship with the Rotary Club of Houston. Consequently, the Rotary Club of Houston will not present the 48th Annual Rotary Lombardi Award for the 2017-2018 College Football Season as previously announced."" Did I read that correctly?",q,MR. TODD,start_answer
+776,2235,85,12,Yes.,a,THE WITNESS,start_question
+777,2236,85,13,"Okay.  So the first sentence here says that the representatives of the Lombardi family have elected to end the historic relationship, and consequently the Rotary Club of Houston will not present the award.  So would you understand that to be an acceptance of their termination if you're consequently not presenting the award?",q,MR. TODD,start_chat
+778,2243,85,20,"Objection, misstates the document.  You may answer.",side_chat,MR. GARVIN,start_answer
+779,2245,85,22,"Yeah.  No, I don't specifically understand it that way.",a,THE WITNESS,start_question
+780,2247,85,24,(BY MR. TODD)  Okay.  How do you understand it?,q,MR. TODD,start_answer
+781,2250,86,1,"We were dealing with a lot of chaos.  We had Hurricane Harvey, lots of things going on.  The -- the relationship with the Lombardi family was something that mattered to everybody.  I don't think anybody felt like they had the right to take the ownership of the award away from us, but the relationship with the family was -- was consequential to people's hearts and minds.",a,THE WITNESS,start_question
+782,2258,86,9,So the relationship with the Lombardi family was important to the Rotary Club of Houston?,q,MR. TODD,start_answer
+783,2260,86,11,How could it not be?,a,THE WITNESS,start_question
+784,2261,86,12,What efforts did the Rotary Club of Houston make to repair this relationship?,q,MR. TODD,start_answer
+785,2263,86,14,"Well, Rick Olsen led -- I guess as president he led an effort in that regard, and I'm aware that other people within the Club that have relationships with people in the Lombardi family reached out as well.",a,THE WITNESS,start_question
+786,2268,86,19,So can we be more specific than that in terms of --,q,MR. TODD,start_answer
+787,2270,86,21,"Joe Colangelo is someone who was involved in some discussions, I believe, with other members of the Lombardi family.",a,THE WITNESS,start_question
+788,2273,86,24,Do you know which members?,q,MR. TODD,start_answer
+789,2274,86,25,"No, I don't.",a,THE WITNESS,start_question
+790,2276,87,1,Anyone else?,q,MR. TODD,start_answer
+791,2277,87,2,Not that I'm specifically aware of.,a,THE WITNESS,start_question
+792,2278,87,3,"So the people that would have reached out to the Lombardi family would be, to your knowledge, Rick Olsen and Joe Colangelo?",q,MR. TODD,start_answer
+793,2281,87,6,"That I know for certain did reach out, yes.",a,THE WITNESS,start_question
+794,2282,87,7,Okay.  But you don't know who to specifically?,q,MR. TODD,start_answer
+795,2284,87,9,"No, I specifically don't.",a,THE WITNESS,start_question
+796,2285,87,10,Okay.  Was there discussion at the -- any meeting of the Club about additional efforts to try to repair the relationship with the family?,q,MR. TODD,start_answer
+797,2288,87,13,I'm trying to specifically recall.  I know there were discussions.  I don't know if they were held at official club meetings or whether they were just held between members.,a,THE WITNESS,start_question
+798,2292,87,17,"There was no agenda item at a meeting, for example, that says, ""Hey, we need to appoint a person to reach out to the Lombardis and repair this relationship""?",q,MR. TODD,start_answer
+799,2296,87,21,Not that I'm aware of.,a,THE WITNESS,start_question
+800,2297,87,22,Okay.,q,MR. TODD,start_answer
+801,2298,87,23,"I don't think a specific person would have been appointed, candidly, because everybody felt -- if people feel like they have a relationship with somebody, they're just going to go ahead and call.",a,THE WITNESS,start_question
+802,2304,88,3,So Mr. Olsen and Mr. Colangelo weren't appointed to go do this.  They took it upon themselves to go do it?,q,MR. TODD,start_answer
+803,2307,88,6,"Well, I think it was incumbent on Rick Olsen --",a,THE WITNESS,start_question
+804,2309,88,8,Because he was the president?,q,MR. TODD,start_answer
+805,2310,88,9,-- as the president.,a,THE WITNESS,start_question
+806,2311,88,10,And Mr. Colangelo volunteered to do it?,q,MR. TODD,start_answer
+807,2312,88,11,Not in any organized predetermined permission-seeking way.,a,THE WITNESS,start_question
+808,2314,88,13,Okay.  Is it important to the Rotary Club of Houston to have a relationship with the family today?,q,MR. TODD,start_answer
+809,2317,88,16,Certainly.,a,THE WITNESS,start_question
+810,2318,88,17,Have there been any efforts made to repair that relationship?,q,MR. TODD,start_answer
+811,2320,88,19,"That I'm specifically aware of, no.",a,THE WITNESS,is brackets
+812,2321,88,20,(Exhibit 12 marked.),brackets,,start_question
+813,2322,88,21,"(BY MR. TODD)  Okay.  We've handed you what we've marked as Deposition Exhibit No. 12.  Can you just take a few moments to review it, please?",q,MR. TODD,start_answer
+814,2325,88,24,Would you allow me to look at my phone real quick?  My wife is traveling.  It seems like my phone is --,a,THE WITNESS,start_question
+815,2329,89,2,Sure.  We can go off the record for a second.,q,MR. TODD,is brackets
+816,2331,89,4,(Off the record.),brackets,,start_answer
+817,2332,89,5,Okay.,a,THE WITNESS,start_question
+818,2333,89,6,(BY MR. TODD)  All right.  Have you seen this document before?,q,MR. TODD,start_answer
+819,2335,89,8,Yes.,a,THE WITNESS,start_question
+820,2336,89,9,In what context did you see this document?,q,MR. TODD,start_answer
+821,2337,89,10,It was sent out to membership of the Rotary Club of Houston.,a,THE WITNESS,start_question
+822,2339,89,12,So you received it just as a recipient like anyone else?,q,MR. TODD,start_answer
+823,2341,89,14,Yes.,a,THE WITNESS,start_question
+824,2342,89,15,Okay.  And on the last page this document appears to be signed by Mr. John Lombardi?,q,MR. TODD,start_answer
+825,2344,89,17,It does.,a,THE WITNESS,start_question
+826,2345,89,18,Okay.  And it is written on Lombardi Foundation letterhead?,q,MR. TODD,start_answer
+827,2347,89,20,It is.,a,THE WITNESS,start_question
+828,2348,89,21,"Okay.  In reviewing this letter from a high level perspective, would you agree with me that it appears to be a summary of Mr. Lombardi's frustrations with the Rotary Club of Houston?",q,MR. TODD,start_answer
+829,2352,89,25,"Yes, it appears to be that.",a,THE WITNESS,start_question
+830,2354,90,1,"If we look at the bottom of the first paragraph on the first page, it says, ""Instead of looking for solutions or a way to repair the breach, members of the Rotary Club of Houston have looked to assign blame, find fault with prior actions and hold on to legalistic interpretations of decisions made in good faith.""",q,MR. TODD,start_answer
+831,2361,90,8,I'm sorry.  Where is that?,a,THE WITNESS,start_question
+832,2362,90,9,The bottom of the first paragraph on Page 1.,q,MR. TODD,start_answer
+833,2363,90,10,"Oh, okay.  Sorry.",a,THE WITNESS,start_question
+834,2364,90,11,"""Instead of looking for solutions,"" do you have any understanding of what Mr. Lombardi meant by that?",q,MR. TODD,start_answer
+835,2367,90,14,"No, no idea.",a,THE WITNESS,start_question
+836,2368,90,15,"Okay.  In April of 2018, would this have been -- would this have been before or after Mr. Olsen would have perhaps reached out to Mr. Lombardi?",q,MR. TODD,start_answer
+837,2372,90,19,I can't say.,a,THE WITNESS,start_question
+838,2373,90,20,"The next paragraph says, ""Let me be clear: The Rotary Club of Houston does not own the rights to use the name Lombardi.  It was granted stewardship status and this arrangement was neither permanent nor irrevocable.""",q,MR. TODD,start_answer
+839,2378,90,25,That's what it says.,a,THE WITNESS,start_question
+840,2380,91,1,Uh-huh.  Do you believe that to be true?,q,MR. TODD,start_answer
+841,2381,91,2,No.,a,THE WITNESS,start_question
+842,2382,91,3,Based on the telegram?,q,MR. TODD,start_chat
+843,2383,91,4,"I'm going to object, asked and answered.  You can answer it yet again.",side_chat,MR. GARVIN,start_answer
+844,2385,91,6,"Based on the telegram and the continuity of -- of what the Rotary Club did with the award for all those years.  ""Stewardship"" is a new word. I hadn't seen that before.  And I hadn't seen anything that said that there was a -- a revocability established or a time frame established.  Clearly it's his opinion.",a,THE WITNESS,start_question
+845,2392,91,13,"(BY MR. TODD)  In the one, two, three, four -- fifth paragraph down -- I guess I should say it's the third paragraph up from the bottom.",q,MR. TODD,start_answer
+846,2395,91,16,Let's try that.,a,THE WITNESS,start_question
+847,2396,91,17,"Okay.  It says, ""The Rotary Club of Houston was never granted ownership of the Lombardi name. They were granted permission to use it at the family's discretion as long as they protected the brand and raised the money.  They did neither the final years."" Do you disagree with Mr. Lombardi that the Rotary Club of Houston did indeed protect the brand.",q,MR. TODD,start_answer
+848,2406,92,1,I don't understand what he means by not protecting the brand.  I don't understand that at all.,a,THE WITNESS,start_question
+849,2409,92,4,"What do you think he means by ""the brand""?",q,MR. TODD,start_answer
+850,2410,92,5,"Well, I think he's talking about the Rotary Lombardi Award.",a,THE WITNESS,start_question
+851,2412,92,7,Do you think he's talking about his family's legacy?,q,MR. TODD,start_answer
+852,2414,92,9,I don't know.  It's not clear.,a,THE WITNESS,start_question
+853,2415,92,10,Do you believe that the Lombardi name constitutes a brand?,q,MR. TODD,start_answer
+854,2417,92,12,I honestly don't know how to answer that.,a,THE WITNESS,start_question
+855,2418,92,13,Can anyone use it?,q,MR. TODD,start_answer
+856,2419,92,14,I don't know.,a,THE WITNESS,start_question
+857,2420,92,15,Can anyone use Rotary?,q,MR. TODD,start_answer
+858,2421,92,16,In what context?,a,THE WITNESS,start_question
+859,2422,92,17,If -- in any context.  Can I create a Rotary award?,q,MR. TODD,start_answer
+860,2424,92,19,I'm not sure honestly.,a,THE WITNESS,start_question
+861,2425,92,20,"If the Lombardi family is unhappy with the way their name is being used, do they have the right to effect an outcome?",q,MR. TODD,start_chat
+862,2428,92,23,"Objection, asked and answered.  You can go again.",side_chat,MR. GARVIN,start_answer
+863,2430,92,25,I honestly don't know how to speak to that. It's kind of beyond my -- my realm.,a,THE WITNESS,start_question
+864,2433,93,2,(BY MR. TODD)  Well --,q,MR. TODD,start_answer
+865,2434,93,3,It's very subjective.,a,THE WITNESS,start_question
+866,2435,93,4,"Sure.  If there was -- if Rotary created an award in your name for your profession and they were awarding it to people and you gave them permission to do so and then you didn't like the outcome, what would you do?",q,MR. TODD,start_answer
+867,2440,93,9,"It depends on the situation, candidly, you know, if it -- if they -- somebody said, ""Here's the Lawrence D. Meeks Award,"" for whatever. That's not what this is.",a,THE WITNESS,start_question
+868,2444,93,13,That's not what this is.  Is it similar?,q,MR. TODD,start_answer
+869,2445,93,14,I'm not sure.,a,THE WITNESS,is brackets
+870,2446,93,15,(Exhibit 13 marked.),brackets,,start_answer
+871,2447,93,16,Okay.,a,THE WITNESS,start_question
+872,2448,93,17,"(BY MR. TODD)  Mr. Meeks, do you know what this is?",q,MR. TODD,start_answer
+873,2450,93,19,"No, I don't.",a,THE WITNESS,start_question
+874,2451,93,20,"Okay.  I will represent to you that it is a printout from the United States Patent and Trademark Office website of a record that -- of an application by the Rotary Club of Houston to register the mark ""Lombardi Award.""  This was filed July 30th of this year.",q,MR. TODD,start_answer
+875,2458,94,1,Okay.,a,THE WITNESS,start_question
+876,2459,94,2,Are you aware that the Rotary Club of Houston had filed this application?,q,MR. TODD,start_answer
+877,2461,94,4,I know there was some discussion about it.,a,THE WITNESS,start_question
+878,2462,94,5,Was there a discussion about it in the -- in the Club or at the Foundation?,q,MR. TODD,start_answer
+879,2464,94,7,I believe at both.,a,THE WITNESS,start_question
+880,2465,94,8,Was there a vote?,q,MR. TODD,start_answer
+881,2466,94,9,I'm not aware.,a,THE WITNESS,start_question
+882,2467,94,10,Do you know who made the decision?,q,MR. TODD,start_answer
+883,2468,94,11,"Specifically, no.",a,THE WITNESS,start_question
+884,2469,94,12,Was there any -- was there any discussion about --,q,MR. TODD,start_chat
+885,2471,94,14,I'm sorry.  My next objection will be verbal.,side_chat,MR. GARVIN,start_question
+886,2473,94,16,"(BY MR. TODD)  Was there any discussion about whether or not to file as the ""Rotary Lombardi Award""?",q,MR. TODD,start_answer
+887,2476,94,19,Nothing that I'm aware of.,a,THE WITNESS,start_question
+888,2477,94,20,Do you see a distinction between a Rotary Lombardi Award and a Lombardi Award?,q,MR. TODD,start_answer
+889,2479,94,22,I have to say in this context I really don't.,a,THE WITNESS,start_question
+890,2481,94,24,"In your recollection, how was it used over the years?  Was it --",q,MR. TODD,start_answer
+891,2484,95,1,How was what used?,a,THE WITNESS,start_question
+892,2485,95,2,"The mark.  Was it used as Rotary Lombardi Award, or was it used as Lombardi Award?",q,MR. TODD,start_answer
+893,2487,95,4,"I've heard it referred to in both -- you know, in both ways.  So there's not a distinction in my mind.",a,THE WITNESS,start_question
+894,2490,95,7,You see no difference between the Rotary Lombardi Award and the Lombardi Award?,q,MR. TODD,start_answer
+895,2492,95,9,"No, not in the context of what we're talking about, no.",a,THE WITNESS,start_question
+896,2494,95,11,Okay.  Is the Rotary Club of Houston currently using the Lombardi Award trademark?,q,MR. TODD,start_answer
+897,2496,95,13,"I'm not sure what you mean, ""using.""",a,THE WITNESS,start_question
+898,2497,95,14,"Is it on -- is it on advertising materials? Are they promoting an event?  I mean, are they currently using this in any commercial fashion?",q,MR. TODD,start_answer
+899,2500,95,17,Not that I'm aware of.,a,THE WITNESS,start_question
+900,2501,95,18,Are there plans for a future event?,q,MR. TODD,start_answer
+901,2502,95,19,There's -- there's a lot of discussion about what's going to happen when this trademark case is settled.,a,THE WITNESS,start_question
+902,2505,95,22,What would that be?,q,MR. TODD,start_answer
+903,2506,95,23,It would be to put the event back on again and continue to look for ways to improve and enhance and advance it.,a,THE WITNESS,start_question
+904,2510,96,1,Has there been any discussion about who would be in charge of that?,q,MR. TODD,start_answer
+905,2512,96,3,"Again, and I think throughout our discussion this morning, I've drawn a distinction between what the Rotary Club views this as.  It's not singular.  It's not owned by a particular person. It's not -- there's -- there's no specific champion that's going to rise to the top and take it forward.  This is -- this is something that the Club does as a club.",a,THE WITNESS,start_question
+906,2520,96,11,"Well, that -- that answers my question.  I mean, what I was getting at is, is there currently someone that's in -- spearheading this effort inside the Club, a specific person?",q,MR. TODD,start_answer
+907,2524,96,15,I think there are a lot of people that will want to once this is cleared up.,a,THE WITNESS,start_question
+908,2526,96,17,What would that be?,q,MR. TODD,start_answer
+909,2527,96,18,Any number of people in the Club.,a,THE WITNESS,start_question
+910,2528,96,19,Rick Olsen?,q,MR. TODD,start_answer
+911,2529,96,20,Perhaps.,a,THE WITNESS,start_question
+912,2530,96,21,Joe Colangelo?,q,MR. TODD,start_answer
+913,2531,96,22,Perhaps.  I could say perhaps to half the membership.,a,THE WITNESS,start_question
+914,2533,96,24,Is the Rotary Lombardi Award domain name currently in use?  Do you know?,q,MR. TODD,start_answer
+915,2536,97,1,I have no idea.,a,THE WITNESS,start_question
+916,2537,97,2,Okay.  Do you know if there have been discussions with sponsors or potential donors or with the American Cancer Society or anyone about a future event?,q,MR. TODD,start_answer
+917,2541,97,6,I'm not aware of them.,a,THE WITNESS,start_question
+918,2542,97,7,Okay.  Have you ever heard of the Rotary Lombardi Humanitarian Award?,q,MR. TODD,start_answer
+919,2544,97,9,"No, I haven't.",a,THE WITNESS,is brackets
+920,2545,97,10,(Exhibit 14 marked.),brackets,,start_chat
+921,2546,97,11,"While Mr. Meeks is reviewing this, this document doesn't have a document identification number.  Was it produced?",side_chat,MR. GARVIN,start_chat
+922,2549,97,14,"Yes.  I'll explain that. Mike, I apologize.  This was printed after hours, and the printer had technical difficulties, me. So the only reason that the number is not on there is just the print function that I had did not have the numbers.  So I will send you an email that indicates the numbers on the document.",side_chat,MR. MULLARKEY,start_chat
+923,2556,97,21,That has the produced numbers?,side_chat,MR. GARVIN,start_chat
+924,2558,97,23,Yes.  It's like LOM 420 something.  So I apologize.,side_chat,MR. MULLARKEY,start_chat
+925,2560,97,25,"Yeah, because it's just not immediately coming to mind.",side_chat,MR. GARVIN,start_chat
+926,2563,98,2,"Sure.  It was certainly produced, and I'll send you that record when we get back to the office.",side_chat,MR. MULLARKEY,start_answer
+927,2566,98,5,Okay.,a,THE WITNESS,start_question
+928,2567,98,6,"(BY MR. TODD)  Mr. Meeks, this is a rather long email chain --",q,MR. TODD,start_answer
+929,2569,98,8,Yeah.,a,THE WITNESS,start_question
+930,2570,98,9,"-- some of which you were involved in, and some of which you were not.",q,MR. TODD,start_answer
+931,2572,98,11,Right.,a,THE WITNESS,start_question
+932,2573,98,12,I presume that you've seen some of -- portions of the communications that were directed to you and that you have not seen other portions that occurred later that were not directed to you?,q,MR. TODD,start_answer
+933,2577,98,16,That's correct.,a,THE WITNESS,start_question
+934,2578,98,17,"Okay.  So if we turn to the -- well, I miscounted.  One, two, three, four, five -- the sixth page.",q,MR. TODD,start_answer
+935,2581,98,20,I think I got the wrong --,a,THE WITNESS,start_question
+936,2582,98,21,"Go one back, I think.",q,MR. TODD,start_answer
+937,2583,98,22,"""As you stated""?",a,THE WITNESS,start_question
+938,2584,98,23,"Yeah, that's it.  That's the page.",q,MR. TODD,start_answer
+939,2585,98,24,Okay.,a,THE WITNESS,start_question
+940,2586,98,25,"So the second paragraph up from the bottom says, ""Remember John Lombardi cancelled Lombardi's name support"" -- are we together?",q,MR. TODD,start_answer
+941,2590,99,3,I see it.,a,THE WITNESS,start_question
+942,2591,99,4,"-- ""on August 4th.  This has gone now a month since trying to get Rotary back in Lombardi as we must move on as I've had no communications or answer either way on my request except yours. The silence from Rotary is 'loud and clear' and the decision is made by Rotary's silence to move on without Rotary in the Lombardi Awards and Honors."" Was he -- when he says ""except yours,"" was he talking about your response, Mr. Meeks?",q,MR. TODD,start_answer
+943,2601,99,14,"I believe he was referring to my response when he said ""yours.""",a,THE WITNESS,start_question
+944,2603,99,16,Okay.  Do you recall what your response was?,q,MR. TODD,start_answer
+945,2604,99,17,My email that's in here.,a,THE WITNESS,start_question
+946,2605,99,18,Okay.  And that would be the email that is farther back on roughly the -- that begins on Page 8?,q,MR. TODD,start_answer
+947,2608,99,21,Yeah.,a,THE WITNESS,start_question
+948,2609,99,22,"Okay.  And that email from you that begins on Page 8, also on Page 9, contains your resignation from the Lombardi Foundation, correct?",q,MR. TODD,start_answer
+949,2612,99,25,That's right.,a,THE WITNESS,start_question
+950,2614,100,1,Okay.  What -- what month-long silence is Mr. Slemaker referring to?,q,MR. TODD,start_answer
+951,2616,100,3,I have no idea.,a,THE WITNESS,start_question
+952,2617,100,4,Okay.,q,MR. TODD,start_answer
+953,2618,100,5,I don't believe that's factual.  I have no idea.,a,THE WITNESS,start_question
+954,2620,100,7,Okay.,q,MR. TODD,is brackets
+955,2621,100,8,(Exhibit 15 marked.),brackets,,start_chat
+956,2622,100,9,"Mike, it's the same issue with this document.",side_chat,MR. TODD,start_chat
+957,2624,100,11,Sure.,side_chat,MR. GARVIN,start_chat
+958,2625,100,12,We'll send you the produced version.,side_chat,MR. TODD,start_answer
+959,2627,100,14,Okay.,a,THE WITNESS,start_question
+960,2628,100,15,"(BY MR. TODD)  Have you seen this document before, Mr. Meeks?",q,MR. TODD,start_answer
+961,2630,100,17,Yeah.,a,THE WITNESS,start_question
+962,2631,100,18,Okay.  Is it -- did you receive this document directly from Mr. Slemaker?,q,MR. TODD,start_answer
+963,2633,100,20,I did.,a,THE WITNESS,start_question
+964,2634,100,21,Okay.  And it's an acknowledgment of your resignation from the Lombardi Foundation?,q,MR. TODD,start_answer
+965,2636,100,23,Which I demanded.,a,THE WITNESS,start_question
+966,2637,100,24,Okay.  You asked Mr. Slemaker for this?,q,MR. TODD,start_answer
+967,2638,100,25,Yes.,a,THE WITNESS,start_question
+968,2640,101,1,"Okay.  And he complied, and he gave it to you?",q,MR. TODD,start_answer
+969,2642,101,3,"Yes.  I also demanded my name be removed. And my name persisted to be there for a little while.  So I told Rick, ""I'm off the board.  Get my name off the board.  Get my name off the letterhead.  Get my name off of everything.""",a,THE WITNESS,start_question
+970,2647,101,8,Did he?,q,MR. TODD,start_answer
+971,2648,101,9,I believe he did.,a,THE WITNESS,start_chat
+972,2649,101,10,Okay.  Give me just a couple of minutes.  We'll go off the record real quick?,side_chat,MR. TODD,is brackets
+973,2651,101,12,(Recess.),brackets,,start_chat
+974,2652,101,13,We have no further questions. Pass the witness.,side_chat,MR. TODD,start_chat
+975,2654,101,15,No examination.,side_chat,MR. GARVIN,is brackets
+976,2655,101,16,"(The deposition was concluded.) CHANGES AND SIGNATURE LAWRENCE MEEKS        AUGUST 14, 2019 PAGE   LINE     CHANGE     REASON",brackets,,symbols
+977,2669,102,4,_________________________________________________,symbols,,symbols
+978,2670,102,5,_________________________________________________,symbols,,symbols
+979,2671,102,6,_________________________________________________,symbols,,symbols
+980,2672,102,7,_________________________________________________,symbols,,symbols
+981,2673,102,8,_________________________________________________,symbols,,symbols
+982,2674,102,9,_________________________________________________,symbols,,symbols
+983,2675,102,10,_________________________________________________,symbols,,symbols
+984,2676,102,11,_________________________________________________,symbols,,symbols
+985,2677,102,12,_________________________________________________,symbols,,symbols
+986,2678,102,13,_________________________________________________,symbols,,symbols
+987,2679,102,14,_________________________________________________,symbols,,symbols
+988,2680,102,15,_________________________________________________,symbols,,symbols
+989,2681,102,16,_________________________________________________,symbols,,symbols
+990,2682,102,17,_________________________________________________,symbols,,symbols
+991,2683,102,18,_________________________________________________,symbols,,symbols
+992,2684,102,19,_________________________________________________,symbols,,symbols
+993,2685,102,20,_________________________________________________,symbols,,symbols
+994,2686,102,21,_________________________________________________,symbols,,symbols
+995,2687,102,22,_________________________________________________,symbols,,symbols
+996,2688,102,23,_________________________________________________,symbols,,symbols
+997,2689,102,24,_________________________________________________,symbols,,symbols
+998,2690,102,25,"_________________________________________________ I, LAWRENCE MEEKS, have read the foregoing deposition and hereby affix my signature that same is true and correct, except as noted above.",symbols,,symbols
+999,2698,103,7,"______________________________ LAWRENCE MEEKS THE STATE OF TEXAS  ) COUNTY OF           ) Before me, _____________________, on this day personally appeared LAWRENCE MEEKS, known to me",symbols,,is brackets
+1000,2705,103,14,"(or proved to me under oath or through ________________) (description of identity card or other document) to be the person whose name is subscribed to the foregoing instrument and acknowledged to me that they executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office this _____ day of _______________, ______. NOTARY PUBLIC IN AND FOR IN THE UNITED STATES PATENT AND TRADEMARK OFFICE BEFORE THE TRADEMARK TRIAL AND APPEAL BOARD Rotary Club of Houston, Inc., ) Opposer,                ) V.                            )Opposition No. Lombardi Foundation Inc.,     ) Applicant.              ) REPORTER'S CERTIFICATION DEPOSITION OF LAWRENCE MEEKS AUGUST 14, 2019 I, Julie Scarborough, Certified Shorthand Reporter in and for the State of Texas, hereby certify to the following: That the witness, LAWRENCE MEEKS, was duly sworn by the officer and that the transcript of the oral deposition is a true record of the testimony given by the witness; I further certify that I am neither counsel for, related to, nor employed by any of the parties or attorneys in the action in which this proceeding was taken. Further, I am not a relative or employee of any attorney of record in this cause, nor do I have a financial interest in the action. Certified to by me on this, the 27th day of August, 2019.",brackets,,symbols
+1001,2754,105,5,_____________________________________ Expiration Date:  12-31-19,symbols,,end

@@ -1,0 +1,247 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," EUGENE CECCHINO, JR. the Defendant herein, having been first duly sworn, was examined and testified as follows: EXAMINATION",,,start_question
+1,109,4,8,"Mr. Cecchino, I have spoken to your attorney and also read some documents, so I know that you have hearing aids; right?",q,MS. CORBETT,start_answer
+2,112,4,11,Yes.  They're not working too well right now either.,a,THE WITNESS,start_question
+3,114,4,13,"If I say anything and you can't hear me, just tell me and I will ask again.  Okay?  Is that fair?",q,MS. CORBETT,start_answer
+4,116,4,15,Yes.  Right now they are working too loud.,a,THE WITNESS,start_question
+5,117,4,16,I'll try to get quieter.  Is that better?,q,MS. CORBETT,start_answer
+6,118,4,17,(No response.),a,THE WITNESS,start_question
+7,119,4,18,"Now, I'm sure your attorney gave you some instructions, but for the deposition we want everything we are answering or saying to be verbal.  Is that okay?",q,MS. CORBETT,start_answer
+8,122,4,21,(Witness indicates affirmatively.),a,THE WITNESS,start_question
+9,123,4,22,Is that a yes?,q,MS. CORBETT,start_answer
+10,124,4,23,Yes.,a,THE WITNESS,start_question
+11,125,4,24,"So if at any point I know that you mean yes because you are nodding your head and I say ""is that a yes,"" I'm not trying to be rude.  It's just so she'll write it down.  Okay?",q,MS. CORBETT,start_answer
+12,130,5,3,Okay.,a,THE WITNESS,start_question
+13,131,5,4,"In the same vein, I will try to let you finish answering before I ask you another question.  Okay?",q,MS. CORBETT,start_answer
+14,133,5,6,Okay.  Yes.,a,THE WITNESS,start_question
+15,134,5,7,You are doing great.  Is there any reason that I should not take your deposition today?,q,MS. CORBETT,start_answer
+16,136,5,9,I didn't understand that.,a,THE WITNESS,start_question
+17,137,5,10,Have you had any medication or alcohol or anything that would inhibit your ability to answer questions today?,q,MS. CORBETT,start_answer
+18,140,5,13,Yes.,a,THE WITNESS,start_question
+19,141,5,14,I got it.  That's okay.  Are you okay to take a deposition today?,q,MS. CORBETT,start_answer
+20,143,5,16,Yes.,a,THE WITNESS,start_question
+21,144,5,17,Have you had any medication today that affects your memory?,q,MS. CORBETT,start_answer
+22,146,5,19,No.,a,THE WITNESS,start_question
+23,147,5,20,Have you had any alcohol today?,q,MS. CORBETT,start_answer
+24,148,5,21,No.,a,THE WITNESS,start_question
+25,149,5,22,No?,q,MS. CORBETT,start_answer
+26,150,5,23,No alcohol.,a,THE WITNESS,start_question
+27,151,5,24,I'll try to be fast then.  Do you remember being involved in a motor vehicle accident in 2017?,q,MS. CORBETT,start_answer
+28,154,6,1,What?,a,THE WITNESS,start_question
+29,155,6,2,Do you remember being involved in a car accident in 2017?,q,MS. CORBETT,start_answer
+30,157,6,4,"October 7, 2017.",a,THE WITNESS,start_question
+31,158,6,5,And do you remember where you were going that day?,q,MS. CORBETT,start_answer
+32,160,6,7,I was having something to eat.  I was on my way home because I didn't feel like cooking myself.,a,THE WITNESS,start_question
+33,162,6,9,Where did you have something to eat?,q,MS. CORBETT,start_answer
+34,163,6,10,At a restaurant.,a,THE WITNESS,start_question
+35,164,6,11,Was it at the Wexford Ale House?  Did you have something to eat at the Wexford Ale House?,q,MS. CORBETT,start_answer
+36,166,6,13,Yes.,a,THE WITNESS,start_question
+37,167,6,14,And the day of the accident or right after the accident did you get arrested for a DUI for driving under the influence?,q,MS. CORBETT,start_answer
+38,170,6,17,Yes; they arrested me.  They said I had one point over the legal limit.,a,THE WITNESS,start_question
+39,172,6,19,How many drinks did you have at the Wexford Ale House?,q,MS. CORBETT,start_answer
+40,174,6,21,I had a couple.,a,THE WITNESS,start_question
+41,175,6,22,Do you think it was less than five?,q,MS. CORBETT,start_answer
+42,176,6,23,Huh?,a,THE WITNESS,start_question
+43,177,6,24,Was it less than five?,q,MS. CORBETT,start_answer
+44,178,6,25,Yes.,a,THE WITNESS,start_question
+45,180,7,1,"What were you drinking that day?  Was it beer, or was it a mixed drink?",q,MS. CORBETT,start_answer
+46,182,7,3,That's all I drink is beer.,a,THE WITNESS,start_question
+47,183,7,4,Do you remember what time of day it was?,q,MS. CORBETT,start_answer
+48,184,7,5,I'm not too sure of the time but somewhere around 8:30.,a,THE WITNESS,start_question
+49,186,7,7,Dinner time; right?,q,MS. CORBETT,start_answer
+50,187,7,8,(Witness indicates affirmatively.),a,THE WITNESS,start_question
+51,188,7,9,"And so when you left the Ale House, did you feel okay to drive the vehicle?",q,MS. CORBETT,start_answer
+52,190,7,11,Yes.,a,THE WITNESS,start_question
+53,191,7,12,And you are not sure how many drinks you had had?,q,MS. CORBETT,start_chat
+54,193,7,14,Objection.  You can answer.,side_chat,MR. CROUMER,start_answer
+55,194,7,15,Just a couple.  That's all I had.,a,THE WITNESS,start_question
+56,195,7,16,And was the Wexford Ale House the only place that you had been drinking alcohol that day?,q,MS. CORBETT,start_answer
+57,197,7,18,"No.  I left my apartment because I went down to the grocery store, got some groceries, and on the way home I stopped at the Ale House to get something to eat because I didn't feel like cooking when I got home.",a,THE WITNESS,start_question
+58,201,7,22,And then you were involved in a motor vehicle accident on your way home; is that right?,q,MS. CORBETT,start_answer
+59,203,7,24,Yes.,a,THE WITNESS,start_question
+60,204,7,25,"As far as that accident goes, were you driving on Weller Road -- or Weller Drive, rather?",q,MS. CORBETT,start_answer
+61,207,8,2,"It was the road coming out to 19, yes.",a,THE WITNESS,start_question
+62,208,8,3,So you were going to turn on to Perry Highway; is that right?,q,MS. CORBETT,start_answer
+63,210,8,5,Yes.,a,THE WITNESS,start_question
+64,211,8,6,"And I don't mean to put words in your mouth; I'm just trying to help make it go faster.  So if I'm wrong, you just tell me.",q,MS. CORBETT,start_answer
+65,214,8,9,I didn't hear.,a,THE WITNESS,start_question
+66,215,8,10,"I'm not trying to put words in your mouth; I'm just trying to help you go faster.  So if I'm wrong, just tell me.  Okay?",q,MS. CORBETT,start_answer
+67,218,8,13,Okay.,a,THE WITNESS,start_question
+68,219,8,14,So you were turning on to Perry Highway.  Were you making a left-hand turn?,q,MS. CORBETT,start_answer
+69,221,8,16,"I pulled up to the stop sign and I was waiting to get on to 19.  Traffic was coming both ways.  I don't know how long I waited there.   I mean, it seemed like an hour. I mean, the cars were coming one way.  It was clear coming the one way.  They started coming the other way, so I had to sit there and wait.  I waited until there was -- I didn't see no cars either way.  That's when I started to pull out.",a,THE WITNESS,start_question
+70,229,8,24,Did you have your glasses on that day?,q,MS. CORBETT,start_answer
+71,230,8,25,"When I get up in the morning, I put my glasses on, and I take them off when I go to bed.",a,THE WITNESS,start_question
+72,233,9,2,And did you have your hearing aid that day?,q,MS. CORBETT,start_answer
+73,234,9,3,Yes.  I had them in.  That pair I lost.,a,THE WITNESS,start_question
+74,235,9,4,Where did you lose them?,q,MS. CORBETT,start_answer
+75,236,9,5,"After the accident, they pried my door to get me out.  I was walking down to the ambulance and the guy was trying to check my vitals in my ear.  I says, ""Oh, wait. I'll take my hearing aids out."" He says, ""Okay.  We'll take care of them.  We'll take care of them."" And that's the last I seen of the hearing aids.",a,THE WITNESS,start_question
+76,243,9,12,So where did the ambulance take you; do you remember?,q,MS. CORBETT,start_answer
+77,245,9,14,To Passavant.,a,THE WITNESS,start_question
+78,246,9,15,Okay.,q,MS. CORBETT,start_answer
+79,247,9,16,Then after that they put me into another ambulance and they took me down to Presbyterian.,a,THE WITNESS,start_question
+80,249,9,18,"When you were at Passavant, did the police take your blood, or did they take your blood at Presbyterian?",q,MS. CORBETT,start_answer
+81,251,9,20,"I guess they took my blood down there, yes.",a,THE WITNESS,start_chat
+82,252,9,21,I'm sorry.  Where did they take your blood?  Which one?,side_chat,MR. CROUMER,start_chat
+83,254,9,23,Passavant.,side_chat,MS. CORBETT,start_chat
+84,255,9,24,At Passavant is where they took your blood?,side_chat,MR. CROUMER,start_chat
+85,258,10,1,I guess they took it right there inside the ambulance.,side_chat,THE WITNESS,start_question
+86,261,10,4,Do you remember having your blood drawn at Passavant?,q,MS. CORBETT,start_answer
+87,263,10,6,I don't remember that.,a,THE WITNESS,start_question
+88,264,10,7,Did you hit your head in the accident?,q,MS. CORBETT,start_answer
+89,265,10,8,Not in the accident.  I hit my head several years ago.  I had 13 stitches in my head.,a,THE WITNESS,start_question
+90,267,10,10,"When you went to UPMC Presbyterian, do you remember if they took your blood there?",q,MS. CORBETT,start_answer
+91,269,10,12,No.,a,THE WITNESS,start_question
+92,270,10,13,"But after this accident, you were charged with a driving under the influence of alcohol; is that right?",q,MS. CORBETT,start_answer
+93,272,10,15,Yes.,a,THE WITNESS,start_question
+94,273,10,16,And you eventually pled guilty to that; is that right?,q,MS. CORBETT,start_answer
+95,275,10,18,"Yes, that's right.",a,THE WITNESS,start_question
+96,276,10,19,Was it right that this was a DUI for a blood alcohol level of -- for over a blood alcohol level of point one?,q,MS. CORBETT,start_chat
+97,279,10,22,Objection.,side_chat,MR. CROUMER,start_answer
+98,280,10,23,It was one point over eight.  The limit is eight; mine was nine.,a,THE WITNESS,start_question
+99,282,10,25,Do you still have a driver's license?,q,MS. CORBETT,start_answer
+100,284,11,1,Huh?,a,THE WITNESS,start_question
+101,285,11,2,Do you still have a driver's license?,q,MS. CORBETT,start_answer
+102,286,11,3,"I had a driver's license, yes.",a,THE WITNESS,start_question
+103,287,11,4,Do you have one now?,q,MS. CORBETT,start_answer
+104,288,11,5,I sent it in.,a,THE WITNESS,start_question
+105,289,11,6,Did they take it as part of your DUI conviction?,q,MS. CORBETT,start_answer
+106,290,11,7,"I sent it in.  They were supposed to send it back to me this August, the 24th of this month.  I'm not getting them back.  I gave up driving.",a,THE WITNESS,start_question
+107,293,11,10,It's not that fun?,q,MS. CORBETT,start_answer
+108,294,11,11,No.,a,THE WITNESS,start_question
+109,295,11,12,Had your license ever been suspended before?,q,MS. CORBETT,start_chat
+110,296,11,13,Objection.,side_chat,MR. CROUMER,start_answer
+111,297,11,14,"Yes, one time before, yes.",a,THE WITNESS,start_question
+112,298,11,15,Was it for a DUI also?,q,MS. CORBETT,start_answer
+113,299,11,16,Yes.,a,THE WITNESS,start_question
+114,300,11,17,How many DUIs have you had?,q,MS. CORBETT,start_answer
+115,301,11,18,"I'm not sure, but I think it was three.",a,THE WITNESS,start_question
+116,302,11,19,"And the other two, when were they?  When were the DUIs that were not related to this accident, the older ones?",q,MS. CORBETT,start_answer
+117,305,11,22,I don't remember that.,a,THE WITNESS,start_question
+118,306,11,23,Was it in like the nineties?  Does that sound right?,q,MS. CORBETT,start_answer
+119,308,11,25,No.,a,THE WITNESS,start_question
+120,310,12,1,"And so when you were driving the vehicle that day and you had been under the influence of alcohol, do you agree with me that it's not safe to drive a vehicle after drinking alcohol?",q,MS. CORBETT,start_chat
+121,314,12,5,Objection.,side_chat,MR. CROUMER,start_answer
+122,315,12,6,No.,a,THE WITNESS,start_question
+123,316,12,7,No; you don't agree with me?,q,MS. CORBETT,start_answer
+124,317,12,8,(Witness indicates negatively.),a,THE WITNESS,start_question
+125,318,12,9,Do you think it's safe to drive a vehicle after drinking alcohol?,q,MS. CORBETT,start_chat
+126,320,12,11,Objection.,side_chat,MR. CROUMER,start_answer
+127,321,12,12,"I think I was, yes.",a,THE WITNESS,start_question
+128,322,12,13,"Okay.  And when you pled to the DUI involving this accident, did you have to go on probation?",q,MS. CORBETT,start_answer
+129,324,12,15,Pardon me?,a,THE WITNESS,start_question
+130,325,12,16,Were you on probation for the DUI?,q,MS. CORBETT,start_answer
+131,326,12,17,"After the accident, I went -- five times I went down to the courthouse.",a,THE WITNESS,start_question
+132,328,12,19,Probably for that.,q,MS. CORBETT,start_answer
+133,329,12,20,And I got a six months' probation.,a,THE WITNESS,start_question
+134,330,12,21,"And after the accident, you told me that the firefighters or someone helped you get out of the car; right?",q,MS. CORBETT,start_answer
+135,333,12,24,Yes.  They pried the door open because they kept pounding on there.  They thought I was trying to start the car.,a,THE WITNESS,start_question
+136,337,13,2,"Well, did you -- go ahead.",q,MS. CORBETT,start_answer
+137,338,13,3,My car was automatic lock.  I was trying to get it into park so I could open the door.,a,THE WITNESS,start_question
+138,340,13,5,And what kind of car were you driving that day?,q,MS. CORBETT,start_answer
+139,341,13,6,Huh?,a,THE WITNESS,start_question
+140,342,13,7,What kind of car were you driving that day?,q,MS. CORBETT,start_answer
+141,343,13,8,A 2002 Pontiac.,a,THE WITNESS,start_question
+142,344,13,9,And do you still have that car?,q,MS. CORBETT,start_answer
+143,345,13,10,No.  It's in the junkyard now.,a,THE WITNESS,start_question
+144,346,13,11,From this accident?,q,MS. CORBETT,start_answer
+145,347,13,12,(Witness indicates affirmatively.),a,THE WITNESS,start_question
+146,348,13,13,"The other vehicle, did you ever speak to the other driver?",q,MS. CORBETT,start_answer
+147,350,13,15,I didn't see too much of him.,a,THE WITNESS,start_question
+148,351,13,16,Did you ever see how he left the scene?,q,MS. CORBETT,start_answer
+149,352,13,17,No.,a,THE WITNESS,start_question
+150,353,13,18,"And did you ever see -- well, let me ask you this question.  When was the first time while you were driving that you noticed the other car?",q,MS. CORBETT,start_answer
+151,356,13,21,I don't remember that.,a,THE WITNESS,start_question
+152,357,13,22,Did you see him -- did you see the other vehicle at all before your cars collided?,q,MS. CORBETT,start_answer
+153,359,13,24,I didn't see any other cars.  That's why I started pulling out.,a,THE WITNESS,start_question
+154,362,14,1,And did you hear any horns honking?,q,MS. CORBETT,start_answer
+155,363,14,2,No.,a,THE WITNESS,start_question
+156,364,14,3,Did you hear anyone hitting their brakes really hard and then squealing?,q,MS. CORBETT,start_answer
+157,366,14,5,There was no skid marks either.,a,THE WITNESS,start_question
+158,367,14,6,So was the first time that you noticed the other car was when your cars hit each other?,q,MS. CORBETT,start_answer
+159,369,14,8,(Witness indicates affirmatively.),a,THE WITNESS,start_question
+160,370,14,9,Is that a yes?,q,MS. CORBETT,start_answer
+161,371,14,10,Yes.,a,THE WITNESS,start_question
+162,372,14,11,What part of your car was hit by his car?,q,MS. CORBETT,start_answer
+163,373,14,12,I would say the left -- mostly the left front.,a,THE WITNESS,start_question
+164,374,14,13,The left front of your vehicle?,q,MS. CORBETT,start_answer
+165,375,14,14,Yes.,a,THE WITNESS,start_question
+166,376,14,15,In front of the passenger seat or beside the driver seat?,q,MS. CORBETT,start_answer
+167,378,14,17,Right there by the driver's side.,a,THE WITNESS,start_question
+168,379,14,18,What part of his vehicle collided with your vehicle; if you know?,q,MS. CORBETT,start_answer
+169,381,14,20,I'm not sure about that.,a,THE WITNESS,start_question
+170,382,14,21,Did your airbags deploy?,q,MS. CORBETT,start_answer
+171,383,14,22,I'm not too sure because it happened so fast.,a,THE WITNESS,start_question
+172,384,14,23,And someone had to pry you out of the car.  Okay. So did the police officers -- and I think I know the answer.  Did the police officers ever give you any field tests before they took your blood for the DUI?,q,MS. CORBETT,start_answer
+173,389,15,2,No.,a,THE WITNESS,start_question
+174,390,15,3,Did they ever have you breathe into a breathalyzer?,q,MS. CORBETT,start_answer
+175,392,15,5,No.,a,THE WITNESS,start_question
+176,393,15,6,"Is this right, that all they did was take your blood to test you?",q,MS. CORBETT,start_answer
+177,395,15,8,That's all they did was take my blood.,a,THE WITNESS,start_question
+178,396,15,9,"Did you have to go to the jail, or did they mail you your charges?",q,MS. CORBETT,start_answer
+179,398,15,11,"I had to go to the magistrate.  I mean, they just wrote the ticket out.",a,THE WITNESS,start_question
+180,400,15,13,But they didn't think you were going to run away; right?  They didn't think you were a flight risk.  Okay.,q,MS. CORBETT,start_answer
+181,402,15,15,(No response.),a,THE WITNESS,start_chat
+182,403,15,16,That was a no; right?,side_chat,MR. CROUMER,start_chat
+183,404,15,17,(No response.),side_chat,THE WITNESS,start_chat
+184,405,15,18,That was a no; right?,side_chat,MR. CROUMER,start_chat
+185,406,15,19,Do what?,side_chat,THE WITNESS,start_chat
+186,407,15,20,You want to ask him again?,side_chat,MR. CROUMER,start_chat
+187,408,15,21,I'll shorten it.,side_chat,MS. CORBETT,start_question
+188,410,15,23,Did you ever have to go to the jail for your DUI?,q,MS. CORBETT,start_answer
+189,411,15,24,No.,a,THE WITNESS,start_question
+190,412,15,25,"Mr. Cecchino, I know we talked about this quickly, but let me ask you one more time and I'll try to be really clear.  Do you think, and I don't mean you in general, do you think that it is safe to drink alcohol and then drive a motor vehicle?",q,MS. CORBETT,start_chat
+191,418,16,5,Objection.,side_chat,MR. CROUMER,start_answer
+192,419,16,6,"Yes, I think so, yes.",a,THE WITNESS,start_question
+193,420,16,7,And do you think that on this day it was okay for you to be driving a motor vehicle?,q,MS. CORBETT,start_answer
+194,422,16,9,I think so.,a,THE WITNESS,start_question
+195,423,16,10,And do you think that having had alcohol had anything to do with the motor vehicle accident happening?,q,MS. CORBETT,start_chat
+196,425,16,12,Objection.,side_chat,MR. CROUMER,start_answer
+197,426,16,13,No.,a,THE WITNESS,start_question
+198,427,16,14,Do you think that it was reckless to drive after having drank alcohol?,q,MS. CORBETT,start_chat
+199,429,16,16,Objection.,side_chat,MR. CROUMER,start_answer
+200,430,16,17,No.,a,THE WITNESS,start_question
+201,431,16,18,And so do you think that this accident still would have happened if you hadn't had any alcohol?,q,MS. CORBETT,start_answer
+202,433,16,20,Do that again.,a,THE WITNESS,start_question
+203,434,16,21,Do you think you would have been in a car accident if you hadn't had any alcohol that day?,q,MS. CORBETT,start_answer
+204,436,16,23,"Well, it's hard to say.",a,THE WITNESS,start_question
+205,437,16,24,"Do you think that -- strike that. Now, I know we talked about the fact that you had had your license suspended previously for drinking and driving.  Is that right?",q,MS. CORBETT,start_answer
+206,442,17,3,Yes.,a,THE WITNESS,start_question
+207,443,17,4,Do you think that it is okay to drink and drive any time?,q,MS. CORBETT,start_chat
+208,445,17,6,Objection.,side_chat,MR. CROUMER,start_answer
+209,446,17,7,No.,a,THE WITNESS,start_question
+210,447,17,8,And is there a certain amount of alcohol that you think would make it unsafe to drive?,q,MS. CORBETT,start_answer
+211,449,17,10,I don't -- no.,a,THE WITNESS,start_question
+212,450,17,11,And do you realize that Mr. Miller was hurt in this car accident?,q,MS. CORBETT,start_answer
+213,452,17,13,(Witness indicates affirmatively.),a,THE WITNESS,start_question
+214,453,17,14,Is that a yes?,q,MS. CORBETT,start_answer
+215,454,17,15,Yes.,a,THE WITNESS,start_question
+216,455,17,16,Do you think that this accident would have happened and he had been hurt if you hadn't been drinking before you drove?,q,MS. CORBETT,start_chat
+217,458,17,19,Objection.,side_chat,MR. CROUMER,start_answer
+218,459,17,20,No.,a,THE WITNESS,start_question
+219,460,17,21,Do you think that you put him in danger by driving that day?,q,MS. CORBETT,start_chat
+220,462,17,23,Objection.,side_chat,MR. CROUMER,start_answer
+221,463,17,24,No.,a,THE WITNESS,start_question
+222,464,17,25,"And Mr. Cecchino, you said that you are not going to take your license back; is that right?",q,MS. CORBETT,start_answer
+223,467,18,2,I'm not taking them back.,a,THE WITNESS,start_question
+224,468,18,3,And is that your choice or PennDOT?,q,MS. CORBETT,start_answer
+225,469,18,4,Huh?,a,THE WITNESS,start_question
+226,470,18,5,"Is it your choice to not have a license any more, or did PennDOT say they won't give it back?",q,MS. CORBETT,start_answer
+227,472,18,7,"I'm not taking them back.  In fact, I went down to the driver center -- the driver center made up a photo ID, which I don't understand something about that.  It says right on the card, it says not legal identification, but it's a police station more or less, but yet they have I don't know how many people working there.",a,THE WITNESS,start_question
+228,478,18,13,"They won't let you fly on a plane with it.  You have to have a passport now, even if you just want to go to Philadelphia.",q,MS. CORBETT,start_answer
+229,481,18,16,Of course most of the ones working were handicapped.,a,THE WITNESS,start_question
+230,483,18,18,"I get that.  So let me ask you a couple more questions, but we're almost done.  Okay?  I know you said that you had been stopped at a stop sign on Weller Drive; right?",q,MS. CORBETT,start_answer
+231,487,18,22,I stopped and waited.,a,THE WITNESS,start_question
+232,488,18,23,Before you turned left on to Perry Highway?,q,MS. CORBETT,start_answer
+233,489,18,24,Yes.,a,THE WITNESS,start_question
+234,490,18,25,So how fast do you think your car was going at the time of the impact?,q,MS. CORBETT,start_answer
+235,493,19,2,I guess about -- I was just pulling out.  I guess I was going about two or three miles.,a,THE WITNESS,start_question
+236,495,19,4,And there is just a stop sign for you.  Is there any type of sign or light for traffic that's on Perry Highway?,q,MS. CORBETT,start_answer
+237,498,19,7,No.  It just had the stop sign coming out of the one street where I was coming out of.,a,THE WITNESS,start_chat
+238,500,19,9,"I don't have anymore questions for you, Mr. Cecchino.  Your attorney may want to ask you some.",side_chat,MS. CORBETT,start_chat
+239,503,19,12,I don't have any questions right now.,side_chat,MR. CROUMER,start_chat
+240,505,19,14,Did you want to waive or read?,side_chat,MS. CORBETT,start_chat
+241,506,19,15,We'll read.,side_chat,MR. CROUMER,is brackets
+242,507,19,16,(Signature not waived.),brackets,,is brackets
+243,508,19,17,"(Whereupon, the above-entitled matter was concluded at 1:16 p.m. this date.) COMMONWEALTH OF PENNSYLVANIA    )    E R R A T A MICHAEL MILLER EUGENE CECCHINO, JR. I, EUGENE CECCHINO, JR., have read the foregoing 2019, and wish to make the following, if any, amendments, In all other respects, the transcript is true and",brackets,,symbols
+244,543,20,20,"___________________________ _______ day of ___________, 2019",symbols,,symbols
+245,548,20,23,"________________________________ COMMONWEALTH OF PENNSYLVANIA) I, Monica R. Chandler, a notary public in and that the witness, EUGENE CECCHINO, JR., was by me first nothing but the truth; that the foregoing deposition was said deposition was recorded stenographically by me and constitutes a true record of the testimony given by said and signing of said deposition were not waived by counsel after 30 days the transcript has not been signed by said failed to respond and the deposition may then be used as employee of either counsel and that I am in no way and affixed my seal of office this 26th day of August S/Monica R. Chandler MONICA R. CHANDLER",symbols,,end

@@ -1,0 +1,677 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," a witness herein, having been first duly sworn, was examined and testified as follows: DIRECT EXAMINATION",,,start_question
+1,126,5,3,"Good morning, Doctor.  Would you please introduce yourself to the jury.",q,MR. FLAHERTY,start_answer
+2,128,5,5,"Good morning, Ladies and Gentlemen, Your Honor. My name is Lance Owen Yarus, D.O.",a,THE WITNESS,start_question
+3,130,5,7,"And we are here today to take your testimony on behalf of a client of mine, Lillian Pfaff, that you evaluated back in 2018 with regard to an accident she had in May of 2016. I'm going to be asking you a couple of questions today about some opinions from that evaluation.  Before we do that, I do have to talk about your credentials and your education, not only to qualify you as an expert, but also for the benefit of the jury.  Can you tell me what type of physician you are?",q,MR. FLAHERTY,start_answer
+4,140,5,17,The D.O. after my name stands for doctor of osteopathy.  I specialize in the areas of orthopedics and pain management.,a,THE WITNESS,start_question
+5,143,5,20,Okay.  And are you licensed to practice in the Commonwealth of Pennsylvania?,q,MR. FLAHERTY,start_answer
+6,145,5,22,"Yes, I am.",a,THE WITNESS,start_question
+7,146,5,23,"Doctor, are you a surgeon?",q,MR. FLAHERTY,start_answer
+8,147,5,24,Yes.,a,THE WITNESS,start_question
+9,148,5,25,Can you tell me what orthopedics means?,q,MR. FLAHERTY,start_answer
+10,150,6,1,"Orthopedics is a subspecialty in medicine that deals with the spinal column that includes the neck, mid back, and low back, and all of the structures that are associated with it, including the disks and nerves that supply motor and sensory function to the extremities, also deals with the joint areas, the muscles, tendons, and ligaments and internal structures in the joints, and then nerves and vessels that travel in the extremities. We also deal with people who have traumatic injuries to those areas, individuals who have arthritic conditions, and certainly we treat conservatively and have the training to do surgery in those areas if the need arises.",a,THE WITNESS,start_question
+11,163,6,14,And can you tell the jury please about the process of becoming an orthopedic surgeon?,q,MR. FLAHERTY,start_answer
+12,165,6,16,"The process after graduating medical school and doing a one-year internship entails a four-year program wherein you are just doing orthopedics and taking care of patients who come through the emergency facility.  You get the opportunity to be in clinic setting, sometimes in private physicians' offices.  So you are getting a well-rounded education in that regard and then actually going to the operating room and participating in surgeries and doing the surgeries under the direction of the individuals who have privileges in the hospital setting and also outpatient settings as well.",a,THE WITNESS,start_question
+13,177,7,2,Can you tell the jury how long you've been a physician?,q,MR. FLAHERTY,start_answer
+14,179,7,4,I've been a physician since 1981.  That's when I graduated medical school.,a,THE WITNESS,start_question
+15,181,7,6,And are you board certified?,q,MR. FLAHERTY,start_answer
+16,182,7,7,"Yes, I am.",a,THE WITNESS,start_question
+17,183,7,8,In what specialties?,q,MR. FLAHERTY,start_answer
+18,184,7,9,I hold certificates in orthopedics and pain management.,a,THE WITNESS,start_question
+19,186,7,11,What does board certification mean?,q,MR. FLAHERTY,start_answer
+20,187,7,12,"Well, in the surgical subspecialty it means that you've met the requirements of independently incorporated boards.  There is three of them in Pennsylvania.  I'm certified by one of them.  They are recognized as equal. So when you meet the requirements, taking tests and then the last year actually being watched doing surgery by board certified individuals, who also review your charts in the hospital and office setting for the two years before, you receive a certificate.  So that's for me 1989 my first certificate. After that there is recertification, and that just entails taking written tests, and I have done that successfully three times up to 2011, and I hold the certificate that designates Emeritus status.",a,THE WITNESS,start_question
+21,202,8,1,Have you previously been qualified to testify as an expert in Allegheny County and other Pennsylvania courts?,q,MR. FLAHERTY,start_answer
+22,205,8,4,"Yes, I have.",a,THE WITNESS,start_question
+23,206,8,5,Could you take a look at what's been marked as Exhibit 1 in front of you.  Do you recognize that document?,q,MR. FLAHERTY,is brackets
+24,209,8,8,(Yarus Exhibit No. 1 was marked for identification.),brackets,,start_answer
+25,211,8,10,"I do, yes.",a,THE WITNESS,start_question
+26,212,8,11,Can you identify it for me?,q,MR. FLAHERTY,start_answer
+27,213,8,12,This is called a curriculum vitae.,a,THE WITNESS,start_question
+28,214,8,13,And is that a true and correct copy of your CV?,q,MR. FLAHERTY,start_answer
+29,215,8,14,"Yes, it is.",a,THE WITNESS,start_question
+30,216,8,15,"Doctor, have you ever been published in the field?",q,MR. FLAHERTY,start_answer
+31,218,8,17,"As a resident I had publications, along with my physicians who were trainers, but in practice, no, I have not.",a,THE WITNESS,start_question
+32,221,8,20,And have you held any academic positions in your time as a physician?,q,MR. FLAHERTY,start_answer
+33,223,8,22,I had two academic positions.  My last one was 1994 as associate professor at Hershey Medical Center.,a,THE WITNESS,start_question
+34,225,8,24,And do you train the future generation of doctors these days?,q,MR. FLAHERTY,start_answer
+35,228,9,1,"I'm still privileged to have young individuals come to the office in various stages of vocational training or those who want to be physicians.  So, yes, I just recently had somebody with me this last couple of weeks.",a,THE WITNESS,start_question
+36,233,9,6,And tell the jury about your current practice.,q,MR. FLAHERTY,start_answer
+37,234,9,7,"I would call my current practice a dual practice. Orthopedics and pain management are married very well together, in that you can't have one without the other. People who have injuries particularly have pain. I get to see individuals also who have metabolic diseases, such as muscular dystrophies, cerebral palsy, multiple sclerosis, and those individuals, unfortunately, have pain associated with their disease state.  So you can treat those individuals by doing a number of techniques to try and deaden their pain and also using medications we can help as well.",a,THE WITNESS,start_question
+38,245,9,18,And as part of your practice do you treat individuals who have been injured in car accidents and other accidents?,q,MR. FLAHERTY,start_answer
+39,248,9,21,Yes.,a,THE WITNESS,start_question
+40,249,9,22,Do you regularly treat patients with shoulder and other joint injuries?,q,MR. FLAHERTY,start_answer
+41,251,9,24,"Yes, I do.",a,THE WITNESS,start_question
+42,252,9,25,"And as part of your practice, do you routinely review and rely on medical records and diagnostic studies from other practitioners?",q,MR. FLAHERTY,start_answer
+43,256,10,3,Yes.,a,THE WITNESS,start_question
+44,257,10,4,Do you interpret those studies yourself as well?,q,MR. FLAHERTY,start_answer
+45,258,10,5,"I have the training to do so.  I'm not a radiologist, I'm not a neuro-diagnostician, but I have to be able to look at those studies and make determinations for patients particularly.  So, yes, I can look at them and certainly understand the morphologic concepts, what the anatomy looks -- so I am doing that all the time.",a,THE WITNESS,start_question
+46,264,10,11,"And are you familiar with the cost associated with orthopedic care not only in the state, but also on the side of the state?",q,MR. FLAHERTY,start_answer
+47,267,10,14,Yes.,a,THE WITNESS,start_chat
+48,268,10,15,"Thank you, Doctor.  At this time I will allow Mr. Lang to ask you some questions about your qualifications.",side_chat,MR. FLAHERTY,start_chat
+49,271,10,18,Thank you.,side_chat,THE WITNESS,symbols
+50,272,10,19,----- VOIR DIRE EXAMINATION,symbols,,start_question
+51,275,10,22,"Dr. Yarus, since Attorney Flaherty has been asking you about your resume, let me start there.  Where did you go to college?",q,MR. LANG,start_answer
+52,278,10,25,I went to Syracuse University.,a,THE WITNESS,start_question
+53,280,11,1,All right.  In looking at your -- I have two resumes from your -- or CVs.  The first resume has that you obtained a bachelor of arthritis psychology from Syracuse University.  What exactly is a bachelor of arthritis psychology?,q,MR. LANG,start_answer
+54,285,11,6,"Well, I would call that a typographical error. That's why we have updated ones.  I knew that was a problem there.  There is no such thing, obviously.  It's a bachelor of arts, and my area of study was in psychology.",a,THE WITNESS,start_question
+55,290,11,11,"I see.  Okay.  So this resume that I was supplied is not correct, the one that refers to bachelor of arthritis?",q,MR. LANG,start_answer
+56,293,11,14,"Yes.  It's quite old and had that pointed out to me about two years ago, so it's an old one.  The one I gave you is up to date.",a,THE WITNESS,start_question
+57,296,11,17,So that's been removed from your current resume; correct?,q,MR. LANG,start_answer
+58,298,11,19,"Oh, yes.  It's been corrected.",a,THE WITNESS,start_question
+59,299,11,20,"All right.  And I'm just looking at -- your resume is a little somewhat out of chronological order, but you went to Friends Select School.  I assume that's high school; is that correct?",q,MR. LANG,start_answer
+60,303,11,24,Correct.,a,THE WITNESS,start_question
+61,304,11,25,"And then the next entry is 1977 graduate year Syracuse University.  What does that mean graduate year? Is that the year you graduated from Syracuse, 1977?",q,MR. LANG,start_answer
+62,308,12,3,Right.  I finished in three years.  I left in 1976.  The certificate year is 1977.  They don't let you graduate early at Syracuse.,a,THE WITNESS,start_question
+63,311,12,6,"And the next entry is Saint Joseph's University, 1976.  So did you go to Saint Joseph's while you were at Syracuse?",q,MR. LANG,start_answer
+64,314,12,9,"When I left Syracuse in the winter time, I went to Saint Joe's, started my psychobiology graduate work, so it was the same year that I left Syracuse.  It was in the winter time that I started.",a,THE WITNESS,start_question
+65,318,12,13,And then you went to -- you did post graduate work at Drexel in 1978?,q,MR. LANG,start_answer
+66,320,12,15,That's correct.,a,THE WITNESS,start_question
+67,321,12,16,"Then in 1972 to 1981 you were at Des Moines University, College of Osteopathic Medicine; is that correct?",q,MR. LANG,start_answer
+68,324,12,19,1978 to '81.,a,THE WITNESS,start_question
+69,325,12,20,'78 to '81?,q,MR. LANG,start_answer
+70,326,12,21,Yes.  Is there a typographical on that one?,a,THE WITNESS,start_question
+71,327,12,22,"All right.  And that's in Des Moines, Iowa.  Is that where you got your medical degree?",q,MR. LANG,start_answer
+72,329,12,24,"That is correct, yes.",a,THE WITNESS,start_question
+73,330,12,25,I also saw on your resume that you spent time at the University of Medicine and Dentistry in New Jersey; is that correct?,q,MR. LANG,start_answer
+74,334,13,3,"Right.  It originally was Memorial Hospital.  I started there working with an orthopod when I was 16 years old actually, but it changed its name when UMDNJ bought it, so it became a university when I left.",a,THE WITNESS,start_question
+75,338,13,7,"Just so I'm clear, is that a dental school where you trained in dentistry as well?",q,MR. LANG,start_answer
+76,340,13,9,No.  It's actually a medical and dentist school both.,a,THE WITNESS,start_question
+77,342,13,11,I see.  And then you went to the Philadelphia College of Osteopathic Medicine and Surgery; correct?,q,MR. LANG,start_answer
+78,344,13,13,I didn't go there.  I did my residency there.  I finished my residency in the last three years.,a,THE WITNESS,start_question
+79,346,13,15,"I see.  And the two resumes that I have, one is on a letterhead from Cypress Orthopedic Pain Management and Rehabilitation Centers; and the other one is on Tall Oaks Therapeutics and Rehabilitation Center.",q,MR. LANG,start_answer
+80,350,13,19,Yes.,a,THE WITNESS,start_question
+81,351,13,20,"The first one, the Cypress Orthopedic, has an address in Philadelphia, and the Tall Oaks has an address in Pittsburgh.",q,MR. LANG,start_answer
+82,354,13,23,That's correct.,a,THE WITNESS,start_question
+83,355,13,24,Why do you have letterhead -- resumes on two different letterheads?,q,MR. LANG,start_answer
+84,358,14,1,"Well, look at the bottom right-hand corner, at the bottom of the page there is a little tree there and it's a division of Regional Orthopedics, basically the fictitious names to designate which one we are talking about.  Instead of saying Philadelphia, because there is already Philadelphia Orthopedics, we name them by trees.",a,THE WITNESS,start_question
+85,364,14,7,Okay.  But I'm just curious why two different names on two different resumes.,q,MR. LANG,start_answer
+86,366,14,9,"It depends on what was given to me, as far as what was printed out.  So for today we are here, obviously, in Pittsburgh, so we use the Pittsburgh address where my office is.  So that would be the only reason. They're both the same, actually.",a,THE WITNESS,start_question
+87,371,14,14,"So the Pittsburgh address is 500 Grant Street in Pittsburgh, Suite 2900; correct?",q,MR. LANG,start_answer
+88,373,14,16,That is correct.,a,THE WITNESS,start_question
+89,374,14,17,And that is the old address of Simon & Simon back in October of 2018 when you saw Ms. Pfaff; is that correct?,q,MR. LANG,start_answer
+90,377,14,20,"Not that I'm aware of.  I don't know what Simon & Simon office situation was, but as far as I know, they're not in my suite.  That's a whole suite.  I have -- I'm No. 22 in that suite.",a,THE WITNESS,start_question
+91,381,14,24,And is that where you saw Ms. Pfaff?,q,MR. LANG,start_answer
+92,382,14,25,Yes.  That is my office.,a,THE WITNESS,start_question
+93,384,15,1,You still have an office there?,q,MR. LANG,start_answer
+94,385,15,2,Yes.,a,THE WITNESS,start_question
+95,386,15,3,And what exactly does that office consist of?  Do you have staff there?  Do you have equipment there?,q,MR. LANG,start_answer
+96,388,15,5,"Well, there is three receptionists who will manage the individuals who come to see me, and then in the office itself I have an exam table, a stool for the exam table, a desk, a computer.  I have a copier there.  I have all of the tools I need to do examinations.",a,THE WITNESS,start_question
+97,393,15,10,"And, um, do you man that office full time?",q,MR. LANG,start_answer
+98,394,15,11,"Well, I'm not there full time.  I come a couple of times a month, depending on who has booked patients.  I also do medical marijuana.  So if there are individuals who are scheduled for that, I'll see them there.",a,THE WITNESS,start_question
+99,398,15,15,What do you mean you see individuals for medical marijuana?  I didn't understand that.,q,MR. LANG,start_answer
+100,400,15,17,"I'm certified to give certification for cannabis, medical cannabis.  So I see those individuals as well.",a,THE WITNESS,start_question
+101,402,15,19,I see.  All right.  You were talking about your board certifications.  You -- am I correct that you are certified by the American Association of Physician Specialists?,q,MR. LANG,start_answer
+102,406,15,23,That's correct.,a,THE WITNESS,start_question
+103,407,15,24,And you said that's one of three board certifying entities in Pennsylvania?,q,MR. LANG,start_answer
+104,410,16,1,That's correct.,a,THE WITNESS,start_question
+105,411,16,2,What are the other two?,q,MR. LANG,start_answer
+106,412,16,3,"ABMS which is an M.D. board, and then there is AOAO for orthopedics through the AOA which is the Osteopathic Association.",a,THE WITNESS,start_question
+107,415,16,6,And you are an osteopathic physician; correct?,q,MR. LANG,start_answer
+108,416,16,7,"I certainly am, yes.",a,THE WITNESS,start_question
+109,417,16,8,"You are not certified by the Osteopathic Physicians Board, are you?",q,MR. LANG,start_answer
+110,419,16,10,My board was an osteopathic board.  It's a dual board now.  It can certify D.O.s and M.D.s.  It's the only one that does that.,a,THE WITNESS,start_question
+111,422,16,13,But you're not certified by the AOA?,q,MR. LANG,start_answer
+112,423,16,14,"I don't have AOAO certification, that is correct.",a,THE WITNESS,start_question
+113,424,16,15,"Okay.  And just so we are clear, what's the AOA?",q,MR. LANG,start_answer
+114,425,16,16,AOA is American Osteopathic Association.,a,THE WITNESS,start_question
+115,426,16,17,"The American Association of Physician Specialists that you are certified by, that is not an orthopedic board, is it?",q,MR. LANG,start_answer
+116,429,16,20,"Yes, it is.  Well, it's the parent board to the American Board of Orthopedics, yes.",a,THE WITNESS,start_question
+117,431,16,22,"But they certify all sorts of specialties, including dermatology, diagnostic radiology; correct?",q,MR. LANG,start_answer
+118,433,16,24,"Yes, so does the ABMS, yes, same thing that the M.D.s do, the D.O.s do.",a,THE WITNESS,start_question
+119,436,17,1,"And the American Medical Association, they have a board certification; correct?",q,MR. LANG,start_answer
+120,438,17,3,"That is the ABMS, yes.",a,THE WITNESS,start_question
+121,439,17,4,That's the ABMS.  What does that stand for?,q,MR. LANG,start_answer
+122,440,17,5,"It almost sounds like my board, American Board of Medical Specialties, I believe.",a,THE WITNESS,start_question
+123,442,17,7,"But the AMA, the American Medical Association, that's the oldest medical association in the country; correct?",q,MR. LANG,start_answer
+124,445,17,10,"That is correct, yes.",a,THE WITNESS,start_question
+125,446,17,11,And they have a board certification for orthopedic surgery; correct?,q,MR. LANG,start_answer
+126,448,17,13,"As do all three, yes.",a,THE WITNESS,start_question
+127,449,17,14,"And you are not certified by the American Medical Association, are you?",q,MR. LANG,start_answer
+128,451,17,16,"Well, yes, I wouldn't be.  I'm not an M.D.; I'm a D.O.",a,THE WITNESS,start_question
+129,453,17,18,"The AOA, the American Osteopathic Association; correct?",q,MR. LANG,start_answer
+130,455,17,20,Uh-huh.  Yes.,a,THE WITNESS,start_question
+131,456,17,21,You took that test to become board certified through them; correct?,q,MR. LANG,start_answer
+132,458,17,23,"I did, yes.",a,THE WITNESS,start_question
+133,459,17,24,And you flunked it; correct?,q,MR. LANG,start_answer
+134,460,17,25,"The first time around, yes.",a,THE WITNESS,start_question
+135,462,18,1,And you never took it again; correct?,q,MR. LANG,start_answer
+136,463,18,2,"I did not.  That's correct.  I took it through the board by which I'm certified and I recertified, as I said, three times in a row the same test.",a,THE WITNESS,start_question
+137,466,18,5,"All right.  But just so we are clear, you are not certified by the AOA or the AMA; correct?",q,MR. LANG,start_answer
+138,468,18,7,"That's correct, yes.",a,THE WITNESS,start_question
+139,469,18,8,You are not on active staff at any hospitals currently; correct?,q,MR. LANG,start_answer
+140,471,18,10,"You are correct, yes.",a,THE WITNESS,start_question
+141,472,18,11,You have no privileges at any hospitals since 2016; is that correct?,q,MR. LANG,start_answer
+142,474,18,13,Yes.,a,THE WITNESS,start_question
+143,475,18,14,You've never had hospital privileges at any hospital in Pittsburgh; correct?,q,MR. LANG,start_answer
+144,477,18,16,Correct.,a,THE WITNESS,start_question
+145,478,18,17,You're primarily based in the eastern part of the state in Philadelphia; correct?,q,MR. LANG,start_answer
+146,480,18,19,"That's fair.  I have two offices there, yes.",a,THE WITNESS,start_question
+147,481,18,20,You have not taught medical students since 1994; correct?,q,MR. LANG,start_answer
+148,483,18,22,"Well, as I said, in the formalized setting as an associate professor, no, but I still see students in the office.  We have them come and learn about what I do particularly.",a,THE WITNESS,start_question
+149,488,19,1,"Let me ask you about that.  You said you are currently training some individuals from time to time. Who is this through?  Is this through a hospital, a university?",q,MR. LANG,start_answer
+150,492,19,5,"It could be a vo-tech, it could be YTI, for instance, in Reading.",a,THE WITNESS,start_question
+151,494,19,7,We don't know what YTI is in Reading.,q,MR. LANG,start_answer
+152,495,19,8,"It's a school that individuals will go to learn various parts of medicine.  They might want to be physicians, as I said.  They might want to do clerical work, in-takes, things that we do to get patients squared away.  It doesn't necessarily mean they're going to become physicians, but getting into the medical field and doing those types of things.",a,THE WITNESS,start_question
+153,502,19,15,So you could be talking about anybody from a billing clerk to a possible doctor?,q,MR. LANG,start_answer
+154,504,19,17,"Well, they're young, so you never know.",a,THE WITNESS,start_question
+155,505,19,18,How young?,q,MR. LANG,start_answer
+156,506,19,19,I had one this past two weeks.  I believe she's 28 years old.,a,THE WITNESS,start_question
+157,508,19,21,But just so I'm -- I'm trying to understand.  You are not -- actually a medical school or a university isn't sending people to you for training; correct?,q,MR. LANG,start_answer
+158,511,19,24,"That's fair.  Most of them come from, as I said, vocational training facilities.",a,THE WITNESS,start_question
+159,514,20,1,You do not have a board certification relating to upper extremities; correct?,q,MR. LANG,start_answer
+160,516,20,3,"There is no such thing, so I wouldn't have one.",a,THE WITNESS,start_question
+161,517,20,4,You don't have a subspecialty in orthopedic surgery relating to upper extremities; correct?,q,MR. LANG,start_answer
+162,519,20,6,"Well, actually I do.  I have a microvascular certificate from the University of Pennsylvania.",a,THE WITNESS,start_question
+163,521,20,8,What's a microvascular?,q,MR. LANG,start_answer
+164,522,20,9,"Well, that is actually doing surgeries on vessels, nerves, through the scope, microscope, so through the Osterman and Bill Bora.  I have a certificate for that, and I can show it to you, if you would like.",a,THE WITNESS,start_question
+165,526,20,13,No.  I don't need to see it.,q,MR. LANG,start_answer
+166,527,20,14,That's on my CV.,a,THE WITNESS,start_question
+167,528,20,15,"Now, you have a significant relationship with the law firm of Simon & Simon; correct?",q,MR. LANG,start_answer
+168,530,20,17,"Well, I'm not sure what you mean by significant. I certainly have been privileged to receive referrals from them for their clients and also people that I might end up treating, but I don't know that it's significant in the big picture of my practice.",a,THE WITNESS,start_question
+169,535,20,22,"Okay.  Well, you've made a fair amount of money from seeing Simon & Simon clients and testifying on behalf of Simon & Simon clients; correct?",q,MR. LANG,start_answer
+170,538,20,25,My practice has received monies for the work that I've done.  So I would say that is true.,a,THE WITNESS,start_question
+171,541,21,2,And I assume you are charging for your report that you wrote in this case and your time testifying today; correct?,q,MR. LANG,start_answer
+172,544,21,5,"You're correct, yes.",a,THE WITNESS,start_question
+173,545,21,6,As all physicians do in these situations.  Do you know how much you've charged in this case?,q,MR. LANG,start_answer
+174,547,21,8,Yes; it was $500.,a,THE WITNESS,start_question
+175,548,21,9,For what?,q,MR. LANG,start_answer
+176,549,21,10,"The time I spent with the individual, the time it took to read the records, and the time it took to dictate the actual report itself.",a,THE WITNESS,start_question
+177,552,21,13,What about your testimony today?,q,MR. LANG,start_answer
+178,553,21,14,Testimony is separate for my time today.,a,THE WITNESS,start_question
+179,554,21,15,How much is that?,q,MR. LANG,start_answer
+180,555,21,16,Thirty-two hundred dollars.,a,THE WITNESS,start_question
+181,556,21,17,Is this your only deposition today?,q,MR. LANG,start_answer
+182,557,21,18,Yes.,a,THE WITNESS,start_question
+183,558,21,19,Is this your only deposition this week?,q,MR. LANG,start_answer
+184,559,21,20,Yes.,a,THE WITNESS,start_question
+185,560,21,21,Did you give any depositions last week?,q,MR. LANG,start_answer
+186,561,21,22,"No, I did not.",a,THE WITNESS,start_question
+187,562,21,23,We are taking your deposition here at the offices of Simon & Simon; correct?,q,MR. LANG,start_answer
+188,564,21,25,"Yes, that's correct.",a,THE WITNESS,start_question
+189,566,22,1,And you traveled in from Philadelphia for the deposition today; is that correct?,q,MR. LANG,start_answer
+190,568,22,3,"Well, actually I live in Lancaster County, so I traveled from Lancaster.  That's about a four-hour ride.",a,THE WITNESS,start_question
+191,570,22,5,"I see.  All right.  Now, you've answered some interrogatories in cases about money that you've made from testifying in cases, in particular with respect to Simon & Simon clients; correct?",q,MR. LANG,start_answer
+192,574,22,9,"Yes, I have.",a,THE WITNESS,start_question
+193,575,22,10,"And I'm going to have what I've marked as Defendant's Exhibit A.  These are answers to interrogatories that you provided in a case in the Court of Common Pleas of Lancaster County, and it says that in 19 -- excuse me -- in 2017 you received approximately $600,000 from Simon & Simon; is that correct?",q,MR. LANG,is brackets
+194,581,22,16,(Defendant's Exhibit A was marked for identification.),brackets,,start_answer
+195,583,22,18,"I believe that is correct, yes.",a,THE WITNESS,start_question
+196,584,22,19,And in 2017 you provided 195 video depositions and 479 medical examinations for the Simon & Simon Law Firm; is that correct?,q,MR. LANG,start_answer
+197,587,22,22,"Those numbers are correct, yes.",a,THE WITNESS,start_chat
+198,588,22,23,"I'm going to place an objection to any kind of reference to interrogatories that aren't from this case.  Obviously, counsel had the opportunity to serve them, he didn't.  It's not this case; it's not this county; it's not this jury.",side_chat,MR. FLAHERTY,start_question
+199,595,23,4,"Well, let's go with this.  This is from this case, Dr. Yarus.  These are responses you gave to interrogatories in this case, the one we are here about today.",q,MR. LANG,start_answer
+200,599,23,8,"I'm not looking at it, but I do know that I did interrogatories for this particular case, yes.",a,THE WITNESS,start_question
+201,601,23,10,"And you were asked to state the amount of compensation received in this case, and you, as you said earlier, $500 for the report and 3,200 for your deposition; correct?",q,MR. LANG,start_answer
+202,605,23,14,Yes.,a,THE WITNESS,start_question
+203,606,23,15,"And the number of litigation-related services for the years 2016, 2017, and 2018 for the Simon & Simon firm -- or excuse me -- not for the Simon & Simon, in general, was 970 to 1,000 cases; is that correct?",q,MR. LANG,start_answer
+204,610,23,19,"That's correct, yes.",a,THE WITNESS,start_question
+205,611,23,20,"And the income you have derived from these services in 2016, 2017, and 2018 is between 1.3 million and $1.5 million; is that correct?",q,MR. LANG,start_answer
+206,614,23,23,"That's accurate, yes.",a,THE WITNESS,start_question
+207,615,23,24,"And then you were asked to state the amount of income for each year, 2016, 2017, and 2018, garnered or earned from the performance of litigation services on behalf of Simon & Simon, and your answer was $1.3 million; correct?",q,MR. LANG,start_answer
+208,621,24,4,"For those three years, that is correct, yes.",a,THE WITNESS,start_chat
+209,622,24,5,We'll mark those as Defendant's Exhibit B.,side_chat,MR. LANG,is brackets
+210,624,24,7,(Defendant's Exhibit B was marked for identification.),brackets,,start_question
+211,626,24,9,"And Doctor, you've seen over 400 people for the Simon & Simon Law Firm; is that correct?",q,MR. LANG,start_answer
+212,628,24,11,Total?  Yes.,a,THE WITNESS,start_question
+213,629,24,12,"Yes, sir.",q,MR. LANG,start_answer
+214,630,24,13,That's correct.,a,THE WITNESS,start_question
+215,631,24,14,You told us a few minutes ago that you've been qualified as an expert in Allegheny County and elsewhere. But there have been ten occasions where you were rejected as an expert; is that correct?,q,MR. LANG,start_chat
+216,635,24,18,"I'm going to place an objection to the standard involved, especially when it comes to the Western District or multidistrict litigation.",side_chat,MR. FLAHERTY,start_question
+217,639,24,22,"You may answer the question, Doctor.",q,MR. LANG,start_answer
+218,640,24,23,"Well, the way you posed the question, I would say, no, that's not correct.",a,THE WITNESS,start_question
+219,642,24,25,Okay.  What was wrong with my question the way I posed it?,q,MR. LANG,start_answer
+220,645,25,2,"My credentials in pedicle screw litigation were never denied or restricted.  The issues in pedicle screw litigation for the 10 cases you're citing out of 300 that I did was in regard to a standard by way of giving causation statements when these cases were in Philadelphia before they went back to their original states.  I followed to the T the PTO orders that Judge Bechtol gave. There were two of them, and in each instance even those cases that you are citing I gave causation statements with differentials, and I did my job on that alone.  So there were no trials.  I never went to any courtroom in Utah, Texas, or Florida, or anywhere else those ten cases were. My job was in Philadelphia with a multidistrict litigation.  So I'm aware that my opinions were not accepted in those ten cases.",a,THE WITNESS,start_question
+221,660,25,17,Right.  Okay.  So your opinions were not accepted?,q,MR. LANG,start_answer
+222,662,25,19,Right.  So that's a little different than my credentials not being accepted.,a,THE WITNESS,start_question
+223,664,25,21,"All right.  Doctor, do you see patients on a regular basis, on a day-to-day basis?",q,MR. LANG,start_answer
+224,666,25,23,"Yes, Monday through Friday.",a,THE WITNESS,start_question
+225,667,25,24,Do you see them in -- how many offices do you have?  You said three?,q,MR. LANG,start_answer
+226,670,26,1,"Right.  I have two offices toward Philadelphia; one is in Lebanon and one is actually in Philadelphia.  So Mondays and Thursdays I'm in Philadelphia; Tuesdays, Wednesdays in Lebanon, and Friday is spill over day and a day where I'll do interventionals for pain management.",a,THE WITNESS,start_question
+227,675,26,6,But you don't do any orthopedic surgery; correct?,q,MR. LANG,start_answer
+228,676,26,7,"I don't do surgery in the operating room anymore or in the outpatient setting.  I do procedures in the office, as I said, and those are considered surgical procedures but not the same as opening someone up and doing spine surgery or knee surgeries, for instance.  So, no, I don't do those anymore.",a,THE WITNESS,start_question
+229,682,26,13,What kind of surgeries do you do?,q,MR. LANG,start_answer
+230,683,26,14,"Well, the procedures that we do are needle placements in the spinal column, joints, nerve sheaths.",a,THE WITNESS,start_question
+231,685,26,16,That's pain management; correct?,q,MR. LANG,start_answer
+232,686,26,17,"It's pain management, but it's billed as surgical procedures, and they are considered surgical procedures.",a,THE WITNESS,start_question
+233,688,26,19,And why don't you perform surgery?,q,MR. LANG,start_answer
+234,689,26,20,"Well, I'm 64 years old.  When I was in my mid fifties, I decided that I would stop.  It's tough.  I took call for over thirty years as a solo practitioner and with two partners doing spine surgery in general orthopedics. So it takes its toll, and I made a good decision at that point in time.  That's the only reason.",a,THE WITNESS,start_question
+235,696,27,1,"Now, I tried to Google your various entities on the Internet.  You really don't have a web presence, do you?",q,MR. LANG,start_answer
+236,699,27,4,"I don't do any social media, and I don't do any Internet activities at all.",a,THE WITNESS,start_question
+237,701,27,6,"So how do you get patients?  I mean, if I wanted to be a patient of yours, I would have a heck of a time trying to find you.",q,MR. LANG,start_answer
+238,704,27,9,"No; I'm not that hard to find.  If you Google me, you should be able to see where I'm at, as far as offices. I don't know that --",a,THE WITNESS,start_question
+239,707,27,12,"But your practice doesn't have a website, for example?",q,MR. LANG,start_answer
+240,709,27,14,"Yes; I don't have a website, but I have been around for a long time.  I'm well-known.  The people that refer to me are people that I've known for many, many years, and then the folks that I'm privileged to evaluate and treat they are kind enough to refer their own family members, friends, and people that they know as well.  So that's how I get my patients.",a,THE WITNESS,start_chat
+241,716,27,21,"That's all I have on the qualifications.  Thank you, Doctor.",side_chat,MR. LANG,start_chat
+242,718,27,23,You're welcome.  Thanks. DIRECT EXAMINATION (CONTINUED),side_chat,THE WITNESS,start_question
+243,724,28,3,"Doctor, briefly to finish our voir dire here. There were some numbers that were discussed with regard to how many patients you may have seen at what time.  As a practicing orthopedic surgeon, as you have been in years past, is it uncommon for orthos to see ninety or more patients a day?",q,MR. FLAHERTY,start_answer
+244,730,28,9,"That is quite common.  I did that back in my earlier days.  I try to keep it to 30, 35 at this point in time.  I see about 120 a week for treating purposes, and then in between we'll see these types of cases, disability evaluations, and impairment evaluations.  So there's a nice mix but mostly patient care for sure.",a,THE WITNESS,start_question
+245,736,28,15,"And with regard to this case, specifically Lillian Pfaff, we are obviously here to talk about the two shoulder replacements that she had.  Is that a procedure you performed?",q,MR. FLAHERTY,start_answer
+246,740,28,19,Yes.,a,THE WITNESS,start_question
+247,741,28,20,And would you say you performed it more than a hundred times?,q,MR. FLAHERTY,start_answer
+248,743,28,22,"I have, yes.",a,THE WITNESS,start_chat
+249,744,28,23,Any recross on qualifications?,side_chat,MR. FLAHERTY,start_chat
+250,745,28,24,Yes. FURTHER VOIR DIRE EXAMINATION,side_chat,MR. LANG,start_question
+251,750,29,3,"Doctor, when is the last time you performed an orthopedic shoulder operation?",q,MR. LANG,start_answer
+252,752,29,5,"Well, the last time I operated was in 2013.  So for that year I think that there were a couple of those types of procedures. Arthroscopic surgery came into play in the 1970s, and we've honed our skills significantly.  So in cases of trauma or fractures and aggravation cases where there is arthritis, these are the type of procedures that are done.  Otherwise, most procedures in the shoulder anymore are done through the scope.",a,THE WITNESS,start_question
+253,762,29,15,Okay.  But my question was very simple. When is the last time you operated on a shoulder?,q,MR. LANG,start_answer
+254,764,29,17,My answer was 2013.,a,THE WITNESS,start_chat
+255,765,29,18,Okay.  Thank you.,side_chat,MR. LANG,start_chat
+256,766,29,19,You are welcome.  Thanks.,side_chat,THE WITNESS,start_chat
+257,767,29,20,At this time.  I would offer Dr. Lance Yarus as an expert witness in the fields of orthopedics and pain management. DIRECT EXAMINATION (CONTINUED),side_chat,MR. FLAHERTY,start_question
+258,776,30,3,"Doctor, again we are here to take your testimony on regard of one of the individuals that's my client, Lillian Pfaff, that you evaluated following her May 2016 accident. During your testimony, I'm going to ask you for some opinions.  Do me a favor and please don't give me any opinions, unless you can do so to a reasonable degree of medical certainty.  Is that fair?",q,MR. FLAHERTY,start_answer
+259,785,30,12,That's fair and I will do that.,a,THE WITNESS,start_question
+260,786,30,13,I have asked you to repair -- I'm sorry -- to prepare a narrative report so you can testify in this case; is that correct?,q,MR. FLAHERTY,start_answer
+261,789,30,16,Yes.,a,THE WITNESS,start_question
+262,790,30,17,In front of you and also in the pile in front of you is a document marked Exhibit 2.  Do you recognize that?,q,MR. FLAHERTY,start_answer
+263,793,30,20,"Yes, I do.",a,THE WITNESS,start_question
+264,794,30,21,Is that the report you prepared for my office regarding Ms. Pfaff?,q,MR. FLAHERTY,start_answer
+265,796,30,23,"Yes, it is.",a,THE WITNESS,start_question
+266,797,30,24,"As before, there is no need to have everything memorized.  Please feel free to refer to that as you might need throughout your time here today. Can you tell me when you first saw -- or when you saw Lillian?",q,MR. FLAHERTY,start_answer
+267,803,31,4,"She was in the Pittsburgh office here October 24, 2018.",a,THE WITNESS,start_question
+268,805,31,6,And at that time would you have an opportunity to perform a physical exam?,q,MR. FLAHERTY,start_answer
+269,807,31,8,Yes.,a,THE WITNESS,start_question
+270,808,31,9,Did you also have the benefit of her prior medical records and imaging studies before she presented to your office?,q,MR. FLAHERTY,start_answer
+271,811,31,12,"Yes, I did.",a,THE WITNESS,start_question
+272,812,31,13,The first thing is first.  Is this a surgical case?,q,MR. FLAHERTY,start_answer
+273,814,31,15,"This is, yes.",a,THE WITNESS,start_question
+274,815,31,16,"After examining Lillian and reviewing her records and studies, combining your expertise with your evaluation, can you tell me what diagnoses you came to?",q,MR. FLAHERTY,start_answer
+275,818,31,19,"Well, Ms. Pfaff had injury to her spinal column, and I will just say that those injuries are in the form of soft tissue, in that the disks and structures that involve the nerves are not an issue here.  So even when I first met her for the neck, she told me that she did have neck pain as a result of the motor vehicle accident in which she was involved, but she said that that pain resolved after she had treatment.  So mainly the complaints were in regard to the right and left shoulder.  So for those areas she had contusions and she had an exacerbation of her preexisting degenerative joint disease that was quiescent prior to May 26, 2016 which is the date of the motor vehicle accident.",a,THE WITNESS,start_question
+276,832,32,7,"And what did that exacerbation to the shoulders cause for Lillian, or what did that require?",q,MR. FLAHERTY,start_answer
+277,834,32,9,"Basically it caused pain, and what it required was to replace the joints for both the right and left shoulder.",a,THE WITNESS,start_question
+278,837,32,12,"And just so the jury is clear, would you agree with me that this is an aggravation case.  These are new injuries for Lillian?",q,MR. FLAHERTY,start_answer
+279,840,32,15,"There is no question she had it before, but I would say that based on what I reviewed and what we talked about, saying quiescent means that the issues of arthritis were not causing her functional problems or her ability to carry out with her activities for the most part.",a,THE WITNESS,start_question
+280,845,32,20,"And without necessarily going to exactly what Ms. Pfaff's problems was right now, can you just briefly explain to the jury what the shoulder anatomy is like?",q,MR. FLAHERTY,start_answer
+281,848,32,23,"Well, shoulder anatomy is very interesting, because it's not like the hip, in that you have the head of the bone sitting in a socket.  There is a socket in the shoulder, but it sits pretty much vertically, and it is very, very shallow.  So the head will ride in that socket, and the stabilization for the head is four tendons that are the rotator cuff, and the four tendons spell the words S.I.T.S, S-I-T-S.  So those are the main structures that stabilize the shoulder.  There is also a capsule in the joint that surrounds the head and the socket which is called the glenoid fossa.  The head is the humeral head, and above the head is a bone that you can actually touch in your own shoulder.  It's squared off at the edge.  That comes off the scapula which is called the acromion, and then there is the clavicle which is the collarbone which meets the acromion and forms a joint.  So all of these anatomical structures that I just mentioned make up what we call the shoulder girdle. Inside the joint on the socket is a lip that's called the labrum, and that cushions the head as it rides or moves in the socket when you go through range of motion.  There is a plexus of nerves that sit in that area as well right in front of the head.  It's called the brachial plexus, so that supplies motor and sensory function as well as the nerves that comes out of the neck and form those nerves that eventually fan off into the extremities.",a,THE WITNESS,start_question
+282,876,33,25,How does that joint wear down over time?,q,MR. FLAHERTY,start_answer
+283,878,34,1,"Well, the joint is under a lot of stress, and the bone itself will start to deteriorate.  It will start to wear, as far as the actual cartilage on the bone surfaces. There is about 2 millimeters of cartilage on the surface, and that will just start to wear away over time.",a,THE WITNESS,start_question
+284,883,34,6,"And with regard to Ms. Pfaff, one of her diagnoses from her operating surgeon is that glenohumeral arthritis.  Have I pronounced that correctly?",q,MR. FLAHERTY,start_answer
+285,886,34,9,"Exactly, yes.",a,THE WITNESS,start_question
+286,887,34,10,Can you tell me what that is?,q,MR. FLAHERTY,start_answer
+287,888,34,11,"Well, the glenoid, as I said, is the actual socket, and the humeral designation is the head, so that forms a joint called the glenohumeral joint.",a,THE WITNESS,start_question
+288,891,34,14,"And if someone has arthritis in that area, are they generally still able to function?",q,MR. FLAHERTY,start_answer
+289,893,34,16,"Pretty much so, yes, because it's shallow and you're relying on muscles.  You don't have weight-bearing like you do in the hip and knee and even in the ankles which you rarely see arthritis as well, but hip and knee you see a lot of arthritis because there is a constant grinding of those surfaces, even though there is materials in between.  For the knee it's the meniscus.  For the hip it's a structure also called the labrum, so similar to what we see in the shoulder.  So the shoulder takes more time to develop this arthritic condition than those other joints in the body.",a,THE WITNESS,start_question
+290,905,35,2,"And with regard to trauma with someone who has glenohumeral arthritis, how can trauma affect that?",q,MR. FLAHERTY,start_answer
+291,907,35,4,"Well, trauma will cause the structures that are also interposed between the bones -- there is synovial lining, for instance.  There is the capsule.  Everything starts to become inflamed, and we call that inflammatory disease.  That is what arthritis is.  It becomes an issue because the nerve fibers and the structures that are supplied by nerves will start to send signals to the brain that there is pain there.  So ordinarily it's not a problem.  She may have periods of time where she needs some treatment for the arthritis, but generally it's not the same as when you have trauma like this.  So when you have a contusion, a traumatic head into the socket kind of thing from force, that becomes -- the arthritis becomes inflamed and that's what causes pain.",a,THE WITNESS,start_question
+292,921,35,18,And we know in Ms. Pfaff's situation she ended up having surgery.  In your medical opinion was the replacement of both of these surgeries caused by this accident?,q,MR. FLAHERTY,start_answer
+293,925,35,22,"There is no question, yes, the need for the surgeries was precipitated by the accident-related injuries, yes.",a,THE WITNESS,start_question
+294,928,35,25,Is this the straw that broke the camel's back type of situation?,q,MR. FLAHERTY,start_answer
+295,931,36,2,"Absolutely, yes.",a,THE WITNESS,start_question
+296,932,36,3,Okay.  Can you explain to the jury what she had done?,q,MR. FLAHERTY,start_answer
+297,934,36,5,"Well, basically, what she had done is a surgery that entails obviously going to the operating room, placing the person under anesthesia.  Sometimes we do a spleen block which is the muscles here.  There is a nerve under there that the anesthesiologists can actually knock out, so to speak, and allow for us to work in that area. So basically an incision is made most of the time up-front.  The skin in what we call the subcutaneous tissue is placed aside by retracting it.  There is a large vein there that you have to protect, so you place that under the retractors, and then pretty much you are at the capsule.  You cut the capsule and you can release the first tendon of the rotator cuff which is the supraspinatus, and that allows you to start making the cuts in the bone.  So you are actually cutting the head off of the bone that we call the humeral head. The implant that will go into the canal of the bone has a stem on it and it has a head that will simulate the head of the humerus.  So the process of taking the medullary canal out, that is the internal table of the bone, is done by reaming.  We have reamers that start in small diameter, and you work your way up until you get a good internal bone mantel to in most places place cement. The cement will hold the stem in, and then you position the head to that socket.  You then repair the structures back to the flange that's on this implant device, and then you start the process of sewing inner layers out to the skin which we'll clip with skin clips usually and then put the dressings on.",a,THE WITNESS,start_question
+298,964,37,9,And to get into the medical name of what she had done I understand is a bilateral arthroplasty.  What does that describe?,q,MR. FLAHERTY,start_answer
+299,967,37,12,"Right.  It's just describing a total joint -- a partial joint replacement.  You can also replace the socket.  Sometimes we choose not to.  It's up to the surgeon.  There is a plastic piece that will be an extra part of the procedure where you punch a slot.  It has a flange on it as well.  You cement that in as well, and the head rather than have metal against the actual cartilage that's already damaged, you're replacing that cartilage. So you are creating a new head and socket, basically.",a,THE WITNESS,start_chat
+300,976,37,21,"I'm going to move to strike the doctor's testimony, because it's talking in generalities as opposed to what actually happened to Mrs. Pfaff.",side_chat,MR. LANG,start_question
+301,980,37,25,Is this the procedure that Mrs. Pfaff had done?,q,MR. FLAHERTY,start_answer
+302,982,38,1,"It is the procedure, yes.",a,THE WITNESS,start_question
+303,983,38,2,"And Doctor, one of the other notes on the procedure was biceps tenodesis bilaterally.  What does that describe?",q,MR. FLAHERTY,start_answer
+304,986,38,5,"Well, there is two heads of the biceps.  In her case the long head was outside of the groove that it usually sits in.  So when you make a muscle and you pull your arm up and tighten, her tendon was not sitting where it's supposed to.  So the tenodesis is just a stabilization procedure for the biceps so that again the tendon will ride in the groove where it's supposed to be anatomically, and the person will have better function in the biceps.",a,THE WITNESS,start_question
+305,995,38,14,What does that tendon have to do with the shoulder?,q,MR. FLAHERTY,start_answer
+306,997,38,16,"That tendon actually goes into the shoulder and the top part of the labrum at the 12 o'clock position.  It actually inserts into the labrum.  So it's in the joint itself.  The other small head inserts in the small bone that's underneath the clavicle.  That is called the coracoid.  So these two tendons are -- at least the one, let's say, the long one, is absolutely related to function of the joint itself.",a,THE WITNESS,start_question
+307,1005,38,24,And the final part of the triple procedure was capsule release.  What does that mean?,q,MR. FLAHERTY,start_answer
+308,1008,39,1,"Right.  So I talked about the joint being surrounded by a capsule.  That stabilizes the head.  In injury the capsule becomes laxed, so you're basically going to sew it.  In my case I used to use a hot thermal wand to do that, and I would place the wand, kind of like putting an iron against a piece of clothing, but in this case you are going to shrink the tissue.  So you can sew it to shrink it by putting it on itself, folding it over and sewing it in that position, or you can thermally do it.",a,THE WITNESS,start_question
+309,1018,39,11,"And are these arthroscopic like through a portal, or are these open procedures?",q,MR. FLAHERTY,start_answer
+310,1020,39,13,These are open procedures.,a,THE WITNESS,start_question
+311,1021,39,14,"And are her joints now in both shoulders, are those joints totally artificial?",q,MR. FLAHERTY,start_answer
+312,1023,39,16,"Yes, they are.",a,THE WITNESS,start_question
+313,1024,39,17,Is that hardware expected to remain in her shoulders?,q,MR. FLAHERTY,start_answer
+314,1026,39,19,"It's permanent, unless there is a complication. Then it has to be removed.  It will stay in there.",a,THE WITNESS,start_question
+315,1028,39,21,And in Lillian's case why was such a drastic procedure needed instead of a simple scope?,q,MR. FLAHERTY,start_answer
+316,1030,39,23,"Well, the amount of arthritis, for one, the fact that in a person of this age, I believe she was 85 when this injury occurred, you are going to have to look ahead a little bit and be a little smart in looking at the structure of the tissues.  So it's just a technical piece of information about how the surgery is approached, but it will give the person a better mechanical advantage doing it this way.  That's really what it's about, getting function back.",a,THE WITNESS,start_question
+317,1040,40,7,And you told us already you conducted a physical exam of Lillian Pfaff in October of 2018 when you saw her. What did you find on your exam when it came to her shoulders?,q,MR. FLAHERTY,start_answer
+318,1044,40,11,"Well, just looking at the shoulders, the wounds were well-healed from the surgery that she had, and in looking at the motion, she had on the left 45 percent normal and on the right 55 percent normal.  So we have numbers that actually the AMA puts out that we use as the standard norms, and then we work off of those numbers no matter what age the person is, and then we determine the percent for the different planes of motion.  There are six of them here going forward, backward, internal, external, circumduction and extension.  So that's what we're basing those numbers on.",a,THE WITNESS,start_question
+319,1055,40,22,"And when someone has a reduced range of motion like that, what kind of daily activities or what kind of motions with their upper extremities and arms are impaired?",q,MR. FLAHERTY,start_answer
+320,1060,41,1,"Well, just things like going in the refrigerator and trying to get a gallon of milk out or a half gallon or a quart, whatever it is, just that reaching motion, going in a closet and getting something off of a hanger.  I mean, just things that we do in our normal lives that are now going to be altered because she doesn't have that full range, and she actually recruits her scapula which is the wing bone in the back to get the shoulder to do some kind of motion, but it's not functional motion that we are talking about.",a,THE WITNESS,start_question
+321,1070,41,11,"And when we are talking about a loss of range of motion, is this something where a patient, specifically Lillian, is it something where she'll stop because it hurts or mechanically it just doesn't do that anymore?",q,MR. FLAHERTY,start_answer
+322,1074,41,15,"It just doesn't do it anymore.  It's rare that you have pain because you replace those areas that were arthritic, so a certain degree of pain because there is adhesion, there is scar, and just the way this total joint works in this particular joint.  All of those factors are going to be an issue for a person that's trying to do activities.",a,THE WITNESS,start_question
+323,1081,41,22,"And I do want to turn to the conclusion -- well, before we get there.  In your medical opinion did you find the reduction in her range of motion and the condition she's in now when you saw her in 2018, did you find that that condition was permanent?",q,MR. FLAHERTY,start_answer
+324,1087,42,2,"It definitely is, yes.",a,THE WITNESS,start_question
+325,1088,42,3,"Okay.  Turning to the conclusion in your report, could you please tell the jury what conclusion you came to?",q,MR. FLAHERTY,start_answer
+326,1091,42,6,"Well, as far as the conclusions, I talked about the spinal column, the shoulder itself, and the need for the surgeries.  And then she had chronic pain obviously after and a decrease in her activities, so that factors in and diagnoses.",a,THE WITNESS,start_question
+327,1096,42,11,And what did you find to be the cause of those injuries and those diagnoses?,q,MR. FLAHERTY,start_answer
+328,1098,42,13,"Well, the motor vehicle accident of May 26, 2016 is the reason that she underwent the surgeries and the reason that she has her post-op findings as well.",a,THE WITNESS,start_question
+329,1101,42,16,"And using your experience, clinical training, your review of the records, and your examination of Lillian Pfaff, were you able to arrive at a prognosis for her?",q,MR. FLAHERTY,start_answer
+330,1105,42,20,Yes.,a,THE WITNESS,start_question
+331,1106,42,21,What is that prognosis?,q,MR. FLAHERTY,start_answer
+332,1107,42,22,I gave her a fair prognosis.,a,THE WITNESS,start_question
+333,1108,42,23,What does that mean?,q,MR. FLAHERTY,start_answer
+334,1109,42,24,"Prognosis is a predictor of future issues that a person is going to have, based on statistics and statistical analysis about this particular injury and what this injury entails.  So we're kind of going to be able to talk about what the person may need in the future, as far as my role have to be talking about a reasonable degree of medical certainty.  So just looking at these cases and in particular Ms. Pfaff what happens in the future.",a,THE WITNESS,start_question
+335,1118,43,7,"And based on that prognosis, were you able to come to an opinion as to whether or not she would require future care and treatment?",q,MR. FLAHERTY,start_answer
+336,1121,43,10,Yes.,a,THE WITNESS,start_question
+337,1122,43,11,And what did you conclude and recommend in that area?,q,MR. FLAHERTY,start_answer
+338,1124,43,13,"Well, Ms. Pfaff is a person who really falls under the pain management realm.  I don't think there is anymore surgery she's going to need, unless there is a complication or something happens to the implants or they loosen, become infected, that kind of thing, and I don't foresee that.  But really in order to have her continue to function, because she is an active person, mostly medications that I mentioned.  They're certainly helpful.",a,THE WITNESS,start_question
+339,1132,43,21,"And could you just read through that for the jury, please?",q,MR. FLAHERTY,start_answer
+340,1134,43,23,"I said palliative care, meaning not doing anymore surgery, utilizing medications, including but not limited to analgesics, anti-inflammatories, muscle relaxants. There are some fancier ones called membrane stabilizers and even cream applications for the soft tissue areas, but those would be the ones I would pick to use perhaps in combination or just singularly.",a,THE WITNESS,start_question
+341,1142,44,5,What are membrane stabilizers?,q,MR. FLAHERTY,start_answer
+342,1143,44,6,"Membrane stabilizers are unique medications that actually affect the joints.  So even though she's had a joint replaced, there is still soft tissue around this implant or implants, and what happens with those soft tissues is again they become inflamed.  So you can actually use these medications to reduce inflammation by not putting a needle in there with medication.  I wouldn't inject the joint, because that would cause higher risk for infection particularly.",a,THE WITNESS,start_question
+343,1152,44,15,And you've told us that you found the surgery was related to this accident.  Do you give that opinion to a reasonable degree of medical certainty?,q,MR. FLAHERTY,start_answer
+344,1155,44,18,"I do, yes.",a,THE WITNESS,start_question
+345,1156,44,19,Do you have an opinion as to the reasonableness and necessity of the care she's had to date?,q,MR. FLAHERTY,start_answer
+346,1158,44,21,"I would certainly characterize the care as being medically necessary, reasonable, and causally related, as I said.",a,THE WITNESS,start_question
+347,1161,44,24,"And Doctor, you've reviewed the bills in this case; is that correct?",q,MR. FLAHERTY,start_answer
+348,1164,45,1,"I did, yes.",a,THE WITNESS,start_question
+349,1165,45,2,Did you find the charges charged for this care to be usual and customary?,q,MR. FLAHERTY,start_answer
+350,1167,45,4,Yes.,a,THE WITNESS,start_question
+351,1168,45,5,"Thank you, Doctor.  Have you given us all of your opinions to a reasonable degree of medical certainty?",q,MR. FLAHERTY,start_answer
+352,1171,45,8,"I have, yes.  Thank you.",a,THE WITNESS,start_chat
+353,1172,45,9,"Your witness, Mr. Lang. CROSS-EXAMINATION",side_chat,MR. FLAHERTY,start_question
+354,1175,45,12,"Doctor, do you have a file on Ms. Pfaff?",q,MR. LANG,start_answer
+355,1176,45,13,"No, I don't.",a,THE WITNESS,start_question
+356,1177,45,14,What's that down next to your foot there?,q,MR. LANG,start_answer
+357,1179,45,16,I was going to show you my certificates. It just has my certificates and some information in there that would be on voir dire that I would answer.,a,THE WITNESS,start_question
+358,1183,45,20,I see.  So you don't have a file on the person that you examined for this litigation?,q,MR. LANG,start_answer
+359,1185,45,22,"Right.  I'm not a treating physician, so I'm not obligated to keep any records.  I'm not a physician that's formed a patient relationship, so I'm not obligated to keep any records, and we don't have capacity to do that.",a,THE WITNESS,start_question
+360,1191,46,2,Okay.  I'm going to touch on something you just mentioned here at the end of your direct testimony. Medications that she'll need in the future.  She also needed these same types of medications before; correct?,q,MR. LANG,start_answer
+361,1195,46,6,"Yes, she did.",a,THE WITNESS,start_question
+362,1196,46,7,Do you know anything about -- and I'm just going to call her Lillian.  I don't think she'll mind.  Do you know anything about Lillian's medical history since your examination of her?,q,MR. LANG,start_answer
+363,1200,46,11,I don't know anything after I saw her.,a,THE WITNESS,start_question
+364,1201,46,12,"So as you just said, you're not her treating doctor; correct?",q,MR. LANG,start_answer
+365,1203,46,14,Yes.,a,THE WITNESS,start_question
+366,1204,46,15,You've not performed any surgery or performed any procedures on her; correct?,q,MR. LANG,start_answer
+367,1206,46,17,Correct.,a,THE WITNESS,start_question
+368,1207,46,18,"In fact, her surgeon was Dr. Phillips; is that correct?",q,MR. LANG,start_answer
+369,1209,46,20,Yes.,a,THE WITNESS,start_question
+370,1210,46,21,Have you communicated at all with Dr. Phillips?,q,MR. LANG,start_answer
+371,1211,46,22,"Again I'm not a treating physician, so I would be violating her HIPAA rights to do that.  So, no, I did not.",a,THE WITNESS,start_question
+372,1213,46,24,Do you have any idea why Dr. Phillips is not testifying in this case?,q,MR. LANG,start_answer
+373,1216,47,1,I do not know.,a,THE WITNESS,start_question
+374,1217,47,2,"Now, you've seen Mrs. Pfaff once; correct?",q,MR. LANG,start_answer
+375,1218,47,3,Yes.,a,THE WITNESS,start_question
+376,1219,47,4,And that was in your Pittsburgh office; right?,q,MR. LANG,start_answer
+377,1220,47,5,"Yes, sir.",a,THE WITNESS,start_question
+378,1221,47,6,"And when you saw her, she no longer had any neck pain; correct?",q,MR. LANG,start_answer
+379,1223,47,8,Yes.,a,THE WITNESS,start_question
+380,1224,47,9,She told you that had resolved?,q,MR. LANG,start_answer
+381,1225,47,10,Yes.,a,THE WITNESS,start_question
+382,1226,47,11,Did her neck -- or excuse me.  Did her back pain resolve as well?,q,MR. LANG,start_answer
+383,1228,47,13,"She didn't have any complaints, so I would say that would be fair to say.",a,THE WITNESS,start_question
+384,1230,47,15,All right.  And this was all by the time you had seen her; correct?,q,MR. LANG,start_answer
+385,1232,47,17,"Right.  I examined her neck and back, and I will tell you that there were normal findings there.  So I don't think the spinal column is an issue totally.",a,THE WITNESS,start_question
+386,1235,47,20,So what we're really talking about here is her shoulders; correct?,q,MR. LANG,start_answer
+387,1237,47,22,"Her shoulders, yes.",a,THE WITNESS,start_question
+388,1238,47,23,Would you agree with that?,q,MR. LANG,start_answer
+389,1239,47,24,"I would, yes.",a,THE WITNESS,start_question
+390,1240,47,25,"All right.  Now, were you aware that Mrs. Pfaff had a stroke in August of 2018 that left her paralyzed on one side of her body for a period of time?",q,MR. LANG,start_answer
+391,1244,48,3,"That part I was aware of, yes.",a,THE WITNESS,start_question
+392,1245,48,4,"Okay.  So you did know that.  All right.  Would you -- well, let me ask you.  You reviewed -- you said in your report that you reviewed some medical records; correct?  You actually have a section records reviewed?",q,MR. LANG,start_answer
+393,1249,48,8,"Yes, I did.",a,THE WITNESS,start_question
+394,1250,48,9,And you cite -- are these all of the records that you reviewed in this case?,q,MR. LANG,start_answer
+395,1252,48,11,"They would be all of it, yes.",a,THE WITNESS,start_question
+396,1253,48,12,"And the records you reviewed are a CT scan of the left shoulder with contrast, 3D reconstruction; correct?",q,MR. LANG,start_answer
+397,1255,48,14,Correct.,a,THE WITNESS,start_question
+398,1256,48,15,That's one record?,q,MR. LANG,start_answer
+399,1257,48,16,Yes.,a,THE WITNESS,start_question
+400,1258,48,17,Allegheny Health Network records; correct?,q,MR. LANG,start_answer
+401,1259,48,18,Yes.,a,THE WITNESS,start_question
+402,1260,48,19,"AHN Health information management report, February 14, 2018, is that the other record?",q,MR. LANG,start_answer
+403,1262,48,21,Yes.,a,THE WITNESS,start_question
+404,1263,48,22,So those are the three sets of records that you reviewed?,q,MR. LANG,start_answer
+405,1265,48,24,I have more than that in my document.,a,THE WITNESS,start_question
+406,1266,48,25,"Okay.  Well, I'm looking at your October 24, 2018 report.  Maybe you can point to where you reviewed other records.",q,MR. LANG,start_answer
+407,1270,49,3,"Well, are you including the op summaries and all of that?  I broke those out and the one that you mentioned, I think the letters that you mentioned.",a,THE WITNESS,start_question
+408,1273,49,6,Okay.  So you looked at Dr. Phillips' operative summary?,q,MR. LANG,start_answer
+409,1275,49,8,"For both the right and left shoulders, yes.",a,THE WITNESS,start_question
+410,1276,49,9,And then records from Allegheny Orthopedics; correct?,q,MR. LANG,start_answer
+411,1278,49,11,Right.  That's correct.,a,THE WITNESS,start_question
+412,1279,49,12,And records from Orlandini Family Chiropractic?,q,MR. LANG,start_answer
+413,1280,49,13,Yes.  That's correct.,a,THE WITNESS,start_question
+414,1281,49,14,And records from Villa Saint Joseph's of Badan when she was recovering?,q,MR. LANG,start_answer
+415,1283,49,16,"Right, and then the EMS and emergency facility records.  That would be it.",a,THE WITNESS,start_question
+416,1285,49,18,Do you have any of those records with you?,q,MR. LANG,start_answer
+417,1286,49,19,"As I said, no, we don't keep the records.",a,THE WITNESS,start_question
+418,1287,49,20,And those are the records that were produced to you or given to you by Simon & Simon; is that correct?,q,MR. LANG,start_answer
+419,1289,49,22,"That is correct, yes.",a,THE WITNESS,start_question
+420,1290,49,23,"Would you agree with me, having reviewed her medical history, that she has a very long and substantial medical history that predates the date of this accident?",q,MR. LANG,start_answer
+421,1294,50,1,"Yeah.  I would think that's fair to say, yes.",a,THE WITNESS,start_question
+422,1295,50,2,"I mean, her medical history includes stroke, aneurism with clips, atrial fibrillation, coronary artery disease, hypertension, upper and lower extremity weakness, unsteady gait, depression, anxiety, congestive heart failure, GERD, dizziness, seizures, heart attack, hypothyroid.  She has a long history, doesn't she?",q,MR. LANG,start_answer
+423,1301,50,8,"They're medical conditions.  She certainly does, yes.",a,THE WITNESS,start_chat
+424,1303,50,10,Objection to relevance with regard to the shoulder injury sustained in this accident.  There has been no testimony by any qualified medical physician that these injuries are contributing to the causation defense or the causation of this injury.,side_chat,MR. FLAHERTY,start_question
+425,1309,50,16,And she has something called Hemishoto's (sic) disease?,q,MR. LANG,start_answer
+426,1311,50,18,Hashimoto's.,a,THE WITNESS,start_question
+427,1312,50,19,Hashimoto's disease.  What is that?,q,MR. LANG,start_answer
+428,1313,50,20,"Well, I think it's in the thyroid.",a,THE WITNESS,start_question
+429,1314,50,21,Okay.  And she takes a lot of medication; correct?,q,MR. LANG,start_answer
+430,1316,50,23,Yes.,a,THE WITNESS,start_question
+431,1317,50,24,"Including medications that you referenced earlier, pain medications, anti-inflammatories; correct?",q,MR. LANG,start_answer
+432,1320,51,1,"Yes, I did.",a,THE WITNESS,start_question
+433,1321,51,2,Analgesics; correct?,q,MR. LANG,start_answer
+434,1322,51,3,You are correct.,a,THE WITNESS,start_question
+435,1323,51,4,She took those before the date of this accident?,q,MR. LANG,start_answer
+436,1324,51,5,"Yes, she did.",a,THE WITNESS,start_question
+437,1325,51,6,All right.  She's been in and out of the hospital too many times to count and has dozen of doctors; fair?,q,MR. LANG,start_answer
+438,1327,51,8,"Yeah.  She's 85.  I don't find that to be unusual, but that is fair.",a,THE WITNESS,start_chat
+439,1329,51,10,Same objection.,side_chat,MR. FLAHERTY,start_question
+440,1331,51,12,"So are you claiming that despite all of this, her activities of daily living are diminished because solely of the shoulder injuries in this case, or do all of these other factors have a role in that?",q,MR. LANG,start_answer
+441,1335,51,16,"Well, when I presented the documents that speak to the issue of activities, particularly she was instructed just to give an idea of what is limited from the shoulder standpoint.  And when I saw her, it was the spinal column as well, but as far as any medical disease state, she should have not included those, and I don't think that she did, as far as I can tell from the review.",a,THE WITNESS,start_question
+442,1342,51,23,"Maybe I didn't understand your answer.  Let me -- my question wasn't clear.  You're saying today that her shoulder injuries caused by this motor vehicle accident have somehow affected her activities of daily living, her day-to-day activities; correct?",q,MR. LANG,start_answer
+443,1348,52,3,"I am indicating that and in particular when it comes to shoulder girdle function, yes.  I'm not including any medical disease states that may cause her to not be able to do certain things, let's say, walk for distances. If she has COPD or a lung condition, she's not going to be able to do that.  That has nothing to do with the shoulder, per se.",a,THE WITNESS,start_question
+444,1355,52,10,"Okay.  But I'm talking about her overall clinical picture.  All of these other problems, these multiple problems that she has, they affect her activities of daily living as well; agree?",q,MR. LANG,start_chat
+445,1359,52,14,Same objection.,side_chat,MR. FLAHERTY,start_answer
+446,1360,52,15,"Well, they certainly may, yes, just from the medical standpoint, but I particularly stuck to, and in talking with her and instructing her when she filled out the forms that she did, only talk about those areas that were injured in this motor vehicle accident, not her other conditions.",a,THE WITNESS,start_question
+447,1366,52,21,"Okay.  And just touching once again on her neck pain, there was no MRI or x-rays relating to her neck or her back; is that correct?",q,MR. LANG,start_answer
+448,1369,52,24,"I believe you are correct, yes.",a,THE WITNESS,start_question
+449,1370,52,25,All right.  You would agree that Lillian has severe glenohumeral and AC joint arthritis; correct?,q,MR. LANG,start_answer
+450,1373,53,2,"She did before the surgeries, yes.",a,THE WITNESS,start_question
+451,1374,53,3,Yeah.  And she -- and with synovitis.  What is synovitis?,q,MR. LANG,start_answer
+452,1376,53,5,"As I said, there is a lining of the joint called the synovium.  It produces fluid to kind of lubricate the joints.  So when it's inflamed, anything that is an itis that's attached to it will be inflammation related.",a,THE WITNESS,start_question
+453,1380,53,9,"And this -- and this was categorized by her surgeon, Dr. Phillips, as severe; correct?",q,MR. LANG,start_answer
+454,1382,53,11,That is correct.,a,THE WITNESS,start_question
+455,1383,53,12,All right.  And his preoperative procedure -- and this was on both shoulders; correct?,q,MR. LANG,start_answer
+456,1385,53,14,"Yes, you are correct.",a,THE WITNESS,start_question
+457,1386,53,15,His preoperative diagnosis was glenohumeral arthritis on both right and left; correct?,q,MR. LANG,start_answer
+458,1388,53,17,"You are correct, yes.",a,THE WITNESS,start_question
+459,1389,53,18,And his operation was to try to alleviate the problems caused by that arthritis; correct?,q,MR. LANG,start_answer
+460,1391,53,20,"In part, because, as I said, in my testimony earlier, arthritis in and of itself doesn't necessarily cause problems.  I agree that she had a history before that of some complaints about the shoulder.  In the two years before that where she did present to her treating physician nobody ever talked about surgery, and I didn't see any recommendations for it.  So she didn't need surgery until this accident occurred.",a,THE WITNESS,start_question
+461,1400,54,3,"All right.  So, sir, in your opinion surgery wasn't inevitable.  She wasn't going to have the surgery --",q,MR. LANG,start_answer
+462,1403,54,6,I would say generally no.,a,THE WITNESS,start_question
+463,1404,54,7,-- absent the motor vehicle accident?,q,MR. LANG,start_answer
+464,1405,54,8,"Even with the history of arthritis for which she may have had some treatments, nothing like what happened after this motor vehicle accident, and as counsel asked me in the beginning, it's the straw that broke the camel's back, basically.",a,THE WITNESS,start_question
+465,1410,54,13,"And so your opinion is that since these preexisting conditions were quiescent prior to the motor vehicle accident, her complaints after the motor vehicle accident were because of the motor vehicle accident; is that correct?",q,MR. LANG,start_answer
+466,1415,54,18,I think that summarizes it quite well.  Thank you.  Yes.,a,THE WITNESS,start_question
+467,1417,54,20,What do you mean by quiescent exactly?,q,MR. LANG,start_answer
+468,1418,54,21,"Well, it's not making the person have to go to a doctor and do what she did with Dr. Phillips.  In other words, she goes to a doctor who is going to give her some medication.  She limits her activities and then she's back to doing what she was doing.  She was actually working. So after the accident she's not working.  So all of these factors relate to what happened in the accident itself affecting what we already acknowledge is there.",a,THE WITNESS,start_question
+469,1427,55,4,"Now, we -- so, in fact, if she had complaints of prior shoulder problems, you would change your opinion that her complaints were not -- her issues were not quiescent?",q,MR. LANG,start_answer
+470,1431,55,8,"They were quiescent before this accident happened.  I'm saying in her history she had periods of time where she presented for her shoulder.  So we are not hiding that fact.  It's there, but again nobody that I'm aware of made any recommendations for surgery before this incident occurred.  Subsequent to this, she needed the surgery.",a,THE WITNESS,start_question
+471,1438,55,15,"And when you are forming your opinions, it's important to have a complete clinical picture which would include all of the prior medical records; correct?",q,MR. LANG,start_answer
+472,1441,55,18,"Not necessarily, no.",a,THE WITNESS,start_question
+473,1442,55,19,No?,q,MR. LANG,start_answer
+474,1443,55,20,"I don't subscribe to that, no, not at all.",a,THE WITNESS,start_question
+475,1444,55,21,Okay.  So it doesn't matter to you what medical records that would exist prior to the date of the accident?,q,MR. LANG,start_answer
+476,1447,55,24,"Well, I qualify that.  What I'm saying is if there is something similar to the same as and we have comparative information, then it might mean something to me.  But again presenting for a simple shoulder complaint and getting treated for it is not the same as what transpired here.  And if I see any records that would lead me elsewhere, I would certainly be willing to change my opinion, I guess.",a,THE WITNESS,start_question
+477,1456,56,7,All right.  I see that you did not have an opportunity to look at any records from Tejan Chiropractic where she treated; correct?,q,MR. LANG,start_answer
+478,1459,56,10,That's correct.,a,THE WITNESS,start_question
+479,1460,56,11,"I'm going to show you what I have marked as Defendant's Exhibit C.  These are records from Tejan Chiropractic.  The date on this record is March 17, 2016. She's complaining of severe pain in both shoulders, isn't she?",q,MR. LANG,is brackets
+480,1465,56,16,(Defendant's Exhibit C was marked for identification.),brackets,,start_answer
+481,1467,56,18,"Well, I haven't seen this before, so if I could get a chance, I would appreciate it.",a,THE WITNESS,start_question
+482,1469,56,20,"Okay.  Well, that's one of the problems, I guess.",q,MR. LANG,start_answer
+483,1470,56,21,"Well, it's not a problem until you let me look at it, and then if it is a problem, I'll say so.  Okay.",a,THE WITNESS,start_question
+484,1472,56,23,"Okay.  You've had an -- may I see that for a moment, Doctor?",q,MR. LANG,start_answer
+485,1474,56,25,Yes.  Thanks.,a,THE WITNESS,start_question
+486,1476,57,1,"Would you agree with me that the record is dated March 17, 2016; correct?",q,MR. LANG,start_answer
+487,1478,57,3,"Yes, I would.",a,THE WITNESS,start_question
+488,1479,57,4,That's just a couple of months before this accident?,q,MR. LANG,start_answer
+489,1481,57,6,You are correct.,a,THE WITNESS,start_question
+490,1482,57,7,"And the record refers to pain in low back and both shoulders and neck, both sides, and she drew on here X's noting pain in her shoulders and her low back; correct?",q,MR. LANG,start_answer
+491,1486,57,11,"You are correct, yes.",a,THE WITNESS,start_question
+492,1487,57,12,"And she circled unbearable pain.  On a pain scale of 0 to 10, she circled 9 and 10; correct?",q,MR. LANG,start_answer
+493,1489,57,14,Yes.,a,THE WITNESS,start_question
+494,1490,57,15,"And it says sometimes interrupts my sleep, restless legs going into spasms.  So would you agree with me that she was just a couple of months before this accident she was having severe pain in both shoulders?",q,MR. LANG,start_answer
+495,1494,57,19,"I would not disagree with you, and she went to a chiropractor for treatment for that.",a,THE WITNESS,start_question
+496,1496,57,21,"Okay.  Let me show you another record, Doctor. This is from Dr. Phillips that I've marked as Defendant's Exhibit D.  I assume you've seen this record?",q,MR. LANG,is brackets
+497,1499,57,24,(Defendant's Exhibit D was marked for identification.),brackets,,start_answer
+498,1502,58,1,Yes; I believe I have.,a,THE WITNESS,start_chat
+499,1503,58,2,"What date are we talking about, Mike?  Thank you.",side_chat,MR. FLAHERTY,start_question
+500,1506,58,5,"May I see that, Doctor.  This is a progress note, January 5, 2017; correct?",q,MR. LANG,start_answer
+501,1508,58,7,I have to look at it again.  Thanks.,a,THE WITNESS,start_question
+502,1509,58,8,Sure.,q,MR. LANG,start_answer
+503,1510,58,9,Correct.,a,THE WITNESS,start_question
+504,1511,58,10,And in that he says that she has had pain for years in both shoulders; correct?,q,MR. LANG,start_answer
+505,1513,58,12,Yes.,a,THE WITNESS,start_question
+506,1514,58,13,So again that would be important information for you to know; correct?,q,MR. LANG,start_answer
+507,1516,58,15,"Well, we've already known that.  As I said, it's not a secret that she had pain.  We acknowledged that she had pain.  Again that's all I'll say on that issue.  It's not anything that is unusual in the big picture here.",a,THE WITNESS,start_question
+508,1520,58,19,"But this is her own surgeon, the man who did the shoulder surgery, Dr. Phillips, saying that she has had pain for years in both shoulders; correct?",q,MR. LANG,start_answer
+509,1523,58,22,"That's exactly correct, yes.",a,THE WITNESS,start_chat
+510,1524,58,23,Would you mind if I replenish this for a couple of minutes?,side_chat,THE WITNESS,start_chat
+511,1526,58,25,"Off the record, please.",side_chat,MR. FLAHERTY,start_chat
+512,1528,59,1,The time is 11:05 a.m.  We are going off the video record.,side_chat,THE VIDEOGRAPHER,is brackets
+513,1530,59,3,(Short recess taken.),brackets,,start_chat
+514,1531,59,4,The time is 11:06 a.m.  We are now back on the video record.,side_chat,THE VIDEOGRAPHER,start_question
+515,1534,59,7,"Doctor, one of the records that you didn't review was the EMS report; is that correct?",q,MR. LANG,start_answer
+516,1536,59,9,Yes.,a,THE WITNESS,start_question
+517,1537,59,10,Along with the ER records; correct?,q,MR. LANG,start_answer
+518,1538,59,11,Yes.,a,THE WITNESS,start_question
+519,1539,59,12,And I'm going to show you what I have marked as Defendant's Exhibit E.,q,MR. LANG,is brackets
+520,1541,59,14,(Defendant's Exhibit E was marked for identification.),brackets,,start_answer
+521,1543,59,16,Thanks.,a,THE WITNESS,start_question
+522,1544,59,17,"This is the EMS report.  There's actually ironically there is two copies.  I'm going to mark them both as Exhibit E.  Would you agree with me that there were no complaints of any shoulder problems, injuries, pain, from the -- to the paramedics on the date of the accident?",q,MR. LANG,start_answer
+523,1550,59,23,"I believe you are correct, yes.",a,THE WITNESS,start_question
+524,1551,59,24,"Okay.  Was there any noted -- was there any bruising noted?  You said she had bruising of her shoulders.  Where did you get that information from?  Is that something she told you, or was that from a record?",q,MR. LANG,start_answer
+525,1556,60,3,I don't think in my testimony I said she had bruising.  I said she had well-healed --,a,THE WITNESS,start_question
+526,1558,60,5,You said contusions.,q,MR. LANG,start_answer
+527,1559,60,6,"Oh, yeah, I said contusions, yes.",a,THE WITNESS,start_question
+528,1560,60,7,Okay.  Where did you get the information that she had contusions to her shoulders?,q,MR. LANG,start_answer
+529,1562,60,9,"Well, when she had talked to me about the incident, she said she was struck several times by the same vehicle.  She was thrown forward and she was wearing her seat belt.  Her head hit the steering wheel.  From that I indicated that that would be a contusion, particularly when the belt is coming across the shoulder on that side.",a,THE WITNESS,start_question
+530,1569,60,16,Okay.  But you didn't see anything in the records of the physicians at the emergency room noting contusions?,q,MR. LANG,start_answer
+531,1571,60,18,I think that's fair.  I don't believe they characterize it and they certainly didn't in the EMS record here.,a,THE WITNESS,start_question
+532,1574,60,21,And there were no complaints of any shoulder injuries in the EMS record?,q,MR. LANG,start_answer
+533,1576,60,23,"That's correct, yes.",a,THE WITNESS,start_question
+534,1577,60,24,"All right.  Now, let's look at the emergency room record from the date of the accident.  I'm going to show you what I've marked as Defendant Exhibit F.  Take a look at that, Doctor.  That's from the date of the accident?",q,MR. LANG,is brackets
+535,1582,61,3,(Defendant's Exhibit F was marked for identification.),brackets,,start_answer
+536,1584,61,5,Yes.,a,THE WITNESS,start_question
+537,1585,61,6,Again no complaints relative to her shoulders; correct?,q,MR. LANG,start_answer
+538,1587,61,8,Yes.,a,THE WITNESS,start_question
+539,1588,61,9,"And you -- and you've looked at this record. They didn't even x-ray her shoulders, did they?",q,MR. LANG,start_answer
+540,1590,61,11,They did not.  That's correct.,a,THE WITNESS,start_question
+541,1591,61,12,I'll show you the radiology results.  They x-rayed her right knee which was negative; correct?,q,MR. LANG,start_answer
+542,1593,61,14,Yes.,a,THE WITNESS,start_question
+543,1594,61,15,"May I see those, Doctor, please?",q,MR. LANG,start_answer
+544,1595,61,16,Yes.,a,THE WITNESS,start_question
+545,1596,61,17,"And the impression at the emergency room was head injury, neck strain, right knee contusion; correct?",q,MR. LANG,start_answer
+546,1598,61,19,That's correct.,a,THE WITNESS,start_question
+547,1599,61,20,And she was stable at discharge; correct?,q,MR. LANG,start_answer
+548,1600,61,21,Yes.,a,THE WITNESS,start_question
+549,1601,61,22,"You are aware that Mrs. Pfaff fell on January 23, 2018, causing shoulder pain; is that correct?  Were you aware of that?",q,MR. LANG,start_answer
+550,1604,61,25,"That one I wasn't aware of, I don't think.",a,THE WITNESS,start_question
+551,1606,62,1,All right.  Let me show you that.,q,MR. LANG,start_chat
+552,1607,62,2,Same objection as previous. There's been no testimony that this fall caused any exacerbation or intervening cause with regard to the injuries claimed.  It's irrelevant.,side_chat,MR. FLAHERTY,start_question
+553,1612,62,7,"This is from again Allegheny Health Network that refers to her fall; is that correct, Allegheny General Hospital?",q,MR. LANG,is brackets
+554,1615,62,10,(Defendant's Exhibit G was marked for identification.),brackets,,start_answer
+555,1617,62,12,I have to get familiar with this one if you don't mind.  Yes.  She talked about her left shoulder here.,a,THE WITNESS,start_question
+556,1619,62,14,"Yes.  So if she injured her left shoulder in that fall, you can't relate the shoulder complaints when she saw -- to the motor vehicle accident when she saw you, correct, her continuing complaints?",q,MR. LANG,start_chat
+557,1623,62,18,Same objection.,side_chat,MR. FLAHERTY,start_question
+558,1625,62,20,"In other words, she had her motor vehicle accident, she had her fall, she saw you.  So any complaints about her left shoulder you don't know if they're from the motor vehicle accident or from this fall, do you?",q,MR. LANG,start_answer
+559,1630,62,25,"Well, I do because the history is in there that she already knew she was getting a shoulder replacement. So there is no elaboration on the history, but obviously this came after.  So anything that transpired before with her treating surgeon was already decided.",a,THE WITNESS,start_question
+560,1636,63,5,"And you've not seen any of these records in preparing your report and your testimony today, other than the emergency room and the paramedics records; correct?",q,MR. LANG,start_answer
+561,1639,63,8,"Right, but so far what I have seen again wouldn't change my opinion.",a,THE WITNESS,start_question
+562,1641,63,10,"I wouldn't expect it to, Doctor. But the fact that you said that her preexisting shoulder problems were quiescent, that's not true, is it?",q,MR. LANG,start_answer
+563,1644,63,13,"I went by her history, and I still think that the history is accurate.  If she had periods again where she had increased pain because of, let's say, a fall, that certainly isn't again the same as what was already exacerbated by the motor vehicle accident.  In other words, this is just something on top of what already was.",a,THE WITNESS,start_question
+564,1650,63,19,"Well, when she complained just a couple of months to the chiropractor of severe shoulder pain in both shoulders, that would be the antithesis of quiescent, wouldn't it?",q,MR. LANG,start_answer
+565,1654,63,23,"Well, I wouldn't disagree if she presented with that complaint, but again the issue is again in regard to trauma, what is precipitating trauma.  She didn't go anywhere else.  She didn't have any surgical opinions provided.  She went to a chiropractor, and I don't think there is anything else afterwards, unless you are going to show it to me that again would be similar to as the same as what transpired after the motor vehicle accident.  So again I would respectfully say I'm not going to change my opinions.",a,THE WITNESS,start_question
+566,1665,64,8,"And you've seen nothing from -- in Dr. Phillips' records where he says the motor vehicle accident necessitated his shoulder surgery, did he?  In fact, his preoperative diagnosis was arthritis.",q,MR. LANG,start_chat
+567,1669,64,12,"Well, I'm going to object. Exhibit B is completely counter to that.  In fact, Dr. Phillips indicates that he -- the accident caused the exacerbation, the one you just showed the doctor.  So if you could put B back in front of him so he could respond to that question.",side_chat,MR. FLAHERTY,start_chat
+568,1675,64,18,Exhibit B is Dr. Yarus' interrogatory answers.,side_chat,MR. LANG,start_chat
+569,1677,64,20,I'm sorry.  Dr. Phillips' follow-up from January 2017.  I thought it was B.,side_chat,MR. FLAHERTY,start_question
+570,1680,64,23,"Doctor, do you think it would have been beneficial for you to have these other prior records to review when preparing your report and conclusions?",q,MR. LANG,start_answer
+571,1684,65,1,The ones that you showed me today?,a,THE WITNESS,start_question
+572,1685,65,2,"Yes, sir.",q,MR. LANG,start_answer
+573,1686,65,3,"Again respectfully I would say that it would not change my opinion, and again Dr. Phillips actually for the history indicated this specific injury was the motor vehicle accident, May 26, 2016, and he referenced that in regard to her shoulder pain that was there for three weeks.",a,THE WITNESS,start_question
+574,1692,65,9,"Dr. Phillips wrote in his note, ""Patient is 85-year-old female with long history of bilateral shoulder pain, left greater than right.  She has had pain for years which was exacerbated after a motor vehicle accident of May 2017.  She went through a course of therapy over the summer without significant relief.  She presents to this office today to discuss her options for her left shoulder."" He doesn't attribute the motor vehicle accident to the necessity of the shoulder surgery, does he?  He just says that the motor vehicle exacerbated her long-standing shoulder problems.",q,MR. LANG,start_answer
+575,1704,65,21,"Well, I would say you can draw the conclusion from that.  There is nothing else again in the records you showed me that leads to that decision-making process.  So again respectfully I would say it doesn't specifically say that, but it certainly indicates that that decision was made on the basis of that accident.",a,THE WITNESS,start_question
+576,1711,66,2,"If she had sustained a shoulder injury in the motor vehicle accident, wouldn't you have expected it to show up in the paramedics report or the ER record, at least they would have looked at it if she had any complaints?",q,MR. LANG,start_answer
+577,1716,66,7,"Not at all.  She was confused, for one.  She was in a traumatic event, and when you read these kind of documents, it is so common not to have every single injury that may have occurred listed.  Those guys are trained to get people away and into an emergency setting so they could be evaluated.  It's about life and death.  So I don't think a shoulder injury, per se, is going to manifest or be talked about when you have somebody who has had multiple trauma.",a,THE WITNESS,start_question
+578,1725,66,16,"Well, they x-rayed her knees because she complained of knee pain.  They looked at her neck and back because she complained of neck and back pain; right?",q,MR. LANG,start_answer
+579,1728,66,19,Yeah.  That doesn't mean it wasn't there.,a,THE WITNESS,start_question
+580,1729,66,20,"If she would have complained of shoulder pain, they would have looked at it; right?",q,MR. LANG,start_answer
+581,1731,66,22,"That's cockeyed logic.  Again this person has multifactor injuries.  She was confused.  She had a head injury, obviously.  So I wouldn't expect anything, except for what's documented that occurred at that time.",a,THE WITNESS,start_question
+582,1736,67,1,"Let's go back to your comment that I'm using cockeyed logic.  So you are saying that if she would have complained of shoulder pain, they wouldn't have looked at it?  Let's talk about your cockeyed logic for a second.",q,MR. LANG,start_chat
+583,1740,67,5,Objection.  Argumentative.  You can answer.,side_chat,MR. FLAHERTY,start_answer
+584,1742,67,7,"Again when you read emergency records like this, EMS and emergency facility records, a person who has multiple trauma, multiple areas of injury won't necessarily complain of a particular area.  It may not manifest until later on as well.  And here is a person who had arthritis and doesn't complain about it.  So again it may have been quiet at that point in time.  It may not have manifested.  I don't know.  I can only just say in regard to the documentation, it isn't there, but that doesn't mean it didn't get injured.",a,THE WITNESS,start_question
+585,1752,67,17,"Well, wait a second.  Now you said she didn't complain about it.  Two months before the accident or in March of 2016, three months before the accident, she's complaining significantly to her chiropractor; right?",q,MR. LANG,start_answer
+586,1756,67,21,"Well, we were specifically talking about the documents that you showed me, the EMS document and the ER document.  We are not talking about what transpired before, as far as I understand your question.",a,THE WITNESS,start_question
+587,1760,67,25,"All right.  Well, let's kind of try to bring this back around to a logical conclusion.  If she would have complained of shoulder pain in the emergency room or to the paramedics, they would have examined those areas of her bodies and given her appropriate treatment; correct?",q,MR. LANG,start_answer
+588,1766,68,5,"They may have.  I can't speak for what was in the mind or how a paramedic is going to act on the scene. Again multiple trauma, elderly person.  We are not going to sit there evaluating them all day.  She told them what was bothering her at the time.  I accept that, but that doesn't mean that the shoulders were not injured, as I said.",a,THE WITNESS,start_question
+589,1773,68,12,"Well, since she was an elderly patient, wouldn't they be more concerned that she would have, for example, brittle bones or be more susceptible to injury and they would be more careful in evaluating her; correct?",q,MR. LANG,start_chat
+590,1777,68,16,Objection.  Speculation.,side_chat,MR. FLAHERTY,start_chat
+591,1778,68,17,"Well, the doctor has been talking about her being confused, so he can speculate about this too.",side_chat,MR. LANG,start_chat
+592,1781,68,20,"Well, I'm not speculating.  I have been doing this for 35 years, and I can tell you that on scenes like that again whatever was documented was what she was responding to at the time.  I can only speak to what's in the record.  I can't speak to what may or may not have been. Suffice it to say that when she got to Dr. Phillips, that was the issue, as far as the motor vehicle accident causing her symptoms.",side_chat,THE WITNESS,start_question
+593,1792,69,5,"Right.  And what's not in the record, in the emergency room record, are complaints of shoulder pain; correct?",q,MR. LANG,start_answer
+594,1795,69,8,"Counsel, I'll agree to that, it's not in the records, not documented as being part of her complaints, but that is where it ends.  It doesn't mean anything until we get to the next part of her evaluation and somebody who is going to focus in on where she's complaining.",a,THE WITNESS,start_question
+595,1800,69,13,And it's not part of her diagnosis at the emergency room?,q,MR. LANG,start_answer
+596,1802,69,15,I agree to that as well.,a,THE WITNESS,start_question
+597,1803,69,16,"And there is nothing in the emergency room record that would indicate she was in any way confused or having difficulty interacting with the emergency room personnel, is there?",q,MR. LANG,start_answer
+598,1807,69,20,In the ER document I have to look at it again.  I don't recall.,a,THE WITNESS,start_question
+599,1809,69,22,"You would agree with me that sometimes when people are confused, they note that in the record, confused, not a good historian, those kinds of things; correct?",q,MR. LANG,start_answer
+600,1814,70,1,"Well, here it talks about her saying that she thinks the guy hit her was a little confused, maybe the person that hit her.  Okay.  And then he hit her again. As far as her being confused, I'll agree to that.",a,THE WITNESS,start_chat
+601,1818,70,5,"Okay.  That's all I have.  Thank you, Doctor.",side_chat,MR. LANG,start_chat
+602,1820,70,7,You're welcome.  Thanks.,side_chat,THE WITNESS,start_chat
+603,1821,70,8,I don't have any other questions.,side_chat,MR. LANG,start_chat
+604,1822,70,9,"All right.  Doctor, just some brief follow-up.",side_chat,MR. FLAHERTY,symbols
+605,1824,70,11,----- REDIRECT EXAMINATION,symbols,,start_question
+606,1827,70,14,"There was some questioning earlier about your knowledge of what happened to Ms. Pfaff after this accident, and the fact that she had a stroke, she had some cardiac issues.  There is no secret that that's going to come out in testimony of Ms. Pfaff.  Does the fact that she had a stroke have any bearing on the healing or recuperation of motion for her shoulder problems?",q,MR. FLAHERTY,start_answer
+607,1835,70,22,Overall I would say no.  It doesn't seem to be. Actually the residuals from the stroke were characterized as resolved.  So I would say she was functional again after that.,a,THE WITNESS,start_question
+608,1840,71,1,"And I anticipate there is going to be some testimony, depending on how the court rules, on whether or not upon her fall that she sustained in 2018 -- in fact, from the records that Mr. Lang had shown you surgery was already scheduled for the shoulders before that fall; is that correct?",q,MR. FLAHERTY,start_answer
+609,1846,71,7,Right.  That's what I said.  This was in January of 2018.  Certainly this occurred before that.,a,THE WITNESS,start_question
+610,1848,71,9,"And you had mentioned this earlier on cross, but you had Lillian Pfaff fill out a form of her activities that were impaired by this accident; is that correct?",q,MR. FLAHERTY,start_answer
+611,1851,71,12,"That's correct, yes.",a,THE WITNESS,start_chat
+612,1852,71,13,Objection.  This is beyond the scope of cross.,side_chat,MR. LANG,start_chat
+613,1854,71,15,It was on counsel's question in response.,side_chat,MR. FLAHERTY,start_question
+614,1857,71,18,"I would like you to just look at that form, and I have it pulled out for you.  And correct me if I'm wrong, but you had directed her to indicate which activities were affected by these injuries; correct?",q,MR. FLAHERTY,start_answer
+615,1861,71,22,"Exactly, yes.",a,THE WITNESS,start_question
+616,1862,71,23,And you could -- I know there is a lot of things there.  But could you tell the jury what she marked off as have being impaired?,q,MR. FLAHERTY,start_answer
+617,1866,72,1,"She marked sewing, dancing, flea marketing, antique shows, going to a parade.",a,THE WITNESS,start_question
+618,1868,72,3,Is there anything on the subsequent page?,q,MR. FLAHERTY,start_answer
+619,1870,72,5,"Under cleaning, changing the bed, ironing, cleaning windows, vacuuming, cleaning floors, sweeping, mowing grass, weeding, planting flowers, digging, shoveling, washing the car, cutting finger and toe nails.  Physical functions, standing, squatting, standing on one foot, bending over.",a,THE WITNESS,start_question
+620,1877,72,12,"And as a physician, are these activities that you'll see in, say, therapy records that are qualified as activities of daily living, ADLs?",q,MR. FLAHERTY,start_answer
+621,1880,72,15,"Right.  In therapy records you'll see this kind of documentation, yes.",a,THE WITNESS,start_chat
+622,1882,72,17,"Okay.  I don't have anything further for you, Doctor.  Thank you for your time today.",side_chat,MR. FLAHERTY,start_chat
+623,1885,72,20,Thank you.  You're welcome. RECROSS-EXAMINATION,side_chat,THE WITNESS,start_question
+624,1889,72,24,"Doctor, looking at that pain and disability questionnaire, the first page of it, the first category after the introductry (sic) -- introductory paragraph says neck and/or low back pain and impairment disability indices; correct?",q,MR. LANG,start_answer
+625,1895,73,4,Yes.,a,THE WITNESS,start_question
+626,1896,73,5,"And in Item No. 2 she marked off I can look after myself normally, but it causes extra pain; correct?",q,MR. LANG,start_answer
+627,1898,73,7,"Yes, she did.",a,THE WITNESS,start_question
+628,1899,73,8,And then under work she says I can hardly do any work at all; correct?,q,MR. LANG,start_answer
+629,1901,73,10,Yes.,a,THE WITNESS,start_question
+630,1902,73,11,And then she under driving she says I can drive my car as long as I want with slight pain in my neck and/or low back; correct?,q,MR. LANG,start_answer
+631,1905,73,14,Yes.,a,THE WITNESS,start_question
+632,1906,73,15,And then she talks about I can hardly do any recreational activities because of my pain in my neck and/or back; correct?,q,MR. LANG,start_answer
+633,1909,73,18,Yes.,a,THE WITNESS,start_question
+634,1910,73,19,She said I cannot walk at all without increasing pain; correct?,q,MR. LANG,start_answer
+635,1912,73,21,Yes.,a,THE WITNESS,start_question
+636,1913,73,22,"That wouldn't have anything to do with her shoulder, would it?",q,MR. LANG,start_answer
+637,1915,73,24,"These are back and neck, yes.",a,THE WITNESS,start_question
+638,1916,73,25,These are all back and neck complaints; right?,q,MR. LANG,start_answer
+639,1918,74,1,They are.,a,THE WITNESS,start_question
+640,1919,74,2,"Sitting, pain movement -- pain prevents me from sitting more than a half an hour; correct?",q,MR. LANG,start_answer
+641,1921,74,4,Correct.,a,THE WITNESS,start_question
+642,1922,74,5,"Standing, I cannot stand for longer than ten minutes without increasing pain; correct?",q,MR. LANG,start_answer
+643,1924,74,7,Yes.,a,THE WITNESS,start_question
+644,1925,74,8,"Social activities, pain has restricted my social life, and I do not go out very often; right?",q,MR. LANG,start_answer
+645,1927,74,10,Yes.,a,THE WITNESS,start_question
+646,1928,74,11,"Traveling, I get extra pain when traveling which compels me to seek alternative forms of travel; correct?",q,MR. LANG,start_answer
+647,1930,74,13,Yes.,a,THE WITNESS,start_question
+648,1931,74,14,This is all back and neck?,q,MR. LANG,start_answer
+649,1932,74,15,"This is document specific to that, yes.",a,THE WITNESS,start_question
+650,1933,74,16,Yeah.  She says my pain is neither getting better nor worse; correct?,q,MR. LANG,start_answer
+651,1935,74,18,Yes.,a,THE WITNESS,start_question
+652,1936,74,19,"And then under another subheading back pain disability questionnaire, I change positions frequently to try to get my pain reduced; right?",q,MR. LANG,start_answer
+653,1939,74,22,Yes.,a,THE WITNESS,start_question
+654,1940,74,23,"Because of my pain, I am not doing any jobs that I usually do around the home; correct?",q,MR. LANG,start_answer
+655,1942,74,25,Yes.,a,THE WITNESS,start_question
+656,1944,75,1,I only stand up for short periods of time because of my pain; correct?,q,MR. LANG,start_answer
+657,1946,75,3,That's correct.,a,THE WITNESS,start_question
+658,1947,75,4,I avoid heavy jobs around the home because of my pain; correct?,q,MR. LANG,start_answer
+659,1949,75,6,Correct.,a,THE WITNESS,start_question
+660,1950,75,7,And again that's all related only to her back and neck?,q,MR. LANG,start_answer
+661,1952,75,9,"This was a component of what she had in the accident, and I characterize this as soft tissue, that's correct.",a,THE WITNESS,start_question
+662,1955,75,12,In which you said were healed by the time she saw you?,q,MR. LANG,start_answer
+663,1957,75,14,"Neck pain was resolved, yes.",a,THE WITNESS,start_question
+664,1958,75,15,"Well, you told me earlier the back pain as well; correct?",q,MR. LANG,start_answer
+665,1960,75,17,"All of those three areas I'll stipulate to that, yes.",a,THE WITNESS,start_question
+666,1962,75,19,"And this other section, the last few pages that Attorney Flaherty was referring to, again this is just generic things that she can't do.  It doesn't say anything about specifically to her shoulder, does it?",q,MR. LANG,start_answer
+667,1966,75,23,"As I said, the instructions were anything that occurred in the accident that you could do, as far as activities that you did before that you can't do now specifically because of this accident of May 26, 2016. That's the instructions that are given.",a,THE WITNESS,start_chat
+668,1972,76,3,Those are all of the questions I have.  Thank you.,side_chat,MR. LANG,start_chat
+669,1974,76,5,You're welcome.  Thanks.,side_chat,THE WITNESS,start_chat
+670,1975,76,6,"Thank you, Doctor.  Nothing further.",side_chat,MR. FLAHERTY,start_chat
+671,1977,76,8,You're welcome.  Thank you.,side_chat,THE WITNESS,start_chat
+672,1978,76,9,The time is 11:25 a.m.  This concludes this video deposition.,side_chat,THE VIDEOGRAPHER,is brackets
+673,1980,76,11,(Signature waived.),brackets,,is brackets
+674,1981,76,12,"(Whereupon, the above-entitled matter was concluded at 11:25 a.m. this date.) COMMONWEALTH OF PENNSYLVANIA the Commonwealth of Pennsylvania, do hereby certify that to testify the truth, the whole truth, and nothing but time and place stated herein; and that the said reduced to typewriting under my direction, and witness, all to the best of my skill and ability. I further certify that the inspection, reading and respective parties and by the witness. I further certify that I am not a relative or interested, directly or indirectly, in this action. IN WITNESS WHEREOF, I have hereunto set my hand and",brackets,,symbols
+675,2022,77,18,"____________________________ Monica R. Chandler, Notary Public",symbols,,end

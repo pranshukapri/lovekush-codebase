@@ -1,0 +1,534 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," sworn, was examined and testified as follows:",,,symbols
+1,99,4,12,-  -  - EXAMINATION,symbols,,symbols
+2,101,4,14,-  -  -,symbols,,start_question
+3,103,4,16,"Good morning.  My name is Katherine Nosari, and I represent the defendant in this action.  I know you were just here sitting through the deposition of your wife, so you saw what happened.",q,MS. NOSARI,start_answer
+4,107,4,20,Yes.,a,THE WITNESS,start_question
+5,108,4,21,"Do you want me to go over the instructions that I gave her at the beginning of her deposition, or did you also hear and understand them?",q,MS. NOSARI,start_answer
+6,111,4,24,If you could repeat them.,a,THE WITNESS,start_question
+7,112,4,25,"Absolutely.  So there's a court reporter here. He's taking down everything we say.  So when you respond to the questions, you have to do so verbally because he has to be able to hear what you're saying -- or what the interpreter, when the interpreter interprets it, and write it down.  So you can't shrug your shoulders or shake your head, and try to avoid ""uh-huh"" or ""uh-uh.""  Say ""yes"" or ""no"" just so we know clearly what your answer is.",q,MS. NOSARI,start_answer
+8,121,5,8,Yes.,a,THE WITNESS,start_question
+9,122,5,9,"And if at any point today I ask you something and you want me to repeat it or rephrase it, you didn't hear it or understand it, I'll be happy to do so.  Just let me know.",q,MS. NOSARI,start_answer
+10,126,5,13,Yeah.,a,THE WITNESS,start_question
+11,127,5,14,I don't want you to answer a question unless you've heard it completely and understand it completely.,q,MS. NOSARI,start_answer
+12,129,5,16,Of course.,a,THE WITNESS,start_question
+13,130,5,17,"Also, if I ask you a question and you don't know the answer or you don't remember the answer, that's okay to tell me as long as it's the truth.  We don't want you to guess here today at all.  If you -- if you do feel comfortable estimating or approximating something, that's okay.  Just let us know that.",q,MS. NOSARI,start_answer
+14,136,5,23,Very good.,a,THE WITNESS,start_question
+15,137,5,24,And you understand that the oath that you took today is the same oath you would take if we -- if you were testifying in front of a judge or a jury?,q,MS. NOSARI,start_answer
+16,141,6,2,Very good.,a,THE WITNESS,start_question
+17,142,6,3,"Thank you.  I -- before the deposition, there was a discussion that you took some medication.  What medication was that?",q,MS. NOSARI,start_answer
+18,145,6,6,It's metformin and Amaryl.,a,THE WITNESS,start_question
+19,146,6,7,What are those medications for?,q,MS. NOSARI,start_answer
+20,147,6,8,For diabetes.,a,THE WITNESS,start_question
+21,148,6,9,Both of them?,q,MS. NOSARI,start_answer
+22,149,6,10,Yes.,a,THE WITNESS,start_question
+23,150,6,11,"Do they affect your ability to hear things, understand things, and respond to my questions truthfully?",q,MS. NOSARI,start_answer
+24,152,6,13,No.,a,THE WITNESS,start_question
+25,153,6,14,Are you under the influence of any other medication or substance that would impair your ability to understand?,q,MS. NOSARI,start_answer
+26,155,6,16,No.,a,THE WITNESS,start_question
+27,156,6,17,All right.  What is your full name for the record?,q,MS. NOSARI,start_answer
+28,157,6,18,Telesforo Camacho-Lopez.,a,THE WITNESS,start_question
+29,158,6,19,And is Camacho-Lopez hyphenated legally?,q,MS. NOSARI,start_answer
+30,159,6,20,"Yes, because they're separated.  Camacho is like my last name.",a,THE WITNESS,start_question
+31,161,6,22,And what is your date of birth?,q,MS. NOSARI,start_answer
+32,162,6,23,January 5th of '73.,a,THE WITNESS,start_question
+33,163,6,24,"And you live at the address that your wife gave me, correct?",q,MS. NOSARI,start_answer
+34,166,7,1,Exactly.,a,THE WITNESS,start_question
+35,167,7,2,And do you have any children?,q,MS. NOSARI,start_answer
+36,168,7,3,Yes.  I have two.,a,THE WITNESS,start_question
+37,169,7,4,And what are their ages?,q,MS. NOSARI,start_answer
+38,170,7,5,23 and 26.,a,THE WITNESS,start_question
+39,171,7,6,Do you have any grandchildren?,q,MS. NOSARI,start_answer
+40,172,7,7,Yes.,a,THE WITNESS,start_question
+41,173,7,8,How many?,q,MS. NOSARI,start_answer
+42,174,7,9,Five.  Sorry.  Sorry.  Four.,a,THE WITNESS,start_question
+43,175,7,10,And what do their ages range from?,q,MS. NOSARI,start_answer
+44,176,7,11,Between 6 and 1.,a,THE WITNESS,start_question
+45,177,7,12,"Do they live in the area, the general area?",q,MS. NOSARI,start_answer
+46,178,7,13,No.,a,THE WITNESS,start_question
+47,179,7,14,Are you currently employed?,q,MS. NOSARI,start_answer
+48,180,7,15,No.,a,THE WITNESS,start_question
+49,181,7,16,Do you work at all in any capacity?,q,MS. NOSARI,start_answer
+50,182,7,17,No.,a,THE WITNESS,start_question
+51,183,7,18,Do you earn any type of income from any employment?,q,MS. NOSARI,start_answer
+52,184,7,19,"My employment is kind of like:  Whenever I'm offered a job, that's when I can actually go to work.",a,THE WITNESS,start_question
+53,186,7,21,What do you do?,q,MS. NOSARI,start_answer
+54,187,7,22,Construction assistant.,a,THE WITNESS,start_question
+55,188,7,23,"Do you work with a specific company, or you're just self-employed?",q,MS. NOSARI,start_answer
+56,190,7,25,On my own.  On my own.,a,THE WITNESS,start_question
+57,192,8,1,Is there someone specifically that usually reaches out to you to work?,q,MS. NOSARI,start_answer
+58,194,8,3,Just friendships.,a,THE WITNESS,start_question
+59,195,8,4,So just like individuals will reach out to you to help out with construction?,q,MS. NOSARI,start_answer
+60,197,8,6,Yes.,a,THE WITNESS,start_question
+61,198,8,7,"And what type of -- when you do work, what type of construction are you doing?",q,MS. NOSARI,start_answer
+62,200,8,9,It's just -- how can I say this?  Sometimes to help out painting or if they have to lay out flooring.,a,THE WITNESS,start_question
+63,202,8,11,Anything else?,q,MS. NOSARI,start_answer
+64,203,8,12,Like that.,a,THE WITNESS,start_question
+65,204,8,13,Do you do any like drywall installation?,q,MS. NOSARI,start_answer
+66,205,8,14,Whenever it's required.,a,THE WITNESS,start_question
+67,206,8,15,How about tiling?,q,MS. NOSARI,start_answer
+68,207,8,16,Yeah.,a,THE WITNESS,start_question
+69,208,8,17,So you're like general handyman things?,q,MS. NOSARI,start_answer
+70,209,8,18,Yes.,a,THE WITNESS,start_question
+71,210,8,19,So when's the last time you worked in that capacity?,q,MS. NOSARI,start_answer
+72,212,8,21,Like two years.,a,THE WITNESS,start_question
+73,213,8,22,So you haven't made any money or worked at all in two years?,q,MS. NOSARI,start_answer
+74,215,8,24,No.  Yes.  I have been able to work but just not the same.,a,THE WITNESS,start_question
+75,218,9,1,"So -- but when's the last time you had work, you actually went and did some type of construction work? Like last month, two months ago, three months ago?",q,MS. NOSARI,start_answer
+76,221,9,4,Other week.,a,THE WITNESS,start_question
+77,222,9,5,"About a week ago?  That's a ""yes""?",q,MS. NOSARI,start_answer
+78,223,9,6,Yes.,a,THE WITNESS,start_question
+79,224,9,7,So -- so you seemed to mention that you can't -- you don't do it as much after -- is that after the accident?,q,MS. NOSARI,start_answer
+80,227,9,10,Exactly.,a,THE WITNESS,start_question
+81,228,9,11,So tell me:  How much has it decreased?,q,MS. NOSARI,start_answer
+82,229,9,12,"500, 600 a week.",a,THE WITNESS,start_question
+83,230,9,13,Dollars?,q,MS. NOSARI,start_answer
+84,231,9,14,Dollars.,a,THE WITNESS,start_question
+85,232,9,15,Five hundred to six hundred dollars a week since the accident occurred?,q,MS. NOSARI,start_answer
+86,234,9,17,Yes.,a,THE WITNESS,start_question
+87,235,9,18,Is that like an average of -- is that -- is that an average of everything?,q,MS. NOSARI,start_answer
+88,237,9,20,"From what has been lost, yes.",a,THE WITNESS,start_question
+89,238,9,21,Did you file taxes in 2017?,q,MS. NOSARI,start_answer
+90,239,9,22,I filed them with my wife.,a,THE WITNESS,start_question
+91,240,9,23,"With your wife.  And then, so the same years your wife did, you did as well?",q,MS. NOSARI,start_answer
+92,242,9,25,Yes.,a,THE WITNESS,start_question
+93,244,10,1,And the -- so you're saying you work less.  Is that -- is that because you -- you like pass -- pass up jobs that you're offered?,q,MS. NOSARI,start_answer
+94,247,10,4,Yes.,a,THE WITNESS,start_question
+95,248,10,5,Is there an example of -- that you can give me of a job that you would normally have done before the accident that you didn't do after the accident?,q,MS. NOSARI,start_answer
+96,251,10,8,There are many.  Like picking up heavy things.,a,THE WITNESS,start_question
+97,252,10,9,Like what -- what -- what were you asked to pick up that you didn't want to pick up?,q,MS. NOSARI,start_answer
+98,254,10,11,"Tile boxes, cement bags, whenever he had to use the shovel to mix things with.",a,THE WITNESS,start_question
+99,256,10,13,"When did this -- when did this happen that you were asked to pick up tile boxes or cement bags and you just, you know, decided not to take that job?",q,MS. NOSARI,start_answer
+100,259,10,16,Whenever I would go and they would offer me the job and I couldn't.,a,THE WITNESS,start_question
+101,261,10,18,"Who's ""they""?",q,MS. NOSARI,start_answer
+102,262,10,19,The guy that would call me -- the friend that would call me to help me -- to help him with the job.,a,THE WITNESS,start_question
+103,264,10,21,And who's this guy?,q,MS. NOSARI,start_answer
+104,265,10,22,We are friends.  They're in my area.  But we seldom use names.  We just have nicknames.,a,THE WITNESS,start_question
+105,267,10,24,Is -- are they -- do you operate under like your own company name?,q,MS. NOSARI,start_answer
+106,270,11,1,Sorry.  What?,a,THE WITNESS,start_question
+107,271,11,2,You don't have like your own company name that you operate under?,q,MS. NOSARI,start_answer
+108,273,11,4,No.,a,THE WITNESS,start_question
+109,274,11,5,Do any of these people that contact you operate under the name of a -- a company or place of employment?,q,MS. NOSARI,start_answer
+110,276,11,7,No.,a,THE WITNESS,start_question
+111,277,11,8,"Can you tell me the name of -- of anyone that, you know, before the accident, you would work with?",q,MS. NOSARI,start_answer
+112,279,11,10,"Well, there's one.  We call him Paco.  The other one was called El Moyo.",a,THE WITNESS,start_question
+113,281,11,12,And the other one was El Moyo?,q,MS. NOSARI,start_chat
+114,282,11,13,"Interpreter wrote E-L, space, M-O-Y-O.",side_chat,THE INTERPRETER,start_question
+115,285,11,16,Do you have a -- like phone numbers for these individuals?,q,MS. NOSARI,start_answer
+116,287,11,18,I think so.,a,THE WITNESS,start_question
+117,288,11,19,"Do you ever -- is it always that they call you, asking you, or sometimes, do you reach out to see if they have work for you?",q,MS. NOSARI,start_answer
+118,291,11,22,They stop by to see me because they come over to see me at the house.,a,THE WITNESS,start_question
+119,293,11,24,"So the -- okay.  So they're your friends, but you don't know they're full name?",q,MS. NOSARI,start_answer
+120,296,12,1,Right.  No.  We all just know each other there by nicknames.,a,THE WITNESS,start_question
+121,298,12,3,What's your nickname?  What's your nickname?,q,MS. NOSARI,start_answer
+122,299,12,4,They call me Camy.,a,THE WITNESS,start_question
+123,300,12,5,"At any point prior to the accident, did you ever work like with a specific company, doing construction?",q,MS. NOSARI,start_answer
+124,302,12,7,"No.  Pretty much all the time, I worked like this.",a,THE WITNESS,start_question
+125,303,12,8,Did you ever sustain any injuries while on the job?,q,MS. NOSARI,start_answer
+126,304,12,9,No.,a,THE WITNESS,start_question
+127,305,12,10,And how long have you been doing kind of construction-related work?,q,MS. NOSARI,start_answer
+128,307,12,12,I don't know.  I have always worked doing that.,a,THE WITNESS,start_question
+129,308,12,13,All right.  Did you hold any other type of employment back when this accident occurred?,q,MS. NOSARI,start_answer
+130,310,12,15,"Employment, per se, I have always worked just whenever a job has surfaced.",a,THE WITNESS,start_question
+131,312,12,17,And you haven't worked like anywhere -- in any other capacity since this accident occurred?  Like you didn't --,q,MS. NOSARI,start_answer
+132,315,12,20,"Well, I have worked in whatever I've been able to.",a,THE WITNESS,start_question
+133,316,12,21,"No.  I understand.  In terms of your like -- I guess I'm asking:  Did you hold any other jobs, like you worked for -- I don't know -- you worked for Godiva, packing and -- did you have any other type of employment since this accident other than what you've already told me about?",q,MS. NOSARI,start_answer
+134,323,13,2,No.,a,THE WITNESS,start_question
+135,324,13,3,"And prior to this accident occurring on April 8th, 2017, did you -- or were you ever involved in a motor vehicle accident?",q,MS. NOSARI,start_answer
+136,327,13,6,No.,a,THE WITNESS,start_question
+137,328,13,7,Have you been involved in any motor vehicle accidents since this occurred?,q,MS. NOSARI,start_answer
+138,330,13,9,No.,a,THE WITNESS,start_question
+139,331,13,10,Have you ever been injured in any type of slip and fall or slip and fall -- trip and fall event?,q,MS. NOSARI,start_answer
+140,333,13,12,No.,a,THE WITNESS,start_question
+141,334,13,13,"Other than the lawsuit that we're here for today for this accident, have you ever filed another lawsuit because of an injury to yourself?",q,MS. NOSARI,start_answer
+142,337,13,16,No.,a,THE WITNESS,start_question
+143,338,13,17,Did you have a family or primary care doctor back when this accident occurred?,q,MS. NOSARI,start_answer
+144,340,13,19,I have a doctor.,a,THE WITNESS,start_question
+145,341,13,20,Who's that?,q,MS. NOSARI,start_answer
+146,342,13,21,Jose Suvervi.,a,THE WITNESS,start_question
+147,343,13,22,Can you spell the last name.,q,MS. NOSARI,start_chat
+148,344,13,23,He'll write it down.,side_chat,THE INTERPRETER,start_chat
+149,345,13,24,Sure.,side_chat,MS. NOSARI,start_chat
+150,346,13,25,Written S-U-V-E-R-V-I.,side_chat,THE INTERPRETER,start_question
+151,349,14,2,And where is he located?,q,MS. NOSARI,start_answer
+152,350,14,3,In Reading.,a,THE WITNESS,start_question
+153,351,14,4,Do you know the street?,q,MS. NOSARI,start_answer
+154,352,14,5,"On 5th, southeast.",a,THE WITNESS,start_question
+155,353,14,6,Like on 5th Street or 5th Avenue?,q,MS. NOSARI,start_answer
+156,354,14,7,5th Street.,a,THE WITNESS,start_question
+157,355,14,8,And how long has he been your doctor?,q,MS. NOSARI,start_answer
+158,356,14,9,I don't remember very well how long.,a,THE WITNESS,start_question
+159,357,14,10,"When this accident occurred, did you have any private health care insurance?",q,MS. NOSARI,start_answer
+160,359,14,12,No.,a,THE WITNESS,start_question
+161,360,14,13,Were you provided any medical assistance through the state?,q,MS. NOSARI,start_answer
+162,362,14,15,No.,a,THE WITNESS,start_question
+163,363,14,16,Did you receive any -- have you ever received or are you receiving any type of Social Security Disability payments?,q,MS. NOSARI,start_answer
+164,366,14,19,No.,a,THE WITNESS,start_question
+165,367,14,20,Let's talk about the accident.  We talked about the day.  What time of day did -- did it occur?,q,MS. NOSARI,start_answer
+166,369,14,22,"It was between 4:00, 4:00 or 5:00 in the afternoon.",a,THE WITNESS,start_question
+167,370,14,23,"And your wife testified that you guys were on Route 78, going to see her sister in New York; is that correct?",q,MS. NOSARI,start_answer
+168,372,14,25,Yes.,a,THE WITNESS,start_question
+169,374,15,1,And you were a front seat passenger?,q,MS. NOSARI,start_answer
+170,375,15,2,Yes.,a,THE WITNESS,start_question
+171,376,15,3,Can you just tell me what happened in terms of what you recall in the accident.,q,MS. NOSARI,start_answer
+172,378,15,5,What I just remember is just the moment of the impact.,a,THE WITNESS,start_question
+173,380,15,7,Do you recall what lane of travel your vehicle -- the vehicle you were in was traveling in?,q,MS. NOSARI,start_answer
+174,382,15,9,In what lane the vehicle was?  The one that hit us?,a,THE WITNESS,start_question
+175,383,15,10,"No, the one you're traveling -- you're a passenger in.",q,MS. NOSARI,start_answer
+176,385,15,12,We were going in the right lane.,a,THE WITNESS,start_question
+177,386,15,13,And did you see the other car that -- that hit your car at any point before the impact?,q,MS. NOSARI,start_answer
+178,388,15,15,No.,a,THE WITNESS,start_question
+179,389,15,16,Did you have any notice that an impact was going to occur?,q,MS. NOSARI,start_answer
+180,391,15,18,No.,a,THE WITNESS,start_question
+181,392,15,19,And what happened to your vehicle that you were in as a result of the impact?,q,MS. NOSARI,start_answer
+182,394,15,21,"What happened?  Well, the moment of the impact, my wife just stopped.  But prior to that, she had to take control of the car because it was pretty ugly.",a,THE WITNESS,start_question
+183,397,15,24,So what happened to the car you were in as a result of the impact?  Was it -- was it moved in any direction?,q,MS. NOSARI,start_answer
+184,400,16,1,Yeah.  It was pushed out towards the right side.,a,THE WITNESS,start_question
+185,401,16,2,And did it hit anything else as a result of being pushed out?,q,MS. NOSARI,start_answer
+186,403,16,4,No.,a,THE WITNESS,start_question
+187,404,16,5,And you said your wife brought the vehicle to a stop?,q,MS. NOSARI,start_answer
+188,406,16,7,Yes.,a,THE WITNESS,start_question
+189,407,16,8,Was that in the right lane of travel or somewhere else?,q,MS. NOSARI,start_answer
+190,409,16,10,"On the same lane, on the same right side.",a,THE WITNESS,start_question
+191,410,16,11,"And as a result of the impact, did any part of your body hit anything inside the vehicle?",q,MS. NOSARI,start_answer
+192,412,16,13,It was just my arm that was on the seat of my wife.,a,THE WITNESS,start_question
+193,413,16,14,"And so your left arm was, I guess, touching your wife's seat?",q,MS. NOSARI,start_answer
+194,415,16,16,Yes.,a,THE WITNESS,start_question
+195,416,16,17,And did -- but did you hit anything else inside the car?,q,MS. NOSARI,start_answer
+196,418,16,19,No.,a,THE WITNESS,start_question
+197,419,16,20,Were you bleeding at all at the scene?,q,MS. NOSARI,start_answer
+198,420,16,21,No.,a,THE WITNESS,start_question
+199,421,16,22,"Notice any abrasions, cuts, or bruises to your body afterwards?",q,MS. NOSARI,start_answer
+200,423,16,24,No.,a,THE WITNESS,start_question
+201,424,16,25,Were you in pain at the scene?,q,MS. NOSARI,start_answer
+202,426,17,1,I feel the pain on the arm.,a,THE WITNESS,start_question
+203,427,17,2,And you're pointing to your left shoulder?,q,MS. NOSARI,start_answer
+204,428,17,3,The left one.,a,THE WITNESS,start_question
+205,429,17,4,And that -- your wife mentioned feeling dizzy.  Do you -- do you recall that?,q,MS. NOSARI,start_answer
+206,431,17,6,"Yes.  From the impact, I got frightened.  And for the same condition of the diabetes, I felt dizzy.",a,THE WITNESS,start_question
+207,433,17,8,Did you ever ask that an ambulance come to the scene?,q,MS. NOSARI,start_answer
+208,435,17,10,No.,a,THE WITNESS,start_question
+209,436,17,11,How long were you -- how long did it take for everything to transpire from the time the accident occurred to the time you guys started to drive home?,q,MS. NOSARI,start_chat
+210,439,17,14,"Interpreter needs clarification.  Could you ask the question again, please.",side_chat,THE INTERPRETER,start_chat
+211,441,17,16,"Yeah, absolutely.",side_chat,MS. NOSARI,start_question
+212,443,17,18,How long did -- were you at the scene of the accident? so from when you were -- felt the impact to when you drove -- started driving home.,q,MS. NOSARI,start_answer
+213,446,17,21,We were there until the policeman arrived.  It must have been like 20 minutes on 78.,a,THE WITNESS,start_question
+214,448,17,23,"And then, once the police, they told you you could leave, how long did that take?",q,MS. NOSARI,start_answer
+215,450,17,25,"The policeman arrived.  But then, he also left so -- because the people who had -- who had called about the other car, he had gone over to verify about him.",a,THE WITNESS,start_question
+216,454,18,3,And did you ever talk to those people that were traveling behind you?,q,MS. NOSARI,start_answer
+217,456,18,5,No.,a,THE WITNESS,start_question
+218,457,18,6,Did you have any pain in your right shoulder or your right arm while you were at the scene of the accident?,q,MS. NOSARI,start_answer
+219,460,18,9,On the left shoulder.,a,THE WITNESS,start_question
+220,461,18,10,"So -- 'cause the emergency room records that, I guess, you went to the next day -- right?  You went to the emergency room the next day; is that correct?",q,MS. NOSARI,start_answer
+221,464,18,13,We went.  My wife took me to the hospital.,a,THE WITNESS,start_question
+222,465,18,14,Right.  The next day?,q,MS. NOSARI,start_answer
+223,466,18,15,Was it Saturday?  Was it Monday?,a,THE WITNESS,start_question
+224,467,18,16,Maybe it wasn't the next day.  Two days?,q,MS. NOSARI,start_answer
+225,468,18,17,I don't remember.  I don't remember.,a,THE WITNESS,start_question
+226,469,18,18,"The medical records we have say that you were admitted April 10th, so -- so that would be, I guess, two days after?",q,MS. NOSARI,start_answer
+227,472,18,21,Monday.  I didn't know.,a,THE WITNESS,start_question
+228,473,18,22,And those records from Reading Health say that you had right shoulder and right arm complaints.  Would you disagree that you had right shoulder complaints to the emergency room?,q,MS. NOSARI,start_answer
+229,478,19,1,Yes.,a,THE WITNESS,start_question
+230,479,19,2,"Were you able to communicate with them at all in terms of did someone speak Spanish, or did you speak any English with them?",q,MS. NOSARI,start_answer
+231,482,19,5,"They were looking for an interpreter, because they didn't know about that.",a,THE WITNESS,start_question
+232,484,19,7,So did you have -- did they ever get an interpreter for you?,q,MS. NOSARI,start_answer
+233,486,19,9,Yes.,a,THE WITNESS,start_question
+234,487,19,10,They did?,q,MS. NOSARI,start_answer
+235,488,19,11,"Yes.  The issue is:  I really didn't receive any treatment.  I just arrive, and then they just ask me a few little things.",a,THE WITNESS,start_question
+236,491,19,14,Did you tell them what -- where you were feeling pain?,q,MS. NOSARI,start_answer
+237,493,19,16,"I told them.  But the only thing that they ask is if I had medical insurance, and when I said no...",a,THE WITNESS,start_question
+238,495,19,18,"Did they do anything for you after that, or did they -- what did they do?",q,MS. NOSARI,start_answer
+239,497,19,20,No.,a,THE WITNESS,start_question
+240,498,19,21,Did you leave after that?,q,MS. NOSARI,start_answer
+241,499,19,22,Yes.  They called me and they said that I was fine. And then I left.,a,THE WITNESS,start_question
+242,501,19,24,Were you physically examined by a doctor?,q,MS. NOSARI,start_answer
+243,502,19,25,They just touched my shoulder.,a,THE WITNESS,start_question
+244,504,20,1,They did -- and -- and you're saying they touched your left shoulder?,q,MS. NOSARI,start_answer
+245,506,20,3,"Yes.  My wife was surprised when I told her that I had been already examined.  She said, ""So quickly?""",a,THE WITNESS,start_question
+246,508,20,5,How long do you think you were at the hospital for in total?,q,MS. NOSARI,start_answer
+247,510,20,7,It was like a half hour maybe.,a,THE WITNESS,start_question
+248,511,20,8,And they didn't do any type of diagnostic testing like an x-ray or a scan?,q,MS. NOSARI,start_answer
+249,513,20,10,No.,a,THE WITNESS,start_question
+250,514,20,11,Did they give you any medication?,q,MS. NOSARI,start_answer
+251,515,20,12,No.,a,THE WITNESS,start_question
+252,516,20,13,"And now, then, you also went to Berks Ortho -- Berks County Orthopedics, correct?",q,MS. NOSARI,start_answer
+253,518,20,15,Yes.,a,THE WITNESS,start_question
+254,519,20,16,Did anyone -- had you ever treated there before?,q,MS. NOSARI,start_answer
+255,520,20,17,No.,a,THE WITNESS,start_question
+256,521,20,18,And do you know who referred you to that location?,q,MS. NOSARI,start_answer
+257,522,20,19,My wife was the one.,a,THE WITNESS,start_question
+258,523,20,20,And you were getting therapy there; is that correct?,q,MS. NOSARI,start_answer
+259,525,20,22,Yes.,a,THE WITNESS,start_question
+260,526,20,23,How many times a week?,q,MS. NOSARI,start_answer
+261,527,20,24,Three times a week.,a,THE WITNESS,start_question
+262,528,20,25,"And when you would go to your appointments, how long would they last?",q,MS. NOSARI,start_answer
+263,531,21,2,"Twenty, twenty-five minutes.",a,THE WITNESS,start_question
+264,532,21,3,And how long did you treat there?,q,MS. NOSARI,start_answer
+265,533,21,4,Like for six months.,a,THE WITNESS,start_question
+266,534,21,5,"And during that time, were you referred to get an MRI?",q,MS. NOSARI,start_answer
+267,536,21,7,"Yes, they sent me.",a,THE WITNESS,start_question
+268,537,21,8,And what was your understanding of the results of the MRI?,q,MS. NOSARI,start_answer
+269,539,21,10,The MRI was done at -- what's the name?,a,THE WITNESS,start_question
+270,540,21,11,"I don't know -- I don't -- I don't necessarily care where it was done, but did they go over what the -- did any doctor go over the results of the MRI testing he had?",q,MS. NOSARI,start_answer
+271,543,21,14,"Yes.  The -- he did.  And then, they told me.  And then, they sent me to Hershey to continue with treatment.",a,THE WITNESS,start_question
+272,545,21,16,"What did they tell you?  And I don't -- they don't -- you don't have to use medical words.  Just generally, what was your understanding of what -- what it was showed?",q,MS. NOSARI,start_answer
+273,549,21,20,That I had like a fissure on the shoulder.,a,THE WITNESS,start_question
+274,550,21,21,"Fissure, okay.",q,MS. NOSARI,start_answer
+275,551,21,22,A fissure.,a,THE WITNESS,start_question
+276,552,21,23,"And then, when you were at Hershey, is that where they did an injection?",q,MS. NOSARI,start_answer
+277,554,21,25,Yes.,a,THE WITNESS,start_question
+278,556,22,1,Did you only have one into the shoulder?,q,MS. NOSARI,start_answer
+279,557,22,2,Yes.,a,THE WITNESS,start_question
+280,558,22,3,And was it helpful?,q,MS. NOSARI,start_answer
+281,559,22,4,What can I tell you?  For a month.,a,THE WITNESS,start_question
+282,560,22,5,Did you ever go back to get another one?,q,MS. NOSARI,start_answer
+283,561,22,6,No.  They were going to do another surgery.  They wanted to.,a,THE WITNESS,start_question
+284,563,22,8,They recommended surgery?,q,MS. NOSARI,start_answer
+285,564,22,9,Yes.,a,THE WITNESS,start_question
+286,565,22,10,And did you undergo surgery?,q,MS. NOSARI,start_answer
+287,566,22,11,No.,a,THE WITNESS,start_question
+288,567,22,12,And why not?,q,MS. NOSARI,start_answer
+289,568,22,13,"Because what the insurance had been paying for had already run out, and I don't have the money to pay for such a surgery.",a,THE WITNESS,start_question
+290,571,22,16,"So if you did have insurance to pay for the surgery, would you have received it?",q,MS. NOSARI,start_answer
+291,573,22,18,"Well, yes, because I can't be with this pain like this.",a,THE WITNESS,start_question
+292,575,22,20,Did any doctors ever give you pain medication?,q,MS. NOSARI,start_answer
+293,576,22,21,They gave me medicine.  I don't remember now what the medicine was.,a,THE WITNESS,start_question
+294,578,22,23,Was it just one medication?,q,MS. NOSARI,start_answer
+295,579,22,24,Yes.  Sorry.,a,THE WITNESS,start_question
+296,580,22,25,That's all right.  Did you ever take it?,q,MS. NOSARI,start_answer
+297,582,23,1,Yes.,a,THE WITNESS,start_question
+298,583,23,2,How long did you take it for?,q,MS. NOSARI,start_answer
+299,584,23,3,For a month.,a,THE WITNESS,start_question
+300,585,23,4,Why just one month?,q,MS. NOSARI,start_answer
+301,586,23,5,"Since I already mentioned that we ran out of insurance, I couldn't keep going to Hershey.",a,THE WITNESS,start_question
+302,588,23,7,So Hershey was the one that prescribed it?,q,MS. NOSARI,start_answer
+303,589,23,8,"Yes, Hershey prescribed it.",a,THE WITNESS,start_question
+304,590,23,9,"And I think -- I'm sorry.  I forgot to kind of go over this.  So obviously, you had left shoulder pain.  Did you have any other type of pain to other parts of your body after the accident?",q,MS. NOSARI,start_answer
+305,594,23,13,"In the back.  But after the accident, there was also in the back and also the neck.",a,THE WITNESS,start_question
+306,596,23,15,"And when you say ""back,"" what -- what part of the back?",q,MS. NOSARI,start_answer
+307,598,23,17,On the upper back.,a,THE WITNESS,start_question
+308,599,23,18,And did you ever have any pain that went down to the arm -- down into the arm?,q,MS. NOSARI,start_answer
+309,601,23,20,Yes.,a,THE WITNESS,start_question
+310,602,23,21,Can you describe that pain for me.,q,MS. NOSARI,start_answer
+311,603,23,22,"Sometimes, the pain is very strong.",a,THE WITNESS,start_question
+312,604,23,23,What does it feel like?  Can you describe it.,q,MS. NOSARI,start_answer
+313,605,23,24,Like an eight percent of pain.,a,THE WITNESS,start_question
+314,606,23,25,"It was at one out of ten, being one out of ten?",q,MS. NOSARI,start_answer
+315,608,24,1,Yes.,a,THE WITNESS,start_question
+316,609,24,2,So ten would be the most.  So it's about an eight?,q,MS. NOSARI,start_answer
+317,610,24,3,An eight percent.,a,THE WITNESS,start_question
+318,611,24,4,But -- but meaning eight out of ten?,q,MS. NOSARI,start_answer
+319,612,24,5,From one to eight.,a,THE WITNESS,start_question
+320,613,24,6,"When you say ""an eight,"" I just want to make sure we're on the same scale.  So is that using a scale of one being little to no pain and ten being the most amount of pain?",q,MS. NOSARI,start_answer
+321,617,24,10,That one.  Exactly.,a,THE WITNESS,start_question
+322,618,24,11,And do you ever have any like tingling or numbness or weakness in the left arm?,q,MS. NOSARI,start_answer
+323,620,24,13,I'm beginning to feel it.,a,THE WITNESS,start_question
+324,621,24,14,When did you start to feel it?,q,MS. NOSARI,start_answer
+325,622,24,15,"It's been like six, seven months since I began to feel it.",a,THE WITNESS,start_question
+326,624,24,17,And what specifically of those have you felt?,q,MS. NOSARI,start_answer
+327,625,24,18,"Sort of like -- you know, like tingling that comes down my arm.  Like it gets numb.",a,THE WITNESS,start_question
+328,627,24,20,"All right.  And were the -- when you were getting therapy, they were also treating the neck and back pain?",q,MS. NOSARI,start_answer
+329,629,24,22,I get massages.,a,THE WITNESS,start_question
+330,630,24,23,"So currently, as of today, where are you still feeling pain, if any?",q,MS. NOSARI,start_answer
+331,632,24,25,On the left shoulder.,a,THE WITNESS,start_question
+332,634,25,1,Do you still have any more neck or upper back pain?,q,MS. NOSARI,start_answer
+333,635,25,2,Yes.,a,THE WITNESS,start_question
+334,636,25,3,And do you still -- and you're still having the pain down the left arm?,q,MS. NOSARI,start_answer
+335,638,25,5,Yes.,a,THE WITNESS,start_question
+336,639,25,6,So nothing has resolved?,q,MS. NOSARI,start_answer
+337,640,25,7,No.,a,THE WITNESS,start_question
+338,641,25,8,How often do you get neck or upper back pain?,q,MS. NOSARI,start_answer
+339,642,25,9,Sorry?,a,THE WITNESS,start_question
+340,643,25,10,How often do you get neck and upper back pain?,q,MS. NOSARI,start_answer
+341,644,25,11,Oh.  How often?,a,THE WITNESS,start_question
+342,645,25,12,Yes.,q,MS. NOSARI,start_answer
+343,646,25,13,Daily.,a,THE WITNESS,start_question
+344,647,25,14,"Are the neck and upper back pain, do they come together, or do you get separate pain in those body parts?",q,MS. NOSARI,start_answer
+345,649,25,16,It's at the same time that I have the pain.,a,THE WITNESS,start_question
+346,650,25,17,And how often throughout the day do you have neck or upper back pain?,q,MS. NOSARI,start_answer
+347,652,25,19,"Well, they go away when I take the pill.  But all of this time, I've been already feeling like the tingling and the numbness.",a,THE WITNESS,start_question
+348,655,25,22,"In the neck and upper back, you feel tingling and numbness?",q,MS. NOSARI,start_answer
+349,657,25,24,"No, just on the arm.",a,THE WITNESS,start_question
+350,658,25,25,"Well, right now, I'm just talking about the neck and upper back.",q,MS. NOSARI,start_answer
+351,661,26,2,No.  The neck and the -- and the back is only the pain.,a,THE WITNESS,start_question
+352,663,26,4,Right.  Okay.  So how -- how -- you said you have that pain daily?,q,MS. NOSARI,start_answer
+353,665,26,6,Yes.,a,THE WITNESS,start_question
+354,666,26,7,How often throughout the day?,q,MS. NOSARI,start_answer
+355,667,26,8,"Well, like I said, it's a whole day.  It only goes away when I take the -- the pain medicine.",a,THE WITNESS,start_question
+356,669,26,10,So it's constant throughout the day unless you take pain medicine?,q,MS. NOSARI,start_answer
+357,671,26,12,Yes.,a,THE WITNESS,start_question
+358,672,26,13,And what pain medication are you taking?,q,MS. NOSARI,start_answer
+359,673,26,14,Tylenol.,a,THE WITNESS,start_question
+360,674,26,15,This is just over the counter?,q,MS. NOSARI,start_answer
+361,675,26,16,"Right, with a -- a prescription.",a,THE WITNESS,start_question
+362,676,26,17,"All right.  And then, the left shoulder, how often do you get that pain?",q,MS. NOSARI,start_answer
+363,678,26,19,Also daily.,a,THE WITNESS,start_question
+364,679,26,20,Also constant through the day?,q,MS. NOSARI,start_answer
+365,680,26,21,Yes.,a,THE WITNESS,start_question
+366,681,26,22,Does the Tylenol help with that?,q,MS. NOSARI,start_answer
+367,682,26,23,A little.,a,THE WITNESS,start_question
+368,683,26,24,Do you do any other home treatment for your left shoulder?,q,MS. NOSARI,start_answer
+369,686,27,1,"My wife, sometimes she'll just like rub me with menthol or vapor rub.",a,THE WITNESS,start_question
+370,688,27,3,Any other type of home treatment?,q,MS. NOSARI,start_answer
+371,689,27,4,No.,a,THE WITNESS,start_question
+372,690,27,5,"And then, how often do you get the numbness and tingling in the left arm?",q,MS. NOSARI,start_answer
+373,692,27,7,Often.,a,THE WITNESS,start_question
+374,693,27,8,Every day?,q,MS. NOSARI,start_answer
+375,694,27,9,Yeah.,a,THE WITNESS,start_question
+376,695,27,10,How often throughout the day?,q,MS. NOSARI,start_answer
+377,696,27,11,"It could be like in three hours, it goes away.",a,THE WITNESS,start_question
+378,697,27,12,About every three hours?,q,MS. NOSARI,start_answer
+379,698,27,13,Not every three hours.  It's like supposing.  Is that how you say it?,a,THE WITNESS,start_question
+380,700,27,15,"I don't -- I don't know what you're trying to say. I guess I'm just wondering how often you have that pain during the day.  Does it come, you know, only in the mornings, or does it come every few hours during the day?",q,MS. NOSARI,start_chat
+381,704,27,19,Is this tingling in the shoulder?,side_chat,MR. TIMONEY,start_chat
+382,706,27,21,Yes.,side_chat,MS. NOSARI,start_question
+383,708,27,23,This is just the tingling that you described.,q,MS. NOSARI,start_answer
+384,709,27,24,"Well, the tingling, I feel it all day.",a,THE WITNESS,start_question
+385,710,27,25,So it's constant throughout the day?,q,MS. NOSARI,start_answer
+386,712,28,1,Yes.,a,THE WITNESS,start_question
+387,713,28,2,"So every day, constantly throughout the day, you're having neck pain, upper back pain, left shoulder pain, and tingling -- and tingling and numbness in the arm?",q,MS. NOSARI,start_answer
+388,716,28,5,Yes.,a,THE WITNESS,start_question
+389,717,28,6,Any other parts of your body or complaints you had after this accident that we didn't discuss?,q,MS. NOSARI,start_answer
+390,719,28,8,"No, just the neck, the shoulder, and the back.",a,THE WITNESS,start_question
+391,720,28,9,"And then, other than -- all the -- did we discuss all the treatment you've had?  We discussed the ER we had; you had the therapy; and you went to Hershey and had the injection.",q,MS. NOSARI,start_answer
+392,724,28,13,"Well, you know, like the only other thing is -- would be like here.  And this part is kind of like the bone.  It has kind of -- has kind of gone deep in like a hole.  Like it's been like pushed in.",a,THE WITNESS,start_question
+393,728,28,17,So you're saying there's some type of like deformity to the shoulder?,q,MS. NOSARI,start_answer
+394,730,28,19,Yes.,a,THE WITNESS,start_question
+395,731,28,20,Can you describe that a little more.  Where is it? How big is it?,q,MS. NOSARI,start_answer
+396,733,28,22,"It's on the back of the shoulder, and it's just kind of like pushed in.",a,THE WITNESS,start_question
+397,735,28,24,All right.  And how large is this -- this pushed-in area?,q,MS. NOSARI,start_answer
+398,738,29,1,I'd say like three fingers.,a,THE WITNESS,start_question
+399,739,29,2,Have you ever taken any photographs of it?,q,MS. NOSARI,start_answer
+400,740,29,3,No.,a,THE WITNESS,start_question
+401,741,29,4,I'm gonna ask that you do that.,q,MS. NOSARI,start_chat
+402,742,29,5,I mean I -- I don't want to --,side_chat,MS. NOSARI,start_chat
+403,743,29,6,Yeah.,side_chat,MR. TIMONEY,start_chat
+404,744,29,7,Or maybe you could do it?,side_chat,MS. NOSARI,start_chat
+405,745,29,8,"I'm just trying -- it doesn't come up great in photographs.  Like you can see it in real life, but it's all skin-colored.  Do you know what I mean? So when you -- we can try it again, see if we can get it.",side_chat,MR. TIMONEY,start_question
+406,750,29,13,Would you mind showing me?,q,MS. NOSARI,start_chat
+407,751,29,14,Yeah.  We can show you.,side_chat,MR. TIMONEY,start_chat
+408,752,29,15,Yeah.,side_chat,THE WITNESS,start_chat
+409,753,29,16,Yeah.,side_chat,MR. TIMONEY,start_chat
+410,754,29,17,Okay.,side_chat,MS. NOSARI,start_chat
+411,755,29,18,It -- it is better to see.,side_chat,MR. TIMONEY,start_chat
+412,756,29,19,Sure.,side_chat,MS. NOSARI,start_question
+413,758,29,21,"Whenever you feel ready.  And I'll see if I can take a picture.  If I can't -- if it doesn't come out, then...",q,MS. NOSARI,start_chat
+414,761,29,24,Yeah.  It's -- like it's just -- so -- so if you look at the -- it's hard to see. It's right there.  It's like a divot compared to the other side.,side_chat,MR. TIMONEY,start_chat
+415,766,30,3,Okay.,side_chat,MS. NOSARI,start_chat
+416,767,30,4,You see how it doesn't come out really in the photo.,side_chat,MR. TIMONEY,start_chat
+417,769,30,6,"Oh, yeah.  Absolutely.",side_chat,MS. NOSARI,start_question
+418,771,30,8,So you're -- you're saying it's right here in this area?,q,MS. NOSARI,start_answer
+419,773,30,10,Exactly.,a,THE WITNESS,start_chat
+420,774,30,11,Can you put your finger on it.  Yeah.,side_chat,MR. TIMONEY,start_chat
+421,776,30,13,"And I'm just gonna describe it for the record.  So he's alleging an area about three-finger width that's just below the -- the top, on the collarbone area of the shoulder.",side_chat,MS. NOSARI,start_chat
+422,780,30,17,Yes.,side_chat,THE WITNESS,start_chat
+423,781,30,18,Okay.  Thanks.  Let me just try to take a photo and then that way --,side_chat,MS. NOSARI,start_chat
+424,783,30,20,That's fine.,side_chat,MR. TIMONEY,start_chat
+425,784,30,21,Thank you.,side_chat,MS. NOSARI,start_question
+426,786,30,23,"And, of course, it's your testimony that that was not there prior to the accident, correct?",q,MS. NOSARI,start_answer
+427,788,30,25,No.,a,THE WITNESS,start_question
+428,790,31,1,"So, again, other than the treatment that we discussed -- so you had the emergency room visit, you had the therapy, you had the MRIs, and you had the injection at Hershey -- any other treatment that you had that we didn't discuss?",q,MS. NOSARI,start_answer
+429,795,31,6,No.,a,THE WITNESS,start_question
+430,796,31,7,Do you have any future treatment planned like you have a doctor's visit scheduled or you're planning to make a doctor's visit?,q,MS. NOSARI,start_answer
+431,799,31,10,I'd like to.  I don't want to go through this pain.,a,THE WITNESS,start_question
+432,800,31,11,You would like to?,q,MS. NOSARI,start_answer
+433,801,31,12,Of course.,a,THE WITNESS,start_question
+434,802,31,13,But you haven't scheduled anything?,q,MS. NOSARI,start_answer
+435,803,31,14,No.,a,THE WITNESS,start_question
+436,804,31,15,"I want to talk a little bit about any ways your life has been affected by the injuries you're alleging, so did -- did -- anything you did prior to the accident that you notice you can't do anymore or you can't do as well.",q,MS. NOSARI,start_answer
+437,809,31,20,"Like bathing, you know, I struggle doing that.  I can't reach in the back.  I do also struggle when I have to use my left arm to use on my head.  Also, at home, I used to help with the cleaning to my wife, but I just can't anymore.",a,THE WITNESS,start_question
+438,814,31,25,So bathing -- what is difficult with bathing is reaching your back?,q,MS. NOSARI,start_answer
+439,817,32,2,Yes.,a,THE WITNESS,start_question
+440,818,32,3,And is that using your left arm?,q,MS. NOSARI,start_answer
+441,819,32,4,"When I do, yeah.",a,THE WITNESS,start_question
+442,820,32,5,"And then, you mentioned just using the arm in general.  What kind of things do you notice that you can't do with your left arm?",q,MS. NOSARI,start_answer
+443,823,32,8,I used to paint the house or even to help my wife to mop.,a,THE WITNESS,start_question
+444,825,32,10,Are you left- or right-handed?,q,MS. NOSARI,start_answer
+445,826,32,11,"To write, the right one.",a,THE WITNESS,start_question
+446,827,32,12,Do you have any lifting restriction with regard to the left arm?,q,MS. NOSARI,start_answer
+447,829,32,14,Yes.,a,THE WITNESS,start_question
+448,830,32,15,What?,q,MS. NOSARI,start_answer
+449,831,32,16,Heavy things.,a,THE WITNESS,start_question
+450,832,32,17,What's -- what is -- can you give me either a weight amount or an example of something you wouldn't lift?,q,MS. NOSARI,start_answer
+451,835,32,20,"Twenty pounds.  Like before, I used to lift up above.  I can't.",a,THE WITNESS,start_question
+452,837,32,22,So 20 or more pounds?,q,MS. NOSARI,start_answer
+453,838,32,23,From 20 or more pounds.,a,THE WITNESS,start_question
+454,839,32,24,"And are you alleging any actual restriction in how much you can move the shoulder in terms of like:  Do you have full range of motion, or are you alleging a restriction in your -- in your range of motion?",q,MS. NOSARI,start_answer
+455,844,33,3,"Move it completely, no.",a,THE WITNESS,start_question
+456,845,33,4,So what is the -- and I understand moving it can cause pain; is that correct?,q,MS. NOSARI,start_answer
+457,847,33,6,Yes.,a,THE WITNESS,start_question
+458,848,33,7,"But do you actually have a -- a limit in terms of moving it that you actually physically can't move it past a certain point, either if it's up or down or back?",q,MS. NOSARI,start_answer
+459,851,33,10,Right now I'm on my limit.,a,THE WITNESS,start_question
+460,852,33,11,"Well, can you describe for me if you have any actual physical limit in terms of like lifting it up.  Do you have any limit in actually physically lifting your arm up?  I don't want you to try to -- I don't want you to hurt yourself trying to do it.  I'm just asking if -- you know, if you actually physically can't move your arm or do something with your arm that you were able to before.",q,MS. NOSARI,start_answer
+461,859,33,18,Yes.,a,THE WITNESS,start_question
+462,860,33,19,What is your limitation?,q,MS. NOSARI,start_answer
+463,861,33,20,Half from what before I used to lift.,a,THE WITNESS,start_question
+464,862,33,21,"Well, I don't mean -- so let me just try to explain it in a better way.  So -- so what I mean is:  I understand you have pain with doing things with your arm as to what you've testified to, lifting it, using it.  I understand that.  I'm just asking if there's actually a physical restriction in -- in terms of the movement of your arm, so you can't move your arm past a certain point, whether it be if you're moving it up or back or out, that you've noticed.",q,MS. NOSARI,start_answer
+465,872,34,5,"Let's say if I have to change a lightbulb.  So if I'm going to be using my left arm in order to replace that lightbulb, I can't really have it for that long in order to do it.  And other times, when my arm goes numb, then even I drop things from my hand.",a,THE WITNESS,start_question
+466,877,34,10,Anything else you want to tell me about in terms of using your left -- your left arm?,q,MS. NOSARI,start_answer
+467,879,34,12,"Well, this I mentioned already.  You know, as I've been saying, I'm struggling with all of these.  It's just that things that I used to do before, I'm not able to do it.  Things that I used to help out my wife with, I'm not able to help her cleaning or even like vacuuming or doing anything like that.  I'm just not able.  Things that used to take me a little bit of time to do now take me longer.",a,THE WITNESS,start_question
+468,886,34,19,Any things in particular that -- like examples you can give me other than what you've already told me?,q,MS. NOSARI,start_answer
+469,888,34,21,No.,a,THE WITNESS,start_question
+470,889,34,22,And did -- your wife testified that you guys would go dancing about twice a month prior to the accident and that you no longer do that.  Would you agree with that testimony?,q,MS. NOSARI,start_answer
+471,894,35,1,Yes.,a,THE WITNESS,start_question
+472,895,35,2,Is that only because of her injuries that she's alleging or also because you don't -- because of your injuries?,q,MS. NOSARI,start_answer
+473,898,35,5,"More than anything, for her injuries.",a,THE WITNESS,start_question
+474,899,35,6,And would you also agree with her testimony about having to pay a friend to clean the home?,q,MS. NOSARI,start_answer
+475,901,35,8,Yes.,a,THE WITNESS,start_question
+476,902,35,9,"You agree with the amount she testified to, the 50 to 75 dollars and that it's about every week?",q,MS. NOSARI,start_answer
+477,904,35,11,Yes.,a,THE WITNESS,start_question
+478,905,35,12,All right.  Were there any other like hobbies or interests like dancing that -- that you had before the accident that were -- you're -- you're alleging are affected by the injuries?,q,MS. NOSARI,start_answer
+479,909,35,16,My hobbies were just to remodel the house.  That's how I would spend my time.,a,THE WITNESS,start_question
+480,911,35,18,And what kind of remodeling would you do around your house?,q,MS. NOSARI,start_answer
+481,913,35,20,"Like painting, whenever she just changes her mind about that.  So like I'm fixing the basement.",a,THE WITNESS,start_question
+482,915,35,22,Painting the basement?,q,MS. NOSARI,start_answer
+483,916,35,23,Yes.,a,THE WITNESS,start_question
+484,917,35,24,"And you mentioned ""fixing.""  Are you doing some other type of repairs in the basement?",q,MS. NOSARI,start_answer
+485,920,36,1,"Yeah, like fixing the basement.",a,THE WITNESS,start_question
+486,921,36,2,Like what?  What in the basement needed to be fixed?,q,MS. NOSARI,start_answer
+487,923,36,4,So what we call is -- like we just cover whatever the wall is like has holes or spots in it.  We just kind of even it out.  We just slap -- slap on it and finish it.,a,THE WITNESS,start_question
+488,926,36,7,Like fixing holes or scrapes or scratches on the wall?,q,MS. NOSARI,start_answer
+489,928,36,9,Like that.,a,THE WITNESS,start_question
+490,929,36,10,"What else around the house, if anything?",q,MS. NOSARI,start_answer
+491,930,36,11,Just that.,a,THE WITNESS,start_question
+492,931,36,12,Did you ever have to pay anyone to come help you with your house remodeling after the accident?,q,MS. NOSARI,start_answer
+493,933,36,14,I've been doing it by myself whichever way I can.,a,THE WITNESS,start_question
+494,934,36,15,Anything else you want to tell me about in terms of effects on your life or lifestyle that we haven't already spoken about?,q,MS. NOSARI,start_answer
+495,937,36,18,No.  It's fine.,a,THE WITNESS,start_question
+496,938,36,19,"And then, prior to this accident occurring, had you ever -- let's start with your neck -- have you ever injured your neck before?",q,MS. NOSARI,start_answer
+497,941,36,22,No.,a,THE WITNESS,start_question
+498,942,36,23,Ever injure your upper back before?,q,MS. NOSARI,start_answer
+499,943,36,24,No.,a,THE WITNESS,start_question
+500,944,36,25,Had you ever had to go to a doctor for any type of complaints in the neck or upper back before this accident?,q,MS. NOSARI,start_answer
+501,947,37,2,No.,a,THE WITNESS,start_question
+502,948,37,3,Ever injure your left shoulder or left arm before this accident?,q,MS. NOSARI,start_answer
+503,950,37,5,No.,a,THE WITNESS,start_question
+504,951,37,6,Ever have to go to a doctor for left shoulder or left arm pain prior to this accident?,q,MS. NOSARI,start_answer
+505,953,37,8,No.,a,THE WITNESS,start_question
+506,954,37,9,"The tingling and numbness you described in your left arm, have you ever had that feeling prior to this accident?",q,MS. NOSARI,start_answer
+507,957,37,12,No.,a,THE WITNESS,start_chat
+508,958,37,13,"All right.  I don't think I have any other questions, then.",side_chat,MS. NOSARI,start_chat
+509,960,37,15,Just a few clarifications.,side_chat,MR. TIMONEY,start_question
+510,962,37,17,"In your physical therapy records, it said something about cutting food.  Do you recall what that's about?",q,MR. TIMONEY,start_answer
+511,964,37,19,"Well, sometimes when I'm cutting my food, you know, like my arm just kind of gets numb.  I don't do it as I used to.  There are times that I just forget, that I just go to grab the glass, and all of a sudden, it just slips right out.",a,THE WITNESS,start_question
+512,969,37,24,"And today, I saw your wife helped you with your shirt.  Are there -- does your wife have to help you get dressed for certain things?",q,MR. TIMONEY,start_answer
+513,973,38,2,"Yes, getting dressed.  And also, when I'm taking a bath, you know, she's the one who's gonna help me with my back.",a,THE WITNESS,start_question
+514,976,38,5,"And also, in the medical records, there was something about burning pain.  Do you recall anything about that?",q,MR. TIMONEY,start_answer
+515,979,38,8,"The shoulder, sometimes I feel like fire.",a,THE WITNESS,start_chat
+516,980,38,9,Thank you.,side_chat,MR. TIMONEY,start_question
+517,982,38,11,Are you only requiring help from your wife in terms of taking on and off a shirt?  Are there -- or are there other aspects of dressing that you require help with?,q,MS. NOSARI,start_answer
+518,985,38,14,"No.  Whenever I have to like put on the shirt or take it off, she helps me with that.  Or whenever I get itchy on my back, she helps me with that.",a,THE WITNESS,start_question
+519,988,38,17,Itching on your back?,q,MS. NOSARI,start_answer
+520,989,38,18,Yes.,a,THE WITNESS,start_question
+521,990,38,19,So the dressing is only related to like taking off and on a shirt?,q,MS. NOSARI,start_answer
+522,992,38,21,"To put on and take it off, the shirt.",a,THE WITNESS,start_question
+523,993,38,22,And the burning pain is -- you only feel in the left shoulder?,q,MS. NOSARI,start_answer
+524,995,38,24,This is the back part of the shoulder.,a,THE WITNESS,start_question
+525,996,38,25,The back part of the shoulder?,q,MS. NOSARI,start_answer
+526,998,39,1,"Where I show you, where it was like kind of like on the hole.",a,THE WITNESS,start_question
+527,1000,39,3,The -- in the --,q,MS. NOSARI,start_chat
+528,1001,39,4,Uh-huh.,side_chat,THE WITNESS,start_chat
+529,1002,39,5,All right.  No other questions.,side_chat,MS. NOSARI,is brackets
+530,1004,39,7,(Witness excused.),brackets,,is brackets
+531,1005,39,8,"(Deposition ended at 1:37 p.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+532,1040,40,18,__________________________ Ian Monahan and Notary Public,symbols,,end

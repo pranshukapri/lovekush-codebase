@@ -1,0 +1,397 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,95,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,97,4,10,-  -  -,symbols,,start_question
+3,99,4,12,"Good morning, Mr. Labus.",q,MR. GORODETZER,start_answer
+4,100,4,13,Good morning.,a,THE WITNESS,start_question
+5,101,4,14,My name is Aaron Gorodetzer.  I'm an attorney and I represent Sherrilyn Hensley.  You understand that?,q,MR. GORODETZER,start_answer
+6,103,4,16,Yes.,a,THE WITNESS,start_question
+7,104,4,17,"And just for the record, your father, Gregory Labus, is sitting in the room with us today?",q,MR. GORODETZER,start_answer
+8,106,4,19,Yes.,a,THE WITNESS,start_question
+9,107,4,20,"And per representation of your counsel, he is not going to be called as a witness in this matter?",q,MR. GORODETZER,start_chat
+10,109,4,22,That's correct.,side_chat,MS. BARBETTA,start_chat
+11,110,4,23,Okay.,side_chat,MR. GORODETZER,start_question
+12,112,4,25,"Mr. Labus, have you ever given a deposition before?",q,MR. GORODETZER,start_answer
+13,114,5,1,"No, I have not.",a,THE WITNESS,start_question
+14,115,5,2,All right.  I'm gonna give you some basic instructions.  A deposition is a question-and-answer session.  Do you understand that?,q,MR. GORODETZER,start_answer
+15,118,5,5,"Yes, I do.",a,THE WITNESS,start_question
+16,119,5,6,"And we have a court reporter here who's taking down our -- the questions and answers, so one of the things I'd ask you to do to keep the record clean is that you wait 'til I finish asking my question before you give your answers, so that way we keep the record clean.  Do you understand that?",q,MR. GORODETZER,start_answer
+17,125,5,12,"Yes, I do.",a,THE WITNESS,start_question
+18,126,5,13,"One of the things you've done well so far is you've given verbal responses.  So while I might understand a ""uh-huh"" or a head nod or a -- I'd ask that if the answer requires a verbal response, that you give a verbal response.  Do you understand that?",q,MR. GORODETZER,start_answer
+19,131,5,18,Yes.,a,THE WITNESS,start_question
+20,132,5,19,"And I'm sure if you don't, somebody will say, ""Yes or no?"" and get you to -- trigger you to do it. Also, I'd ask you not to anticipate where I'm going with the question.  You might think I'm going one way with the question, and I might totally change my line of thinking and ask a completely different question, which, if you anticipate, you might give the right answer to the wrong question.  You understand that?",q,MR. GORODETZER,start_answer
+21,141,6,2,"Yes, I understand.",a,THE WITNESS,start_question
+22,142,6,3,"If at any point -- if I ask a question, I'm gonna presume you understood it if you give an answer.  If you don't understand a -- a question or you need it repeated, please feel free to do that.  Do you --",q,MR. GORODETZER,start_answer
+23,146,6,7,I understand.,a,THE WITNESS,start_question
+24,147,6,8,-- understand that?,q,MR. GORODETZER,start_answer
+25,148,6,9,"I'm sorry.  Yes, I understand that.",a,THE WITNESS,start_question
+26,149,6,10,"You also understand that your testimony today is -- while we're in this informal setting, is under oath as if we were sitting inside a courtroom, correct?",q,MR. GORODETZER,start_answer
+27,152,6,13,Yes.,a,THE WITNESS,start_question
+28,153,6,14,"And we're not here to ask you to guess about anything today, but if you can estimate something, just let me know that you're estimating.  Do you understand that?",q,MR. GORODETZER,start_answer
+29,157,6,18,"Yes, I -- I do understand that.",a,THE WITNESS,start_question
+30,158,6,19,"Are you under -- have you taken any drugs, alcohol, or any meditations that would prevent you from providing testimony today?",q,MR. GORODETZER,start_answer
+31,161,6,22,"No, I have not.",a,THE WITNESS,start_question
+32,162,6,23,"And you understand that we're here today regarding a March 3rd, 2017 automobile accident?",q,MR. GORODETZER,start_answer
+33,164,6,25,Yes.,a,THE WITNESS,start_question
+34,166,7,1,"And it's my understanding that that accident happened at the intersection of Route 202 and Oakland Road in Chadds Ford Township, Pennsylvania?",q,MR. GORODETZER,start_answer
+35,169,7,4,Yes.,a,THE WITNESS,start_question
+36,170,7,5,"And it would be a fair statement on -- on that date, you were operating a 2005 Chevy Malibu?",q,MR. GORODETZER,start_answer
+37,172,7,7,"Yes, that's correct.",a,THE WITNESS,start_question
+38,173,7,8,And the color of that vehicle was white?,q,MR. GORODETZER,start_answer
+39,174,7,9,Silver.,a,THE WITNESS,start_question
+40,175,7,10,"Silver.  And the owner of that vehicle would be your father, Gregory Labus?",q,MR. GORODETZER,start_answer
+41,177,7,12,That is correct.,a,THE WITNESS,start_question
+42,178,7,13,And you were driving it permissively?,q,MR. GORODETZER,start_answer
+43,179,7,14,Yes.,a,THE WITNESS,start_question
+44,180,7,15,"And on that date, the car was in good working order?",q,MR. GORODETZER,start_answer
+45,182,7,17,Yes.,a,THE WITNESS,start_question
+46,183,7,18,No mechanical issues that you were aware of?,q,MR. GORODETZER,start_answer
+47,184,7,19,Not to my knowledge.,a,THE WITNESS,start_question
+48,185,7,20,And it's my understanding that the accident happened approximately 6:00 p.m. that night?,q,MR. GORODETZER,start_answer
+49,187,7,22,"Yes, I believe so.",a,THE WITNESS,start_question
+50,188,7,23,And you were traveling on your way to work at Carrabba's?,q,MR. GORODETZER,start_answer
+51,190,7,25,Yes.,a,THE WITNESS,start_question
+52,192,8,1,"At that time, what was your job duties at Carrabba's?",q,MR. GORODETZER,start_answer
+53,194,8,3,I was a host.,a,THE WITNESS,start_question
+54,195,8,4,And how long had you been a host at Carrabba's prior to the accident?,q,MR. GORODETZER,start_answer
+55,197,8,6,Between one and one and a half years approximately. I'm estimating.,a,THE WITNESS,start_question
+56,199,8,8,And what were your hours at Carrabba's?,q,MR. GORODETZER,start_answer
+57,200,8,9,"My hours were usually from 2:00 or 3:00 in the afternoon to about 10:00 or 11:00 in the evening.  I'd like to also note that that was not always the case. Sometimes, you might come in around 5:00 or 6:00.",a,THE WITNESS,start_question
+58,204,8,13,"On March 3rd, do you know what time you were supposed to be at Carrabba's?",q,MR. GORODETZER,start_answer
+59,206,8,15,I don't recall exactly.,a,THE WITNESS,start_question
+60,207,8,16,Do you still work at Carrabba's?,q,MR. GORODETZER,start_answer
+61,208,8,17,I do not.,a,THE WITNESS,start_question
+62,209,8,18,When did you stop working at Carrabba's?,q,MR. GORODETZER,start_answer
+63,210,8,19,Last summer.,a,THE WITNESS,start_question
+64,211,8,20,So the summer of 2018?,q,MR. GORODETZER,start_answer
+65,212,8,21,Correct.,a,THE WITNESS,start_question
+66,213,8,22,And why did you stop working at Carrabba's?,q,MR. GORODETZER,start_answer
+67,214,8,23,I started working a different job.,a,THE WITNESS,start_question
+68,215,8,24,And what's your -- what was your new job?,q,MR. GORODETZER,start_answer
+69,216,8,25,Math tutoring.,a,THE WITNESS,start_question
+70,218,9,1,Who was your supervisor at the Carrabba's?,q,MR. GORODETZER,start_chat
+71,219,9,2,At the time of the accident?,side_chat,MS. BARBETTA,start_chat
+72,220,9,3,At the time of the accident.,side_chat,MR. GORODETZER,start_chat
+73,222,9,5,I'm not sure how to answer this question.  There could be two answers.,side_chat,THE WITNESS,start_question
+74,225,9,8,"Well, okay.  Let me try and flesh that out.  Who would have been in charge of your work schedule at Carrabba's at the time of the accident?",q,MR. GORODETZER,start_answer
+75,228,9,11,"Primarily, the assistant manager, and then, of course, the manager and owner also.",a,THE WITNESS,start_question
+76,230,9,13,Do you -- are -- do you know if the manager slash owner is still the same today as it was back on the date of accident?,q,MR. GORODETZER,start_answer
+77,233,9,16,I don't know for sure.,a,THE WITNESS,start_question
+78,234,9,17,"Well, what was the name of the person?",q,MR. GORODETZER,start_answer
+79,235,9,18,I -- I don't recall her last name.  I do recall her first name.,a,THE WITNESS,start_question
+80,237,9,20,What was her first name?,q,MR. GORODETZER,start_answer
+81,238,9,21,Eleanor.,a,THE WITNESS,start_question
+82,239,9,22,"And this would have been the Carrabba's in the shopping center right on 202, before you get to Route 1?",q,MR. GORODETZER,start_answer
+83,241,9,24,Yes.,a,THE WITNESS,start_question
+84,242,9,25,"So if I call it the Route 1, 202 Carrabba's, you'd know what I was talking about?",q,MR. GORODETZER,start_answer
+85,245,10,2,I would.,a,THE WITNESS,start_question
+86,246,10,3,"Do you recall if you were late for work on March 3rd, 2017?",q,MR. GORODETZER,start_answer
+87,248,10,5,I don't recall exactly.,a,THE WITNESS,start_question
+88,249,10,6,"And on March 3rd, 2017, you were on your way to the Route 1, 202 Carabba's, traveling from your home -- your address at the time of 143 Lydia Lane in West Chester?",q,MR. GORODETZER,start_answer
+89,252,10,9,"Yes, that's correct.",a,THE WITNESS,start_question
+90,253,10,10,"And do you recall being involved in a motor vehicle accident on March 3rd, 2017?",q,MR. GORODETZER,start_answer
+91,255,10,12,Yes.,a,THE WITNESS,start_question
+92,256,10,13,"And could you tell me -- describe to me, in your words, what happened.",q,MR. GORODETZER,start_answer
+93,258,10,15,"I was coming from home, on my way to work.  And as I was approaching the light, I was trying to get through a yellow so that I could get to work.",a,THE WITNESS,start_question
+94,261,10,18,How fast were you traveling?,q,MR. GORODETZER,start_answer
+95,262,10,19,I don't recall exactly.  I'd be estimating that it was somewhere around 60 miles per hour.,a,THE WITNESS,start_question
+96,264,10,21,And the posted speed limit on Route 202 Southbound in that direction would be 45 miles an hour?,q,MR. GORODETZER,start_answer
+97,266,10,23,"I don't know for sure, but I believe so.  I believe that's correct.",a,THE WITNESS,start_question
+98,268,10,25,"Do you recall:  Were you accelerating to try and get through the yellow light, or were you slowing down or keeping a steady speed?",q,MR. GORODETZER,start_answer
+99,272,11,3,I don't remember exactly.,a,THE WITNESS,start_question
+100,273,11,4,"So as you were trying to get through the yellow light, what happens next?",q,MR. GORODETZER,start_answer
+101,275,11,6,"As I'm getting under the light, the other car was also going under the light, and we T-boned.",a,THE WITNESS,start_question
+102,277,11,8,"And when you say ""T-boned,"" what part of your car struck the other vehicle?",q,MR. GORODETZER,start_answer
+103,279,11,10,"My front end of my car struck the -- the passenger side of their car, the broad side.",a,THE WITNESS,start_question
+104,281,11,12,And did your airbags go off?,q,MR. GORODETZER,start_answer
+105,282,11,13,My airbag did go off.,a,THE WITNESS,start_question
+106,283,11,14,"And prior to impact, do you recall striking your brakes?",q,MR. GORODETZER,start_answer
+107,285,11,16,"I do believe I recall stepping on the brakes prior to impact.  There was a very short amount of time to do so, but I do remember trying to step on the brakes.",a,THE WITNESS,start_question
+108,288,11,19,How much time elapsed from the time you first saw the other vehicle 'til the time of impact?,q,MR. GORODETZER,start_answer
+109,290,11,21,I don't know.,a,THE WITNESS,start_question
+110,291,11,22,Would you say it was less than five seconds?,q,MR. GORODETZER,start_answer
+111,292,11,23,I can't say.  I don't remember.  I'm not sure.,a,THE WITNESS,start_question
+112,293,11,24,"So after the impact, tell me what happened.",q,MR. GORODETZER,start_answer
+113,294,11,25,"After the impact, well, the -- the cars sort of spun to what would have been my right.  And didn't feel very well.  Felt -- you know, it wasn't fun. And then, I tried to get out of my car, and the car door needed some force getting open.  Some Samaritans came out of their cars and helped myself and, I believe, her out of her car.  Well, at least I know a Samaritan helped me get out of my car.  I guess I don't know about...",a,THE WITNESS,start_question
+114,304,12,9,"At the time of the accident, did you have a cell phone?",q,MR. GORODETZER,start_answer
+115,306,12,11,I did.,a,THE WITNESS,start_question
+116,307,12,12,And were you using your cell phone at any time prior to impact?,q,MR. GORODETZER,start_answer
+117,309,12,14,"No, I was not.",a,THE WITNESS,start_question
+118,310,12,15,Do you recall what -- do you still have the same cell phone number?,q,MR. GORODETZER,start_answer
+119,312,12,17,Yes.,a,THE WITNESS,start_question
+120,313,12,18,And what is that?,q,MR. GORODETZER,start_answer
+121,314,12,19,(484)631-6164.,a,THE WITNESS,start_question
+122,315,12,20,And do you know who the carrier for that cell phone was at the time of the accident?,q,MR. GORODETZER,start_answer
+123,317,12,22,I don't.,a,THE WITNESS,start_question
+124,318,12,23,Who's your current carrier?,q,MR. GORODETZER,start_answer
+125,319,12,24,I don't know.,a,THE WITNESS,start_question
+126,320,12,25,You don't know who your cell phone carrier is?,q,MR. GORODETZER,start_answer
+127,322,13,1,"I -- I don't know, actually.",a,THE WITNESS,start_question
+128,323,13,2,Who pays for your cell phone?,q,MR. GORODETZER,start_answer
+129,324,13,3,My father.,a,THE WITNESS,start_question
+130,325,13,4,Would your father know who your cell phone provider was at the time of the accident?,q,MR. GORODETZER,start_answer
+131,327,13,6,I believe so.,a,THE WITNESS,start_question
+132,328,13,7,All right.,q,MR. GORODETZER,start_chat
+133,329,13,8,You see that?  You said he wasn't gonna be a witness.,side_chat,MR. GORODETZER,start_chat
+134,331,13,10,We can provide the cell phone provider.,side_chat,MS. BARBETTA,start_chat
+135,333,13,12,"Yeah.  I appreciate it. Yeah.  I would ask that just -- I will -- certainly, once I get the transcript, I -- I always hate when somebody tries to make me remember what I want after a deposition, so I will shoot you a follow-up letter.",side_chat,MR. GORODETZER,start_chat
+136,338,13,17,"Just send me an email, and I'll send you a --",side_chat,MS. BARBETTA,start_chat
+137,340,13,19,Perfect.,side_chat,MR. GORODETZER,start_chat
+138,341,13,20,-- information on it.,side_chat,MS. BARBETTA,start_chat
+139,342,13,21,"It may have been part of my document request anyway, so whatever -- the cell phone records, texts, data, voice.",side_chat,MR. GORODETZER,start_chat
+140,345,13,24,"Well, usually, you would have to subpoena those.  If we don't have them, we don't provide them.",side_chat,MS. BARBETTA,start_chat
+141,349,14,2,"Okay.  Sometimes, it's -- they can just go back into their logs and print that stuff.",side_chat,MR. GORODETZER,start_chat
+142,352,14,5,Yeah.,side_chat,MS. BARBETTA,start_chat
+143,353,14,6,"If you want me to subpoena it, I'll subpoena it.  That's fine, but --",side_chat,MR. GORODETZER,start_chat
+144,355,14,8,Okay.,side_chat,MS. BARBETTA,start_question
+145,357,14,10,"And at the scene, tell me -- you got out of your car.  What happens next?",q,MR. GORODETZER,start_answer
+146,359,14,12,"I was -- walked over to a sidewalk, and I sat down. Some of the Samaritans asked me how I was doing, if I was okay.  And then shortly, there were police and an ambulance on scene.",a,THE WITNESS,start_question
+147,363,14,16,Do you have the names of any of these Samaritans?,q,MR. GORODETZER,start_answer
+148,364,14,17,I do not.,a,THE WITNESS,start_question
+149,365,14,18,Did any of them leave you their contact information?,q,MR. GORODETZER,start_answer
+150,367,14,20,No.,a,THE WITNESS,start_question
+151,368,14,21,Did you say -- what did you tell the Samaritans?,q,MR. GORODETZER,start_answer
+152,369,14,22,"I answered their questions about how I was feeling and if I was okay.  I said, ""I'm okay, I think.""",a,THE WITNESS,start_question
+153,371,14,24,Were you injured at all in this accident?,q,MR. GORODETZER,start_answer
+154,372,14,25,"Not severely.  I had a slight concussion and some cuts from the broken glass, and I think that that was the extent of any injury.",a,THE WITNESS,start_question
+155,376,15,3,Did you file a medical claim through any insurance company -- or any auto insurance?,q,MR. GORODETZER,start_answer
+156,378,15,5,I don't know.,a,THE WITNESS,start_chat
+157,379,15,6,I'm not aware of any claim.,side_chat,MS. BARBETTA,start_chat
+158,380,15,7,Okay.,side_chat,MR. GORODETZER,start_question
+159,382,15,9,So you're sitting on the sidewalk.  What happens next?,q,MR. GORODETZER,start_answer
+160,384,15,11,"Eventually, a police officer comes up to me and wants to know if he can talk to me and ask me some questions.",a,THE WITNESS,start_question
+161,387,15,14,Then what happens?,q,MR. GORODETZER,start_answer
+162,388,15,15,I answered the police officer's questions.,a,THE WITNESS,start_question
+163,389,15,16,And what did you tell the police officer?,q,MR. GORODETZER,start_answer
+164,390,15,17,I don't remember exactly.,a,THE WITNESS,start_question
+165,391,15,18,"All right.  After you get done talking to the police officer, what happens next?",q,MR. GORODETZER,start_answer
+166,393,15,20,"I waited on the curb for a couple more minutes. And then, eventually, an ambulance was there, and some of the EMT people spoke to me.  And then, I was transported to a hospital.",a,THE WITNESS,start_question
+167,397,15,24,Did either of your parents arrive on the scene?,q,MR. GORODETZER,start_answer
+168,398,15,25,No.,a,THE WITNESS,start_question
+169,400,16,1,So you took an ambulance to the hospital?,q,MR. GORODETZER,start_answer
+170,401,16,2,Correct.,a,THE WITNESS,start_question
+171,402,16,3,Which hospital did you go to?,q,MR. GORODETZER,start_answer
+172,403,16,4,I don't remember.,a,THE WITNESS,start_question
+173,404,16,5,"At any point after the accident, prior to going to the hospital, did you contact your parents?",q,MR. GORODETZER,start_answer
+174,406,16,7,"Can you repeat the -- can you repeat the question, please.",a,THE WITNESS,start_question
+175,408,16,9,"Yes, sir.  At any time prior to leaving the scene to go to the hospital, did you contact your parents?",q,MR. GORODETZER,start_answer
+176,410,16,11,I don't believe I did.,a,THE WITNESS,start_question
+177,411,16,12,"So other than the Samaritans and the police officer, did you speak to anybody else at the scene?",q,MR. GORODETZER,start_answer
+178,413,16,14,The EMT people.,a,THE WITNESS,start_question
+179,414,16,15,"EMT people.  Besides them, anybody else?",q,MR. GORODETZER,start_answer
+180,415,16,16,No.,a,THE WITNESS,start_question
+181,416,16,17,You didn't speak to my client at all at the scene?,q,MR. GORODETZER,start_answer
+182,417,16,18,That is correct.,a,THE WITNESS,start_question
+183,418,16,19,Have you ever spoken to my client?,q,MR. GORODETZER,start_answer
+184,419,16,20,I have not.,a,THE WITNESS,start_question
+185,420,16,21,Do you know if she was injured in this accident?,q,MR. GORODETZER,start_answer
+186,421,16,22,"I don't know for sure.  From what I've been told, she --",a,THE WITNESS,start_chat
+187,423,16,24,Objection. I don't want you to answer anything that you've been told by Counsel --,side_chat,MS. BARBETTA,start_chat
+188,427,17,2,Yes.  Correct.  So --,side_chat,MR. GORODETZER,start_chat
+189,428,17,3,-- as a result of the accident.,side_chat,MS. BARBETTA,start_chat
+190,430,17,5,Correct.,side_chat,MR. GORODETZER,start_chat
+191,431,17,6,So just based on if you know at --,side_chat,MS. BARBETTA,start_chat
+192,433,17,8,Based on your personal knowledge.,side_chat,MR. GORODETZER,start_chat
+193,435,17,10,-- at the scene of the accident.,side_chat,MS. BARBETTA,start_chat
+194,437,17,12,"Based on my personal knowledge, I do not know if she's injured -- or was injured.",side_chat,THE WITNESS,start_question
+195,441,17,16,All right.  It would be a fair statement that you never called to see how Ms. Hensley was doing at any point?,q,MR. GORODETZER,start_answer
+196,444,17,19,"No, because I haven't spoken to her.",a,THE WITNESS,start_question
+197,445,17,20,"Prior to this accident, had you been in any -- involved in any other car accidents?",q,MR. GORODETZER,start_answer
+198,447,17,22,No.,a,THE WITNESS,start_question
+199,448,17,23,"Prior to the March 3rd, 2017 car accident, had you ever been issued any traffic tickets?",q,MR. GORODETZER,start_answer
+200,450,17,25,No.,a,THE WITNESS,start_question
+201,452,18,1,Was the 2005 Chevy Malibu primarily used by yourself?,q,MR. GORODETZER,start_answer
+202,454,18,3,Yes.,a,THE WITNESS,start_question
+203,455,18,4,"Would it be a fair statement that even though dad owned it, it was essentially your car?",q,MR. GORODETZER,start_answer
+204,457,18,6,Yes.,a,THE WITNESS,start_question
+205,458,18,7,"When you needed repairs done on the Chevy Malibu, where would you take it?",q,MR. GORODETZER,start_answer
+206,460,18,9,I don't know the name of the shop.,a,THE WITNESS,start_question
+207,461,18,10,Do you know where it's located?,q,MR. GORODETZER,start_answer
+208,462,18,11,"Mentally, yes.  I know how to get there.  I don't know the address.",a,THE WITNESS,start_question
+209,464,18,13,Can you give me the general area?,q,MR. GORODETZER,start_answer
+210,465,18,14,"As a landmark, it's by the LAFA football field.",a,THE WITNESS,start_question
+211,466,18,15,And what -- is that in West Chester?,q,MR. GORODETZER,start_answer
+212,467,18,16,Yes.,a,THE WITNESS,start_question
+213,468,18,17,What does LAFA stand for?,q,MR. GORODETZER,start_answer
+214,469,18,18,I believe it stands for Little Americans Football Association.,a,THE WITNESS,start_question
+215,471,18,20,"Fair enough.  Now, at some point, you moved from the Lydia Lane address, correct?",q,MR. GORODETZER,start_answer
+216,473,18,22,Correct.,a,THE WITNESS,start_question
+217,474,18,23,When did you move from the Lydia Lane address?,q,MR. GORODETZER,start_answer
+218,475,18,24,I don't know the exact date.,a,THE WITNESS,start_question
+219,476,18,25,Do you have a general time frame?,q,MR. GORODETZER,start_answer
+220,478,19,1,"Yes, last summer, around the end of last summer.",a,THE WITNESS,start_question
+221,479,19,2,So sometime in July of (sic) August of 2018?,q,MR. GORODETZER,start_answer
+222,480,19,3,"Yes, around that time.",a,THE WITNESS,start_question
+223,481,19,4,Why did you move from the Lydia Lane address?,q,MR. GORODETZER,start_answer
+224,482,19,5,My parents had a divorce.,a,THE WITNESS,start_question
+225,483,19,6,And what's your present address?,q,MR. GORODETZER,start_answer
+226,484,19,7,236 Stone Fence Road.,a,THE WITNESS,start_question
+227,485,19,8,And that's in West Chester?,q,MR. GORODETZER,start_answer
+228,486,19,9,It is.,a,THE WITNESS,start_question
+229,487,19,10,And do you have any intentions of moving from that address in the near future?,q,MR. GORODETZER,start_answer
+230,489,19,12,No.,a,THE WITNESS,start_question
+231,490,19,13,And who do you reside at 236 Stone Fence Road with?,q,MR. GORODETZER,start_answer
+232,491,19,14,My father.,a,THE WITNESS,start_question
+233,492,19,15,Does anybody else reside there?,q,MR. GORODETZER,start_answer
+234,493,19,16,Yes.,a,THE WITNESS,start_question
+235,494,19,17,Who?,q,MR. GORODETZER,start_answer
+236,495,19,18,My two younger brothers.,a,THE WITNESS,start_question
+237,496,19,19,"And just to back up, at the -- at the time of the accident, there was nobody else inside of the 2005 Chevy Malibu other than yourself?",q,MR. GORODETZER,start_answer
+238,499,19,22,Correct.,a,THE WITNESS,start_question
+239,500,19,23,"And on the date of accident, who did you reside at Lydia Lane with?",q,MR. GORODETZER,start_answer
+240,502,19,25,My entire family at the time.,a,THE WITNESS,start_question
+241,504,20,1,And what -- how many people are in your entire family?,q,MR. GORODETZER,start_answer
+242,506,20,3,"My father, my mother, my younger brother, and my other younger brother.",a,THE WITNESS,start_question
+243,508,20,5,"So your family, just to keep everything straight, is -- it's mom, dad, and you -- there's three boys?",q,MR. GORODETZER,start_answer
+244,510,20,7,Yes.,a,THE WITNESS,start_question
+245,511,20,8,"Got it.  At the time of the March 3rd, 2017 accident, did either of your younger brothers -- were they -- did they -- were they old enough to drive?",q,MR. GORODETZER,start_answer
+246,514,20,11,"One of them was definitely not old enough to drive. I don't know for sure what my other brother's age, who might have been close to the age of driving.",a,THE WITNESS,start_question
+247,517,20,14,"Are you aware of anybody else in the household owning a motor vehicle other than your father on March 3rd, 2017?",q,MR. GORODETZER,start_answer
+248,520,20,17,Yes.,a,THE WITNESS,start_question
+249,521,20,18,Who else owned a motor vehicle?,q,MR. GORODETZER,start_answer
+250,522,20,19,My mother owned a car.,a,THE WITNESS,start_question
+251,523,20,20,"At the time of the March 3rd, 2017 accident, were your mom and dad insured under the same policy?",q,MR. GORODETZER,start_answer
+252,525,20,22,I don't know.,a,THE WITNESS,start_chat
+253,526,20,23,I believe they were.,side_chat,MS. BARBETTA,start_chat
+254,527,20,24,I'll take back a look through the -- she buried all the stuff that was from you in the middle of -- whoever did it.  I don't think it was -- Off the record.,side_chat,MR. GORODETZER,is brackets
+255,533,21,4,(Discussion was held off the record.),brackets,,start_question
+256,535,21,6,"And at any point, has your driver's license ever been suspended or revoked?",q,MR. GORODETZER,start_answer
+257,537,21,8,No.,a,THE WITNESS,start_question
+258,538,21,9,And is the only state in which you've ever had a driver's license issued is Pennsylvania?,q,MR. GORODETZER,start_answer
+259,540,21,11,Yes.,a,THE WITNESS,start_question
+260,541,21,12,And when did you first get your driver's license?,q,MR. GORODETZER,start_answer
+261,542,21,13,My senior year of high school.,a,THE WITNESS,start_question
+262,543,21,14,And what's your date of birth?,q,MR. GORODETZER,start_answer
+263,544,21,15,"April 18th, 1997.",a,THE WITNESS,start_question
+264,545,21,16,"Now, since the accident, other than the EMT, the good Samaritans, and the police, have you spoken to anybody else about this accident other than your attorney?",q,MR. GORODETZER,start_answer
+265,548,21,19,No.,a,THE WITNESS,start_question
+266,549,21,20,You've never spoken to your dad about this accident?,q,MR. GORODETZER,start_answer
+267,551,21,22,"Yes, I've spoken to my dad.",a,THE WITNESS,start_question
+268,552,21,23,And did you speak to any insurance companies about this accident?,q,MR. GORODETZER,start_answer
+269,554,21,25,My insurance company?,a,THE WITNESS,start_question
+270,556,22,1,Any insurance company.,q,MR. GORODETZER,start_answer
+271,557,22,2,I believe I've only spoken to my insurance company.,a,THE WITNESS,start_question
+272,558,22,3,And what happened with the -- do you know what happened with the 2005 Chevy Malibu?,q,MR. GORODETZER,start_answer
+273,560,22,5,I believe it was scrapped.,a,THE WITNESS,start_question
+274,561,22,6,Do you know who scrapped it?,q,MR. GORODETZER,start_answer
+275,562,22,7,I don't.,a,THE WITNESS,start_question
+276,563,22,8,Do you know if your father was ever reimbursed any monies for the 2005 Chevy Malibu?,q,MR. GORODETZER,start_answer
+277,565,22,10,I don't know.,a,THE WITNESS,start_question
+278,566,22,11,"Prior to the March 3rd, 2017 accident, had your father ever restricted your use of the 2005 Chevy Malibu?",q,MR. GORODETZER,start_answer
+279,568,22,13,No.,a,THE WITNESS,start_question
+280,569,22,14,And are you currently employed?,q,MR. GORODETZER,start_answer
+281,570,22,15,Yes.,a,THE WITNESS,start_question
+282,571,22,16,And what do you -- what's your job?,q,MR. GORODETZER,start_answer
+283,572,22,17,Math tutor.,a,THE WITNESS,start_question
+284,573,22,18,So do you do anything besides math tutor?,q,MR. GORODETZER,start_answer
+285,574,22,19,Not at the moment.,a,THE WITNESS,start_question
+286,575,22,20,So other than -- are -- what is the highest level of education you've completed?,q,MR. GORODETZER,start_answer
+287,577,22,22,High school.,a,THE WITNESS,start_question
+288,578,22,23,Have you done any post-high-school studies?,q,MR. GORODETZER,start_answer
+289,579,22,24,Yes.  I go to college.,a,THE WITNESS,start_question
+290,580,22,25,Where do you go to college?,q,MR. GORODETZER,start_answer
+291,582,23,1,The Pennsylvania State University.,a,THE WITNESS,start_question
+292,583,23,2,"Do you go to main campus, or do you go to a satellite campus?",q,MR. GORODETZER,start_answer
+293,585,23,4,"Currently, I go to the main campus.",a,THE WITNESS,start_question
+294,586,23,5,And when are you scheduled to graduate?,q,MR. GORODETZER,start_answer
+295,587,23,6,I don't know.  That has to do with my course load.,a,THE WITNESS,start_question
+296,588,23,7,When do you go back -- do you reside on campus when you're living at -- when you're at college?,q,MR. GORODETZER,start_answer
+297,590,23,9,Yes.,a,THE WITNESS,start_question
+298,591,23,10,And when are you scheduled to go back to school?,q,MR. GORODETZER,start_answer
+299,592,23,11,"The end of August, so in a couple of days.",a,THE WITNESS,start_question
+300,593,23,12,Do you have an address out at Penn State?,q,MR. GORODETZER,start_answer
+301,594,23,13,"Yes, my dorm room.",a,THE WITNESS,start_question
+302,595,23,14,So other than -- have you ever spoken to your mother about this accident?,q,MR. GORODETZER,start_answer
+303,597,23,16,"Yes.  I've spoken to my father and my mother and my brothers, my immediate family, about the accident. Besides them, the police, EMT, lawyers, or insurance companies, I have not spoken to other people about the accident.",a,THE WITNESS,start_question
+304,602,23,21,"What have your parents said to you about this accident, if anything?",q,MR. GORODETZER,start_answer
+305,604,23,23,"They've said, I suppose, any number of things, nothing in particular.",a,THE WITNESS,start_question
+306,606,23,25,You don't recall anything of note that they've told you?,q,MR. GORODETZER,start_answer
+307,609,24,2,No.,a,THE WITNESS,start_question
+308,610,24,3,And do you maintain any social media?,q,MR. GORODETZER,start_answer
+309,611,24,4,No.,a,THE WITNESS,start_question
+310,612,24,5,You don't have a Facebook page?,q,MR. GORODETZER,start_answer
+311,613,24,6,"Maintain -- I do have social media.  I don't maintain it, in the sense I don't use it very often.",a,THE WITNESS,start_question
+312,615,24,8,But you do have social media?,q,MR. GORODETZER,start_answer
+313,616,24,9,I have a Facebook.,a,THE WITNESS,start_question
+314,617,24,10,Do you have an Instagram?,q,MR. GORODETZER,start_answer
+315,618,24,11,I have an Instagram.,a,THE WITNESS,start_question
+316,619,24,12,"On either your Facebook or your Instagram, have you posted anything about this accident?",q,MR. GORODETZER,start_answer
+317,621,24,14,No.,a,THE WITNESS,start_question
+318,622,24,15,Have you posted anything on the internet about this accident?,q,MR. GORODETZER,start_answer
+319,624,24,17,No.,a,THE WITNESS,start_question
+320,625,24,18,And I'll be presumptuous.  I assume you are not married?,q,MR. GORODETZER,start_answer
+321,627,24,20,That is correct.,a,THE WITNESS,start_question
+322,628,24,21,Where did you graduate from high school?,q,MR. GORODETZER,start_answer
+323,629,24,22,I graduated in the year 2015.,a,THE WITNESS,start_question
+324,630,24,23,Where?,q,MR. GORODETZER,start_answer
+325,631,24,24,"Oh, where.  I'm sorry.  I thought you said ""when."" Where?  I graduated from West Chester Rustin High School.",a,THE WITNESS,start_question
+326,634,25,1,And what year did you graduate?,q,MR. GORODETZER,start_answer
+327,635,25,2,2015.,a,THE WITNESS,start_question
+328,636,25,3,"Since the March 3rd, 2017 accident, have you been involved in any other automobile accidents?",q,MR. GORODETZER,start_answer
+329,638,25,5,No.,a,THE WITNESS,start_question
+330,639,25,6,Do you presently own a motor vehicle?,q,MR. GORODETZER,start_answer
+331,640,25,7,Yes.,a,THE WITNESS,start_question
+332,641,25,8,What kind of motor vehicle do you presently own?,q,MR. GORODETZER,start_answer
+333,642,25,9,A 2017 Chevy Cruze.,a,THE WITNESS,start_question
+334,643,25,10,Is that the only vehicle you've owned since the accident?,q,MR. GORODETZER,start_answer
+335,645,25,12,Yes.,a,THE WITNESS,start_question
+336,646,25,13,And do you own that vehicle or does your father own that vehicle?,q,MR. GORODETZER,start_answer
+337,648,25,15,I don't know for sure.  I believe my father owns the vehicle.,a,THE WITNESS,start_question
+338,650,25,17,"And prior to the impact with my client's vehicle, you don't recall anything obstructing your field of vision, do you?",q,MR. GORODETZER,start_answer
+339,653,25,20,No.,a,THE WITNESS,start_question
+340,654,25,21,Do you have any recollection about the weather conditions from that day?,q,MR. GORODETZER,start_answer
+341,656,25,23,No.,a,THE WITNESS,start_question
+342,657,25,24,Do you have any recollection about the lighting conditions at the time of the accident?,q,MR. GORODETZER,start_answer
+343,660,26,1,I don't understand the question.,a,THE WITNESS,start_question
+344,661,26,2,"At the time of the accident, it was approximately 6:00 o'clock, so it would have been early evening, correct?",q,MR. GORODETZER,start_answer
+345,664,26,5,Correct.,a,THE WITNESS,start_question
+346,665,26,6,"Do you recall:  Was light, dark, getting dark?",q,MR. GORODETZER,start_answer
+347,666,26,7,"I don't recall for sure, but I believe the lighting conditions were okay.",a,THE WITNESS,start_question
+348,668,26,9,Do you recall whether you had your headlights on at that point?,q,MR. GORODETZER,start_answer
+349,670,26,11,"I don't recall, but I don't believe they were on.",a,THE WITNESS,start_question
+350,671,26,12,Do you have any recollection as to what kind of vehicle you struck?,q,MR. GORODETZER,start_answer
+351,673,26,14,I don't.,a,THE WITNESS,start_question
+352,674,26,15,Do you recall the color of the vehicle you struck?,q,MR. GORODETZER,start_answer
+353,675,26,16,No.,a,THE WITNESS,start_question
+354,676,26,17,Do you recall whether it was a sedan or an SUV?,q,MR. GORODETZER,start_answer
+355,677,26,18,"I believe it was a larger car, and that is about what I remember.",a,THE WITNESS,start_question
+356,679,26,20,"Do you know if, after the impact with your vehicle, whether my client's car struck another vehicle?",q,MR. GORODETZER,start_answer
+357,681,26,22,I don't know for sure.  I was told that some debris may have struck other cars or -- nearby.,a,THE WITNESS,start_question
+358,683,26,24,"At the time of the accident, my understanding is the Chevy Malibu was insured by Progressive Insurance?",q,MR. GORODETZER,start_answer
+359,686,27,1,"Yes, I believe so.",a,THE WITNESS,start_question
+360,687,27,2,Do you recall whether -- do you know if the insurance rates were increased as a result of this accident?,q,MR. GORODETZER,start_chat
+361,690,27,5,Objection.,side_chat,MS. BARBETTA,start_question
+362,692,27,7,If you know.,q,MR. GORODETZER,start_answer
+363,693,27,8,I don't know for sure.,a,THE WITNESS,start_question
+364,694,27,9,"Prior to the accident, how many times had you traveled through that intersection?",q,MR. GORODETZER,start_answer
+365,696,27,11,I don't know an exact number.,a,THE WITNESS,start_question
+366,697,27,12,More than ten?,q,MR. GORODETZER,start_answer
+367,698,27,13,Yes.,a,THE WITNESS,start_question
+368,699,27,14,More than 50?,q,MR. GORODETZER,start_answer
+369,700,27,15,I don't know.  I suppose.  I live in the area. I've driven around that intersection a number of times.,a,THE WITNESS,start_question
+370,702,27,17,"Sure.  And in the 24 hours before the accident, you didn't consume any drugs or alcohol?",q,MR. GORODETZER,start_answer
+371,704,27,19,No.,a,THE WITNESS,start_question
+372,705,27,20,Do you take any medications on a regular basis?,q,MR. GORODETZER,start_answer
+373,706,27,21,No.,a,THE WITNESS,start_question
+374,707,27,22,"At the time of the accident in March 3rd of 2017, were you taking any medications on a regular basis?",q,MR. GORODETZER,start_answer
+375,709,27,24,No.,a,THE WITNESS,start_question
+376,710,27,25,And what's your mother's first name?,q,MR. GORODETZER,start_answer
+377,712,28,1,My mother's first name is Lorraine.,a,THE WITNESS,start_question
+378,713,28,2,And what's her current address?,q,MR. GORODETZER,start_answer
+379,714,28,3,"Her current address is 435 Summit House Lane, I believe to be the address.",a,THE WITNESS,start_question
+380,716,28,5,And that's in West Chester?,q,MR. GORODETZER,start_answer
+381,717,28,6,Yes.,a,THE WITNESS,start_chat
+382,718,28,7,I don't have any other questions.,side_chat,MR. GORODETZER,start_chat
+383,720,28,9,"Just to clarify for the record for you, I have the policy documents in front of me that list Gregory Labus, Lorraine Labus, as well as Tyler and Daniel, who is his brother.",side_chat,MS. BARBETTA,start_chat
+384,724,28,13,Okay.,side_chat,MR. GORODETZER,start_chat
+385,725,28,14,So they're on the same policy.,side_chat,MS. BARBETTA,start_chat
+386,727,28,16,Yeah.  That -- and that's all -- you -- you know where I'm going with that.,side_chat,MR. GORODETZER,start_chat
+387,729,28,18,I gotcha.,side_chat,MS. BARBETTA,start_chat
+388,730,28,19,"I got to make sure, just cover --",side_chat,MR. GORODETZER,start_chat
+389,732,28,21,I know.  I hear you.,side_chat,MS. BARBETTA,start_chat
+390,733,28,22,-- cover my tush.,side_chat,MR. GORODETZER,start_chat
+391,734,28,23,That's why I just wanted to put it on the record for you.  So we're good with that. All right.  Those are all the questions we have.,side_chat,MS. BARBETTA,start_chat
+392,739,29,2,That's it.,side_chat,MR. GORODETZER,is brackets
+393,740,29,3,(Witness excused.),brackets,,is brackets
+394,741,29,4,"(Deposition ended at 10:50 a.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+395,780,30,18,__________________________ Ian Monahan and Notary Public,symbols,,end

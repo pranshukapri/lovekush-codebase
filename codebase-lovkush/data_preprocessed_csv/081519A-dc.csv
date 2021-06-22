@@ -1,0 +1,659 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," having been first duly sworn, was examined and testified as follows: VOIR DIRE EXAMINATION",,,start_question
+1,136,5,3,"Good morning, Doctor.  Would you please introduce yourself to the jury.",q,MS. HENKLE,start_answer
+2,138,5,5,Sure.  So my name is Dr. Yesh Navalgund. I'm an interventional pain management physician here in the Greater Pittsburgh Area.,a,THE WITNESS,start_question
+3,141,5,8,"And we're here today to take your testimony on behalf of your patient Tracy Johns regarding your evaluation and treatment of Miss Johns following a July 13, 2017, vehicle accident and any opinions you formed as a result of that treatment. Before we do that, I need to ask you some questions about your qualifications in order to qualify you as an expert witness.",q,MS. HENKLE,start_answer
+4,149,5,16,Sure.,a,THE WITNESS,start_question
+5,150,5,17,What type of doctor are you?,q,MS. HENKLE,start_answer
+6,151,5,18,"As I mentioned, I'm an interventional pain management physician.  My training extends from a surgery internship at the University of Virginia, anesthesiology residency at the University of Pittsburgh, and a fellowship in interventional pain management at West Virginia University.",a,THE WITNESS,start_question
+7,157,5,24,Are you licensed to practice medicine in the Commonwealth of Pennsylvania?,q,MS. HENKLE,start_answer
+8,160,6,1,"Yes, I certainly am.",a,THE WITNESS,start_question
+9,161,6,2,What is anesthesiology?,q,MS. HENKLE,start_answer
+10,162,6,3,"Anesthesiology is a subspecialty of medicine which basically encompasses all of the care for a patient before, during, and after surgery, including the management of their pain.",a,THE WITNESS,start_question
+11,166,6,7,And what is pain management?,q,MS. HENKLE,start_answer
+12,167,6,8,"Pain management is an additional subspecialty under anesthesiology, and in some instances under rehab medicine, neurology as well. And that subspecialty includes the treatment of patients with acute and chronic pain as a result of cancer and other medical conditions as well as injuries.",a,THE WITNESS,start_question
+13,174,6,15,And how is interventional pain management different than regular pain management?,q,MS. HENKLE,start_answer
+14,176,6,17,"So pain management has over the past decade sort of split into two different types of management.  One is traditional medical management, which is basically after all sources of pain have been exhausted and there are no other alternatives we now move into medical management.  As we all know, the United States has suffered a significant crisis with the opiate crisis as a result of ignoring other options for pain.  Interventional pain management is a specialty of pain which we take, and I try to identify the actual source of injury and then treat it with minimally invasive surgical and injection therapies.",a,THE WITNESS,start_question
+15,190,7,5,And how long have you been a doctor?,q,MS. HENKLE,start_answer
+16,191,7,6,"I've been a doctor -- actually, now it's like 1999, so 20 years.",a,THE WITNESS,start_question
+17,193,7,8,Can you describe for the jury the process of how you became a doctor?,q,MS. HENKLE,start_answer
+18,195,7,10,"Sure.  So upon completing my undergraduate studies at the University of Pittsburgh Medical School and Saba University, went on to complete an internship in general surgery at the University of Virginia and then anesthesiology residency at the University of Pittsburgh and a fellowship in interventional pain management at West Virginia University.  Upon completion of each of the steps as I described, first, upon completion of anesthesiology residency I completed a board certification in anesthesia, which was twofold.  The first part is a written examination for testing knowledge base.  The second is an oral examination administered by experts in the field to determine competency in the field of anesthesiology.  Upon completing my fellowship training at West Virginia University in interventional pain management, an additional board certification in pain management I obtained.  And I continue to maintain certification and maintenance of that certification in pain management.",a,THE WITNESS,start_question
+19,217,8,6,Have you ever been qualified to testify as an expert witness in Allegheny County?,q,MS. HENKLE,start_answer
+20,219,8,8,Sure.  Yes.,a,THE WITNESS,symbols
+21,220,8,9,* * *,symbols,,is brackets
+22,221,8,10,(Navalgund Deposition Exhibit 1 was marked for identification.),brackets,,symbols
+23,223,8,12,* * *,symbols,,start_question
+24,225,8,14,"And, Doctor, I'm going to hand you what I've marked as Navalgund 1.  Can you please identify for the jury what that document is?",q,MS. HENKLE,start_answer
+25,228,8,17,"This is my resume, or CV, which outlines some of the accomplishments over the years.",a,THE WITNESS,start_question
+26,231,8,20,And can you tell the jury about your academic appointments?,q,MS. HENKLE,start_answer
+27,233,8,22,"Sure.  So I currently hold a position as an assistant professor in the Department of Anesthesiology, Division of Pain at West Virginia University, as well as an adjunct professor position at the University of Pittsburgh School of Anesthesia.",a,THE WITNESS,start_question
+28,240,9,3,And can you tell the jury about your leadership positions in any professional associations?,q,MS. HENKLE,start_answer
+29,243,9,6,"Sure.  A couple of highlights would be the American Society of Regional Anesthesia.  I am a founding member of the -- what they call the SIG, which is the specialty branch of the American Society of Regional Anesthesia, which focuses on minimally invasive pain management techniques.  I'm also an editor and reviewer for the Journal of Neuromodulation, which is a combined neurosurgical and pain management journal which is a peer-reviewed journal in neuromodulation.  I also am the medical director of National Bioskills Laboratories, which is a training center, one here in Pittsburgh, Dallas, Texas, as well as San Francisco, California, in which the facilities train surgeons on new techniques and both minimally invasive and invasive surgical procedures in neurosurgery, orthopedics, podiatry, as well as trauma.",a,THE WITNESS,start_question
+30,260,9,23,And let's talk a little bit about your current practice.  How long has DNA been in existence?,q,MS. HENKLE,start_answer
+31,264,10,1,"So DNA, which is my current practice, has been in existence since 2004, which would be about 15 years now.",a,THE WITNESS,start_question
+32,267,10,4,How many office locations do you have?,q,MS. HENKLE,start_answer
+33,268,10,5,"So offices, there are four locations plus two ambulatory surgical centers as well that are part of the practice.  In addition, our physicians are privileged at four hospitals in the area and perform more invasive procedures at the hospitals.",a,THE WITNESS,start_question
+34,273,10,10,And what do you do on a daily basis?,q,MS. HENKLE,start_answer
+35,274,10,11,"So my practice consists of some days clinic visits, evaluations to determine the sources of pain.  Other days I have procedural-based -- procedural-based days as well as operating room days for more invasive procedures.  And then I have days allocated at West Virginia University as well for teaching residents in the fields of anesthesiology, physical medicine and rehabilitation, neurology, neurosurgery and family medicine.",a,THE WITNESS,start_question
+36,283,10,20,"And what are some types of things that you do in your interventional pain practice, such as procedures?",q,MS. HENKLE,start_answer
+37,286,10,23,"More common procedures that are performed are the injections which can be performed in the office where we have suites within the office that allow us to perform these procedures.  The injections range from epidural injections to radiofrequency ablation procedures, as well as some of the devices that we surgically implant, such as cancer pain pumps and things like that where we do the refills as well in the office.",a,THE WITNESS,start_question
+38,296,11,7,And how often are you performing these procedures?,q,MS. HENKLE,start_answer
+39,298,11,9,That's a good question.  At least four days a week.,a,THE WITNESS,start_question
+40,300,11,11,And as part of your practice do you treat people who have been injured in car accidents or other incidents?,q,MS. HENKLE,start_answer
+41,303,11,14,Sure.,a,THE WITNESS,start_question
+42,304,11,15,And do you frequently treat people who have neck and back injuries?,q,MS. HENKLE,start_answer
+43,306,11,17,"Yes, I do.",a,THE WITNESS,start_question
+44,307,11,18,"And as part of your practice, do you routinely review medical records?",q,MS. HENKLE,start_answer
+45,309,11,20,Yes.,a,THE WITNESS,start_question
+46,310,11,21,What about diagnostic studies and imaging?,q,MS. HENKLE,start_answer
+47,311,11,22,Sure.,a,THE WITNESS,start_question
+48,312,11,23,Does that include MRI studies?,q,MS. HENKLE,start_answer
+49,313,11,24,Yes.,a,THE WITNESS,start_question
+50,314,11,25,Does that also include EMG studies?,q,MS. HENKLE,start_answer
+51,316,12,1,Yes.,a,THE WITNESS,start_question
+52,317,12,2,And does your practice include diagnosing patients and projecting future care and treatment?,q,MS. HENKLE,start_answer
+53,319,12,4,Yes.,a,THE WITNESS,start_question
+54,320,12,5,Are you familiar with costs associated with different treatments?,q,MS. HENKLE,start_answer
+55,322,12,7,Yes.,a,THE WITNESS,start_question
+56,323,12,8,How are you familiar with that?,q,MS. HENKLE,start_answer
+57,324,12,9,"So the way our practice is structured, I have my academic positions, which I'm on leadership roles within hospitals, including medical director positions, so I have an idea of costs related to hospital charges.  In the ambulatory surgical center I'm on the board for the ambulatory surgical center as well, where we routinely review costs of procedures as well as reimbursement associated with procedures.  And then, of course, in my private practice, just to stay afloat, we maintain records as well as analyze the costs of procedures and the reimbursement associated with them as well.",a,THE WITNESS,start_question
+58,336,12,21,My office had asked you to prepare a narrative report on behalf of Miss Johns regarding her treatment so that you could testify in that matter; is that correct?,q,MS. HENKLE,start_answer
+59,340,12,25,Yes.,a,THE WITNESS,start_question
+60,342,13,1,And you were paid to write the report; is that correct?,q,MS. HENKLE,start_answer
+61,344,13,3,"Of course, yes.",a,THE WITNESS,start_question
+62,345,13,4,"And if you weren't here testifying today, what would be would you doing?",q,MS. HENKLE,start_answer
+63,347,13,6,I would be in my office generating income in my office.,a,THE WITNESS,start_question
+64,349,13,8,And you would be getting paid for being in your office?,q,MS. HENKLE,start_answer
+65,351,13,10,"Yes, certainly more than here.",a,THE WITNESS,start_chat
+66,352,13,11,"Thank you, Doctor.  At this time I'm going to allow defense counsel to ask some questions about your qualifications. VOIR DIRE EXAMINATION",side_chat,MS. HENKLE,start_question
+67,357,13,16,"Good morning, Dr. Navalgund.",q,MR. FOLEY,start_answer
+68,358,13,17,Good morning.,a,THE WITNESS,start_question
+69,359,13,18,"My name is Roger Foley.  I represent the Port Authority of Allegheny County.  I introduced myself to you earlier this morning for the first time, and I do have some brief questions regarding both your resume and your qualifications.",q,MR. FOLEY,start_answer
+70,364,13,23,Sure.,a,THE WITNESS,start_question
+71,365,13,24,"So according to your resume, and you just testified that you attended medical school at Saba University School of Medicine?",q,MR. FOLEY,start_answer
+72,369,14,2,That's correct.,a,THE WITNESS,start_question
+73,370,14,3,And where is Saba University located?,q,MR. FOLEY,start_answer
+74,371,14,4,That is in the Caribbean; Netherlands Antilles is the country.,a,THE WITNESS,start_question
+75,373,14,6,"So you attended the University of Pittsburgh for your bachelor's degree, and then you obtained your medical degree at a university in the Caribbean?",q,MR. FOLEY,start_answer
+76,377,14,10,That's right.,a,THE WITNESS,start_question
+77,378,14,11,"And you presently do some teaching, you indicated, at schools of anesthesia for the University of Pittsburgh as well as West Virginia University?",q,MR. FOLEY,start_answer
+78,382,14,15,That's right.,a,THE WITNESS,start_question
+79,383,14,16,"What type of students do you teach at those schools?  And by that I mean, are you teaching doctors, are you teaching nurses; who are you teaching at those schools?",q,MR. FOLEY,start_answer
+80,387,14,20,"At the University of Pittsburgh I'm teaching certified nurse anesthetists.  And at West Virginia University I'm teaching doctors, residents in neurology, anesthesiology, neurosurgery and family medicine.",a,THE WITNESS,start_question
+81,392,14,25,You also indicated that you're board certified in anesthesiology with a pain medicine specialty; is that correct?,q,MR. FOLEY,start_answer
+82,396,15,3,"Yes.  I obtained my original board certification in anesthesiology in 2005, I believe, and then pain medicine in 2006.  And I currently maintain certification in pain medicine since 2016.",a,THE WITNESS,start_question
+83,400,15,7,You are not board certified in the fields of orthopedics or orthopedic surgery; are you?,q,MR. FOLEY,start_answer
+84,402,15,9,"No, certainly not.",a,THE WITNESS,start_question
+85,403,15,10,So you don't perform orthopedic surgeries as part of your practice?,q,MR. FOLEY,start_answer
+86,405,15,12,No.,a,THE WITNESS,start_question
+87,406,15,13,"As part of your certification or otherwise, have you ever learned about what is referred to as foraminal narrowing and foraminal encroachment?",q,MR. FOLEY,start_answer
+88,409,15,16,Sure.,a,THE WITNESS,start_question
+89,410,15,17,What is meant by the term foraminal narrowing?,q,MR. FOLEY,start_answer
+90,412,15,19,"So foraminal narrowing is basically the opening where a nerve root extends out of the spinal canal.  When that narrows, or thickens, or due to trauma is displaced and it encroaches on the nerve, that's called foraminal narrowing or encroachment.",a,THE WITNESS,start_question
+91,417,15,24,Is foraminal narrowing different than foraminal encroachment?,q,MR. FOLEY,start_answer
+92,420,16,1,No.,a,THE WITNESS,start_question
+93,421,16,2,They're both basically the same?,q,MR. FOLEY,start_answer
+94,422,16,3,That's right.,a,THE WITNESS,start_question
+95,423,16,4,"Okay.  And as part of your certification or otherwise, have you learned about what is referred to as a disc protrusion?",q,MR. FOLEY,start_answer
+96,426,16,7,Sure.,a,THE WITNESS,start_question
+97,427,16,8,What is meant by a disc protrusion?,q,MR. FOLEY,start_answer
+98,428,16,9,So the discs themselves are basically -- be easier just to show you on the model.,a,THE WITNESS,start_question
+99,430,16,11,Sure.,q,MR. FOLEY,start_answer
+100,431,16,12,"So the discs themselves are basically the spongy substance between the bones.  They have a shape that's almost identical to the bones above and below.  When a protrusion occurs, in this model as shown in red here, when a protrusion occurs that expands outside of its normal original shape, and that's a radiographic description, meaning looking at pictures on MRI you can see a protrusion.",a,THE WITNESS,start_question
+101,439,16,20,Okay.  So your current practice is located at DNA Advanced Pain Treatment Center; is that correct?,q,MR. FOLEY,start_answer
+102,442,16,23,"That's correct, yes.",a,THE WITNESS,start_question
+103,443,16,24,What does the DNA in the name of your practice stand for?,q,MR. FOLEY,start_answer
+104,446,17,1,"Dayo Navalgund Associates.  Dayo was my original partner who unfortunately passed away with a brain tumor in 2013.  And then my wife, Dr. Brenda Navalgund, as well as myself, form the N in DNA, and the remaining associates.",a,THE WITNESS,start_question
+105,451,17,6,Okay.  So you are one of the owners of the DNA Treatment Center?,q,MR. FOLEY,start_answer
+106,453,17,8,Yes.,a,THE WITNESS,start_question
+107,454,17,9,And you said that's been in existence since about 2004?,q,MR. FOLEY,start_answer
+108,456,17,11,That's right.,a,THE WITNESS,start_question
+109,457,17,12,What is the approximate number of current patients that obtain treatment at the DNA Treatment Center by its doctors and other practitioners?,q,MR. FOLEY,start_answer
+110,460,17,15,"So looking at it as a whole, clinical visits, procedure visits, we encounter approximately 3,000 patient encounters a month.",a,THE WITNESS,start_question
+111,463,17,18,"And by looking at your resume, it also appeared to me that your primary practice, and you testified to this, is related to managing pain control; would that be a fair statement?",q,MR. FOLEY,start_answer
+112,467,17,22,Yes.,a,THE WITNESS,start_question
+113,468,17,23,And is it accurate that a regular part of your practice at DNA Treatment Center is spent providing various injections for pain relief to your patients?,q,MR. FOLEY,start_answer
+114,473,18,2,Sure.,a,THE WITNESS,start_question
+115,474,18,3,"For example, you talked about epidural injections, correct?",q,MR. FOLEY,start_answer
+116,476,18,5,That's right.,a,THE WITNESS,start_question
+117,477,18,6,And there's facet block injections?,q,MR. FOLEY,start_answer
+118,478,18,7,Correct.,a,THE WITNESS,start_question
+119,479,18,8,"You might have testified to this before, and if you did I apologize; what percentage of your practice at the DNA Treatment Center would you say is related to providing injections for pain relief to patients?",q,MR. FOLEY,start_answer
+120,484,18,13,About half of the practice encounters.,a,THE WITNESS,start_question
+121,485,18,14,"Now, when you perform various injections at the DNA Treatment Center, is there ever any plan or expectation that those injections will be able to resolve the pain being experienced by the patient?",q,MR. FOLEY,start_answer
+122,489,18,18,"That's always the hope.  But our practice is in the management of pain, so we look for answers that may resolve pain, but mostly look for quality of life in patients.",a,THE WITNESS,start_question
+123,493,18,22,"And how about when you perform those injections, is there ever any plan or potential that that injection will resolve the pain such that the patient will not need to continue treatment at the DNA Treatment Center any longer?",q,MR. FOLEY,start_answer
+124,499,19,2,We certainly hope for that.,a,THE WITNESS,start_question
+125,500,19,3,And have you ever seen that?,q,MR. FOLEY,start_answer
+126,501,19,4,"In various conditions, yes.",a,THE WITNESS,start_question
+127,502,19,5,Okay.  And have you seen it where the injections have actually resolved a person's pain? You talked about hoping for it; have you actually seen it happen?,q,MR. FOLEY,start_answer
+128,506,19,9,"Yes, of course.",a,THE WITNESS,start_question
+129,507,19,10,Is the treatment that we've discussed thus far and that you perform as a regular part of your practice ever used for the treatment of generative disc disease?,q,MR. FOLEY,start_answer
+130,511,19,14,"From a management perspective, yes.",a,THE WITNESS,start_question
+131,512,19,15,And do some of the patients that you presently treat at the DNA Treatment Center actually have degenerative disc disease?,q,MR. FOLEY,start_answer
+132,515,19,18,Sure.  It's a normal finding with age.,a,THE WITNESS,start_question
+133,516,19,19,And is degenerative disc disease a form of arthritis?,q,MR. FOLEY,start_answer
+134,518,19,21,No.,a,THE WITNESS,start_question
+135,519,19,22,And what do you mean when you say that? Why is it not a form of arthritis?,q,MR. FOLEY,start_answer
+136,521,19,24,Because a degenerative disc has nothing to do with bony malformation or arthritis.,a,THE WITNESS,start_question
+137,524,20,1,But it is something you said that is common as people age?,q,MR. FOLEY,start_answer
+138,526,20,3,Yes.  Of course.,a,THE WITNESS,start_question
+139,527,20,4,And would you agree with me that degenerative disc disease may affect different people at different rates but is still just a natural part of that process of aging?,q,MR. FOLEY,start_answer
+140,531,20,8,"Of course, yes.",a,THE WITNESS,start_question
+141,532,20,9,Are there times when degenerative disc disease becomes symptomatic requiring treatment?,q,MR. FOLEY,start_answer
+142,534,20,11,Yes.,a,THE WITNESS,start_question
+143,535,20,12,And that is treatment that you provide at the DNA Treatment Center?,q,MR. FOLEY,start_answer
+144,537,20,14,That's correct.,a,THE WITNESS,start_question
+145,538,20,15,"Okay.  Doctor, this is not the first time you've ever been requested to provide testimony at the law firm of Simon & Simon; is it?",q,MR. FOLEY,start_answer
+146,541,20,18,No.,a,THE WITNESS,start_question
+147,542,20,19,"And Miss Johns is also not the first patient that you ever treated who also happens to be a client of the law firm of Simon & Simon, correct?",q,MR. FOLEY,start_answer
+148,545,20,22,That's correct.,a,THE WITNESS,start_question
+149,546,20,23,"What percentage of patients does your medical practice at DNA Treatment Center treat who are also clients of Miss Johns' lawyers in this case, Simon & Simon?  Just an estimate.",q,MR. FOLEY,start_answer
+150,551,21,2,If you can give me a second I can give you a percentage.,a,THE WITNESS,start_question
+151,553,21,4,Okay.,q,MR. FOLEY,start_answer
+152,554,21,5,I'm just going to use the calculator.  I never analyzed that before.,a,THE WITNESS,start_question
+153,556,21,7,Do you have an actual number of patients that --,q,MR. FOLEY,start_answer
+154,558,21,9,"I'm going to say approximately ten patients every couple months.  So maybe five -- five to seven patients a month.  So on the higher side, let's say seven patients a month.  Divide by our patient encounters.  About .25, so a quarter of a percent.",a,THE WITNESS,start_question
+155,563,21,14,"Now, you mentioned ten; was it -- I didn't understand where the ten came from earlier.",q,MR. FOLEY,start_answer
+156,565,21,16,I said over a period of two months.,a,THE WITNESS,start_question
+157,566,21,17,"Oh, okay.  So it's seven patients per month.",q,MR. FOLEY,start_answer
+158,568,21,19,Yeah.  Plus or minus a few so. . .,a,THE WITNESS,start_question
+159,569,21,20,Okay.,q,MR. FOLEY,start_answer
+160,570,21,21,So. . .,a,THE WITNESS,start_question
+161,571,21,22,So about 84 patients a year from Simon & Simon?,q,MR. FOLEY,start_answer
+162,573,21,24,"That sounds reasonable.  I don't have an exact number, but it's very close to something to that effect.",a,THE WITNESS,start_question
+163,577,22,2,Do you know a chiropractor by the name of Dr. Ralph Petrarca from the Rehab Centre?,q,MR. FOLEY,start_answer
+164,579,22,4,Not other than through our referral database system.  I don't personally know him.  I never spoke to him before.,a,THE WITNESS,start_question
+165,582,22,7,"In this case the plaintiff, Miss Johns, has previously testified that she obtained the name of Dr. Petrarca from her attorney's office of Simon & Simon, and that Dr. Petrarca referred her to you for additional treatment.  My question is, do you recall Dr. Petrarca referring Miss Johns to you for medical treatment back in October of 2017?",q,MR. FOLEY,start_answer
+166,589,22,14,"Not specifically, but I have seen his name on various referrals in the past so I wouldn't be surprised if he referred a patient to us.",a,THE WITNESS,start_question
+167,592,22,17,"Okay.  Isn't it true that many patients of Dr. Petrarca refers to the DNA Treatment Center are also clients of Miss Johns' attorney, Simon & Simon?",q,MR. FOLEY,start_answer
+168,595,22,20,That wouldn't be the case.  I've seen a number in of patients -- more patients from him than I have seen Simon & Simon related.,a,THE WITNESS,start_question
+169,598,22,23,Okay.  The medical records also indicate that another one of Miss Johns' physicians was Dr. Michelle Holding.  Do you know Dr. Holding?,q,MR. FOLEY,start_answer
+170,602,23,1,"No, I don't. I believe she's the -- either neurologist or a rehab physician that does EMGs.",a,THE WITNESS,start_question
+171,605,23,4,So you're not aware if Dr. Holding also refers various patients to you that are also clients of the law firm of Simon & Simon?  You have no knowledge of that as an owner of DNA?,q,MR. FOLEY,start_answer
+172,609,23,8,"I definitely know that some of her patients are clients of Simon & Simon, but I have no connection or know of her or talk to her so I don't know much else about her.",a,THE WITNESS,start_question
+173,613,23,12,"Okay.  Because the only thing that you know of her is that she gives you cases, clients from Simon & Simon?",q,MR. FOLEY,start_answer
+174,616,23,15,"No, just that she's a referring physician on our list of referrers.",a,THE WITNESS,start_chat
+175,618,23,17,Okay.  Those are all the questions I have at the present time.,side_chat,MR. FOLEY,start_chat
+176,620,23,19,Okay. At this time I would offer Dr. Yeshvant Navalgund as an expert in the field of interventional pain management and anesthesiology.,side_chat,MS. HENKLE,start_chat
+177,624,23,23,Could we take a quick break?,side_chat,THE WITNESS,start_chat
+178,626,23,25,Sure.  The time is 8:20 a.m.  We are going off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+179,629,24,2,* * *,symbols,,is brackets
+180,630,24,3,"(Whereupon, a brief recess was taken.)",brackets,,symbols
+181,631,24,4,* * *,symbols,,start_chat
+182,632,24,5,The time is 8:22 a.m.  We are now back on the video record.,side_chat,THE VIDEOGRAPHER,symbols
+183,634,24,7,* * * EXAMINATION,symbols,,start_question
+184,637,24,10,"Doctor, we're here today to take your testimony on behalf of your patient Tracy Johns related to treatment following her July 13, 2017, accident.  During the testimony I'm going to ask you some opinions, but I don't want you to give any opinions unless you can do so to a reasonable degree of medical certainty.  Is that fair?",q,MS. HENKLE,start_answer
+185,644,24,17,Sure.,a,THE WITNESS,start_question
+186,645,24,18,And my office asked you to prepare a narrative report so you could testify here today; is that correct?,q,MS. HENKLE,start_answer
+187,648,24,21,Yes.,a,THE WITNESS,symbols
+188,649,24,22,* * *,symbols,,is brackets
+189,650,24,23,(Navalgund Deposition Exhibit 2 was marked for identification.),brackets,,symbols
+190,652,24,25,* * *,symbols,,start_question
+191,655,25,2,I'm going to hand you what I've marked as Navalgund 2.  Can you explain for the jury what that document is?,q,MS. HENKLE,start_answer
+192,658,25,5,This is a narrative report summarizing my encounters with Miss Johns describing some of the treatment and some of the treatment that I would expect her to have over the course of the next several years.,a,THE WITNESS,start_question
+193,663,25,10,I'm going to ask you to refer to your report as needed during the course of your testimony here today; is that fair?,q,MS. HENKLE,start_answer
+194,666,25,13,Sure.,a,THE WITNESS,start_question
+195,667,25,14,And did you evaluate Miss Johns yourself?,q,MS. HENKLE,start_answer
+196,668,25,15,I did.,a,THE WITNESS,start_question
+197,669,25,16,"And when you saw Miss Johns, did you perform a physical examination?",q,MS. HENKLE,start_answer
+198,671,25,18,I did.,a,THE WITNESS,start_question
+199,672,25,19,Did you also have an opportunity to review her treatment records and films regarding her care before she presented to your office?,q,MS. HENKLE,start_answer
+200,675,25,22,Yes.,a,THE WITNESS,start_question
+201,676,25,23,"In a moment I'm going to ask you to walk the jury through your evaluation of Miss Johns step by step, but before I do that I'd like to know the answer to one very important question.  After examining Tracy Johns and reviewing all of her records, studies, images referenced in your report, do you find anything wrong with her?",q,MS. HENKLE,start_answer
+202,684,26,5,Sure.  She had cervical radiculopathy as well as lumbar facet mediated pain.,a,THE WITNESS,start_question
+203,686,26,7,And did you review the results of any tests or studies in the course of evaluating Miss Johns?,q,MS. HENKLE,start_answer
+204,688,26,9,"Yeah, there was some records from Ohio Valley Hospital, looked at the MRI imaging from 9/20/17, and then EMG from 12/5/17, and then various rehab and chiropractic records as well.",a,THE WITNESS,start_question
+205,692,26,13,"While discussing the MRI, would it be helpful to show a visual to the jury?",q,MS. HENKLE,start_answer
+206,694,26,15,Sure.,a,THE WITNESS,start_chat
+207,695,26,16,The time is 8:24 a.m. We're going off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+208,697,26,18,* * *,symbols,,is brackets
+209,698,26,19,"(Whereupon, an off-the-record discussion was held.)",brackets,,symbols
+210,699,26,20,* * *,symbols,,start_chat
+211,700,26,21,The time is 8:26 a.m. We're now back on the video record.,side_chat,THE VIDEOGRAPHER,start_question
+212,703,26,24,"Doctor, is this the MRI of Tracy Johns you reviewed prior to your treatment of her?",q,MS. HENKLE,start_answer
+213,706,27,1,"Tracy Johns, yes, correct.",a,THE WITNESS,start_question
+214,707,27,2,And can you tell the jury which part of Tracy Johns this MRI is depicting?,q,MS. HENKLE,start_answer
+215,709,27,4,"Sure.  So the easiest would be to describe it based on the model itself.  So when we look at anybody's spine, for that matter, there are three segments of the spine that we consider.  The lowest is the lumbar portion; there are five lumbar vertebrae.  The middle or thoracic region, there are 12 thoracic vertebrae.  And then there are seven what we call cervical vertebrae.  Of those seven, what you're seeing in this model here are C1, C2, C3, C4, C5, C6 and C7.  What we're seeing on the MRI, if we look over to the right here, is exactly this view that you're looking at this way, and what you're seeing are the cervical vertebrae 1 through 7.  If we turn the spine on its side you'll be able to see from the side, which also shows you the discs in between as well as the opening in the spinal canal itself.  And so the view that we're looking at on the left side, this darkened area right here, is the spinal cord itself.  The white around the spinal cord shows up as fluid around the spinal cord.  What we're seeing -- and I'll take a little bit better slice there -- is this is C1, 2, 3, 4, 5, 6, 7 as we work our way down.  When we get to 1, 2, 3, 4, between 4 and 5, we start to see a little indentation here, which is the protrusion.  We discussed earlier about what a protrusion was.  And you can actually see that it's pushing back and placing an indentation against the spinal cord by pushing on the fluid.  When you get to 5 and 6, you see an additional one, slightly worse than the one above it.  So in these views here we're able to clearly identify discs that are putting pressure against the canal. The problem is, is not all discs end up protruding perfectly in one direction or another and they can be disrupted, particularly when involved in trauma or an accident.  So as we look at some of the other views -- as we look at some of the other views, you can see the various slices that show different areas and different degrees of indentation along the cord itself. So in her case, in addition to all of this, she has disruption of the facet joints at the levels above.  So the combination of the disruption of the facet joints as well as indenting against the canal produces the symptoms that she's describing, which are the radicular symptoms as well as the pain.",a,THE WITNESS,start_question
+216,758,29,1,And you're able to determine all of this from viewing this MRI?,q,MS. HENKLE,start_answer
+217,760,29,3,"Well, from viewing the MRI and correlating it to the complaints that she has; the two go hand in hand.",a,THE WITNESS,start_question
+218,763,29,6,Are you able to fake an MRI?,q,MS. HENKLE,start_answer
+219,764,29,7,No.  Certainly not.,a,THE WITNESS,start_chat
+220,765,29,8,All right.  We can cut and go off.,side_chat,MS. HENKLE,start_chat
+221,767,29,10,The time is 8:30 a.m. We're going off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+222,769,29,12,* * *,symbols,,is brackets
+223,770,29,13,"(Whereupon, an off-the-record discussion was held.)",brackets,,symbols
+224,771,29,14,* * *,symbols,,start_chat
+225,772,29,15,The time is 8:31 a.m. We are now back on the video record.,side_chat,THE VIDEOGRAPHER,start_question
+226,775,29,18,"Doctor, did you also review an EMG in this case?",q,MS. HENKLE,start_answer
+227,777,29,20,"Yes, I did.",a,THE WITNESS,start_question
+228,778,29,21,And what is an EMG?,q,MS. HENKLE,start_answer
+229,779,29,22,"So EMG falls into two categories.  So there's the EMG component of it, or electromyelography, and then there's the nerve conduction velocity testing as well.  So by placing small electrodes along the pathway of various nerves you can determine if the nerves themselves are functioning appropriately, if there's a blockage that prevents nerve signals from traveling across those nerves, or if there's weakness associated with various muscles groups that those needles are testing.",a,THE WITNESS,start_question
+230,791,30,8,And did you review the EMG in this case?,q,MS. HENKLE,start_answer
+231,792,30,9,I did.,a,THE WITNESS,start_question
+232,793,30,10,And what did Miss Johns' EMG show?,q,MS. HENKLE,start_answer
+233,794,30,11,"It did show cervical radiculopathy, and I have her impression listed here showing abnormal electrodiagnostic evidence at bilateral C5-C6, meaning as I showed you on that MRI, that level of C5-C6 was compressing, with evidence of denervation with subsequent reinnervation.  So what that basically means is, is that whenever there's damage to a particular nerve, that nerve has the ability to regenerate, doesn't always regenerate to its original state, but you can make that out based on the way nerve fibers conduct electricity. She also shows bilateral deltoid innervated by the axillary nerve at C5-C6 along that same distribution, and then the corresponding paraspinal muscles at 5-6 as well.  She shows some mild bilateral carpal tunnel syndrome affecting the sensory of the first digit.  And it seems that she wrote a prescription for pain management consult to evaluate and treat with a diagnosis of cervical radiculopathy.",a,THE WITNESS,start_question
+234,815,31,6,You mentioned a diagnosis of cervical radiculopathy.  Can you explain what radiculopathy is?,q,MS. HENKLE,start_answer
+235,818,31,9,"So anytime a nerve fiber has compression applied to it, two things happen.  The first level of compression results in what we call sensory deficit, meaning the outer layer of the nerve is responsible for the sensations that can be felt. Radiculopathy is that sensation of pain associated with that compression of the nerve itself.  Further compression will lead to what we call motor deficit, meaning that there will be loss of function so somebody can't pick up a glass or grip something. That's excessive compression of the nerve root.  But radiculopathy is particularly along the sensation that you have what we call burning or other neuropathic symptoms such as tingling or the medical term being paresthesias.",a,THE WITNESS,start_question
+236,833,31,24,Is radiculopathy a painful condition?,q,MS. HENKLE,start_answer
+237,834,31,25,"Certainly is, yes.",a,THE WITNESS,start_question
+238,836,32,1,And how does it typically affect people?,q,MS. HENKLE,start_answer
+239,837,32,2,"Several ways.  One, it creates a pain that -- so, for instance, you sprain your ankle, you can bandage your ankle, you can raise your ankle, you can take some Advil, you could put some ice on it; there are things that you can do to help create a sensory change that might help distract from the pain.  Unfortunately, with radiculopathy being neuropathic in nature, there's very little that can be done for that type of pain in the way of the TLC type of things that we see with other types of sprains and injuries.",a,THE WITNESS,start_question
+240,848,32,13,And did you also conduct a physical examination along with reviewing her diagnostic studies?,q,MS. HENKLE,start_answer
+241,851,32,16,Sure.,a,THE WITNESS,start_question
+242,852,32,17,And what did your examination reveal?,q,MS. HENKLE,start_answer
+243,853,32,18,"So, functionally, examined the lower and upper extremity, but it seems like the cervical spine is where a lot of her range of motion resulted in -- in symptoms of facet mediated pain as well as radiating pain that resulted from the radiculopathy. As I go through I can give you the specific findings.  Inspection, exquisitely tender, radicular symptoms of the upper extremity.  No swelling or spasticity, which is good.  Did the foraminal compression or Spurling's test, which is basically turning the head and applying pressure.  Patients themselves don't know what we're looking for, so we just simply apply pressure and then mark the complaints, which usually mimic the radicular symptoms, especially when you turn your head and apply pressure.  And then the extension and rotation pain as a result of the facet-related injury.",a,THE WITNESS,start_question
+244,871,33,10,And I notice in your records you mentioned that there was a facet loading that came back positive.,q,MS. HENKLE,start_answer
+245,874,33,13,Yeah.,a,THE WITNESS,start_question
+246,875,33,14,Can you explain what means?,q,MS. HENKLE,start_answer
+247,876,33,15,"So basically, the easiest way to describe it is each bone of the cervical spine rests on the bone below it.  There's supposed to be a nice smooth padding between the two.  And as long as there's symmetry, much like Lego blocks, you place one on top of the other, if they're symmetric, it's no problem, but if you displace them from trauma or tumor or anything that displaces them, what you end up with is difficulty with rotation and extension. So by applying loading force, meaning pressure, and asking the patient to extend their neck, flex their neck, turn their neck left and right, you can elicit their response and correlate it with the findings on the MRI.",a,THE WITNESS,start_question
+248,891,34,4,And did your exam match her objective testing?,q,MS. HENKLE,start_answer
+249,893,34,6,Sure.,a,THE WITNESS,start_question
+250,894,34,7,"And when you first examined Miss Johns on October 18, 2017, did you take a history from her?",q,MS. HENKLE,start_answer
+251,896,34,9,I did.,a,THE WITNESS,start_question
+252,897,34,10,And what did she mention was the onset of the pain?,q,MS. HENKLE,start_answer
+253,899,34,12,Motor vehicle accident 7/13/2017.,a,THE WITNESS,start_question
+254,900,34,13,"And when you saw her, was she still having pain from that accident?",q,MS. HENKLE,start_answer
+255,902,34,15,Yes.,a,THE WITNESS,start_question
+256,903,34,16,And your visit with her was about three months after the accident?,q,MS. HENKLE,start_answer
+257,905,34,18,That's correct.,a,THE WITNESS,start_question
+258,906,34,19,What did she tell you about her pain?,q,MS. HENKLE,start_answer
+259,907,34,20,"So she presented with symptoms, neck stiffness, muscle spasm, crepitus, meaning sort of this creaking sensation with range of motion.  She also complained of some shoulder pain across the right, but that's often mistaken as shoulder pain when it's actually referred pain from facet mediated discomfort.  It says it's along the back of her neck, the right sides of her neck, radiates to the trapezius, right shoulder and right upper arm. Complains that it's aching and burning and the onset immediately after MVA 7/13/2017.",a,THE WITNESS,start_question
+260,919,35,6,And did her history and complaints match your physical examination?,q,MS. HENKLE,start_answer
+261,921,35,8,Sure.,a,THE WITNESS,start_question
+262,922,35,9,And did it match her objective testing and imaging?,q,MS. HENKLE,start_answer
+263,924,35,11,Yes.,a,THE WITNESS,start_question
+264,925,35,12,And what did you decide to do treatment-wise at that point?,q,MS. HENKLE,start_answer
+265,927,35,14,"I wanted to address the -- especially because of the radiation that she was complaining into the shoulder, I wanted to address the facet mediated pain first, and then certainly consider the radicular pain to be managed afterwards.  And so I ended up performing a C4-5, 5-6 and 6-7 facet injection for her.  And I believe I managed the left side, which was the worst.",a,THE WITNESS,start_question
+266,935,35,22,And can you explain for the jury what a facet block injection is?,q,MS. HENKLE,start_answer
+267,937,35,24,"Yeah, sure.  So very straight forward, as we described before, and I can show you on the model here, it's a lot easier.  Each of the bones of the cervical spine touch the bones below at a point here called the facet joint.  So a facet injection is an injection in which I take a spinal needle and I place it alongside the actual facet itself and bathe that facet with some local anesthetic and some steroids.  It's primarily a diagnostic test because, as I described before, once a facet joint has been disrupted, creates a condition called accelerated arthrosis.  So basically what would take decades to degenerate over time, when an injury takes place on a facet joint, that process is accelerated.  And the purpose of using the steroids is to help slow it down by reducing inflammation and swelling around the joint.",a,THE WITNESS,start_question
+268,955,36,16,And you mentioned with facet joint injuries the arthrosis accelerates?,q,MS. HENKLE,start_answer
+269,957,36,18,That's correct.,a,THE WITNESS,start_question
+270,958,36,19,Does this injury ever go away?,q,MS. HENKLE,start_answer
+271,959,36,20,"No.  So the injury takes place, the arthrosis is accelerated.  The best we can do is over time try our best to, lack of better terms, callous the surrounding nerves to where the patient doesn't feel the problem.  The problem itself never goes away.",a,THE WITNESS,start_question
+272,966,37,1,"And in addition to your own records, did you review other treatment records while forming your opinions and diagnosis?",q,MS. HENKLE,start_answer
+273,969,37,4,"Yes.  There were a number of records, including some very old chiropractic records as well that I reviewed, but most of them just focused around Ohio Valley Hospital, some rehab after the accident, as well as the EMG and MRI reports.",a,THE WITNESS,start_question
+274,974,37,9,"And did you also have a chance to review the medical bills associated with Miss Johns' treatment and care for the accident that occurred on July 13, 2017?",q,MS. HENKLE,start_answer
+275,978,37,13,"Yes, I did.",a,THE WITNESS,symbols
+276,979,37,14,* * *,symbols,,is brackets
+277,980,37,15,(Navalgund Deposition Exhibit 3 was marked for identification.),brackets,,symbols
+278,982,37,17,* * *,symbols,,start_question
+279,984,37,19,I'm going to hand you what I've marked as Navalgund 3.  Can you tell me if those are the medical bills that you reviewed for this case?,q,MS. HINKLE,start_answer
+280,987,37,22,(Witness reviewing.)  Yes.,a,THE WITNESS,start_question
+281,988,37,23,"And is it your understanding the total amount of those medical bills are $2,917.06?",q,MS. HINKLE,start_answer
+282,990,37,25,"Yeah.  There were some things deducted and there's balances remaining, but it's approximately that amount.  I didn't get the exact figure.",a,THE WITNESS,start_question
+283,994,38,3,And you would agree with me that the Advantage Medical & Rehabilitation bill's outstanding $750?,q,MS. HINKLE,start_answer
+284,997,38,6,"Yes, I see that.",a,THE WITNESS,start_question
+285,998,38,7,And the Rehab Center has an outstanding bill of $737.06?,q,MS. HINKLE,start_answer
+286,1000,38,9,Right.,a,THE WITNESS,start_question
+287,1001,38,10,And the Ohio Valley Hospital bill is $330?,q,MS. HINKLE,start_answer
+288,1002,38,11,That's right.,a,THE WITNESS,start_question
+289,1003,38,12,"And the Monroeville Imaging bill is $1,100?",q,MS. HINKLE,start_answer
+290,1004,38,13,Yes.,a,THE WITNESS,start_question
+291,1005,38,14,"And do those bills reflect the medical services provided, the usual and customary charges for the services?",q,MS. HINKLE,start_answer
+292,1008,38,17,"Sure.  Actually, the MRI is pretty reasonable.  UPMC and Allegheny charge three times that amount.",a,THE WITNESS,start_question
+293,1011,38,20,"And in reviewing all of the documents in your treatment with Miss Johns, what were your conclusions in your November 19, 2018, report?",q,MS. HINKLE,start_answer
+294,1014,38,23,"The conclusions were clearly she had facet-related injuries that would require some additional blocks.  The diagnostic blocks specifically to address the right side as well; I believe the left side I had already established that there was facet mediated pain there.  Confirm the right side, and then certainly look at radiofrequency ablation as a long-term treatment protocol for her.  In addition, cervical epidurals are always beneficial for maintenance and management of pain, specifically radicular pain.  So -- and then the normal and routine follow-up visits that go along with it.",a,THE WITNESS,start_question
+295,1028,39,11,And these are recommendations for future medical treatment for Miss Johns?,q,MS. HINKLE,start_answer
+296,1030,39,13,Yes.,a,THE WITNESS,start_question
+297,1031,39,14,We are going to take them one at a time. You mentioned the rhizotomy?,q,MS. HINKLE,start_answer
+298,1033,39,16,Right.,a,THE WITNESS,start_question
+299,1034,39,17,Can you explain what a rhizotomy is?,q,MS. HINKLE,start_answer
+300,1035,39,18,"Sure.  So those facet joints that I just described earlier, they're supplied by small branches of the spinal cord called the medial branch nerves.  Those medial branch nerves are sensory only, so by burning them we don't cause or force anyone to have loss of function or movement.  And what we do is we typically will burn those nerves. And burning means using microwave energy, very similar to the microwave where you can heat food but not the bowl or dish around it, use microwave energy to generate heat to almost boiling.  And boiling being 100 degrees Centigrade, we heat to about 80 degrees Centigrade.  That causes enough disruption of the flow of those nerves.  As we've seen in the EMG as well, nerves will have a regenerative process and very often they will regenerate.  The good thing is, is they regenerate a little bit slower than other areas of the body, particularly the nervous system regenerates slower, so that usually buys us 9 to 12 months of time before we have to repeat the procedure again.",a,THE WITNESS,start_chat
+301,1057,40,14,"And I don't mean to interrupt, but I'm just trying to follow along. Which is the procedure in his report that he was just discussing?",side_chat,MR. FOLEY,start_chat
+302,1061,40,18,The rhizotomy.,side_chat,MS. HENKLE,start_chat
+303,1062,40,19,That would be cervical ablation.,side_chat,THE WITNESS,start_chat
+304,1064,40,21,"Okay.  Thank you, Doctor.",side_chat,MR. FOLEY,start_chat
+305,1065,40,22,No problem.,side_chat,THE WITNESS,start_question
+306,1067,40,24,And why do you recommend this particular procedure for Miss Johns?,q,MS. HENKLE,start_answer
+307,1070,41,1,"So the specific diagnosis facet injury, facet injury generates pain across the medial branch nerves.  And in order to manage those medial branch nerve-related pain, you have to burn those nerves.",a,THE WITNESS,start_question
+308,1074,41,5,In your practice do you frequently recommend this procedure to your patients?,q,MS. HENKLE,start_answer
+309,1076,41,7,"So I'm going to take that as do I do the procedure a lot in my practice.  Yes.  I don't frequently recommend it arbitrarily.  For patients who have facet-mediated pain, the answer is yes. And we do have a large percentage of patients that I do this particular procedure for.",a,THE WITNESS,start_question
+310,1082,41,13,And you do this procedure personally?,q,MS. HENKLE,start_answer
+311,1083,41,14,Yes.,a,THE WITNESS,start_question
+312,1084,41,15,And you mentioned they last about 9 to 12 months.,q,MS. HENKLE,start_answer
+313,1086,41,17,Right.,a,THE WITNESS,start_question
+314,1087,41,18,Is that about how often Miss Johns would need a rhizotomy repeated?,q,MS. HENKLE,start_answer
+315,1089,41,20,Yes.,a,THE WITNESS,start_question
+316,1090,41,21,And what is the typical cost for this procedure?,q,MS. HENKLE,start_answer
+317,1092,41,23,"The procedure costs about $400 per level on average in an office setting and about $600 per level; in this case there are three levels.  $600 per level in a hospital or ambulatory surgery center setting.  So in this case there's three levels, and there's three levels on each side.  So that cost can vary depending on which side is hurting at what time.  So I came up with a sort of median average of about 1,000 to 1,500 for all the levels.",a,THE WITNESS,start_question
+318,1102,42,7,And you also mentioned that she would need the facet blocks on the right side.,q,MS. HENKLE,start_answer
+319,1104,42,9,That's right.,a,THE WITNESS,start_question
+320,1105,42,10,And -- go ahead.,q,MS. HENKLE,start_answer
+321,1106,42,11,"So the purpose of that is that would be a single injection, again, as a diagnostic procedure to just confirm that we can actually achieve the results we're looking for with the ablation. Although, at Johns Hopkins, Stephen Cohen, who is the director of the fellowship training program and the director of pain medicine in Johns Hopkins, has recently looked at the value of the diagnostic injection.  And many insurance companies now demand two diagnostic injections, but he's been able to debunk that.  And we follow basically the same guidelines he does, and that is, is we do a single diagnostic injection.  So I did not recommend that she have two of them performed, just one.",a,THE WITNESS,start_question
+322,1120,42,25,And is this a procedure that you typically recommend for facet injuries?,q,MS. HENKLE,start_answer
+323,1123,43,2,Yes.,a,THE WITNESS,start_question
+324,1124,43,3,And how often would Miss Johns need this? Would she need it repeated?,q,MS. HENKLE,start_answer
+325,1126,43,5,"The injection, no.",a,THE WITNESS,start_question
+326,1127,43,6,And what is the cost of this procedure for a one-time?,q,MS. HENKLE,start_answer
+327,1129,43,8,"Depending on whether it's in an ambulatory surgery hospital setting or whether it's in the office, they range from 500 to $1,000 for the injection.",a,THE WITNESS,start_question
+328,1133,43,12,And you also recommended some epidural steroid injections.,q,MS. HENKLE,start_answer
+329,1135,43,14,Yes.,a,THE WITNESS,start_question
+330,1136,43,15,And what is that?,q,MS. HENKLE,start_answer
+331,1137,43,16,"Epidural steroid injection is basically an injection into the fat layer around the spinal cord and the exiting nerve root.  The epidural space, no different than when a pregnant woman, for instance, gets an epidural for delivery; those are a little different in that a catheter is placed and lots of numbing medicine is used.  In this case it's the same entry type of entry, but instead of the low back, it's in the neck.  And the injection bathes the fat and surrounding tissue and the nerve roots with steroids to help reduce inflammation around nerve roots and to control the radicular pain.",a,THE WITNESS,start_question
+332,1150,44,3,And in your practice is this a procedure that you commonly perform?,q,MS. HENKLE,start_answer
+333,1152,44,5,Sure.,a,THE WITNESS,start_question
+334,1153,44,6,How often do you perform epidural steroid injections?,q,MS. HENKLE,start_answer
+335,1155,44,8,"That's a -- it's so numerous that I couldn't give you an answer, but I would say a cervical epidural particularly, probably 25 times a week.",a,THE WITNESS,start_question
+336,1159,44,12,And how often would Miss Johns need these injections?,q,MS. HENKLE,start_answer
+337,1161,44,14,"Typically we do them in series of threes. So a series a couple times a year.  Again, most of it's going to depend on the response to the initial injection and then the decisions are made beyond that.",a,THE WITNESS,start_question
+338,1166,44,19,And what are the costs associated with epidural steroids?,q,MS. HENKLE,start_answer
+339,1168,44,21,"Again, they range from 800 to $1,000 per injection.",a,THE WITNESS,start_question
+340,1170,44,23,And you also mentioned she would need some follow-ups with providers; why would she need to follow up with her providers?,q,MS. HENKLE,start_answer
+341,1174,45,1,"So there are a lot of things to we have to look at, especially after injections.  Particularly after rhizotomies as well.  We want to make sure that there wasn't anything injection related that's causing side effects or problems for the patient. We also do the follow up to see the progress, to make a decision on whether or not the next procedure ends up being the facet procedure or the procedure for radicular pain and that no new symptoms have arised since then.",a,THE WITNESS,start_question
+342,1184,45,11,What is the typical cost of a follow-up appointment with a provider?,q,MS. HENKLE,start_answer
+343,1186,45,13,Anywhere from 75 to $150.,a,THE WITNESS,start_question
+344,1187,45,14,"So for all the treatment and cost projections that you just testified to, would you agree that the economic total for the future medical care Miss Johns will undergo is approximately $47,500?",q,MS. HENKLE,start_answer
+345,1192,45,19,"Yeah.  I was going to say somewhere shy of 50,000.",a,THE WITNESS,start_question
+346,1194,45,21,And are your opinions about future medical treatment held to a reasonable degree of medical probability?,q,MS. HENKLE,start_answer
+347,1197,45,24,Yes.,a,THE WITNESS,start_question
+348,1198,45,25,And are those cost projections based on your experience in the clinical outpatient and surgical setting?,q,MS. HENKLE,start_answer
+349,1202,46,3,Of course.,a,THE WITNESS,start_question
+350,1203,46,4,And does the fact that she hasn't treated with you since October of 2017 change your opinion about this future medical treatment that you're recommending?,q,MS. HENKLE,start_answer
+351,1207,46,8,"No.  I don't chase patients down. Certainly, if they want to go other places for treatment, it's their decision.",a,THE WITNESS,start_question
+352,1210,46,11,And do you have any opinions about the causation of the injuries that we've discussed here today?,q,MS. HENKLE,start_answer
+353,1213,46,14,Yes.  Certainly it was a result of the motor vehicle accident that took place in July of 2017.,a,THE WITNESS,start_question
+354,1216,46,17,And how can injuries such as this occur in a motor vehicle collision?,q,MS. HENKLE,start_answer
+355,1218,46,19,"So a lot has to do with the type of accident.  If you have a front head-on collision, for instance, you end up with a lot more thoracic and cervical combined symptoms.  Sudden deceleration injuries cause a lot of lumbar-related symptoms and also can cause blood vessels to tear.  Rear end collisions we typically see a lot of whiplash type injuries; we see a lot of neck-related injuries.  I, personally, just myself, a year and a half ago experienced a rear-end type collision and I still have persistent radicular pain in my right arm as we speak.  And these are things that happen from rear-end collisions.  So it's common.",a,THE WITNESS,start_question
+356,1232,47,7,"Does Miss Johns' age, being 51 years old, affect your opinions in any way?",q,MS. HENKLE,start_answer
+357,1234,47,9,"Yeah, it does.  I mean, when you look at the degenerative changes, certainly there are some degenerative disc changes and things that are going on, but degenerative disc changes do not necessarily relate to disc bulges or protrusions or things like that.  So the fact that they've protruded and prior to that she was asymptomatic does lend me to believe that specifically the injury that took place on 7/13 was the reason why she's having these symptoms.",a,THE WITNESS,start_question
+358,1243,47,18,"And, Doctor, do you have an opinion as to the reasonableness and necessity of all the treatment that Miss Johns has had to date?",q,MS. HENKLE,start_answer
+359,1246,47,21,I think they have all been reasonable and necessary.,a,THE WITNESS,start_question
+360,1248,47,23,"One last question, Doctor.  Have you given all of your opinions today to a reasonable degree of medical certainty?",q,MS. HENKLE,start_answer
+361,1252,48,1,Sure.,a,THE WITNESS,start_chat
+362,1253,48,2,"All right.  Your witness, counsel.",side_chat,MS. HENKLE,start_chat
+363,1255,48,4,Okay.,side_chat,MR. FOLEY,start_chat
+364,1256,48,5,Can we pause for a second?,side_chat,THE WITNESS,start_chat
+365,1257,48,6,Sure.,side_chat,MR. FOLEY,start_chat
+366,1258,48,7,The time is 8:54 a.m. We are going off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+367,1260,48,9,* * *,symbols,,is brackets
+368,1261,48,10,"(Whereupon, a brief recess was taken.)",brackets,,symbols
+369,1262,48,11,* * *,symbols,,start_chat
+370,1263,48,12,The time is 8:55 a.m.  We are now back on the video record.,side_chat,THE VIDEOGRAPHER,symbols
+371,1265,48,14,* * * EXAMINATION,symbols,,start_question
+372,1268,48,17,"Good morning again, Doctor.  Roger Foley again for the Port Authority. I want you to take a look at your report that you prepared.  Now, this report that you prepared for the law firm of Simon & Simon regarding Miss Johns begins, ""I had the opportunity to evaluate and treat Miss Johns starting on October 18, 2017."" Do you see that?",q,MR. FOLEY,start_answer
+373,1278,49,1,Yes.,a,THE WITNESS,start_question
+374,1279,49,2,Okay.  When have you ever evaluated or treated Miss Johns on any day other than October 18th of 2017?,q,MR. FOLEY,start_answer
+375,1282,49,5,"November 19, 2018.  So maybe a month later.",a,THE WITNESS,start_question
+376,1283,49,6,"Well, this report is 2017.",q,MR. FOLEY,start_answer
+377,1284,49,7,"Oh, I'm sorry.  Maybe a year later.  Sorry. Yes.  I apologize.",a,THE WITNESS,start_chat
+378,1286,49,9,Could we go off the record?,side_chat,MR. FOLEY,start_chat
+379,1287,49,10,The time is 8:57 a.m. We are going off the video record.,side_chat,THE VIDEOGRAPHER,start_chat
+380,1289,49,12,"I never received anything on this.  Nothing.  So that's going to be a major problem here, because I'm going to need every single document that he did regarding her treatment.  So I don't know what you want to do.  Do you have a medical record concerning that treatment?",side_chat,MR. FOLEY,start_chat
+381,1295,49,18,Yeah.,side_chat,THE WITNESS,start_chat
+382,1296,49,19,"I mean, we're doing a deposition of a Doctor and you haven't given me all the medical records for the Doctor.",side_chat,MR. FOLEY,start_chat
+383,1299,49,22,I don't -- we gave you everything that we have.,side_chat,MS. HENKLE,start_chat
+384,1301,49,24,Well --,side_chat,MR. FOLEY,start_chat
+385,1302,49,25,Did you ever subpoena their records?,side_chat,MS. HENKLE,start_chat
+386,1305,50,2,"I wish I had it with me, too, but -- and I can get it.  I specifically asked -- I don't know if you have it and want to grab your file, do you have her responses to supplemental discovery in this case?",side_chat,MR. FOLEY,start_chat
+387,1310,50,7,Probably on my computer.,side_chat,MS. HENKLE,start_chat
+388,1311,50,8,Because I specifically asked whether or not she received any treatment after a specific date.,side_chat,MR. FOLEY,start_chat
+389,1314,50,11,I don't believe any treatment was made on that date.  It was just an evaluation.,side_chat,THE WITNESS,start_chat
+390,1317,50,14,That's considered treatment.,side_chat,MR. FOLEY,start_chat
+391,1318,50,15,Okay.  I don't know that.,side_chat,THE WITNESS,start_chat
+392,1319,50,16,And the answer was no.,side_chat,MR. FOLEY,start_chat
+393,1320,50,17,"She didn't -- I mean, she didn't receive any treatment but --",side_chat,MS. HENKLE,start_chat
+394,1322,50,19,"Get the answer to supplemental reports, if you could for me, please.",side_chat,MR. FOLEY,start_chat
+395,1324,50,21,All right.,side_chat,MS. HENKLE,start_chat
+396,1325,50,22,Off the record.,side_chat,MR. FOLEY,symbols
+397,1326,50,23,* * *,symbols,,is brackets
+398,1327,50,24,"(Whereupon, a brief recess was taken.)",brackets,,symbols
+399,1328,50,25,* * *,symbols,,start_chat
+400,1330,51,1,Go on.,side_chat,MR. FOLEY,start_chat
+401,1331,51,2,"I just realized that what this was is the update.  This was an erroneous encounter, see 11/19/2018, it's blocked off as an erroneous encounter.  So there was some errors in the original notes.  So I actually did not have this encounter in person with the patient.  This was just an adjustment to an existing record.",side_chat,THE WITNESS,start_chat
+402,1338,51,9,Okay.,side_chat,MR. FOLEY,start_chat
+403,1339,51,10,"So you're correct, I did not have an encounter other than the 2017 encounter.",side_chat,THE WITNESS,start_chat
+404,1341,51,12,Okay.,side_chat,MR. FOLEY,start_chat
+405,1342,51,13,"Even though on the computer it's listed as an encounter, I didn't see the note here.  It's an erroneous encounter.",side_chat,THE WITNESS,start_chat
+406,1345,51,16,Okay.  So we got to clear that up on the video.,side_chat,MR. FOLEY,start_chat
+407,1347,51,18,That's fine.,side_chat,MS. HENKLE,start_chat
+408,1348,51,19,"What I will do, just so everybody's on the same page and maybe the way I will do it is I will say we had a discussion off the record regarding this November 19, 2018, treatment date, and it's my understanding that that wasn't a date that actually -- what should I say?",side_chat,MR. FOLEY,start_chat
+409,1354,51,25,"I would say if you want to -- the last thing that he said was that was a year later.  If you say, like, if you ask if you saw her in person, he can just clear it up that way and say.",side_chat,MS. HENKLE,symbols
+410,1359,52,4,. .,symbols,,start_chat
+411,1360,52,5,I think I have a way to do that.,side_chat,MR. FOLEY,start_chat
+412,1362,52,7,I apologize.  I didn't see that.,side_chat,THE WITNESS,start_chat
+413,1364,52,9,We can go back on the video.,side_chat,MR. FOLEY,start_chat
+414,1365,52,10,The time is 9:12 a.m. We are back on the video record.,side_chat,THE VIDEOGRAPHER,start_chat
+415,1367,52,12,"Thank you, Doctor, I really appreciate you taking the time to have us sort out treatment dates.",side_chat,MR. FOLEY,start_question
+416,1371,52,16,My understanding is -- and then I'm going to have you explain it --,q,MR. FOLEY,start_answer
+417,1373,52,18,Sure.,a,THE WITNESS,start_question
+418,1374,52,19,"-- we were talking about a treatment date on December 18, 2017, which is referenced in your report, and then you had another medical record from November 19, 2018.  It's my understanding that that actually wasn't a date of treatment, correct?",q,MR. FOLEY,start_answer
+419,1379,52,24,That is correct.,a,THE WITNESS,start_question
+420,1380,52,25,Can you explain to the jury what happened or why you have a record from November 19th of 2018?,q,MR. FOLEY,start_answer
+421,1383,53,2,"So it looks like my medical assistant had picked up a computer concern on the 10/18/2017 visit, which would have had some problems with the documentation from the computer itself and went ahead and took that information and put the addendum.  So it was listed as an erroneous encounter on 11/19/2018, meaning that information was in reference to the original date 10/18/2017. There was no physical encounter with the patient on 11/19, just a computer encounter.",a,THE WITNESS,start_question
+422,1393,53,12,Right.  So just to be clear --,q,MR. FOLEY,start_answer
+423,1394,53,13,Yes.,a,THE WITNESS,start_question
+424,1395,53,14,-- if you look at your expert report --,q,MR. FOLEY,start_answer
+425,1396,53,15,Right.,a,THE WITNESS,start_question
+426,1397,53,16,"-- would you agree with me that you really evaluated Miss Johns only on October 18, 2017, as opposed to starting on October 18, 2017?",q,MR. FOLEY,start_answer
+427,1400,53,19,Yes.  Correct.,a,THE WITNESS,start_question
+428,1401,53,20,"Okay.  So that treatment of Miss Johns or when you saw her on October 18, 2017, I believe you indicated was three months after the bus accident itself in July of 2017, right?",q,MR. FOLEY,start_answer
+429,1405,53,24,That's right.,a,THE WITNESS,start_question
+430,1406,53,25,Okay.  Thank you very much.,q,MR. FOLEY,start_answer
+431,1408,54,1,No problem.,a,THE WITNESS,start_question
+432,1409,54,2,"Now, the report itself that I'm looking at you prepared on November 19th of 2018, correct?",q,MR. FOLEY,start_answer
+433,1411,54,4,Yes.,a,THE WITNESS,start_question
+434,1412,54,5,That's the date on the report?,q,MR. FOLEY,start_answer
+435,1413,54,6,That's right.,a,THE WITNESS,start_question
+436,1414,54,7,"Okay.  So there was at least an entire year between the time that you actually saw Miss Johns in October of 2017 and the time that you prepared your report in November of 2018, correct?",q,MR. FOLEY,start_answer
+437,1418,54,11,Yes.,a,THE WITNESS,start_question
+438,1419,54,12,"And then we have another three-quarters of a year between the time that you prepared this report in November of 2018 and today's deposition, correct?",q,MR. FOLEY,start_answer
+439,1423,54,16,"That's right, yes.",a,THE WITNESS,start_question
+440,1424,54,17,"And the symptoms that you reference in your report, those are symptoms that you observed of Miss Johns back in October of 2017, right?",q,MR. FOLEY,start_answer
+441,1427,54,20,"Yes, correct.",a,THE WITNESS,start_question
+442,1428,54,21,"So those are symptoms that Miss Johns told you about almost two years prior to today's deposition, correct?",q,MR. FOLEY,start_answer
+443,1431,54,24,"Yes, correct.",a,THE WITNESS,start_question
+444,1432,54,25,"And the symptoms of Miss Johns that you reference in your report were also symptoms that Miss Johns described to you prior to you performing any facet joint injections, correct?",q,MR. FOLEY,start_answer
+445,1437,55,4,Yes.,a,THE WITNESS,start_question
+446,1438,55,5,Have you ever communicated with Miss Johns after she received the facet joint injections from you in October of 2017 in order to determine the result of those injections?,q,MR. FOLEY,start_answer
+447,1442,55,9,"Directly with me, no.  There may have been office encounter from front desk staff, things like that, that were phone discussions, but nothing where she had come in and had the discussion with me.",a,THE WITNESS,start_question
+448,1446,55,13,"And by you, I'm speaking of you, personally.",q,MR. FOLEY,start_answer
+449,1448,55,15,Yes.,a,THE WITNESS,start_question
+450,1449,55,16,"So have you, person testifying today, ever communicated with Miss Johns after she completed her chiropractic treatment in November of 2017 in order to determine the results of that treatment?",q,MR. FOLEY,start_answer
+451,1453,55,20,No.,a,THE WITNESS,start_question
+452,1454,55,21,And have you ever had any communication whatsoever with Miss Johns between the date that you evaluated and treated her in October of 2017 and today?,q,MR. FOLEY,start_answer
+453,1458,55,25,No.,a,THE WITNESS,start_question
+454,1460,56,1,"Now, just like you're having your deposition taken today, Miss Johns had her deposition taken regarding this lawsuit back on October 3rd of 2018.",q,MR. FOLEY,start_answer
+455,1464,56,5,Okay.,a,THE WITNESS,start_question
+456,1465,56,6,"Prior to you preparing your report in this case in November of 2018, did you ever review Miss Johns' deposition testimony from October of 2018 in order to get updated on her condition an entire year since you last saw her?",q,MR. FOLEY,start_answer
+457,1470,56,11,"No, I did not.",a,THE WITNESS,start_question
+458,1471,56,12,"At any time between when you prepared your report on November 18th of 2018 and today, have you ever reviewed Miss Johns' deposition testimony in order to get updated on her condition?",q,MR. FOLEY,start_answer
+459,1475,56,16,No.,a,THE WITNESS,start_question
+460,1476,56,17,"Has Miss Johns' law firm, Simon & Simon, ever provided you with a transcript of her deposition testimony --",q,MR. FOLEY,start_answer
+461,1479,56,20,No.,a,THE WITNESS,start_question
+462,1480,56,21,-- from October of 2018 so that you could take the time to review it prior to testifying now prior to trial?,q,MR. FOLEY,start_answer
+463,1483,56,24,No.,a,THE WITNESS,start_question
+464,1484,56,25,Would you agree with me that in the report you prepared for Simon & Simon regarding Miss Johns you referenced that you reviewed a medical record from March 9th of 2015 --,q,MR. FOLEY,start_answer
+465,1489,57,4,Yes.,a,THE WITNESS,start_question
+466,1490,57,5,"-- which references some complaints that Miss Johns had at that time, which were prior to the bus accident, about back and neck pain?",q,MR. FOLEY,start_answer
+467,1493,57,8,Yes.,a,THE WITNESS,start_question
+468,1494,57,9,"Now, I do understand, as you testified, that you reviewed some medical records regarding neck injuries that Miss Johns had prior to the bus accident.",q,MR. FOLEY,start_answer
+469,1498,57,13,Sure.,a,THE WITNESS,start_question
+470,1499,57,14,"But did you ever personally speak to Miss Johns about those prior neck injuries, associated symptoms, and associated treatment?",q,MR. FOLEY,start_answer
+471,1502,57,17,No.,a,THE WITNESS,start_question
+472,1503,57,18,"I am now going to show you a copy of that medical record from March 9, 2015, that you reference in your report regarding Miss Johns. Now, if you look at the second page of that document, under the section problems, one of Miss Johns' problems at that time is referenced as ""cervical radiculopathy.""  Do you see that?",q,MR. FOLEY,start_answer
+473,1510,57,25,"I do, yes.",a,THE WITNESS,start_question
+474,1512,58,1,"And in your report regarding Miss Johns for this litigation, you agree that prior to the bus accident Miss Johns was diagnosed with cervical radiculopathy, correct?",q,MR. FOLEY,start_answer
+475,1516,58,5,Yes.,a,THE WITNESS,start_question
+476,1517,58,6,And you discussed previously what cervical radiculopathy is.  If you could remind the jury what Miss Johns was experiencing at that time prior to the bus accident; what's that all about again?,q,MR. FOLEY,start_answer
+477,1521,58,10,So that would be pain associated with nerve compression that results in shooting pain in the arms.,a,THE WITNESS,start_question
+478,1524,58,13,"Okay.  I am now going to show you a medical record which is dated February 16th of 2015, which once again was from prior to the bus accident and is regarding chiropractic treatment received by Miss Johns at that time.  Did you ever review this document prior to preparing your report regarding Miss Johns in November of 2018?",q,MR. FOLEY,start_answer
+479,1531,58,20,The Shady Hill records do appear familiar. Let me see; just to confirm.  Yes.,a,THE WITNESS,start_question
+480,1533,58,22,"So the medical record that I just provided you references that Miss Johns experienced neck, right arm, and mid back pain in February of 2015. Do you see that?",q,MR. FOLEY,start_answer
+481,1538,59,1,Yes.,a,THE WITNESS,start_question
+482,1539,59,2,And that medical record also references that in February of 2015 Miss Johns experienced radiation into her right lateral forearm. Do you see that?,q,MR. FOLEY,start_answer
+483,1543,59,6,Yes.,a,THE WITNESS,start_question
+484,1544,59,7,Is the radiating pain for which Miss Johns sought chiropractic treatment in February of 2015 the same as the cervical radiculopathy that we just spoke about previously?,q,MR. FOLEY,start_answer
+485,1548,59,11,It is similar.  And it is cervical radiculopathy.  And what they're describing is cervical radiculopathy.,a,THE WITNESS,start_question
+486,1551,59,14,"Now, you indicated in your report that you prepared that in October of 2017 when you evaluated Miss Johns after the bus accident, she again had pain that radiated into her right arm and right forearm; is that correct?",q,MR. FOLEY,start_answer
+487,1556,59,19,Yes.,a,THE WITNESS,start_question
+488,1557,59,20,"So Miss Johns experienced cervical radiculopathy once again after the bus accident, right?",q,MR. FOLEY,start_answer
+489,1560,59,23,Yes.,a,THE WITNESS,start_question
+490,1561,59,24,"The medical record I just handed to you also references that Miss Johns related to her chiropractor in February of 2015 that her symptoms flared up gradually over the last two months without trauma, specific incident, or known cause. Do you see that?",q,MR. FOLEY,start_answer
+491,1568,60,5,Um -- oh.  Yes.  Okay.,a,THE WITNESS,start_question
+492,1569,60,6,Do you see that?,q,MR. FOLEY,start_answer
+493,1570,60,7,Yes.,a,THE WITNESS,start_question
+494,1571,60,8,"So can neck pain, including cervical radiculopathy, ever flare up without any trauma or specific incident?  Can that happen?",q,MR. FOLEY,start_answer
+495,1574,60,11,Sure.  Anything's possible.,a,THE WITNESS,start_question
+496,1575,60,12,"And does your office treat any patients who have neck pain, including pain that radiates down their arms that was not caused by an auto accident or any other known traumatic event?",q,MR. FOLEY,start_answer
+497,1579,60,16,Sure.,a,THE WITNESS,start_question
+498,1580,60,17,And do you treat those patients with the same type of treatment that you administered to Miss Johns in October of 2017?,q,MR. FOLEY,start_answer
+499,1583,60,20,Yes.,a,THE WITNESS,start_question
+500,1584,60,21,The February 2015 medical record that I handed to you also references that an orthopedic examination of Miss Johns' cervical spine at that time was indicative of foraminal encroachment?,q,MR. FOLEY,start_answer
+501,1588,60,25,Yes.,a,THE WITNESS,start_question
+502,1590,61,1,Do you see that?,q,MR. FOLEY,start_answer
+503,1591,61,2,Yes.,a,THE WITNESS,start_question
+504,1592,61,3,And is that the same foraminal encroachment that you described to me earlier --,q,MR. FOLEY,start_answer
+505,1594,61,5,Yes.,a,THE WITNESS,start_question
+506,1595,61,6,-- where it's pinching up against nerves?,q,MR. FOLEY,start_answer
+507,1596,61,7,That's right.,a,THE WITNESS,start_question
+508,1597,61,8,"And Miss Johns had that condition, that foraminal encroachment back in February of 2015?",q,MR. FOLEY,start_answer
+509,1599,61,10,Sure.,a,THE WITNESS,start_question
+510,1600,61,11,"The orthopedic examination of Miss Johns' cervical spine in February of 2015 prior to the bus accident also reveals adhesions of the nerve root, dural sleeve, or facet joint capsule. Do you see that?",q,MR. FOLEY,start_answer
+511,1605,61,16,Sure.,a,THE WITNESS,start_question
+512,1606,61,17,What does that mean?,q,MR. FOLEY,start_answer
+513,1607,61,18,I have no idea.  This depressor test seems to be a chiropractic type test that really doesn't show anything that makes any sense at all.  I would imagine that you would need an MRI to visualize adhesions of a nerve root.  There's no way to examine a patient for adhesions of a nerve root.,a,THE WITNESS,start_question
+514,1613,61,24,"Now, your written report, I'm going to refer to that once again, regarding Miss Johns for this litigation.  After referring to that March 2015 diagnosis of cervical radiculopathy, it indicates: ""However, her pain was significantly improved and there were no further complaints."" Do you see that?",q,MR. FOLEY,start_answer
+515,1621,62,6,Yes.,a,THE WITNESS,start_question
+516,1622,62,7,At what point in time after March of 2015 did Miss Johns have no further complaints about neck pain?,q,MR. FOLEY,start_answer
+517,1625,62,10,"If I quoted it, it would have been out of a note, but doesn't appear to have the date.",a,THE WITNESS,start_question
+518,1627,62,12,Let me ask you this --,q,MR. FOLEY,start_answer
+519,1628,62,13,Yes.,a,THE WITNESS,start_question
+520,1629,62,14,-- were you ever made aware that Miss Johns had to seek additional treatment for neck pain and cervical radiculopathy after that point in time?,q,MR. FOLEY,start_answer
+521,1632,62,17,No.,a,THE WITNESS,start_question
+522,1633,62,18,More specifically in August of 2015; do you have any knowledge of that?,q,MR. FOLEY,start_answer
+523,1635,62,20,No.,a,THE WITNESS,start_question
+524,1636,62,21,"Okay.  Prior to preparing your report for this litigation in November of 2018, did you ever review any medical records from the UPMC Centers for Rehab Services regarding physical therapy that Miss Johns received in August of 2015 for new neck pain?",q,MR. FOLEY,start_answer
+525,1642,63,1,Let me just verify the UPMC records that I have.,a,THE WITNESS,start_question
+526,1644,63,3,I will submit to you that when I look at your report under records review --,q,MR. FOLEY,start_answer
+527,1646,63,5,Yes.,a,THE WITNESS,start_question
+528,1647,63,6,-- I do not see anything listed for UPMC Centers for Rehab Services.,q,MR. FOLEY,start_answer
+529,1649,63,8,"Then I would not have, yeah.",a,THE WITNESS,start_question
+530,1650,63,9,"Okay.  Now, did Miss Johns' law firm, Simon & Simon, ever provide you with any medical records from physical therapy that Miss Johns received in August 2015 to treat for that new neck pain for you to review prior to testifying here at trial?",q,MR. FOLEY,start_answer
+531,1655,63,14,"Not that I'm aware of, no.",a,THE WITNESS,start_question
+532,1656,63,15,"I now want to speak to you about x-rays taken of Miss Johns' cervical spine prior to the bus accident. Now, the report from the x-rays of Miss Johns' cervical spine in February of 2015 indicates: ""Degenerative disc disease is mild at C5-C6.  There is bilateral mild to moderate neuroforaminal narrowing at C5-C6."" Do you see that on the x-ray report?",q,MR. FOLEY,start_answer
+533,1665,63,24,Yes.  Certainly.,a,THE WITNESS,start_question
+534,1666,63,25,And did you review this medical record prior to preparing your report regarding this litigation in November of the 2018?,q,MR. FOLEY,start_answer
+535,1670,64,3,Yes.  This is the Metro Community Health information.,a,THE WITNESS,start_question
+536,1672,64,5,And is the neural foraminal narrowing that is referenced in Miss Johns' February 2015 x-ray the same as the foraminal narrowing that you described to me earlier?,q,MR. FOLEY,start_answer
+537,1676,64,9,No.  Because the foraminal narrowing I showed you on the MRI was not mild to moderate.  It was moderate to severe.,a,THE WITNESS,start_question
+538,1679,64,12,"Okay.  And I'm talking about the idea of neural foraminal narrowing, what that is.",q,MR. FOLEY,start_answer
+539,1681,64,14,Sure.  Yeah.,a,THE WITNESS,start_question
+540,1682,64,15,"It's the same thing, right?",q,MR. FOLEY,start_answer
+541,1683,64,16,Yeah.,a,THE WITNESS,start_question
+542,1684,64,17,And is the degenerative disc disease that is referenced in Miss Johns' February 2015 x-ray progressive in nature?,q,MR. FOLEY,start_answer
+543,1687,64,20,Of course it is.,a,THE WITNESS,start_question
+544,1688,64,21,"So that's to say that a person's degenerative disc disease can get more severe simply as a result of the passage of time, correct?",q,MR. FOLEY,start_answer
+545,1691,64,24,Right.  But it won't protrude like it did on the MRI as I showed you.,a,THE WITNESS,start_question
+546,1694,65,1,"So a person's discs in their neck can degenerate over time without the need for a specific traumatic event or incident, correct?",q,MR. FOLEY,start_answer
+547,1697,65,4,"Yes, of course.",a,THE WITNESS,start_question
+548,1698,65,5,And can a person's -- I think you were talking about this earlier -- can a person's degenerative disc disease result in a disc being protruded?,q,MR. FOLEY,start_answer
+549,1702,65,9,Can a degenerative. . .,a,THE WITNESS,start_question
+550,1703,65,10,"Can a person's degenerative disc disease ultimately result in a disc protrusion?  And by way of example, you testified regarding yourself.  I have also had back surgery and I have disc protrusions.  I've never any traumatic events or car accidents or anything.  I have a disc protrusion.",q,MR. FOLEY,start_answer
+551,1709,65,16,"Sure.  But that isn't the result of degeneration.  Disc degeneration leads to dehydration, and it's the opposite of protrusion; it would actually contract.  So a protrusion -- two things can happen that result in a protrusion.  A trauma or accident results in a protrusion.  And then a normal or healthy disc with poor spine alignment can result in a protrusion.  But degeneration in and of itself doesn't cause protrusion.",a,THE WITNESS,start_question
+552,1720,66,1,"So we just discussed Miss Johns' x-rays taken of her cervical spine in February of 2015, which was before the accident, correct?",q,MR. FOLEY,start_answer
+553,1723,66,4,Yes.,a,THE WITNESS,start_question
+554,1724,66,5,"And then she had an MRI taken of her cervical spine over two years later in September of 2017 after the bus accident, correct?",q,MR. FOLEY,start_answer
+555,1727,66,8,Yes.,a,THE WITNESS,start_question
+556,1728,66,9,"And then she also had a CAT scan, CT scan of her cervical spine taken the same day as the bus accident, which was negative for any acute fractures, correct?",q,MR. FOLEY,start_answer
+557,1732,66,13,Yes.,a,THE WITNESS,start_question
+558,1733,66,14,"Are you aware of or did you otherwise review any reports from any other x-rays, MRIs or other diagnostic tests of Miss Johns' cervical spine taken during that two and a half-year time period between February of 2015 and September of 2017?",q,MR. FOLEY,start_answer
+559,1738,66,19,No.,a,THE WITNESS,start_question
+560,1739,66,20,Would you agree that there is no way that you can determine the age of Miss Johns' cervical condition that is referenced and you talked about in detail in her September 2017 MRI report?,q,MR. FOLEY,start_answer
+561,1743,66,24,That's correct.,a,THE WITNESS,start_question
+562,1744,66,25,Okay.  And likewise would you agree that any disc protrusion that may have been noted in Miss Johns' MRI from September of 2017 may have existed prior to the bus accident ever taking place?,q,MR. FOLEY,start_answer
+563,1749,67,4,Of course.,a,THE WITNESS,start_question
+564,1750,67,5,And would you also agree that a person can have the cervical condition that is referenced in Miss Johns' September 2017 MRI and still be pain free?,q,MR. FOLEY,start_answer
+565,1754,67,9,Yes.,a,THE WITNESS,start_question
+566,1755,67,10,"So even though Miss Johns may have been pain free in July of 2017 at the time of the bus accident, that doesn't mean that Miss Johns was also free of any degenerative disc disease; does it?",q,MR. FOLEY,start_answer
+567,1759,67,14,No.  Of course not.,a,THE WITNESS,start_question
+568,1760,67,15,"In fact, the degenerative disc disease that Miss Johns had, at least as of February 2015, is not something that just goes away; is it?",q,MR. FOLEY,start_answer
+569,1763,67,18,No.,a,THE WITNESS,start_question
+570,1764,67,19,"Additionally, even though Miss Johns may have been pain free in July of 2017 at the time of the bus accident, that also doesn't necessarily mean that Miss Johns was also free of any disc protrusion, right?",q,MR. FOLEY,start_answer
+571,1769,67,24,Of course.,a,THE WITNESS,start_question
+572,1770,67,25,"So once again, you evaluated Miss Johns on October 18th of 2017, which is the same day that you gave her the facet injections, correct?",q,MR. FOLEY,start_answer
+573,1774,68,3,That's right.,a,THE WITNESS,start_question
+574,1775,68,4,"Based upon your review of the medical records provided by Miss Johns' attorneys to your office, do you have any knowledge of Miss Johns receiving any additional facet injections since that day in October of 2017?",q,MR. FOLEY,start_answer
+575,1780,68,9,No.,a,THE WITNESS,start_question
+576,1781,68,10,Do you have any knowledge of Miss Johns receiving any chiropractic treatment or physical therapy regarding her neck since November of 2017?,q,MR. FOLEY,start_answer
+577,1784,68,13,No.,a,THE WITNESS,start_question
+578,1785,68,14,Do you have any knowledge of Miss Johns receiving any treatment or studies whatsoever regarding her neck since December of 2017?,q,MR. FOLEY,start_answer
+579,1788,68,17,No.,a,THE WITNESS,start_question
+580,1789,68,18,"So in December of this year, 2019, to the best of your knowledge Miss Johns is coming up on two entire years of no treatment for her neck injuries, correct?  To the best of your knowledge.",q,MR. FOLEY,start_answer
+581,1793,68,22,"The information I'm given, I have no idea where or what treatment she's had.",a,THE WITNESS,start_question
+582,1795,68,24,"But according to your report that you prepared for Miss Johns' attorneys as part of this litigation, you believe that Miss Johns now needs to receive three cervical epidural injections every six months for no less than ten years, right?",q,MR. FOLEY,start_answer
+583,1801,69,4,Correct.,a,THE WITNESS,start_question
+584,1802,69,5,So would you agree that comes to an alleged need of 60 epidural injections over the next ten years for Miss Johns?,q,MR. FOLEY,start_answer
+585,1805,69,8,"Potentially, yes.",a,THE WITNESS,start_question
+586,1806,69,9,And you also believe that in addition to those epidural injections Miss Johns needs another facet block as well as the cervical ablation procedures every 12 months for no less than ten years?,q,MR. FOLEY,start_answer
+587,1811,69,14,Right.,a,THE WITNESS,start_question
+588,1812,69,15,"So according to your report, although you have no knowledge of Miss Johns receiving any treatment for her neck injury since December of 2017, over the next ten years you believe that Miss Johns will need 60 epidural injections, another facet block, and 12 cervical ablations, correct?",q,MR. FOLEY,start_answer
+589,1818,69,21,Ten -- that would be ten ablations.,a,THE WITNESS,start_question
+590,1819,69,22,Ten ablations?  Okay.  Correct?,q,MR. FOLEY,start_answer
+591,1820,69,23,That is correct.,a,THE WITNESS,start_question
+592,1821,69,24,"Okay.  And you testified earlier this morning when I was asking you about that type of treatment provided by your office, such treatment can actually or has potential to resolve a patient's symptoms, correct?",q,MR. FOLEY,start_answer
+593,1827,70,4,Sure.,a,THE WITNESS,start_question
+594,1828,70,5,"That's the reason why you give that type of treatment, right?",q,MR. FOLEY,start_answer
+595,1830,70,7,That's right.,a,THE WITNESS,start_question
+596,1831,70,8,"Now, we've discussed previously the date of your report, once again, is November 19th of 2018.",q,MR. FOLEY,start_answer
+597,1833,70,10,Right.,a,THE WITNESS,start_question
+598,1834,70,11,Did you provide a copy of your report to Miss Johns' attorneys back in November 2018 so they could share your opinions with Miss Johns?,q,MR. FOLEY,start_answer
+599,1837,70,14,I have no idea what they do with the reports.,a,THE WITNESS,start_question
+600,1839,70,16,"What I'm asking is did your office or you provide this report, your report dated November 19, 2018, to Miss Johns' attorneys?",q,MR. FOLEY,start_answer
+601,1842,70,19,"Yes, of course.",a,THE WITNESS,start_question
+602,1843,70,20,Okay.  At that time?,q,MR. FOLEY,start_answer
+603,1844,70,21,Yes.,a,THE WITNESS,start_question
+604,1845,70,22,Okay.  Do you have --,q,MR. FOLEY,start_answer
+605,1846,70,23,"I'm sorry.  It was written on 11/19, but I'm not sure when it was sent.  Shortly thereafter.",a,THE WITNESS,start_question
+606,1848,70,25,Shortly thereafter it would have been sent.,q,MR. FOLEY,start_answer
+607,1850,71,1,Yes.,a,THE WITNESS,start_question
+608,1851,71,2,Do you have any knowledge of Miss Johns ever scheduling or receiving any epidural injections since you provided your report around November of 2018?,q,MR. FOLEY,start_answer
+609,1855,71,6,No.,a,THE WITNESS,start_question
+610,1856,71,7,Do you have any knowledge of Miss Johns ever scheduling or receiving any facet blocks since you provided your report in November of 2018?,q,MR. FOLEY,start_answer
+611,1859,71,10,No.,a,THE WITNESS,start_question
+612,1860,71,11,Do you have any knowledge of Miss Johns ever scheduling or receiving any cervical ablations or rhizotomies since you provided your report in November of 2018?,q,MR. FOLEY,start_answer
+613,1864,71,15,No.,a,THE WITNESS,start_question
+614,1865,71,16,Do you have any knowledge of Miss Johns ever scheduling or receiving any treatment from her primary care physician regarding neck pain since November of 2018?,q,MR. FOLEY,start_answer
+615,1869,71,20,No.,a,THE WITNESS,start_question
+616,1870,71,21,"Dr. Navalgund, does your DNA Treatment Center perform the type of epidural injections that you believe are needed in the future by Miss Johns?",q,MR. FOLEY,start_answer
+617,1873,71,24,"Yes, we certainly do.",a,THE WITNESS,start_question
+618,1874,71,25,And does the DNA Treatment Center also perform the type of facet blocks that you believe are needed in the future by Miss Johns?,q,MR. FOLEY,start_answer
+619,1878,72,3,Yes.,a,THE WITNESS,start_question
+620,1879,72,4,And does your DNA Treatment Center also perform the type of cervical ablations or rhizotomies such as those you believe are needed in the future by Miss Johns?,q,MR. FOLEY,start_answer
+621,1883,72,8,Yes.,a,THE WITNESS,start_question
+622,1884,72,9,"So to the extent that Miss Johns obtains that future treatment referenced in your report, and does so at the DNA Treatment Center --",q,MR. FOLEY,start_answer
+623,1887,72,12,Sure.,a,THE WITNESS,start_question
+624,1888,72,13,"-- which she can go anywhere, but to the extent she goes there where she has gone previously, the money paid for that treatment will be money that's received by the DNA Treatment Center, correct?",q,MR. FOLEY,start_answer
+625,1893,72,18,"Yes, obviously.",a,THE WITNESS,start_question
+626,1894,72,19,"And that's the DNA Treatment Center, of course, of which you are an owner, correct?",q,MR. FOLEY,start_answer
+627,1896,72,21,Yes.  Correct.,a,THE WITNESS,start_chat
+628,1897,72,22,I do not have any further questions at this time.,side_chat,MR. FOLEY,start_chat
+629,1899,72,24,"Just a few questions, Doctor.",side_chat,MS. HENKLE,start_chat
+630,1902,73,1,Sure.  Yeah.,side_chat,THE WITNESS,symbols
+631,1903,73,2,* * * FURTHER EXAMINATION,symbols,,start_question
+632,1906,73,5,In your practice do you typically see cervical facet injuries?,q,MS. HENKLE,start_answer
+633,1908,73,7,"Yeah, of course.",a,THE WITNESS,start_question
+634,1909,73,8,"And when treating the cervical facet injury, are things like cervical ablations or rhizotomies and epidural steroid injections things that those patients get frequently in the future?",q,MS. HENKLE,start_answer
+635,1913,73,12,Yes.,a,THE WITNESS,start_chat
+636,1914,73,13,I'm going to just object. You're now outside of the scope of the report in terms of how frequency treatment is or not.  So I'm going to object to any questioning regarding anything that's outside the scope of the report.,side_chat,MR. FOLEY,start_chat
+637,1919,73,18,"My response is just that it is in the report about how often patients are -- should be getting these future treatments that he has recommended.  He says not only for just Miss Johns, he says patients typically get these about -- for the injections in excess of three and the ablations every 12 months, I believe it was.",side_chat,MS. HENKLE,start_chat
+638,1926,73,25,Yeah.  I don't see that.  If you can point it out to me.,side_chat,MR. FOLEY,start_chat
+639,1929,74,2,For how often the treatments are repeated?,side_chat,MS. HENKLE,start_chat
+640,1931,74,4,"Yeah, how -- generally just how often treatments are needed.  I see as related to Miss Johns.  I'm just talking generally.",side_chat,MR. FOLEY,start_chat
+641,1934,74,7,"Well, he testified that in his cross -- or direct that the epidural steroid injections are typically in sets of three and they can range from being needed every six months to every year.  That was testimony that he had already given.",side_chat,MS. HENKLE,start_chat
+642,1940,74,13,"Okay.  Then that stands for -- if you we go outside the scope of the report, I'm going to object to it.  I'm just making you aware of that.  And I think now you're getting into topics outside of the scope of the report.  You may continue to question, but I'm honing in on whether or not he's reported that.",side_chat,MR. FOLEY,start_chat
+643,1947,74,20,Okay.  I'm going to continue to question.,side_chat,MS. HENKLE,start_chat
+644,1949,74,22,Okay.,side_chat,MR. FOLEY,start_question
+645,1951,74,24,"When you treat the cervical facet injuries that you've discussed thoroughly in your report and here today, is this something that requires these future treatments?",q,MS. HENKLE,start_answer
+646,1956,75,3,Sure.  That's a standard of care for that particular diagnosis.,a,THE WITNESS,start_question
+647,1958,75,5,And your testimony earlier was that this is a permanent injury; is that correct?,q,MS. HENKLE,start_answer
+648,1960,75,7,That's correct.,a,THE WITNESS,start_question
+649,1961,75,8,"And seeing that it's a permanent injury, is it likely that Miss Johns will need these in the future even though she hasn't treated in two years with you?",q,MS. HENKLE,start_answer
+650,1965,75,12,"Yes, of course.",a,THE WITNESS,start_chat
+651,1966,75,13,Okay.  No further questions.,side_chat,MS. HENKLE,start_chat
+652,1968,75,15,I don't have anything further.,side_chat,MR. FOLEY,start_chat
+653,1970,75,17,All right.  The time is 9:39 a.m.  This concludes this video deposition.,side_chat,THE VIDEOGRAPHER,start_chat
+654,1972,75,19,How do you want your copy?,side_chat,COURT REPORTER,start_chat
+655,1974,75,21,I'll take a regular full size paper.,side_chat,MR. FOLEY,start_chat
+656,1976,75,23,How do you want yours?,side_chat,COURT REPORTER,start_chat
+657,1977,75,24,"Just electronic is fine. CONCLUDED -- 9:39 A.M. CERTIFICATE COMMONWEALTH OF PENNSYLVANIA ) COUNTY OF WESTMORELAND       ) Reporter-Certified Realtime Reporter and Notary do hereby certify that the witness, YESHANT the truth, the whole truth, and nothing but the stenotype by me and reduced to typewriting under my constitutes a true record of the testimony given by taken at the time and place stated herein. I further certify that the inspection, by counsel for the respective parties and by the relative, employee or attorney or counsel of any of attorney or counsel or financially interested hand and affixed my seal of office this 27th day of Dutcheen O. Cameron, RMR, CRR",side_chat,MS. HENKLE,end

@@ -1,0 +1,708 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0,,,,start_chat
+1,111,4,17,Sure.,side_chat,MR. DOBSON,symbols
+2,112,4,18,-  -  - EXAMINATION,symbols,,symbols
+3,114,4,20,-  -  -,symbols,,start_question
+4,116,4,22,Hi.  My name is Kathleen Eager.  This is a deposition.  Have you ever been deposed before?,q,MS. EAGER,start_answer
+5,118,4,24,(No response.),a,THE WITNESS,start_question
+6,120,5,1,Have you ever been in a deposition before?,q,MS. EAGER,start_answer
+7,121,5,2,No.,a,THE WITNESS,start_question
+8,122,5,3,"This is just my opportunity to ask you questions regarding this accident.  There's just a few things to remember about a deposition that are different than the course of a normal conversation. Oftentimes in normal conversations we tend to answer questions by making hand gestures or nodding our head or saying mm-hmm.  In a deposition we have a court reporter, so everything you say has to be audible so she can record it.",q,MS. EAGER,start_answer
+9,131,5,12,Okay.,a,THE WITNESS,start_question
+10,132,5,13,"Also, during the course of normal conversation sometimes we tend to anticipate the end of a question and we start to answer before the other person is finished.  Once again, because we have a court reporter, she has to record everything we say, so we both can't be speaking at once.  So just try to wait until I'm finished before you answer the question.",q,MS. EAGER,start_answer
+11,140,5,21,All right.,a,THE WITNESS,start_question
+12,141,5,22,"The most important thing to remember is to tell the truth.  If you don't remember something, simply say ""I don't remember.""  I don't want you to have to guess.",q,MS. EAGER,start_answer
+13,146,6,2,Okay.,a,THE WITNESS,start_question
+14,147,6,3,"If at any point you need me to repeat a question, or if I'm speaking too fast, which I sometimes do, just ask me and we can do so.",q,MS. EAGER,start_answer
+15,150,6,6,Okay.,a,THE WITNESS,start_question
+16,151,6,7,"I don't anticipate this taking too long.  I think the setup probably will have taken longer than this actual deposition, but if at any point you need to stop and take a break or speak to your attorney, just let me know and we can do so.",q,MS. EAGER,start_answer
+17,156,6,12,Okay.,a,THE WITNESS,start_question
+18,157,6,13,We'll start with something simple.  What's your name?,q,MS. EAGER,start_answer
+19,159,6,15,Preston Moragne.,a,THE WITNESS,start_question
+20,160,6,16,Your date of birth?,q,MS. EAGER,start_answer
+21,161,6,17,7/27/70.,a,THE WITNESS,start_question
+22,162,6,18,And your present address?,q,MS. EAGER,start_answer
+23,163,6,19,421 Springton Way.,a,THE WITNESS,start_question
+24,164,6,20,Who do you presently reside with?,q,MS. EAGER,start_answer
+25,165,6,21,My wife and children.,a,THE WITNESS,start_question
+26,166,6,22,And what is your wife's name?,q,MS. EAGER,start_answer
+27,167,6,23,Nina.  Same last name.,a,THE WITNESS,start_question
+28,168,6,24,And how many children reside with you?,q,MS. EAGER,start_answer
+29,170,7,1,"Well, I have one at home and then one at college -- two at college.",a,THE WITNESS,start_question
+30,172,7,3,What is the age of the child at home?,q,MS. EAGER,start_answer
+31,173,7,4,16.,a,THE WITNESS,start_question
+32,174,7,5,How long have you lived at that residence?,q,MS. EAGER,start_answer
+33,175,7,6,About 14 years.,a,THE WITNESS,start_question
+34,176,7,7,"So, it's safe to say you lived there at the time of the accident?",q,MS. EAGER,start_answer
+35,178,7,9,Yes.,a,THE WITNESS,start_question
+36,179,7,10,And at the time of the accident were you living with your wife and children as well?,q,MS. EAGER,start_answer
+37,181,7,12,Yes.,a,THE WITNESS,start_question
+38,182,7,13,Why don't you tell me a little bit about your educational history.,q,MS. EAGER,start_answer
+39,184,7,15,"I have a bachelor's degree from Millersville University.  And I'm a private pilot, certified private pilot.",a,THE WITNESS,start_question
+40,187,7,18,What high school did you graduate from?,q,MS. EAGER,start_answer
+41,188,7,19,Abraham Lincoln High School in Philadelphia.,a,THE WITNESS,start_question
+42,190,7,21,And you said you have a private pilot certification?  Is that what you said?,q,MS. EAGER,start_answer
+43,192,7,23,Correct.,a,THE WITNESS,start_question
+44,193,7,24,Any other schooling or certifications?,q,MS. EAGER,start_answer
+45,195,8,1,I'm a certified scuba diver.,a,THE WITNESS,start_question
+46,196,8,2,Anything else?,q,MS. EAGER,start_answer
+47,197,8,3,That's about it.,a,THE WITNESS,start_question
+48,198,8,4,Are you presently employed?,q,MS. EAGER,start_answer
+49,199,8,5,Yes.,a,THE WITNESS,start_question
+50,200,8,6,Where at?,q,MS. EAGER,start_answer
+51,201,8,7,Lancaster Early Education Center.,a,THE WITNESS,start_question
+52,202,8,8,How long have you been employed there?,q,MS. EAGER,start_answer
+53,203,8,9,"There, about -- going on like three weeks.",a,THE WITNESS,start_question
+54,204,8,10,Okay.,q,MS. EAGER,start_answer
+55,205,8,11,"Because I volunteer there also, so...",a,THE WITNESS,start_question
+56,206,8,12,What are your job duties there?,q,MS. EAGER,start_answer
+57,207,8,13,I do the marketing for them.,a,THE WITNESS,start_question
+58,208,8,14,Is that full-time?,q,MS. EAGER,start_answer
+59,209,8,15,Yes.,a,THE WITNESS,start_question
+60,210,8,16,Monday through Friday?,q,MS. EAGER,start_answer
+61,211,8,17,Yes.,a,THE WITNESS,start_question
+62,212,8,18,40 hours a week?,q,MS. EAGER,start_answer
+63,213,8,19,Yes.,a,THE WITNESS,start_question
+64,214,8,20,Are you paid hourly or by salary?,q,MS. EAGER,start_answer
+65,215,8,21,It is salary.,a,THE WITNESS,start_question
+66,216,8,22,Do you know what that is by chance?,q,MS. EAGER,start_answer
+67,217,8,23,It's like 22.50.  22.50 an hour is what it boils out to be.,a,THE WITNESS,start_question
+68,220,9,1,Where did you work prior to that?,q,MS. EAGER,start_answer
+69,221,9,2,"Prior to that, I also own my own company which I do marketing for.  It's a marketing company.",a,THE WITNESS,start_question
+70,223,9,4,What is that company's name?,q,MS. EAGER,start_answer
+71,224,9,5,"Karman Line Marketing, with a ""K"".",a,THE WITNESS,start_question
+72,225,9,6,How long did you have that company?,q,MS. EAGER,start_answer
+73,226,9,7,"Five years, at least.",a,THE WITNESS,start_question
+74,227,9,8,Is that where you were working at the time of the accident?,q,MS. EAGER,start_answer
+75,229,9,10,Yes.,a,THE WITNESS,start_question
+76,230,9,11,What kind of job duties do you do at your company?,q,MS. EAGER,start_answer
+77,232,9,13,I did digital marketing.,a,THE WITNESS,start_chat
+78,233,9,14,"And just to verify, there is no wage loss or loss of earning capacity claim; correct?",side_chat,MS. EAGER,start_chat
+79,236,9,17,Right.,side_chat,MR. DOBSON,start_question
+80,238,9,19,Let's talk about the date of the accident. Do you remember the date?,q,MS. EAGER,start_answer
+81,240,9,21,The date itself?,a,THE WITNESS,start_question
+82,241,9,22,Yes.,q,MS. EAGER,start_answer
+83,242,9,23,I just remember it was in May.,a,THE WITNESS,start_question
+84,243,9,24,"Would May 10th, 2016 sound correct?",q,MS. EAGER,start_answer
+85,245,10,1,I would say so.,a,THE WITNESS,start_question
+86,246,10,2,Do you remember the time?,q,MS. EAGER,start_answer
+87,247,10,3,It was in the afternoon.,a,THE WITNESS,start_question
+88,248,10,4,And how about the weather conditions that day?,q,MS. EAGER,start_answer
+89,250,10,6,Clear.,a,THE WITNESS,start_question
+90,251,10,7,"How about the roadway?  Was it wet; was it dry, if you can recall?",q,MS. EAGER,start_answer
+91,253,10,9,Dry.,a,THE WITNESS,start_question
+92,254,10,10,Were you the driver of the vehicle?,q,MS. EAGER,start_answer
+93,255,10,11,Yes.,a,THE WITNESS,start_question
+94,256,10,12,Did you have any passengers in your vehicle?,q,MS. EAGER,start_answer
+95,258,10,14,No.,a,THE WITNESS,start_question
+96,259,10,15,What kind of vehicle were you driving?,q,MS. EAGER,start_answer
+97,260,10,16,Nissan Altima.  A black Nissan Altima.  I think it was like a 2015.,a,THE WITNESS,start_question
+98,262,10,18,Where were you coming from at the time of the accident?,q,MS. EAGER,start_answer
+99,264,10,20,I was coming from Lancaster City and I was headed down Columbia Avenue.,a,THE WITNESS,start_question
+100,266,10,22,Where were you headed to?,q,MS. EAGER,start_answer
+101,267,10,23,Home.,a,THE WITNESS,start_question
+102,268,10,24,Why don't you just tell me what happened in the accident?,q,MS. EAGER,start_answer
+103,271,11,2,"So, I was on Columbia Avenue and there's a lot of traffic on that street, and I was stopped because of the traffic.  Then I just saw a car in my rearview mirror.  I stopped and I always just check back to see if anybody else is -- making sure everybody else is going to stop, and I just noticed this car, like, coming at a high rate of speed.  And at that point I was like, Wow, I hope this car slows down.  And boom, it didn't slow down.  And then I was rear ended.",a,THE WITNESS,start_question
+104,281,11,12,Just some followup questions on that.  So at the time of impact were you stopped?,q,MS. EAGER,start_answer
+105,283,11,14,Yes.,a,THE WITNESS,start_question
+106,284,11,15,And you said you saw the vehicle prior to impact; correct?,q,MS. EAGER,start_answer
+107,286,11,17,Correct.,a,THE WITNESS,start_question
+108,287,11,18,Could you approximate how far the vehicle was when you first saw it?,q,MS. EAGER,start_answer
+109,289,11,20,"When I first saw it, it looked like it was probably about -- well, the part of that area that I was in, it could have been maybe about ten cars back.",a,THE WITNESS,start_question
+110,293,11,24,Were you able to approximate the speed of the vehicle?,q,MS. EAGER,start_answer
+111,296,12,2,It was going faster than anything that I saw in my rearview mirror before.,a,THE WITNESS,start_question
+112,298,12,4,Could you clarify that at all?,q,MS. EAGER,start_answer
+113,299,12,5,"No.  I couldn't tell you the speed, but I can tell you that it was alarming to see someone coming when I'm stopped and somebody not slowing down.  It was just...",a,THE WITNESS,start_question
+114,303,12,9,"Would you say more than 15 miles an hour, 20 miles an hour?",q,MS. EAGER,start_answer
+115,305,12,11,"Yeah.  It was probably around like at least 15, 20 miles an hour.",a,THE WITNESS,start_question
+116,307,12,13,And you said you saw the vehicle prior to impact.  Were you able to take any evasive measures to avoid the impact?,q,MS. EAGER,start_answer
+117,310,12,16,"When I looked out of my rearview mirror, I was, like, wow, this car is going to go, but the car that was in front of me didn't allow me to -- I wouldn't have been able to swerve.  So, I didn't get the opportunity to do anything.",a,THE WITNESS,start_question
+118,315,12,21,What part of the other vehicle impacted your vehicle?,q,MS. EAGER,start_answer
+119,317,12,23,Her front end impacted my car.,a,THE WITNESS,start_question
+120,318,12,24,"How would you categorize the severity of the impact?  Would you say it was a light impact, medium, heavy?",q,MS. EAGER,start_answer
+121,322,13,3,"Well, I had to take my car to get it repaired.  The trunk, the fender, some under -- construction parts, I don't know what you call them, but that all had to get redone by the body shop.",a,THE WITNESS,start_question
+122,326,13,7,How would you actually categorize the impact as you were in the vehicle?,q,MS. EAGER,start_answer
+123,328,13,9,"Oh, my impact?",a,THE WITNESS,start_question
+124,329,13,10,"The impact, yes.",q,MS. EAGER,start_answer
+125,330,13,11,I would say it was heavy.,a,THE WITNESS,start_question
+126,331,13,12,A heavy impact?,q,MS. EAGER,start_answer
+127,332,13,13,Yeah.,a,THE WITNESS,start_question
+128,333,13,14,Did your airbags deploy?,q,MS. EAGER,start_answer
+129,334,13,15,No.,a,THE WITNESS,start_question
+130,335,13,16,"So, upon impact, what happened to your body inside the vehicle?  Did you move forward, backward, to the left, to the right?",q,MS. EAGER,start_answer
+131,338,13,19,"So, upon impact, I felt two things:  I felt my abs get stressed out, and I guess that was because of the seatbelt catching me from the impact. And then the back of my head, because it felt -- I know for a fact that I blacked out for like a few seconds or whatever it was, because I was disoriented.  So, I didn't know if I hit my head on the steering wheel or the headset -- I mean, the headrest had hit the back of my head, or my head hit the headrest, whichever one you want to call it, but I felt that impact.",a,THE WITNESS,start_question
+132,350,14,6,Did your body move forward?  Is that what you are stating?,q,MS. EAGER,start_answer
+133,352,14,8,"Yeah.  Well, the car hit me and it slammed my head into the headrest, which caused the stress of my stomach and then the back of my head.",a,THE WITNESS,start_question
+134,355,14,11,"Okay.  So, your body moved backwards if you hit the headrest?",q,MS. EAGER,start_answer
+135,357,14,13,"Yeah, but it moved forward into the seatbelt.",a,THE WITNESS,start_question
+136,359,14,15,"It moved forward and backward, to summarize?",q,MS. EAGER,start_answer
+137,361,14,17,"Yeah, exactly.",a,THE WITNESS,start_question
+138,362,14,18,Once the seatbelt locked up?  Is that what you meant?,q,MS. EAGER,start_answer
+139,364,14,20,Right.  Yeah.,a,THE WITNESS,start_question
+140,365,14,21,"And I think we have covered this a little bit, but just to specifically ask, did your body strike anything inside the vehicle?",q,MS. EAGER,start_answer
+141,368,14,24,Yes.  Definitely the headrest.,a,THE WITNESS,start_question
+142,370,15,1,Anything else that you can recall?,q,MS. EAGER,start_answer
+143,371,15,2,Being pushed up against the seatbelt more.,a,THE WITNESS,start_question
+144,372,15,3,Okay.  Did you have any open cuts or bruises?,q,MS. EAGER,start_answer
+145,374,15,5,No.,a,THE WITNESS,start_question
+146,375,15,6,"I think you briefly mentioned this as well, but did you lose consciousness?",q,MS. EAGER,start_answer
+147,377,15,8,Yes.,a,THE WITNESS,start_question
+148,378,15,9,And then after impact what happened?,q,MS. EAGER,start_answer
+149,379,15,10,"After impact, I -- Well, I looked back out the window to see -- I looked back out the rearview mirror to see if the car was there.  And then I didn't see a car behind me.  And then I exited my car.  I saw my car was hit, and I'm like, Wow. Like, What happened? And then I looked at the guy -- Well, I looked at the car that was behind me at that time. I said, Did you hit me?  And he was like, No, no. And I looked at this other car, and I said, Did you hit me?  And he's like, No. I said, Do you know who hit me?  And then he was like, Oh, it's the car up there. So the person that hit me had taken off. So, then I drove up in the middle of the median on Columbia Avenue to find the car with the front end damage.  And then finally I'm like, You hit me.  And she's like, Yeah. I said, You've got to pull over in this lot.  So then I pulled over in the lot, and she was like, Well, you know, I didn't think it was that bad, or something like that. I said, Hey, you've got to wait for the police to come.  And she's like, I have to go; I have to pick up my children.  How long is that going to take?  I said, Well, I don't know how long it's going to take, but we have to wait for the police. And I said, Your car is leaking.  And she said, Oh, my car is leaking?  Am I going to be able to get to work?  Is it okay to drive like this? I'm, like, Listen.  I don't know about your situation, but we have to wait for the police to come.",a,THE WITNESS,start_question
+150,414,16,20,Okay.,q,MS. EAGER,start_answer
+151,415,16,21,And then she attempted to drive off and then I had to park her in so she couldn't pull out. It was a disaster.,a,THE WITNESS,start_question
+152,418,16,24,"Just some followup questions on that. So the impact, you stated that you were stopped on Columbia Avenue, correct?",q,MS. EAGER,start_answer
+153,422,17,3,Correct.,a,THE WITNESS,start_question
+154,423,17,4,And then you felt the impact and then she drove away?,q,MS. EAGER,start_answer
+155,425,17,6,Correct.,a,THE WITNESS,start_question
+156,426,17,7,So you followed her on Columbia Avenue?,q,MS. EAGER,start_answer
+157,427,17,8,"I had to catch up to her because it was a traffic jam on Columbia Avenue.  Well, not a traffic jam, but everybody was stopped. And then, again, once I was hit, she pulled over.  Like I pulled into the median just to try to let the traffic pass, and then other people were going onto the shoulder to go around me.  And then that's when the guy -- somebody was like, Hey, there's a car up there.  And I drove up, you know, beside the car actually to figure out who it was. And then I was able to.",a,THE WITNESS,start_question
+158,438,17,19,How were you able to get her attention?,q,MS. EAGER,start_answer
+159,439,17,20,"I was like, Hey.  Because I looked at her car and I was like, Hey, you hit me, pull over.  And then that's when she pulled over.",a,THE WITNESS,start_question
+160,442,17,23,So she had her window down and you were able --,q,MS. EAGER,start_answer
+161,445,18,1,No.  I was just signifying.,a,THE WITNESS,start_question
+162,446,18,2,Okay.,q,MS. EAGER,start_answer
+163,447,18,3,Yeah.,a,THE WITNESS,start_question
+164,448,18,4,So you were just making hand gestures for her to pull off the side of the road?,q,MS. EAGER,start_answer
+165,450,18,6,Correct.,a,THE WITNESS,start_question
+166,451,18,7,"And she did so, obviously?",q,MS. EAGER,start_answer
+167,452,18,8,Yes.,a,THE WITNESS,start_question
+168,453,18,9,And you said you pulled over into a parking lot?,q,MS. EAGER,start_answer
+169,455,18,11,Correct.,a,THE WITNESS,start_question
+170,456,18,12,I think the police report might have said it was a --,q,MS. EAGER,start_answer
+171,458,18,14,Dairy Queen.,a,THE WITNESS,start_question
+172,459,18,15,-- Dairy Queen parking lot.  Does that sound correct?,q,MS. EAGER,start_answer
+173,461,18,17,Yes.,a,THE WITNESS,start_question
+174,462,18,18,And who called the police?,q,MS. EAGER,start_answer
+175,463,18,19,I called the police.,a,THE WITNESS,start_question
+176,464,18,20,And you mentioned that you had a conversation with her and that was basically about how she had to go and pick up her kids and her vehicle was drivable?,q,MS. EAGER,start_answer
+177,468,18,24,Correct.,a,THE WITNESS,start_question
+178,470,19,1,Was anything else done?,q,MS. EAGER,start_answer
+179,471,19,2,Excuse me?,a,THE WITNESS,start_question
+180,472,19,3,Did she say anything else?,q,MS. EAGER,start_answer
+181,473,19,4,"She just said, I am going to be late to pick up my children; I can't be late.  And, I have to go, and, I can't wait here.",a,THE WITNESS,start_question
+182,476,19,7,"I think you stated that you parked her in so that she couldn't leave, correct?",q,MS. EAGER,start_answer
+183,478,19,9,Yeah.,a,THE WITNESS,start_question
+184,479,19,10,"So when the police arrived, she was still there?",q,MS. EAGER,start_answer
+185,481,19,12,Correct.,a,THE WITNESS,start_question
+186,482,19,13,Did you speak to the police?,q,MS. EAGER,start_answer
+187,483,19,14,Did I speak to the police?,a,THE WITNESS,start_question
+188,484,19,15,Yes.,q,MS. EAGER,start_answer
+189,485,19,16,Yes.,a,THE WITNESS,start_question
+190,486,19,17,Did you tell them the same thing you just told me?,q,MS. EAGER,start_answer
+191,488,19,19,Yes.,a,THE WITNESS,start_question
+192,489,19,20,How did you leave the accident scene?,q,MS. EAGER,start_answer
+193,490,19,21,I left the accident scene in my vehicle.,a,THE WITNESS,start_question
+194,491,19,22,So your vehicle was drivable at that point?,q,MS. EAGER,start_answer
+195,492,19,23,Yes.,a,THE WITNESS,start_question
+196,493,19,24,Did the police ask you if you wanted an ambulance?,q,MS. EAGER,start_answer
+197,496,20,2,Yes.,a,THE WITNESS,start_question
+198,497,20,3,What did you say?,q,MS. EAGER,start_answer
+199,498,20,4,I said no.,a,THE WITNESS,start_question
+200,499,20,5,Why did you say no?,q,MS. EAGER,start_answer
+201,500,20,6,I said no because at the time I wanted to get home from the accident.,a,THE WITNESS,start_question
+202,502,20,8,"So even though you said you lost consciousness, you still didn't want to get that checked out?",q,MS. EAGER,start_answer
+203,505,20,11,Not at the moment.,a,THE WITNESS,start_question
+204,506,20,12,And then where did you go?,q,MS. EAGER,start_answer
+205,507,20,13,I went home.,a,THE WITNESS,start_question
+206,508,20,14,And then where was the next place that you sought treatment for injuries sustained in the accident?,q,MS. EAGER,start_answer
+207,511,20,17,"So after I went home, I was like, wow, I'm feeling kind of foggy.  You know what, I never felt this way before, so I went to the emergency room.",a,THE WITNESS,start_question
+208,514,20,20,So you drove yourself to the emergency room?,q,MS. EAGER,start_answer
+209,516,20,22,I believe my wife drove me to the emergency room.,a,THE WITNESS,start_question
+210,518,20,24,Do you approximately know how many hours you went to the emergency room after the accident?,q,MS. EAGER,start_answer
+211,521,21,2,I don't know.,a,THE WITNESS,start_question
+212,522,21,3,"Is it the same day, though?",q,MS. EAGER,start_answer
+213,523,21,4,"Yeah.  I think so, yeah. Or, no.  It was probably the day later. I don't know.",a,THE WITNESS,start_question
+214,526,21,7,The same day or a day later?,q,MS. EAGER,start_answer
+215,527,21,8,Yeah.,a,THE WITNESS,start_question
+216,528,21,9,At that point where were you feeling pain on your body?,q,MS. EAGER,start_answer
+217,530,21,11,"At that point that's when the pain intensified, and then I was feeling pain, again, in the abdomen area, lower back and the back of the head.",a,THE WITNESS,start_question
+218,534,21,15,"So on a zero-to-ten pain scale, with zero being absolutely no pain and ten being the most pain you ever felt, at that point after the accident, how would you categorize the pain in your abs?",q,MS. EAGER,start_answer
+219,538,21,19,That was an eight.,a,THE WITNESS,start_question
+220,539,21,20,And how about your lower back?,q,MS. EAGER,start_answer
+221,540,21,21,That was the same all around.,a,THE WITNESS,start_question
+222,541,21,22,An eight?  And your head was an eight as well then?,q,MS. EAGER,start_answer
+223,543,21,24,No.  That was a nine.,a,THE WITNESS,start_question
+224,545,22,1,Okay.,q,MS. EAGER,start_answer
+225,546,22,2,Yeah.,a,THE WITNESS,start_question
+226,547,22,3,And what did the hospital say when you got there?,q,MS. EAGER,start_answer
+227,549,22,5,"They said they would check me out for -- they would check my abs, check my head, give me an MRI.",a,THE WITNESS,start_question
+228,552,22,8,Do you remember the results of the MRI?,q,MS. EAGER,start_answer
+229,553,22,9,I do not remember the results of the MRI.,a,THE WITNESS,start_question
+230,554,22,10,Do you remember anything else they did?,q,MS. EAGER,start_answer
+231,555,22,11,No.,a,THE WITNESS,start_question
+232,556,22,12,"And they discharged you, I'm guessing?",q,MS. EAGER,start_answer
+233,557,22,13,Yes.,a,THE WITNESS,start_question
+234,558,22,14,Do you know how long you were at the hospital prior to discharge?,q,MS. EAGER,start_answer
+235,560,22,16,I was at the hospital for a few hours. Then they gave me some kind of pain medicine.,a,THE WITNESS,start_question
+236,562,22,18,"That was my next question:  Upon discharge, did the hospital say anything or did they provide you any medication?",q,MS. EAGER,start_answer
+237,565,22,21,"They just told me that if I felt groggy or anything like that, you know, let them know.  If anything continues to get worse, stop back in, if anything gets worse.",a,THE WITNESS,start_question
+238,570,23,1,I think you mentioned medication.  Do you remember what kind of medication they gave you?,q,MS. EAGER,start_answer
+239,572,23,3,I don't remember.,a,THE WITNESS,start_question
+240,573,23,4,"Was it an over-the-counter medication, a prescription medication, do you remember?",q,MS. EAGER,start_answer
+241,575,23,6,I think they gave me some Tylenol.,a,THE WITNESS,start_question
+242,576,23,7,Tylenol?,q,MS. EAGER,start_answer
+243,577,23,8,Yeah.,a,THE WITNESS,start_question
+244,578,23,9,Where is the next place that you went for your injuries?,q,MS. EAGER,start_answer
+245,580,23,11,The next place I went to was to a chiropractor.,a,THE WITNESS,start_question
+246,582,23,13,Do you remember the chiropractor's name?,q,MS. EAGER,start_answer
+247,583,23,14,Sheehan Chiropractic.,a,THE WITNESS,start_question
+248,584,23,15,So how did you come to find this chiropractor?,q,MS. EAGER,start_answer
+249,586,23,17,"So, when I went to the chiropractor, I -- Can you repeat the question?",a,THE WITNESS,start_question
+250,588,23,19,"How did you find the chiropractor?  Did you look through the phonebook, did someone recommend you?",q,MS. EAGER,start_answer
+251,591,23,22,"Yeah, yeah, yeah.",a,THE WITNESS,start_question
+252,592,23,23,Had you previously seen him?,q,MS. EAGER,start_answer
+253,593,23,24,"No, no, no.  I had did some research, and then I was like, all right, I am going to go to this chiropractor.",a,THE WITNESS,start_question
+254,597,24,3,Like a Goggle search?,q,MS. EAGER,start_answer
+255,598,24,4,Yes.,a,THE WITNESS,start_question
+256,599,24,5,That's probably what I would have done.,q,MS. EAGER,start_answer
+257,600,24,6,Yeah.,a,THE WITNESS,start_question
+258,601,24,7,"So you went to the chiropractor, and when you went to him what did you complain of?",q,MS. EAGER,start_answer
+259,603,24,9,"I told him that I was in a car accident. And then he said, Okay, let me run some tests and let me see where you are at.",a,THE WITNESS,start_question
+260,606,24,12,Do you remember what kind of tests he ran?,q,MS. EAGER,start_answer
+261,607,24,13,He did a spinal alignment test just to -- and then he did some kind of muscle testing to measure if different muscles are being stressed out.,a,THE WITNESS,start_question
+262,610,24,16,Do you remember the results of those tests?,q,MS. EAGER,start_answer
+263,611,24,17,He said that I had damage or muscle intensity in my lower back and the back of my head and shoulders.,a,THE WITNESS,start_question
+264,614,24,20,"You said in your lower back, back of your head and shoulders?",q,MS. EAGER,start_answer
+265,616,24,22,Yeah.,a,THE WITNESS,start_question
+266,617,24,23,And then what did he say?,q,MS. EAGER,start_answer
+267,618,24,24,"He said that having -- getting an alignment or getting some kind of treatments would help reduce that, reduce those stresses.",a,THE WITNESS,start_question
+268,622,25,3,"And at this point when you went to see the chiropractor, we talked earlier about that pain scale and you had put your lower back at an eight. Had it intensified, lowered or stayed at that pain level?",q,MS. EAGER,start_answer
+269,627,25,8,At that time it was the same.,a,THE WITNESS,start_question
+270,628,25,9,And how about your head?,q,MS. EAGER,start_answer
+271,629,25,10,The same.,a,THE WITNESS,start_question
+272,630,25,11,A nine?,q,MS. EAGER,start_answer
+273,631,25,12,Yes.,a,THE WITNESS,start_question
+274,632,25,13,And what about your abs at this point?,q,MS. EAGER,start_answer
+275,633,25,14,It was the same.,a,THE WITNESS,start_question
+276,634,25,15,Did he say anything about that?,q,MS. EAGER,start_answer
+277,635,25,16,"Actually, he was the one that said, hey.  I said, I don't know what's going on, but my abs hurt. And then he was like, Yeah, that can be from your seatbelt locking up from the impact.  And I was like, Oh, that makes sense because I never felt my abs be that tight before.  Or maybe it wasn't tight; it was just the seatbelt just catching me.",a,THE WITNESS,start_question
+278,643,25,24,Did you have any bruising there from the seatbelt?  Sometimes people do.,q,MS. EAGER,start_answer
+279,646,26,2,I don't recall.,a,THE WITNESS,start_question
+280,647,26,3,You said that the chiropractor recommended alignments; is that correct?,q,MS. EAGER,start_answer
+281,649,26,5,"Yeah.  He recommended alignments, and he did some other tests.  And then he said, you know, Are you having trouble concentrating or something like that?  And I was like, Yeah, I feel like foggy. And then he was like, Well, it's possible that you suffered a concussion.  And I said, Well -- and then he asked me did I ever have any concussions before, and said I said no.  And he said, You have the symptoms of a concussion.",a,THE WITNESS,start_question
+282,658,26,14,Okay.,q,MS. EAGER,start_answer
+283,659,26,15,"And I was like, Well, that makes sense because I wasn't feeling as sharp as I normally feel.  For the things that I do I am normally one hundred percent focused and I just could not get that focus back.",a,THE WITNESS,start_question
+284,664,26,20,What else did he say?,q,MS. EAGER,start_answer
+285,665,26,21,"He said, you know, You can start this treatment and these treatments will have a possibility of being able to get you back to the way that you used to be.",a,THE WITNESS,start_question
+286,670,27,1,The treatments being the alignments?,q,MS. EAGER,start_answer
+287,671,27,2,The treatments was -- Yes.,a,THE WITNESS,start_question
+288,672,27,3,Did he recommend any treatment for the concussion?,q,MS. EAGER,start_answer
+289,674,27,5,"Did he recommend any treatment for the concussion?  No.  He just said that, you know, getting an alignment would alleviate some -- it would alleviate some stress on the joints and it's probably muscles that are swelling up that are keeping me out of alignment.",a,THE WITNESS,start_question
+290,680,27,11,And did you have those alignments?,q,MS. EAGER,start_answer
+291,681,27,12,Yes.,a,THE WITNESS,start_question
+292,682,27,13,And did they help you?,q,MS. EAGER,start_answer
+293,683,27,14,Yes.  For a few hours.,a,THE WITNESS,start_question
+294,684,27,15,So they would help you for a few hours and then the pain would come back?,q,MS. EAGER,start_answer
+295,686,27,17,Yes.,a,THE WITNESS,start_question
+296,687,27,18,Do you know how many sessions you went through?,q,MS. EAGER,start_answer
+297,689,27,20,Yeah.  I was going three times a week for months.,a,THE WITNESS,start_question
+298,691,27,22,At some point were you discharged or are you still getting alignments?,q,MS. EAGER,start_answer
+299,693,27,24,I go to a different chiropractor now.,a,THE WITNESS,start_question
+300,695,28,1,We'll get to that then.  Just this one.,q,MS. EAGER,start_answer
+301,696,28,2,"All right.  Just for this one, yeah, I went to him for, like I said, like seven months.",a,THE WITNESS,start_question
+302,698,28,4,Seven months?,q,MS. EAGER,start_answer
+303,699,28,5,Yeah.  At least.,a,THE WITNESS,start_question
+304,700,28,6,Were you discharged or did you just leave on your own?,q,MS. EAGER,start_answer
+305,702,28,8,How did that go down?  I think I wound up leaving on my own.,a,THE WITNESS,start_question
+306,704,28,10,"Upon leaving, did you still have pain in your abs, lower back and head?",q,MS. EAGER,start_answer
+307,706,28,12,"It had decreased some, but I know that it's still there.",a,THE WITNESS,start_question
+308,708,28,14,"When you say it decreased some, upon discharge where would you put the pain on your abs?",q,MS. EAGER,start_answer
+309,710,28,16,I would say that went down to maybe like a six.,a,THE WITNESS,start_question
+310,712,28,18,And how about your back?,q,MS. EAGER,start_answer
+311,713,28,19,"The back is just a continuous stressor, so maybe like down one, to like a seven.",a,THE WITNESS,start_question
+312,715,28,21,How about your head?,q,MS. EAGER,start_answer
+313,716,28,22,An eight.,a,THE WITNESS,start_question
+314,717,28,23,Did he say these alignments were going to help the pain in your abs?,q,MS. EAGER,start_answer
+315,720,29,1,No.,a,THE WITNESS,start_question
+316,721,29,2,Let's talk about that then. Did you ever seek any treatment to alleviate the pain in your abs?,q,MS. EAGER,start_answer
+317,724,29,5,I never sought any treatment for the abs.,a,THE WITNESS,start_question
+318,725,29,6,You never sought any treatment?,q,MS. EAGER,start_answer
+319,726,29,7,"I was always healthy, so I thought maybe if I went to the gym or something like that, or tried to do something else, it would just go away.",a,THE WITNESS,start_question
+320,729,29,10,Did it go away?,q,MS. EAGER,start_answer
+321,730,29,11,"The abs aren't as bad as it was, but...",a,THE WITNESS,start_question
+322,731,29,12,"Presently sitting here today, are you feeling pain in your abs?",q,MS. EAGER,start_answer
+323,733,29,14,"Not in the abs, no.",a,THE WITNESS,start_question
+324,734,29,15,Are there times where you do feel pain in your abs throughout the day?,q,MS. EAGER,start_answer
+325,736,29,17,No.,a,THE WITNESS,start_question
+326,737,29,18,So you don't -- it's not an issue anymore?,q,MS. EAGER,start_answer
+327,738,29,19,No.,a,THE WITNESS,start_question
+328,739,29,20,"So then we'll go back to your back and your head. So after you were done the sessions with Dr. Sheehan, where is the next place you sought treatment?",q,MS. EAGER,start_answer
+329,745,30,1,"The next place I sought treatment was, I believe it was in Philadelphia, and I did some -- Sheehan's had recommended that I go to a nerve damage specialist.",a,THE WITNESS,start_question
+330,749,30,5,Would that have been Dr. Grossinger?  Does that sound familiar?,q,MS. EAGER,start_answer
+331,751,30,7,Yes.,a,THE WITNESS,start_question
+332,752,30,8,"When you went to Dr. Grossinger, what did you complain of?",q,MS. EAGER,start_answer
+333,754,30,10,I complained of the back of my head and lower back.,a,THE WITNESS,start_question
+334,756,30,12,And what did he do for you?,q,MS. EAGER,start_answer
+335,757,30,13,He did some -- I believe he did some stim treatment maybe or an EK -- I don't know the terminology of what he did.,a,THE WITNESS,start_question
+336,760,30,16,An EMG?,q,MS. EAGER,start_answer
+337,761,30,17,"Yeah.  That sounds familiar, yeah.",a,THE WITNESS,start_question
+338,762,30,18,He ran some tests on you?,q,MS. EAGER,start_answer
+339,763,30,19,Yes.,a,THE WITNESS,start_question
+340,764,30,20,To that effect?,q,MS. EAGER,start_answer
+341,765,30,21,Yes.,a,THE WITNESS,start_question
+342,766,30,22,Do you remember the results of any of those?,q,MS. EAGER,start_answer
+343,768,30,24,I believe that he said that I should continue with my treatments from Sheehan.  Because I remember there was some other doctor that did some nerve damage treatment.,a,THE WITNESS,start_question
+344,773,31,4,Would that have be Dr. Michele Holding of Advantage Medical & Rehabilitation?,q,MS. EAGER,start_answer
+345,775,31,6,Yes.  Yeah.,a,THE WITNESS,start_question
+346,776,31,7,Okay.  They did some nerve damage testing?,q,MS. EAGER,start_answer
+347,777,31,8,Yes.,a,THE WITNESS,start_question
+348,778,31,9,Do you remember the results of those?,q,MS. EAGER,start_answer
+349,779,31,10,Yes.  Damaged nerves.,a,THE WITNESS,start_question
+350,780,31,11,Do you remember where they said those nerves were that were damaged?,q,MS. EAGER,start_answer
+351,782,31,13,She said -- I just remember her saying that I had some nerve damage.,a,THE WITNESS,start_question
+352,784,31,15,"Do you remember if that was in your back, your neck?",q,MS. EAGER,start_answer
+353,786,31,17,"She did treatment all over.  When she was treating me, she did something in my hands and then through my arms.  So I don't know where she was treating or what the test results -- I don't know how the test ran for her to know what -- I don't do the testing, so I don't know, but I know that the tests weren't positive for my situation.",a,THE WITNESS,start_question
+354,793,31,24,Okay.,q,MS. EAGER,start_answer
+355,795,32,1,"That's what she related to me, because I wasn't responding to something that she was doing. And then I was like, What's going on?  And then she was like, That's because you have nerve damage.  And I was like, All right.  I didn't know.",a,THE WITNESS,start_question
+356,800,32,6,"Let's just go to back to Dr. Grossinger. When you saw him, he told you to continue with Dr. Sheehan, correct?",q,MS. EAGER,start_answer
+357,803,32,9,Yes.,a,THE WITNESS,start_question
+358,804,32,10,Did he tell you anything else?,q,MS. EAGER,start_answer
+359,805,32,11,No.,a,THE WITNESS,start_question
+360,806,32,12,Recommend anything else?,q,MS. EAGER,start_answer
+361,807,32,13,No.,a,THE WITNESS,start_question
+362,808,32,14,What did Dr. Holding tell you?,q,MS. EAGER,start_answer
+363,809,32,15,She said for me to continue treatment with Dr. Sheehan also.,a,THE WITNESS,start_question
+364,811,32,17,And did you do that?,q,MS. EAGER,start_answer
+365,812,32,18,Yes.,a,THE WITNESS,start_question
+366,813,32,19,And did that help at all?,q,MS. EAGER,start_answer
+367,814,32,20,As I continued with him?,a,THE WITNESS,start_question
+368,815,32,21,Yes.,q,MS. EAGER,start_answer
+369,816,32,22,"Like some -- After I would get an alignment, it would be okay.  So if I was continuously getting the alignments, then I would be okay, but if I would go like two to three, four days without getting treatment, then everything would go back to being in a tight spot and I would feel unaligned.",a,THE WITNESS,start_question
+370,824,33,5,"I think you said at some point you stopped treating with Dr. Sheehan, correct?",q,MS. EAGER,start_answer
+371,826,33,7,Correct.,a,THE WITNESS,start_question
+372,827,33,8,Do you remember when that was?,q,MS. EAGER,start_answer
+373,828,33,9,No.,a,THE WITNESS,start_question
+374,829,33,10,"Would that have been -- Do you remember the year?  Would it have been 2016, 2017, 2018?",q,MS. EAGER,start_answer
+375,831,33,12,Ah...,a,THE WITNESS,start_question
+376,832,33,13,"Because I think the last thing that I have with him was back in 2016, around December, November of 2016.",q,MS. EAGER,start_answer
+377,835,33,16,So that was like a year after the accident then?,a,THE WITNESS,start_question
+378,837,33,18,Yeah.,q,MS. EAGER,start_answer
+379,838,33,19,"Yeah.  I mean, yeah.  That is pretty much -- after I stopped seeing him, then I went to Long's Chiropractic.",a,THE WITNESS,start_question
+380,841,33,22,Why did you switch to Long's Chiropractic?,q,MS. EAGER,start_answer
+381,842,33,23,"They were like more convenient, closer to my house.",a,THE WITNESS,start_question
+382,845,34,1,How did you find them?  The same thing with the Google search?,q,MS. EAGER,start_answer
+383,847,34,3,Yes.,a,THE WITNESS,start_question
+384,848,34,4,"When you went to see them, did you complain of the same thing with your lower back and your head?",q,MS. EAGER,start_answer
+385,851,34,7,Yes.,a,THE WITNESS,start_question
+386,852,34,8,Anything else did you complain of?,q,MS. EAGER,start_answer
+387,853,34,9,I told them about my knee.,a,THE WITNESS,start_question
+388,854,34,10,What knee?,q,MS. EAGER,start_answer
+389,855,34,11,My left knee.,a,THE WITNESS,start_question
+390,856,34,12,When did the pain in your left knee start?,q,MS. EAGER,start_answer
+391,857,34,13,"It started -- Like after the accident, I noticed that I wasn't able to, like, go up the steps.  I was having back -- I was having some back issues.  I was having back issues, so I couldn't lift things that I would normally be able to lift. And then, when I would go up the steps, I noticed that hey, my knee doesn't feel like I can go up the steps like I normally would do. So when I was getting the back therapy done, he said, Hey, you are out of alignment and that causes your -- if your back is out of alignment, it can also make your knee be out of alignment and the whole rest of your body be out of alignment. I was like, all right.  That makes sense, but I said, I didn't have this issue before I had that accident.  And he said, yeah, that happens a lot.  And I was like, Oh, okay. And he was then able to do, like, you know, some adjustments with my knee and my back. And then he did some stim therapy, electroids, stims to my back and shoulders.",a,THE WITNESS,start_question
+392,880,35,11,"This is Long's Chiropractic, just to clarify that?",q,MS. EAGER,start_answer
+393,882,35,13,Correct.,a,THE WITNESS,start_question
+394,883,35,14,Did you ever complain about your knee to Dr. Sheehan?,q,MS. EAGER,start_answer
+395,885,35,16,Yes.,a,THE WITNESS,start_question
+396,886,35,17,What did he say?,q,MS. EAGER,start_answer
+397,887,35,18,"He had said the same thing, but that was -- it was only triggered like when my back was like intensified, or like when all of a sudden my back would start to hurt, the knee would hurt also.  It was like a combo. But when the back was like any lower than what it was, the knee would go away.  So they were like tied together.",a,THE WITNESS,start_question
+398,896,36,2,You associate your knee pain with your back pain?,q,MS. EAGER,start_answer
+399,898,36,4,Yes.,a,THE WITNESS,start_question
+400,899,36,5,Did you ever seek any treatment independently for your knee where they ran tests or anything to that effect?,q,MS. EAGER,start_answer
+401,902,36,8,"Yeah.  Yeah, I did.",a,THE WITNESS,start_question
+402,903,36,9,Where did you go?,q,MS. EAGER,start_answer
+403,904,36,10,I went to OAL.,a,THE WITNESS,start_question
+404,905,36,11,Do you know when you went there?,q,MS. EAGER,start_answer
+405,906,36,12,"It was in, I would say, the fall of that next year maybe.",a,THE WITNESS,start_question
+406,908,36,14,So the fall of 2017?,q,MS. EAGER,start_answer
+407,909,36,15,Yeah.  And I was there last year for the same thing.,a,THE WITNESS,start_question
+408,911,36,17,What did they do for you?,q,MS. EAGER,start_answer
+409,912,36,18,"They ran some tests to see if there were like any ligament damage done. Oh, and then I also went to East Pete Family Health for the same thing.",a,THE WITNESS,start_question
+410,916,36,22,Let's start with OAL.  What did they do for you there?,q,MS. EAGER,start_answer
+411,918,36,24,They did some -- I went maybe like two or three times to a therapy session.,a,THE WITNESS,start_question
+412,921,37,2,To a physical therapy session?,q,MS. EAGER,start_answer
+413,922,37,3,Yes.,a,THE WITNESS,start_question
+414,923,37,4,And did that help at all?,q,MS. EAGER,start_answer
+415,924,37,5,"Well, I couldn't continue with the physical therapy because it was too expensive, but they gave me some treatments and told me what treatments to do at home.",a,THE WITNESS,start_question
+416,928,37,9,"And when you went to go see OAL, on that zero-to-ten pain scale, how would you put the pain in your left knee?",q,MS. EAGER,start_answer
+417,931,37,12,"The pain -- the pain was only going up the stairs, so at that point it was excruciating, so I would say it was around like an eight, nine.",a,THE WITNESS,start_question
+418,934,37,15,Did they run any tests on you to see if there was anything --,q,MS. EAGER,start_answer
+419,936,37,17,Yeah.  They did range of motion tests.,a,THE WITNESS,start_question
+420,937,37,18,And what did that say?,q,MS. EAGER,start_answer
+421,938,37,19,"They said that they don't think I had any ligament damage.  And it wasn't like any, like, bone-on-bone type issue.  But they said I should try to, like, you know, keep doing back exercises, that that would help out my knee.",a,THE WITNESS,start_question
+422,943,37,24,And you mentioned East Pete Family Health for your knee.  What did they do for you?,q,MS. EAGER,start_answer
+423,946,38,2,"That's the initial -- that's my family doctor.  So, I had to go to the family doctor to be able to see the specialist.",a,THE WITNESS,start_question
+424,949,38,5,Okay.  So your family doctor referred you to OAL?,q,MS. EAGER,start_answer
+425,951,38,7,Yeah.,a,THE WITNESS,start_question
+426,952,38,8,Did your family doctor run any tests prior to referring you or just --,q,MS. EAGER,start_answer
+427,954,38,10,"Yeah.  When I went to see the family doctor, she did some tests and she said, Hey, it looks like it could be -- a specialist should take a look at you.",a,THE WITNESS,start_question
+428,958,38,14,And how long has East Pete Family Health been your primary care physician?,q,MS. EAGER,start_answer
+429,960,38,16,"I would say 20 years, maybe.",a,THE WITNESS,start_question
+430,961,38,17,"So, you say you did two or three physical therapy sessions and then they gave you some home exercises that you could do?",q,MS. EAGER,start_answer
+431,964,38,20,Yes.,a,THE WITNESS,start_question
+432,965,38,21,Did you do those home exercises?,q,MS. EAGER,start_answer
+433,966,38,22,Yes.,a,THE WITNESS,start_question
+434,967,38,23,Do they help?,q,MS. EAGER,start_answer
+435,968,38,24,Yes.,a,THE WITNESS,start_question
+436,970,39,1,"Did you seek any other treatment for your knee pain specifically, not associated with your back, just for your knee?",q,MS. EAGER,start_answer
+437,973,39,4,No.,a,THE WITNESS,start_question
+438,974,39,5,"And presently sitting here today, do you still only experience the knee pain when you experience back pain?",q,MS. EAGER,start_answer
+439,977,39,8,Yes.,a,THE WITNESS,start_question
+440,978,39,9,"When that happens, is it still on the eight to nine level of pain?",q,MS. EAGER,start_answer
+441,980,39,11,Yes.,a,THE WITNESS,start_question
+442,981,39,12,Have you ever thought about seeking any other independent treatment for your knee?,q,MS. EAGER,start_answer
+443,983,39,14,"No, because it's been such a long time that I just feel like it's something I got to deal with the rest of my life.",a,THE WITNESS,start_question
+444,986,39,17,Do you plan on seeking any other treatment?,q,MS. EAGER,start_answer
+445,987,39,18,I think I have maxed out what's available for me.,a,THE WITNESS,start_question
+446,989,39,20,"If you had the financial means, would that be something you would seek treatment for your knee?",q,MS. EAGER,start_answer
+447,991,39,22,"I don't like to get cut or anything like that.  But at one point I thought that that was a possibility, that they were, like, torn ligaments or something like that.  And I'm just -- I don't want to go under a knife for it, so I tried to do it as best as possible on my own.",a,THE WITNESS,start_question
+448,998,40,4,"So presently sitting here today, you don't have any future appointments scheduled or you are not looking into anything for treatment for your knee?",q,MS. EAGER,start_answer
+449,1002,40,8,Correct.,a,THE WITNESS,start_question
+450,1003,40,9,Let's go back to your back and your head with Long's Chiropractic.,q,MS. EAGER,start_answer
+451,1005,40,11,Yeah.,a,THE WITNESS,start_question
+452,1006,40,12,I think you said that they did some treatment on you.,q,MS. EAGER,start_answer
+453,1008,40,14,Yes.,a,THE WITNESS,start_question
+454,1009,40,15,What kind of treatment did they do?,q,MS. EAGER,start_answer
+455,1010,40,16,They did alignments.,a,THE WITNESS,start_question
+456,1011,40,17,Alignments?,q,MS. EAGER,start_answer
+457,1012,40,18,Yes.,a,THE WITNESS,start_question
+458,1013,40,19,The same sort of alignments that Dr. Sheehan did?,q,MS. EAGER,start_answer
+459,1015,40,21,"You said Sheehan first, right?",a,THE WITNESS,start_question
+460,1016,40,22,We're talking about Long's now.  And you said that they did alignments.,q,MS. EAGER,start_answer
+461,1018,40,24,"Yes.  Yes, he did the same thing that Sheehan did.",a,THE WITNESS,start_question
+462,1021,41,2,And did they help you?,q,MS. EAGER,start_answer
+463,1022,41,3,"Yeah, they helped when -- I go when the pain starts to intensify, and I go and I get relief. So once it builds up to the point that I can't take anymore, then I go.",a,THE WITNESS,start_question
+464,1026,41,7,Do you know how often that is?,q,MS. EAGER,start_answer
+465,1027,41,8,"Seems like it spurs up every, like three, four times a year, maybe.",a,THE WITNESS,start_question
+466,1029,41,10,So three or four times a year?,q,MS. EAGER,start_answer
+467,1030,41,11,Yeah.,a,THE WITNESS,start_question
+468,1031,41,12,Are there certain things that cause it to act up that you're aware of or is it just randomly?,q,MS. EAGER,start_answer
+469,1033,41,14,It's just randomly.,a,THE WITNESS,start_question
+470,1034,41,15,Are you presently still treating with Long's Chiropractic?,q,MS. EAGER,start_answer
+471,1036,41,17,"I mean, I don't have like a treatment plan, but like I said before, when it intensifies, then that's when I go.",a,THE WITNESS,start_question
+472,1039,41,20,Do you know the last time you were there?,q,MS. EAGER,start_answer
+473,1040,41,21,"It was probably like the fall of, I would say, probably last year.",a,THE WITNESS,start_question
+474,1042,41,23,The fall of 2018?,q,MS. EAGER,start_answer
+475,1043,41,24,"Probably, yeah.",a,THE WITNESS,start_question
+476,1045,42,1,"And so, for the year of 2018, did you see him three to four times?",q,MS. EAGER,start_answer
+477,1047,42,3,In 2018?  I don't know.,a,THE WITNESS,start_question
+478,1048,42,4,Would it have been more than four times?,q,MS. EAGER,start_answer
+479,1049,42,5,It wouldn't have been more than four times.,a,THE WITNESS,start_question
+480,1050,42,6,"How about in 2017, can you approximate how many times you saw him?",q,MS. EAGER,start_answer
+481,1052,42,8,"I probably saw him at least, like, two times.",a,THE WITNESS,start_question
+482,1054,42,10,"And you probably started seeing him in 2017, correct, because prior to that you were seeing Dr. Sheehan?",q,MS. EAGER,start_answer
+483,1057,42,13,Right.,a,THE WITNESS,start_question
+484,1058,42,14,"So just to summarize, you don't have any future appointments scheduled with him or it's not something you regularly do, just when the pain intensifies --",q,MS. EAGER,start_answer
+485,1062,42,18,Yes.,a,THE WITNESS,start_question
+486,1063,42,19,-- you go to seek the alignments?,q,MS. EAGER,start_answer
+487,1064,42,20,Correct.,a,THE WITNESS,start_question
+488,1065,42,21,Did you see anyone else for your --,q,MS. EAGER,start_answer
+489,1066,42,22,No.,a,THE WITNESS,start_question
+490,1067,42,23,-- back or your head?,q,MS. EAGER,start_answer
+491,1068,42,24,No.,a,THE WITNESS,start_question
+492,1070,43,1,You didn't see anyone else. So presently sitting here today on that zero-to-ten pain scale where would you put the pain in your back?,q,MS. EAGER,start_answer
+493,1074,43,5,"The pain in the back here right now, I would say it's a -- it's ongoing, so you become numb to it.  It's an eight.",a,THE WITNESS,start_question
+494,1077,43,8,What about your head?,q,MS. EAGER,start_answer
+495,1078,43,9,"The head is -- It's the same situation with my head.  It's just like -- when I get into like a, it's like a stressor.  If I'm under stress, I start to get a throb in the back of my head that I didn't get before the accident.  So, any time that I can have anything that, I guess, makes me stressful or puts unusual stress on me, then I feel like this throb in the back of the neck and head area.",a,THE WITNESS,start_question
+496,1086,43,17,And how would you characterize that pain on a zero-to-ten pain scale?,q,MS. EAGER,start_answer
+497,1088,43,19,"When it happens, it's an eight.",a,THE WITNESS,start_question
+498,1089,43,20,"And it happens when you're stressed, so not just sitting here today?",q,MS. EAGER,start_answer
+499,1091,43,22,Correct.,a,THE WITNESS,start_question
+500,1092,43,23,"With your back, when you said it was an eight, does that also occur when you get stressed or is that a constant eight?",q,MS. EAGER,start_answer
+501,1096,44,2,"When I try to do something like outside of my normal range of motion, I would say, or like how I used to be able to do things.  If I'm trying to move something, then I have to, like, get my body ready to do it.  Because I think I'm a fit person, so when I'm ready to move something, I got to think -- like you got to think twice, Hey, can I really move this right now, or do I have to get my wife to help me or a friend to help me move something that I would normally be able to move, because I don't want to get this sharp pain. And if I get this sharp pain, then that feels like all my muscles tighten up around my back and my head.  And then, it's like, okay, then I'm under stress, and then all of those things are just like a -- just like a stew, you know, like you just add an ingredient, add an ingredient, and then it will just all blow up.  Then I go to the chiropractor.  Then it releases that stress, you know, until the next situation happens.",a,THE WITNESS,start_question
+502,1116,44,22,"So I think basically maybe to summarize what you said, when you are doing something out of your normal routine, such as lifting something up or doing something that requires heavy lifting, that's what aggravates the pain?",q,MS. EAGER,start_answer
+503,1122,45,3,Yes.,a,THE WITNESS,start_question
+504,1123,45,4,"Just sitting here doing your normal everyday activities, do you feel pain in your back?",q,MS. EAGER,start_answer
+505,1125,45,6,During my normal activities?,a,THE WITNESS,start_question
+506,1126,45,7,Just sitting here talking to me right now.,q,MS. EAGER,start_answer
+507,1127,45,8,No.  No.,a,THE WITNESS,start_question
+508,1128,45,9,So you don't feel the pain during your normal activities; it's just when you have to do something out of your normal?,q,MS. EAGER,start_answer
+509,1131,45,12,Yes.,a,THE WITNESS,start_question
+510,1132,45,13,Have you thought about seeking any other treatment for your head or your back pain?,q,MS. EAGER,start_answer
+511,1134,45,15,"I have.  I constantly think about it because any time that -- any time that I have any stress, I'm like, Oh, man, this is going to make me require a $50 payment back to the chiropractor again.  It's an annoyance is what it is.",a,THE WITNESS,start_question
+512,1139,45,20,"Have you taken any more steps, other than thinking about it?  Have you looked into it at all?",q,MS. EAGER,start_answer
+513,1141,45,22,"Yeah.  I know that that's the only relief that I get is when I go to the chiropractor.  So I could either continuously pay for the chiropractor and go like once a month or whatever it may be, but like I said before, I just go when it intensifies. So I try to keep myself from dealing with high stress situations, definitely for the back of my head, and I try to stay away from any heavy lifting.",a,THE WITNESS,start_question
+514,1150,46,6,"Okay.  Outside of seeing a chiropractor, have you ever thought about seeing another doctor and having other tests run regarding your head or your back?",q,MS. EAGER,start_answer
+515,1154,46,10,"I haven't -- I haven't sought out any additional help, because I saw like three or four people and they all said the same thing, so it's like throwing the towel in, just like giving up and knowing I'm just going to have to deal with this.",a,THE WITNESS,start_question
+516,1159,46,15,"When you said you saw three or four people, were those the people we have already spoken about?",q,MS. EAGER,start_answer
+517,1161,46,17,Yes.,a,THE WITNESS,start_question
+518,1162,46,18,Just to clarify that.,q,MS. EAGER,start_answer
+519,1163,46,19,Yes.,a,THE WITNESS,start_question
+520,1164,46,20,You don't have any future appointments scheduled to see any other doctors or anything to that effect?,q,MS. EAGER,start_answer
+521,1167,46,23,"If I could predict when I am going to have some stress, I would make an appointment right after that.",a,THE WITNESS,start_question
+522,1171,47,2,I meant to another doctor to run tests or anything like that.,q,MS. EAGER,start_answer
+523,1173,47,4,No.,a,THE WITNESS,start_question
+524,1174,47,5,Are you presently taking any medication for your pain?,q,MS. EAGER,start_answer
+525,1176,47,7,No.,a,THE WITNESS,start_question
+526,1177,47,8,"I think I have a note here, did you see a doctor, I'm not going to say this correctly, Stepanuk?",q,MS. EAGER,start_answer
+527,1180,47,11,Stepanuk.,a,THE WITNESS,start_question
+528,1181,47,12,Stepanuk.,q,MS. EAGER,start_answer
+529,1182,47,13,"Yes, yeah.  I did see that doctor, yes.",a,THE WITNESS,start_question
+530,1183,47,14,Do you remember what that doctor said to you?,q,MS. EAGER,start_answer
+531,1185,47,16,"I believe he was also checking me out for one of those three initial tests, MRI, EKG.  I don't remember what it was.",a,THE WITNESS,start_question
+532,1188,47,19,Why did you see him?,q,MS. EAGER,start_answer
+533,1189,47,20,"Because I believe that when I went to Sheehan, he said, Hey, you need to see this other doctor maybe to get some relief.  Go see this guy and let him do some testing on you that he couldn't do at his facility.",a,THE WITNESS,start_question
+534,1195,48,1,Do you remember what those tests said?,q,MS. EAGER,start_answer
+535,1196,48,2,He said that he was going to send the tests back to Sheehan.,a,THE WITNESS,start_question
+536,1198,48,4,Do you know if he did that?,q,MS. EAGER,start_answer
+537,1199,48,5,"Yeah, because I remember when I went back to Sheehan, he said they got the test results back from Stepanuk and that I should continue my treatment with him.",a,THE WITNESS,start_question
+538,1203,48,9,Continue your treatment with Dr. Sheehan?,q,MS. EAGER,start_answer
+539,1204,48,10,Correct.,a,THE WITNESS,start_question
+540,1205,48,11,Did he mention anything about injections as a possibility to control your pain?,q,MS. EAGER,start_answer
+541,1207,48,13,I don't recall.,a,THE WITNESS,start_question
+542,1208,48,14,You don't recall?,q,MS. EAGER,start_answer
+543,1209,48,15,(No response.),a,THE WITNESS,start_question
+544,1210,48,16,Is that something that you would be open to trying if it could alleviate your pain?,q,MS. EAGER,start_answer
+545,1212,48,18,I would not be open to injections.,a,THE WITNESS,start_question
+546,1213,48,19,And why not?,q,MS. EAGER,start_answer
+547,1214,48,20,Because I don't like to get poked with anything.  I can't even get my blood drawn without freaking out.,a,THE WITNESS,start_question
+548,1217,48,23,Me either.,q,MS. EAGER,start_answer
+549,1218,48,24,Okay.  I just...,a,THE WITNESS,start_question
+550,1220,49,1,Me either.,q,MS. EAGER,start_answer
+551,1221,49,2,I've just got to look away.  And I normally don't go to doctors because I'm normally fit.,a,THE WITNESS,start_question
+552,1223,49,4,"So that's not a treatment you would look into, injections?",q,MS. EAGER,start_answer
+553,1225,49,6,No.,a,THE WITNESS,start_question
+554,1226,49,7,Has any doctor ever mentioned a surgery to you?  Specifically Dr. Stepanuk?,q,MS. EAGER,start_answer
+555,1228,49,9,No.,a,THE WITNESS,start_question
+556,1229,49,10,Is surgery something you would be open to if you were told it would alleviate your pain?,q,MS. EAGER,start_answer
+557,1231,49,12,Yes.,a,THE WITNESS,start_question
+558,1232,49,13,"So, you would be open to surgery?",q,MS. EAGER,start_answer
+559,1233,49,14,"Yeah, if it got to the point that I just couldn't bear it anymore, then of course I got to try to relieve my pain.",a,THE WITNESS,start_question
+560,1236,49,17,So would you say that surgery would be a last resort option for you?,q,MS. EAGER,start_answer
+561,1238,49,19,Yes.,a,THE WITNESS,start_question
+562,1239,49,20,Do you remember Doctor -- how do you say it again?,q,MS. EAGER,start_answer
+563,1241,49,22,Stepanuk.,a,THE WITNESS,start_question
+564,1242,49,23,"Dr. Stepanuk, okay.  I don't know why that's so hard for me. Do you remember Dr. Stepanuk mentioning anything about arthritis or degenerative changes?",q,MS. EAGER,start_answer
+565,1247,50,3,I don't recall.,a,THE WITNESS,start_question
+566,1248,50,4,Have you ever heard a doctor mention that to you?,q,MS. EAGER,start_answer
+567,1250,50,6,Mention -- what was those words you had said?,a,THE WITNESS,start_question
+568,1252,50,8,That they saw arthritis or degenerative changes during your tests.,q,MS. EAGER,start_answer
+569,1254,50,10,"I don't recall.  I remember someone saying it, but I don't know which doctor said it.",a,THE WITNESS,start_question
+570,1256,50,12,Do you remember anything that they said to you about it?,q,MS. EAGER,start_answer
+571,1258,50,14,"No, because I don't remember who it was.",a,THE WITNESS,start_question
+572,1259,50,15,Okay.,q,MS. EAGER,start_answer
+573,1260,50,16,Yeah.  I do remember the nerve damage one because that was a really difficult test to take.,a,THE WITNESS,start_question
+574,1262,50,18,And was that the test that he did or was that the one that Dr. Holding did?,q,MS. EAGER,start_answer
+575,1264,50,20,"Holding, yeah.",a,THE WITNESS,start_question
+576,1265,50,21,Were you taking any medications prior to this accident?,q,MS. EAGER,start_answer
+577,1267,50,23,No.,a,THE WITNESS,start_question
+578,1268,50,24,And I think I asked this already:  Are you taking any medications presently because of this accident?,q,MS. EAGER,start_answer
+579,1272,51,3,No.,a,THE WITNESS,start_question
+580,1273,51,4,Did any doctor say that your injuries were caused by this accident?,q,MS. EAGER,start_answer
+581,1275,51,6,Yes.,a,THE WITNESS,start_question
+582,1276,51,7,Who said that?,q,MS. EAGER,start_answer
+583,1277,51,8,Sheehan.,a,THE WITNESS,start_question
+584,1278,51,9,And what specific injury did he say was caused by this accident?,q,MS. EAGER,start_answer
+585,1280,51,11,"He said that it was possible that I had a concussion from the accident, which made me like black out.  So that's what -- I mean, I just call it a blackout.  He was like, It's a concussion; that's what probably happened to you. I said yeah, but...  He said, Did you hit your head?  And I was like, I didn't think I had actually hit my head because I didn't have any marks on my forehead, but I was just thinking of my forehead.  I didn't think that my headrest had slammed into the back of my head.",a,THE WITNESS,start_question
+586,1291,51,22,Did he say that he thought that your lower back pain was caused by this accident?,q,MS. EAGER,start_answer
+587,1293,51,24,"Yes.  So he ran tests at the beginning and then he ran tests at the end of my therapy with him. And there was a chart and it showed all the different stress areas.  And I believe it was pretty much the same, with just like some areas changed a little bit, but it wasn't -- it didn't like totally clear out.",a,THE WITNESS,start_question
+588,1301,52,7,And he said this was caused by the accident?,q,MS. EAGER,start_answer
+589,1303,52,9,"He said that I definitely had a concussion. And I said, Well, I know I didn't feel unfocused before I came -- before the accident, and that's what his conclusion was.",a,THE WITNESS,start_question
+590,1307,52,13,"How about your lower back pain, did he say that was caused by the accident?",q,MS. EAGER,start_answer
+591,1309,52,15,He said that's the whole combination of a rear -- a rear-end accident.,a,THE WITNESS,start_question
+592,1311,52,17,Okay.  And same thing with your head?,q,MS. EAGER,start_answer
+593,1312,52,18,Correct.,a,THE WITNESS,start_question
+594,1313,52,19,It was caused by the accident?,q,MS. EAGER,start_answer
+595,1314,52,20,Yes.,a,THE WITNESS,start_question
+596,1315,52,21,"Just to clarify, you mentioned something before when you said the back of your head, and I think then you mentioned your neck. Is your neck pain associated also with your head?  That's not something that --",q,MS. EAGER,start_answer
+597,1321,53,2,"I mean, it's the back of my head, so it's not like the top part.  It's just like the lower part.  So, you know, at some point your head becomes your neck, so it's that whole section right there.",a,THE WITNESS,start_question
+598,1325,53,6,"So any time that you were mentioning you had pain in your head, you meant the pain in your neck/head area?  Is that correct to say?",q,MS. EAGER,start_answer
+599,1328,53,9,"Yes.  The neck/head area, yes.",a,THE WITNESS,start_question
+600,1329,53,10,"And just to summarize everything, when we were talking about the pain that you had experienced in your accident, you said you had pain in your abs, your lower back and your head, slash, neck. Did you feel any other pain that we haven't spoken about?",q,MS. EAGER,start_answer
+601,1335,53,16,No.,a,THE WITNESS,start_question
+602,1336,53,17,So just those three areas?,q,MS. EAGER,start_answer
+603,1337,53,18,Correct.,a,THE WITNESS,start_question
+604,1338,53,19,"What about prior to this accident, did you have any health problems?",q,MS. EAGER,start_answer
+605,1340,53,21,No.,a,THE WITNESS,start_question
+606,1341,53,22,Did you have any injuries prior to this accident?,q,MS. EAGER,start_answer
+607,1343,53,24,No.,a,THE WITNESS,start_question
+608,1345,54,1,Have you been involved in any motor vehicle accident prior to this one?,q,MS. EAGER,start_answer
+609,1347,54,3,No.,a,THE WITNESS,start_question
+610,1348,54,4,"I have a note on March 10th, 2013.  So this would have been about three years prior to the accident that we are here for.  It says that you were at Lancaster Regional Medical Center Emergency Room complaining of lower back pain following a motor vehicle accident about 12 hours before this visit.",q,MS. EAGER,start_answer
+611,1355,54,11,When was that?,a,THE WITNESS,start_question
+612,1356,54,12,"March 10, 2013. It said a tractor trailer had pulled forward.  You were a passenger.",q,MS. EAGER,start_answer
+613,1359,54,15,"Oh, yes.  Yeah.  That was when my wife was driving.",a,THE WITNESS,start_question
+614,1361,54,17,You were a passenger in the vehicle?,q,MS. EAGER,start_answer
+615,1362,54,18,Correct.,a,THE WITNESS,start_question
+616,1363,54,19,Why don't you tell me about that?,q,MS. EAGER,start_answer
+617,1364,54,20,"She -- Let me see.  Oh.  She was driving; I was on the passenger side.  We were off of an exit on Route 30 and a tractor trailer backed into the front of us.  Like he had pulled too far into the intersection and then he started to reverse, and we were, like, stuck in the middle.  And then he, like, ran into the front of the car.",a,THE WITNESS,start_question
+618,1372,55,3,And were you injured in that accident?,q,MS. EAGER,start_answer
+619,1373,55,4,"I didn't seek any, like, extra therapy, but the insurance company recommended that I should go see somebody if I felt any more worse -- like if I felt any additional pain.  I went in and then I felt like I was -- I felt like I was okay.",a,THE WITNESS,start_question
+620,1378,55,9,I think it mentions in the note that the emergency room recommended that you see your primary care physician in two to three days. Did you ever end up doing that?,q,MS. EAGER,start_answer
+621,1382,55,13,I'm not sure.,a,THE WITNESS,start_question
+622,1383,55,14,"So prior to the accident, did you have any back pain?",q,MS. EAGER,start_answer
+623,1385,55,16,No.,a,THE WITNESS,start_question
+624,1386,55,17,Have you had any accidents since this accident?,q,MS. EAGER,start_answer
+625,1388,55,19,No.,a,THE WITNESS,start_question
+626,1389,55,20,I want to talk about what you could do prior to this accident that you can no longer do; basically how this accident has affected your life.,q,MS. EAGER,start_answer
+627,1392,55,23,What's your question again?  Sorry.,a,THE WITNESS,start_question
+628,1393,55,24,"What could you do prior to this accident that you can no longer do because of the injuries sustained in this accident?  So, basically how this accident affected your life.",q,MS. EAGER,start_answer
+629,1398,56,4,"So the way this accident has affected my life is that it's frustrating that I can't focus as well as I used to be able to focus.  I felt like a lot of things were more sharp.  I feel like where -- I even feel like sometimes my rate of speech used to be a lot faster and now it's slower.  I feel like I can't formulate my sentences regularly, like I can't get across what I'm thinking in my head.  It makes me like almost, like, I don't know.  It's just all jumbled up. So that, and then like if I tried to just go move some furniture around, I have to think twice.  And then if I go ahead and do it, then sometimes I can get a sharp pain and then I have to stop, you know, stop doing that and just wait or get some help.  But it's just a continuous situation that I have to think before I do everything that I do now.",a,THE WITNESS,start_question
+630,1416,56,22,Anything else?,q,MS. EAGER,start_answer
+631,1417,56,23,No.,a,THE WITNESS,start_question
+632,1418,56,24,"Regarding when you said that it was frustrating with your rate of speech and stuff to that effect, have you ever thought about seeking out a doctor to get some tests done regarding your head to see why that's happening?",q,MS. EAGER,start_answer
+633,1424,57,5,"Well, I just thought that -- I just thought it was a new way of life.",a,THE WITNESS,start_question
+634,1426,57,7,Is there anything that you can't do now because of this accident?,q,MS. EAGER,start_answer
+635,1428,57,9,That I can't do?  I just can't move like I used to be able to move.,a,THE WITNESS,start_question
+636,1430,57,11,But nothing specific?,q,MS. EAGER,start_answer
+637,1431,57,12,"I haven't tried to test myself to a higher degree to see where my actual limitations are.  I can just visually look and say, Oh, this dresser, or this desk, or this TV, like I may not want to do that because I know that it's going to -- it's almost like if I move heavier objects, something around like 40 pounds, 50 pounds, that I feel like my back, like, collapses and pinches on a nerve and just shoots a straight pain to my head. And it's just like, Put that down.  And it's like, Okay, let me put it down.  And then sometimes I can pick it up and then I'm just, like, careful, like, trying to keep myself, my posture straight so that I don't pinch anything.  I just try to move straight without flexing or turning to the left or to the right too much to cause like -- to get an inflammation or something like that.",a,THE WITNESS,start_question
+638,1449,58,5,Do you have to move heavy things often?,q,MS. EAGER,start_answer
+639,1450,58,6,"No, just when they need to be moved, so... I'm not a mover.",a,THE WITNESS,start_question
+640,1452,58,8,Just stuff around the house?,q,MS. EAGER,start_answer
+641,1453,58,9,Yeah.  Just stuff around the house.,a,THE WITNESS,start_question
+642,1454,58,10,"And outside of having to move stuff around the house, does anything else you do cause this pain?",q,MS. EAGER,start_answer
+643,1457,58,13,"Like sometimes when I'm -- even if I'm mopping or something like that, and I try and, like, twist to mop, you know, something simple like that can just trigger it also.",a,THE WITNESS,start_question
+644,1461,58,17,Anything else?  I'm just trying to get a list of all the triggers that would cause the pain.,q,MS. EAGER,start_answer
+645,1463,58,19,"Yeah, yeah.  Triggers are like moving objects.  Triggers are like walking for like a real extended period of time. Yeah, just, you know, like walking sometimes just makes my back hurt after a while. Moving objects, walking.  What else? Going up the steps is critical, because I -- especially when you're trying to go up the steps and you're standing there, like, stretch your leg out, stretch your back out, and then I go up the steps. It's just more I try to take the elevator.  I'm always looking for the elevator versus the steps where I used to be able to take the steps without a problem, where I used to enjoy taking the steps.  Now it's like, Do you want to really do that?",a,THE WITNESS,start_question
+646,1481,59,12,Anything else?,q,MS. EAGER,start_answer
+647,1482,59,13,No.,a,THE WITNESS,start_question
+648,1483,59,14,Do you belong to a gym or anything?,q,MS. EAGER,start_answer
+649,1484,59,15,"I belong to -- No.  I don't belong to a gym now, no.",a,THE WITNESS,start_question
+650,1486,59,17,Just one question I forgot to ask earlier regarding Dr. Stepanuk.  Do you recall him saying anything to you about a disc bulge?,q,MS. EAGER,start_answer
+651,1489,59,20,"I don't know if he said anything in particular about a disc bulge, but I know that he may have -- I remember him saying something like L3, L4 or something like that.",a,THE WITNESS,start_question
+652,1493,59,24,C6?,q,MS. EAGER,start_answer
+653,1495,60,1,Yeah.  He gave me a letter and a number. That's all I...,a,THE WITNESS,start_question
+654,1497,60,3,"You don't remember anything specific he said about it, though?",q,MS. EAGER,start_answer
+655,1499,60,5,"I can't recall exactly what he said, no.",a,THE WITNESS,start_question
+656,1500,60,6,Have you taken any trips since this accident?,q,MS. EAGER,start_answer
+657,1502,60,8,Trips as in what?,a,THE WITNESS,start_question
+658,1503,60,9,Vacations.,q,MS. EAGER,start_answer
+659,1504,60,10,Yes.,a,THE WITNESS,start_question
+660,1505,60,11,Where have you gone?,q,MS. EAGER,start_answer
+661,1506,60,12,"I'm a pilot, so I have been to a lot of places.",a,THE WITNESS,start_question
+662,1508,60,14,How often do you fly?,q,MS. EAGER,start_answer
+663,1509,60,15,I fly every -- at least every 60 days.,a,THE WITNESS,start_question
+664,1510,60,16,Okay.,q,MS. EAGER,start_answer
+665,1511,60,17,Personally.,a,THE WITNESS,start_question
+666,1512,60,18,Where are the kind of places that you fly to?,q,MS. EAGER,start_answer
+667,1514,60,20,"This year I have been to Cancun, San Antonio, Daytona Beach, Connecticut, Boston, Chicago, BWI, Bonaire. No, not Bonaire.  Maybe Bonaire.  I don't know.",a,THE WITNESS,start_question
+668,1520,61,1,"So, a lot of places?",q,MS. EAGER,start_answer
+669,1521,61,2,Yeah.,a,THE WITNESS,start_question
+670,1522,61,3,You fly frequently?,q,MS. EAGER,start_answer
+671,1523,61,4,Yeah.  It's too many to name.,a,THE WITNESS,start_question
+672,1524,61,5,Okay.  Are you aware if you have any unpaid medical bills?,q,MS. EAGER,start_answer
+673,1526,61,7,I don't have any unpaid -- I don't know. That's been forwarded personally to me?,a,THE WITNESS,start_question
+674,1528,61,9,That you know of.,q,MS. EAGER,start_answer
+675,1529,61,10,Not that I know.,a,THE WITNESS,start_question
+676,1530,61,11,Have you had to pay any bills out of pocket?,q,MS. EAGER,start_answer
+677,1532,61,13,I paid my chiropractor bills out of pocket.,a,THE WITNESS,start_question
+678,1533,61,14,Did you forward that amount to your attorney?,q,MS. EAGER,start_answer
+679,1535,61,16,No.,a,THE WITNESS,start_question
+680,1536,61,17,You should probably do so.,q,MS. EAGER,start_answer
+681,1537,61,18,"Yeah, I just...",a,THE WITNESS,start_question
+682,1538,61,19,Okay.,q,MS. EAGER,start_answer
+683,1539,61,20,I will.,a,THE WITNESS,start_question
+684,1540,61,21,Go on.,q,MS. EAGER,start_answer
+685,1541,61,22,"I mean, I will forward them.  Yeah, I will.",a,THE WITNESS,start_question
+686,1542,61,23,Are you aware of any liens that you have from this accident?,q,MS. EAGER,start_answer
+687,1545,62,1,No.,a,THE WITNESS,start_question
+688,1546,62,2,"No liens, or you're not aware of them?",q,MS. EAGER,start_answer
+689,1547,62,3,"Yeah, no liens.",a,THE WITNESS,start_question
+690,1548,62,4,And who is your current health insurance carrier?,q,MS. EAGER,start_answer
+691,1550,62,6,That would be Blue Cross/Blue Shield.,a,THE WITNESS,start_question
+692,1551,62,7,Do you know how long you have had them for?,q,MS. EAGER,start_answer
+693,1552,62,8,"I think I just switched.  So they do a fiscal year or something like that.  I'm not sure. Yeah, Capital Blue.",a,THE WITNESS,start_question
+694,1555,62,11,I think that's about all I have. Is there anything else you want to say about this accident or anything about how it affected your life or anything to that effect?,q,MS. EAGER,start_answer
+695,1559,62,15,"No.  The only thing that I have is that it's just really, really frustrating that I can't be as focused as I used to feel.  Like my attention span just seems to be less.  And also that my patience is -- I feel like my patience is less because of the stress.  So I know that I don't want to get to a certain point.  So I have to nip things a little quicker just to be able to maintain my normal routine.",a,THE WITNESS,start_question
+696,1568,62,24,Anything else?,q,MS. EAGER,start_answer
+697,1570,63,1,That's about it.,a,THE WITNESS,start_chat
+698,1571,63,2,I think that's all I have.,side_chat,MS. EAGER,start_chat
+699,1572,63,3,Nothing from me.  Thanks.,side_chat,MR. DOBSON,start_chat
+700,1573,63,4,"Matt, do you want to order a copy?",side_chat,THE COURT REPORTER,start_chat
+701,1575,63,6,"If we do, we will follow up.",side_chat,MR. DOBSON,is brackets
+702,1577,63,8,(Witness excused.),brackets,,symbols
+703,1578,63,9,-  -  -,symbols,,is brackets
+704,1579,63,10,"(The deposition concluded at 11:20 a.m.) ATTORNEY'S NOTES C E R T I F I C A T I O N I hereby certify that the Proceedings, evidence and objections are contained fully and accurately in the stenographic notes taken by me upon the deposition of PRESTON MORAGNE, Thursday, August 29, 2019, and that this is a true and correct transcript of same.",brackets,,symbols
+705,1631,64,12,"___________________________________ THERESE M. VALENTE, Professional",symbols,,is brackets
+706,1639,64,19,"(The foregoing certification of this transcript does not apply to any reproduction of the same by any means, unless under the direct control and/or supervision of the certifying reporter.)",brackets,,end

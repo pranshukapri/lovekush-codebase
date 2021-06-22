@@ -1,0 +1,389 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,95,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,97,4,10,-  -  -,symbols,,start_question
+3,99,4,12,"Good morning, Mr. Orner.  My name is Mike Gallagher.  I'm an attorney.  I represent Carla Brietman with respect to a motor vehicle accident that occurred on May 24th, 2018, in Haverford, Pennsylvania, at or near the intersection of Bon Air Avenue and Eagle Road.  Does that date and location sound familiar to you?",q,MR. GALLAGHER,start_answer
+4,105,4,18,"It's not Eagle, but -- that's actually my house, the corner of Bon Air and Grand.",a,THE WITNESS,start_question
+5,107,4,20,Okay.  So is it -- would it be --,q,MR. GALLAGHER,start_answer
+6,108,4,21,Grand Avenue.,a,THE WITNESS,start_question
+7,109,4,22,It's on Grand Avenue and --,q,MR. GALLAGHER,start_answer
+8,110,4,23,"605 Grand Avenue is my house, and I was parked on the side.",a,THE WITNESS,start_question
+9,112,4,25,"We'll get into that.  Nevertheless, that general location, Grand Avenue, Bon Air, Eagle Road, right in that vicinity, is that where the accident occurred?",q,MR. GALLAGHER,start_answer
+10,116,5,3,Eagle is not even near that.,a,THE WITNESS,start_question
+11,117,5,4,All right.  I'm going by the police report.,q,MR. GALLAGHER,start_answer
+12,118,5,5,Okay.  I'm just saying --,a,THE WITNESS,start_question
+13,119,5,6,Why don't we cut to the chase.  Where did -- where do you think it happened?,q,MR. GALLAGHER,start_answer
+14,121,5,8,Bon Air and Grand.,a,THE WITNESS,start_question
+15,122,5,9,"All right.  So May 24th, 2018, Bon Air and Grand Avenue is where the accident occurred?",q,MR. GALLAGHER,start_answer
+16,124,5,11,Correct.,a,THE WITNESS,start_question
+17,125,5,12,"I'm going to be asking you some questions about that accident today, all right?",q,MR. GALLAGHER,start_answer
+18,127,5,14,Yes.,a,THE WITNESS,start_question
+19,128,5,15,"I'm going to give you instructions before we begin. These instructions were probably given to you by your attorney, but I want to make sure on the record that you hear them from me, you understand them, and then we'll move forward, okay?",q,MR. GALLAGHER,start_answer
+20,133,5,20,Yup.,a,THE WITNESS,start_question
+21,134,5,21,"All right.  First of all, number one, don't answer any questions you don't understand, all right?  It's my job to formulate a question that you understand --",q,MR. GALLAGHER,start_answer
+22,137,5,24,Okay.,a,THE WITNESS,start_question
+23,138,5,25,"-- not your attorney, not Ms. Brietman, not the court reporter, that only you understand.  So if you don't understand my question, just say, ""Mike, I don't understand.  Could you please rephrase it,"" and I'll do so, all right?",q,MR. GALLAGHER,start_answer
+24,144,6,5,Correct.,a,THE WITNESS,start_question
+25,145,6,6,Another instruction:  You need to wait until I'm finished answering (sic) my question before you begin to answer.,q,MR. GALLAGHER,start_answer
+26,148,6,9,Okay.,a,THE WITNESS,start_question
+27,149,6,10,The reason for that is because everything that's being said on the record is being taken down by the court reporter --,q,MR. GALLAGHER,start_answer
+28,152,6,13,"Right, each time.",a,THE WITNESS,start_question
+29,153,6,14,-- to your right.  So we cannot speak over one another --,q,MR. GALLAGHER,start_answer
+30,155,6,16,Okay.,a,THE WITNESS,start_question
+31,156,6,17,"-- as we would do normally, say, over a cup of coffee or a beer at a bar, okay?",q,MR. GALLAGHER,start_answer
+32,158,6,19,I'll have to work on that.  That's --,a,THE WITNESS,start_question
+33,159,6,20,That's fine.,q,MR. GALLAGHER,start_answer
+34,160,6,21,-- gonna be tough for me.,a,THE WITNESS,start_question
+35,161,6,22,"Your attorney or myself or even the court reporter may remind you from time to time, but it's really -- we're not trying to be rude.  It's really important that you try to stick to that.  Just wait 'til I'm done.  I know you're gonna anticipate what I'm saying --",q,MR. GALLAGHER,start_answer
+36,167,7,2,Okay.,a,THE WITNESS,start_question
+37,168,7,3,"-- but you need to wait, all right?",q,MR. GALLAGHER,start_answer
+38,169,7,4,Yes.,a,THE WITNESS,start_question
+39,170,7,5,"All your answers need to be verbal.  You're doing fine so far.  You can move your hands, shake your head, shrug your shoulders, do whatever you want, but you have to accompany that with a word.  Do you understand?",q,MR. GALLAGHER,start_answer
+40,174,7,9,Correct.,a,THE WITNESS,start_question
+41,175,7,10,"Try to avoid things like ""uh-uh,"" ""uh-huh,"" ""nah,"" ""yeah.""  We know what you mean, but sometimes that doesn't get transcribed well on the -- on the record, all right?",q,MR. GALLAGHER,start_answer
+42,178,7,13,Correct.,a,THE WITNESS,start_question
+43,179,7,14,"Don't guess at anything, okay?  It's perfectly fine if you don't recall.  This, you know, happened what? almost like a year and -- and several months ago, so if -- if certain things don't come to mind, that's perfectly okay.  I may ask some -- a follow-up question to jog your memory, but if you still don't remember, don't outright guess. But the difference between an outright guess and knowing something but not every detail is this: If I asked you what you had for dinner last year on August 15th, even though you have pizza four times a week, you probably don't know exactly what you had that last year on this particular date, correct?",q,MR. GALLAGHER,start_answer
+44,193,8,2,Possibly.,a,THE WITNESS,start_question
+45,194,8,3,"Right.  Maybe you did.  Maybe it was an anniversary or something.  But normally, people don't remember what they had for dinner a year ago.  That's an outright guess usually. But if I asked you something like, ""How did you get here today?"" you might not know every turn, every road, every street, but you probably can give me a good idea how you got here, correct?",q,MR. GALLAGHER,start_answer
+46,202,8,11,Correct.,a,THE WITNESS,start_question
+47,203,8,12,"All right.  That's the difference between an outright guess and maybe not every detail, but you know the gist of what I'm asking, all right?",q,MR. GALLAGHER,start_answer
+48,206,8,15,Uh-uh.,a,THE WITNESS,start_question
+49,207,8,16,You feel comfortable with that?,q,MR. GALLAGHER,start_answer
+50,208,8,17,Yeah.,a,THE WITNESS,start_question
+51,209,8,18,"You can take a break if you'd like.  I just ask that if a question is pending, that you wait -- that you -- that you answer the question before you take that break, all right?",q,MR. GALLAGHER,start_answer
+52,213,8,22,Yeah.  I don't think we need a break.,a,THE WITNESS,start_question
+53,214,8,23,Fine.  But maybe you'll get a phone call or you need to --,q,MR. GALLAGHER,start_answer
+54,216,8,25,I don't have a phone.,a,THE WITNESS,start_question
+55,218,9,1,"All right.  Well, in any event, you are not being held hostage here today.",q,MR. GALLAGHER,start_answer
+56,220,9,3,Okay.,a,THE WITNESS,start_question
+57,221,9,4,"Okay?  So if you need to take a bathroom break, whatever you need to do, stretch your legs, whatever --",q,MR. GALLAGHER,start_answer
+58,223,9,6,We're good.,a,THE WITNESS,start_question
+59,224,9,7,"-- we can take a break.  I don't expect this to be very long, okay?  I don't really have many questions for you.  Keep this in mind:  Number one, have you ever had your deposition taken before?",q,MR. GALLAGHER,start_answer
+60,228,9,11,No.,a,THE WITNESS,start_question
+61,229,9,12,"All right.  So this is all new to you, okay? Right?",q,MR. GALLAGHER,start_answer
+62,231,9,14,"Yeah.  It's a little scary, intimidating.",a,THE WITNESS,start_question
+63,232,9,15,"Don't be.  Just a conversation between me and you, all right?",q,MR. GALLAGHER,start_answer
+64,234,9,17,Okay.,a,THE WITNESS,start_question
+65,235,9,18,"I'm just asking you about the accident.  I'm gonna ask some background stuff about -- about your life, not many, but it's really just a conversation between me and you.  The only difference is that we're in a -- you know, we have a court reporter here.  We're in a conference room.  But it really is just a conversation, me asking you questions about this accident.  And then you're done, and you go on with your life, all right?",q,MR. GALLAGHER,start_answer
+66,244,10,1,Okay.,a,THE WITNESS,start_question
+67,245,10,2,Is there any reason that you can think of that would give you difficulty in understanding me today and providing truthful and accurate answers?,q,MR. GALLAGHER,start_answer
+68,248,10,5,No.,a,THE WITNESS,start_question
+69,249,10,6,"The oath that you took today, do you understand that that --",q,MR. GALLAGHER,start_answer
+70,251,10,8,Yes.,a,THE WITNESS,start_question
+71,252,10,9,"Hold on.  Hold on.  I know you know where I'm going. The oath that you took today, you understand that's -- that's the kind of oath you -- well, it is the oath that you would take in a court of law, in front of judge and/or jury, right?",q,MR. GALLAGHER,start_answer
+72,258,10,15,Correct.,a,THE WITNESS,start_question
+73,259,10,16,And that requires you to tell the truth under penalty of perjury.,q,MR. GALLAGHER,start_answer
+74,261,10,18,Correct.,a,THE WITNESS,start_question
+75,262,10,19,Don't feel intimidated by it.  I tell that to everybody.,q,MR. GALLAGHER,start_answer
+76,264,10,21,Okay.,a,THE WITNESS,start_question
+77,265,10,22,Are you on any medications today?,q,MR. GALLAGHER,start_answer
+78,266,10,23,No.,a,THE WITNESS,start_question
+79,267,10,24,All right.  Have you reviewed any -- any documents or -- or things in preparation for this deposition?,q,MR. GALLAGHER,start_answer
+80,270,11,1,No.,a,THE WITNESS,start_question
+81,271,11,2,Are you ready to start?,q,MR. GALLAGHER,start_answer
+82,272,11,3,Yup.,a,THE WITNESS,start_question
+83,273,11,4,"Just give me your full name for the record, please.",q,MR. GALLAGHER,start_answer
+84,274,11,5,Harry H. Orner.,a,THE WITNESS,start_question
+85,275,11,6,And what's your date of birth?,q,MR. GALLAGHER,start_answer
+86,276,11,7,12/13/61.,a,THE WITNESS,start_question
+87,277,11,8,And your current address?,q,MR. GALLAGHER,start_answer
+88,278,11,9,"15 West Eagle Road, Havertown, PA 19083.",a,THE WITNESS,start_question
+89,279,11,10,And how long have you lived there?,q,MR. GALLAGHER,start_answer
+90,280,11,11,Since first grade.,a,THE WITNESS,start_question
+91,281,11,12,"And who do you live there with, if anyone?",q,MR. GALLAGHER,start_answer
+92,282,11,13,"Well, I lived there with my parents, but they passed away.",a,THE WITNESS,start_question
+93,284,11,15,You live there alone now?,q,MR. GALLAGHER,start_answer
+94,285,11,16,"Currently, I'm the only one living in that residence.  It's an apartment.  It's over top of the garden center.",a,THE WITNESS,start_question
+95,288,11,19,"So the answer is yes, you live alone, right?",q,MR. GALLAGHER,start_answer
+96,289,11,20,With two cats.,a,THE WITNESS,start_question
+97,290,11,21,"Okay.  Well, with two -- no human beings?",q,MR. GALLAGHER,start_answer
+98,291,11,22,No.,a,THE WITNESS,start_question
+99,292,11,23,Do you plan on moving any time soon?,q,MR. GALLAGHER,start_answer
+100,293,11,24,Yes.,a,THE WITNESS,start_question
+101,294,11,25,Where do you plan on moving to and when?,q,MR. GALLAGHER,start_answer
+102,296,12,1,"605 Grand Avenue, which was a rental property at the time of the accident, and it will be in the spring of next year.",a,THE WITNESS,start_question
+103,299,12,4,"All right.  You say ""Grand Avenue.""  Where's -- where's that located?",q,MR. GALLAGHER,start_answer
+104,301,12,6,"Bon Air and Grand, where the accident happened.",a,THE WITNESS,start_question
+105,302,12,7,Would that be Havertown Township?,q,MR. GALLAGHER,start_answer
+106,303,12,8,"Havertown, PA.",a,THE WITNESS,start_question
+107,304,12,9,"Havertown, PA or Haverford, PA?",q,MR. GALLAGHER,start_answer
+108,305,12,10,Havertown.,a,THE WITNESS,start_question
+109,306,12,11,Havertown.  I'm not familiar with this --,q,MR. GALLAGHER,start_answer
+110,307,12,12,Delaware County.,a,THE WITNESS,start_question
+111,308,12,13,"Okay.  So nearby, right?  You're not going to Europe or anything like that?",q,MR. GALLAGHER,start_answer
+112,310,12,15,No.,a,THE WITNESS,start_question
+113,311,12,16,All right.  Are you employed?,q,MR. GALLAGHER,start_answer
+114,312,12,17,No.,a,THE WITNESS,start_question
+115,313,12,18,Have you ever been employed?,q,MR. GALLAGHER,start_answer
+116,314,12,19,Last time I was employed was 2014.,a,THE WITNESS,start_question
+117,315,12,20,And what did you do?,q,MR. GALLAGHER,start_answer
+118,316,12,21,"I was a -- I worked at the garden center, watering plants.",a,THE WITNESS,start_question
+119,318,12,23,How long did you have that job?,q,MR. GALLAGHER,start_answer
+120,319,12,24,"Off and on, 20 years.",a,THE WITNESS,start_question
+121,320,12,25,"I'm gonna ask you a question I ask every witness, okay?  And your attorney is probably gonna ask my client this.  Have you ever been convicted of a crime of falsehood or dishonesty within the last four -- ten years?",q,MR. GALLAGHER,start_answer
+122,325,13,4,No.,a,THE WITNESS,start_question
+123,326,13,5,"All right.  Such things as -- I'll give examples -- forgery, perjury, fraud.",q,MR. GALLAGHER,start_answer
+124,328,13,7,No.,a,THE WITNESS,start_question
+125,329,13,8,"Let's just jump right to the day of the accident, okay?  We agree that it's May 24th, 2018?",q,MR. GALLAGHER,start_answer
+126,331,13,10,"I guess.  That's -- would sound right, May 24th.",a,THE WITNESS,start_question
+127,332,13,11,Do you disagree with it?,q,MR. GALLAGHER,start_answer
+128,333,13,12,No.,a,THE WITNESS,start_question
+129,334,13,13,I'm just going by the police report.  I'm not trying to trick you.,q,MR. GALLAGHER,start_answer
+130,336,13,15,"No.  It's fine, if that's what it says.",a,THE WITNESS,start_question
+131,337,13,16,What time of day did this happen?,q,MR. GALLAGHER,start_answer
+132,338,13,17,Around 5:00 o'clock p.m.,a,THE WITNESS,start_question
+133,339,13,18,And I understand that the location of this accident was outside of your residence; is that right?,q,MR. GALLAGHER,start_answer
+134,341,13,20,"I was at my house, doing spring cleanup.  I was there all day, filling trash cans and cutting firewood. And I was basically there for about seven hours.  And I was preparing to go up the street --",a,THE WITNESS,start_chat
+135,345,13,24,Listen to what he asked you.,side_chat,MS. KRENICKY,start_chat
+136,346,13,25,Oh.,side_chat,THE WITNESS,start_question
+137,349,14,2,"I'm gonna break it down for you, okay?",q,MR. GALLAGHER,start_answer
+138,350,14,3,I'm sorry.,a,THE WITNESS,start_question
+139,351,14,4,It's okay.,q,MR. GALLAGHER,start_answer
+140,352,14,5,I was running -- running off there.,a,THE WITNESS,start_question
+141,353,14,6,"No.  It's okay.  I know you want to get your story out.  That's fine.  But I'm -- I'm gonna break it down for you, and we'll just do it in pieces, okay?",q,MR. GALLAGHER,start_answer
+142,356,14,9,Pieces.,a,THE WITNESS,start_question
+143,357,14,10,Right.,q,MR. GALLAGHER,start_answer
+144,358,14,11,What was the question?,a,THE WITNESS,start_question
+145,359,14,12,No.  You answered it.,q,MR. GALLAGHER,start_answer
+146,360,14,13,Okay.,a,THE WITNESS,start_question
+147,361,14,14,"You mentioned that the location of the -- the impact, that was on Grand Avenue?",q,MR. GALLAGHER,start_answer
+148,363,14,16,No.  It was -- it was on Bon Air.,a,THE WITNESS,start_question
+149,364,14,17,"It was on Bon Air, okay.  And Bon Air, is that a -- a two-lane street, a one-way street?",q,MR. GALLAGHER,start_answer
+150,366,14,19,"I would say it's a three-lane street, one side for parking, and the other side is for going up and back.",a,THE WITNESS,start_question
+151,368,14,21,"And say the five minutes before this impact occurred, where was your vehicle with respect to -- to Bon Air Avenue?",q,MR. GALLAGHER,start_answer
+152,371,14,24,"It was parked on my normal parking spot on Bon Air, by the bushes.  You know, I think there's a photograph somewhere of it.",a,THE WITNESS,start_chat
+153,375,15,2,He's talking about this.,side_chat,MS. KRENICKY,start_chat
+154,376,15,3,Yeah.  Can I use this?,side_chat,MR. GALLAGHER,start_chat
+155,377,15,4,Yes.,side_chat,MS. KRENICKY,start_chat
+156,378,15,5,That's where I was parked at this day of the accident.  That's pretty much the same spot.,side_chat,THE WITNESS,start_chat
+157,381,15,8,"We'll have this marked as Orner-1.  I do have a copy of this in black and white, but I'll hand you the -- the color copy.",side_chat,MR. GALLAGHER,is brackets
+158,384,15,11,(Exhibit Orner-1 marked for identification.),brackets,,start_chat
+159,386,15,13,"Yeah, that's me.",side_chat,THE WITNESS,start_question
+160,388,15,15,All right.  Let me ask you some questions.  The location of your -- your -- is that your truck?,q,MR. GALLAGHER,start_answer
+161,390,15,17,Correct.,a,THE WITNESS,start_question
+162,391,15,18,"The location of your truck in -- in Orner-1, is that where it was, say, five minutes before the impact occurred?",q,MR. GALLAGHER,start_answer
+163,394,15,21,Within a foot or two.,a,THE WITNESS,start_question
+164,395,15,22,"In the -- roughly the same area, correct?",q,MR. GALLAGHER,start_answer
+165,396,15,23,"I park there every time I -- every time I come, I -- I park there unless there's a car there.",a,THE WITNESS,start_question
+166,398,15,25,"And the lane of travel directly next to your truck, is that to come down the street toward the left of the photograph?",q,MR. GALLAGHER,start_answer
+167,402,16,3,Correct.,a,THE WITNESS,start_question
+168,403,16,4,"All right.  And the lane next to that, which I'll say what would be to the right of -- of the lane we just spoke about, going up to the right top of the photograph, is -- is -- is that direction -- the direction for that lane of travel?",q,MR. GALLAGHER,start_answer
+169,408,16,9,Correct.,a,THE WITNESS,start_question
+170,409,16,10,"And just to cut to the chase:  My understanding is that my client's vehicle was traveling in the lane directly next to your vehicle, heading down toward the left of the photograph, correct?",q,MR. GALLAGHER,start_answer
+171,413,16,14,Correct.  She came down here and stopped at the stop sign.,a,THE WITNESS,start_question
+172,415,16,16,"Right.  And I was gonna get to that.  At this intersection, I'll call it, there's a stop sign?",q,MR. GALLAGHER,start_answer
+173,417,16,18,Yes.,a,THE WITNESS,start_question
+174,418,16,19,All right.  Is it -- and how many -- I can't tell from this photograph.  How many lanes of travel are at this intersection?  Like how many lanes intersect?,q,MR. GALLAGHER,start_answer
+175,421,16,22,It's a four-way -- it's a four-way stop.,a,THE WITNESS,start_question
+176,422,16,23,"All right.  And that -- that truck, is that a Ford F-150?",q,MR. GALLAGHER,start_answer
+177,424,16,25,Correct.,a,THE WITNESS,start_question
+178,426,17,1,"And according to the police report, it's -- the year is 1985?",q,MR. GALLAGHER,start_answer
+179,428,17,3,Correct.,a,THE WITNESS,start_question
+180,429,17,4,And do you know who took this photograph?,q,MR. GALLAGHER,start_answer
+181,430,17,5,Google.,a,THE WITNESS,start_question
+182,431,17,6,"All right.  Did you take -- I mean did you take it from Google, meaning did you --",q,MR. GALLAGHER,start_answer
+183,433,17,8,I --,a,THE WITNESS,start_question
+184,434,17,9,-- did you print it out from Google?,q,MR. GALLAGHER,start_answer
+185,435,17,10,Today is the first day I saw that photograph.,a,THE WITNESS,start_question
+186,436,17,11,"All right.  It appears from this photograph that there might be some -- and I can't tell if it's a bush in the background or in your vehicle, but --",q,MR. GALLAGHER,start_answer
+187,439,17,14,Let me see.,a,THE WITNESS,start_question
+188,440,17,15,Let's just -- was this taken on the day of the accident?,q,MR. GALLAGHER,start_answer
+189,442,17,17,No.,a,THE WITNESS,start_question
+190,443,17,18,Okay.,q,MR. GALLAGHER,start_answer
+191,444,17,19,Can I see it?  No.  There's only a board in the back.,a,THE WITNESS,start_question
+192,446,17,21,"Let's -- let's go back to the day of the accident. Was there debris, material, anything like that in the back of your vehicle, in the -- in the bed of the truck?",q,MR. GALLAGHER,start_answer
+193,449,17,24,"I'm not sure.  I was thinking about that last night, and I'm really not sure whether there were trash cans in the back of the truck or not, because I'd been cleaning all day and I'd been filling tash cans out.  And I had a bunch of trash cans over here. And usually, what I do is I put them in the back of the truck, and then I take them to the garden center because we have a dumpster there.  So I don't know if I had any in there.  I don't -- I could have put some in there during the day.  I'm not sure.  I'm not a hundred percent sure.",a,THE WITNESS,start_question
+194,461,18,10,"That's fine.  Again, like I said, if you don't remember --",q,MR. GALLAGHER,start_answer
+195,463,18,12,"I'm not -- yeah.  I'm not sure.  I know there was three over here, but there could have been two in the back.  Can't -- I can't --",a,THE WITNESS,start_question
+196,466,18,15,"When you say ""back,"" you mean the back of your truck, the bed of the truck?",q,MR. GALLAGHER,start_answer
+197,468,18,17,"Could have been in the back of the truck, which may have obstructed my view.",a,THE WITNESS,start_question
+198,470,18,19,All right.  That's fine.,q,MR. GALLAGHER,start_answer
+199,471,18,20,I just -- I'm not a hundred percent sure of that.,a,THE WITNESS,start_question
+200,472,18,21,"It's fine, okay?  Let's go back to the day of the accident, okay?  Did you have a side-view mirror on each side of your vehicle, your side and the passenger side?",q,MR. GALLAGHER,start_answer
+201,475,18,24,"Yeah, there's -- there's side-view mirrors on both sides, and then there's the main mirror, which -- which would, you know, see through this grate.",a,THE WITNESS,start_question
+202,479,19,2,"All right.  So you had a -- a driver's side-view mirror, a passenger side-view mirror, and a rearview mirror in the -- in the cab of the truck, right?",q,MR. GALLAGHER,start_answer
+203,482,19,5,"Correct.  What I did, though, is I turned around and looked through the grate when I backed up.",a,THE WITNESS,start_question
+204,484,19,7,"When you say ""the grate,"" what do you mean?",q,MR. GALLAGHER,start_answer
+205,485,19,8,"There's a metal grate there in case, you know, like debris, if you got in an accident, it would come through the back window and possibly kill you.",a,THE WITNESS,start_question
+206,488,19,11,All right.  So the grate --,q,MR. GALLAGHER,start_answer
+207,489,19,12,"There's a -- there's a big, metal, black grate.",a,THE WITNESS,start_question
+208,490,19,13,"The grate protects -- the grate is the rear of the cab, which protects --",q,MR. GALLAGHER,start_answer
+209,492,19,15,The grate's addition.  It's a metal diamond plate.,a,THE WITNESS,start_question
+210,493,19,16,"All right.  But I'm just trying to describe for the record, because I know what it is --",q,MR. GALLAGHER,start_answer
+211,495,19,18,Okay.,a,THE WITNESS,start_question
+212,496,19,19,"-- you know what it is, but so when we go back and read it five months from now --",q,MR. GALLAGHER,start_answer
+213,498,19,21,All right.,a,THE WITNESS,start_question
+214,499,19,22,-- we know what it is.,q,MR. GALLAGHER,start_answer
+215,500,19,23,Okay.,a,THE WITNESS,start_question
+216,501,19,24,"You say that it's a grate.  You're saying ""grate""?",q,MR. GALLAGHER,start_answer
+217,502,19,25,Yeah.  It's a black diamond -- little diamonds.,a,THE WITNESS,start_question
+218,504,20,1,All right.,q,MR. GALLAGHER,start_answer
+219,505,20,2,Yeah.,a,THE WITNESS,start_question
+220,506,20,3,"And that protects the -- the window that's behind the driver and the passenger in the cab, correct?",q,MR. GALLAGHER,start_answer
+221,508,20,5,Yeah.  It protects the passenger against debris.,a,THE WITNESS,start_question
+222,509,20,6,"And are you able to see from your rearview mirror, if you're looking through the rearview mirror, through that grate?",q,MR. GALLAGHER,start_answer
+223,512,20,9,Yes.,a,THE WITNESS,start_question
+224,513,20,10,It doesn't impede your vision at all?,q,MR. GALLAGHER,start_answer
+225,514,20,11,"No, but I usually look.  Well, I have a habit of turning around like this when I back up.",a,THE WITNESS,start_question
+226,516,20,13,All right.,q,MR. GALLAGHER,start_chat
+227,517,20,14,"Over his shoulder, for the record.",side_chat,MS. KRENICKY,start_chat
+228,519,20,16,"Over his right shoulder, right.",side_chat,MR. GALLAGHER,start_chat
+229,521,20,18,That's my m.o. with --,side_chat,THE WITNESS,start_question
+230,523,20,20,"Were -- were any of the mirrors that we just mentioned, the three mirrors, were any of them inoperable on the day of the accident?",q,MR. GALLAGHER,start_answer
+231,526,20,23,No.  They all work.,a,THE WITNESS,start_question
+232,527,20,24,None of them were hanging or broken or --,q,MR. GALLAGHER,start_answer
+233,528,20,25,"No, I don't think so.  I mean can you see the mirrors in that picture?",a,THE WITNESS,start_question
+234,531,21,2,"Well, no.  And this wasn't taken on the day of the accident, so it really doesn't matter.",q,MR. GALLAGHER,start_answer
+235,533,21,4,No.  I -- my mirrors are fine.,a,THE WITNESS,start_question
+236,534,21,5,"Okay.  At any rate, why don't you tell me what you recall about how the accident occurred.",q,MR. GALLAGHER,start_answer
+237,536,21,7,"Well, I got in the truck, and I was gonna back up a little bit so I could get closer to my trash cans.  And I was moving probably about two to three miles an hour.  And I backed up approximately one car length, and that's when the truck stopped moving.",a,THE WITNESS,start_question
+238,541,21,12,Why?,q,MR. GALLAGHER,start_answer
+239,542,21,13,"Well, I got out and I -- I saw Carla.",a,THE WITNESS,start_question
+240,543,21,14,Did you -- did you -- did you know at that point when it stopped moving that you had come in contact with another vehicle?,q,MR. GALLAGHER,start_answer
+241,546,21,17,"I never felt contact with another vehicle.  I was backing up very slowly, and I felt resistance, I would say.",a,THE WITNESS,start_question
+242,549,21,20,When you put the -- your --,q,MR. GALLAGHER,start_answer
+243,550,21,21,It was no -- there was no impact on -- on my part.,a,THE WITNESS,start_question
+244,551,21,22,You -- when you put your vehicle in reverse --,q,MR. GALLAGHER,start_answer
+245,552,21,23,I put it in park at that point.,a,THE WITNESS,start_question
+246,553,21,24,"No.  Look, let me finish.",q,MR. GALLAGHER,start_chat
+247,554,21,25,He's a couple steps earlier.,side_chat,MS. KRENICKY,start_question
+248,557,22,2,"I'm going back a little earlier, before the impact.",q,MR. GALLAGHER,start_answer
+249,558,22,3,Okay.,a,THE WITNESS,start_question
+250,559,22,4,"Car is parked.  You get in.  Did I say ""car""? Truck is parked.  You get in.  You intend to back up.  You put it in reverse, correct?",q,MR. GALLAGHER,start_answer
+251,562,22,7,"Well, I looked first to see if I --",a,THE WITNESS,start_question
+252,563,22,8,Just answer my question.  You put it in reverse?,q,MR. GALLAGHER,start_answer
+253,564,22,9,Yeah.,a,THE WITNESS,start_question
+254,565,22,10,Did you apply pressure to the gas pedal?,q,MR. GALLAGHER,start_answer
+255,566,22,11,"Well, it's -- it's on a hill, but I still needed to apply a little bit of pressure.",a,THE WITNESS,start_question
+256,568,22,13,"All right.  So the answer is yes, you did?",q,MR. GALLAGHER,start_answer
+257,569,22,14,"Correct, but very little pressure, because I was backing up.",a,THE WITNESS,start_question
+258,571,22,16,All right.  Let's go back again to when you first got in your truck before the impact.  You said you looked behind you?,q,MR. GALLAGHER,start_answer
+259,574,22,19,I did.,a,THE WITNESS,start_question
+260,575,22,20,How did you look behind you?  What did you do?,q,MR. GALLAGHER,start_answer
+261,576,22,21,"Well, as I was getting in the truck, I did a visual look to see what was going on.  And, you know, I could see -- I could see -- see, this is open in here.  I could see -- I could basically see what's going on. I jumped in the truck.  I started it, and then I paused for a little bit to let it warm up just a hair.  And then I turned around and looked, and it looked clear.",a,THE WITNESS,start_question
+262,585,23,4,"Let me ask you this:  My client is coming from the right-hand side of the picture, toward the left, correct?",q,MR. GALLAGHER,start_answer
+263,587,23,6,Correct.,a,THE WITNESS,start_question
+264,588,23,7,Meaning she would have --,q,MR. GALLAGHER,start_answer
+265,589,23,8,Drove by me.,a,THE WITNESS,start_question
+266,590,23,9,-- driven by you?,q,MR. GALLAGHER,start_answer
+267,591,23,10,Correct.,a,THE WITNESS,start_question
+268,592,23,11,Meaning you would have been looking in the direction she would be coming from; is that correct?,q,MR. GALLAGHER,start_answer
+269,594,23,13,That's correct.,a,THE WITNESS,start_question
+270,595,23,14,"All right.  Did you -- at any point before impact, did you see my client's vehicle?",q,MR. GALLAGHER,start_answer
+271,597,23,16,"No, never saw it.",a,THE WITNESS,start_question
+272,598,23,17,Now let's go back again.  You said you looked back?,q,MR. GALLAGHER,start_answer
+273,599,23,18,I did look back.,a,THE WITNESS,start_question
+274,600,23,19,"All right.  You look back -- you looked at your general surroundings before you got in your truck, correct?",q,MR. GALLAGHER,start_answer
+275,603,23,22,Yes.,a,THE WITNESS,start_question
+276,604,23,23,And you did not see my client's vehicle at that point?,q,MR. GALLAGHER,start_answer
+277,606,23,25,I never saw -- I never saw her vehicle.,a,THE WITNESS,start_question
+278,608,24,1,"All right.  And you got in your truck, and then you said you looked back.  How did you look back, driver's side mirror, rearview mirror, passenger side mirror, all three?",q,MR. GALLAGHER,start_answer
+279,612,24,5,"Arm on the bench seat, and I turned and looked through the rear window.",a,THE WITNESS,start_question
+280,614,24,7,And you saw nothing at that point?,q,MR. GALLAGHER,start_answer
+281,615,24,8,I didn't see her car.,a,THE WITNESS,start_question
+282,616,24,9,"Again, but you don't recall whether or not there were some trash cans in the back of your vehicle?",q,MR. GALLAGHER,start_answer
+283,618,24,11,I don't know.,a,THE WITNESS,start_question
+284,619,24,12,But it's possible?,q,MR. GALLAGHER,start_answer
+285,620,24,13,It's very possible.,a,THE WITNESS,start_question
+286,621,24,14,"Nevertheless, you never saw my client's vehicle?",q,MR. GALLAGHER,start_answer
+287,622,24,15,I never saw her vehicle --,a,THE WITNESS,start_question
+288,623,24,16,And then you --,q,MR. GALLAGHER,start_answer
+289,624,24,17,-- nor -- nor did I see her pass me.,a,THE WITNESS,start_question
+290,625,24,18,"Right.  We got that.  Then you back up, and then you feel resistance?",q,MR. GALLAGHER,start_answer
+291,627,24,20,"I back up approximately ten feet, at a very slow rate.  And then, the truck stops moving.",a,THE WITNESS,start_question
+292,629,24,22,What did you do next?,q,MR. GALLAGHER,start_answer
+293,630,24,23,"Put it in park, got out, and saw her car and -- and her outside of the vehicle, standing by the -- her door -- passenger door or whatever.",a,THE WITNESS,start_question
+294,634,25,1,"At that point, did you go around and -- and take a -- a visual, a look at where the vehicles came in contact?",q,MR. GALLAGHER,start_answer
+295,637,25,4,"At that point, she said that I ran into her -- or that I hit her.  And I decided I would go and look.  I wasn't sure.",a,THE WITNESS,start_question
+296,640,25,7,"So your answer is yes, you went and looked?",q,MR. GALLAGHER,start_answer
+297,641,25,8,I went and looked.,a,THE WITNESS,start_question
+298,642,25,9,"At that point, what did you see when you looked?",q,MR. GALLAGHER,start_answer
+299,643,25,10,"I saw my truck alongside of her car, alongside of it, not behind it.",a,THE WITNESS,start_question
+300,645,25,12,"When you say ""your truck,"" tell me, in your words, what part of your truck was in contact with her vehicle.",q,MR. GALLAGHER,start_answer
+301,647,25,14,My bumper was in contact with her rear taillight maybe.,a,THE WITNESS,start_question
+302,649,25,16,"What part of your bumper, driver's side, middle, or passenger side bumper of your vehicle?",q,MR. GALLAGHER,start_answer
+303,651,25,18,The passenger side bumper was -- was making contact with her rear panel.,a,THE WITNESS,start_question
+304,653,25,20,Rear panel.  What side of her vehicle?,q,MR. GALLAGHER,start_answer
+305,654,25,21,Passenger side on her car.,a,THE WITNESS,start_question
+306,655,25,22,"After you saw that, what did you do?",q,MR. GALLAGHER,start_answer
+307,656,25,23,"Well, I wasn't sure how -- how, you know, much damage there may have been, so I decided to move my truck back into my parking spot.",a,THE WITNESS,start_question
+308,660,26,1,"Take it a step back.  When -- before you did that, and you're taking the first visual of the contact of -- between your vehicle and my client's vehicle, what damage, if any, did you see?",q,MR. GALLAGHER,start_answer
+309,664,26,5,No damage.,a,THE WITNESS,start_question
+310,665,26,6,None at all?,q,MR. GALLAGHER,start_answer
+311,666,26,7,No damage.,a,THE WITNESS,start_question
+312,667,26,8,All right.  So then you -- I think you said you -- you went around and got back in your vehicle?,q,MR. GALLAGHER,start_answer
+313,669,26,10,"Well, I told -- I told Carla that I was gonna move the truck back into my parking spot.",a,THE WITNESS,start_question
+314,671,26,12,And did you do that?,q,MR. GALLAGHER,start_answer
+315,672,26,13,I did that.,a,THE WITNESS,start_question
+316,673,26,14,"And what happened, if anything, when you did that?",q,MR. GALLAGHER,start_answer
+317,674,26,15,The bumper came off of her vehicle.,a,THE WITNESS,start_question
+318,675,26,16,"All right.  We're gonna have marked collectively -- I'll have these marked collectively as Orner-2.  But before I do that, I'm gonna ask you this:  After you moved your vehicle back to the parking spot and you said that the bumper of her vehicle came off, did -- at any point after that, did you go outside of your vehicle and take a look at my client's vehicle?",q,MR. GALLAGHER,start_answer
+319,682,26,23,"Oh, yeah.  When I got -- when I parked the vehicle, I got out, and that's clearly the damage that's in the picture.",a,THE WITNESS,is brackets
+320,686,27,1,(Exhibit Orner-2 marked for identification.),brackets,,start_question
+321,689,27,4,And now I'm gonna show you four photographs which we had marked as Orner-4 (sic).  And take -- just take a moment and don't say anything.  Just look at them.,q,MR. GALLAGHER,start_chat
+322,692,27,7,You have them.  You gave them to me.,side_chat,MR. GALLAGHER,start_chat
+323,694,27,9,I have them.  I have some...,side_chat,MS. KRENICKY,start_chat
+324,695,27,10,Were these taken at the --,side_chat,THE WITNESS,start_chat
+325,696,27,11,"Well, just -- just take a look at them.",side_chat,MR. GALLAGHER,start_chat
+326,698,27,13,"They're all the same, basically.  I don't know what this one is.",side_chat,THE WITNESS,start_chat
+327,700,27,15,"Don't say anything, 'cause your attorney is gonna get mad at you.",side_chat,MR. GALLAGHER,start_chat
+328,702,27,17,Okay.  I'm not saying anything.,side_chat,THE WITNESS,start_chat
+329,704,27,19,Just look.,side_chat,MS. KRENICKY,start_chat
+330,705,27,20,I'm looking.,side_chat,THE WITNESS,start_chat
+331,706,27,21,Tell me when you're -- tell me when you're -- you're comfortable to ask -- to answer a question.,side_chat,MR. GALLAGHER,start_chat
+332,709,27,24,All right.  Go ahead.,side_chat,THE WITNESS,start_question
+333,712,28,1,"All right.  When you got out of your vehicle after pulling into your parking space and you went and looked at my client's vehicle, is this the damage that you -- you saw to her vehicle?",q,MR. GALLAGHER,start_answer
+334,716,28,5,Yeah.  This looks exactly -- I mean I don't know if this is Grand and Bon Air.,a,THE WITNESS,start_question
+335,718,28,7,I didn't ask that.  Just listen to my question.  Is that the damage you saw to my client's vehicle when you got out the second time from your vehicle?,q,MR. GALLAGHER,start_answer
+336,721,28,10,Yeah.  Sounds right.,a,THE WITNESS,start_question
+337,722,28,11,"That's all I have for you for these -- these photographs.  All right. Other than the -- the -- I'll say conversation or -- or words exchanged that you've already spoke about between yourself and my client, was anything else said between you and my client at any point at the accident scene?",q,MR. GALLAGHER,start_answer
+338,729,28,18,"Yeah, there was things said.",a,THE WITNESS,start_question
+339,730,28,19,What -- what happened?  Tell me what was said.,q,MR. GALLAGHER,start_answer
+340,731,28,20,"Well, she said that I hit her vehicle.  She said that she tried to beep and use the horn, I guess, to warn me.  I told her that I didn't hear the horn.  I told her I never saw her and that I was sorry that I backed into her.",a,THE WITNESS,start_question
+341,735,28,24,You talked about a horn.  Are you saying today you never heard a horn --,q,MR. GALLAGHER,start_answer
+342,738,29,1,Never heard a horn --,a,THE WITNESS,start_question
+343,739,29,2,-- beep?,q,MR. GALLAGHER,start_answer
+344,740,29,3,-- nope.  She said she had hit the horn though.,a,THE WITNESS,start_question
+345,741,29,4,Do you recall giving a statement to the insurance company at some point following this accident -- to your insurance company?,q,MR. GALLAGHER,start_answer
+346,744,29,7,I called when I got home.  And they asked me a bunch of stuff and said that they would --,a,THE WITNESS,start_question
+347,746,29,9,Do you recall -- okay.,q,MR. GALLAGHER,start_answer
+348,747,29,10,-- write an accident --,a,THE WITNESS,start_question
+349,748,29,11,Do you recall -- do you recall speaking to a -- a man named Chris at the insurance company?,q,MR. GALLAGHER,start_answer
+350,750,29,13,I don't know his name.,a,THE WITNESS,start_question
+351,751,29,14,"Do you recall -- so this conversation -- well, let me ask you this:  This conversation you had when you got home with the insurance company, was it your understanding it was being recorded?",q,MR. GALLAGHER,start_answer
+352,755,29,18,Probably.,a,THE WITNESS,start_question
+353,756,29,19,"Well, ""probably"" is not an answer.  Is it ""yes,"" ""no,"" ""I don't know""?",q,MR. GALLAGHER,start_answer
+354,758,29,21,I don't know.,a,THE WITNESS,start_question
+355,759,29,22,All right.  Did they inform you -- let me -- it's a different question but kind of the same.  I just want to make sure:  Did they inform you -- do you recall being informed that it was being recorded?,q,MR. GALLAGHER,start_answer
+356,764,30,1,I don't remember.,a,THE WITNESS,start_question
+357,765,30,2,"At any rate, on page two --",q,MR. GALLAGHER,start_chat
+358,766,30,3,"What we'll have marked as Orner-3, by the way.",side_chat,MR. GALLAGHER,is brackets
+359,768,30,5,(Exhibit Orner-3 marked for identification.),brackets,,start_question
+360,771,30,8,"At line 51, your answer to a question was: ""I didn't see her.  I started -- I backed out of the spot, and she said she beeped the horn.  Umm. ""QUESTION:  Uh-huh. ""ANSWER:  I heard a horn.  I looked again and I still couldn't see her, because I'm in a truck and she's in this little car."" After we -- after me having read that to you, what I'm gonna purport is a statement provided by your attorney in your responses to my discovery request, do you still maintain today that you never heard a horn?",q,MR. GALLAGHER,start_answer
+361,782,30,19,I didn't hear a horn.,a,THE WITNESS,start_question
+362,783,30,20,"All right.  So that's -- that sentence I just read of your recorded statement, that's incorrect?",q,MR. GALLAGHER,start_answer
+363,785,30,22,That's -- that's got to be a -- a misstatement.  I never heard a horn.,a,THE WITNESS,start_question
+364,787,30,24,"All right.  On page 14 of this -- of the recorded statement that we're -- we're speaking about, at line -- at line 565, your answer to a question about the accident was: ""She chose -- she chose -- she -- she -- she saw me backing up, and she -- and she chose to use the horn. ""QUESTION:  So she did honk the horn? ""ANSWER:  She honked the horn, correct. ""QUESTION:  And you did hear it? ""ANSWER:  I heard a horn, and I looked around, and I still didn't see her.""",q,MR. GALLAGHER,start_answer
+365,800,31,11,I don't --,a,THE WITNESS,start_question
+366,801,31,12,"Hold on. ""QUESTION:  Okay. ""ANSWER:  I looked.  I looked both ways and I didn't see anything.  I'm like, What -- what is this horn thing going on?"" All right.  So now we've talked about two instances where you discuss a horn, the second one at length, in this recorded statement.  And so as you sit here today, you're still saying you didn't hear a horn?",q,MR. GALLAGHER,start_answer
+367,810,31,21,"I don't remember hearing a horn.  I remember her telling me she honked the horn.  That's why the horn thing is in -- in my head, because she said she was honking the horn.  I don't remember hearing the horn.  Usually, if I hear a horn, I hit the brakes immediately.",a,THE WITNESS,start_question
+368,816,32,1,"But would you agree with me that these questions and answers I just read to you, they -- the questions and answers I just read to you reflect that you did hear a horn that day?  I mean just from what I read.",q,MR. GALLAGHER,start_answer
+369,820,32,5,I disagree.,a,THE WITNESS,start_question
+370,821,32,6,All right.,q,MR. GALLAGHER,start_answer
+371,822,32,7,I disagree.,a,THE WITNESS,start_question
+372,823,32,8,And this was given --,q,MR. GALLAGHER,start_answer
+373,824,32,9,This was --,a,THE WITNESS,start_question
+374,825,32,10,"This was given the day of the accident, this statement?",q,MR. GALLAGHER,start_answer
+375,827,32,12,This was after the accident.,a,THE WITNESS,start_question
+376,828,32,13,"But the same day, this statement was given?",q,MR. GALLAGHER,start_answer
+377,829,32,14,"Yeah, I think it was the same day.",a,THE WITNESS,start_question
+378,830,32,15,All right.,q,MR. GALLAGHER,start_answer
+379,831,32,16,"It was after the accident.  I don't remember hearing a horn.  I brought the horn up because she told me she was hitting the horn.  Maybe I misspoke to the Progressive guy about the horn, but I don't remember hearing a horn and I don't remember seeing her. I didn't see her drive by me.  I never saw her at the -- at the intersection.  The only -- the first time I knew she was there is when the truck stopped.",a,THE WITNESS,start_question
+380,839,32,24,"All right.  Let me ask you this.  I'm just gonna get to the end point here.  Do you admit that it was your fault, this impact?",q,MR. GALLAGHER,start_chat
+381,843,33,2,I'll object to the form. You can answer.,side_chat,MS. KRENICKY,start_chat
+382,845,33,4,"I believe it is my -- was my fault, and I even told her that at the accident, because she was upset about the accident.  And I said, ""I'm sorry. It was my fault.  I backed into you.""",side_chat,THE WITNESS,start_chat
+383,849,33,8,All right.  That's all the questions I have.  All right.  Thank you.,side_chat,MR. GALLAGHER,start_chat
+384,851,33,10,That's it.,side_chat,MS. KRENICKY,is brackets
+385,852,33,11,(Witness excused.),brackets,,is brackets
+386,853,33,12,"(Deposition ended at 10:53 a.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+387,884,34,18,__________________________ Ian Monahan and Notary Public,symbols,,end

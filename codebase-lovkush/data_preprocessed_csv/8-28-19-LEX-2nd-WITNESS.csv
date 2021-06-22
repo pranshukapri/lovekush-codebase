@@ -1,0 +1,1001 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows ....,,,symbols
+1,68,8,14,- - - EXAMINATION,symbols,,symbols
+2,70,8,16,- - -,symbols,,start_question
+3,72,8,18,Good afternoon.,q,MS. KOSCIELNIAK,start_answer
+4,73,8,19,Hi.,a,THE WITNESS,start_question
+5,74,8,20,"My name is Daria Koscielniak, and I represent Mr. Oliver in connection with a lawsuit that you have filed against him. Have you ever given a deposition before?",q,MS. KOSCIELNIAK,start_answer
+6,80,9,1,No.,a,THE WITNESS,start_question
+7,81,9,2,Can you state your full name for the record.,q,MS. KOSCIELNIAK,start_answer
+8,83,9,4,Carolyn B. Chester.,a,THE WITNESS,start_question
+9,84,9,5,What does the B stand for?,q,MS. KOSCIELNIAK,start_answer
+10,85,9,6,"Brame, B-r-a-m-e.",a,THE WITNESS,start_question
+11,86,9,7,"Before we get started, I'm going to go through some ground rules. Seated to your right and my left is the court reporter.  She's taking down everything that you and I say.  For that reason, it's important that your answers are verbal.  She can't take down nods of the head, hand gestures.  Things like ""mm-hmm"" or ""uh-uh"" will not be clear on the record that's created at the end of today.  Do you understand that?",q,MS. KOSCIELNIAK,start_answer
+12,97,9,18,I do.,a,THE WITNESS,start_question
+13,98,9,19,"If you don't understand any of my questions, please let me know.  I'll be happy to rephrase or repeat it.  If you provide me with an answer, I'm going to assume that you understood the question; is that fair?",q,MS. KOSCIELNIAK,start_answer
+14,105,10,1,Yes.,a,THE WITNESS,start_question
+15,106,10,2,"Are you under the influence of any kind of drugs, alcohol, medications, anything at all, that would affect your ability to understand my questions here today and answer them truthfully?",q,MS. KOSCIELNIAK,start_answer
+16,111,10,7,I don't understand the question.,a,THE WITNESS,start_question
+17,112,10,8,Is there any reason why you cannot understand my questions and provide honest and truthful testimony here today?,q,MS. KOSCIELNIAK,start_answer
+18,115,10,11,No.,a,THE WITNESS,start_question
+19,116,10,12,"Again, are you under the influence of any kind of drugs, alcohol or medication today?",q,MS. KOSCIELNIAK,start_answer
+20,119,10,15,"No alcohol, no drugs.",a,THE WITNESS,start_question
+21,120,10,16,Okay.  Did you take medication today?,q,MS. KOSCIELNIAK,start_answer
+22,122,10,18,"I have -- I take a pill or something.  I mean, I'm not sure why you're asking me about my medication.",a,THE WITNESS,start_question
+23,125,10,21,Because medication can have an affect on an individual's ability to understand questions.,q,MS. KOSCIELNIAK,start_answer
+24,128,10,24,I understand everything you're saying.,a,THE WITNESS,start_question
+25,131,11,2,Okay.  What kind of medication did you take today?,q,MS. KOSCIELNIAK,start_answer
+26,133,11,4,I don't have a list of my medications.,a,THE WITNESS,start_question
+27,135,11,6,What is it for?,q,MS. KOSCIELNIAK,start_answer
+28,136,11,7,I don't see a reason to give you that information.,a,THE WITNESS,start_question
+29,138,11,9,"Is it for blood pressure, diabetes?",q,MS. KOSCIELNIAK,start_answer
+30,140,11,11,What does that have to do with --,a,THE WITNESS,start_chat
+31,141,11,12,"Carolyn, you have to answer questions like that.  The reason is it's discovery.  It doesn't mean it's going to come up at trial because it may not be relevant, but in a deposition you have to give information.  And it's not going to go any further than the deposition.  Okay?",side_chat,MR. GOODSTADT,start_chat
+32,151,11,22,Okay.,side_chat,THE WITNESS,start_chat
+33,152,11,23,So you can answer that question.,side_chat,MR. GOODSTADT,start_chat
+34,155,12,1,What's your question?,side_chat,THE WITNESS,start_question
+35,158,12,4,What is the medication you took today?  What is it for?,q,MS. KOSCIELNIAK,start_answer
+36,160,12,6,"I took vitamins for energy, and I took cholesterol.",a,THE WITNESS,start_question
+37,162,12,8,Okay.  Anything else?,q,MS. KOSCIELNIAK,start_answer
+38,163,12,9,And insulin.,a,THE WITNESS,start_question
+39,164,12,10,"Okay.  And you understand that, today, your testimony is under oath, meaning that your testimony holds the same weight as if we were in a court of law?",q,MS. KOSCIELNIAK,start_answer
+40,169,12,15,Yup.  Yes.,a,THE WITNESS,start_question
+41,170,12,16,Okay.  Did you review any documents in preparation for today?,q,MS. KOSCIELNIAK,start_answer
+42,172,12,18,I've been advised by my attorney.,a,THE WITNESS,start_question
+43,174,12,20,Did you review any paper documents in preparation for your deposition today?,q,MS. KOSCIELNIAK,start_answer
+44,177,12,23,Paper documents?,a,THE WITNESS,start_chat
+45,178,12,24,"She wants to know if you looked at anything, not met with me. That's what she wants to know.",side_chat,MR. GOODSTADT,start_chat
+46,183,13,4,No.,side_chat,THE WITNESS,start_chat
+47,184,13,5,Okay. Off the record.,side_chat,MS. KOSCIELNIAK,is brackets
+48,186,13,7,(A discussion was held off the record at this time.),brackets,,symbols
+49,188,13,9,- - -,symbols,,start_chat
+50,189,13,10,Back on.,side_chat,MS. KOSCIELNIAK,start_question
+51,191,13,12,"On while we were off the record, we confirmed your Social Security Number; is that correct?",q,MS. KOSCIELNIAK,start_answer
+52,194,13,15,Are you asking me a question?,a,THE WITNESS,start_question
+53,195,13,16,"Yes.  I said, while we were off the record, we confirmed your social security number; is that correct?",q,MS. KOSCIELNIAK,start_answer
+54,198,13,19,Yes.,a,THE WITNESS,start_question
+55,199,13,20,What's your date of birth?,q,MS. KOSCIELNIAK,start_answer
+56,200,13,21,9/11/56.,a,THE WITNESS,start_question
+57,201,13,22,Where were you born?,q,MS. KOSCIELNIAK,start_answer
+58,202,13,23,"Philadelphia, Pennsylvania.",a,THE WITNESS,start_question
+59,203,13,24,Do you have a Pennsylvania driver's license?,q,MS. KOSCIELNIAK,start_answer
+60,206,14,2,Yes.,a,THE WITNESS,start_question
+61,207,14,3,Have you ever had a license in any other state?,q,MS. KOSCIELNIAK,start_answer
+62,209,14,5,Yes.,a,THE WITNESS,start_question
+63,210,14,6,What other states?,q,MS. KOSCIELNIAK,start_answer
+64,211,14,7,My last one was Florida.,a,THE WITNESS,start_question
+65,212,14,8,Okay.  What other states have you had a license in?,q,MS. KOSCIELNIAK,start_answer
+66,214,14,10,I don't recall them all.,a,THE WITNESS,start_question
+67,215,14,11,How many states have you had a license in?,q,MS. KOSCIELNIAK,start_answer
+68,217,14,13,I don't recall them all.,a,THE WITNESS,start_question
+69,218,14,14,Okay.  Do you know how many there were?,q,MS. KOSCIELNIAK,start_answer
+70,220,14,16,Uh-uh.  No.,a,THE WITNESS,start_question
+71,221,14,17,Do you have your license here with you?,q,MS. KOSCIELNIAK,start_answer
+72,223,14,19,I do.,a,THE WITNESS,start_question
+73,224,14,20,Can you please hand it to your attorney?,q,MS. KOSCIELNIAK,start_answer
+74,226,14,22,(The witness complies.),a,THE WITNESS,is brackets
+75,227,14,23,(A discussion was held off the record at this time.),brackets,,symbols
+76,230,15,1,- - -,symbols,,start_chat
+77,231,15,2,"I've been handed Ms. Chester's Pennsylvania driver's license, Number 19750249, issued 4/2/19, expires 9/12/21.  There's an address listed here, 7900 Old York Road, Apartment 509-B, Elkins Park, PA  19027.  There's a restriction for corrective lens. I'm now handing the license back.",side_chat,MS. KOSCIELNIAK,start_question
+78,244,15,15,Do you still live at the Old York Road address?,q,MS. KOSCIELNIAK,start_answer
+79,246,15,17,7900.  Yes.,a,THE WITNESS,start_question
+80,247,15,18,Okay.  How long have you lived at that address?,q,MS. KOSCIELNIAK,start_answer
+81,249,15,20,About a year.,a,THE WITNESS,start_question
+82,250,15,21,Where were you living before that?,q,MS. KOSCIELNIAK,start_answer
+83,252,15,23,Old York Road.,a,THE WITNESS,start_question
+84,253,15,24,"Okay.  Is that the 100 Old York Road, Apartment 819?",q,MS. KOSCIELNIAK,start_answer
+85,256,16,2,Yes.,a,THE WITNESS,start_question
+86,257,16,3,How long did you live at that address?,q,MS. KOSCIELNIAK,start_answer
+87,259,16,5,About a year.,a,THE WITNESS,start_question
+88,260,16,6,And where did you live before that?,q,MS. KOSCIELNIAK,start_answer
+89,262,16,8,Florida.,a,THE WITNESS,start_question
+90,263,16,9,For how long?,q,MS. KOSCIELNIAK,start_answer
+91,264,16,10,About six years.,a,THE WITNESS,start_question
+92,265,16,11,"Okay.  And the address in Florida, is that 4854 Wessex Way, Orlando Lakes, Florida?",q,MS. KOSCIELNIAK,start_answer
+93,268,16,14,Yes.,a,THE WITNESS,start_question
+94,269,16,15,"Who do you currently live with, if anyone?",q,MS. KOSCIELNIAK,start_answer
+95,271,16,17,No one.,a,THE WITNESS,start_question
+96,272,16,18,"Where were you living at the time of the accident on August 7th, 2017?",q,MS. KOSCIELNIAK,start_answer
+97,274,16,20,At 100 Old York Road.,a,THE WITNESS,start_question
+98,275,16,21,"At the time of the accident, were you living with anyone?",q,MS. KOSCIELNIAK,start_answer
+99,277,16,23,No.,a,THE WITNESS,start_question
+100,278,16,24,Have you lived with anyone since the time of the accident until now?,q,MS. KOSCIELNIAK,start_answer
+101,281,17,2,No.,a,THE WITNESS,start_question
+102,282,17,3,"Has your Pennsylvania driver's license ever been suspended, terminated or revoked?",q,MS. KOSCIELNIAK,start_answer
+103,285,17,6,Never.,a,THE WITNESS,start_question
+104,286,17,7,"How about the Florida license, has that ever been suspended, terminated or revoked?",q,MS. KOSCIELNIAK,start_answer
+105,289,17,10,No.,a,THE WITNESS,start_question
+106,290,17,11,"Okay.  You told me you had licenses in a few other states, and you didn't remember which ones or how many. Has your driver's license since you had a driver's license ever been suspended, terminated or revoked in any state?",q,MS. KOSCIELNIAK,start_answer
+107,296,17,17,Never.,a,THE WITNESS,start_question
+108,297,17,18,"At the time of the accident, did you own a vehicle?",q,MS. KOSCIELNIAK,start_answer
+109,299,17,20,Yes.,a,THE WITNESS,start_question
+110,300,17,21,What kind of car did you own?,q,MS. KOSCIELNIAK,start_answer
+111,301,17,22,An SUV.,a,THE WITNESS,start_question
+112,302,17,23,What was the make and model?,q,MS. KOSCIELNIAK,start_answer
+113,303,17,24,I don't recall.,a,THE WITNESS,start_question
+114,305,18,1,What color was it?,q,MS. KOSCIELNIAK,start_answer
+115,306,18,2,I don't recall.,a,THE WITNESS,start_question
+116,307,18,3,You no longer have the car?,q,MS. KOSCIELNIAK,start_answer
+117,308,18,4,No.,a,THE WITNESS,start_question
+118,309,18,5,When did you -- what happened to it?,q,MS. KOSCIELNIAK,start_answer
+119,311,18,7,I don't have it anymore.  I bought a new car.,a,THE WITNESS,start_question
+120,313,18,9,"The SUV that you owned on the date of the accident, was it insured?",q,MS. KOSCIELNIAK,start_answer
+121,315,18,11,Rephrase the question.,a,THE WITNESS,start_question
+122,316,18,12,"The vehicle that you owned on the date of the accident, was is it covered by insurance?",q,MS. KOSCIELNIAK,start_answer
+123,319,18,15,The vehicle that I owned?,a,THE WITNESS,start_question
+124,320,18,16,Yes.,q,MS. KOSCIELNIAK,start_answer
+125,321,18,17,My personal vehicle?,a,THE WITNESS,start_question
+126,322,18,18,Yes.,q,MS. KOSCIELNIAK,start_answer
+127,323,18,19,Yes.,a,THE WITNESS,start_question
+128,324,18,20,Who is it insured with?,q,MS. KOSCIELNIAK,start_answer
+129,325,18,21,State Farm.,a,THE WITNESS,start_question
+130,326,18,22,Did you own any other vehicles on the date of the accident other than the SUV?,q,MS. KOSCIELNIAK,start_answer
+131,330,19,1,No.,a,THE WITNESS,start_question
+132,331,19,2,What's your current marital status?,q,MS. KOSCIELNIAK,start_answer
+133,333,19,4,Widow.,a,THE WITNESS,start_question
+134,334,19,5,Do you have any children?,q,MS. KOSCIELNIAK,start_answer
+135,335,19,6,Yes.,a,THE WITNESS,start_question
+136,336,19,7,How many?,q,MS. KOSCIELNIAK,start_answer
+137,337,19,8,Two.,a,THE WITNESS,start_question
+138,338,19,9,And what are their names and ages?,q,MS. KOSCIELNIAK,start_answer
+139,340,19,11,"Ala Stanford Drayton and Kamau Stanford.  A-l-a, Drayton, D-r-a-y-t-o-n, and Kamau Stanford, K-a-m-a-u, S-t-a-n-f-o-r-d.",a,THE WITNESS,start_question
+140,344,19,15,And how old are they?,q,MS. KOSCIELNIAK,start_answer
+141,345,19,16,My daughter's born in 1970.  My son was born in 1975.,a,THE WITNESS,start_question
+142,347,19,18,Do you have any grandkids?,q,MS. KOSCIELNIAK,start_answer
+143,348,19,19,Yes.,a,THE WITNESS,start_question
+144,349,19,20,How many?,q,MS. KOSCIELNIAK,start_answer
+145,350,19,21,Six.,a,THE WITNESS,start_question
+146,351,19,22,"I'm not going to ask all their names and ages.  But how old is the youngest, and how old is the oldest?",q,MS. KOSCIELNIAK,start_answer
+147,355,20,1,"I don't know.  My guess is 6, the youngest, and the oldest I guess is 21.",a,THE WITNESS,start_question
+148,357,20,3,Did you ever serve in the military?,q,MS. KOSCIELNIAK,start_answer
+149,359,20,5,Never.,a,THE WITNESS,start_question
+150,360,20,6,"Okay.  In your Answers to Interrogatories, you had indicated that you've gone by several names; Carolyn Chester, Carolyn Stolman and Carolyn Stanford.  How long have you gone by Carolyn Chester?",q,MS. KOSCIELNIAK,start_answer
+151,366,20,12,'94.,a,THE WITNESS,start_question
+152,367,20,13,Since 1994?,q,MS. KOSCIELNIAK,start_answer
+153,368,20,14,Mm-hmm.,a,THE WITNESS,start_question
+154,369,20,15,Is that a yes?,q,MS. KOSCIELNIAK,start_answer
+155,370,20,16,"Yes.  I married in 1994, and my name was Chester from that point.",a,THE WITNESS,start_question
+156,372,20,18,And when did you go by the Stolman last name?,q,MS. KOSCIELNIAK,start_answer
+157,374,20,20,That's my E-mail.,a,THE WITNESS,start_question
+158,375,20,21,Have you ever gone by the name Carolyn Stolman?,q,MS. KOSCIELNIAK,start_answer
+159,377,20,23,"No, ma'am.",a,THE WITNESS,start_question
+160,378,20,24,You also indicated that you have gone by Carolyn Stanford.  When did you use that name?,q,MS. KOSCIELNIAK,start_answer
+161,382,21,3,Prior to my wedding in September of '94.,a,THE WITNESS,start_question
+162,384,21,5,Is that your maiden name?,q,MS. KOSCIELNIAK,start_answer
+163,385,21,6,"Yes.  Correction, Stanford was given to me by my mother.  Stanford is not my father's name.  My father's name was Brame.",a,THE WITNESS,start_question
+164,389,21,10,How do you spell that?,q,MS. KOSCIELNIAK,start_answer
+165,390,21,11,"Spell what, Brame?",a,THE WITNESS,start_question
+166,391,21,12,Yes.,q,MS. KOSCIELNIAK,start_answer
+167,392,21,13,B-r-a-m-e.,a,THE WITNESS,start_question
+168,393,21,14,Okay.  Thank you. Did you ever serve in the military?,q,MS. KOSCIELNIAK,start_answer
+169,396,21,17,No.,a,THE WITNESS,start_question
+170,397,21,18,I think I asked you that.,q,MS. KOSCIELNIAK,start_answer
+171,398,21,19,Yes.,a,THE WITNESS,start_question
+172,399,21,20,Okay.  Can you tell me a little bit about your educational background?,q,MS. KOSCIELNIAK,start_answer
+173,401,21,22,"My education, I graduated from Germantown High School 1975.  I graduated with a Bachelor's at Philadelphia College of Textiles and Science in '80 something. I don't remember.",a,THE WITNESS,start_question
+174,407,22,3,Did you go on to receive any additional vocational or technical training?,q,MS. KOSCIELNIAK,start_answer
+175,410,22,6,I don't recall it all.,a,THE WITNESS,start_question
+176,411,22,7,Did you ever receive any kind of certificates or licenses?,q,MS. KOSCIELNIAK,start_answer
+177,413,22,9,"Yeah, but I don't recall it all.",a,THE WITNESS,start_question
+178,414,22,10,Do you have any kind of memory problems?,q,MS. KOSCIELNIAK,start_answer
+179,416,22,12,No.,a,THE WITNESS,start_question
+180,417,22,13,Are you currently employed?,q,MS. KOSCIELNIAK,start_answer
+181,418,22,14,Yes.,a,THE WITNESS,start_question
+182,419,22,15,Where do you work?,q,MS. KOSCIELNIAK,start_answer
+183,420,22,16,Partners.,a,THE WITNESS,start_question
+184,421,22,17,What is Partners?,q,MS. KOSCIELNIAK,start_answer
+185,422,22,18,They service the deaf and intellectually disabled.,a,THE WITNESS,start_question
+186,424,22,20,What do you do for them?,q,MS. KOSCIELNIAK,start_answer
+187,425,22,21,I'm a Resident Support Coach.,a,THE WITNESS,start_question
+188,426,22,22,How long have you been a Resident Support Coach for Partners?,q,MS. KOSCIELNIAK,start_answer
+189,428,22,24,One year.,a,THE WITNESS,start_question
+190,430,23,1,Did you work for them in any other capacity?,q,MS. KOSCIELNIAK,start_answer
+191,432,23,3,No.,a,THE WITNESS,start_question
+192,433,23,4,Okay.  So we're currently in August of 2019.  Have you been working for them since approximately August of 2018?,q,MS. KOSCIELNIAK,start_answer
+193,437,23,8,Yes.,a,THE WITNESS,start_question
+194,438,23,9,And what were you doing before that?,q,MS. KOSCIELNIAK,start_answer
+195,440,23,11,Nothing.  Just being grandma.,a,THE WITNESS,start_question
+196,441,23,12,Okay.  When was the last time you were employed before you worked for Partners?,q,MS. KOSCIELNIAK,start_answer
+197,444,23,15,In Florida.,a,THE WITNESS,start_question
+198,445,23,16,Okay.  And what did you do in Florida?,q,MS. KOSCIELNIAK,start_answer
+199,447,23,18,I sold jewelry.,a,THE WITNESS,start_question
+200,448,23,19,Were you employed at the time of the accident in August of 2017?,q,MS. KOSCIELNIAK,start_answer
+201,450,23,21,No.,a,THE WITNESS,start_question
+202,451,23,22,Did you have any source of income from the time of the accident in August of 2017 until you started with Partners in approximately August of 2018?,q,MS. KOSCIELNIAK,start_answer
+203,456,24,2,Yes.,a,THE WITNESS,start_question
+204,457,24,3,What was that?,q,MS. KOSCIELNIAK,start_answer
+205,458,24,4,I had survivor's benefits from my husband.,a,THE WITNESS,start_question
+206,460,24,6,"Did you have any kind of part-time positions, under-the-table jobs?",q,MS. KOSCIELNIAK,start_answer
+207,462,24,8,Not that I recall.,a,THE WITNESS,start_chat
+208,463,24,9,"Counsel, there's no wage loss claim?",side_chat,MS. KOSCIELNIAK,start_chat
+209,465,24,11,"No, which should have been clear from our discovery answers.",side_chat,MR. GOODSTADT,start_chat
+210,468,24,14,"Well, sometimes they get discovery answers that say there's no wage loss claim, and then one miraculously arises.",side_chat,MS. KOSCIELNIAK,start_chat
+211,473,24,19,"I don't do that, but okay.",side_chat,MR. GOODSTADT,start_chat
+212,475,24,21,I still like to ask the question.,side_chat,MS. KOSCIELNIAK,start_chat
+213,477,24,23,Okay.,side_chat,MR. GOODSTADT,start_question
+214,480,25,1,What does your role as the Resident Support Coach for Partners involve?,q,MS. KOSCIELNIAK,start_answer
+215,483,25,4,"I service residents who are either deaf, hard of hearing blind or intellectually disabled.",a,THE WITNESS,start_question
+216,486,25,7,What do you do for them?,q,MS. KOSCIELNIAK,start_answer
+217,487,25,8,I come into their homes and provide whatever care needs depending on what their individual profile is.,a,THE WITNESS,start_question
+218,490,25,11,How many people do you currently work with?,q,MS. KOSCIELNIAK,start_answer
+219,492,25,13,It varies 'cause each home has a different amount of residents in it.,a,THE WITNESS,start_question
+220,494,25,15,"So on average, how many individuals are you working with?",q,MS. KOSCIELNIAK,start_answer
+221,496,25,17,It could be anywhere from two to six depending on what the ratio is.,a,THE WITNESS,start_question
+222,498,25,19,Is that a full-time position?,q,MS. KOSCIELNIAK,start_answer
+223,499,25,20,Part-time.,a,THE WITNESS,start_question
+224,500,25,21,And how many hours a week do you work?,q,MS. KOSCIELNIAK,start_answer
+225,502,25,23,About 20.,a,THE WITNESS,start_question
+226,503,25,24,About 20 hours a week?,q,MS. KOSCIELNIAK,start_answer
+227,505,26,1,Mm-hmm?,a,THE WITNESS,start_question
+228,506,26,2,Is that a yes?,q,MS. KOSCIELNIAK,start_answer
+229,507,26,3,Yes.,a,THE WITNESS,start_question
+230,508,26,4,Is the job a physical job?,q,MS. KOSCIELNIAK,start_answer
+231,509,26,5,No.,a,THE WITNESS,start_question
+232,510,26,6,"Do you have to do any kind of lifting, any carrying of objects, helping people up?",q,MS. KOSCIELNIAK,start_answer
+233,513,26,9,"For the most part, no, and I work with other staff.",a,THE WITNESS,start_question
+234,515,26,11,"I feel like we all know the answer to this question already, and I apologize for asking, but I do have to ask it.  In the last ten years, have you ever been arrested, charged with or convicted of a crime?",q,MS. KOSCIELNIAK,start_answer
+235,521,26,17,No.,a,THE WITNESS,start_question
+236,522,26,18,"Have you been party to a civil lawsuit before?  Meaning other than this lawsuit, have you ever sued or been sued?",q,MS. KOSCIELNIAK,start_answer
+237,525,26,21,I've before never been sued.,a,THE WITNESS,start_question
+238,526,26,22,Have you brought other lawsuits?,q,MS. KOSCIELNIAK,start_answer
+239,527,26,23,"You mean have I been -- I don't understand.  When you say ""lawsuits,"" what are you talking about.",a,THE WITNESS,start_question
+240,531,27,2,So we're here today because you filed a lawsuit against my client for the accident that occurred in August of 2017.,q,MS. KOSCIELNIAK,start_answer
+241,534,27,5,Okay.,a,THE WITNESS,start_question
+242,535,27,6,Have you ever filed a lawsuit against anyone else?,q,MS. KOSCIELNIAK,start_answer
+243,537,27,8,Yes.,a,THE WITNESS,start_question
+244,538,27,9,How many times?,q,MS. KOSCIELNIAK,start_answer
+245,539,27,10,"I would be guessing, so I -- I won't answer.  I don't remember exactly how many.",a,THE WITNESS,start_question
+246,542,27,13,More than five?,q,MS. KOSCIELNIAK,start_answer
+247,543,27,14,"I don't remember.  I don't -- I don't remember exactly how many, so -- I don't remember exactly how many.",a,THE WITNESS,start_question
+248,546,27,17,Can you tell me if it was less than ten?,q,MS. KOSCIELNIAK,start_answer
+249,548,27,19,"Yes, less than ten.",a,THE WITNESS,start_question
+250,549,27,20,"Okay.  Were they lawsuits that were all filed here in Pennsylvania, or were some of them somewhere else?",q,MS. KOSCIELNIAK,start_answer
+251,552,27,23,"I remember one in Pennsylvania. That's all I remember clearly, is one in Pennsylvania.",a,THE WITNESS,start_question
+252,556,28,2,Do you remember any lawsuits from when you lived in Florida?,q,MS. KOSCIELNIAK,start_answer
+253,558,28,4,I don't remember.,a,THE WITNESS,start_question
+254,559,28,5,Okay.  It's your testimony that you've never given deposition testimony like you are today?,q,MS. KOSCIELNIAK,start_answer
+255,562,28,8,Never.,a,THE WITNESS,start_question
+256,563,28,9,"The one lawsuit that you remember in Pennsylvania, what was that in connection with?",q,MS. KOSCIELNIAK,start_answer
+257,566,28,12,Automobile.,a,THE WITNESS,start_question
+258,567,28,13,An accident?,q,MS. KOSCIELNIAK,start_answer
+259,568,28,14,Yes.,a,THE WITNESS,start_question
+260,569,28,15,When did that accident occur?,q,MS. KOSCIELNIAK,start_answer
+261,570,28,16,Decades ago.,a,THE WITNESS,start_question
+262,571,28,17,More than 20 years ago?,q,MS. KOSCIELNIAK,start_answer
+263,572,28,18,Yes.,a,THE WITNESS,start_question
+264,573,28,19,Okay.  What happened in that accident?,q,MS. KOSCIELNIAK,start_answer
+265,575,28,21,I was rear-ended.,a,THE WITNESS,start_question
+266,576,28,22,And were you injured in that accident?,q,MS. KOSCIELNIAK,start_answer
+267,578,28,24,I was.,a,THE WITNESS,start_question
+268,580,29,1,What did you injure?,q,MS. KOSCIELNIAK,start_answer
+269,581,29,2,I don't remember.,a,THE WITNESS,start_question
+270,582,29,3,Okay.  Do you recall answering a series of written questions with your attorney?,q,MS. KOSCIELNIAK,start_answer
+271,585,29,6,What kind of questions?,a,THE WITNESS,start_question
+272,586,29,7,Written questions.,q,MS. KOSCIELNIAK,start_answer
+273,587,29,8,Yes.,a,THE WITNESS,start_question
+274,588,29,9,Okay.  Just curious if this will help your jog memory.  Did you have any lawsuits related to a motor vehicle accident in Michigan?,q,MS. KOSCIELNIAK,start_answer
+275,592,29,13,Say that again?  What's your question again?,a,THE WITNESS,start_question
+276,594,29,15,Did you file a lawsuit in connection with a motor vehicle accident that you had in Michigan?,q,MS. KOSCIELNIAK,start_answer
+277,597,29,18,I don't remember if it was a lawsuit.,a,THE WITNESS,start_question
+278,599,29,20,Okay.  When did that accident occur?,q,MS. KOSCIELNIAK,start_answer
+279,601,29,22,While I lived in Michigan.  I don't remember an exact date.,a,THE WITNESS,start_question
+280,603,29,24,When did you live in Michigan?,q,MS. KOSCIELNIAK,start_answer
+281,605,30,1,"1995 to -- it was 16 years, so whatever that is in the math.",a,THE WITNESS,start_question
+282,607,30,3,About 2010?,q,MS. KOSCIELNIAK,start_answer
+283,608,30,4,Somewhere thereabout.,a,THE WITNESS,start_question
+284,609,30,5,Okay.  Your Answers to Interrogatories had indicated that you injured your neck in that accident.  Do you recall injuring your neck in a motor vehicle accident in Michigan?,q,MS. KOSCIELNIAK,start_answer
+285,614,30,10,I don't recall.,a,THE WITNESS,start_question
+286,615,30,11,Okay.  Is this your verification? I'll show you this document.  Is that your signature here on this verification?,q,MS. KOSCIELNIAK,start_answer
+287,618,30,14,It is.,a,THE WITNESS,start_question
+288,619,30,15,Okay.,q,MS. KOSCIELNIAK,start_chat
+289,620,30,16,"I'll send you a copy of this.  I only have one, but I'll mark this as Chester-1.",side_chat,MS. KOSCIELNIAK,is brackets
+290,624,30,20,(Document was marked for identification as Deposition Exhibit Chester No. 1.),brackets,,symbols
+291,627,30,23,- - -,symbols,,start_question
+292,630,31,1,"Okay.  So while we're on the topic, let's just get to any other prior accidents or injuries that you've had before August 2017.  Your Answers to Interrogatories also indicated that you were in an incident in August of 2015 where you had a torn left meniscus?",q,MS. KOSCIELNIAK,start_answer
+293,637,31,8,Okay.,a,THE WITNESS,start_question
+294,638,31,9,Do you recall that?,q,MS. KOSCIELNIAK,start_answer
+295,639,31,10,I recall that.,a,THE WITNESS,start_question
+296,640,31,11,Okay.  Did you injure any other part of your body at that time?,q,MS. KOSCIELNIAK,start_answer
+297,642,31,13,No.,a,THE WITNESS,start_question
+298,643,31,14,Did you file a lawsuit in connection with that?,q,MS. KOSCIELNIAK,start_answer
+299,645,31,16,No.,a,THE WITNESS,start_question
+300,646,31,17,Were you involved in any other accidents before August of 2017?,q,MS. KOSCIELNIAK,start_answer
+301,648,31,19,I don't recall.,a,THE WITNESS,start_question
+302,649,31,20,"And when I say ""accident,"" I don't just mean motor vehicle accidents. I'm also referring to slip and falls accidents, accidents at the job, any type of accident.",q,MS. KOSCIELNIAK,start_chat
+303,655,32,1,You want to know about any accident when she was injured; is that your question?,side_chat,MR. GOODSTADT,start_chat
+304,659,32,5,Before August of 2017.,side_chat,MS. KOSCIELNIAK,start_chat
+305,661,32,7,Is that your question?,side_chat,MR. GOODSTADT,start_chat
+306,663,32,9,Yes.,side_chat,MS. KOSCIELNIAK,start_chat
+307,664,32,10,Do you understand her?,side_chat,MR. GOODSTADT,start_chat
+308,666,32,12,No.,side_chat,THE WITNESS,start_chat
+309,667,32,13,"She wants to know if there was any other incident, whether it's an accident or whatever, in which you were injured.",side_chat,MR. GOODSTADT,start_chat
+310,672,32,18,Yes.,side_chat,THE WITNESS,start_question
+311,674,32,20,Okay.  Can you tell me about that?,q,MS. KOSCIELNIAK,start_answer
+312,676,32,22,I don't recall everything that ever happened.,a,THE WITNESS,start_question
+313,678,32,24,When was the last time you were in an accident before August of 2017?,q,MS. KOSCIELNIAK,start_answer
+314,681,33,2,"I remember the knee, the torn meniscus, I remember that, and that's about it.  I don't remember anything else specifically.",a,THE WITNESS,start_question
+315,685,33,6,"How about since August of 2017; have you been involved in any type of accident, motor vehicle accident, slip and fall accident, any type of accident?",q,MS. KOSCIELNIAK,start_answer
+316,689,33,10,No.,a,THE WITNESS,start_question
+317,690,33,11,Okay.  Were you in a work-related injury in February of 2019?,q,MS. KOSCIELNIAK,start_answer
+318,692,33,13,Yes.,a,THE WITNESS,start_question
+319,693,33,14,What happened then?,q,MS. KOSCIELNIAK,start_answer
+320,694,33,15,I was lifting.,a,THE WITNESS,start_question
+321,695,33,16,What were you lifting?,q,MS. KOSCIELNIAK,start_answer
+322,696,33,17,Bottles of water.,a,THE WITNESS,start_question
+323,697,33,18,And what happened?,q,MS. KOSCIELNIAK,start_answer
+324,698,33,19,I had pain in my chest.,a,THE WITNESS,start_question
+325,699,33,20,Did you have pain in any other part of your body?,q,MS. KOSCIELNIAK,start_answer
+326,701,33,22,No.,a,THE WITNESS,start_question
+327,702,33,23,"Did you injure any part of your body other than your chest when you were lifting the bottles of water on February 11th, 2019?",q,MS. KOSCIELNIAK,start_answer
+328,707,34,3,No.,a,THE WITNESS,start_question
+329,708,34,4,"Okay.  Did you go to the doctor after that, after lifting the bottles of water on February 11th, 2019?",q,MS. KOSCIELNIAK,start_answer
+330,711,34,7,I did.,a,THE WITNESS,start_question
+331,712,34,8,Who did you go see?,q,MS. KOSCIELNIAK,start_answer
+332,713,34,9,My internal medicine doctor.,a,THE WITNESS,start_question
+333,714,34,10,Who's that?,q,MS. KOSCIELNIAK,start_answer
+334,715,34,11,Dupree.,a,THE WITNESS,start_question
+335,716,34,12,How long has Dupree been your primary care doctor?,q,MS. KOSCIELNIAK,start_answer
+336,718,34,14,"I don't know.  A year, maybe.",a,THE WITNESS,start_question
+337,719,34,15,Who was your primary care doctor before Dupree?,q,MS. KOSCIELNIAK,start_answer
+338,721,34,17,Stephanie Talton-Williamson.,a,THE WITNESS,start_question
+339,722,34,18,How long was Stephanie Talton-Williamson your primary care doctor?,q,MS. KOSCIELNIAK,start_answer
+340,725,34,21,When I lived in Florida.,a,THE WITNESS,start_question
+341,726,34,22,The whole time that you were in Florida?,q,MS. KOSCIELNIAK,start_answer
+342,728,34,24,I don't recall.,a,THE WITNESS,start_question
+343,730,35,1,Where is Stephanie Talton-Williamson located; what's the facility?,q,MS. KOSCIELNIAK,start_answer
+344,733,35,4,"Wesley Chapel, Florida.",a,THE WITNESS,start_question
+345,734,35,5,"Other than seeing your primary care doctor after the February 11, 2019 incident, did you see any other doctor?",q,MS. KOSCIELNIAK,start_answer
+346,737,35,8,For the incident?,a,THE WITNESS,start_question
+347,738,35,9,Yes.,q,MS. KOSCIELNIAK,start_answer
+348,739,35,10,I saw a Workman's Comp doctor.,a,THE WITNESS,start_question
+349,740,35,11,Who's that?,q,MS. KOSCIELNIAK,start_answer
+350,741,35,12,It was a facility that I went to for Workman's Comp at Hahnemann Hospital.,a,THE WITNESS,start_question
+351,743,35,14,What did they do for you?,q,MS. KOSCIELNIAK,start_answer
+352,744,35,15,They did an EKG.,a,THE WITNESS,start_question
+353,745,35,16,Did that come back normal or abnormal?,q,MS. KOSCIELNIAK,start_answer
+354,747,35,18,Abnormal.,a,THE WITNESS,start_question
+355,748,35,19,Did they give you any other treatment?,q,MS. KOSCIELNIAK,start_answer
+356,750,35,21,They didn't.,a,THE WITNESS,start_question
+357,751,35,22,"What did your primary care doctor do for you when you went to go see her after the February 11th, 2019 incident?",q,MS. KOSCIELNIAK,start_answer
+358,755,36,1,She suggested that I be out for some weeks for the bruising and my chest to heal.,a,THE WITNESS,start_question
+359,758,36,4,Do you mean out of work?,q,MS. KOSCIELNIAK,start_answer
+360,759,36,5,Not out of work.  Limited duty.,a,THE WITNESS,start_question
+361,760,36,6,"Did you go on limited duty after the February 11th, 2019 incident?",q,MS. KOSCIELNIAK,start_answer
+362,762,36,8,Yes.,a,THE WITNESS,start_question
+363,763,36,9,How long were you on limited duty for?,q,MS. KOSCIELNIAK,start_answer
+364,765,36,11,I went back in April.,a,THE WITNESS,start_question
+365,766,36,12,Of 2019?,q,MS. KOSCIELNIAK,start_answer
+366,767,36,13,Mm-hmm.  Full capacity.,a,THE WITNESS,start_question
+367,768,36,14,Did you have any other treatment other than your primary care doctor and the facility at Hahnemann Hospital?,q,MS. KOSCIELNIAK,start_answer
+368,771,36,17,A cardiologist.,a,THE WITNESS,start_question
+369,772,36,18,Who's that?,q,MS. KOSCIELNIAK,start_answer
+370,773,36,19,"I'm guessing.  Borsch, B-o-r-s-c-h, cardiologist.",a,THE WITNESS,start_question
+371,775,36,21,Where is Dr. Borsch affiliated with?,q,MS. KOSCIELNIAK,start_answer
+372,777,36,23,"I think he's Abington, Abington Jefferson.",a,THE WITNESS,start_question
+373,780,37,1,"Did you treat with anyone else after the February 11th, 2019 incident?",q,MS. KOSCIELNIAK,start_answer
+374,782,37,3,No.,a,THE WITNESS,start_question
+375,783,37,4,Have you had any other injuries since August 7th of 2017?,q,MS. KOSCIELNIAK,start_answer
+376,785,37,6,No.,a,THE WITNESS,start_question
+377,786,37,7,"So the only incident that occurred after the August 7th, 2017 accident was the February 11 th, 2019 incident where you were lifting bottles of water, and you had complaints of pain in your chest?",q,MS. KOSCIELNIAK,start_answer
+378,791,37,12,Correct.,a,THE WITNESS,start_question
+379,792,37,13,"And you didn't have any complaints of pain in any other part of your body after the February 11th, 2019 incident?",q,MS. KOSCIELNIAK,start_chat
+380,796,37,17,Are you talking about new complaints?,side_chat,MR. GOODSTADT,start_chat
+381,798,37,19,No.  I'm asking her any complaints of any kind of.,side_chat,MS. KOSCIELNIAK,start_chat
+382,801,37,22,"Well, she had already had complaints when it happened.  That's why I'm differentiating between new complaints versus what she was already experiencing.",side_chat,MR. GOODSTADT,start_chat
+383,808,38,4,Okay.  I didn't ask her about new or old. I just asked her if she had any complaints.,side_chat,MS. KOSCIELNIAK,start_chat
+384,812,38,8,"Okay. So she's asking you, were there things that you complained about after the incident, whether the incident caused them or not talking?  She's talking about the February incident.",side_chat,MR. GOODSTADT,start_chat
+385,819,38,15,The February incident caused the chest pains. There were already pains in my body as a result of the August 2017 accident.  Those did not go away.,side_chat,THE WITNESS,start_question
+386,826,38,22,Okay.  Were any of those complaints that you said were caused by the August 2017 accident aggravated?,q,MS. KOSCIELNIAK,start_answer
+387,830,39,1,No.,a,THE WITNESS,start_question
+388,831,39,2,What complaints did you still have at the time of the February 2019 incident from the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+389,834,39,5,The same things that were on record that I had from the car accident were still there on February 11th.,a,THE WITNESS,start_question
+390,837,39,8,I'm asking you what they were.,q,MS. KOSCIELNIAK,start_answer
+391,838,39,9,"Neck, shoulder and upper back.",a,THE WITNESS,start_question
+392,839,39,10,Which shoulder?,q,MS. KOSCIELNIAK,start_answer
+393,840,39,11,"Left shoulder, more on the left than the right, and upper back.",a,THE WITNESS,start_question
+394,842,39,13,Okay.  Let's talk about the accident that we're here for today.  What time of day did it occur?,q,MS. KOSCIELNIAK,start_answer
+395,845,39,16,Daylight.,a,THE WITNESS,start_question
+396,846,39,17,"Morning, afternoon?",q,MS. KOSCIELNIAK,start_answer
+397,847,39,18,I think it was after 12:00.,a,THE WITNESS,start_question
+398,848,39,19,After 12:00 p.m.?,q,MS. KOSCIELNIAK,start_answer
+399,849,39,20,12:00 noon.,a,THE WITNESS,start_question
+400,850,39,21,Where were you coming from?,q,MS. KOSCIELNIAK,start_answer
+401,851,39,22,I was driving on Washington Lane.,a,THE WITNESS,start_question
+402,852,39,23,Where were you coming from?,q,MS. KOSCIELNIAK,start_answer
+403,853,39,24,I don't recall.,a,THE WITNESS,start_question
+404,855,40,1,Where were you going?,q,MS. KOSCIELNIAK,start_answer
+405,856,40,2,I was going to my daughter's house.,a,THE WITNESS,start_question
+406,858,40,4,Where is you daughter's house located?,q,MS. KOSCIELNIAK,start_answer
+407,860,40,6,In Meadowbrook.,a,THE WITNESS,start_question
+408,861,40,7,What's the address?,q,MS. KOSCIELNIAK,start_answer
+409,862,40,8,"1349 Meadowbrook Road in Meadowbrook, Pennsylvania.  That's the best I can recollect.",a,THE WITNESS,start_question
+410,865,40,11,Had you left from your house that day?  Were you coming from somewhere else on the way to your daughter's?,q,MS. KOSCIELNIAK,start_answer
+411,868,40,14,I don't remember where I was coming from.  I just remember where I was going.,a,THE WITNESS,start_question
+412,871,40,17,Had you ever driven on Washington Lane before the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+413,873,40,19,Yes.,a,THE WITNESS,start_question
+414,874,40,20,Are you familiar with the area where the accident occurred?,q,MS. KOSCIELNIAK,start_answer
+415,876,40,22,Yes.,a,THE WITNESS,start_question
+416,877,40,23,How often would you drive through that area before the accident occurred?,q,MS. KOSCIELNIAK,start_answer
+417,880,41,1,Regularly.,a,THE WITNESS,start_question
+418,881,41,2,"A few times a week, a month?",q,MS. KOSCIELNIAK,start_answer
+419,882,41,3,Maybe once a week.,a,THE WITNESS,start_question
+420,883,41,4,"Did you consume any kind of alcohol, medication or drugs in the 24 hours before the accident?",q,MS. KOSCIELNIAK,start_answer
+421,886,41,7,No.,a,THE WITNESS,start_question
+422,887,41,8,What was the weather like on the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+423,889,41,10,It was raining.,a,THE WITNESS,start_question
+424,890,41,11,"Heavy rain, light rain?",q,MS. KOSCIELNIAK,start_answer
+425,891,41,12,Say it did again?,a,THE WITNESS,start_question
+426,892,41,13,"Heavy rain, light rain?",q,MS. KOSCIELNIAK,start_answer
+427,893,41,14,"It was medium rain.  It wasn't where you couldn't see, but it was raining.",a,THE WITNESS,start_question
+428,896,41,17,Did you have your windshield wipers on at the time of the accident?,q,MS. KOSCIELNIAK,start_answer
+429,898,41,19,Yes.,a,THE WITNESS,start_question
+430,899,41,20,What kind of vehicle were you driving on the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+431,901,41,22,My daughter's Suburban.,a,THE WITNESS,start_question
+432,902,41,23,What color was it?,q,MS. KOSCIELNIAK,start_answer
+433,903,41,24,Black.,a,THE WITNESS,start_question
+434,905,42,1,Had you ever driven that vehicle before the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+435,907,42,3,Yes.,a,THE WITNESS,start_question
+436,908,42,4,How many times?,q,MS. KOSCIELNIAK,start_answer
+437,909,42,5,Several times a week.,a,THE WITNESS,start_question
+438,910,42,6,Did you have your own vehicle at the time of the accident?,q,MS. KOSCIELNIAK,start_answer
+439,912,42,8,Yes.,a,THE WITNESS,start_question
+440,913,42,9,And that was the SUV that you told me about?,q,MS. KOSCIELNIAK,start_answer
+441,915,42,11,Yes.,a,THE WITNESS,start_question
+442,916,42,12,Is there any reason why you weren't driving that car?,q,MS. KOSCIELNIAK,start_answer
+443,918,42,14,"Whenever I had the grandchildren, I used her car.  The children weren't with me on that day though.",a,THE WITNESS,start_question
+444,921,42,17,Did you have any passengers in the vehicle with you on the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+445,924,42,20,No.,a,THE WITNESS,start_question
+446,925,42,21,"Did the Suburban have any kind of mechanical defect, anything wrong with it, before the day of the accident?",q,MS. KOSCIELNIAK,start_answer
+447,928,42,24,No.,a,THE WITNESS,start_question
+448,930,43,1,How long had you been traveling on Washington Lane before the accident occurred?,q,MS. KOSCIELNIAK,start_answer
+449,933,43,4,How long?,a,THE WITNESS,start_question
+450,934,43,5,"Yes.  A few minutes, 15 minutes, 30 minutes, an hour?",q,MS. KOSCIELNIAK,start_answer
+451,936,43,7,"I went through the light before, and when know I got to Stenton and Washington Lane, the light was red.  I don't know how many minutes.",a,THE WITNESS,start_question
+452,940,43,11,Was there any kind of construction going on in the area where the accident occurred?,q,MS. KOSCIELNIAK,start_answer
+453,943,43,14,Not that I recall.,a,THE WITNESS,start_question
+454,944,43,15,Were you stopped or moving when the impact occurred?,q,MS. KOSCIELNIAK,start_answer
+455,946,43,17,I don't understand the question.,a,THE WITNESS,start_question
+456,947,43,18,"When the impact occurred, were you stopped, or were you moving?",q,MS. KOSCIELNIAK,start_answer
+457,949,43,20,I was stopped.,a,THE WITNESS,start_question
+458,950,43,21,How long had you been stopped for when the impact occurred?,q,MS. KOSCIELNIAK,start_answer
+459,952,43,23,Several minutes.,a,THE WITNESS,start_question
+460,953,43,24,Why don't you tell me in your own words how this accident occurred.,q,MS. KOSCIELNIAK,start_answer
+461,956,44,2,"I was driving up Washington Lane headed towards Stenton.  It was a rainy day.  It was daylight.  I stopped prior to the crossroads of the passenger area on Washington Lane right before Stenton.  The light was red, and there I sat. To my right, I observed a gentleman crossing in front of me across Washington Lane, along side of Stenton, in his attempt to acquire a bus that was about to pull off.  I waited there until he passed by me, and as I sat there, I felt the impact.",a,THE WITNESS,start_question
+462,969,44,15,You said you waited until this gentleman passed by you.  Had the light changed at that point?,q,MS. KOSCIELNIAK,start_answer
+463,972,44,18,"I don't recall.  I was concerned about the passenger who was going by -- the pedestrian, I'm sorry, the pedestrian that was going by, for him to get his bus, so I was sitting there.",a,THE WITNESS,start_question
+464,977,44,23,Were you the first car at the red light?,q,MS. KOSCIELNIAK,start_answer
+465,980,45,1,I was.,a,THE WITNESS,start_question
+466,981,45,2,How many lanes are there on Washington and that intersection with Stenton?,q,MS. KOSCIELNIAK,start_answer
+467,984,45,5,Just one going in both directions.,a,THE WITNESS,start_question
+468,986,45,7,One in each direction?,q,MS. KOSCIELNIAK,start_answer
+469,987,45,8,Yes.,a,THE WITNESS,start_question
+470,988,45,9,Is there parking in that area --,q,MS. KOSCIELNIAK,start_answer
+471,989,45,10,No.,a,THE WITNESS,start_question
+472,990,45,11,-- on the side of the road?,q,MS. KOSCIELNIAK,start_answer
+473,991,45,12,No.,a,THE WITNESS,start_question
+474,992,45,13,Is there a bus lane?,q,MS. KOSCIELNIAK,start_answer
+475,993,45,14,There may be.,a,THE WITNESS,start_question
+476,994,45,15,And you said that you were stopped there for several minutes before the impact occurred?,q,MS. KOSCIELNIAK,start_answer
+477,997,45,18,"Yes.  I was waiting for the pedestrian to walk by me, and not run him over.  And while I sat, I felt the impact of the car hitting me in the rear.",a,THE WITNESS,start_question
+478,1001,45,22,"When you say to not run him over, did you observe whether he had the crosswalk or the green light to cross in front of you at that point?",q,MS. KOSCIELNIAK,start_answer
+479,1006,46,2,"I don't remember what the lights were doing.  I was concerned about the pedestrian and not to run him over, and I was sitting there at the light; never moved.",a,THE WITNESS,start_question
+480,1011,46,7,What did the impact feel like?,q,MS. KOSCIELNIAK,start_answer
+481,1012,46,8,It felt like somebody had jolted the whole car.,a,THE WITNESS,start_question
+482,1014,46,10,Did the vehicle move as a result?,q,MS. KOSCIELNIAK,start_answer
+483,1015,46,11,Lightly.,a,THE WITNESS,start_question
+484,1016,46,12,How did it move?,q,MS. KOSCIELNIAK,start_answer
+485,1017,46,13,From the force of the car hitting me in the rear.,a,THE WITNESS,start_question
+486,1019,46,15,Was the vehicle pushed forward or to any other direction as a result of the impact?,q,MS. KOSCIELNIAK,start_answer
+487,1022,46,18,"I remember my body being pushed forward, and then -- yeah.  I remember my body being pushed forward.",a,THE WITNESS,start_question
+488,1025,46,21,Was the vehicle moved as a result of the impact?,q,MS. KOSCIELNIAK,start_answer
+489,1027,46,23,I don't remember what the vehicle was doing.,a,THE WITNESS,start_question
+490,1030,47,1,Was your foot on the brake at the time of the impact?,q,MS. KOSCIELNIAK,start_answer
+491,1032,47,3,Absolutely.,a,THE WITNESS,start_question
+492,1033,47,4,Okay.  Did your body strike anything inside the vehicle as a result of the impact?,q,MS. KOSCIELNIAK,start_answer
+493,1036,47,7,The seatbelt and the steering wheel.,a,THE WITNESS,start_question
+494,1038,47,9,What part of your body came into contact with the steering wheel?,q,MS. KOSCIELNIAK,start_answer
+495,1040,47,11,My left shoulder and my chest.,a,THE WITNESS,start_question
+496,1041,47,12,"Did the seatbelt prevent you from -- did it catch you before you hit the steering wheel, or what happened?",q,MS. KOSCIELNIAK,start_answer
+497,1044,47,15,"I think the seatbelt helped me not impact the steering wheel, so it did hold me.  But I did still felt a push, and I was like, oh, my goodness.  I just remember being -- I couldn't believe it.  I couldn't believe it.",a,THE WITNESS,start_question
+498,1050,47,21,"So I just wanted to clarify.  Did you feel the seatbelt caught you, and that's what came into contact with your chest and your shoulder?  Or did you physically move forward, and you struck the steering wheel?",q,MS. KOSCIELNIAK,start_answer
+499,1057,48,3,I was thrust forward from the impact of the rear.,a,THE WITNESS,start_question
+500,1059,48,5,Okay.,q,MS. KOSCIELNIAK,start_answer
+501,1060,48,6,"And as a result, I felt the seatbelt on my shoulder, and my chest went up to the steering wheel.",a,THE WITNESS,start_question
+502,1063,48,9,Okay.  So it was your chest that came into contact with the steering wheel --,q,MS. KOSCIELNIAK,start_answer
+503,1066,48,12,"The chest and shoulder, because it was a jolt (indicating) like that.",a,THE WITNESS,start_question
+504,1068,48,14,Okay.  Did your shoulder actually hit the steering wheel?,q,MS. KOSCIELNIAK,start_answer
+505,1070,48,16,I don't recall.,a,THE WITNESS,start_question
+506,1071,48,17,Did you strike any other part of your body on anything else inside the vehicle?,q,MS. KOSCIELNIAK,start_answer
+507,1074,48,20,"My whole left side was just jolted.  My shoulder, my chest, my knee, all of that was just discombobulated.  I don't know if that's a word (laughter.)",a,THE WITNESS,start_question
+508,1078,48,24,Did you strike your left knee on anything inside the vehicle?,q,MS. KOSCIELNIAK,start_answer
+509,1081,49,2,Whatever the undercarriage was that was under there.,a,THE WITNESS,start_question
+510,1083,49,4,Did you hit any other part of your body on anything else inside the vehicle?,q,MS. KOSCIELNIAK,start_answer
+511,1086,49,7,Not that I recall.,a,THE WITNESS,start_question
+512,1087,49,8,"How would you characterize the severity of the impact; light, medium, heavy?",q,MS. KOSCIELNIAK,start_answer
+513,1090,49,11,"It was startling, and it was impactful because I don't sit at a light expecting to be hit.  So I think the fact that I was hit, and it hit so hard, I think I was just sitting there like what the hell just happened.  And it didn't occur to me that I had been hit until, you know, I kind of came to and said, ""Oh, my God.  I've been hit.""  I looked at my rearview mirror, and I'm like, I've been hit, so...",a,THE WITNESS,start_question
+514,1100,49,21,Did you lose consciousness as a result of the accident?,q,MS. KOSCIELNIAK,start_answer
+515,1102,49,23,Not that I recall.,a,THE WITNESS,start_question
+516,1103,49,24,"Okay.  You said you kind of came to, so did you black out at any point?",q,MS. KOSCIELNIAK,start_answer
+517,1106,50,2,"I was startled.  I don't remember blacking out, but I was startled, you know. It's like somebody comes up and hits you, and you didn't see it coming, you know, so I was startled.",a,THE WITNESS,start_question
+518,1111,50,7,Were you able to exit the vehicle at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+519,1113,50,9,I remember looking -- what was your question?,a,THE WITNESS,start_question
+520,1115,50,11,Were you able to get out of the vehicle at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+521,1117,50,13,Yes.,a,THE WITNESS,start_question
+522,1118,50,14,Okay.  What happened when you exited the car?,q,MS. KOSCIELNIAK,start_answer
+523,1120,50,16,"I looked in my rearview mirror, and I saw Mr. Oliver come out with a cellphone in his hand.",a,THE WITNESS,start_question
+524,1123,50,19,And then what?,q,MS. KOSCIELNIAK,start_answer
+525,1124,50,20,He was apologizing to me.,a,THE WITNESS,start_question
+526,1125,50,21,"And were you still inside the car at that point, or were you outside --",q,MS. KOSCIELNIAK,start_answer
+527,1127,50,23,I was outside.,a,THE WITNESS,start_question
+528,1128,50,24,Okay.  And what happened after that?  Did you have any other conversations?,q,MS. KOSCIELNIAK,start_answer
+529,1132,51,3,I apologized and we exchanged insurance information.,a,THE WITNESS,start_question
+530,1134,51,5,"Did you look at the damage, or did you see if there was damage to the rear of your car?",q,MS. KOSCIELNIAK,start_answer
+531,1137,51,8,"I looked at the damage.  She has an emblem on the back that says ""MV,"" and that looked like it had been pushed in.",a,THE WITNESS,start_question
+532,1140,51,11,Was there any other damage that you saw to the rear of the vehicle that you were driving that day?,q,MS. KOSCIELNIAK,start_answer
+533,1143,51,14,That's the only thing that I recall.,a,THE WITNESS,start_question
+534,1145,51,16,"Okay.  I think your attorney is going to want to see these.  I'll show you three photographs that we'll mark as Chester Exhibits 2, 3 and 4.",q,MS. KOSCIELNIAK,is brackets
+535,1149,51,20,"(Documents were marked for identification as Deposition Exhibits Chester No. 2, Chester No. 3 and Chester No. 4.)",brackets,,symbols
+536,1153,51,24,- - -,symbols,,start_question
+537,1156,52,2,"Ma'am, do you recognize what's depicted in these three photographs that I handed you?",q,MS. KOSCIELNIAK,start_answer
+538,1159,52,5,Yes.,a,THE WITNESS,start_question
+539,1160,52,6,What is that?,q,MS. KOSCIELNIAK,start_answer
+540,1161,52,7,It's the rear of my daughter's car.,a,THE WITNESS,start_question
+541,1163,52,9,Okay.  Do you know who took these photographs?,q,MS. KOSCIELNIAK,start_answer
+542,1165,52,11,No.,a,THE WITNESS,start_question
+543,1166,52,12,Do these photographs accurately represent the damage sustained to the vehicle that you were driving on the date of the accident?,q,MS. KOSCIELNIAK,start_chat
+544,1170,52,16,If you know.,side_chat,MR. GOODSTADT,start_chat
+545,1172,52,18,I don't know.,side_chat,THE WITNESS,start_question
+546,1175,52,21,Okay.  You talked about part of the vehicle being pushed in.  Can you circle with this blue pen what part of the vehicle you believe was pushed in as a result of the accident?,q,MS. KOSCIELNIAK,start_answer
+547,1181,53,2,"I'm saying where the MV was, because she had an emblem right there, and I see a portion of the MV gone, which indicated to me that part of the vehicle that was under that sticker was as well gone.  That's the only thing I can see from this picture.",a,THE WITNESS,start_question
+548,1188,53,9,Can you circle the area you believe was damaged as a result of this accident?,q,MS. KOSCIELNIAK,start_answer
+549,1191,53,12,So I'm just drawing a line right here (indicating).,a,THE WITNESS,start_question
+550,1193,53,14,Okay.  Was there any other part of the vehicle that was damaged that you observed at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+551,1196,53,17,"That's what I observed at the scene.  I think they found later more things wrong, but that's all I observed at the scene.",a,THE WITNESS,start_question
+552,1200,53,21,Was the vehicle drivable from the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+553,1202,53,23,Yes.,a,THE WITNESS,start_question
+554,1203,53,24,You said later that there were more things wrong.  What happened; what was found later?,q,MS. KOSCIELNIAK,start_answer
+555,1207,54,3,"My daughter took it to her own repair shop, and she had it done under her insurance.",a,THE WITNESS,start_question
+556,1210,54,6,"Did she tell you what happened to the car, if there was additional damage to it?",q,MS. KOSCIELNIAK,start_answer
+557,1213,54,9,"There was additional damage, but I don't remember what it was.",a,THE WITNESS,start_question
+558,1215,54,11,Did you look at the front of my client's vehicle while you were at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+559,1218,54,14,Yes.,a,THE WITNESS,start_question
+560,1219,54,15,What did you see?,q,MS. KOSCIELNIAK,start_answer
+561,1220,54,16,It was pretty messed up.,a,THE WITNESS,start_question
+562,1221,54,17,Okay.  I'm going to hand you what was previously identified as Oliver-2 and Oliver-3.  Do you recognize what's depicted in these photographs?,q,MS. KOSCIELNIAK,start_answer
+563,1225,54,21,Yup.,a,THE WITNESS,start_question
+564,1226,54,22,Is this the vehicle that was involved in the accident with you from August of 2017?,q,MS. KOSCIELNIAK,start_answer
+565,1230,55,1,That's an assumption that I'm making.,a,THE WITNESS,start_chat
+566,1232,55,3,She doesn't want you to make an assumption.  She asked you a question.  Do you recognize those photographs?,side_chat,MR. GOODSTADT,start_chat
+567,1237,55,8,Those photographs look like his car.,side_chat,THE WITNESS,start_question
+568,1240,55,11,"Okay.  In these two photographs, in Oliver-2 and Oliver-3, do they show what my client's, Mr. Oliver, vehicle looked like after the accident occurred?",q,MS. KOSCIELNIAK,start_answer
+569,1244,55,15,Yes.,a,THE WITNESS,start_question
+570,1245,55,16,Did you see any pieces of either Mr. Oliver's car or your car in the roadway after the accident?,q,MS. KOSCIELNIAK,start_answer
+571,1248,55,19,I don't recall.,a,THE WITNESS,start_question
+572,1249,55,20,"Did you leave the cars where they were at the scene, or did you move them at some point?",q,MS. KOSCIELNIAK,start_answer
+573,1252,55,23,I drove away after we...,a,THE WITNESS,start_question
+574,1253,55,24,"While you were exchanging information, did you leave the cars exactly where they were when the accident occurred, or did you move them to the side of the road?",q,MS. KOSCIELNIAK,start_answer
+575,1259,56,5,I don't recall.  I just recall I was exchanging information.  I don't remember what we did with the cars.,a,THE WITNESS,start_question
+576,1262,56,8,Okay.  Did anyone call the police?,q,MS. KOSCIELNIAK,start_answer
+577,1264,56,10,I didn't.,a,THE WITNESS,start_question
+578,1265,56,11,Why not?,q,MS. KOSCIELNIAK,start_answer
+579,1266,56,12,I don't know.,a,THE WITNESS,start_question
+580,1267,56,13,Were you in any kind of pain at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+581,1269,56,15,I was just distraught.,a,THE WITNESS,start_question
+582,1270,56,16,Did you call anyone from the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+583,1272,56,18,I called my daughter.,a,THE WITNESS,start_question
+584,1273,56,19,Did your daughter come to the scene?,q,MS. KOSCIELNIAK,start_answer
+585,1275,56,21,No.,a,THE WITNESS,start_question
+586,1276,56,22,Do you know of any witnesses to the accident?,q,MS. KOSCIELNIAK,start_answer
+587,1278,56,24,No.,a,THE WITNESS,start_question
+588,1280,57,1,Did anyone else come to the scene of the accident after the accident occurred?,q,MS. KOSCIELNIAK,start_answer
+589,1283,57,4,Not that I recall.,a,THE WITNESS,start_question
+590,1284,57,5,Were you in pain at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+591,1286,57,7,"I was just distraught.  I don't know if I was in pain or not.  I was just -- I was really, really upset.  I just couldn't believe it.  I couldn't believe it.",a,THE WITNESS,start_question
+592,1291,57,12,Did an ambulance arrive at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+593,1293,57,14,Not that I recall.,a,THE WITNESS,start_question
+594,1294,57,15,When was the first time that you recall experiencing pain in any part of your body after the accident?,q,MS. KOSCIELNIAK,start_answer
+595,1297,57,18,Later that night.,a,THE WITNESS,start_question
+596,1298,57,19,And what was bothering you at that time?,q,MS. KOSCIELNIAK,start_answer
+597,1300,57,21,"Neck, shoulders, upper back.  Just my...",a,THE WITNESS,start_question
+598,1302,57,23,Did you have any left knee pain?,q,MS. KOSCIELNIAK,start_answer
+599,1303,57,24,Say that again?,a,THE WITNESS,start_question
+600,1305,58,1,Did you have any left knee pain?,q,MS. KOSCIELNIAK,start_answer
+601,1306,58,2,"That was an injury that I had prior to the accident in my left knee, and I felt it even more after this situation.",a,THE WITNESS,start_question
+602,1310,58,6,How did your left knee feel before this accident?,q,MS. KOSCIELNIAK,start_answer
+603,1312,58,8,"We already have this on record, the torn meniscus.",a,THE WITNESS,start_question
+604,1314,58,10,"Okay.  And when you had the torn meniscus, did you have surgery for that?",q,MS. KOSCIELNIAK,start_answer
+605,1316,58,12,No.,a,THE WITNESS,start_question
+606,1317,58,13,Have you had surgery since the time that you had the torn meniscus?,q,MS. KOSCIELNIAK,start_answer
+607,1319,58,15,No.,a,THE WITNESS,start_question
+608,1320,58,16,Have you had treatment for your left knee?,q,MS. KOSCIELNIAK,start_answer
+609,1322,58,18,Yes.,a,THE WITNESS,start_question
+610,1323,58,19,What kind of treatment have you had?,q,MS. KOSCIELNIAK,start_answer
+611,1325,58,21,Physical therapy.,a,THE WITNESS,start_question
+612,1326,58,22,Where did you have the physical therapy?,q,MS. KOSCIELNIAK,start_answer
+613,1328,58,24,The Rothman doctor sent me there.,a,THE WITNESS,start_question
+614,1330,59,1,Is that before the accident or after?,q,MS. KOSCIELNIAK,start_answer
+615,1332,59,3,I don't recall.  I go currently.,a,THE WITNESS,start_question
+616,1333,59,4,Had any doctor talked to you about having surgery on your left knee before the --,q,MS. KOSCIELNIAK,start_chat
+617,1336,59,7,I'm going to object.  I don't think there's any claim that there's any relationship with her knee situation to the motor vehicle accident.,side_chat,MR. GOODSTADT,start_chat
+618,1342,59,13,"Well, there are knee complaints noted after the accident.  She's testified that she hit her left knee on the underpart of the car and --",side_chat,MS. KOSCIELNIAK,start_chat
+619,1348,59,19,"I understand that, but I don't think there's any medical evidence that we've submitted that indicates any knee condition was caused, whether directly or indirectly, as a result of the collision, but if you want to keep asking her, you keep going.  I'm just telling you there's no medical evidence that indicates that.",side_chat,MR. GOODSTADT,start_chat
+620,1361,60,7,That's fine.  But if she's going to testify that she hit her left knee --,side_chat,MS. KOSCIELNIAK,start_chat
+621,1365,60,11,"She's not going to testify that there's any correlation between any knee complaints that she may have and the motor vehicle collision, nor will any doctor.  You have the report from Dr. Allen.",side_chat,MR. GOODSTADT,start_chat
+622,1372,60,18,Okay.,side_chat,MS. KOSCIELNIAK,start_question
+623,1374,60,20,"Other than the therapy at Rothman, did you treat anywhere else for your left knee?",q,MS. KOSCIELNIAK,start_answer
+624,1377,60,23,No.,a,THE WITNESS,start_question
+625,1378,60,24,Do you have plans to get surgery on your left knee?,q,MS. KOSCIELNIAK,start_answer
+626,1381,61,2,I don't know.,a,THE WITNESS,start_question
+627,1382,61,3,Are you able to walk with the torn meniscus?,q,MS. KOSCIELNIAK,start_answer
+628,1384,61,5,I walked here today.,a,THE WITNESS,start_question
+629,1385,61,6,How does the torn meniscus affect you?,q,MS. KOSCIELNIAK,start_answer
+630,1387,61,8,The discomfort.,a,THE WITNESS,start_question
+631,1388,61,9,"Before the accident, so before August of 2017, did you have any limitations as a result of your left knee having the torn meniscus?",q,MS. KOSCIELNIAK,start_answer
+632,1392,61,13,No.,a,THE WITNESS,start_question
+633,1393,61,14,You were able to do everything as you had before you had the torn meniscus?,q,MS. KOSCIELNIAK,start_answer
+634,1396,61,17,Yes.,a,THE WITNESS,start_question
+635,1397,61,18,Did your left knee pain worsen after the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+636,1399,61,20,"It's something that hurts like a toothache, so if it was worse or better, it just hurt.",a,THE WITNESS,start_question
+637,1402,61,23,"Okay.  My question was, did it get worse after the 2017 accident?",q,MS. KOSCIELNIAK,start_answer
+638,1405,62,1,I don't recall.,a,THE WITNESS,start_question
+639,1406,62,2,You said that you had pain in your shoulder as a result of the accident.  Was it both shoulders?,q,MS. KOSCIELNIAK,start_answer
+640,1409,62,5,It hurt more in the left than it did the right.,a,THE WITNESS,start_question
+641,1411,62,7,"As you sit here today, do you still have pain in your neck?",q,MS. KOSCIELNIAK,start_answer
+642,1413,62,9,All the time.  Yes.,a,THE WITNESS,start_question
+643,1414,62,10,"As you sit here today, do you still have pain in your shoulders?",q,MS. KOSCIELNIAK,start_answer
+644,1416,62,12,Yes.,a,THE WITNESS,start_question
+645,1417,62,13,"As you sit here today, do you still have pain in your upper back?",q,MS. KOSCIELNIAK,start_answer
+646,1419,62,15,Yes.,a,THE WITNESS,start_question
+647,1420,62,16,Do you still have the left knee pain?,q,MS. KOSCIELNIAK,start_answer
+648,1422,62,18,Yes.,a,THE WITNESS,start_question
+649,1423,62,19,"Have your pain levels changed at all since the time of the accident?  So, from when you initially felt the neck pain, the shoulder pain, the upper back pain, the left knee pain, has that changed or stayed completely the same?",q,MS. KOSCIELNIAK,start_answer
+650,1430,63,1,It's worse.,a,THE WITNESS,start_question
+651,1431,63,2,When did it get worse?,q,MS. KOSCIELNIAK,start_answer
+652,1432,63,3,Every night when I sleep.,a,THE WITNESS,start_question
+653,1433,63,4,"Okay.  My question was, has your pain changed at all.  You told me it got worse --",q,MS. KOSCIELNIAK,start_chat
+654,1436,63,7,"You mean during the totality of her treatment, every minute, every month, every week, or just between when it first started and today?",side_chat,MR. GOODSTADT,start_chat
+655,1442,63,13,Between when it first started and today.,side_chat,MS. KOSCIELNIAK,start_chat
+656,1444,63,15,Okay.  Do you understand the question now?,side_chat,MR. GOODSTADT,start_chat
+657,1446,63,17,These things didn't hurt me before the accident.  They hurt me every day now.,side_chat,THE WITNESS,start_chat
+658,1450,63,21,"She's asking you to compare and contrast the pain that you had in your neck, shoulders and upper back right after the accident versus how it is today. Is that what you're asking?",side_chat,MR. GOODSTADT,start_chat
+659,1459,64,5,Yes.,side_chat,MS. KOSCIELNIAK,start_chat
+660,1460,64,6,Okay.,side_chat,MR. GOODSTADT,start_chat
+661,1461,64,7,"And you want to know if it's worse, better?",side_chat,THE WITNESS,start_question
+662,1464,64,10,Right.  Is it the same?  Has it changed?,q,MS. KOSCIELNIAK,start_answer
+663,1466,64,12,It changes.  It has changed for the worst.,a,THE WITNESS,start_question
+664,1468,64,14,How did it change for the worst?,q,MS. KOSCIELNIAK,start_answer
+665,1469,64,15,"When it's cold or when I go to bed at night.  I have a specialized mattress that I bought that I had no pain in before the accident, and now, every night I wake up, I have pain in that same bed that gave me comfort.  Tempur-Pedic.",a,THE WITNESS,start_question
+666,1475,64,21,When did you buy the mattress?,q,MS. KOSCIELNIAK,start_answer
+667,1476,64,22,"I bought the mattress before my husband died in 2016, and now I have a $9,000 bed that I don't sleep comfortably in anymore.",a,THE WITNESS,start_question
+668,1481,65,2,"Okay.  So your testimony is that you're having more pain today than you did immediately after the accident when you first felt the pain in your neck, shoulder, upper back and left knee?",q,MS. KOSCIELNIAK,start_answer
+669,1486,65,7,Correct.,a,THE WITNESS,start_question
+670,1487,65,8,Did you have any broken bones or fractures as a result of the accident?,q,MS. KOSCIELNIAK,start_answer
+671,1489,65,10,No.,a,THE WITNESS,start_question
+672,1490,65,11,Did you have any cuts or bleeding?,q,MS. KOSCIELNIAK,start_answer
+673,1491,65,12,No.,a,THE WITNESS,start_question
+674,1492,65,13,Did any part of your pain ever travel or radiate to any other part of your body?,q,MS. KOSCIELNIAK,start_answer
+675,1495,65,16,"Sometimes down my arm, my left arm.",a,THE WITNESS,start_question
+676,1497,65,18,Where does that pain start?,q,MS. KOSCIELNIAK,start_answer
+677,1498,65,19,From the shoulder to the elbow.,a,THE WITNESS,start_question
+678,1499,65,20,From your left shoulder down to your left elbow?,q,MS. KOSCIELNIAK,start_answer
+679,1501,65,22,Yes.,a,THE WITNESS,start_question
+680,1502,65,23,And how often do you experience that?,q,MS. KOSCIELNIAK,start_answer
+681,1505,66,1,"Two, three times a week.",a,THE WITNESS,start_question
+682,1506,66,2,Did any doctor ever recommend or discuss an EMG with you?,q,MS. KOSCIELNIAK,start_answer
+683,1508,66,4,I'm not sure.  Dr. Allen did something.,a,THE WITNESS,start_question
+684,1510,66,6,An EMG is a nerve test where they're testing to see if you have nerve damage.,q,MS. KOSCIELNIAK,start_answer
+685,1513,66,9,Mm-hmm.,a,THE WITNESS,start_question
+686,1514,66,10,Do you remember any doctor ever discussing that with you?,q,MS. KOSCIELNIAK,start_chat
+687,1516,66,12,She just said Dr. Allen.,side_chat,MR. GOODSTADT,start_chat
+688,1518,66,14,Dr. Allen.,side_chat,THE WITNESS,start_question
+689,1520,66,16,Did you ever have a nerve test performed?,q,MS. KOSCIELNIAK,start_answer
+690,1522,66,18,I remember an MRI.  That's all I remember.,a,THE WITNESS,start_question
+691,1524,66,20,Do you know why you didn't have an EMG test?,q,MS. KOSCIELNIAK,start_answer
+692,1526,66,22,You have to ask the doctor.,a,THE WITNESS,start_question
+693,1527,66,23,"Well, did they recommend that you do one, or did you tell them that you didn't want to do one?  What happened?",q,MS. KOSCIELNIAK,start_answer
+694,1531,67,2,"I remember Dr. Allen sending me for an MRI, and I had that done.",a,THE WITNESS,start_question
+695,1533,67,4,Okay.  And Dr. Allen talked to you about an EMG?,q,MS. KOSCIELNIAK,start_answer
+696,1535,67,6,"I don't remember.  I didn't have an EMG.  I had an MRI, and the EMG, I don't remember.",a,THE WITNESS,start_question
+697,1538,67,9,"Do you have any other symptoms of radiating pain, any numbness or tingling, in any other part of your body after the accident?",q,MS. KOSCIELNIAK,start_answer
+698,1542,67,13,No.,a,THE WITNESS,start_question
+699,1543,67,14,When did that pain traveling from your left shoulder to your left elbow begin?,q,MS. KOSCIELNIAK,start_answer
+700,1546,67,17,This year.,a,THE WITNESS,start_question
+701,1547,67,18,When this year?,q,MS. KOSCIELNIAK,start_answer
+702,1548,67,19,"Like, the last two, three months.",a,THE WITNESS,start_question
+703,1549,67,20,Why did it start two or three months ago?,q,MS. KOSCIELNIAK,start_answer
+704,1551,67,22,I don't know.,a,THE WITNESS,start_question
+705,1552,67,23,Was there any kind of incident or accident that happened two or three months ago?,q,MS. KOSCIELNIAK,start_answer
+706,1556,68,2,No.,a,THE WITNESS,start_question
+707,1557,68,3,Had you ever had those kinds of symptoms or pain traveling from your left shoulder to your left elbow before two or three months ago?,q,MS. KOSCIELNIAK,start_answer
+708,1561,68,7,No.,a,THE WITNESS,start_question
+709,1562,68,8,When was the first time that you sought any kind of medical treatment after the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+710,1565,68,11,When?,a,THE WITNESS,start_question
+711,1566,68,12,Yes.,q,MS. KOSCIELNIAK,start_answer
+712,1567,68,13,"It happened on the 7th.  I had a previous appointment that I had to keep on the 8th, and I sought treatment at Patient First after the 8th.",a,THE WITNESS,start_question
+713,1571,68,17,"And when you say a previous appointment, with who?",q,MS. KOSCIELNIAK,start_answer
+714,1573,68,19,I had plans outside the state that I couldn't cancel.,a,THE WITNESS,start_question
+715,1575,68,21,What kind of plans?,q,MS. KOSCIELNIAK,start_answer
+716,1576,68,22,Plans to visit a friend 'cause it was an anniversary of my husband's death.,a,THE WITNESS,start_question
+717,1580,69,1,I'd like to offer you my condolences for your loss.,q,MS. KOSCIELNIAK,start_answer
+718,1582,69,3,Thank you.,a,THE WITNESS,start_question
+719,1583,69,4,When did your husband pass?,q,MS. KOSCIELNIAK,start_answer
+720,1584,69,5,February 8th of '17.,a,THE WITNESS,start_question
+721,1585,69,6,Where were the plans to go for the anniversary of his passing?,q,MS. KOSCIELNIAK,start_answer
+722,1587,69,8,Atlanta.,a,THE WITNESS,start_question
+723,1588,69,9,How long were you in Atlanta for?,q,MS. KOSCIELNIAK,start_answer
+724,1589,69,10,"Till I got back.  I think it was a weekend, but it wasn't a good trip.",a,THE WITNESS,start_question
+725,1591,69,12,Did you fly there or drive there?,q,MS. KOSCIELNIAK,start_answer
+726,1592,69,13,I flew.,a,THE WITNESS,start_question
+727,1593,69,14,Did you have any kind of difficulties with the flight?,q,MS. KOSCIELNIAK,start_answer
+728,1595,69,16,Yes.  A lot of difficulty.,a,THE WITNESS,start_question
+729,1596,69,17,What happened?,q,MS. KOSCIELNIAK,start_answer
+730,1597,69,18,"'Cause I couldn't carry 'cause I was in pain, but I had already made the plans, so...",a,THE WITNESS,start_question
+731,1600,69,21,You couldn't carry your luggage?,q,MS. KOSCIELNIAK,start_answer
+732,1601,69,22,"No.  I had trouble for everything, carrying my luggage, walking, just my handbag.  I tipped a lot.  I remember tipping a lot asking bell caps to help me 'cause I needed assistance.  I was pretty miserable the whole time.",a,THE WITNESS,start_question
+733,1608,70,4,"You said when you came back, you went to Patient First?",q,MS. KOSCIELNIAK,start_answer
+734,1610,70,6,Absolutely.  Yes.,a,THE WITNESS,start_question
+735,1611,70,7,And what did they do for you there?,q,MS. KOSCIELNIAK,start_answer
+736,1613,70,9,"I think they may have given me something for the discomfort, some kind of medicine for the pain, and told me to go to an orthopedic doctor.  And that's when I went to Rothman.",a,THE WITNESS,start_question
+737,1618,70,14,What did they do for you at Rothman?,q,MS. KOSCIELNIAK,start_answer
+738,1620,70,16,"He referred me to physical therapy.  We talked about other forms of treatment, but I don't remember all of what it was.",a,THE WITNESS,start_question
+739,1624,70,20,And did you go for therapy?,q,MS. KOSCIELNIAK,start_answer
+740,1625,70,21,I did.,a,THE WITNESS,start_question
+741,1626,70,22,Where did you go for that?,q,MS. KOSCIELNIAK,start_answer
+742,1627,70,23,"NovaCare, I think it was.",a,THE WITNESS,start_question
+743,1628,70,24,What did they do for you at NovaCare?,q,MS. KOSCIELNIAK,start_answer
+744,1631,71,2,They evaluated me.,a,THE WITNESS,start_question
+745,1632,71,3,Okay.,q,MS. KOSCIELNIAK,start_answer
+746,1633,71,4,"They gave me heat and cold packs, stimulation, massage and exercise.",a,THE WITNESS,start_question
+747,1635,71,6,How many times did you treat with NovaCare?,q,MS. KOSCIELNIAK,start_answer
+748,1637,71,8,"I think it was, like, twice a week.",a,THE WITNESS,start_question
+749,1639,71,10,When did you first start treating with them?,q,MS. KOSCIELNIAK,start_answer
+750,1641,71,12,I don't remember the dates exactly.,a,THE WITNESS,start_question
+751,1643,71,14,And how long did you continue to treat with them for?,q,MS. KOSCIELNIAK,start_answer
+752,1645,71,16,"Probably most of that, most of 2017.",a,THE WITNESS,start_question
+753,1647,71,18,"Okay.  Were you discharged from them, or did you stop going?",q,MS. KOSCIELNIAK,start_answer
+754,1649,71,20,"I sought treatment in the water, in the pool.  Yeah, I went to another facility that had treatment that you did in the warm water.",a,THE WITNESS,start_question
+755,1653,71,24,"Okay.  We'll talk about that, but were you discharged from NovaCare Rehab, or did you stop going?",q,MS. KOSCIELNIAK,start_answer
+756,1657,72,3,"I think when I went to the doctor maybe the beginning of the next year, he referred me to do the water 'cause I wasn't feeling as though as I was getting the results at NovaCare.",a,THE WITNESS,start_question
+757,1662,72,8,Was the therapy at NovaCare helping?,q,MS. KOSCIELNIAK,start_answer
+758,1664,72,10,It stayed the same.  It wasn't anything that was significantly better as a result.,a,THE WITNESS,start_question
+759,1667,72,13,When did you start going for the water therapy?,q,MS. KOSCIELNIAK,start_answer
+760,1669,72,15,Sometime in '18.,a,THE WITNESS,start_question
+761,1670,72,16,And how often were you treating with them?,q,MS. KOSCIELNIAK,start_answer
+762,1672,72,18,"Maybe once a week, 'cause it wasn't close.  It was far.",a,THE WITNESS,start_question
+763,1674,72,20,Where were they located?,q,MS. KOSCIELNIAK,start_answer
+764,1675,72,21,Out near City Line Avenue.,a,THE WITNESS,start_question
+765,1676,72,22,Did you try to look for a facility that was closer to you?,q,MS. KOSCIELNIAK,start_answer
+766,1678,72,24,"I did, but it wasn't -- it wasn't a pool.  It was just like a big bathtub.",a,THE WITNESS,start_question
+767,1682,73,3,What do you mean?,q,MS. KOSCIELNIAK,start_answer
+768,1683,73,4,"At the City Line Avenue, it was a recreational center, and it was a therapeutic pool.  At the other place, it was just a large like tub.  It wasn't a pool, so I didn't get the same type of results from that.",a,THE WITNESS,start_question
+769,1689,73,10,"What was the other place, the one that had like a bathtub?",q,MS. KOSCIELNIAK,start_answer
+770,1691,73,12,I don't remember the name of it. I just remember...,a,THE WITNESS,start_question
+771,1693,73,14,Where was it?,q,MS. KOSCIELNIAK,start_answer
+772,1694,73,15,"Near Cheltenham Avenue.  I see it, but I don't remember the street.",a,THE WITNESS,start_question
+773,1696,73,17,Is it by any landmarks?,q,MS. KOSCIELNIAK,start_answer
+774,1697,73,18,"In, like, the Cedarbrook Mall, or it used to be Cedarbrook Mall.",a,THE WITNESS,start_question
+775,1699,73,20,And how many times did you try to go there?,q,MS. KOSCIELNIAK,start_answer
+776,1701,73,22,About once a week.,a,THE WITNESS,start_question
+777,1702,73,23,To the one near the Cedarbrook Mall?,q,MS. KOSCIELNIAK,start_answer
+778,1705,74,1,Mm-hmm.,a,THE WITNESS,start_question
+779,1706,74,2,Is this a yes?,q,MS. KOSCIELNIAK,start_answer
+780,1707,74,3,"The one near the Cedarbrook Mall, yes.",a,THE WITNESS,start_question
+781,1709,74,5,Okay.  You said once a week.  How many weeks did you try going there?,q,MS. KOSCIELNIAK,start_answer
+782,1711,74,7,Not long.  Maybe a month or so.,a,THE WITNESS,start_question
+783,1712,74,8,Okay.  What part of your body did you have the MRI of?,q,MS. KOSCIELNIAK,start_answer
+784,1714,74,10,With -- MRI with?,a,THE WITNESS,start_question
+785,1715,74,11,You told me you had an MRI after the accident --,q,MS. KOSCIELNIAK,start_answer
+786,1717,74,13,Dr. Allen.,a,THE WITNESS,start_question
+787,1718,74,14,What part of the body did you have the MRI of?,q,MS. KOSCIELNIAK,start_answer
+788,1720,74,16,I think it was upper -- upper body.,a,THE WITNESS,start_question
+789,1722,74,18,Did any doctor discuss the results of the MRI with you?,q,MS. KOSCIELNIAK,start_answer
+790,1724,74,20,I don't remember.,a,THE WITNESS,start_question
+791,1725,74,21,Did your treatment change after you had the MRI?,q,MS. KOSCIELNIAK,start_answer
+792,1727,74,23,No.,a,THE WITNESS,start_question
+793,1728,74,24,Did any doctor discuss or recommend injections?,q,MS. KOSCIELNIAK,start_answer
+794,1731,75,2,"Certain injections increase your blood sugars, so I think it was -- one of the medicines makes your blood sugar elevated, so we weren't going to use that as an option.  And that might have been my only one, so I never had them, at least not that injection.",a,THE WITNESS,start_question
+795,1738,75,9,Okay.  So who did you talk to?,q,MS. KOSCIELNIAK,start_answer
+796,1739,75,10,I think the Rothman doctor.,a,THE WITNESS,start_question
+797,1740,75,11,"Okay.  So the doctor at Rothman talked to you about a specific type of injection, and it was your understanding that it would make your blood sugars rise?",q,MS. KOSCIELNIAK,start_answer
+798,1745,75,16,Yes.,a,THE WITNESS,start_question
+799,1746,75,17,So you didn't want to undergo it for that reason?,q,MS. KOSCIELNIAK,start_answer
+800,1748,75,19,Yes.,a,THE WITNESS,start_question
+801,1749,75,20,Did they talk to you about which part of your body you should consider injections to?,q,MS. KOSCIELNIAK,start_answer
+802,1752,75,23,I'm not sure which part he was going to do.,a,THE WITNESS,start_question
+803,1755,76,1,Okay.  Did you ever discuss any other types of injections with any other doctors?,q,MS. KOSCIELNIAK,start_answer
+804,1758,76,4,No.,a,THE WITNESS,start_chat
+805,1759,76,5,I need to go bathroom.,side_chat,THE WITNESS,start_chat
+806,1761,76,7,Okay.,side_chat,MR. GOODSTADT,symbols
+807,1762,76,8,- - -,symbols,,is brackets
+808,1763,76,9,(A brief recess was taken at this time.),brackets,,symbols
+809,1765,76,11,- - -,symbols,,start_chat
+810,1766,76,12,Can you read back the last question?,side_chat,MS. KOSCIELNIAK,symbols
+811,1768,76,14,- - -,symbols,,is brackets
+812,1769,76,15,(The court reporter read back as requested.),brackets,,symbols
+813,1771,76,17,- - -,symbols,,start_question
+814,1773,76,19,Did any doctor discuss or recommend surgery with you to any part of your body after the accident?,q,MS. KOSCIELNIAK,start_answer
+815,1776,76,22,No.,a,THE WITNESS,start_question
+816,1777,76,23,Did you have any other treatment after the August 2017 accident that we haven't yet talked about?,q,MS. KOSCIELNIAK,start_answer
+817,1781,77,2,After the what -- what date?,a,THE WITNESS,start_question
+818,1782,77,3,The accident that we're here for today.,q,MS. KOSCIELNIAK,start_answer
+819,1784,77,5,Did I have any what?,a,THE WITNESS,start_question
+820,1785,77,6,Did you have any other treatment that we haven't yet talked about?,q,MS. KOSCIELNIAK,start_answer
+821,1787,77,8,No.,a,THE WITNESS,start_question
+822,1788,77,9,Do you have any plans for any future treatment?,q,MS. KOSCIELNIAK,start_chat
+823,1790,77,11,"Can I interject?  I don't mean to mis- -- because you asked her about therapy with NovaCare, but she went back to NovaCare a year later, so she technically hasn't talked about it.  She talked about NovaCare, but she did go back.  I don't think you --",side_chat,MR. GOODSTADT,start_chat
+824,1799,77,20,"She didn't talk about that yet, so we can --",side_chat,MS. KOSCIELNIAK,start_chat
+825,1802,77,23,"We talked about the NovaCare, but not the fact she went back.",side_chat,MR. GOODSTADT,start_chat
+826,1806,78,2,"Right, not that she went back.",side_chat,MS. KOSCIELNIAK,start_question
+827,1809,78,5,Okay.  So you went back to NovaCare?,q,MS. KOSCIELNIAK,start_answer
+828,1811,78,7,Yeah.,a,THE WITNESS,start_question
+829,1812,78,8,Why did you do that?,q,MS. KOSCIELNIAK,start_answer
+830,1813,78,9,I was hurting.,a,THE WITNESS,start_question
+831,1814,78,10,Why did you decide to go back to NovaCare?,q,MS. KOSCIELNIAK,start_answer
+832,1816,78,12,Because I was hurting.,a,THE WITNESS,start_question
+833,1817,78,13,Why that facility specifically?,q,MS. KOSCIELNIAK,start_answer
+834,1818,78,14,It was close to home.,a,THE WITNESS,start_question
+835,1819,78,15,And who referred you to NovaCare Rehab?,q,MS. KOSCIELNIAK,start_answer
+836,1821,78,17,Rothman.,a,THE WITNESS,start_question
+837,1822,78,18,Okay.  And who had referred you to Rothman?,q,MS. KOSCIELNIAK,start_answer
+838,1824,78,20,Patient First.,a,THE WITNESS,start_question
+839,1825,78,21,Had you ever been to that Patient First before the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+840,1828,78,24,Have I ever been there before?,a,THE WITNESS,start_question
+841,1830,79,1,Yes?,q,MS. KOSCIELNIAK,start_answer
+842,1831,79,2,Before or after the accident?,a,THE WITNESS,start_question
+843,1832,79,3,Before the accident.,q,MS. KOSCIELNIAK,start_answer
+844,1833,79,4,No.,a,THE WITNESS,start_question
+845,1834,79,5,Okay.  Now I'm going to ask it again.  Did you have any other treatment that we haven't yet talked about?,q,MS. KOSCIELNIAK,start_answer
+846,1837,79,8,Any other what?,a,THE WITNESS,start_question
+847,1838,79,9,Any other treatment that we haven't yet talked about.,q,MS. KOSCIELNIAK,start_chat
+848,1840,79,11,"Can I interject again?  Did we include Allen?  I know that she saw him, and I know she's been back, so I don't know if that characterizes as other treatment.",side_chat,MR. GOODSTADT,start_chat
+849,1846,79,17,It certainly would.,side_chat,MS. KOSCIELNIAK,start_chat
+850,1848,79,19,"We talked about the MRI, and that's who sent me for the MRI.",side_chat,THE WITNESS,start_question
+851,1852,79,23,Did you see Dr. Allen once or more than once?,q,MS. KOSCIELNIAK,start_answer
+852,1855,80,1,More than once.,a,THE WITNESS,start_question
+853,1856,80,2,Okay.  How many times have you seen him?,q,MS. KOSCIELNIAK,start_answer
+854,1858,80,4,"I don't remember.  Two, three times maybe.",a,THE WITNESS,start_question
+855,1860,80,6,When is the last time you saw him?,q,MS. KOSCIELNIAK,start_answer
+856,1862,80,8,"About two weeks -- two, three weeks ago.  Recently.",a,THE WITNESS,start_question
+857,1864,80,10,Why did you see him two or three weeks ago?,q,MS. KOSCIELNIAK,start_answer
+858,1866,80,12,"Because of the pain in my arm, my left arm.",a,THE WITNESS,start_question
+859,1868,80,14,The left arm?,q,MS. KOSCIELNIAK,start_answer
+860,1869,80,15,Yes.,a,THE WITNESS,start_question
+861,1870,80,16,What did he do for you two or three weeks ago?,q,MS. KOSCIELNIAK,start_answer
+862,1872,80,18,He suggested that I have an MRI.,a,THE WITNESS,start_question
+863,1873,80,19,To what part of your body?,q,MS. KOSCIELNIAK,start_answer
+864,1874,80,20,I just remember the upper.,a,THE WITNESS,start_question
+865,1875,80,21,"Okay.  So when you went to see him two to three weeks ago, he suggested another MRI of the upper part of your body?",q,MS. KOSCIELNIAK,start_answer
+866,1880,81,1,I just remember the MRI.  He was back and forth about should we or should we not.,a,THE WITNESS,start_question
+867,1883,81,4,"Okay.  Are you talking about the MRI that you had back in August of 2017, or were you recommended for another MRI two or three weeks ago?",q,MS. KOSCIELNIAK,start_answer
+868,1887,81,8,I was recommended for another one.,a,THE WITNESS,start_question
+869,1889,81,10,Okay.  Do you have a date scheduled for that?,q,MS. KOSCIELNIAK,start_answer
+870,1891,81,12,Do I have a date scheduled for that?,a,THE WITNESS,start_question
+871,1893,81,14,For the MRI.,q,MS. KOSCIELNIAK,start_answer
+872,1894,81,15,I've had an MRI.,a,THE WITNESS,start_question
+873,1895,81,16,You just told me you were recommended for another MRI two or three weeks ago.  Do you have a date scheduled for that MRI?,q,MS. KOSCIELNIAK,start_answer
+874,1899,81,20,I already had it.,a,THE WITNESS,start_question
+875,1900,81,21,Yes.  I know you had an MRI --,q,MS. KOSCIELNIAK,start_chat
+876,1901,81,22,No.  She's saying she had a new MRI.,side_chat,MR. GOODSTADT,start_question
+877,1905,82,1,When?,q,MS. KOSCIELNIAK,start_answer
+878,1906,82,2,"About two, three weeks ago.",a,THE WITNESS,start_question
+879,1907,82,3,Okay.  And what were the results of that MRI?,q,MS. KOSCIELNIAK,start_answer
+880,1909,82,5,"He said he was going to write it on paper, Dr. Allen.",a,THE WITNESS,start_question
+881,1911,82,7,Do you have a follow-up appointment with him scheduled?,q,MS. KOSCIELNIAK,start_answer
+882,1913,82,9,No.,a,THE WITNESS,start_question
+883,1914,82,10,"Okay.  Other than the MRI, what did Dr. Allen discuss with you at the last appointment?",q,MS. KOSCIELNIAK,start_answer
+884,1917,82,13,He talked about my injuries and why I was having the pain that I was having.,a,THE WITNESS,start_question
+885,1920,82,16,Did he recommend any other treatment?,q,MS. KOSCIELNIAK,start_answer
+886,1922,82,18,No.,a,THE WITNESS,start_question
+887,1923,82,19,"As you sit here today, do you have any other plans for any other future treatment?",q,MS. KOSCIELNIAK,start_answer
+888,1926,82,22,"I don't have any plans currently, not to say that I won't.",a,THE WITNESS,start_question
+889,1928,82,24,Are you considering any other treatment as you sit here today?,q,MS. KOSCIELNIAK,start_answer
+890,1931,83,2,"If the doctor recommends it, yes.",a,THE WITNESS,start_question
+891,1932,83,3,"Well, have you talked to any other doctor about any other treatment?",q,MS. KOSCIELNIAK,start_answer
+892,1934,83,5,"No.  But if I have a pain, I'm going to go to the doctor.",a,THE WITNESS,start_question
+893,1936,83,7,"Was there any point after the August 2017 accident where your injuries that you are claiming from the accident were feeling better, where they were improving?",q,MS. KOSCIELNIAK,start_answer
+894,1941,83,12,"They were feeling better after I got out of the pool therapy, but as soon as I got in the car and started driving or went to bed that night, that bed wasn't feeling as good as it used to in return.",a,THE WITNESS,start_question
+895,1946,83,17,"Now, has any doctor prescribed you medications after the August 2017 accident?",q,MS. KOSCIELNIAK,start_answer
+896,1949,83,20,Yeah.,a,THE WITNESS,start_question
+897,1950,83,21,What kind of medications were prescribed to you?,q,MS. KOSCIELNIAK,start_answer
+898,1952,83,23,My -- best I can recollect is Ibuprofen.,a,THE WITNESS,start_question
+899,1955,84,1,Who prescribed that for you?,q,MS. KOSCIELNIAK,start_answer
+900,1956,84,2,I don't remember whose name is on the bottle.  I just know where it is.,a,THE WITNESS,start_question
+901,1958,84,4,"Was that your primary care doctor, your therapist, someone else?",q,MS. KOSCIELNIAK,start_answer
+902,1960,84,6,"I don't remember, dear.  I don't remember.  I just know I have it, and I had it sometime after the accident.  But I don't remember who prescribed it.",a,THE WITNESS,start_question
+903,1964,84,10,When was the last time you had it filled?,q,MS. KOSCIELNIAK,start_answer
+904,1966,84,12,Recently.,a,THE WITNESS,start_question
+905,1967,84,13,Where do you have it filled?,q,MS. KOSCIELNIAK,start_answer
+906,1968,84,14,CVS.,a,THE WITNESS,start_question
+907,1969,84,15,Which one?,q,MS. KOSCIELNIAK,start_answer
+908,1970,84,16,"Jenkintown, Old York Road, 611.",a,THE WITNESS,start_question
+909,1971,84,17,Did you have any other medications prescribed to you after the accident?,q,MS. KOSCIELNIAK,start_answer
+910,1973,84,19,"No.  Not for the injuries from the accident, no.",a,THE WITNESS,start_question
+911,1975,84,21,Do you have health insurance?,q,MS. KOSCIELNIAK,start_answer
+912,1976,84,22,Yes.,a,THE WITNESS,start_question
+913,1977,84,23,With who?,q,MS. KOSCIELNIAK,start_answer
+914,1978,84,24,Blue Cross.,a,THE WITNESS,start_question
+915,1980,85,1,How long have you had health insurance with Blue Cross?,q,MS. KOSCIELNIAK,start_answer
+916,1982,85,3,Since the 1990s.  Since I was married.,a,THE WITNESS,start_question
+917,1984,85,5,"From the time of the accident until now, have you had any gaps in health insurance coverage, meaning --",q,MS. KOSCIELNIAK,start_answer
+918,1987,85,8,No.,a,THE WITNESS,start_question
+919,1988,85,9,-- has there ever been a time you didn't have health insurance from the time of the accident until now?,q,MS. KOSCIELNIAK,start_answer
+920,1991,85,12,Never.,a,THE WITNESS,start_question
+921,1992,85,13,"How has this accident affected you?  You talked a little bit about how -- or some of the ways it's affected you, but I'd like to know how it affected you in every part of your life.",q,MS. KOSCIELNIAK,start_answer
+922,1997,85,18,"It affects my quality of life in terms of my rest and my sleep.  The bed that I bought -- my husband bought for me for comfort is no longer giving me that, so every evening I wake up during the night, and in the morning, not feeling the comfort and rest that I once did. My abilities to interact with my three grandsons, 9-year-old twins and 11-year-old, has diminished.  So, you know, stuff like bowling and basketball and just the things that boys do, I can't really participate in those activities anymore. No more bowling. No more things that I have to really exert myself; reaching my hands above my head, that kind of stuff.  I can't really carry anything really heavy 'cause with that, I suffer discomfort, and sometimes I need things that I just don't have the strength to carry without pain.",a,THE WITNESS,start_question
+923,2020,86,16,Did you try to do bowling and basketball with your grandsons after the accident?,q,MS. KOSCIELNIAK,start_answer
+924,2023,86,19,"(Laughter) it wasn't very successful, no.",a,THE WITNESS,start_question
+925,2025,86,21,Okay.  So you tried once or twice?,q,MS. KOSCIELNIAK,start_answer
+926,2027,86,23,"I tried once with the bowling, and that was a disaster.  And the basketball, my one grandson is in a league, so he just kind of -- I just kind of watch now throwing the ball up in the hoops, and raising my hands above my head is not a comfortable position to be in.  And he's 11, so he takes it very seriously.",a,THE WITNESS,start_question
+927,2036,87,7,What happened when you tried the bowling; was it the same issue with --,q,MS. KOSCIELNIAK,start_answer
+928,2038,87,9,"It was too heavy.  The ball was too heavy, and if I found a ball that was comfortable, it was too small for my fingers to go in, so I just kind of gave my lane to somebody else.",a,THE WITNESS,start_question
+929,2043,87,14,Anything else that's been affected?,q,MS. KOSCIELNIAK,start_answer
+930,2045,87,16,"Just I can't always carry the things that I need to carry, like a snack or lunch or something that I need to have with me most times 'cause I'm Type 1 diabetic.",a,THE WITNESS,start_question
+931,2050,87,21,"Okay.  Did you have any of these types of limitations that you talked about, issues with your sleeping, interacting with your grandsons, difficulty with carrying heavy things, reaching things, before the August 2017 accident?",q,MS. KOSCIELNIAK,start_answer
+932,2057,88,3,"Not at all, especially the bed, sleeping.  Oh, my gosh.  We got customized mattresses for both of us to make sure that he was comfortable after having strokes, and I was comfortable because we were getting new beds.  And I shopped twice for a new mattress for myself and finally had found the ultimate one, and that one just causes me pain.  Tried to adjust the head, adjust the feet, different pillows, nothing seems to do the trick.",a,THE WITNESS,start_question
+933,2068,88,14,"Is it that you're waking up during the night, or is it that you just wake up and just feel uncomfortable?",q,MS. KOSCIELNIAK,start_answer
+934,2071,88,17,"I feel uncomfortable.  Where that bed just caused me to sink into a deep sleep, now I'm constantly tossing and turning.  And my Fitbit tells me that I'm 12 times restless during the night, so I know that I'm not resting comfortably.  And before the accident, that was my dream, to get into that bed.  It's not anymore, so it's almost like I need to toss it out, even though I'm still paying for it, and get something else.",a,THE WITNESS,start_question
+935,2083,89,4,Did you have any kind of pain or discomfort in your neck before the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+936,2086,89,7,No.,a,THE WITNESS,start_question
+937,2087,89,8,Did you have any kind of pain or discomfort in your -- let's start with your left shoulder.  Did you have any kind of pain or discomfort in your left shoulder before the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+938,2092,89,13,No.  I was enjoying life with my grandbabies.,a,THE WITNESS,start_question
+939,2094,89,15,Did you have any pain or discomfort in the right shoulder before the August 22017 accident?,q,MS. KOSCIELNIAK,start_answer
+940,2097,89,18,"I had no pain or discomfort in my neck, or left or right shoulder, or upper back before the accident.",a,THE WITNESS,start_question
+941,2100,89,21,Were you having chest pain before the accident?,q,MS. KOSCIELNIAK,start_answer
+942,2102,89,23,The chest pain was just recent.,a,THE WITNESS,start_question
+943,2103,89,24,Okay.  So that's a no?,q,MS. KOSCIELNIAK,start_answer
+944,2105,90,1,"No, I wasn't having chest pain before the accident.",a,THE WITNESS,start_question
+945,2107,90,3,"But the left knee was bothering you before the accident, correct?",q,MS. KOSCIELNIAK,start_answer
+946,2109,90,5,Correct.,a,THE WITNESS,start_question
+947,2110,90,6,"Okay.  Before August of 2017, did you have an MRI of any part of your body?",q,MS. KOSCIELNIAK,start_chat
+948,2113,90,9,You mean ever?,side_chat,MR. GOODSTADT,start_chat
+949,2115,90,11,Say in the last ten years.,side_chat,MS. KOSCIELNIAK,start_chat
+950,2117,90,13,Maybe.,side_chat,THE WITNESS,start_question
+951,2119,90,15,Do you remember having an MRI of your neck or your back in the last ten years before the accident?,q,MS. KOSCIELNIAK,start_answer
+952,2122,90,18,I don't remember.,a,THE WITNESS,start_question
+953,2123,90,19,"Okay.  Just a couple more questions. So there was a restriction on your license for corrective lenses.  Do you wear contact lenses, glasses?",q,MS. KOSCIELNIAK,start_answer
+954,2128,90,24,I wear glasses.,a,THE WITNESS,start_question
+955,2130,91,1,Okay.  Do you wear them all the time or just occasionally?,q,MS. KOSCIELNIAK,start_answer
+956,2132,91,3,I wear them a lot.  I wear them. I wear them a lot.,a,THE WITNESS,start_question
+957,2134,91,5,Do you wear them all the time when you drive?,q,MS. KOSCIELNIAK,start_answer
+958,2136,91,7,I wear them more at night than through the -- during the day.,a,THE WITNESS,start_question
+959,2138,91,9,Why is that?,q,MS. KOSCIELNIAK,start_answer
+960,2139,91,10,I just like to wear them at night.,a,THE WITNESS,start_question
+961,2141,91,12,Okay.  Who's your eye doctor?,q,MS. KOSCIELNIAK,start_answer
+962,2142,91,13,Dr. Lynn.,a,THE WITNESS,start_question
+963,2143,91,14,Where is Dr. Lynn located?,q,MS. KOSCIELNIAK,start_answer
+964,2144,91,15,On Chestnut Street.,a,THE WITNESS,start_question
+965,2145,91,16,Were you wearing glasses on the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+966,2147,91,18,No.,a,THE WITNESS,start_question
+967,2148,91,19,Did you have any difficulties with your vision on the date of the accident?,q,MS. KOSCIELNIAK,start_answer
+968,2151,91,22,No.,a,THE WITNESS,start_question
+969,2152,91,23,Had any doctor discussed or recommend injections with you before the August 2017 accident?,q,MS. KOSCIELNIAK,start_answer
+970,2156,92,2,No.,a,THE WITNESS,start_question
+971,2157,92,3,Are you doing any kind of at-home therapy or anything else for your pain in between your treatment at NovaCare and in between the visits that you had at the water therapy?,q,MS. KOSCIELNIAK,start_answer
+972,2162,92,8,They give you a paper to take home of exercises to do at home when they discharge you.,a,THE WITNESS,start_question
+973,2165,92,11,And were you doing them?,q,MS. KOSCIELNIAK,start_answer
+974,2166,92,12,Sometimes.,a,THE WITNESS,start_question
+975,2167,92,13,How often would you do them?,q,MS. KOSCIELNIAK,start_answer
+976,2168,92,14,"Like, every two, three weeks I would have an opportunity to do them, and I would do them, like, on Monday, Wednesday and Friday every week.  Or, especially, I would do them if I was having some kind of increased pain, so...",a,THE WITNESS,start_question
+977,2174,92,20,Did any doctor ever prescribe or recommend any kind of assistive devices like a neck brace a back brace?,q,MS. KOSCIELNIAK,start_answer
+978,2177,92,23,"They gave me these little things, patches, you put on.  And you turn it on, and it stimulates.",a,THE WITNESS,start_question
+979,2181,93,2,A TENS unit?,q,MS. KOSCIELNIAK,start_answer
+980,2182,93,3,I'm not sure of the name of it.  I just know what it does.,a,THE WITNESS,start_question
+981,2184,93,5,Have you used that device they gave you?,q,MS. KOSCIELNIAK,start_answer
+982,2186,93,7,I do.,a,THE WITNESS,start_question
+983,2187,93,8,How often do you use it?,q,MS. KOSCIELNIAK,start_answer
+984,2188,93,9,Probably the same days I do the exercise the three times a week.,a,THE WITNESS,start_question
+985,2190,93,11,And is that still something that you're doing?,q,MS. KOSCIELNIAK,start_answer
+986,2192,93,13,Yes.,a,THE WITNESS,start_question
+987,2193,93,14,Had you ever used one of those devices before the accident in August of 2017?,q,MS. KOSCIELNIAK,start_answer
+988,2196,93,17,"They gave it to me during that timeframe.  That's when I got it, after the accident in 2017.",a,THE WITNESS,start_question
+989,2199,93,20,Okay.  But you never used one before then?,q,MS. KOSCIELNIAK,start_answer
+990,2201,93,22,"No, never have.",a,THE WITNESS,start_question
+991,2202,93,23,Okay.,q,MS. KOSCIELNIAK,start_chat
+992,2203,93,24,I don't have any other questions for you.  Thank you.,side_chat,MS. KOSCIELNIAK,start_chat
+993,2207,94,3,You're done.,side_chat,MR. GOODSTADT,is brackets
+994,2209,94,5,(Witness excused.),brackets,,symbols
+995,2210,94,6,- - -,symbols,,is brackets
+996,2211,94,7,(Deposition concluded at 4:30 p.m.),brackets,,symbols
+997,2212,94,8,"- - - C E R T I F I C A T I O N I, Maria Rousakis, hereby certify that the foregoing is a true and correct transcript of the proceedings held in this matter as transcribed from the stenographic notes taken by me on Wednesday, August 28, 2019. Maria Rousakis",symbols,,is brackets
+998,2251,95,20,"(This certification does not transcript, unless under the certifying reporter.)",brackets,,symbols
+999,2257,95,24,- - -,symbols,,end

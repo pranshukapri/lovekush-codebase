@@ -1,0 +1,212 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,132,5,13,- - - EXAMINATION,symbols,,symbols
+2,134,5,15,- - -,symbols,,start_question
+3,136,5,17,"Sir, can you state your name for the record, please.",q,MR. KAPLAN,start_answer
+4,138,5,19,Brandon Chesney.,a,THE WITNESS,start_question
+5,139,5,20,"Mr. Chesney, my name is John Kaplan. I'm going to be taking your deposition. Have you ever had your deposition taken before?",q,MR. KAPLAN,start_answer
+6,143,5,24,I have not.,a,THE WITNESS,start_question
+7,145,6,1,It would be a question-and-answer session in front of a court reporter where you were asked questions by an attorney under oath?,q,MR. KAPLAN,start_answer
+8,149,6,5,No.,a,THE WITNESS,start_question
+9,150,6,6,"I kind of summarized what it is.  It's a question-and-answer session in front of a court reporter.  You're under oath.  The court reporter's job is to take down everything that's said in the room, but she can only taken down the spoken word. In response to a question, it's okay if you make a gesture, nod your head, shrug your shoulders, but you also have to say something.",q,MR. KAPLAN,start_answer
+10,160,6,16,Okay.,a,THE WITNESS,start_question
+11,161,6,17,"The court reporter can only take down one person speaking at a time.  I would ask that you let me finish my entire question before you respond, and I'll do my best not the interrupt your response with the next question, okay?",q,MR. KAPLAN,start_answer
+12,167,6,23,Okay.,a,THE WITNESS,start_question
+13,168,6,24,That's even if you anticipate what I'm going to ask you.  Let me ask it.,q,MR. KAPLAN,start_answer
+14,171,7,2,Okay.,a,THE WITNESS,start_question
+15,172,7,3,"Another reason is, even if you anticipate or think you know what I'm going to ask you, you might actually be incorrect, so let me ask the entire question, okay?",q,MR. KAPLAN,start_answer
+16,176,7,7,Okay.,a,THE WITNESS,start_question
+17,177,7,8,"I'm looking for your best recollection of events, not a guess.  If I ask you a question and you don't know the answer or you don't remember, just tell me that you don't know or you don't remember, okay?",q,MR. KAPLAN,start_answer
+18,182,7,13,Okay.,a,THE WITNESS,start_question
+19,183,7,14,"I don't think you're going to be here all that long, but if for any reason you want to take a break, just say so.  We'll take a break. The only thing I would ask is that, if there is a question pending when you want to take a break, that you respond to that question, okay?",q,MR. KAPLAN,start_answer
+20,191,7,22,Okay.,a,THE WITNESS,start_question
+21,192,7,23,"You are represented by counsel here at this deposition.  During the course of the deposition, you might hear your lawyer say objection, object to the form, or something else. If your lawyer says something, just stop, and your lawyer and I will discuss and hopefully resolve or work out any issue that might come up.  Then your lawyer will given you an instruction, okay?",q,MR. KAPLAN,start_answer
+22,203,8,9,Okay.,a,THE WITNESS,start_question
+23,204,8,10,"If you don't hear a question that I ask you, tell me.  I'll repeat it.  If you don't understand what it is that I'm asking you, tell me, and I'll rephrase the question. Do you understand those instructions?",q,MR. KAPLAN,start_answer
+24,209,8,15,I do.,a,THE WITNESS,start_question
+25,210,8,16,"If you respond to a question, I'm going to assume you heard and understand it. It's very important that you say something if you do not hear or understand me.",q,MR. KAPLAN,start_answer
+26,214,8,20,Okay.,a,THE WITNESS,start_question
+27,215,8,21,"How old are you, sir?",q,MR. KAPLAN,start_answer
+28,216,8,22,41.,a,THE WITNESS,start_question
+29,217,8,23,Are you employed at the present time?,q,MR. KAPLAN,start_answer
+30,218,8,24,I am.,a,THE WITNESS,start_question
+31,220,9,1,What do you do for a living?,q,MR. KAPLAN,start_answer
+32,221,9,2,"I do HR consulting, human resources consulting.",a,THE WITNESS,start_question
+33,223,9,4,Who do you currently work for?,q,MR. KAPLAN,start_answer
+34,224,9,5,A company called Facility Support Company.,a,THE WITNESS,start_question
+35,226,9,7,You consult for them?,q,MR. KAPLAN,start_answer
+36,227,9,8,Yes.,a,THE WITNESS,start_question
+37,228,9,9,"I forgot to tell you.  Sometimes we say uh-uh and uh-huh.  We all understand what you're saying, but it's my understanding it's spelled the same way.  When we look at the transcript, we're not going to know what you were saying.  If you do that, I'm going to say is that a yes, is that a no.",q,MR. KAPLAN,start_answer
+38,235,9,16,Okay.,a,THE WITNESS,start_question
+39,236,9,17,Are you self-employed?  Are you an independent contractor?,q,MR. KAPLAN,start_answer
+40,238,9,19,Not an independent contractor.  I just consult.  I consult through a third-party company.  I do human resources consulting for a third-party company.,a,THE WITNESS,start_question
+41,242,9,23,Are you an employee of that third-party company?,q,MR. KAPLAN,start_answer
+42,245,10,1,Yes.,a,THE WITNESS,start_question
+43,246,10,2,What is that third-party company?,q,MR. KAPLAN,start_answer
+44,247,10,3,It's called Facility Support Company.,a,THE WITNESS,start_question
+45,248,10,4,Do you recall being involved in a motor vehicle accident on April 30th of 2017?,q,MR. KAPLAN,start_answer
+46,250,10,6,I do.,a,THE WITNESS,start_question
+47,251,10,7,Do you recall where that accident occurred?,q,MR. KAPLAN,start_answer
+48,253,10,9,It was on Harbison Avenue.  I recall Harbison Avenue.,a,THE WITNESS,start_question
+49,255,10,11,Do you recall approximately what time of day the accident occurred?,q,MR. KAPLAN,start_answer
+50,257,10,13,"I do not, I'm sorry.  I think it was around 7:00 p.m., between 7:00 and 8:00 p.m.",a,THE WITNESS,start_question
+51,259,10,15,"At that time, was it dark out?",q,MR. KAPLAN,start_answer
+52,260,10,16,"I believe so, yes.",a,THE WITNESS,start_question
+53,261,10,17,Do you recall what the weather conditions were like?,q,MR. KAPLAN,start_answer
+54,263,10,19,I do not.,a,THE WITNESS,start_question
+55,264,10,20,You said it was on Harbison Avenue. Are you able to give me some idea where on Harbison Avenue?,q,MR. KAPLAN,start_answer
+56,267,10,23,"Harbison and Cheltenham would be, I believe, the cross street.",a,THE WITNESS,start_question
+57,270,11,1,Did the accident actually occur at an intersection?,q,MR. KAPLAN,start_answer
+58,272,11,3,"Feet before the intersection, I believe.",a,THE WITNESS,start_question
+59,274,11,5,How many?,q,MR. KAPLAN,start_answer
+60,275,11,6,I don't recall.,a,THE WITNESS,start_question
+61,276,11,7,"Another instruction I forgot to give you is there might be questions that call for some kind of measurement; time, distance, speed, something of that nature.  If you're able to give an exact response, please do so. If you can't but you feel that you're able to estimate or approximate, you are allowed to do so.  Just let me know that you're estimating or approximating.",q,MR. KAPLAN,start_answer
+62,285,11,16,Okay.,a,THE WITNESS,start_question
+63,286,11,17,"With that instruction in mind, you are unable to estimate or approximate how far you were from the intersection with Cheltenham Avenue when the accident occurred?",q,MR. KAPLAN,start_answer
+64,290,11,21,"I don't have an exact estimation.  I could estimate it was maybe one block away, within the block of my left-hand turn to Cheltenham Avenue.",a,THE WITNESS,start_question
+65,295,12,1,Where were you coming from?,q,MR. KAPLAN,start_answer
+66,296,12,2,I was coming from center city Philadelphia.,a,THE WITNESS,start_question
+67,298,12,4,"If the accident had not occurred, where were you intending to go?",q,MR. KAPLAN,start_answer
+68,300,12,6,Home.,a,THE WITNESS,start_question
+69,301,12,7,Was it your intention that when you reached Cheltenham Avenue you were going to make a left-hand turn?,q,MR. KAPLAN,start_answer
+70,304,12,10,Yes.,a,THE WITNESS,start_question
+71,305,12,11,"Harbison Avenue, as you approach the intersection with Cheltenham Avenue, is it a one-way or two-way street?",q,MR. KAPLAN,start_answer
+72,308,12,14,"It's a two way, and then both are two-way streets.  The left-hand turn is a two-way street, and Harbison Avenue is a two-way street.",a,THE WITNESS,start_question
+73,312,12,18,I think what I asked you is Harbison Avenue a two-way street?,q,MR. KAPLAN,start_answer
+74,314,12,20,"Correct, yes.",a,THE WITNESS,start_question
+75,315,12,21,How many lanes are there to drive in on Harbison Avenue as you approach Cheltenham?,q,MR. KAPLAN,start_answer
+76,318,12,24,Two.,a,THE WITNESS,start_question
+77,320,13,1,A total of four?,q,MR. KAPLAN,start_answer
+78,321,13,2,Correct.,a,THE WITNESS,start_question
+79,322,13,3,Two heading in the direction you're going and two heading in the opposite direction?,q,MR. KAPLAN,start_answer
+80,325,13,6,Correct.,a,THE WITNESS,start_question
+81,326,13,7,"The vehicle that you were driving, what was the year, make, and model?",q,MR. KAPLAN,start_answer
+82,328,13,9,2004 Nissan Maxima.,a,THE WITNESS,start_question
+83,329,13,10,Was that your vehicle?,q,MR. KAPLAN,start_answer
+84,330,13,11,Yes.,a,THE WITNESS,start_question
+85,331,13,12,"Was it in good working order?  What I mean by that is, were the brakes, headlights, steering, horn, all working properly as far as you know?",q,MR. KAPLAN,start_answer
+86,335,13,16,"As far as I know.  I know I did have a donut on the vehicle.  There was a donut.  I had jut gotten a flat prior to that accident. I had AAA come out and change my tire, and then I proceeded on my way home.",a,THE WITNESS,start_question
+87,340,13,21,You had actually had a flat tire right before the accident?,q,MR. KAPLAN,start_answer
+88,342,13,23,"Correct, yes.",a,THE WITNESS,start_question
+89,343,13,24,I know you said you were going home when the accident occurred. Did you have to be at home at any particular time?,q,MR. KAPLAN,start_answer
+90,348,14,4,No.,a,THE WITNESS,start_question
+91,349,14,5,Was there anybody waiting for you at home?,q,MR. KAPLAN,start_answer
+92,351,14,7,No.,a,THE WITNESS,start_question
+93,352,14,8,Was there anybody with you in the vehicle at the time of the accident?,q,MR. KAPLAN,start_answer
+94,354,14,10,No.,a,THE WITNESS,start_question
+95,355,14,11,"The intersection of Harbison and Cheltenham, is that controlled by a traffic light, sign, any other traffic control devices?",q,MR. KAPLAN,start_answer
+96,359,14,15,A light.  It's controlled by a traffic light.,a,THE WITNESS,start_question
+97,361,14,17,"Now, you mentioned that you had a donut on your vehicle. Do you happen to recall which tire that would have been?",q,MR. KAPLAN,start_answer
+98,365,14,21,I believe it was the front left.,a,THE WITNESS,start_question
+99,366,14,22,"As far as you know, did having a donut on the front left wheel of your vehicle contribute in any way to this accident?",q,MR. KAPLAN,start_answer
+100,370,15,1,I'm not sure if that contributed to the accident.,a,THE WITNESS,start_question
+101,372,15,3,Why don't you pick it up when you're on Harbison.  Tell me what happened.,q,MR. KAPLAN,start_answer
+102,374,15,5,I don't remember much because I believe I was concussed right as the accident happened.  I don't recall seeing the car in front of me.  I just don't remember much from the accident itself. I do recall just heading home and then the accident happened and I was just very disoriented.  I believe I may have hit my head and was concussed.  That's pretty much all I remember.,a,THE WITNESS,start_question
+103,384,15,15,Were you in the right-hand or left-hand lane when the accident occurred?,q,MR. KAPLAN,start_answer
+104,386,15,17,"I believe I was in the left-hand lane because I usually take the left-hand lane to get onto Cheltenham.  Again, I don't remember, so I shouldn't guess, I apologize.",a,THE WITNESS,start_question
+105,390,15,21,"In the accident itself, do you recall that you struck a vehicle in front of you in the rear?",q,MR. KAPLAN,start_answer
+106,393,15,24,"Not at the moment, not at the present moment.  Again, I was disoriented.  After a few minutes, I realized things weren't -- I was incoherent.  After that, I pulled over to see what was what, to see what was going on. At that moment, I realized something wasn't right.",a,THE WITNESS,start_chat
+107,401,16,7,I think the question was do you recall being in an accident.,side_chat,MR. MANARA,start_chat
+108,403,16,9,Yes.  I apologize.,side_chat,THE WITNESS,start_question
+109,405,16,11,Where you struck a vehicle in front of you in the rear?,q,MR. KAPLAN,start_answer
+110,407,16,13,"Yes.  Not immediately, but, yes, shortly thereafter.",a,THE WITNESS,start_question
+111,409,16,15,Was your vehicle damaged as a result of the accident?,q,MR. KAPLAN,start_answer
+112,411,16,17,Yes.,a,THE WITNESS,start_question
+113,412,16,18,Where was the damage to your vehicle?,q,MR. KAPLAN,start_answer
+114,413,16,19,"It was in the front left end, I believe.  I don't remember.  I took photographs.",a,THE WITNESS,start_question
+115,416,16,22,You did?,q,MR. KAPLAN,start_answer
+116,417,16,23,Yes.,a,THE WITNESS,start_chat
+117,418,16,24,Were those supplied?,side_chat,MR. KAPLAN,start_chat
+118,420,17,1,Should have been. I'd be happy to send them again.,side_chat,MR. MANARA,start_chat
+119,422,17,3,"If you could, resend them.",side_chat,MR. KAPLAN,start_chat
+120,424,17,5,Of course.,side_chat,MR. MANARA,start_question
+121,426,17,7,"You said you believe and then you said you don't remember and then you said you took pictures. As you sit here today, do you recall where the damage was to your vehicle?",q,MR. KAPLAN,start_answer
+122,431,17,12,"Again, I believe it was the front left end.",a,THE WITNESS,start_question
+123,433,17,14,"Let me just stop you there.  Let's start with the front. When you say the front, are you talking about the part of the vehicle where the head lights are?",q,MR. KAPLAN,start_answer
+124,438,17,19,"Correct, yes.",a,THE WITNESS,start_question
+125,439,17,20,"Then you used left, so are you talking --",q,MR. KAPLAN,start_answer
+126,441,17,22,Driver's side.,a,THE WITNESS,start_question
+127,442,17,23,"You're talking about the front of the vehicle, but the left side of the front of the vehicle?",q,MR. KAPLAN,start_answer
+128,446,18,2,Yes.,a,THE WITNESS,start_question
+129,447,18,3,"The head lights or head light on the left side of the front of the vehicle, were they damaged at all?",q,MR. KAPLAN,start_answer
+130,450,18,6,Yes.,a,THE WITNESS,start_question
+131,451,18,7,Were they broken?,q,MR. KAPLAN,start_answer
+132,452,18,8,Yes.,a,THE WITNESS,start_question
+133,453,18,9,"Was the front bumper damaged, broken, bent?",q,MR. KAPLAN,start_answer
+134,455,18,11,Yes.,a,THE WITNESS,start_question
+135,456,18,12,"What other damage, do you recall?",q,MR. KAPLAN,start_answer
+136,457,18,13,That's it.  That's the only damage I recall.,a,THE WITNESS,start_question
+137,459,18,15,The front headlight was broken; the front bumper was damaged?,q,MR. KAPLAN,start_answer
+138,461,18,17,Yes.,a,THE WITNESS,start_question
+139,462,18,18,Was there any damage to the front hood?,q,MR. KAPLAN,start_answer
+140,464,18,20,"I don't think the hood was damaged. It could have been.  Again, it's been a while so I don't remember the condition of the car following the accident.",a,THE WITNESS,start_question
+141,468,18,24,Was the vehicle drivable from the scene?,q,MR. KAPLAN,start_answer
+142,471,19,2,Yes.,a,THE WITNESS,start_question
+143,472,19,3,Where did you drive it to?,q,MR. KAPLAN,start_answer
+144,473,19,4,Home.,a,THE WITNESS,start_question
+145,474,19,5,Did your airbag deploy?,q,MR. KAPLAN,start_answer
+146,475,19,6,No.,a,THE WITNESS,start_question
+147,476,19,7,Did you report the accident to your insurance company?,q,MR. KAPLAN,start_answer
+148,478,19,9,I did not.,a,THE WITNESS,start_question
+149,479,19,10,You never did?,q,MR. KAPLAN,start_answer
+150,480,19,11,No.,a,THE WITNESS,start_question
+151,481,19,12,Any reason why not?,q,MR. KAPLAN,start_answer
+152,482,19,13,"Honestly, I really didn't know what happened, so I was just going to pay for it myself.  I was going to pay for my damage myself.  Then I did talk to the insurance company and we went through the details of the accident.",a,THE WITNESS,start_question
+153,488,19,19,You did report it to your insurance company?,q,MR. KAPLAN,start_answer
+154,490,19,21,"I did not report.  I believe someone saw my license plate.  I got out of the car to exchange information and that type of stuff, but the person I was trying to speak to would not speak to me.  At that point, I didn't know what was going on. Again, I pulled over to discuss what happened and that type of thing, and the person I spoke to just would not speak to me.",a,THE WITNESS,start_question
+155,500,20,6,Did the police come to the scene of the accident?,q,MR. KAPLAN,start_answer
+156,502,20,8,I do not recall.,a,THE WITNESS,start_question
+157,503,20,9,You approached the driver of the other vehicle that was involved in the accident and that person did not want to speak to you?,q,MR. KAPLAN,start_answer
+158,506,20,12,"Correct.  Following the accident, I pulled over to a safe spot, and I got out of the car to figure out what happened because I was still disoriented. I remember trying to communicate to someone who was actually there.  I tried to communicate to the person, and the person just would not say a word.",a,THE WITNESS,start_question
+159,514,20,20,"The person that you tried to communicate with, was that the person that was the driver of the vehicle involved in the accident?",q,MR. KAPLAN,start_answer
+160,518,20,24,"At that point, I did not know.",a,THE WITNESS,start_question
+161,520,21,1,Did you ever come to learn one way or another who that person was that you approached?,q,MR. KAPLAN,start_answer
+162,523,21,4,"Through the lawsuit, I guess that was not the person.",a,THE WITNESS,start_question
+163,525,21,6,That was not the person?,q,MR. KAPLAN,start_answer
+164,526,21,7,Correct.,a,THE WITNESS,start_question
+165,527,21,8,Do you have any idea who the person was that you approached but did not speak to you?,q,MR. KAPLAN,start_answer
+166,530,21,11,"No, I have no idea.",a,THE WITNESS,start_question
+167,531,21,12,What was the last thing that you remember before the impact occurred?,q,MR. KAPLAN,start_answer
+168,533,21,14,I remember coming off of 95 and just heading on my way home.  Then at that point I don't remember the collision or anything.  I don't remember any collision or anything like that.,a,THE WITNESS,start_question
+169,538,21,19,You don't remember any impact between your vehicle and another vehicle occurring on Harbison Avenue?,q,MR. KAPLAN,start_answer
+170,541,21,22,Correct.,a,THE WITNESS,start_question
+171,542,21,23,"On April 30, 2017?",q,MR. KAPLAN,start_answer
+172,543,21,24,Correct.,a,THE WITNESS,start_question
+173,545,22,1,Have you ever consulted with a physician?,q,MR. KAPLAN,start_answer
+174,547,22,3,I did not.,a,THE WITNESS,start_question
+175,548,22,4,Has your memory of the events of that evening improved at all since the date of the accident?,q,MR. KAPLAN,start_answer
+176,551,22,7,Has my memory improved?,a,THE WITNESS,start_question
+177,552,22,8,"In other words, have any memories of that accident started to come back to you since the date of the accident up until the time we're sitting here now?",q,MR. KAPLAN,start_answer
+178,556,22,12,No.,a,THE WITNESS,start_question
+179,557,22,13,"You said that you didn't report it to your insurance company, but you had a conversation with your insurance company?",q,MR. KAPLAN,start_answer
+180,560,22,16,Right.,a,THE WITNESS,start_question
+181,561,22,17,Did somebody else contact your insurance company?,q,MR. KAPLAN,start_answer
+182,563,22,19,I believe so.  The insurance company contacted me.,a,THE WITNESS,start_question
+183,565,22,21,You were called by your insurance company?,q,MR. KAPLAN,start_answer
+184,567,22,23,Correct.,a,THE WITNESS,start_question
+185,568,22,24,Did you speak to a representative from your insurance company over the phone?,q,MR. KAPLAN,start_answer
+186,571,23,2,I did.,a,THE WITNESS,start_question
+187,572,23,3,Did that representative ever tell you that he or she was recording the conversation?,q,MR. KAPLAN,start_answer
+188,575,23,6,Yes.,a,THE WITNESS,start_question
+189,576,23,7,Have you ever seen a transcript of that recorded conversation?,q,MR. KAPLAN,start_answer
+190,578,23,9,Yes.,a,THE WITNESS,start_chat
+191,579,23,10,"Counsel, is there a copy of that transcript?",side_chat,MR. KAPLAN,start_chat
+192,581,23,12,"I can get you one, yeah.  It was all passed with the photographs and everything on the 24th.  I'm happy to resend.",side_chat,MR. MANARA,start_chat
+193,585,23,16,It was sent to us?,side_chat,MR. KAPLAN,start_chat
+194,586,23,17,Yes.,side_chat,THE WITNESS,start_chat
+195,587,23,18,"How was it sent, mail or via e-mail?",side_chat,MR. KAPLAN,start_chat
+196,589,23,20,E-mail.,side_chat,MR. MANARA,start_chat
+197,590,23,21,To who? MR. MANARA,side_chat,MR. KAPLAN,start_chat
+198,593,23,24,You said on the 24th?,side_chat,MR. KAPLAN,start_chat
+199,596,24,2,"Of June.  And Kathy Tropiano and Amanda@saffren.com.  It was password protected.  It came in two e-mails with the password, as well. But, yes, there is a recorded statement, and I believe I have it.",side_chat,MR. MANARA,start_chat
+200,602,24,8,That was already sent?,side_chat,MR. KAPLAN,start_chat
+201,604,24,10,Yeah.,side_chat,MR. MANARA,start_question
+202,606,24,12,Did you ever receive any traffic tickets or citations in connection with the accident?,q,MR. KAPLAN,start_answer
+203,609,24,15,"I did not, no.",a,THE WITNESS,start_question
+204,610,24,16,Did you ever have to appear in any court concerning this accident?,q,MR. KAPLAN,start_answer
+205,612,24,18,No.,a,THE WITNESS,start_chat
+206,613,24,19,That's all I have.,side_chat,MR. KAPLAN,start_chat
+207,614,24,20,You're done.,side_chat,MR. MANARA,symbols
+208,615,24,21,- - -,symbols,,is brackets
+209,616,24,22,"(Whereupon, the deposition concluded at 2:31 p.m.)",brackets,,symbols
+210,618,24,24,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 27, 2019, and that this is a correct transcription of same.",symbols,,end

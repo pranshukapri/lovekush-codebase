@@ -1,0 +1,702 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, The deponent will have 30 days to read and sign.,,,start_chat
+1,104,18,17,Waive the notary.,side_chat,MS. BYRON,start_chat
+2,105,18,18,Waive the notary.,side_chat,MS. BALDWIN,start_question
+3,108,18,21,"Good morning again, sir.",q,MS. BALDWIN,start_answer
+4,109,18,22,Good morning.,a,THE WITNESS,start_question
+5,110,18,23,"We just met off the record.  My name is Carleigh Baldwin, and I represent Claire Mello in the lawsuit that she filed against G. Greene Construction Company, Incorporated.  Could you, please, state your name for the record.",q,MS. BALDWIN,start_answer
+6,116,19,4,Peter DeSisto.,a,THE WITNESS,start_question
+7,117,19,5,Could you spell your last name.,q,MS. BALDWIN,start_answer
+8,118,19,6,D-E capital S-I-S-T-O.,a,THE WITNESS,start_question
+9,119,19,7,Say it one more time.,q,MS. BALDWIN,start_answer
+10,120,19,8,D-E capital S-I-S-T-O.,a,THE WITNESS,start_question
+11,121,19,9,"Got it.  Mr. DeSisto, I am here to take your deposition today.  I'll go over a couple of basic ground rules just for the court reporter's sake. I'll just ask you to let me finish my question before you respond.  And I'll give you the same courtesy, let you finish your answer.  If you don't understand any of my questions, let me know, and I will be happy to repeat or rephrase them.  If you need to take a break at any time, that's fine; but I'll just ask you to answer the last question posed to you before we go off the record.",q,MS. BALDWIN,start_answer
+12,133,19,21,Sure.,a,THE WITNESS,start_question
+13,134,19,22,"Mr. DeSisto, are you currently employed?",q,MS. BALDWIN,start_answer
+14,135,19,23,Yes.,a,THE WITNESS,start_question
+15,136,19,24,Where do you currently work?,q,MS. BALDWIN,start_answer
+16,138,20,1,With G. Greene Construction.,a,THE WITNESS,start_question
+17,139,20,2,What's your job title there?,q,MS. BALDWIN,start_answer
+18,140,20,3,I am the site operations manager.,a,THE WITNESS,start_question
+19,141,20,4,"Help me understand, sir, the structure of G. Greene Construction, who do you report to?",q,MS. BALDWIN,start_answer
+20,143,20,6,"I report directly to Bob Greene, the owner.",a,THE WITNESS,start_question
+21,144,20,7,Anyone else above you before Bob Greene?,q,MS. BALDWIN,start_answer
+22,145,20,8,No.,a,THE WITNESS,start_question
+23,146,20,9,Do you have lateral --,q,MS. BALDWIN,start_answer
+24,147,20,10,-- yes.,a,THE WITNESS,start_question
+25,148,20,11,-- managers?,q,MS. BALDWIN,start_answer
+26,149,20,12,Yes.,a,THE WITNESS,start_question
+27,150,20,13,Who are those?,q,MS. BALDWIN,start_answer
+28,151,20,14,"Kevin Krauss, Richard Shearns.",a,THE WITNESS,start_question
+29,152,20,15,"Richard, I'm sorry, who?",q,MS. BALDWIN,start_answer
+30,153,20,16,"Shearns.  And Biagio DiTullio, B-I-A-G-I-O, D-I-T-U-L-L-I-O.",a,THE WITNESS,start_question
+31,155,20,18,And what is Kevin Krauss's position?,q,MS. BALDWIN,start_answer
+32,156,20,19,"He is vice president of big operations, I think, is his official title.",a,THE WITNESS,start_question
+33,158,20,21,"How about Richard Shearns, what's his title?",q,MS. BALDWIN,start_answer
+34,159,20,22,He's the project executive.,a,THE WITNESS,start_question
+35,160,20,23,And Biagio?,q,MS. BALDWIN,start_answer
+36,161,20,24,"Same, project executive.",a,THE WITNESS,start_question
+37,163,21,1,How many employees does G. Greene Construction Company have?,q,MS. BALDWIN,start_answer
+38,165,21,3,"Between 100, 150, I believe.",a,THE WITNESS,start_question
+39,166,21,4,"And I don't need to know every employee that works there, but what sort of positions do those employees fill?",q,MS. BALDWIN,start_answer
+40,169,21,7,"So, there's the office staff, obviously, which is probably 40 to 50.  And then there's probably a hundred plus of field, whether it be laborers, operators, carpenters, superintendents.",a,THE WITNESS,start_question
+41,173,21,11,"How many jobs -- is it just fair for the record if I say Greene, that we're talking about G. Greene Construction?",q,MS. BALDWIN,start_answer
+42,176,21,14,Yes.,a,THE WITNESS,start_question
+43,177,21,15,How many jobs does Greene have at any one time?,q,MS. BALDWIN,start_answer
+44,178,21,16,"I mean, it could range from 10 to, could be up to 30.",a,THE WITNESS,start_question
+45,180,21,18,That's on average?,q,MS. BALDWIN,start_answer
+46,181,21,19,"That's on average, mm-hmm.",a,THE WITNESS,start_chat
+47,182,21,20,"Before we get into it too deep, I want to mark the deposition notice.",side_chat,MS. BALDWIN,is brackets
+48,184,21,22,(Deposition Notice marked as Exhibit 1 for Identification.),brackets,,start_question
+49,186,21,24,"Mr. DeSisto, I'm handing you what has been marked as Exhibit No. 1.  This is the Notice of Deposition that was sent to your attorneys.  I just ask you to turn to the appendix to the Notice of Deposition located on Page 2 of Exhibit No. 1.  And, sir, are you the person with the most knowledge in regards to Topic No. 1 listed on Appendix A?",q,MS. BALDWIN,start_answer
+50,195,22,8,Yes.,a,THE WITNESS,start_question
+51,196,22,9,And are you the person with the most knowledge from preconstruction as to the topics listed under No. 2 of Appendix A?,q,MS. BALDWIN,start_answer
+52,199,22,12,Yes.,a,THE WITNESS,start_question
+53,200,22,13,Are you the person with the most knowledge as to Topic No. 3 on Appendix A?,q,MS. BALDWIN,start_answer
+54,202,22,15,Yes.,a,THE WITNESS,start_question
+55,203,22,16,"Did you bring any documents with you today, sir?",q,MS. BALDWIN,start_answer
+56,204,22,17,"I did not, no.  Oh, I'm sorry, I just brought the deposition notice.",a,THE WITNESS,start_answer
+57,206,22,19,Fair enough.,a,THE WITNESS,start_question
+58,207,22,20,"In your role as site operations manager, what are your job responsibilities?",q,MS. BALDWIN,start_answer
+59,209,22,22,"So, G. Greene has two separate divisions or site and civil operations and a building component, and I run the site and civil operations.",a,THE WITNESS,start_question
+60,213,23,1,"What does that mean, site and civil operations?",q,MS. BALDWIN,start_answer
+61,214,23,2,"Civil construction site work, utility construction is what our main work is.",a,THE WITNESS,start_question
+62,216,23,4,And you said there's another building component's department?,q,MS. BALDWIN,start_answer
+63,218,23,6,Yes.  There's a separate -- there's a separate division that just does building work.,a,THE WITNESS,start_question
+64,220,23,8,And that literally means the interior of the building?,q,MS. BALDWIN,start_answer
+65,222,23,10,"Interiors of buildings, mm-hmm.",a,THE WITNESS,start_question
+66,223,23,11,"And so, you oversee the site and civil division?",q,MS. BALDWIN,start_answer
+67,224,23,12,Yes.,a,THE WITNESS,start_question
+68,225,23,13,What are your responsibilities within that division?,q,MS. BALDWIN,start_answer
+69,227,23,15,"So, basically, I run the operations, review estimates, delegate different projects for different project managers, and, you know, just set up crews and delegate the work.",a,THE WITNESS,start_question
+70,231,23,19,"So, a job comes into the office, how does it -- how is it assigned?",q,MS. BALDWIN,start_chat
+71,233,23,21,Objection.  You can answer.,side_chat,MS. BYRON,start_answer
+72,234,23,22,"So, we would -- if it was a bid job, our Estimating Department would get it.  They would bid it.  If we were fortunate enough to get it, we would get a contract, and we just go do it.",a,THE WITNESS,start_question
+73,239,24,2,Take me through what it means to go through it.,q,MS. BALDWIN,start_answer
+74,240,24,3,Go through?,a,THE WITNESS,start_question
+75,241,24,4,Go through with it.,q,MS. BALDWIN,start_answer
+76,242,24,5,"We would buy materials and procure subs and then set up whatever crews are going to go do the work itself, set up a project manager who is going to run the job itself, and then we mobilize crews and equipment to go do the work.",a,THE WITNESS,start_question
+77,247,24,10,"Turning to the project, kind of, at issue in this case, a sidewalk in the 1500 area of Hyde Park Avenue, is that fair?",q,MS. BALDWIN,start_answer
+78,250,24,13,Yes.,a,THE WITNESS,start_question
+79,251,24,14,Was that a bid job?,q,MS. BALDWIN,start_answer
+80,252,24,15,"It was not, no.",a,THE WITNESS,start_question
+81,253,24,16,Did Greene Construction have a contract with anyone to prepare the sidewalk in that area?,q,MS. BALDWIN,start_answer
+82,255,24,18,No.,a,THE WITNESS,start_question
+83,256,24,19,How did Greene Construction come to undertake the work at issue in this case?,q,MS. BALDWIN,start_answer
+84,258,24,21,"So, the sidewalk as it sat in the existing sidewalk was in disrepair.  The city didn't -- wasn't on their agenda to get fixed or -- so, we -- the city allowed us to repair the sidewalk.",a,THE WITNESS,start_question
+85,263,25,1,Did the city pay for that work to be done?,q,MS. BALDWIN,start_chat
+86,264,25,2,Objection.,side_chat,MS. BYRON,start_answer
+87,265,25,3,They did not.,a,THE WITNESS,start_question
+88,266,25,4,"And this sidewalk abuts a property -- strike that.  Greene Construction, do they own any properties?",q,MS. BALDWIN,start_answer
+89,269,25,7,I don't believe so.,a,THE WITNESS,start_question
+90,270,25,8,Where is the office located?,q,MS. BALDWIN,start_answer
+91,271,25,9,Our main office is in Allston.,a,THE WITNESS,start_question
+92,272,25,10,Do you know the street address?,q,MS. BALDWIN,start_answer
+93,273,25,11,240 Lincoln Street.,a,THE WITNESS,start_question
+94,274,25,12,Does Greene Construction utilize any other properties for the running of this business?,q,MS. BALDWIN,start_answer
+95,276,25,14,"Other than the Hyde Park Ave. address, no.",a,THE WITNESS,start_question
+96,277,25,15,"So, the Hyde Park address -- excuse me, the Hyde Park Ave. address, what is that space utilized for?",q,MS. BALDWIN,start_answer
+97,280,25,18,"Just for equipment, storage, materials.",a,THE WITNESS,start_question
+98,281,25,19,Is there an address for that storage facility?,q,MS. BALDWIN,start_answer
+99,282,25,20,I believe it's 1591 to 1605 Hyde Park Ave.,a,THE WITNESS,start_question
+100,283,25,21,"What sort of equipment is stored at that facility, that lot rather?",q,MS. BALDWIN,start_answer
+101,285,25,23,"There's heavy excavators, loaders, skid steers, all construction equipment that we might utilize.",a,THE WITNESS,start_question
+102,288,26,1,Is Greene Construction's equipment housed anywhere else except that Hyde Park address?,q,MS. BALDWIN,start_answer
+103,290,26,3,Not anymore.,a,THE WITNESS,start_question
+104,291,26,4,Was there a time when it was stored somewhere else?,q,MS. BALDWIN,start_answer
+105,293,26,6,It was stored at the 240 Lincoln Street address.,a,THE WITNESS,start_question
+106,294,26,7,When did you first start utilizing the Hyde Park address for storage of construction equipment?,q,MS. BALDWIN,start_answer
+107,296,26,9,I don't know what the exact date is.,a,THE WITNESS,start_question
+108,297,26,10,How long has Greene Construction been around?,q,MS. BALDWIN,start_chat
+109,298,26,11,Been around?,side_chat,MS. BYRON,start_chat
+110,299,26,12,"Been around, yeah.",side_chat,MS. BALDWIN,start_answer
+111,300,26,13,I believe 53 years or 54 years.  I know we just had our 50th anniversary.,a,THE WITNESS,start_question
+112,302,26,15,How long have you been with the company?,q,MS. BALDWIN,start_answer
+113,303,26,16,A little over 10.,a,THE WITNESS,start_question
+114,304,26,17,Have you always been a site operations manager?,q,MS. BALDWIN,start_answer
+115,305,26,18,"No, I worked my way through the ranks.  I started as a superintendent and worked as a project manager for a while.",a,THE WITNESS,start_question
+116,308,26,21,What did you do before you were working for Greene Construction?,q,MS. BALDWIN,start_answer
+117,310,26,23,I worked for a contractor.,a,THE WITNESS,start_question
+118,311,26,24,What contractor was that?,q,MS. BALDWIN,start_answer
+119,313,27,1,"Steven Ando Paull Contracting out of West Bridgewater, Mass.",a,THE WITNESS,start_question
+120,315,27,3,How long did you work for them?,q,MS. BALDWIN,start_answer
+121,316,27,4,5 years.,a,THE WITNESS,start_question
+122,317,27,5,What was your position there?,q,MS. BALDWIN,start_answer
+123,318,27,6,It was project manager.,a,THE WITNESS,start_question
+124,319,27,7,"Just very briefly, take me through your educational background.",q,MS. BALDWIN,start_answer
+125,321,27,9,"Graduated high school, went to Wentworth Institute, graduated 4 years with a Civil Engineering Degree.",a,THE WITNESS,start_question
+126,324,27,12,Any other education or training that you've received?,q,MS. BALDWIN,start_answer
+127,326,27,14,No.,a,THE WITNESS,start_question
+128,327,27,15,Any licenses or certificates that you hold?,q,MS. BALDWIN,start_answer
+129,328,27,16,"No, other than safety, OSHA 40 licenses, first aid and whatnot.",a,THE WITNESS,start_question
+130,330,27,18,"You mentioned OSHA, what's the OSHA certification that you have?",q,MS. BALDWIN,start_answer
+131,332,27,20,It's a 40-hour -- it's a 40-hour safety course is what it is.,a,THE WITNESS,start_question
+132,334,27,22,When did you first obtain that?,q,MS. BALDWIN,start_answer
+133,335,27,23,"Honestly, I don't know.  It's been a while.",a,THE WITNESS,start_question
+134,336,27,24,Do you have to recertify?,q,MS. BALDWIN,start_answer
+135,338,28,1,No.,a,THE WITNESS,start_question
+136,339,28,2,That was just a one time thing that you did?,q,MS. BALDWIN,start_answer
+137,340,28,3,Mm-hmm.,a,THE WITNESS,start_question
+138,341,28,4,Was it more than 5 years ago?,q,MS. BALDWIN,start_answer
+139,342,28,5,Yes.,a,THE WITNESS,start_question
+140,343,28,6,More than 10 years ago?,q,MS. BALDWIN,start_answer
+141,344,28,7,Probably.,a,THE WITNESS,start_question
+142,345,28,8,Have you taken any OSHA training courses since you first took that 40-hour certification?,q,MS. BALDWIN,start_answer
+143,347,28,10,There's a Haz -- what they call a Haz -- they call it Hazwoper.  It's a 10-hour hazardous material.,a,THE WITNESS,start_question
+144,350,28,13,"Turning back to the property over at 1591 Hyde Park Ave., who was the project manager or project superintendent for that project?",q,MS. BALDWIN,start_answer
+145,353,28,16,I was actually.,a,THE WITNESS,start_question
+146,354,28,17,"Were you both?  I'm sorry, that was a bad question.",q,MS. BALDWIN,start_answer
+147,356,28,19,"Yeah, I guess I was both.",a,THE WITNESS,start_question
+148,357,28,20,Who else was working on that job?,q,MS. BALDWIN,start_answer
+149,358,28,21,"We had foremen, a couple of different foremen and laborers.",a,THE WITNESS,start_question
+150,360,28,23,Did Greene Construction keep records of who was working on that job site while it was under construction?,q,MS. BALDWIN,start_answer
+151,364,29,2,"Other than payroll, I don't think so.",a,THE WITNESS,start_question
+152,365,29,3,Would the payroll records indicate what job an employee was assigned to?,q,MS. BALDWIN,start_answer
+153,367,29,5,I believe so.,a,THE WITNESS,start_question
+154,368,29,6,"So, if I was a laborer and I was working on the Hyde Park Ave. construction of the sidewalk, the payroll records would indicate that I was assigned for X number of days to that job?",q,MS. BALDWIN,start_answer
+155,372,29,10,"Possibly, yes.",a,THE WITNESS,start_question
+156,373,29,11,Do you have a specific recollection of any of the foremen or laborers that were working on that project?,q,MS. BALDWIN,start_answer
+157,376,29,14,I don't.  It was -- it could have been a number of different people at that point.,a,THE WITNESS,start_question
+158,378,29,16,"So, what are the job responsibilities of a site superintendent?",q,MS. BALDWIN,start_answer
+159,380,29,18,It would be to perform the work and just get the work done.,a,THE WITNESS,start_question
+160,382,29,20,Okay.  Are they responsible for supervising any employees?,q,MS. BALDWIN,start_answer
+161,384,29,22,Yes.,a,THE WITNESS,start_question
+162,385,29,23,Who are they supervising?,q,MS. BALDWIN,start_answer
+163,386,29,24,"Foremen, laborers and operators.",a,THE WITNESS,start_question
+164,388,30,1,And what are the job responsibilities for the foremen?,q,MS. BALDWIN,start_answer
+165,390,30,3,Foremen would actually perform the work with a laborer and an operator.,a,THE WITNESS,start_question
+166,392,30,5,Do they have any supervisory role?,q,MS. BALDWIN,start_answer
+167,393,30,6,"Other than leading the crew, no.",a,THE WITNESS,start_question
+168,394,30,7,"And then, what are the job responsibilities of the laborers and operators?",q,MS. BALDWIN,start_answer
+169,396,30,9,They would work under a foreman as directed.,a,THE WITNESS,start_question
+170,397,30,10,When did the sidewalk project -- is it fair if we call it the sidewalk project?,q,MS. BALDWIN,start_answer
+171,399,30,12,Sure.,a,THE WITNESS,start_question
+172,400,30,13,When did the sidewalk project begin?,q,MS. BALDWIN,start_answer
+173,401,30,14,"I want to say it was Spring of 2018, I think, or '17.  I don't know.  I'm not sure, to be honest with you.  The years run into each other.  Sorry.",a,THE WITNESS,start_question
+174,404,30,17,That's all right.  Was construction happening on that project every day?,q,MS. BALDWIN,start_answer
+175,406,30,19,No.,a,THE WITNESS,start_question
+176,407,30,20,When did the project complete?,q,MS. BALDWIN,start_answer
+177,408,30,21,It would have been June of the same year.,a,THE WITNESS,start_question
+178,409,30,22,"Could you take me through what exactly, what the work was that was going to be done?",q,MS. BALDWIN,start_answer
+179,411,30,24,"The existing sidewalk was removed.  We installed granite curbing, installed gravel behind the curb and then poured concrete sidewalks.",a,THE WITNESS,start_question
+180,415,31,3,"Going back for just a moment.  The project manager, what are the job responsibilities of a project manager?",q,MS. BALDWIN,start_answer
+181,418,31,6,He would procure materials and/or subcontractors if they were needed on the job.,a,THE WITNESS,start_question
+182,420,31,8,Were any subcontractors utilized --,q,MS. BALDWIN,start_answer
+183,421,31,9,-- no.,a,THE WITNESS,start_question
+184,422,31,10,-- in the sidewalk project at issue in this case?,q,MS. BALDWIN,start_answer
+185,423,31,11,No.,a,THE WITNESS,start_question
+186,424,31,12,"Do you have any records of the progress of the work that was being done on the sidewalk, what days, what work was completed?",q,MS. BALDWIN,start_answer
+187,427,31,15,"I believe we do have some photos, yeah.",a,THE WITNESS,start_question
+188,428,31,16,"So, the first thing to be done was to remove the existing sidewalk, correct?",q,MS. BALDWIN,start_answer
+189,430,31,18,Mm-hmm.,a,THE WITNESS,start_question
+190,431,31,19,Is that a yes?,q,MS. BALDWIN,start_answer
+191,432,31,20,"Yes, I'm sorry.",a,THE WITNESS,start_question
+192,433,31,21,What kind of sidewalk existed prior to the removal?,q,MS. BALDWIN,start_answer
+193,435,31,23,It was all asphalt.,a,THE WITNESS,start_question
+194,436,31,24,How long did it take to remove all of the asphalt?,q,MS. BALDWIN,start_answer
+195,439,32,2,Probably a couple of days.,a,THE WITNESS,start_question
+196,440,32,3,And then the granite curbs were installed?,q,MS. BALDWIN,start_answer
+197,441,32,4,Yes.,a,THE WITNESS,start_question
+198,442,32,5,Did you procure the granite curbs?,q,MS. BALDWIN,start_answer
+199,443,32,6,We did.,a,THE WITNESS,start_question
+200,444,32,7,Did you personally procure --,q,MS. BALDWIN,start_answer
+201,445,32,8,-- I did.,a,THE WITNESS,start_question
+202,446,32,9,-- the granite curbs?,q,MS. BALDWIN,start_answer
+203,447,32,10,"I did, yes.",a,THE WITNESS,start_chat
+204,448,32,11,Wait until she finishes.  It will make it easier for the court reporter.,side_chat,MS. BYRON,start_question
+205,450,32,13,"And as I said before, the unh-unh, all your answers have to be verbal today.",q,MS. BALDWIN,start_answer
+206,452,32,15,Yeah.,a,THE WITNESS,start_chat
+207,453,32,16,Everybody does that all the time.,side_chat,MS. BYRON,start_question
+208,455,32,18,How long did the installation of the granite curbs take?,q,MS. BALDWIN,start_answer
+209,457,32,20,"Offhand, I don't know the exact days; but my best recollection, probably a couple or three days.",a,THE WITNESS,start_question
+210,459,32,22,"How many employees of Greene Construction did you have working on this project on average, including laborers and operators?",q,MS. BALDWIN,start_answer
+211,463,33,1,"Again, I can't be certain, but I would -- to the best of my recollection, be three.  Three or four.",a,THE WITNESS,start_question
+212,466,33,4,Who decides how many employees are required for a job?,q,MS. BALDWIN,start_answer
+213,468,33,6,I would.,a,THE WITNESS,start_question
+214,469,33,7,"Knowing what this job entails, how many employees would you request for this?",q,MS. BALDWIN,start_answer
+215,471,33,9,Three to four.,a,THE WITNESS,start_question
+216,472,33,10,And you don't recall who those three to four individuals were?,q,MS. BALDWIN,start_answer
+217,474,33,12,It changed quite often.,a,THE WITNESS,start_question
+218,475,33,13,Would you get a new crew every day?,q,MS. BALDWIN,start_answer
+219,476,33,14,"No, it wouldn't be every day.",a,THE WITNESS,start_question
+220,477,33,15,How often would the crews change?,q,MS. BALDWIN,start_answer
+221,478,33,16,"Maybe weekly, depending on our other, whatever work we have going on.",a,THE WITNESS,start_question
+222,480,33,18,"Does Greene Construction utilize a punch card system, some sort of a time clock?",q,MS. BALDWIN,start_chat
+223,482,33,20,Objection as to form.,side_chat,MS. BYRON,start_answer
+224,483,33,21,"No, they don't, no.",a,THE WITNESS,start_question
+225,484,33,22,How are your employees paid?,q,MS. BALDWIN,start_answer
+226,485,33,23,Weekly.,a,THE WITNESS,start_question
+227,486,33,24,How do you know what hours they worked or what jobs they worked on?,q,MS. BALDWIN,start_answer
+228,489,34,2,"So, we have -- right now, I'm not sure when it went -- we actually instituted it, but right now, we have it electronically.",a,THE WITNESS,start_question
+229,492,34,5,"So, did they have to clock in somewhere?",q,MS. BALDWIN,start_answer
+230,493,34,6,We don't clock in.  The foreman or superintendent would put their hours in at the end of the week.,a,THE WITNESS,start_question
+231,495,34,8,"So, is the foreman or the project manager keeping track of the hours of the employees that are working on a specific site?",q,MS. BALDWIN,start_answer
+232,498,34,11,"Yes.  I'm sorry, yes.",a,THE WITNESS,start_question
+233,499,34,12,Is there some sort of a form that he has to turn in or --,q,MS. BALDWIN,start_answer
+234,501,34,14,"We previously used just an Excel file that they would fill out, do their hours for the week. Like I said, now it's electronic.",a,THE WITNESS,start_question
+235,504,34,17,Okay.,q,MS. BALDWIN,start_answer
+236,505,34,18,But they just fill in their daily hours that they work.,a,THE WITNESS,start_question
+237,507,34,20,"So, if I'm a laborer and I go work eight hours on a project, it's just going to reflect that I worked eight hours?",q,MS. BALDWIN,start_answer
+238,510,34,23,Correct.,a,THE WITNESS,start_question
+239,511,34,24,Are there any records kept anywhere what employees are assigned to what jobs?,q,MS. BALDWIN,start_answer
+240,514,35,2,"I would believe so, yes.",a,THE WITNESS,start_question
+241,515,35,3,"So, if you were to go back to Greene Construction, where would you look for that information?",q,MS. BALDWIN,start_answer
+242,518,35,6,"I would have to talk to the payroll manager or department, whatever.",a,THE WITNESS,start_question
+243,520,35,8,"Sure.  And just to be clear, I'm asking if you were to go back and look to see what employees were assigned to the sidewalk project at Hyde Park Avenue, is that information that you could find?",q,MS. BALDWIN,start_answer
+244,525,35,13,I would say yes.,a,THE WITNESS,start_question
+245,526,35,14,Who's responsible for hiring new employees?,q,MS. BALDWIN,start_chat
+246,527,35,15,Objection.,side_chat,MS. BYRON,start_answer
+247,528,35,16,"For the site and civil division, I would.",a,THE WITNESS,start_question
+248,529,35,17,"And when you hire a new employee, be it a laborer or an operator, one of the crew, do they go through any specific training?",q,MS. BALDWIN,start_answer
+249,532,35,20,"Other than making sure they have at least an OSHA-10 training.  If they do not, we provide it. Other than that, no.",a,THE WITNESS,start_question
+250,535,35,23,Does Greene Construction have an employee handbook?,q,MS. BALDWIN,start_answer
+251,538,36,1,Yes.,a,THE WITNESS,start_question
+252,539,36,2,What's contained in that employee handbook?,q,MS. BALDWIN,start_chat
+253,540,36,3,Objection.,side_chat,MS. BYRON,start_answer
+254,541,36,4,I guess it would be anything the employees -- anything the employees need to know about their company.,a,THE WITNESS,start_question
+255,544,36,7,"I'm sorry, I don't have a copy, so I'm just trying to figure out what it contains, if you know.",q,MS. BALDWIN,start_answer
+256,547,36,10,"Honestly, I can't tell you.  It's been so long since I read it.  I can't remember exactly what's in it specifically.",a,THE WITNESS,start_question
+257,550,36,13,Are there any policies and procedures of Greene Construction contained in the employee handbook?,q,MS. BALDWIN,start_answer
+258,552,36,15,"I would imagine so, yes.",a,THE WITNESS,start_question
+259,553,36,16,"When new employees are hired, you mentioned something about an OSHA-10 training?",q,MS. BALDWIN,start_answer
+260,555,36,18,Yes.,a,THE WITNESS,start_question
+261,556,36,19,What is that?,q,MS. BALDWIN,start_answer
+262,557,36,20,"That's similar to the OSHA 40, only it's 10 hours.",a,THE WITNESS,start_question
+263,559,36,22,What kind of things are covered in an OSHA-10 training?,q,MS. BALDWIN,start_answer
+264,561,36,24,"It's very general.  It would be proper PPE, hard hats, safety glasses, gloves, things like that.",a,THE WITNESS,start_question
+265,564,37,2,What does PPE stand for?,q,MS. BALDWIN,start_answer
+266,565,37,3,I knew you were going to ask me that.  Personal protective equipment.,a,THE WITNESS,start_question
+267,567,37,5,Is there anything covered in that OSHA-10 training about job site safety?,q,MS. BALDWIN,start_answer
+268,569,37,7,"I do not believe so, but I'm not a hundred percent sure.",a,THE WITNESS,start_question
+269,571,37,9,Does Greene Construction provide any training about job site safety?,q,MS. BALDWIN,start_answer
+270,573,37,11,"Well, we have policies.",a,THE WITNESS,start_question
+271,574,37,12,What are Greene's policies regarding job site safety?,q,MS. BALDWIN,start_chat
+272,576,37,14,Objection.,side_chat,MS. BYRON,start_answer
+273,577,37,15,"I mean, there's a number of different safety protocols, whether it be trenching, even as far as driving.  I mean, there's different --",a,THE WITNESS,start_question
+274,580,37,18,Are those procedures contained in one document that's provided to employees?,q,MS. BALDWIN,start_answer
+275,582,37,20,I believe so.  Yes.,a,THE WITNESS,start_question
+276,583,37,21,What's the title of that document?,q,MS. BALDWIN,start_answer
+277,584,37,22,"I believe it's in the -- honestly, I don't recall what it's -- we have a safety manual, yes.  So, probably be the safety manual, I would assume.",a,THE WITNESS,start_question
+278,588,38,1,"And I know you don't have it in front of you, but what sort of things are covered in the safety manual?",q,MS. BALDWIN,start_chat
+279,591,38,4,Objection.  Do you know?,side_chat,MS. BYRON,start_answer
+280,592,38,5,"It runs a gamut from, again, excavation to anything with building, people would have also, as far as scaffolding, tying off if you're up so many feet in the air.  It's a complete manual.",a,THE WITNESS,start_question
+281,596,38,9,Does the manual cover sidewalk repairs?,q,MS. BALDWIN,start_answer
+282,597,38,10,I'm not sure if it's specific on that.,a,THE WITNESS,start_question
+283,598,38,11,Does it cover sidewalk closures?,q,MS. BALDWIN,start_answer
+284,599,38,12,I'm not sure if it's specific on that.,a,THE WITNESS,start_question
+285,600,38,13,When was the last time you looked at the safety manual?,q,MS. BALDWIN,start_chat
+286,602,38,15,Objection.,side_chat,MS. BYRON,start_answer
+287,603,38,16,Could be 6 months.,a,THE WITNESS,start_question
+288,604,38,17,Who's responsible for safety on the job site?,q,MS. BALDWIN,start_chat
+289,605,38,18,Objection.,side_chat,MS. BYRON,start_answer
+290,606,38,19,Day-to-day safety?,a,THE WITNESS,start_question
+291,607,38,20,Yes.,q,MS. BALDWIN,start_answer
+292,608,38,21,"So, it's the superintendent or the foreman.",a,THE WITNESS,start_question
+293,609,38,22,"So, on the Hyde Park Ave. Sidewalk Project, who is responsible for safety on that job site?",q,MS. BALDWIN,start_answer
+294,611,38,24,Would be the foreman that was working there at the time.,a,THE WITNESS,start_question
+295,614,39,2,And you don't recall who the foreman was for this Hyde Park Sidewalk Project?,q,MS. BALDWIN,start_answer
+296,616,39,4,"Not off the top of my head, no.",a,THE WITNESS,start_question
+297,617,39,5,What sort of safety precautions were put into place during construction on the Hyde Park Sidewalk Project?,q,MS. BALDWIN,start_chat
+298,620,39,8,Objection.  Go ahead.,side_chat,MS. BYRON,start_answer
+299,621,39,9,"So, day-to-day, we had signage up.  While we were working, we would detour pedestrian traffic across the sidewalk to the other side of the street, detour pedestrian traffic to the other side.  We had barrels, cones.",a,THE WITNESS,start_question
+300,626,39,14,"So, while you were working, you said you would detour pedestrian traffic across the street?",q,MS. BALDWIN,start_answer
+301,628,39,16,Mm-hmm.,a,THE WITNESS,start_question
+302,629,39,17,How would you do that?,q,MS. BALDWIN,start_answer
+303,630,39,18,"Again, signage at either end of the project and then barricades, barrels.",a,THE WITNESS,start_question
+304,632,39,20,And who was responsible for ensuring that the signage and the barrels and the other items you discussed were in place?,q,MS. BALDWIN,start_answer
+305,635,39,23,"It would have been the -- day-to-day, it would have been the foreman who was there.",a,THE WITNESS,start_question
+306,638,40,1,Is anyone checking to make sure that it's done properly?,q,MS. BALDWIN,start_chat
+307,640,40,3,Objection.,side_chat,MS. BYRON,start_answer
+308,641,40,4,"Yeah, I mean there were different, you know, whether it's our safety officer or even myself that might be out there at one point or another. It wasn't specifically a regimented check, I guess.",a,THE WITNESS,start_question
+309,646,40,9,What's a safety officer?,q,MS. BALDWIN,start_answer
+310,647,40,10,He's in charge of the safety for the company.,a,THE WITNESS,start_question
+311,648,40,11,Who is that?,q,MS. BALDWIN,start_answer
+312,649,40,12,His name is John Downy.,a,THE WITNESS,start_question
+313,650,40,13,What are John's responsibilities as the safety officer --,q,MS. BALDWIN,start_chat
+314,652,40,15,-- objection.,side_chat,MS. BYRON,start_question
+315,653,40,16,-- if you know?,q,MS. BALDWIN,start_chat
+316,654,40,17,Objection.,side_chat,MS. BYRON,start_answer
+317,655,40,18,"All I know is, he's in charge of safety for the company, yes.",a,THE WITNESS,start_question
+318,657,40,20,Was John Downy the safety officer in May of 2017?,q,MS. BALDWIN,start_answer
+319,658,40,21,I believe he was.,a,THE WITNESS,start_question
+320,659,40,22,Is John still employed with the company?,q,MS. BALDWIN,start_answer
+321,660,40,23,"Yes, he is.",a,THE WITNESS,start_question
+322,661,40,24,"I'm sorry, I should have asked you this earlier; have you ever given a deposition before?",q,MS. BALDWIN,start_answer
+323,664,41,2,I have not.  I'm sure it shows.,a,THE WITNESS,start_question
+324,665,41,3,Have you ever testified in court before?,q,MS. BALDWIN,start_answer
+325,666,41,4,"No, I have not.",a,THE WITNESS,start_question
+326,667,41,5,"Aside from your attorney, did you speak to anyone prior to coming here today regarding your deposition?",q,MS. BALDWIN,start_answer
+327,670,41,8,No.,a,THE WITNESS,start_question
+328,671,41,9,Did you review any documents in anticipation of your deposition here today?,q,MS. BALDWIN,start_answer
+329,673,41,11,No.,a,THE WITNESS,start_question
+330,674,41,12,"And you don't recall when Greene Construction first began utilizing the space on Hyde Park Ave., correct?",q,MS. BALDWIN,start_answer
+331,677,41,15,"The exact date, I'm not sure.",a,THE WITNESS,start_question
+332,678,41,16,Do you know about what time they started leasing that property?,q,MS. BALDWIN,start_answer
+333,680,41,18,Probably would have been around the time that construction -- that we were working on the sidewalk.,a,THE WITNESS,start_question
+334,683,41,21,Did you have to obtain any building permits for the sidewalk project?,q,MS. BALDWIN,start_answer
+335,685,41,23,No building permit was required.  We did get a public works excavation permit.,a,THE WITNESS,start_question
+336,688,42,1,Did you receive written permission from the city to work on the sidewalk?,q,MS. BALDWIN,start_answer
+337,690,42,3,"As part of the permit process, yeah.",a,THE WITNESS,start_question
+338,691,42,4,Did any city inspector come to observe the project at any point before its completion?,q,MS. BALDWIN,start_answer
+339,693,42,6,Not that I'm aware of.,a,THE WITNESS,start_question
+340,694,42,7,Did the project receive any citations for any reason during construction?,q,MS. BALDWIN,start_answer
+341,696,42,9,Not that I'm aware of.,a,THE WITNESS,start_question
+342,697,42,10,I would like to show you some photos.,q,MS. BALDWIN,is brackets
+343,698,42,11,(Photographs marked as Exhibit 2 for Identification.),brackets,,start_question
+344,700,42,13,"Handing you what has been marked as Exhibit 2. It's a package of photographs labeled A through M.  I ask you to take a look at those; and once you're done reviewing them, I have some questions.",q,MS. BALDWIN,start_answer
+345,705,42,18,All set.,a,THE WITNESS,start_question
+346,706,42,19,"Starting with Page A of Exhibit No. 2, do you recognize what's shown in that photograph?",q,MS. BALDWIN,start_answer
+347,708,42,21,I do.,a,THE WITNESS,start_question
+348,709,42,22,Can you tell me what it is?,q,MS. BALDWIN,start_answer
+349,710,42,23,It is one of the entrances to the property.,a,THE WITNESS,start_question
+350,711,42,24,"And to be fair, there's a time date stamp on the bottom of this photograph, do you see that?",q,MS. BALDWIN,start_answer
+351,714,43,2,"Yes, I do.",a,THE WITNESS,start_question
+352,715,43,3,"And that says May 28th, 2017?",q,MS. BALDWIN,start_answer
+353,716,43,4,It does.,a,THE WITNESS,start_question
+354,717,43,5,Does this photograph accurately show the property located at 1591 Hyde Park Ave.?,q,MS. BALDWIN,start_answer
+355,719,43,7,It does.,a,THE WITNESS,start_question
+356,720,43,8,"Looking at Page B of Exhibit No. 2, do you recognize what's shown in that photograph?",q,MS. BALDWIN,start_answer
+357,722,43,10,I do.,a,THE WITNESS,start_question
+358,723,43,11,Can you tell me what it is?,q,MS. BALDWIN,start_answer
+359,724,43,12,It is the same driveway to the property.,a,THE WITNESS,start_question
+360,725,43,13,"Now, in this photograph is a cone and some caution tape on one side of the sidewalk, is that fair?",q,MS. BALDWIN,start_answer
+361,728,43,16,"It is, yes.",a,THE WITNESS,start_question
+362,729,43,17,"And also, I can represent this full pack of photographs is from the same date stamp.  Some of the date stamps are more visible than the others; but is this a fair and accurate representation of how the project, the Hyde Park Sidewalk Project looked on May 28th, 2017?",q,MS. BALDWIN,start_chat
+363,735,43,23,Objection.,side_chat,MS. BYRON,start_answer
+364,736,43,24,I would say so.,a,THE WITNESS,start_question
+365,738,44,1,Is this a safe way to leave a work or job site?,q,MS. BALDWIN,start_chat
+366,739,44,2,Objection.,side_chat,MS. BYRON,start_answer
+367,740,44,3,"We're supposed to leave ramps at the end of where the new concrete stops.  So, if we put gravel in, 'cause it's a temporary ramp, because we're eventually going to be doing that driveway, so that's what we did there.",a,THE WITNESS,start_question
+368,745,44,8,"So, you can see the driveway is still paved with asphalt, is that fair to say?",q,MS. BALDWIN,start_answer
+369,747,44,10,"Yes, it is.",a,THE WITNESS,start_question
+370,748,44,11,"And down at the bottom of the photograph and towards the top of the photograph, there are new sidewalks, is that correct?",q,MS. BALDWIN,start_answer
+371,751,44,14,That's correct.,a,THE WITNESS,start_question
+372,752,44,15,Did Greene Construction install those new sidewalks?,q,MS. BALDWIN,start_answer
+373,754,44,17,We did.,a,THE WITNESS,start_question
+374,755,44,18,"And I believe from your testimony, the plan was to complete the sidewalk across the driveway?",q,MS. BALDWIN,start_answer
+375,757,44,20,"That is correct, yes.",a,THE WITNESS,start_question
+376,758,44,21,"So, is your testimony that gravel was installed in between the new concrete and the paved asphalt?",q,MS. BALDWIN,start_answer
+377,761,44,24,Yes.,a,THE WITNESS,start_question
+378,763,45,1,Is there a reason that a ramp wasn't utilized to cover that gravel that you had installed?,q,MS. BALDWIN,start_chat
+379,765,45,3,Objection.,side_chat,MS. BYRON,start_answer
+380,766,45,4,"Normally, we would -- again, if it's long term, we would put a ramp in.  If it's short term, which this was, we would just put gravel in, which is acceptable.  And as long as it's put in correctly, it creates a ramp, so it doesn't create trip hazards.",a,THE WITNESS,start_question
+381,772,45,10,What does it mean to be put in correctly?,q,MS. BALDWIN,start_chat
+382,773,45,11,Objection.,side_chat,MS. BYRON,start_answer
+383,774,45,12,Install the gravel and compact it.,a,THE WITNESS,start_question
+384,775,45,13,And turn to photo number or letter c of Exhibit No. 2.  Do you recognize what's shown in this photograph?,q,MS. BALDWIN,start_answer
+385,778,45,16,I do.,a,THE WITNESS,start_question
+386,779,45,17,Can you tell me what it is?,q,MS. BALDWIN,start_answer
+387,780,45,18,Same driveway.,a,THE WITNESS,start_question
+388,781,45,19,Is there a reason that there's only a cone and caution tape on one side of the driveway?,q,MS. BALDWIN,start_answer
+389,783,45,21,I can't answer that.  I don't know the answer to that question.,a,THE WITNESS,start_question
+390,785,45,23,Who is in charge of putting the barrel and the caution tape out?,q,MS. BALDWIN,start_answer
+391,788,46,1,It would have been the foreman.,a,THE WITNESS,start_question
+392,789,46,2,Who we don't know?,q,MS. BALDWIN,start_answer
+393,790,46,3,Yup.,a,THE WITNESS,start_question
+394,791,46,4,Where is your office located?,q,MS. BALDWIN,start_answer
+395,792,46,5,Allston.,a,THE WITNESS,start_question
+396,793,46,6,"During the time that this project was under way, how many times did you visit the job site?",q,MS. BALDWIN,start_answer
+397,795,46,8,Possibly once a day.,a,THE WITNESS,start_question
+398,796,46,9,Do you have a specific recollection of being there once a day?,q,MS. BALDWIN,start_answer
+399,798,46,11,"It happens to be on my way home, so I would stop probably towards the end of the day or early morning, depending on which way I was going at the time.",a,THE WITNESS,start_question
+400,802,46,15,"So, you drive down Hyde Park Ave. past this sidewalk on your way home?",q,MS. BALDWIN,start_answer
+401,804,46,17,"Some days.  Like I said, it depended on what I was doing in the afternoon, but yes, or early morning.",a,THE WITNESS,start_question
+402,807,46,20,"Looking at Exhibit No. C, do you take any issue with how this job site was left?",q,MS. BALDWIN,start_chat
+403,809,46,22,Objection.,side_chat,MS. BYRON,start_answer
+404,810,46,23,No.,a,THE WITNESS,start_question
+405,811,46,24,"So, if you were driving home and you observed the job site in this condition, that would be fine?",q,MS. BALDWIN,start_answer
+406,814,47,2,"If the ramps were installed, then yeah.",a,THE WITNESS,start_question
+407,815,47,3,Turning to Page D of Exhibit No. 2.  Do you recognize what's shown in this photograph?,q,MS. BALDWIN,start_answer
+408,817,47,5,"Same driveway, yes.",a,THE WITNESS,start_question
+409,818,47,6,"It's not real clear, so let's continue on.  Do you recognize what's shown in Page No. E of Exhibit 2?",q,MS. BALDWIN,start_answer
+410,821,47,9,I do.,a,THE WITNESS,start_question
+411,822,47,10,Could you tell me what it is?,q,MS. BALDWIN,start_answer
+412,823,47,11,Same driveway.,a,THE WITNESS,start_question
+413,824,47,12,This shows one of the edges of the sidewalk with the gravel starting after the finished sidewalk ends.  Do you see any issues with the way that the gravel was installed in this photograph?,q,MS. BALDWIN,start_chat
+414,828,47,16,Objection.,side_chat,MS. BYRON,start_answer
+415,829,47,17,"The ramp was put in.  It looks like there were a couple of edges, but there was, obviously, gravel put in to create a ramp.",a,THE WITNESS,start_question
+416,832,47,20,Are there any documents or any guidelines as to how these gravel ramps are to be installed?,q,MS. BALDWIN,start_chat
+417,834,47,22,Objection.  Maintained by Greene?,side_chat,MS. BYRON,start_answer
+418,836,47,24,I don't believe so.,a,THE WITNESS,start_chat
+419,838,48,1,Yes.,side_chat,MS. BALDWIN,start_answer
+420,839,48,2,"They're temporary ramps, so no.",a,THE WITNESS,start_question
+421,840,48,3,Who would be the people or persons putting this gravel down and compacting it?,q,MS. BALDWIN,start_answer
+422,842,48,5,It would be whichever crew was there at the time.,a,THE WITNESS,start_question
+423,843,48,6,And would anyone be making sure that the ramp was sufficiently adjacent to the sidewalk?,q,MS. BALDWIN,start_chat
+424,845,48,8,Objection.,side_chat,MS. BYRON,start_answer
+425,846,48,9,It would be the crew that was there that particular day.,a,THE WITNESS,start_question
+426,848,48,11,"All right.  Looking at Page F of Exhibit No. 2, do you recognize what's shown in that photograph?",q,MS. BALDWIN,start_answer
+427,850,48,13,I do.,a,THE WITNESS,start_question
+428,851,48,14,Where does the crew get the gravel from to create a ramp?,q,MS. BALDWIN,start_answer
+429,853,48,16,We purchase it.,a,THE WITNESS,start_question
+430,854,48,17,Does Page F of Exhibit No. 2 show gravel that was purchased in order to create a ramp?,q,MS. BALDWIN,start_answer
+431,856,48,19,I would say yes.,a,THE WITNESS,start_question
+432,857,48,20,Where would you purchase this gravel from?,q,MS. BALDWIN,start_answer
+433,858,48,21,We have a number of different vendors that we buy gravel from.,a,THE WITNESS,start_question
+434,860,48,23,"And the project manager would be in charge of purchasing, correct?",q,MS. BALDWIN,start_answer
+435,863,49,1,"A quantity of that size is pretty much determined by the foreman on the job to send the truck to wherever he might, whichever is convenient at the time, I would think.",a,THE WITNESS,start_question
+436,867,49,5,"Okay.  So, it's your testimony that the ramps between the finished sidewalk and the driveway were filled temporarily with purchased gravel that was procured offsite?",q,MS. BALDWIN,start_chat
+437,871,49,9,Objection to form.  Go ahead.,side_chat,MS. BYRON,start_answer
+438,872,49,10,"That's the best of my recollection, yes.",a,THE WITNESS,start_question
+439,873,49,11,Does that look like purchased gravel?,q,MS. BALDWIN,start_chat
+440,874,49,12,Objection.  Asked and answered.,side_chat,MS. BYRON,start_answer
+441,875,49,13,Yeah.  It's a recycled product.,a,THE WITNESS,start_question
+442,876,49,14,Turning to Page G of Exhibit No. 2.  Do you recognize what is shown in that photograph?,q,MS. BALDWIN,start_answer
+443,878,49,16,I do.,a,THE WITNESS,start_question
+444,879,49,17,And what is shown in that photograph?,q,MS. BALDWIN,start_answer
+445,880,49,18,It's the same sidewalk and same driveway.,a,THE WITNESS,start_question
+446,881,49,19,Do you see any issue with the ramps that we've been discussing in this photograph?,q,MS. BALDWIN,start_chat
+447,883,49,21,Objection.  Asked and answered.,side_chat,MS. BYRON,start_answer
+448,884,49,22,No.,a,THE WITNESS,start_question
+449,885,49,23,"Is it acceptable to leave edges, as you described them earlier --",q,MS. BALDWIN,start_chat
+450,888,50,1,-- objection.,side_chat,MS. BYRON,start_question
+451,889,50,2,-- exposed?,q,MS. BALDWIN,start_answer
+452,890,50,3,No.,a,THE WITNESS,start_question
+453,891,50,4,Would you consider those exposed edges shown in Exhibit No. G a tripping hazard?,q,MS. BALDWIN,start_chat
+454,893,50,6,Objection.,side_chat,MS. BYRON,start_answer
+455,894,50,7,"I wouldn't, but someone else might.",a,THE WITNESS,start_question
+456,895,50,8,"Do you think that the job site as it's been left and depicted in Exhibit 2, Page G is an acceptable way to leave that job site?",q,MS. BALDWIN,start_chat
+457,898,50,11,"Objection.  Again, he answered this.",side_chat,MR. BYRON,start_answer
+458,900,50,13,Yeah.,a,THE WITNESS,start_question
+459,901,50,14,"Turning to Page H.  Page I, do you recognize what's shown in that photograph?",q,MS. BALDWIN,start_answer
+460,903,50,16,I do.,a,THE WITNESS,start_question
+461,904,50,17,What is that?,q,MS. BALDWIN,start_answer
+462,905,50,18,That's the property across the street from the job.,a,THE WITNESS,start_question
+463,907,50,20,Okay.  And Page J?,q,MS. BALDWIN,start_answer
+464,908,50,21,The same.,a,THE WITNESS,start_question
+465,909,50,22,"Page K, do you recognize what's shown in that photograph?",q,MS. BALDWIN,start_answer
+466,911,50,24,I do.,a,THE WITNESS,start_question
+467,913,51,1,Can you tell me what it is?,q,MS. BALDWIN,start_answer
+468,914,51,2,"It is a barrel, safety barrel, drum.",a,THE WITNESS,start_question
+469,915,51,3,"And Greene Construction's logo is on that barrel, correct?",q,MS. BALDWIN,start_answer
+470,917,51,5,It is.,a,THE WITNESS,start_question
+471,918,51,6,Does Greene Construction own all the cones and safety materials that they install on job sites?,q,MS. BALDWIN,start_answer
+472,920,51,8,We own some.  We don't own -- we do rent at times.,a,THE WITNESS,start_question
+473,922,51,10,Okay.  Where are those cones and barrels stored?,q,MS. BALDWIN,start_answer
+474,923,51,11,At our Hyde Park property.,a,THE WITNESS,start_question
+475,924,51,12,"So, all the cones and barrels that Greene does own are stored at that Hyde Park facility?",q,MS. BALDWIN,start_answer
+476,926,51,14,Unless they're being utilized somewhere else.,a,THE WITNESS,start_question
+477,927,51,15,And Page L?,q,MS. BALDWIN,start_answer
+478,928,51,16,Recognize it.,a,THE WITNESS,start_question
+479,929,51,17,Can you tell me what it is?,q,MS. BALDWIN,start_answer
+480,930,51,18,Same property.,a,THE WITNESS,start_question
+481,931,51,19,Okay.,q,MS. BALDWIN,is brackets
+482,932,51,20,(Photographs marked as Exhibit 3 for Identification.),brackets,,start_chat
+483,934,51,22,She found these later. They'll be in our document production.,side_chat,MS. BALDWIN,start_chat
+484,936,51,24,Okay.  Do they have that?,side_chat,MS. BYRON,start_chat
+485,938,52,1,"Yes, they do.",side_chat,MS. BALDWIN,start_chat
+486,939,52,2,"The first page isn't super visible, but the second page has a date stamp of July 1st, 2017.",side_chat,MS. BYRON,start_question
+487,942,52,5,"All right.  I'll just ask you to take a look at Exhibit No. 3 for me and let me know once you've taken a look at those photographs, Mr. DeSisto.",q,MS. BALDWIN,start_answer
+488,945,52,8,Okay.,a,THE WITNESS,start_question
+489,946,52,9,Do you recognize the area that's shown in those photographs?,q,MS. BALDWIN,start_answer
+490,948,52,11,I do.,a,THE WITNESS,start_question
+491,949,52,12,"Can you tell me, what is it?",q,MS. BALDWIN,start_answer
+492,950,52,13,Same driveway.,a,THE WITNESS,start_question
+493,951,52,14,"Is there a reason why there are multiple cones shown in this area, as well as the sidewalk closure sign, where there wasn't in the previous set of photographs that we looked at?",q,MS. BALDWIN,start_answer
+494,955,52,18,"My assumption would be, we had just poured the driveway.",a,THE WITNESS,start_question
+495,957,52,20,"So, fair to say that that driveway was poured around July 1st, 2017?",q,MS. BALDWIN,start_answer
+496,959,52,22,"Would have been poured in June, but yeah.",a,THE WITNESS,start_question
+497,960,52,23,That's fair.  How long would you leave cones like this after you've poured the concrete?,q,MS. BALDWIN,start_answer
+498,963,53,1,"For a driveway, probably five days or so.",a,THE WITNESS,start_question
+499,964,53,2,Do you recall when the gravel ramps were initially installed?,q,MS. BALDWIN,start_answer
+500,966,53,4,"I do not.  Datewise, I do not.",a,THE WITNESS,start_question
+501,967,53,5,"Fair to say, they were in existence around May 28th, 2017?",q,MS. BALDWIN,start_answer
+502,969,53,7,I think it's fair to say that.,a,THE WITNESS,start_question
+503,970,53,8,And is it fair to say that the concrete wasn't poured until about a month later?,q,MS. BALDWIN,start_answer
+504,972,53,10,I think it's fair to say that.,a,THE WITNESS,start_question
+505,973,53,11,Would those gravel ramps still be considered temporary if they were there for over a month?,q,MS. BALDWIN,start_chat
+506,975,53,13,Objection.,side_chat,MS. BYRON,start_answer
+507,976,53,14,Yes.,a,THE WITNESS,start_question
+508,977,53,15,"If they were there for a month, was anyone checking to make sure that they hadn't eroded or washed away?",q,MS. BALDWIN,start_answer
+509,980,53,18,"I would imagine so, yeah.",a,THE WITNESS,start_question
+510,981,53,19,Who would be responsible for checking and maintaining those ramps?,q,MS. BALDWIN,start_answer
+511,983,53,21,"Again, could have been a number of different people, myself or -- depending on if we had a crew there, it would be the crew that was there doing other, whatever other things we were doing at the time.",a,THE WITNESS,start_question
+512,989,54,2,Would there be any records created that the ramps were checked or filled again?,q,MS. BALDWIN,start_answer
+513,991,54,4,No.,a,THE WITNESS,start_question
+514,992,54,5,Would there be a Purchase Agreement for the gravel?,q,MS. BALDWIN,start_chat
+515,994,54,7,Objection.,side_chat,MS. BYRON,start_answer
+516,995,54,8,No.,a,THE WITNESS,start_question
+517,996,54,9,"So, the foreman decides that you need gravel, and he sends a truck to go pick it up.  It's paid for, and there's no receipt of that gravel purchase anywhere?",q,MS. BALDWIN,start_answer
+518,1000,54,13,"I would say there's a receipt for the gravel, yes.",a,THE WITNESS,start_question
+519,1002,54,15,Okay.  And that would be a receipt that's kept in the business records of Greene Construction?,q,MS. BALDWIN,start_answer
+520,1004,54,17,I would imagine so.,a,THE WITNESS,start_question
+521,1005,54,18,Do you have a memory of purchasing the gravel?,q,MS. BALDWIN,start_answer
+522,1006,54,19,I can't say that I do.,a,THE WITNESS,is brackets
+523,1007,54,20,(Sidewalk and Bike Lane Closure Management Plan marked as Exhibit 4 for Identification.),brackets,,start_question
+524,1009,54,22,All set?,q,MS. BALDWIN,start_answer
+525,1010,54,23,Yes.,a,THE WITNESS,start_question
+526,1011,54,24,Do you recognize that document?,q,MS. BALDWIN,start_answer
+527,1013,55,1,I do.,a,THE WITNESS,start_question
+528,1014,55,2,Could you tell me what it is?,q,MS. BALDWIN,start_answer
+529,1015,55,3,It is a Sidewalk and Bike Lane Closure Management Plan.,a,THE WITNESS,start_question
+530,1017,55,5,Do you know who created this document?,q,MS. BALDWIN,start_answer
+531,1018,55,6,"Specifically, I do not.",a,THE WITNESS,start_question
+532,1019,55,7,Is it part of a larger document?,q,MS. BALDWIN,start_answer
+533,1020,55,8,I believe so.,a,THE WITNESS,start_question
+534,1021,55,9,What document is it a larger part?,q,MS. BALDWIN,start_answer
+535,1022,55,10,I believe it's part of our safety manual.,a,THE WITNESS,start_question
+536,1023,55,11,Do you know that it's part of the safety manual?,q,MS. BALDWIN,start_answer
+537,1024,55,12,"I do not, no.  I don't know a hundred percent.",a,THE WITNESS,start_question
+538,1025,55,13,"If you wanted to access this, where would you go for it?",q,MS. BALDWIN,start_answer
+539,1027,55,15,"I would probably start in the safety manual.  If it's not, I would talk to the safety officer.",a,THE WITNESS,start_question
+540,1029,55,17,"In the first sentence, I want to direct your attention to the first sentence here.  It says ""When work requires sidewalk/curb replacement or road work that blocks bike lanes, G. Greene ensures that the correct plans are put into place to move any pedestrian, car or bike traffic past the work zone safely.""  Did I read that correctly?",q,MS. BALDWIN,start_answer
+541,1038,56,1,"Yes, ma'am.",a,THE WITNESS,start_question
+542,1039,56,2,"And the next sentence contains an acronym MUTDC, do you know what that stands for?",q,MS. BALDWIN,start_answer
+543,1041,56,4,Manual of Uniform Traffic Devices.  I'm not sure what the C -- maybe it's code.  I'm not a hundred percent sure.,a,THE WITNESS,start_question
+544,1044,56,7,And are you familiar with those codes?,q,MS. BALDWIN,start_answer
+545,1045,56,8,"I know of them, yes.",a,THE WITNESS,start_question
+546,1046,56,9,"Jumping down to the fourth sentence here that begins ""Any work that involves sidewalk closure will be indicated by signs, a clear and safe path around the work zone or if it's needed, is provided to the nearest crosswalk.""  Did I read that correctly?",q,MS. BALDWIN,start_answer
+547,1052,56,15,You did.,a,THE WITNESS,start_question
+548,1053,56,16,"You mentioned earlier that while construction was ongoing on the Hyde Park Sidewalk Project, pedestrian traffic was diverted across the street, is that right?",q,MS. BALDWIN,start_answer
+549,1057,56,20,Yes.,a,THE WITNESS,start_question
+550,1058,56,21,How was the pedestrian traffic diverted across the street?,q,MS. BALDWIN,start_answer
+551,1060,56,23,"Signs and barrels, I would guess.",a,THE WITNESS,start_question
+552,1061,56,24,I don't want you to guess.,q,MS. BALDWIN,start_answer
+553,1063,57,1,Okay.,a,THE WITNESS,start_question
+554,1064,57,2,Do you know how it was diverted?,q,MS. BALDWIN,start_answer
+555,1065,57,3,"I know we had signs up, and I know we had barrels up; and at various times, we had a police detail, I'm sure, but I don't know that for a fact.",a,THE WITNESS,start_question
+556,1068,57,6,"Would you consider the cone and barrel shown in Exhibit No. 2 -- or excuse me, the barrel and the caution tape shown in Exhibit No. 2 as a sidewalk closure?",q,MS. BALDWIN,start_chat
+557,1072,57,10,Objection.,side_chat,MS. BYRON,start_answer
+558,1073,57,11,No.,a,THE WITNESS,start_question
+559,1074,57,12,Why does the caution tape run across the sidewalk?,q,MS. BALDWIN,start_answer
+560,1076,57,14,I can't answer that.  I don't know.,a,THE WITNESS,start_question
+561,1077,57,15,Do you know what the purpose of putting the cone and the caution tape there was?,q,MS. BALDWIN,start_answer
+562,1079,57,17,I can only speculate.,a,THE WITNESS,start_question
+563,1080,57,18,I don't want you to speculate.  Do you know?,q,MS. BALDWIN,start_answer
+564,1081,57,19,I don't know.,a,THE WITNESS,start_question
+565,1082,57,20,"Jumping down, the fourth line from the top here -- from the bottom, it begins ""Any excavations that are left open will be plated entirely by steel plates, and all edges will have compacted cold patch asphalt to ensure there is no tripping hazards for pedestrians or bikes.""  Would the sidewalk area that we've been discussing that's depicted in Exhibit No. 2 where the gravel was installed be considered an excavation?",q,MS. BALDWIN,start_answer
+566,1092,58,5,"Yes, it's an excavation, yes.",a,THE WITNESS,start_question
+567,1093,58,6,Was there a reason why steel plates weren't utilized here?,q,MS. BALDWIN,start_answer
+568,1095,58,8,Steel plates are utilized mainly for trenching operations.  We don't use steel plates usually for temporary transitions.,a,THE WITNESS,start_question
+569,1098,58,11,"What besides gravel do you use -- strike that whole thing.  What other things besides gravel do you use for temporary transitions, if anything?",q,MS. BALDWIN,start_answer
+570,1101,58,14,"Depending on what was required by a particular owner or who we were working for.  I mean, it could be anything from temporary asphalt to cold patch, which is a cold asphalt.",a,THE WITNESS,start_question
+571,1105,58,18,Okay.  Were any restrictions placed on Greene Construction by the City of Boston as to what could or should be used for a temporary transition from the Hyde Park Sidewalk Project?,q,MS. BALDWIN,start_answer
+572,1109,58,22,I don't believe so.,a,THE WITNESS,start_question
+573,1110,58,23,You had the whole range of options was available to you?,q,MS. BALDWIN,start_answer
+574,1113,59,1,Yes.,a,THE WITNESS,start_question
+575,1114,59,2,But you chose compacted gravel?,q,MS. BALDWIN,start_answer
+576,1115,59,3,Yes.,a,THE WITNESS,start_question
+577,1116,59,4,Why?,q,MS. BALDWIN,start_chat
+578,1117,59,5,Objection.,side_chat,MS. BYRON,start_answer
+579,1118,59,6,"I can't answer that.  I mean, I don't know at this point.",a,THE WITNESS,start_question
+580,1120,59,8,Who chose compacted gravel?,q,MS. BALDWIN,start_answer
+581,1121,59,9,"Specifically, I don't know.",a,THE WITNESS,start_question
+582,1122,59,10,But you were the project superintendent?,q,MS. BALDWIN,start_answer
+583,1123,59,11,Yes.,a,THE WITNESS,start_question
+584,1124,59,12,And the project manager?,q,MS. BALDWIN,start_answer
+585,1125,59,13,Yes.,a,THE WITNESS,start_question
+586,1126,59,14,Who is Thomas Bettle?,q,MS. BALDWIN,start_answer
+587,1127,59,15,He is the -- I believe his official title is CFO.,a,THE WITNESS,is brackets
+588,1128,59,16,(Answers to Interrogatories marked as Exhibit 5 for Identification.),brackets,,start_question
+589,1130,59,18,"Handing you what has been marked as Exhibit No. 5, have you ever seen this document before?",q,MS. BALDWIN,start_answer
+590,1132,59,20,"Not in its entirety, no.",a,THE WITNESS,start_question
+591,1133,59,21,"Turning to the second to last page here, there is a signature that's Thomas Bettle, member of Greene Construction Company, answered these interrogatories, do you see that?",q,MS. BALDWIN,start_chat
+592,1138,60,1,Page 10.,side_chat,MS. BYRON,start_answer
+593,1139,60,2,Yes.,a,THE WITNESS,start_question
+594,1140,60,3,Did you provide Mr. Bettle with any assistance in answering these questions?  You can take your time to look through them.,q,MS. BALDWIN,start_answer
+595,1143,60,6,Yeah.  I honestly do not recall whether he asked me any of these questions or not.,a,THE WITNESS,start_question
+596,1145,60,8,"Okay.  Going back to the -- that's fine, you can set that aside.  If you don't recall, that's okay.  Going back to the gravel ramps for a moment; what's the most expensive option for temporary ramps?",q,MS. BALDWIN,start_chat
+597,1150,60,13,Objection.,side_chat,MS. BYRON,start_answer
+598,1151,60,14,It would depend on the material.  I would assume it would be asphalt.,a,THE WITNESS,start_question
+599,1153,60,16,What's the least expensive option for temporary ramps?,q,MS. BALDWIN,start_chat
+600,1155,60,18,Objection.,side_chat,MS. BYRON,start_answer
+601,1156,60,19,Using nothing.,a,THE WITNESS,start_question
+602,1157,60,20,Say that again?,q,MS. BALDWIN,start_answer
+603,1158,60,21,Using nothing.,a,THE WITNESS,start_question
+604,1159,60,22,"Okay.  If you were going to use something, what would the least expensive option be?",q,MS. BALDWIN,start_chat
+605,1161,60,24,Objection.,side_chat,MS. BYRON,start_answer
+606,1163,61,1,Probably gravel.,a,THE WITNESS,start_question
+607,1164,61,2,"Aside from -- I don't want to know about anything, any discussions you had with your attorneys.  When was the first time you learned about Ms. Mello's fall?",q,MS. BALDWIN,start_chat
+608,1168,61,6,"Again, I know she said it, but make sure that any conversation that we have had, just don't talk about those.",side_chat,MS. BYRON,start_answer
+609,1171,61,9,"I know the company received a notice at one point, I'm just not sure when it was.  I don't know the exact date.",a,THE WITNESS,start_question
+610,1174,61,12,"Were there any discussions -- obviously, again setting aside any conversations that you had with your attorney -- about the circumstances of Ms. Mello's fall?",q,MS. BALDWIN,start_answer
+611,1178,61,16,Internally at the company?,a,THE WITNESS,start_question
+612,1179,61,17,Yes.,q,MS. BALDWIN,start_answer
+613,1180,61,18,"Again, I don't -- I have no recollection, but I'm guessing, yes, we probably discussed it at one point.",a,THE WITNESS,start_question
+614,1183,61,21,Were you a part of those discussions as the project superintendent for that project?,q,MS. BALDWIN,start_answer
+615,1185,61,23,I would imagine so.,a,THE WITNESS,start_question
+616,1186,61,24,And you don't recall the outcome of those conversations?,q,MS. BALDWIN,start_answer
+617,1189,62,2,"Honestly, I do not, no.",a,THE WITNESS,start_question
+618,1190,62,3,Were there any changes that were implemented by Greene Construction after learning of Ms. Mello's fall?,q,MS. BALDWIN,start_chat
+619,1193,62,6,Objection.,side_chat,MS. BYRON,start_answer
+620,1194,62,7,No.,a,THE WITNESS,start_question
+621,1195,62,8,"So, nothing changed in the way the ramps were installed after Ms. Mello's fall?",q,MS. BALDWIN,start_chat
+622,1197,62,10,Objection.,side_chat,MS. BYRON,start_answer
+623,1198,62,11,I don't recall that we did anything differently. I'm not even sure what the date was that we received notice.,a,THE WITNESS,start_question
+624,1201,62,14,"Okay.  Looking at Page B of Exhibit No. 2, do you see that there's a piece of wood in that photograph?",q,MS. BALDWIN,start_answer
+625,1204,62,17,I do.,a,THE WITNESS,start_question
+626,1205,62,18,Do you have any idea where that wood came from?,q,MS. BALDWIN,start_answer
+627,1206,62,19,I do not.,a,THE WITNESS,start_question
+628,1207,62,20,Is there a reason that that wood is there?  Is it somehow structurally part of the ramp?,q,MS. BALDWIN,start_answer
+629,1209,62,22,I don't believe it is.,a,THE WITNESS,start_question
+630,1210,62,23,"And again, you think that this is a perfectly fine way to leave the job construction site?",q,MS. BALDWIN,start_chat
+631,1213,63,1,Objection.  Asked and answered.,side_chat,MS. BYRON,start_answer
+632,1214,63,2,Yes.,a,THE WITNESS,is brackets
+633,1215,63,3,(Photograph marked as Exhibit 6 for Identification.),brackets,,start_question
+634,1217,63,5,Handing you what has been marked as Exhibit No. 6.  Do you recognize what's shown in this photograph?,q,MS. BALDWIN,start_answer
+635,1220,63,8,"I do, yes.",a,THE WITNESS,start_question
+636,1221,63,9,"There is some writing, and this came from Google. So, do you see Hyde Park Ave. as shown down the center of the photograph?",q,MS. BALDWIN,start_answer
+637,1224,63,12,I do.,a,THE WITNESS,start_question
+638,1225,63,13,"There's a small red icon, and that's 1591 Hyde Park Avenue?",q,MS. BALDWIN,start_answer
+639,1227,63,15,"Yes, it is.",a,THE WITNESS,start_question
+640,1228,63,16,"Is this parking lot to the left of the left side of Hyde Park Avenue, is that the Greene Construction Storage facility?",q,MS. BALDWIN,start_answer
+641,1231,63,19,"I believe it is, yup.",a,THE WITNESS,start_question
+642,1232,63,20,"And there's a light gray sidewalk that runs from about an inch above the 1591 marker down to right around where it says J&K Auto Repair, is that about right?",q,MS. BALDWIN,start_answer
+643,1236,63,24,Yes.,a,THE WITNESS,start_question
+644,1238,64,1,Is that the sidewalk that was the subject of the Hyde Park construction project that we've been talking about?,q,MS. BALDWIN,start_answer
+645,1241,64,4,"Yes, it is.",a,THE WITNESS,start_question
+646,1242,64,5,That is my only question for you.  And that's a fair and accurate representation of the aerial view of the sidewalk project?,q,MS. BALDWIN,start_chat
+647,1245,64,8,Objection.  We just don't know when this is from.,side_chat,MS. BYRON,start_chat
+648,1247,64,10,That is from 2019.,side_chat,MS. BALDWIN,start_chat
+649,1248,64,11,Oh.,side_chat,MS. BYRON,start_chat
+650,1249,64,12,Down at the bottom here.,side_chat,MS. BALDWIN,start_chat
+651,1250,64,13,I can't see that.,side_chat,MS. BYRON,start_chat
+652,1251,64,14,It says Map 2019.,side_chat,MS. BALDWIN,start_question
+653,1252,64,15,"And that would have been when the project was completed, several years after, correct?",q,MS. BALDWIN,start_answer
+654,1254,64,17,Yup.,a,THE WITNESS,start_question
+655,1255,64,18,Okay.  Are there any other employees of Greene Construction who are responsible for safety?,q,MS. BALDWIN,start_chat
+656,1257,64,20,Objection.  Other than?,side_chat,MS. BYRON,start_answer
+657,1258,64,21,Other than --,a,THE WITNESS,start_question
+658,1259,64,22,"-- John Downy, the safety officer.",q,MS. BALDWIN,start_answer
+659,1260,64,23,We have a new safety who just recently was hired.,a,THE WITNESS,start_question
+660,1261,64,24,A new safety director?,q,MS. BALDWIN,start_answer
+661,1263,65,1,"Not director.  He's a safety officer, I guess.",a,THE WITNESS,start_question
+662,1264,65,2,How many safety officers does Greene Construction employ?,q,MS. BALDWIN,start_answer
+663,1266,65,4,Two at this point.,a,THE WITNESS,start_question
+664,1267,65,5,"Has it always had two, or is the new --",q,MS. BALDWIN,start_answer
+665,1268,65,6,-- no.,a,THE WITNESS,start_question
+666,1269,65,7,-- officer --,q,MS. BALDWIN,start_answer
+667,1270,65,8,-- sorry.  Sorry about that.,a,THE WITNESS,start_question
+668,1271,65,9,"Has it always had two, or was it just one prior to the hiring of this new employee?",q,MS. BALDWIN,start_answer
+669,1273,65,11,It was just one prior to hiring him.,a,THE WITNESS,start_question
+670,1274,65,12,"Why did Greene decide to employ another safety officer, if you know?",q,MS. BALDWIN,start_answer
+671,1276,65,14,"It's a matter of volume and the amount of work we were doing at the time, we decided to hire another.",a,THE WITNESS,start_question
+672,1279,65,17,"When you said John Downy is the safety officer in charge of safety, can you be any more specific than that?",q,MS. BALDWIN,start_answer
+673,1282,65,20,Not really.  I mean safety officer in charge of safety.,a,THE WITNESS,start_question
+674,1284,65,22,"If employees of Greene Construction do something that is unsafe on the job site, are they disciplined for it?",q,MS. BALDWIN,start_chat
+675,1288,66,1,Objection.  If you know.,side_chat,MS. BYRON,start_answer
+676,1289,66,2,No.,a,THE WITNESS,start_question
+677,1290,66,3,"If employees of Greene Construction leave job sites in an unsafe condition, are they disciplined?",q,MS. BALDWIN,start_chat
+678,1293,66,6,Objection.,side_chat,MS. BYRON,start_answer
+679,1294,66,7,They're spoken to.,a,THE WITNESS,start_question
+680,1295,66,8,By who?,q,MS. BALDWIN,start_answer
+681,1296,66,9,Depends on who is in charge of the project.,a,THE WITNESS,start_question
+682,1297,66,10,Would it be the project superintendent?,q,MS. BALDWIN,start_answer
+683,1298,66,11,Could be.,a,THE WITNESS,start_question
+684,1299,66,12,"So, for the Hyde Park Sidewalk Project, that would have been you?",q,MS. BALDWIN,start_answer
+685,1301,66,14,Yes.,a,THE WITNESS,start_question
+686,1302,66,15,Did you speak to any of the staff of Greene Construction about the way the Hyde Park Sidewalk Project was left at any point during construction?,q,MS. BALDWIN,start_chat
+687,1306,66,19,Objection.  Go ahead.,side_chat,MS. BYRON,start_answer
+688,1307,66,20,I'm sure we spoke.  I don't recall having a specific conversation with anybody regarding --,a,THE WITNESS,start_question
+689,1309,66,22,Would there be a record anywhere of when you speak to an employee about leaving a job site in an unsafe condition?,q,MS. BALDWIN,start_chat
+690,1313,67,1,Objection.  And I don't think he testified that he spoke with somebody about leaving the job site in an unsafe condition.,side_chat,MS. BYRON,start_chat
+691,1316,67,4,I apologize.  I will ask it again a different way.,side_chat,MS. BALDWIN,start_question
+692,1318,67,6,"During your time as site superintendent for the Hyde Park Sidewalk Project, did you ever speak to any of the staff of Greene Construction that was working on that project about leaving the job site in an unsafe condition?",q,MS. BALDWIN,start_answer
+693,1323,67,11,"I have no -- I did not, not specifically on that project.",a,THE WITNESS,start_question
+694,1325,67,13,"Do you keep employee files, personnel files?",q,MS. BALDWIN,start_answer
+695,1326,67,14,"I would guess that -- I don't know specifically, but I would guess that the company has employee files, yes.",a,THE WITNESS,start_question
+696,1329,67,17,"So, if employees were disciplined for any reason, that would be recorded in their personnel file?",q,MS. BALDWIN,start_answer
+697,1331,67,19,Yes.,a,THE WITNESS,start_question
+698,1332,67,20,Those are all the questions I have for you.,q,MS. BALDWIN,start_chat
+699,1333,67,21,I'm not going to ask you any questions.,side_chat,MS. BYRON,is brackets
+700,1335,67,23,"(Whereupon the deposition concluded at 11:20 a.m.) COMMONWEALTH OF MASSACHUSETTS I, Isolde von Handorf-Choquet, a Registered the Commonwealth of Massachusetts, do hereby PETER DeSISTO on behalf of G. GREENE CONSTRUCTION 2019. commencement of his testimony; that the said then transcribed.  To the best of my knowledge, the said deposition. of the said parties, nor interested directly or In witness whereof, I have hereunto set my hand Isolde von Handorf-Choquet My Commission expires: THE FOREGOING CERTIFICATION OF THIS TRANSCRIPT ANY MEANS UNLESS UNDER THE DIRECT CONTROL AND/OR",brackets,,end

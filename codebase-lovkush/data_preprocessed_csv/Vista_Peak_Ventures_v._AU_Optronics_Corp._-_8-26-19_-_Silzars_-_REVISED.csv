@@ -1,0 +1,538 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," by the Certified Court Reporter, testified as follows:",,,symbols
+1,129,5,8,///// EXAMINATION,symbols,,start_question
+2,132,5,11,"Good morning, Dr. Silzars.  My name is Jerry Tice, and I represent the plaintiff in this matter. Thank you for being here this morning. Could you please introduce yourself for the Court?",q,MR. TICE,start_answer
+3,136,5,15,"Dr. Aris Silzars, A-R-I-S S-I-L-Z-A-R-S.",a,THE WITNESS,start_question
+4,137,5,16,Okay.  Do you know why you're here today?,q,MR. TICE,start_answer
+5,138,5,17,My understanding is that you wish to pose some questions regarding a declaration that I provided.,a,THE WITNESS,start_question
+6,140,5,19,Which declaration did you provide?,q,MR. TICE,start_answer
+7,141,5,20,I believe this would be the one with regard to the '327 patent.,a,THE WITNESS,start_question
+8,143,5,22,Okay.  And do you understand that you're testifying under oath today in the same manner that you would be in a courtroom in front of a jury?,q,MR. TICE,start_answer
+9,146,5,25,I do.,a,THE WITNESS,start_question
+10,148,6,1,Is there any reason why you cannot testify truthfully today?,q,MR. TICE,start_answer
+11,150,6,3,No.,a,THE WITNESS,start_question
+12,151,6,4,Is there any reason why your testimony today might be unreliable?,q,MR. TICE,start_answer
+13,153,6,6,No.,a,THE WITNESS,start_question
+14,154,6,7,"I know you've been deposed a few times before, but I would like to go over a few ground rules to refresh your memory, if that's okay.",q,MR. TICE,start_answer
+15,157,6,10,"By the way, it might help-- would you mind moving just a little closer? Your voice is not that loud, and I--",a,THE WITNESS,start_question
+16,160,6,13,Okay.  Sure.,q,MR. TICE,start_answer
+17,161,6,14,"I don't want to lean forward too much, but just one notch down would be really helpful.",a,THE WITNESS,start_question
+18,163,6,16,Not a problem. All right.,q,MR. TICE,start_answer
+19,165,6,18,My apologies.,a,THE WITNESS,start_question
+20,166,6,19,"No, no. All right.  Is this better?",q,MR. TICE,start_answer
+21,168,6,21,"Yes, much better. Thank you.",a,THE WITNESS,start_question
+22,170,6,23,"All right.  While we are talking today, let's try not to talk over each other.  Please let me finish my question before you begin answering, and I'll try to do the same for you. Does that make sense?",q,MR. TICE,start_answer
+23,176,7,3,Yes.,a,THE WITNESS,start_question
+24,177,7,4,"And if you don't understand one of my questions, will you please let me know so I can rephrase the question in a way that you will understand?",q,MR. TICE,start_answer
+25,180,7,7,I will do that.,a,THE WITNESS,start_question
+26,181,7,8,"And do you understand that unless your attorney instructs you not to answer a question, that you must answer the questions?",q,MR. TICE,start_answer
+27,184,7,11,Yes.,a,THE WITNESS,start_question
+28,185,7,12,"And lastly, we'll be having some breaks throughout the day, but if you ever need a break, just let me know, and we can stop. I just ask that if there's a pending question, please answer it before we take a break. Does that make sense?",q,MR. TICE,start_answer
+29,191,7,18,Yes.,a,THE WITNESS,start_question
+30,192,7,19,"And you've been deposed before, correct?",q,MR. TICE,start_answer
+31,193,7,20,That's correct.,a,THE WITNESS,start_question
+32,194,7,21,How many times have you been deposed?,q,MR. TICE,start_answer
+33,195,7,22,Approximately 25 to 30.,a,THE WITNESS,start_question
+34,196,7,23,And were all of your depositions related to patent cases?,q,MR. TICE,start_answer
+35,197,7,24,Almost all.,a,THE WITNESS,start_question
+36,198,7,25,"Besides patent cases, what other depositions have you been in?",q,MR. TICE,start_answer
+37,201,8,2,"I'm sorry, could you repeat?",a,THE WITNESS,start_question
+38,202,8,3,"Outside of patent cases, what other types of cases have you been deposed in?",q,MR. TICE,start_answer
+39,204,8,5,There was one case that I can remember -- it's been quite a few years ago -- that was regarding a person who had left the company and had presumably taken some knowledge or intellectual property with them. It wasn't strictly related to patents.  Some of it might have been proprietary technology.,a,THE WITNESS,start_question
+40,210,8,11,"In the times that you've testified related to patent cases, has that always been as an expert witness?",q,MR. TICE,start_answer
+41,212,8,13,Yes.,a,THE WITNESS,start_question
+42,213,8,14,In your patent cases have you always testified on behalf of the plaintiff or the defendant or a mix of the two?,q,MR. TICE,start_answer
+43,215,8,16,It's been a mix.,a,THE WITNESS,is brackets
+44,216,8,17,(Exhibit No. 1 marked for identification.),brackets,,start_question
+45,218,8,19,(By Mr. Tice)  The court reporter is going to hand you Exhibit No. 1. Do you recognize Exhibit No. 1?,q,MR. TICE,start_answer
+46,221,8,22,I do.,a,THE WITNESS,start_question
+47,222,8,23,What is Exhibit No. 1?,q,MR. TICE,start_answer
+48,223,8,24,"It's a list of my depositions and/or trial testimony, covering approximately a period of five years from today's date.",a,THE WITNESS,start_question
+49,227,9,2,Is Exhibit No. 1 an accurate listing of your depositions and trial testimony that you provided in the past five years?,q,MR. TICE,start_answer
+50,230,9,5,"To the best of my understanding and knowledge, it is.",a,THE WITNESS,start_question
+51,231,9,6,And is Exhibit No. 1 a complete listing of your depositions and trial testimony in the past five years?,q,MR. TICE,start_answer
+52,233,9,8,Yes.,a,THE WITNESS,start_question
+53,234,9,9,Have you ever provided testimony at hearings?,q,MR. TICE,start_answer
+54,235,9,10,What kind of hearings?,a,THE WITNESS,start_question
+55,236,9,11,Have you ever provided testimony at a hearing before the Court?,q,MR. TICE,start_answer
+56,238,9,13,"Like a Markman hearing? I am not sure what you mean by ""hearing."" I have testified in court, so I'm not quite sure what you mean by ""hearing.""",a,THE WITNESS,start_question
+57,242,9,17,Have you testified in a Markman hearing?,q,MR. TICE,start_answer
+58,243,9,18,"One time, yes.",a,THE WITNESS,start_question
+59,244,9,19,Have you testified at a trial?,q,MR. TICE,start_answer
+60,245,9,20,Yes.,a,THE WITNESS,start_question
+61,246,9,21,"I notice Exhibit No. 1 says, ""Through June 2019."" Have you provided any testimony since June 2019?",q,MR. TICE,start_answer
+62,248,9,23,No.,a,THE WITNESS,start_question
+63,249,9,24,Has your testimony ever been struck?,q,MR. TICE,start_answer
+64,250,9,25,"No, actually, let me correct that.",a,THE WITNESS,start_question
+65,252,10,1,Okay.,q,MR. TICE,start_answer
+66,253,10,2,There's one-- I was going to say there's one thing missing. It's on the back side.,a,THE WITNESS,start_question
+67,256,10,5,Okay.,q,MR. TICE,start_answer
+68,257,10,6,"With what's on the back side, then it's up to date.",a,THE WITNESS,start_question
+69,258,10,7,Has any of your testimony been struck by a Court?,q,MR. TICE,start_chat
+70,259,10,8,Objection; form.,side_chat,MR. APREOTESI,start_chat
+71,260,10,9,No.,side_chat,THE WITNESS,start_question
+72,261,10,10,(By Mr. Tice)  Have any of your opinions been struck by a Court?,q,MR. TICE,start_answer
+73,263,10,12,No.,a,THE WITNESS,start_question
+74,264,10,13,"And you provided a report in this case, right?",q,MR. TICE,start_answer
+75,265,10,14,I provided a declaration with regard to the '327.,a,THE WITNESS,is brackets
+76,266,10,15,(Exhibit No. 2 marked for identification.),brackets,,start_question
+77,268,10,17,(By Mr. Tice)  The court reporter is handing you Exhibit No. 2. Is this the declaration that you were referencing?,q,MR. TICE,start_answer
+78,271,10,20,"Yes, it is.",a,THE WITNESS,start_question
+79,272,10,21,And in this declaration you opine that a phrase of the '327 patent is indefinite; is that correct?,q,MR. TICE,start_answer
+80,274,10,23,That's correct.,a,THE WITNESS,start_question
+81,275,10,24,And which phrase is that?,q,MR. TICE,start_answer
+82,276,10,25,"It is, in general, relating to the last portion of the claim, which is claim one of the '327 patent, and it is the phrase in its entirety that says wherein, ""A center of a top of the columnar spacer is shifted from above a widthwise center of the gate line toward above the common line, and the top of the columnar spacer partially overruns from above the gate line toward above the common line when viewed from the above,"" the top being directed to the first substrate.",a,THE WITNESS,start_question
+83,286,11,9,"I know it is a long phrase. Do you agree that we can refer to this long phrase as ""the shifting phrase"" throughout the day?",q,MR. TICE,start_answer
+84,289,11,12,"If you'd like, sure.",a,THE WITNESS,start_question
+85,290,11,13,"And in your declaration do you offer an opinion on any other claim terms or phrases, other than the shifting phrase?",q,MR. TICE,start_answer
+86,293,11,16,"My opinion was only about claim one, and I've reviewed the rest of claim one, so I suppose in that context my opinion is that I understand the rest of claim one, but the part that is indefinite is the critical part of the claim, which is this last phrase.",a,THE WITNESS,start_question
+87,298,11,21,"Okay.  Outside of this shifting phrase, are you offering an opinion that any other terms should be construed by the Court?",q,MR. TICE,start_answer
+88,301,11,24,Within this claim?,a,THE WITNESS,start_question
+89,302,11,25,Within any claim in this case.,q,MR. TICE,start_answer
+90,304,12,1,Of the '327 patent?,a,THE WITNESS,start_question
+91,305,12,2,Okay.,q,MR. TICE,start_answer
+92,306,12,3,"Of the '327 patent, I don't believe so. I think my testimony and observations are with regard to what you're calling the shifting phrase.",a,THE WITNESS,start_question
+93,309,12,6,And in your declaration are you offering any opinions related to any patents other than the '327 patent?,q,MR. TICE,start_answer
+94,311,12,8,"In this declaration, no.",a,THE WITNESS,start_question
+95,312,12,9,"And we've been discussing the '327 patent recently. Is that U.S. Patent No. 7,046,327?",q,MR. TICE,start_answer
+96,314,12,11,"I'm sorry, I didn't hear the first part of your question. You were looking down at your-- could you please repeat?",a,THE WITNESS,start_question
+97,316,12,13,"Sure. I said, ""We've been discussing the '327 patent.  Is that U.S. Patent No. 7,046,327?""",q,MR. TICE,start_answer
+98,319,12,16,"I am sure it is, but I think we need to-- yes, 7,046,327. I think you will appreciate that I haven't memorized all the numbers in all cases.",a,THE WITNESS,start_question
+99,322,12,19,"And when I say ""'327 patent,"" you understand that this is the patent I'm referring to, Patent No. 7,046,327?",q,MR. TICE,start_answer
+100,324,12,21,I do.,a,THE WITNESS,start_question
+101,325,12,22,Does Exhibit No. 2 contain a complete statement of all of the opinions that you're offering?,q,MR. TICE,start_answer
+102,327,12,24,"There may be clarifications that we want to provide to the opinions that are in my declaration, but the conclusion is the same.",a,THE WITNESS,start_question
+103,331,13,2,Does Exhibit No. 2 contain the complete basis and reasons for each of your opinions?,q,MR. TICE,start_answer
+104,333,13,4,"I think there are additional reasons that we may want to discuss during this deposition. I think the essence is what is here, but, as I said, there may be some additional clarification, additional explanation that would give a stronger basis for my conclusion.",a,THE WITNESS,start_question
+105,339,13,10,What additional reasons may you want to discuss today?,q,MR. TICE,start_answer
+106,340,13,11,"As I have reviewed this claim one, this particular phrase, and also reviewed the specification, and then tried to relate what the claim says to the specification-- and the patent particularly calls out that the claims are intended to be broader and that the claims are what is really the inventive feature, not just what's in the embodiments described in the patent. In that context, if I read this claim in its broadest view, then it basically says to me that as written, any columnar spacing that is positioned anywhere other than precisely over the center line of the gate, that one could claim infringement.",a,THE WITNESS,start_question
+107,352,13,23,"So is it your opinion that if there is a columnar spacer that is not placed precisely over the center line of the gate, that that would practice the claim?",q,MR. TICE,start_chat
+108,356,14,1,Objection; form.,side_chat,MR. APREOTESI,start_chat
+109,357,14,2,"I specifically said-- I think you said ""the gate."" It's the gate-- the gate line, because the columnar spacing is not over the gate electrode.  It's over the gate line. So yes, as I read this claim and how it very reasonably could be interpreted, is that any columnar spacing that is in any position, other than precisely over the center point of the-- let's use the term here, ""of the gate line,"" that's in the claim here, if it's not precisely over the center of the gate line, then it would be, one could claim, infringement of this patent.",side_chat,THE WITNESS,start_question
+110,369,14,14,"(By Mr. Tice)  And in your previous response you said, ""One could reasonably interpret the claim in that way."" Is that how you interpret the claim?",q,MR. TICE,start_answer
+111,372,14,17,"Yes, I can interpret the claim to be that broad.",a,THE WITNESS,start_question
+112,373,14,18,"And included in Exhibit No. 2 is your CV, correct?",q,MR. TICE,start_answer
+113,374,14,19,"Yes, I believe so. Let me check. Yes, it is.",a,THE WITNESS,start_question
+114,377,14,22,"If you turn to the last page of your CV, it mentions that you have over 100 publications. Do you see that?",q,MR. TICE,start_answer
+115,380,14,25,Yes.,a,THE WITNESS,start_question
+116,382,15,1,"It says that that list is available upon request, correct?",q,MR. TICE,start_answer
+117,384,15,3,Yes.,a,THE WITNESS,start_question
+118,385,15,4,Have you provided that list in relation to this case?,q,MR. TICE,start_answer
+119,386,15,5,"Not in relation to this case, no.",a,THE WITNESS,start_question
+120,387,15,6,Do you keep an accurate and complete listing of these publications?,q,MR. TICE,start_answer
+121,389,15,8,"It's become more difficult to do that now with putting publications basically online.  It becomes a little bit more questionable exactly what is considered a publication. Most of the listing that I have would be publications that were in technical journals, that were in recognized magazines that one could pick up and read. Over the last few years that's become a little harder to keep track of because for a number of years I have written a monthly column, and for about a period of ten years it appeared in Information Display magazine, which was a publication that was printed. In about the mid '90s, that-- my column went online, and I have not kept track of every one of those, although I do have some listing of what I've published. In today's world, it becomes difficult to say what is a publication. In many cases journals are now just putting things online, and so the traditional concept of what constituted a publication has changed, so I've gone with that trend, but I can't tell you that I've kept an accurate record of everything that I've put out for people to view or read or access.",a,THE WITNESS,start_question
+122,413,16,6,"Okay.  So you may not-- your list may not have all of your publications, depending on how you define ""publication,"" but you do keep a list; is that correct?",q,MR. TICE,start_answer
+123,416,16,9,"I've kept a list of everything that's shown up in print. For example, the columns that I wrote that were printed in Information Display magazine, those I have a listing of. The others I have basically on my computer and a folder that contains all the postings that I put up online.",a,THE WITNESS,start_question
+124,423,16,16,Why do you keep this list?,q,MR. TICE,start_answer
+125,424,16,17,"Well, in the earlier times, when things were printed, it was more appropriate for-- you know, to have a list of publications, especially for people that are in academia. They will generally provide a list of everything they've ever published, everything that they've put on-- somewhere because, to some extent, that affects their status in academia. I have not been in academia, but I've been very involved in the Society for Information Display, international society.  We have academics, we have people from industry, so it's a list-- like I said, I haven't kept it with great diligence over the last few years. I kept it with more diligence earlier in my career.",a,THE WITNESS,start_question
+126,438,17,5,Have you provided this list to anyone in relation to this case?,q,MR. TICE,start_answer
+127,440,17,7,"In regard to this case?  No, I have not been asked to do that and I have not done that.",a,THE WITNESS,start_question
+128,442,17,9,"If your counsel were to ask you, would you be able to provide that list to them?",q,MR. TICE,start_answer
+129,444,17,11,Yes.,a,THE WITNESS,start_question
+130,445,17,12,Are any of the publications in your list related to LCD displays?,q,MR. TICE,start_answer
+131,447,17,14,"In a general sense, sure, yes.",a,THE WITNESS,start_question
+132,448,17,15,Did any of your publications discuss spacers in LCD displays?,q,MR. TICE,start_answer
+133,450,17,17,Not specifically.,a,THE WITNESS,start_question
+134,451,17,18,What is a spacer?,q,MR. TICE,start_chat
+135,452,17,19,Objection; form.,side_chat,MR. APREOTESI,start_chat
+136,453,17,20,"In the context of a liquid crystal display, which I think is what we want to talk about today, the liquid crystal material is placed between two substrates, typically glass, and the spacing between those two substrates has to be maintained very precisely. The liquid crystal molecules basically respond to an electric field, and it's important that the response be the same over the entire area of the display, so whether it's a laptop computer or a cell phone or a television set, this-- to maintain uniformity of the image, we have to have very strict uniformity of the spacing between the top and bottom substrates. For many years the spacing was accomplished with little spheres, so basically-- it is actually correct to say that basically these little spheres were put down like from a salt shaker.  They were randomly placed. So the little spheres would simply scatter, and they cover perhaps less than one percent of the area, but they were precise little glass or plastic balls precisely dimensioned, typically in the range of three to five microns, and that provided that uniformity of spacing. More recently, over probably about the last ten years, these little round spacers have been replaced by little columns that set the spacing, and they're typically hidden behind the black matrix. The column, the spacing, is very important and very crucial to the operation of the display because it has to be very tightly controlled.",side_chat,THE WITNESS,start_question
+137,483,18,24,"(By Mr. Tice)  What do you mean by ""very tightly controlled""?",q,MR. TICE,start_answer
+138,486,19,1,"It has to be controlled to a fraction of a micron. The total height of the column, the spacer, is, as I said, typically in the range of three to five microns. That is the thickness of the liquid crystal layer. That spacing has to be controlled to a small fraction of that spacing, which would be a fraction of a micron.",a,THE WITNESS,start_question
+139,493,19,8,"So do I understand correctly, when you say ""controlled,"" do you mean-- you're referring to controlling of the height of the spacer?",q,MR. TICE,start_answer
+140,496,19,11,"Yes. What we have to control is the distance between the top and the bottom substrate, and so we control that by the size of the spacer or the height of the spacer.",a,THE WITNESS,start_question
+141,500,19,15,Did any of your publications that you authored discuss a common line?,q,MR. TICE,start_chat
+142,502,19,17,Objection; form. WITNESS,side_chat,MR. APREOTESI,start_question
+143,509,19,24,"(By Mr. Tice)  In this context of liquid crystal displays, what is a common line?",q,MR. TICE,start_chat
+144,512,20,1,Objection; form.,side_chat,MR. APREOTESI,start_chat
+145,513,20,2,"A common line would be the-- we could call it-- I think a term that is actually quite good to use is a ""wiring."" It is a connection that goes to all of the common electrodes. I think the important distinction-- the same way we distinguish between gate electrode and gate line, so the only way we can access this total area is by running basically thin metallic conductors. The thin metallic conductors are called the lines, and then the actual electrodes are distinguished from the wiring from the lines.",side_chat,THE WITNESS,start_question
+146,525,20,14,(By Mr. Tice)  How are the electrodes distinguished from the wiring?,q,MR. TICE,start_chat
+147,527,20,16,Objection; form.,side_chat,MR. APREOTESI,start_chat
+148,528,20,17,What's the objection?,side_chat,MR. TICE,start_chat
+149,529,20,18,The context is vague and not tied to any patents.,side_chat,MR. APREOTESI,start_chat
+150,531,20,20,"Again, since I mentioned both gate lines and common lines, we can talk about both because they both have this distinction. A gate line provides the actual wiring.  It goes out to the edge and it contacts to an external voltage. Then under the thin film transistor, we have the gate electrode, and so the gate electrode is distinguished from the gate line because the electrode is what now acts to function as the gate for the transistor. In the same sense, a common line is the wiring that now goes to all of the pixel electrodes that function to modify the orientation of the liquid crystal molecules, so the distinction is that the common line would not be influencing the orientation of the liquid crystals.  It is simply the wiring. The common electrode would be what is influencing the orientation of the liquid crystal in conjunction with another electrode.",side_chat,THE WITNESS,start_question
+151,550,21,13,(By Mr. Tice)  Did any of your publications discuss common electrodes?,q,MR. TICE,start_answer
+152,552,21,15,"Again, it would be in the context of talking about liquid crystal displays. Even if you're doing a-- I've done a number of presentations, and when you put up, for example, a TFT structure or put up how the pixels are constructed, that inherently requires a discussion because you have a photo in front that says-- that shows these common lines and gate electrodes, so in that general sense, but when you ask a very narrow question, have I written a publication that says something about common lines, no. I don't think such would even exist by anybody.",a,THE WITNESS,start_question
+153,564,22,1,"I believe earlier you said that the term ""common electrode"" is ubiquitous in the LCD display field. Is that also true for the term ""common electrode""?",q,MR. TICE,start_chat
+154,567,22,4,Objection; form.,side_chat,MR. APREOTESI,start_chat
+155,568,22,5,"Again, in the context of understanding that common electrode is not the same as a common line, sure, that would be pretty much understood.",side_chat,THE WITNESS,is brackets
+156,571,22,8,(Exhibit No. 3 marked for identification.),brackets,,start_question
+157,573,22,10,(By Mr. Tice)  The court reporter just handed you Exhibit No. 3. Have you seen Exhibit No. 3 before?,q,MR. TICE,start_answer
+158,576,22,13,Yes.,a,THE WITNESS,start_question
+159,577,22,14,What is Exhibit No. 3?,q,MR. TICE,start_answer
+160,578,22,15,"Exhibit No. 3 is the patent, 7,046,327.",a,THE WITNESS,start_question
+161,579,22,16,And I believe we agreed earlier that we could refer to Exhibit No. 3 as the '327 patent. Do you understand that?,q,MR. TICE,start_answer
+162,582,22,19,Yes.,a,THE WITNESS,start_question
+163,583,22,20,When is the first time that you became aware of the '327 patent?,q,MR. TICE,start_answer
+164,585,22,22,You mean with regard to this case?,a,THE WITNESS,start_question
+165,586,22,23,"Sure, we can start with that. In regards to this case, when is the first time that you became aware of the '327 patent?",q,MR. TICE,start_answer
+166,590,23,1,I had not seen the '327 patent prior to my work on this case.,a,THE WITNESS,start_question
+167,592,23,3,Okay.  And when did you first become aware of the '327 patent?,q,MR. TICE,start_answer
+168,594,23,5,A few months ago. I wouldn't be able to give you a precise date.,a,THE WITNESS,start_question
+169,596,23,7,Okay.  What circumstances led to your awareness of the '327 patent?,q,MR. TICE,start_answer
+170,598,23,9,I was asked to review it by the attorneys from Vinson & Elkins.,a,THE WITNESS,start_question
+171,600,23,11,When were you first contacted regarding this case?,q,MR. TICE,start_answer
+172,601,23,12,"It's been several months, but I don't have a-- I can't even give you an approximate date at the moment.",a,THE WITNESS,start_question
+173,603,23,14,Within the last several months; is that fair?,q,MR. TICE,start_answer
+174,604,23,15,"Something on the order of several months, yes.",a,THE WITNESS,start_question
+175,605,23,16,Who first contacted you regarding this case?,q,MR. TICE,start_answer
+176,606,23,17,I think it was Mr. Craig Tyler.,a,THE WITNESS,start_question
+177,607,23,18,Did you sign an engagement agreement or retainer agreement in relation to this case?,q,MR. TICE,start_answer
+178,609,23,20,I believe I did.,a,THE WITNESS,start_question
+179,610,23,21,Who did you enter into the agreement with?,q,MR. TICE,start_answer
+180,611,23,22,It would be with Vinson & Elkins.,a,THE WITNESS,start_question
+181,612,23,23,"And was this also in the last several months, the same timeframe?",q,MR. TICE,start_answer
+182,614,23,25,"Sure, about the same timeframe.",a,THE WITNESS,start_question
+183,616,24,1,Have you been asked to provide any other opinions in this case?,q,MR. TICE,start_chat
+184,618,24,3,Objection; form.,side_chat,MR. APREOTESI,start_chat
+185,619,24,4,"This is the only declaration, only written opinion that I've provided so far.",side_chat,THE WITNESS,start_question
+186,622,24,7,(By Mr. Tice)  Do you expect to provide other written opinions?,q,MR. TICE,start_chat
+187,624,24,9,Objection; form.,side_chat,MR. APREOTESI,start_chat
+188,625,24,10,"If I'm asked to do that, yes, I would do that.",side_chat,THE WITNESS,start_question
+189,627,24,12,(By Mr. Tice)  Have you been asked to do that?,q,MR. TICE,start_answer
+190,628,24,13,Not at this time.,a,THE WITNESS,start_question
+191,629,24,14,"When did you begin forming your opinions that you set forth in the declaration we're discussing today, Exhibit No. 2?",q,MR. TICE,start_answer
+192,632,24,17,Perhaps in July. The declaration is dated August 8th. I think I probably worked on it sometime in July.,a,THE WITNESS,start_question
+193,635,24,20,Did you form the opinions in Exhibit No. 2 on your own?,q,MR. TICE,start_chat
+194,636,24,21,Objection; form.,side_chat,MR. APREOTESI,start_chat
+195,637,24,22,"In terms of expert opinions, in general, they're my opinions. I certainly had discussions with attorneys, but I see my task, my role as an expert witness to provide technically accurate information.",side_chat,THE WITNESS,start_question
+196,643,25,2,"(By Mr. Tice)  Before you formed your opinion that the shifting phrase is indefinite, did someone else tell you that that phrase might be indefinite or did you bring that to someone's attention?",q,MR. TICE,start_answer
+197,647,25,6,"Actually, what happened was that--",a,THE WITNESS,start_chat
+198,648,25,7,"Aris, one second. To the extent this involves attorney-client communications, please don't divulge attorney-client communications. To the extent you can answer the question without revealing attorney-client communications, go ahead.",side_chat,MR. APREOTESI,start_chat
+199,654,25,13,"I can do that. After I read the patent and studied it, read the specific embodiments and then read the claim, I came to the conclusion that I could not understand this last phrase that we're calling the shifting phrase. I read it over and over again and said, ""I cannot figure out what this means."" If I read it as it's written, it's so broad as to encompass essentially everything. The opinion was really mine that I could not unravel this last phrase, and I couldn't understand some of the combinations, like ""toward"" and ""above"" with nothing in-between. ""Toward above,"" what does that mean? I could not understand what it meant. We can go through some of the other things.  I can explain to you what was creating confusion, but that was basically the starting point.",side_chat,THE WITNESS,start_question
+200,673,26,6,(By Mr. Tice)  Were you unable to understand the phrase because it was too broad?,q,MR. TICE,start_chat
+201,675,26,8,Objection; form.,side_chat,MR. APREOTESI,start_chat
+202,676,26,9,"Both too broad and also the combination of words made it, for me-- I could not unravel words ""toward above"" with nothing in-between. Maybe if it said ""toward and above,"" then I could say kind of what it means. Again, it says, ""Partially overruns from above the gate line."" What does ""partially overruns from above""-- what does that mean? It was not making sense to me as the claim was written. Now, if we go to the specification and look at a particular embodiment, okay, then I can understand that embodiment, but I could not understand the wording of the claim, and I could not relate the wording of the claim to the embodiment.",side_chat,THE WITNESS,start_question
+203,692,26,25,(By Mr. Tice)  Who drafted your declaration?,q,MR. TICE,start_answer
+204,694,27,1,I'm sorry?,a,THE WITNESS,start_question
+205,695,27,2,Who drafted your declaration?,q,MR. TICE,start_answer
+206,696,27,3,Did I what?,a,THE WITNESS,start_question
+207,697,27,4,Who drafted your declaration?,q,MR. TICE,start_answer
+208,698,27,5,I'm sorry.,a,THE WITNESS,start_question
+209,699,27,6,That's okay.,q,MR. TICE,start_answer
+210,700,27,7,"Certain parts of it were drafted by attorneys, which are the summary of the law.  I did not do that part. I did write the introduction, I wrote the qualifications, I wrote the section on person of ordinary skill in the art, that was my input, and I wrote the background of the technology, and I wrote the overview, and then the final conclusions I provided a draft, and I think there was some refinement of the wording that was provided, but it's essentially my work, except for that-- the part about what is the law.",a,THE WITNESS,start_question
+211,710,27,17,"Prior to submitting your declaration, how many hours would you estimate that you reviewed the '327 patent?",q,MR. TICE,start_answer
+212,712,27,19,"It extended over a period of a week or two, and then in-between there were discussions with attorneys, so in total, perhaps a couple of days worth, but not two days in sequence. Perhaps 16 hours over a period of several weeks.",a,THE WITNESS,start_question
+213,717,27,24,Did you review any other patents related to this case?,q,MR. TICE,start_answer
+214,718,27,25,"Yes, I have.",a,THE WITNESS,start_question
+215,720,28,1,Which other patents did you review?,q,MR. TICE,start_answer
+216,721,28,2,I don't have the list with me. There are-- at the moment there are nine patents that I've been asked to review but not to provide any expert report on at this time.,a,THE WITNESS,start_question
+217,725,28,6,Did you do anything to prepare for this deposition?,q,MR. TICE,start_answer
+218,726,28,7,"Certainly I reviewed my declaration. I reviewed Dr. Hatalis's declaration with regard to the '327, and I looked at the patent again and had a brief 45-minute meeting yesterday afternoon with Mr. Apreotesi.",a,THE WITNESS,start_question
+219,731,28,12,"Other than your brief meeting with Counsel, did you have any other meetings to prepare for this deposition?",q,MR. TICE,start_answer
+220,733,28,14,No.,a,THE WITNESS,start_question
+221,734,28,15,"Outside of discussions with your counsel, have you discussed this case with any other people?",q,MR. TICE,start_answer
+222,736,28,17,No.,a,THE WITNESS,start_question
+223,737,28,18,"You mentioned that you reviewed Dr. Hatalis's declaration. After reviewing his report, did any of your opinions change?",q,MR. TICE,start_answer
+224,741,28,22,No.,a,THE WITNESS,start_question
+225,742,28,23,What are your views on Dr. Hatalis's declaration?,q,MR. TICE,start_answer
+226,743,28,24,"With regard to the '327, my view is that he used one particular embodiment to explain the meaning of the claim, whereas my view is based on what the patent states, that the claim should be viewed much more broadly than that one specific embodiment.",a,THE WITNESS,start_question
+227,749,29,4,Should you read the claim in light of the specification?,q,MR. TICE,start_answer
+228,750,29,5,"At some point I did, yes.  I went back and looked at the specifications and said, ""Now, with regard to this particular embodiment, can I read that particular embodiment onto the claim,"" and certainly that particular embodiment is encompassed within the claim, but the claim is much broader than that in its wording.",a,THE WITNESS,start_question
+229,756,29,11,Have you ever met Dr. Hatalis?,q,MR. TICE,start_answer
+230,757,29,12,"I don't believe so. I may have seen him at a-- I looked over his resume, and he's certainly been in display activities for many years. Some of the events are common, but I'm-- we haven't actually met face-to-face and shaken hands with each other.",a,THE WITNESS,start_question
+231,764,29,19,"And before you reviewed his declaration, were you familiar with Dr. Hatalis?",q,MR. TICE,start_answer
+232,766,29,21,"Not until I reviewed his resume, and then I could see that there were some common times when we might have been doing somewhat similar activities but maybe not directly with each other.",a,THE WITNESS,symbols
+233,770,29,25,////,symbols,,is brackets
+234,772,30,1,(Exhibit No. 4 marked for identification.),brackets,,start_question
+235,774,30,3,(By Mr. Tice)  The court reporter just handed you Exhibit No. 4. Do you recognize this document?,q,MR. TICE,start_answer
+236,777,30,6,"I believe this is the last page of the protective order. I recognize signing it and filling it out. That's my handwriting. As far as context, I think it was part of the protective order.",a,THE WITNESS,start_question
+237,782,30,11,Why did you sign the protective order in this case?,q,MR. TICE,start_chat
+238,783,30,12,Objection; form.,side_chat,MR. APREOTESI,start_chat
+239,784,30,13,I was asked to do so.,side_chat,THE WITNESS,start_question
+240,785,30,14,"(By Mr. Tice)  In forming your opinions, did you review any confidential documents in this case?",q,MR. TICE,start_answer
+241,787,30,16,"I have-- in terms of forming my opinion for this particular declaration, I did not. In a more general answer, I have reviewed documents which I believe might be considered confidential.",a,THE WITNESS,start_question
+242,791,30,20,Are you aware of what products are accused in this case?,q,MR. TICE,start_answer
+243,792,30,21,"Again, in a general sense I have been sent and reviewed infringement contentions, and I believe within those infringement contentions there were products that were listed. As I recall, the list was quite long.",a,THE WITNESS,start_question
+244,798,31,1,Can you explain to me the steps you took to form your opinion that the shifting phrase of the '327 patent is indefinite?,q,MR. TICE,start_answer
+245,801,31,4,"I partially explained that already, but just to-- again, just to give you maybe a more complete story, certainly my starting point was reviewing the '327 patent and reviewing the-- you know, the claim one, which I was led to understand was the claim that was at issue. Again, I reviewed the patent, I reviewed the specific embodiments that were listed in the patent, I reviewed the patent language as to what it meant in terms of what the claim one states, and in particular, when I started seeing the confusion, that I couldn't quite understand this last phrase, I went back and read this phrase. It says, toward the end, ""On the contrary, it is intended for this subject matter of the invention to include all alternatives, modifications, and equivalents as can be included within the spirit and scope of the following claims,"" so I said, ""Okay, what the patent says is I need to read the claim carefully and not assume that the embodiments that are described are the only things that are claimed."" The embodiments were somewhat helpful in trying to understand this last phrase, but not entirely. I said, ""Well, I understand what the embodiment shows, but how do I read this in the context of this last phrase?""  And I could not. I could not interpret this last phrase, other than to come to this conclusion:  This can encompass everything. It doesn't define which common line.  It doesn't define how much we move. It doesn't really define which direction we move. The only thing I can get out of this is that it has to be over the center line of the gate line precisely, and that's what led me to discussion and feedback to say, ""I'm lost.  I cannot make this last claim term work."" That, I think, was the beginning of saying, ""Well, it's indefinite.  You cannot figure it out.""",a,THE WITNESS,start_question
+246,839,32,16,Can you not figure it out because it's too broad?,q,MR. TICE,start_chat
+247,840,32,17,Objection; vague.,side_chat,MR. APREOTESI,start_chat
+248,841,32,18,"It's both too broad and also the terms are not-- it's not possible to really interpret them, at least in terms of what the-- the one embodiment it refers to. It says that it's a common line, but it doesn't define which one. There are many common lines within the display, so as this is read now, I can point to any of those common lines and say, ""Well, I'm going to shift toward that common line, and it could be above or below,"" so I could shift both ways. Then this phrase of ""toward above,"" I do-- those two words stuck together I have never encountered in the English language, so without an ""and"" or something, ""or,"" or something, in-between-- so that's just confusing from-- I don't know how to interpret those words stuck together. Then the other was this ""partially."" ""We have to space partially overrun from above""-- how do I partially overrun from above? I cannot interpret that phrase in any common sense way, again without using an embodiment, which is supposed to be limiting. And ""partially,"" how much is partially?  Is it still over the gate?  Should it now be over the common? There are just a myriad of confusing terms in here that when you try to put them all together, it just doesn't work.",side_chat,THE WITNESS,start_question
+249,870,33,21,(By Mr. Tice)  Earlier you said there are many common lines within the display. What display were you referring to?,q,MR. TICE,start_answer
+250,873,33,24,It would be-- in this case it would be any display that uses the-- basically the common lines on the lower substrate.,a,THE WITNESS,start_question
+251,877,34,2,Is there any particular display you are thinking of when you say that?,q,MR. TICE,start_answer
+252,879,34,4,"I am distinguishing that from what would be really probably the most common, in terms of number of products, would be vertically aligned. On a vertically aligned display, the common electrode or the common surface is on the top, on the top surface. In the embodiments that are described in the '327 patent, the common line and the common electrodes are on the bottom surface. That's my understanding of this patent.",a,THE WITNESS,start_question
+253,889,34,14,Does claim one of the '327 patent require that the common electrode and common lines be on the bottom substrate?,q,MR. TICE,start_answer
+254,891,34,16,"To the extent that it says that we need a common line parallel to the gate line, I would-- that would tend to imply that it's on the same substrate. Also, on a vertically aligned display where you have a common electrode on the top surface, the only common line might be way out at the edge, so there would not necessarily be anything you can identify as a common line.  It's a uniform conductive surface, which is typically ITO. So on displays that do not have the electrode on the bottom substrate, the common electrode, I think you would most likely not be able to find anything that you can point to as a common line. They might use them just to enhance the conductivity, but it wouldn't be as clear as-- for what I believe is the intent of this patent. Now, on the other hand, if we can find a display where there are common lines that are parallel to gate lines, but they're on the top surface, then it may-- this claim may fit that kind of a display, just based on that-- just based on that narrow term.",a,THE WITNESS,start_question
+255,913,35,12,"Outside of your review of the '327 patent, did you rely on any additional facts in forming your opinion that the shifting phrase is indefinite?",q,MR. TICE,start_answer
+256,916,35,15,"No.  I tried to read it in the context of the specification and in the context of what the patent says it wanted claim one to represent, so no, I did not look at other specific references. I, over time, have analyzed a lot of products and taken photos of spacers and where they are and how they're located, but I did not have to-- that's my background.  I did not specifically go back and do that, other than-- actually, I looked at some photos of saying, ""Where are spacers,"" and they tend to be kind of all over the place.",a,THE WITNESS,start_question
+257,928,36,1,"Outside of the '327 patent, did you rely on any other documents to help inform your opinion?",q,MR. TICE,start_answer
+258,930,36,3,"As I just mentioned, I did go-- I've done teardowns of literally hundreds of displays, and I have a photo file of the structures.  I have-- down to what's on the top substrate, what's on the bottom substrate, so I did go back and look at some of my photos and said, ""Well, where are the spacers in all these other products that I've looked at,"" and that was helpful, again, in terms of trying to interpret this phrase in claim one.",a,THE WITNESS,start_question
+259,938,36,11,Did you review the file history of the '327 patent?,q,MR. TICE,start_answer
+260,939,36,12,"No, I did not.",a,THE WITNESS,start_question
+261,940,36,13,We've been going about an hour. Is it a good time for a break?,q,MR. TICE,start_answer
+262,942,36,15,It's up to you. I am good for however long you want to go.,a,THE WITNESS,start_chat
+263,944,36,17,Let's take a quick break. VIDEOGRAPHER,side_chat,MR. TICE,is brackets
+264,947,36,20,(Recess 8:53 to 9:04 a.m.) VIDEOGRAPHER:  Okay.  We are back on the record.  The time is 9:04.,brackets,,start_question
+265,950,36,23,"(By Mr. Tice)  Welcome back, Dr. Silzars. Do you understand you are still under oath?",q,MR. TICE,start_answer
+266,952,36,25,I do.,a,THE WITNESS,start_question
+267,954,37,1,"As we were discussing earlier, after you reviewed the '327 patent, you determined that the shifting phrase is indefinite; is that correct?",q,MR. TICE,start_answer
+268,957,37,4,"That is the-- I think the legal term. As I was describing earlier, I found it-- I couldn't understand it.  I couldn't unravel it. The words were confusing.  I couldn't apply them, and so that was-- you know, my term would be ""I can't figure out what it's saying."" That would be the informal term. I think the legal term is that that makes it indefinite because it's impossible to apply it in a consistent way or in an understandable way.",a,THE WITNESS,start_question
+269,967,37,14,"Are you familiar with the case ""Advanced Technology Incubator versus Sharp Corporation, et al.""?",q,MR. TICE,start_answer
+270,969,37,16,"What was the first one, Advanced--",a,THE WITNESS,start_question
+271,970,37,17,Advanced Technology Incubator.,q,MR. TICE,start_answer
+272,971,37,18,"No, I don't believe so.",a,THE WITNESS,start_question
+273,972,37,19,Did you ever provide testimony in that case?,q,MR. TICE,start_answer
+274,973,37,20,"I provided testimony on behalf of Sharp in other cases, but I don't recognize the ""Advanced Technology Incubators."" That may be-- is that a company that's down in the Austin, Texas area?  It's a small outfit? There are something that's similar-- maybe with a similar name that involved a guy by the name of Zivi Yaniv. If that's what I'm thinking of, that's many years ago.",a,THE WITNESS,is brackets
+275,984,38,5,(Exhibit No. 5 marked for identification.),brackets,,start_question
+276,986,38,7,(By Mr. Tice)  The court reporter is handing you Exhibit No. 5. There is a case heading on the top of that exhibit. Does that refresh your recollection?,q,MR. TICE,start_answer
+277,990,38,11,"I see this is dated March 2010, so it's almost ten years ago. My recollection is that this case settled like during-- just before jury selection or something. I vaguely remember being down in Texas for a trial, and then the trial never took place. However it was, it got resolved. I do not remember, in any way, being told that I was not going to be able to testify or that I was being excluded from the trial, but I was there. I was there preparing to testify. I don't recall seeing this order.",a,THE WITNESS,start_question
+278,1002,38,23,"Do you recall offering opinions on definiteness in relation to this case, and by ""this case,"" I mean the Advanced Technology Incubator case of-- that's shown in Exhibit No. 5?",q,MR. TICE,start_answer
+279,1007,39,2,"I think I just told you about everything I recall about the case, was that I do not remember even what the patents were that were at issue, and, as I said, I remember being on-site ready to go to trial, and then the trial didn't happen.  I had to come home. I have absolutely no recollection-- I have to-- I guess to put it in context, I have my own laboratory and I do product evaluations and I do product teardowns, and I literally sometimes get somebody asking me to look at 100 patents to see if any of them could be used in an infringement case, and sometimes I'll look at products. The number of patents I look at, the number of clients-- and I tend not to retain everything that I've ever done, so this one, I've told you everything I remember about it.",a,THE WITNESS,start_question
+280,1022,39,17,Please turn to Page 12 of Exhibit No. 5.,q,MR. TICE,start_answer
+281,1023,39,18,Okay.,a,THE WITNESS,start_question
+282,1024,39,19,Do you recall offering opinions on definiteness in this Advanced Technology matter?,q,MR. TICE,start_answer
+283,1026,39,21,"I clearly do not recall any of my testimony or any of the opinions I offered. I can try to read for you what is here, but I don't have any recollection of the specifics of this case.",a,THE WITNESS,start_question
+284,1030,39,25,"Please look over one page to 13. There's-- that first full paragraph, the first sentence says, ""While experts are permitted to testify regarding their knowledge of a person of ordinary skill in the art,"" and there's a cite, and it says, ""These experts are not permitted to testify as to ultimate legal conclusions."" Do you recall that on that basis the Court excluded your testimony regarding some definiteness issues?",q,MR. TICE,start_answer
+285,1040,40,9,"First of all, I don't recall that the Court excluded any testimony, so I simply have no recollection of having testimony that was excluded. I certainly understand what would be considered ""ultimate legal conclusions."" However, as an expert I believe I can explain whether something is understandable or not.",a,THE WITNESS,start_question
+286,1047,40,16,"What is your understanding of ""ultimate legal conclusion""?",q,MR. TICE,start_answer
+287,1049,40,18,"My understanding of that is that would be something on which the Court would rule, that the Court would-- in the same way that-- in claim construction, that a Court rules what a claim term is going to mean. When the Court makes that ruling, then I see that as a legal conclusion. The claim term interpretation that I may offer or an opposing expert may offer is not a legal conclusion. It's an opinion, so the legal conclusion is what the Court finally decides. I think in the context of the '327, I'm offering a technical opinion.  I'm offering an explanation of why I believe that claim term is not understandable, but the legal conclusion will, of course, have to come from the Court for whether that claim term is indefinite or not.",a,THE WITNESS,start_question
+288,1065,41,8,"I am reading from the last paragraph on Page 13, and it says, ""Accordingly, Dr. Silzars's and Kanicki's opinions on the ultimate issue of definiteness are struck."" Do you understand why the Court made that statement?",q,MR. TICE,start_answer
+289,1069,41,12,No.,a,THE WITNESS,start_question
+290,1070,41,13,"Are you offering, in this case we are here to discuss today, an opinion that the shifting phrase is indefinite?",q,MR. TICE,start_answer
+291,1072,41,15,"I am offering an opinion of why I believe that phrase is not understandable, so if we want to use the term ""indefinite"" in an English language context, I believe it's indefinite. Am I offering a legal opinion that it's indefinite? No.  I believe that's for the Court to decide. ""Indefinite"" is not a strictly legal term.  It is a term that you and I can understand as a common usage, so I'm offering an opinion that I do not understand what that claim says, and in that case I believe it's appropriate to use the term that it's indefinite. It's simply-- it's impossible to interpret the claim in an understandable way that could be applied to a specific potentially infringing product.",a,THE WITNESS,start_question
+292,1087,42,4,Is it your opinion that your conclusion that the term is indefinite is a proper opinion to provide to the Court?,q,MR. TICE,start_chat
+293,1089,42,6,Objection; form.,side_chat,MR. APREOTESI,start_chat
+294,1090,42,7,"I think it's proper in the sense that, as I just described, I am using the term as an English language term, not as a legal term. As I said, just like with claim construction, I can propose a claim construction, but the Court has to finally decide whether that's going to be accepted or not. In this context, it's the same approach, that I am offering a technical opinion using a common language term and not implying that it has legal weight in terms of being used later on in the case.",side_chat,THE WITNESS,start_question
+295,1101,42,18,"(By Mr. Tice)  Do you have Exhibit No. 3 in front of you, your declaration?",q,MR. TICE,start_answer
+296,1103,42,20,I did not have it in front of me. Now I do.,a,THE WITNESS,start_question
+297,1105,42,22,"And that's Exhibit No. 2, right?",q,MR. TICE,start_answer
+298,1106,42,23,Yes.,a,THE WITNESS,start_question
+299,1107,42,24,"How many pages is your declaration, Exhibit No. 2?",q,MR. TICE,start_answer
+300,1108,42,25,"Now counting my resume, it looks like it's 13 pages. That's the number at the bottom of the last page.",a,THE WITNESS,start_question
+301,1111,43,2,"In the last section of the report is Section No. 8 entitled, ""The '327 patent is indefinite under 35 U.S.C. Section 112."" Do you see that section?",q,MR. TICE,start_answer
+302,1115,43,6,Yes.,a,THE WITNESS,start_question
+303,1116,43,7,What page does that begin on?,q,MR. TICE,start_answer
+304,1117,43,8,"Well, that title, I am not, again, an expert in the patent law, so that-- under ""35 U.S.C. 112,"" that was provided by the attorneys.",a,THE WITNESS,start_question
+305,1120,43,11,My question was: What page does that section begin on?,q,MR. TICE,start_answer
+306,1122,43,13,"Oh, it's Page 11.  I'm sorry.",a,THE WITNESS,start_question
+307,1123,43,14,"And then I am going to refer you to Paragraph No. 42 on Page 11 where you opine that ""This shifting phrase is indefinite because one of ordinary skill in the art would not know what direction to shift the columnar spacer, whether one would shift toward or shift above the common line."" Do you see that?",q,MR. TICE,start_answer
+308,1130,43,21,Yes.,a,THE WITNESS,start_question
+309,1131,43,22,Do you still hold that opinion?,q,MR. TICE,start_answer
+310,1132,43,23,"That's part of the confusion, yes. That's not the entire opinion. That's with regard to that specific phrase-- or portion of that specific phrase.",a,THE WITNESS,start_question
+311,1137,44,2,"And in Paragraph No. 43 you state that ""One of ordinary skill in the art would understand that there are several common lines in an LCD panel."" Do you see that?",q,MR. TICE,start_answer
+312,1141,44,6,Yes.,a,THE WITNESS,start_question
+313,1142,44,7,"Is it your opinion that the shifting term is indefinite, at least in part, because an LCD panel has several common lines?",q,MR. TICE,start_answer
+314,1145,44,10,Yes.,a,THE WITNESS,start_question
+315,1146,44,11,"Besides these two reasons that we just discussed in Paragraph No. 42 and 43, does your report identify any other reasons why the shifting phrase is indefinite?",q,MR. TICE,start_answer
+316,1149,44,14,"I have tried to explain in further detail, in my earlier testimony, giving you examples from the phrase that were perhaps-- in addition to what's described here.",a,THE WITNESS,start_question
+317,1152,44,17,Are you able to point to any other portions of your report that have any additional reasons why the shifting phrase is indefinite?,q,MR. TICE,start_answer
+318,1155,44,20,"I think we can go through Paragraph No. 44 that has some additional comments about why that's confusing. I think further on in Paragraph No. 45 I mention that it's shifted from above the center of the gate line, that it has to somehow be related to the center of this gate line, and that the only identification we could make there would be that unless the spacer is precisely positioned over the center of the gate line, that it would be-- someone could claim that it infringes.",a,THE WITNESS,start_question
+319,1165,45,4,"When you say ""someone could claim that it infringes,"" is it your opinion that a spacer placed in that way that you just mentioned would satisfy the claim elements unless it was directly above the center of the gate line?",q,MR. TICE,start_chat
+320,1169,45,8,Objection; form.,side_chat,MR. APREOTESI,start_chat
+321,1170,45,9,"What my testimony was, is that based on the reading of the claim, the only noninfringing product, potentially, would be where the spacer is precisely over the center of the gate line, because we do not know the direction, we do not know the magnitude, from the claim, that anything other than a spacer position precisely over the center of the gate line could be claimed to infringe.",side_chat,THE WITNESS,start_question
+322,1178,45,17,(By Mr. Tice)  Would it infringe?,q,MR. TICE,start_answer
+323,1179,45,18,Would it?,a,THE WITNESS,start_question
+324,1180,45,19,"In your last answer you said, ""we do not know the magnitude from the claim that anything other than a spacer situation precisely over the center of the gate line could be claimed to infringe,"" and my question is: Anything can be claimed to be infringed, but I want to know, would it be infringed?",q,MR. TICE,start_answer
+325,1186,45,25,"I think there would be a reasonable argument that it does infringe, and so from the reading of the claim, I don't want to take the position that I'm claiming infringement personally. I am saying that the possibility exists.  The probability perhaps exists that someone could make the assertion that if it's not precisely over the center line, that reading the claim, it could be claimed to infringe. This is because of the confusion that's introduced by the language, the difficulty of understanding what the claim really means, that now you can interpret it in a way that is-- I guess I would say it's inappropriate because then it's like every product infringes. There are-- it would be-- we would be challenged to find products where the spacer is precisely over the center line of the gate line because that's really not the criteria that people use. You just tuck it under the black matrix.",a,THE WITNESS,start_question
+326,1206,46,19,Is the claim indefinite if most devices would infringe it?,q,MR. TICE,start_chat
+327,1208,46,21,Objection; form.,side_chat,MR. APREOTESI,start_chat
+328,1209,46,22,"No.  No. The claim-- my testimony is that the claim is indefinite because we cannot really understand what it means, and if it's interpreted-- in effect, misinterpreted, can be misinterpreted, then basically we're saying that every prior art device now infringes this particular patent.",side_chat,THE WITNESS,start_question
+329,1217,47,4,(By Mr. Tice)  Is the claim indefinite if it's invalid in view of the prior art?,q,MR. TICE,start_chat
+330,1219,47,6,Objection; form.,side_chat,MR. APREOTESI,start_chat
+331,1220,47,7,"No, I don't mean to make that confusion. I am just saying if we get into the position where a claim cannot be understood, where it cannot be read, then a variety of misinterpretations are possible, and then one could be led to the situation where if I interpret it a certain way, now certain prior art patents become potentially prior art or not, so, again, if you can't tell what it's talking about, now you are scrambling to interpret it in some way, and two very capable people could interpret it totally opposite ways because neither of them fully understands what it says.",side_chat,THE WITNESS,start_question
+332,1232,47,19,(By Mr. Tice)  Is there more than one way to interpret the shifting phrase of claim one of the '327 patent?,q,MR. TICE,start_answer
+333,1234,47,21,"Yes. For one example-- there's a number of examples where it could be interpreted different and in several ways. One is that there is no-- because it has no reference to the rubbing direction, which was important in the specification, I can now shift it any direction that I want. I can find a common line and say, ""Okay, I can shift it one way or I can shift it another way.""  There are common lines that I can reference both ways. The other is the phrase ""toward above."" Then the third one is the-- yes, this ""partially overruns""-- ""partially overruns from above the gate line toward above the common line."" What does ""partially overrun"" mean?",a,THE WITNESS,start_question
+334,1250,48,11,"What does ""partially overrun"" mean?",q,MR. TICE,start_answer
+335,1251,48,12,I don't know.,a,THE WITNESS,start_question
+336,1252,48,13,"Do you know what ""partially"" means?",q,MR. TICE,start_answer
+337,1253,48,14,"""Partially"" means ""some part of,"" but it needs to be-- it can be-- ""partially"" could be one percent.  It could be 99 percent.  It could be 0.1 percent. Without any context, without any reference, ""partially"" has a very wide and ambiguous meaning.",a,THE WITNESS,start_question
+338,1258,48,19,"Why is ""partially"" ambiguous?",q,MR. TICE,start_answer
+339,1259,48,20,"Again, because it can be-- if I'm off by a tenth of a micron, did I just-- did I just satisfy the claim here. In the exemplary embodiment, it gives us a range. It says, ""Okay, well, it should be between two and a half and three and a half microns."" This gives us no guidance whatsoever. I could measure a tenth of a micron, which would be perhaps a normal manufacturing tolerance, and I could say, ""It partially overruns.  There, the product infringes."" Without some reasonableness, something attached that gives us some guidance of what this means, it's ambiguous. I don't-- there's no way to interpret this to say whether we're practicing this patent or not.",a,THE WITNESS,start_question
+340,1275,49,10,"You gave an example where you said you measured a tenth of a micron, and then that was a very small amount. What if it was zero microns, there was no overrunning at all?  Would that be partially overrun?",q,MR. TICE,start_chat
+341,1279,49,14,Objection; form.,side_chat,MR. APREOTESI,start_chat
+342,1280,49,15,"In a practical sense we can't measure zero. We can measure maybe ten nanometers or something really small, but there's some dimension, probably in the order of ten nanometers or something like that, where you say, ""That's below my ability to measure, and the spacer doesn't have enough uniformity for me to make that measurement,"" but it could be anything above that. It could be anything I could find that is-- in fact, as I was saying earlier, I had looked at some actual photos of spacers, and they tend to be spaced somewhat nonuniformly. There is not a precise line I can look at and say, ""Do they""-- and say, ""Okay.  Well, that would partially overrun."" I think the other-- the other confusion, the other uncertainty here is, what do we really mean by ""overrun""? Does it mean it still has to have some contact to the gate line or does it not? Can it be-- if I go-- let's say I have a gate line and a common line, and I have a black matrix above, and I put my spacers down the middle.  They're not on either one.  Am I partially overrunning the gate line? I don't know how to interpret this term. If I'm not touching the gate line, does that mean that I'm not doing what this claim is intended to say?",side_chat,THE WITNESS,start_question
+343,1307,50,16,"(By Mr. Tice)  Let's turn to Paragraph No. 43 of your report. I am looking at the very-- the second to last sentence on the bottom of Page 11 where you state that ""One of ordinary skill in the art would understand there are several common lines in an LCD panel."" Do you see that statement?",q,MR. TICE,start_answer
+344,1314,50,23,Yes.,a,THE WITNESS,start_question
+345,1315,50,24,What LCD panel are you referring to?,q,MR. TICE,start_answer
+346,1316,50,25,This is a broad statement of an LCD panel where common lines exist.,a,THE WITNESS,start_question
+347,1319,51,2,Does every LCD panel have a common line?,q,MR. TICE,start_answer
+348,1320,51,3,"As I testified earlier, if we talk about vertically aligned panels, they have a common electrode on the top surface and out at the edge where there may be additional common lines to provide better conductivity. A vertically aligned would have common lines, but this would not be what is described in this patent-- I believe at the very beginning they talk about-- let me see if I can find this real quick like. It says, ""At the field of invention."" The intent here was to talk about, I believe, devices where the common electrodes and the common lines were on the same substrate as the TFTs, because that's how it's described here. Specifically the '327 patent, the descriptions and the embodiments talk about common lines that are on the same substrate as the TFT and would be the same as the-- where the gate lines are.",a,THE WITNESS,start_question
+349,1337,51,20,Does every LCD panel have a common line?,q,MR. TICE,start_answer
+350,1338,51,21,"Every LCD panel requires an electrical connection to the common electrode, so there is a common line somewhere. It may just be out at the periphery, but you have to make an electrical connection, and the electrical connection would be through a common line. In the specific configurations described here, there are a number of common lines that parallel the gate lines.",a,THE WITNESS,start_question
+351,1347,52,4,"When you say ""described here,"" what were you referring to?",q,MR. TICE,start_answer
+352,1349,52,6,The embodiments in the '327 patent.,a,THE WITNESS,start_question
+353,1350,52,7,Would it be possible to form an LCD panel that only has one common line?,q,MR. TICE,start_answer
+354,1352,52,9,"In a vertically aligned display?  Yes, or in a twisted nematic also.",a,THE WITNESS,start_question
+355,1354,52,11,Is it required for LCD panels to include more than one common line?,q,MR. TICE,start_answer
+356,1356,52,13,"No.  You need a common electrode, and the common electrode would apply to a twisted nematic.  It would apply to vertically aligned, but that common electrode has to be connected to the outside world, and it would be connected through a common line, which may only exist on the periphery.",a,THE WITNESS,start_question
+357,1362,52,19,"To practice claim one of the '327 patent, would a device need to have more than one common line?",q,MR. TICE,start_answer
+358,1364,52,21,"No. The '327 only says that we need a common line parallel to the gate line, so in that context, yes, one common line would meet the limitation of this claim.",a,THE WITNESS,start_question
+359,1368,52,25,Is it your opinion that you cannot identify the location of the claimed common line with certainty?,q,MR. TICE,start_answer
+360,1371,53,2,"When we have multiple common lines, then there is nothing in claim one that points us to identifying which one we should reference.",a,THE WITNESS,start_question
+361,1374,53,5,"What if the claimed common line is identified for you, then would you know which common line is discussed by the claim?",q,MR. TICE,start_answer
+362,1377,53,8,"I'm sorry, what was the first part of your question?",a,THE WITNESS,start_chat
+363,1378,53,9,Objection; form.,side_chat,MR. APREOTESI,start_question
+364,1379,53,10,"(By Mr. Tice)  What if someone identified the common line for you, would you then know which common line to-- as your reference point--",q,MR. TICE,start_chat
+365,1382,53,13,Same objection.,side_chat,MR. APREOTESI,start_chat
+366,1383,53,14,"Well, if you identify-- if you point to a specific common line and say, ""Yes, you are pointing to this common line,"" so-- if you are pointing out a common line to me, I would not-- I would say, ""Yes, I agree with you, that is a common line.""",side_chat,THE WITNESS,start_question
+367,1388,53,19,(By Mr. Tice)  In Paragraph No. 43 I believe we discussed that you stated the LCD devices include multiple common lines; is that correct?,q,MR. TICE,start_answer
+368,1391,53,22,"Typically, yes.",a,THE WITNESS,start_question
+369,1392,53,23,"What if there is a device where the shifting limitation is met with respect to one common line but not another common line, would the device practice that limitation in that sense?",q,MR. TICE,start_answer
+370,1397,54,2,"Whenever this columnar spacer is not precisely over the center line of the gate line, it would be shifted one direction or the other, so yes, if there are common lines somewhere in the panel, I would say yes, it satisfies-- it's shifted toward a common line. So either direction would be acceptable, on the basis of the claim.",a,THE WITNESS,start_question
+371,1404,54,9,"Let's turn to Paragraph No. 44 of your report, the next paragraph over. There you state that ""One of ordinary skill in the art would not know what direction to shift the columnar spacer, whether one would shift it toward or shift it above the common line and how one would shift it both toward and above the common line."" Do you see that?",q,MR. TICE,start_answer
+372,1412,54,17,Yes.,a,THE WITNESS,start_question
+373,1413,54,18,"What does ""shift toward"" mean?",q,MR. TICE,start_answer
+374,1414,54,19,"It's the words together ""toward above."" If we take them separately, if you talk about ""toward,"" I can understand that. If we talk about ""above"" separately, I think I can understand that. When you now glue those two words together, now I don't know what you mean. What is ""toward above""? ""Toward"" and ""above"" are basically-- if I think in terms of math terms, they're orthogonal to each other. ""Toward"" might be in a horizontal direction. ""Above"" might be in a vertical direction, so does ""toward"" and ""above"" mean at some sloping angle, that I'm shifting-- so there is where we cannot unravel it. I cannot unravel those two terms together in any kind of common sense way.",a,THE WITNESS,start_question
+375,1431,55,10,"Does the specification provide any context of what ""shift toward above"" means?",q,MR. TICE,start_answer
+376,1433,55,12,"I don't believe the specification actually uses those words together. I would have to go through and double check that. What I get from the specification is used in exemplary embodiments.  There is a shifting, what I would perhaps think of as more toward. The ""above"" part, I don't know what that means, as far as those two words sticking together.",a,THE WITNESS,start_question
+377,1441,55,20,"In your previous answer or a couple answers ago, you said you know what ""shift toward"" means, but just those two words, setting aside the word ""above,"" what does ""shift toward"" mean?",q,MR. TICE,start_answer
+378,1445,55,24,"First of all, you have to tell me, toward what? It would be-- ""shifting toward"" would mean some kind of translation, some kind of a movement from one position to another, and the second position would be towards something-- some object or boundary or element that you've identified for me so that I know, ""Well, if I'm shifting toward, it's toward you."" You are sitting across the table, so if I'm going to shift this document toward, and you say, ""Well, it's toward me,"" okay, I move it toward you. Yes, that would be understandable as common English language.",a,THE WITNESS,start_question
+379,1458,56,11,"In the same question with ""shift above,"" setting aside the word ""toward,"" what does ""shift above"" mean to you?",q,MR. TICE,start_answer
+380,1460,56,13,"I don't know what it means in the context of these columnar spacings because we don't move them up and down. There is no-- the top substrate is brought together with the bottom substrate, and they simply sit on top of each other. When you said ""I'm going to shift above,"" above what? That one I can't-- I can't put a logical meaning on it because I don't know-- we're not climbing.  We are not moving it up and down, that I know of.",a,THE WITNESS,start_question
+381,1470,56,23,"So one of ordinary skill in the art would know that the spacers are not shifted in a vertical direction, correct? Is that what you were saying in your last answer?",q,MR. TICE,start_answer
+382,1474,57,1,"Well, the one possibility in interpreting this is to say, ""Well, the gate line and the common line have some small thickness to them that's on the order of a fraction of a micron."" Now, if I'm sitting above a gate line, do I want to shift toward and above the common line? So if I'm trying to add meeting that's not in the claim, but I'm trying to add meeting of what could it possibly mean-- you know, engineers love to solve problems, so as an engineer I say, ""Well, I am going to try to figure out this ambiguity,"" and say, ""Well, maybe the 'above' means that I go from above the gate line, and then there's this slight depression between the gate and the column, and that somehow I'm going to end up on top of the column,"" but it doesn't say that.  It just says we're partially doing it. If it said, ""I am going to shift to above the common line,"" you could say, ""I might know what that means."" As it's written, I don't know what the ""above"" means because it only says I'm partially shifting. If I'm only partially moving off the gate line, I don't do anything above.  It stays horizontal, so I cannot interpret that word either by itself or together with the ""toward.""",a,THE WITNESS,start_question
+383,1498,57,25,"The two terms that we have been discussing, ""shift toward"" and ""shift above,"" are those two mutually exclusive?",q,MR. TICE,start_chat
+384,1502,58,3,Objection; form.,side_chat,MR. APREOTESI,start_chat
+385,1503,58,4,"No, but they're glued together in the claim. The claim does not put an ""and"" or any kind of qualifier between those two. If we're talking in a normal English language way, I can understand what I said earlier, what shifting toward means, that I'm now shifting something toward you. Now, at the same time if you say I'm shifting above, then is it above the top of your head?  Is it-- I don't know what-- ""shifting above"" to me means some change in elevation, it has to be something in the vertical direction. That's what it means to me. I don't know how to make that meaning in the context of the '327 patent.",side_chat,THE WITNESS,start_question
+386,1518,58,19,"(By Mr. Tice)  Is that because-- strike that. You said ""I don't know how to make that meaning in the context of the '327 patent."" Is that because a person of ordinary skill would realize that you can't shift the spacers up and down in a horizontal manner?",q,MR. TICE,start_answer
+387,1524,58,25,"I think even more than that. I will use this document to say I am going to shift the document toward you. Okay.  Now, if I say, ""I am going to shift this document toward and above you,"" what do you think-- I'm-- I can't ask you questions.",a,THE WITNESS,start_question
+388,1531,59,6,That's a good thing.,q,MR. TICE,start_answer
+389,1532,59,7,"I would not know-- if you said that to me-- if you take the document and say, ""Dr. Silzars, I want to shift this document toward you,"" that's clear. ""Dr. Silzars, I want to shift this document toward above you,"" I would look at you with a puzzled look, ""I don't know what he just said,"" and I would ask you for clarification and say, ""What do you mean you are going to shift this document toward and above me?  Should I be holding it up?  Should I what?"" It's not just in the context of the patent. It's a broader context that those two words together are, for me, impossible to unravel.",a,THE WITNESS,start_question
+390,1544,59,19,"In your last answer you said you would ask me for clarification. Do you think if clarification were provided, that you would be able to shift that document toward and above me?",q,MR. TICE,start_answer
+391,1549,59,24,"My expectation would be that in your clarification, you would use more words. You might say something like, ""Dr. Silzars, what I meant was I am going to shift the document toward you, and I want you to hold it up in front of you, so my statement was that I'm going to-- when I say I was going to shift toward above you, I wanted you to pick it up and hold it up,"" but you have now given me an explanation that I can understand. Now, if you go back and simply say, ""My explanation is I want you to-- the document is going to be shifted toward above you,"" and that's it, I still don't understand. You would need to provide some additional explanation as to what did you really mean because the words-- just those two words together, I could not get.",a,THE WITNESS,start_question
+392,1566,60,15,"Does the specification of the '327 patent provide that additional explanation that you would need to know the meaning of ""shift toward above""?",q,MR. TICE,start_answer
+393,1569,60,18,"It provides an explanation in the embodiments that are shown about the ""toward."" The ""above"" part is not clear to me. The only part that is introduced also is that they talked about this roughened surface at the bottom of the column to prevent retention of images if the spacers can't move, but I don't relate that to the ""above."" I think that's a separate issue.",a,THE WITNESS,start_question
+394,1578,61,1,"Going back to this Paragraph No. 43 of your report-- excuse me, Paragraph No. 42, the very last sentence, you say, ""One of ordinary skill in the art would not know what direction to shift the columnar spacer, whether one should shift toward or shift above the common line."" Does the '327 patent claim shifting above the common line?",q,MR. TICE,start_answer
+395,1585,61,8,"I'm sorry, repeat the last question, the last part of your last question.",a,THE WITNESS,start_question
+396,1587,61,10,"The shifting phrase of claim one of the '327 patent, does it claim shifting above the common line?",q,MR. TICE,start_answer
+397,1589,61,12,"I don't know what it says because it puts those two words together, so I was trying to interpret this and say, ""Here is part of the confusion."" Do I shift toward-- do I break those two up?  Do I deal with them as a ""toward"" and ""above"" because I can't deal with them together? This is, again, where it's impossible to understand the claim because-- I suppose if we said ""to shift above the common lines,"" then we might say, ""Well, we shift it over and we go on top of the common line,"" but I don't think that's what it says because it only says it's partially shifted.",a,THE WITNESS,start_question
+398,1601,61,24,Claim one of the '327 patent requires just partial shifting; is that correct?,q,MR. TICE,start_answer
+399,1604,62,1,"I want to read it from the-- it says it ""partially overruns from above the gate line,"" so ""partially overruns"" is the actual statement in the claim. Well, further it says, ""partially overruns from above the gate line,"" so that's-- let's read the entire phrase, that ""The spacer partially overruns from above the gate line,"" so I think it means that it may still be partly on top of the gate line.",a,THE WITNESS,start_question
+400,1612,62,9,What does it mean for the spacer to be on top of the gate line?,q,MR. TICE,start_answer
+401,1614,62,11,"Well, we've started this thing by saying that it has to be-- since we're calling this the shifting phrase, that we have to start from above the widthwise center of the gate line, so that's our starting point, is that we're going to find the center of the gate line and this is where the spacer would have been, I suppose, and then we're shifting so that it now partially overruns from the gate line toward the common line.",a,THE WITNESS,start_question
+402,1622,62,19,"So earlier when you said the spacer is on top of the gate line, did you mean it's above the gate line in a vertical sense?",q,MR. TICE,start_answer
+403,1625,62,22,"No.  What I meant was that it's positioned to sit above the center line of the gate line and be in contact with that location, so it sits, in a sense, above-- you have the gate line, and the spacer sits on top of the gate line, but it's actually part of the upper substrate, so when we assemble the display, we place it so that it's precisely centered over the gate line.",a,THE WITNESS,start_question
+404,1633,63,4,Is the spacer physically on the gate line?,q,MR. TICE,start_chat
+405,1634,63,5,Objection; form.,side_chat,MR. APREOTESI,start_chat
+406,1635,63,6,"It's on whatever insulator.  It's on top of the rubbing layer. It's above but not directly in contact with-- so it's above, with some interlayers in there, but it sits positioned over the center of the gate line. Actually, it sits on top of the rubbing layer.",side_chat,THE WITNESS,start_question
+407,1641,63,12,"(By Mr. Tice)  So when we're referring to all in the gate line or above the gate line, it's the physical-- not physical, but the vertical space above the gate line; is that correct?",q,MR. TICE,start_chat
+408,1645,63,16,Objection--,side_chat,MR. APREOTESI,start_chat
+409,1646,63,17,"Yes. I am not quite sure how to explain it more clearly, but it's the location. We're not talking about some height restrictions or vertical connections. We're simply talking about the positioning with regard to the lower substrate. The lower substrate has gate lines on it.  I pick a gate line.  I find the center of the gate line.  When I bring the top substrate down, it's now going to be positioned dead center over that gate line. That's my goal.  That's what this says was basically the starting point. ""This is what I was going to do, and now I'm going to shift to some new location.""",side_chat,THE WITNESS,start_question
+410,1662,64,7,"(By Mr. Tice)  Let's look at Paragraph No. 44 of your report. You state that ""The specification does not provide any guidance above the described 'toward above common line.'"" Do you still hold that opinion?",q,MR. TICE,start_answer
+411,1668,64,13,"Yes. I don't believe I've been able to find anything in the specification that uses the words ""toward above"" together.",a,THE WITNESS,start_question
+412,1672,64,17,"In the next paragraph, Paragraph No. 45, you say that ""The specification describes shifting in a direction reverse to the rubbing direction""; is that correct?",q,MR. TICE,start_answer
+413,1675,64,20,"That's what the specification describes, yes, but not the claim.",a,THE WITNESS,start_question
+414,1677,64,22,"Is that description of shifting opposite the rubbing direction, does that not provide guidance to the direction of the shifting described in the claim?",q,MR. TICE,start_answer
+415,1680,64,25,"Well, it provides guidance in the specification but not in the claim, because the claim does not mention a shifting direction or a rubbing direction-- I mean, it mentions shifting direction, but it does not mention any relationship to a rubbing direction.",a,THE WITNESS,start_question
+416,1686,65,5,"If claim one included a limitation with the rubbing direction, would it then be definite?",q,MR. TICE,start_chat
+417,1688,65,7,Objection; form.,side_chat,MR. APREOTESI,start_chat
+418,1689,65,8,"It would-- I don't know that-- we'd have to read the new claim language, but it would certainly be of some help. If the claim had included a statement about the rubbing direction and the intent that-- you know, basically the only reason this patent was written was to-- because they were having problems with lights leaking out the edge and said, ""Well, where do we put the spacers to reduce this leakage?"" They said, ""Well, the leakage is caused by the rubbing, and it's basically downwind from the rubbing direction where we're getting the shadowing, so let's move the spacer over."" The rubbing direction was absolutely crucial to the reason behind this claimed dimension, and so without mentioning the rubbing direction, now the claim could be read over any display regardless of how they do the rubbing.",side_chat,THE WITNESS,start_question
+419,1708,66,1,(By Mr. Tice)  Is the claim's definiteness determination made in a vacuum?,q,MR. TICE,start_chat
+420,1710,66,3,Objection; form.,side_chat,MR. APREOTESI,start_chat
+421,1711,66,4,"I don't know what you mean by ""vacuum.""",side_chat,THE WITNESS,start_question
+422,1713,66,6,"(By Mr. Tice)  When you are making a claim definiteness determination, do you review only the claim?",q,MR. TICE,start_chat
+423,1715,66,8,Objection; form.,side_chat,MR. APREOTESI,start_chat
+424,1716,66,9,"No.  I would view the claim in light of the specification, but we also have to be cognizant of the fact that the inventors said that they wanted this claim to be read broadly and beyond just the exemplary embodiments that were in the specification. Yes, we can certainly look for guidance, but we can say, ""Okay, what else can this claim encompass,"" and just because it's broader doesn't mean that it's indefinite, but the fact that it's not understandable, that it now introduces words and structures and explanations that don't fit the embodiments, that's where I think it becomes difficult to interpret-- impossible to interpret.",side_chat,THE WITNESS,start_question
+425,1728,66,21,"(By Mr. Tice)  In your last answer, what statement by the inventors are you referring to?",q,MR. TICE,start_answer
+426,1730,66,23,"The specific statement that I just now was intending to refer to is just above-- it says, ""What is claimed?"" The paragraph above says, ""While this invention has been described in connection with certain preferred embodiments, it is to be understood that the subject matter encompassed by way of this invention is not to be limited to those specific embodiments.  On the contrary, it is intended for the subject matter of the invention to include all alternatives, modifications, and equivalents as can be included within the spirit and scope of the following claims."" This is not an atypical statement.  Most patents have this, but we have to appreciate then that the claim is what is going to be the criteria for infringement, not just the embodiments that are shown in the patent.",a,THE WITNESS,start_question
+427,1746,67,13,"If the inventors did not include that paragraph that you cited in the last answer, would it change your opinion on whether claim one of the '327 patent is indefinite?",q,MR. TICE,start_answer
+428,1749,67,16,"It would not change my opinion about the impossibility of interpreting that last shifting clause in a reasonable way. I still would not be able to understand it. If they had not had that in there-- I suppose if they had a statement in there that says, ""What we intend is that the claims will apply to the embodiments,"" I would say, ""Okay, now I can understand it.  I can go back to the embodiments and use those,"" so-- but even without that specific statement, I would not have-- it would not help me in interpreting this last shifting clause.",a,THE WITNESS,start_question
+429,1761,68,2,"In forming your opinion, did you review Figure 2 of the '327 patent?",q,MR. TICE,start_answer
+430,1763,68,4,Yes.,a,THE WITNESS,start_question
+431,1764,68,5,Does Figure 2 illustrate a gate line?,q,MR. TICE,start_answer
+432,1765,68,6,Yes.  I believe that's Element 102.,a,THE WITNESS,start_question
+433,1766,68,7,Does Figure 2 illustrate a common line?,q,MR. TICE,start_answer
+434,1767,68,8,I believe that's Element 103.,a,THE WITNESS,start_question
+435,1768,68,9,And does Figure 2 illustrate a columnar spacing?,q,MR. TICE,start_answer
+436,1769,68,10,Does it illustrate a columnar spacing?  Yes.  That would be 254.,a,THE WITNESS,start_question
+437,1771,68,12,"And Figure 2 shows an arrow up at the top right above the words ""Rubbing direction for an opposite substrate."" Do you see that?",q,MR. TICE,start_answer
+438,1774,68,15,Yes.,a,THE WITNESS,start_question
+439,1775,68,16,Which way is that arrow pointing?,q,MR. TICE,start_answer
+440,1776,68,17,From right to left.,a,THE WITNESS,start_question
+441,1777,68,18,Can we turn to Column 5 of the '327 patent? Look at the second full paragraph. It begins around Line No. 19 of Column No. 5. Do you see that paragraph?,q,MR. TICE,start_answer
+442,1781,68,22,Line No. 19 of Column No. 5?  Yes.,a,THE WITNESS,start_question
+443,1782,68,23,"Can you read the first sentence of that paragraph, starting with ""moreover""?",q,MR. TICE,start_answer
+444,1784,68,25,"""Moreover, the center of the columnar spacer 254 is located while being shifted with respect to the gate line 102 in a direction reverse to the rubbing direction for the orientation film 214 of the opposite substrate 200.""",a,THE WITNESS,start_question
+445,1789,69,4,"Just a minute ago we established that Figure 2 shows the rubbing direction as right to left, correct?",q,MR. TICE,start_answer
+446,1791,69,6,Yes.,a,THE WITNESS,start_chat
+447,1792,69,7,Objection; form.,side_chat,MR. APREOTESI,start_question
+448,1793,69,8,(By Mr. Tice)  What is the opposite direction of right to left?,q,MR. TICE,start_answer
+449,1795,69,10,Would be from left to right.,a,THE WITNESS,start_question
+450,1796,69,11,"So in the context of Figure 2, the specification is describing shifting the columnar spacer from left to right; is that correct?",q,MR. TICE,start_answer
+451,1799,69,14,Yes.,a,THE WITNESS,start_question
+452,1800,69,15,"So with respect to Figure 2, the specification tells you which way to shift the columnar spacer, right?",q,MR. TICE,start_answer
+453,1802,69,17,"It tells you how to shift it with regard to the rubbing direction, yes.",a,THE WITNESS,start_question
+454,1804,69,19,"And in this context of Figure 2, is the columnar spacer being shifted toward the common line?",q,MR. TICE,start_answer
+455,1806,69,21,Yes.,a,THE WITNESS,start_question
+456,1807,69,22,"And in this same context of Figure 2, is the columnar spacer being shifted above the common line?",q,MR. TICE,start_answer
+457,1809,69,24,"That's not clear. It's being shifted toward. If we shift far enough, it would end up being-- it would end up being above the common line, but I don't know if it's being shifted above the common line.  It would just-- as we shift toward the common line, we would also end up above the common line if we go far enough.",a,THE WITNESS,start_question
+458,1817,70,6,How far would you have to shift the columnar spacer for it to be above the common line?,q,MR. TICE,start_answer
+459,1819,70,8,"This, of course, depends on a configuration of the display itself, but based on displays that I've examined, the gate line and the common line are-- may be typically ten to 15 microns apart. They would not be two or three microns apart because there's a manufacturing tolerance, you want to keep things separate, so in a typical display, it would be something on that order of ten, 15 microns, which is-- it would be wider than is shown in this figure.",a,THE WITNESS,start_question
+460,1828,70,17,"Looking at this figure, Figure 2 of the '327 patent, there is a number, 254, that's pointing toward the columnar spacer. Do you see that number?",q,MR. TICE,start_answer
+461,1832,70,21,Yes.,a,THE WITNESS,start_question
+462,1833,70,22,"This number 254, as shown on Figure 2, is it above the common line?",q,MR. TICE,start_answer
+463,1835,70,24,"As shown, it is not above the common line.",a,THE WITNESS,start_question
+464,1836,70,25,Also shown in Figure 2 is a number 114. Do you see that?,q,MR. TICE,start_answer
+465,1839,71,2,Yes.,a,THE WITNESS,start_question
+466,1840,71,3,Can you draw a circle around 114?,q,MR. TICE,start_answer
+467,1841,71,4,Sure.,a,THE WITNESS,start_question
+468,1842,71,5,"That circle that you just drew, is that located above the common line?",q,MR. TICE,start_answer
+469,1844,71,7,"There's some part of 114 that is above the common line. It's the rubbing layer. As I remember, 114 is the rubbing layer, so exactly where it's pointing, it is somewhat at the edge of the common line, but certainly a good part of 114 is also above the common line, yes.",a,THE WITNESS,start_question
+470,1850,71,13,"Okay.  I am just talking about the circle that you drew, not the actual rubbing layer as 114. If that circle were physically in that location in the device, would it be above the common line?",q,MR. TICE,start_answer
+471,1854,71,17,"A part of it would be above the common line. My poorly drawn circle, about half of it would be above the common line.",a,THE WITNESS,start_question
+472,1857,71,20,Which half would be above the common line?,q,MR. TICE,start_answer
+473,1858,71,21,"The part that's to the left, that's sort of sitting above the ""11,"" and that part would be considered to be sitting above the common line.",a,THE WITNESS,start_question
+474,1861,71,24,Do you see the No. 242 on Figure 2? It's kind of on the top left.,q,MR. TICE,start_answer
+475,1864,72,1,Yes.,a,THE WITNESS,start_question
+476,1865,72,2,"If that number were a physical part of the device, would that physical location be above the common line?",q,MR. TICE,start_answer
+477,1867,72,4,Just the number?,a,THE WITNESS,start_question
+478,1868,72,5,Just the number.,q,MR. TICE,start_answer
+479,1869,72,6,"Just the number?  Mostly. It looks like maybe the last two would be off-- a little bit off the edge, but mostly it would be over the common line.",a,THE WITNESS,start_question
+480,1873,72,10,And you're referring to the 252 at the top right--,q,MR. TICE,start_answer
+481,1874,72,11,Yes.  Yes.  Yes.,a,THE WITNESS,start_question
+482,1875,72,12,"Okay.  Now, Column No. 5 that we discussed earlier talked about shifting the columnar spacer, and it showed the direction. Disclosed in that paragraph, is a columnar spacer being shifted toward that circle that you drew?",q,MR. TICE,start_answer
+483,1880,72,17,"According to-- yes, according to this description and this embodiment, yes.",a,THE WITNESS,start_question
+484,1882,72,19,"I know we have gone through this briefly earlier, but do you understand the problems that the inventors of the '327 patent set out to solve?",q,MR. TICE,start_answer
+485,1885,72,22,"My understanding is they set out to solve two problems: One was that because of this-- what they called sort of a shadowing effect when they do the rubbing, that downstream from the rubbing roller, that they don't get the same behavior because of the column sitting there and basically bumping up against the rubbing roller, that they wanted to shift the column further over under the black matrix, so they were going to relocate it so that this shadow effect would be hidden under the black matrix. The second problem that they said they were working on was that when there is pressure placed on the display, that there is a residual image formed, and their belief was that it was formed because the spacers are unable to move in response to that pressure. They then suggested a configuration that's shown in Figure 5B where the part of the spacer that contacts the lower substrate is actually-- has slight indentations, rubbing-- it's hard to say. It has a roughening. The surface is a little bit rough and it has little features on it which presumably makes it easier for it to move in response to pressure on the display. Those were the two problems that I believe they were trying to improve upon.",a,THE WITNESS,start_question
+486,1911,73,22,"Going back toward that first problem that you discussed, if you look at Column No. 2 of the '327 patent, right around Line No. 6 or 7, it says, ""It is an object of the present invention to provide""--",q,MR. TICE,start_answer
+487,1916,74,1,"I'm sorry, which line was it again?",a,THE WITNESS,start_question
+488,1917,74,2,"Sorry. It's the second line under the ""Summary of the invention"" heading. It starts with ""Specifically."" Do you see that sentence?",q,MR. TICE,start_answer
+489,1922,74,7,What is the line number?,a,THE WITNESS,start_question
+490,1923,74,8,"Column 2, line-- it looks about 7.",q,MR. TICE,start_answer
+491,1924,74,9,"Okay, now I see it.",a,THE WITNESS,start_question
+492,1925,74,10,"And it says, ""Specifically, it is an object of the present invention to provide a liquid crystal display device capable of eliminating an influence of shades (area where rubbing is insufficient) in rubbing an orientation film, the shades occurring due to columnar spacers."" Do you understand what is meant by that portion of the specification I just read?",q,MR. TICE,start_answer
+493,1933,74,18,Yes.,a,THE WITNESS,start_question
+494,1934,74,19,In your opinion would a person of ordinary skill in the art understand that portion of the specification that I just read?,q,MR. TICE,start_answer
+495,1937,74,22,"I think they would understand the description, yes.",a,THE WITNESS,start_question
+496,1938,74,23,Why would columnar spacers cause shades?,q,MR. TICE,start_answer
+497,1939,74,24,"Because the rubbing is a mechanical process. You can think of it as kind of a roller that rotates, and so the orientation film is uniformly placed over the substrate, so the rubbing roller, as a mechanical device-- if we can think of it that I have a roller coming over and here's a spacer, and it hits the spacer, and on the opposite side of the direction that the roller is moving, I don't get contact with the roller nap as it crosses over the spacer-- so there's an area, a small area, where the rubbing is slightly different than over the uniform surface. That is this shadowing effect that they're addressing in this particular invention, so no-- I think as far as is it understandable to one skilled in the art? Yes. If you know how the rubbing is done, you would understand that it's a mechanical process, that the roller comes over these little bumps, and then on the back side of the bumps you may not get the same rubbing effect as you do in a smooth surface.",a,THE WITNESS,start_question
+498,1960,75,19,Would a person of ordinary skill know how the rubbing is done?,q,MR. TICE,start_answer
+499,1962,75,21,"Given our definition of who is a person of ordinary skill, yes, because that's now been described in textbooks. It's pretty much known in the industry. There is a highly proprietary part to rubbing, exactly what materials are used, exactly what pressures are used, but the fact that it's done by a mechanical abrasion, in effect, by introducing microstructures into the orientation film, that is known.",a,THE WITNESS,start_question
+500,1972,76,5,"And I believe you mentioned this in the previous answer, but which side of the columnar spacers would the rubbing be insufficient?",q,MR. TICE,start_answer
+501,1975,76,8,"Well, basically it's on the side where-- the rubbing roller comes from, let's say, right to left-- left to right, so you have a column sitting up here, and the rubbing roller is rotating and is being brought across the surface. It would be on the-- it's the shadow side.  It's the side where-- where the rubbing roller approaches the column, it would not have a problem. Where the rubbing roller crosses over the column, it would be immediately on that back side where you might have a problem. By the way, since-- like I said, this rubbing technology is very proprietary.  There's all kinds of special methods. Not everyone would have the same level of issue or have the same level of problem. This is a particular situation that these inventors felt needed to be improved upon. Of course the other situation would be if I placed the spacers in a different place, I've compensated for this shadowing by my black matrix and I don't need to necessarily be concerned about this. That's what they're explaining here.",a,THE WITNESS,start_question
+502,1999,77,6,What problems are caused by the rubbing being insufficient on the back side of the columnar spacers?,q,MR. TICE,start_answer
+503,2001,77,8,"If I don't have the same uniformity in rubbing, the liquid crystal molecules will not necessarily orient in the same way, and if they don't orient the same way, then the light transmission will be affected, so I would get what they call this light leakage effect where there's-- the liquid crystal molecules didn't get reoriented sufficiently, so now when I want to have a fully black display, and the back light, of course, is always on, that I might have little places where I can see slight amounts of light leakage coming through.",a,THE WITNESS,start_question
+504,2011,77,18,Do you know what the inventors proposed to do to reduce or eliminate this problem of shading on the back side of the columnar spacers?,q,MR. TICE,start_answer
+505,2014,77,21,"What they proposed to do was to relocate the spacers, to move them further under the black matrix.",a,THE WITNESS,start_question
+506,2016,77,23,How would moving the spacers further under the black matrix reduce or eliminate this shading effect?,q,MR. TICE,start_answer
+507,2018,77,25,"Well, the shading effect is very localized. It's in that immediate vicinity of the spacer. In fact, the black matrix is used to define the active areas.  It's used to shade the TFT, so the black matrix is ubiquitous to all the displays. If I tuck the spacer further under the black matrix, this localized shadowing will be basically invisible to the viewer.",a,THE WITNESS,start_question
+508,2027,78,8,"When you were determining the scope of claim one of the '327 patent, did you consider this problem and proposed solution by the inventors, as described in the specification?",q,MR. TICE,start_answer
+509,2031,78,12,"I did consider that, but as-- I've been told that the claim has to be read in what it really says, that it's not read only in the context of the specification, that it can have additional-- it can capture additional configurations.",a,THE WITNESS,start_question
+510,2036,78,17,"In determining the scope of the claims, do you think a person of ordinary skill in the art would look to the problems and proposed solutions described in the specification?",q,MR. TICE,start_answer
+511,2040,78,21,"I think they would do very much what I did, which is what-- you read the patent, read the description in the patent, and then you look at the claim and say, ""Well, certainly if I try to understand the words that are in the claim,"" which-- I want to make sure-- I still don't understand them. ""Well, certainly the claim is intended to cover the exemplary embodiments""-- so if I look at the exemplary embodiments and I look at the claim, yes, the claim could be read to encompass those exemplary embodiments, if I really-- using an exemplary body as more so than the language of the claim.",a,THE WITNESS,start_question
+512,2053,79,8,So does the specification provide any context for this shifting direction of the columnar spacer?,q,MR. TICE,start_chat
+513,2055,79,10,Objection; form.,side_chat,MR. APREOTESI,start_chat
+514,2056,79,11,The exemplary embodiments provide guidance on the shifting direction. The claim does not.,side_chat,THE WITNESS,start_question
+515,2059,79,14,"(By Mr. Tice)  Let's turn to Page 6 of your report. I want to look at Paragraph No. 25 where you state the qualifications of a person of ordinary skill in the art. How did you determine what a person of ordinary skill in the art would be, in relation to the '327 patent?",q,MR. TICE,start_answer
+516,2066,79,21,"We know that there are no specific degrees in liquid crystal display technology. Maybe there are in China or Korea, but not in the U.S., so our beginning point has to be, ""What would""-- within the context of these patents and within the context of skill sets available to us, ""What engineering degree would they have had,"" and really the physics, optics, electrical engineering, those are all appropriate degrees, and then you do need-- to understand this patent, you do need some experience in the field of display technology, which today specifically would be liquid crystal displays as the most dominant technology. It's an approximate listing of skills and experience. If you told me it should be four years or two years, I wouldn't have a giant argument over it. It really depends on where they're working and what they're doing and do they understand this kind of a structure.",a,THE WITNESS,start_question
+517,2086,80,15,"Would it be possible for a person of ordinary skill-- strike that. Would it be possible for a person to meet the requirements of a person of ordinary skill and not have an undergraduate degree in physics, optics, or electrical engineering?",q,MR. TICE,start_answer
+518,2092,80,21,"It would be-- in all of our-- I have managed quite large groups in my past. The current position is that you always put in ""or equivalent,"" so yeah, it does not-- you cannot really hire people just based on having a certain degree. If they have the experience base, if they have worked in the field, if they have the experience-- so perhaps something here should have said ""or equivalent,"" but yeah, a degree is not mandatory in order to be working in this field.",a,THE WITNESS,start_chat
+519,2103,81,6,Let's take another quick break. VIDEOGRAPHER,side_chat,MR. TICE,is brackets
+520,2109,81,12,(Recess 10:26 to 10:38 a.m.) VIDEOGRAPHER:  This is the beginning of Media Unit No. 2 in the video deposition of Dr. Silzars.  We are going on the record.  The time is 10:38.,brackets,,start_chat
+521,2114,81,17,"All right.  Dr. Silzars, that's all the questions I have for you at this time. Thank you for coming out and spending your time with us this morning.",side_chat,MR. TICE,start_chat
+522,2118,81,21,You're welcome. EXAMINATION,side_chat,THE WITNESS,start_question
+523,2121,81,24,"Dr. Silzars, I only have a few questions for you. Earlier today you were asked questions about whether a device could possibly only have one common line. Do you recall that?",q,MR. APREOTESI,start_answer
+524,2126,82,3,Yes.,a,THE WITNESS,start_question
+525,2127,82,4,What-- in that situation what types of devices would only have one common line?,q,MR. APREOTESI,start_answer
+526,2129,82,6,"What I was describing at that point were generally basically all the possibilities for liquid crystal displays, and ones that are twisted nematic or vertically aligned, the common electrode is on the top surface, the upper surface where the color filters are. For those types of displays, we only need a connection.  We need to make one connection to that display, but the connection has to be to the outside world. Where we make that connection would be considered a common line, or the alternative wording that we sometimes use is ""wiring,"" so you have to connect to any kind of electrode, and the line is what we use to make that connection. If the electrode is of uniform over the entire surface, we only need one connection, so at the periphery we would need a common line or a common connection.",a,THE WITNESS,start_question
+527,2146,82,23,"So in that situation, with a single common line for a TN or a vertically aligned device, would the common line also be on the color filter substrate?",q,MR. APREOTESI,start_answer
+528,2150,83,1,Yes.,a,THE WITNESS,start_question
+529,2151,83,2,Same as the common electrode?,q,MR. APREOTESI,start_answer
+530,2152,83,3,"Yes, it would be.",a,THE WITNESS,start_chat
+531,2153,83,4,No further questions.,side_chat,MR. APREOTESI,start_chat
+532,2154,83,5,None from me. VIDEOGRAPHER,side_chat,MR. TICE,is brackets
+533,2159,83,10,(Deposition concluded at 10:40 a.m.),brackets,,is brackets
+534,2160,83,11,"(Signature reserved.) A F F I D A V I T STATE OF WASHINGTON ) County of Pierce    ) I, Aris Silzars, Ph.D., hereby declare under penalty of perjury that I have read the foregoing deposition and that the testimony contained herein is a true and correct transcript of my testimony, noting the attached corrections.",brackets,,symbols
+535,2191,84,15,"_____________________________ Aris Silzars, Ph.D. Date:  ____________________ CORRECTION SHEET Date:  08/26/2019 Cause No.: 2:18-CV-276-JRG and 2:18-CV-278-JRG and 2:18-CV-279-JRG correction sheet make any changes or corrections in form or substance necessary.  After completing this form, please sign your name in the Please do not mark the transcript.  Thank you. PAGE #    LINE #    CORRECTION                REASON FOR CORRECTION SIGNATURE OF WITNESS:________________________________________________________ C E R T I F I C A T E )  ss. I, the undersigned Washington Certified Court administer oaths and affirmations in and for the State of deposition of the witness named herein was taken under my direction; That, according to CR 30(e), the witness was deposition after same was transcribed, unless indicated in attorney or counsel of participant and that I am not outcome herein; That the deposition as transcribed is a full, true and correct transcript of the testimony, including questions and answers and all objections, motions, and examinations, and said transcript was prepared pursuant to the Washington Administrative Code 308-14-135 preparation guidelines. Terilynn Simons, CCR, RMR, CRR, CLR Certified Court Reporter No. UNITED STATES DISTRICT COURT VISTA PEAK VENTURES, LLC,             ) Plaintiff,       ) vs.                  ) AU OPTRONICS CORP.,                   ) 2:18-CV-278-JRG Defendant.       )",symbols,,symbols
+536,2283,87,8,") I, Terilynn Simons, Certified Shorthand Reporter, hereby certify to the following: That the witness, Aris Silzars, Ph.D., was duly sworn by the officer and that the transcript of the oral deposition is a true record of the testimony given by the witness; That the deposition transcript was submitted on August 30, 2019, to the witness or to the attorney for the witness for examination, signature and return to me by September 30, 2019; That the amount of time used by each party at the deposition is as follows: Jerry Tice:  2 hours and 18 minutes Mario Apreotesi:  2 minutes",symbols,,end

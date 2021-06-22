@@ -1,0 +1,306 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,139,5,15,- - - EXAMINATION,symbols,,symbols
+2,141,5,17,- - -,symbols,,start_question
+3,143,5,19,"Good afternoon, gentleman.  If it's okay with everybody, I'm going to give everybody instructions now.  That way it will cut our time a little bit. First and foremost, make sure you understand all of the questions that I or any of the attorneys are about to ask you.  If you don't understand a question, let me know. I'll be happy to rephrase it or change it so you understand the question. The interpreter cannot have a conversation with you.  He can only interpret what you say and what I say.  If you need clarification, just say that you need clarification and I will clarify the question. If you simply answer the question, I'm going to assume and the record is going to reflect a few things; first, that you heard the entire question; second, that you understood the entire question; third, that you gave an honest answer to that question. You need to answer all the questions with an actual word.  Shaking your head or shrugging your shoulders cannot be interpreted by the interpreter. If you don't remember something, tell me you don't remember.  If you don't know something, tell me you don't know.  If you can estimate something, like time, distance or speed, go ahead and do that.  Just let us know that you're estimating. Have you understood all of those instructions Mr. Nguyen?",q,MS. SCHWEIKERT,start_answer
+4,179,7,5,Yes.,a,THE WITNESS,start_question
+5,180,7,6,Have you understood all of those instructions Mr. Pham?,q,MS. SCHWEIKERT,start_answer
+6,182,7,8,I do.,a,THE WITNESS,start_question
+7,183,7,9,Have you understood all those instructions Mr. Vu?,q,MS. SCHWEIKERT,start_answer
+8,185,7,11,I do.,a,THE WITNESS,start_question
+9,186,7,12,"You two are off the hot seat for a minute. Mr. Nguyen, do you understand any English?",q,MS. SCHWEIKERT,start_answer
+10,190,7,16,No.,a,THE WITNESS,start_question
+11,191,7,17,Do you speak any English?,q,MS. SCHWEIKERT,start_answer
+12,192,7,18,No.,a,THE WITNESS,start_question
+13,193,7,19,"Before coming in here today, did you review any documents or paperwork?",q,MS. SCHWEIKERT,start_answer
+14,195,7,21,No.,a,THE WITNESS,start_question
+15,196,7,22,"As you sit here today, did you take any medication for anything?",q,MS. SCHWEIKERT,start_answer
+16,198,7,24,No.,a,THE WITNESS,start_question
+17,200,8,1,Have you ever given a deposition before?,q,MS. SCHWEIKERT,start_answer
+18,202,8,3,This is my first time.,a,THE WITNESS,start_question
+19,203,8,4,Have you ever had to hire a lawyer before for any kind of injury?,q,MS. SCHWEIKERT,start_chat
+20,205,8,6,I'm going to repeat the question again.,side_chat,THE INTERPRETER,start_chat
+21,207,8,8,"Yes, I did.",side_chat,THE WITNESS,start_question
+22,209,8,10,How many times?,q,MS. SCHWEIKERT,start_answer
+23,210,8,11,Once.,a,THE WITNESS,start_question
+24,211,8,12,When was that?,q,MS. SCHWEIKERT,start_answer
+25,212,8,13,I don't remember.,a,THE WITNESS,start_question
+26,213,8,14,Can you tell me about approximately how many years ago?,q,MS. SCHWEIKERT,start_answer
+27,215,8,16,Right after the accident happened.,a,THE WITNESS,start_question
+28,216,8,17,How many accidents have you been in?,q,MS. SCHWEIKERT,start_answer
+29,217,8,18,Not any time.,a,THE WITNESS,start_question
+30,218,8,19,This is your first accident you ever had?,q,MS. SCHWEIKERT,start_answer
+31,220,8,21,Yes.,a,THE WITNESS,start_question
+32,221,8,22,Did you ever have to hire a lawyer before for any reason?,q,MS. SCHWEIKERT,start_answer
+33,223,8,24,No.,a,THE WITNESS,start_question
+34,225,9,1,What is your full name?,q,MS. SCHWEIKERT,start_answer
+35,226,9,2,Minh Nguyen.,a,THE WITNESS,start_question
+36,227,9,3,What is your date of birth?,q,MS. SCHWEIKERT,start_answer
+37,228,9,4,"March 21, 1984.",a,THE WITNESS,start_chat
+38,229,9,5,Off the record.,side_chat,MS. SCHWEIKERT,symbols
+39,230,9,6,- - -,symbols,,is brackets
+40,231,9,7,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+41,233,9,9,- - -,symbols,,start_question
+42,235,9,11,I'm just going to confirm the last four digits of the Social Security you gave me as 3782; is that correct?,q,MS. SCHWEIKERT,start_answer
+43,238,9,14,Yes.,a,THE WITNESS,start_question
+44,239,9,15,What is your current address?,q,MS. SCHWEIKERT,start_answer
+45,240,9,16,"6910 Raven Meadow Drive, R-A-V-E-N, M-E-A-D-O-W Drive, Arlington, Texas 76002.",a,THE WITNESS,start_question
+46,242,9,18,"We are here for an accident that occurred, according to my records, December 7, 2016. Does that sound about right to you?",q,MS. SCHWEIKERT,start_chat
+47,246,9,22,Can you repeat that again?,side_chat,THE INTERPRETER,start_question
+48,251,10,2,"We're here for an accident that occurred, according to my records, as December 7, 2016. Does that sound correct to you?",q,MS. SCHWEIKERT,start_answer
+49,255,10,6,I can't recall it.  It was a long time ago.,a,THE WITNESS,start_question
+50,257,10,8,Was it in December 2016?,q,MS. SCHWEIKERT,start_answer
+51,258,10,9,I don't recall it wasn't in 2016.,a,THE WITNESS,start_question
+52,259,10,10,"If the records indicate that the accident happened on December 7, 2016, do you have any reason to disagree with that?",q,MS. SCHWEIKERT,start_answer
+53,262,10,13,"If that is the day, than I don't have any reason to disagree with it.",a,THE WITNESS,start_question
+54,264,10,15,"Back at the time, were you employed?",q,MS. SCHWEIKERT,start_answer
+55,265,10,16,"Yes, I was employed.",a,THE WITNESS,start_question
+56,266,10,17,What did you do?,q,MS. SCHWEIKERT,start_answer
+57,267,10,18,Nail tech.,a,THE WITNESS,start_question
+58,268,10,19,Where at?,q,MS. SCHWEIKERT,start_answer
+59,269,10,20,New Jersey.,a,THE WITNESS,start_question
+60,270,10,21,Are you currently employed?,q,MS. SCHWEIKERT,start_answer
+61,271,10,22,Yes.,a,THE WITNESS,start_question
+62,272,10,23,What do you do now?,q,MS. SCHWEIKERT,start_answer
+63,273,10,24,Nail tech.,a,THE WITNESS,start_question
+64,275,11,1,In Arlington?,q,MS. SCHWEIKERT,start_answer
+65,276,11,2,City Fort Worth.,a,THE WITNESS,start_question
+66,277,11,3,"At the time of this accident, had you ever been convicted of or pled guilty to a crime of dishonesty?  Let me explain to you what those are.",q,MS. SCHWEIKERT,start_answer
+67,281,11,7,"I can't hear you.  Well, can the interpreter repeat that for me again?",a,THE WITNESS,start_question
+68,283,11,9,"Had you ever been convicted of or pled guilty to a crime of dishonesty, like robbery, burglary, retail theft, anything like that?",q,MS. SCHWEIKERT,start_answer
+69,287,11,13,No.,a,THE WITNESS,start_question
+70,288,11,14,"At the time of this accident -- when I say this accident, I'm talking about the accident that we're here for today -- did you have a valid Pennsylvania driver's license?",q,MS. SCHWEIKERT,start_answer
+71,292,11,18,"Yes, I did.",a,THE WITNESS,start_question
+72,293,11,19,Has that license ever been suspended or revoked?,q,MS. SCHWEIKERT,start_answer
+73,295,11,21,No.,a,THE WITNESS,start_question
+74,296,11,22,"At the time of this accident, were you married?",q,MS. SCHWEIKERT,start_answer
+75,298,11,24,Yes.,a,THE WITNESS,start_question
+76,300,12,1,Do you have any children?,q,MS. SCHWEIKERT,start_answer
+77,301,12,2,"No, I don't have children.",a,THE WITNESS,start_question
+78,302,12,3,"At the time of this accident, who all lived with you?",q,MS. SCHWEIKERT,start_answer
+79,304,12,5,"Please, may the interpreter repeat your question again.",a,THE WITNESS,start_question
+80,306,12,7,"When the accident happened, who lived with you?",q,MS. SCHWEIKERT,start_answer
+81,308,12,9,My friend right there.,a,THE WITNESS,start_question
+82,309,12,10,Mr. Pham?,q,MS. SCHWEIKERT,start_answer
+83,310,12,11,Yes.,a,THE WITNESS,start_question
+84,311,12,12,Anyone else?,q,MS. SCHWEIKERT,start_answer
+85,312,12,13,That's all.,a,THE WITNESS,start_question
+86,313,12,14,How do you know Mr. Pham?,q,MS. SCHWEIKERT,start_answer
+87,314,12,15,"When I first stepped foot on the US soil, Pham is the one who helped me with translation and take me to the driver's license.",a,THE WITNESS,start_question
+88,318,12,19,When was that?  When did you come to the United States?,q,MS. SCHWEIKERT,start_answer
+89,320,12,21,July 2002.,a,THE WITNESS,start_question
+90,321,12,22,Did you live with Mr. Pham when you first came to the US in 2002?,q,MS. SCHWEIKERT,start_answer
+91,323,12,24,"No, I was living with my wife.",a,THE WITNESS,start_question
+92,325,13,1,What is your wife's name?,q,MS. SCHWEIKERT,start_answer
+93,326,13,2,"Linh My Long, L-I-N-H, middle name is M-Y, last name is L-O-N-G.",a,THE WITNESS,start_question
+94,328,13,4,When did you first have Mr. Pham start to live with you?,q,MS. SCHWEIKERT,start_answer
+95,330,13,6,2014.,a,THE WITNESS,start_question
+96,331,13,7,Where was your wife living in 2014?,q,MS. SCHWEIKERT,start_answer
+97,332,13,8,You mean in 2004 or before 2014?,a,THE WITNESS,start_question
+98,333,13,9,"In 2014 when you started living with Mr. Pham, was your wife living with you, as well?",q,MS. SCHWEIKERT,start_answer
+99,336,13,12,Yes.,a,THE WITNESS,start_question
+100,337,13,13,You indicated on the day of the accident you were just living with Mr. Pham. Where was your wife living when the accident happened?,q,MS. SCHWEIKERT,start_answer
+101,341,13,17,"At the time of the accident, my wife went to visit her sister.",a,THE WITNESS,start_question
+102,343,13,19,But she was living there; she just wasn't at home.  Is that what I understand then?,q,MS. SCHWEIKERT,start_answer
+103,346,13,22,Yeah.,a,THE WITNESS,start_question
+104,347,13,23,"On the day of the accident, where were you heading to?",q,MS. SCHWEIKERT,start_answer
+105,350,14,1,You meant before the accident happened?  Can you repeat?,a,THE WITNESS,start_question
+106,352,14,3,"When the accident happened, had it not happened, where would you go?",q,MS. SCHWEIKERT,start_answer
+107,354,14,5,"On that day of the accident, I had an appointment with the immigration in Delaware.",a,THE WITNESS,start_question
+108,356,14,7,What time was your appointment?,q,MS. SCHWEIKERT,start_answer
+109,357,14,8,It's been a long time.  I can't recall it.,a,THE WITNESS,start_question
+110,359,14,10,What was the appointment for?,q,MS. SCHWEIKERT,start_answer
+111,360,14,11,The appointment for the immigration inquiry.,a,THE WITNESS,start_question
+112,362,14,13,Is that on your way to citizenship?,q,MS. SCHWEIKERT,start_answer
+113,363,14,14,"May I ask a question, because that appointment doesn't relate to the accident at all.",a,THE WITNESS,start_question
+114,366,14,17,Let me ask it a different way. What would happen if you missed that appointment?,q,MS. SCHWEIKERT,start_answer
+115,369,14,20,Yes.,a,THE WITNESS,start_question
+116,370,14,21,What would happen if you missed the appointment?,q,MS. SCHWEIKERT,start_chat
+117,372,14,23,Objection. You can answer.,side_chat,MS. KATHOPOULIS,start_chat
+118,375,15,1,The appointment is for my extension because I need to go back to Vietnam to visit my mother.,side_chat,THE WITNESS,start_question
+119,379,15,5,Why was Mr. Pham and Mr. Vu with you that day?,q,MS. SCHWEIKERT,start_answer
+120,381,15,7,Mr. Pham is the person who was helping me with the language barrier.,a,THE WITNESS,start_question
+121,383,15,9,Why was Mr. Vu there?,q,MS. SCHWEIKERT,start_answer
+122,384,15,10,He just follow us for fun.,a,THE WITNESS,start_question
+123,385,15,11,How do you know Mr. Vu?,q,MS. SCHWEIKERT,start_answer
+124,386,15,12,I met him at the supermarket.,a,THE WITNESS,start_question
+125,387,15,13,How long ago?,q,MS. SCHWEIKERT,start_answer
+126,388,15,14,It's been a long time.  I can't recall it.,a,THE WITNESS,start_question
+127,390,15,16,Is it before or after Mr. Pham started living with you in 2014?,q,MS. SCHWEIKERT,start_answer
+128,392,15,18,I don't understand the question.,a,THE WITNESS,start_question
+129,393,15,19,Did you meet Mr. Vu before Mr. Pham started living with you in 2014 or after he started living with you?,q,MS. SCHWEIKERT,start_answer
+130,396,15,22,I don't remember.,a,THE WITNESS,start_question
+131,397,15,23,I'm just trying to get an idea of how long you've known him. How long have you known Mr. Vu?,q,MS. SCHWEIKERT,start_answer
+132,401,16,2,I can't recall it.,a,THE WITNESS,start_question
+133,402,16,3,Was it only a year ago before the accident?  Was it five years before the accident? Can you give me any idea of how long ago you met Mr. Vu?,q,MS. SCHWEIKERT,start_chat
+134,407,16,8,Objection. You can answer.,side_chat,MS. KATHOPOULIS,start_chat
+135,409,16,10,Five years before the accident.  That's an estimate.  It's not a year.,side_chat,THE WITNESS,start_question
+136,413,16,14,"Understood.  That's fine. In the six months or so before this accident, how often did you talk to Mr. Vu?",q,MS. SCHWEIKERT,start_answer
+137,416,16,17,I can't recall.,a,THE WITNESS,start_question
+138,417,16,18,"Did you pick Mr. Vu up the day of the accident, or did he come to you?",q,MS. SCHWEIKERT,start_answer
+139,419,16,20,"It happened a long time ago, and I have not paid much attention to this accident because it's not a major problem so I can't recall it.",a,THE WITNESS,start_question
+140,423,16,24,You don't know how it came to be that Mr. Vu got into your car?,q,MS. SCHWEIKERT,start_chat
+141,426,17,2,Objection. You can answer.,side_chat,MS. KATHOPOULIS,start_chat
+142,428,17,4,It's as simple as Mr. Vu just want to come along with us for fun.,side_chat,THE WITNESS,start_question
+143,432,17,8,How did you make those arrangements?,q,MS. SCHWEIKERT,start_answer
+144,433,17,9,I can't recall.  It's been a time ago. I can't recall.,a,THE WITNESS,start_question
+145,435,17,11,When was the last time before this accident that you saw or spoke to Mr. Vu?,q,MS. SCHWEIKERT,start_answer
+146,437,17,13,I don't understand the question.,a,THE WITNESS,start_question
+147,438,17,14,Do you remember when the last time you saw Mr. Vu or talked to him over the phone before this accident happened?,q,MS. SCHWEIKERT,start_answer
+148,441,17,17,Talk on the phone?,a,THE WITNESS,start_question
+149,442,17,18,Either one.,q,MS. SCHWEIKERT,start_answer
+150,443,17,19,I don't recall.,a,THE WITNESS,start_question
+151,444,17,20,"Where did you come from? Did you come right from your house, or did you go stop someplace else before you were on your way to Delaware?",q,MS. SCHWEIKERT,start_answer
+152,448,17,24,From my house.,a,THE WITNESS,start_question
+153,450,18,1,Do you recall what time you left your house?,q,MS. SCHWEIKERT,start_answer
+154,452,18,3,I don't recall.,a,THE WITNESS,start_question
+155,453,18,4,Do you have any documentation that would tell us what time your appointment was in Delaware?,q,MS. SCHWEIKERT,start_answer
+156,456,18,7,I need to check my e-mail.,a,THE WITNESS,start_question
+157,457,18,8,"If you could do that, provide that to your attorney so that we can get it.",q,MS. SCHWEIKERT,start_answer
+158,459,18,10,Okay.,a,THE WITNESS,start_question
+159,460,18,11,What route did you take from your house to where the accident happened?,q,MS. SCHWEIKERT,start_answer
+160,462,18,13,I can't recall the street name.,a,THE WITNESS,start_question
+161,463,18,14,Can you tell me any of the major streets that you took?,q,MS. SCHWEIKERT,start_answer
+162,465,18,16,I only remember I took the Route 1.,a,THE WITNESS,start_question
+163,466,18,17,Did you know how you were going to get to Delaware? Did you know the directions for Delaware?,q,MS. SCHWEIKERT,start_answer
+164,470,18,21,Because I turn on the GPS and I just follow the GPS.,a,THE WITNESS,start_question
+165,472,18,23,Were you running late at all for your appointment before the accident happened?,q,MS. SCHWEIKERT,start_answer
+166,475,19,1,No.,a,THE WITNESS,start_question
+167,476,19,2,Do you recall how long the GPS told you it was going to take to get to Delaware?,q,MS. SCHWEIKERT,start_answer
+168,478,19,4,I can't recall.,a,THE WITNESS,start_question
+169,479,19,5,"When you were on Route 1, what lane were you traveling in?",q,MS. SCHWEIKERT,start_chat
+170,481,19,7,Objection. Are we talking about immediately before the accident?,side_chat,MS. KATHOPOULIS,start_question
+171,485,19,11,"From the first time you remember being on Route 1, what's the first lane you remember being in?",q,MS. SCHWEIKERT,start_answer
+172,488,19,14,"The left lane, like close to the water.",a,THE WITNESS,start_question
+173,490,19,16,Did you ever move from the left lane at any point from the time you remember being on Route 1 until the time of the accident?,q,MS. SCHWEIKERT,start_answer
+174,493,19,19,No.,a,THE WITNESS,start_question
+175,494,19,20,Do you remember how long you were on Route 1 in the left lane before the accident happened?,q,MS. SCHWEIKERT,start_answer
+176,497,19,23,I can't recall.,a,THE WITNESS,start_question
+177,498,19,24,Was it more than five minutes?,q,MS. SCHWEIKERT,start_answer
+178,500,20,1,I don't understand your question.,a,THE WITNESS,start_question
+179,501,20,2,Were you on Route 1 more than five minutes before the accident happened?,q,MS. SCHWEIKERT,start_answer
+180,503,20,4,No.  I just was on Route 1 and then got hit.,a,THE WITNESS,start_question
+181,505,20,6,You don't remember how long you were on Route 1?,q,MS. SCHWEIKERT,start_answer
+182,507,20,8,I can't recall.,a,THE WITNESS,start_question
+183,508,20,9,Tell me what you remember happening.,q,MS. SCHWEIKERT,start_answer
+184,509,20,10,"I was traveling on Route 1, and all the sudden I heard a bang noise.",a,THE WITNESS,start_question
+185,511,20,12,Where did you hear the bang noise from?,q,MS. SCHWEIKERT,start_answer
+186,513,20,14,I heard the noise come from my right side.,a,THE WITNESS,start_question
+187,515,20,16,Did you see anything?,q,MS. SCHWEIKERT,start_answer
+188,516,20,17,I just paid focus on driving.  All the sudden I heard a bang and then I lost control and I got stuck in the water.,a,THE WITNESS,start_question
+189,519,20,20,"My question was, did you see anything, or was it that you just heard something?",q,MS. SCHWEIKERT,start_answer
+190,521,20,22,"When I was driving, I just got hit from the right side with a big bang.  That's what I remember.",a,THE WITNESS,start_question
+191,525,21,1,You just heard it; you did not see it; is that correct?,q,MS. SCHWEIKERT,start_answer
+192,527,21,3,"Yes, that's correct.",a,THE WITNESS,start_question
+193,528,21,4,"Was the bang coming from the front of your car, the back of your car, somewhere in the middle, do you know?",q,MS. SCHWEIKERT,start_answer
+194,531,21,7,I only heard the big bang.  I didn't know if it come from the front or the back.,a,THE WITNESS,start_question
+195,533,21,9,What happened after you heard the big bang?,q,MS. SCHWEIKERT,start_answer
+196,535,21,11,"After I heard the big bang, I realized there was an accident.",a,THE WITNESS,start_question
+197,537,21,13,Did you hit the brakes when you heard the big bang?,q,MS. SCHWEIKERT,start_answer
+198,539,21,15,I have to.,a,THE WITNESS,start_question
+199,540,21,16,"When you came to a stop, where were you?  What lane were you in?",q,MS. SCHWEIKERT,start_answer
+200,542,21,18,I can't recall it.,a,THE WITNESS,start_question
+201,543,21,19,"At the time of the accident in 2016, how long had you had your driver's license?",q,MS. SCHWEIKERT,start_answer
+202,545,21,21,I can't recall.,a,THE WITNESS,start_question
+203,546,21,22,More than a year?,q,MS. SCHWEIKERT,start_answer
+204,547,21,23,"Yes, more than a year.",a,THE WITNESS,start_question
+205,548,21,24,"Once you come to a rest or once the car comes to a stop, what's the next thing that happens?",q,MS. SCHWEIKERT,start_answer
+206,552,22,3,I don't understand your question.,a,THE WITNESS,start_question
+207,553,22,4,What happens after the accident?,q,MS. SCHWEIKERT,start_answer
+208,554,22,5,I saw the person sitting next to me call the police.,a,THE WITNESS,start_question
+209,556,22,7,What else happened?,q,MS. SCHWEIKERT,start_answer
+210,557,22,8,I saw the person sitting next to me call the police and also call the ambulance to take that gentleman sitting across from me to the hospital.,a,THE WITNESS,start_question
+211,561,22,12,Mr. Vu?,q,MS. SCHWEIKERT,start_answer
+212,562,22,13,Yes.,a,THE WITNESS,start_question
+213,563,22,14,Did you make any phone calls from the accident scene?,q,MS. SCHWEIKERT,start_answer
+214,565,22,16,"No, no, I did not.",a,THE WITNESS,start_question
+215,566,22,17,Did you ever make it to your appointment in Delaware?,q,MS. SCHWEIKERT,start_answer
+216,568,22,19,I don't understand the question.,a,THE WITNESS,start_question
+217,569,22,20,Did you ever get to Delaware that day?,q,MS. SCHWEIKERT,start_answer
+218,570,22,21,I can't recall.,a,THE WITNESS,start_question
+219,571,22,22,You can't remember if you made it to your appointment for immigration?,q,MS. SCHWEIKERT,start_answer
+220,573,22,24,"Yes, I did because I went there for the appointment.",a,THE WITNESS,start_question
+221,576,23,2,After the accident you continued on to go to Delaware?,q,MS. SCHWEIKERT,start_answer
+222,578,23,4,"I can't recall, sorry.",a,THE WITNESS,start_question
+223,579,23,5,Do you remember where you went after the accident?,q,MS. SCHWEIKERT,start_answer
+224,581,23,7,"At the accident scene, I was frightened, and I can't recall anything other than seeing the person sitting next to me call the police and call the ambulance to take that gentleman to the hospital.",a,THE WITNESS,start_question
+225,586,23,12,"Just so I understand, you don't remember where you went after the accident?",q,MS. SCHWEIKERT,start_chat
+226,588,23,14,Objection. You can answer.,side_chat,MS. KATHOPOULIS,start_chat
+227,590,23,16,I can't recall.,side_chat,THE WITNESS,start_question
+228,592,23,18,Do you remember how fast you were going in the left lane before the accident happened?,q,MS. SCHWEIKERT,start_answer
+229,595,23,21,"I just drove the limit of the speed, but I can't recall how fast I went.",a,THE WITNESS,start_question
+230,597,23,23,Do you recall how fast the speed limit was?,q,MS. SCHWEIKERT,start_answer
+231,600,24,1,I can't recall.,a,THE WITNESS,start_question
+232,601,24,2,Did your speed change at all until the minute or so before the accident? Did you speed up?  Did you slow down? Did you maintain the same speed within a minute before the accident?,q,MS. SCHWEIKERT,start_answer
+233,606,24,7,The same speed.,a,THE WITNESS,start_question
+234,607,24,8,Who was sitting in the front passenger seat of your car?,q,MS. SCHWEIKERT,start_answer
+235,609,24,10,Mr. Pham.,a,THE WITNESS,start_question
+236,610,24,11,Where was Mr. Vu seated in the car?,q,MS. SCHWEIKERT,start_answer
+237,611,24,12,The rear passenger seat.,a,THE WITNESS,start_question
+238,612,24,13,Was that behind you or behind Mr. Pham?,q,MS. SCHWEIKERT,start_answer
+239,614,24,15,I can't recall.,a,THE WITNESS,start_question
+240,615,24,16,"At any time before the accident, did anyone in the car say anything to you about what was about to happen?",q,MS. SCHWEIKERT,start_answer
+241,618,24,19,No.,a,THE WITNESS,start_question
+242,619,24,20,"No one said look out, slow down, anything like that?",q,MS. SCHWEIKERT,start_answer
+243,621,24,22,"I just drive with a normal speed, nothing else.",a,THE WITNESS,start_question
+244,623,24,24,"After the accident, did you ever see Mr. Vu after that?",q,MS. SCHWEIKERT,start_answer
+245,626,25,2,"Yes, I did.",a,THE WITNESS,start_question
+246,627,25,3,How often did you see Mr. Vu after the accident?,q,MS. SCHWEIKERT,start_answer
+247,629,25,5,"Sometimes once in two weeks, sometimes once a month.",a,THE WITNESS,start_question
+248,631,25,7,Did you ever go to treatment with Mr. Vu and Mr. Pham?,q,MS. SCHWEIKERT,start_answer
+249,633,25,9,"Yes, I went Mr. Pham.",a,THE WITNESS,start_question
+250,634,25,10,"When you went with Mr. Pham, was Mr. Vu there, as well?",q,MS. SCHWEIKERT,start_answer
+251,636,25,12,I can't recall.,a,THE WITNESS,start_question
+252,637,25,13,Was Mr. Vu ever with you and Mr. Pham when you went to treatment?,q,MS. SCHWEIKERT,start_answer
+253,639,25,15,I can't recall.,a,THE WITNESS,start_question
+254,640,25,16,Was your car able to drive away from the scene?,q,MS. SCHWEIKERT,start_answer
+255,642,25,18,Yes.,a,THE WITNESS,start_question
+256,643,25,19,"The car that you were driving, was that your car?",q,MS. SCHWEIKERT,start_answer
+257,645,25,21,May you repeat the question.,a,THE WITNESS,start_question
+258,646,25,22,"The car that you were driving, was that your car?",q,MS. SCHWEIKERT,start_answer
+259,648,25,24,Yes.,a,THE WITNESS,start_question
+260,650,26,1,Did you have insurance on that car?,q,MS. SCHWEIKERT,start_answer
+261,651,26,2,Yes.,a,THE WITNESS,start_question
+262,652,26,3,That was with Eerie Insurance?,q,MS. SCHWEIKERT,start_answer
+263,653,26,4,Yes.,a,THE WITNESS,start_question
+264,654,26,5,"When Mr. Pham lived with you, did he have a car?",q,MS. SCHWEIKERT,start_answer
+265,656,26,7,"Yes, he did.",a,THE WITNESS,start_question
+266,657,26,8,Do you know if Mr. Vu had a car?,q,MS. SCHWEIKERT,start_answer
+267,658,26,9,I don't understand the question.,a,THE WITNESS,start_question
+268,659,26,10,Did you ever talk to Mr. Pham or Mr. Vu about any injuries they had from this accident?,q,MS. SCHWEIKERT,start_answer
+269,662,26,13,"Yes, I did.",a,THE WITNESS,start_question
+270,663,26,14,What was the conversation?,q,MS. SCHWEIKERT,start_answer
+271,664,26,15,I call and check on them.,a,THE WITNESS,start_question
+272,665,26,16,What did they tell you?,q,MS. SCHWEIKERT,start_answer
+273,666,26,17,They told me that they have lower back pain.,a,THE WITNESS,start_question
+274,668,26,19,Both of them?,q,MS. SCHWEIKERT,start_answer
+275,669,26,20,I remember they told me that they have low back pain and pain at the back of their neck.,a,THE WITNESS,start_question
+276,672,26,23,Both of them?,q,MS. SCHWEIKERT,start_answer
+277,673,26,24,Yes.,a,THE WITNESS,start_question
+278,675,27,1,Did you ever notice anything different about Mr. Pham after this accident?,q,MS. SCHWEIKERT,start_answer
+279,677,27,3,I don't understand this question.,a,THE WITNESS,start_question
+280,678,27,4,Was Mr. Pham any different after the accident than he was before in any way?,q,MS. SCHWEIKERT,start_answer
+281,680,27,6,He always complained to me that he had pain.,a,THE WITNESS,start_question
+282,682,27,8,But did you ever see anything about him?,q,MS. SCHWEIKERT,start_answer
+283,684,27,10,"Because I was busy working, I didn't pay attention.  I didn't see it.",a,THE WITNESS,start_question
+284,686,27,12,"What about Mr. Vu, did you ever notice anything different about Mr. Vu after the accident?",q,MS. SCHWEIKERT,start_answer
+285,689,27,15,"Yes, I saw him get weaker.",a,THE WITNESS,start_question
+286,690,27,16,In what way?,q,MS. SCHWEIKERT,start_answer
+287,691,27,17,I see him have difficult time eating. That's why he got weaker.,a,THE WITNESS,start_question
+288,693,27,19,When did you move out with Mr. Pham? When did you stop living together?,q,MS. SCHWEIKERT,start_answer
+289,695,27,21,I don't understand the question.,a,THE WITNESS,start_question
+290,696,27,22,"Did you live with Mr. Pham, or did Mr. Pham live with you?",q,MS. SCHWEIKERT,start_answer
+291,698,27,24,I lived with Mr. Pham.,a,THE WITNESS,start_question
+292,700,28,1,When did you move out of Mr. Pham's house?,q,MS. SCHWEIKERT,start_answer
+293,702,28,3,I can't recall.,a,THE WITNESS,start_question
+294,703,28,4,"When you moved out of Mr. Pham's house, where did you go?",q,MS. SCHWEIKERT,start_answer
+295,705,28,6,I moved to Texas.,a,THE WITNESS,start_question
+296,706,28,7,When did you move to Texas?,q,MS. SCHWEIKERT,start_answer
+297,707,28,8,I can't recall.,a,THE WITNESS,start_question
+298,708,28,9,"Were you still in treatment for this accident?  Was it after you stopped going to treatment?  Was it 2017, 2018? Can you give me any idea of when you moved to Texas?",q,MS. SCHWEIKERT,start_chat
+299,713,28,14,Objection. You can answer.,side_chat,MS. KATHOPOULIS,start_chat
+300,715,28,16,I can't recall.,side_chat,THE WITNESS,start_chat
+301,716,28,17,That's all the questions I have for you.,side_chat,MS. SCHWEIKERT,symbols
+302,718,28,19,- - -,symbols,,is brackets
+303,719,28,20,"(Whereupon, the deposition concluded at 1:32 p.m.)",brackets,,symbols
+304,721,28,22,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 26, 2019, and that this is a correct transcription of same.",symbols,,end

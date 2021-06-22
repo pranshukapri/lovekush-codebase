@@ -1,0 +1,786 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, I never saw a notice of deposition.,,,symbols
+1,162,6,17,- - - EXAMINATION,symbols,,symbols
+2,164,6,19,- - -,symbols,,start_question
+3,166,6,21,"Good morning, Ms. Chour.",q,MR. MANARA,start_answer
+4,167,6,22,Chour.,a,THE WITNESS,start_question
+5,168,6,23,"Good morning, Ms. Chour.  My name is Michael Manara.  I represent Andrea Baxter for a car accident that occurred February 6th of 2017. We are here today to take your deposition.",q,MR. MANARA,start_answer
+6,175,7,5,Okay.,a,THE WITNESS,start_question
+7,176,7,6,Have you ever been deposed before?,q,MR. MANARA,start_answer
+8,177,7,7,Never.,a,THE WITNESS,start_question
+9,178,7,8,A couple ground rules before we begin. A deposition is a question-and-answer session.  It's not designed to trick or confuse you.  We're just trying to find out what happened.,q,MR. MANARA,start_answer
+10,183,7,13,Okay.,a,THE WITNESS,start_question
+11,184,7,14,You're testifying here today through an interpreter?,q,MR. MANARA,start_answer
+12,186,7,16,Yes.,a,THE WITNESS,start_question
+13,187,7,17,You're being responsive to my questions?,q,MR. MANARA,start_answer
+14,189,7,19,Yes.,a,THE WITNESS,start_question
+15,190,7,20,Are there any issues you have understanding the interpreter?,q,MR. MANARA,start_answer
+16,192,7,22,No problem.,a,THE WITNESS,start_question
+17,193,7,23,It seems like you do understand some English?,q,MR. MANARA,start_answer
+18,196,8,1,Some.,a,THE WITNESS,start_question
+19,197,8,2,"Answer in your native language, and allow the interpreter to interpret, okay?",q,MR. MANARA,start_answer
+20,199,8,4,Okay.,a,THE WITNESS,start_question
+21,200,8,5,"A couple of ground rules for the deposition.  First, I need you to answer verbally.  As you can see, there is a court reporter here typing down everything we're saying, and she can't take any head nods or hand gestures.",q,MR. MANARA,start_answer
+22,206,8,11,Okay.,a,THE WITNESS,start_question
+23,207,8,12,"Same with uh-uh and uh-huh.  I don't think it should be a problem because we have the interpreter, but they read the same way on the record.  If we ask is that a yes or is that a no, we just want to make it clear, okay?",q,MR. MANARA,start_answer
+24,213,8,18,Yes.,a,THE WITNESS,start_question
+25,214,8,19,"If at any time I'm speaking too fast or you need me to rephrase the question or you don't understand the question, let me know, and I'll be happy to rephrase the question.",q,MR. MANARA,start_answer
+26,219,8,24,Yes.,a,THE WITNESS,start_question
+27,221,9,1,"Because if you answer my question, I will assume two very important things; one, that you understood the question; two, the answer is the truth; is that fair?",q,MR. MANARA,start_answer
+28,225,9,5,Yes.,a,THE WITNESS,start_question
+29,226,9,6,Do you understand the oath you took today is the same oath you'd take in a courtroom?,q,MR. MANARA,start_answer
+30,229,9,9,Yes.,a,THE WITNESS,start_question
+31,230,9,10,It's subject to the same penalties?,q,MR. MANARA,start_answer
+32,231,9,11,Yes.,a,THE WITNESS,start_question
+33,232,9,12,"We're here to discuss essentially three things; one, the accident that occurred.",q,MR. MANARA,start_answer
+34,235,9,15,Yes.,a,THE WITNESS,start_question
+35,236,9,16,"Two, the injuries you're claiming; and three, any effects on your life.",q,MR. MANARA,start_answer
+36,238,9,18,Yes.,a,THE WITNESS,start_question
+37,239,9,19,Is there any reason you can't discuss those three things with me here today?,q,MR. MANARA,start_answer
+38,241,9,21,I can just tell you all my injuries today?,a,THE WITNESS,start_question
+39,243,9,23,Yes.  Is there any reason why you can't discuss that with me here today?,q,MR. MANARA,start_chat
+40,246,10,1,"Just to make sure she understands your question.  Is there any reason why she can't?  There is many reasons why she can't. Why don't you ask the question first, and then she can address if she's able to answer that accurately and truthfully. On behalf of my client, yes, if she understands the question. Is that fair enough?",side_chat,MR. LOMBARDO,start_chat
+41,256,10,11,No.,side_chat,MR. MANARA,start_chat
+42,257,10,12,You rephrase then.,side_chat,MR. LOMBARDO,start_question
+43,259,10,14,"Is there any reason why you can't discuss the accident, your injuries, and the effects on your life here today?",q,MR. MANARA,start_answer
+44,262,10,17,No reason.,a,THE WITNESS,start_question
+45,263,10,18,"Can you state your full name for me, please.",q,MR. MANARA,start_answer
+46,265,10,20,Jasmine Chour.,a,THE WITNESS,start_question
+47,266,10,21,Have you ever gone by any other names?,q,MR. MANARA,start_answer
+48,267,10,22,"No, never.",a,THE WITNESS,start_question
+49,268,10,23,Are you under the influence of any medication or substances that would affect your ability to understand what's going on here today?,q,MR. MANARA,start_answer
+50,273,11,3,No.,a,THE WITNESS,start_question
+51,274,11,4,"Prior to your deposition, did you review any documentation?",q,MR. MANARA,start_answer
+52,276,11,6,"No, I didn't.",a,THE WITNESS,start_question
+53,277,11,7,"Other than your attorney, did you discuss your deposition with anybody else?",q,MR. MANARA,start_answer
+54,279,11,9,No never.,a,THE WITNESS,start_chat
+55,280,11,10,Off the record.,side_chat,MR. MANARA,symbols
+56,281,11,11,- - -,symbols,,is brackets
+57,282,11,12,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+58,284,11,14,- - -,symbols,,start_chat
+59,285,11,15,I'm instructing my client that she's not presenting a wage loss claim. You can ask her if she has any criminal background.,side_chat,MR. LOMBARDO,start_chat
+60,290,11,20,I will.  I'll do that.,side_chat,MR. MANARA,start_chat
+61,292,11,22,I feel she's not entitled to give you a Social Security number if she's not making a wage loss claim.,side_chat,MR. LOMBARDO,start_chat
+62,296,12,1,"It's a standard question in the Philadelphia interrogatories, which cannot be objected to, and that is sanctionable per the local rules.",side_chat,MR. MANARA,start_chat
+63,300,12,5,You show that rule to me.,side_chat,MR. LOMBARDO,start_chat
+64,302,12,7,4005.,side_chat,MR. MANARA,start_chat
+65,303,12,8,That my client has to give you a Social Security number to run a criminal background check?,side_chat,MR. LOMBARDO,start_chat
+66,306,12,11,That's one of the reasons.  The issue is it's a standard rule. It's sanctionable under Rule 4005.,side_chat,MR. MANARA,start_chat
+67,309,12,14,"Nevertheless, given that fact, if that is in case the fact, you have her Social Security number in the interrogatories.",side_chat,MR. LOMBARDO,start_chat
+68,313,12,18,Did you answer all of them?,side_chat,MR. MANARA,start_chat
+69,315,12,20,Of course.,side_chat,MR. LOMBARDO,start_chat
+70,316,12,21,Because most of your interrogatories were objected to.,side_chat,MR. MANARA,start_question
+71,319,12,24,"Ma'am, off the record I asked you what your Social Security number was and read it back to you. You confirmed it was correct; is that fair?",q,MR. MANARA,start_answer
+72,325,13,5,Yes.,a,THE WITNESS,start_question
+73,326,13,6,What's your date of birth?,q,MR. MANARA,start_answer
+74,327,13,7,"March 1, 1984.",a,THE WITNESS,start_question
+75,328,13,8,Where were you born?,q,MR. MANARA,start_answer
+76,329,13,9,Cambodia.,a,THE WITNESS,start_question
+77,330,13,10,When did you come to Pennsylvania?,q,MR. MANARA,start_answer
+78,331,13,11,2004.,a,THE WITNESS,start_question
+79,332,13,12,Have you been in the United States since 2004?,q,MR. MANARA,start_answer
+80,334,13,14,Yes.,a,THE WITNESS,start_question
+81,335,13,15,In Philadelphia the whole time?,q,MR. MANARA,start_answer
+82,336,13,16,Yes.,a,THE WITNESS,start_question
+83,337,13,17,"The date of this accident, were you driving?",q,MR. MANARA,start_chat
+84,339,13,19,Objection as to form. When?  Where?  How?,side_chat,MR. LOMBARDO,start_question
+85,343,13,23,"The vehicle that was involved in the accident, were you driving that, or were you a passenger?",q,MR. MANARA,start_answer
+86,347,14,2,I was just a passenger.,a,THE WITNESS,start_question
+87,348,14,3,Is that because you don't have a license?,q,MR. MANARA,start_chat
+88,350,14,5,Objection as to form. You can answer.,side_chat,MR. LOMBARDO,start_chat
+89,353,14,8,"Say that again, please.",side_chat,THE WITNESS,start_question
+90,356,14,11,Is that because you don't have a license?,q,MR. MANARA,start_chat
+91,358,14,13,Note my objection.,side_chat,MR. LOMBARDO,start_chat
+92,359,14,14,"I have a driver's license, but I wasn't the driver.",side_chat,THE WITNESS,start_question
+93,362,14,17,Is that in Pennsylvania?,q,MR. MANARA,start_answer
+94,363,14,18,Yes.,a,THE WITNESS,start_question
+95,364,14,19,Where do you currently live?,q,MR. MANARA,start_answer
+96,365,14,20,I live in Yeadon.,a,THE WITNESS,start_question
+97,366,14,21,Can I have your address?,q,MR. MANARA,start_answer
+98,367,14,22,I just moved.  I haven't changed address yet.,a,THE WITNESS,start_question
+99,369,14,24,Where were you living at the time of the accident?,q,MR. MANARA,start_answer
+100,372,15,2,4635 Walnut.,a,THE WITNESS,start_question
+101,373,15,3,Is that in Yeadon?,q,MR. MANARA,start_answer
+102,374,15,4,"No, this is in Philadelphia.",a,THE WITNESS,start_question
+103,375,15,5,How long have you lived at 4635 Walnut Street?,q,MR. MANARA,start_answer
+104,377,15,7,Over ten years now.,a,THE WITNESS,start_question
+105,378,15,8,You indicated you recently moved?,q,MR. MANARA,start_answer
+106,379,15,9,Correct.,a,THE WITNESS,start_question
+107,380,15,10,Where did you move to?,q,MR. MANARA,start_answer
+108,381,15,11,About a month or two months I moved.,a,THE WITNESS,start_question
+109,382,15,12,Around June of 2019?,q,MR. MANARA,start_answer
+110,383,15,13,Correct.,a,THE WITNESS,start_question
+111,384,15,14,To Yeadon?,q,MR. MANARA,start_answer
+112,385,15,15,Yes.,a,THE WITNESS,start_question
+113,386,15,16,Who else lives with you or lived with you at the Walnut Street address?,q,MR. MANARA,start_chat
+114,388,15,18,Note my objection as to form. She can answer.,side_chat,MR. LOMBARDO,start_chat
+115,391,15,21,"My uncle, my aunt.",side_chat,THE WITNESS,start_question
+116,393,15,23,Anybody else?,q,MR. MANARA,start_answer
+117,394,15,24,"My cousin don't live there but in and out.  Cousin is in and out of the property, but he doesn't live there.",a,THE WITNESS,start_question
+118,398,16,3,"Was your uncle, aunt and sometimes your cousin there at the time of the accident?",q,MR. MANARA,start_chat
+119,401,16,6,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+120,403,16,8,You may answer.,side_chat,MR. MANARA,start_chat
+121,404,16,9,I really don't know for sure.,side_chat,THE WITNESS,start_question
+122,407,16,12,"Your uncle, what's his name?",q,MR. MANARA,start_answer
+123,408,16,13,Peter.,a,THE WITNESS,start_question
+124,409,16,14,Peter what?,q,MR. MANARA,start_answer
+125,410,16,15,"Peter Som, S-O-M.",a,THE WITNESS,start_question
+126,411,16,16,How old is Peter?,q,MR. MANARA,start_answer
+127,412,16,17,60-something.,a,THE WITNESS,start_question
+128,413,16,18,"Your aunt, what's her name?",q,MR. MANARA,start_answer
+129,414,16,19,Kim.,a,THE WITNESS,start_question
+130,415,16,20,Som?,q,MR. MANARA,start_answer
+131,416,16,21,"She married together, but I'm not sure what she put the last name.",a,THE WITNESS,start_question
+132,418,16,23,Would you mind answering in your native language.,q,MR. MANARA,start_answer
+133,421,17,1,All I know is her name is Kim.  I don't know if she ever changed her last name to her husband's last name or not.,a,THE WITNESS,start_question
+134,424,17,4,How old is Kim?,q,MR. MANARA,start_answer
+135,425,17,5,50-something.,a,THE WITNESS,start_question
+136,426,17,6,"Your cousin, what's your cousin's name?",q,MR. MANARA,start_answer
+137,428,17,8,John Som.,a,THE WITNESS,start_question
+138,429,17,9,How old is John?,q,MR. MANARA,start_answer
+139,430,17,10,30-something.,a,THE WITNESS,start_question
+140,431,17,11,Are you married?,q,MR. MANARA,start_answer
+141,432,17,12,Yes.,a,THE WITNESS,start_question
+142,433,17,13,What is your spouse's name?,q,MR. MANARA,start_answer
+143,434,17,14,Leng Chaim.,a,THE WITNESS,start_question
+144,435,17,15,"Can you spell that, please.",q,MR. MANARA,start_answer
+145,436,17,16,"L-E-N-G, C-H-A-I-M.",a,THE WITNESS,start_question
+146,437,17,17,How hold is your spouse?,q,MR. MANARA,start_answer
+147,438,17,18,40-something.,a,THE WITNESS,start_question
+148,439,17,19,How long have you been married?,q,MR. MANARA,start_answer
+149,440,17,20,A year-and-a-half.,a,THE WITNESS,start_question
+150,441,17,21,Was your spouse living with you at the time of the accident?,q,MR. MANARA,start_chat
+151,443,17,23,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+152,446,18,1,No.,side_chat,THE WITNESS,start_question
+153,448,18,3,Did your spouse move in with you after the wedding?,q,MR. MANARA,start_chat
+154,450,18,5,"To what address? Clarify that question, please.",side_chat,MR. LOMBARDO,start_chat
+155,452,18,7,"The only one she was living at, the Walnut Street.",side_chat,MR. MANARA,start_question
+156,455,18,10,Did your spouse move in with you at the Walnut Street address?,q,MR. MANARA,start_answer
+157,457,18,12,No.,a,THE WITNESS,start_question
+158,458,18,13,Does your spouse live with you now?,q,MR. MANARA,start_answer
+159,459,18,14,Yes.,a,THE WITNESS,start_question
+160,460,18,15,When did your spouse start living with you?,q,MR. MANARA,start_answer
+161,462,18,17,"I'm sorry, could you repeat all that again.  I know we did live together after we got married, but what was your question again?",a,THE WITNESS,start_question
+162,466,18,21,When did your spouse start living with you?,q,MR. MANARA,start_answer
+163,468,18,23,I don't remember.,a,THE WITNESS,start_question
+164,469,18,24,Was it after the wedding?,q,MR. MANARA,start_answer
+165,471,19,1,Yes.,a,THE WITNESS,start_question
+166,472,19,2,When was the wedding?,q,MR. MANARA,start_answer
+167,473,19,3,For about over a year now in Cambodia.,a,THE WITNESS,start_question
+168,474,19,4,So sometime in 2018?,q,MR. MANARA,start_chat
+169,475,19,5,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+170,477,19,7,You may answer.,side_chat,MR. MANARA,start_chat
+171,478,19,8,"No, that's not your call to whether or not my client can answer.  Do you understand that, counsel? Seriously, do you understand that it's not your call whether or not my client can answer one of your questions?",side_chat,MR. LOMBARDO,start_chat
+172,484,19,14,Are you instructing her not to answer?,side_chat,MR. MANARA,start_chat
+173,486,19,16,"No, I'm noting an objection as to form. What is your question again?",side_chat,MR. LOMBARDO,start_chat
+174,489,19,19,Was the wedding sometime in 2018.,side_chat,MR. MANARA,start_chat
+175,491,19,21,"That wasn't it. Read back the question, Ms. Reporter.",side_chat,MR. LOMBARDO,symbols
+176,493,19,23,- - -,symbols,,is brackets
+177,494,19,24,"(Whereupon, the court reporter read back the requested portion.)",brackets,,symbols
+178,497,20,2,- - -,symbols,,start_chat
+179,498,20,3,My client's answer to you was fair.  She didn't understand the question nor did I.,side_chat,MR. LOMBARDO,start_question
+180,502,20,7,Were you married sometime in 2018?,q,MR. MANARA,start_answer
+181,503,20,8,Yes.,a,THE WITNESS,start_question
+182,504,20,9,Do you have any children?,q,MR. MANARA,start_answer
+183,505,20,10,Not yet.,a,THE WITNESS,start_question
+184,506,20,11,"Discussing your education, how far did you go in school?",q,MR. MANARA,start_answer
+185,508,20,13,To 6th grade.,a,THE WITNESS,start_question
+186,509,20,14,Is that in Cambodia?,q,MR. MANARA,start_answer
+187,510,20,15,Cambodia.,a,THE WITNESS,start_question
+188,511,20,16,Did you ever serve in the military?,q,MR. MANARA,start_answer
+189,512,20,17,"No, never.",a,THE WITNESS,start_question
+190,513,20,18,"As you sit here today, are you currently employed?",q,MR. MANARA,start_chat
+191,515,20,20,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+192,517,20,22,Are you instructing her not to answer?,side_chat,MR. MANARA,start_chat
+193,519,20,24,"No, objecting to the form.  Note my objection as to form.",side_chat,MR. LOMBARDO,start_question
+194,523,21,3,"As you sit here today, are you currently employed?",q,MR. MANARA,start_answer
+195,525,21,5,"Yes, I do.",a,THE WITNESS,start_question
+196,526,21,6,Where do you work?,q,MR. MANARA,start_answer
+197,527,21,7,At Donuts.,a,THE WITNESS,start_question
+198,528,21,8,Is it just called donuts?,q,MR. MANARA,start_answer
+199,529,21,9,"Donuts Corporation, but the store is Donuts Plus.",a,THE WITNESS,start_question
+200,531,21,11,Where is the store located?,q,MR. MANARA,start_answer
+201,532,21,12,4325 Chestnut.,a,THE WITNESS,start_question
+202,533,21,13,How long have you been there?,q,MR. MANARA,start_chat
+203,534,21,14,She's not making a wage loss claim.  I'm going to instruct my client not to answer anything about her employment because she's not making a wage loss claim.,side_chat,MR. LOMBARDO,start_chat
+204,539,21,19,It would also go to limitations. Are you still instructing her not to answer?,side_chat,MR. MANARA,start_chat
+205,543,21,23,Repeat your last question.,side_chat,MR. LOMBARDO,start_chat
+206,546,22,1,I asked her how long she's been there.,side_chat,MR. MANARA,start_chat
+207,548,22,3,"This goes to, quote, limitations.  Again, she's not making a wage loss claim.",side_chat,MR. LOMBARDO,start_chat
+208,551,22,6,"You already stated for the record, Counsel, no wage loss claim and no loss of future earnings; is that accurate?",side_chat,MR. MANARA,start_chat
+209,555,22,10,"No, it's not accurate.  She's not making a present wage loss claim.  There is a possibility of future wage loss, but right now we are not submitting any loss of wage claim.",side_chat,MR. LOMBARDO,start_chat
+210,560,22,15,"When you say right now, do you intend to submit?",side_chat,MR. MANARA,start_chat
+211,562,22,17,"We haven't made that determination yet.  Can we continue with the deposition, please.",side_chat,MR. LOMBARDO,start_chat
+212,565,22,20,If you're not --,side_chat,MR. MANARA,start_chat
+213,566,22,21,Continue to ask her.  Please follow up with your questions.,side_chat,MR. LOMBARDO,start_chat
+214,568,22,23,Because you don't know if you're making a wage loss claim --,side_chat,MR. MANARA,start_chat
+215,571,23,1,"No.  I don't want to repeat myself, but I will.  We are not presently making a wage loss claim.  We have yet to determine whether or not a future or potential loss of earning claim will be made. We still have yet to make that determination.",side_chat,MR. LOMBARDO,start_question
+216,578,23,8,"Working at Donuts Plus, what are your duties there?",q,MR. MANARA,start_answer
+217,580,23,10,"I'm a seller, and I also do some cleaning around there.",a,THE WITNESS,start_question
+218,582,23,12,What type of cleaning?,q,MR. MANARA,start_answer
+219,583,23,13,"Just cleaning the machine and cleaning in the area, and there's dust of flower and powders here and there, so I make it nice and clean.",a,THE WITNESS,start_question
+220,587,23,17,"Any mopping, scrubbing?",q,MR. MANARA,start_answer
+221,588,23,18,I only use some broom to clean the dust but not mopping.,a,THE WITNESS,start_question
+222,590,23,20,How many hours a day do you work?,q,MR. MANARA,start_answer
+223,591,23,21,Four to five hours a day.,a,THE WITNESS,start_question
+224,592,23,22,How many days a week do you work?,q,MR. MANARA,start_answer
+225,593,23,23,It's hard to really say.  Probably mostly around 25 hours a week because I only get called when she needs my help.  So it's on a calling base.,a,THE WITNESS,start_question
+226,598,24,3,"I understand you're currently working there, were you working there at the time of the accident. Were you employed at the donut shop in February of 2017?",q,MR. MANARA,start_chat
+227,603,24,8,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+228,605,24,10,Are you instructing her not to answer?,side_chat,MR. MANARA,start_chat
+229,607,24,12,"Michael, please don't ask me that question.  If I instruct my client not to answer, I will verbally tell you that I'm instructing my client not to answer. Please refrain from continuing to ask me whether or not I'm instructing my client not to answer. Are we clear?",side_chat,MR. LOMBARDO,start_chat
+230,616,24,21,Counsel --,side_chat,MR. MANARA,start_chat
+231,617,24,22,Are we clear?  Are we clear?,side_chat,MR. LOMBARDO,start_chat
+232,619,24,24,I'm an adult. You're an adult.  I'm trying to be civil here.,side_chat,MR. MANARA,start_chat
+233,623,25,3,So am I.  That's all I need to know. Are we clear that you will not ask me whether or not I'm instructing my client not to answer?,side_chat,MR. LOMBARDO,start_chat
+234,628,25,8,"No, we're not. Here's why",side_chat,MR. MANARA,start_chat
+235,634,25,14,"I'm not instructing my client not to answer, though. All I said was note my objection as to form.",side_chat,MR. LOMBARDO,start_chat
+236,637,25,17,Fair enough.,side_chat,MR. MANARA,start_question
+237,639,25,19,"Ma'am, at the time of the accident in February 2017, were you employed at Donuts Plus?",q,MR. MANARA,start_chat
+238,642,25,22,Note my objection as to form. She can answer.,side_chat,MR. LOMBARDO,start_chat
+239,646,26,1,"After the accident, I have to stop working for about two, three months because I was unable to work.",side_chat,THE WITNESS,start_question
+240,650,26,5,Did any doctor put a restriction and tell you you could not work as a result of the accident?,q,MR. MANARA,start_answer
+241,653,26,8,"No, not like that, but I know myself. I was hurt because of the injuries.  I wasn't able to perform my duty.",a,THE WITNESS,start_question
+242,656,26,11,"My question was, did any doctor put a restriction on you telling you you couldn't work?",q,MR. MANARA,start_answer
+243,659,26,14,No.,a,THE WITNESS,start_question
+244,660,26,15,What parts of your body stopped you from working -- I'll rephrase the question. You indicated you were unable to work for about two to three months after the accident?,q,MR. MANARA,start_answer
+245,665,26,20,Correct.,a,THE WITNESS,start_question
+246,666,26,21,What parts of your body stopped you from working and an injury? Was there any injury that stopped you from working?,q,MR. MANARA,start_chat
+247,671,27,1,Note my objection as to form. She can answer.,side_chat,MR. LOMBARDO,start_chat
+248,674,27,4,Like half of my hand and my body up to my neck.  I wasn't able to make a good motion to do anything.  I couldn't move much.  It was painful whenever I tried to move or do anything with it.,side_chat,THE WITNESS,start_question
+249,680,27,10,What side of your body?,q,MR. MANARA,start_answer
+250,681,27,11,On my right side.,a,THE WITNESS,start_question
+251,682,27,12,Anything to the left?,q,MR. MANARA,start_answer
+252,683,27,13,"My left side is okay, I'm fine.",a,THE WITNESS,start_question
+253,684,27,14,"After those two to three months, did you go back to work?",q,MR. MANARA,start_answer
+254,686,27,16,"Yes, I did.",a,THE WITNESS,start_question
+255,687,27,17,Were any accommodations made for you when you got back to work?,q,MR. MANARA,start_answer
+256,689,27,19,"Just being at the register, just selling the donuts.",a,THE WITNESS,start_question
+257,691,27,21,Is that what you did before the accident?,q,MR. MANARA,start_answer
+258,693,27,23,"Before the accident, I was able to do more work for them, like lifting up or stocking sodas and drinks and picking up heavy stuff.  Now, I'm not able to do any of that.  Especially, it cause more pain at night, too.  I tried to do other heavy lifting, but I wasn't able to.",a,THE WITNESS,start_question
+259,701,28,6,"At the time of the accident, how much were you making?",q,MR. MANARA,start_chat
+260,703,28,8,Objection as to form. Instruct my client not to answer.,side_chat,MR. LOMBARDO,start_chat
+261,706,28,11,There is potential future wage loss claim.,side_chat,MR. MANARA,start_chat
+262,708,28,13,I'm instructing my client not to answer.  She's not making a present wage loss claim.,side_chat,MR. LOMBARDO,start_chat
+263,711,28,16,It would go to future wage loss.,side_chat,MR. MANARA,start_chat
+264,713,28,18,We haven't yet made the determination.  I'm instructing my client not to answer.,side_chat,MR. LOMBARDO,start_chat
+265,716,28,21,"You can bring her back, if you want.",side_chat,MR. MANARA,start_question
+266,719,28,24,"Ma'am, how much do you make now?",q,MR. MANARA,start_chat
+267,721,29,1,"Again, objection as to form.  Instructing my client not to answer. We are not making a wage loss claim.",side_chat,MR. LOMBARDO,start_question
+268,727,29,7,Have you gotten a raise at all at the donut shop since the day of the accident to today?,q,MR. MANARA,start_chat
+269,730,29,10,Objection to form. Instructing my client not to answer.,side_chat,MR. LOMBARDO,start_question
+270,734,29,14,Did your wages go down at all after the accident?,q,MR. MANARA,start_chat
+271,736,29,16,Objection as to form. Instruct my client not to answer.,side_chat,MR. LOMBARDO,start_question
+272,740,29,20,Do you have any documentation of any wages?,q,MR. MANARA,start_chat
+273,742,29,22,Objection as to form.,side_chat,MR. LOMBARDO,start_question
+274,746,30,1,Do you have any documentation of any wages?,q,MR. MANARA,start_chat
+275,748,30,3,Instructing my client not to answer.,side_chat,MR. LOMBARDO,start_question
+276,751,30,6,Do you pay taxes?,q,MR. MANARA,start_chat
+277,752,30,7,Objection to form. Instructing my client not to answer.,side_chat,MR. LOMBARDO,start_question
+278,756,30,11,Have you sought any jobs since this accident?,q,MR. MANARA,start_chat
+279,758,30,13,Objection as to form.,side_chat,MR. LOMBARDO,start_question
+280,761,30,16,Have you sought any jobs since this accident?,q,MR. MANARA,start_answer
+281,763,30,18,"No, I did not.",a,THE WITNESS,start_question
+282,764,30,19,Did you have any other jobs before the accident that you stopped as a result of the accident?,q,MR. MANARA,start_answer
+283,767,30,22,"That's like a long time ago, over ten years ago, mainly doing little cleaning here and there at the nail place.",a,THE WITNESS,start_question
+284,771,31,1,"Within January of 2017, did you have another job that you had to stop because of the accident?",q,MR. MANARA,start_answer
+285,774,31,4,"No, just that place.",a,THE WITNESS,start_question
+286,775,31,5,"Have you ever been convicted of a crime, misdemeanor or felony?",q,MR. MANARA,start_answer
+287,777,31,7,No.,a,THE WITNESS,start_question
+288,778,31,8,Or pled no contest to any crime or had ARD?,q,MR. MANARA,start_chat
+289,780,31,10,"Objection as to form. She can answer, if she knows.",side_chat,MR. LOMBARDO,start_chat
+290,783,31,13,"No, never.",side_chat,THE WITNESS,start_question
+291,785,31,15,Have you ever been a party to a civil lawsuit before?,q,MR. MANARA,start_answer
+292,787,31,17,"No, never.",a,THE WITNESS,start_question
+293,788,31,18,Have you ever applied for Disability benefits?,q,MR. MANARA,start_answer
+294,790,31,20,No.,a,THE WITNESS,start_question
+295,791,31,21,"As you sit here today, do you have a family doctor?",q,MR. MANARA,start_answer
+296,793,31,23,I do.,a,THE WITNESS,start_question
+297,794,31,24,Who is that?,q,MR. MANARA,start_answer
+298,796,32,1,"Well, I do have a family doctor, but I've never seen my family doctor.  I never did.",a,THE WITNESS,start_question
+299,799,32,4,"When you get sick, do you have a doctor that you would go to?",q,MR. MANARA,start_answer
+300,801,32,6,"No, I don't go.",a,THE WITNESS,start_chat
+301,802,32,7,Answer in Cambodian.,side_chat,MR. LOMBARDO,start_chat
+302,804,32,9,I don't go.,side_chat,THE WITNESS,start_question
+303,806,32,11,Do you have a primary care doctor at all?,q,MR. MANARA,start_answer
+304,808,32,13,"Yes, I have family doctor.  It's United States Health Care.",a,THE WITNESS,start_question
+305,810,32,15,I see a Dr. Oser?,q,MR. MANARA,start_answer
+306,811,32,16,I don't know the name.,a,THE WITNESS,start_question
+307,812,32,17,How about Dr. Amy Kaleka at Penn Family Care?,q,MR. MANARA,start_answer
+308,814,32,19,I remember that doctor's name a little bit.,a,THE WITNESS,start_question
+309,816,32,21,How often do you see Dr. Kaleka?,q,MR. MANARA,start_chat
+310,817,32,22,Objection as to form.,side_chat,MR. LOMBARDO,start_question
+311,822,33,2,How often do you see Dr. Kaleka?,q,MR. MANARA,start_chat
+312,823,33,3,Note my objection.,side_chat,MR. LOMBARDO,start_chat
+313,824,33,4,"Once in a while, rarely.",side_chat,THE WITNESS,start_question
+314,827,33,7,Have you ever seen Dr. Kaleka for this accident?,q,MR. MANARA,start_answer
+315,829,33,9,"No, never.",a,THE WITNESS,start_question
+316,830,33,10,Is there a reason why not?,q,MR. MANARA,start_answer
+317,831,33,11,No reason.  I just don't want to go to her.,a,THE WITNESS,start_question
+318,833,33,13,"As you sit here today, do you have health insurance?",q,MR. MANARA,start_answer
+319,835,33,15,"Yes, I do.",a,THE WITNESS,start_question
+320,836,33,16,Who is that through?,q,MR. MANARA,start_answer
+321,837,33,17,It's through my husband's work.,a,THE WITNESS,start_question
+322,838,33,18,"Is it Aetna, Blue Cross?",q,MR. MANARA,start_answer
+323,839,33,19,I might have it with me.,a,THE WITNESS,start_question
+324,840,33,20,"If you could, check.  Show it to your attorney first.",q,MR. MANARA,start_chat
+325,842,33,22,Cigna.,side_chat,MR. LOMBARDO,start_chat
+326,843,33,23,May I see it.,side_chat,MR. MANARA,start_question
+327,846,34,1,"Ma'am, you've handed me your insurance card that's through Cigna?",q,MR. MANARA,start_answer
+328,848,34,3,Correct.,a,THE WITNESS,start_question
+329,849,34,4,"That was with a group number of 3338212, and the ID is U7217754302?",q,MR. MANARA,start_answer
+330,851,34,6,"Yes, correct.",a,THE WITNESS,start_question
+331,852,34,7,"That Cigna health insurance, did you have that at the date of the accident, too?",q,MR. MANARA,start_answer
+332,854,34,9,"No, not yet.  I just got it.",a,THE WITNESS,start_question
+333,855,34,10,"On the date of the accident, did you have any health insurance?",q,MR. MANARA,start_answer
+334,857,34,12,"Yes, I did, but I didn't use it.",a,THE WITNESS,start_question
+335,858,34,13,Who was that through?,q,MR. MANARA,start_answer
+336,859,34,14,United Healthcare.  I believe that's what I had.,a,THE WITNESS,start_question
+337,861,34,16,"Ma'am, in the past five years, when was the last time you were a patient in a hospital?",q,MR. MANARA,start_answer
+338,864,34,19,Never.,a,THE WITNESS,start_question
+339,865,34,20,"Other than for this accident, have you seen any other doctors in the past five years?",q,MR. MANARA,start_answer
+340,868,34,23,"Just for a check-up, a regular check-up but never admitted as an inpatient.",a,THE WITNESS,start_question
+341,871,35,1,"Was that doctor Amy Kaleka, or is there another doctor?",q,MR. MANARA,start_answer
+342,873,35,3,Dr. Amy Kaleka.,a,THE WITNESS,start_question
+343,874,35,4,"Ma'am, my understanding is this accident happened February 6th of 2017. Does that sound about right?",q,MR. MANARA,start_answer
+344,877,35,7,Yes.,a,THE WITNESS,start_question
+345,878,35,8,I want to ask you about any accidents you may have had prior or before February of 2017?,q,MR. MANARA,start_answer
+346,881,35,11,"No, never.",a,THE WITNESS,start_question
+347,882,35,12,"I don't just mean car accidents.  I mean any slips or falls, workplace injuries, altercations, anything like that?",q,MR. MANARA,start_answer
+348,885,35,15,"No, never.",a,THE WITNESS,start_question
+349,886,35,16,"How about after February of 2017, have you been involved in any car accidents?",q,MR. MANARA,start_answer
+350,888,35,18,"No, never.",a,THE WITNESS,start_question
+351,889,35,19,How about any slips or falls or altercations or workplace injuries after February of 2017?,q,MR. MANARA,start_answer
+352,892,35,22,"Never, no.",a,THE WITNESS,start_question
+353,893,35,23,"I want to talk to you about this accident, okay?",q,MR. MANARA,start_answer
+354,896,36,1,Yes.,a,THE WITNESS,start_question
+355,897,36,2,What time did it happen?,q,MR. MANARA,start_answer
+356,898,36,3,Around 6:40.,a,THE WITNESS,start_question
+357,899,36,4,A.m. or p.m.?,q,MR. MANARA,start_answer
+358,900,36,5,P.m.,a,THE WITNESS,start_question
+359,901,36,6,Where did it occur?,q,MR. MANARA,start_answer
+360,902,36,7,"Between 42nd and 43rd Chestnut -- I'm sorry, Walnut.",a,THE WITNESS,start_question
+361,904,36,9,"Around 42nd, 43rd and Walnut?",q,MR. MANARA,start_answer
+362,905,36,10,Correct.,a,THE WITNESS,start_question
+363,906,36,11,Where were you coming from?,q,MR. MANARA,start_answer
+364,907,36,12,Left from work.,a,THE WITNESS,start_question
+365,908,36,13,At Donuts Plus?,q,MR. MANARA,start_answer
+366,909,36,14,Yes.,a,THE WITNESS,start_question
+367,910,36,15,Where were you going?,q,MR. MANARA,start_answer
+368,911,36,16,Going home.,a,THE WITNESS,start_question
+369,912,36,17,How was the weather that day?,q,MR. MANARA,start_answer
+370,913,36,18,"The weather was fine, normal.",a,THE WITNESS,start_question
+371,914,36,19,"No rain or anything, snow?",q,MR. MANARA,start_answer
+372,915,36,20,No.,a,THE WITNESS,start_question
+373,916,36,21,What street were you on?,q,MR. MANARA,start_answer
+374,917,36,22,The street of the accident.,a,THE WITNESS,start_question
+375,918,36,23,I'll ask the question again.  You were in a car at the time of the accident. What street was your car on?,q,MR. MANARA,start_answer
+376,922,37,2,On Walnut.,a,THE WITNESS,start_question
+377,923,37,3,How many lanes of travel are on Walnut Street?,q,MR. MANARA,start_answer
+378,925,37,5,I don't know.,a,THE WITNESS,start_question
+379,926,37,6,Is it a one-way street or two-way street?,q,MR. MANARA,start_answer
+380,928,37,8,One way.,a,THE WITNESS,start_question
+381,929,37,9,"Do you know which lane you were in, the right, the left, the middle?",q,MR. MANARA,start_answer
+382,931,37,11,Right lane.,a,THE WITNESS,start_question
+383,932,37,12,The closest to the curb on your right-hand side?,q,MR. MANARA,start_answer
+384,934,37,14,Yes.,a,THE WITNESS,start_question
+385,935,37,15,"My client, what street was she on?",q,MR. MANARA,start_chat
+386,936,37,16,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+387,938,37,18,Behind.,side_chat,THE WITNESS,start_question
+388,940,37,20,On Walnut Street?,q,MR. MANARA,start_answer
+389,941,37,21,Yes.,a,THE WITNESS,start_question
+390,942,37,22,In the same lane or different lane?,q,MR. MANARA,start_chat
+391,943,37,23,Note my objection.,side_chat,MR. LOMBARDO,start_chat
+392,944,37,24,Yes.,side_chat,THE WITNESS,start_question
+393,947,38,2,So same lane or different one?,q,MR. MANARA,start_chat
+394,948,38,3,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+395,950,38,5,Same lane that we were but behind us.,side_chat,THE WITNESS,start_question
+396,953,38,8,"Where the accident occurred, was there any construction or temporary road signs?",q,MR. MANARA,start_answer
+397,955,38,10,"No, it was clear.",a,THE WITNESS,start_question
+398,956,38,11,Did the accident happen at an intersection or mid block?,q,MR. MANARA,start_answer
+399,958,38,13,Close to the intersection.,a,THE WITNESS,start_question
+400,959,38,14,"At that intersection, were there any traffic control devices, meaning a stop light, stop sign, yield sign?",q,MR. MANARA,start_answer
+401,962,38,17,Stop sign.,a,THE WITNESS,start_question
+402,963,38,18,"At the time of the impact, was your car moving?",q,MR. MANARA,start_answer
+403,965,38,20,"No, we stopped to wait because of the sign.",a,THE WITNESS,start_question
+404,967,38,22,Did you ever see my client's car prior to the impact?,q,MR. MANARA,start_answer
+405,969,38,24,"No, I did not see it.",a,THE WITNESS,start_question
+406,971,39,1,Who was driving the car you were in?,q,MR. MANARA,start_answer
+407,972,39,2,Cousin.,a,THE WITNESS,start_question
+408,973,39,3,Is that John?,q,MR. MANARA,start_answer
+409,974,39,4,Yes.,a,THE WITNESS,start_question
+410,975,39,5,What seat were you in?,q,MR. MANARA,start_answer
+411,976,39,6,Front passenger next to the driver.,a,THE WITNESS,start_question
+412,977,39,7,Anybody else in the car you were in?,q,MR. MANARA,start_answer
+413,978,39,8,No other.,a,THE WITNESS,start_question
+414,979,39,9,Tell me how the accident happened in your own words.,q,MR. MANARA,start_answer
+415,981,39,11,"At the time, I wasn't the driver, so I didn't really pay attention to anything around me.  I was just sitting there.",a,THE WITNESS,start_question
+416,984,39,14,"At some point while you were sitting there, did you feel an impact?",q,MR. MANARA,start_answer
+417,986,39,16,"Yes, it was a very heavy impact, too.",a,THE WITNESS,start_question
+418,987,39,17,Were any cars stopped in front of you?,q,MR. MANARA,start_answer
+419,988,39,18,"Yes, there was.",a,THE WITNESS,start_question
+420,989,39,19,Do you know how far that car in front of you was stopped?,q,MR. MANARA,start_answer
+421,991,39,21,I didn't really pay attention to that when the impact happened or before that.  I really don't remember or know.,a,THE WITNESS,start_question
+422,994,39,24,Did the impact push you into the car in front?,q,MR. MANARA,start_answer
+423,997,40,2,It did push the vehicle but not far enough to hit the other vehicle in front because that vehicle in front was a bit far from our car.,a,THE WITNESS,start_question
+424,1001,40,6,Do you know how far you were pushed?,q,MR. MANARA,start_answer
+425,1002,40,7,I don't know.,a,THE WITNESS,start_question
+426,1003,40,8,"Did the impact push your car in any other lanes, or did your car stay in the right lane?",q,MR. MANARA,start_answer
+427,1006,40,11,"No, it was pushed forward on the same lane.",a,THE WITNESS,start_question
+428,1008,40,13,When did you first notice my client's vehicle?,q,MR. MANARA,start_chat
+429,1010,40,15,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+430,1012,40,17,"After the impact, my cousin got out of the vehicle to take a look.  I do know that that vehicle wasn't able to move or go anywhere because whatever is in front of that vehicle was smoke and stuff was coming out in the front of the hood of the vehicle.",side_chat,THE WITNESS,start_question
+431,1021,41,1,My client's car wasn't able to move?,q,MR. MANARA,start_chat
+432,1022,41,2,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+433,1024,41,4,Yes.,side_chat,THE WITNESS,start_question
+434,1026,41,6,Was your car pushed into the cross street as a result of the impact?,q,MR. MANARA,start_answer
+435,1028,41,8,"No, it did not.",a,THE WITNESS,start_question
+436,1029,41,9,What part of your vehicle was impacted?,q,MR. MANARA,start_chat
+437,1031,41,11,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+438,1033,41,13,Behind.,side_chat,THE WITNESS,start_question
+439,1035,41,15,Was it the middle?  Was it the right? Was it the left?,q,MR. MANARA,start_chat
+440,1037,41,17,"Objection as to form. Matter fact, I'll instruct my client not to answer.  Asked and answered.",side_chat,MR. LOMBARDO,start_chat
+441,1041,41,21,It wasn't answered.,side_chat,MR. MANARA,start_chat
+442,1042,41,22,She said behind.,side_chat,MR. LOMBARDO,start_question
+443,1044,41,24,"What part of your back, the left side, the middle, or the right?",q,MR. MANARA,start_chat
+444,1047,42,2,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+445,1049,42,4,"I didn't get out of the vehicle to take a look at it, but it might be just right in the middle of the back bumper.  I'm not sure because I didn't get out.",side_chat,THE WITNESS,start_question
+446,1055,42,10,Was the car you were in drivable?,q,MR. MANARA,start_chat
+447,1056,42,11,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+448,1058,42,13,"Yes, very slowly until we get home.",side_chat,THE WITNESS,start_question
+449,1061,42,16,What kind of car were you in?,q,MR. MANARA,start_answer
+450,1062,42,17,I really don't know.,a,THE WITNESS,start_question
+451,1063,42,18,"Was it a car, not an SUV?",q,MR. MANARA,start_answer
+452,1064,42,19,"No, it's just a car.",a,THE WITNESS,start_question
+453,1065,42,20,"I'm going to show you three photographs.  They're marked as P-1, P-2 and P-3.",q,MR. MANARA,start_chat
+454,1068,42,23,"Note for the record my objection to each and every photograph including P-1, P-2 and P-3.  Note my objection to each photograph.",side_chat,MR. LOMBARDO,start_chat
+455,1073,43,3,What do you want me to see?,side_chat,THE WITNESS,start_question
+456,1076,43,6,I want you to look at them. Are you looking at the three photographs P-1 through P-3?,q,MR. MANARA,start_answer
+457,1079,43,9,I am looking at it right now.  I just don't know what you want me to look at.,a,THE WITNESS,start_question
+458,1081,43,11,Do you recognize the car in those photographs?,q,MR. MANARA,start_chat
+459,1083,43,13,"Note my objection, please.",side_chat,MR. LOMBARDO,start_chat
+460,1085,43,15,I can't recognize it from here.,side_chat,THE WITNESS,start_question
+461,1088,43,18,You don't recognize those photographs?,q,MR. MANARA,start_chat
+462,1089,43,19,"Objection. Instruct my client not to answer, asked and answered.",side_chat,MR. LOMBARDO,start_question
+463,1093,43,23,What kind of car was my client driving?,q,MR. MANARA,start_chat
+464,1096,44,1,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+465,1098,44,3,I really don't know I didn't get out of the car to take a look at it.,side_chat,THE WITNESS,start_question
+466,1102,44,7,Did you ever see any damage to my client's car?,q,MR. MANARA,start_chat
+467,1104,44,9,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+468,1106,44,11,"No, I didn't take a look at it.",side_chat,THE WITNESS,start_question
+469,1109,44,14,Because you never got out of the car?,q,MR. MANARA,start_answer
+470,1110,44,15,Correct.  I was sitting in the car.,a,THE WITNESS,start_question
+471,1111,44,16,Do you remember what color my client's car was?,q,MR. MANARA,start_chat
+472,1113,44,18,"Objection as to form. Instruct my client not to answer, asked and answered.",side_chat,MR. LOMBARDO,start_chat
+473,1117,44,22,That was not asked and answered.,side_chat,MR. MANARA,start_chat
+474,1119,44,24,She said she didn't see your client's car.  She never got out. How would she know the color?,side_chat,MR. LOMBARDO,start_chat
+475,1124,45,4,I understand you're saying it.,side_chat,MR. MANARA,start_question
+476,1127,45,7,"Ma'am, did you ever see my client's car?",q,MR. MANARA,start_chat
+477,1129,45,9,"Objection, asked and answered.",side_chat,MR. LOMBARDO,start_chat
+478,1131,45,11,I asked if she saw damage.  I'm asking if she ever saw the car.,side_chat,MR. MANARA,start_chat
+479,1133,45,13,She already said she never saw your client's vehicle.,side_chat,MR. LOMBARDO,start_chat
+480,1135,45,15,I understand you're saying it.  You're not testifying.,side_chat,MR. MANARA,start_chat
+481,1137,45,17,Note my objection.,side_chat,MR. LOMBARDO,start_question
+482,1139,45,19,"Ma'am, did you ever see my client's car after the impact?",q,MR. MANARA,start_answer
+483,1141,45,21,Never seen it.,a,THE WITNESS,start_question
+484,1142,45,22,"Immediately after the impact, what happened?",q,MR. MANARA,start_answer
+485,1144,45,24,"Just right after impact, suddenly I felt like my neck got tight.  It's like it's being held in a certain tight position unable to move, and I feel numbness on my arms and on my shoulder.",a,THE WITNESS,start_question
+486,1150,46,5,Which arm?,q,MR. MANARA,start_answer
+487,1151,46,6,The right side.,a,THE WITNESS,start_question
+488,1152,46,7,Did you feel that immediately?,q,MR. MANARA,start_answer
+489,1153,46,8,"No.  Actually, right away was just to my neck, and then at nighttime is when I start to feel the numbness sensation.",a,THE WITNESS,start_question
+490,1156,46,11,"After the impact happened while you were sitting in the car, what happened?",q,MR. MANARA,start_answer
+491,1158,46,13,"Right at that moment I wasn't aware of anything yet, and I just know I felt the impact.  I felt a strong force.  I asked my cousin what happened, and my cousin said someone just hit us from behind.",a,THE WITNESS,start_question
+492,1163,46,18,You indicated your cousin got out of the car?,q,MR. MANARA,start_answer
+493,1165,46,20,Correct.,a,THE WITNESS,start_question
+494,1166,46,21,Did you see where he went at all?,q,MR. MANARA,start_answer
+495,1167,46,22,I believe he got out to take a look at the vehicle or probably to meet with the driver that hit his car.,a,THE WITNESS,start_question
+496,1171,47,1,How long were you on scene before you left?,q,MR. MANARA,start_answer
+497,1173,47,3,"For about half-an-hour, at least.",a,THE WITNESS,start_question
+498,1174,47,4,"Those 30 minutes you were on scene, did you remain in the car the entire time?",q,MR. MANARA,start_chat
+499,1176,47,6,Note my objection as to form.  She said about a half-hour.,side_chat,MR. LOMBARDO,start_question
+500,1179,47,9,"In the approximate half-hour that you were on scene before you left, did you stay in the car the whole time?",q,MR. MANARA,start_answer
+501,1182,47,12,Correct.,a,THE WITNESS,start_question
+502,1183,47,13,"After you left after the approximate 30 minutes, where did you go?",q,MR. MANARA,start_answer
+503,1185,47,15,We went home.,a,THE WITNESS,start_question
+504,1186,47,16,Did anybody call the police?,q,MR. MANARA,start_answer
+505,1187,47,17,I really don't know who made a phone call to police.  He just tell me to sit in the car.,a,THE WITNESS,start_question
+506,1190,47,20,Did the police arrive?,q,MR. MANARA,start_answer
+507,1191,47,21,I don't remember if the police did or not.  I don't know.,a,THE WITNESS,start_question
+508,1193,47,23,Fair to say you don't recall if you ever spoke to any police?,q,MR. MANARA,start_answer
+509,1196,48,1,That's correct.  I did not.,a,THE WITNESS,start_question
+510,1197,48,2,"While you were sitting in the car on scene, did you ever speak to my client at all?",q,MR. MANARA,start_answer
+511,1200,48,5,"No, I did not.",a,THE WITNESS,start_question
+512,1201,48,6,Did your cousin ask you if you were hurt at all?,q,MR. MANARA,start_chat
+513,1203,48,8,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+514,1205,48,10,He did ask me.,side_chat,THE WITNESS,start_question
+515,1207,48,12,He did ask?,q,MR. MANARA,start_answer
+516,1208,48,13,Yes.,a,THE WITNESS,start_question
+517,1209,48,14,What did you tell him?,q,MR. MANARA,start_answer
+518,1210,48,15,"At that moment, I told him that my neck just got locked up.  My neck just locked up.  I wasn't able to move, but I don't know if my hands or shoulder were hurt or not; I'll let you know.  The next morning is when I let him know.",a,THE WITNESS,start_question
+519,1216,48,21,Did anybody call an ambulance?,q,MR. MANARA,start_answer
+520,1217,48,22,Not that I know of.,a,THE WITNESS,start_question
+521,1218,48,23,Did an ambulance ever arrive?,q,MR. MANARA,start_answer
+522,1219,48,24,No.,a,THE WITNESS,start_question
+523,1221,49,1,Have you ever given a recorded statement to any insurance company or any investigator regarding this accident?,q,MR. MANARA,start_chat
+524,1224,49,4,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+525,1226,49,6,"No, I didn't.",side_chat,THE WITNESS,start_question
+526,1228,49,8,Did any parts of your body hit anything inside the vehicle upon the impact?,q,MR. MANARA,start_answer
+527,1230,49,10,I don't remember at the time.  I don't know.,a,THE WITNESS,start_question
+528,1232,49,12,Were you wearing your seatbelt?,q,MR. MANARA,start_answer
+529,1233,49,13,"Yes, I did.",a,THE WITNESS,start_question
+530,1234,49,14,What parts of your body are you claiming injury to as a result of this accident?,q,MR. MANARA,start_answer
+531,1237,49,17,My neck and my arm.,a,THE WITNESS,start_question
+532,1238,49,18,I see you pointing. Is it your right arm?,q,MR. MANARA,start_answer
+533,1240,49,20,Correct.,a,THE WITNESS,start_question
+534,1241,49,21,"Other than your neck and right arm, did you injure any other parts of your body?",q,MR. MANARA,start_answer
+535,1243,49,23,No.,a,THE WITNESS,start_question
+536,1244,49,24,Have you ever injured your neck or your right arm before this accident?,q,MR. MANARA,start_answer
+537,1247,50,2,"No, never.",a,THE WITNESS,start_question
+538,1248,50,3,"Immediately prior to the impact, were you feeling any pain or discomfort in your neck or right arm?",q,MR. MANARA,start_answer
+539,1251,50,6,"Not before, no.",a,THE WITNESS,start_question
+540,1252,50,7,Did you have any cuts or bleeding as a result of this accident?,q,MR. MANARA,start_answer
+541,1254,50,9,No.,a,THE WITNESS,start_question
+542,1255,50,10,Any broken bones or fractures?,q,MR. MANARA,start_answer
+543,1256,50,11,No.,a,THE WITNESS,start_question
+544,1257,50,12,Did you lose consciousness at all?,q,MR. MANARA,start_answer
+545,1258,50,13,No.,a,THE WITNESS,start_question
+546,1259,50,14,When was the first time you sought treatment for your neck and right arm?,q,MR. MANARA,start_chat
+547,1261,50,16,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+548,1263,50,18,When I went to get therapy.,side_chat,THE WITNESS,start_question
+549,1266,50,21,Do you remember when that was?,q,MR. MANARA,start_answer
+550,1267,50,22,Around February 14th.,a,THE WITNESS,start_question
+551,1268,50,23,How did you find out about -- where was it?,q,MR. MANARA,start_answer
+552,1271,51,1,"Around 16th Street, 38th West Passyunk.",a,THE WITNESS,start_question
+553,1273,51,3,Is that a chiropractor by the name of D'Angelo?,q,MR. MANARA,start_answer
+554,1275,51,5,Yes.,a,THE WITNESS,start_question
+555,1276,51,6,How did you find out about that chiropractor?,q,MR. MANARA,start_answer
+556,1278,51,8,From a friend.  A friend introduced me.  A friend tell me where to go.,a,THE WITNESS,start_question
+557,1280,51,10,What friend?,q,MR. MANARA,start_answer
+558,1281,51,11,"Kind of more of a customer.  A person comes to visit the donut place, a customer there, and that person told me where to go.",a,THE WITNESS,start_question
+559,1284,51,14,Is that customer a medical professional?,q,MR. MANARA,start_chat
+560,1286,51,16,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+561,1288,51,18,"No, she just let me know that that place is very good to go to, and she recommended me to go there as a good place to get treatment.",side_chat,THE WITNESS,start_question
+562,1293,51,23,"In between the date of the accident on February 6th and February 14th when you started at therapy, did you seek any treatment during that time?",q,MR. MANARA,start_answer
+563,1298,52,3,"No, I did not.",a,THE WITNESS,start_question
+564,1299,52,4,Is there a reason why not?,q,MR. MANARA,start_answer
+565,1300,52,5,Because at the time I did not know where to go and where would be a good place to go.,a,THE WITNESS,start_question
+566,1303,52,8,"When you got to therapy at Dr. D'Angelo, what were your complaints? What did you tell him hurt?",q,MR. MANARA,start_answer
+567,1306,52,11,"I told him I felt like my neck got locked up and got so stiff, and my arms, I feel very numb from time to time.  Mostly, it's just numb.",a,THE WITNESS,start_question
+568,1310,52,15,"Again, when you say arm, is that just your right arm?",q,MR. MANARA,start_answer
+569,1312,52,17,Correct.,a,THE WITNESS,start_question
+570,1313,52,18,No issues with your left arm as a result of this accident; is that fair?,q,MR. MANARA,start_chat
+571,1315,52,20,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+572,1317,52,22,"Correct, no.",side_chat,THE WITNESS,start_question
+573,1319,52,24,How long did you treat with your therapist?,q,MR. MANARA,start_answer
+574,1322,53,2,About seven months.,a,THE WITNESS,start_question
+575,1323,53,3,I see a last visit on September 14th. Does that sound about right?,q,MR. MANARA,start_chat
+576,1325,53,5,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+577,1327,53,7,Yes.,side_chat,THE WITNESS,start_question
+578,1329,53,9,What type of treatment were they doing for you at therapy?,q,MR. MANARA,start_answer
+579,1331,53,11,"I would lay down on some kind of steam, and he would give me massage.",a,THE WITNESS,start_question
+580,1333,53,13,"Other than that laying down on that steam and the massage, did they do any other treatment for you at the therapist's office?",q,MR. MANARA,start_answer
+581,1336,53,16,I don't remember.,a,THE WITNESS,start_question
+582,1337,53,17,How many times a week were you supposed to go?,q,MR. MANARA,start_answer
+583,1339,53,19,Twice a week.,a,THE WITNESS,start_question
+584,1340,53,20,Did you ever miss any treatment?,q,MR. MANARA,start_answer
+585,1341,53,21,"No, never.",a,THE WITNESS,start_question
+586,1342,53,22,Did they do any diagnostic testing?,q,MR. MANARA,start_answer
+587,1343,53,23,"Well, I did get some images done to my neck and arms.",a,THE WITNESS,start_question
+588,1346,54,1,"An MRI, does that sound about right?",q,MR. MANARA,start_answer
+589,1347,54,2,Correct.,a,THE WITNESS,start_question
+590,1348,54,3,"That MRI, do you remember if you were put in a tube, or were you sitting down?",q,MR. MANARA,start_answer
+591,1350,54,5,I was just sitting.,a,THE WITNESS,start_question
+592,1351,54,6,"I see an MRI on April 25th of 2017 to your lower back, does that ring a bell?",q,MR. MANARA,start_answer
+593,1353,54,8,"Well, I remember getting the MRI sitting.  They just tell me to sit.  I don't know where they did the image or the pictures.  I don't know.",a,THE WITNESS,start_question
+594,1357,54,12,"Just to be clear, did you injure your lower back as a result of the accident in February 2017?",q,MR. MANARA,start_answer
+595,1360,54,15,"At the time, I did have feeling of pain or discomfort to my lower back.",a,THE WITNESS,start_question
+596,1362,54,17,"Earlier, I asked you what parts of your body you injured.  You told me your neck and right shoulder.  I'm just trying to get all of it, okay?",q,MR. MANARA,start_answer
+597,1366,54,21,Correct.,a,THE WITNESS,start_question
+598,1367,54,22,Are you saying you injured your lower back as a result of this accident?,q,MR. MANARA,start_answer
+599,1369,54,24,"Well, yes.  It's just that, if you compare the pain and suffering I have to my neck and my shoulder, it's less.  Because it's so less, I don't pay much attention to it because I was able to get by with it unless I lift something heavy.  Once I start to lift something heavy to trigger it, that's when the pain come up and became more discomfort.",a,THE WITNESS,start_question
+600,1379,55,9,"Other than your neck, right arm, and your lower back, any other parts of your body you're claiming injury to as a result of this accident?",q,MR. MANARA,start_answer
+601,1383,55,13,That's all.,a,THE WITNESS,start_question
+602,1384,55,14,Did anybody ever discuss the results of your low back MRI to you?,q,MR. MANARA,start_chat
+603,1386,55,16,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+604,1388,55,18,"No, did not.",side_chat,THE WITNESS,start_question
+605,1390,55,20,I also see an MRI of your neck in May of 2017. Does that sound about right?,q,MR. MANARA,start_answer
+606,1393,55,23,Yes.,a,THE WITNESS,start_question
+607,1394,55,24,Did anybody ever discuss the results of that MRI with you?,q,MR. MANARA,start_chat
+608,1397,56,2,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+609,1399,56,4,No.,side_chat,THE WITNESS,start_question
+610,1401,56,6,Did your treatment change at all after those MRIs?,q,MR. MANARA,start_answer
+611,1403,56,8,It seems to be the same.,a,THE WITNESS,start_question
+612,1404,56,9,Do you know what they diagnosed you with at therapy?,q,MR. MANARA,start_chat
+613,1406,56,11,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+614,1408,56,13,"Not that I could remember.  I don't think so.  Every time I go there I just have to tell them where I feel the pain or discomfort, what do I need help in, and they continue to do what they can do to help, mainly with the steams and massage most often.",side_chat,THE WITNESS,start_question
+615,1416,56,21,Did anybody at therapy ever recommend surgery for you?,q,MR. MANARA,start_answer
+616,1418,56,23,Not that I remember.,a,THE WITNESS,start_question
+617,1419,56,24,Did anybody at therapy ever recommend injections for you?,q,MR. MANARA,start_answer
+618,1422,57,2,I don't remember any.,a,THE WITNESS,start_question
+619,1423,57,3,"Not that they recommended, did you ever have surgery or injections as a result of this accident?",q,MR. MANARA,start_answer
+620,1426,57,6,"No, never.",a,THE WITNESS,start_question
+621,1427,57,7,Did anybody at therapy ever prescribe you any medication?,q,MR. MANARA,start_answer
+622,1429,57,9,"No, did not.",a,THE WITNESS,start_question
+623,1430,57,10,Did anybody at therapy ever put you on any restrictions?,q,MR. MANARA,start_chat
+624,1432,57,12,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+625,1434,57,14,No.,side_chat,THE WITNESS,start_question
+626,1436,57,16,"Other than therapy, have you treated anywhere else as a result of this accident in February of 2017?",q,MR. MANARA,start_answer
+627,1439,57,19,"No, not that I remember.",a,THE WITNESS,start_question
+628,1440,57,20,"Your therapy with Dr. D'Angelo, did it help?",q,MR. MANARA,start_answer
+629,1442,57,22,"Yes, it did help a little bit.",a,THE WITNESS,start_question
+630,1443,57,23,"Since your discharge in September of 2017, have you sought any treatment at that same therapy place? Have you sought any treatment for this accident since September 2017?",q,MR. MANARA,start_answer
+631,1449,58,4,"No, no other treatment except when I go home or when I'm at home.  I do continue a certain exercise just to help, some stretching and some exercise here and there.",a,THE WITNESS,start_question
+632,1453,58,8,"Those home exercises, were they given to you by somebody at therapy?",q,MR. MANARA,start_answer
+633,1455,58,10,"It's not recommended from the therapy place.  It's just people that I know that know me recommended me to do a certain exercise at home because it helped them, so they thought it might help me, as well.",a,THE WITNESS,start_question
+634,1460,58,15,"Those people who recommended the home exercises, are they medical professionals?",q,MR. MANARA,start_chat
+635,1462,58,17,Note my objection as to form.,side_chat,MR. LOMBARDO,start_chat
+636,1464,58,19,"No, they're not.",side_chat,THE WITNESS,start_question
+637,1466,58,21,"As you sit here today, do you have any plans on seeking treatment as a result of this accident anywhere?",q,MR. MANARA,start_answer
+638,1469,58,24,I have not thought about any of that.,a,THE WITNESS,start_question
+639,1471,59,1,"As you sit here today, are you on any medical restrictions as a result of this accident?",q,MR. MANARA,start_answer
+640,1474,59,4,No.,a,THE WITNESS,start_question
+641,1475,59,5,Are you taking any medication as a result of this accident?,q,MR. MANARA,start_answer
+642,1477,59,7,Not on a daily basis.  It's just that when I start to feel discomfort and pain I take Aleve to help me get better.,a,THE WITNESS,start_question
+643,1480,59,10,Does the Aleve help?,q,MR. MANARA,start_answer
+644,1481,59,11,"Yes, it does help some.",a,THE WITNESS,start_question
+645,1482,59,12,"Prior to this accident, have you ever had an MRI before?",q,MR. MANARA,start_answer
+646,1484,59,14,"No, never.",a,THE WITNESS,start_question
+647,1485,59,15,Have you ever had an EMG before?,q,MR. MANARA,start_answer
+648,1486,59,16,Not that I could remember.,a,THE WITNESS,start_question
+649,1487,59,17,Did you ever have an EMG as a result of this accident?,q,MR. MANARA,start_chat
+650,1489,59,19,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+651,1491,59,21,"No, not that I remember.",side_chat,THE WITNESS,start_question
+652,1494,59,24,Is there a reason why you didn't go to the ER as a result of this accident?,q,MR. MANARA,start_answer
+653,1497,60,2,I thought it was just temporary pain. I didn't think it was going to be anything severe or carry on for a long time.  That's why my thinking wasn't really to go to the emergency.,a,THE WITNESS,start_question
+654,1502,60,7,Have you ever been treated by a chiropractor or physical therapist before this accident?,q,MR. MANARA,start_answer
+655,1505,60,10,"No, never.",a,THE WITNESS,start_question
+656,1506,60,11,"Did anybody at therapy refer you to another doctor, like an orthopedist, a neurologist or a neurosurgeon?",q,MR. MANARA,start_answer
+657,1509,60,14,I don't quite remember.  I believe there was one time they recommended me to go to some kind of bone place related to bone. I don't know exactly what it's called or what they did or what it is that they're looking to find.  I don't remember all of that.,a,THE WITNESS,start_question
+658,1515,60,20,"They recommended you a bone place, you think?",q,MR. MANARA,start_answer
+659,1517,60,22,"It's probably something that they want to see to look at the pictures or whatever they took, if there is anything that affects inside the bones or anything that would cause the pain or discomfort.",a,THE WITNESS,start_question
+660,1523,61,3,Did you go to that bone place?,q,MR. MANARA,start_answer
+661,1524,61,4,I didn't.,a,THE WITNESS,start_question
+662,1525,61,5,Is there a reason why you didn't go?,q,MR. MANARA,start_answer
+663,1526,61,6,Because I was thinking I don't think there is any broken bone or fractures in my body.  I didn't think I would need to go see any bone doctor.,a,THE WITNESS,start_question
+664,1530,61,10,"Ma'am, have you paid anything out of pocket as a result of this accident?",q,MR. MANARA,start_chat
+665,1532,61,12,Objection as to form.,side_chat,MR. LOMBARDO,start_chat
+666,1534,61,14,"Yeah, but I didn't think it was a big deal to mention it.",side_chat,THE WITNESS,start_question
+667,1537,61,17,What did you pay?,q,MR. MANARA,start_answer
+668,1538,61,18,Some medicines for pain and stuff like that that I need to take when I feel pain.,a,THE WITNESS,start_question
+669,1540,61,20,Are these over the counter or prescription?,q,MR. MANARA,start_answer
+670,1542,61,22,Yes.,a,THE WITNESS,start_question
+671,1543,61,23,Do you know how much?,q,MR. MANARA,start_answer
+672,1544,61,24,A couple dollars each time.,a,THE WITNESS,start_chat
+673,1546,62,1,"Counsel, I have the PIP is not exhausted.",side_chat,MR. MANARA,start_chat
+674,1548,62,3,I'm not 100 percent sure of that.,side_chat,MR. LOMBARDO,start_question
+675,1551,62,6,"Ma'am, did you own the car?",q,MR. MANARA,start_answer
+676,1552,62,7,"Not before, never.",a,THE WITNESS,start_question
+677,1553,62,8,"The car you were in at the accident, did you own that car?",q,MR. MANARA,start_answer
+678,1555,62,10,No.,a,THE WITNESS,start_question
+679,1556,62,11,"At the time of the accident, did you own a car?",q,MR. MANARA,start_answer
+680,1558,62,13,"No, not that time.",a,THE WITNESS,start_chat
+681,1559,62,14,"Counsel, is there a consortium claim?",side_chat,MR. MANARA,start_chat
+682,1561,62,16,No consortium claim.,side_chat,MR. LOMBARDO,start_question
+683,1564,62,19,"Ma'am, very briefly I would just like to do a quick pain scale with you, okay?  10 would be the worst pain you've ever experienced in your entire life, and 0 would be no pain at all. Does that make sense?",q,MR. MANARA,start_answer
+684,1571,63,1,Okay.,a,THE WITNESS,start_question
+685,1572,63,2,You indicated to me earlier you injured your neck down your right arm and your lower back.,q,MR. MANARA,start_answer
+686,1575,63,5,Correct.,a,THE WITNESS,start_question
+687,1576,63,6,"Discussing your neck, when you first started to feel pain in your neck, how would you rate that pain?",q,MR. MANARA,start_answer
+688,1579,63,9,About 5 and 6.,a,THE WITNESS,start_question
+689,1580,63,10,"At the end of treatment in September of 2017, how would you rate the pain to your neck?",q,MR. MANARA,start_answer
+690,1583,63,13,"It's better, around 3 and 4.  It's still there.",a,THE WITNESS,start_question
+691,1585,63,15,"As you sit here today, how would you rate the pain to your neck?",q,MR. MANARA,start_answer
+692,1587,63,17,"Around 2 or 3, because as I'm sitting for a certain amount of time, I still feel some numbness sensation there.",a,THE WITNESS,start_question
+693,1590,63,20,"Discussing your right arm, does that right arm pain travel from your neck, or is it actually your shoulder?",q,MR. MANARA,start_answer
+694,1593,63,23,It's separate from the neck.  No traveling from there.,a,THE WITNESS,start_question
+695,1596,64,1,The pain in your neck stayed in your neck?,q,MR. MANARA,start_answer
+696,1598,64,3,Correct.,a,THE WITNESS,start_question
+697,1599,64,4,"The pain in your right shoulder, did that travel anywhere or stay in your right shoulder?",q,MR. MANARA,start_answer
+698,1602,64,7,Just pain down to my right shoulder from the right shoulder and arms.,a,THE WITNESS,start_question
+699,1604,64,9,"Your lower back, did that stay in your lower back or travel anywhere?",q,MR. MANARA,start_answer
+700,1606,64,11,"No, it stayed there.",a,THE WITNESS,start_question
+701,1607,64,12,"Discussing your right arm, when you first started to feel pain in your right arm, how would you rate the pain in your right arm?",q,MR. MANARA,start_answer
+702,1611,64,16,"About same number as the neck.  The problem is this with the neck:  When I take the medicine, the pain would go away.  It helped relieve the pain.  But in terms of the shoulder, it doesn't seem to go away.  It doesn't seem to help much with medicine.",a,THE WITNESS,start_question
+703,1617,64,22,"You indicated when you first started to feel pain, it was the same as your neck, about a 5 or 6?",q,MR. MANARA,start_answer
+704,1621,65,1,Correct.,a,THE WITNESS,start_question
+705,1622,65,2,"At the end of treatment, how would you rate the pain to your right arm and shoulder area?",q,MR. MANARA,start_answer
+706,1625,65,5,Around 2 or 3.,a,THE WITNESS,start_question
+707,1626,65,6,"As you sit here today, how would you rate the pain to your right arm and shoulder area?",q,MR. MANARA,start_answer
+708,1629,65,9,"Around 2.  That is just sitting, not doing anything, not making much movement or not lifting anything.",a,THE WITNESS,start_question
+709,1632,65,12,"How about lifting things and making movement, how would you rate that pain to your right arm/shoulder area?",q,MR. MANARA,start_answer
+710,1635,65,15,"Not the same as when I was first injured, up to about 4 to 5.",a,THE WITNESS,start_question
+711,1637,65,17,"Discussing your low back, how would you rate your pain to your low back when you first started to feel pain?",q,MR. MANARA,start_answer
+712,1640,65,20,Around 4 when it start.,a,THE WITNESS,start_question
+713,1641,65,21,"At the end of treatment in September of 2017, how would you rate the pain to your low back?",q,MR. MANARA,start_answer
+714,1644,65,24,"Around 1 or 2.  That's if I'm not doing anything, lifting, or bending so much.",a,THE WITNESS,start_question
+715,1647,66,2,"As you sit here today, how would you rate the pain in your low back?",q,MR. MANARA,start_answer
+716,1649,66,4,Around 1 or 2.,a,THE WITNESS,start_question
+717,1650,66,5,"When you're moving and bending, is it worse?",q,MR. MANARA,start_answer
+718,1652,66,7,Correct.,a,THE WITNESS,start_question
+719,1653,66,8,How would you rate it when it gets worse when you're lifting and bending?,q,MR. MANARA,start_answer
+720,1655,66,10,"Not as much, around 3 and 4.",a,THE WITNESS,start_question
+721,1656,66,11,"Ma'am, I understand you didn't get out of the car on scene. Did you ever see the rear of the car you were in after the accident?",q,MR. MANARA,start_answer
+722,1660,66,15,No.  I got so scared and nervous at the time.  I just wanted to get home and rush to get home and go and relax.,a,THE WITNESS,start_question
+723,1663,66,18,"After you got home following the accident, maybe not that day, maybe within the week or month, did you ever see the back of the car you were in at the time of the accident?",q,MR. MANARA,start_answer
+724,1668,66,23,"No, I did not.",a,THE WITNESS,start_question
+725,1669,66,24,"You never took any pictures of the rear of the car you were involved in because you never saw it after the accident, right?",q,MR. MANARA,start_answer
+726,1673,67,3,Correct.,a,THE WITNESS,start_question
+727,1674,67,4,"Ma'am, did this accident affect your life in any way?",q,MR. MANARA,start_answer
+728,1676,67,6,"Yeah, of course a little bit here and there.  It did affect of what I can do.  I have to restrict myself from doing stuff that I used to, like moving, picking things up, lifting certain things, stocking certain things, stuff that every day that I'm used to I couldn't do much.",a,THE WITNESS,start_question
+729,1683,67,13,"First, as a result of this accident, is there anything that you physically cannot do anymore?",q,MR. MANARA,start_answer
+730,1686,67,16,"Well, it's more like I can still do some of them, but I would need help.  I can't do it by myself.  I will always have to ask for help.",a,THE WITNESS,start_question
+731,1690,67,20,"I'll get to that.  I'll ask you what you have difficulty doing later. I want to know if there is anything, as a result of this accident, you cannot do?",q,MR. MANARA,start_answer
+732,1694,67,24,"No, not like that.",a,THE WITNESS,start_question
+733,1696,68,1,"As a result of this accident, is there anything you have difficulty doing?",q,MR. MANARA,start_answer
+734,1698,68,3,"Well, it's mainly just that I can't do anything heavy.  I most often have to ask for help all the time when I have to do certain things that I can't do by myself.",a,THE WITNESS,start_question
+735,1702,68,7,What are those things you can't do by yourself?,q,MR. MANARA,start_answer
+736,1704,68,9,"Just mainly at work.  I would always need someone else to come and help me carry certain things, lift up certain things, do certain things.  At home, I just do some housework, chores, and stuff like that, little things.",a,THE WITNESS,start_question
+737,1710,68,15,"When you say you have some difficulty carrying, what part of your body hurts when you're carrying these things at work?",q,MR. MANARA,start_answer
+738,1713,68,18,"Like if I try to lift up sodas or soda case stocks to put in a certain location at nighttime, I will start to feel very numbness to my shoulders through my arm and lower back, feeling a lot of discomfort.  So I have to take medicine to help.",a,THE WITNESS,start_question
+739,1719,68,24,"That lifting, how much weight in pounds do you have difficulty lifting?",q,MR. MANARA,start_answer
+740,1722,69,2,"I really don't know how to estimate. I don't know the estimation of what soda product, how much it weighs.  I go and see it and I try to lift it, and I realize it's heavy and hurting me.  I ask for help.  I never know in advance how much certain things weigh.",a,THE WITNESS,start_question
+741,1729,69,9,You said earlier about a soda case?,q,MR. MANARA,start_answer
+742,1730,69,10,"Well, I know it's a soda case.  I don't know how many bottles of soda are in that.",a,THE WITNESS,start_question
+743,1733,69,13,Do you have any difficulty doing housework?,q,MR. MANARA,start_answer
+744,1735,69,15,"Well, I manage a little cooking here and there, not much of any lifting, mainly a woman's job.",a,THE WITNESS,start_question
+745,1738,69,18,Do you have any difficulty cooking?,q,MR. MANARA,start_answer
+746,1739,69,19,I'm okay.,a,THE WITNESS,start_question
+747,1740,69,20,"Do you have any difficulty taking care of yourself, meaning getting dressed, using the restroom, showering, feeding yourself?",q,MR. MANARA,start_answer
+748,1743,69,23,I'm okay.,a,THE WITNESS,start_question
+749,1744,69,24,"Other than that carrying and lifting, do you have any difficulty doing anything else as a result of this accident?",q,MR. MANARA,start_answer
+750,1748,70,3,No.,a,THE WITNESS,start_question
+751,1749,70,4,Do you go to the gym at all?,q,MR. MANARA,start_answer
+752,1750,70,5,"No, I never did.",a,THE WITNESS,start_question
+753,1751,70,6,"Never did, not even before the accident?",q,MR. MANARA,start_answer
+754,1753,70,8,Never ever.,a,THE WITNESS,start_question
+755,1754,70,9,Do you go to church or have any activities for religion?,q,MR. MANARA,start_answer
+756,1756,70,11,"Once in a while, like do Cambodian New Years, stuff like that.",a,THE WITNESS,start_question
+757,1758,70,13,Any difficulties celebrating at church or any religious function as a result of this accident?,q,MR. MANARA,start_answer
+758,1761,70,16,"No, because I don't really involve much of doing any activity.  I just go, make some donation and mainly go home.  I don't really do anything to help.",a,THE WITNESS,start_question
+759,1765,70,20,"Is that the same as it was before the accident, or did it change?",q,MR. MANARA,start_answer
+760,1767,70,22,The same.  I don't do anything different.,a,THE WITNESS,start_question
+761,1769,70,24,Have you traveled anywhere since the accident?,q,MR. MANARA,start_answer
+762,1772,71,2,I don't remember.,a,THE WITNESS,start_question
+763,1773,71,3,Did you get married in Cambodia?,q,MR. MANARA,start_answer
+764,1774,71,4,Yes.,a,THE WITNESS,start_question
+765,1775,71,5,"Did you travel to Cambodia, I'm assuming, for the wedding?",q,MR. MANARA,start_answer
+766,1777,71,7,Yes.,a,THE WITNESS,start_question
+767,1778,71,8,That was in 2018?,q,MR. MANARA,start_answer
+768,1779,71,9,Correct.,a,THE WITNESS,start_question
+769,1780,71,10,Any difficulties traveling to Cambodia or getting married in 2018 as a result of this accident?,q,MR. MANARA,start_answer
+770,1783,71,13,"Well, yes, of course, there is some very discomfort, some pain here and there because it's a long flight.  I have to sit for a long period of time, and also the ceremony is difficult.",a,THE WITNESS,start_question
+771,1788,71,18,Did you have any accommodations at your ceremony in Cambodia as a result of this accident?,q,MR. MANARA,start_answer
+772,1791,71,21,"Well, I told them to just limit the time, not to do everything, not to take too long because it's a very long wedding because of my discomfort.",a,THE WITNESS,start_question
+773,1796,72,1,How long was the flight to Cambodia?,q,MR. MANARA,start_answer
+774,1797,72,2,Over 20 hours.  I can't remember exactly how many.,a,THE WITNESS,start_question
+775,1799,72,4,How long was the wedding?,q,MR. MANARA,start_answer
+776,1800,72,5,"The flight, right?",a,THE WITNESS,start_question
+777,1801,72,6,"No, the wedding, the actual wedding.",q,MR. MANARA,start_answer
+778,1802,72,7,"Well, there is a portion of the ceremony in the evening the night before, and then in the morning throughout the day. There is different parts of the ceremony that takes from the day before into the next day and evening.  There is a ceremony and reception the next day, as well.",a,THE WITNESS,start_question
+779,1809,72,14,"Ma'am, that's all I have for you. Thank you.",q,MR. MANARA,start_chat
+780,1811,72,16,"Counsel, while we're here on the record, I would just ask if you could send me the notice of deposition you sent to my client that you previously provided. I think you said you faxed it, so I'll just ask for a fax confirmation, the e-mail you sent.  If you sent it certified mail, I would ask for that, as well. I just don't have it.  I've never seen it.  The only correspondence I have wasn't a notice of deposition.",side_chat,MR. MANARA,start_chat
+781,1824,73,4,I understand.,side_chat,MR. LOMBARDO,symbols
+782,1825,73,5,- - -,symbols,,is brackets
+783,1826,73,6,"(Whereupon, the deposition concluded at 11:58 a.m.)",brackets,,symbols
+784,1828,73,8,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 27, 2019, and that this is a correct transcription of same.",symbols,,end

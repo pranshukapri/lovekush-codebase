@@ -1,0 +1,410 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, proceed counsel.,,,symbols
+1,144,6,3,- - - VOIR DIRE,symbols,,symbols
+2,146,6,5,- - -,symbols,,start_question
+3,148,6,7,"Good afternoon.  Mary McCarthy on behalf of the plaintiff Fr. Mularczyk. Dr. Yarus, would you please introduce yourself to the jury.",q,MS. MCCARTHY,start_answer
+4,152,6,11,"Ladies and gentlemen of the jury, Your Honor, my name is Lance Owen Yarus, DO.",a,THE WITNESS,start_question
+5,154,6,13,How long have you been a doctor?,q,MS. MCCARTHY,start_answer
+6,155,6,14,I graduated medical school in 1981.  I received my certificate at that time.,a,THE WITNESS,start_question
+7,157,6,16,You said DO.  What is your specialty?,q,MS. MCCARTHY,start_answer
+8,158,6,17,I practice in the areas of orthopedics and pain management.,a,THE WITNESS,start_question
+9,160,6,19,"Dr. Yarus, I have before you what we've had marked as Yarus-1 for identification. Can you tell us what that is.",q,MS. MCCARTHY,start_answer
+10,164,6,23,This is called a curriculum vitae.,a,THE WITNESS,start_question
+11,165,6,24,What is a curriculum vitae?,q,MS. MCCARTHY,start_answer
+12,167,7,1,"It's basically a resumé.  It has my background, training and participation in activities as a physician both in the internship and residency program and as a treating individual, having started my practice 1986 and thereafter. It contains my board certifications, certificates and fellowships that I hold, some teaching affiliations that I have, subspecialty rotations and some of the courses that I've participated, appointments I've had and some editorial activities, as well.",a,THE WITNESS,start_question
+13,180,7,14,Is Yarus-1 accurate and up to date?,q,MS. MCCARTHY,start_answer
+14,181,7,15,"It is, yes.",a,THE WITNESS,start_question
+15,182,7,16,I'm going to ask you to refer to it as needed as we go through your qualifications. Can you tell us a little bit about your educational background.,q,MS. MCCARTHY,start_answer
+16,186,7,20,"I graduated medical school in 1981. After that, I did what's known as a one-year rotating internship.  You go through all the subspecialty areas in medicine, family practice, and you actually get the opportunity to see individuals in the hospital setting, work with various types of physicians in subspecialty areas. After that, I started my orthopedic residency, which is specific to the subspecialty of orthopedic surgery, and that was a four-year program.  I completed that as chief resident in 1986.  At that point, I started my practice.",a,THE WITNESS,start_question
+17,201,8,10,Can you tell us about your professional experience.,q,MS. MCCARTHY,start_answer
+18,203,8,12,"As far as what I do on a daily basis, I operated on individuals for over 30 years, provided conservative care for injuries and some disease states that have to do with joints, particularly where they wear out and you have to address that.  I took call in the emergency room for that amount of time and also treated individuals in the office setting. In the early 1990s, I started doing more formalized pain management, particularly injecting more areas of the body in the spinal column and joints, muscles, tendons, ligaments and nerves and doing that kind of work along with the individuals who have not only metabolic diseases again but injuries, as well.",a,THE WITNESS,start_question
+19,221,9,5,"This seems like a silly question, but I have to ask. Are you licensed to practice medicine in the state of Pennsylvania?",q,MS. MCCARTHY,start_answer
+20,225,9,9,"I still hold a license to practice, yes.",a,THE WITNESS,start_question
+21,227,9,11,I believe you said something about board certification?,q,MS. MCCARTHY,start_answer
+22,229,9,13,Yes.,a,THE WITNESS,start_question
+23,230,9,14,Can you tell the jury what you're board certified in and what it means to be board certified.,q,MS. MCCARTHY,start_answer
+24,233,9,17,"I have two certificates that designate me as being board certified.  There are three recognized boards in orthopedic surgery.  I'm certified by one of them. The process to get there entailed, in the first certificate, three years of taking tests and the last year actually being observed doing surgery in the operating room by two board certified individuals.  I reviewed records in the hospital and office setting.  That was all compiled, and I received my first certificate in 1989. The process after that is just to take written tests, and I did that successfully three times to the current time.  I hold a certificate that still designates me as an orthopedic surgeon. I stopped doing surgery in 2013.  I still see individuals because of the pain management side of treatment who have injuries, so it goes hand in hand, so to speak. Basically, for pain management, I do interventional techniques, injecting individuals and also treating and designing programs for people who require therapy and also modalities, such as medications, as well.",a,THE WITNESS,start_question
+25,262,10,21,"You've already touched on this a little bit, but can you please describe for us in a little more detail your current orthopedic practice. What do you do on a day-to-day basis?",q,MS. MCCARTHY,start_answer
+26,268,11,2,"On a day-to-day basis, I see people who have injuries, metabolic diseases that are pain oriented.  Again, I see individuals who have issues with all types of injuries that occur for various reasons, such as motor vehicle accidents, trip and slip-and-falls, people who have Workers' Compensation injuries and those individuals who have sports injuries, as well. My role is to still figure out what's going on and design, as I said, a program for treatment.  A lot of times people are in therapy.  I'll go one step further and ask if they want to treat with other options that I have available, particularly with medications and injections.",a,THE WITNESS,start_question
+27,284,11,18,"Is it fair to say, as part of your practice, you treat people with back and shoulder injuries?",q,MS. MCCARTHY,start_answer
+28,287,11,21,Yes.,a,THE WITNESS,start_question
+29,288,11,22,Have you previously performed surgery on the back and shoulder?,q,MS. MCCARTHY,start_answer
+30,290,11,24,"Very much so, yes.",a,THE WITNESS,start_question
+31,292,12,1,"As part of your practice, do you routinely review medical records, diagnostic studies and images?",q,MS. MCCARTHY,start_answer
+32,295,12,4,Yes.,a,THE WITNESS,start_question
+33,296,12,5,Does that include MRI studies?,q,MS. MCCARTHY,start_answer
+34,297,12,6,"It does, yes.",a,THE WITNESS,start_question
+35,298,12,7,"To be clear, you're not a radiologist?",q,MS. MCCARTHY,start_answer
+36,299,12,8,"Correct, I'm not.",a,THE WITNESS,start_question
+37,300,12,9,But you rely and on read MRI studies as part of your treatment and practice of your patients?,q,MS. MCCARTHY,start_answer
+38,303,12,12,"Absolutely.  I've taken courses to learn how to interpret, but I'm not the person who puts out the report that has to do with the study itself. I certainly have to be able to discern the morphology, which means what's on that study and what significance it has to the person that has the study done for whatever reason, particularly injuries that are sustained.",a,THE WITNESS,start_question
+39,313,12,22,Is it fair to say that you prescribe these studies for your own patients?,q,MS. MCCARTHY,start_answer
+40,315,12,24,"Sure, all the time, yes.",a,THE WITNESS,start_question
+41,317,13,1,"As part of your practice, do you physically examine patients?",q,MS. MCCARTHY,start_answer
+42,319,13,3,"Absolutely, yes.",a,THE WITNESS,start_question
+43,320,13,4,Routinely review records and reports from other specialists who may be treating your patients to help you develop your diagnosis and prognosis?,q,MS. MCCARTHY,start_answer
+44,324,13,8,Yes.,a,THE WITNESS,start_question
+45,325,13,9,Is it fair to say you routinely make recommendations for additional or future treatments or procedures?,q,MS. MCCARTHY,start_answer
+46,328,13,12,"Yes, most of the time, that's true.",a,THE WITNESS,start_question
+47,329,13,13,"In the litigation context, do you routinely review medical billing records?",q,MS. MCCARTHY,start_answer
+48,331,13,15,Yes.,a,THE WITNESS,start_question
+49,332,13,16,Have you previously been qualified as an expert witness in the Philadelphia Court of Common Pleas?,q,MS. MCCARTHY,start_answer
+50,335,13,19,"Yes, I have.",a,THE WITNESS,start_question
+51,336,13,20,Have you testified as an expert witness of orthopedic medicine and pain management in the Philadelphia Court of Common Pleas?,q,MS. MCCARTHY,start_answer
+52,340,13,24,"Yes, I have.",a,THE WITNESS,start_question
+53,342,14,1,"Do you take away time from your usual practice to evaluate patients and review their records for people like Fr. Mularczyk, who's involved in litigation?",q,MS. MCCARTHY,start_answer
+54,346,14,5,"I do, yes.",a,THE WITNESS,start_question
+55,347,14,6,That's what you did in this case?,q,MS. MCCARTHY,start_answer
+56,348,14,7,"I did, yes.",a,THE WITNESS,start_chat
+57,349,14,8,"At this time, I offer Dr. Yarus as a medical expert in orthopedic medicine and pain management.",side_chat,MS. MCCARTHY,symbols
+58,352,14,11,- - - VOIR DIRE,symbols,,symbols
+59,354,14,13,- - -,symbols,,start_question
+60,356,14,15,"Dr. Yarus, my name is Matthew Rong, and I represent the City of Philadelphia in this matter.  I have a couple questions to follow up regarding your qualifications. Doctor, you're not board certified by the American Board of Orthopedic Surgery; is that correct?",q,MR. RONG,start_answer
+61,363,14,22,"If you're referring to the MD version, that's correct.",a,THE WITNESS,start_question
+62,365,14,24,"As you stated, you have not performed orthopedic surgery since 2013; is that correct?",q,MR. RONG,start_answer
+63,369,15,3,"That's correct, yes.",a,THE WITNESS,start_question
+64,370,15,4,You presently cannot perform orthopedic surgeries because you do not have any privileges at any medical institutions; is that correct?,q,MR. RONG,start_answer
+65,374,15,8,"Right.  I would have to reapply and go through that whole process again, so yes, that's true.",a,THE WITNESS,start_question
+66,377,15,11,"Just so the jury understands, you cannot perform surgeries to either the shoulders or back currently; is that correct?",q,MR. RONG,start_answer
+67,380,15,14,Right.  I couldn't go into an operating room in a hospital setting because I don't have any privileges.  I gave those up.,a,THE WITNESS,start_question
+68,384,15,18,"Doctor, if any of your own patients needed a shoulder or back surgery, you would have to send them to another orthopedic surgeon?",q,MR. RONG,start_answer
+69,388,15,22,"I would refer them, if it would be necessary for them to have the surgery, yes.",a,THE WITNESS,start_question
+70,390,15,24,"Doctor, you have not published any peer-reviewed medical literature; is that correct?",q,MR. RONG,start_answer
+71,394,16,3,"Not as a treating physician, that's correct.",a,THE WITNESS,start_question
+72,396,16,5,"You haven't taught any medical students or residents formally since 1994, correct?",q,MR. RONG,start_answer
+73,399,16,8,"That's fair, yes.",a,THE WITNESS,start_question
+74,400,16,9,You are not a neurologist?,q,MR. RONG,start_answer
+75,401,16,10,Correct.,a,THE WITNESS,start_question
+76,402,16,11,You're not a neuroradiologist?,q,MR. RONG,start_answer
+77,403,16,12,That is also correct.,a,THE WITNESS,start_question
+78,404,16,13,"Doctor, you have not had any training in human factors; is that correct?",q,MR. RONG,start_answer
+79,406,16,15,"I missed the last part, I'm sorry.",a,THE WITNESS,start_question
+80,407,16,16,"The specific area of training, have you had any training in human factors?",q,MR. RONG,start_answer
+81,409,16,18,I'm not sure what human factors are.,a,THE WITNESS,start_question
+82,410,16,19,"Human factors tends to be related to accident reconstruction, having to do with the body mechanisms.",q,MR. RONG,start_answer
+83,413,16,22,"I have a forensic certificate, but I'm not a reconstructionist or someone who would be involved in that process.  I have experience as a chief deputy coroner for 12 years, and I used my forensic training in that area but certainly not in accident-related reconstruction.  That's true.",a,THE WITNESS,start_chat
+84,422,17,6,"Thank you, Doctor.",side_chat,MR. RONG,start_chat
+85,423,17,7,"You're welcome thanks.  I never heard it termed that way, so sorry I didn't know what you were talking about.",side_chat,THE WITNESS,symbols
+86,427,17,11,- - - FURTHER VOIR DIRE,symbols,,symbols
+87,429,17,13,- - -,symbols,,start_question
+88,431,17,15,"Dr. Yarus, I'd like to just pick up on what you were talking about very briefly going back to your qualifications. You said you were a coroner?",q,MS. MCCARTHY,start_answer
+89,435,17,19,I was the chief deputy coroner in Lebanon County for 12 years.,a,THE WITNESS,start_question
+90,437,17,21,Can you tell us a little bit about that.,q,MS. MCCARTHY,start_answer
+91,439,17,23,"It entails mostly going out on scenes and unfortunately pronouncing individuals deceased.  That was one part of it, but the other part is a lot of times we'll find bones or artifacts that are placed in very interesting areas.  We have to discern if they're animal or human, and I have training to do that. Also, on the scenes, we have to determine whether there is a crime along with the detectives who are out on the scene when there is a gunshot wound and those kinds of findings. All of that comes under forensics, and we rely on forensic pathologists to do the ultimate evaluation of the individual in their lab.  I don't do that as a forensic specialist, but that's the extent of my forensics only having to do with medicine, per se.",a,THE WITNESS,start_chat
+92,460,18,19,"Thank you.  Again, at this time, I'd offer Dr. Yarus as a medical expert in orthopedic medicine and pain management.",side_chat,MS. MCCARTHY,symbols
+93,464,18,23,- - - FURTHER VOIR DIRE,symbols,,symbols
+94,467,19,1,- - -,symbols,,start_question
+95,469,19,3,"Just one follow-up question, Doctor. I want to clarify. Fr. Mularczyk did not pass away in this accident; is that correct?",q,MR. RONG,start_answer
+96,473,19,7,He did not.  He was alive and well when I saw him in April 2019.,a,THE WITNESS,symbols
+97,475,19,9,- - - DIRECT EXAMINATION,symbols,,symbols
+98,477,19,11,- - -,symbols,,start_question
+99,479,19,13,"Dr. Yarus, we're here to take your testimony on behalf of Fr. Mularczyk related to his injuries and treatment following the accident that occurred on April 19, 2018, correct?",q,MS. MCCARTHY,start_answer
+100,484,19,18,"Yes, that's correct.",a,THE WITNESS,start_question
+101,485,19,19,"During your testimony, I'm going to ask you for some opinions. Can we agree that any opinion you give today will be within a reasonable degree of medical certainty?",q,MS. MCCARTHY,start_answer
+102,490,19,24,Yes.,a,THE WITNESS,start_question
+103,492,20,1,"On April 25, 2019, you evaluated Fr. Mularczyk at the request of my office, correct?",q,MS. MCCARTHY,start_answer
+104,495,20,4,"I did, yes.",a,THE WITNESS,start_question
+105,496,20,5,"In addition, you reviewed his medical records related to this accident?",q,MS. MCCARTHY,start_answer
+106,498,20,7,"Yes, I did.",a,THE WITNESS,start_question
+107,499,20,8,"After your examination and review of the records, you produced reports that contained your opinions concerning this matter?",q,MS. MCCARTHY,start_answer
+108,503,20,12,Yes.,a,THE WITNESS,start_question
+109,504,20,13,Can you please look at the documents that have been marked as Yarus-2 and -3 respectively.,q,MS. MCCARTHY,start_answer
+110,507,20,16,Okay.,a,THE WITNESS,start_question
+111,508,20,17,Are those your reports?,q,MS. MCCARTHY,start_answer
+112,509,20,18,"They are, yes.",a,THE WITNESS,start_question
+113,510,20,19,"During the course of your testimony today, I'm going to ask you to refer to your reports as needed; is that fair?",q,MS. MCCARTHY,start_answer
+114,513,20,22,"Yes, I will do that.",a,THE WITNESS,start_question
+115,514,20,23,"In a moment, I'm going to ask you to walk the jury through your physical examination and evaluation of Fr. Mularczyk and his records step by step. But before I do that, can you explain to the jury what injuries, if any, Fr. Mularczyk sustained as a result of the April 19, 2018 accident?",q,MS. MCCARTHY,start_chat
+116,523,21,7,Off the record.,side_chat,MR. RONG,start_chat
+117,524,21,8,The time is 3:52.  Off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+118,526,21,10,- - -,symbols,,is brackets
+119,527,21,11,"(Whereupon, a discussion was held off the videotaped record.)",brackets,,symbols
+120,529,21,13,- - -,symbols,,start_chat
+121,530,21,14,"I'm laying an objection on the record.  First, the general comment I'd like to make is this objection is being made because counsel made a similar objection at the time of Dr. Fras' deposition, his trial deposition. I believe it to be a frivolous objection.  However, I wanted to reserve my right to argue it in this context, if necessary. The objection being that, given that the doctor has conceded that he is not an accident reconstructionist, that he cannot render a conclusion as to what injuries were sustained during this accident because that would require his ability to understand how the body would operate or change or be affected in a fall or whatever Mr. Mularczyk is claiming happened as a mechanism in his accident. That is an objection I'm only placing on the record to reserve the right to argue it.  However, I believe that the objection that was made at Dr. Fras' deposition was a frivolous objection.",side_chat,MR. RONG,start_chat
+122,556,22,15,"Before we got started today, counsel gave me the professional courtesy of a heads-up, which was greatly appreciated, but I believe Dr. Yarus is more than qualified to discuss what injuries were sustained as a result of Fr. Mularczyk's accident on April 19, 2018. He's already gone through his qualifications, which are more than adequate.",side_chat,MS. MCCARTHY,start_chat
+123,565,22,24,3:55. Back on the record.,side_chat,THE VIDEOGRAPHER,start_chat
+124,568,23,2,"Fr. Mularczyk injured two areas of the body.  One is the low back.  We call that the lumbar spine. The other is the right shoulder. I broke down the types of injuries that were sustained into soft tissue injuries.  Then we'll talk about the discs in relation to the nerves that come out and supply motor and sensory functions. For the low back, he had a strain and sprain; a term I use, lumbar myositis, which is a covering of the muscles, which was inflamed.  I actually used an osteopathic term, that is somatic dysfunction.  It just means that, because the muscles, tendons, and ligaments are injured, the motion and function of the lumbar spine becomes altered. I also used a term called enthesopathy.  The enthesis -- and I'll show this on a model in a couple seconds here -- is the area of bone in the spine where these ligaments and tendons attach so that we can get motion and stability of the spine. Going to the discs, at L3-4 and L4-5 -- we designate the levels by two vertebrae and the disc is in the middle -- those had protrusions.  At 4-5, there was sequestration of the disc fragment that was going caudally to the left of the midline with encroachment. Breaking down all those terms, basically the disc came out of its containment area.  If we think about a jelly doughnut, putting pressure on the doughnut and the jelly coming out, this jelly actually goes away from the doughnut and it starts to go toward the top part of the vertebral body, which is called -- I'm sorry, caudad is lower; it goes down below.  Cephalad would be the upper.  Caudad is low, my apologies. Anyway, the disc went down away from the level where it would usually be situated.  At L5-S1, there was also a protrusion, as well.  This was going to the left. All these discs from 3-4, 5-S1, which stands for sacrum, that's the next bone below the last vertebrae in the spinal column, they were going left. The radiculopathy on the left comes from pressure on the nerve from the discs.  This was identified clinically at L4-5 and L5-S1 by my examination. In regard to the right shoulder, there was a contusion.  Then there was an MRI that was done, and it showed one of the four tendons of the rotator cuff to be torn. That's called the supraspinatus. Lastly, I said that Fr. Mularczyk had chronic pain secondary to the incident of April 19, 2018 and also a decrease in the activities in which he participated secondary to that incident, as well.",side_chat,THE WITNESS,start_question
+125,634,25,18,Do you have an opinion within a reasonable degree of medical certainty as to whether any of these injuries are serious?,q,MS. MCCARTHY,start_answer
+126,637,25,21,Yes.,a,THE WITNESS,start_question
+127,638,25,22,Which ones?,q,MS. MCCARTHY,start_answer
+128,639,25,23,"I believe the disc injuries as well as the tear in the rotator cuff, supraspinatus tendon, to be the most serious.  The soft tissue injuries are certainly permanent in nature.  They're higher grade, but I will classify those below those injuries that are disc oriented and the shoulder injury involving the actual structure that's part of the cuff.",a,THE WITNESS,start_question
+129,649,26,8,Do you have an opinion within a reasonable degree of medical certainty whether any of these injuries that you just discussed pertaining to the accident that brings us here today are permanent?,q,MS. MCCARTHY,start_answer
+130,654,26,13,Yes.,a,THE WITNESS,start_question
+131,655,26,14,Which ones?,q,MS. MCCARTHY,start_answer
+132,656,26,15,"Well, if we talk about soft tissue injuries, a lot of times sprains and strains and muscle, tendon, and ligament injuries will go away if they're low grade.  So we grade them up to a Roman numeral 4.  These are fours.  So what happens in the collagen fibers of the muscle particularly is it scars.  That's permanent.  It's not going to go away. In regard to the discs, the discs are out of their containment fibers.  They're pressing on the nerve, so that creates the radicular pain, the reproduction of that symptom and finding. Irrespective of what you do to correct that, even up to and including surgery, the effects of surgery are still there.  Some of the known effects of surgery, such as scarring particularly, will still be there, so it's permanent, as well. You may be able to help the person and improve their situation by doing it, but the effects are still there.  So I will classify that as permanent, as well.",a,THE WITNESS,start_question
+133,681,27,15,Let's talk about some of the terms that you used in discussing the injuries that Fr. Mularczyk received as a result of this subsequent. Let's start with the lumbar spine.,q,MS. MCCARTHY,start_answer
+134,686,27,20,"In order to understand what I was talking about, this is a representation of the lumbar spine.  It contains four vertebral bodies.  There is actually five in total, but the concept is that each vertebral body has a disc in between.  We'll number them 4, 5, et cetera. What happens with the disc is that it's surrounded by containment fibers.  I mentioned that.  They're called annular fibers.  They have nerves in them, and they will send the signals that there is pain. When the disc comes out, this is what it looks like, and the nerves are right behind that supply motor and sensory functions to the extremities.  If disc is coming out at one level or more than one level, it will have an affect of the extremities at various levels, particularly for the sensory component of the nerve that supplies that function.  That's the front part of the person. As we keep turning, we see holes where these nerves come out.  At each level on the right and left, the main nerves -- I'll call them main nerves because there's other nerves we're going to talk about -- they come out and supply that sensory and motor function. As we keep turning, we're now at the back of the person.  This is the bone you can feel at the center of your back and all the way up to your neck.  This is true of the whole spinal column. There are motion segments here.  I'm putting the needle in the left side.  This will be the right side for that level.  These are called facets.  They are actually joints. This is where motion occurs. I mentioned the enthesis or enthesopathy, where I'm putting the needles where the ligaments attach, another smaller structure that help move the spine at these areas. One other thing to mention because we're going to talk about treatment, there are small nerves, where I'm putting the needle, situated under the facets.  These are called medial branch nerves.  They're the nerves that send the pain signal to the brain when there is injury at these levels.  We can knock out those nerves by burning them.  The reason we can do that -- not the main nerves, but these little nerves -- is because they will regenerate or come back. We can give the person pain relief by doing that particular procedure, which is called a rhizotomy or ablation.  That's the anatomy of the low back.",a,THE WITNESS,start_question
+135,747,30,6,"Can you explain to us -- you used the word protrusion, I believe?",q,MS. MCCARTHY,start_answer
+136,749,30,8,Yes.,a,THE WITNESS,start_question
+137,750,30,9,What is a protrusion?,q,MS. MCCARTHY,start_answer
+138,751,30,10,"There are three faces of disc that can come out of the containment fibers.  The first is a bulge.  Sometimes bulging is normal because the disc is designed to absorb forces, but when it comes out, that's the first type.  I have a model for that one, too. What it looks like is basically just coming out a little bit.  The next phase would be a protrusion, which is what we're talking about here for Fr. Mularczyk, and then a herniation, which is totally a disc that's out. Fr. Mularczyk has a disc that actually came out and then went downward as far as where it ended up being situated.  Once that disc comes out, the nerve is right there, and when it sits up on a nerve or compresses it, that's when you get radicular symptoms. When we talk about radiculopathy, it's coming from this mechanical phenomena of the disc itself sitting up on the nerve, as I like to say.  The correct term is compression of the nerve.",a,THE WITNESS,start_question
+139,776,31,10,Is a disc protrusion a normal condition?,q,MS. MCCARTHY,start_answer
+140,778,31,12,It is not.,a,THE WITNESS,start_question
+141,779,31,13,Is a protrusion a painful condition?,q,MS. MCCARTHY,start_answer
+142,780,31,14,"It definitely is, yes.",a,THE WITNESS,start_question
+143,781,31,15,You just used the term radiculopathy?,q,MS. MCCARTHY,start_answer
+144,782,31,16,Right.,a,THE WITNESS,start_question
+145,783,31,17,Can you please explain exactly what radiculopathy is.,q,MS. MCCARTHY,start_answer
+146,785,31,19,"Radiculopathy is a person complaining of radiating symptoms in an extremity; in this case, the lower extremities.  That comes from the disc sitting up on the nerve.  Once the nerve is compressed, it doesn't fire correctly. When I examined Fr. Mularczyk, he had reproduction of radiating symptoms, so I gave clinical diagnosis.  We don't have any testing to show that.  There is electrical evaluation that can be done.  But clinically, you can also tell radiculopathy is there by reproducing those symptom.",a,THE WITNESS,start_question
+147,799,32,8,Is radiculopathy a normal condition?,q,MS. MCCARTHY,start_answer
+148,800,32,9,It is not.,a,THE WITNESS,start_question
+149,801,32,10,Is it a painful condition?,q,MS. MCCARTHY,start_answer
+150,802,32,11,It definitely is.,a,THE WITNESS,start_question
+151,803,32,12,Can you explain to us the shoulder injury that Fr. Mularczyk received as a result of the accident?,q,MS. MCCARTHY,start_answer
+152,806,32,15,"Yeah, I can.  This is a representation of a right shoulder.  We're talking about the right for Fr. Mularczyk.  What I'm showing here is the bone that we call the humerus. This is the square bone you can feel on the outside of your shoulder.  This comes off of the wing bone, that's the scapula. That particular part of it that we can feel here is the acromion.  The acromion is acutely related to the collar bone or the clavicle.  There are ligaments that span those two bones to stabilize them, all these three ligaments here. This is the first tendon of the rotator cuff that attaches into the outside of the humerus bone.  That's called the supraspinatus.  There is three others in the whole cuff.  It spells the words, sits, SITS. This is the one that Fr. Mularczyk had a tear in from the incident, and this is the one that's most typically torn.  It sits right underneath that square bone.  As the shoulder moves upward, when there is a tear, it's going to cause pain because it's going to get crimped between the head of the bone of the humerus and the undersurface of the acromion.",a,THE WITNESS,start_question
+153,834,33,18,How do the back injuries that Fr. Mularczyk suffered as a result of the accident affect his day-to-day activities?,q,MS. MCCARTHY,start_answer
+154,837,33,21,"They're going to diminish the activities.  That was the last part of my conclusions; that he had a diminution or decrease in his ability to function, not only the low back, but from the shoulder itself. When you're doing activities when you have these injuries, it's going to slow you down.  It's going to cause pain, and you're not going to be able to function the way you normally do.",a,THE WITNESS,start_question
+155,848,34,7,Do you have an opinion as to the permanency?,q,MS. MCCARTHY,start_answer
+156,850,34,9,Yes.,a,THE WITNESS,start_question
+157,851,34,10,What is that?,q,MS. MCCARTHY,start_answer
+158,852,34,11,"These have permanency to them.  That word means that it affects the individual's ability to function in their lifestyle, whatever it may be.  When it hinders or diminishes, we call that permanency.",a,THE WITNESS,start_question
+159,857,34,16,"How about the shoulder, how do the injuries he received as a result of the accident to his shoulder affect his day-to-day?",q,MS. MCCARTHY,start_answer
+160,861,34,20,"Well, the ability to reach, maneuver in the motions of the shoulder, which are forward, backward, internal/external rotation, circumduction, like you're going to throw a ball, reaching back, those types of things, putting your clothing on, a coat or shirt. All of these things that we do that a lot of us take for granted, I do too, become difficult because those motions create pain for the reason I showed on the model.",a,THE WITNESS,start_question
+161,873,35,7,Do you have an opinion as to the permanency of that condition?,q,MS. MCCARTHY,start_answer
+162,875,35,9,Yes.,a,THE WITNESS,start_question
+163,876,35,10,What is it?,q,MS. MCCARTHY,start_answer
+164,877,35,11,"This is a term again that applies to Fr. Mularczyk not being able to function normally using the shoulder girdle, that particular area that we showed.  It is a difficult issue with activities, and that becomes a permanent issue.",a,THE WITNESS,start_question
+165,883,35,17,I'd like to get into your examination and history of Fr. Mularczyk.,q,MS. MCCARTHY,start_chat
+166,885,35,19,Off the record.,side_chat,MR. RONG,start_chat
+167,886,35,20,The time is 4:09.  Off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+168,888,35,22,- - -,symbols,,is brackets
+169,889,35,23,"(Whereupon, a discussion was held off the videotaped record.)",brackets,,symbols
+170,892,36,1,- - -,symbols,,start_chat
+171,893,36,2,"This is in the same vein as the prior objection that was made. There was an objection made by plaintiff's counsel during Dr. Fras' deposition regarding anything that was said by the plaintiff to Dr. Fras regarding history related to this accident and his treatment. I believe that to be a frivolous objection.  However, similar to the prior objection, I'm just reserving the right to argue that objection in this context in Dr. Yarus' deposition if this is something we agree to proceed at the time of trial.",side_chat,MR. RONG,start_chat
+172,907,36,16,"To that, Dr. Yarus testified during his qualifications that taking a history is part of what he does as part of his normal everyday practice in treating and evaluating patients.",side_chat,MS. MCCARTHY,start_chat
+173,912,36,21,The time is 4:11.  Back on the video record.,side_chat,THE VIDEOGRAPHER,start_question
+174,915,36,24,"Dr. Yarus, when you examined Fr. Mularczyk, did you ask about the accident of April 19, 2018?",q,MS. MCCARTHY,start_answer
+175,919,37,3,"I did, yes.",a,THE WITNESS,start_question
+176,920,37,4,What did he tell you?,q,MS. MCCARTHY,start_answer
+177,921,37,5,"His complaints were right shoulder pain and low back pain.  Then he told me that he drove over a pothole and the tire exploded.  He had to change the tire, and when he was doing so, the tire fell on top of him.  He described himself as being slammed and pinned by the tire. We then discussed the treatment that he had at Spinal Care and Progress Physical Therapy, the injections that Dr. Levinstein provided. When he presented, he was using a cane.  He did tell me that the injections helped somewhat.  He had had pain in the shoulder that was still present.  Then I asked him particularly how he was feeling, and he told me that his pain level was 6 out of 10 on what we call the analog scale.  That includes the low back and the right shoulder. The pain was at its worst then.  When resting or not performing activities, 1 to 2 out of 10.  He had radiating pain to both lower extremities.  That's the radicular component we were talking about.  And he had headache and fatigue. He had actually undergone surgery for the right shoulder, and he said that had helped him, as well.",a,THE WITNESS,start_question
+178,950,38,9,"When you saw him, he was still having pain from the accident?",q,MS. MCCARTHY,start_answer
+179,952,38,11,"He still was, yes.",a,THE WITNESS,start_question
+180,953,38,12,Did you ask Fr. Mularczyk about his medical history prior to this accident?,q,MS. MCCARTHY,start_answer
+181,955,38,14,"I did, yes.",a,THE WITNESS,start_question
+182,956,38,15,What did he tell you?,q,MS. MCCARTHY,start_answer
+183,957,38,16,"Well, as far as medication, he was taking ibuprofen 600 milligrams, surgical history included the right shoulder.  Then I asked him about preexisting conditions.  This is a section in the history taking where we want to find out if there is any prior injuries or issues with the same areas. He did have the two prior low back issues; one in 2010 without injury.  2012 he had spinal stenosis, which is a term that just means arthritis, and that was causing difficulty for him, and he had surgery for that, which improved him. He said he had minimal residuals up to and including the incident of April 19, 2019. That means that he wasn't completely recovered, but he didn't have the same kind of symptoms that he experienced after this incident occurred.",a,THE WITNESS,start_question
+184,977,39,11,You examined Fr. Mularczyk?,q,MS. MCCARTHY,start_answer
+185,978,39,12,"I did, yes.",a,THE WITNESS,start_question
+186,979,39,13,Can you walk the jury through your examination.,q,MS. MCCARTHY,start_answer
+187,981,39,15,"Yes.  I did a complete full exam, but I'll stick to the areas of chief complaint. He was 6-foot-2-inches tall, 240 pounds.  From the low back, he had a loss of lordosis.  This is a manifestation of what happens when muscles, tendons, and ligaments and those soft tissues are injured.  The natural curve that we see in the low back becomes flattened.  I observed that. In touching the muscles, he had hypertonicity from L3-4 to L5-S1.  Left greater than right.  I did what's called a sitting root and straight leg raising sign. There is various degrees of raising in terms of looking at the number of degrees. His left showed 15 and 15.  Right was positive as well at 20 and 25 degrees.  That just means, when I lifted, he had reproduction of his root signs.  That's where I got the radiculopathy diagnosis from. His motion of the spine was 40 percent of normal, and that includes going forward, backward, side to side, and rotating.  There were no cord signs.  We call those long-tract signs.  Those were not evident, so his spinal cord was fine.  The vasculature in his extremities was okay, so we didn't have any issues there. The next thing I did is reflex testing.  This is the most important thing as far as examination because when there is abnormality, as there was here, it reflects back up to the spine.  By that I mean those levels that I showed, those nerves that come out, those are the ones that will show me or anybody doing this test whether or not there is a particular problem at a particular level. We do the kneecap reflexes, and those were okay, so that covers L3-4.  Then we did the extensor hallucis.  There is no tap reflex for L4-5, so we ask the person to lift the great toe.  There was a left deficit 4 out of 5.  The right was okay at 5 out of 5. The last one we do is the Achilles reflex.  That reflects to L5-S1.  The right was 2 out of 3, that's abnormal.  The left was 1 out of 3. Next, I test that sensory component of the radiculopathy by doing pinpricking down along the back all the way down the extremity.  There are bands that will correspond to the level.  When there is a deficit or the person tells me they can't feel it as well as they did upper or lower or side to side, comparing right or left, it's abnormal.  For Fr. Mularczyk, it was abnormal on the left at L4-5; abnormal at L5-S1 for both the right and left. Next, I did the extremity examination. No edema.  No other abnormalities or painful masses.  Neck area was okay.  He had had surgery for the shoulder, so I would say that the shoulder was improved after that.",a,THE WITNESS,start_question
+188,1048,42,7,That was a lot of information.,q,MS. MCCARTHY,start_answer
+189,1049,42,8,Yes.,a,THE WITNESS,start_question
+190,1050,42,9,What were your findings based on your physical examination?,q,MS. MCCARTHY,start_answer
+191,1052,42,11,"For the low back particularly, because that was the focus here, there is abnormalities on a lot of levels.  When we look at the soft tissue.  That was abnormal. That corresponds to my diagnosis for that area in the low back. Then the motion was deficient, so that comes along again with the soft tissue injury.  Looking at the reflexes, those are abnormal.  I said they're the most important because when you have protrusions, going back to that explanation and discussion, those protrusions are discs sitting up on the nerves.  The nerves become affected, and then we have abnormal reflexes as a result of that. That's what I was talking about when I gave those numbers 1 out of 3, 2 out of 3. And looking at and extensor hallucis, the great toe lift, on a 5 scale that was 4 out of 5 on the left.  That's why that came about.",a,THE WITNESS,start_question
+192,1075,43,9,These are all permanent impairments?,q,MS. MCCARTHY,start_answer
+193,1076,43,10,"They are, yes.",a,THE WITNESS,start_question
+194,1077,43,11,"You also reviewed records in formulating your diagnosis, correct?",q,MS. MCCARTHY,start_answer
+195,1079,43,13,Yes.,a,THE WITNESS,start_question
+196,1080,43,14,Can you walk us through your records you reviewed.,q,MS. MCCARTHY,start_chat
+197,1082,43,16,Off the record.,side_chat,MR. RONG,start_chat
+198,1083,43,17,Time is 4:18. Off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+199,1085,43,19,- - -,symbols,,is brackets
+200,1086,43,20,"(Whereupon, a discussion was held off the videotaped record.)",brackets,,symbols
+201,1088,43,22,- - -,symbols,,start_chat
+202,1089,43,23,"Similar objection preempting some testimony that I expect to happen.  I expect the doctor is going to testify regarding the review of radiology films and reports.  This is in the same vein. Again, there were objections that were made during Dr. Fras' deposition regarding the validity or his ability to testify regarding what's seen on film or even just in reports.  I'm going to make that same objection in this deposition. Again, I believe it to be a frivolous objection.  I believe that, based upon both experts having testified that they regularly use radiology exams in the course of their treatment, that they are both permitted to testify to this. However, if plaintiff's counsel, at the time of trial, is going to insist on this objection regarding Dr. Fras' ability to testify to anything that he reviewed in these reports or films, I'm similarly reserving the right to make this objection in the context of Dr. Yarus' deposition.",side_chat,MR. RONG,start_chat
+203,1114,44,23,"To that end, as part of his qualifications, Dr. Yarus testified to the fact he regularly relies on films and MRIs in diagnosing his patients. While he's not a radiologist, he's trained to review those studies.",side_chat,MS. MCCARTHY,start_chat
+204,1121,45,5,4:19. Back on the video record.,side_chat,THE VIDEOGRAPHER,start_chat
+205,1123,45,7,"I had actual hard copy studies on a disc that included the right shoulder and low back, the lumbar spine.  I was able to visualize the study. I'll tell you that what the radiologist read was pretty accurate as far as my interpretation on my own.  I agreed pretty much with what was seen as abnormal, particularly on both of those studies. For the right shoulder, an actual tear in the supraspinatus tendon, which was partial thickness.  No evidence of inflammation in the bursal sacs that are situated between the bones.  The glenoid labrum, which is a lip that surrounds the socket where the head rides, that was okay. The biceps tendon was okay.  Some arthritic changes in the AC joint.  We see that all the time.  That wasn't an issue for Fr. Mularczyk.  It was just an incidental finding. For the low back, just to make it simple, the three discs that were protruding that I saw and one other one that the radiologist indicated; L2-3 showed a protrusion on the left.  I don't think that's an issue clinically.  I'll acknowledge that it's there, but I don't think it's causing the symptomatology that the other three are. I agreed there, and basically those discs are going to the left. I had the records of Spinal Care, Progress Physical Therapy, Dr. Levinstein's practice is PA Pain Practice, so I had his records for the injections, particularly Penn Medicine medical records, and then the billing and invoicing on an open item ledger and the actual Pennsylvania Pain Specialist invoicing that was provided.",side_chat,THE WITNESS,start_question
+206,1163,46,22,"Describe what, if anything, you learned of significance in reviewing these records.",q,MS. MCCARTHY,start_answer
+207,1167,47,1,"I think the records are clear in that Fr. Mularczyk had these injuries born out of this incident of April 19, 2018.  Those injuries were addressed with conservative care, interventional technique by Dr. Levinstein on two occasions. He did epidural injections, I believe, August 6th and 20th of 2018, then just confirmation looking through the studies that there were injuries in those areas that we described.",a,THE WITNESS,start_question
+208,1178,47,12,Can you briefly explain to the jury what an MRI is.,q,MS. MCCARTHY,start_answer
+209,1180,47,14,"MRI stands for magnetic resonance imaging.  It's a sophisticated piece of equipment that has a large magnet.  It rotates at super rapid speed.  When that happens, the plus and minus that you see on the magnet becomes blurred essentially, and it reorganizes protons in the body.  A computer is hooked up to the magnet that will interpret whatever anatomy you're visualizing, and it will put it out in two forms, T1 and T2. We're able to see bone windows, and we're able to see the soft tissue structures; in this case, discs in reference to nerves. In the shoulder, we're able to see the anatomy that is made up of the cuff, the labrum and the bone components as well and anything that's wrong or not right, such as loose bodies or tumors, things of that nature.  We can discern that. Fr. Mularczyk does not have any tumors, just to be clear.  It's just as a way of describing what this sophisticated test can do as far as giving us the visualization of the anatomy.",a,THE WITNESS,start_question
+210,1206,48,15,"I'm going to show you what we've had marked as Yarus-4 for identification. Doctor, do you recognize that document?",q,MS. MCCARTHY,start_answer
+211,1210,48,19,"I do, yes.",a,THE WITNESS,start_question
+212,1211,48,20,What is it?,q,MS. MCCARTHY,start_answer
+213,1212,48,21,"This is a document that was created by Dr. Rosin, who saw Fr. Mularczyk on August 10, 2018, so he generated a report for that visit.",a,THE WITNESS,start_question
+214,1217,49,1,Is this some of the medical documentation that you relied on?,q,MS. MCCARTHY,start_answer
+215,1219,49,3,Yes.,a,THE WITNESS,start_question
+216,1220,49,4,Dr. Rosin linked the car accident to the injury sustained by Fr. Mularczyk?,q,MS. MCCARTHY,start_answer
+217,1222,49,6,Correct.,a,THE WITNESS,start_question
+218,1223,49,7,He did that within a reasonable degree of medical certainty?,q,MS. MCCARTHY,start_answer
+219,1225,49,9,"Yes, he did.",a,THE WITNESS,start_question
+220,1226,49,10,"After reviewing the medical records, diagnostic studies, and examining Fr. Mularczyk, did you form a prognosis?",q,MS. MCCARTHY,start_answer
+221,1229,49,13,"Yes, I did.",a,THE WITNESS,start_question
+222,1230,49,14,What was that prognosis?,q,MS. MCCARTHY,start_answer
+223,1231,49,15,I gave him a guarded prognosis.  The reason for that terminology is that there is still items that will be affected for Fr. Mularczyk to consider as far as treatment.,a,THE WITNESS,start_question
+224,1236,49,20,Can you briefly explain what a prognosis is.,q,MS. MCCARTHY,start_answer
+225,1238,49,22,"Prognosis is a term that will drive future indications for treatment for an individual.  It takes a lot into consideration; all about the individual including financial issues, what they're capable of doing and what responses from a statistical standpoint and statistical analysis standpoint we know will be effective from just those specific injuries.  There is a litany of information at our disposal that leads us to be able to do that.",a,THE WITNESS,start_question
+226,1250,50,9,You briefly touched on why you thought he had a guarded prognosis.  Could you flesh that out for us a little bit more.,q,MS. MCCARTHY,start_answer
+227,1253,50,12,"We're still going to make recommendations in the guarded phase as opposed to variable, poor, good even. In this phase, we know that making recommendations for treatment is going to be effective statistically for the individual. That's all we're looking at when we see this particular term used.",a,THE WITNESS,start_question
+228,1261,50,20,"Based on your diagnosis, prognosis, examination of Fr. Mularczyk and review of the records, do you have an opinion as to whether or not Fr. Mularczyk will require future treatment for the injuries suffered as a result of the accident that brings us here today?",q,MS. MCCARTHY,start_answer
+229,1269,51,3,Yes.,a,THE WITNESS,start_question
+230,1270,51,4,What is that opinion?,q,MS. MCCARTHY,start_answer
+231,1271,51,5,That he will need future treatment.,a,THE WITNESS,start_question
+232,1272,51,6,What recommendations did you make about his future medical treatment?,q,MS. MCCARTHY,start_answer
+233,1274,51,8,"I talked about interventional care for the low back, and that includes the burning of the small nerves that knocks out the pain. Certainly, there are epidurals similar to what Dr. Levinstein did.  You can repeat those in a series of three at six-month intervals.  Lastly, operating on those areas where the discs are out, to take out the disc and relieve the nerve of its compression. For the shoulder, I talked about arthroscopy, which is a procedure that he had done.  Because these areas scar as a way of healing, you can't get back what was originally there.  It's not like the skin. If you cut skin, skin will repair itself, maybe with some help of suturing perhaps. But if you suture or you address the tear in the cuff, the only way the body has to heal it is by scar.  That's why I said it's a permanent injury.  You still have to go back in and clean it up, which will give the person better range of motion. I talked about therapy after any of these procedures are done.  That's for a short period of time.  I talked about various types of medications that can be used, including pain medication, anti-inflammatories.  There are more sophisticated medications that address the nerves.  Those are neurotransmitter modulators.  We can actually use anti-epileptics, which are effective.  And for the soft tissue injuries, we use creams that can be applied, as well.",a,THE WITNESS,start_question
+234,1309,52,18,"Dr. Yarus, why did you make these recommendations regarding future treatment for Fr. Mularczyk?",q,MS. MCCARTHY,start_answer
+235,1312,52,21,"Fr. Mularczyk presented still having issues and pain and limitations from the incident that occurred April 19, 2018.  For that reason, these are still reasonable types of treatments that will enhance his ability to function.",a,THE WITNESS,start_question
+236,1319,53,3,"Dr. Yarus, I'm going to show you what we've had marked as Bala-2 for identification. Do you recognize this report?",q,MS. MCCARTHY,start_answer
+237,1323,53,7,"I do, yes.",a,THE WITNESS,start_question
+238,1324,53,8,It's a medical cost projection report?,q,MS. MCCARTHY,start_answer
+239,1325,53,9,Correct.,a,THE WITNESS,start_question
+240,1326,53,10,"To be clear, you did not author it?",q,MS. MCCARTHY,start_answer
+241,1327,53,11,It is not my work.  I did not author this document.,a,THE WITNESS,start_question
+242,1329,53,13,"I just want you to take a look at the chart contained in Bala-2, authored by Chava Goldschmidt and Nadene Taniguchi. Can you confirm that's the treatment that you recommended?",q,MS. MCCARTHY,start_answer
+243,1334,53,18,"Yes.  In the summary of costs, the treatments are the ones that I designated.",a,THE WITNESS,start_question
+244,1336,53,20,"Thank you, Doctor. Dr. Yarus, do you have an opinion to a reasonable degree of medical certainty as to the cause of the injuries we've discussed throughout your testimony?",q,MS. MCCARTHY,start_answer
+245,1342,54,1,Yes.,a,THE WITNESS,start_question
+246,1343,54,2,What is it?,q,MS. MCCARTHY,start_answer
+247,1344,54,3,"The motor vehicle accident of April 19, 2018 is the reason that Fr. Mularczyk sustained these injuries.",a,THE WITNESS,start_question
+248,1347,54,6,"Do you have an opinion to a reasonable degree of medical certainty as to the reasonableness, necessity, and relatedness of all the treatment that Fr. Mularczyk received following the accident?",q,MS. MCCARTHY,start_answer
+249,1352,54,11,Yes.,a,THE WITNESS,start_question
+250,1353,54,12,What is it?,q,MS. MCCARTHY,start_answer
+251,1354,54,13,"I would characterize the care as being related to the incident, certainly medically necessary, reasonable, and the fees that were generated were usual and customary for the services provided.",a,THE WITNESS,start_question
+252,1359,54,18,"That would include the physical therapy, the surgery, and injections?",q,MS. MCCARTHY,start_answer
+253,1361,54,20,I would say yes.,a,THE WITNESS,start_question
+254,1362,54,21,Do you have an opinion to a reasonable degree of medical certainty as to the permanency of injuries that Fr. Mularczyk received?,q,MS. MCCARTHY,start_answer
+255,1367,55,1,Yes.,a,THE WITNESS,start_question
+256,1368,55,2,What is that?,q,MS. MCCARTHY,start_answer
+257,1369,55,3,There is certainly permanency to the injuries he received.,a,THE WITNESS,start_question
+258,1371,55,5,"Finally, Doctor, have all the opinions you've given today been to a reasonable degree of medical certainty?",q,MS. MCCARTHY,start_answer
+259,1374,55,8,"Yes, they have.",a,THE WITNESS,start_chat
+260,1375,55,9,Your witness.,side_chat,MS. MCCARTHY,symbols
+261,1376,55,10,- - - CROSS-EXAMINATION,symbols,,symbols
+262,1378,55,12,- - -,symbols,,start_question
+263,1380,55,14,"Doctor, just a few questions to follow up. To be clear, you saw Fr. Mularczyk on only one occasion, correct?",q,MR. RONG,start_answer
+264,1384,55,18,Yes.,a,THE WITNESS,start_question
+265,1385,55,19,"To be more clear, he was not your patient, correct?",q,MR. RONG,start_answer
+266,1387,55,21,Correct.  I'm not his treating physician.,a,THE WITNESS,start_question
+267,1389,55,23,"The sole purpose of your meeting with Fr. Mularczyk was to draft a report for the purpose of this lawsuit, correct?",q,MR. RONG,start_answer
+268,1393,56,2,"That's correct, yes.",a,THE WITNESS,start_question
+269,1394,56,3,"You did not prescribe him any medications after this visit, correct?",q,MR. RONG,start_answer
+270,1396,56,5,Yes.,a,THE WITNESS,start_question
+271,1397,56,6,"He has no further appointments to see you again, correct?",q,MR. RONG,start_answer
+272,1399,56,8,Not that I'm aware of.  That's correct.,a,THE WITNESS,start_question
+273,1401,56,10,"You have no expectation that you will ever see him again, correct?",q,MR. RONG,start_answer
+274,1403,56,12,"I would think not, but sometimes after procedures are done particularly, I may do an additional independent exam, but I don't foresee that.",a,THE WITNESS,start_question
+275,1407,56,16,"Doctor, either before or after your one-time examination of him, you never spoke to any of his treating or primary care doctors, correct?",q,MR. RONG,start_answer
+276,1411,56,20,That's correct.,a,THE WITNESS,start_question
+277,1412,56,21,"Doctor, this is not the first time you have examined a person involved in a lawsuit for the Simon firm, correct?",q,MR. RONG,start_answer
+278,1415,56,24,"You're correct, yes.",a,THE WITNESS,start_question
+279,1417,57,1,"In fact, you've examined probably hundreds of litigants for the Simon firm, correct?",q,MR. RONG,start_answer
+280,1420,57,4,Yes.,a,THE WITNESS,start_question
+281,1421,57,5,"Doctor, when you examine claimants for the Simon firm, how much do you charge for the exam?",q,MR. RONG,start_answer
+282,1424,57,8,"Usually, the exam, which encompasses review of the records, the time spent with the individual, the time spent dictating, what it costs to get the dictation back in the form of the report is $500.",a,THE WITNESS,start_question
+283,1429,57,13,"Doctor, between 2014 and 2019, the Simon firm has paid your practice close to $2 million; is that correct?",q,MR. RONG,start_answer
+284,1432,57,16,"That's fair, yes.",a,THE WITNESS,start_question
+285,1433,57,17,"Doctor, just so the jury is clear, you're paid another fee in addition to the exam fee when you give trial testimony, like you're doing today, correct?",q,MR. RONG,start_answer
+286,1437,57,21,"For the time and testimony, yes.",a,THE WITNESS,start_question
+287,1438,57,22,How much are you being paid for your time today?,q,MR. RONG,start_answer
+288,1440,57,24,"The fee is $3,200.",a,THE WITNESS,start_question
+289,1442,58,1,"Doctor, the jurors are going to hear that the city's expert Dr. Fras is charging the city just under $5,000 for his time to take testimony. Are you charging less for your testimony because you have a special arrangement with the Simon firm?",q,MR. RONG,start_chat
+290,1449,58,8,Objection.,side_chat,MS. MCCARTHY,start_chat
+291,1450,58,9,The time is 4:32.  Off the video record.,side_chat,THE VIDEOGRAPHER,symbols
+292,1452,58,11,- - -,symbols,,is brackets
+293,1453,58,12,"(Whereupon, a discussion was held off the videotaped record.)",brackets,,symbols
+294,1455,58,14,- - -,symbols,,start_chat
+295,1456,58,15,"What he charges, I mean, that's up to him.  The insinuation that he's -- I need to calm down for a minute. It's an improper insinuation. The fact that you use a more expensive doctor doesn't mean that Dr. Yarus is doing anything underhanded.",side_chat,MS. MCCARTHY,start_chat
+296,1463,58,22,"My response to that is, actually, that's not the insinuation. The follow-up question that I'll preempt for you is that I'm going to ask him why, given similar qualifications, he's not charging $5,000.",side_chat,MR. RONG,start_chat
+297,1470,59,4,"If he ups his price because of this, you're going to have to pay the difference.  Don't get any ideas.",side_chat,MS. MCCARTHY,start_chat
+298,1473,59,7,4:33. Back on the video record.,side_chat,THE VIDEOGRAPHER,start_chat
+299,1475,59,9,"To answer the question, the fee is predicated on what I would be doing if I wasn't here testifying, as far as my time. At this point in the day, I'd be doing interventional techniques.  We base the fees on exactly that fee that I would generate for as many people as I would see in an hour, who would receive injections. That's the fee I've come up with.  No other reason other than that. It certainly doesn't move me one way or the other when I'm looking at a case. It just comes from that particular aspect of my practice.",side_chat,THE WITNESS,start_question
+300,1492,60,1,"Now, Doctor, going back to your meeting with Fr. Mularczyk, he told you about the accident and his injuries, correct?",q,MR. RONG,start_answer
+301,1495,60,4,"He did, yes.",a,THE WITNESS,start_question
+302,1496,60,5,"He told you that he was injured while changing his tire when the tire fell on top of him, slammed and pinned him, correct?",q,MR. RONG,start_answer
+303,1499,60,8,"He did, yes.",a,THE WITNESS,start_question
+304,1500,60,9,"He also told you that presently his pain comes and goes, and that it is usually a 1 or 2 out of 10 when not performing activities, correct?",q,MR. RONG,start_answer
+305,1504,60,13,That's correct.,a,THE WITNESS,start_question
+306,1505,60,14,"He also told you he never missed any time from work and is still working the same job, correct?",q,MR. RONG,start_answer
+307,1508,60,17,"He is, yes.",a,THE WITNESS,start_question
+308,1509,60,18,"He also told you that he had a back condition that required him to have back surgery in 2012, correct?",q,MR. RONG,start_answer
+309,1512,60,21,Yes.,a,THE WITNESS,start_question
+310,1513,60,22,"Doctor, would you agree with me that you have not reviewed any MRI films related to his lower back prior to this injury?",q,MR. RONG,start_answer
+311,1517,61,1,Correct.,a,THE WITNESS,start_question
+312,1518,61,2,"Doctor, is it fair to say that you wouldn't know what levels of his lumbar spine were affected by that back condition which required him to have surgery?",q,MR. RONG,start_answer
+313,1522,61,6,Correct.,a,THE WITNESS,start_question
+314,1523,61,7,"Would you agree with me, Doctor, that nowhere in your report do you differentiate which of these levels -- as far as the abnormalities that you've testified to regarding protrusions and herniations, would you agree that nowhere in your report do you differentiate which of these levels and findings would be attributable to the 2012 condition as opposed to this accident?",q,MR. RONG,start_answer
+315,1532,61,16,I would say that you're correct in that I didn't differentiate.  I assigned those findings at L3-4 through L5-S1 to this specific incident.,a,THE WITNESS,start_question
+316,1536,61,20,"Doctor, when you assigned those specific levels, is it because you saw something traumatic on the MRI film that caused you to render that conclusion?",q,MR. RONG,start_answer
+317,1540,61,24,"No, not at all.  You don't really look at morphology on an MRI and characterize traumatic versus atraumatic etiology.  The only thing you can describe is what it appears to show from your perspective.  As I said, I agreed with the radiologist. Interesting, there is no postoperative findings, such as laminectomy or a bone that was removed or anything that would indicate surgery.  I'm not sure that there was a particular surgical procedure.  I haven't seen any records, but this MRI didn't show any post-op changes.",a,THE WITNESS,start_question
+318,1554,62,13,"Doctor, a moment ago, you were shown Exhibit-4, which is a report from Dr. Rosin. In that report, he also comments on the MRI taken April 23, 2018. Would you agree with me that Dr. Rosin, upon review of that MRI, indicated that there were degenerative changes on that MRI?",q,MR. RONG,start_answer
+319,1562,62,21,Yes.,a,THE WITNESS,start_question
+320,1563,62,22,"Now, Doctor, you performed an examination of Fr. Mularczyk's shoulder when you met with him; is that correct?",q,MR. RONG,start_answer
+321,1567,63,1,Yes.,a,THE WITNESS,start_question
+322,1568,63,2,You had alluded to a section of your report where you discussed the findings; is that correct?,q,MR. RONG,start_answer
+323,1571,63,5,"Yes.  I don't think there were very many findings, so I didn't elaborate.  He had had surgery, so I think it was successful from the standpoint of the function of the shoulder.",a,THE WITNESS,start_question
+324,1576,63,10,"Doctor, is it your opinion that Fr. Mularczyk sustained a partial thickness tear of the supraspinatus tendon in the right shoulder as a result of this accident?",q,MR. RONG,start_answer
+325,1580,63,14,"I believe that to be true, yes.",a,THE WITNESS,start_question
+326,1581,63,15,"Doctor, are you basing that conclusion, again, on the MRI film that was taken after this accident?",q,MR. RONG,start_answer
+327,1584,63,18,"In part.  Certainly the history that he provided, proximity to the incident when the shoulder symptoms came about, all of that is certainly factored in.",a,THE WITNESS,start_question
+328,1588,63,22,"Doctor, this MRI was taken only one month after the accident, correct?",q,MR. RONG,start_answer
+329,1590,63,24,Yes.,a,THE WITNESS,start_question
+330,1592,64,1,"You would agree with me, having reviewed the film and the report, that there is no edema or swelling noted on the MRI?",q,MR. RONG,start_answer
+331,1595,64,4,"I think that's fair, yes.",a,THE WITNESS,start_question
+332,1596,64,5,There is also no hemorrhaging or bleeding that was noted on the MRI?,q,MR. RONG,start_answer
+333,1598,64,7,Correct.,a,THE WITNESS,start_question
+334,1599,64,8,"Doctor, given those lack of signs, would you agree with me that partial tears of the supraspinatus tendon are generally not associated with traumatic changes but rather in the context of chronic wear on the tendons of the shoulder?",q,MR. RONG,start_answer
+335,1605,64,14,"No, that precept is ill-founded.  In fact, we don't see those kind of things because the tendon itself has a terrible blood supply.  Bleeding will come from muscle, if it's injured.  This was actually a tendon of the cuff.  So I wouldn't expect to see those particular changes, and not everything that's torn has edema or swelling associated with it. The concept that it comes from other than trauma is again, with all due respect to you, ill-founded.",a,THE WITNESS,start_question
+336,1618,65,2,"Doctor, would you agree that partial tears can result from the AC joint becoming arthritic and bone spurs eroding the rotator cuff tendon?",q,MR. RONG,start_answer
+337,1622,65,6,"No.  I've been doing this for 35 years.  I've never seen that.  It may be alluded to in the literature, but in real life I've never seen it happen.",a,THE WITNESS,start_question
+338,1626,65,10,"Doctor, you would agree that there were some arthritic changes noted in the AC joint of the MRI?",q,MR. RONG,start_answer
+339,1629,65,13,"Right.  That's the joint I showed on the model between the acromion and the actual collar bone, or the clavicle, as it's known.",a,THE WITNESS,start_question
+340,1632,65,16,"Doctor, just a few more things on the MRI.  There was no evidence of inflammation, correct?",q,MR. RONG,start_answer
+341,1635,65,19,"I don't think you're seeing anything of that nature on the MR.  That's fair, yes.",a,THE WITNESS,start_question
+342,1637,65,21,"There is no evidence of articulating surface abnormality, correct?",q,MR. RONG,start_answer
+343,1639,65,23,No spurs or items like that that would tend to be irritating to the structures.,a,THE WITNESS,start_question
+344,1642,66,1,"Doctor, when is the last time that Fr. Mularczyk has seen a doctor or therapist related to this accident?",q,MR. RONG,start_answer
+345,1645,66,4,"Good question.  I don't know the exact date.  I don't have any dates on here.  I just listed the records themselves.  If you have a date, I'll certainly stipulate that would be the correct date.",a,THE WITNESS,start_question
+346,1650,66,9,"Doctor, you're not claiming that Fr. Mularczyk has had any scarring as a result of this accident, correct?",q,MR. RONG,start_answer
+347,1653,66,12,"Well, I believe that he does have scarring, yes.",a,THE WITNESS,start_question
+348,1655,66,14,Will you show us where you've discussed that in your report?,q,MR. RONG,start_answer
+349,1657,66,16,"I didn't discuss it in the report. It's just a natural history of having these types of injuries more so in the shoulder, I'll say, than in the low back.",a,THE WITNESS,start_question
+350,1661,66,20,"You're not a plastic surgeon, correct?",q,MR. RONG,start_answer
+351,1662,66,21,"I've done plastic procedures, but I am not a board certified plastic surgeon, yes.",a,THE WITNESS,start_question
+352,1664,66,23,"Doctor, does Fr. Mularczyk presently have any appointments scheduled to receive any of the future medical care that you've described?",q,MR. RONG,start_answer
+353,1669,67,3,I wouldn't be aware of any other visits that he might have to address these issues.,a,THE WITNESS,start_question
+354,1672,67,6,"Although you are of the opinion he will require future medical care, you did not refer him to any doctors for any of this care, correct?",q,MR. RONG,start_answer
+355,1676,67,10,"Right.  In my role as an expert and not a treating physician, I wouldn't have done that.  I may have discussed his findings with him as a courtesy to him, as I do with most people, but I did not offer any referrals from a treating standpoint.",a,THE WITNESS,start_chat
+356,1682,67,16,"Thank you, Doctor.",side_chat,MR. RONG,start_chat
+357,1683,67,17,Your welcome. Thanks.,side_chat,THE WITNESS,symbols
+358,1685,67,19,- - - REDIRECT EXAMINATION,symbols,,symbols
+359,1687,67,21,- - -,symbols,,start_question
+360,1689,67,23,"I just have a couple follow-ups. Dr. Yarus, you were asked how much you charge for the exams?",q,MS. MCCARTHY,start_answer
+361,1693,68,2,Yes.,a,THE WITNESS,start_question
+362,1694,68,3,"You do this as an expert, yes?",q,MS. MCCARTHY,start_answer
+363,1695,68,4,"About 10 to 15 percent of my total time spent as a physician is in this kind of arena, yes.",a,THE WITNESS,start_question
+364,1698,68,7,Do you know any experts who do this for free?,q,MS. MCCARTHY,start_answer
+365,1700,68,9,"I think some of us, if it calls for it, will give a free deposition here and there, but I like to get paid for my time. Most of the time I do get paid for my time doing these types of depositions or evaluations.",a,THE WITNESS,start_question
+366,1706,68,15,It's fair to say that you expect to be paid for your work?,q,MS. MCCARTHY,start_answer
+367,1708,68,17,"Sure, absolutely I do.",a,THE WITNESS,start_question
+368,1709,68,18,Counsel asked you about how much you've been paid between 2018 and 2019 for your expert services from the Simon law firm. Do you recall that?,q,MS. MCCARTHY,start_answer
+369,1713,68,22,"I think he went from 2014 up to the present perhaps, but, yes, I remember the question.",a,THE WITNESS,start_question
+370,1717,69,1,"I'm sorry, did I miss 2014 to the present?",q,MS. MCCARTHY,start_answer
+371,1719,69,3,"I believe that was the timeframe, yes.",a,THE WITNESS,start_question
+372,1720,69,4,"Over five years, I believe you said approximately $2 million?",q,MS. MCCARTHY,start_answer
+373,1722,69,6,Correct.,a,THE WITNESS,start_question
+374,1723,69,7,"Let's put this in perspective. How many offices do you have, Dr. Yarus?",q,MS. MCCARTHY,start_answer
+375,1726,69,10,Right now I have three offices.,a,THE WITNESS,start_question
+376,1727,69,11,The money that you bring in for litigation -- and not just from the Simon law firm but from the litigation work that you do across the board -- - where does that go?,q,MS. MCCARTHY,start_answer
+377,1731,69,15,"Well, it goes to the practice.  It doesn't go in my pocket.  If you know anything about businesses, even the medical business and I'll call it that, it's 65 percent overhead.  So we have to pay for those offices, the lighting, electricity, the people that I employ and I'm part of that corporation as the sole physician, but all of these expenses go into keeping this going. It's pretty hefty as far as percentages.",a,THE WITNESS,start_question
+378,1742,70,1,How many employees do you have?,q,MS. MCCARTHY,start_answer
+379,1743,70,2,"In this office, I have three.  I have two others in Pittsburgh.  I have probably seven to eight at any given time.",a,THE WITNESS,start_question
+380,1746,70,5,You were asked about whether or not Fr. Mularczyk missed any time from work. How would you characterize his physical requirements?,q,MS. MCCARTHY,start_answer
+381,1750,70,9,"Well, he's a preacher.  As a pastor, unless he's doing Habitat For Humanity and those kinds of things, physically I don't think it's a demanding job.  It's a tentorial job, meaning he uses his brain and his knowledge to do what he does.  I would say it's a minimally stressful job as far as activity.",a,THE WITNESS,start_question
+382,1758,70,17,"You were asked about, I think, what we've had marked as Yarus-4, that was Dr. Rosin?",q,MS. MCCARTHY,start_answer
+383,1761,70,20,Correct.,a,THE WITNESS,start_question
+384,1762,70,21,Who was treating Fr. Mularczyk?,q,MS. MCCARTHY,start_answer
+385,1763,70,22,Yes.,a,THE WITNESS,start_question
+386,1764,70,23,"Pertaining to the report, Dr. Rosin said that Fr. Mularczyk received injuries sustained in a motor vehicle accident, which occurred on April 19, 2018, correct?",q,MS. MCCARTHY,start_answer
+387,1769,71,3,That's correct.,a,THE WITNESS,start_question
+388,1770,71,4,"I want to talk a little bit about the MRI, specifically of the shoulder. You were asked about whether or not there was any edema or bleeding?",q,MS. MCCARTHY,start_answer
+389,1774,71,8,Right.,a,THE WITNESS,start_question
+390,1775,71,9,"Now, as it pertains to the shoulder, the labrum was torn; is that correct -- or there was a shoulder tear?",q,MS. MCCARTHY,start_answer
+391,1778,71,12,Supraspinatus tendon.,a,THE WITNESS,start_question
+392,1779,71,13,Fair to say that site doesn't bleed very much?,q,MS. MCCARTHY,start_answer
+393,1781,71,15,"It doesn't.  It doesn't have a great blood supply, so you're not going to see a lot of bleeding from there.  If the muscle -- at the junction of the tendon, muscle becomes tendon, tendon inserts some bone.  When that occurs, you may see some bleeding.  But after a month, the body has an amazing ability to shut that down. Any bleeding that occurs in the muscle itself will stop just from coagulation standpoint.  I don't know that he has any medical conditions that would preclude him from being able to coagulate.  It's not an area where you're going to see bleeding into the joint.",a,THE WITNESS,start_question
+394,1797,72,6,That doesn't surprise you that there was no -- you didn't see any bleeding?,q,MS. MCCARTHY,start_answer
+395,1799,72,8,"No, especially after a month when the study was done.  I wouldn't expect it to be as intense as if the study was done on the same day.  You might see some of those things, but after this amount of time it's not unusual with this type of tear.",a,THE WITNESS,start_chat
+396,1805,72,14,One moment. Off the record.,side_chat,MS. MCCARTHY,start_chat
+397,1807,72,16,Time is 4:46. Off the record.,side_chat,THE VIDEOGRAPHER,symbols
+398,1809,72,18,- - -,symbols,,is brackets
+399,1810,72,19,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+400,1812,72,21,- - -,symbols,,start_chat
+401,1813,72,22,4:46.  Back on the video record.,side_chat,THE VIDEOGRAPHER,start_question
+402,1817,73,1,"Doctor, have any of counsel's questions on cross changed your opinion in this matter?",q,MS. MCCARTHY,start_answer
+403,1820,73,4,"Respectfully, I would hold the same opinions.  I wouldn't change any of the ones I gave today.",a,THE WITNESS,start_chat
+404,1823,73,7,Thank you for your time.,side_chat,MS. MCCARTHY,start_chat
+405,1825,73,9,That concludes this deposition.  The time is 4:46.  We are off the record.,side_chat,THE VIDEOGRAPHER,symbols
+406,1828,73,12,- - -,symbols,,is brackets
+407,1829,73,13,"(Whereupon, the deposition concluded at 4:45 p.m.)",brackets,,symbols
+408,1831,73,15,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 29, 2019, and that this is a correct transcription of same.",symbols,,end

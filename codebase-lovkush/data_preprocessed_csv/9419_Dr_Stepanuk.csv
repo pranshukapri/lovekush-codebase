@@ -1,0 +1,540 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,154,6,11,- - - VOIR DIRE,symbols,,symbols
+2,156,6,13,- - -,symbols,,start_question
+3,158,6,15,"Good morning, Doctor.",q,MR. BAER,start_answer
+4,159,6,16,Good morning.,a,THE WITNESS,start_question
+5,160,6,17,Could you please introduce yourself.,q,MR. BAER,start_answer
+6,162,6,19,"I'm Maxwell Stepanuk, Jr.",a,THE WITNESS,start_question
+7,163,6,20,"And, sir, can you please tell us what type of medicine you practice.",q,MR. BAER,start_answer
+8,165,6,22,I'm an orthopedic surgeon.,a,THE WITNESS,start_question
+9,166,6,23,What is the field of orthopedics?,q,MR. BAER,start_answer
+10,168,6,25,"It's the branch of medicine that deals with injuries and pathology of bones, joints, and muscles, every data structures such as nerves and tendons.",a,THE WITNESS,start_question
+11,173,7,4,"How long, sir, have you been a surgeon?",q,MR. BAER,start_answer
+12,175,7,6,"Oh, it's about 43 years or so now.",a,THE WITNESS,start_question
+13,177,7,8,Can you please describe what you had to do to become a surgeon.,q,MR. BAER,start_answer
+14,179,7,10,"I graduated from Temple University and then did a year of graduate work at Villanova.  This was followed by four years of medical school at the Philadelphia College of Osteopathic Medicine.  I then went to the Detroit, Michigan area where I did an internship and a four year residency in orthopedic surgery at Oakland General Hospital.",a,THE WITNESS,start_question
+15,187,7,18,"Doctor, through the course of your career, did you ever have any teaching appointments?",q,MR. BAER,start_answer
+16,190,7,21,"Yes.  I taught from basically day one.  I always taught interns and students. In fact, I was program director for the Philadelphia College of Osteopathic Medicine for the Orthopedic Residency Program.  I was director for about 25 years in charge of the training of residents learning to become orthopedic surgeons.",a,THE WITNESS,start_question
+17,199,8,4,"Doctor, are you currently board-certified?",q,MR. BAER,start_answer
+18,201,8,6,I am.,a,THE WITNESS,start_question
+19,202,8,7,What does it mean to be board-certified?,q,MR. BAER,start_answer
+20,204,8,9,"I'm board-certificated in orthopedic surgery.  It means that you're a competent orthopedic surgeon.  In my case, I had to take a written exam followed by an oral exam.  And then after you're out in practice for a number of years and accumulate some major cases, they want to do a survey.  They look at your x-rays, review your charts, and if you pass, you're deemed a certified or a competent orthopedic surgeon.",a,THE WITNESS,start_question
+21,214,8,19,"Sir, are all doctors or all physicians board-certified?",q,MR. BAER,start_answer
+22,216,8,21,"No, they aren't.",a,THE WITNESS,start_question
+23,217,8,22,"Sir, how long have you been board-certified?",q,MR. BAER,start_answer
+24,219,8,24,Since 1980.,a,THE WITNESS,start_question
+25,220,8,25,Are you licensed to practice medicine here in the Commonwealth of Pennsylvania?,q,MR. BAER,start_answer
+26,224,9,3,"Yes, I am.",a,THE WITNESS,start_question
+27,225,9,4,And have you ever been qualified to testify as an expert witness in the courts of Pennsylvania before?,q,MR. BAER,start_answer
+28,228,9,7,Yes.,a,THE WITNESS,start_question
+29,229,9,8,"Doctor, could you please take a look at the exhibit that we have marked as Stepanuk-1.",q,MR. BAER,start_answer
+30,232,9,11,That's any current and up-to-date CV or my resume.,a,THE WITNESS,start_question
+31,234,9,13,"And does that have what your qualifications or the proofs, if you will, about what we just talked about?",q,MR. BAER,start_answer
+32,237,9,16,"Yes, it does.",a,THE WITNESS,start_question
+33,238,9,17,"Feel free to refer to that document if needed for further questions as to your qualifications.  Doctor, can you please tell us what you do currently.  What do you do on a daily basis?",q,MR. BAER,start_answer
+34,243,9,22,"Well, initially, I did have an active surgical practice.  I did everything from carpel tunnel to shoulder surgery, totaled hips, totaled knees, up until the year 2000. At that time, I then limited my practice to office only orthopedics due to arthritis in my hands and hip.  Presently, I do have an active practice.  I see patients regularly, write reports, make recommendations, give injections, but I no longer do the surgery.",a,THE WITNESS,start_question
+35,254,10,7,"Sir, do you treat people with back and neck and shoulder problems?",q,MR. BAER,start_answer
+36,256,10,9,"Yes, I do.",a,THE WITNESS,start_question
+37,257,10,10,And have you treated people who have been injured in motor vehicle crashes?,q,MR. BAER,start_answer
+38,259,10,12,Yes.,a,THE WITNESS,start_question
+39,260,10,13,"Now, how many years have you been treating people for these types of problems?",q,MR. BAER,start_answer
+40,263,10,16,Over 40 years.,a,THE WITNESS,start_question
+41,264,10,17,"Doctor, as part of your practice, do you routinely review medical records, diagnostic studies, and images from other medical providers in part of providing medical services and treatment to your patients?",q,MR. BAER,start_answer
+42,270,10,23,Yes.,a,THE WITNESS,start_question
+43,271,10,24,Does that include MRI images?,q,MR. BAER,start_answer
+44,272,10,25,"Yes, it does.",a,THE WITNESS,start_question
+45,274,11,1,"Sir, does your practice also make -- does your practice involve also making recommendations to patients based on your review of those types of materials?",q,MR. BAER,start_answer
+46,278,11,5,Yes.,a,THE WITNESS,start_question
+47,279,11,6,Does your practice include diagnosing the patients?,q,MR. BAER,start_answer
+48,281,11,8,Yes.,a,THE WITNESS,start_question
+49,282,11,9,Does your practice include making prognoses?,q,MR. BAER,start_answer
+50,284,11,11,Yes.,a,THE WITNESS,start_question
+51,285,11,12,"Please tell us, what is a prognosis?",q,MR. BAER,start_answer
+52,287,11,14,It means what's going to happen in the future.,a,THE WITNESS,start_question
+53,289,11,16,"Doctor, are you familiar with the usual and customary charges for medical services in this metropolitan area?",q,MR. BAER,start_answer
+54,292,11,19,"Yes, I am.",a,THE WITNESS,start_question
+55,293,11,20,What's your basis for your understanding and the knowledge of those usual and customary medical charges?,q,MR. BAER,start_answer
+56,296,11,23,"For being in practice over 40 years.  Also from doing medical legal work. From looking at medical records, I frequently review hospital bills, hospital costs, doctors' costs, and therefore I'm familiar with costs.",a,THE WITNESS,start_question
+57,302,12,3,"Doctor, are you familiar with medical procedures such as pain control injections, arthroscopic surgery, and cervical arthrodesis?",q,MR. BAER,start_answer
+58,306,12,7,Yes.,a,THE WITNESS,start_question
+59,307,12,8,"And, Doctor, if you could, could you please tell us currently what percentage of your practice is dedicated to treating patients in a clinical setting versus the percentage of practice that you do in testifying, examining, this legal medical, medical legal work that you're doing currently.",q,MR. BAER,start_answer
+60,314,12,15,"Well, I testify about once a week, maybe 50 times a year.  Other than that, I'm seeing patients, 30 to 40 patients a week.",a,THE WITNESS,start_question
+61,317,12,18,"Thank you, Doctor.",q,MR. BAER,start_chat
+62,318,12,19,Counsel may have some questions about your qualifications at this time.,side_chat,MR. BAER,start_chat
+63,321,12,22,Just go off for one second. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+64,326,13,1,"As I explained to Mr. Baer prior to the deposition, we do have a pending motion to preclude the testimony of Dr. Stepanuk.  Obviously, we're participating in the deposition. We're not waiving any of those arguments. In fact, I believe we're scheduled to argue those with the court this afternoon.  Additionally, we have a motion limine pending to preclude the emergency room records from St. Luke's. So with your consent, Mr. Baer, what I would suggest is that we just have a standing objection to those questions rather than interrupting if you get into that area since we have a pending motion on that.",side_chat,MR. SMITH,start_chat
+65,343,13,18,Understood.,side_chat,MR. BAER,start_chat
+66,344,13,19,All right.  Okay. We can go back on. VIDEOGRAPHER,side_chat,MR. SMITH,start_question
+67,349,13,24,"Good morning, Dr. Stepanuk. Just a few questions.  When is the last time that you actually conducted any type of surgery at all?",q,MR. SMITH,start_answer
+68,354,14,3,I believe it was June of 2000.,a,THE WITNESS,start_question
+69,355,14,4,And are you currently on staff at any hospital?,q,MR. SMITH,start_answer
+70,357,14,6,"I'm on staff at Elkins Park Hospital, on the courtesy staff.  I really don't need a hospital, but I'm on staff there.",a,THE WITNESS,start_question
+71,360,14,9,You mentioned the word courtesy and you note that on your CV.  Would courtesy staff be different than a physician who is on staff at the hospital?,q,MR. SMITH,start_answer
+72,364,14,13,"As courtesy staff, I don't have to go to meetings.  So it's a good thing for me, and I don't need the hospital.  I don't admit people to the hospital.",a,THE WITNESS,start_question
+73,368,14,17,"That was my next question.  If somebody needed to be admitted to the hospital, you couldn't do that, could you?",q,MR. SMITH,start_answer
+74,371,14,20,That's correct.  I would refer them to someone.,a,THE WITNESS,start_question
+75,373,14,22,"And if somebody needed surgery, you wouldn't do that, correct?  You would refer them to somebody else?",q,MR. SMITH,start_answer
+76,376,14,25,That's correct.,a,THE WITNESS,start_question
+77,378,15,1,"You referenced your curriculum vitae and you said it's up-to-date.  I'm at curriculum vitae.  You mentioned your publications that you would have had, say, over the past 40 years; is that correct?",q,MR. SMITH,start_answer
+78,383,15,6,Yes.,a,THE WITNESS,start_question
+79,384,15,7,"Would I be correct, Doctor, that the only -- you only list one publication where you reference any type of shoulder issues on your CV?",q,MR. SMITH,start_answer
+80,388,15,11,That's correct.,a,THE WITNESS,start_question
+81,389,15,12,"You were asked a question earlier about your percentage of practice treating patients versus your medical legal work, and I believe what you testified to is that you testify at least 50 times a year?",q,MR. SMITH,start_answer
+82,394,15,17,I think the answer you want is about 70 percent of my practice involves patients in litigation.,a,THE WITNESS,start_question
+83,397,15,20,So would it be fair to say that 70 percent of your practice involves medical legal work?,q,MR. SMITH,start_answer
+84,400,15,23,"Medical legal work, yes.",a,THE WITNESS,start_question
+85,401,15,24,"And so only about 30 percent of your practice involves actually treating patients, fair?",q,MR. SMITH,start_answer
+86,405,16,2,Yeah.  Actually treating regular patients that do not have legal issues.,a,THE WITNESS,start_question
+87,407,16,4,Would that be an accurate statement?,q,MR. SMITH,start_answer
+88,409,16,6,Yes.,a,THE WITNESS,start_question
+89,410,16,7,And how many times have you actually physically examined the plaintiff in this case?,q,MR. SMITH,start_answer
+90,413,16,10,One time.,a,THE WITNESS,start_question
+91,414,16,11,And when was that?,q,MR. SMITH,start_answer
+92,415,16,12,"On July 1, 2019.",a,THE WITNESS,start_question
+93,416,16,13,"And as far as that examination, you wrote one report, correct?",q,MR. SMITH,start_answer
+94,418,16,15,That's correct.,a,THE WITNESS,start_question
+95,419,16,16,And it consists of three pages?,q,MR. SMITH,start_answer
+96,420,16,17,Yes.,a,THE WITNESS,start_chat
+97,421,16,18,"No other questions. Thank you, Doctor.",side_chat,MR. SMITH,start_question
+98,424,16,21,"Doctor, with respect to shoulder surgery, is it possible for you to quantify the number of times you've performed an arthroscopic surgery on your patients' shoulder over the course of your career?",q,MR. BAER,start_answer
+99,430,17,1,"Not really.  Knee arthroscopies and shoulder arthroscopies are common procedures, probably the majority of the procedures that I perform, but I can't give you a number.",a,THE WITNESS,start_question
+100,435,17,6,"Would it be more than 1,000?",q,MR. BAER,start_chat
+101,436,17,7,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+102,439,17,10,"Objection that the doctor just testified that he cannot give you a number.  In the beginning he said he couldn't quantify it.  So it's an objection to the form of the question, is leading, and is also asked and answered.",side_chat,MR. SMITH,start_chat
+103,445,17,16,"It's not a leading question, but I can also do a follow-up question to the doctor and he can answer it accordingly.",side_chat,MR. BAER,start_chat
+104,449,17,20,I'll just have a standing objection to that so I don't interrupt again.,side_chat,MR. SMITH,symbols
+105,452,17,23,- - - DIRECT EXAMINATION,symbols,,symbols
+106,454,17,25,- - -,symbols,,start_question
+107,457,18,2,"Do you remember the question, Doctor?",q,MR. BAER,start_answer
+108,459,18,4,"Yes.  It would be approximately 1,000 over the 25 years I did surgery, yes.",a,THE WITNESS,start_question
+109,461,18,6,"Okay, Doctor.  All right, Doctor, we're going to point your attention to Maritza Rodriguez.  Sir, we're here on behalf of Maritza Rodriguez related to her treatment following an accident that occurred on January 31, 2018; is that correct?",q,MR. BAER,start_answer
+110,467,18,12,Yes.,a,THE WITNESS,start_question
+111,468,18,13,"During your testimony, I'm going to be asking you for some of your opinions.  I ask that you not give any of those opinions unless you can do so within a reasonable degree of medical certainty; is that okay?",q,MR. BAER,start_answer
+112,473,18,18,"Yes, it is.",a,THE WITNESS,start_question
+113,474,18,19,"Now, you were not a treating physician for Ms. Rodriguez; is that correct?",q,MR. BAER,start_answer
+114,476,18,21,That is correct.,a,THE WITNESS,start_question
+115,477,18,22,You saw her on one occasion at my request; is that accurate?,q,MR. BAER,start_answer
+116,479,18,24,Yes.,a,THE WITNESS,start_question
+117,480,18,25,"And, Doctor, could you please take a look at the documents that we marked and take a look at Stepanuk-2.",q,MR. BAER,start_answer
+118,484,19,3,That's the report that I generated after evaluating Ms. Rodriguez.,a,THE WITNESS,start_question
+119,486,19,5,"Doctor, I'm going to ask that if you need to, refer to your report as needed during the course of your testimony here today; is that understood?",q,MR. BAER,start_answer
+120,490,19,9,Yes.,a,THE WITNESS,start_question
+121,491,19,10,"Now, Doctor, in a moment I'm going to ask you to walk us through your evaluation of Ms. Rodriguez step-by-step.  But before I do that, I'd like to know the answer to one very important question.  That is, after examining Ms. Rodriguez, reviewing her records, studies that are referenced in your report, did you find anything wrong with her?",q,MR. BAER,start_answer
+122,499,19,18,"Yes, I did.",a,THE WITNESS,start_question
+123,500,19,19,Please tell us what it was.,q,MR. BAER,start_answer
+124,501,19,20,"I found that she had a cervical strain and sprain, a right upper extremity radiculopathy, right rotator cuff tear, and aggravation right AC joint arthritis.",a,THE WITNESS,start_question
+125,505,19,24,Can you please explain in greater detail what those injuries are.,q,MR. BAER,start_answer
+126,508,20,1,"Cervical strain and sprain is stretching of the ligaments and muscles in the neck.  It's like a sprained ankle in your neck. The right upper extremity radiculopathy is tingling, numbness that radiates down the right arm.  A rotator cuff tear -- we can go to a model.  This is the shoulder.  It happens to be a left shoulder.  This is the collarbone.  This is the humerus, the arm bone.  The rotator cuff is in here.  The green is a bursa.  When you have shoulder problems, you get bursitis. (Indicating). The rotator cuff in this case was torn in this area, completely torn all the way through, but it didn't retract, meaning it didn't separate.  Talk about the AC joint, the acromion is this part.  The clavicular, the clavicle is this part (indicating).  So it's an acromion clavicular AC joint arthritis.  So there is arthritis in this joint pushing down where the rotator cuff tear adding the injury.",a,THE WITNESS,start_question
+127,529,20,22,"Okay.  Doctor, please tell us what the other injuries are.",q,MR. BAER,start_answer
+128,531,20,24,We did.,a,THE WITNESS,start_question
+129,532,20,25,"Okay.  Doctor, would you please tell us what was the most serious of those injuries.",q,MR. BAER,start_answer
+130,536,21,3,The right rotator cuff tear.,a,THE WITNESS,start_question
+131,537,21,4,Do you have an opinion within a reasonable degree of medical certainty as to the extent or the seriousness of those injuries which you described for us?,q,MR. BAER,start_answer
+132,541,21,8,It's my opinion that the injuries were serious.  They were permanent injuries and her prognosis was poor.,a,THE WITNESS,start_question
+133,544,21,11,"Are these conditions painful conditions, Doctor?",q,MR. BAER,start_answer
+134,546,21,13,"Yes, they are.",a,THE WITNESS,start_question
+135,547,21,14,"Now, Doctor, did you review any tests or studies relative to Ms. Rodriguez for her treatment?",q,MR. BAER,start_answer
+136,550,21,17,"Yes, I did.",a,THE WITNESS,start_question
+137,551,21,18,What did you review?,q,MR. BAER,start_answer
+138,552,21,19,"I reviewed prior studies that showed that she had prior disc problems in her neck and back with prior radiculopathy in her right arm.  I also reviewed an MRI.  I tried to open the MRI itself, but could not.  So I reviewed the report of an MRI of the right shoulder dated 6/4/18.",a,THE WITNESS,start_question
+139,560,22,1,"Now, Doctor, with respect to reviewing the MRI studies and the MRI reports, is that something you do in your customary practice?",q,MR. BAER,start_chat
+140,564,22,5,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+141,567,22,8,"I believe based upon the doctor's report, he did not review the actual MRI studies, only the reports.",side_chat,MR. SMITH,start_chat
+142,570,22,11,"In deed.  In fact, he just said that he --",side_chat,MR. BAER,start_chat
+143,572,22,13,But in your question you said in reviewing the MRI studies and the reports.  That's the basis of my objection.  He did not review the MRI --,side_chat,MR. SMITH,start_chat
+144,576,22,17,I'll rephrase the question. VIDEOGRAPHER,side_chat,MR. BAER,start_question
+145,581,22,22,"Doctor, are the review of MRI studies and MRI reports something that you do in your normal practice?",q,MR. BAER,start_answer
+146,584,22,25,Yes.,a,THE WITNESS,start_question
+147,586,23,1,"Why do you do that, Doctor?",q,MR. BAER,start_answer
+148,587,23,2,"Because you do the MRI because a patient has a problem.  They complain of shoulder pain, pain doesn't get better, so you do an MRI to see what's going on.  And in this case, it showed pathology.",a,THE WITNESS,start_question
+149,592,23,7,"Now, Doctor, you said you were unable to open up the disc that contained the MRI study, the actual MRI study; is that accurate?",q,MR. BAER,start_answer
+150,596,23,11,That's correct.,a,THE WITNESS,start_question
+151,597,23,12,What did you have to review in its place?,q,MR. BAER,start_answer
+152,599,23,14,The report dictated by a reading radiologist.,a,THE WITNESS,start_question
+153,601,23,16,And what were the findings from that reading radiologist?,q,MR. BAER,start_answer
+154,603,23,18,"That it was hypertrophy of the AC joint.  That's the joint we talked about where the arthritis was.  It was a full thickness cuff tear, full thickness rotator cuff tear without retraction.  So the cuff was torn, but it wasn't separated, wasn't retracted.",a,THE WITNESS,start_question
+155,610,23,25,Was there any other findings with respect to that shoulder?,q,MR. BAER,start_answer
+156,613,24,2,"Of note is that there was no muscle atrophy.  When a rotator cuff tear is old, it begins to atrophy.  It does separate. It does retract and the head of the humerus rides up.  None of that was present on this exam.",a,THE WITNESS,start_question
+157,619,24,8,"Now, Doctor, what other documents did you have an opportunity to review?",q,MR. BAER,start_answer
+158,622,24,11,"I reviewed an MRI of the neck, MRI of the low back, and an EMG of both arms that were done prior to the motor vehicle accident.",a,THE WITNESS,start_question
+159,626,24,15,"And what's the significance or what were the findings there, sir?",q,MR. BAER,start_answer
+160,628,24,17,They showed disc pathology with radiculopathy.  That's my opinion.  These were aggravated by her 1/31/18 accident.,a,THE WITNESS,start_question
+161,631,24,20,"And, Doctor, could you please tell us what other records you reviewed.",q,MR. BAER,start_answer
+162,633,24,22,"I reviewed records from a Dr. Garabo, Dr. Hassan, and Lehigh Valley Pain Center.",a,THE WITNESS,start_question
+163,636,24,25,And what was the significance in those records?,q,MR. BAER,start_answer
+164,639,25,2,"She saw Dr. Garabo and he also treated her for prior injuries.  He treated her for her present injuries including the shoulder injury.  She then saw a Dr. Hassan, H-A-S-S-A-N, on 7/24/18.  He saw her for right shoulder pain and he noted that there was no pain in the shoulder prior to the motor vehicle accident.",a,THE WITNESS,start_chat
+165,647,25,10,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+166,650,25,13,The objection is to the doctor's testimony that the doctor noted that there was no prior shoulder pain.  I believe what he is referring to is a statement by the plaintiff.  Just object to the testimony as misleading and mischaracterizing the record.,side_chat,MR. SMITH,start_chat
+167,657,25,20,I will just note that hearsay in the context of a medical record for the purposes of diagnosis is an exception to the hearsay objection.,side_chat,MR. BAER,start_chat
+168,661,25,24,"Sure.  No disagreement there.  It's just that it was her complaint, her indication, to the doctor that she had no prior shoulder problems, not the doctor's opinion that she had no prior shoulder problems is the basis for my objection.",side_chat,MR. SMITH,start_chat
+169,669,26,6,Okay. VIDEOGRAPHER,side_chat,MR. BAER,start_chat
+170,672,26,9,"Dr. Hassan examined her and found a rotator cuff tear.  He said that she failed attempts in nonoperative treatment including therapy, injections, medications, and activity modifications, and therefore he recommended surgery.",side_chat,THE WITNESS,start_question
+171,680,26,17,"Doctor, what was the date of that report again?",q,MR. BAER,start_answer
+172,682,26,19,7/24/18.,a,THE WITNESS,start_question
+173,683,26,20,"So that is 7 months -- approximately seven months after the accident or six months after the accident of January 31, 2018; is that accurate?",q,MR. BAER,start_answer
+174,687,26,24,Yes.,a,THE WITNESS,start_question
+175,688,26,25,"Now, Doctor, you saw Ms. Rodriguez on July 1, 2019; is that correct?",q,MR. BAER,start_answer
+176,691,27,2,Yes.,a,THE WITNESS,start_question
+177,692,27,3,And you performed a physical examination of her; is that accurate?,q,MR. BAER,start_answer
+178,694,27,5,"Yes, I did.",a,THE WITNESS,start_question
+179,695,27,6,"And performing a physical examination, is that something that you would do with your clinical patients?",q,MR. BAER,start_answer
+180,698,27,9,Yes.,a,THE WITNESS,start_question
+181,699,27,10,What's the importance of doing a physical examination?,q,MR. BAER,start_answer
+182,701,27,12,"To see what is actually wrong with the patient upon examining, touching the patient, and evaluating the patient.",a,THE WITNESS,start_question
+183,704,27,15,"Doctor, when you performed this examination of Ms. Rodriguez, did you take a history from her?",q,MR. BAER,start_answer
+184,707,27,18,"Yes, I did.",a,THE WITNESS,start_question
+185,708,27,19,And what did she tell you?,q,MR. BAER,start_answer
+186,709,27,20,"Well, she complained of neck pain, right shoulder pain with occasional numbness in the right arm, injured in a motor vehicle accident on 1/31/18.  She was a driver of a car.  She was injured when she was struck on the passenger's side by another car that went through a traffic light.  The impact caused her vehicle to spin.  She was wearing her seatbelt.  The airbags deployed.  She injured her right shoulder as she was swung about by the impact.  She went to St. Luke's Hospital in Allentown and was treated and released. She complained to me of a stabbing, sharp pain in her right shoulder. She said her shoulder pain was severe.  She had pain with overhead use of her shoulder with occasional numbness down the right arm.  She had mildly, severe pain in her cervical spine.",a,THE WITNESS,start_question
+187,729,28,14,"Now, Doctor, Ms. Rodriguez saw you one year and five months almost to the day from when this crash occurred; is that accurate?",q,MR. BAER,start_answer
+188,733,28,18,Yes.,a,THE WITNESS,start_question
+189,734,28,19,"And when you saw her that 17 months later, she was still complaining of pain in her neck?",q,MR. BAER,start_answer
+190,737,28,22,Still had pain in the neck.,a,THE WITNESS,start_question
+191,738,28,23,And still had problems with the shoulder; is that accurate?,q,MR. BAER,start_answer
+192,740,28,25,That is correct.,a,THE WITNESS,start_question
+193,742,29,1,"All right.  Doctor, did you perform any tests on Ms. Rodriguez as part of your examination?",q,MR. BAER,start_answer
+194,745,29,4,"Yes.  I examined her neck and she had pain in the neck muscle upon palpating or pressing on the muscles.  She had a full neck range of motion.  The main problem was pain in the right shoulder.  She had pain about the entire right shoulder.  There was no instability.  There was no weakness.  She did have a significant decrease of motion to the right elbow. She could only abduct and flex to 45 degrees.  Abduction means bringing it up from your side, and that was 45 degrees. Usually, it's up overhead 180 degrees.  Flexion is bringing the arm forward.  That was only 45 degrees, normal is 180.  External rotation or bringing the arm rotated outwards was 80 degrees.  That's pretty much normal.  Internal rotation is rotating the arm downward.  That was only 30 degrees, normal is about 70 to 80 degrees.  She had positive impingement signs. These are signs that the rotator cuff is irritated when you put the arm through certain motions.  She had no crepitus.  The reflexes were equal.  She had a decrease in sensation to the right arm.",a,THE WITNESS,start_question
+195,771,30,4,"Doctor, is this a normal exam?",q,MR. BAER,start_answer
+196,772,30,5,No.,a,THE WITNESS,start_question
+197,773,30,6,What was abnormal about the exam?,q,MR. BAER,start_answer
+198,775,30,8,Significant abnormality was the loss of shoulder motion with the impingement signs.,a,THE WITNESS,start_question
+199,778,30,11,"Doctor, please tell us more. What else, if anything, did you do as part of this examination?",q,MR. BAER,start_answer
+200,781,30,14,That was it as far as the physical exam.,a,THE WITNESS,start_question
+201,783,30,16,"Now, Doctor, did she describe to you the pain that she was experiencing?",q,MR. BAER,start_answer
+202,785,30,18,She did.,a,THE WITNESS,start_question
+203,786,30,19,And what did she say?,q,MR. BAER,start_answer
+204,787,30,20,"She told me stabbing, sharp pain in her right shoulder, pain is severe.",a,THE WITNESS,start_question
+205,789,30,22,"Doctor, with respect to all of this, after you reviewed the record, after you took the history, and after you performed the examination, did you come to an opinion within a reasonable degree of medical certainty as to her medical conditions?",q,MR. BAER,start_answer
+206,796,31,3,"Yes, I did.",a,THE WITNESS,start_question
+207,797,31,4,Please tell us what those conditions were.,q,MR. BAER,start_answer
+208,799,31,6,"Conditions were cervical strain and sprain, right upper extremity radiculopathy, right rotator cuff tear, aggravation of right AC joint arthritis.",a,THE WITNESS,start_question
+209,803,31,10,"Doctor, do you have an opinion as to a reasonable degree of medical certainty as to the cause of the injuries that we discussed throughout your testimony?",q,MR. BAER,start_answer
+210,807,31,14,"It's my opinion within a reasonable degree of medical certainty that she sustained an aggravation of her neck pain and an aggravation of her radicular symptoms on 1/31/18.  Her right shoulder pain and right rotator cuff tear, aggravation of the right AC joint arthritis was a direct result of her 1/31/18 accident.",a,THE WITNESS,start_question
+211,815,31,22,"Doctor, with respect to this, did you also have a reasonable degree of medical certainty or an opinion within a reasonable degree of medical certainty as to the reasonableness and necessity of the treatment that she underwent following this car crash?",q,MR. BAER,start_answer
+212,823,32,4,It's my opinion that the treatment that she received was reasonable and medically necessary and was the result of her car crash.,a,THE WITNESS,start_question
+213,827,32,8,"Doctor, did you also give a prognosis to Ms. Rodriguez?",q,MR. BAER,start_answer
+214,829,32,10,I did.  I said her prognosis is poor.  She'll continue to have neck pain with radicular pain and pain in the right shoulder.,a,THE WITNESS,start_question
+215,832,32,13,Did you give an opinion as to the necessity for future treatment?,q,MR. BAER,start_answer
+216,834,32,15,I did.,a,THE WITNESS,start_question
+217,835,32,16,"And what is your basis for giving the opinions for future treatment, sir?",q,MR. BAER,start_answer
+218,837,32,18,"Examining the patient, reviewing the medical records, particularly the MRI.",a,THE WITNESS,start_question
+219,839,32,20,And what future treatment does Ms. Rodriguez require?,q,MR. BAER,start_answer
+220,841,32,22,"I recommended arthroscopic surgery on her right shoulder, recommended an updated MRI of her neck and EMG of the upper extremity.  Also recommended pain control injections for her neck.  That's pretty much it except that if her cervical symptoms and disc pathology persists and becomes intolerable she will require surgery on her neck.",a,THE WITNESS,start_question
+221,850,33,5,And what type of surgery is that?,q,MR. BAER,start_answer
+222,852,33,7,That would be a cervical arthrodesis or a fusion of her neck with taking the disc out.,a,THE WITNESS,start_question
+223,855,33,10,"Doctor, with respect to the surgery to the shoulder, are you the only doctor that has recommended that surgery?",q,MR. BAER,start_answer
+224,858,33,13,"No, I'm not.  Dr. Hassan has also recommended the surgery.",a,THE WITNESS,start_question
+225,860,33,15,"Now, Doctor, are you familiar with the costs related to the future treatment that you recommend?",q,MR. BAER,start_answer
+226,863,33,18,"Yes, I am.",a,THE WITNESS,start_question
+227,864,33,19,Could you please itemize for us what the costs are for the specific areas of treatment that you recommend for Ms. Rodriguez.,q,MR. BAER,start_answer
+228,867,33,22,"The cost for the arthroscopic surgery is $40,000 with associated costs of $7,000 for physical therapy, medication.  The MRI of the neck and EMG of the right arm is $4,000.  Pain control injections is $6,000 per series of injections, and I've recommended two series of injections costing $12,000.  The cost for the cervical arthrodesis is $125,000.  The cost for ongoing treatment for medication and occasional therapy is $5,000 a year for at least the next five years.",a,THE WITNESS,start_question
+229,879,34,8,"Doctor, are all the opinions that you have just testified to, are they all made within a reasonable degree of medical certainty?",q,MR. BAER,start_answer
+230,883,34,12,"Yes, they are.",a,THE WITNESS,start_chat
+231,884,34,13,"Thank you, Doctor. That's all the questions I have for you at this time.",side_chat,MR. BAER,start_chat
+232,887,34,16,Off the record. VIDEOGRAPHER,side_chat,MR. SMITH,symbols
+233,890,34,19,- - -,symbols,,is brackets
+234,891,34,20,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+235,893,34,22,"- - - VIDEOGRAPHER:  11:24 a.m., we're back on the record.",symbols,,symbols
+236,896,34,25,- - - CROSS EXAMINATION,symbols,,symbols
+237,899,35,2,- - -,symbols,,start_question
+238,901,35,4,"Dr. Stepanuk, when we were off the record, you provided me a copy of what you indicated was your file that you reviewed in this case, correct?",q,MR. SMITH,start_answer
+239,905,35,8,Correct.,a,THE WITNESS,start_question
+240,906,35,9,Can you just hold that up to the jury and show them your file.,q,MR. SMITH,start_answer
+241,908,35,11,The file has been thin.  I've taken some of the therapy notes out.,a,THE WITNESS,start_question
+242,910,35,13,"Okay.  Well, where are they, Doctor?",q,MR. SMITH,start_answer
+243,912,35,15,They are gone.  I can't keep a foot of records on every patient that I get.,a,THE WITNESS,start_question
+244,914,35,17,You had a foot of records in this case?,q,MR. SMITH,start_answer
+245,916,35,19,No.  No.  I'm just saying I can't keep all the records I get on every patient.,a,THE WITNESS,start_question
+246,919,35,22,What records did you get rid of?,q,MR. SMITH,start_answer
+247,920,35,23,"I got rid of the therapy records, Lehigh Valley.",a,THE WITNESS,start_question
+248,922,35,25,How many pages were they?,q,MR. SMITH,start_answer
+249,924,36,1,I don't know.,a,THE WITNESS,start_question
+250,925,36,2,What were the dates of them?,q,MR. SMITH,start_answer
+251,926,36,3,I don't know.,a,THE WITNESS,start_question
+252,927,36,4,"As far as what you kept, Doctor, is --",q,MR. SMITH,start_answer
+253,929,36,6,No.  I reviewed medical bills from Lehigh Valley Medical Center.,a,THE WITNESS,start_question
+254,931,36,8,I wanted to ask you about that. Where are they?,q,MR. SMITH,start_answer
+255,933,36,10,They are not there.,a,THE WITNESS,start_question
+256,934,36,11,What happened to them?,q,MR. SMITH,start_answer
+257,935,36,12,I don't know.,a,THE WITNESS,start_question
+258,936,36,13,"As far as the file that you have left, I want you to just look through there and just count up the actual pages of medical records that you have in your file as we sit here for the deposition.",q,MR. SMITH,start_chat
+259,941,36,18,Off the record. VIDEOGRAPHER,side_chat,MR. BAER,start_chat
+260,944,36,21,"First thing, we're going off the record for the doctor to do the questions.",side_chat,MR. BAER,start_chat
+261,947,36,24,Yup.,side_chat,MR. SMITH,start_chat
+262,948,36,25,"And then I'm going to make an objection, a relevance objection, as to counting the number of pages.",side_chat,MR. BAER,start_chat
+263,952,37,3,"Well, I'm going to ask him specifically what those records are and so the jury is aware of the records that he retained as part of his file.",side_chat,MR. SMITH,start_chat
+264,957,37,8,"Again, whether or not -- again, I'm going to make a relevance objection to the records that he's retained.  He testified that he reviewed more records than what he's kept and so we'll just leave it at that.",side_chat,MR. BAER,start_chat
+265,963,37,14,"Okay.  Did you get to pullout the medical records, Doctor?",side_chat,MR. SMITH,start_chat
+266,965,37,16,Yes.,side_chat,THE WITNESS,start_chat
+267,966,37,17,Okay.  We'll go back on. VIDEOGRAPHER,side_chat,MR. SMITH,start_question
+268,971,37,22,"All right.  Doctor, can you just tell us what are the actual medical records that are left in your file?",q,MR. SMITH,start_answer
+269,974,37,25,Records from Lehigh Valley Pain Center Chiropractic and Rehab.,a,THE WITNESS,start_question
+270,977,38,2,How many pages of those records do you have?,q,MR. SMITH,start_answer
+271,979,38,4,"It looks like two pages.  Dr. Hassan is two pages, and the MRI is one page.",a,THE WITNESS,start_question
+272,981,38,6,So five pages of treatment records total are what you have left in your file as of today?,q,MR. SMITH,start_answer
+273,984,38,9,That's correct.,a,THE WITNESS,start_question
+274,985,38,10,"Now, let's talk about the records that you indicated that you reviewed or didn't review in your report.  Can we agree that you did not review the police report?",q,MR. SMITH,start_answer
+275,989,38,14,Correct.,a,THE WITNESS,start_question
+276,990,38,15,Can we agree that you did not review plaintiff's Complaint?,q,MR. SMITH,start_answer
+277,992,38,17,Correct.,a,THE WITNESS,start_question
+278,993,38,18,Can we agree that you did not review the plaintiff's deposition testimony?,q,MR. SMITH,start_answer
+279,995,38,20,That's correct.,a,THE WITNESS,start_question
+280,996,38,21,"You're familiar with what a deposition is, correct, Doctor?",q,MR. SMITH,start_answer
+281,998,38,23,"Yes, I am.",a,THE WITNESS,start_question
+282,999,38,24,Probably reviewed many of them over the years?,q,MR. SMITH,start_answer
+283,1002,39,1,Yes.,a,THE WITNESS,start_question
+284,1003,39,2,"And as we're going through this for all of these questions as to what you reviewed or didn't review, can we agree that all of the records that you received to review in this case were provided by plaintiff's counsel?",q,MR. SMITH,start_answer
+285,1009,39,8,That's correct.,a,THE WITNESS,start_question
+286,1010,39,9,Did you request any additional records beyond what they provided to you?,q,MR. SMITH,start_answer
+287,1012,39,11,"No, I didn't.",a,THE WITNESS,start_question
+288,1013,39,12,"All right.  Now, getting back to what you reviewed or didn't review, can we agree that you did not review the plaintiff's deposition that she gave with respect to a prior car accident?",q,MR. SMITH,start_answer
+289,1018,39,17,Correct.,a,THE WITNESS,start_question
+290,1019,39,18,"Can we agree that you did not review the records of Gene Levinstein, M.D.?",q,MR. SMITH,start_answer
+291,1021,39,20,That's correct.,a,THE WITNESS,start_question
+292,1022,39,21,"Can we agree that you did not review the records of Samuel Grodofsky, M.D.?",q,MR. SMITH,start_answer
+293,1024,39,23,"No, I didn't.",a,THE WITNESS,start_question
+294,1025,39,24,"Can we agree that you did not review the records of Michelle Holding, M.D.?",q,MR. SMITH,start_answer
+295,1028,40,1,No.,a,THE WITNESS,start_question
+296,1029,40,2,"So when you say no, Doctor, just so we're clear, you didn't review them?",q,MR. SMITH,start_answer
+297,1031,40,4,"No, I did not.",a,THE WITNESS,start_question
+298,1032,40,5,Did you review the records from St. Luke's Hospital?,q,MR. SMITH,start_answer
+299,1034,40,7,"No, I didn't.",a,THE WITNESS,start_question
+300,1035,40,8,Can we agree that you did not review the actual MRI films of the shoulder for the study that was completed after the accident?,q,MR. SMITH,start_answer
+301,1039,40,12,That's correct.,a,THE WITNESS,start_question
+302,1040,40,13,Can we agree that your report does not mention anything about a review of any MRI studies that the plaintiff may have had before our car accident?,q,MR. SMITH,start_answer
+303,1044,40,17,It doesn't specifically state that.  It does state that she was treated by Dr. Garabo for the prior neck and back injuries.,a,THE WITNESS,start_question
+304,1048,40,21,"That was the chiropractor, correct?",q,MR. SMITH,start_answer
+305,1050,40,23,Yes.,a,THE WITNESS,start_question
+306,1051,40,24,So there is nothing in your report talking about any MRIs that she had before the accident?,q,MR. SMITH,start_answer
+307,1055,41,2,No.  But the MRIs were in his report.,a,THE WITNESS,start_question
+308,1057,41,4,Did you review those MRI studies?,q,MR. SMITH,start_answer
+309,1059,41,6,"No, I did not.",a,THE WITNESS,start_question
+310,1060,41,7,"I do want to talk to you about one of the records that you do have in your file.  It's the MRI report after the accident. Can we see that, Doctor?",q,MR. SMITH,start_answer
+311,1064,41,11,Okay.,a,THE WITNESS,start_question
+312,1065,41,12,"If I may, Doctor, if I could just have that for a second.",q,MR. SMITH,start_answer
+313,1067,41,14,(Witness complies.),a,THE WITNESS,start_question
+314,1068,41,15,"Now, earlier you told the jury that there was a full thickness tear of the rotator cuff.  That's what you testified to, correct?",q,MR. SMITH,start_answer
+315,1072,41,19,Yes.,a,THE WITNESS,start_question
+316,1073,41,20,"Isn't it true that what the findings of the radiologist that interpreted that report were actually a focal full thickness tear involves the distal supraspinatus muscle tendon approaching five millimeters, correct?",q,MR. SMITH,start_answer
+317,1080,42,1,Yes.,a,THE WITNESS,start_question
+318,1081,42,2,How big is five millimeters?,q,MR. SMITH,start_answer
+319,1082,42,3,Half an inch.,a,THE WITNESS,start_question
+320,1083,42,4,"Okay.  Are you sure, Doctor, five millimeters is half an inch?",q,MR. SMITH,start_answer
+321,1085,42,6,2.25 millimeters is an inch. Maybe less than half an inch.,a,THE WITNESS,start_question
+322,1087,42,8,"That's a small tear, isn't it, Doctor?",q,MR. SMITH,start_answer
+323,1089,42,10,"Small tear, yes.",a,THE WITNESS,start_question
+324,1090,42,11,Would you say it's a tiny tear?,q,MR. SMITH,start_answer
+325,1091,42,12,Small tear.,a,THE WITNESS,start_question
+326,1092,42,13,Would you say it's a tiny tear?,q,MR. SMITH,start_chat
+327,1093,42,14,Objection and off the record. VIDEOGRAPHER,side_chat,MR. BAER,start_chat
+328,1097,42,18,Argumentative. VIDEOGRAPHER,side_chat,MR. BAER,start_chat
+329,1100,42,21,Small tear.,side_chat,THE WITNESS,start_question
+330,1102,42,23,Okay.  Would you also call that a tiny tear?,q,MR. SMITH,start_answer
+331,1104,42,25,"Call it what you want, I guess.",a,THE WITNESS,start_chat
+332,1106,43,1,We're going to go off the record again. VIDEOGRAPHER,side_chat,MR. BAER,start_chat
+333,1110,43,5,"I'm going to object and move to strike, argumentative.  We can go back on. VIDEOGRAPHER",side_chat,MR. BAER,start_question
+334,1116,43,11,"Now, Doctor, when you say you can call it whatever you want.  You call it a small tear.  When you say you can call it whatever you want, that can include a tiny tear, correct?",q,MR. SMITH,start_answer
+335,1121,43,16,It could if that's what you want to call it.,a,THE WITNESS,start_question
+336,1123,43,18,"All right.  Based upon the records which you reviewed, would it be fair to say that the last time Ms. Rodriguez received any medical treatment was over a year ago?",q,MR. SMITH,start_answer
+337,1127,43,22,Yes.,a,THE WITNESS,start_question
+338,1128,43,23,"You mentioned that you reviewed Dr. Hassan's report, correct?",q,MR. SMITH,start_answer
+339,1130,43,25,Yes.,a,THE WITNESS,start_question
+340,1132,44,1,"Would it be fair to say that you don't know if Dr. Hassan had any of the prior medical records, do you?",q,MR. SMITH,start_answer
+341,1135,44,4,I don't know what Dr. Hassan had.,a,THE WITNESS,start_question
+342,1137,44,6,All right.  Did you ever talk to Dr. Hassan about his report?,q,MR. SMITH,start_answer
+343,1139,44,8,"No, I didn't.",a,THE WITNESS,start_question
+344,1140,44,9,Did you ever try to talk to him?,q,MR. SMITH,start_answer
+345,1141,44,10,No.,a,THE WITNESS,start_question
+346,1142,44,11,"Did you ever or were you ever provided with the report from our medical expert in this case, Dr. DiBenedetto?",q,MR. SMITH,start_answer
+347,1145,44,14,"No, I wasn't.",a,THE WITNESS,start_question
+348,1146,44,15,Did you know we even had Ms. Rodriguez examined?,q,MR. SMITH,start_answer
+349,1148,44,17,"No, I don't.",a,THE WITNESS,start_question
+350,1149,44,18,"Let's talk about your actual report, which is dated July 1, 2019.  When did you prepare this report?",q,MR. SMITH,start_answer
+351,1152,44,21,Right after I saw the patient or the next day.,a,THE WITNESS,start_question
+352,1154,44,23,So her complaints in her examination would have been fresh in your mind when you prepared it?,q,MR. SMITH,start_answer
+353,1158,45,1,That's correct.,a,THE WITNESS,start_question
+354,1159,45,2,"Now, you told us that her chief complaint was what, Doctor?",q,MR. SMITH,start_answer
+355,1161,45,4,"Cervical pain, neck pain, pain in the right shoulder with occasional numbness in the right arm.",a,THE WITNESS,start_question
+356,1164,45,7,"Now, with respect to the chief complaint, as you documented in her report, isn't it true that what you said was, quote, cervical pain with pain in the right shoulder with occasional numbness in the right upper extremity, correct, Doctor?",q,MR. SMITH,start_answer
+357,1170,45,13,Correct.,a,THE WITNESS,start_question
+358,1171,45,14,"And when you say occasional numbness, how often is occasional?",q,MR. SMITH,start_answer
+359,1173,45,16,"I don't know what's occasional. Means occasional.  Sometimes it's there, sometimes it isn't.",a,THE WITNESS,start_question
+360,1176,45,19,"Now, in your report on page two, you talk about a review of systems.  Do you see that, Doctor?",q,MR. SMITH,start_answer
+361,1179,45,22,Yes.,a,THE WITNESS,start_question
+362,1180,45,23,"You said 14 systems were reviewed, correct?",q,MR. SMITH,start_answer
+363,1182,45,25,Yes.,a,THE WITNESS,start_question
+364,1184,46,1,And you said that she complains of headaches?,q,MR. SMITH,start_answer
+365,1186,46,3,Correct.,a,THE WITNESS,start_question
+366,1187,46,4,And you said the remaining review of systems is negative.,q,MR. SMITH,start_answer
+367,1189,46,6,Yes.,a,THE WITNESS,start_question
+368,1190,46,7,What were the 14 systems that you reviewed which were negative?,q,MR. SMITH,start_answer
+369,1192,46,9,You want me to go through them all?,a,THE WITNESS,start_question
+370,1194,46,11,"Yes, please, Doctor.",q,MR. SMITH,start_answer
+371,1195,46,12,"Cardiovascular, gastrointestinal, neurologic, vascular, all the systems.  I don't have them listed by systems.",a,THE WITNESS,start_question
+372,1198,46,15,"Well, even if you don't have them listed you noted in your report that you reviewed 14 systems and that they were all negative.  So can you just tell us what all of those systems were that were negative.  And if you don't remember, Doctor, that's okay.  You can tell us that.",q,MR. SMITH,start_answer
+373,1205,46,22,"14 systems were reviewed, complained of headache.  She also complained of -- well, she complained of headache.  The negatives, you want me to go through all the negatives?",a,THE WITNESS,start_question
+374,1211,47,2,"Just to clarify, Doctor, again, you said 14 systems were reviewed.  She complained of headaches.  The remaining review of systems was negative.  I'm just trying to clarifying with you Doctor what those 14 systems were that you reviewed.",q,MR. SMITH,start_answer
+375,1217,47,8,"As I said, neurologic system, cardiovascular, you know, all the systems.",a,THE WITNESS,start_question
+376,1219,47,10,"Beyond neurologic and cardiovascular, can you tell us the other 12 systems that you reviewed?",q,MR. SMITH,start_answer
+377,1222,47,13,"No.  Not off the top of my head. GI, hematologic, I assume, renal system, endocrine system.  I mean, all the systems in the body.",a,THE WITNESS,start_question
+378,1226,47,17,"Okay.  Now, you said review of the neurologic system was negative.",q,MR. SMITH,start_answer
+379,1228,47,19,Yes.,a,THE WITNESS,start_question
+380,1229,47,20,What's the neurologic system?,q,MR. SMITH,start_answer
+381,1230,47,21,Neurologic is the nerves.,a,THE WITNESS,start_question
+382,1231,47,22,"And you would have done this review yourself, correct?",q,MR. SMITH,start_answer
+383,1233,47,24,"No.  The patient checked this off.  And to cut to the chase, she just checked off headache.  She did not check off numbness and tingling.  She did not check off stiffness, joint pain, weakness.  She didn't check off any of the muscular or neurologic components that you would be interested in.  She just checked off headache.",a,THE WITNESS,start_question
+384,1242,48,7,And what you are referring to is a document in your file that Ms. Rodriguez checked off when you examined her?,q,MR. SMITH,start_answer
+385,1245,48,10,That's correct.  She checked it off.,a,THE WITNESS,start_question
+386,1247,48,12,And the only item on that system that she indicated was a problem was headaches?,q,MR. SMITH,start_answer
+387,1249,48,14,That's what she checked off.,a,THE WITNESS,start_question
+388,1250,48,15,"That's the whole body, right?",q,MR. SMITH,start_answer
+389,1251,48,16,That's it.,a,THE WITNESS,start_question
+390,1252,48,17,"All right.  Let's talk about your physical exam.  You note that she had no atrophy of the right shoulder, correct?",q,MR. SMITH,start_answer
+391,1255,48,20,Correct.,a,THE WITNESS,start_question
+392,1256,48,21,"Atrophy can occur when you use a muscle less, correct, Doctor?",q,MR. SMITH,start_answer
+393,1258,48,23,Yes.,a,THE WITNESS,start_question
+394,1259,48,24,"And when you examined her, it was about a year and a half after this car accident, right?",q,MR. SMITH,start_answer
+395,1263,49,2,Yes.,a,THE WITNESS,start_question
+396,1264,49,3,"And as far as what you reported regarding her ability to move her shoulder, was that based upon what she told you?",q,MR. SMITH,start_answer
+397,1267,49,6,Based upon the motion that I tried to place her shoulder through is basically what she told me.,a,THE WITNESS,start_question
+398,1270,49,9,"So if she told you stop, you stopped?",q,MR. SMITH,start_answer
+399,1272,49,11,Yes.,a,THE WITNESS,start_question
+400,1273,49,12,"Now, just with respect to your diagnosis, Doctor, the first one you mentioned was a cervical strain and sprain, correct?",q,MR. SMITH,start_answer
+401,1276,49,15,Correct.,a,THE WITNESS,start_question
+402,1277,49,16,"And that's sometimes referred to as a soft tissue injury, correct?",q,MR. SMITH,start_answer
+403,1279,49,18,Yes.,a,THE WITNESS,start_question
+404,1280,49,19,"And those types of injuries normally resolve in a matter of weeks or months, correct?",q,MR. SMITH,start_answer
+405,1283,49,22,They can resolve in weeks or months.  They can persist.,a,THE WITNESS,start_question
+406,1285,49,24,"The general pattern of recovery for a strain, sprain is usually weeks or months, correct, Doctor?",q,MR. SMITH,start_answer
+407,1289,50,2,Usually weeks or months.,a,THE WITNESS,start_question
+408,1290,50,3,"And with respect to Ms. Rodriguez's neck, she's never been diagnosed with a disc herniation by you or anyone else as a result of this accident, correct?",q,MR. SMITH,start_answer
+409,1294,50,7,I don't have it in my report.  I know from reviewing the medical records that she had prior disc problems.,a,THE WITNESS,start_question
+410,1297,50,10,"Now, you don't know of any problem at all with her lower back, correct?",q,MR. SMITH,start_answer
+411,1299,50,12,"Well, she had prior low back complaints.",a,THE WITNESS,start_question
+412,1301,50,14,"As far as the accident, you don't relate any problem with her low back to our car accident, do you, Doctor?",q,MR. SMITH,start_answer
+413,1304,50,17,That is correct.  I do not.,a,THE WITNESS,start_question
+414,1305,50,18,Your diagnosis also includes an aggravation of the right AC joint arthritis.,q,MR. SMITH,start_answer
+415,1307,50,20,Yes.,a,THE WITNESS,start_question
+416,1308,50,21,"So we're clear, Doctor, it's your testimony that she had arthritis in her right shoulder before the car accident?",q,MR. SMITH,start_answer
+417,1311,50,24,"Yes, she did.",a,THE WITNESS,start_question
+418,1312,50,25,Just a few moments ago you testified to your opinions regarding whether Ms. Rodriguez might need certain types of future medical care.  Do you recall that?,q,MR. SMITH,start_answer
+419,1317,51,4,"Yes, I do.",a,THE WITNESS,start_question
+420,1318,51,5,"And, again, you saw her -- now it's about over a year and a half since this accident, correct?",q,MR. SMITH,start_answer
+421,1321,51,8,Correct.,a,THE WITNESS,start_question
+422,1322,51,9,"You note that she may need right shoulder surgery, correct?",q,MR. SMITH,start_answer
+423,1324,51,11,Yes.,a,THE WITNESS,start_question
+424,1325,51,12,Has she had any shoulder surgery to date?,q,MR. SMITH,start_answer
+425,1327,51,14,Not to my knowledge.,a,THE WITNESS,start_question
+426,1328,51,15,You note that she may need physical therapy.  Has she ever had physical therapy since this car accident?,q,MR. SMITH,start_answer
+427,1331,51,18,Not to my knowledge.,a,THE WITNESS,start_question
+428,1332,51,19,You note that she may need a cervical MRI.  Would you tell the jury how many cervical MRIs the plaintiff has had since this car accident.,q,MR. SMITH,start_answer
+429,1336,51,23,I don't believe she had a cervical MRI.,a,THE WITNESS,start_question
+430,1338,51,25,And I believe earlier you talked about an MRI is a test that you order when symptoms persists and you want to find out what's going on.,q,MR. SMITH,start_answer
+431,1343,52,4,That's correct.,a,THE WITNESS,start_question
+432,1344,52,5,"Isn't it correct, Doctor, that Ms. Rodriguez had a cervical MRI after her prior car accident and before our car accident?",q,MR. SMITH,start_answer
+433,1347,52,8,"Yes, she did.",a,THE WITNESS,start_question
+434,1348,52,9,And she never had one after our accident?,q,MR. SMITH,start_answer
+435,1350,52,11,That's correct.,a,THE WITNESS,start_question
+436,1351,52,12,"Now, you also note that Ms. Rodriguez may need an EMG of the right upper extremity because of our car accident, correct?",q,MR. SMITH,start_answer
+437,1354,52,15,Yes.,a,THE WITNESS,start_question
+438,1355,52,16,Would you tell the jury how many EMGs of the right upper extremity Ms. Rodriguez has had since this car accident.,q,MR. SMITH,start_answer
+439,1358,52,19,She's had none since the car accident.,a,THE WITNESS,start_question
+440,1360,52,21,But she did have one after her last car accident; is that right?,q,MR. SMITH,start_answer
+441,1362,52,23,That's correct.,a,THE WITNESS,start_question
+442,1363,52,24,"And you also testified that if there is ongoing problems, she might need a neck surgery, correct?",q,MR. SMITH,start_answer
+443,1367,53,2,That is correct.,a,THE WITNESS,start_question
+444,1368,53,3,"You've testified that the treatment which Ms. Rodriguez has received from the time of the accident has been reasonable and necessary, right?",q,MR. SMITH,start_answer
+445,1372,53,7,Yes.,a,THE WITNESS,start_question
+446,1373,53,8,What other doctor that has examined Ms. Rodriguez since this car accident has ever even talked about the possibility she might ever need any type of surgery on her neck?,q,MR. SMITH,start_answer
+447,1378,53,13,No other doctor to my knowledge.,a,THE WITNESS,start_question
+448,1379,53,14,"Your diagnosis with respect to the neck is a sprain and strain, correct?",q,MR. SMITH,start_answer
+449,1381,53,16,Sprain and strain with the preexisting disc herniations.,a,THE WITNESS,start_question
+450,1383,53,18,"Preexisting means they existed before the car accident, right?",q,MR. SMITH,start_answer
+451,1385,53,20,"The discs were there before, yes.",a,THE WITNESS,start_question
+452,1387,53,22,"In your report, you talk about that -- or you give the opinion that Ms. Rodriguez may need to use prescription pain medicine, right?",q,MR. SMITH,start_answer
+453,1392,54,1,Yes.,a,THE WITNESS,start_question
+454,1393,54,2,When is the last time she ever used prescription pain medication?,q,MR. SMITH,start_answer
+455,1395,54,4,I don't know.,a,THE WITNESS,start_question
+456,1396,54,5,Would it surprise you to find out that when Ms. Rodriguez gave a deposition in this case she testified that she currently was not taking any pain medications?,q,MR. SMITH,start_answer
+457,1400,54,9,Wouldn't surprise me.,a,THE WITNESS,start_question
+458,1401,54,10,"And when you examined Ms. Rodriguez, was she even taking any over-the-counter pain medications?",q,MR. SMITH,start_answer
+459,1404,54,13,No.,a,THE WITNESS,start_question
+460,1405,54,14,"And she had not treated for at least a year, correct?",q,MR. SMITH,start_answer
+461,1407,54,16,That's correct.  Just one second.  I just checked the forms she filled out.  She said she was taking Motrin when I saw her.,a,THE WITNESS,start_question
+462,1411,54,20,Did she say how often?,q,MR. SMITH,start_answer
+463,1412,54,21,No.  She just said over-the-counter Motrin.,a,THE WITNESS,start_question
+464,1414,54,23,"But that would have been for headaches according to that document you're looking at, correct?",q,MR. SMITH,start_chat
+465,1418,55,1,Objection.,side_chat,MR. BAER,start_chat
+466,1419,55,2,I'll rephrase.,side_chat,MR. SMITH,start_question
+467,1421,55,4,"What document are you looking at, Doctor?",q,MR. SMITH,start_answer
+468,1423,55,6,I'm looking at the list of current medications that the patient filled out.,a,THE WITNESS,start_question
+469,1426,55,9,Was that part of that review of systems form you were telling us about earlier?,q,MR. SMITH,start_answer
+470,1428,55,11,Yes.,a,THE WITNESS,start_question
+471,1429,55,12,"And on the review of systems, the only complaint she checked was headaches, right?",q,MR. SMITH,start_answer
+472,1432,55,15,On the review of systems that's what she checked.,a,THE WITNESS,start_question
+473,1434,55,17,"All right.  Doctor, how much are you charging for the time which you've spent to give this deposition?",q,MR. SMITH,start_answer
+474,1437,55,20,"It's $2,500 for time taken out of my practice.",a,THE WITNESS,start_question
+475,1439,55,22,And you also reviewed records.,q,MR. SMITH,start_answer
+476,1440,55,23,Yes.  The charge for the records and the report was $500.,a,THE WITNESS,start_question
+477,1442,55,25,"So a total of $3,000?",q,MR. SMITH,start_answer
+478,1444,56,1,That's correct.,a,THE WITNESS,start_chat
+479,1445,56,2,"I have no other questions, Doctor.",side_chat,MR. SMITH,symbols
+480,1447,56,4,- - - REDIRECT EXAMINATION,symbols,,symbols
+481,1449,56,6,- - -,symbols,,start_question
+482,1451,56,8,"Doctor, with respect to treating your clinical patients, are you provided with deposition transcripts?",q,MR. BAER,start_answer
+483,1454,56,11,"No, I'm not.",a,THE WITNESS,start_question
+484,1455,56,12,How about police reports?,q,MR. BAER,start_answer
+485,1456,56,13,No.,a,THE WITNESS,start_question
+486,1457,56,14,Do they have any relevance when you're examining someone for medical issues?,q,MR. BAER,start_answer
+487,1459,56,16,Not for medical issues.  They do for historical issues.,a,THE WITNESS,start_question
+488,1461,56,18,"Okay.  And, Doctor, just very quickly, with respect to the checking of the systems, that's a form that the patient fills out; is that correct?",q,MR. BAER,start_answer
+489,1465,56,22,That's correct.  I have no idea why she just checked headaches.  Patients do what they do.,a,THE WITNESS,start_question
+490,1468,56,25,But you also took a history from her and that's when you actually spoke to her directly; is that correct?,q,MR. BAER,start_answer
+491,1472,57,3,"Yes.  I said, what hurts?",a,THE WITNESS,start_question
+492,1473,57,4,"When you asked her what hurts, she said her neck, right?",q,MR. BAER,start_answer
+493,1475,57,6,Yes.,a,THE WITNESS,start_chat
+494,1476,57,7,Objection to leading. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+495,1480,57,11,I'll rephrase. VIDEOGRAPHER,side_chat,MR. BAER,start_question
+496,1484,57,15,"Doctor, please remind us what were the complaints that Ms. Rodriguez told you of when you asked her what was bothering her.",q,MR. BAER,start_chat
+497,1487,57,18,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+498,1490,57,21,The question was please remind us so it's been asked and answered already.  That's the basis of my objection.,side_chat,MR. SMITH,start_chat
+499,1494,57,25,"Well, it's in response to the cross-examination as to the systems and the argument.  It's well within the scope of cross.  So we'll just leave it at that. VIDEOGRAPHER",side_chat,MR. BAER,start_chat
+500,1502,58,7,"Her complaints when I saw her was cervical pain, neck pain, pain in the right shoulder with occasional numbness in the right upper extremity.",side_chat,THE WITNESS,start_question
+501,1508,58,13,"Now, Doctor, Dr. Hassan recommended surgery, correct?",q,MR. BAER,start_answer
+502,1510,58,15,Correct.,a,THE WITNESS,start_question
+503,1511,58,16,"You recommend surgery, correct?",q,MR. BAER,start_answer
+504,1512,58,17,Correct.,a,THE WITNESS,start_question
+505,1513,58,18,"She hasn't gotten surgery, correct?",q,MR. BAER,start_answer
+506,1515,58,20,Correct.,a,THE WITNESS,start_question
+507,1516,58,21,"With respect to the recommendations to surgery from Dr. Hassan, would you agree that Dr. Hassan noted that the conservative methods were not working, correct?",q,MR. BAER,start_answer
+508,1520,58,25,That's correct.,a,THE WITNESS,start_question
+509,1522,59,1,"And the injections were not working, correct?",q,MR. BAER,start_answer
+510,1524,59,3,Correct.,a,THE WITNESS,start_question
+511,1525,59,4,"So when you're talking about having been treated, isn't it really that the only thing she can do right now is have the surgery that's been recommended?",q,MR. BAER,start_chat
+512,1529,59,8,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+513,1532,59,11,That is contrary to all of his treatment recommendations that he put in his report.  So I object to the form of the question.  He testified that she needs all of this treatment and she hasn't had it.  That was the point of cross.  So that's the basis of my objection to the form of your question.,side_chat,MR. SMITH,start_chat
+514,1540,59,19,Okay.  We'll suss it out.  You can answer the question.,side_chat,MR. BAER,start_chat
+515,1542,59,21,What was the question again?,side_chat,THE WITNESS,start_chat
+516,1544,59,23,To clean up this record I'm going to withdraw that question and I'll just ask another question. VIDEOGRAPHER,side_chat,MR. BAER,start_question
+517,1552,60,5,"Doctor, in the absence of improvement with the more conservative treatments that Ms. Rodriguez has undergone so far, what is the option that is best for her right now?",q,MR. BAER,start_answer
+518,1557,60,10,She's done pretty much everything you can do for the shoulder outside of surgery.  Her next option is surgery with a cuff repair and a debridement of the rotator cuff.,a,THE WITNESS,start_question
+519,1562,60,15,"After that procedure has taken place, after that surgery, would physical therapy be appropriate?",q,MR. BAER,start_answer
+520,1565,60,18,"Yes, it would.",a,THE WITNESS,start_question
+521,1566,60,19,Would it be required?,q,MR. BAER,start_answer
+522,1567,60,20,Yes.,a,THE WITNESS,start_question
+523,1568,60,21,"All right, Doctor.  With respect to all of the other future treatment that you spoke of, is it not true that you said that if her symptoms continue that that would be appropriate?",q,MR. BAER,start_answer
+524,1574,61,1,If they continue --,a,THE WITNESS,start_chat
+525,1575,61,2,Objection. VIDEOGRAPHER,side_chat,MR. SMITH,start_chat
+526,1578,61,5,"Again, the objection is based upon asked and answered, which is apparent from the form of the question.  You're asking that isn't it true that that's what you just testified to on your direct.",side_chat,MR. SMITH,start_chat
+527,1584,61,11,"Again, this is -- I testify as to direct.  You gave cross-examination and you made certain points on cross-examination.  I am doing my level best to address those questions and staying within the scope of that and that's something that I'm doing. VIDEOGRAPHER",side_chat,MR. BAER,start_chat
+528,1593,61,20,"In fact, I stated if her systems become intolerable she'll require the cervical spine surgery.",side_chat,THE WITNESS,start_question
+529,1597,61,24,"All right, Doctor.  Again, were all of the opinions that you've given here today done so within a reasonable degree of medical certainty?",q,MR. BAER,start_answer
+530,1602,62,3,Yes.,a,THE WITNESS,start_chat
+531,1603,62,4,"Thank you, Doctor. That's all the questions I have.",side_chat,MR. BAER,symbols
+532,1605,62,6,- - - RECROSS EXAMINATION,symbols,,symbols
+533,1607,62,8,- - -,symbols,,start_question
+534,1609,62,10,"Doctor, what has Ms. Rodriguez been doing for the last year?",q,MR. SMITH,start_answer
+535,1611,62,12,I don't know.,a,THE WITNESS,start_chat
+536,1612,62,13,No other questions. VIDEOGRAPHER,side_chat,MR. SMITH,is brackets
+537,1615,62,16,(Witness excused.),brackets,,is brackets
+538,1616,62,17,"(Deposition ended at 11:47 a.m.) C E R T I F I C A T E I do hereby certify that I am a Notary Public in good standing, that the aforesaid testimony was taken before me, pursuant to notice, at the time and place indicated; that said deponent was by me duly sworn to tell the truth, the whole truth, and nothing but the truth; that the testimony of said deponent was correctly recorded in machine shorthand by me, to the best of my ability, and thereafter transcribed under my supervision with computer-aided transcription; that the deposition is a true and correct record of the testimony given by the witness; and that I am neither of counsel nor kin to any party in said action, nor interested in the outcome thereof. WITNESS my hand and official seal this 6th day of September, 2019. <%signature%>",brackets,,end

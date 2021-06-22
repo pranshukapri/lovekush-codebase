@@ -1,0 +1,1010 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, was examined and testified as follows:,,,symbols
+1,96,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,98,4,10,-  -  -,symbols,,start_question
+3,100,4,12,"Good morning, Mr. Switken.  My name is Lindsay Ettl.  I am the attorney that represents Paul Duncan in this case.  Can you please state your full name for the record.",q,MS. ETTL,start_answer
+4,104,4,16,It's Francis Switken.,a,THE WITNESS,start_question
+5,105,4,17,Do you have a middle name?,q,MS. ETTL,start_answer
+6,106,4,18,Joseph.,a,THE WITNESS,start_question
+7,107,4,19,Have you ever gone by any names other than Francis Joseph Switken?,q,MS. ETTL,start_answer
+8,109,4,21,Frank.,a,THE WITNESS,start_question
+9,110,4,22,Have you ever had your deposition taken before?,q,MS. ETTL,start_answer
+10,111,4,23,"I have had depositions taken before, yes.",a,THE WITNESS,start_question
+11,112,4,24,When was that?,q,MS. ETTL,start_answer
+12,113,4,25,I do not remember.,a,THE WITNESS,start_question
+13,115,5,1,Was it within the last five years?,q,MS. ETTL,start_answer
+14,116,5,2,Yes.,a,THE WITNESS,start_question
+15,117,5,3,And why did you have your deposition taken before?,q,MS. ETTL,start_answer
+16,118,5,4,It was for a workmans' comp issue.,a,THE WITNESS,start_question
+17,119,5,5,And who was the -- who was your employer at that time?,q,MS. ETTL,start_answer
+18,121,5,7,I was unemployed at that time.,a,THE WITNESS,start_question
+19,122,5,8,So who was your employer that you had the Workers' Compensation through?,q,MS. ETTL,start_answer
+20,124,5,10,Brinker International.,a,THE WITNESS,start_question
+21,125,5,11,"And we'll talk about that a little bit later, okay? Do you remember the date of the accident that we're here for today?",q,MS. ETTL,start_answer
+22,128,5,14,That was December 12th of 2016.,a,THE WITNESS,start_question
+23,129,5,15,"So going forward in the deposition, if I say ""the accident"" or ""this accident,"" that's gonna be the date that I'm referring to, okay?",q,MS. ETTL,start_answer
+24,132,5,18,Okay.,a,THE WITNESS,start_question
+25,133,5,19,"If I refer to another accident or something like that, I'll talk about that other date specifically, okay?",q,MS. ETTL,start_answer
+26,135,5,21,Okay.,a,THE WITNESS,start_question
+27,136,5,22,Are you under the influence today of any medications or substances which would prevent you from understanding my questions and answering them truthfully?,q,MS. ETTL,start_answer
+28,139,5,25,No.,a,THE WITNESS,start_question
+29,141,6,1,"I'm gonna go over some ground rules for the deposition so that you know what to expect from me and what it is that I expect of you here today, okay?",q,MS. ETTL,start_answer
+30,144,6,4,Yes.,a,THE WITNESS,start_question
+31,145,6,5,"A deposition, as you know, is just a question-and-answer session.  I'll be asking you questions, a little bit about your history, a little bit about the accident, and you'll be giving me the answers, okay?",q,MS. ETTL,start_answer
+32,150,6,10,Yes.,a,THE WITNESS,start_question
+33,151,6,11,"All of your answers have to be verbal responses. The court -- the court reporter can't take down things like nods of the head or hand gestures or slang responses like ""uh-huh"" or ""uh-uh,"" okay?",q,MS. ETTL,start_answer
+34,155,6,15,Yes.,a,THE WITNESS,start_question
+35,156,6,16,"So if I say to you, ""Is that a 'yes'?"" or ""Is that a 'no'?"" I'm not trying to be fresh.  I'm not trying to confuse you at all.  I'm just trying to make it clear for the record okay?",q,MS. ETTL,start_answer
+36,160,6,20,Yes.,a,THE WITNESS,start_question
+37,161,6,21,"If you -- at the same time, we can't talk at the same time, so let me get my whole question out.  Even if you know what the question is that I'm going to ask, let me ask the whole thing, and then you'll have the opportunity to give your full response, okay?",q,MS. ETTL,start_answer
+38,167,7,1,Yes.,a,THE WITNESS,start_question
+39,168,7,2,"If you don't know the answer to a question, that's okay.  This isn't a test, and I don't want you to guess at anything.  However, if there's a circumstance where you can give me an estimate for something like time, distance, speed, or something along those -- along that nature, go head and just let me know that you're giving me an estimate, okay?",q,MS. ETTL,start_answer
+40,175,7,9,Yes.,a,THE WITNESS,start_question
+41,176,7,10,"If you don't understand the question that I'm asking you, stop me and let me know.  Whether it's the whole question that's confusing or whether there's just one word that I'm using that's odd, just say, ""Wait.  I don't understand that,"" okay?",q,MS. ETTL,start_answer
+42,181,7,15,Yes.,a,THE WITNESS,start_question
+43,182,7,16,"And the reason for that is is that if you give me an answer to a question and you don't tell me that you don't understand it, I'm going to assume that you understood the question that I'm asking you and that you're answering it truthfully, okay?",q,MS. ETTL,start_answer
+44,187,7,21,Yes.,a,THE WITNESS,start_question
+45,188,7,22,"If you need to take any breaks or speak with your attorney at all, if you need to stand, use the bathroom, get a drink, you can do any of that during the deposition. Just stop me and let me know, all right?",q,MS. ETTL,start_answer
+46,193,8,1,Yes.,a,THE WITNESS,start_question
+47,194,8,2,"The only rule about taking a break is that if I've asked you a question, you have to answer that question before you take your break, okay?",q,MS. ETTL,start_answer
+48,197,8,5,Yes.,a,THE WITNESS,start_question
+49,198,8,6,"All right.  Your testimony today is the same as if you were in a courtroom, so it's equally important to be truthful and accurate, okay?",q,MS. ETTL,start_answer
+50,201,8,9,Yes.,a,THE WITNESS,start_question
+51,202,8,10,Do you understand all of the instructions that I've given you today?,q,MS. ETTL,start_answer
+52,204,8,12,Yes.,a,THE WITNESS,start_question
+53,205,8,13,Do you have any questions for me about how a deposition works or what it is that I expect of you?,q,MS. ETTL,start_answer
+54,207,8,15,No.,a,THE WITNESS,start_question
+55,208,8,16,"In preparation for your deposition today, did you review any kind of documents such as a police report, medical records, personal notes, anything of that nature?",q,MS. ETTL,start_answer
+56,211,8,19,Yes.,a,THE WITNESS,start_question
+57,212,8,20,What did you look at?,q,MS. ETTL,start_answer
+58,213,8,21,A personal record.,a,THE WITNESS,start_question
+59,214,8,22,And is that personal record something that you've maintained?,q,MS. ETTL,start_answer
+60,216,8,24,No.,a,THE WITNESS,start_question
+61,217,8,25,Explain to me what it is that your personal record is.,q,MS. ETTL,start_answer
+62,220,9,2,It was a -- my narrative of the accident.,a,THE WITNESS,start_question
+63,221,9,3,"And you produced that narrative to your attorney, correct?",q,MS. ETTL,start_answer
+64,223,9,5,Yes.,a,THE WITNESS,start_chat
+65,224,9,6,I'm pretty sure I have that. Yup.  Yup.,side_chat,MS. ETTL,start_chat
+66,226,9,8,Yeah.,side_chat,MR. DALY,start_question
+67,228,9,10,"Other than talking to your attorney, did you talk to anybody else in preparation for your deposition today?",q,MS. ETTL,start_answer
+68,230,9,12,No.,a,THE WITNESS,start_question
+69,231,9,13,"Can you give me your Social Security Number off the record, please.",q,MS. ETTL,is brackets
+70,233,9,15,(Discussion was held off the record.),brackets,,start_question
+71,235,9,17,What is your date of birth?,q,MS. ETTL,start_answer
+72,236,9,18,"July 11th, 1952.",a,THE WITNESS,start_question
+73,237,9,19,It's actually my grandfather's birthday as well. Not 1952 though.  You're much younger.  Where were you born?,q,MS. ETTL,start_answer
+74,240,9,22,Philadelphia.,a,THE WITNESS,start_question
+75,241,9,23,Do you have a driver's license?,q,MS. ETTL,start_answer
+76,242,9,24,Yes.,a,THE WITNESS,start_question
+77,243,9,25,Do you have it with you?,q,MS. ETTL,start_answer
+78,245,10,1,Yes.,a,THE WITNESS,start_question
+79,246,10,2,Can I take a look at it.,q,MS. ETTL,start_answer
+80,247,10,3,That does not reflect my current address.  That --,a,THE WITNESS,start_question
+81,248,10,4,Okay.,q,MS. ETTL,start_answer
+82,249,10,5,That update is in the car.,a,THE WITNESS,start_question
+83,250,10,6,That's fine.,q,MS. ETTL,start_chat
+84,251,10,7,"Let the record reflect that Mr. Switken has been kind enough to provide me with Pennsylvania Driver's License No. 15735754, issued on May 25th, 2016, expiring on July 12th, 2020.  Okay.  Thank you very much.",side_chat,MS. ETTL,start_question
+85,257,10,13,"Has your license ever been suspended, terminated, or revoked at any point in time?",q,MS. ETTL,start_answer
+86,259,10,15,No.,a,THE WITNESS,start_question
+87,260,10,16,Have you ever had any restrictions on your driver's license?,q,MS. ETTL,start_answer
+88,262,10,18,No.,a,THE WITNESS,start_question
+89,263,10,19,Have you ever had a driver's license issued outside of the State of Pennsylvania?,q,MS. ETTL,start_answer
+90,265,10,21,No.,a,THE WITNESS,start_question
+91,266,10,22,"I know you indicated that the address on your driver's license is not your current address, so what is your current residential address?",q,MS. ETTL,start_answer
+92,269,10,25,"1349 Autumn Way, West Chester, Pennsylvania 19380.",a,THE WITNESS,start_question
+93,271,11,1,And how long have you lived there?,q,MS. ETTL,start_answer
+94,272,11,2,Since May -- May 30th.,a,THE WITNESS,start_question
+95,273,11,3,Of?,q,MS. ETTL,start_answer
+96,274,11,4,"Actually, we moved in there in March of -- of this year.",a,THE WITNESS,start_question
+97,276,11,6,2019?,q,MS. ETTL,start_answer
+98,277,11,7,"'19, yes.  '19.",a,THE WITNESS,start_question
+99,278,11,8,Who currently lives there with you?,q,MS. ETTL,start_answer
+100,279,11,9,"My wife, Bonnie.",a,THE WITNESS,start_question
+101,280,11,10,"Other than your wife, Bonnie, has anybody else lived at 1349 Autumn Way since you moved in there?",q,MS. ETTL,start_answer
+102,282,11,12,No.,a,THE WITNESS,start_question
+103,283,11,13,What kind of residence is Autumn Way?  Is it a house?  Is it a condo?  Is it a row home?,q,MS. ETTL,start_answer
+104,285,11,15,It's considered a carriage home.,a,THE WITNESS,start_question
+105,286,11,16,Are there more -- is there more than one floor?,q,MS. ETTL,start_answer
+106,287,11,17,Yes.,a,THE WITNESS,start_question
+107,288,11,18,What was your address before 1349 Autumn Way?,q,MS. ETTL,start_answer
+108,289,11,19,"190 Hughes Road, King of Prussia, Pennsylvania 19406.",a,THE WITNESS,start_question
+109,291,11,21,And how long did you live at the 190 Hughes Road address?,q,MS. ETTL,start_answer
+110,293,11,23,"Approximately, 12 years.",a,THE WITNESS,start_question
+111,294,11,24,Is that the address that you were residing at on the date of this accident?,q,MS. ETTL,start_answer
+112,297,12,1,Yes.,a,THE WITNESS,start_question
+113,298,12,2,"On the date of this accident, who was living with you at 190 Hughes Road?",q,MS. ETTL,start_answer
+114,300,12,4,"My wife, Bonnie.",a,THE WITNESS,start_question
+115,301,12,5,"In between the date of the accident and when you moved to 1349 Autumn Way, did anybody else live there with you other than your wife, Bonnie?",q,MS. ETTL,start_answer
+116,304,12,8,No.,a,THE WITNESS,start_question
+117,305,12,9,What kind of home is 190 Hughes Road?,q,MS. ETTL,start_answer
+118,306,12,10,It's a single home.,a,THE WITNESS,start_question
+119,307,12,11,More than one floor?,q,MS. ETTL,start_answer
+120,308,12,12,Split-level.,a,THE WITNESS,start_question
+121,309,12,13,How long have you been married to Bonnie?,q,MS. ETTL,start_answer
+122,310,12,14,1991.,a,THE WITNESS,start_question
+123,311,12,15,Have you been married to anybody else other than Bonnie?,q,MS. ETTL,start_answer
+124,313,12,17,No.,a,THE WITNESS,start_question
+125,314,12,18,Do you have any children?,q,MS. ETTL,start_answer
+126,315,12,19,No.,a,THE WITNESS,start_question
+127,316,12,20,What's your highest level of education?,q,MS. ETTL,start_answer
+128,317,12,21,I graduated Malvern Preparatory School.,a,THE WITNESS,start_question
+129,318,12,22,"Do you have any kind of informal education, vocational or technical training?",q,MS. ETTL,start_answer
+130,320,12,24,No.,a,THE WITNESS,start_question
+131,321,12,25,Did you ever play sports when you were in school?,q,MS. ETTL,start_answer
+132,323,13,1,No.,a,THE WITNESS,start_question
+133,324,13,2,Have you ever served in the military?,q,MS. ETTL,start_answer
+134,325,13,3,No.,a,THE WITNESS,start_question
+135,326,13,4,Are you currently employed?,q,MS. ETTL,start_chat
+136,327,13,5,Go off the record for one second.,side_chat,MS. ETTL,is brackets
+137,329,13,7,(Discussion was held off the record.),brackets,,is brackets
+138,330,13,8,(The court reporter read back the record as requested.),brackets,,start_question
+139,333,13,11,So are you currently employed?,q,MS. ETTL,start_answer
+140,334,13,12,I am subcontracted.,a,THE WITNESS,start_question
+141,335,13,13,Who are you a subcontractor for?,q,MS. ETTL,start_answer
+142,336,13,14,Samuels and Son Seafood Company.,a,THE WITNESS,start_question
+143,337,13,15,And what's your job title?,q,MS. ETTL,start_answer
+144,338,13,16,Driver.,a,THE WITNESS,start_question
+145,339,13,17,"As a driver for Samuels and Son Seafood Company, what is -- what are your job duties?  What do you do at work?",q,MS. ETTL,start_answer
+146,342,13,20,I deliver seafood.,a,THE WITNESS,start_question
+147,343,13,21,How far do you typically have to drive to do those deliveries?,q,MS. ETTL,start_answer
+148,345,13,23,It -- it varies.,a,THE WITNESS,start_question
+149,346,13,24,What's the longest distance that you have to drive?,q,MS. ETTL,start_answer
+150,347,13,25,A hundred and twenty miles.,a,THE WITNESS,start_question
+151,349,14,1,And what's the shortest distance?,q,MS. ETTL,start_answer
+152,350,14,2,Two miles.,a,THE WITNESS,start_question
+153,351,14,3,Where are they based out of?  Where do you have to report to to pick up the seafood?,q,MS. ETTL,start_answer
+154,353,14,5,"They're located at 3400 South Lawrence Street, Philadelphia.",a,THE WITNESS,start_question
+155,355,14,7,How long have you been a subcontractor for them?,q,MS. ETTL,start_answer
+156,356,14,8,"Approximately, one year.",a,THE WITNESS,start_question
+157,357,14,9,"When you arrive to the places where you're making your deliveries or when you're doing your job, are you responsible for moving any kind of boxes of seafood or any kind of the product around?",q,MS. ETTL,start_answer
+158,361,14,13,Yes.,a,THE WITNESS,start_question
+159,362,14,14,How heavy are the boxes or the product that you have to lift?,q,MS. ETTL,start_answer
+160,364,14,16,"Usually, 10 to 20 pounds.",a,THE WITNESS,start_question
+161,365,14,17,Do you use any kind of device to help you with lifting them?,q,MS. ETTL,start_answer
+162,367,14,19,Lifting or -- or moving?,a,THE WITNESS,start_question
+163,368,14,20,We'll start with lifting.,q,MS. ETTL,start_answer
+164,369,14,21,No device to help lift them.,a,THE WITNESS,start_question
+165,370,14,22,What do you use to help you move them?,q,MS. ETTL,start_answer
+166,371,14,23,A hand truck.,a,THE WITNESS,start_question
+167,372,14,24,Have you ever had any kind of job restrictions at Samuels and Son Seafood Company that are related to this accident?,q,MS. ETTL,start_answer
+168,376,15,2,No.,a,THE WITNESS,start_question
+169,377,15,3,"Prior to working at Samuel and Son Seafood Company, where were you working?",q,MS. ETTL,start_answer
+170,379,15,5,I worked for Avalon Limousine.,a,THE WITNESS,start_question
+171,380,15,6,And what was your job title for Avalon Limousine?,q,MS. ETTL,start_answer
+172,381,15,7,Driver.,a,THE WITNESS,start_question
+173,382,15,8,How long did you work there?,q,MS. ETTL,start_answer
+174,383,15,9,Less than one year.,a,THE WITNESS,start_question
+175,384,15,10,Tell me a little bit about what your job looked like when you worked for Avalon Limousine.,q,MS. ETTL,start_answer
+176,386,15,12,I would be given customers to pick up and -- and deliver to their destination.,a,THE WITNESS,start_question
+177,388,15,14,Was there any lifting -- excuse me -- involved with your job at Avalon Limousine?,q,MS. ETTL,start_answer
+178,390,15,16,Yes.,a,THE WITNESS,start_question
+179,391,15,17,What would you have to lift?,q,MS. ETTL,start_answer
+180,392,15,18,Luggage.,a,THE WITNESS,start_question
+181,393,15,19,How heavy was the luggage that you had to lift?,q,MS. ETTL,start_answer
+182,394,15,20,I would say 20 pounds.,a,THE WITNESS,start_question
+183,395,15,21,Did you ever require any -- any limitations or did you ever have any limitations when you were working for Avalon Limousine that were related to this accident?,q,MS. ETTL,start_answer
+184,398,15,24,By the employer or...,a,THE WITNESS,start_question
+185,399,15,25,"Yeah.  Did you ever have to tell your employer, ""Hey.  I can't do this part of my job, because I'm"" -- ""I have injuries"" or ""I have pain""?",q,MS. ETTL,start_answer
+186,403,16,3,I -- I would request short routes.,a,THE WITNESS,start_question
+187,404,16,4,What were your hours at Avalon Limousine?,q,MS. ETTL,start_answer
+188,405,16,5,No set hours.,a,THE WITNESS,start_question
+189,406,16,6,Would you work a certain number of days per week?,q,MS. ETTL,start_answer
+190,407,16,7,No.,a,THE WITNESS,start_question
+191,408,16,8,"On average, how many days per week would you work at Avalon Limousine?",q,MS. ETTL,start_answer
+192,410,16,10,Five.,a,THE WITNESS,start_question
+193,411,16,11,"And on average, how many hours per day would you end up working?",q,MS. ETTL,start_answer
+194,413,16,13,It was -- it would really -- it would vary.,a,THE WITNESS,start_question
+195,414,16,14,Can you tell me the range that it would vary in.,q,MS. ETTL,start_answer
+196,415,16,15,It -- it could be two hours.  It could be four hours.,a,THE WITNESS,start_question
+197,417,16,17,Did you ever work a shift longer than four hours at Avalon Limousine?,q,MS. ETTL,start_answer
+198,419,16,19,I don't remember.,a,THE WITNESS,start_question
+199,420,16,20,What were -- what are your hours working for Samuels and Son Seafood Company?,q,MS. ETTL,start_answer
+200,422,16,22,It's usually eight hours.,a,THE WITNESS,start_question
+201,423,16,23,And how many days per week is that?,q,MS. ETTL,start_answer
+202,424,16,24,Three days.,a,THE WITNESS,start_question
+203,425,16,25,"Are you seeking to work more hours, or are you working eight hours, three days per week 'cause that's your choice?",q,MS. ETTL,start_answer
+204,429,17,3,My choice.,a,THE WITNESS,start_question
+205,430,17,4,"Is that choice to work eight hours a day, three days per week related to this accident, or is it just 'cause you want to be part-time?",q,MS. ETTL,start_answer
+206,433,17,7,"Yes.  I was four, but I could not do four.",a,THE WITNESS,start_question
+207,434,17,8,How long did you do four days a week for?,q,MS. ETTL,start_answer
+208,435,17,9,Just a couple weeks.,a,THE WITNESS,start_chat
+209,436,17,10,Can we go off the record for a second.,side_chat,MS. ETTL,is brackets
+210,438,17,12,(Discussion was held off the record.),brackets,,start_question
+211,440,17,14,What is your pay -- rate of pay for Samuels and Son Seafood Company?,q,MS. ETTL,start_answer
+212,442,17,16,It is a gross $150 per day.,a,THE WITNESS,start_question
+213,443,17,17,And that's before taxes?,q,MS. ETTL,start_answer
+214,444,17,18,Yes.,a,THE WITNESS,start_question
+215,445,17,19,And what is -- what was your rate of pay when you worked at Avalon Limousine?,q,MS. ETTL,start_answer
+216,447,17,21,"That would be very varied.  It could be $18 for a trip, with a max of maybe $50 for a trip.",a,THE WITNESS,start_question
+217,449,17,23,Do you have any record of how much money you made while you were working at Avalon Limousine?  Do you have like a -- a W-2 or --,q,MS. ETTL,start_answer
+218,453,18,1,I believe they provided me a W-9.,a,THE WITNESS,start_question
+219,454,18,2,A 1099?,q,MS. ETTL,start_answer
+220,455,18,3,1099.,a,THE WITNESS,start_question
+221,456,18,4,Yeah.  Okay.  So you were a contractor for them as well?,q,MS. ETTL,start_answer
+222,458,18,6,"That is how they determined it, but the Internal Revenue Service reversed that and said that I was actually an employee.",a,THE WITNESS,start_question
+223,461,18,9,"When the IRS reversed that, did that in any way change the way that you were paid?",q,MS. ETTL,start_answer
+224,463,18,11,It -- it did not.,a,THE WITNESS,start_question
+225,464,18,12,What years do you have the 1099 for -- from for Avalon Limousine?,q,MS. ETTL,start_answer
+226,466,18,14,2017.,a,THE WITNESS,start_question
+227,467,18,15,Is that the only year?,q,MS. ETTL,start_answer
+228,468,18,16,Sorry?,a,THE WITNESS,start_question
+229,469,18,17,Is that the only year?,q,MS. ETTL,start_answer
+230,470,18,18,"I believe so, yes.",a,THE WITNESS,start_question
+231,471,18,19,"Prior to working at Avalon Limousine, where did you work?",q,MS. ETTL,start_answer
+232,473,18,21,Brinker International.,a,THE WITNESS,start_question
+233,474,18,22,"And just to go back to Avalon Limousine for a second, what made you leave Avalon Limousine?",q,MS. ETTL,start_answer
+234,476,18,24,I could not -- I could not do the work that was required.,a,THE WITNESS,start_question
+235,479,19,1,What couldn't you do?,q,MS. ETTL,start_answer
+236,480,19,2,Between the lifting of luggage and the -- and the travel.,a,THE WITNESS,start_question
+237,482,19,4,Did you quit?  Were you laid off?,q,MS. ETTL,start_answer
+238,483,19,5,It's -- it's both.,a,THE WITNESS,start_question
+239,484,19,6,Can you explain that.,q,MS. ETTL,start_answer
+240,485,19,7,We agreed to disagree.,a,THE WITNESS,start_question
+241,486,19,8,"Who is ""we""?",q,MS. ETTL,start_answer
+242,487,19,9,The owner of Avalon Limousine and myself.,a,THE WITNESS,start_question
+243,488,19,10,Who's the owner?,q,MS. ETTL,start_answer
+244,489,19,11,I do not recall her name.,a,THE WITNESS,start_question
+245,490,19,12,Did you have a supervisor at Avalon Limousine?,q,MS. ETTL,start_answer
+246,491,19,13,Just the owner.,a,THE WITNESS,start_question
+247,492,19,14,"All right.  So going back to Brinker International, how long did you work at Brinker International?",q,MS. ETTL,start_answer
+248,494,19,16,Sixteen years.,a,THE WITNESS,start_question
+249,495,19,17,And what was your job title there?,q,MS. ETTL,start_answer
+250,496,19,18,My ending job title?,a,THE WITNESS,start_question
+251,497,19,19,Did you have different job titles throughout working there?,q,MS. ETTL,start_answer
+252,499,19,21,"I was -- I started as a kitchen manager but then moved into the office as an accounting operations manager. And then, I was promoted to regional accounting operations manager.",a,THE WITNESS,start_question
+253,503,19,25,"So when you left Brinker International, you were a regional -- what was it?  What was the title?",q,MS. ETTL,start_answer
+254,506,20,2,Regional accounting operations manager.,a,THE WITNESS,start_question
+255,507,20,3,"The job of regional accounting operations manager, is that the position that you held on the date of this accident?",q,MS. ETTL,start_answer
+256,510,20,6,Yes.,a,THE WITNESS,start_question
+257,511,20,7,And when did you stop working at Brinker International?,q,MS. ETTL,start_answer
+258,513,20,9,January of 2017.,a,THE WITNESS,start_question
+259,514,20,10,What was your job duties at Brinker International as a regional accounting operations manager?,q,MS. ETTL,start_answer
+260,516,20,12,I'm sorry.  What were --,a,THE WITNESS,start_question
+261,517,20,13,What were your job duties at Brinker International as a regional accounting operations manager?,q,MS. ETTL,start_answer
+262,519,20,15,"To take care of all the office cash, personal files, office work.",a,THE WITNESS,start_question
+263,521,20,17,Did this accident in any way affect your ability to do your job duties at Brinker International?,q,MS. ETTL,start_answer
+264,523,20,19,"Post the accident, yes.",a,THE WITNESS,start_question
+265,524,20,20,How did it affect your ability to do your job?,q,MS. ETTL,start_answer
+266,525,20,21,"I struggled to go to work in the mornings, throughout the day.",a,THE WITNESS,start_question
+267,527,20,23,"Did you ever miss any time at work, as a result of the accident, at Brinker International?",q,MS. ETTL,start_answer
+268,529,20,25,No.,a,THE WITNESS,start_question
+269,531,21,1,How did your employment at Brinker International come to an end?,q,MS. ETTL,start_answer
+270,533,21,3,It was an at-will termination.,a,THE WITNESS,start_question
+271,534,21,4,And why did they terminate you?,q,MS. ETTL,start_answer
+272,535,21,5,No reason.,a,THE WITNESS,start_question
+273,536,21,6,"At Brinker International, did you have any kind of annual performance reviews or something like that?",q,MS. ETTL,start_answer
+274,538,21,8,Yes.,a,THE WITNESS,start_question
+275,539,21,9,How much were you making while you were at Brinker International?,q,MS. ETTL,start_answer
+276,541,21,11,Sixty-five thousand a year.,a,THE WITNESS,start_question
+277,542,21,12,"Aside from working at Brinker International, were you doing any other kind of work at the time of the accident?",q,MS. ETTL,start_answer
+278,545,21,15,No.,a,THE WITNESS,start_question
+279,546,21,16,"Have we covered all of the jobs that you've held in between the date of the accident and the current date with Brinker International, Avalon Limousine, and Samuels and Son Seafood Company, or have you worked anywhere else?",q,MS. ETTL,start_answer
+280,550,21,20,No.,a,THE WITNESS,start_question
+281,551,21,21,You haven't worked anywhere else since the date --,q,MS. ETTL,start_answer
+282,552,21,22,I have not worked anywhere else.,a,THE WITNESS,start_question
+283,553,21,23,Do you believe in any way that your termination from Brinker International was related to this accident?,q,MS. ETTL,start_answer
+284,555,21,25,I do not know.,a,THE WITNESS,start_question
+285,557,22,1,"I know that you don't know, 'cause they didn't give you a reason, but do you believe that in any way?  Is that your position, that that's --",q,MS. ETTL,start_answer
+286,560,22,4,I do not know.,a,THE WITNESS,start_question
+287,561,22,5,Okay.  Have you applied for any other jobs aside from the ones that you've held at Avalon and at Samuels and Son Seafood in between the date of the accident and the current date?,q,MS. ETTL,start_answer
+288,565,22,9,Not that I recall.,a,THE WITNESS,start_question
+289,566,22,10,Have you applied for any other --,q,MS. ETTL,start_answer
+290,567,22,11,Excuse me.  I --,a,THE WITNESS,start_question
+291,568,22,12,Sure.,q,MS. ETTL,start_answer
+292,569,22,13,I should -- I did apply at King Limousine but could not go through with that.  What their -- their requirements were more than I could give.,a,THE WITNESS,start_question
+293,572,22,16,What were their requirements that you couldn't do?,q,MS. ETTL,start_answer
+294,573,22,17,"It was another driving position.  And what they required, I could not fulfill.",a,THE WITNESS,start_question
+295,575,22,19,What did they require?,q,MS. ETTL,start_answer
+296,576,22,20,"More time, more driving, more...",a,THE WITNESS,start_question
+297,577,22,21,Have you lost any wages as a result of this accident?,q,MS. ETTL,start_answer
+298,579,22,23,I don't understand the question.,a,THE WITNESS,start_question
+299,580,22,24,Sure.  Have you lost any income or wages as a result of this accident?,q,MS. ETTL,start_answer
+300,583,23,1,I'm -- I'm -- I'm not sure how to answer that.,a,THE WITNESS,start_question
+301,584,23,2,Okay.  Is there -- have you made any attempt to calculate how much income you might have lost because of this accident?,q,MS. ETTL,start_answer
+302,587,23,5,"Well, from Brinker International, about $65,000 a year down to where I'm at now, yes.  It's a...",a,THE WITNESS,start_question
+303,589,23,7,"So going back to that, then, does that mean that you believe that your termination from Brinker International was related to this accident?",q,MS. ETTL,start_answer
+304,592,23,10,I do not know.,a,THE WITNESS,start_question
+305,593,23,11,"So how do you calculate that that's wages that you've lost from this accident, then?",q,MS. ETTL,start_answer
+306,595,23,13,"Well, I -- I don't -- I'm not sure how to answer that question.",a,THE WITNESS,start_question
+307,597,23,15,Sure.  I'm just trying to understand how it is that you believe that your job at Brinker International to where you are now is related to this accident.,q,MS. ETTL,start_answer
+308,600,23,18,I do not know.  I don't.,a,THE WITNESS,start_question
+309,601,23,19,You don't know if it's related to the accident?,q,MS. ETTL,start_answer
+310,602,23,20,I do not know.,a,THE WITNESS,start_question
+311,603,23,21,Have you -- have you applied at any other companies similar to Brinker International for positions that were similar to what you held?,q,MS. ETTL,start_answer
+312,606,23,24,"I did originally, yes.",a,THE WITNESS,start_question
+313,607,23,25,What -- where did you apply?,q,MS. ETTL,start_answer
+314,609,24,1,I had applied at the Yard House in King of Prussia.,a,THE WITNESS,start_question
+315,610,24,2,Is that another like accounting company?,q,MS. ETTL,start_answer
+316,611,24,3,It was another restaurant opening in the King of Prussia Mall.,a,THE WITNESS,start_question
+317,613,24,5,And what position did you apply for?,q,MS. ETTL,start_answer
+318,614,24,6,An office position.,a,THE WITNESS,start_question
+319,615,24,7,And did they explain to you why you didn't get that position?,q,MS. ETTL,start_answer
+320,617,24,9,They chose to hire someone younger.,a,THE WITNESS,start_question
+321,618,24,10,Was your position at Brinker International filled with somebody else after you left?,q,MS. ETTL,start_answer
+322,620,24,12,Yes.,a,THE WITNESS,start_question
+323,621,24,13,Who was it filled with?,q,MS. ETTL,start_answer
+324,622,24,14,I do not know.,a,THE WITNESS,start_question
+325,623,24,15,"In working at Brinker International, you had a flat 65,000-dollar-a-year salary, correct?",q,MS. ETTL,start_answer
+326,625,24,17,Yes.,a,THE WITNESS,start_question
+327,626,24,18,"Could you ever get any kind of bonuses, or was your salary ever affected by like volume or anything like that?",q,MS. ETTL,start_answer
+328,628,24,20,There was a bonus program.,a,THE WITNESS,start_question
+329,629,24,21,Explain the bonus program to me.,q,MS. ETTL,start_answer
+330,630,24,22,It was based on the restaurant's performance.,a,THE WITNESS,start_question
+331,631,24,23,And which restaurant was it?,q,MS. ETTL,start_answer
+332,632,24,24,"Originally, a bonus would be based on your home restaurant.  When you became a -- a regional, it was based on all of the restaurants in your region.",a,THE WITNESS,start_question
+333,636,25,2,And so what is -- what was your region at Brinker International?,q,MS. ETTL,start_answer
+334,638,25,4,"Pennsylvania, New Jersey, and Massachusetts.",a,THE WITNESS,start_question
+335,639,25,5,"What was the -- what was your typical bonus that you would receive?  Would it be quarterly, yearly?",q,MS. ETTL,start_answer
+336,641,25,7,They were paid quarterly.,a,THE WITNESS,start_question
+337,642,25,8,Did -- was there an average that you would receive in your bonus?,q,MS. ETTL,start_answer
+338,644,25,10,"It was maybe a thousand dollars a quarter, but I'm guessing.",a,THE WITNESS,start_question
+339,646,25,12,Do you file your own taxes?,q,MS. ETTL,start_answer
+340,647,25,13,"Do I file -- yes, I file taxes.",a,THE WITNESS,start_question
+341,648,25,14,"Do you do them yourself, or do you have an accountant do them?",q,MS. ETTL,start_answer
+342,650,25,16,I have an accountant do them.,a,THE WITNESS,start_question
+343,651,25,17,Who's your accountant?,q,MS. ETTL,start_answer
+344,652,25,18,"Jason Weisz, W-E-I-S-Z.",a,THE WITNESS,start_question
+345,653,25,19,And where is he located at?,q,MS. ETTL,start_answer
+346,654,25,20,In Philadelphia.,a,THE WITNESS,start_question
+347,655,25,21,Do you know what street?,q,MS. ETTL,start_answer
+348,656,25,22,I believe he's on 13th Street.,a,THE WITNESS,start_question
+349,657,25,23,And has he -- how long has he been doing your taxes for?,q,MS. ETTL,start_answer
+350,659,25,25,"Ten years.  Maybe less, but approximately.",a,THE WITNESS,start_question
+351,661,26,1,When was the last time that you had an annual review at Brinker International before the accident?,q,MS. ETTL,start_answer
+352,663,26,3,That would have been -- would have been in 2016.,a,THE WITNESS,start_question
+353,664,26,4,Do you remember about how many months before the accident that happened?,q,MS. ETTL,start_answer
+354,666,26,6,Maybe six months.,a,THE WITNESS,start_question
+355,667,26,7,"And would they just review you once a year, or would they do it more than once?",q,MS. ETTL,start_answer
+356,669,26,9,Just once.,a,THE WITNESS,start_question
+357,670,26,10,Have you ever had any medical conditions that have affected your employment prior to the date of this accident?,q,MS. ETTL,start_answer
+358,673,26,13,No.,a,THE WITNESS,start_question
+359,674,26,14,Let's talk about the deposition related to the Workers' Compensation claim at Brinker International. Tell me about what happened that caused the claim.,q,MS. ETTL,start_answer
+360,677,26,17,"It was brought to my attention that I should have a workman's comp claim, and I retained an attorney.",a,THE WITNESS,start_question
+361,679,26,19,Who was your attorney?,q,MS. ETTL,start_answer
+362,680,26,20,I do not remember his last name.  Bruce.  I do not remember his last name at this time.,a,THE WITNESS,start_question
+363,682,26,22,Do you remember where his office was located?,q,MS. ETTL,start_chat
+364,683,26,23,Do you want it?,side_chat,MR. DALY,start_chat
+365,684,26,24,Oh.,side_chat,MS. ETTL,start_chat
+366,685,26,25,Bruce -- Bruce McKnight from Sacchetta and Baldino.,side_chat,MR. DALY,start_chat
+367,688,27,2,"Oh, okay.",side_chat,MS. ETTL,start_question
+368,690,27,4,What happened that like preempted the Workers' Compensation claim?  Were you hurt at work?,q,MS. ETTL,start_answer
+369,692,27,6,It was because of the accident.,a,THE WITNESS,start_question
+370,693,27,7,This accident?  Okay.  So you were on the clock for work when this accident occurred?,q,MS. ETTL,start_answer
+371,695,27,9,Yes.,a,THE WITNESS,start_question
+372,696,27,10,What were you doing at the time?,q,MS. ETTL,start_answer
+373,697,27,11,"At that exact time, I was picking up sandwiches for the wait staff at the restaurant.",a,THE WITNESS,start_question
+374,699,27,13,Where'd you pick the sandwiches up from?,q,MS. ETTL,start_answer
+375,700,27,14,"Wegmans Market, King of Prussia.",a,THE WITNESS,start_question
+376,701,27,15,And were you -- and which restaurant was it?,q,MS. ETTL,start_answer
+377,702,27,16,"The King of Prussia -- Maggiano's, King of Prussia.",a,THE WITNESS,start_question
+378,703,27,17,Is that where you were normally working out of?,q,MS. ETTL,start_answer
+379,704,27,18,Yes.,a,THE WITNESS,start_question
+380,705,27,19,So your office was at the Maggiano's?,q,MS. ETTL,start_answer
+381,706,27,20,Yes.,a,THE WITNESS,start_question
+382,707,27,21,What year did you graduate from Malvern Preparatory School?,q,MS. ETTL,start_answer
+383,709,27,23,1970.,a,THE WITNESS,start_question
+384,710,27,24,Have you ever been arrested or charged with any crimes?,q,MS. ETTL,start_answer
+385,713,28,1,No.,a,THE WITNESS,start_question
+386,714,28,2,Have you ever been a party to a civil lawsuit before?,q,MS. ETTL,start_answer
+387,716,28,4,I'm -- I'm thinking.  I do not recall any.,a,THE WITNESS,start_question
+388,717,28,5,Is your Workers' Compensation claim resolved?,q,MS. ETTL,start_answer
+389,718,28,6,It was.,a,THE WITNESS,start_question
+390,719,28,7,Is there a lien from that?,q,MS. ETTL,start_answer
+391,720,28,8,I'm sorry?,a,THE WITNESS,start_chat
+392,721,28,9,No.,side_chat,MR. DALY,start_question
+393,723,28,11,Have you ever applied for any kind of Social Security or disability benefits?,q,MS. ETTL,start_answer
+394,725,28,13,I have applied for my Social Security benefits.,a,THE WITNESS,start_question
+395,726,28,14,And is the Social Security benefits that you applied for related to your age?,q,MS. ETTL,start_answer
+396,728,28,16,Yes.,a,THE WITNESS,start_question
+397,729,28,17,Any disability benefits that you've applied for?,q,MS. ETTL,start_answer
+398,730,28,18,No.,a,THE WITNESS,start_question
+399,731,28,19,Have you ever applied for insurance where you've been turned down for health reasons?,q,MS. ETTL,start_answer
+400,733,28,21,Not to my knowledge.,a,THE WITNESS,start_question
+401,734,28,22,Have you ever treated for drug or alcohol abuse?,q,MS. ETTL,start_answer
+402,735,28,23,No.,a,THE WITNESS,start_question
+403,736,28,24,Do you have a primary care doctor?,q,MS. ETTL,start_answer
+404,737,28,25,I do.,a,THE WITNESS,start_question
+405,739,29,1,Who is that?,q,MS. ETTL,start_answer
+406,740,29,2,"Ronald Weber, W-E-B-E-R.",a,THE WITNESS,start_question
+407,741,29,3,How long has Dr. Weber been your primary care doctor?,q,MS. ETTL,start_answer
+408,743,29,5,I don't know.,a,THE WITNESS,start_question
+409,744,29,6,Is it more than five years?,q,MS. ETTL,start_answer
+410,745,29,7,"I -- I -- I would guess, yes.",a,THE WITNESS,start_question
+411,746,29,8,Where's his office located?,q,MS. ETTL,start_answer
+412,747,29,9,"He's in Radnor, Pennsylvania.",a,THE WITNESS,start_question
+413,748,29,10,When's the last time that you've been to Dr. Weber's office?,q,MS. ETTL,start_answer
+414,750,29,12,"Approximately, one year.",a,THE WITNESS,start_question
+415,751,29,13,And what did you go for the last time you were there?,q,MS. ETTL,start_answer
+416,753,29,15,That was the annual physical.,a,THE WITNESS,start_question
+417,754,29,16,Do you typically go every year for an annual physical?,q,MS. ETTL,start_answer
+418,756,29,18,Yes.,a,THE WITNESS,start_question
+419,757,29,19,"Around the time of the accident, were you taking any prescription medications before the accident happened?",q,MS. ETTL,start_answer
+420,759,29,21,Prescription medications?,a,THE WITNESS,start_question
+421,760,29,22,Yes.,q,MS. ETTL,start_answer
+422,761,29,23,"For high blood pressure, yes.",a,THE WITNESS,start_question
+423,762,29,24,Anything other than high blood pressure?,q,MS. ETTL,start_answer
+424,763,29,25,No.,a,THE WITNESS,start_question
+425,765,30,1,"As a result of the accident, did anybody prescribe you medications?",q,MS. ETTL,start_answer
+426,767,30,3,Yes.,a,THE WITNESS,start_question
+427,768,30,4,What did they prescribe you?,q,MS. ETTL,start_answer
+428,769,30,5,Ibuprofen.,a,THE WITNESS,start_question
+429,770,30,6,Anything else?,q,MS. ETTL,start_answer
+430,771,30,7,"I believe the doctor prescribed Flexeril, but I did not take it.",a,THE WITNESS,start_question
+431,773,30,9,"After the accident, did you take any over-the-counter medications?",q,MS. ETTL,start_answer
+432,775,30,11,No.,a,THE WITNESS,start_question
+433,776,30,12,How long did you take the ibuprofen for?,q,MS. ETTL,start_answer
+434,777,30,13,I continued.,a,THE WITNESS,start_question
+435,778,30,14,You continue to take it today?,q,MS. ETTL,start_answer
+436,779,30,15,Yes.,a,THE WITNESS,start_question
+437,780,30,16,How frequently do you take the ibuprofen?,q,MS. ETTL,start_answer
+438,781,30,17,It's based on pain.,a,THE WITNESS,start_question
+439,782,30,18,"Can you tell me on average.  Do you take it on a daily basis, on a weekly basis?",q,MS. ETTL,start_answer
+440,784,30,20,I would say it's an average of maybe four times a week up to every day.,a,THE WITNESS,start_chat
+441,786,30,22,Can -- can we take one moment off the record?,side_chat,MR. DALY,start_chat
+442,788,30,24,Yeah.,side_chat,MS. ETTL,is brackets
+443,789,30,25,(Discussion was held off the record.),brackets,,start_question
+444,792,31,2,"Prior to the date of the accident, were you taking any over-the-counter medication on a regular basis?",q,MS. ETTL,start_answer
+445,794,31,4,Nothing serious.,a,THE WITNESS,start_question
+446,795,31,5,"Well, the question isn't whether or not it was serious.  It's whether or not you were taking anything --",q,MS. ETTL,start_answer
+447,797,31,7,I believe the doctor had me taking vitamin D over the counter.,a,THE WITNESS,start_question
+448,799,31,9,Do you currently have health insurance?,q,MS. ETTL,start_answer
+449,800,31,10,I'm sorry?,a,THE WITNESS,start_question
+450,801,31,11,Do you currently have health insurance?,q,MS. ETTL,start_answer
+451,802,31,12,Do I?,a,THE WITNESS,start_question
+452,803,31,13,Yeah.,q,MS. ETTL,start_answer
+453,804,31,14,Yes.,a,THE WITNESS,start_question
+454,805,31,15,Who do you have your health insurance through?,q,MS. ETTL,start_answer
+455,806,31,16,Independence Blue Cross.,a,THE WITNESS,start_question
+456,807,31,17,How long has that been your health insurance provider?,q,MS. ETTL,start_answer
+457,809,31,19,I think I signed up with them in 2017.,a,THE WITNESS,start_question
+458,810,31,20,Have you ever used Independence Blue Cross and like given it to doctors that you've seen for your treatment related to this accident?,q,MS. ETTL,start_answer
+459,813,31,23,No.,a,THE WITNESS,start_question
+460,814,31,24,I know you said that you take medication for high blood pressure.  Do you still take that medication?,q,MS. ETTL,start_answer
+461,817,32,1,Yes.,a,THE WITNESS,start_question
+462,818,32,2,"Aside from the high blood pressure, do you have anything else in your medical history like cholesterol, diabetes, cancer, any other kind of health history?",q,MS. ETTL,start_answer
+463,821,32,5,No.,a,THE WITNESS,start_question
+464,822,32,6,Can you tell me all the doctors that you've seen in the last five years for any reason.,q,MS. ETTL,start_answer
+465,824,32,8,"Dr. Weber is my primary care, Dr. Dua.  I believe they're the only two.",a,THE WITNESS,start_question
+466,826,32,10,"Have you ever consulted with a psychiatrist, a psychologist, social worker, therapist, anything along that line?",q,MS. ETTL,start_answer
+467,829,32,13,Since the accident?,a,THE WITNESS,start_question
+468,830,32,14,At any point in time.,q,MS. ETTL,start_answer
+469,831,32,15,My wife and I would meet with -- I cannot remember the doctor's name.,a,THE WITNESS,start_question
+470,833,32,17,That's okay.  You would meet with --,q,MS. ETTL,start_answer
+471,834,32,18,Concerning her children.,a,THE WITNESS,start_question
+472,835,32,19,Concerning your wife's children?,q,MS. ETTL,start_answer
+473,836,32,20,Yes.,a,THE WITNESS,start_question
+474,837,32,21,"Okay.  Have you ever been to any kind of marital counseling, or was it just strictly concerning her children?",q,MS. ETTL,start_answer
+475,840,32,24,Concerning her children.,a,THE WITNESS,start_question
+476,841,32,25,"As a result of this accident, have you experienced any kind of anxiety or depression?",q,MS. ETTL,start_answer
+477,844,33,2,Yes.,a,THE WITNESS,start_question
+478,845,33,3,Which one?,q,MS. ETTL,start_answer
+479,846,33,4,I'm depressed that I can't do what I could do before.,a,THE WITNESS,start_question
+480,848,33,6,Have you sought any treatment for your depression?,q,MS. ETTL,start_answer
+481,849,33,7,No.,a,THE WITNESS,start_question
+482,850,33,8,Have you taken any medication for your depression?,q,MS. ETTL,start_answer
+483,851,33,9,No.,a,THE WITNESS,start_question
+484,852,33,10,Can you tell me all motor vehicle accidents that you've been in before the date of this accident.,q,MS. ETTL,start_answer
+485,854,33,12,I believe I was involved in an accident.  I think it might have been 1984.,a,THE WITNESS,start_question
+486,856,33,14,Any others?,q,MS. ETTL,start_answer
+487,857,33,15,"I'm trying to remember.  Anything prior to that would have been maybe in my youth, prior to my turning 20.",a,THE WITNESS,start_question
+488,859,33,17,Were you injured at all in the 1984 accident?,q,MS. ETTL,start_answer
+489,860,33,18,No.,a,THE WITNESS,start_question
+490,861,33,19,"Before the date of this accident, have you had any kind of Workers' Compensation claims?",q,MS. ETTL,start_answer
+491,863,33,21,No.,a,THE WITNESS,start_question
+492,864,33,22,Have you had any kinds of slips or falls prior to the date of this accident?,q,MS. ETTL,start_answer
+493,866,33,24,No.,a,THE WITNESS,start_question
+494,867,33,25,"After the date of this accident, so after December -- December 12th, 2016, have you been involved in any other motor vehicle accidents?",q,MS. ETTL,start_answer
+495,871,34,3,I was riding in a -- the vehicle was actually hit by a deer.,a,THE WITNESS,start_question
+496,873,34,5,When did that happen?,q,MS. ETTL,start_answer
+497,874,34,6,I don't remember the exact date.,a,THE WITNESS,start_question
+498,875,34,7,"Was it over this past year, or was it longer ago? Can you give me an approximation?",q,MS. ETTL,start_answer
+499,877,34,9,I don't remember.,a,THE WITNESS,start_question
+500,878,34,10,Do you remember where you were working when that happened?,q,MS. ETTL,start_answer
+501,880,34,12,I'm sorry?,a,THE WITNESS,start_question
+502,881,34,13,Do you remember where you were working at the time that happened?,q,MS. ETTL,start_answer
+503,883,34,15,I do not.,a,THE WITNESS,start_question
+504,884,34,16,Were you injured at all in that accident?,q,MS. ETTL,start_answer
+505,885,34,17,No.,a,THE WITNESS,start_question
+506,886,34,18,After the date of this accident -- and I'm not talking about the Workers' Compensation claim related to this accident -- have you had any other Workers' Compensation claims?,q,MS. ETTL,start_answer
+507,890,34,22,No.,a,THE WITNESS,start_question
+508,891,34,23,Have you been involved in any kind of slips or falls after the date of this accident?,q,MS. ETTL,start_answer
+509,893,34,25,No.,a,THE WITNESS,start_question
+510,895,35,1,"Do you participate in any kind of social media like Facebook, Instagram?",q,MS. ETTL,start_answer
+511,897,35,3,No.,a,THE WITNESS,start_question
+512,898,35,4,I just want to go back to your employment for a second.  Do you run your own business now?,q,MS. ETTL,start_answer
+513,900,35,6,Do I own my own business?,a,THE WITNESS,start_question
+514,901,35,7,Yes.,q,MS. ETTL,start_answer
+515,902,35,8,"Briefly, I was doing some driving, but I could not do that.",a,THE WITNESS,start_question
+516,904,35,10,When was that?,q,MS. ETTL,start_answer
+517,905,35,11,It was after I -- I left Avalon Limousine.,a,THE WITNESS,start_question
+518,906,35,12,How long did that last for?,q,MS. ETTL,start_answer
+519,907,35,13,Very brief.,a,THE WITNESS,start_chat
+520,908,35,14,We can go off a second -- the record for a second.,side_chat,MS. ETTL,is brackets
+521,910,35,16,(Discussion was held off the record.),brackets,,start_question
+522,912,35,18,So the accident -- or no.  We were talking about your -- your driving business.  Do you know about how long you did that driving for?,q,MS. ETTL,start_answer
+523,915,35,21,"It was very brief.  It was -- it was six months, I tried.",a,THE WITNESS,start_question
+524,917,35,23,"And did you -- was it like through Uber, or was it just your own business?",q,MS. ETTL,start_answer
+525,919,35,25,It was just I tried to help some people with -- with transportation.,a,THE WITNESS,start_question
+526,922,36,2,And the other question that I want to just talk to you about really quick is:  Your interrogatory responses indicated that you were terminated from Maggiano's in January of 2018.  You had told me before it was 2017?,q,MS. ETTL,start_answer
+527,926,36,6,'17.,a,THE WITNESS,start_question
+528,927,36,7,So '17 is the correct year?,q,MS. ETTL,start_answer
+529,928,36,8,'17.,a,THE WITNESS,start_question
+530,929,36,9,So you were terminated about a month after this accident?,q,MS. ETTL,start_answer
+531,931,36,11,Correct.,a,THE WITNESS,start_question
+532,932,36,12,"All right.  Talking about the date of the accident that we're actually here for today, about what time did the accident occur?",q,MS. ETTL,start_answer
+533,935,36,15,Between 10:00 and 11:00.,a,THE WITNESS,start_question
+534,936,36,16,A.m. or p.m.?,q,MS. ETTL,start_answer
+535,937,36,17,A.m.,a,THE WITNESS,start_question
+536,938,36,18,And where were you coming from?,q,MS. ETTL,start_answer
+537,939,36,19,From the Wegmans Market.,a,THE WITNESS,start_question
+538,940,36,20,"Had you consumed any alcohol, medication, or drugs within the 24 hours before the accident?",q,MS. ETTL,start_answer
+539,942,36,22,No.,a,THE WITNESS,start_question
+540,943,36,23,What was the weather like on the date of the accident?,q,MS. ETTL,start_answer
+541,945,36,25,Drizzling.,a,THE WITNESS,start_question
+542,947,37,1,Did the weather play any role in how the accident occurred?,q,MS. ETTL,start_answer
+543,949,37,3,I do not know.,a,THE WITNESS,start_question
+544,950,37,4,"Tell me a little bit, just in your own words, how the accident happened.",q,MS. ETTL,start_answer
+545,952,37,6,"I had parked in front of the Maggiano's restaurant, parallel to the building, and this other driver backed up into the front of my car.",a,THE WITNESS,start_question
+546,955,37,9,Were you in the vehicle when the accident occurred?,q,MS. ETTL,start_answer
+547,956,37,10,I was.,a,THE WITNESS,start_question
+548,957,37,11,"Were you completely seated in the vehicle, or were you partway in, partway out?",q,MS. ETTL,start_answer
+549,959,37,13,I believe still seated in the vehicle.,a,THE WITNESS,start_question
+550,960,37,14,How long had you been parked in front of Maggiano's for before the accident occurred?,q,MS. ETTL,start_answer
+551,962,37,16,"I -- to my recollection, I had just arrived.",a,THE WITNESS,start_question
+552,963,37,17,So were you parked there for minutes or seconds or --,q,MS. ETTL,start_answer
+553,965,37,19,Seconds.,a,THE WITNESS,start_question
+554,966,37,20,Were you wearing your seat belt when the accident occurred?,q,MS. ETTL,start_answer
+555,968,37,22,I have gone over this in my head.  I cannot recall.,a,THE WITNESS,start_question
+556,969,37,23,"All right.  So I'm gonna -- we're gonna look at some pictures.  And I'll tell you that these are just pictures that I have printed off of Google, okay?  So take a look at those and tell me if any of these show where the accident occurred.",q,MS. ETTL,start_answer
+557,975,38,3,Yes.  The accident would have occurred -- would have occurred at the front of the Maggiano's Little Italy restaurant.,a,THE WITNESS,start_question
+558,978,38,6,"So this first one that we're looking at here, this is an overhead view of Maggiano's, right?",q,MS. ETTL,start_answer
+559,980,38,8,Yes.,a,THE WITNESS,start_question
+560,981,38,9,And do you recognize this as being the Maggiano's Little Italy that was in King of Prussia?,q,MS. ETTL,start_answer
+561,983,38,11,Yes.,a,THE WITNESS,start_question
+562,984,38,12,So we'll start with this one.,q,MS. ETTL,start_chat
+563,985,38,13,And we'll mark this one as Switken-1.,side_chat,MS. ETTL,is brackets
+564,987,38,15,(Exhibit Switken-1 marked for identification.),brackets,,start_question
+565,990,38,18,"Now, I've got three other photographs here.  And do these three photographs show the front of Maggiano's where the accident occurred?",q,MS. ETTL,start_answer
+566,993,38,21,Yes.,a,THE WITNESS,start_question
+567,994,38,22,Is there any photograph that better shows where the accident occurred than others?  I tried to take some different angles here.,q,MS. ETTL,start_answer
+568,997,38,25,No.  You've captured the front of the restaurant.,a,THE WITNESS,start_question
+569,999,39,1,"So we'll work off of -- does this one work, then, to show where the accident occurred?  Is that a ""yes""?",q,MS. ETTL,start_answer
+570,1001,39,3,Yes.,a,THE WITNESS,start_chat
+571,1002,39,4,"We'll mark this one, then, as Switken-2.",side_chat,MS. ETTL,start_question
+572,1005,39,7,"And then we'll start drawing on these, okay?",q,MS. ETTL,start_answer
+573,1006,39,8,"Before you ask a question, would it be okay if we could take a break?",a,THE WITNESS,start_chat
+574,1008,39,10,Yeah.  If you want to use the bathroom or --,side_chat,MR. DALY,start_chat
+575,1010,39,12,"Do you want to take a break now? It's 9:58, so --",side_chat,MS. ETTL,start_chat
+576,1012,39,14,It's up to you.,side_chat,THE WITNESS,start_chat
+577,1013,39,15,Yeah.,side_chat,MS. ETTL,is brackets
+578,1014,39,16,(Exhibit Switken-2 marked for identification.),brackets,,is brackets
+579,1016,39,18,(Recess was taken from 9:58 a.m. to 10:05 a.m.),brackets,,start_question
+580,1019,39,21,"So talking about how the accident happened, I'm gonna give you the marker, and we'll start with the Switken-1 first.  Can you draw for me a rectangle where your car was parked.  Like if it was parked along the sidewalk in front of Maggiano's, just draw a rectangle about where your car was parked, okay? Okay.  And I didn't say this before, but if you have to draw over any of the other things pictured in here, just feel free to do it.  Now, can you draw another rectangle representing where the -- my client's car was at before the accident occurred.",q,MS. ETTL,start_answer
+581,1031,40,7,Before the accident?,a,THE WITNESS,start_question
+582,1032,40,8,Yes.,q,MS. ETTL,start_answer
+583,1033,40,9,"Well, it was backing into a space in -- in front of me.",a,THE WITNESS,start_question
+584,1035,40,11,So let me ask you this:  Did you see his car before the accident occurred?,q,MS. ETTL,start_answer
+585,1037,40,13,I don't recall that.,a,THE WITNESS,start_question
+586,1038,40,14,Why don't you put the cap on the marker for a second.,q,MS. ETTL,start_answer
+587,1040,40,16,Okay.,a,THE WITNESS,start_question
+588,1041,40,17,We'll go through a couple more questions.,q,MS. ETTL,start_answer
+589,1042,40,18,Okay.,a,THE WITNESS,start_question
+590,1043,40,19,"I always tell people to cap the marker, 'cause some people get a little dangerous with starting to draw all over the exhibit.  It gets hard.  All right. So you can't recall if you saw my client's vehicle before the accident?",q,MS. ETTL,start_answer
+591,1048,40,24,"There was another van parked perpendicular to the sidewalk.  I came up and parked.  I don't know where your client came from, but he started to back up into the space.",a,THE WITNESS,start_question
+592,1053,41,3,"When you say ""he started to back up into the space,"" do you mean next to the van that was parked perpendicular?",q,MS. ETTL,start_answer
+593,1056,41,6,Yes.,a,THE WITNESS,start_question
+594,1057,41,7,Was my client also trying to park perpendicular to the sidewalk?,q,MS. ETTL,start_answer
+595,1059,41,9,Yes.,a,THE WITNESS,start_question
+596,1060,41,10,"Can you draw another rectangle where the van was parked perpendicular.  And just to differentiate these, put an X over the -- or inside of the rectangle that represents your car.  Okay. What part of my client's vehicle impacted what part of your vehicle?",q,MS. ETTL,start_answer
+597,1066,41,16,His left rear.,a,THE WITNESS,start_question
+598,1067,41,17,What kind of vehicle was my client driving at the time of the accident?,q,MS. ETTL,start_answer
+599,1069,41,19,I don't recall.,a,THE WITNESS,start_question
+600,1070,41,20,And you can cap the marker.,q,MS. ETTL,start_answer
+601,1071,41,21,I'm sorry.,a,THE WITNESS,start_chat
+602,1072,41,22,Off the record.,side_chat,MS. ETTL,is brackets
+603,1073,41,23,(Discussion was held off the record.),brackets,,start_question
+604,1075,41,25,What kind of vehicle were you driving at the time of the accident?,q,MS. ETTL,start_answer
+605,1078,42,2,It was a Volkswagen Touareg.,a,THE WITNESS,start_question
+606,1079,42,3,What made you park in front of Maggiano's in the way that you did before the accident occurred?,q,MS. ETTL,start_answer
+607,1081,42,5,I had the sandwiches that I'd picked up at Wegmans in the back of my vehicle.  I was to take them into the restaurant before I -- I pulled up into a regular space. But we load and unload in front of the restaurant.,a,THE WITNESS,start_question
+608,1085,42,9,And is loading and unloading in front of the restaurant a common occurrence?,q,MS. ETTL,start_answer
+609,1087,42,11,Yes.,a,THE WITNESS,start_question
+610,1088,42,12,Was my client driving a vehicle that was the same as the van that was already parked here?,q,MS. ETTL,start_answer
+611,1090,42,14,No.,a,THE WITNESS,start_question
+612,1091,42,15,Was it like a regular car or a truck or SUV?,q,MS. ETTL,start_answer
+613,1092,42,16,"It was a little, regular car.",a,THE WITNESS,start_question
+614,1093,42,17,"Can you draw an arrow representing where my client was backing up to park. And prior to the accident at all, did you see him -- see his vehicle at all before the accident?",q,MS. ETTL,start_answer
+615,1097,42,21,I'm not -- I can't remember.,a,THE WITNESS,start_question
+616,1098,42,22,Can you describe the impact for me.  What did it feel like?,q,MS. ETTL,start_answer
+617,1100,42,24,It was a jarring jolt.,a,THE WITNESS,start_question
+618,1101,42,25,When the -- and which part of your vehicle did you say was impacted?,q,MS. ETTL,start_answer
+619,1104,43,2,The front.,a,THE WITNESS,start_question
+620,1105,43,3,Across the whole front or the front on a particular side of the vehicle?,q,MS. ETTL,start_answer
+621,1107,43,5,"I would say front left, from halfway to...",a,THE WITNESS,start_question
+622,1108,43,6,All right.  I'm gonna give you two more pictures.,q,MS. ETTL,start_chat
+623,1109,43,7,"And we'll mark these as Switken-3 and -4, not in any particular order.",side_chat,MS. ETTL,is brackets
+624,1111,43,9,(Exhibits Switken-3 and Switken-4 marked for identification.),brackets,,start_question
+625,1114,43,12,Do these photographs show the area of your vehicle that was damaged as a result of this accident?,q,MS. ETTL,start_answer
+626,1116,43,14,"The front of the vehicle, yes.",a,THE WITNESS,start_question
+627,1117,43,15,Do they show the damage from this accident?,q,MS. ETTL,start_answer
+628,1118,43,16,Not very well.,a,THE WITNESS,start_question
+629,1119,43,17,"We're gonna try and get some color photographs so we can all look at them better, but can you take this marker and circle where on these photographs the damage was actually located.",q,MS. ETTL,start_answer
+630,1123,43,21,It's -- it's very hard on these -- on these pictures.,a,THE WITNESS,start_question
+631,1125,43,23,Do you know where the damage was located?,q,MS. ETTL,start_answer
+632,1126,43,24,It was across the front of the vehicle.,a,THE WITNESS,start_question
+633,1127,43,25,What did the damage look like?,q,MS. ETTL,start_answer
+634,1129,44,1,Can I review a picture?  I -- I mean this is hard to --,a,THE WITNESS,start_question
+635,1131,44,3,Do you have photographs of the damage on your phone?,q,MS. ETTL,start_answer
+636,1133,44,5,I think I did.,a,THE WITNESS,start_question
+637,1134,44,6,All right.  We'll take a minute off the record and let you see if you can find some of the photographs.,q,MS. ETTL,is brackets
+638,1136,44,8,(Discussion was held off the record.),brackets,,is brackets
+639,1137,44,9,(Recess was taken from 10:15 a.m. to 11:05 a.m.),brackets,,is brackets
+640,1139,44,11,(The court reporter read back the record as requested.),brackets,,start_question
+641,1142,44,14,"Mr. Switken, just to kind of clear up the record for us in the future when we're looking at this, you had the opportunity during our break here to take a look at some of the photographs on your phone that showed some damage to the car, right?",q,MS. ETTL,start_answer
+642,1147,44,19,"I had the one photograph, yes.",a,THE WITNESS,start_question
+643,1148,44,20,"And you were able to show that to me, and I appreciate that.  And can you provide that to your attorney, then, as well, if you haven't already.",q,MS. ETTL,start_chat
+644,1151,44,23,I'll have you send it to me.,side_chat,MR. DALY,start_question
+645,1153,44,25,"Just -- you don't have to do it right now, just in the future.  Just after the deposition --",q,MS. ETTL,start_chat
+646,1156,45,2,I believe I emailed the --,side_chat,THE WITNESS,start_chat
+647,1157,45,3,We'll do it again to make sure.,side_chat,MR. DALY,start_chat
+648,1158,45,4,Okay.,side_chat,THE WITNESS,start_chat
+649,1159,45,5,Yeah.,side_chat,MS. ETTL,start_question
+650,1161,45,7,"Just after the deposition, just send that to him, and then he can send that to me, okay?",q,MS. ETTL,start_answer
+651,1163,45,9,Okay.,a,THE WITNESS,start_question
+652,1164,45,10,"All right.  So did you, before the accident, happen -- have the opportunity to beep your horn, yell, say or do anything to alert my client, who was backing up, that you were behind him?",q,MS. ETTL,start_answer
+653,1168,45,14,"It was drizzling, so I had my windows closed.  I might have yelled, but I don't --",a,THE WITNESS,start_question
+654,1170,45,16,Did you beep your horn at all?,q,MS. ETTL,start_answer
+655,1171,45,17,I don't recall.,a,THE WITNESS,start_question
+656,1172,45,18,"After the accident happens, talk me through what happens next.  What were your next steps?",q,MS. ETTL,start_answer
+657,1174,45,20,"The person who hit me pulled forward and then backed up into the space, as there was enough room between my vehicle and the van for someone to park.",a,THE WITNESS,start_question
+658,1177,45,23,"You said, ""There was enough room there""?",q,MS. ETTL,start_answer
+659,1178,45,24,There was enough room.,a,THE WITNESS,start_question
+660,1179,45,25,"Did you intentionally leave space in between your vehicle and the van so somebody else could park there, or is that just kind of how it happened?",q,MS. ETTL,start_answer
+661,1183,46,3,"I don't know that I intentionally left it, but there was enough space for him to back up into that space next to the van without hitting me.",a,THE WITNESS,start_question
+662,1186,46,6,"So he backs forward and then backs up into the space, and then what happens next?",q,MS. ETTL,start_answer
+663,1188,46,8,"We both exited our vehicles.  He said, ""I didn't see you.""  I probably asked for some identification.  He seemed to be having difficulty locating insurance information.  So at that point, I requested someone in the restaurant call for police to come to make a police report on the accident.",a,THE WITNESS,start_question
+664,1194,46,14,"Did you, yourself call for the police, or did somebody else call them?",q,MS. ETTL,start_answer
+665,1196,46,16,I believe I asked someone else to call.,a,THE WITNESS,start_question
+666,1197,46,17,"Aside from the -- my client saying that he didn't see you, did you have any other conversations with him after the accident?",q,MS. ETTL,start_answer
+667,1200,46,20,Not that I recall.,a,THE WITNESS,start_question
+668,1201,46,21,How long did it take the police to get there?,q,MS. ETTL,start_answer
+669,1202,46,22,"Approximately, 30 minutes.",a,THE WITNESS,start_question
+670,1203,46,23,"When the police got there, did you have a conversation with the police?",q,MS. ETTL,start_answer
+671,1205,46,25,"I believe I was -- probably explained what had happened, that I had parked and the gentleman had hit my vehicle.",a,THE WITNESS,start_question
+672,1209,47,3,Did the police ask you if you were injured as a result of the accident?,q,MS. ETTL,start_answer
+673,1211,47,5,I don't recall.,a,THE WITNESS,start_question
+674,1212,47,6,Did you tell the police that you were injured?,q,MS. ETTL,start_answer
+675,1213,47,7,I don't recall.,a,THE WITNESS,start_question
+676,1214,47,8,How long had you been stopped or parked before the impact occurred?,q,MS. ETTL,start_answer
+677,1216,47,10,I'd say less than a minute.,a,THE WITNESS,start_question
+678,1217,47,11,"And I believe I might have asked you this already, but would -- would you say it's like in terms of minutes or in terms of seconds that you were stopped?",q,MS. ETTL,start_answer
+679,1220,47,14,"I would -- I would say less than a minute, but I don't recall exactly how long.",a,THE WITNESS,start_question
+680,1222,47,16,"When you came to a stop, you said that you were gonna take the sandwiches inside, right?",q,MS. ETTL,start_answer
+681,1224,47,18,Correct.,a,THE WITNESS,start_question
+682,1225,47,19,Was there anything that was making you wait inside the vehicle to get out before you took the sandwiches in?,q,MS. ETTL,start_answer
+683,1227,47,21,I could have looked at my -- my phone.  I don't recall the actual...,a,THE WITNESS,start_question
+684,1229,47,23,"Okay.  Yeah.  I'm just trying to figure out, you know, if you were a man on a mission, trying to get those sandwiches inside or if you parked your car and waited there for a period of time, and then what you were doing in your car while you were waiting.",q,MS. ETTL,start_answer
+685,1235,48,3,"That, I don't recall.",a,THE WITNESS,start_question
+686,1236,48,4,Did you talk to anybody other than the police at the scene of the accident?,q,MS. ETTL,start_answer
+687,1238,48,6,"I believe it's -- the gentleman who hit me, I believe it was his employer who came out and said to me, ""What did he do now?""",a,THE WITNESS,start_question
+688,1241,48,9,And he came out of Maggiano's?,q,MS. ETTL,start_answer
+689,1242,48,10,Yes.,a,THE WITNESS,start_question
+690,1243,48,11,And what did you tell him?,q,MS. ETTL,start_answer
+691,1244,48,12,"I said, ""He hit my"" -- ""the front of my vehicle.""",a,THE WITNESS,start_question
+692,1245,48,13,Did he say anything in response to that?,q,MS. ETTL,start_answer
+693,1246,48,14,I don't recall.,a,THE WITNESS,start_question
+694,1247,48,15,Was there any debris at the scene of the accident from either of the vehicles?,q,MS. ETTL,start_answer
+695,1249,48,17,I don't recall.,a,THE WITNESS,start_question
+696,1250,48,18,Did you go and look and see if there was any damage on my client's vehicle?,q,MS. ETTL,start_answer
+697,1252,48,20,The only thing I remember about your client's vehicle was his right rear lens was red duct tape.,a,THE WITNESS,start_question
+698,1254,48,22,"His rear, I guess, brake light?",q,MS. ETTL,start_answer
+699,1255,48,23,His right rear brake light was red duct tape.,a,THE WITNESS,start_question
+700,1256,48,24,"After the accident, did you take the sandwiches into the Maggiano's?",q,MS. ETTL,start_answer
+701,1259,49,1,No.  I believe someone else came out and took the sandwiches in.,a,THE WITNESS,start_question
+702,1261,49,3,"When you were waiting for the police to arrive, were you waiting inside or outside?",q,MS. ETTL,start_answer
+703,1263,49,5,Both.,a,THE WITNESS,start_question
+704,1264,49,6,Did you move your car before the police arrived?,q,MS. ETTL,start_answer
+705,1265,49,7,No.,a,THE WITNESS,start_question
+706,1266,49,8,"And aside from talking to the police and that other gentleman, did you tell any of the other people at Maggiano's what happened?",q,MS. ETTL,start_answer
+707,1269,49,11,"You don't want me to guess, but I'll say I probably did tell people inside at the host stand that my car had been hit.  ""Please call the police.""",a,THE WITNESS,start_question
+708,1272,49,14,Did you have any coworkers that you were friendly with that you might have told them about how the accident happened?,q,MS. ETTL,start_answer
+709,1275,49,17,"I -- I -- as I said, it's -- at that point, I probably said my car had been hit outside.  ""I'll be dealing with that for a while.""",a,THE WITNESS,start_question
+710,1278,49,20,Were there any tickets issued as a result of the accident?,q,MS. ETTL,start_answer
+711,1280,49,22,I do not know.,a,THE WITNESS,start_question
+712,1281,49,23,Did the police speak to my client at all?,q,MS. ETTL,start_answer
+713,1282,49,24,Yes.,a,THE WITNESS,start_question
+714,1283,49,25,Did you overhear their conversation?,q,MS. ETTL,start_answer
+715,1285,50,1,Only that he was having difficulty locating his insurance information.,a,THE WITNESS,start_question
+716,1287,50,3,Did anybody call an ambulance to the scene?,q,MS. ETTL,start_answer
+717,1288,50,4,No.,a,THE WITNESS,start_question
+718,1289,50,5,Did you request that an ambulance be called?,q,MS. ETTL,start_answer
+719,1290,50,6,No.,a,THE WITNESS,start_question
+720,1291,50,7,"Was there any part of your body, when the impact happened, that made contact with something inside the vehicle?  Did you hit something inside the vehicle?",q,MS. ETTL,start_answer
+721,1294,50,10,I don't believe so.,a,THE WITNESS,start_question
+722,1295,50,11,Can you tell me each part of your body where you've experienced pain or discomfort as a result of this accident.,q,MS. ETTL,start_answer
+723,1298,50,14,The original pain was the lower right back and the hip.,a,THE WITNESS,start_question
+724,1300,50,16,"And then, there was additional pain someplace else?",q,MS. ETTL,start_answer
+725,1301,50,17,"Lower -- lower right back, and -- and the hip.",a,THE WITNESS,start_question
+726,1302,50,18,And your right hip?,q,MS. ETTL,start_answer
+727,1303,50,19,Right hip.,a,THE WITNESS,start_question
+728,1304,50,20,You said that was the original pain.  What was not --,q,MS. ETTL,start_answer
+729,1306,50,22,That's the pain.,a,THE WITNESS,start_question
+730,1307,50,23,Okay.  That's it?,q,MS. ETTL,start_answer
+731,1308,50,24,Yes.,a,THE WITNESS,start_question
+732,1309,50,25,Okay.  When did you first start experiencing the pain in your lower right back and right hip?,q,MS. ETTL,start_answer
+733,1312,51,2,"The next morning, when I woke up.",a,THE WITNESS,start_question
+734,1313,51,3,Had you ever suffered from pain in your lower right back or right hip prior to the date of the accident?,q,MS. ETTL,start_answer
+735,1315,51,5,"Not in those locations, no.",a,THE WITNESS,start_question
+736,1316,51,6,Where had you suffered from pain prior to the date of the accident?,q,MS. ETTL,start_answer
+737,1318,51,8,"I do not know the exact year, but I had strained my back.  And again, I don't remember the exact year, but I had strained my back -- middle of my back when I was either opening or closing our pool.",a,THE WITNESS,start_question
+738,1322,51,12,Did you suffer from chronic back pain prior to the date of the accident?,q,MS. ETTL,start_answer
+739,1324,51,14,No.,a,THE WITNESS,start_question
+740,1325,51,15,"When you first started experiencing the pain in your lower right back and right hip, could you describe what it is that it felt like to you.",q,MS. ETTL,start_answer
+741,1328,51,18,"In the lower right back was fairly excruciating. The hip, I was having difficulty walking.",a,THE WITNESS,start_question
+742,1330,51,20,Had you ever experienced any numbness or tingling in any of your extremities related to this accident?,q,MS. ETTL,start_answer
+743,1332,51,22,No.,a,THE WITNESS,start_question
+744,1333,51,23,When did you first seek medical treatment after the accident?,q,MS. ETTL,start_answer
+745,1335,51,25,I believe my original meeting with Dr. Dua was the beginning of January.,a,THE WITNESS,start_question
+746,1338,52,2,How did you find out about Dr. Duo?,q,MS. ETTL,start_answer
+747,1339,52,3,Main Line Spine was recommended to me by Mr. Daly.,a,THE WITNESS,start_question
+748,1340,52,4,And is it -- is it Duo or Dua?,q,MS. ETTL,start_answer
+749,1341,52,5,D-U-A.,a,THE WITNESS,start_question
+750,1342,52,6,"D-U-A, okay.  Did you go and treat with your primary care doctor, Dr. Weber, at all for any injuries related to this accident?",q,MS. ETTL,start_answer
+751,1345,52,9,I did not.,a,THE WITNESS,start_question
+752,1346,52,10,And why is that?,q,MS. ETTL,start_answer
+753,1347,52,11,I don't know.,a,THE WITNESS,start_question
+754,1348,52,12,"When you saw Dr. Dua for the first time, what were your complaints that you had?",q,MS. ETTL,start_answer
+755,1350,52,14,The pain in the lower right back and the hip.,a,THE WITNESS,start_question
+756,1351,52,15,And what did Dr. Dua do for you?,q,MS. ETTL,start_answer
+757,1352,52,16,"At that time, she ordered me to have an MRI.  And I believe at that time, she prescribed the stronger dose of ibuprofen and the -- I believe it's called Flexeril.",a,THE WITNESS,start_question
+758,1355,52,19,And you said you never -- you never ended up taking the Flexeril?,q,MS. ETTL,start_answer
+759,1357,52,21,"She explained to me that the Flexeril could possibly make me dopey, so I chose not to take that.",a,THE WITNESS,start_question
+760,1359,52,23,"After you saw Dr. Dua, what did you do for any kind of medical treatment after that?",q,MS. ETTL,start_answer
+761,1361,52,25,I made an appointment for the MRI with the -- I believe it's University of Pennsylvania in Radnor.,a,THE WITNESS,start_question
+762,1364,53,2,What part of your body did they take the MRI of?,q,MS. ETTL,start_answer
+763,1365,53,3,"They put me on a slate, on my back, and they pulled me back into a tunnel and --",a,THE WITNESS,start_chat
+764,1367,53,5,She means what part of your body.,side_chat,MR. DALY,start_chat
+765,1369,53,7,Huh?,side_chat,THE WITNESS,start_chat
+766,1370,53,8,What were they examining?,side_chat,MR. DALY,start_question
+767,1372,53,10,"Do you know what part of your body they were looking for, trying to see --",q,MS. ETTL,start_answer
+768,1374,53,12,"Well, I guess she had written the prescription for it --",a,THE WITNESS,start_question
+769,1376,53,14,Right.,q,MS. ETTL,start_answer
+770,1377,53,15,"-- so I'm taking it they were going -- I -- I don't know.  I guess they were going for the back and the hip areas, but I don't know.",a,THE WITNESS,start_question
+771,1380,53,18,"And again, if it's something that you just don't know, then that's fine.  I'm just trying to see what it is you do or don't know about what your medical treatment was, okay?",q,MS. ETTL,start_answer
+772,1384,53,22,"I would -- I would say, from my description of pain to Dr. Dua, that she probably prescribed the MRI for the back and hip.",a,THE WITNESS,start_question
+773,1387,53,25,Got you.  And do you know what the results of your MRI were?,q,MS. ETTL,start_answer
+774,1390,54,2,I don't know the exact results.,a,THE WITNESS,start_question
+775,1391,54,3,Did any doctor explain to you what they were like and say -- you said you don't know the exact results.  Did somebody give you an understanding of what the results were?,q,MS. ETTL,start_answer
+776,1395,54,7,"After the MRI, I took -- took the MRI back to Dr. Dua, and -- and she reviewed those.  If she did exactly explain it, I'm not a medical person, and I don't know the exact terminologies.",a,THE WITNESS,start_question
+777,1399,54,11,Did you have any other kind of treatment related to this accident other than seeing Dr. Dua and having the MRI performed?,q,MS. ETTL,start_answer
+778,1402,54,14,As far -- as far as?,a,THE WITNESS,start_question
+779,1403,54,15,Any kind of treatment at all.,q,MS. ETTL,start_answer
+780,1404,54,16,After seeing Dr. Dua after the MRI?,a,THE WITNESS,start_question
+781,1405,54,17,Yes.,q,MS. ETTL,start_answer
+782,1406,54,18,"Okay.  Dr. Dua said that I had three options.  The least invasive would have been physical therapy.  The next would be injections.  The third, I don't remember exactly, but it would have been the most critical of the three choices.  I...",a,THE WITNESS,start_question
+783,1411,54,23,And you don't know what that choice was?,q,MS. ETTL,start_answer
+784,1412,54,24,I don't know if she was saying an -- an operation or if it was -- I don't know exactly.  But it didn't sound like something I wanted to do.,a,THE WITNESS,start_question
+785,1416,55,2,"So then, what did you choose to do?",q,MS. ETTL,start_answer
+786,1417,55,3,"We started with the least invasive, the physical therapy.",a,THE WITNESS,start_question
+787,1419,55,5,How long did you do physical therapy for?,q,MS. ETTL,start_answer
+788,1420,55,6,Six weeks.,a,THE WITNESS,start_question
+789,1421,55,7,And where did you do physical therapy at?,q,MS. ETTL,start_answer
+790,1422,55,8,It's in that same building where Main Line Spine is in King of Prussia.,a,THE WITNESS,start_question
+791,1424,55,10,How many times a week did you go to physical therapy?,q,MS. ETTL,start_answer
+792,1426,55,12,"I believe it was either two or three times a week, based on openings they had.",a,THE WITNESS,start_question
+793,1428,55,14,Were you discharged from physical therapy at some point?,q,MS. ETTL,start_answer
+794,1430,55,16,"After six weeks, the hip pain had been relieved. The back pain was still persistent.  And Dr. Dua had asked me to come in after the six weeks to see her again.",a,THE WITNESS,start_question
+795,1433,55,19,And did you go back to see her?,q,MS. ETTL,start_answer
+796,1434,55,20,I did.,a,THE WITNESS,start_question
+797,1435,55,21,What did she do when you went back?,q,MS. ETTL,start_answer
+798,1436,55,22,"I explained that the hip pain had been relieved by the physical therapy, but the back pain continued.  At that time, I believe she gave me the first set of injections and recommended that I continue with the physical therapy as home exercise. And she gave me a sheet.  I basically knew what the exercises were from spending six weeks at the physical therapy, but she kind -- I guess she felt that it was just as well that I do the exercises at home as going to the office.",a,THE WITNESS,start_question
+799,1447,56,7,Did you end up having injections?,q,MS. ETTL,start_answer
+800,1448,56,8,Yes.,a,THE WITNESS,start_question
+801,1449,56,9,How many times did you have injections performed?,q,MS. ETTL,start_answer
+802,1450,56,10,"How many times?  I believe during the first year, it was every three months.  I don't remember the exact number of times.  But Dr. Dua also had told me that if I'd continued receiving them on a regular basis, I would probably be lowering the relief that the injections were giving me.  So she asked that I spread them out a little further than every three months.",a,THE WITNESS,start_question
+803,1457,56,17,"When you got the injections, did the injections help?",q,MS. ETTL,start_answer
+804,1459,56,19,Yes.,a,THE WITNESS,start_question
+805,1460,56,20,What part -- what part of your body did you get the injections in?,q,MS. ETTL,start_answer
+806,1462,56,22,The lower right back.,a,THE WITNESS,start_question
+807,1463,56,23,"When you had the injections performed, were they performed at Dr. Dua's office or at a hospital?",q,MS. ETTL,start_answer
+808,1465,56,25,At Dr. Dua's office.,a,THE WITNESS,start_question
+809,1467,57,1,Did you have to be put under anesthesia to have the injections performed?,q,MS. ETTL,start_answer
+810,1469,57,3,No.,a,THE WITNESS,start_question
+811,1470,57,4,What did they feel like when they were performed?,q,MS. ETTL,start_answer
+812,1471,57,5,They sting.,a,THE WITNESS,start_question
+813,1472,57,6,"Is it like stinging like when you get a shot stinging, or is it something different?",q,MS. ETTL,start_answer
+814,1474,57,8,"It's like a -- the doctor looks for points of pain, and then she'll mark those and then do a needle injection, so it's kind of a stinging injection.",a,THE WITNESS,start_question
+815,1477,57,11,Better or worse than your flu shot or the same?,q,MS. ETTL,start_answer
+816,1478,57,12,I would say worse.  You know when that needle is going in your back.,a,THE WITNESS,start_question
+817,1480,57,14,"I should have asked you, ""Better or worse than a tetanus?"" 'cause they're worse, but... When's the last time you had an injection performed?",q,MS. ETTL,start_answer
+818,1484,57,18,The last series of injections was approximately nine months ago.,a,THE WITNESS,start_question
+819,1486,57,20,Do you have any injections currently scheduled?,q,MS. ETTL,start_answer
+820,1487,57,21,"Prior to the holidays, maybe October.",a,THE WITNESS,start_question
+821,1488,57,22,Is it scheduled -- it's scheduled?,q,MS. ETTL,start_answer
+822,1489,57,23,It is not scheduled.,a,THE WITNESS,start_question
+823,1490,57,24,You just intend to schedule it?,q,MS. ETTL,start_answer
+824,1491,57,25,Yes.,a,THE WITNESS,start_question
+825,1493,58,1,Have you received any other treatment for your injuries related to this accident?,q,MS. ETTL,start_answer
+826,1495,58,3,No.,a,THE WITNESS,start_question
+827,1496,58,4,"Do you have any -- oh, I guess, does Dr. Dua perform the injections herself?",q,MS. ETTL,start_answer
+828,1498,58,6,Yes.,a,THE WITNESS,start_question
+829,1499,58,7,"When you were treating with Dr. -- or, actually, when you were doing the physical therapy, did they place you on any kind of restrictions?",q,MS. ETTL,start_answer
+830,1502,58,10,Any kind of --,a,THE WITNESS,start_question
+831,1503,58,11,"Physical restrictions, like how you -- you can do this or you can't do that.",q,MS. ETTL,start_answer
+832,1505,58,13,No.,a,THE WITNESS,start_question
+833,1506,58,14,Has Dr. Dua ever suggested that you go back to physical therapy?,q,MS. ETTL,start_answer
+834,1508,58,16,No.,a,THE WITNESS,start_question
+835,1509,58,17,Did physical therapy improve your lower back pain?,q,MS. ETTL,start_answer
+836,1510,58,18,"It -- it helped the hip pain.  I felt that you were basically on your own at physical therapy.  They would give you the exercises to do.  I believe it started with -- with an ice pack.  He would have a series of exercises to do. And then, the physical therapist would come in and kind of stretch my leg, my right leg.  And then, they put me on a bicycle for as long as I could ride a bicycle.  And then, I believe they'd give me a heat pad and send me on my way.",a,THE WITNESS,start_question
+837,1521,59,3,Did they do anything else with you at physical therapy?,q,MS. ETTL,start_answer
+838,1523,59,5,"Not really, no.",a,THE WITNESS,start_question
+839,1524,59,6,"So what -- what exercises did they give you to do at home, then?",q,MS. ETTL,start_answer
+840,1526,59,8,"There are like tummy tucks.  There are leg stretches, pull your legs in.  There's one where you have to be on all fours and you throw out your opposite arm and leg, throw out your opposite arm and leg.  Basically, stretching.",a,THE WITNESS,start_question
+841,1531,59,13,And did they ever have you perform those stretching -- those stretches when you were at physical therapy?,q,MS. ETTL,start_answer
+842,1534,59,16,Yes.  Yeah.  They showed me how to do them all.,a,THE WITNESS,start_question
+843,1535,59,17,How often do you do your home exercises?,q,MS. ETTL,start_answer
+844,1536,59,18,I try for every other day.,a,THE WITNESS,start_question
+845,1537,59,19,Had you ever had an MRI performed prior to the date of this accident?,q,MS. ETTL,start_answer
+846,1539,59,21,"Not to my recollection, no.",a,THE WITNESS,start_question
+847,1540,59,22,Had you ever had physical therapy prior to the date of this accident?,q,MS. ETTL,start_answer
+848,1542,59,24,No.,a,THE WITNESS,start_question
+849,1543,59,25,Has anybody ever recommended that you need to go see an orthopedist or an -- an orthopedic surgeon?,q,MS. ETTL,start_answer
+850,1546,60,2,No.,a,THE WITNESS,start_question
+851,1547,60,3,"Were you involved in a motor vehicle accident on January 11th, 2016?",q,MS. ETTL,start_answer
+852,1549,60,5,I'm sorry?,a,THE WITNESS,start_question
+853,1550,60,6,"I said, ""Were you involved with a motor vehicle accident on January 11th, 2016?""",q,MS. ETTL,start_answer
+854,1552,60,8,I don't recall.,a,THE WITNESS,start_question
+855,1553,60,9,"The vehicle that you were driving on the date of the accident is a Volkswagen Touareg, correct?",q,MS. ETTL,start_answer
+856,1555,60,11,Uh-huh.,a,THE WITNESS,start_chat
+857,1556,60,12,"Is that a ""yes""?",side_chat,MR. DALY,start_chat
+858,1557,60,13,Yes.  I'm sorry.  Yes.,side_chat,THE WITNESS,start_question
+859,1559,60,15,Is this registered in your name or in your wife's name?,q,MS. ETTL,start_answer
+860,1561,60,17,I believe this is registered in my name.,a,THE WITNESS,start_question
+861,1562,60,18,Could it be registered to you jointly?,q,MS. ETTL,start_answer
+862,1563,60,19,I don't think so.,a,THE WITNESS,start_chat
+863,1564,60,20,I was trying to see on there if it said --,side_chat,MS. ETTL,start_chat
+864,1566,60,22,Just says him --,side_chat,MR. DALY,start_chat
+865,1567,60,23,Okay.,side_chat,MS. ETTL,start_chat
+866,1568,60,24,-- on the police --,side_chat,MR. DALY,start_chat
+867,1569,60,25,I believe I'm the sole owner.,side_chat,THE WITNESS,start_question
+868,1572,61,2,"And looking at some of the photographs of the vehicle, I noticed that there's a handicap license plate on the vehicle.",q,MS. ETTL,start_answer
+869,1575,61,5,Those were issued to both of the vehicles because of my wife's handicap.,a,THE WITNESS,start_question
+870,1577,61,7,And do you have to like submit -- did she have to submit like something to the state to get those issued that way or --,q,MS. ETTL,start_answer
+871,1580,61,10,"She did, yes.",a,THE WITNESS,start_question
+872,1581,61,11,What is her disability?,q,MS. ETTL,start_answer
+873,1582,61,12,Everything.,a,THE WITNESS,start_question
+874,1583,61,13,Did you have to pay anything out of pocket for the property damage to your car?,q,MS. ETTL,start_answer
+875,1585,61,15,No.,a,THE WITNESS,start_question
+876,1586,61,16,Did you have the damage repaired?,q,MS. ETTL,start_answer
+877,1587,61,17,No.,a,THE WITNESS,start_question
+878,1588,61,18,Do you still have the car?,q,MS. ETTL,start_answer
+879,1589,61,19,Yes.,a,THE WITNESS,start_question
+880,1590,61,20,Does it still have the damage to the front of the grill?,q,MS. ETTL,start_answer
+881,1592,61,22,No.,a,THE WITNESS,start_question
+882,1593,61,23,No?,q,MS. ETTL,start_answer
+883,1594,61,24,It has been repaired.,a,THE WITNESS,start_question
+884,1595,61,25,Oh.  It has been repaired now.  When did that happen?,q,MS. ETTL,start_answer
+885,1598,62,2,I don't remember the exact date that it was repaired.,a,THE WITNESS,start_question
+886,1600,62,4,Was it like right after the accident?,q,MS. ETTL,start_answer
+887,1601,62,5,No.,a,THE WITNESS,start_question
+888,1602,62,6,Who did the repairs on the vehicle?,q,MS. ETTL,start_answer
+889,1603,62,7,Matus Brothers.,a,THE WITNESS,start_question
+890,1604,62,8,And did your insurance company pay for those repairs to be done?,q,MS. ETTL,start_answer
+891,1606,62,10,Yes.,a,THE WITNESS,start_question
+892,1607,62,11,Had your vehicle had any damage on it prior to the date of this accident?,q,MS. ETTL,start_answer
+893,1609,62,13,Not to my knowledge.,a,THE WITNESS,start_question
+894,1610,62,14,Can you tell me:  Do you have any hobbies or interests that have been affected by this accident?,q,MS. ETTL,start_answer
+895,1612,62,16,Do I have any --,a,THE WITNESS,start_question
+896,1613,62,17,Hobbies or interests?,q,MS. ETTL,start_answer
+897,1614,62,18,Such as?,a,THE WITNESS,start_question
+898,1615,62,19,"Well, I don't know.  I mean I obviously don't know your life or what you do, so what is it that you do and how has your life been affected by the accident?  We've talked about your work, but I'm wondering:  Is there any other part of your life that's been affected?",q,MS. ETTL,start_answer
+899,1620,62,24,"I'm -- I'm limited.  After the three days of working for Samuels and Son, I kind of rest for four days to get prepared to go back to work for three days.",a,THE WITNESS,start_question
+900,1624,63,2,"Prior to the date of the accident, did you participate in any kind of hobbies, or did you have a hobby that you liked to do regularly before the accident happened?",q,MS. ETTL,start_answer
+901,1628,63,6,"Basically, took care of my home property.",a,THE WITNESS,start_question
+902,1629,63,7,Anything else?,q,MS. ETTL,start_answer
+903,1630,63,8,I'm trying to think.  You've got me on the spot. We're very boring people.  We have eleven grandchildren that keep us very busy.,a,THE WITNESS,start_question
+904,1633,63,11,And those grandchildren are --,q,MS. ETTL,start_answer
+905,1634,63,12,My wife's.,a,THE WITNESS,start_question
+906,1635,63,13,"Your wife's children's, okay.  Do you still fill the role of grandfather for them?",q,MS. ETTL,start_answer
+907,1637,63,15,Yes.,a,THE WITNESS,start_question
+908,1638,63,16,Your grandchildren -- has your relationship with your grandchildren been impacted by the accident at all?,q,MS. ETTL,start_answer
+909,1640,63,18,I don't know that it's been impacted.  I don't show any impact to them.,a,THE WITNESS,start_question
+910,1642,63,20,Does it affect what you do with your grandchildren at all?,q,MS. ETTL,start_answer
+911,1644,63,22,I don't know.,a,THE WITNESS,start_question
+912,1645,63,23,Has the accident impacted your relationship with your wife's children at all?,q,MS. ETTL,start_answer
+913,1647,63,25,"Not that I -- I let them have -- know that it should be impacting our relationship, if you know what I mean.",a,THE WITNESS,start_question
+914,1651,64,3,I'm not really sure I understand.  Can you explain that a little bit more.,q,MS. ETTL,start_answer
+915,1653,64,5,"Well, I don't -- I don't walk around crying about my accident.  They have their own issues in life, so I keep mine to myself.",a,THE WITNESS,start_question
+916,1656,64,8,Has the accident affected your ability to take care of your property at all?,q,MS. ETTL,start_answer
+917,1658,64,10,Yes.,a,THE WITNESS,start_question
+918,1659,64,11,Tell me how that -- how that's been affected.,q,MS. ETTL,start_answer
+919,1660,64,12,"I was unable to take care of the property on Hughes Road, so we decided to sell that property and move into this carriage home.",a,THE WITNESS,start_question
+920,1663,64,15,"But for the accident, would you have moved into the carriage home?",q,MS. ETTL,start_answer
+921,1665,64,17,I think we liked our home on 190 Hughes Road.,a,THE WITNESS,start_question
+922,1666,64,18,What were you unable to take care of on your property?,q,MS. ETTL,start_answer
+923,1668,64,20,"The landscaping, daily outside maintenance, leaves, snow.",a,THE WITNESS,start_question
+924,1670,64,22,Had you ever hired somebody to do the landscaping on your property at Hughes Road either before or after the accident?,q,MS. ETTL,start_answer
+925,1673,64,25,Funds did not permit that.,a,THE WITNESS,start_question
+926,1675,65,1,What about before the accident?  Did somebody do the landscaping on Hughes Road before the accident?,q,MS. ETTL,start_answer
+927,1677,65,3,No.,a,THE WITNESS,start_question
+928,1678,65,4,Did you ever hire anybody to do any kind of the leaf-raking or the snow on the -- at the house on Hughes Road?,q,MS. ETTL,start_answer
+929,1681,65,7,No.,a,THE WITNESS,start_question
+930,1682,65,8,And not before or after the accident?,q,MS. ETTL,start_answer
+931,1683,65,9,No.,a,THE WITNESS,start_question
+932,1684,65,10,"And after the accident, the reason that you didn't hire anybody, is that because funds did not permit it?",q,MS. ETTL,start_answer
+933,1686,65,12,Yes.,a,THE WITNESS,start_question
+934,1687,65,13,Did you do any kind of leaf-raking at your house after the date of the accident?,q,MS. ETTL,start_answer
+935,1689,65,15,Raking?,a,THE WITNESS,start_question
+936,1690,65,16,Yeah.,q,MS. ETTL,start_answer
+937,1691,65,17,No.,a,THE WITNESS,start_question
+938,1692,65,18,So who did the leaf-raking after the accident?,q,MS. ETTL,start_answer
+939,1693,65,19,"Well, it was a power machine.",a,THE WITNESS,start_question
+940,1694,65,20,Oh.  You did like a -- a blowing --,q,MS. ETTL,start_answer
+941,1695,65,21,Yes.,a,THE WITNESS,start_question
+942,1696,65,22,Is that how you would normally clear the leaves?,q,MS. ETTL,start_answer
+943,1697,65,23,Yes.,a,THE WITNESS,start_question
+944,1698,65,24,"So after the accident, were you still able to do the leaf-blowing?",q,MS. ETTL,start_answer
+945,1701,66,1,"Well, I had to.",a,THE WITNESS,start_question
+946,1702,66,2,So it -- it didn't prevent you from doing it altogether?,q,MS. ETTL,start_answer
+947,1704,66,4,"It limited the amount of time I could spend doing it, it would seem like.",a,THE WITNESS,start_question
+948,1706,66,6,"After the accident, who was responsible for shoveling the snow?",q,MS. ETTL,start_answer
+949,1708,66,8,I am.,a,THE WITNESS,start_question
+950,1709,66,9,Before and after the accident?,q,MS. ETTL,start_answer
+951,1710,66,10,"We -- we don't so much shovel, but it was a snowblower.",a,THE WITNESS,start_question
+952,1712,66,12,"And after the accident, you were still able to use the snowblower, right?",q,MS. ETTL,start_answer
+953,1714,66,14,Yes.,a,THE WITNESS,start_question
+954,1715,66,15,"Do you have any other -- any other things in your life that have been affected by the accident?  I mean I know we kind of talked about, obviously, your external home chores.  Anything else that you want to tell me about that's been affected by the accident?",q,MS. ETTL,start_answer
+955,1720,66,20,My sleep.,a,THE WITNESS,start_question
+956,1721,66,21,How's your sleep been affected?,q,MS. ETTL,start_answer
+957,1722,66,22,"It's usually, at best, two hours on one side.  I wake up and move.  At worst, an hour -- an hourly move.",a,THE WITNESS,start_question
+958,1724,66,24,Anything else other than sleep?,q,MS. ETTL,start_answer
+959,1725,66,25,"I don't walk as fast.  Sleep is -- sleep kind of goes along with the whole depression thing that we spoke of earlier, you know?  It's -- I wake up every 60 minutes to 120 minutes to move to try to relieve some pressure.",a,THE WITNESS,start_question
+960,1730,67,4,Any other ways that this accident has affected you?,q,MS. ETTL,start_answer
+961,1731,67,5,That's one of -- that's about the worst.,a,THE WITNESS,start_question
+962,1732,67,6,"Well, I'm not asking for just the worst.  I'm asking for any way that it's affected you.",q,MS. ETTL,start_answer
+963,1734,67,8,"Not off the top of my mind, no.",a,THE WITNESS,start_question
+964,1735,67,9,Is there anything that you used to be able to do before the accident that you absolutely cannot do now?,q,MS. ETTL,start_answer
+965,1737,67,11,"Well, I carried my granddaughter through Disney World for five days, but I don't think I could do that now.",a,THE WITNESS,start_question
+966,1740,67,14,When did you go to Disney with your granddaughter?,q,MS. ETTL,start_answer
+967,1741,67,15,That would have been 2009.,a,THE WITNESS,start_question
+968,1742,67,16,Have you been back to Disney at all since then?,q,MS. ETTL,start_answer
+969,1743,67,17,No.,a,THE WITNESS,start_question
+970,1744,67,18,Have you taken any vacations since the date of the accident?,q,MS. ETTL,start_answer
+971,1746,67,20,"Since the accident, no.",a,THE WITNESS,start_question
+972,1747,67,21,What's the last vacation that you've taken?,q,MS. ETTL,start_answer
+973,1748,67,22,"I believe it was in 2016 that my wife and I went to Williamsburg with her sister.  She has a time-share in Williamsburg, and her husband had just passed away, so the three of us went there.",a,THE WITNESS,start_question
+974,1753,68,1,"Has this accident in any way prevented you from taking vacations, or has it just not worked out?",q,MS. ETTL,start_answer
+975,1755,68,3,"My wife is kind of a full-time babysitter with the grandchildren, so...",a,THE WITNESS,start_question
+976,1757,68,5,So not being able to take a vacation is not related to this accident?,q,MS. ETTL,start_answer
+977,1759,68,7,No.,a,THE WITNESS,start_question
+978,1760,68,8,Have you had any problems with personal hygiene as a result of the accident?,q,MS. ETTL,start_answer
+979,1762,68,10,No.,a,THE WITNESS,start_question
+980,1763,68,11,Have you had any problems dressing yourself as a result of the accident?,q,MS. ETTL,start_answer
+981,1765,68,13,"It's a little tougher to put on socks and shoes some days, but as far as the rest, I'm pretty good.",a,THE WITNESS,start_question
+982,1767,68,15,Has this accident impacted your relationship with your wife in any way?,q,MS. ETTL,start_answer
+983,1769,68,17,No.,a,THE WITNESS,start_question
+984,1770,68,18,Have you ever been a member of any kind of health club or gym?,q,MS. ETTL,start_answer
+985,1772,68,20,"If it was, it's a very, very, very long time ago.",a,THE WITNESS,start_question
+986,1773,68,21,You didn't have like an active membership around the time of the accident?,q,MS. ETTL,start_answer
+987,1775,68,23,"No.  I'm -- I'm guilty because I have the SilverSneakers, and I need to take advantage of it.",a,THE WITNESS,start_question
+988,1777,68,25,"The house that you -- I guess we'll start with the house on Hughes Road first.  The house on Hughes Road, were there stairs in that house?",q,MS. ETTL,start_answer
+989,1781,69,3,It was split-level.,a,THE WITNESS,start_question
+990,1782,69,4,Did the accident in any way impact your ability to go up and down the stairs?,q,MS. ETTL,start_answer
+991,1784,69,6,I use the banister a lot more.,a,THE WITNESS,start_question
+992,1785,69,7,"Do you still have to use the banister, or have you kind of recovered from that?",q,MS. ETTL,start_answer
+993,1787,69,9,No.  I still use the banister a lot more.,a,THE WITNESS,start_chat
+994,1788,69,10,We can go off the record for a second.,side_chat,MS. ETTL,is brackets
+995,1790,69,12,(Discussion was held off the record.),brackets,,start_chat
+996,1791,69,13,"I do not have any other questions.  Or actually, hold on.",side_chat,MS. ETTL,start_question
+997,1794,69,16,Who was your primary care doctor before Dr. Weber? You don't remember?,q,MS. ETTL,start_answer
+998,1796,69,18,I --,a,THE WITNESS,start_question
+999,1797,69,19,Was it on Sproul Road in Broomall?,q,MS. ETTL,start_answer
+1000,1798,69,20,I -- I probably did not have a primary care doctor.,a,THE WITNESS,start_question
+1001,1799,69,21,Okay.,q,MS. ETTL,start_answer
+1002,1800,69,22,"And then, through work, they give you like a list of doctors to choose from, and I chose Dr. Weber.",a,THE WITNESS,start_question
+1003,1802,69,24,Gotcha.,q,MS. ETTL,start_chat
+1004,1803,69,25,"Okay.  I have no other questions, then.",side_chat,MS. ETTL,start_chat
+1005,1806,70,2,Great.  I don't have anything.,side_chat,MR. DALY,is brackets
+1006,1807,70,3,(Witness excused.),brackets,,is brackets
+1007,1808,70,4,"(Deposition ended at 11:48 a.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+1008,1847,71,18,__________________________ Ian Monahan and Notary Public,symbols,,end

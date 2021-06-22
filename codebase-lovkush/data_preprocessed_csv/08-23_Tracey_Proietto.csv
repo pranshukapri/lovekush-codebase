@@ -1,0 +1,276 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, was examined and testified as follows:,,,symbols
+1,104,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,106,4,10,-  -  -,symbols,,start_question
+3,108,4,12,"Hi.  My name is Patricia Bilardo and I represent Ms. Charles.  She's the other defendant that was named as a defendant in this lawsuit.  I know that you sat here and you heard some instructions that were given to the two other witnesses, but just so our record is clean, I'm going to give you some instructions.  Have you ever given a deposition before?",q,MS. BILARDO,start_answer
+4,115,4,19,No.,a,THE WITNESS,start_question
+5,116,4,20,"So this is really more for your benefit than anyone else's.  There's a court reporter seated to your right, at the end of the table.  His job is to literally take down every answer that you give and every question that I ask. In order for him to do that accurately, only one of us can talk at one time. I see that you nod your head.  He cannot put any verbal gestures onto the record.  So if there's a question that requires an answer, I ask that you just please give an answer.  If you forget to do that, I'll remind you. Your attorney is seated to your left.  If at any time you need to speak with your attorney, use the restroom, get anything to drink, we can go off the record. You can do that.  The only thing that I do ask is that you answer the question that's currently pending, because it just makes it easier for the court reporter, so we don't have to all remember where we were.",q,MS. BILARDO,start_answer
+6,135,5,13,Okay.,a,THE WITNESS,start_question
+7,136,5,14,And then take a break.,q,MS. BILARDO,start_answer
+8,137,5,15,Okay.,a,THE WITNESS,start_question
+9,138,5,16,"I'm gonna ask you -- just to give you a road map, I'm gonna ask you about your background first before we even get to the accident that we're here for today.",q,MS. BILARDO,start_answer
+10,141,5,19,Okay.,a,THE WITNESS,start_question
+11,142,5,20,"And all the answers that you give, we ask that you answer them to the best of your knowledge.  I'm not here to try to trick you, so if there's a question that I ask you and you do not understand the question, please don't answer it.  Just tell me, ""I do not understand the question,"" because perhaps I can rephrase it in a way that you can answer it. And if there's something that you just don't know, that's okay as well.  But what happens afterwards is a little booklet gets prepared.  All the answers and the questions are in there.  And if you answer a question that you didn't understand, then it's not helpful to anyone, you know, at any other proceeding.",q,MS. BILARDO,start_answer
+12,156,6,8,Okay.,a,THE WITNESS,start_question
+13,157,6,9,It's just better that you tell me that.,q,MS. BILARDO,start_answer
+14,158,6,10,Okay.,a,THE WITNESS,start_question
+15,159,6,11,"And if there's a question that I ask you in reference to speed, distance, or time, a lot of times, people wouldn't know the exact speed, the exact time, or the exact distance.  It's not as if you get out and measure.  But if you can give an approximate answer, then we ask that you do that. But if you are giving an estimate, we ask that you say, ""This is an estimate.""  You know, this way it's clear to everyone here that you're estimating and that you're not saying that something is just true.",q,MS. BILARDO,start_answer
+16,169,6,21,Okay.,a,THE WITNESS,start_question
+17,170,6,22,"Okay?  So by way of background, what is your full name?  And if you could spell it, this way, the court reporter can make sure that we have it accurate.",q,MS. BILARDO,start_answer
+18,173,6,25,"Tracey, T-R-A-C-E-Y, A. Proietto, P-R-O-I-E-T-T-O.",a,THE WITNESS,start_question
+19,175,7,1,What is your current home address?,q,MS. BILARDO,start_answer
+20,176,7,2,"63 Varnum Road, Norristown, PA 19403.",a,THE WITNESS,start_question
+21,177,7,3,And is that --,q,MS. BILARDO,start_chat
+22,178,7,4,"Could you spell the street for the reporter, please.",side_chat,MR. BRANCA,start_chat
+23,180,7,6,"63 Varnum, V as in Victor, A-R, N as in Nancy, U, M as in Mary, Road.",side_chat,THE WITNESS,start_chat
+24,182,7,8,Thank you.,side_chat,MR. BRANCA,start_question
+25,184,7,10,And is that where you lived on the date of this accident?,q,MS. BILARDO,start_answer
+26,186,7,12,Yes.,a,THE WITNESS,start_question
+27,187,7,13,And are you single or married?,q,MS. BILARDO,start_answer
+28,188,7,14,Married.,a,THE WITNESS,start_question
+29,189,7,15,And what is it that you do for a living?,q,MS. BILARDO,start_answer
+30,190,7,16,I am a secretary.,a,THE WITNESS,start_question
+31,191,7,17,Where do you work and how long have you been there?,q,MS. BILARDO,start_answer
+32,192,7,18,"Marshall Street Elementary School, which is the Norristown Area School District.  And I've been employed there approximately 19 years.",a,THE WITNESS,start_question
+33,195,7,21,And what is your highest level of education?,q,MS. BILARDO,start_answer
+34,196,7,22,"Montgomery County Community College, two years.",a,THE WITNESS,start_question
+35,197,7,23,Did you get an associate's degree there?,q,MS. BILARDO,start_answer
+36,198,7,24,Yes.,a,THE WITNESS,start_question
+37,199,7,25,And how old are you today?,q,MS. BILARDO,start_answer
+38,201,8,1,51.,a,THE WITNESS,start_question
+39,202,8,2,"Where were you coming from at the time of the accident and where were you going, meaning what was your destination?",q,MS. BILARDO,start_answer
+40,205,8,5,63 Varnum Road.,a,THE WITNESS,start_question
+41,206,8,6,That's where you were coming from?,q,MS. BILARDO,start_answer
+42,207,8,7,Yes.,a,THE WITNESS,start_question
+43,208,8,8,Where were you intending to go?,q,MS. BILARDO,start_answer
+44,209,8,9,"Back to work, 1525 West Marshall Street.",a,THE WITNESS,start_question
+45,210,8,10,Do you recall the date of the accident independently?  Like would you --,q,MS. BILARDO,start_answer
+46,212,8,12,Yes.,a,THE WITNESS,start_question
+47,213,8,13,-- remember when it was?  When was it?,q,MS. BILARDO,start_answer
+48,214,8,14,"It was a Tuesday, I believe, approximately 12:20.",a,THE WITNESS,start_question
+49,215,8,15,In the afternoon?,q,MS. BILARDO,start_answer
+50,216,8,16,Yes.,a,THE WITNESS,start_question
+51,217,8,17,And the accident report indicates that it was on June 20 of 2017.  Does that seem correct?,q,MS. BILARDO,start_answer
+52,219,8,19,Yes.,a,THE WITNESS,start_question
+53,220,8,20,"And when you said that you were going to work, was that the first time you'd been to work that day, or did you go to work, go home, and go back?",q,MS. BILARDO,start_answer
+54,223,8,23,"Went to work, went home, went back.  I went home to let -- we had had -- we have a new dog.  So I went home to let the dog out, which I did every day.",a,THE WITNESS,start_question
+55,227,9,1,And do you get a certain lunchtime?,q,MS. BILARDO,start_answer
+56,228,9,2,12:00 to 1:00.,a,THE WITNESS,start_question
+57,229,9,3,"And do you have to adhere to that lunchtime, meaning you have to be back by 1:00 o'clock?",q,MS. BILARDO,start_answer
+58,231,9,5,Yes.,a,THE WITNESS,start_question
+59,232,9,6,How far is the school from your -- from where this accident --,q,MS. BILARDO,start_answer
+60,234,9,8,Approximately --,a,THE WITNESS,start_question
+61,235,9,9,-- happened?,q,MS. BILARDO,start_answer
+62,236,9,10,-- seven minutes.,a,THE WITNESS,start_question
+63,237,9,11,Was anyone else in the vehicle with you?,q,MS. BILARDO,start_chat
+64,238,9,12,"Just do me a favor.  I know you know sometimes what Counsel is gonna ask, but just let her finish her whole question before you answer, okay? so the court reporter -- otherwise, you'll make it hard on him, okay?",side_chat,MR. BRANCA,start_chat
+65,243,9,17,I thought I was.  Sorry.,side_chat,THE WITNESS,start_question
+66,245,9,19,Was anyone else in the vehicle with you at the time?,q,MS. BILARDO,start_answer
+67,247,9,21,No.,a,THE WITNESS,start_question
+68,248,9,22,And are you familiar with the area where this happened?,q,MS. BILARDO,start_answer
+69,250,9,24,Yes.,a,THE WITNESS,start_question
+70,251,9,25,Do you travel that often?,q,MS. BILARDO,start_answer
+71,253,10,1,Very often.,a,THE WITNESS,start_question
+72,254,10,2,"And how many days a week approximately, if you know?",q,MS. BILARDO,start_answer
+73,256,10,4,"That particular intersection, I probably go to at least three times a day.",a,THE WITNESS,start_question
+74,258,10,6,"So I'm going to show you a picture that I printed out, and I believe that this may represent your direction of travel.  So take the time to look at it, and let me know if that is the case.",q,MS. BILARDO,start_chat
+75,262,10,10,Thank you.,side_chat,MS. PAUL,start_chat
+76,263,10,11,You're welcome.,side_chat,MR. BRANCA,start_chat
+77,264,10,12,Yes.,side_chat,THE WITNESS,start_chat
+78,265,10,13,Okay.  So I'm gonna mark this as Exhibit 1.,side_chat,MS. BILARDO,is brackets
+79,267,10,15,(Exhibit 1 marked for identification.),brackets,,start_question
+80,269,10,17,"And can you describe the roadway that you're on at the time, meaning is it a two-way road, one-way road? Like the name of the road you're on, is that Schuylkill Road?",q,MS. BILARDO,start_answer
+81,273,10,21,"The name of the road I was on was -- yes, South Schuylkill Avenue.",a,THE WITNESS,start_question
+82,275,10,23,"Does that run two-way, meaning traffic can come both ways?",q,MS. BILARDO,start_answer
+83,277,10,25,Yes.,a,THE WITNESS,start_question
+84,279,11,1,And how many lanes are there each direction?,q,MS. BILARDO,start_answer
+85,280,11,2,One.,a,THE WITNESS,start_question
+86,281,11,3,And the police report indicates that the accident occurred at the intersection of Schuylkill and Main Street.  Would that be accurate?,q,MS. BILARDO,start_answer
+87,284,11,6,That's accurate.,a,THE WITNESS,start_question
+88,285,11,7,"And on Main Street, how many lanes of travel are there total when you're talking about both directions of travel?",q,MS. BILARDO,start_answer
+89,288,11,10,"Four, I believe.",a,THE WITNESS,start_question
+90,289,11,11,And how many would that be each way?,q,MS. BILARDO,start_answer
+91,290,11,12,Four each way -- two each way.,a,THE WITNESS,start_question
+92,291,11,13,What were the weather conditions like on the date of this accident?,q,MS. BILARDO,start_answer
+93,293,11,15,Dry.,a,THE WITNESS,start_question
+94,294,11,16,Were the roads dry as well?,q,MS. BILARDO,start_answer
+95,295,11,17,Yes.,a,THE WITNESS,start_question
+96,296,11,18,"Was there any obstruction of your view when you entered this intersection, meaning could you see to your right and see to your left?",q,MS. BILARDO,start_answer
+97,299,11,21,"Yes, I could see to my right and I could see to my left.",a,THE WITNESS,start_question
+98,301,11,23,So was there any obstruction of view whatsoever?,q,MS. BILARDO,start_answer
+99,302,11,24,No.,a,THE WITNESS,start_question
+100,303,11,25,"When you approached the intersection, what color was your light?",q,MS. BILARDO,start_answer
+101,306,12,2,Green.,a,THE WITNESS,start_question
+102,307,12,3,"Was there any other vehicle in front of you as you approached the intersection, or were you the first one?",q,MS. BILARDO,start_answer
+103,309,12,5,I was the first one.,a,THE WITNESS,start_question
+104,310,12,6,"How far back would you say were you when you observed that your light was green?  Like how many yards, feet were you --",q,MS. BILARDO,start_answer
+105,313,12,9,"Approximately -- approximately, a car length.",a,THE WITNESS,start_question
+106,314,12,10,"So at one point as you're approaching the intersection, did you observe that your light was red?",q,MS. BILARDO,start_answer
+107,316,12,12,Yeah.  I was at a complete stop.  I was at a complete stop at a red light before I proceeded through the intersection.,a,THE WITNESS,start_question
+108,319,12,15,So when you approached the light --,q,MS. BILARDO,start_answer
+109,320,12,16,It was red.,a,THE WITNESS,start_question
+110,321,12,17,It was red.,q,MS. BILARDO,start_answer
+111,322,12,18,I was at a complete stop.,a,THE WITNESS,start_question
+112,323,12,19,"So prior to the accident happening, you were at a complete stop?",q,MS. BILARDO,start_answer
+113,325,12,21,"At a red light, yes.",a,THE WITNESS,start_question
+114,326,12,22,"And at some point, it changed to green?",q,MS. BILARDO,start_answer
+115,327,12,23,Yes.,a,THE WITNESS,start_question
+116,328,12,24,How long did you wait between the time it changed from red to green to start going?,q,MS. BILARDO,start_answer
+117,331,13,1,"Approximately, three to five seconds.",a,THE WITNESS,start_question
+118,332,13,2,And did you look to your left and your right before entering the intersection?,q,MS. BILARDO,start_answer
+119,334,13,4,Yes.,a,THE WITNESS,start_question
+120,335,13,5,Did you see any vehicles coming from your left or from your right?,q,MS. BILARDO,start_answer
+121,337,13,7,"I saw vehicles on my left, one in each lane.  They were at a complete stop on my left.  On my right, I saw one vehicle on the far side of the intersection, at a complete stop.",a,THE WITNESS,start_question
+122,341,13,11,"And when you say ""to the far side of the intersection"" --",q,MS. BILARDO,start_answer
+123,343,13,13,"Curb -- like the curbside, the far curbside on Main Street.",a,THE WITNESS,start_question
+124,345,13,15,"And that would be -- do you know north, south, east or west?  Do you know the directions?",q,MS. BILARDO,start_answer
+125,347,13,17,I was traveling north.,a,THE WITNESS,start_question
+126,348,13,18,And I know what you're saying.  It's just that --,q,MS. BILARDO,start_answer
+127,349,13,19,Yeah.,a,THE WITNESS,start_question
+128,350,13,20,-- I don't want --,q,MS. BILARDO,start_answer
+129,351,13,21,It's okay.,a,THE WITNESS,start_question
+130,352,13,22,"I don't want to put words in your mouth, so --",q,MS. BILARDO,start_answer
+131,353,13,23,"I was traveling north.  I know we didn't discuss this, but Ms. Gauger was traveling south on the opposite side of where I was.  I saw her as well.  So on my right would be traveling west, I believe.",a,THE WITNESS,start_question
+132,358,14,2,That is correct.  I --,q,MS. BILARDO,start_answer
+133,359,14,3,Yeah.,a,THE WITNESS,start_question
+134,360,14,4,I just wanted to make sure that --,q,MS. BILARDO,start_answer
+135,361,14,5,West.,a,THE WITNESS,start_question
+136,362,14,6,"-- we're all on the same page and -- in far as -- so when you say you saw a vehicle stopped, I'm gonna show you a picture.",q,MS. BILARDO,start_answer
+137,365,14,9,Okay.,a,THE WITNESS,start_chat
+138,366,14,10,We're gonna mark it as Exhibit 2.,side_chat,MS. BILARDO,is brackets
+139,368,14,12,(Exhibit 2 marked for identification.),brackets,,start_question
+140,370,14,14,"So I'm gonna show you another picture, and this would be a picture showing Main Street.  So just orient yourself with the picture before I ask you any questions. Do you recognize where that is?",q,MS. BILARDO,start_answer
+141,374,14,18,Yes.,a,THE WITNESS,start_question
+142,375,14,19,"So when you say that you saw a vehicle stopped to your right, in the curb lane, do you recognize where that curb lane is in --",q,MS. BILARDO,start_answer
+143,378,14,22,Right here.,a,THE WITNESS,start_question
+144,379,14,23,-- on Exhibit 2?  So you're pointing to where the bus is --,q,MS. BILARDO,start_answer
+145,381,14,25,Yes.,a,THE WITNESS,start_question
+146,383,15,1,-- in the photo?  What type of vehicle was that? Was that the vehicle that you had the accident with or --,q,MS. BILARDO,start_answer
+147,385,15,3,No.,a,THE WITNESS,start_question
+148,386,15,4,-- was it another vehicle?,q,MS. BILARDO,start_answer
+149,387,15,5,"It was a -- it was a dark car, but I have no idea what it was or what color it was.  It was definitely a car.",a,THE WITNESS,start_question
+150,390,15,8,"And when you looked to your right, did you see any other vehicles coming from your right on West Main Street?",q,MS. BILARDO,start_answer
+151,392,15,10,Yes.  I saw the blue BMW.,a,THE WITNESS,start_question
+152,393,15,11,That would be to your left or to your right?,q,MS. BILARDO,start_answer
+153,394,15,12,That was to my left.  They were in the -- they were in this lane right here.,a,THE WITNESS,start_question
+154,396,15,14,And you're pointing to --,q,MS. BILARDO,start_answer
+155,397,15,15,The blue BMW was in this lane.,a,THE WITNESS,start_question
+156,398,15,16,You're pointing to the left lane?,q,MS. BILARDO,start_answer
+157,399,15,17,"Yes.  And then, there was also a vehicle -- make and model, I have no idea.  I just know this one was a BMW 'cause it was a convertible, and it was down.  BMWs tend to catch your eye.  But yeah.  That was -- the BMW was here, and there was another vehicle stopped at a complete stop here.",a,THE WITNESS,start_question
+158,405,15,23,Pointing to the right lane --,q,MS. BILARDO,start_answer
+159,406,15,24,Correct.,a,THE WITNESS,start_question
+160,407,15,25,-- on eastbound Main Street.  I'm just narrating --,q,MS. BILARDO,start_answer
+161,409,16,1,That's fine.,a,THE WITNESS,start_question
+162,410,16,2,"-- for the record. When you looked to your right, did you see any other vehicle aside from that vehicle that you mentioned that was at a complete stop --",q,MS. BILARDO,start_answer
+163,414,16,6,No.,a,THE WITNESS,start_question
+164,415,16,7,-- in the far --,q,MS. BILARDO,start_answer
+165,416,16,8,No.,a,THE WITNESS,start_question
+166,417,16,9,"-- right-hand lane? Now, you sat here through the other depositions.  You had the opportunity to meet Ms. Charles. Did you see her vehicle at all --",q,MS. BILARDO,start_answer
+167,421,16,13,Yes.,a,THE WITNESS,start_question
+168,422,16,14,-- prior to this accident?  Where was it when you saw it?,q,MS. BILARDO,start_answer
+169,424,16,16,"Directly across from me, in the -- would be the right-hand lane here.  But if I'm looking, it was in the left-hand lane.  It was right here.",a,THE WITNESS,start_question
+170,427,16,19,"I'm talking about Ms. Charles, the one that just left.",q,MS. BILARDO,start_answer
+171,429,16,21,"Oh, Ms. Charles.  No, I didn't see her at all.",a,THE WITNESS,start_question
+172,430,16,22,Okay.  Did you --,q,MS. BILARDO,start_answer
+173,431,16,23,"I'm sorry.  I -- you said ""Ms."" -- I thought you said ""Ms. Gauger.""",a,THE WITNESS,start_question
+174,433,16,25,Ms. Charles.  Did -- no.  The woman that just left --,q,MS. BILARDO,start_answer
+175,436,17,2,Was Ms. Charles.,a,THE WITNESS,start_question
+176,437,17,3,-- was Ms. Charles.,q,MS. BILARDO,start_answer
+177,438,17,4,"I'm sorry.  I thought you said ""Ms. Gauger.""",a,THE WITNESS,start_question
+178,439,17,5,No.  That's okay.  Did you see her vehicle at all --,q,MS. BILARDO,start_answer
+179,441,17,7,Not at all.,a,THE WITNESS,start_question
+180,442,17,8,-- prior to the accident?,q,MS. BILARDO,start_answer
+181,443,17,9,No.,a,THE WITNESS,start_question
+182,444,17,10,"So what I'm gonna have you do is tell us, in your words, how the accident happened.  And then I'll back in from there the questions.  I think that might be a little bit easier.  Because of there being multiple vehicles --",q,MS. BILARDO,start_answer
+183,448,17,14,Right.  Right.,a,THE WITNESS,start_question
+184,449,17,15,"-- involved, you might be confusing the names of the parties.",q,MS. BILARDO,start_answer
+185,451,17,17,Okay.,a,THE WITNESS,start_question
+186,452,17,18,"Okay?  And if you could describe the vehicles in any way as you're talking about what happened, that would be helpful, either by color, whether it be an SUV.  Like you said ""the blue convertible.""",q,MS. BILARDO,start_answer
+187,456,17,22,Yes.,a,THE WITNESS,start_question
+188,457,17,23,That's helpful for us to piece it all together.,q,MS. BILARDO,start_answer
+189,458,17,24,Okay.  So I was traveling north on Schuylkill Avenue.  I was stopped at a red light.  The light changed from red to green.  I proceeded through the intersection. And I felt impact and my airbag deployed.,a,THE WITNESS,start_question
+190,463,18,3,"And after the accident happened, did you -- did you realize what had happened?",q,MS. BILARDO,start_answer
+191,465,18,5,"Well, I realized I was involved in a collision, but what exactly happened, no.  I honestly -- I didn't -- I didn't know what hit me.",a,THE WITNESS,start_question
+192,468,18,8,And I'm going to show you an exhibit that I'm going to mark as Exhibit 3.,q,MS. BILARDO,is brackets
+193,470,18,10,(Exhibit 3 marked for identification.),brackets,,start_chat
+194,471,18,11,Thank you.,side_chat,MR. BRANCA,start_question
+195,473,18,13,And I just handed you Exhibit No. 3.  Do you recognize what's in that photo?,q,MS. BILARDO,start_answer
+196,475,18,15,Yes.,a,THE WITNESS,start_question
+197,476,18,16,What is that a picture of?,q,MS. BILARDO,start_answer
+198,477,18,17,My vehicle.,a,THE WITNESS,start_question
+199,478,18,18,And does that picture accurately represent how your vehicle looked after this accident happened?,q,MS. BILARDO,start_answer
+200,480,18,20,Yes.,a,THE WITNESS,start_question
+201,481,18,21,"In that picture, it shows a front-end impact.  Was your vehicle impacted on the passenger side in any way? Like was there any impact to your passenger side?",q,MS. BILARDO,start_answer
+202,484,18,24,I don't recall.,a,THE WITNESS,start_question
+203,485,18,25,Was there any impact to your driver's side?,q,MS. BILARDO,start_answer
+204,487,19,1,No.,a,THE WITNESS,start_question
+205,488,19,2,"After the initial impact that you had where you said that your airbags deployed, did you hit anything else?",q,MS. BILARDO,start_answer
+206,491,19,5,No.,a,THE WITNESS,start_question
+207,492,19,6,Did you only have one impact?,q,MS. BILARDO,start_answer
+208,493,19,7,Yes.,a,THE WITNESS,start_question
+209,494,19,8,"Did you see what happened next, or because your airbag deployed, you don't know?",q,MS. BILARDO,start_answer
+210,496,19,10,I don't know.,a,THE WITNESS,start_question
+211,497,19,11,What do you recall next?,q,MS. BILARDO,start_answer
+212,498,19,12,"I recall my -- my car shutting down and then continuing straight, rolling right through the intersection, onto South Schuylkill Avenue, still in my lane.  And then it finally just came to a stop and died. It -- it just stopped.  It wasn't running.  It just, you know, rolled through and just stopped.",a,THE WITNESS,start_question
+213,504,19,18,Do you know what the speed limit is for you on Schuylkill Avenue in that area?,q,MS. BILARDO,start_answer
+214,506,19,20,Twenty-five miles per hour.,a,THE WITNESS,start_question
+215,507,19,21,Do you know what your speed was approximately at the time of this accident?,q,MS. BILARDO,start_answer
+216,509,19,23,I would say approximately six to eight miles an hour.,a,THE WITNESS,start_question
+217,511,19,25,"After you got out of the vehicle, did you speak with anyone else at the scene?",q,MS. BILARDO,start_answer
+218,514,20,2,"Well, I couldn't get out of the vehicle.  And the smoke -- I've never been in an accident, but the smoke from the airbag, I thought my car was on fire.  So I kind of panicked. And there were two -- there was a gentleman.  I believe he was painting on that street, painting a house.  He got me out of my vehicle.  So he was the initial person that I spoke with, but I don't know his name or anything.  I just know he was doing -- I actually seen him there the -- the -- the couple days before that, doing -- doing work. I believe he was painting or doing contractual work on a house.  He came -- he came to my car and got me out.  But he's the -- he's the person that I spoke with as soon as I got out of my car.",a,THE WITNESS,start_question
+219,529,20,17,"After you did get out of the vehicle, do you recall speaking with any of the other drivers that were involved?",q,MS. BILARDO,start_answer
+220,531,20,19,No.,a,THE WITNESS,start_question
+221,532,20,20,"Now, you heard testimony that there were other vehicles involved, Ms. Gauger's vehicle, the BMW.  Did you see any of those impacts?",q,MS. BILARDO,start_answer
+222,535,20,23,No.,a,THE WITNESS,start_question
+223,536,20,24,Did you speak with the police at the scene?,q,MS. BILARDO,start_answer
+224,537,20,25,Yes.,a,THE WITNESS,start_question
+225,539,21,1,And what do you recall telling the police?,q,MS. BILARDO,start_answer
+226,540,21,2,That somebody ran a red light.,a,THE WITNESS,start_question
+227,541,21,3,And you heard testimony that there was a young man that was taking pictures at the scene?,q,MS. BILARDO,start_answer
+228,543,21,5,Yes.,a,THE WITNESS,start_question
+229,544,21,6,Did you ever speak with him?,q,MS. BILARDO,start_answer
+230,545,21,7,No.,a,THE WITNESS,start_question
+231,546,21,8,Did you ever take your own pictures at the scene?,q,MS. BILARDO,start_answer
+232,547,21,9,"Not at the scene, no.",a,THE WITNESS,start_question
+233,548,21,10,And did you take any pictures at all?,q,MS. BILARDO,start_answer
+234,549,21,11,I took those pictures that you're passing around from -- I believe it's where it was towed.  I can't remember the name of the place.  Dileo's?,a,THE WITNESS,start_question
+235,552,21,14,"So there are pictures of your vehicle.  Other than the pictures of your vehicle, did you take any other pictures of anybody else's vehicle?",q,MS. BILARDO,start_answer
+236,555,21,17,No.,a,THE WITNESS,start_question
+237,556,21,18,"After you left the scene of the accident, did anyone call you on the phone at any time to talk to you about the accident?",q,MS. BILARDO,start_answer
+238,559,21,21,"No.  Well, I -- nobody called me about the accident.  I went to the hospital.  I was transported to the hospital by ambulance.  When I got home from the hospital, I called the insurance company to report the incident.  That's the only person that I spoke with.",a,THE WITNESS,start_question
+239,565,22,1,And did you give them a recorded statement at any time?,q,MS. BILARDO,start_answer
+240,567,22,3,Yes.,a,THE WITNESS,start_question
+241,568,22,4,And do you remember if that was the same day as the accident?,q,MS. BILARDO,start_answer
+242,570,22,6,"It was the same day, yes.",a,THE WITNESS,start_question
+243,571,22,7,Did you try to contact any of the other drivers at any other time?,q,MS. BILARDO,start_answer
+244,573,22,9,No.,a,THE WITNESS,start_question
+245,574,22,10,"Have you ever met Ms. Charles that just left here, my client --",q,MS. BILARDO,start_answer
+246,576,22,12,No.,a,THE WITNESS,start_question
+247,577,22,13,-- prior to this accident?,q,MS. BILARDO,start_answer
+248,578,22,14,No.,a,THE WITNESS,start_question
+249,579,22,15,Have you ever spoken to Ms. Gauger at all prior to this accident?,q,MS. BILARDO,start_answer
+250,581,22,17,No.,a,THE WITNESS,start_question
+251,582,22,18,Are you aware of any witnesses that may have seen the accident?,q,MS. BILARDO,start_answer
+252,584,22,20,Just the one that was listed in the police report.,a,THE WITNESS,start_question
+253,585,22,21,"Would you have known that person was even a witness had it not been listed in the police report, by your independent knowledge?  Like would you have spoken with him at the scene --",q,MS. BILARDO,start_answer
+254,589,22,25,No.,a,THE WITNESS,start_question
+255,591,23,1,"-- and said, ""Are you a witness?""",q,MS. BILARDO,start_answer
+256,592,23,2,No.,a,THE WITNESS,start_question
+257,593,23,3,"Did you have the opportunity to observe what damages, if any, were done to the other vehicles after the accident?",q,MS. BILARDO,start_answer
+258,596,23,6,No.,a,THE WITNESS,start_question
+259,597,23,7,"Do you know what vehicle your vehicle impacted with, like whose vehicle you had an impact with?",q,MS. BILARDO,start_answer
+260,599,23,9,Ms. Charles'.,a,THE WITNESS,start_question
+261,600,23,10,"And do you only know that because that's something that you learned after the fact, or is that something that you knew on the date of the accident?",q,MS. BILARDO,start_answer
+262,603,23,13,Repeat your question.,a,THE WITNESS,start_question
+263,604,23,14,"Well, there were multiple vehicles involved in the accident.",q,MS. BILARDO,start_answer
+264,606,23,16,Correct.,a,THE WITNESS,start_question
+265,607,23,17,"So at the scene of the accident, would you have been able to say, ""I had an accident with this year, make, and model of this vehicle""?",q,MS. BILARDO,start_answer
+266,610,23,20,"No.  I would not, no.",a,THE WITNESS,start_question
+267,611,23,21,Do you even know where Ms. Charles had an impact?,q,MS. BILARDO,start_answer
+268,612,23,22,No.,a,THE WITNESS,start_chat
+269,613,23,23,I don't have any other questions.,side_chat,MS. BILARDO,start_chat
+270,615,23,25,I don't have any questions either.,side_chat,MS. PAUL,start_chat
+271,618,24,2,That's it.,side_chat,MR. BRANCA,is brackets
+272,619,24,3,(Witness excused.),brackets,,is brackets
+273,620,24,4,"(Deposition ended at 5:38 p.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+274,659,25,18,__________________________ Ian Monahan and Notary Public,symbols,,end

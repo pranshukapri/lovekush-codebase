@@ -1,0 +1,685 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,134,5,14,-  -  - EXAMINATION,symbols,,symbols
+2,136,5,16,-  -  -,symbols,,start_question
+3,138,5,18,Good morning.,q,MR. SABATO,start_answer
+4,139,5,19,Good morning.,a,THE WITNESS,start_question
+5,140,5,20,Please state your name.,q,MR. SABATO,start_answer
+6,141,5,21,Kenneth Bateman.,a,THE WITNESS,start_question
+7,142,5,22,"Mr. Bateman, my name is Leonard Sabato, I represent the other driver with regard to this accident, which I think we can all agree occurred on February 24th, 2017.",q,MR. SABATO,start_answer
+8,149,6,3,Yes.,a,THE WITNESS,start_question
+9,150,6,4,You've just taken an oath to tell the truth.  Have you ever taken an oath to tell the truth before?,q,MR. SABATO,start_answer
+10,153,6,7,Yes.,a,THE WITNESS,start_question
+11,154,6,8,In what kind of capacity?,q,MR. SABATO,start_answer
+12,155,6,9,I represented H&R Block in a lawsuit a client brought about hurting himself on a fence around one of our properties.,a,THE WITNESS,start_question
+13,159,6,13,And you were a witness in the litigation?,q,MR. SABATO,start_answer
+14,161,6,15,"Yes, sir.",a,THE WITNESS,start_question
+15,162,6,16,"Other than that, have you ever had to take one?",q,MR. SABATO,start_answer
+16,164,6,18,No.,a,THE WITNESS,start_question
+17,165,6,19,"Okay.  I'm going ask you some questions, a little bit about the accident, your background, your injuries, your treatment, things of that nature. If at any time you don't hear me, you don't understand me, please stop me and tell me and I will repeat the question, talk softer, louder, slower, whatever it takes.  Okay?",q,MR. SABATO,start_answer
+18,176,7,4,Okay.,a,THE WITNESS,start_question
+19,177,7,5,"Keep in mind the court reporter is taking down everything we say.  She can't take down nods of the head, shrugs of the shoulders, hand gestures and the like, so try to keep all of your responses verbal.  Okay?",q,MR. SABATO,start_answer
+20,183,7,11,Okay.,a,THE WITNESS,start_question
+21,184,7,12,"Similarly, try to wait until I finish asking the question even though you might anticipate what I'm going to ask you, again so there's only one of us talking at a time and we're not talking over each other.  Okay?",q,MR. SABATO,start_answer
+22,190,7,18,Okay.,a,THE WITNESS,start_question
+23,191,7,19,"If at any time you want to take a break, use the restroom, get something to drink, just speak up and we'll accommodate you.  Okay?",q,MR. SABATO,start_answer
+24,195,7,23,Okay.,a,THE WITNESS,start_question
+25,196,7,24,"I do ask, however, that if you do want to take a break, that if there is a question pending, you answer the question and then we'll take a break. If you want to talk your attorney, if you want to come back, change the answer, whatever, we'll do it that way.",q,MR. SABATO,start_answer
+26,205,8,7,Okay.,a,THE WITNESS,start_question
+27,206,8,8,What is your address?,q,MR. SABATO,start_answer
+28,207,8,9,"2430 Oakland Drive, Norristown, Pennsylvania.",a,THE WITNESS,start_question
+29,209,8,11,Okay.  Who do you live there with?,q,MR. SABATO,start_answer
+30,211,8,13,"Myself, my wife, and my youngest son.",a,THE WITNESS,start_question
+31,213,8,15,How old is your youngest son?,q,MR. SABATO,start_answer
+32,215,8,17,24.,a,THE WITNESS,start_question
+33,216,8,18,Is your youngest son a special needs child?,q,MR. SABATO,start_answer
+34,218,8,20,No.,a,THE WITNESS,start_question
+35,219,8,21,How long have you been married?,q,MR. SABATO,start_answer
+36,221,8,23,You're going to get me in trouble with this one.  43 years I think.,a,THE WITNESS,start_question
+37,225,9,1,Do you have any other children other than your 24-year-old?,q,MR. SABATO,start_answer
+38,227,9,3,Yes.,a,THE WITNESS,start_question
+39,228,9,4,How many other children?,q,MR. SABATO,start_answer
+40,229,9,5,Two.,a,THE WITNESS,start_question
+41,230,9,6,Were you living at 2430 Oakland Drive in Norristown at the time of the accident?,q,MR. SABATO,start_answer
+42,233,9,9,"Yes, sir.",a,THE WITNESS,start_question
+43,234,9,10,How long have you lived there?,q,MR. SABATO,start_answer
+44,236,9,12,Approximately 30 years.,a,THE WITNESS,start_question
+45,237,9,13,How far did you go in school?,q,MR. SABATO,start_answer
+46,239,9,15,High school.,a,THE WITNESS,start_question
+47,240,9,16,You're a high school graduate?,q,MR. SABATO,start_answer
+48,242,9,18,"Yes, sir.",a,THE WITNESS,start_question
+49,243,9,19,Was that locally --,q,MR. SABATO,start_answer
+50,244,9,20,"Yes, sir.",a,THE WITNESS,start_question
+51,245,9,21,-- or outside of the state?,q,MR. SABATO,start_answer
+52,246,9,22,Locally.,a,THE WITNESS,start_question
+53,247,9,23,Do you have any other special training after high school?,q,MR. SABATO,start_answer
+54,251,10,1,Various different seminars and stuff pertaining to work.,a,THE WITNESS,start_question
+55,253,10,3,"Okay.  And when you say work, what kind of work are we talking about?",q,MR. SABATO,start_answer
+56,256,10,6,So I have had four distinct jobs.  First was with Kentucky Fried Chicken.,a,THE WITNESS,start_question
+57,259,10,9,What did you do at KFC?,q,MR. SABATO,start_answer
+58,260,10,10,"I started as an hourly employee when I was 16, and I worked myself up to a regional director in charge of 70 restaurants.  Second job, I worked with Washington Inventory Service.",a,THE WITNESS,start_question
+59,265,10,15,"Before you get off of KFC, from when to when did you work at KFC?",q,MR. SABATO,start_answer
+60,267,10,17,'71 to '91.,a,THE WITNESS,start_question
+61,268,10,18,"During that period of time from '71 to '91, did you ever injure yourself and make a Workers' Compensation claim?",q,MR. SABATO,start_answer
+62,272,10,22,"No, sir.",a,THE WITNESS,start_question
+63,273,10,23,What's the second one?,q,MR. SABATO,start_answer
+64,274,10,24,Washington Inventory Service.,a,THE WITNESS,start_question
+65,278,11,2,What did you do there?,q,MR. SABATO,start_answer
+66,279,11,3,Regional director in charge of 16 states.,a,THE WITNESS,start_question
+67,281,11,5,Doing what?,q,MR. SABATO,start_answer
+68,282,11,6,Overseeing offices that took physical inventories of different businesses.,a,THE WITNESS,start_question
+69,285,11,9,When did you work there?,q,MR. SABATO,start_answer
+70,286,11,10,'92 to 2000.,a,THE WITNESS,start_question
+71,287,11,11,"Okay.  And in that job, have you ever injured yourself and made a Workers' Compensation claim?",q,MR. SABATO,start_answer
+72,290,11,14,"No, sir.",a,THE WITNESS,start_question
+73,291,11,15,Have you ever made a Workers' Compensation claim?,q,MR. SABATO,start_answer
+74,293,11,17,"No, sir.",a,THE WITNESS,start_question
+75,294,11,18,What did you do after your second job?,q,MR. SABATO,start_answer
+76,296,11,20,"I worked for a company called Delta-T Group, they specialize in staffing.  I was director of operations.",a,THE WITNESS,start_question
+77,299,11,23,How long did you work there?,q,MR. SABATO,start_answer
+78,300,11,24,"I believe three years, give or take.",a,THE WITNESS,start_question
+79,304,12,2,Okay.  And the fourth one was H&R Block?,q,MR. SABATO,start_answer
+80,306,12,4,"H&R Block, yes, sir.",a,THE WITNESS,start_question
+81,307,12,5,And what do you do for H&R Block?,q,MR. SABATO,start_answer
+82,309,12,7,"District manager in charge of 34 offices, City of Philadelphia.",a,THE WITNESS,start_question
+83,311,12,9,"You're not an accountant, right?",q,MR. SABATO,start_answer
+84,313,12,11,"Oh, gosh, no.",a,THE WITNESS,start_question
+85,314,12,12,"So when you say you took care of the offices, in what capacity?",q,MR. SABATO,start_answer
+86,316,12,14,"Leadership.  So my job description was to visit offices, provide leadership in any way, shape, or form, fix problems, that type of stuff.",a,THE WITNESS,start_question
+87,320,12,18,"When you say fix problems, you mean problems with staff or problems with --",q,MR. SABATO,start_answer
+88,323,12,21,Whatever came up at the office.  My job was to make sure that the offices ran efficiently.,a,THE WITNESS,start_question
+89,326,12,24,Like an office manager for 34 offices basically?,q,MR. SABATO,start_answer
+90,330,13,2,"Yeah, you could say that, yes.",a,THE WITNESS,start_question
+91,332,13,4,And when did you start at H&R Block?,q,MR. SABATO,start_answer
+92,334,13,6,"So I was there for 13 years, would be 2004 I guess.",a,THE WITNESS,start_question
+93,336,13,8,And when is the last time you worked at H&R Block?,q,MR. SABATO,start_answer
+94,338,13,10,The beginning of May 2017.,a,THE WITNESS,start_question
+95,339,13,11,"Okay.  In your job at KFC, do you have a pension from that?",q,MR. SABATO,start_answer
+96,341,13,13,"Yes, sir.",a,THE WITNESS,start_question
+97,342,13,14,"And how about your second job, was it Washington?",q,MR. SABATO,start_answer
+98,344,13,16,"Yes, sir.",a,THE WITNESS,start_question
+99,345,13,17,"Do you have a pension from that, also?",q,MR. SABATO,start_answer
+100,347,13,19,"Yes, sir.",a,THE WITNESS,start_question
+101,348,13,20,And how about from the Delta Group?,q,MR. SABATO,start_answer
+102,350,13,22,"No, sir.",a,THE WITNESS,start_question
+103,351,13,23,And how about H&R Block?,q,MR. SABATO,start_answer
+104,352,13,24,"No, sir.",a,THE WITNESS,start_question
+105,355,14,1,"Okay.  So did you continue to work from May 24th, 2017 when this accident happened until you retired in May of 2017?",q,MR. SABATO,start_answer
+106,359,14,5,So the accident happened February 24th.,a,THE WITNESS,start_question
+107,361,14,7,"February 24th, right.",q,MR. SABATO,start_answer
+108,362,14,8,"So I was employed by them, but I couldn't do the job.",a,THE WITNESS,start_question
+109,364,14,10,Did you work?,q,MR. SABATO,start_answer
+110,365,14,11,Yes.,a,THE WITNESS,start_question
+111,366,14,12,"Okay.  And when did you make arrangements to -- I assume you retired. Is that what you did, did you retire?",q,MR. SABATO,start_answer
+112,369,14,15,"No, they terminated me.",a,THE WITNESS,start_question
+113,370,14,16,You were terminated?,q,MR. SABATO,start_answer
+114,371,14,17,"Yes, sir.",a,THE WITNESS,start_question
+115,372,14,18,Did you get any kind of a package?,q,MR. SABATO,start_answer
+116,374,14,20,"Yes, sir.",a,THE WITNESS,start_question
+117,375,14,21,What kind of a package?,q,MR. SABATO,start_answer
+118,376,14,22,They gave me a weeks pay for each year that I worked.,a,THE WITNESS,start_question
+119,378,14,24,So you got 13 weeks pay?,q,MR. SABATO,start_answer
+120,381,15,1,"Yes, sir.",a,THE WITNESS,start_question
+121,382,15,2,Did you get any kind of medical benefits?,q,MR. SABATO,start_answer
+122,384,15,4,"No, sir.",a,THE WITNESS,start_question
+123,385,15,5,Did you get unemployment compensation?,q,MR. SABATO,start_answer
+124,387,15,7,"Yes, sir.",a,THE WITNESS,start_question
+125,388,15,8,For how long?,q,MR. SABATO,start_answer
+126,389,15,9,Six months I guess is what it runs for.,a,THE WITNESS,start_question
+127,391,15,11,"When you say you couldn't do the job, why couldn't you do the job?",q,MR. SABATO,start_answer
+128,393,15,13,"The job requires you to visit the offices and check on them and help whatever necessary, and due to the injuries from the accident, I couldn't drive.",a,THE WITNESS,start_question
+129,398,15,18,And what were those injuries that you claim you suffered from this accident?,q,MR. SABATO,start_answer
+130,401,15,21,The back injuries.,a,THE WITNESS,start_question
+131,402,15,22,Have you ever injured your back before this accident in any way?,q,MR. SABATO,start_answer
+132,404,15,24,"No, sir.",a,THE WITNESS,start_question
+133,407,16,1,"According to your answers to interrogatories -- first of all, did you have an opportunity to go over your answers to interrogatories with your attorney?",q,MR. SABATO,start_answer
+134,412,16,6,I don't know what the interrogatories are.,a,THE WITNESS,start_question
+135,414,16,8,Questions that you answered that I sent to your attorney.  You don't know what they are?,q,MR. SABATO,start_answer
+136,417,16,11,"Once again, I'm not 100 percent clear.",a,THE WITNESS,start_question
+137,419,16,13,Okay.  I'm going to show you a copy of your verification.,q,MR. SABATO,start_answer
+138,421,16,15,"Oh, yes, I've seen that.",a,THE WITNESS,start_question
+139,422,16,16,Do you remember answering these questions then?,q,MR. SABATO,start_answer
+140,424,16,18,"Yes, sir.",a,THE WITNESS,start_question
+141,425,16,19,And that would have been June 19th of 2019?,q,MR. SABATO,start_answer
+142,427,16,21,"Yes, sir.",a,THE WITNESS,start_question
+143,428,16,22,So we're talking about six weeks ago?,q,MR. SABATO,start_answer
+144,430,16,24,"Yes, sir.",a,THE WITNESS,start_question
+145,433,17,1,"And in answer 28, you indicated, ""My health was excellent, no prior existing conditions.""",q,MR. SABATO,start_answer
+146,436,17,4,"Yes, sir.",a,THE WITNESS,start_question
+147,437,17,5,Is that correct?,q,MR. SABATO,start_answer
+148,438,17,6,"Yes, sir.",a,THE WITNESS,start_question
+149,439,17,7,Are you under the care of a doctor for any conditions?,q,MR. SABATO,start_answer
+150,441,17,9,Currently now?,a,THE WITNESS,start_question
+151,442,17,10,Yeah.,q,MR. SABATO,start_answer
+152,443,17,11,"Yes, sir.",a,THE WITNESS,start_question
+153,444,17,12,For what?,q,MR. SABATO,start_answer
+154,445,17,13,My back.,a,THE WITNESS,start_question
+155,446,17,14,Anything else?,q,MR. SABATO,start_answer
+156,447,17,15,"I see my family doctor to treat my diabetes, I see her every three months.",a,THE WITNESS,start_question
+157,450,17,18,And who is that?,q,MR. SABATO,start_answer
+158,451,17,19,Dr. Patricia Lotito.,a,THE WITNESS,start_question
+159,452,17,20,How long has she been your family doctor?,q,MR. SABATO,start_answer
+160,454,17,22,20 plus years.,a,THE WITNESS,start_question
+161,455,17,23,Did you see her at all for this accident?,q,MR. SABATO,start_answer
+162,459,18,1,"Not pertaining to the injuries.  When I first got the injury, they told me to go see the family doctors, which I did.",a,THE WITNESS,start_question
+163,463,18,5,And so was she the first doctor you saw?,q,MR. SABATO,start_answer
+164,465,18,7,"Yes, sir.",a,THE WITNESS,start_question
+165,466,18,8,And what did she do?,q,MR. SABATO,start_answer
+166,467,18,9,She recommended me to a chiropractor for physical therapy.,a,THE WITNESS,start_question
+167,469,18,11,Have you ever treated with a chiropractor before this accident?,q,MR. SABATO,start_answer
+168,471,18,13,No.,a,THE WITNESS,start_question
+169,472,18,14,Have you ever made any complaints about your upper or lower back to any healthcare provider in the last ten years?,q,MR. SABATO,start_answer
+170,476,18,18,No.,a,THE WITNESS,start_question
+171,477,18,19,Do you suffer from hypertension?,q,MR. SABATO,start_answer
+172,479,18,21,I'm not sure what hypertension is.,a,THE WITNESS,start_question
+173,481,18,23,High blood pressure.,q,MR. SABATO,start_answer
+174,482,18,24,"High blood pressure, yes.",a,THE WITNESS,start_question
+175,485,19,1,Do you take medication for that?,q,MR. SABATO,start_answer
+176,487,19,3,"Yes, sir.",a,THE WITNESS,start_question
+177,488,19,4,Do you suffer from high cholesterol?,q,MR. SABATO,start_answer
+178,490,19,6,"Yes, sir.",a,THE WITNESS,start_question
+179,491,19,7,Do you suffer from anxiety?,q,MR. SABATO,start_answer
+180,492,19,8,No.,a,THE WITNESS,start_question
+181,493,19,9,Have you ever told anyone that you suffered from anxiety?,q,MR. SABATO,start_answer
+182,495,19,11,"So part of the treatment with the diabetes was, I don't know what you just called it, but yeah, they give me a pill for the stress.",a,THE WITNESS,start_question
+183,499,19,15,Okay.,q,MR. SABATO,start_chat
+184,500,19,16,I apologize. Is there a tissue available and some water?,side_chat,MR. GITMAN,start_chat
+185,503,19,19,"Sure, follow me.",side_chat,MR. SABATO,symbols
+186,505,19,21,-  -  -,symbols,,is brackets
+187,506,19,22,"(Whereupon, a brief break was taken.)",brackets,,symbols
+188,508,19,24,-  -  -,symbols,,start_chat
+189,511,20,1,"So what we're talking about doctors, I did want to let you know that I was taken to the hospital by ambulance at the scene of the accident.  I don't think the young lady said that.  So at the accident, I wasn't --",side_chat,THE WITNESS,start_question
+190,520,20,10,She didn't go.,q,MR. SABATO,start_answer
+191,521,20,11,No.  But I think she said that --,a,THE WITNESS,start_question
+192,523,20,13,"She said she didn't know, she didn't know an ambulance came.",q,MR. SABATO,start_answer
+193,525,20,15,"Okay, yeah.  So I was taken to the hospital that day, that morning.",a,THE WITNESS,start_question
+194,527,20,17,"Yes, I'm aware.  Let's stick to my questions.  Okay?",q,MR. SABATO,start_answer
+195,529,20,19,Okay.,a,THE WITNESS,start_question
+196,530,20,20,"So when I ask you a question, you answer the question, and then, you know.  I understand, you don't have to worry about what she said.",q,MR. SABATO,start_answer
+197,534,20,24,All right.,a,THE WITNESS,start_chat
+198,537,21,1,What was the last thing I asked?,side_chat,MR. SABATO,symbols
+199,539,21,3,-  -  -,symbols,,is brackets
+200,540,21,4,"(Whereupon, the court reporter read the pertinent part of the record.)",brackets,,symbols
+201,543,21,7,-  -  -,symbols,,start_question
+202,545,21,9,So my question is did you ever tell anyone that you suffered from anxiety?,q,MR. SABATO,start_answer
+203,548,21,12,"Yeah, I probably had that conversation with Dr. Lotito.",a,THE WITNESS,start_question
+204,550,21,14,Did you ever tell anyone that you have a musculoskeletal disorder?,q,MR. SABATO,start_answer
+205,552,21,16,I don't know what that is.,a,THE WITNESS,start_question
+206,553,21,17,Did you ever tell anyone you had osteoarthritis?,q,MR. SABATO,start_answer
+207,555,21,19,No.,a,THE WITNESS,start_question
+208,556,21,20,Did you ever tell anyone that you had chronic back pain?,q,MR. SABATO,start_answer
+209,558,21,22,No.,a,THE WITNESS,start_question
+210,559,21,23,"So if the emergency room records under past medical history indicates you have those conditions, you would disagree that you told them that?",q,MR. SABATO,start_answer
+211,565,22,3,"I'm not understanding what you're asking me, sir.",a,THE WITNESS,start_question
+212,567,22,5,"My question is if the medical records from the emergency room indicate that you have told them that you have a history of musculoskeletal disorder, chronic back pain, and osteoarthritis, would you disagree with that?",q,MR. SABATO,start_answer
+213,574,22,12,"Yeah.  At the emergency room, once again, I mean, I was pretty discombobulated.  I couldn't quite remember stuff, and so I'm not quite sure what I would have told them.",a,THE WITNESS,start_question
+214,579,22,17,"Okay.  In your answers to interrogatories, you indicate I saw somewhere -- here it is, worsening of the vertigo in terms of the injuries that you suffered in the accident.  Did you have vertigo before the accident?",q,MR. SABATO,start_answer
+215,585,22,23,"Yes, sir.",a,THE WITNESS,start_question
+216,586,22,24,Okay.  What kind of history of vertigo do you have?,q,MR. SABATO,start_answer
+217,590,23,2,"I mean, I'm not quite sure I understand.  So I have vertigo, so I went to see a therapist and she kind of did a treatment and that was pretty much it.",a,THE WITNESS,start_question
+218,594,23,6,Okay.  When did you see this provider?,q,MR. SABATO,start_answer
+219,596,23,8,I'm not sure.,a,THE WITNESS,start_question
+220,597,23,9,Was it within the last five years?,q,MR. SABATO,start_answer
+221,599,23,11,Yes.,a,THE WITNESS,start_question
+222,600,23,12,Was it within the last two years?,q,MR. SABATO,start_answer
+223,602,23,14,Couldn't tell you.,a,THE WITNESS,start_question
+224,603,23,15,Okay.  Who was the therapist?,q,MR. SABATO,start_answer
+225,605,23,17,Couldn't tell you her name.,a,THE WITNESS,start_question
+226,606,23,18,How did you know to go to this therapist?,q,MR. SABATO,start_answer
+227,608,23,20,"My next door neighbor went to her when they had vertigo, and she fixed him, so she recommended her, so I went to see her then.",a,THE WITNESS,start_question
+228,612,23,24,But you don't know when?,q,MR. SABATO,start_answer
+229,615,24,1,Couldn't remember.,a,THE WITNESS,start_question
+230,616,24,2,How many times did you see this person for your vertigo?,q,MR. SABATO,start_answer
+231,618,24,4,Maybe two or three.,a,THE WITNESS,start_question
+232,619,24,5,"Two or three times somewhere between two and five years ago, is that what I'm hearing?",q,MR. SABATO,start_answer
+233,622,24,8,"That's pretty fair, yes.",a,THE WITNESS,start_question
+234,623,24,9,What kind of treatment did you get on those two or three occasions?,q,MR. SABATO,start_answer
+235,625,24,11,They just tilt your head certain ways and it fixes it.,a,THE WITNESS,start_question
+236,627,24,13,Did you continue with having vertigo --,q,MR. SABATO,start_answer
+237,629,24,15,No.,a,THE WITNESS,start_question
+238,630,24,16,You didn't let me finish the question.  Did you continue with having the vertigo after you had these couple of treatments two to five years ago?,q,MR. SABATO,start_answer
+239,634,24,20,No.,a,THE WITNESS,start_question
+240,635,24,21,So you were vertigo free?,q,MR. SABATO,start_answer
+241,636,24,22,"Yes, sir.",a,THE WITNESS,start_question
+242,637,24,23,"So when you indicate that you had worsening of vertigo, what do you mean?",q,MR. SABATO,start_answer
+243,642,25,2,"Once again, I'm not sure what you're referring to.",a,THE WITNESS,start_question
+244,644,25,4,"I'm referring to your answers to interrogatories where in response to a question about your injuries, you answered back pain, worsening of the vertigo, headaches, and left leg injury.  So my question is when you say worsening of the vertigo, I interpret that, and please tell me if I'm wrong, that you had vertigo and it got worse?",q,MR. SABATO,start_answer
+245,654,25,14,"No.  I had vertigo -- once, again, I'm not 100 percent sure of the timing of when I went to the doctor.",a,THE WITNESS,start_question
+246,657,25,17,Okay.,q,MR. SABATO,start_answer
+247,658,25,18,"So I can't help you with all of that.  If the timing is during the accident time, then yeah.",a,THE WITNESS,start_question
+248,661,25,21,"Do you mean it came back, the vertigo?",q,MR. SABATO,start_answer
+249,663,25,23,"I went to the doctor for vertigo and she treated me I believe it was three times.  And then after that, it got dramatically better.  So I mean, I don't know the timing of all of that and where it affects as far as the accident is concerned.",a,THE WITNESS,start_question
+250,672,26,6,Did you suffer vertigo that you attribute to the accident?,q,MR. SABATO,start_answer
+251,674,26,8,"I don't know what causes vertigo, so I can't tell you that.",a,THE WITNESS,start_question
+252,676,26,10,"Okay.  This left leg injury, what is that?",q,MR. SABATO,start_answer
+253,678,26,12,Pain down my left leg and my knee.,a,THE WITNESS,start_question
+254,680,26,14,And how long have you had that?,q,MR. SABATO,start_answer
+255,682,26,16,Since the accident.,a,THE WITNESS,start_question
+256,683,26,17,"Could you describe the pain for me, is it --",q,MR. SABATO,start_answer
+257,685,26,19,"Like a throb, ache, needles.",a,THE WITNESS,start_question
+258,686,26,20,"Has any medical provider told you what that involves and what it's from, anything like that?",q,MR. SABATO,start_answer
+259,689,26,23,(Witness nods.),a,THE WITNESS,start_question
+260,690,26,24,No one has ever told you that?,q,MR. SABATO,start_answer
+261,694,27,2,"When it comes to the medical stuff, I'm not trained or I don't have all the insight and stuff like that.  So when they start telling me the medical terms and stuff like that, I get lost very quickly.",a,THE WITNESS,start_question
+262,700,27,8,Okay.  I see you're wearing something around your torso.,q,MR. SABATO,start_answer
+263,702,27,10,"Yes, sir.",a,THE WITNESS,start_question
+264,703,27,11,What is that?,q,MR. SABATO,start_answer
+265,704,27,12,That's a back brace.,a,THE WITNESS,start_question
+266,705,27,13,Where did you get the back brace?,q,MR. SABATO,start_answer
+267,707,27,15,From my back doctor.,a,THE WITNESS,start_question
+268,708,27,16,And who is that?,q,MR. SABATO,start_answer
+269,709,27,17,Dr. Efron.,a,THE WITNESS,start_question
+270,710,27,18,And when did he prescribe that?,q,MR. SABATO,start_answer
+271,712,27,20,When I first started seeing him.,a,THE WITNESS,start_question
+272,714,27,22,Approximately how long after the accident did you start seeing Dr. Efron?,q,MR. SABATO,start_answer
+273,719,28,1,"I'm not 100 percent sure, probably within a month or two.",a,THE WITNESS,start_question
+274,721,28,3,And what did Dr. Efron do for you?,q,MR. SABATO,start_answer
+275,723,28,5,"So we had x-rays and we had a couple different MRIs.  I've been seeing Dr. Efron for -- well, my last procedure with him for my back was last week.  I've had 14 different procedures.",a,THE WITNESS,start_question
+276,728,28,10,What kind of procedures?,q,MR. SABATO,start_answer
+277,729,28,11,"So he does a couple different ones.  He injects -- oh, gosh. Steroids, I guess it's called, he injects steroids.",a,THE WITNESS,start_chat
+278,733,28,15,I'm going to ask you not to guess.  So if you're not sure --,side_chat,MR. GITMAN,start_chat
+279,736,28,18,I'm not 100 percent sure.,side_chat,THE WITNESS,start_chat
+280,738,28,20,What?,side_chat,MR. GITMAN,start_chat
+281,739,28,21,Nothing.,side_chat,MR. SABATO,start_chat
+282,740,28,22,You guys have the medical records.,side_chat,MR. GITMAN,start_chat
+283,742,28,24,"That doesn't matter, I need to hear it from him.",side_chat,MR. SABATO,start_chat
+284,747,29,3,And if he doesn't know --,side_chat,MR. GITMAN,start_chat
+285,749,29,5,"Well, when you tell him he doesn't know, then he's not going to move on.  But okay, we'll move on.",side_chat,MR. SABATO,start_chat
+286,753,29,9,"You don't want him to guess what medicines he's taking, right?",side_chat,MR. GITMAN,start_chat
+287,756,29,12,I just wanted to ask what procedures he's had. He said he had 14 procedures.,side_chat,MR. SABATO,start_question
+288,760,29,16,You obviously were able to count how many you had.  Why don't you describe what each of the procedures were?,q,MR. SABATO,start_answer
+289,764,29,20,"So I go into the surgery center, they give me the thing that makes you sleepy or groggy, whatever.  And then he does something with injections in my back.",a,THE WITNESS,start_question
+290,771,30,1,Okay.,q,MR. SABATO,start_answer
+291,772,30,2,And then that's the process or the procedures.,a,THE WITNESS,start_question
+292,774,30,4,"Those 14 procedures, were they all the same thing or did you have different kind of procedures?",q,MR. SABATO,start_answer
+293,777,30,7,Different kind.,a,THE WITNESS,start_question
+294,778,30,8,"Other than the injections to the back after being sedated, what other kind of procedures did you have?",q,MR. SABATO,start_answer
+295,781,30,11,You're asking me to talk about the medical field.,a,THE WITNESS,start_question
+296,783,30,13,"No, I'm asking you to describe what you did when you went.",q,MR. SABATO,start_answer
+297,785,30,15,It's the same type process. I don't know what he does when he goes in there.,a,THE WITNESS,start_question
+298,788,30,18,Okay.  Did it help?,q,MR. SABATO,start_answer
+299,789,30,19,"Not -- well, the first -- up until the last one or two, no.  But the last two, it seemed to help a little bit. But over the course of time, the same problem comes back with my back.",a,THE WITNESS,start_question
+300,794,30,24,"Okay.  The back brace that you wear, could you tell me how often you wear it?",q,MR. SABATO,start_answer
+301,799,31,3,"It depends on my pain and what I'm doing, but I would say in an average week, probably five to six days.",a,THE WITNESS,start_question
+302,802,31,6,"When you say days, do you wear it all day?",q,MR. SABATO,start_answer
+303,804,31,8,"Yes, sir.",a,THE WITNESS,start_question
+304,805,31,9,"So Dr. Efron, what is the practice he's affiliated with?",q,MR. SABATO,start_answer
+305,807,31,11,Main Line Spine.,a,THE WITNESS,start_question
+306,808,31,12,"Now, the answers to interrogatories and documents that your attorney provided me indicates that you had ten epidural injection procedures at Main Line Spine, and you just indicated you had 12.  Could you tell me what the other two were?",q,MR. SABATO,start_answer
+307,815,31,19,Everything is with him.,a,THE WITNESS,start_question
+308,816,31,20,Because that was just last month.  Did you have anything in the last month?,q,MR. SABATO,start_answer
+309,819,31,23,Yes.,a,THE WITNESS,start_question
+310,820,31,24,Okay.  What did you have in the last month?,q,MR. SABATO,start_answer
+311,824,32,2,I had one a week ago.,a,THE WITNESS,start_question
+312,825,32,3,You have private health insurance?,q,MR. SABATO,start_answer
+313,827,32,5,"Yes, sir.",a,THE WITNESS,start_question
+314,828,32,6,And that's with Blue Cross Blue Shield Personal Choice?,q,MR. SABATO,start_answer
+315,830,32,8,Let me just look to be sure.,a,THE WITNESS,start_chat
+316,831,32,9,Do you want to take a copy of his insurance card?,side_chat,MR. GITMAN,start_chat
+317,833,32,11,"I think you gave me that, I'm not sure.",side_chat,MR. SABATO,start_chat
+318,835,32,13,We normally do.,side_chat,MR. GITMAN,start_question
+319,837,32,15,"I just want to confirm it so it's on the record.  Keep that out, let me write it down here.  Thank you, sir, there you go.  For the record, I'm handing back the personal choice card. Have you been placed on any kind of notice of a lien from Blue Cross Blue Shield?",q,MR. SABATO,start_answer
+320,845,32,23,No.,a,THE WITNESS,start_question
+321,846,32,24,"When you would go to any of your medical providers, would you provide them with all of your insurance information?",q,MR. SABATO,start_answer
+322,852,33,4,Yes.,a,THE WITNESS,start_question
+323,853,33,5,Your car insurance and Blue Cross Blue Shield?,q,MR. SABATO,start_answer
+324,855,33,7,Just the insurance card that I gave them.,a,THE WITNESS,start_question
+325,857,33,9,Okay.  So are they aware that you have Blue Cross Blue Shield?,q,MR. SABATO,start_answer
+326,859,33,11,"Yes, sir.",a,THE WITNESS,start_question
+327,860,33,12,They are aware?,q,MR. SABATO,start_answer
+328,861,33,13,"Yes, sir.",a,THE WITNESS,start_question
+329,862,33,14,"Okay.  To your knowledge, do you have any outstanding medical expenses that haven't been covered, either by your car insurance or Blue Cross Blue Shield?",q,MR. SABATO,start_answer
+330,866,33,18,Not to my knowledge.,a,THE WITNESS,start_question
+331,867,33,19,"Now, so the accident happens, and we'll get into the accident a little bit later.  The accident happens, you're taken to Suburban Community Hospital; is that correct?",q,MR. SABATO,start_answer
+332,872,33,24,"Yes, sir.",a,THE WITNESS,start_question
+333,875,34,1,"And there, they ask you a lot of questions, ask you what happened, things like that?",q,MR. SABATO,start_answer
+334,878,34,4,"I'm a little fuzzy while I was there.  Like I said, I hit my head and then I had back problems, so my memory and stuff like that is not as clear.",a,THE WITNESS,start_question
+335,883,34,9,You hit your head in this accident?,q,MR. SABATO,start_answer
+336,885,34,11,Yes.,a,THE WITNESS,start_question
+337,886,34,12,What did you hit your head on?,q,MR. SABATO,start_answer
+338,888,34,14,"Steering wheel, I take it.",a,THE WITNESS,start_question
+339,889,34,15,You had your seatbelt on or no?,q,MR. SABATO,start_answer
+340,891,34,17,"Yes, sir.",a,THE WITNESS,start_question
+341,892,34,18,"When you say you take it, do you know what you hit your head on?",q,MR. SABATO,start_answer
+342,894,34,20,"I don't know for sure, no.",a,THE WITNESS,start_question
+343,895,34,21,So did you lose consciousness?,q,MR. SABATO,start_answer
+344,897,34,23,Not to my knowledge.,a,THE WITNESS,start_question
+345,898,34,24,"Okay.  So after the emergency room, the next person you went to or the next treatment you got was at Aqua Sports Physical Therapy; is that correct?",q,MR. SABATO,start_answer
+346,905,35,5,No.,a,THE WITNESS,start_question
+347,906,35,6,That's not correct?,q,MR. SABATO,start_answer
+348,907,35,7,"So I went to my family doctor, Dr. Lotito.",a,THE WITNESS,start_question
+349,909,35,9,Okay.  And Dr. Lotito did what?,q,MR. SABATO,start_answer
+350,911,35,11,"She just did a basic physical, I guess it was, looked me over and all that, and then she recommended me to the physical therapist.",a,THE WITNESS,start_question
+351,915,35,15,Which is who?,q,MR. SABATO,start_answer
+352,916,35,16,"Dr. Harry I believe his name is, in, oh God, Healing Hands in Conshohocken.",a,THE WITNESS,start_question
+353,919,35,19,And how long did you go to Healing Hands?,q,MR. SABATO,start_answer
+354,921,35,21,"Best guess would be four to six months maybe, I'm not 100 percent sure, but I think that's probably pretty close.",a,THE WITNESS,start_question
+355,927,36,1,"While you're going to Healing Hands, you're also going to Aqua Sports Physical Therapy?",q,MR. SABATO,start_answer
+356,930,36,4,"So no.  I was going to Healing Hands, I went to once again, it's been a couple years, so the time overlaps I maybe be a little confused on, but I went to Dr. Efron, and he is the one that referred me to the Aqua Sports Therapy, because I could do therapy without weight on my body.",a,THE WITNESS,start_question
+357,938,36,12,"According to the records that I saw, you went there from December 27th of '17 to about March, I think March 5th, of 2018.  Does that sound about right, about three months?",q,MR. SABATO,start_answer
+358,943,36,17,"I would say probably, yes, pretty close.",a,THE WITNESS,start_question
+359,945,36,19,"And you're also going to Healing Hands at that point -- no, that's incorrect, I take that back.  All right. And then you had some testing done, you had an MRI in June of 2017; is that correct?",q,MR. SABATO,start_answer
+360,953,37,1,I'm not sure of the dates.,a,THE WITNESS,start_question
+361,954,37,2,Okay.  Did anyone ever discuss with you the results of the MRI?,q,MR. SABATO,start_answer
+362,956,37,4,So the MRI was ordered by Dr. Efron.,a,THE WITNESS,start_question
+363,958,37,6,Okay.  Did he discuss the results of --,q,MR. SABATO,start_answer
+364,960,37,8,"Yes, he showed me different things in the MRI.",a,THE WITNESS,start_question
+365,962,37,10,And what is your understanding of the results of the MRI?,q,MR. SABATO,start_answer
+366,964,37,12,"So once again, when he starts talking from a medical perspective, I get lost so easily because he's speaking up here, and my level of medical understanding is down here.",a,THE WITNESS,start_question
+367,969,37,17,So you have no understanding of what the MRI did?,q,MR. SABATO,start_answer
+368,971,37,19,I don't know.  I can't...,a,THE WITNESS,start_question
+369,972,37,20,Okay.  Do you know if you had any injections before you had the MRIs?,q,MR. SABATO,start_answer
+370,975,37,23,I don't know that.,a,THE WITNESS,start_question
+371,976,37,24,Would you be able to say how long after the accident that you had an initial injection?,q,MR. SABATO,start_answer
+372,981,38,3,"Wouldn't be able to tell you that, either.",a,THE WITNESS,start_question
+373,983,38,5,"Was it more than a month, less than a month?",q,MR. SABATO,start_answer
+374,985,38,7,Wouldn't be able to tell you.,a,THE WITNESS,start_question
+375,987,38,9,So you have no judgment whatsoever as to when you had your first injection?,q,MR. SABATO,start_answer
+376,990,38,12,That's correct.,a,THE WITNESS,start_chat
+377,991,38,13,Off the record.,side_chat,MR. GITMAN,symbols
+378,992,38,14,-  -  -,symbols,,is brackets
+379,993,38,15,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+380,996,38,18,-  -  -,symbols,,start_question
+381,998,38,20,So you have no knowledge whatsoever as to the timeframe when you had your first injection?,q,MR. SABATO,start_answer
+382,1001,38,23,I can't recall.,a,THE WITNESS,start_question
+383,1002,38,24,Are you receiving any kind of therapy now?,q,MR. SABATO,start_answer
+384,1006,39,2,"As I said, I just had an injection last week.",a,THE WITNESS,start_question
+385,1008,39,4,"No, I understand the injection.  But have you gone to Healing Hands, have you gone to Aqua Sports Therapy, have you gone to any physical therapy?",q,MR. SABATO,start_answer
+386,1013,39,9,"No, sir.",a,THE WITNESS,start_question
+387,1014,39,10,And would the last time you had any kind of therapy -- did you have any therapy in 2019?,q,MR. SABATO,start_answer
+388,1017,39,13,I guess I just want to be clear.,a,THE WITNESS,start_question
+389,1019,39,15,"I don't mean injections, I don't mean visits to a doctor.  I mean going to some kind of physical therapy, whether it be Healing Hands or --",q,MR. SABATO,start_answer
+390,1023,39,19,I did not.,a,THE WITNESS,start_question
+391,1024,39,20,Okay.  And in 2018?,q,MR. SABATO,start_answer
+392,1025,39,21,Can't remember.,a,THE WITNESS,start_question
+393,1026,39,22,"Okay.  In 2019, so we're in July, we're half of 2019.  About how many injections do you think you've had in 2019?",q,MR. SABATO,start_answer
+394,1032,40,2,"I would say -- see, I'm guessing again.",a,THE WITNESS,start_question
+395,1034,40,4,"Don't guess, but your best judgment.  I mean, was it one or was it five?  You know.",q,MR. SABATO,start_answer
+396,1037,40,7,It's at least two.,a,THE WITNESS,start_question
+397,1038,40,8,"Okay, that's good.",q,MR. SABATO,start_chat
+398,1039,40,9,Off the record for a minute.,side_chat,MR. SABATO,symbols
+399,1041,40,11,-  -  -,symbols,,is brackets
+400,1042,40,12,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+401,1045,40,15,-  -  -,symbols,,start_question
+402,1047,40,17,"Let's talk about the accident, okay.  So where were you coming from, where were you going?",q,MR. SABATO,start_answer
+403,1050,40,20,I was coming from my home and I was going to work.,a,THE WITNESS,start_question
+404,1052,40,22,"Okay.  And when you say going to work, were you going to an office?",q,MR. SABATO,start_answer
+405,1057,41,1,One of my offices.,a,THE WITNESS,start_question
+406,1058,41,2,Which one?,q,MR. SABATO,start_answer
+407,1059,41,3,"Couldn't tell you, couldn't remember.  I have 34 of them, so I don't know exactly which one I was going to.",a,THE WITNESS,start_question
+408,1062,41,6,Okay.  And this accident happened on what street?,q,MR. SABATO,start_answer
+409,1064,41,8,It was on Germantown Pike.,a,THE WITNESS,start_question
+410,1065,41,9,And about what time did the accident happen?,q,MR. SABATO,start_answer
+411,1067,41,11,"I was going to work, so it was probably morning.",a,THE WITNESS,start_question
+412,1069,41,13,What were the traffic conditions like on Germantown Pike?,q,MR. SABATO,start_answer
+413,1071,41,15,Are you talking about the weather or actual busy or not busy?,a,THE WITNESS,start_question
+414,1073,41,17,"I think I said traffic conditions, not the weather conditions, that's next.  If you want to tell me weather first, that's okay.",q,MR. SABATO,start_answer
+415,1077,41,21,"Normal, I guess.  I don't know how you define it.",a,THE WITNESS,start_question
+416,1079,41,23,"Was it heavy, was it light?",q,MR. SABATO,start_answer
+417,1080,41,24,"No, it was normal.",a,THE WITNESS,start_question
+418,1083,42,1,Was it bumper to bumper?,q,MR. SABATO,start_answer
+419,1084,42,2,"No, no.",a,THE WITNESS,start_question
+420,1085,42,3,"Okay.  Because I don't know what normal is, because I don't travel that.  Steady?",q,MR. SABATO,start_answer
+421,1088,42,6,"I mean, steady is subjective.  So it wasn't bumper to bumper, it wasn't, I guess, free flowing maybe.",a,THE WITNESS,start_question
+422,1092,42,10,Okay.  And how about the weather conditions?,q,MR. SABATO,start_answer
+423,1094,42,12,"Sunny, clear.",a,THE WITNESS,start_question
+424,1095,42,13,"Germantown Pike is laid out how, one lane, two lanes in each direction?",q,MR. SABATO,start_answer
+425,1098,42,16,Two lanes each direction.,a,THE WITNESS,start_question
+426,1099,42,17,"And which lane were you in, the left or the right?",q,MR. SABATO,start_answer
+427,1101,42,19,The left.,a,THE WITNESS,start_question
+428,1102,42,20,Was there any shoulder there?,q,MR. SABATO,start_answer
+429,1104,42,22,Pardon me.,a,THE WITNESS,start_question
+430,1105,42,23,Was there any shoulder on Germantown Pike where the accident happened?,q,MR. SABATO,start_answer
+431,1110,43,2,"Yes, a small one right where we were at.",a,THE WITNESS,start_question
+432,1112,43,4,"Where did this accident happen on Germantown Pike, at an intersection?",q,MR. SABATO,start_answer
+433,1115,43,7,"Yeah.  It was at an intersection where the condominiums are, Plymouth Condos.  I'm going to have to stand up if that's okay.",a,THE WITNESS,start_question
+434,1119,43,11,Go right ahead.  And how did the accident happen?,q,MR. SABATO,start_answer
+435,1121,43,13,"I was stopped at a light waiting for it to change, and I was struck in the rear.",a,THE WITNESS,start_question
+436,1124,43,16,"How would you categorize the impact on a scale of zero being virtually no impact, just a touching, to ten being the worst impact you could imagine?  On zero to ten, how would you describe it?",q,MR. SABATO,start_answer
+437,1129,43,21,"Once again, that's subjective.",a,THE WITNESS,start_question
+438,1131,43,23,"Well, I know, that's why I'm asking you.",q,MR. SABATO,start_answer
+439,1135,44,1,"So the fact that I wasn't expecting it and I was standing still and it did what it did to me, I would say a ten.",a,THE WITNESS,start_question
+440,1139,44,5,Were you stopped behind a car or were you the first car at the light?,q,MR. SABATO,start_answer
+441,1142,44,8,First car at the light.,a,THE WITNESS,start_question
+442,1143,44,9,Was your car moved at all as a result of the impact?,q,MR. SABATO,start_answer
+443,1145,44,11,Yes.,a,THE WITNESS,start_question
+444,1146,44,12,"About how far, half a car length, quarter car length --",q,MR. SABATO,start_answer
+445,1148,44,14,"Oh, gosh, more than that.",a,THE WITNESS,start_question
+446,1149,44,15,-- two car lengths?,q,MR. SABATO,start_answer
+447,1150,44,16,Probably three car lengths maybe.,a,THE WITNESS,start_question
+448,1152,44,18,So you were pushed three car lengths?,q,MR. SABATO,start_answer
+449,1154,44,20,"Yes, sir.",a,THE WITNESS,start_question
+450,1155,44,21,Did your car have any damage to it?,q,MR. SABATO,start_answer
+451,1157,44,23,"Yes, it was banged up in the back a little, but mostly just paint.",a,THE WITNESS,start_question
+452,1161,45,1,Paint scrapes?,q,MR. SABATO,start_answer
+453,1162,45,2,"Yes, sir.",a,THE WITNESS,start_question
+454,1163,45,3,Was your car repaired at all?,q,MR. SABATO,start_answer
+455,1165,45,5,"No, sir.",a,THE WITNESS,start_question
+456,1166,45,6,Did you get any estimate for your repairs?,q,MR. SABATO,start_answer
+457,1168,45,8,"No, sir.",a,THE WITNESS,start_question
+458,1169,45,9,Do you still have the car?,q,MR. SABATO,start_answer
+459,1170,45,10,"Yes, sir.",a,THE WITNESS,start_question
+460,1171,45,11,Do you have it with you today?,q,MR. SABATO,start_answer
+461,1173,45,13,"Yes, sir.",a,THE WITNESS,start_question
+462,1174,45,14,Is it out in the lot?,q,MR. SABATO,start_answer
+463,1175,45,15,"Yes, sir.",a,THE WITNESS,start_question
+464,1176,45,16,Did you take any pictures of it?,q,MR. SABATO,start_answer
+465,1178,45,18,Of my car?,a,THE WITNESS,start_question
+466,1179,45,19,Did you ever take any pictures of the damage to your car?,q,MR. SABATO,start_answer
+467,1181,45,21,"No, sir, no, sir.",a,THE WITNESS,start_question
+468,1182,45,22,Was your car drivable from the scene?,q,MR. SABATO,start_answer
+469,1184,45,24,"Yes, it was.",a,THE WITNESS,start_question
+470,1187,46,1,Okay.  Who drove it from the scene?,q,MR. SABATO,start_answer
+471,1189,46,3,So a police officer backed it into a parking lot and a day or two later my son went down and got it.,a,THE WITNESS,start_question
+472,1192,46,6,You had indicated previously that you worked from February until you were terminated in May because you couldn't do the job and given a package. When is the next time you went to do your job after the accident?,q,MR. SABATO,start_answer
+473,1198,46,12,"I couldn't, I stayed at home.",a,THE WITNESS,start_question
+474,1200,46,14,Did you work at home?,q,MR. SABATO,start_answer
+475,1201,46,15,"I could do computer work. But once again, that's not what the job description is.",a,THE WITNESS,start_question
+476,1204,46,18,Were you getting paid?,q,MR. SABATO,start_answer
+477,1205,46,19,"Yes, sir.",a,THE WITNESS,start_question
+478,1206,46,20,So you were getting paid staying home doing computer work?,q,MR. SABATO,start_answer
+479,1208,46,22,"Yes, sir.",a,THE WITNESS,start_question
+480,1209,46,23,"Could you tell me where you would report to H&R Block, like did you have a place, like did you have a home office that you would report to?",q,MR. SABATO,start_answer
+481,1215,47,3,I would go to any one of the 34 offices.,a,THE WITNESS,start_question
+482,1217,47,5,What would be their office location -- did you have a boss?,q,MR. SABATO,start_answer
+483,1219,47,7,"Yes, sir.",a,THE WITNESS,start_question
+484,1220,47,8,And who was your boss?,q,MR. SABATO,start_answer
+485,1221,47,9,"Her name, Carole Banks I think her last name was.",a,THE WITNESS,start_question
+486,1223,47,11,"Where was she located, where was her office?",q,MR. SABATO,start_answer
+487,1225,47,13,"She's down in Washington, I think.",a,THE WITNESS,start_question
+488,1227,47,15,DC?,q,MR. SABATO,start_answer
+489,1228,47,16,"Yes, sir.",a,THE WITNESS,start_question
+490,1229,47,17,And if I'm not mistaken --,q,MR. SABATO,start_answer
+491,1230,47,18,"So with the work, I just want to make sure that we're clear.",a,THE WITNESS,start_question
+492,1232,47,20,Okay.,q,MR. SABATO,start_answer
+493,1233,47,21,"So after the accident, I stayed home.  I tried to go to work, but I couldn't because of the pain medicine and stuff like that.  So I made an attempt to visit a couple offices, but the pain was just too great.  I had to take medicine that wouldn't allow me to drive, so it became very difficult for me to do that.  I just wanted you to understand in case I wasn't clear.",a,THE WITNESS,start_question
+494,1245,48,7,Okay.  What kind of medicine were you given?,q,MR. SABATO,start_answer
+495,1247,48,9,Pain medicine and muscle relaxers.,a,THE WITNESS,start_question
+496,1249,48,11,And who gave them to you?,q,MR. SABATO,start_answer
+497,1250,48,12,The doctor at the hospital.,a,THE WITNESS,start_question
+498,1251,48,13,Okay.  So you got them at the emergency room?,q,MR. SABATO,start_answer
+499,1253,48,15,"Yes, sir.",a,THE WITNESS,start_question
+500,1254,48,16,"Did anyone, any of the other doctors you've seen, did they prescribe any pain medicine?",q,MR. SABATO,start_answer
+501,1257,48,19,"Yeah, my back doctor, Dr. Efron.",a,THE WITNESS,start_question
+502,1259,48,21,What did he prescribe?,q,MR. SABATO,start_answer
+503,1260,48,22,"The same thing, Percocet and the nerves -- the muscle relaxers.",a,THE WITNESS,start_question
+504,1262,48,24,Like Flexeril kind of stuff?,q,MR. SABATO,start_answer
+505,1265,49,1,I don't know what it is to be exact.,a,THE WITNESS,start_question
+506,1267,49,3,How long did you take Percocet?,q,MR. SABATO,start_answer
+507,1269,49,5,I still take it now as needed.,a,THE WITNESS,start_question
+508,1271,49,7,Okay.  Did you ever have to take any kind of painkillers for your back before this accident?,q,MR. SABATO,start_answer
+509,1274,49,10,"No, sir.",a,THE WITNESS,start_question
+510,1275,49,11,Does your car have any visible damage to it other than the paint scratches?,q,MR. SABATO,start_answer
+511,1278,49,14,Just the paint scratches.,a,THE WITNESS,start_question
+512,1279,49,15,Dents or anything?,q,MR. SABATO,start_answer
+513,1280,49,16,"No, sir.",a,THE WITNESS,start_question
+514,1281,49,17,And what kind of car did you have?,q,MR. SABATO,start_answer
+515,1283,49,19,It's a Dodge Charger.,a,THE WITNESS,start_question
+516,1284,49,20,What year?,q,MR. SABATO,start_answer
+517,1285,49,21,'14.,a,THE WITNESS,start_question
+518,1286,49,22,2014?,q,MR. SABATO,start_answer
+519,1287,49,23,"Yes, sir.",a,THE WITNESS,start_question
+520,1288,49,24,Did you have any kind of disciplinary action taken against you at H&R Block in the year prior to the accident?,q,MR. SABATO,start_answer
+521,1294,50,4,No.,a,THE WITNESS,start_question
+522,1295,50,5,And could you tell me when you first learned of a package that you were going to get to leave H&R Block?,q,MR. SABATO,start_answer
+523,1298,50,8,The day I was terminated.,a,THE WITNESS,start_question
+524,1299,50,9,"And how were you notified, phone call, letter?",q,MR. SABATO,start_answer
+525,1301,50,11,"""Ken, can you come in and meet with us?""",a,THE WITNESS,start_question
+526,1303,50,13,Where did you meet?,q,MR. SABATO,start_answer
+527,1304,50,14,At a hotel.,a,THE WITNESS,start_question
+528,1305,50,15,And tell me how that went.,q,MR. SABATO,start_answer
+529,1306,50,16,"I was terminated, so they handed me a letter that said, you know, ""Due to performance issues, we're going to terminate you and move forward.""",a,THE WITNESS,start_question
+530,1310,50,20,Did they specify those performance issues?,q,MR. SABATO,start_answer
+531,1312,50,22,No.,a,THE WITNESS,start_question
+532,1313,50,23,Do you still have the letter?,q,MR. SABATO,start_answer
+533,1317,51,1,No.,a,THE WITNESS,start_question
+534,1318,51,2,What was your understanding of the performance issues?,q,MR. SABATO,start_answer
+535,1320,51,4,Just that I couldn't get to the offices.  My work history at H&R Block was impeccable.,a,THE WITNESS,start_question
+536,1323,51,7,Do you know of anyone else who got any kind of separation around the same time?,q,MR. SABATO,start_answer
+537,1326,51,10,No.,a,THE WITNESS,start_question
+538,1327,51,11,Did you have any plans to retire?,q,MR. SABATO,start_answer
+539,1329,51,13,No.,a,THE WITNESS,start_question
+540,1330,51,14,Have you ever applied for Social Security disability?,q,MR. SABATO,start_answer
+541,1332,51,16,Yes.,a,THE WITNESS,start_question
+542,1333,51,17,When?,q,MR. SABATO,start_answer
+543,1334,51,18,Shortly thereafter.,a,THE WITNESS,start_question
+544,1335,51,19,Thereafter being?,q,MR. SABATO,start_answer
+545,1336,51,20,"The accident, yes, sir.",a,THE WITNESS,start_question
+546,1337,51,21,"Not the termination, the accident?",q,MR. SABATO,start_answer
+547,1339,51,23,"No, the termination.",a,THE WITNESS,start_question
+548,1340,51,24,So shortly after the termination?,q,MR. SABATO,start_answer
+549,1344,52,2,Correct.,a,THE WITNESS,start_question
+550,1345,52,3,That was in May?,q,MR. SABATO,start_answer
+551,1346,52,4,"The termination was in May. I'm not exactly sure when, but probably -- once again, I don't want to guess, but shortly after the termination.",a,THE WITNESS,start_question
+552,1350,52,8,Is that still pending?,q,MR. SABATO,start_answer
+553,1351,52,9,No.,a,THE WITNESS,start_question
+554,1352,52,10,What happened?,q,MR. SABATO,start_answer
+555,1353,52,11,It was denied.,a,THE WITNESS,start_question
+556,1354,52,12,"And who is it that supported your application for Social Security disability, what doctor?",q,MR. SABATO,start_answer
+557,1357,52,15,I'm not sure I understand the question.,a,THE WITNESS,start_question
+558,1359,52,17,"Well, when you apply for Social Security disability, you have to have medical support, correct?",q,MR. SABATO,start_answer
+559,1362,52,20,So it was Dr. Efron.,a,THE WITNESS,start_question
+560,1363,52,21,How about Dr. Lotito?,q,MR. SABATO,start_answer
+561,1364,52,22,She wasn't involved in that.,a,THE WITNESS,start_question
+562,1365,52,23,"Also, you said you did go to Dr. Lotito, she's the first person you saw after the accident?",q,MR. SABATO,start_answer
+563,1370,53,2,"Yes, sir.",a,THE WITNESS,start_chat
+564,1371,53,3,Do you have any records from her at all?,side_chat,MR. SABATO,start_chat
+565,1373,53,5,"With me, no, but I --",side_chat,MR. GITMAN,start_chat
+566,1375,53,7,Because they weren't in the package.,side_chat,MR. SABATO,start_chat
+567,1377,53,9,"No medical records were in the package, or just Dr. Lotito's?",side_chat,MR. GITMAN,start_chat
+568,1380,53,12,"No, no, I got tons of records.  Just Dr. Lotito I'm just asking if you have any.",side_chat,MR. SABATO,start_chat
+569,1383,53,15,"I don't have anything on me, but I'm certain that we have it back at the office so I'll make a note to make sure that we supplement that.",side_chat,MR. GITMAN,start_chat
+570,1388,53,20,Okay.,side_chat,MR. SABATO,start_question
+571,1390,53,22,Were you denied Social Security disability?,q,MR. SABATO,start_answer
+572,1392,53,24,Yes.,a,THE WITNESS,start_question
+573,1395,54,1,Have you appealed that?,q,MR. SABATO,start_answer
+574,1396,54,2,"So my understand of the process is you apply for it and then they either approve it or deny it.  So mine was denied, so then I went to a video conference hearing, and that was denied.",a,THE WITNESS,start_question
+575,1401,54,7,"Okay.  And when was that approximately, was it this year, last year?",q,MR. SABATO,start_answer
+576,1404,54,10,"I couldn't take a guess.  I would say probably -- I don't want to give you probably's, I don't want to be wrong.",a,THE WITNESS,start_question
+577,1408,54,14,Did you reapply?,q,MR. SABATO,start_answer
+578,1409,54,15,"So I did not, no.",a,THE WITNESS,start_question
+579,1410,54,16,"I don't remember if I asked you this, I don't think I did.  What's your date of birth?",q,MR. SABATO,start_answer
+580,1413,54,19,1/3/54.,a,THE WITNESS,start_question
+581,1414,54,20,And that makes you 64?,q,MR. SABATO,start_answer
+582,1415,54,21,65.,a,THE WITNESS,start_question
+583,1416,54,22,So you are now Medicare eligible?,q,MR. SABATO,start_answer
+584,1418,54,24,"Yes, sir.",a,THE WITNESS,start_question
+585,1421,55,1,Do you have any plans to reapply?,q,MR. SABATO,start_answer
+586,1423,55,3,"No, sir.",a,THE WITNESS,start_question
+587,1424,55,4,"We'll eventually be able to find this out, but let me just ask you so we can try to move this whole matter along.  The reasons for your application for Social Security disability are what, what conditions, just your back?",q,MR. SABATO,start_answer
+588,1430,55,10,"Yes, my back, yes, sir.",a,THE WITNESS,start_question
+589,1431,55,11,Anxiety?,q,MR. SABATO,start_answer
+590,1432,55,12,No.,a,THE WITNESS,start_question
+591,1433,55,13,Chronic back pain?,q,MR. SABATO,start_answer
+592,1434,55,14,"Chronic back pain, yes.",a,THE WITNESS,start_question
+593,1435,55,15,Osteoarthritis?,q,MR. SABATO,start_answer
+594,1436,55,16,"I don't know what that is, I don't want to even guess.",a,THE WITNESS,start_question
+595,1438,55,18,Have you ever heard that term?,q,MR. SABATO,start_answer
+596,1440,55,20,Osteo...,a,THE WITNESS,start_question
+597,1441,55,21,Osteoarthritis.,q,MR. SABATO,start_answer
+598,1442,55,22,Not to my knowledge.,a,THE WITNESS,start_question
+599,1443,55,23,And you would have no understanding or reason why a doctor at the emergency room would write that you told them that?,q,MR. SABATO,start_answer
+600,1449,56,3,I've already answered that question.,a,THE WITNESS,start_question
+601,1451,56,5,"No, right, your answer is no?",q,MR. SABATO,start_answer
+602,1453,56,7,"Yeah, right.  I mean...",a,THE WITNESS,start_question
+603,1454,56,8,So basically it's just your low back?,q,MR. SABATO,start_answer
+604,1456,56,10,"The lower back, yes.",a,THE WITNESS,start_question
+605,1457,56,11,As far as your reasoning for applying for disability?,q,MR. SABATO,start_answer
+606,1459,56,13,"Yes, sir.",a,THE WITNESS,start_question
+607,1460,56,14,"Okay.  Tell me, if you can, some of the limitations or ramifications of your injuries that you attribute to this accident?",q,MR. SABATO,start_answer
+608,1464,56,18,"Basically, it changed my life.  I guess from a financial standpoint, obviously I lost my job.  The job was six figures plus was the salary, so...",a,THE WITNESS,start_question
+609,1469,56,23,What was your salary?,q,MR. SABATO,start_answer
+610,1470,56,24,"There was a base salary and then there was a bonus.  So the base salary was, I don't know, 96, $98,000, and then bonuses up to 30 or $40,000 depending on how well you did.  So the loss of that. And then before the accident, I was very, very active, especially with my children.  I golfed with them every weekend, we bowled, we played softball, we were in a softball league.  You know, I could -- anything around the house, I could mow the grass, home repairs, all that stuff.  I could travel, I could do virtually anything I wanted.  So that was all before the accident.  And now I'm virtually almost confined to the house in a sitting position. The pain medicine, I can't do hardly anything while I'm taking the pain medicine.  My movement with my back is limited.  I have difficulty sleeping. When I go to sleep, it takes me anywhere from two to three hours before my back gets in a position where I'm comfortable enough to sleep. Even little things like, I hate to say this, excuse me, but wiping my butt after I go to the bathroom, it is painful because of the position I have to turn to to try to do it.  I can't participate in sports.  My one son lives in Boston, I can't go up and visit him because I can't travel. Any vacation plans, I did want to go to Africa and that's always been on my bucket list and stuff like that, but I can't do that.  So it's just -- it's a disaster.",a,THE WITNESS,start_question
+611,1514,58,16,"And this was a like a light switch, you had absolutely no prior back problems before the accident?",q,MR. SABATO,start_answer
+612,1517,58,19,"Like I said, I was in a bowling league, I golfed with my sons, we played softball every year, we were in a neighborhood softball league.  We did all that.  Healthy doing all the things around the house, could work, all of that.  And then after the accident, it was all just -- it was all gone.",a,THE WITNESS,start_chat
+613,1527,59,3,Off the record.,side_chat,MR. SABATO,symbols
+614,1528,59,4,-  -  -,symbols,,is brackets
+615,1529,59,5,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+616,1532,59,8,-  -  -,symbols,,start_question
+617,1534,59,10,"Before this accident, have you ever been involved in a car accident where you injured yourself?",q,MR. SABATO,start_answer
+618,1537,59,13,"So I was in a car accident, but I don't recall if -- I mean, this is when I was a teenager, so it's 50 years ago.  But I don't recall being physically injured.",a,THE WITNESS,start_question
+619,1542,59,18,Were you involved in an accident in March of 2018 where you were struck by a car that fled the scene?,q,MR. SABATO,start_answer
+620,1545,59,21,"So in 2018, the car was hit in a Walmart parking lot if that's what you're referring to.",a,THE WITNESS,start_question
+621,1548,59,24,"Was it around March 11th, 2018?",q,MR. SABATO,start_answer
+622,1552,60,2,"Yeah, probably.",a,THE WITNESS,start_question
+623,1553,60,3,So your car was parked?,q,MR. SABATO,start_answer
+624,1554,60,4,"Parked in Walmart, yes, sir.",a,THE WITNESS,start_question
+625,1555,60,5,Nobody was it in it?,q,MR. SABATO,start_answer
+626,1556,60,6,"No, sir.",a,THE WITNESS,start_question
+627,1557,60,7,In August of 2014 was your car run off the road?,q,MR. SABATO,start_answer
+628,1559,60,9,Not to my knowledge.,a,THE WITNESS,start_question
+629,1560,60,10,"Were you involved in anything on March 30th, 2015?",q,MR. SABATO,start_answer
+630,1562,60,12,Not to my knowledge.,a,THE WITNESS,start_question
+631,1563,60,13,Now you said 50 years ago. Do you recall being in an accident in 2003?  Little bit less than 50 years.,q,MR. SABATO,start_answer
+632,1566,60,16,I don't even remember.,a,THE WITNESS,start_question
+633,1567,60,17,"So other than this accident 50 years ago that you do remember, what did you injure in that accident?",q,MR. SABATO,start_answer
+634,1570,60,20,"I don't remember.  I barely remember the accident, I remember just being in a car accident with my new car.",a,THE WITNESS,start_question
+635,1573,60,23,Okay.  Have ever been involved in a slip and fall or anything like that --,q,MR. SABATO,start_answer
+636,1578,61,2,"No, sir.",a,THE WITNESS,start_question
+637,1579,61,3,-- before this accident?,q,MR. SABATO,start_answer
+638,1580,61,4,"No, sir.",a,THE WITNESS,start_question
+639,1581,61,5,"Did you have ever have any sports injuries, hurt yourself bowling?",q,MR. SABATO,start_answer
+640,1583,61,7,"Once in a while you pull a muscle or something like that, but that's about it.  I think every athlete does that.",a,THE WITNESS,start_question
+641,1587,61,11,And you've never made any complaints about your low back prior to this accident?,q,MR. SABATO,start_answer
+642,1590,61,14,Correct.,a,THE WITNESS,start_question
+643,1591,61,15,"How is your vertigo now, is that better?",q,MR. SABATO,start_answer
+644,1593,61,17,"Yes, excellent.",a,THE WITNESS,start_question
+645,1594,61,18,"And I guess you already answered this.  Since this accident, you have not been involved in anything, right?",q,MR. SABATO,start_answer
+646,1598,61,22,Correct.,a,THE WITNESS,start_question
+647,1599,61,23,Have you ever been in any kind of drug or alcohol rehabilitation?,q,MR. SABATO,start_answer
+648,1603,62,1,"No, sir.  Proud to say I've never had a drop of alcohol in my whole life, couldn't even tell you what it tastes like.",a,THE WITNESS,start_chat
+649,1607,62,5,Wow.,side_chat,MR. GITMAN,start_chat
+650,1608,62,6,Never had a puff of cigarette in my whole life.,side_chat,THE WITNESS,start_chat
+651,1611,62,9,Wow.  Can we go off the record so I can use the bathroom?,side_chat,MR. GITMAN,symbols
+652,1614,62,12,-  -  -,symbols,,is brackets
+653,1615,62,13,"(Whereupon, a brief break was taken.)",brackets,,symbols
+654,1617,62,15,-  -  -,symbols,,start_chat
+655,1618,62,16,"That's all I have.  Thank you, sir.",side_chat,MR. SABATO,symbols
+656,1620,62,18,-  -  -,symbols,,is brackets
+657,1621,62,19,"(Whereupon, the Witness was excused.)",brackets,,symbols
+658,1623,62,21,-  -  -,symbols,,is brackets
+659,1624,62,22,"(Whereupon, the deposition ended at 11:27 a.m.)",brackets,,symbols
+660,1626,62,24,-  -  - CERTIFICATE I HEREBY CERTIFY that the Witness was duly sworn by me and that the deposition is a true record of the testimony given by the Witness.,symbols,,symbols
+661,1638,63,10,_____________________________________ Date:  7/26/19 of this transcript does not apply to any unless under the direct control and/or LAWYER'S NOTES PAGE  LINE,symbols,,symbols
+662,1661,64,3,____  ____  ____________________________,symbols,,symbols
+663,1662,64,4,____  ____  ____________________________,symbols,,symbols
+664,1663,64,5,____  ____  ____________________________,symbols,,symbols
+665,1664,64,6,____  ____  ____________________________,symbols,,symbols
+666,1665,64,7,____  ____  ____________________________,symbols,,symbols
+667,1666,64,8,____  ____  ____________________________,symbols,,symbols
+668,1667,64,9,____  ____  ____________________________,symbols,,symbols
+669,1668,64,10,____  ____  ____________________________,symbols,,symbols
+670,1669,64,11,____  ____  ____________________________,symbols,,symbols
+671,1670,64,12,____  ____  ____________________________,symbols,,symbols
+672,1671,64,13,____  ____  ____________________________,symbols,,symbols
+673,1672,64,14,____  ____  ____________________________,symbols,,symbols
+674,1673,64,15,____  ____  ____________________________,symbols,,symbols
+675,1674,64,16,____  ____  ____________________________,symbols,,symbols
+676,1675,64,17,____  ____  ____________________________,symbols,,symbols
+677,1676,64,18,____  ____  ____________________________,symbols,,symbols
+678,1677,64,19,____  ____  ____________________________,symbols,,symbols
+679,1678,64,20,____  ____  ____________________________,symbols,,symbols
+680,1679,64,21,____  ____  ____________________________,symbols,,symbols
+681,1680,64,22,____  ____  ____________________________,symbols,,symbols
+682,1681,64,23,____  ____  ____________________________,symbols,,symbols
+683,1682,64,24,____  ____  ____________________________,symbols,,end

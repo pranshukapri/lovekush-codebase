@@ -1,0 +1,730 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," having been satisfactorily identified and duly sworn by the Notary Public, was examined and testified as follows: EXAMINATION",,,start_question
+1,214,529,7,"Good morning, Mr. Morton.  Good to see you again.",q,MR. HOOVER,start_answer
+2,216,529,9,Good morning.,a,THE WITNESS,start_question
+3,217,529,10,"I appreciate you coming back.  Again, my name is Mark Hoover.",q,MR. HOOVER,start_answer
+4,219,529,12,Yeah.,a,THE WITNESS,start_question
+5,220,529,13,And I just want to remind you that you are still under oath from the first couple of days of your testimony.,q,MR. HOOVER,start_answer
+6,223,529,16,Okay.,a,THE WITNESS,start_question
+7,224,529,17,"We shouldn't be very long today.  We kind of were going late the last couple of times and figured we'd come back, everybody fresh, and finish up.",q,MR. HOOVER,start_answer
+8,228,529,21,Right.,a,THE WITNESS,start_question
+9,229,529,22,"The same rules apply as before.  Just to kind of remind you, if there's a question that I ask that you don't understand or it doesn't seem clear, just let me know and I'll rephrase it. Okay?",q,MR. HOOVER,start_answer
+10,235,530,3,Yup.  Yes.  Sorry.,a,THE WITNESS,start_question
+11,236,530,4,"That's okay.  And then if -- otherwise, sir, I'm going to assume that you understood our questions and that you answered them as such. Fair enough?",q,MR. HOOVER,start_answer
+12,240,530,8,Okay.,a,THE WITNESS,start_question
+13,241,530,9,"Okay.  Again, not going to be very long today, but if you need a break for any reason, let me know and we'll take a break.  Okay?",q,MR. HOOVER,start_answer
+14,244,530,12,All right.  Thank you.,a,THE WITNESS,start_question
+15,245,530,13,"Sure.  We were back here the end of June for two days of your discovery deposition.  Since that time, sir, have you read either days of your deposition?",q,MR. HOOVER,start_answer
+16,249,530,17,No.,a,THE WITNESS,start_question
+17,250,530,18,"Okay.  Is there -- between Day 2, which was, I believe, the 28th of June, and today, which is almost a month later, the 26th of July, have you done any further research or work to prepare for today's deposition?",q,MR. HOOVER,start_answer
+18,255,530,23,No.,a,THE WITNESS,start_question
+19,256,530,24,You haven't reviewed any sort of documents or spoken to any sort of coworkers or witnesses since then?,q,MR. HOOVER,start_answer
+20,260,531,3,No.,a,THE WITNESS,start_question
+21,261,531,4,"Okay.  Real quick, I just want to kind of wrap up something and then we're going to talk a little bit about your medical history and treatments. I want to go back to the time when you were helping your father at Fort Devens; and in particular, the NCO Club and the officers' club.",q,MR. HOOVER,start_answer
+22,268,531,11,Yup.,a,THE WITNESS,start_question
+23,269,531,12,Do you remember talking about that last time?,q,MR. HOOVER,start_answer
+24,271,531,14,Yup.,a,THE WITNESS,start_question
+25,272,531,15,And I believe you had mentioned that Carrier was the manufacturer of the AC compressors at those clubs.  Correct?,q,MR. HOOVER,start_answer
+26,275,531,18,Correct.,a,THE WITNESS,start_question
+27,276,531,19,"Okay.  And these, as I understand it, were sealed units.  Correct?",q,MR. HOOVER,start_answer
+28,278,531,21,Correct.,a,THE WITNESS,start_question
+29,279,531,22,"In other words, like, the compressor and the motor were all in one?",q,MR. HOOVER,start_answer
+30,281,531,24,Correct.,a,THE WITNESS,start_question
+31,283,532,1,"Were these also known as, like, hermetic compressors?",q,MR. HOOVER,start_answer
+32,285,532,3,I don't know.,a,THE WITNESS,start_question
+33,286,532,4,"Okay.  But nonetheless, they were sealed?",q,MR. HOOVER,start_answer
+34,287,532,5,Yes.,a,THE WITNESS,start_question
+35,288,532,6,"All right.  And any sort of maintenance on these I think would basically be kind of blow out, any sort of --",q,MR. HOOVER,start_answer
+36,291,532,9,The condenser.  And clean the fan motor.,a,THE WITNESS,start_question
+37,292,532,10,"And that was just, again, to clean out the airborne dust that gathers to help efficiency, for example?",q,MR. HOOVER,start_chat
+38,295,532,13,Objection.  Form.,side_chat,MR. BECERRA,start_answer
+39,296,532,14,I have no idea where the dust came from.,a,THE WITNESS,start_question
+40,297,532,15,"Okay.  But it was -- again, wherever it came from, you were just blowing out that particular dust?",q,MR. HOOVER,start_answer
+41,300,532,18,Right.  To -- yeah.,a,THE WITNESS,start_question
+42,301,532,19,Okay.  And that helped with the efficiency of the units?,q,MR. HOOVER,start_answer
+43,303,532,21,Correct.,a,THE WITNESS,start_question
+44,304,532,22,And then there might be some sort of visual inspections as part of that work.  Right?,q,MR. HOOVER,start_answer
+45,306,532,24,Correct.,a,THE WITNESS,start_question
+46,308,533,1,And do you happen to remember any sort of -- strike that. How did you know that these were Carrier sealed systems?,q,MR. HOOVER,start_answer
+47,312,533,5,With the nameplate.,a,THE WITNESS,start_question
+48,313,533,6,Where on the system was the nameplate?  Do you recall?,q,MR. HOOVER,start_answer
+49,315,533,8,"Usually on the outside so it's visible, so if someone walked by and looked at it they would see the nameplate.",a,THE WITNESS,start_question
+50,318,533,11,Okay.  And do you have a memory of how big the nameplate itself was?,q,MR. HOOVER,start_answer
+51,320,533,13,"Well, I can't give you exact dimensions.",a,THE WITNESS,start_question
+52,321,533,14,"No.  Just your best memory, sir.",q,MR. HOOVER,start_answer
+53,322,533,15,"But someone that could walk by 10 feet, they could see the name.",a,THE WITNESS,start_question
+54,324,533,17,And do you happen to remember anything about any sort of color or size?,q,MR. HOOVER,start_answer
+55,326,533,19,No.,a,THE WITNESS,start_question
+56,327,533,20,Do you have any memory of any model numbers or serial numbers?,q,MR. HOOVER,start_answer
+57,329,533,22,No.,a,THE WITNESS,start_question
+58,330,533,23,"And as I understand your testimony from Day 2, if you are replacing a sealed unit, there's no real reason to do any work on it?  You just take it out as a complete unit.  Correct?",q,MR. HOOVER,start_chat
+59,335,534,3,Objection to form.,side_chat,MR. BECERRA,start_answer
+60,336,534,4,Correct.,a,THE WITNESS,start_question
+61,337,534,5,"These sealed units were not externally insulated, were they?",q,MR. HOOVER,start_answer
+62,339,534,7,"Externally, no.",a,THE WITNESS,start_question
+63,340,534,8,And then I understand your testimony from Day 2 that there was really no gasket work involved with any of these sealed units.  Correct?,q,MR. HOOVER,start_chat
+64,343,534,11,Objection to form.,side_chat,MR. BECERRA,start_answer
+65,344,534,12,Correct.,a,THE WITNESS,start_question
+66,345,534,13,"Going back to the times that you were working at the various mills as part -- the printing work that we talked about, do you have any memory of any abatement work being done at any of those work facilities?",q,MR. HOOVER,start_chat
+67,350,534,18,And if you don't understand what he --,side_chat,MR. BECERRA,start_answer
+68,352,534,20,Explain.,a,THE WITNESS,start_question
+69,353,534,21,Sure.  That was going to be my next question if you didn't. Do you know what an abatement is?,q,MR. HOOVER,start_answer
+70,356,534,24,No.,a,THE WITNESS,start_question
+71,358,535,1,"Do you have any memory of anyone at any work site ever coming in and having to, for example, seal off certain areas to remove insulation or anything along those lines?",q,MR. HOOVER,start_answer
+72,362,535,5,No.,a,THE WITNESS,start_question
+73,363,535,6,And I want to include not only the places that you've worked at but also including your own business.  I know that for a while you owned your own printing.  Was there ever any abatement work done at any of your own buildings where you operated your business?,q,MR. HOOVER,start_answer
+74,369,535,12,No.,a,THE WITNESS,start_question
+75,370,535,13,"All right.  As I mentioned, the bulk of today -- and it won't be very long -- is really to kind of go over your medical history.  Okay?",q,MR. HOOVER,start_answer
+76,373,535,16,Okay.,a,THE WITNESS,start_question
+77,374,535,17,"And so I'm going to start, sir, do you smoke?",q,MR. HOOVER,start_answer
+78,376,535,19,No.,a,THE WITNESS,start_question
+79,377,535,20,Have you ever smoked?,q,MR. HOOVER,start_answer
+80,378,535,21,Yes.,a,THE WITNESS,start_question
+81,379,535,22,When did you first start smoking?,q,MR. HOOVER,start_answer
+82,380,535,23,I can just give you approximate.,a,THE WITNESS,start_question
+83,381,535,24,Okay.,q,MR. HOOVER,start_answer
+84,383,536,1,I certainly don't remember the day I picked up the first pack of cigarettes.,a,THE WITNESS,start_question
+85,385,536,3,Right.,q,MR. HOOVER,start_answer
+86,386,536,4,"But somewhere between 12 and 14, I'm going to say.",a,THE WITNESS,start_question
+87,388,536,6,And when did you last smoke?,q,MR. HOOVER,start_answer
+88,389,536,7,I can tell you that.  1989.,a,THE WITNESS,start_question
+89,390,536,8,And how old were you when you -- if we did the math?  And I can't do math very well.  That's why I went to law school.,q,MR. HOOVER,start_answer
+90,393,536,11,Like 50.,a,THE WITNESS,start_question
+91,394,536,12,Around age 50?,q,MR. HOOVER,start_answer
+92,395,536,13,Yeah.  Give or take.,a,THE WITNESS,start_question
+93,396,536,14,So from approximately the age of 12 to 14 to approximately when you were about 50 years old?,q,MR. HOOVER,start_answer
+94,398,536,16,Yeah.,a,THE WITNESS,start_question
+95,399,536,17,And what types of cigarettes did you smoke?,q,MR. HOOVER,start_answer
+96,401,536,19,I probably started out with either Camels or Lucky Strikes.  And then -- I didn't smoke those very long.  I can't tell you how long.  And then I went to either Marlboros or Salem.,a,THE WITNESS,start_question
+97,405,536,23,"And how many packs a day or how many cigarettes per day, on average, would you say you smoked?",q,MR. HOOVER,start_answer
+98,409,537,2,"At the highest point, a pack a day.",a,THE WITNESS,start_question
+99,410,537,3,And at the lowest point?,q,MR. HOOVER,start_answer
+100,411,537,4,I'm going to say 10 cigarettes.,a,THE WITNESS,start_question
+101,412,537,5,"Okay.  And when you were at the approximate pack per day, for what period of time, from the age of 12 to 50, would it be that pack per day?",q,MR. HOOVER,start_answer
+102,416,537,9,Probably from 20 on.,a,THE WITNESS,start_question
+103,417,537,10,So for about 30 years?  From 20 to 50?,q,MR. HOOVER,start_answer
+104,418,537,11,Yeah.,a,THE WITNESS,start_question
+105,419,537,12,And did your wife -- does your wife smoke? Did your wife smoke?,q,MR. HOOVER,start_answer
+106,421,537,14,No.,a,THE WITNESS,start_question
+107,422,537,15,Has she ever smoked?,q,MR. HOOVER,start_answer
+108,423,537,16,No.,a,THE WITNESS,start_question
+109,424,537,17,Did your parents smoke?,q,MR. HOOVER,start_answer
+110,425,537,18,One did.,a,THE WITNESS,start_question
+111,426,537,19,Which one smoked?,q,MR. HOOVER,start_answer
+112,427,537,20,Father.,a,THE WITNESS,start_question
+113,428,537,21,And do you recall how often he would smoke?,q,MR. HOOVER,start_answer
+114,430,537,23,No.,a,THE WITNESS,start_question
+115,431,537,24,"Do you recall if he would smoke, for example, when -- you were working with him up at Devens for a period of time.",q,MR. HOOVER,start_answer
+116,435,538,3,Yeah.,a,THE WITNESS,start_question
+117,436,538,4,Would he smoke on the job?,q,MR. HOOVER,start_answer
+118,437,538,5,Yes.,a,THE WITNESS,start_question
+119,438,538,6,And if he were driving you up to Fort Devens on the weekends -- we talked about when you were helping out there -- would he smoke in the car?,q,MR. HOOVER,start_answer
+120,442,538,10,He would.,a,THE WITNESS,start_question
+121,443,538,11,"And in the wintertime, I'm assuming the windows would be up as you guys would come up here to Devens and do the work?",q,MR. HOOVER,start_chat
+122,446,538,14,Objection.,side_chat,MR. BECERRA,start_question
+123,447,538,15,In the car.,q,MR. HOOVER,start_answer
+124,448,538,16,"Summertime, the windows would be down. The wintertime, the windows would be closed.",a,THE WITNESS,start_question
+125,450,538,18,"Sure.  Okay.  When you were working at the -- working for the print -- doing the print work, did any of the coworkers -- your coworkers at those facilities, did any of them smoke?",q,MR. HOOVER,start_answer
+126,454,538,22,Yes.,a,THE WITNESS,start_question
+127,455,538,23,"And were they able to smoke while they were working, or was there a designated smoking area, or was it kind of a combination?",q,MR. HOOVER,start_answer
+128,459,539,2,A combination.,a,THE WITNESS,start_question
+129,460,539,3,"And when you were working, would you also be smoking?",q,MR. HOOVER,start_answer
+130,462,539,5,Yes.,a,THE WITNESS,start_question
+131,463,539,6,"And when you owned your own facility -- and forgive me, I've forgotten the time frame when you started your own company.  Were you still smoking at the time you started your own company?",q,MR. HOOVER,start_answer
+132,467,539,10,Yes.,a,THE WITNESS,start_question
+133,468,539,11,And were there other employees when you were -- owned your own printing company that were also smoking?,q,MR. HOOVER,start_answer
+134,471,539,14,Yes.,a,THE WITNESS,start_question
+135,472,539,15,"You said you stopped in 1989, at around the age of 50.  What caused you to stop smoking?",q,MR. HOOVER,start_answer
+136,474,539,17,Automobile accident.  And I wound up in the hospital for a week.,a,THE WITNESS,start_question
+137,476,539,19,"I was going to ask you a little bit about that.  I saw a reference to an auto accident.  But before we get a little bit into that, what was it about being in the hospital for a week that stopped you from smoking?  Is it just because you weren't able to, so by the time you got out you were, like, I've kicked the habit?",q,MR. HOOVER,start_answer
+138,484,540,2,Exactly.,a,THE WITNESS,start_question
+139,485,540,3,Tell me a little bit about that motor vehicle accident in 1989 that caused you to be in the hospital for about a week.  Do you recall what happened?,q,MR. HOOVER,start_answer
+140,489,540,7,Yeah.,a,THE WITNESS,start_question
+141,490,540,8,Okay.  Tell us what happened.,q,MR. HOOVER,start_answer
+142,491,540,9,A car hit me head on and I sustained knee damage.,a,THE WITNESS,start_question
+143,493,540,11,Any other injuries from this head-on collision?,q,MR. HOOVER,start_answer
+144,495,540,13,No.,a,THE WITNESS,start_question
+145,496,540,14,Were you wearing your seatbelt at the time?,q,MR. HOOVER,start_answer
+146,498,540,16,I don't remember.,a,THE WITNESS,start_question
+147,499,540,17,Okay.  Did you strike your chest at all? Any sort of chest injury?  Ribs?  Anything along those lines?,q,MR. HOOVER,start_answer
+148,502,540,20,Don't know.  I don't think so.,a,THE WITNESS,start_question
+149,503,540,21,Okay.,q,MR. HOOVER,start_answer
+150,504,540,22,"I didn't sustain any bruises, or anything like that, other than my right knee.",a,THE WITNESS,start_question
+151,506,540,24,"As a result of this auto accident in 1989, did you file any sort of lawsuit against the driver that hit you?",q,MR. HOOVER,start_answer
+152,510,541,3,Yes.,a,THE WITNESS,start_question
+153,511,541,4,"In that lawsuit against the driver, were you deposed in that case?  I know we talked about whether or not you've been deposed before.  But do you have a memory sitting down in that lawsuit and having a situation like this where a lawyer asked you questions?",q,MR. HOOVER,start_answer
+154,517,541,10,Yes.,a,THE WITNESS,start_question
+155,518,541,11,Okay.  Do you remember the name of your lawyer from 1989?,q,MR. HOOVER,start_answer
+156,520,541,13,Jim Van Buren.,a,THE WITNESS,start_question
+157,521,541,14,"Like the president?  Van Buren, like the president?",q,MR. HOOVER,start_answer
+158,523,541,16,Yes.,a,THE WITNESS,start_question
+159,524,541,17,And do you know where he -- do you know if he's still alive?,q,MR. HOOVER,start_answer
+160,526,541,19,He's still alive.  Yup.  He is retired. Lives somewhere in the Worcester area.,a,THE WITNESS,start_question
+161,528,541,21,"And did that lawsuit ever go to trial, or did the matter settle?",q,MR. HOOVER,start_answer
+162,530,541,23,Went to trial.,a,THE WITNESS,start_question
+163,531,541,24,And did it go to trial in Worcester?,q,MR. HOOVER,start_answer
+164,533,542,1,"I'm not sure, to tell you the truth.  I don't know exactly where the trial was.",a,THE WITNESS,start_question
+165,535,542,3,What was the result of the trial?,q,MR. HOOVER,start_answer
+166,536,542,4,The what?,a,THE WITNESS,start_question
+167,537,542,5,What was the result after the trial?,q,MR. HOOVER,start_chat
+168,538,542,6,Objection. I'm really struggling trying to figure out how any of these questions are reasonably calculated to lead to the discovery of any admissible evidence.,side_chat,MR. BECERRA,start_chat
+169,543,542,11,You can -- and you can object to the form of the question.,side_chat,MR. HOOVER,start_chat
+170,545,542,13,"All right.  Well, I'm not going to let it go on much longer than this last question.",side_chat,MR. BECERRA,start_answer
+171,548,542,16,I'm not sure how to answer your question. Meaning --,a,THE WITNESS,start_chat
+172,550,542,18,"If you don't know, Mr. Morton, just say you don't know.  We don't want you to guess or speculate.",side_chat,MR. BECERRA,start_chat
+173,553,542,21,I'm not guessing.,side_chat,THE WITNESS,start_answer
+174,554,542,22,I received a settlement.,a,THE WITNESS,start_chat
+175,555,542,23,"Don't discuss anything about the amount of any funds you may have received, Mr. Morton.",side_chat,MR. BECERRA,start_question
+176,559,543,2,I'm not asking --,q,MR. HOOVER,start_answer
+177,560,543,3,And the passenger of the other car received a settlement.,a,THE WITNESS,start_question
+178,562,543,5,From the driver of the other car?,q,MR. HOOVER,start_answer
+179,563,543,6,I have no idea where.,a,THE WITNESS,start_question
+180,564,543,7,Gotcha.  Okay.,q,MR. HOOVER,start_answer
+181,565,543,8,I know . . .,a,THE WITNESS,start_question
+182,566,543,9,"And again, I'm not trying to, you know, confuse you or anything like that.  I was just curious. Did the jury find for you?  Did the jury find for the other driver?  If you remember.",q,MR. HOOVER,start_chat
+183,571,543,14,Objection. He just answered that question to the best of his ability.  Let's move on.,side_chat,MR. BECERRA,start_question
+184,574,543,17,"To the best of your ability, you remember that you received something?",q,MR. HOOVER,start_answer
+185,576,543,19,I received something.,a,THE WITNESS,start_chat
+186,577,543,20,"Let him ask the question, Mr. Morton.  Just let him ask a question.  Don't answer unless there is a pending question.  Okay, sir?",side_chat,MR. BECERRA,start_question
+187,581,543,24,"Okay.  So my understanding is that it went to trial.  And as a result of the trial, at the end of it, you received something.  Right?",q,MR. HOOVER,start_answer
+188,585,544,3,Correct.,a,THE WITNESS,start_question
+189,586,544,4,And the passenger of the other car received something.  Right?,q,MR. HOOVER,start_answer
+190,588,544,6,Correct.,a,THE WITNESS,start_question
+191,589,544,7,"Okay.  Other than that lawsuit, do you have any memory -- and this one -- of any other lawsuits?",q,MR. HOOVER,start_answer
+192,592,544,10,No.,a,THE WITNESS,start_question
+193,593,544,11,"Getting back to smoking -- your smoking history, do you ever remember seeing any sort of warnings on packs of cigarettes?",q,MR. HOOVER,start_answer
+194,596,544,14,Time frame?,a,THE WITNESS,start_question
+195,597,544,15,"Well, either you do remember seeing warnings or you don't.  And then we'll get into a time frame.",q,MR. HOOVER,start_answer
+196,600,544,18,"When I first started, no.",a,THE WITNESS,start_question
+197,601,544,19,"At some point in time, then, you do remember seeing warnings on cigarettes?",q,MR. HOOVER,start_answer
+198,603,544,21,Yes.,a,THE WITNESS,start_question
+199,604,544,22,Do you know approximately when that was that you first noticed warnings on cigarettes?,q,MR. HOOVER,start_answer
+200,606,544,24,Sometime in the '80s.,a,THE WITNESS,start_question
+201,608,545,1,"And as a result of seeing those warnings, did you change the manner or the amount of smoking that you did?",q,MR. HOOVER,start_answer
+202,611,545,4,No.,a,THE WITNESS,start_question
+203,612,545,5,Did any doctor ever tell you that you should quit smoking?,q,MR. HOOVER,start_answer
+204,614,545,7,No.,a,THE WITNESS,start_question
+205,615,545,8,"Back in the 1980s, did you have a primary care physician or a PCP?",q,MR. HOOVER,start_answer
+206,617,545,10,No.,a,THE WITNESS,start_question
+207,618,545,11,Did you ever go for regular yearly checkups or anything?,q,MR. HOOVER,start_answer
+208,620,545,13,No.,a,THE WITNESS,start_question
+209,621,545,14,Today do you have a primary care physician?,q,MR. HOOVER,start_answer
+210,623,545,16,Yes.,a,THE WITNESS,start_question
+211,624,545,17,And who is your primary care physician today?,q,MR. HOOVER,start_answer
+212,626,545,19,Dr. Cerel.,a,THE WITNESS,start_question
+213,627,545,20,And where is Dr. Cerel located?,q,MR. HOOVER,start_answer
+214,628,545,21,"In Ayer, Mass.",a,THE WITNESS,start_question
+215,629,545,22,"Is this a private practice, or is Dr. Cerel part of a group?",q,MR. HOOVER,start_answer
+216,631,545,24,I don't know.,a,THE WITNESS,start_question
+217,633,546,1,"And Dr. Cerel, is there a first name?  Is it male?  Female?",q,MR. HOOVER,start_answer
+218,635,546,3,What's that?,a,THE WITNESS,start_question
+219,636,546,4,The first name of Dr. Cerel.,q,MR. HOOVER,start_answer
+220,637,546,5,Adam.,a,THE WITNESS,start_question
+221,638,546,6,And when did you first start to go see Dr. Cerel?,q,MR. HOOVER,start_answer
+222,640,546,8,Approximately 2005.,a,THE WITNESS,start_question
+223,641,546,9,"And prior to 2005, did you have a primary care physician?",q,MR. HOOVER,start_answer
+224,643,546,11,No.,a,THE WITNESS,start_question
+225,644,546,12,"When you were growing up, I'm assuming your parents would take you to the doctor for checkups?",q,MR. HOOVER,start_answer
+226,647,546,15,Yes.,a,THE WITNESS,start_question
+227,648,546,16,"And then at some point did you just stop going to see a doctor?  Like on yearly checkups, for example.",q,MR. HOOVER,start_answer
+228,651,546,19,"Well, in my days you didn't need a primary.",a,THE WITNESS,start_question
+229,653,546,21,Okay.,q,MR. HOOVER,start_answer
+230,654,546,22,We had a family doctor.,a,THE WITNESS,start_question
+231,655,546,23,"All right.  And growing up, who was your family doctor?",q,MR. HOOVER,start_answer
+232,658,547,1,"Dr. Cominos.  And obviously, he's not around any more.",a,THE WITNESS,start_question
+233,660,547,3,Okay.  And so Dr. Cominos was the family doctor that you and your siblings and your parents might go to for whatever you needed.  Right?,q,MR. HOOVER,start_answer
+234,663,547,6,Right.,a,THE WITNESS,start_question
+235,664,547,7,At some point did you switch or take on a new doctor that kind of you'd go to if you needed to see one?,q,MR. HOOVER,start_answer
+236,667,547,10,Yes.,a,THE WITNESS,start_question
+237,668,547,11,And who would that be?,q,MR. HOOVER,start_answer
+238,669,547,12,I can't think of his name.,a,THE WITNESS,start_question
+239,670,547,13,Okay.,q,MR. HOOVER,start_answer
+240,671,547,14,Sorry.,a,THE WITNESS,start_question
+241,672,547,15,"That's okay.  Again, just your best memory is what we're looking for here.",q,MR. HOOVER,start_answer
+242,674,547,17,Yeah.,a,THE WITNESS,start_question
+243,675,547,18,"And this unknown doctor, the one we can't remember, how long would you say that was your family doctor slash primary care provider?",q,MR. HOOVER,start_answer
+244,678,547,21,He tried to get me in there once a year.,a,THE WITNESS,start_question
+245,679,547,22,Was he successful?,q,MR. HOOVER,start_answer
+246,680,547,23,Pretty much so.,a,THE WITNESS,start_question
+247,681,547,24,Okay.  And would you say -- do you have a memory of approximately how long you went to see this doctor?,q,MR. HOOVER,start_answer
+248,685,548,3,Yeah.,a,THE WITNESS,start_question
+249,686,548,4,How long did you see him for?  Over what period of time?,q,MR. HOOVER,start_answer
+250,688,548,6,"10, 15 years.",a,THE WITNESS,start_question
+251,689,548,7,All right.  Until approximately when would you say you last saw this guy?,q,MR. HOOVER,start_answer
+252,691,548,9,2000.,a,THE WITNESS,start_question
+253,692,548,10,"So between 2000 and 2005, did you see somebody before going to see Dr. Cerel?",q,MR. HOOVER,start_answer
+254,694,548,12,"Actually, change that.  2000 to close 2004.",a,THE WITNESS,start_question
+255,696,548,14,"Okay.  And then following this doctor, you started to see Dr. Cerel?",q,MR. HOOVER,start_answer
+256,698,548,16,Correct.,a,THE WITNESS,start_question
+257,699,548,17,"Okay.  And was Dr. Cerel just, you know, for example, yearly checkups and the like?",q,MR. HOOVER,start_answer
+258,701,548,19,No.,a,THE WITNESS,start_question
+259,702,548,20,Okay.  What took you to see Dr. Cerel?,q,MR. HOOVER,start_answer
+260,703,548,21,Heart failure.  Cardiologist.,a,THE WITNESS,start_question
+261,704,548,22,When was the last time you saw Dr. Cerel?,q,MR. HOOVER,start_answer
+262,705,548,23,Three months ago.,a,THE WITNESS,start_question
+263,706,548,24,And is this all part of the checkup and monitoring of your heart?,q,MR. HOOVER,start_answer
+264,709,549,2,Yup.,a,THE WITNESS,start_question
+265,710,549,3,"Okay.  Other than Dr. Cerel -- strike that. Did Dr. Cerel, in addition to kind of working with you on the heart issues, also serve for just general overall medical?",q,MR. HOOVER,start_answer
+266,715,549,8,Yes.,a,THE WITNESS,start_question
+267,716,549,9,All right.  And how frequently do you see Dr. Cerel?,q,MR. HOOVER,start_answer
+268,718,549,11,Three to six months.,a,THE WITNESS,start_question
+269,719,549,12,"And that's, again, to kind of monitor your heart?",q,MR. HOOVER,start_answer
+270,721,549,14,And pacemaker.,a,THE WITNESS,start_question
+271,722,549,15,"Right.  Other than seeing Dr. Cerel as a cardiologist, do you have any other specialists that you see or that you treat with?",q,MR. HOOVER,start_answer
+272,725,549,18,"Well, obviously because of the cancer. Yes.",a,THE WITNESS,start_question
+273,727,549,20,"Okay.  And I want to kind of leave that just separately and we'll get -- obviously, ask you about that. Aside from that, are there any other specialists that you see, for example, for heart, the pacemaker, or anything along those lines, other than Dr. Cerel?",q,MR. HOOVER,start_answer
+274,735,550,3,No.,a,THE WITNESS,start_question
+275,736,550,4,"I think I asked early on, probably in the beginning when we started this whole thing, if you were on any sort of medications that would affect your memory or your ability to testify.  And you said that there weren't.  But are you currently taking any medications today?",q,MR. HOOVER,start_answer
+276,742,550,10,No.,a,THE WITNESS,start_question
+277,743,550,11,Have you ever been referred to a pulmonologist at any time?,q,MR. HOOVER,start_answer
+278,745,550,13,No.,a,THE WITNESS,start_question
+279,746,550,14,"All right.  Before we delve into your current condition, I want to do, obviously, a little bit about your medical history itself.  And we touched on the heart failure that you sustained in working with Dr. Cerel.  So let me ask a little bit about that. When were you first diagnosed with any sort of heart either disease or heart issues?",q,MR. HOOVER,start_answer
+280,754,550,22,That was '05.  That's where I made the switch.,a,THE WITNESS,start_question
+281,756,550,24,Okay.  So did someone diagnose you with heart failure?,q,MR. HOOVER,start_answer
+282,759,551,2,My initial doctor.,a,THE WITNESS,start_question
+283,760,551,3,All right.  The one we can't remember?,q,MR. HOOVER,start_answer
+284,761,551,4,Yes.,a,THE WITNESS,start_question
+285,762,551,5,And when was that diagnosis made?,q,MR. HOOVER,start_answer
+286,763,551,6,Obviously '05.,a,THE WITNESS,start_question
+287,764,551,7,"And what was happening to you that led to that diagnosis?  In other words, what took you to that doctor?",q,MR. HOOVER,start_answer
+288,767,551,10,"Shortness of breath, obviously fatigue, and didn't feel well.",a,THE WITNESS,start_question
+289,769,551,12,"Okay.  And so as a result of some symptoms, you went to see this particular doctor?",q,MR. HOOVER,start_answer
+290,771,551,14,My doctor referred me to Dr. Cerel.,a,THE WITNESS,start_question
+291,772,551,15,"Gotcha.  And as a result of this referral, what did Dr. Cerel do?  What did he discover?",q,MR. HOOVER,start_answer
+292,774,551,17,"He discovered that heart failure.  And my AF was, like, 18.",a,THE WITNESS,start_question
+293,776,551,19,"And as a result of what he discovered, what did -- what sort of procedures did you undergo?",q,MR. HOOVER,start_answer
+294,779,551,22,"Basically, I went down to Boston, to Beth Israel.  He referred me.  They inserted a pacemaker and defibrillator.",a,THE WITNESS,start_question
+295,783,552,1,And was this in 2005?,q,MR. HOOVER,start_answer
+296,784,552,2,Yes.,a,THE WITNESS,start_question
+297,785,552,3,"Do you have a sense of when in 2005? Winter, spring, summer?",q,MR. HOOVER,start_answer
+298,787,552,5,No.,a,THE WITNESS,start_question
+299,788,552,6,Do you know who performed the procedure at Beth Israel?,q,MR. HOOVER,start_answer
+300,790,552,8,No.,a,THE WITNESS,start_question
+301,791,552,9,How long were you at Beth Israel while they put in the pacemaker and the defibrillator?,q,MR. HOOVER,start_answer
+302,793,552,11,"A week, rough.",a,THE WITNESS,start_question
+303,794,552,12,And then you were discharged from Beth Israel.  Correct?,q,MR. HOOVER,start_answer
+304,796,552,14,Correct.,a,THE WITNESS,start_question
+305,797,552,15,Did you ever have to go back to Beth Israel for followups or checkups on that?,q,MR. HOOVER,start_answer
+306,799,552,17,I did because of a lead situation.,a,THE WITNESS,start_question
+307,800,552,18,And when did that happen?,q,MR. HOOVER,start_answer
+308,801,552,19,Two years ago.,a,THE WITNESS,start_question
+309,802,552,20,2016?,q,MR. HOOVER,start_answer
+310,803,552,21,"Yeah, roughly.",a,THE WITNESS,start_question
+311,804,552,22,So between '05 and 2016 -- so for 11 years -- did you ever have to go back?,q,MR. HOOVER,start_answer
+312,806,552,24,No.,a,THE WITNESS,start_question
+313,808,553,1,"And was Dr. Cerel the one who was monitoring, then, the pacemaker and the defibrillator?",q,MR. HOOVER,start_answer
+314,811,553,4,Yes.,a,THE WITNESS,start_question
+315,812,553,5,All right.  The lead situation happens. You go back to Beth Israel.  I assume they correct whatever situation with the lead?,q,MR. HOOVER,start_answer
+316,815,553,8,Correct.,a,THE WITNESS,start_question
+317,816,553,9,How long was that procedure to correct the leads?,q,MR. HOOVER,start_answer
+318,818,553,11,"The best of my memory, three days.",a,THE WITNESS,start_question
+319,819,553,12,"Since that time, have you had to go back for any followups with Beth Israel?",q,MR. HOOVER,start_answer
+320,821,553,14,On the heart?,a,THE WITNESS,start_question
+321,822,553,15,On the heart.,q,MR. HOOVER,start_answer
+322,823,553,16,No.,a,THE WITNESS,start_question
+323,824,553,17,"Other than your diagnosis and treatment for heart failure -- again, leaving aside what we're currently here to talk about here today -- any other major health issues?",q,MR. HOOVER,start_answer
+324,828,553,21,No.,a,THE WITNESS,start_question
+325,829,553,22,"Any other long term -- I'm sorry.  Any other surgeries, extended hospital stays, other than what we've talked about with respect to your heart?",q,MR. HOOVER,start_answer
+326,834,554,2,A hernia operation.,a,THE WITNESS,start_question
+327,835,554,3,All right.  Do you remember approximately when that was?,q,MR. HOOVER,start_answer
+328,837,554,5,Five years ago.  And that's approximate.,a,THE WITNESS,start_question
+329,838,554,6,Sure.  And where was the operation?,q,MR. HOOVER,start_answer
+330,839,554,7,That was done at Deaconess Nashoba Hospital in Ayer.,a,THE WITNESS,start_question
+331,841,554,9,"Other than the hernia and your pacemaker, defibrillator, any other major medical treatment that you've received?  Again, leaving aside what we're here to talk about today.",q,MR. HOOVER,start_answer
+332,845,554,13,Other than routine?,a,THE WITNESS,start_question
+333,846,554,14,I know you've had --,q,MR. HOOVER,start_answer
+334,847,554,15,"Colonoscopy and stuff like that.  I mean, no major surgery other than -- yeah.",a,THE WITNESS,start_question
+335,849,554,17,Has any doctor ever told you that you have asthma?,q,MR. HOOVER,start_answer
+336,851,554,19,No.,a,THE WITNESS,start_question
+337,852,554,20,Diabetes?,q,MR. HOOVER,start_answer
+338,853,554,21,No.,a,THE WITNESS,start_question
+339,854,554,22,Bronchitis?,q,MR. HOOVER,start_answer
+340,855,554,23,No.,a,THE WITNESS,start_question
+341,856,554,24,COPD?,q,MR. HOOVER,start_answer
+342,858,555,1,No.,a,THE WITNESS,start_question
+343,859,555,2,Have you ever had pneumonia?,q,MR. HOOVER,start_answer
+344,860,555,3,Yes.,a,THE WITNESS,start_question
+345,861,555,4,How many times have you had pneumonia?,q,MR. HOOVER,start_answer
+346,862,555,5,Once.,a,THE WITNESS,start_question
+347,863,555,6,Do you recall roughly when that was?,q,MR. HOOVER,start_answer
+348,864,555,7,Eight years old.  That's approximate.,a,THE WITNESS,start_question
+349,865,555,8,Best memory. And what about emphysema?,q,MR. HOOVER,start_answer
+350,867,555,10,No.,a,THE WITNESS,start_question
+351,868,555,11,Has any doctor informed you that you have an asbestos-related disease?,q,MR. HOOVER,start_chat
+352,870,555,13,"Objection.  Form. And that includes your current diagnosis of mesothelioma, Mr. Morton.",side_chat,MR. BECERRA,start_answer
+353,873,555,16,That includes my --,a,THE WITNESS,start_question
+354,874,555,17,Yeah.,q,MR. HOOVER,start_answer
+355,875,555,18,"Obviously, when I was diagnosed with cancer.",a,THE WITNESS,start_question
+356,877,555,20,"Why don't we talk a bit about that. You've been diagnosed, as I understand, with mesothelioma.  Is that correct?",q,MR. HOOVER,start_answer
+357,880,555,23,That is correct.,a,THE WITNESS,start_question
+358,881,555,24,Do you know when that diagnosis was made?,q,MR. HOOVER,start_answer
+359,883,556,1,It was made a year ago.  A year ago next month.,a,THE WITNESS,start_question
+360,885,556,3,August 2017?,q,MR. HOOVER,start_answer
+361,886,556,4,August 15th.,a,THE WITNESS,start_question
+362,887,556,5,2017?,q,MR. HOOVER,start_answer
+363,888,556,6,Yes.,a,THE WITNESS,start_question
+364,889,556,7,Who made that diagnosis?,q,MR. HOOVER,start_answer
+365,890,556,8,Boston.  Deaconess Hospital in Boston.,a,THE WITNESS,start_question
+366,891,556,9,And what took you to Deaconess Hospital back in August of 2017?,q,MR. HOOVER,start_answer
+367,893,556,11,What did?,a,THE WITNESS,start_question
+368,894,556,12,Yeah.  Why were you there?,q,MR. HOOVER,start_answer
+369,895,556,13,I was there because of fluid build-up.,a,THE WITNESS,start_question
+370,896,556,14,Did someone recommend you go to Deaconess?,q,MR. HOOVER,start_answer
+371,897,556,15,Yes.,a,THE WITNESS,start_question
+372,898,556,16,Who was it that recommended you go to Deaconess?,q,MR. HOOVER,start_answer
+373,900,556,18,Dr. Cerel.,a,THE WITNESS,start_question
+374,901,556,19,And so at some point you had gone to see Dr. Cerel.  Correct?,q,MR. HOOVER,start_answer
+375,903,556,21,Yes.,a,THE WITNESS,start_question
+376,904,556,22,"Did you go to see Dr. Cerel -- was this part of a routine checkup, or was there a particular reason you were going to see Dr. Cerel that led to you then heading to Deaconess?",q,MR. HOOVER,start_answer
+377,909,557,2,It was both.,a,THE WITNESS,start_question
+378,910,557,3,Okay.  So you were scheduled for an appointment with Dr. Cerel?,q,MR. HOOVER,start_answer
+379,912,557,5,Correct.,a,THE WITNESS,start_question
+380,913,557,6,And there was something else going on. Correct?,q,MR. HOOVER,start_answer
+381,915,557,8,Correct.,a,THE WITNESS,start_question
+382,916,557,9,What was going on?,q,MR. HOOVER,start_answer
+383,917,557,10,"Shortness of breath, fatigue.  And I just knew something was wrong.  I couldn't breathe. Really shortness of the breath.",a,THE WITNESS,start_question
+384,920,557,13,"How long had you been experiencing the shortness of breath, fatigue, before you went to see Dr. Cerel?",q,MR. HOOVER,start_answer
+385,923,557,16,"That had been almost six months prior, when I was skiing.",a,THE WITNESS,start_question
+386,925,557,18,And I'm going to ask you a little bit about that.  One of the activities that you do or did or been involved in is skiing.  Is that correct?,q,MR. HOOVER,start_answer
+387,929,557,22,That's correct.,a,THE WITNESS,start_question
+388,930,557,23,And if I look at the records correctly -- and we can talk about this later -- one of the places you go is Sunday River.  Is that right?,q,MR. HOOVER,start_answer
+389,934,558,2,Sunday River.,a,THE WITNESS,start_question
+390,935,558,3,So you go to see Dr. Cerel.  What does he do in response to your shortness of breath and fatigue concerns?,q,MR. HOOVER,start_answer
+391,938,558,6,Trying to figure out the reason for it.,a,THE WITNESS,start_question
+392,939,558,7,And so what does he do to try to figure out the reason?,q,MR. HOOVER,start_answer
+393,941,558,9,"Well, we talked about it.  And I wanted a chest x-ray and a heart echo.",a,THE WITNESS,start_question
+394,943,558,11,"And when you say you talked about it, what particularly do you remember talking to Dr. Cerel about in terms of your shortness of breath and fatigue?",q,MR. HOOVER,start_answer
+395,947,558,15,Things were not going right.,a,THE WITNESS,start_question
+396,948,558,16,"And so this chest x-ray, did that take place?",q,MR. HOOVER,start_answer
+397,950,558,18,"Yes, it did.",a,THE WITNESS,start_question
+398,951,558,19,Where?,q,MR. HOOVER,start_answer
+399,952,558,20,At Nashoba Hospital in Ayer.,a,THE WITNESS,start_question
+400,953,558,21,And did the heart echo also get performed?,q,MR. HOOVER,start_answer
+401,954,558,22,"Yes, it did.",a,THE WITNESS,start_question
+402,955,558,23,Was that also at Nashoba?,q,MR. HOOVER,start_answer
+403,956,558,24,Dr. Cerel's office.,a,THE WITNESS,start_question
+404,958,559,1,And do you have a memory of what the results of the heart echo were that were conducted in his office?,q,MR. HOOVER,start_answer
+405,961,559,4,It was fine.,a,THE WITNESS,start_question
+406,962,559,5,How long after you went to Dr. Cerel's office with these complaints of shortness of breath and fatigue did you then go to Nashoba?,q,MR. HOOVER,start_answer
+407,965,559,8,The next day.,a,THE WITNESS,start_question
+408,966,559,9,"As a result of the chest x-rays, what were the findings, if you know?",q,MR. HOOVER,start_answer
+409,968,559,11,"I had fluid build-up in between my chest cavity, collapsing my right lung.",a,THE WITNESS,start_question
+410,970,559,13,What happened then after the results of the x-ray?,q,MR. HOOVER,start_answer
+411,972,559,15,I had gone home.  He called me and told me that he wanted me to go back and have the fluid drained.,a,THE WITNESS,start_question
+412,975,559,18,"And when you say ""he,"" this is Dr. Cerel?",q,MR. HOOVER,start_answer
+413,976,559,19,Dr. Cerel.,a,THE WITNESS,start_question
+414,977,559,20,So Dr. Cerel wanted you to have the fluid drained.  And is that when he says to go to Deaconess?,q,MR. HOOVER,start_answer
+415,980,559,23,"Yes.  No.  To go to Ayer hospital, Nashoba.",a,THE WITNESS,start_question
+416,983,560,1,And when did that happen?  When was the fluid drained?,q,MR. HOOVER,start_answer
+417,985,560,3,The same day.,a,THE WITNESS,start_question
+418,986,560,4,The same day that he told you to go?,q,MR. HOOVER,start_answer
+419,987,560,5,Yeah.,a,THE WITNESS,start_question
+420,988,560,6,And how long did that take?,q,MR. HOOVER,start_answer
+421,989,560,7,"Probably an hour, an hour and a half procedure.",a,THE WITNESS,start_question
+422,991,560,9,"After that procedure is completed, what happened next?",q,MR. HOOVER,start_answer
+423,993,560,11,The next day they wanted me to go in for a scan.,a,THE WITNESS,start_question
+424,995,560,13,And was this back at Ayer hospital in Nashoba?,q,MR. HOOVER,start_answer
+425,997,560,15,Yeah.  It was at Ayer hospital.,a,THE WITNESS,start_question
+426,998,560,16,And how long did that scan take?,q,MR. HOOVER,start_answer
+427,999,560,17,"The scan didn't take that long.  The prep of it, and whatnot, you're talking an hour.",a,THE WITNESS,start_question
+428,1001,560,19,Did at some point someone tell you the results of the scan?,q,MR. HOOVER,start_answer
+429,1003,560,21,Yes.  Before I left.,a,THE WITNESS,start_question
+430,1004,560,22,And what did they inform you?,q,MR. HOOVER,start_answer
+431,1005,560,23,"That they found that I had cancer of the right lung, liver, and lymphnodes.  There was no what kind it was or anything like that.",a,THE WITNESS,start_question
+432,1009,561,2,"Okay.  And then following that particular piece of news, what did you do next?",q,MR. HOOVER,start_answer
+433,1011,561,4,"Basically, that was on a Friday afternoon. Sent me home because of no -- there would be nothing done by me going to Boston.  Made arrangements for me to go into Boston on Monday.",a,THE WITNESS,start_question
+434,1015,561,8,And that's when you went to Deaconess?,q,MR. HOOVER,start_answer
+435,1016,561,9,That's when more procedures were taking place.,a,THE WITNESS,start_question
+436,1018,561,11,"Do you remember the procedures that were -- that took place at Deaconess, what happened there?",q,MR. HOOVER,start_answer
+437,1021,561,14,"Basically, fluid had built up.  They were going to have to drain it again.  Doctor -- he gave me two choices.  Well, he didn't give me two choices.  Depended when he got in there with a scope to see whether he could do a talc procedure, meaning they actually somehow insert glue in there, in between your chest cavity, to expand your lung, and it glues it to the chest cavity. Or the second one was to insert a permanent drain.",a,THE WITNESS,start_question
+438,1030,561,23,"And as a result, did one of those two things take place?",q,MR. HOOVER,start_answer
+439,1033,562,1,The talc procedure was -- he felt that that was fine.  And that's the one I wanted to begin with.  I didn't want a drain.,a,THE WITNESS,start_question
+440,1036,562,4,"Okay.  You mentioned ""he.""  Is there a particular doctor at Deaconess that you were being treated by?",q,MR. HOOVER,start_answer
+441,1039,562,7,Yes.,a,THE WITNESS,start_question
+442,1040,562,8,And who was that?,q,MR. HOOVER,start_answer
+443,1041,562,9,Without my notes -- I'm sorry.  I've met so many doctors.,a,THE WITNESS,start_question
+444,1043,562,11,"Understandable.  When you say ""notes,"" have you kind of written down some stuff about the procedures that you've had?  When you say ""notes,"" do you mean just the medical records?",q,MR. HOOVER,start_answer
+445,1047,562,15,"They're just my own notes because, you know, spelling is terrible.  So I write them all down so I've got them. So I've got those.  But unfortunately, I was told I can't use notes.",a,THE WITNESS,start_question
+446,1052,562,20,Okay.  But so you've kind of kept notes of the doctors that you've seen.  Is that fair to say?,q,MR. HOOVER,start_answer
+447,1055,562,23,"Oh, yes.",a,THE WITNESS,start_question
+448,1056,562,24,Do the notes contain any other information in terms of the procedures and dates and that kind of stuff?,q,MR. HOOVER,start_answer
+449,1060,563,3,Yes.,a,THE WITNESS,start_question
+450,1061,563,4,"Does it contain anything about your work history, or are these notes just more medical?",q,MR. HOOVER,start_answer
+451,1063,563,6,It's all medical.,a,THE WITNESS,start_question
+452,1064,563,7,"So the first procedure that was done, was that done almost immediately when you got to Deaconess, or was there kind of an in between time between, ""Here are the two choices"" --",q,MR. HOOVER,start_answer
+453,1068,563,11,No.  That was done immediately.  I think I went down for a meeting on Monday and they scheduled it for Tuesday.,a,THE WITNESS,start_question
+454,1071,563,14,"Gotcha.  And as a result of that particular procedure, did that involve an extended period to stay at Deaconess?",q,MR. HOOVER,start_answer
+455,1074,563,17,"Yes, it did.",a,THE WITNESS,start_question
+456,1075,563,18,And how long would you say --,q,MR. HOOVER,start_answer
+457,1076,563,19,"That wasn't too long.  But they did do -- when he did that, he did a biopsy of my right lung.",a,THE WITNESS,start_question
+458,1079,563,22,And were you informed at some point the results of that biopsy?,q,MR. HOOVER,start_answer
+459,1081,563,24,"That showed the cancer that I had.  It was spindle cell cancer.  And then he made -- oh, no. I stayed at Deaconess.  And they basically wouldn't let me go.  I stayed there a week.",a,THE WITNESS,start_question
+460,1086,564,4,Okay.,q,MR. HOOVER,start_answer
+461,1087,564,5,And then I had a biopsy of the liver.,a,THE WITNESS,start_question
+462,1088,564,6,Okay.  And do you have a memory of the results?,q,MR. HOOVER,start_answer
+463,1090,564,8,"That was also spindle cell cancer, which was the same type of cancer on my lung.",a,THE WITNESS,start_question
+464,1092,564,10,Okay.,q,MR. HOOVER,start_answer
+465,1093,564,11,"And they determined that it had spread. And they confirmed, yeah, it was in my lymphnodes as well.",a,THE WITNESS,start_question
+466,1096,564,14,"To confirm that the cancer was in your lymphnodes, what type of procedure was done, if you know?",q,MR. HOOVER,start_answer
+467,1099,564,17,I don't know.  It was something showed up on the scan.,a,THE WITNESS,start_question
+468,1101,564,19,"As a result of these biopsies, then, did you undergo any sort of treatment for the diagnosis?",q,MR. HOOVER,start_answer
+469,1104,564,22,They set up treatment -- sent me to Dana-Farber and set up with a doctor at Dana-Farber.,a,THE WITNESS,start_question
+470,1108,565,1,"Do you remember who that doctor is, or is that --",q,MR. HOOVER,start_answer
+471,1110,565,3,Marcoux.,a,THE WITNESS,start_question
+472,1111,565,4,And what type of treatment did you receive at Dana-Farber?,q,MR. HOOVER,start_answer
+473,1113,565,6,He first did chemotherapy for six treatments.  And he determined that it wasn't working.  And now I've gone to an experimental study.,a,THE WITNESS,start_question
+474,1117,565,10,"Do you know, is that still being done at Dana-Farber?",q,MR. HOOVER,start_answer
+475,1119,565,12,Dana-Farber. And that almost brings us up to date. I've been through four treatments of that experimental drug.,a,THE WITNESS,start_question
+476,1123,565,16,"Understanding you're not, as far as I know -- not a medical doctor, can you tell us generally what this experimental study entails, what the treatments are?",q,MR. HOOVER,start_answer
+477,1127,565,20,What's that now?,a,THE WITNESS,start_question
+478,1128,565,21,What does the experimental study entail? What are they doing?,q,MR. HOOVER,start_answer
+479,1130,565,23,Drugs that are not approved and they're on experimental study.,a,THE WITNESS,start_question
+480,1133,566,1,"Has Dr. Marcoux indicated whether or not this experimental study is working, not working, or is it still too early to tell?",q,MR. HOOVER,start_answer
+481,1136,566,4,"All I know, at this point in time, there's no cure for it.  But this new treatment, it's holding it at bay.",a,THE WITNESS,start_question
+482,1139,566,7,When was your last treatment?,q,MR. HOOVER,start_answer
+483,1140,566,8,Yesterday.,a,THE WITNESS,start_question
+484,1141,566,9,And what is the treatment?  Is it you go into Dana-Farber for your treatments?,q,MR. HOOVER,start_answer
+485,1143,566,11,Yes.,a,THE WITNESS,start_question
+486,1144,566,12,And what does the treatment consist of?,q,MR. HOOVER,start_answer
+487,1145,566,13,"Full day.  I guess a scan, blood work, meeting with the doctors, and then the infusion of the new drug.",a,THE WITNESS,start_question
+488,1148,566,16,And yesterday was your fourth one.  Right?,q,MR. HOOVER,start_answer
+489,1149,566,17,Yesterday was the fourth.,a,THE WITNESS,start_question
+490,1150,566,18,How often do you go?,q,MR. HOOVER,start_answer
+491,1151,566,19,Once a month.,a,THE WITNESS,start_question
+492,1152,566,20,So is the number -- fifth set for the end of August?,q,MR. HOOVER,start_answer
+493,1154,566,22,"Yes, it is.",a,THE WITNESS,start_question
+494,1155,566,23,"Do they say how many of these treatments are part of this plan, or is it just unlimited?",q,MR. HOOVER,start_answer
+495,1158,567,1,"No.  After the fourth treatment, it goes onto a single drug, not the two drugs.  So it's a maintaining part of the experiment.",a,THE WITNESS,start_question
+496,1161,567,4,"But as I understand it, as far as you know from Dr. Marcoux, that this experimental study is at least holding things at bay.  Is that correct?",q,MR. HOOVER,start_answer
+497,1164,567,7,That's correct.,a,THE WITNESS,start_question
+498,1165,567,8,"Because the chemo, as you mentioned, was not working?",q,MR. HOOVER,start_answer
+499,1167,567,10,It had already spread.,a,THE WITNESS,start_question
+500,1168,567,11,Gotcha.  And has there been any sense of it spreading any further since you started the experimental study?  Have they seen anything in the scans?,q,MR. HOOVER,start_answer
+501,1172,567,15,Not yet.,a,THE WITNESS,start_question
+502,1173,567,16,"And then other than this experimental study, are you undergoing any other treatment for your disease?",q,MR. HOOVER,start_answer
+503,1176,567,19,No.,a,THE WITNESS,start_question
+504,1177,567,20,Has any doctor told you the cause of your current disease?,q,MR. HOOVER,start_answer
+505,1179,567,22,Yes.,a,THE WITNESS,start_question
+506,1180,567,23,And who is that?,q,MR. HOOVER,start_answer
+507,1181,567,24,"As a matter of fact, that was the initial doctor in Boston, at BI, that said it was asbestos-related cancer.",a,THE WITNESS,start_question
+508,1185,568,3,"And when you say ""BI,"" you mean Beth Israel?",q,MR. HOOVER,start_answer
+509,1187,568,5,Beth Israel.,a,THE WITNESS,start_question
+510,1188,568,6,Okay.  When did you go to Beth Israel?,q,MR. HOOVER,start_answer
+511,1189,568,7,That's when I went in for the talc procedure.,a,THE WITNESS,start_question
+512,1191,568,9,Okay.,q,MR. HOOVER,start_answer
+513,1192,568,10,He was the one that recommended me to go to Dana-Farber.,a,THE WITNESS,start_question
+514,1194,568,12,"And again, forgive me if I asked, but the doctor at BI, do you remember that doctor's name?",q,MR. HOOVER,start_answer
+515,1196,568,14,Not offhand.,a,THE WITNESS,start_question
+516,1197,568,15,Is that one that might be written down somewhere?,q,MR. HOOVER,start_answer
+517,1199,568,17,"Oh, yeah.",a,THE WITNESS,start_question
+518,1200,568,18,And so I assume that this doctor at Beth Israel took some sort of history from you?,q,MR. HOOVER,start_answer
+519,1202,568,20,Yes.,a,THE WITNESS,start_question
+520,1203,568,21,And one of it would be your work history?,q,MR. HOOVER,start_answer
+521,1204,568,22,Yes.,a,THE WITNESS,start_question
+522,1205,568,23,Do you have a memory sitting down with this doctor in terms of what you told him about your work history?,q,MR. HOOVER,start_answer
+523,1209,569,2,They asked me what I did.,a,THE WITNESS,start_question
+524,1210,569,3,"Okay.  And we've talked at length, for two and a half days or two-plus days, about your work history.  Generally, what did you tell this doctor in terms of your work history?",q,MR. HOOVER,start_answer
+525,1214,569,7,Commercial refrigeration and printing.,a,THE WITNESS,start_question
+526,1215,569,8,Did you mention anything about any sort of automotive work or home improvement work?,q,MR. HOOVER,start_answer
+527,1217,569,10,No.,a,THE WITNESS,start_question
+528,1218,569,11,"What's your current weight, sir?",q,MR. HOOVER,start_answer
+529,1219,569,12,Yesterday it was 142.,a,THE WITNESS,start_question
+530,1220,569,13,Have you had any significant weight loss recently?,q,MR. HOOVER,start_answer
+531,1222,569,15,My lowest weight?,a,THE WITNESS,start_question
+532,1223,569,16,Yeah.,q,MR. HOOVER,start_answer
+533,1224,569,17,It was roughly a year ago.  About 130.,a,THE WITNESS,start_question
+534,1225,569,18,"And prior to your illness, sir, what was generally your weight?",q,MR. HOOVER,start_answer
+535,1227,569,20,150.,a,THE WITNESS,start_question
+536,1228,569,21,"And then just other than the experimental study, has any doctor recommended any other types of treatment or any other types of procedures for this particular illness?",q,MR. HOOVER,start_answer
+537,1233,570,1,No.,a,THE WITNESS,start_question
+538,1234,570,2,Any other medical treatment that you've had as it relates to your current diagnosis that we haven't talked about?,q,MR. HOOVER,start_answer
+539,1237,570,5,No.,a,THE WITNESS,start_question
+540,1238,570,6,All right.  We've covered everything in terms of the diagnosis and the kind of treatments that you've undergone and the places that you've undergone them.  Correct?,q,MR. HOOVER,start_answer
+541,1242,570,10,That's correct.,a,THE WITNESS,start_question
+542,1243,570,11,"All right.  Fair enough.  You know, you mentioned -- and I saw it in your records -- about skiing, and it caught my eye again because there was a Sunday River reference to something.  And I've been skiing at Sunday River since, like, the 1980s.  My mom has a place up there.  So I love that.  So I'm going to move now and talk about your hobbies and activities. We've been going an hour.  Do you need a break before we kind of wrap that up?",q,MR. HOOVER,start_answer
+543,1253,570,21,I'm all set.,a,THE WITNESS,start_question
+544,1254,570,22,You're good.  All right.  Then we'll kind of plug along here. I understand that you retired and wrapped things up.  Are there certain activities and things that you like to do that you can no longer do as a result of this illness?,q,MR. HOOVER,start_answer
+545,1261,571,4,"Well, I have a tough time playing golf, but I had a tough time before, too.  Just the breathing situation.  And that holds me back on . . .",a,THE WITNESS,start_question
+546,1265,571,8,"Golf, for example, is something that you play.  Correct?",q,MR. HOOVER,start_answer
+547,1267,571,10,Yes.,a,THE WITNESS,start_question
+548,1268,571,11,"And since your diagnosis, have you still been able to play golf?",q,MR. HOOVER,start_answer
+549,1270,571,13,"Basically, yes.  Not the way I want to play golf.",a,THE WITNESS,start_question
+550,1272,571,15,"Okay.  And when you say ""not the way"" -- I know I want to play well, and I just can't no matter what.",q,MR. HOOVER,start_answer
+551,1275,571,18,Yes.,a,THE WITNESS,start_question
+552,1276,571,19,"But is there something about your diagnosis that -- I'll use the word ""inhibit"" or that affects your golf game?",q,MR. HOOVER,start_answer
+553,1279,571,22,No.,a,THE WITNESS,start_question
+554,1280,571,23,"Skiing.  You were skiing, and that's when you had the shortness of breath back in 2017.  I think the winter this year was pretty good.  I only got up once or twice. Did you go skiing at all this past winter?",q,MR. HOOVER,start_answer
+555,1286,572,4,Yes.,a,THE WITNESS,start_question
+556,1287,572,5,Do you have a place up at Sunday River?,q,MR. HOOVER,start_answer
+557,1288,572,6,Yes.,a,THE WITNESS,start_question
+558,1289,572,7,"Can I ask, where are you?",q,MR. HOOVER,start_answer
+559,1290,572,8,At the Summit Hotel.,a,THE WITNESS,start_question
+560,1291,572,9,We're at South Ridge.,q,MR. HOOVER,start_answer
+561,1292,572,10,Yeah.,a,THE WITNESS,start_question
+562,1293,572,11,Do you go up there for the whole winter?,q,MR. HOOVER,start_answer
+563,1294,572,12,No.  Usually a week at a time.,a,THE WITNESS,start_question
+564,1295,572,13,And you were able to ski this past winter?,q,MR. HOOVER,start_answer
+565,1296,572,14,Yes and no.  Not the way I wanted to.,a,THE WITNESS,start_question
+566,1297,572,15,"And was there anything -- when you say not the way you want to, was there anything about your current condition that limited the way you wanted to ski?",q,MR. HOOVER,start_answer
+567,1301,572,19,Yes.,a,THE WITNESS,start_question
+568,1302,572,20,And what was that?,q,MR. HOOVER,start_answer
+569,1303,572,21,Breathing and fatigue.,a,THE WITNESS,start_question
+570,1304,572,22,Has any doctor told you that you've got to cut back on any of your activities or anything?,q,MR. HOOVER,start_answer
+571,1306,572,24,"Oh, no.",a,THE WITNESS,start_question
+572,1308,573,1,Other than golfing and skiing -- and those are two great things -- is there any other sort of hobbies or activities that you have?,q,MR. HOOVER,start_answer
+573,1311,573,4,Those are really the main two.,a,THE WITNESS,start_question
+574,1312,573,5,Do you travel at all?  Vacations and the like?,q,MR. HOOVER,start_answer
+575,1314,573,7,Yes.,a,THE WITNESS,start_question
+576,1315,573,8,Are you still able to do that?,q,MR. HOOVER,start_answer
+577,1316,573,9,Restricted.,a,THE WITNESS,start_question
+578,1317,573,10,"And what type of -- when you say ""restricted,"" what are the restrictions?",q,MR. HOOVER,start_answer
+579,1319,573,12,I'm certainly not going to tackle climbing Mount Washington.,a,THE WITNESS,start_question
+580,1321,573,14,"Other than something along those lines, is there any other type of restrictions that you have on travel or anything like that?",q,MR. HOOVER,start_answer
+581,1324,573,17,No.,a,THE WITNESS,start_question
+582,1325,573,18,"In terms of activities around the house, yard work and the like, do you still do that?",q,MR. HOOVER,start_answer
+583,1327,573,20,Limited.,a,THE WITNESS,start_question
+584,1328,573,21,Okay.,q,MR. HOOVER,start_answer
+585,1329,573,22,"Lucky enough, I've got some grandkids that help me out.",a,THE WITNESS,start_question
+586,1331,573,24,Excellent.  And were the grandkids helping you out before your diagnosis?,q,MR. HOOVER,start_answer
+587,1334,574,2,No.,a,THE WITNESS,start_question
+588,1335,574,3,Has there been anything about your diagnosis that has limited your ability to do yard work and the like?,q,MR. HOOVER,start_answer
+589,1338,574,6,No.,a,THE WITNESS,start_question
+590,1339,574,7,Any other sort of hobbies or activities that you feel you no longer can do or you do on a limited basis since your diagnosis that we haven't really talked about?,q,MR. HOOVER,start_answer
+591,1343,574,11,No.,a,THE WITNESS,start_question
+592,1344,574,12,And you still drive yourself around?,q,MR. HOOVER,start_answer
+593,1345,574,13,Yes.,a,THE WITNESS,start_question
+594,1346,574,14,And then just -- do you have any memory of whether or not you have ever signed any sort of affidavits or sworn statements for any sort of bankruptcy trusts?,q,MR. HOOVER,start_chat
+595,1350,574,18,Objection to form.,side_chat,MR. BECERRA,start_answer
+596,1351,574,19,No.,a,THE WITNESS,start_question
+597,1352,574,20,"Do you have -- and again, I don't want to know any sort of conversations you've had.  This is just of your own personal knowledge.  Do you know whether or not anyone has ever submitted any sort of bankruptcy trust claims on your behalf?",q,MR. HOOVER,start_answer
+598,1358,575,1,No.,a,THE WITNESS,start_chat
+599,1359,575,2,"As I mentioned, sir, I thought I was going to be fairly quick today.  It was fairly quick.  I have no further questions.  I appreciate you taking the time these past couple days.  And I'm done.",side_chat,MR. HOOVER,start_chat
+600,1364,575,7,Let's take a quick break.,side_chat,MR. BECERRA,start_chat
+601,1365,575,8,The time is 10:35 a.m. We are going off the video record.,side_chat,THE VIDEOGRAPHER,is brackets
+602,1367,575,10,(Recess taken),brackets,,start_chat
+603,1368,575,11,"The time is 10:49 a.m., and we are back on the record.",side_chat,THE VIDEOGRAPHER,start_chat
+604,1370,575,13,All right.  The microphone is by the phone.  Fire away. EXAMINATION,side_chat,MR. HOOVER,start_question
+605,1374,575,17,"All right, sir.  My name is Wayne George. Can you hear me okay?",q,MR. GEORGE,start_chat
+606,1376,575,19,He's shaking his head no. Hold on.  We're going to bring the phone closer to the witness.,side_chat,MR. HOOVER,start_chat
+607,1379,575,22,"Go ahead, Wayne.",side_chat,MR. BECERRA,start_question
+608,1380,575,23,"Okay.  Can you hear me okay now, sir?",q,MR. GEORGE,start_answer
+609,1381,575,24,Better.  Yes.,a,THE WITNESS,start_question
+610,1383,576,1,"Okay.  I'm just going to ask you a few questions regarding Bell & Gossett and Goulds.  If you don't understand the question, just let me know and I'll clarify it or rephrase it.  Okay? You had indicated that you installed air-cooled pumps at a diner in Ayer, Mass.  Do you recall what the function of those pumps was?",q,MR. GEORGE,start_chat
+611,1390,576,8,Were they circulating pumps? Were they water pumps?,side_chat,MR. BECERRA,start_answer
+612,1392,576,10,"Yeah.  They were both, circulating pumps and water pumps.",a,THE WITNESS,start_question
+613,1394,576,12,"Okay.  And do you recall the temperature of the water that they were circulating?  Hot, cold?",q,MR. GEORGE,start_answer
+614,1397,576,15,Cold to medium.,a,THE WITNESS,start_question
+615,1398,576,16,Did you have any cause to take those Bell & Gossett pumps apart to work on the inside of the pumps?,q,MR. GEORGE,start_answer
+616,1401,576,19,Yes.,a,THE WITNESS,start_question
+617,1402,576,20,And what was the nature of that work?,q,MR. GEORGE,start_answer
+618,1403,576,21,On which pump?  The Gould?,a,THE WITNESS,start_question
+619,1404,576,22,"We're talking about just the Bell & Gossett right now.  Did you take any of those Bell & Gossett pumps apart; and if so, why did you do so and what were you doing?",q,MR. GEORGE,start_answer
+620,1409,577,2,Yes.  Replaced the flange gasket.,a,THE WITNESS,start_question
+621,1410,577,3,And were you doing any other work on those pumps?,q,MR. GEORGE,start_answer
+622,1412,577,5,No.,a,THE WITNESS,start_question
+623,1413,577,6,"Okay.  And were you only at -- were you just at this diner one time for installation, or were you going back to do maintenance work on the pumps?",q,MR. GEORGE,start_answer
+624,1417,577,10,Multiple different places.,a,THE WITNESS,start_question
+625,1418,577,11,"What do you mean ""multiple different places""?  We're talking -- you testified to working with B&G pumps at a diner in Ayer, Mass. Are you telling me that you worked with those pumps at other locations or at multiple locations in the diner?",q,MR. GEORGE,start_answer
+626,1424,577,17,Many different locations.,a,THE WITNESS,start_question
+627,1425,577,18,Besides in the diner.  Is that accurate?,q,MR. GEORGE,start_answer
+628,1426,577,19,Besides the diner.  Yeah.,a,THE WITNESS,start_question
+629,1427,577,20,Okay.  And what were -- what were the other locations where you would've worked with Bell & Gossett pumps?,q,MR. GEORGE,start_answer
+630,1430,577,23,"Anywhere from the officers' club, the NCO Club at Fort Devens, the Triangle in Groton, the Groton Package Store.  There were many different ones.",a,THE WITNESS,start_question
+631,1435,578,3,"Okay.  And in all instances, were the Bell & Gossett pumps fulfilling the same function? Were they circulating and water pumps?",q,MR. GEORGE,start_answer
+632,1438,578,6,Yes.,a,THE WITNESS,start_question
+633,1439,578,7,Were those Bell & Gossett pumps operated by a motor?,q,MR. GEORGE,start_answer
+634,1441,578,9,Yes.,a,THE WITNESS,start_question
+635,1442,578,10,Do you recall if the Bell & Gossett pumps had mechanical seals?,q,MR. GEORGE,start_chat
+636,1444,578,12,Objection.  Form. If you don't understand what --,side_chat,MR. BECERRA,start_answer
+637,1446,578,14,I don't understand.,a,THE WITNESS,start_question
+638,1447,578,15,Do you recall the color of the Bell & Gossett pumps?,q,MR. GEORGE,start_answer
+639,1449,578,17,No.,a,THE WITNESS,start_question
+640,1450,578,18,Do you recall the model or serial number of any of the Bell & Gossett pumps that you worked with?,q,MR. GEORGE,start_answer
+641,1453,578,21,No.,a,THE WITNESS,start_question
+642,1454,578,22,Okay.  I'm going to move on to the Goulds pumps.  You had also indicated that you installed Goulds pumps at the Park Street Diner in Ayer. Do you recall the function of those Goulds pumps at the Park Street Diner?,q,MR. GEORGE,start_answer
+643,1460,579,3,"No, I don't.",a,THE WITNESS,start_question
+644,1461,579,4,"Did you work on those Goulds pumps at the Park Street Diner internally?  Meaning, did you take them apart?",q,MR. GEORGE,start_answer
+645,1464,579,7,"At the diner, no.",a,THE WITNESS,start_question
+646,1465,579,8,Do you recall the color of the Goulds pumps?,q,MR. GEORGE,start_answer
+647,1467,579,10,No.,a,THE WITNESS,start_question
+648,1468,579,11,Do you recall the model or serial number?,q,MR. GEORGE,start_answer
+649,1469,579,12,Not at the diner.,a,THE WITNESS,start_question
+650,1470,579,13,"Okay.  Now, you had also indicated that you worked with -- you had Goulds pumps in the basement of your house and that you rebuilt that pump sometime between 1980 and 1985. Do you recall the function of that pump? I know you said generally it was a water pump, but what exactly was the function, if you recall?",q,MR. GEORGE,start_answer
+651,1477,579,20,Supply water to the house.,a,THE WITNESS,start_question
+652,1478,579,21,Okay.  So it was a well pump?,q,MR. GEORGE,start_answer
+653,1479,579,22,"It was a well pump, shallow well pump.",a,THE WITNESS,start_question
+654,1480,579,23,All right.  And I think you insinuated in answering questions with regards to the Park Street Diner that you had worked with Goulds pumps somewhere other than the Park Street Diner and in your home.  Is that correct?,q,MR. GEORGE,start_answer
+655,1486,580,4,Yes.,a,THE WITNESS,start_question
+656,1487,580,5,And where would you have worked with Goulds pumps other than the Park Street Diner and your home?,q,MR. GEORGE,start_answer
+657,1490,580,8,"At my -- the farmhouse, which was my original home.",a,THE WITNESS,start_question
+658,1492,580,10,Okay.  I think you had testified to working on that when you were 13.  Is that correct?,q,MR. GEORGE,start_answer
+659,1495,580,13,Yeah.  Roughly.,a,THE WITNESS,start_question
+660,1496,580,14,"Okay.  Any other instances of working with the Goulds pump that you recall outside of your childhood home, your current home, or the Park Street Diner?",q,MR. GEORGE,start_answer
+661,1500,580,18,No.,a,THE WITNESS,start_question
+662,1501,580,19,Okay.,q,MR. GEORGE,start_chat
+663,1502,580,20,"Thank you very much, sir. That's all the questions I have for you.",side_chat,MR. GEORGE,start_chat
+664,1504,580,22,Okay.  Thank you.,side_chat,THE WITNESS,start_chat
+665,1505,580,23,Would you like to conclude the deposition for the day?,side_chat,THE VIDEOGRAPHER,start_chat
+666,1508,581,1,I have a couple of questions.  Let me switch sides just for purposes of the camera. EXAMINATION,side_chat,MR. BECERRA,start_question
+667,1513,581,6,"Mr. Morton, earlier this morning you told us about how you started smoking at the age of either 12 or 14 and you quit in 1989.  Do you recall that testimony?",q,MR. BECERRA,start_answer
+668,1517,581,10,Yes.,a,THE WITNESS,start_question
+669,1518,581,11,You also told us that the first time you ever noticed any warnings on any cigarette packs was at some point in the 1980s.  Do you recall that testimony?,q,MR. BECERRA,start_answer
+670,1522,581,15,Yes.,a,THE WITNESS,start_question
+671,1523,581,16,"Okay.  At that time, when you first noticed the warnings on the cigarette packs, were you addicted to smoking cigarettes?",q,MR. BECERRA,start_chat
+672,1526,581,19,I object to the form.,side_chat,MR. HOOVER,start_answer
+673,1527,581,20,Yes.,a,THE WITNESS,start_question
+674,1528,581,21,I'm sorry.  What was your answer?,q,MR. BECERRA,start_answer
+675,1529,581,22,Yes.,a,THE WITNESS,start_question
+676,1530,581,23,"After you read the warnings for the first time in the 1980s, did you become concerned about the health consequences of smoking?",q,MR. BECERRA,start_answer
+677,1534,582,2,Yes.,a,THE WITNESS,start_question
+678,1535,582,3,And what did you do with those concerns that you had?,q,MR. BECERRA,start_answer
+679,1537,582,5,I first tried quitting several times.,a,THE WITNESS,start_question
+680,1538,582,6,"Okay.  How many times specifically, if you remember, did you try quitting before you were finally successful in quitting in 1989?",q,MR. BECERRA,start_answer
+681,1541,582,9,Roughly twice.,a,THE WITNESS,start_question
+682,1542,582,10,And why were you unsuccessful those two times before you were finally able to overcome it in 1989?,q,MR. BECERRA,start_answer
+683,1545,582,13,Because cigarettes are very addictive.,a,THE WITNESS,start_question
+684,1546,582,14,Okay.  And you also told us earlier this morning that in 1989 you were finally able to quit smoking for good.  Do you recall that testimony?,q,MR. BECERRA,start_answer
+685,1549,582,17,Yes.,a,THE WITNESS,start_question
+686,1550,582,18,And what was the primary driving force behind your desire to quit smoking in 1989?,q,MR. BECERRA,start_answer
+687,1552,582,20,I was in the hospital for a week and not able to smoke.,a,THE WITNESS,start_question
+688,1554,582,22,Okay.  Were you concerned about the health consequences at that point in time?,q,MR. BECERRA,start_answer
+689,1556,582,24,Yes.,a,THE WITNESS,start_question
+690,1558,583,1,And is that one of the driving forces behind why you wanted to quit for good in 1989?,q,MR. BECERRA,start_answer
+691,1560,583,3,Yes.,a,THE WITNESS,start_chat
+692,1561,583,4,I object to the form.,side_chat,MR. HOOVER,start_question
+693,1562,583,5,"You also told us that you currently still drive.  Do you recall that testimony, Mr. Morton?",q,MR. BECERRA,start_answer
+694,1564,583,7,That what?,a,THE WITNESS,start_question
+695,1565,583,8,That you still drive.  You still drive a vehicle.,q,MR. BECERRA,start_answer
+696,1567,583,10,"Oh, yes, yes.",a,THE WITNESS,start_question
+697,1568,583,11,Do you wear your seatbelt when you drive?,q,MR. BECERRA,start_answer
+698,1569,583,12,Yes.,a,THE WITNESS,start_question
+699,1570,583,13,And why do you wear your seatbelt?,q,MR. BECERRA,start_answer
+700,1571,583,14,For protection.,a,THE WITNESS,start_question
+701,1572,583,15,"And when you're driving, Mr. Morton, and you're approaching an intersection and the light turns yellow, what do you do?",q,MR. BECERRA,start_answer
+702,1575,583,18,You slow down and try to stop.,a,THE WITNESS,start_question
+703,1576,583,19,And just generally speaking --,q,MR. BECERRA,start_chat
+704,1577,583,20,"Folks on the phone, can you please mute your phones.  We're hearing a lot of conversation in the background.",side_chat,MR. BECERRA,start_question
+705,1580,583,23,"Mr. Morton, just a couple more questions and then we'll be done. Just generally speaking, Mr. Morton, when you're using any product, whether it's a home cleaning product or any other type of product, and there's a warning on those products, do you read those warnings?",q,MR. BECERRA,start_answer
+706,1588,584,6,Yes.,a,THE WITNESS,start_chat
+707,1589,584,7,I object to the form.,side_chat,MR. HOOVER,start_question
+708,1590,584,8,Do you heed those warnings?,q,MR. BECERRA,start_chat
+709,1591,584,9,I object to the form.,side_chat,MR. HOOVER,start_answer
+710,1592,584,10,Yes.,a,THE WITNESS,start_chat
+711,1593,584,11,"That's all I have, Mr. Morton.  Thank you so much for your time.",side_chat,MR. BECERRA,start_chat
+712,1595,584,13,All right.,side_chat,THE WITNESS,start_chat
+713,1596,584,14,Anybody else?,side_chat,THE VIDEOGRAPHER,start_chat
+714,1597,584,15,I think we're good.,side_chat,MR. HOOVER,start_chat
+715,1598,584,16,The time is 11:01 a.m. We are going off the record.  This concludes the videotaped deposition of David C. Morton.,side_chat,THE VIDEOGRAPHER,is brackets
+716,1601,584,19,"(Off the record at 11:01 a.m.) E R R A T A  S H E E T I, DAVID C. MORTON, do hereby certify that I have read the foregoing transcript of my testimony, and further certify that said transcript is a true and accurate record of my testimony (with the exception of the following corrections listed below): Page        Line                    Correction",brackets,,symbols
+717,1616,585,9,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+718,1617,585,10,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+719,1618,585,11,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+720,1619,585,12,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+721,1620,585,13,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+722,1621,585,14,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+723,1622,585,15,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+724,1623,585,16,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+725,1624,585,17,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+726,1625,585,18,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+727,1626,585,19,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,symbols,,symbols
+728,1627,585,20,"_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Signed under the pains and penalties of perjury this          day of                   , 2018. DAVID C. MORTON COMMONWEALTH OF MASSACHUSETTS SUFFOLK, SS. I, Michelle Keegan, Registered Merit Reporter and Notary Public in and for the Commonwealth of Massachusetts, do hereby certify that DAVID C. MORTON, the witness whose deposition is hereinbefore set forth, was duly sworn by me and that such deposition is a true record, to the best of my ability, of the testimony given by the witness. I further certify that I am neither related to nor employed by any of the parties in or counsel to this action, nor am I financially interested in the outcome of this action. In witness whereof, I have hereunto set my hand and seal this 28th day of July, 2018. Notary Public My commission expires: May 16, 2019",symbols,,end

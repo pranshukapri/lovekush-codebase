@@ -1,0 +1,507 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," a witness, called for examination, having been first duly sworn, was examined and testified as follows: EXAMINATION",,,start_question
+1,63,3,13,"Good afternoon, Dr. Lippman. We were introduced briefly off the record, but for the record, my name is Kelly Kylis, and along with Jennifer Alexander, we represent the defendants in the case filed by Ms. Regina Johnson for which we have brought you here today. To begin, would you please state your name and business address.",q,MS. KYLIS,start_answer
+2,72,3,22,"My name is Kenneth R. Lippman.  My office address is 809 North Charles Street. That's Baltimore, Maryland 21201.",a,THE WITNESS,start_question
+3,78,4,3,"Thank you, Doctor. Now, have you had your deposition taken before?",q,MS. KYLIS,start_answer
+4,81,4,6,I have.,a,THE WITNESS,start_question
+5,82,4,7,"Very good. Well, since you have, I will just go over a couple very brief ground rules that you probably already know. The first, as Madam Court Reporter has just reminded me, we must speak slowly and clearly so that she can accurately record everything that we say. Secondly, all responses must be verbal, yes, no, or whatever the answer may be. Thirdly, it's very important that we don't talk over each other so that she can accurately record everything that we say. Finally, if you don't understand any of my questions, please let me know, and I will be happy to rephrase them.  It's very important that we are on the same page at all times so that we have an accurate and clear record going forward. Okay?",q,MS. KYLIS,start_answer
+6,105,5,5,Okay.,a,THE WITNESS,start_question
+7,106,5,6,"Thank you, Doctor. Let me show you first what I have premarked as Deposition Exhibit Number 1.  This is your notice of deposition, essentially your invitation to be here today. Have you seen this document before?",q,MS. KYLIS,start_answer
+8,112,5,12,I have not.,a,THE WITNESS,start_question
+9,113,5,13,"Okay.  Attached to this deposition notice, if you wouldn't mind taking a quick look, is a document schedule.",q,MS. KYLIS,start_answer
+10,116,5,16,Okay.,a,THE WITNESS,start_question
+11,117,5,17,This document schedule requested you to bring pretty much just a copy of your file regarding Ms. Johnson. I see you have some papers with you today. What did you bring with you today?,q,MS. KYLIS,start_answer
+12,126,6,1,This is basically the office file.,a,THE WITNESS,start_question
+13,127,6,2,And what does that include?,q,MS. KYLIS,start_answer
+14,128,6,3,"Well, there's -- there is one report from July 16, 2019.  There's actually a separate report that's not in here as well. There's the form that Ms. Johnson fills out when she comes into the office, a patient history form. There's a couple pages of my notes. There's a letter from Paula Valese. There's some -- there's some x-ray reports from GW. Some of the forms that Ms. Johnson signs when she comes in. Some of the forms that she didn't sign when she came in. And -- oh.  And then there's a letter from Mr. Covacevich, who unfortunately is not with us today.",a,THE WITNESS,start_question
+15,145,6,20,"Right.  Not that he's dead, just --",q,MS. KYLIS,start_answer
+16,146,6,21,"Yeah.  Just for the day, just for the day and could not be with us.",a,THE WITNESS,start_question
+17,151,7,1,Thank you.,q,MS. KYLIS,start_answer
+18,152,7,2,Yeah. And then there's the -- basically the bill that my office generates. And then there's a binder of records.,a,THE WITNESS,start_question
+19,156,7,6,"Great. Now, the binder of records that you have, where did you receive those?",q,MS. KYLIS,start_answer
+20,159,7,9,"Well, it came with this letter from Mr. Covacevich.",a,THE WITNESS,start_question
+21,161,7,11,"Okay. Okay.  Now, the first item that you listed in the documents that you brought with you today is the 7-16-19 report?",q,MS. KYLIS,start_answer
+22,165,7,15,Yes.,a,THE WITNESS,start_question
+23,166,7,16,"I think that you said to me that there was another report. When you said that, what did you mean?",q,MS. KYLIS,start_answer
+24,169,7,19,"I meant just what I said.  There's a -- after I completed this report, I wrote another, sort of supplemental, additional report, which I don't think you have.",a,THE WITNESS,start_question
+25,176,8,1,Okay.,q,MS. KYLIS,start_answer
+26,177,8,2,Okay?,a,THE WITNESS,start_question
+27,178,8,3,And why did you not bring it with you today?,q,MS. KYLIS,start_answer
+28,180,8,5,"Because it just didn't get -- for some reason, it's not in the file, but I know about it, and then -- so I -- I can print it out -- I can read it to you.  In fact, I can read it off my phone to you.  It's just a couple -- maybe one paragraph or so.  But it just wasn't -- for some reason, it didn't get put in the file.",a,THE WITNESS,start_question
+29,187,8,12,Okay.,q,MS. KYLIS,start_answer
+30,188,8,13,So the file got processed and billed without it.,a,THE WITNESS,start_question
+31,190,8,15,Understood.,q,MS. KYLIS,start_answer
+32,191,8,16,Yeah.,a,THE WITNESS,start_question
+33,192,8,17,"That second report, when did you complete it?",q,MS. KYLIS,start_answer
+34,194,8,19,I think it has the same date on it.,a,THE WITNESS,start_question
+35,195,8,20,It's also from July 16?,q,MS. KYLIS,start_answer
+36,196,8,21,"It's from July 16, yeah.",a,THE WITNESS,start_question
+37,197,8,22,And why was it -- why did you do a second report on the same day?,q,MS. KYLIS,start_answer
+38,202,9,2,"Because after I completed it, then I realized that the impairment issue was not addressed.  And I don't think it was actually -- I don't know that it was requested in the letter or addressed in the letter, so I -- I guess at some point it crossed my mind that that would be an issue that would come up, so I just -- while it was fresh in my mind, I dictated something about it.",a,THE WITNESS,start_chat
+39,211,9,11,Okay.  If that report could be produced I guess to counsel and then to me --,side_chat,MS. KYLIS,start_chat
+40,214,9,14,Yes.,side_chat,MR. KEARNS,start_chat
+41,215,9,15,"Well, I'll be happy to. I can't physically do it here.  I can read it to you if you want.  I mean, I would just read it in if you want just so you have an idea what it says.  But if you want me to just send it to you when I get back to the office, I'm happy to do that as well.",side_chat,THE WITNESS,start_chat
+42,222,9,22,"I think that would be fine. I mean, maybe just as a formality we can leave the deposition open for it?",side_chat,MS. KYLIS,start_chat
+43,228,10,3,"You know, you could ask him, you know, what the substance of the report is and any opinions that he may have from it.",side_chat,MR. KEARNS,start_chat
+44,231,10,6,Yes.  I do intend to.,side_chat,MS. KYLIS,start_chat
+45,232,10,7,"Oh, all right.  Well, we're going to get you a copy of the document, though.",side_chat,MR. KEARNS,start_chat
+46,235,10,10,Right.,side_chat,MS. KYLIS,start_chat
+47,236,10,11,Yes.,side_chat,MR. KEARNS,start_chat
+48,237,10,12,Yes.  I think that would be good.,side_chat,MS. KYLIS,start_question
+49,240,10,15,"All right.  Well, while we're on the subject, can you tell me generally the substance of the -- what we're going to call the second report and --",q,MS. KYLIS,start_answer
+50,244,10,19,Sure. Do you mind if I reference it?,a,THE WITNESS,start_question
+51,246,10,21,Sure.,q,MS. KYLIS,start_answer
+52,247,10,22,If I look at it? Okay. Do you want me to just read it to you or just tell you what it says?,a,THE WITNESS,start_question
+53,254,11,4,"If it would be easier, Doctor, to read it, that would be fine.",q,MS. KYLIS,start_answer
+54,256,11,6,"It says ""Orthopedic Surgeon's Report."" It's dated July 16, 2019.  And it references Regina Johnson. And it says (as read):  Following review of submitted medical records and the examination performed on 7-16-19, it could be said with a reasonable degree of medical probability and certainty that there is permanent impairment demonstrated.  This impairment is considered to be a result of the injuries sustained when she was shopping 2-2-16.  The impairment is represented in her current symptomatology, the physical examination and the imaging results.  This includes the myelomalacia reported by Dr. Hung. And it says ""Kenneth R. Lippman, M.D.""",a,THE WITNESS,start_question
+55,272,11,22,Great.  Thank you.,q,MS. KYLIS,start_answer
+56,276,12,1,You're welcome.,a,THE WITNESS,start_question
+57,277,12,2,"Doctor, while we're on this -- I'm going to just keep referring to it as the second report -- the last line of this report, you were discussing that your opinions were based on the symptomatology and included -- and you used a medical term.  I was hoping you could give me a definition of that medical term that you used in layman's terms, the diagnosis from Dr. Young.",q,MS. KYLIS,start_answer
+58,286,12,11,Hung.,a,THE WITNESS,start_question
+59,287,12,12,Hung.  Sorry.,q,MS. KYLIS,start_answer
+60,288,12,13,"H-U-N-G. Well, the term is ""myelomalacia,"" M-Y-E-L-O-M-A-L-A-C-I-A.  And basically that's a softening of the cord, the spinal cord.  It's when the cord turns to mush.",a,THE WITNESS,start_question
+61,293,12,18,And what causes that condition?,q,MS. KYLIS,start_answer
+62,294,12,19,"Well, it could be caused -- it's caused by some injury to the cord.",a,THE WITNESS,start_question
+63,296,12,21,"Okay.  Now, we'll get into the mechanism of injury here in a minute, but I just want to focus on this while we're on it. Can you explain to me the basis for your opinion that this softening of the spinal cord is causally related to the incident that occurred at Walmart on February 20, 2016.",q,MS. KYLIS,start_answer
+64,306,13,6,"Well, there's no indication in the records that she had any type of problem, difficulty or concerns that would suggest the diagnosis of myelomalacia prior to the events of February --",a,THE WITNESS,start_question
+65,311,13,11,20th?,q,MS. KYLIS,start_answer
+66,312,13,12,"It was 20th.  I just realized that this one says ""02"" instead of ""20,"" so the one I read to you has the wrong date on it.",a,THE WITNESS,start_question
+67,315,13,15,Okay.,q,MS. KYLIS,start_answer
+68,316,13,16,Okay?,a,THE WITNESS,start_question
+69,317,13,17,We can forgive that.,q,MS. KYLIS,start_answer
+70,318,13,18,"Yes.  Thank you. So prior to the events of February 20, 2016, she was quite -- she was physically active and had no symptoms that would be associated -- that would lead to entertaining such a diagnosis. And then when you go through the initial medical reports, the ones that are generated basically in the days, weeks and months following the injury, you see symptoms that are highly suggestive of this type of diagnosis. The -- there's a description of the initial injury, the unsteadiness that she had, the ataxia, the radiating symptomatology.  That and other symptoms are very suggestive of this type of diagnosis that was eventually made by MRI.",a,THE WITNESS,start_question
+71,339,14,14,Right. And that diagnosis didn't come until the MRI in 2018; correct?,q,MS. KYLIS,start_answer
+72,342,14,17,"That's correct.  There was not an MRI of the neck in 2016 or 2017, and to the best of my knowledge, there was not one prior to 2016 either.",a,THE WITNESS,start_question
+73,346,14,21,"Correct.  Okay. Now, based on the description you just gave me, it sounds like your -- and correct me if I'm wrong, but it sounds like your opinion is based on the fact that she did not have any symptoms of this condition prior to the incident but did after. Did you review any medical records of Ms. Johnson that predate the February 20, 2016 incident?",q,MS. KYLIS,start_answer
+74,359,15,9,I did not.,a,THE WITNESS,start_question
+75,360,15,10,Okay.,q,MS. KYLIS,start_answer
+76,361,15,11,I don't know of any.,a,THE WITNESS,start_question
+77,362,15,12,Okay.,q,MS. KYLIS,start_answer
+78,363,15,13,Okay?,a,THE WITNESS,start_question
+79,364,15,14,"Therefore, was your -- is your assessment that she did not have those symptoms prior to the February 20, 2016 incident based solely on her history that she provided to you verbally when she came in for her visit?",q,MS. KYLIS,start_answer
+80,369,15,19,It's based on the history and the lack of records.,a,THE WITNESS,start_question
+81,371,15,21,"Did you review any records that -- of her medical history that predate the February 20, 2016 incident?",q,MS. KYLIS,start_answer
+82,377,16,2,No.  I don't know of any.,a,THE WITNESS,start_question
+83,378,16,3,Okay.,q,MS. KYLIS,start_answer
+84,379,16,4,"I mean, if there are some, I -- I'd be happy to look at them.  But as we sit here, I don't know of any.",a,THE WITNESS,start_question
+85,382,16,7,"Okay.  So when you say ""lack of records,"" that doesn't necessarily mean that those records don't exist, it's simply that you were not provided them to review?",q,MS. KYLIS,start_answer
+86,386,16,11,"I don't know of any that do exist or don't exist.  I just don't have any information, other than I asked her in some way if there was something like this that predated the events of 2016, and she didn't indicate that there were, and I don't know that any records have been provided or found or known of or exist.",a,THE WITNESS,start_question
+87,393,16,18,"Understood. Okay.  Thank you. Staying just for one more moment -- and I'll get into the other background questions that I want to ask you, but staying on your opinions as to this permanent impairment referenced in your second report that you've read to us from your phone, other than the information you've previously provided regarding the symptomatology, is there any other basis for that opinion that you can tell me about as we sit here today?",q,MS. KYLIS,start_answer
+88,408,17,8,I'm sorry.  Could you run the question by me again.  I'm not sure I understood the question.,a,THE WITNESS,start_question
+89,411,17,11,Yes.  That was a terrible question.  I saw Madam Court Reporter shake her head at me. I'm asking about the opinion in your -- what I'm calling the second report about permanent impairment.  You told me that that opinion is based on the symptomatology as presented to you by Ms. Johnson. Is there any other basis for that opinion that you can explain to me today?,q,MS. KYLIS,start_answer
+90,420,17,20,"Sure.  It's -- it includes the symptomatology, but it also includes the physical examination, all the examinations that were performed between February 2016 and now, in other words, what other providers found in those several years' time, and the imaging studies, as well as the nature of the injury, the history itself, and the lack of a prior history. So it's basically -- I mean, it's everything that's on the table as we sit here.",a,THE WITNESS,start_question
+91,434,18,9,"Okay. Now, in terms of permanent impairment, have you done any kind of quantitative assessment of her permanent impairment as you opine it to be?",q,MS. KYLIS,start_answer
+92,439,18,14,No.,a,THE WITNESS,start_question
+93,440,18,15,Okay.  So no kind of disability assessment or anything like that?,q,MS. KYLIS,start_answer
+94,442,18,17,No.  I haven't done -- if you're asking me if I put a number on it -- is that what the question is?,a,THE WITNESS,start_question
+95,445,18,20,"Yes, Doctor.",q,MS. KYLIS,start_answer
+96,446,18,21,Okay.  The answer is no.,a,THE WITNESS,start_question
+97,447,18,22,"When you said that she has a permanent impairment, what does that mean?",q,MS. KYLIS,start_answer
+98,452,19,2,It means that the situation is unlikely to change to a significant degree and will continue to be problematic for Ms. Johnson.,a,THE WITNESS,start_question
+99,456,19,6,Thank you. All right.  If I could take us back to the beginning and just ask you a few background questions.  And I do appreciate you reading us your missing report from your phone.,q,MS. KYLIS,start_answer
+100,461,19,11,Sure.,a,THE WITNESS,start_question
+101,462,19,12,"Okay.  Just very briefly, Doctor, can you give me your educational background, starting with college.",q,MS. KYLIS,start_answer
+102,465,19,15,"I went to college at Clark University, which is in Worcester, Massachusetts. After that, I went to medical school, Mount Sinai School of Medicine.  That's in the city of New York. After that, I completed a one-year surgical internship at Mount Sinai Hospital in New York City and then, after that, an orthopedic residency program at State University of New York Stony Brook.  I completed that in 1985.",a,THE WITNESS,start_question
+103,479,20,4,"Great. And are you board-certified, Doctor?",q,MS. KYLIS,start_answer
+104,481,20,6,I am not currently board-certified by the American Board of Orthopaedic Surgery.  I have been in the past.  I have board certification from the National Board of Physicians and Surgeons.,a,THE WITNESS,start_question
+105,486,20,11,Forgive me.  You are board-certified with the second entity you just named?,q,MS. KYLIS,start_answer
+106,488,20,13,Yes.,a,THE WITNESS,start_question
+107,489,20,14,And which one was that?,q,MS. KYLIS,start_answer
+108,490,20,15,It's the National Board of Physicians and Surgeons.,a,THE WITNESS,start_question
+109,492,20,17,And were you previously board-certified by -- what was the first entity you listed?,q,MS. KYLIS,start_answer
+110,494,20,19,You're talking about the ABOS?,a,THE WITNESS,start_question
+111,495,20,20,Yes.,q,MS. KYLIS,start_answer
+112,496,20,21,I have been on probably three occasions.,a,THE WITNESS,start_question
+113,501,21,1,Okay.  And is there a reason why you're no longer certified with them?,q,MS. KYLIS,start_answer
+114,503,21,3,My certification ran out at the end of last year.,a,THE WITNESS,start_question
+115,505,21,5,Do you intend to recertify?,q,MS. KYLIS,start_answer
+116,506,21,6,I'm planning on it.,a,THE WITNESS,start_question
+117,507,21,7,Okay.  And what is the difference between the certification with the ABOS and the national board?,q,MS. KYLIS,start_answer
+118,510,21,10,I don't know that I could explain to you what the difference is.  It's just another organization.,a,THE WITNESS,start_question
+119,513,21,13,Do you have to recertify with the national board?,q,MS. KYLIS,start_answer
+120,515,21,15,You do.,a,THE WITNESS,start_question
+121,516,21,16,How frequently do you have to do that?,q,MS. KYLIS,start_answer
+122,517,21,17,I'm not -- I'm actually not sure.  I'd have to look it up.,a,THE WITNESS,start_question
+123,519,21,19,Okay.,q,MS. KYLIS,start_answer
+124,520,21,20,"But it's relatively -- like -- I don't know if it's two years or five years.  I really don't remember, though.  It's just something I would look up and figure out.",a,THE WITNESS,start_question
+125,527,22,2,Sure. And in what specialty are you certified?,q,MS. KYLIS,start_answer
+126,530,22,5,In orthopedics.,a,THE WITNESS,start_question
+127,531,22,6,Does that include surgery?,q,MS. KYLIS,start_answer
+128,532,22,7,"It does.  It does, yeah.",a,THE WITNESS,start_question
+129,533,22,8,Do you hold any state licenses?,q,MS. KYLIS,start_answer
+130,534,22,9,I do.,a,THE WITNESS,start_question
+131,535,22,10,Which states?,q,MS. KYLIS,start_answer
+132,536,22,11,I'm licensed to practice medicine in the state of Maryland.,a,THE WITNESS,start_question
+133,538,22,13,Is that it?,q,MS. KYLIS,start_answer
+134,539,22,14,That's it.,a,THE WITNESS,start_question
+135,540,22,15,Do you maintain any privileges at any hospitals?,q,MS. KYLIS,start_answer
+136,542,22,17,"Yes, I do.",a,THE WITNESS,start_question
+137,543,22,18,Which hospitals?,q,MS. KYLIS,start_answer
+138,544,22,19,I currently have staff privileges at St. Joseph's and at GBMC.,a,THE WITNESS,start_question
+139,546,22,21,"All right.  Since, unfortunately, I don't have a copy of your CV, could you just give me your brief job history. Where do you work now?",q,MS. KYLIS,start_answer
+140,553,23,3,"I'm in private practice, work out of two offices, the one that was the business address I gave you, and then I have another office that I work out of a half day a week on Eastern Avenue.",a,THE WITNESS,start_question
+141,558,23,8,And do you own that practice?,q,MS. KYLIS,start_answer
+142,559,23,9,"I own that practice, yes.",a,THE WITNESS,start_question
+143,560,23,10,Okay.  How long have you owned that practice?,q,MS. KYLIS,start_answer
+144,562,23,12,That practice probably goes back to the late '80s sometime.,a,THE WITNESS,start_question
+145,564,23,14,Do you hold any other positions currently?,q,MS. KYLIS,start_answer
+146,566,23,16,I'm not sure I understand the question.  What kind of positions are you referring to?,a,THE WITNESS,start_question
+147,569,23,19,"Anything from teaching, another -- another practice that you work in?",q,MS. KYLIS,start_answer
+148,571,23,21,"No, I don't work in any other practices.",a,THE WITNESS,start_question
+149,576,24,1,Do you do any teaching?,q,MS. KYLIS,start_answer
+150,577,24,2,No.,a,THE WITNESS,start_question
+151,578,24,3,Do you do any research?,q,MS. KYLIS,start_answer
+152,579,24,4,No. You mean scientific research? No.,a,THE WITNESS,start_question
+153,582,24,7,Okay.  Have you published in the past?,q,MS. KYLIS,start_answer
+154,583,24,8,No.,a,THE WITNESS,start_question
+155,584,24,9,Okay.,q,MS. KYLIS,start_answer
+156,585,24,10,"I mean, there were some publications when I was in residency at that time, but I couldn't tell you what they were or -- but nothing since I've been in private practice.",a,THE WITNESS,start_question
+157,589,24,14,"Okay. Now, in your private practice, what do you do, if you could just briefly describe your job?",q,MS. KYLIS,start_answer
+158,593,24,18,"I do whatever -- whatever I can and whatever the day calls for. So I have an office-based practice.  I don't work out of a hospital, generally speaking.  And just basic orthopedic care.  I don't specialize in any particular part of the body.",a,THE WITNESS,start_question
+159,603,25,3,That was going to be my next question. Thank you. Do you have any administrative responsibilities as part of owning your practice?,q,MS. KYLIS,start_answer
+160,608,25,8,Yeah.  I got to keep it going.,a,THE WITNESS,start_question
+161,609,25,9,I assumed the answer would be yes.,q,MS. KYLIS,start_answer
+162,610,25,10,Yes.,a,THE WITNESS,start_question
+163,611,25,11,Can you tell me how much of your time is spent doing administrative duties as compared to actual practicing medicine?,q,MS. KYLIS,start_answer
+164,614,25,14,"I don't really know, like I never really thought about breaking it down that way, but it's -- it's more time than it's ever been before.  It seems like every day it's more and more, but it's not -- I don't think it's the majority.  It's -- most of the time it's patient care, but that in and of itself generates administrative issues, so I'm not really sure where you draw the line between the two.",a,THE WITNESS,start_question
+165,627,26,2,Okay. Do you perform surgeries?,q,MS. KYLIS,start_answer
+166,629,26,4,I do.,a,THE WITNESS,start_question
+167,630,26,5,What kind of procedures do you do?,q,MS. KYLIS,start_answer
+168,631,26,6,"Carpal tunnel releases, arthroscopies, mostly shoulders and knees, some joint replacements. That's what I do mostly now.  I mean, the nature of my surgery is not like it used to be.",a,THE WITNESS,start_question
+169,637,26,12,What did it used to be?,q,MS. KYLIS,start_answer
+170,638,26,13,"I used to do a lot of spine work, don't really do spine work anymore.",a,THE WITNESS,start_question
+171,640,26,15,Is there a reason why?,q,MS. KYLIS,start_answer
+172,641,26,16,"There's a couple reasons.  I mean, it's just -- it just doesn't work out the same way anymore.",a,THE WITNESS,start_question
+173,644,26,19,What do you mean by that?,q,MS. KYLIS,start_answer
+174,645,26,20,"First of all, I don't -- patient population isn't the same, like I used to always see people that needed spine surgery and I just don't see that very often anymore. I used to work very closely with a neurosurgeon.  I don't work with him anymore. He left town, basically. So just -- it's just a different kind of practice than it was a couple years ago.",a,THE WITNESS,start_question
+175,657,27,7,"You said ""a couple years ago."" About when did your practice change from doing a lot of spine work to now being mostly shoulders and knees?",q,MS. KYLIS,start_answer
+176,661,27,11,I'd say probably in the three to five-year range or something like that.,a,THE WITNESS,start_question
+177,663,27,13,"Okay.  As it is now, how much of your practice is spine work?  If you could put a percentage on it.",q,MS. KYLIS,start_answer
+178,666,27,16,"I probably haven't been in on a spine case in well over a year, so it's really not -- I don't -- the ones that I have I send out now.",a,THE WITNESS,start_question
+179,669,27,19,Okay. And do you do any medical-legal work?,q,MS. KYLIS,start_answer
+180,671,27,21,Yes.,a,THE WITNESS,start_question
+181,672,27,22,How much of your practice is medical-legal work?,q,MS. KYLIS,start_answer
+182,677,28,2,"Well, I guess you'd have to define what that is.  I mean, I guess -- I guess this is medical-legal work.  I don't see it as medical-legal work, but you see it in a different way. So I do evaluations some.  On different days it's different amounts.  Many days I don't see any at all and some days I'll see a couple of them, and so it depends.  But it's not a large percentage of the practice where I'll do a -- this type of evaluation.",a,THE WITNESS,start_question
+183,688,28,13,Would you be able to put a numerical percentage on it?,q,MS. KYLIS,start_answer
+184,690,28,15,"I'd say it -- well, not really.  I mean, I don't have a statistical way of doing that.  But it's -- it's an infrequent part.",a,THE WITNESS,start_question
+185,693,28,18,You mentioned that you brought with you today your billing records for this matter. Can you tell me how much you've billed or charged to date in this case?,q,MS. KYLIS,start_answer
+186,697,28,22,Can we go off the record a second?,a,THE WITNESS,start_chat
+187,701,29,1,Yes.,side_chat,MS. KYLIS,is brackets
+188,702,29,2,(Discussion off the record.),brackets,,start_chat
+189,703,29,3,"So the charges for the visit of 7-16-19 total $1,813.",side_chat,THE WITNESS,start_question
+190,706,29,6,And that's just for the one visit?,q,MS. KYLIS,start_answer
+191,707,29,7,"Well, it's for the -- for the one visit it's $750, and then there's charges for x-rays and then there's a charge for medical record review, so it all adds up to 1813.",a,THE WITNESS,start_question
+192,711,29,11,"Okay. Do you have a rate sheet, or do you simply charge 750 an hour, for your medical-legal consulting work?",q,MS. KYLIS,start_answer
+193,715,29,15,"So there's a -- I think I know what you mean by ""a rate sheet,"" so there's -- there's a piece of paper that has certain charges on it for depositions, trials, things like that, medical record review.  I don't have it with me, but there is such a document.",a,THE WITNESS,start_question
+194,721,29,21,Okay.  How much do you charge for deposition or trial testimony?,q,MS. KYLIS,start_answer
+195,726,30,1,"So if it's charged on an hourly rate, my recollection is it's -- for this deposition it would be $750 for the first hour and $600 for each additional hour or part thereof.",a,THE WITNESS,start_question
+196,730,30,5,Yes.  I'm trying very hard to keep this to an hour. What about trial testimony?,q,MS. KYLIS,start_answer
+197,733,30,8,"Trial testimony is sometimes billed on an hourly basis and then it's sometimes billed on a daily rate, and I don't actually know what it says about the daily rate, if it does.",a,THE WITNESS,start_question
+198,737,30,12,"Okay. Now, obviously you are here on behalf of the plaintiff. Do you do any work for defendants as well?",q,MS. KYLIS,start_answer
+199,742,30,17,I have.  Yes.,a,THE WITNESS,start_question
+200,743,30,18,When is the last time you had a defense case?,q,MS. KYLIS,start_answer
+201,745,30,20,"I don't recall specifically, but within the last six months or so I would guess.",a,THE WITNESS,start_question
+202,747,30,22,"How much -- if you can estimate, how much of your medical-legal consulting practice is on behalf of plaintiffs versus defendants?",q,MS. KYLIS,start_answer
+203,753,31,3,I would say that it's mostly plaintiff and occasionally defense.,a,THE WITNESS,start_question
+204,755,31,5,Okay.  Have you testified in court in a medical-legal capacity?  As an expert witness? I'm sorry.  That was a bad question.,q,MS. KYLIS,start_answer
+205,758,31,8,"Yes, I have.",a,THE WITNESS,start_question
+206,759,31,9,"When you testified in court as an expert witness, were you qualified as an expert in that court?",q,MS. KYLIS,start_answer
+207,762,31,12,Yes.,a,THE WITNESS,start_question
+208,763,31,13,"Which court was that or what courts, plural, if --",q,MS. KYLIS,start_answer
+209,765,31,15,"I don't know that I could list all the courts I've ever -- I mean, you're talking about thirty-plus years, so -- but I've been accepted as an expert in the courts in Baltimore City, Baltimore County, Montgomery County, probably Howard County, Harford County, and I'm sure other ones, too, but I don't recall -- oh, in Southern Maryland, so -- as well.  I don't remember which county specifically.",a,THE WITNESS,start_question
+210,777,32,2,Okay. What kind of cases have you testified in as an expert witness?,q,MS. KYLIS,start_answer
+211,780,32,5,Basically cases that involve orthopedic injuries.,a,THE WITNESS,start_question
+212,782,32,7,Have you ever not been accepted as an expert in a court?,q,MS. KYLIS,start_answer
+213,784,32,9,No.  I don't think so.,a,THE WITNESS,start_question
+214,785,32,10,"Okay. Doctor, what, if anything, did you do to prepare for your deposition today?",q,MS. KYLIS,start_answer
+215,788,32,13,I went through the records that I had regarding Ms. Johnson and I read my report.  I also looked at the images that I have.,a,THE WITNESS,start_question
+216,791,32,16,Those are the diagnostic images?,q,MS. KYLIS,start_answer
+217,792,32,17,Yes.  The ones from George Washington.,a,THE WITNESS,start_question
+218,793,32,18,"Great. When you saw Ms. Johnson in 2018, did you take additional x-rays or other diagnostic imaging?",q,MS. KYLIS,start_answer
+219,797,32,22,I did.,a,THE WITNESS,start_question
+220,801,33,1,Okay.,q,MS. KYLIS,start_answer
+221,802,33,2,"That was on the bill, so --",a,THE WITNESS,start_question
+222,803,33,3,That's what I thought.,q,MS. KYLIS,start_answer
+223,804,33,4,Right.,a,THE WITNESS,start_question
+224,805,33,5,"Before I get to those, did -- in preparation for your deposition today, did you speak with plaintiff's counsel Mr. Kearns, who's where with us?",q,MS. KYLIS,start_answer
+225,809,33,9,I did.,a,THE WITNESS,start_question
+226,810,33,10,And what did you talk about?,q,MS. KYLIS,start_answer
+227,811,33,11,"Well, I -- the first thing we talked about is that it's not Mr. Covacevich and he's kind of new to the case.  And I spoke to him actually on the phone a couple weeks ago just to make sure that he had the report and that things were still scheduled for this time. That was about the extent of it. And then today we spoke, but it was really just socially.  I mean, he just wanted to make sure I had my report and if I had any questions, which I really didn't have of him.",a,THE WITNESS,start_question
+228,822,33,22,"Great. Now, you referenced Mr. -- please forgive me for butchering his name -- Covacevich -- Covacevich?",q,MS. KYLIS,start_chat
+229,829,34,4,Covacevich.,side_chat,MR. KEARNS,start_question
+230,831,34,6,Covacevich. Did you speak with him before today's deposition?,q,MS. KYLIS,start_answer
+231,834,34,9,Not that I recall.,a,THE WITNESS,start_question
+232,835,34,10,Okay. In preparation for today's deposition did you speak with anyone else?,q,MS. KYLIS,start_answer
+233,838,34,13,"I spoke with someone in my office that told me I had to be here for the deposition who reminded me, but other than that, no.",a,THE WITNESS,start_question
+234,841,34,16,Nothing substantive.,q,MS. KYLIS,start_answer
+235,842,34,17,Nothing substantive.,a,THE WITNESS,start_question
+236,843,34,18,Okay.  Great. Have you reviewed any discovery in this case?,q,MS. KYLIS,start_answer
+237,846,34,21,No.  I'm not familiar with that.,a,THE WITNESS,start_question
+238,847,34,22,Have you been provided with Ms. Johnson's deposition transcript?,q,MS. KYLIS,start_answer
+239,852,35,2,I actually think I have.  I think it may have been sent to me after I -- it may have been sent to me and I -- but I don't recall. I'd have to look it up to check for sure.,a,THE WITNESS,start_question
+240,856,35,6,Do you know if you've read it?,q,MS. KYLIS,start_answer
+241,857,35,7,"If it was sent to me, I probably read it, yeah.",a,THE WITNESS,start_question
+242,859,35,9,Okay.,q,MS. KYLIS,start_answer
+243,860,35,10,But I don't think I had it at the time of the visit.  I think I got it recently.,a,THE WITNESS,start_question
+244,862,35,12,"Okay. Now, you referenced all of the medical records that you reviewed prior to your visit with Ms. Johnson of which you have brought with you here today; correct?",q,MS. KYLIS,start_answer
+245,867,35,17,Correct.,a,THE WITNESS,start_question
+246,868,35,18,Along with those medical records did you review any medical bills or charges?,q,MS. KYLIS,start_answer
+247,870,35,20,I don't think so.,a,THE WITNESS,start_question
+248,871,35,21,Okay.,q,MS. KYLIS,start_answer
+249,872,35,22,"I don't think there are bills in here. Well, actually, I take that back.  Yes, there are bills, so there's -- there's bills from GW and there are bills from Spinal Balance, so yeah, there are bills in here.",a,THE WITNESS,start_question
+250,880,36,5,And did you review those?,q,MS. KYLIS,start_answer
+251,881,36,6,I did.,a,THE WITNESS,start_question
+252,882,36,7,And where did you get those bills?,q,MS. KYLIS,start_answer
+253,883,36,8,"Well, they were all provided to me by Mr. Covacevich.  At the time, it was Mr. Covacevich, so it -- they're in this binder.",a,THE WITNESS,start_question
+254,887,36,12,Okay. Have you spoken to any of Ms. Johnson's other doctors or treating providers about her medical treatment?,q,MS. KYLIS,start_answer
+255,891,36,16,"No, I have not.",a,THE WITNESS,start_question
+256,892,36,17,"Okay. Now, you referenced some handwritten notes that you have in your file; right --",q,MS. KYLIS,start_answer
+257,895,36,20,I did.,a,THE WITNESS,start_question
+258,896,36,21,-- that you brought with you today?,q,MS. KYLIS,start_answer
+259,897,36,22,"I did, yeah.",a,THE WITNESS,start_question
+260,901,37,1,"Can I see those, please?",q,MS. KYLIS,start_answer
+261,902,37,2,Sure. So there's that and there's that (indicating).,a,THE WITNESS,start_question
+262,905,37,5,"As much as I admire your handwriting, Doctor, would you be willing to read us what these handwritten notes say?",q,MS. KYLIS,start_answer
+263,908,37,8,I'll try.,a,THE WITNESS,start_question
+264,909,37,9,Fair enough. Thank you.,q,MS. KYLIS,start_answer
+265,911,37,11,"So there's -- there's three pages here. On what I would consider to be the first page it has her name and the date, the 7-16-19. And on the first line there's an N. That's neck. The next one is the low -- it says low back. The next one says left arm, SH, which is shoulder, and then elbow, and then it says left buttock.  It says leg and knee, not the foot, and the head, problems all over. And then TX, which is treatment now, and then it says PT -- that's the physical therapist -- wants to take it slow. Then it says orthopedic surgeon at GW doesn't want to do surgery. And then it says see I-N-J, so I think that would be injury, and then it says -- well, actually, it's not ""see.""  It's ""sec,"" S-E-C, so that's an abbreviation for secondary injury, I-N-J, slash harm. So there was some discussion that she was referencing that the surgery might lead to further injury or harm.",a,THE WITNESS,start_question
+266,939,38,14,I'm sorry.  The surgery would lead to a secondary injury or harm or there was a secondary injury or harm?,q,MS. KYLIS,start_answer
+267,942,38,17,No.  She was -- she was talking about her understanding of why the orthopedic surgeon at GW did not want to do the surgery and explained to me that it was her understanding that it would lead to secondary injury or harm. It's not that she sustained another injury.  I didn't mean to imply that.  There's no note to that effect.,a,THE WITNESS,start_question
+268,953,39,3,Okay.,q,MS. KYLIS,start_answer
+269,954,39,4,"Okay? And then it goes on:  Pain every single morning in low back, up -- that's upper -- back spasms.  I was a runner until this accident. And then I have a note about goal -- that's her goals, what she's trying to achieve -- run the marine marathon, and then that's followed by that cannot occur. And then a note:  PT does not want me to have massage.",a,THE WITNESS,start_question
+270,964,39,14,"Very briefly, Doctor, if I might interrupt you, your note that says her goal is to run -- I assume you mean the Marine Corps Marathon -- and that cannot occur, I believe was the way you phrased it, was that your assessment or her assessment as she described it to you?",q,MS. KYLIS,start_answer
+271,971,39,21,No.  That was her assessment.  That is what she was reporting to me.,a,THE WITNESS,start_question
+272,976,40,1,Okay.,q,MS. KYLIS,start_answer
+273,977,40,2,I didn't come to a conclusion at that point in time.  I was just taking notes from what she was saying.,a,THE WITNESS,start_question
+274,980,40,5,Okay.  Understood.  Thank you.,q,MS. KYLIS,start_answer
+275,981,40,6,"And then we get to the back of that page.  It says:  Neck is always crooked, back pain always excruciating.  I threw my bed away, got another bed.  It wasn't that. So she didn't find that changing the bed was helpful. I never had spasms/sciatic until this accident.  I want to be great again.  I am in pain every day. And then PT, and then she said, I cannot pronounce his name.  And then I have a note it's Washington, D.C. off of 19th Street. All last year.  This year, not for last three to four months. Took FMLA last year.  Doctor put me on ADA at my job.  Gave me ergonomics.  One, because of stress of job.  Two, because didn't approve of FMLA.  Three, doctor said do desk over.  Doctors say sit, stand and walk around. Then it says last time high heel shoes in 2016. Then it skips a line and it's Spinal Balance says massage may irritate.  I don't know why.  He can tell multiple pain, two-pound left side dumbbell, five to eight pounds on right. Then it goes onto the next page. He told me I can do intervals of running. Then it says ortho surg said my knee looked like not -- and there's a word I can't make out -- torn something.  He said tears, said I was too young for back surgery.  They see the inflection where it is not good. Then with regards to neck, has this type of pain before.  Then it says both knees involved.  I fell in bath -- no.  Actually, it says, I fell on something that begins with a B. And then it says when ST came on top of me. And then on the side of the page I wrote in a box knee pop. Prognosis.  Sent me into a progressive state.  My shoulder are always tense.  N/B get stiff.  Pain.  Not just weather.  After -- oh, no.  I'm sorry.  Not just weather, and then it says difficulty turn to left last week. I try my own Pilates and stretches. I've gained weight, 55 to 60 pounds estimated, as not as active. Spasms in low back every morning, stiff low back every day.  Diff get OOB in morning. It cracks.  Up back crack.  In pain all the time. Take probiotics now, turmeric, MultiVites, joint Cosamin. That's the three pages.",a,THE WITNESS,start_question
+276,1043,42,18,Excellent.  Thank you. It sounds like that was all subsequently put into your final report.  Am I correct?,q,MS. KYLIS,start_answer
+277,1047,42,22,"I can't say that every detail was.  I mean, I haven't put them side by side, but most of them should have been.",a,THE WITNESS,start_question
+278,1053,43,3,"Yes.  It all sounded familiar, but I appreciate you reading it so that we could compare them --",q,MS. KYLIS,start_answer
+279,1056,43,6,Sure.,a,THE WITNESS,start_question
+280,1057,43,7,"-- later on. Okay.  Doctor, allow me to show you what I've marked as Deposition Exhibit Number 2. This is plaintiff's designation of expert witness designating you as an expert in this case. Have you seen this document before?",q,MS. KYLIS,start_answer
+281,1064,43,14,I don't recall seeing it before.,a,THE WITNESS,start_question
+282,1065,43,15,Do you know if you provided any input in the preparation of this document?,q,MS. KYLIS,start_answer
+283,1067,43,17,Not that I'm aware of.  No.,a,THE WITNESS,start_question
+284,1068,43,18,"Thank you. All right, Doctor.  Moving on to your visit with Ms. Johnson, in what capacity have you treated Ms. Johnson?",q,MS. KYLIS,start_answer
+285,1072,43,22,"Well, I don't know that I have treated her.  I saw her for an evaluation back in July.",a,THE WITNESS,start_question
+286,1077,44,2,"Okay.  Do you have -- when you say ""back in July,"" that's July of 2019; correct?",q,MS. KYLIS,start_answer
+287,1079,44,4,"Yeah.  It was July 16, 2019.",a,THE WITNESS,start_question
+288,1080,44,5,"Great. Is July 16, 2019 the only time you've seen Ms. Johnson in the clinical setting?",q,MS. KYLIS,start_answer
+289,1083,44,8,I believe so.,a,THE WITNESS,start_question
+290,1084,44,9,Okay. And I believe you corrected my terminology.  You were not seeing her for treatment.  You were seeing her for an evaluation; correct?,q,MS. KYLIS,start_answer
+291,1089,44,14,"Well, that was my understanding at the time.",a,THE WITNESS,start_question
+292,1091,44,16,And what is the difference?,q,MS. KYLIS,start_answer
+293,1092,44,17,"Well, an evaluation would be basically what you see here and treatment would be prescriptions.  It would usually involve some follow-up on more than one occasion.",a,THE WITNESS,start_question
+294,1096,44,21,Did you provide Ms. Johnson any prescriptions or recommendations on follow-ups or other treatment that she should have?,q,MS. KYLIS,start_answer
+295,1102,45,2,No.,a,THE WITNESS,start_question
+296,1103,45,3,"Okay.  Do you have an independent recollection of your visit with Ms. Johnson on July 16, 2019?",q,MS. KYLIS,start_answer
+297,1106,45,6,"Well, yes and no.",a,THE WITNESS,start_question
+298,1107,45,7,What do you mean by that?,q,MS. KYLIS,start_answer
+299,1108,45,8,"Well, I remember seeing her on that day.  I don't recall what she wore, but I have some recollection of it.  I remember talking to her, things of that nature.",a,THE WITNESS,start_question
+300,1112,45,12,Do you recall anything particularly noteworthy for you?,q,MS. KYLIS,start_answer
+301,1114,45,14,"Well, I do, yeah.",a,THE WITNESS,start_question
+302,1115,45,15,Which is what?,q,MS. KYLIS,start_answer
+303,1116,45,16,"What you read in the report.  I think that's -- that's why I made those notes, because it's all noteworthy.",a,THE WITNESS,start_question
+304,1119,45,19,"Okay. Now, when you saw Ms. Johnson on July 16, 2019, that was just about three and a half years after the incident at Walmart on February 20, 2016; right?",q,MS. KYLIS,start_answer
+305,1127,46,2,I would agree with that.,a,THE WITNESS,start_question
+306,1128,46,3,"Okay.  Now, let me show you your report that we've been talking about -- well, let me show you what I've marked as Deposition Exhibit 3. Do you recognize that, Doctor?",q,MS. KYLIS,start_answer
+307,1133,46,8,"Well, I do, yes.",a,THE WITNESS,start_question
+308,1134,46,9,"And that is your report from your visit with Ms. Johnson on July 16, 2019?",q,MS. KYLIS,start_answer
+309,1136,46,11,"It is.  You kind of -- it's shrunken down a little bit, but it is the report.",a,THE WITNESS,start_question
+310,1138,46,13,Nothing is missing; right?,q,MS. KYLIS,start_answer
+311,1139,46,14,No.  I think it's -- it's just shrunken.  You see how like this fills up the page and this kind of doesn't (indicating).  It just looks a little smaller.,a,THE WITNESS,start_chat
+312,1143,46,18,Was it photocopied too many times?  I'm not sure.,side_chat,MR. KEARNS,start_chat
+313,1145,46,20,I'm not really sure.,side_chat,THE WITNESS,start_question
+314,1147,46,22,Something like that.,q,MS. KYLIS,start_answer
+315,1151,47,1,"I have a better copy if you want, in other words, but I think that's probably --",a,THE WITNESS,start_question
+316,1153,47,3,"Sure.  You can work off your copy, as long as we agree that it's the same report. Okay. Now, I believe we already discussed this, but in preparation for your visit on July 16, 2019 with Ms. Johnson, you -- actually, no, I did not ask you this. Before your visit with Ms. Johnson on July 16, 2019, did you review the records that you were provided, the medical records that you were provided?",q,MS. KYLIS,start_answer
+317,1164,47,14,I believe I did.  Yes.,a,THE WITNESS,start_question
+318,1165,47,15,"Okay. But we did establish that of the records you reviewed before your visit with Ms. Johnson on July 16, 2019, none of those records predated the February 20, 2016 incident at Walmart; correct?",q,MS. KYLIS,start_answer
+319,1171,47,21,"I think we established that, yes.",a,THE WITNESS,start_question
+320,1172,47,22,"Okay. Now, what is your understanding, Doctor, of the mechanism of Ms. Johnson's injury?",q,MS. KYLIS,start_answer
+321,1179,48,4,"The mechanism is that she was by a shelf, bent over in some way, and the stroller fell from the shelf, striking her about the back of the head, the neck and back.",a,THE WITNESS,start_question
+322,1183,48,8,"Thank you, Doctor. Now, in your report, you do note -- I think you just used the same words -- at the time of the incident, she was bent over looking down. Now, in Ms. Johnson's deposition, she testified that she was actually squatting. Does that make a difference to you in your understanding of the mechanism of injury?",q,MS. KYLIS,start_answer
+323,1192,48,17,No.,a,THE WITNESS,start_question
+324,1193,48,18,And why not?,q,MS. KYLIS,start_answer
+325,1194,48,19,I'm not really sure what the difference is between bent over and squatting. She could have been squatting -- I think it's just a different -- it's a matter of semantics really.,a,THE WITNESS,start_question
+326,1202,49,2,"Is there a physical difference in your mind between squatting and being bent over? And for example, in my mind when I think of bending over, I think of bending at the waist, versus squatting, you're really bending at the knee I suppose.",q,MS. KYLIS,start_answer
+327,1208,49,8,She could be bent at the knees and bent over at the waist as well or some combination of the two.  But I don't think that the mechanism is changed by whatever position she may be in. I don't really see that there's a -- that one particular position would be more problematic or less problematic than another.,a,THE WITNESS,start_question
+328,1215,49,15,"All right.  One of the issues -- one of the medical issues that Ms. Johnson has been complaining about is pain in her knees.  And she testified that during the incident she -- when she was struck by the stroller, she fell landing on her knees. Is there a difference, Doctor, in your assessment of any injury to the knee based upon whether Ms. Johnson was squatting versus bending over at the time of the incident?",q,MS. KYLIS,start_answer
+329,1228,50,3,No.  I think either way she could have hurt her knees.,a,THE WITNESS,start_question
+330,1230,50,5,Okay. Do you have an understanding as to the height of the shelf that the stroller was on when it fell onto her as she has alleged?,q,MS. KYLIS,start_answer
+331,1234,50,9,"Well, sort of.",a,THE WITNESS,start_question
+332,1235,50,10,What do you mean by that?,q,MS. KYLIS,start_answer
+333,1236,50,11,"There's been some reference somewhere in the records that the shelf was about six feet high, but I don't take that to be an absolute measurement.  I don't really know how high the shelf was.  It was a certain height.  There was a certain amount of change in the height of this stroller, but exactly how far it fell I couldn't say.",a,THE WITNESS,start_question
+334,1244,50,19,"Okay.  If I could ask you to assume that the shelf on which the stroller was sitting at the time of Ms. Johnson's incident was three and a half feet tall, does that change the mechanism of injury, in your view, or does it change your assessment as to the injuries that she sustained based on that mechanism of injury?",q,MS. KYLIS,start_answer
+335,1255,51,5,No.,a,THE WITNESS,start_question
+336,1256,51,6,Why not?,q,MS. KYLIS,start_answer
+337,1257,51,7,I don't see how it does.,a,THE WITNESS,start_question
+338,1258,51,8,"The assessment that you have made in your report regarding Ms. Johnson's injuries, was that assessment based on an understanding that the shelf was approximately six feet tall?",q,MS. KYLIS,start_answer
+339,1262,51,12,"No.  I'm just saying that there was a reference in there, but I don't take that to be an absolute certainty.",a,THE WITNESS,start_question
+340,1265,51,15,"Okay. Now, Doctor, it's your understanding that Ms. Johnson went to the emergency room a few hours after the incident; correct?",q,MS. KYLIS,start_answer
+341,1269,51,19,Yes.  I think there's -- I wrote about that in my report.  Yes.,a,THE WITNESS,start_question
+342,1271,51,21,That's right.,q,MS. KYLIS,start_answer
+343,1272,51,22,And there are medical records that support that.,a,THE WITNESS,start_question
+344,1277,52,2,"Yes. Now, what is your understanding of her complaints at the time that she went to the emergency room a few hours after the incident on February 20, 2016?",q,MS. KYLIS,start_answer
+345,1282,52,7,"Well, my understanding is that those are the primary complaints that are outlined in the report, not to say that she didn't say something else that they didn't transcribe or they didn't think was as significant as their primary concern, but it's what's in that report.  They talk about her head, neck and back.",a,THE WITNESS,start_question
+346,1290,52,15,"Now, is it fair to characterize those complaints as purely subjective?",q,MS. KYLIS,start_answer
+347,1292,52,17,"Well, I think complaints are subjective, yeah, but also I think it's -- if someone has a complaint, that's a sub- -- that is by the nature of a complaint subjective.",a,THE WITNESS,start_question
+348,1296,52,21,Fair enough.,q,MS. KYLIS,start_answer
+349,1297,52,22,Yeah.,a,THE WITNESS,start_question
+350,1301,53,1,"Now, you -- you reviewed the x-rays that were taken at the emergency room on the date of the incident; correct?",q,MS. KYLIS,start_answer
+351,1304,53,4,"Yeah.  I've seen x-rays of her neck, her chest, her left shoulder and the lumbosacral spine.",a,THE WITNESS,start_question
+352,1307,53,7,And all of those x-rays were from the emergency room on the date of the incident; correct?,q,MS. KYLIS,start_answer
+353,1310,53,10,"Well, they're dated -- they were taken just after midnight, so they're actually dated the next day.  They all say the 21st instead of the 20th.",a,THE WITNESS,start_question
+354,1314,53,14,Fair enough.  And I appreciate the clarification.,q,MS. KYLIS,start_answer
+355,1316,53,16,Yeah.,a,THE WITNESS,start_question
+356,1317,53,17,"Now, all of those x-rays that we just talked about, they were all normal; correct?",q,MS. KYLIS,start_answer
+357,1319,53,19,"They're essentially within the limits of normal in the sense that there's nothing broken, there's nothing fractured on those x-rays.",a,THE WITNESS,start_question
+358,1326,54,1,"So based on those x-rays, is it fair to say that there was no objective finding of injury?",q,MS. KYLIS,start_answer
+359,1329,54,4,I don't think that the x-rays show objective findings of injury.,a,THE WITNESS,start_question
+360,1331,54,6,"Okay. Now, you have reviewed the medical records pertaining to Ms. Johnson's medical treatment after the injury; correct?",q,MS. KYLIS,start_answer
+361,1335,54,10,That's correct.,a,THE WITNESS,start_question
+362,1336,54,11,And she treated with a number of different orthopedic doctors and her primary care physician; correct?,q,MS. KYLIS,start_answer
+363,1339,54,14,"Sure.  She saw -- I mean, I can read to you the name of each doctor that she saw.",a,THE WITNESS,start_question
+364,1341,54,16,That's not necessary.,q,MS. KYLIS,start_answer
+365,1342,54,17,Okay.,a,THE WITNESS,start_question
+366,1343,54,18,"Now, when she went -- her first visit with the GW Medical Faculty Associates after presenting to the emergency room on February 20 was on February 25, 2016. Have you reviewed that record?",q,MS. KYLIS,start_answer
+367,1351,55,1,"If it's in here, I did review it, yes.",a,THE WITNESS,start_question
+368,1352,55,2,"Okay.  Well, I'll represent to you that the doctor's note from her February 25, 2016 visit notes that she was given a referral for physical therapy.  And in fact, most of her other doctor's visits following the incident make notations or referrals for physical therapy. However, based on the records, Ms. -- and her deposition testimony, Ms. Johnson did not actually attend any physical therapy until -- I believe it's -- until July 2018, about two and a half years after the incident. Do you recall that in your review of the records?",q,MS. KYLIS,start_answer
+369,1366,55,16,I think that's correct.,a,THE WITNESS,start_question
+370,1367,55,17,"Okay.  Now, given her -- the nature of her complaints as to her injuries, do you have an opinion as to whether her failure to engage in any kind of physical therapy for two and a half years after the incident despite being recommended to do so by her physicians that she was seeing at the time has any impact on her condition following the incident and her recovery, if any?",q,MS. KYLIS,start_answer
+371,1379,56,4,No.,a,THE WITNESS,start_question
+372,1380,56,5,Why not?,q,MS. KYLIS,start_answer
+373,1381,56,6,I don't have an opinion about it.,a,THE WITNESS,start_question
+374,1382,56,7,"Do you have any -- well, let me ask you. When a patient with the kind of subjective orthopedic complaints that Ms. Johnson presented with is recommended to undergo physical therapy and then doesn't, does that failure to engage in physical therapy impede their progress and recovery, generally speaking?",q,MS. KYLIS,start_answer
+375,1391,56,16,"Generally speaking, I don't know if it does or it doesn't.",a,THE WITNESS,start_question
+376,1393,56,18,"Okay. Okay.  Another treatment or study that Ms. Johnson failed to procure in a timely manner is an MRI.  She did not have any MRIs taken until February of 2018, so two years after the incident. Do you recall that in your review of the records?",q,MS. KYLIS,start_answer
+377,1404,57,4,"I recall that the MRI was done in 2018, yes.",a,THE WITNESS,start_question
+378,1406,57,6,"Okay.  Now, her doctors had been recommending that she get an MRI at least a year prior to that. Are you familiar with that?",q,MS. KYLIS,start_answer
+379,1410,57,10,"I can't tell you off the top of my head when the first time it was recommended, but I know that it was recommended before it was actually obtained.",a,THE WITNESS,start_question
+380,1414,57,14,Okay.  But she didn't get one until February of 2018; right?,q,MS. KYLIS,start_answer
+381,1416,57,16,"Well, I think that's right.  Yes.",a,THE WITNESS,start_question
+382,1417,57,17,Okay.,q,MS. KYLIS,start_answer
+383,1418,57,18,I don't know of any other one.,a,THE WITNESS,start_question
+384,1419,57,19,"And when she had that MRI in 2018, it showed multilevel degenerative disk disease; is that right?",q,MS. KYLIS,start_answer
+385,1422,57,22,"It shows exactly what it says in the report.  It's the report from Dr. Hung, so everything that's written down there is what it shows.",a,THE WITNESS,start_question
+386,1429,58,4,"Okay.  Now, the multilevel degenerative disk disease, that is not something that is typically caused by a traumatic incident; correct?",q,MS. KYLIS,start_answer
+387,1433,58,8,"Well, it could be caused by a traumatic injury -- by a traumatic event or it could be affected by a traumatic event, but it's also something that most likely was present to some degree prior to the traumatic event.",a,THE WITNESS,start_question
+388,1438,58,13,Okay.  Does the fact that she didn't have this MRI taken for approximately two years after the incident affect its reliability in any way as to what she may or may not have had as an underlying condition as of the February incident?,q,MS. KYLIS,start_answer
+389,1444,58,19,No.  I think it's a perfectly reliable MRI.  I don't know of any technical issues or anything of that nature that would cause me to question its reliability.,a,THE WITNESS,start_question
+390,1451,59,1,"Okay.  Perhaps I didn't phrase that quite right. I'm not trying to question the technical aspects of the MRI, but what I want to ask you about, Doctor, is the gap that Ms. Johnson had in her treatment, the failure to do PT when it was recommended, the failure to get an MRI for two years. Does that affect your opinions in this case as to the causal relationship between the incident that occurred in Walmart in February of 2016 and the ongoing complaints that you've talked about today?",q,MS. KYLIS,start_answer
+391,1464,59,14,"Well, I'm still not sure I understand the question. It doesn't affect it.  It's information that I took into account in coming up with these opinions.",a,THE WITNESS,start_question
+392,1469,59,19,All right.,q,MS. KYLIS,start_answer
+393,1470,59,20,"I think if you -- if you look back, as I alluded to earlier, the -- that specific issue of the softening of the cord is represented in her initial findings, which were noted by numerous different providers at GW, and it's in keeping with what was subsequently found on the MRI. Whether the MRI was done the first day or the first month or the first year, I don't know that that would have changed this scenario in any positive or negative way.",a,THE WITNESS,start_question
+394,1484,60,9,Is it possible that it could -- the MRI could have been different in February of 2016?,q,MS. KYLIS,start_answer
+395,1487,60,12,"Oh, I'm sure it was different in 2016.",a,THE WITNESS,start_question
+396,1488,60,13,What do you mean by that?,q,MS. KYLIS,start_answer
+397,1489,60,14,"Well, I don't think that this softening of the cord happened instantaneously. I think it's a slow, gradual, progressive process, so I'm sure it would have looked different. Whatever degenerative findings she had would change over time to some degree, so that would look somewhat different, too.  But I don't know how that would change the natural history of this event.",a,THE WITNESS,start_question
+398,1502,61,2,"Okay. One of the things that you mention in your report, Doctor, is that Ms. Johnson told you her physical therapist does not want her to have massages. Do you have an understanding as to why that is?",q,MS. KYLIS,start_answer
+399,1509,61,9,"As we sit here, I really don't.  And as -- I will -- at the time I was with Ms. Johnson, I really didn't understand it either, so I can't explain to you why that is. I would have to defer to whoever said that.",a,THE WITNESS,start_question
+400,1514,61,14,Okay. You also note in your report -- and you mentioned it was in your handwritten notes as well -- that Ms. -- one of Ms. Johnson's goals is to be great again. Do you have an understanding as to what that means?,q,MS. KYLIS,start_answer
+401,1521,61,21,"Well, my recollection was she was telling me that she was -- before this happened she was great and she just doesn't feel that way anymore.",a,THE WITNESS,start_question
+402,1528,62,3,"All right. Did -- in that vein, did Ms. Johnson discuss with you any other sources of stress that she was undergoing, for example, at her workplace, during the time period from February of 2016 until you saw her in July?",q,MS. KYLIS,start_answer
+403,1534,62,9,"I don't re- -- I don't recall any specific discussion about stress at the workplace.  There are some references in the file, so I have some familiarity with it, but I don't know that we specifically discussed it. We may have, but I just don't recall.",a,THE WITNESS,start_question
+404,1540,62,15,Okay.  You do mention in your report that she has stress in her job.  Okay?  And she testified in her deposition that one of the stresses in her job was due to some harassment that she had been experiencing. Is it fair to say that that is a collateral source of the stress that you note she's experiencing at her job that I believe you relate to her pain issues attributable to the Walmart incident?,q,MS. KYLIS,start_answer
+405,1553,63,3,I think it could be another source of stress.  Sure.,a,THE WITNESS,start_question
+406,1555,63,5,"Okay. Okay, Doctor.  I want to ask you just a couple things about your report where you discuss the diagnostic imaging you reviewed. This is page 4 and near the bottom. You looked at the x-rays of the cervical spine. Do you see that in the second to last paragraph?",q,MS. KYLIS,start_answer
+407,1564,63,14,I do.,a,THE WITNESS,start_question
+408,1565,63,15,"Okay. Now, you write here that there were degenerative and productive changes. Now, I'm familiar with degenerative changes, but what does ""productive changes"" mean?",q,MS. KYLIS,start_answer
+409,1571,63,21,"Well -- so I think the simple way to understand that is that it's basically a bone spur.  When you see the bone production, that's a spur.  It's building up in that area. So that's what I'm referring to when I'm talking about productive changes.",a,THE WITNESS,start_question
+410,1580,64,5,Okay.  So you did note productive changes in the cervical spine.,q,MS. KYLIS,start_answer
+411,1582,64,7,In the lower segments with reasonable preservation in the upper segments.,a,THE WITNESS,start_question
+412,1584,64,9,"What does that mean, ""reasonable preservation in the upper segments""?",q,MS. KYLIS,start_answer
+413,1586,64,11,"So C1, C2, C3, C4, they look pretty normal.  5, 6, 7, they look arthritic.",a,THE WITNESS,start_question
+414,1588,64,13,"Okay.  Now, you just said that they look arthritic. Do you attribute those productive changes -- or do you have an opinion as to whether those productive changes are attributable to the injury that Ms. Johnson is claiming from the Walmart incident?",q,MS. KYLIS,start_answer
+415,1595,64,20,"I don't think they are exclusively attributable to the injuries. So interestingly enough, when you -- when you read the initial x-ray report, the one that was obtained in the emergency room, they don't actually report productive or degenerative changes.  But when you look at the -- when you look at the images, you can see that there were some productive or degenerative changes, so this -- this was certainly an average or reasonable neck back in 2016, February 2016, when injured. So how much of the change is due to the natural aging process and how much of that change is due to the trauma itself, there's no way to differentiate those two.",a,THE WITNESS,start_question
+416,1614,65,14,Okay.  You wouldn't be able to give any kind of percentage?,q,MS. KYLIS,start_answer
+417,1616,65,16,No.  I don't know that there's any way to give any kind of percentage.,a,THE WITNESS,start_question
+418,1618,65,18,Okay.  But it's fair to say that the findings that you observed on the x-ray reports are due both to just the natural aging process as well as the injury she's claiming?,q,MS. KYLIS,start_answer
+419,1622,65,22,Sure.,a,THE WITNESS,start_question
+420,1626,66,1,"Okay. Now, it looks like you -- in the last paragraph of your report on page 4, you looked at x-rays of the left knee as well, and those are x-rays that you obtained as of that July 2019 visit; correct?",q,MS. KYLIS,start_answer
+421,1632,66,7,That's correct.,a,THE WITNESS,start_question
+422,1633,66,8,Okay.  And that x-ray was normal; right?,q,MS. KYLIS,start_answer
+423,1635,66,10,"From an x-ray standpoint, I would say that's normal.  Sure.",a,THE WITNESS,start_question
+424,1637,66,12,No objective findings of any injury in the left knee based on that x-ray that you took?,q,MS. KYLIS,start_answer
+425,1640,66,15,"No, not based on that x-ray.",a,THE WITNESS,start_question
+426,1641,66,16,"Okay. Now, it appears that you only ordered x-rays of the left knee, not the right knee.  Is that right?",q,MS. KYLIS,start_answer
+427,1645,66,20,That is correct.,a,THE WITNESS,start_question
+428,1646,66,21,Was there a reason why?,q,MS. KYLIS,start_answer
+429,1647,66,22,I'm sure there was.,a,THE WITNESS,is brackets
+430,1651,67,1,"(Document review.) But as we sit here, I'm not sure what that -- what the reason was.  Just perhaps because I thought those findings were more marked in the left knee than the right.",brackets,,start_question
+431,1656,67,6,Which findings are you referring to?,q,MS. KYLIS,start_answer
+432,1657,67,7,The physical exam findings.,a,THE WITNESS,start_question
+433,1658,67,8,Okay.,q,MS. KYLIS,start_answer
+434,1659,67,9,But that's just -- I don't have a note which addresses your question specifically.,a,THE WITNESS,start_question
+435,1661,67,11,"Okay.  If I could take you to page 5, that first paragraph, it looks to me like you ordered an x-ray of the left shoulder and reviewed that.  Am I right?",q,MS. KYLIS,start_answer
+436,1665,67,15,I did.,a,THE WITNESS,start_question
+437,1666,67,16,And it appears that you noted some mild early productive changes at the AC joint. What does that mean?,q,MS. KYLIS,start_answer
+438,1669,67,19,"Well, it means the same type of productive changes that you see in the neck. There's narrowing of the joint space with increased bone formation.",a,THE WITNESS,start_question
+439,1676,68,1,And what -- do you have an opinion as to the cause of those productive changes?,q,MS. KYLIS,start_answer
+440,1678,68,3,It's the combination of everything that's happened to that shoulder since the beginning of her time.  It includes the injury to the shoulder and also whatever else has happened to that shoulder over the years.,a,THE WITNESS,start_question
+441,1683,68,8,"When you mentioned the injury to the shoulder, I assume you're referring to the incident at Walmart. What's your understanding as to how the shoulder -- and let me clarify the -- Ms. Johnson's left shoulder was injured during the Walmart incident?",q,MS. KYLIS,start_answer
+442,1690,68,15,"Well, it was injured as -- when the stroller fell on her, in whatever position she was, at whatever height it fell from.",a,THE WITNESS,start_question
+443,1693,68,18,"So what -- perhaps I'm trying to dumb this down a little too much, but what happened to the shoulder that caused injury, based on your understanding?",q,MS. KYLIS,start_answer
+444,1697,68,22,"Well, I don't know that we fully defined what happened to the shoulder, other than it remains problematic and symptomatic. It's become very stiff as a result of the injury. It was originally caused -- I'm sorry. It was originally called a sprain.  I don't think that really fully defines the injury, but that's all the information we have to work with.",a,THE WITNESS,start_question
+445,1710,69,10,"Okay. Have you seen Ms. Johnson since July 16, 2019?",q,MS. KYLIS,start_answer
+446,1713,69,13,"No, I haven't.",a,THE WITNESS,start_question
+447,1714,69,14,"Had you seen her prior to July 16, 2019?",q,MS. KYLIS,start_answer
+448,1716,69,16,"No, I had not.",a,THE WITNESS,start_question
+449,1717,69,17,"Okay. Now, Doctor, I'll take you to that last paragraph of your report if I may. The first line is that it appears to be your opinion that treatment to date appears appropriate, reasonable, and causal connection is demonstrated to the injuries sustained 20 -- I'm sorry -- February 20, 2016 and their sequelae. Which treatment are you referring to in your report in that paragraph?",q,MS. KYLIS,start_answer
+450,1731,70,6,"Well, basically I'm referring to all the treatment that's in this binder, the treatment provided by GW and Spinal Balance.",a,THE WITNESS,start_question
+451,1734,70,9,And Spinal Balance -- we didn't get into that -- that is the PT provider that she ultimately saw beginning in 2018; right?,q,MS. KYLIS,start_answer
+452,1737,70,12,Yes.,a,THE WITNESS,start_question
+453,1738,70,13,Okay.  And is it your understanding that she was prematurely discharged from Spinal Balance due to noncompliance with the physical therapy program?,q,MS. KYLIS,start_answer
+454,1742,70,17,No.  I don't recall the reason for discharge.,a,THE WITNESS,start_question
+455,1744,70,19,"Okay.  If I -- well, allow me to represent to you that her records reflect that she was discharged for noncompliance with the physical therapy program. Does that affect your opinion at all as to your opinions that that treatment was reasonable and necessary in this case?",q,MS. KYLIS,start_answer
+456,1754,71,4,No.,a,THE WITNESS,start_question
+457,1755,71,5,Why not?,q,MS. KYLIS,start_answer
+458,1756,71,6,I thought it was reasonable and she underwent treatment for a period of time. That's fine.  I don't know how the discharge would affect what happened before the discharge.,a,THE WITNESS,start_question
+459,1761,71,11,"Okay. When you say in your report that the causal connection is demonstrated to the injuries sustained on February 20, 2016 and their sequelae, what sequelae are you referring to there?",q,MS. KYLIS,start_answer
+460,1767,71,17,"Well, everything that she has experienced as a result of these injuries, the stiffness, the pain, the softening of the cord, the limitations of function, the need for activity modifications, the limitations of her activities, all that are the sequelae of this injury.",a,THE WITNESS,start_question
+461,1777,72,2,"Now, does the fact that Ms. Johnson was noncompliant with her physical therapy treatments and with the recommendations of many of her doctors during her treatment -- does that affect whether the sequelae are causally related to the incident?",q,MS. KYLIS,start_answer
+462,1783,72,8,No.,a,THE WITNESS,start_question
+463,1784,72,9,Why not?,q,MS. KYLIS,start_answer
+464,1785,72,10,Because the sequelae are a result of the incident independent of any treatment that's provided subsequent to that event.,a,THE WITNESS,start_question
+465,1788,72,13,"Okay. Now, is it possible, Doctor, that Ms. Johnson could have gotten better if she had been compliant with her doctors' referrals for physical therapy and the physical therapy that she did finally begin to undergo?",q,MS. KYLIS,start_chat
+466,1794,72,19,"Well, I'll object to the question, but go ahead and answer it if you can.",side_chat,MR. KEARNS,start_chat
+467,1797,72,22,"Anything is possible, but I deal with probabilities.",side_chat,THE WITNESS,start_question
+468,1803,73,3,Do you have an opinion to a reasonable degree of medical probability that Ms. Johnson would have gotten better if she had been compliant with the recommendations of her treating physicians?,q,MS. KYLIS,start_answer
+469,1808,73,8,I don't -- I don't know of any treatment that could have been provided that would have significantly altered this outcome.,a,THE WITNESS,start_question
+470,1811,73,11,"Okay.  Now, by ""this outcome"" -- I think I'll segue into your next line in your report, which is that long-term prognosis is considered guarded. Is that what you mean by ""outcome,"" that Ms. Johnson has this permanent impairment that we've previously talked about today?",q,MS. KYLIS,start_answer
+471,1818,73,18,"Yes.  I think that it's reasonable to state that what she experiences as of July 16, 2019 is pretty much the way it's going to be for her.",a,THE WITNESS,start_question
+472,1822,73,22,Okay.  You next state that ongoing needs for treatment are anticipated. What treatment is anticipated?,q,MS. KYLIS,start_answer
+473,1828,74,3,"Well, I can't say with any certainty what treatment it would be, but I would not be surprised if there is treatment in the future. But exactly what it comes out to be or predicting what it's going to be, I'm not in a position to do that.",a,THE WITNESS,start_question
+474,1834,74,9,"Okay.  So if I could ask it in a better way, do you have an opinion to a reasonable degree of medical probability that Ms. Johnson will require future treatment related to these injuries?",q,MS. KYLIS,start_answer
+475,1839,74,14,"No.  It's a possibility, but I can't say with any degree of certainty that she will require treatment or what that treatment would be.",a,THE WITNESS,start_question
+476,1843,74,18,"Okay. If you are called to testify at trial in this case, do you intend to offer any opinions as to whether Ms. Johnson had to miss any time from work?",q,MS. KYLIS,start_answer
+477,1851,75,1,"If the question comes up, I would address it.  I mean, it has been addressed in the records, and I think it was addressed appropriately in the records. So she did miss time from work, and subsequently there were workplace modifications, and all that seems reasonable and appropriate.",a,THE WITNESS,start_question
+478,1859,75,9,"Okay. Okay, Doctor.  If I could end with this last, very broad question. We've discussed many opinions that you have today about Ms. Johnson's care. Do you have any other opinions that you would offer at trial as to Ms. Johnson's medical treatment?",q,MS. KYLIS,start_answer
+479,1867,75,17,"Not that come to mind as we sit here, but certainly if you ask more questions, something else may come to mind.",a,THE WITNESS,start_chat
+480,1870,75,20,All right. If I could have a minute to look over my notes. Do you have any questions?,side_chat,MS. KYLIS,start_chat
+481,1877,76,2,I don't have questions of the doctor. You need a CV and you need the second report.,side_chat,MR. KEARNS,start_chat
+482,1881,76,6,Yes.,side_chat,MS. KYLIS,start_chat
+483,1882,76,7,Okay.  Those are the only things I can think of right now; right?,side_chat,MR. KEARNS,start_chat
+484,1884,76,9,Yes.,side_chat,MS. KYLIS,start_chat
+485,1885,76,10,Thank you.,side_chat,MR. KEARNS,start_chat
+486,1886,76,11,"Yes, that's all.",side_chat,MS. KYLIS,start_chat
+487,1887,76,12,All right.,side_chat,MR. KEARNS,is brackets
+488,1888,76,13,(Pause in the proceedings.),brackets,,start_question
+489,1890,76,15,"Very quickly, either in your handwritten notes or maybe in the second report that will be produced, you mentioned the possibility of Ms. Johnson having surgery.  She had talked to one of her doctors about a surgery?",q,MS. KYLIS,start_answer
+490,1896,76,21,Yep.  Yes.,a,THE WITNESS,start_question
+491,1897,76,22,What kind of surgery was she talking about?,q,MS. KYLIS,start_answer
+492,1902,77,2,"As we sit here, my recollection was that that was about the neck, surgery on the neck.",a,THE WITNESS,start_question
+493,1905,77,5,"Okay.  Do you have an opinion to a reasonable degree of medical probability as to whether she will require surgery for her neck, either now or sometime in the future?",q,MS. KYLIS,start_answer
+494,1909,77,9,No.,a,THE WITNESS,start_chat
+495,1910,77,10,Okay. Okay.  That's all.,side_chat,MS. KYLIS,start_chat
+496,1912,77,12,No questions based on her question.,side_chat,MR. KEARNS,start_chat
+497,1914,77,14,"Doctor, you have the right to read this deposition before it becomes final. You can also waive that right and trust that Madam Court Reporter has accurately taken down everything. Would you like to read it?",side_chat,MS. KYLIS,start_chat
+498,1920,77,20,"It's not a matter of trust, but I would like to read it.",side_chat,THE WITNESS,start_chat
+499,1922,77,22,Certainly.,side_chat,MS. KYLIS,start_chat
+500,1926,78,1,"I do trust you.  But just the same, I'd like to read it.",side_chat,THE WITNESS,start_chat
+501,1928,78,3,We'll buy a copy of the transcript.,side_chat,MR. KEARNS,is brackets
+502,1930,78,5,(Time noted:  2:52 p.m.),brackets,,is brackets
+503,1931,78,6,"(Reading and signature not waived.) STATE OF MARYLAND, to wit: I, Josett F. Whalen, before whom the foregoing deposition was taken, do hereby certify that the within-named witness personally appeared before me at the time and place herein set out, and after having been duly sworn by me, according to law, was examined by counsel. I further certify that the examination was recorded stenographically by me and this transcript is a true record of the proceedings. I further certify that I am not of counsel to any party, nor an employee of counsel, nor related to any party, nor in any way interested in the outcome of this action. As witness my hand and notarial seal this 10th day of September, 2019. JOSETT F. WHALEN Notary Public",brackets,,start_chat
+504,1972,79,22,"10-2-2020 I N D E X DEPOSITION OF KENNETH R. LIPPMAN, M.D. AUGUST 28, 2019",side_chat,MY COMMISSION EXPIRES,start_chat
+505,1980,80,5,"PAGE MS. KYLIS                       3 EXHIBITS MARKED               PAGE Number1                          3 Number2                          3 Number3                          3 CERTIFICATE OF DEPONENT examined the foregoing transcript, and the same given by me. Any additions or corrections that I feel of paper to the original transcript. I hereby certify, under penalty of on the date so indicated. KENNETH R. LIPPMAN, M.D. WITNESS",side_chat,EXAMINATION BY,end

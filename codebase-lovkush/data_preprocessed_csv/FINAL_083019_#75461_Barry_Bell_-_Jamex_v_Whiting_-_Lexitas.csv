@@ -1,0 +1,1008 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," having been first duly sworn to tell the truth, the whole truth, and nothing but the truth, so help him God, testified as follows: EXAMINATION",,,start_question
+1,155,5,21,"Morning, Mr. Bell.",q,MR. CARLIS,start_answer
+2,156,5,22,Good morning.,a,THE WITNESS,start_question
+3,157,5,23,Has any court ever determined that your expert analysis was unreliable?,q,MR. CARLIS,start_answer
+4,159,5,25,"Not to my knowledge, no.",a,THE WITNESS,start_question
+5,161,6,1,"So in each case where your expert report has been challenged by the opposing side, the Court has determined that you could testify on the issues in your report --",q,MR. CARLIS,start_chat
+6,165,6,5,Objection --,side_chat,MR. MARKETOS,start_question
+7,166,6,6,(BY MR. CARLIS)  -- is that true?,q,MR. CARLIS,start_chat
+8,167,6,7,Objection; form.,side_chat,MR. MARKETOS,start_answer
+9,168,6,8,"No, I don't believe that's true.",a,THE WITNESS,start_question
+10,169,6,9,"(BY MR. CARLIS)  So sometimes the Court has determined that you couldn't testify on the issues in your report, true?",q,MR. CARLIS,start_answer
+11,172,6,12,Yes.,a,THE WITNESS,start_question
+12,173,6,13,In what cases has the Court ruled that you could not testify on some of the issues in your report?,q,MR. CARLIS,start_answer
+13,175,6,15,"I believe the only time that has occurred is in a case where I was retained by Recursion Software, and ultimately the Fifth Circuit vacated that order -- the exclusion order, to be clear.",a,THE WITNESS,start_question
+14,179,6,19,And you said the name of that case was Recursion Software; is that right?,q,MR. CARLIS,start_answer
+15,181,6,21,Correct.,a,THE WITNESS,start_question
+16,182,6,22,"Other than the Recursion Software case, you've been allowed to testify to the opinions in your report every time you've submitted a report; is that true?",q,MR. CARLIS,start_answer
+17,185,6,25,"I recall a case where the judge determined that by the time the case got to trial, that the subject of my report didn't require expert testimony.  It was not that I did anything wrong or inappropriate or that my opinion was unreliable. The judge felt that it was in her purview to determine damages if it got to a point of damages on that case.",a,THE WITNESS,start_question
+18,194,7,8,What was the name of that case?,q,MR. CARLIS,start_answer
+19,195,7,9,"Carol Loper, L-o-p-e-r, & Associates was the plaintiff and my client in that matter.",a,THE WITNESS,start_question
+20,197,7,11,And who was the judge in that case?,q,MR. CARLIS,start_answer
+21,198,7,12,I don't recall.,a,THE WITNESS,start_question
+22,199,7,13,State or federal court?,q,MR. CARLIS,start_answer
+23,200,7,14,"We could look at my bio.  That case is listed on my bio.  I was deposed in the case.  It was state court, to answer that question.",a,THE WITNESS,is brackets
+24,203,7,17,(Deposition Exhibit 236 marked for identification.),brackets,,start_question
+25,205,7,19,"(BY MR. CARLIS)  I'm marking, just for identification, your report as 236. Did I give you one copy or two just now?",q,MR. CARLIS,start_answer
+26,208,7,22,"(Examined exhibit.)  Well, looks like one.",a,THE WITNESS,start_question
+27,209,7,23,"I've got an extra copy, so we're good. Can you go ahead and find that Carol Lopez case for me.",q,MR. CARLIS,start_answer
+28,213,8,1,"Just to be clear, it was Carol Loper.",a,THE WITNESS,start_question
+29,214,8,2,Loper.,q,MR. CARLIS,start_answer
+30,215,8,3,Yes.,a,THE WITNESS,start_question
+31,216,8,4,Thank you.,q,MR. CARLIS,start_answer
+32,217,8,5,"It's on page 9 of my bio, which is Exhibit A -- I'm sorry, at Exhi- -- yeah, Exhibit A to my report, and it's the second bullet point.",a,THE WITNESS,start_question
+33,220,8,8,And is it accurate to say that in the Carol Loper case the Court decided that it did not need expert testimony on damages and therefore you did not testify in the case?,q,MR. CARLIS,start_answer
+34,224,8,12,"That was my understanding, yes.",a,THE WITNESS,start_question
+35,225,8,13,"And other than the two cases you've mentioned, have there been any other cases where the Court has determined that for one reason or another you could not testify on some or all of the issues in your expert report?",q,MR. CARLIS,start_answer
+36,230,8,18,"I recall a case in the Eastern District of Texas that the Court said I couldn't opine -- or I couldn't testify to legal opinions, which I never attempt to do and didn't intend to include and don't believe I did include any legal opinions in my report, but I testified at that trial.",a,THE WITNESS,start_question
+37,236,8,24,"What case was that, sir?",q,MR. CARLIS,start_answer
+38,237,8,25,"I believe that was listed on page 10, about five bullet points up from the bottom.  Garrison Realty, LP v. Fouse Architecture & Interiors, PC.",a,THE WITNESS,start_question
+39,241,9,3,That was the case in Marshall Division of the Eastern District of Texas?,q,MR. CARLIS,start_answer
+40,243,9,5,Correct.,a,THE WITNESS,start_question
+41,244,9,6,And were there some statements or opinions in your report in that case that the Court determined you could not testify to at trial?,q,MR. CARLIS,start_answer
+42,247,9,9,"I just recall there being a discussion among the parties and the Court.  The Court took a recess to review my report and, you know, the Court, as -- as I would expect, says I couldn't render legal opinions, which I never attempted to do.  I was a damages expert in that case as I am in this one.",a,THE WITNESS,start_question
+43,253,9,15,Did the Court find that some of the things in your report counted as legal opinions?,q,MR. CARLIS,start_answer
+44,255,9,17,I don't recall.,a,THE WITNESS,start_question
+45,256,9,18,"Other than the three cases that you've just mentioned, are there any other cases where you were not permitted to testify to some or all of the substance of your expert reports?",q,MR. CARLIS,start_chat
+46,260,9,22,Object- --,side_chat,MR. MARKETOS,start_answer
+47,261,9,23,Not that I --,a,THE WITNESS,start_chat
+48,262,9,24,Objection; form. Sorry.  You can answer.,side_chat,MR. MARKETOS,start_answer
+49,265,10,1,"Not that I recall or that I'm aware of.  To be clear, it's not that I don't recall; not that -- not that I'm aware of.",a,THE WITNESS,start_question
+50,268,10,4,(BY MR. CARLIS)  It's something you would recall?,q,MR. CARLIS,start_answer
+51,270,10,6,I suspect I would or people like you would remind me of it.,a,THE WITNESS,start_question
+52,272,10,8,"I assume you don't mean ""people like you"" in a derogatory way.",q,MR. CARLIS,start_answer
+53,274,10,10,"Of course not.  Esteemed members of the Bar, of course.",a,THE WITNESS,start_question
+54,276,10,12,How many times have you testified in a case about the sale of crude oil?,q,MR. CARLIS,start_answer
+55,278,10,14,"It depends on how broadly one defines that. I've had a number of oil and gas cases.  At some level, all of those involved the sale of crude oil.  I don't recall specifically sitting here -- and I've been doing this about 28 years and change, I believe -- I don't recall specifically having an oil trading case, if your point or your question is that narrow. But I've been involved in oil and gas partnership disputes, patent cases involving the oil and gas industry, a number of other oil and gas related cases.",a,THE WITNESS,start_question
+56,289,10,25,"Let me try and be a little more specific, then. Have you ever testified in trial where the damages were based on a contract to buy and sell crude oil?",q,MR. CARLIS,start_answer
+57,294,11,4,Not as I recall sitting here today.,a,THE WITNESS,start_question
+58,295,11,5,Have you ever testified in a deposition in a case where the damages were based on a contract to buy and sell crude oil?,q,MR. CARLIS,start_answer
+59,298,11,8,(Examined exhibit.)  Not that I recall.,a,THE WITNESS,start_question
+60,299,11,9,"Best of your recollection, this is the first deposition you've given in a case involving a contract to buy and sell oil, true?",q,MR. CARLIS,start_chat
+61,302,11,12,Objection; form.,side_chat,MR. MARKETOS,start_answer
+62,303,11,13,To the best of my recollection.,a,THE WITNESS,start_question
+63,304,11,14,(BY MR. CARLIS)  How many times have you been hired by the Reese Marketos law firm?,q,MR. CARLIS,start_answer
+64,306,11,16,I don't know.  I could look at my -- my bio and my testimony experience to see anything and point out cases --,a,THE WITNESS,start_question
+65,309,11,19,Okay.,q,MR. CARLIS,start_answer
+66,310,11,20,-- if that would help you.,a,THE WITNESS,start_question
+67,311,11,21,"Okay.  Well, let's start here:  Is this the first time you've been hired by the Reese Marketos law firm?",q,MR. CARLIS,start_answer
+68,314,11,24,No.,a,THE WITNESS,start_question
+69,315,11,25,Are you currently an expert either consulting or testifying in another case for the Reese Marketos law firm?,q,MR. CARLIS,start_answer
+70,319,12,3,Yes.,a,THE WITNESS,start_question
+71,320,12,4,How many other cases are you currently an expert either testifying or consulting for the Reese Marketos law firm?,q,MR. CARLIS,start_answer
+72,323,12,7,One.,a,THE WITNESS,start_question
+73,324,12,8,Okay.  And what's the name of that case?,q,MR. CARLIS,start_answer
+74,325,12,9,"William Duncan, Jr., and Duncan Litigation Investments, LLC, v -- oh, I'm sorry.  I'm sorry.  That's completely wrong.  Please strike that. Dunster, D-u-n-s-t-e-r, Live, LLC, and Quorum Media Group, LLC v LoneStar Logos Management Company, LLC, et al.",a,THE WITNESS,start_question
+75,331,12,15,"And looking at your testimony from 2005 to present, approximately how many of those cases represent engagements with the Reese Marketos law firm?",q,MR. CARLIS,start_answer
+76,334,12,18,"(Examined exhibit.)  Counting the one I just mentioned, two, I believe.",a,THE WITNESS,start_question
+77,336,12,20,"And have you been hired as an expert, either consulting or testifying by the Reese Marketos law firm, in which you didn't give a deposition or testify at trial?",q,MR. CARLIS,start_answer
+78,340,12,24,Yes.,a,THE WITNESS,start_question
+79,341,12,25,"And so those wouldn't appear here, right?",q,MR. CARLIS,start_answer
+80,343,13,1,Correct.,a,THE WITNESS,start_question
+81,344,13,2,Have you ever been hired by my law firm Susman Godfrey as either a testifying or consulting expert?,q,MR. CARLIS,start_answer
+82,346,13,4,No.,a,THE WITNESS,start_question
+83,347,13,5,Have you ever spoken to James Ballengee?,q,MR. CARLIS,start_answer
+84,348,13,6,Yes.,a,THE WITNESS,start_question
+85,349,13,7,How many times?,q,MR. CARLIS,start_answer
+86,350,13,8,I believe three times.,a,THE WITNESS,start_question
+87,351,13,9,Do you recall when those conversations occurred?,q,MR. CARLIS,start_answer
+88,353,13,11,"I don't recall specific dates, but it would've been during my retention on this case.",a,THE WITNESS,start_question
+89,355,13,13,Okay.,q,MR. CARLIS,start_answer
+90,356,13,14,And that's a pretty narrow range.,a,THE WITNESS,start_question
+91,357,13,15,Do you know when you were retained?,q,MR. CARLIS,start_answer
+92,358,13,16,I believe it was toward the end of June of this year.,a,THE WITNESS,start_question
+93,360,13,18,Did you bring your retention agreement with you today?,q,MR. CARLIS,start_answer
+94,362,13,20,"Yes, and it just occurred to me I left it in the next room.  Happy to grab it now or on a break.",a,THE WITNESS,start_question
+95,364,13,22,I'm sure the date is in it and I assume we can deal with it later.  Thank you. And were the three times you spoke to Mr. Ballengee all tied to your expert reports in this case?,q,MR. CARLIS,start_answer
+96,370,14,2,"It was tied to my preparation for the expert report, which I assume is what your question envisioned or entailed.",a,THE WITNESS,start_question
+97,373,14,5,And did you take notes during those conversations?,q,MR. CARLIS,start_answer
+98,375,14,7,I had my report draft open as I was conversing with him and it incorporated the information that he provided me into the report.,a,THE WITNESS,start_question
+99,378,14,10,Right into the draft?  Sorry.,q,MR. CARLIS,start_answer
+100,379,14,11,"Into the draft, correct.",a,THE WITNESS,start_question
+101,380,14,12,Have you ever spoken to any other fact witnesses in this case?,q,MR. CARLIS,start_answer
+102,382,14,14,"To be fair, I don't -- I don't know who all of them are.  For example, conceivably a member of counsel could have a fact component, I guess.  I don't know.  So I don't know that it lists, but I'm -- to my knowledge, no.",a,THE WITNESS,start_question
+103,387,14,19,And let's put counsel aside --,q,MR. CARLIS,start_answer
+104,388,14,20,Okay.,a,THE WITNESS,start_question
+105,389,14,21,"-- for a moment. In investigating and creating your reports, did you seek out and talk to anyone who might have firsthand knowledge of the facts of this case other than attorneys?",q,MR. CARLIS,start_answer
+106,395,15,1,"I've reviewed depositions, which I understand are different than interviews, but those people essentially have firsthand knowledge.  But I believe Mr. Ballengee is the only interview that I conducted.",a,THE WITNESS,start_question
+107,399,15,5,"Just to make sure, you're not ascribing any special meaning to ""interview"" as opposed to a conversation, are you?",q,MR. CARLIS,start_answer
+108,402,15,8,No.,a,THE WITNESS,start_question
+109,403,15,9,"So no conversations, no interviews, nothing like that with --",q,MR. CARLIS,start_answer
+110,405,15,11,"No, no, no.",a,THE WITNESS,start_question
+111,406,15,12,"-- any other witnesses? Have you corresponded by e-mail or phone or otherwise with any other expert, consulting or text -- or testifying, retained on behalf of the plaintiffs in this case?",q,MR. CARLIS,start_answer
+112,411,15,17,No.,a,THE WITNESS,start_question
+113,412,15,18,"Other than the draft report on your computer that you were working on, did you prepare any notes or outlines or timelines or -- related to this case?",q,MR. CARLIS,start_answer
+114,415,15,21,No.,a,THE WITNESS,start_question
+115,416,15,22,"In addition to your engagement letter, which I think is in the next room, did you bring with you a copy of your billing and payment records?",q,MR. CARLIS,start_answer
+116,419,15,25,I brought a copy of the invoices.,a,THE WITNESS,start_question
+117,421,16,1,And have you been paid yet in this case?,q,MR. CARLIS,start_answer
+118,422,16,2,"I can't answer that with 100 percent certainty. As memory serves, I believe the first invoice has been paid.",a,THE WITNESS,start_question
+119,425,16,5,Do you expect the others to be paid?,q,MR. CARLIS,start_answer
+120,426,16,6,"I do.  To be clear, at this point, there are only two.",a,THE WITNESS,start_question
+121,428,16,8,And you founded Echelon Analytics; is that right?,q,MR. CARLIS,start_answer
+122,430,16,10,Yes.,a,THE WITNESS,start_question
+123,431,16,11,And did I pronounce it correctly?,q,MR. CARLIS,start_answer
+124,432,16,12,"Sure, yeah.",a,THE WITNESS,start_question
+125,433,16,13,All right.  How many employees do you have?,q,MR. CARLIS,start_answer
+126,434,16,14,"Do you mean employees in the vernacular versus independent contractors versus equity members that get K-1s who -- you're not talking as the IRS defines employees, right?",a,THE WITNESS,start_question
+127,438,16,18,I'm not.  And let me ask it more broadly.,q,MR. CARLIS,start_answer
+128,439,16,19,Okay.,a,THE WITNESS,start_question
+129,440,16,20,How many people work at Echelon Analytics?,q,MR. CARLIS,start_answer
+130,441,16,21,Approximately 15.,a,THE WITNESS,start_question
+131,442,16,22,Did any of them assist you on this case?,q,MR. CARLIS,start_answer
+132,443,16,23,Yes.,a,THE WITNESS,start_question
+133,444,16,24,And who did?,q,MR. CARLIS,start_answer
+134,445,16,25,Ashley Gonzalez and Grant Juengling.,a,THE WITNESS,start_question
+135,447,17,1,And did either Miss Gonzalez or Mr. Juengling prepare for you any summaries or outlines or drafts?,q,MR. CARLIS,start_answer
+136,449,17,3,No.,a,THE WITNESS,start_question
+137,450,17,4,Did they share with you in writing any thoughts about this case?,q,MR. CARLIS,start_answer
+138,452,17,6,No.,a,THE WITNESS,start_question
+139,453,17,7,Do you have an Employee Handbook or company rules or other personnel guidelines at your firm?,q,MR. CARLIS,start_answer
+140,455,17,9,Yes.,a,THE WITNESS,start_question
+141,456,17,10,"And you expect your employees to follow those rules, true?",q,MR. CARLIS,start_answer
+142,458,17,12,Yes.,a,THE WITNESS,start_question
+143,459,17,13,"And if your employees do not follow those rules, then they may face consequences up to and including termination; is that right?",q,MR. CARLIS,start_chat
+144,462,17,16,Objection; form.,side_chat,MR. MARKETOS,start_answer
+145,463,17,17,Yes.,a,THE WITNESS,start_question
+146,464,17,18,"(BY MR. CARLIS)  Now, as I understand it, you were hired by Jamex Marketing, LLC, to provide opinions on damages in this case; is that right?",q,MR. CARLIS,start_answer
+147,467,17,21,Yes.,a,THE WITNESS,start_question
+148,468,17,22,"And you're not a lawyer, true?",q,MR. CARLIS,start_answer
+149,469,17,23,True.,a,THE WITNESS,start_question
+150,470,17,24,"You're not offering any opinions on whether Jamex Marketing is liable to Whiting, are you?",q,MR. CARLIS,start_answer
+151,473,18,1,I am not.,a,THE WITNESS,start_question
+152,474,18,2,"And you're not offering any opinions about whether or not Whiting is liable to Jamex Marketing, true?",q,MR. CARLIS,start_answer
+153,477,18,5,True.,a,THE WITNESS,start_question
+154,478,18,6,"And you've never worked in the oil and gas industry, true?",q,MR. CARLIS,start_answer
+155,480,18,8,That is correct.,a,THE WITNESS,start_question
+156,481,18,9,"And you're not an expert in the oil and gas industry, right?",q,MR. CARLIS,start_answer
+157,483,18,11,"Technical expert, I am not.  Clearly I have damages expertise in the oil and gas industry.",a,THE WITNESS,start_question
+158,485,18,13,"Well, let's put aside your damages expertise. You're not here to opine on the customs and practices in the oil and gas industry, true?",q,MR. CARLIS,start_answer
+159,488,18,16,"Not specifically, no.",a,THE WITNESS,start_question
+160,489,18,17,"And you're not an expert in the customs and practices in the oil and gas industry, right?",q,MR. CARLIS,start_answer
+161,491,18,19,"I think given my work in the oil and gas industry, I know more than the average person on the street about those because I've reviewed license agreements, contracts in a number of contexts, as I've mentioned.  I've -- I've done damages-related work in partnership disputes involving oil and gas, so I'm familiar with lots of those kinds of things, but I am not a contract expert in -- in oil and gas in those -- and I'm not an industry expert, per se.",a,THE WITNESS,start_question
+162,501,19,3,"Okay.  You're not an industry expert in the oil and gas industry, right?  I mean, I've -- I've read your bio.  You don't hold yourself out to be an expert in the oil and gas industry, true?",q,MR. CARLIS,start_answer
+163,505,19,7,Except in the context --,a,THE WITNESS,start_chat
+164,506,19,8,Objection -- sorry.,side_chat,MR. MARKETOS,start_chat
+165,507,19,9,I'm sorry.,side_chat,THE WITNESS,start_chat
+166,508,19,10,"Go ahead, sir.",side_chat,MR. MARKETOS,start_chat
+167,509,19,11,All right.  Are you objecting?,side_chat,THE COURT REPORTER,start_chat
+168,511,19,13,I did. Objection; form.,side_chat,MR. MARKETOS,start_chat
+169,513,19,15,Okay.  I need to hear you.  Go ahead.,side_chat,THE COURT REPORTER,start_answer
+170,515,19,17,"Except in the manner that I have indicated, which is the more narrow way of I have a business perspective.  I -- I have more expertise than the average person, but because of my work in the damages area in -- in oil and gas.  But I am not an industry expert as I understand you to use that term in your question.",a,THE WITNESS,start_question
+171,521,19,23,(BY MR. CARLIS)  Have you ever been hired as an industry expert in the oil and gas industry?,q,MR. CARLIS,start_answer
+172,523,19,25,No.,a,THE WITNESS,start_question
+173,525,20,1,Have you ever offered any testimony as an expert in the oil and gas industry?  And I mean that separate from damages accruing to participants in the oil and gas industry.,q,MR. CARLIS,start_answer
+174,529,20,5,I have not.,a,THE WITNESS,start_question
+175,530,20,6,"And as I understand it, you're not offering any opinions on matters such as the validity of any contract at issue in this matter or any other liability-related issues, true?",q,MR. CARLIS,start_answer
+176,534,20,10,That is true.,a,THE WITNESS,start_question
+177,535,20,11,"And likewise, you're not offering any opinions about how to interpret the contract between Jamex Marketing and Shell, right?",q,MR. CARLIS,start_answer
+178,538,20,14,"That sounds like a -- a legal question, so, no, I am not offering contract interpretation opinions.",a,THE WITNESS,start_question
+179,540,20,16,"And similarly, you're not offering contract interpretations about any of the contracts at issue in this case, true?",q,MR. CARLIS,start_answer
+180,543,20,19,"In a legal sense, no.",a,THE WITNESS,start_question
+181,544,20,20,Are -- are you offering interpretations of the contracts in this case?,q,MR. CARLIS,start_answer
+182,546,20,22,"Well, from a business perspective, but not in a legal context at all.",a,THE WITNESS,start_question
+183,548,20,24,"What do you mean ""from a business perspective""?",q,MR. CARLIS,start_answer
+184,549,20,25,"Well, both Mr. Fuller and I, I think, made some -- read, for example, the termination clause, which I suspect you and I will spend some time on today, and we see that from a business perspective, but I'm not rendering a legal opinion on what's binding, what's not binding, what meets the qualifications, and what actions or events occurred that provide Shell an ability to exercise that termination clause.  I am not opining on any legal aspect of that. I can read it as a business person and have a sense of it as a business person, but I am not offering a legal opinion on an interpretation of any -- of that provision or any other provision of that contract or any other contract at issue in this case.",a,THE WITNESS,start_question
+185,564,21,14,"All right.  Do you believe that your report offers an opinion on -- I think you're talking about Section 3.3, from a business perspective?",q,MR. CARLIS,start_answer
+186,567,21,17,"In a sense because I have to evaluate risk associated with that contract.  So I have to interpret it -- interpret that contract and other factors at -- at issue in play to determine and assess a level of risk. So, yes, from that perspective, I do have to have a sense of this contract, a sense of what the parties were obligated to do, and a sense of the probability of that occurring and to put that in proper context and compare that to risk and the industry in which these players played.",a,THE WITNESS,start_question
+187,578,22,2,"And you have a copy of your report in front of you, true?",q,MR. CARLIS,start_answer
+188,580,22,4,"My first report, yes.",a,THE WITNESS,start_question
+189,581,22,5,Can you show me where in that report you offer an opinion from a business perspective about Section 3.3?,q,MR. CARLIS,start_chat
+190,583,22,7,Objection; form.,side_chat,MR. MARKETOS,start_answer
+191,584,22,8,"Well, I --",a,THE WITNESS,start_chat
+192,585,22,9,What's the basis of the objection?,side_chat,MR. CARLIS,start_chat
+193,587,22,11,Assumes facts not in evidence and it mischaracterizes his testimony.,side_chat,MR. MARKETOS,start_answer
+194,589,22,13,"I just said to come to my assessment of what an appropriate discount rate was, which is discussed in -- in my report, I have to evaluate the potential of this contract not running seven years or something happening. So I have to look at the contract.  I have to assess the contract from a business perspective.",a,THE WITNESS,start_question
+195,595,22,19,(BY MR. CARLIS)  And can you show me where in your report you assess the contract from a business perspective?,q,MR. CARLIS,start_answer
+196,598,22,22,I don't know that I specifically went into a labored analysis of any particular thing.  I believe I discuss a termination in my rebuttal report that was issued on August 23.  I addressed Mr. Fuller's critique of my -- my work in which he talked about the termination clause and I know I discussed the termination clause in that report.  I don't recall whether I -- I specifically talked about the termination clause in the first report or not.,a,THE WITNESS,is brackets
+197,608,23,6,(Deposition Exhibit 238 marked for identification.),brackets,,start_question
+198,610,23,8,"(BY MR. CARLIS)  Well, let me hand you a copy of your August 23 rebuttal report, which I've marked for identification as 238.",q,MR. CARLIS,start_answer
+199,613,23,11,"I do recall one thing, before we get to that report, staying with my first report.  If we go to Schedule 3, page 2, Footnote 5, ""This premium considers the risk associated with the potential lawful termination of the Shell -- Jamex/Shell Agreement, the potential termination of the Whiting/Shell Agreement and all other risk factors related to industry issues over the seven-year term of the Shell -- of the Jamex/Shell Agreement."" So that's one example.",a,THE WITNESS,start_question
+200,623,23,21,"And as you sit here today, what was the risk of termination of the Whiting/Shell Agreement?",q,MR. CARLIS,start_answer
+201,625,23,23,I'm sorry.  What -- can you be more specific? I don't understand that question.,a,THE WITNESS,start_question
+202,627,23,25,"Yeah.  So you say that your risk premium considers the risk associated with the potential lawful termination of the Whiting/Shell Agreement, right?",q,MR. CARLIS,start_answer
+203,631,24,3,Yes.,a,THE WITNESS,start_question
+204,632,24,4,And my question for you is:  What -- what is the risk?  What was the risk of the potential termination of the Whiting/Shell Agreement?,q,MR. CARLIS,start_answer
+205,635,24,7,Are you asking for a probability calculation? Are you asking for a subjective discussion of that risk? I don't understand what you're asking.,a,THE WITNESS,start_question
+206,638,24,10,"Well, I'm trying to understand your statement, sir. So what I want to know is what was the risk associated with the potential termination of the Whiting/Shell Agreement?",q,MR. CARLIS,start_answer
+207,643,24,15,"Well, the -- the risk of the Whiting/Shell Agreement is that whatever event, one party or the other reached that agreement or terminated the agreement.  I don't remember the termination provisions of that agreement and what those were.  But any contract that has ever existed had some risk of not being fulfilled into the express termination date of that contract. And so I didn't look at that and assign a calculation or a probability to it, but I looked at that and said what are the conditions on which -- I wasn't specifically looking at Whiting/Shell as much as I was looking at Jamex/Shell, but looking at that and trying to determine if that was any more risky than any typical contract was in this particular industry.",a,THE WITNESS,start_question
+208,658,25,4,What are the conditions on which the Whiting/Shell Agreement could be terminated?,q,MR. CARLIS,start_chat
+209,660,25,6,Objection; form.,side_chat,MR. MARKETOS,start_answer
+210,661,25,7,I would have to look back at that agreement to determine.  I don't know sitting here today.,a,THE WITNESS,start_question
+211,663,25,9,(BY MR. CARLIS)  Do you know if the termination risk of the Whiting/Shell Agreement was greater or lesser than the termination risk of the Jamex/Shell Agreement?,q,MR. CARLIS,start_answer
+212,666,25,12,"Again, sitting here today, I don't know because I -- I just -- just said I don't remember what it was sitting here.",a,THE WITNESS,start_question
+213,669,25,15,How did those risks -- how were -- how was the risk of the termination of the Whiting/Shell Agreement incorporated into your risk review?,q,MR. CARLIS,start_answer
+214,672,25,18,Through the industry risk factor.,a,THE WITNESS,start_question
+215,673,25,19,Okay.  Did you conclude that the termination of the Whiting/Shell Agreement was more or less likely than your standard agreement in the industry?,q,MR. CARLIS,start_answer
+216,676,25,22,I determined it was no more likely.,a,THE WITNESS,start_question
+217,677,25,23,No more likely.  Okay. And what about the Jamex/Shell Agreement? Did you determine that that was more or less likely to be terminated than your average agreement in the oil and gas industry?,q,MR. CARLIS,start_answer
+218,683,26,3,"I didn't look at any one factor to the exclusion of all others and -- in -- in identifying potentially thousands of factors and assign an individual probability. I looked at the wholistic scenario before me and -- and looked for anomalies or bright line things that would stand out to say, ""This requires an adjustment.  This seems really different than what one would expect in this -- in this particular industry that -- and this justifies either a significantly lower risk premium for the industry than the industry or a significantly higher one.""  That was the assessment.",a,THE WITNESS,start_question
+219,695,26,15,"A moment ago you told me, though, that you believed that the potential termination of the Whiting/Shell Agreement was, quote, no more likely than other agreements in the industry, true?",q,MR. CARLIS,start_answer
+220,699,26,19,"Generally speaking, that's correct.",a,THE WITNESS,start_question
+221,700,26,20,And what about the Jamex/Shell Agreement?  Did you believe that termination of that agreement was no more likely than your average agreement in the oil and gas industry?,q,MR. CARLIS,start_answer
+222,704,26,24,"No, I didn't find it any -- any more -- more risky, no.",a,THE WITNESS,start_question
+223,707,27,1,"So you thought the risk of termination of the Jamex/Shell Agreement was comparable to the risk of termination of the Whiting/Shell Agreement, true?",q,MR. CARLIS,start_answer
+224,710,27,4,"In a general sense, that's right.",a,THE WITNESS,start_question
+225,711,27,5,"Okay.  And -- and that's because you reviewed the termination provisions, true?",q,MR. CARLIS,start_answer
+226,713,27,7,I did.,a,THE WITNESS,start_question
+227,714,27,8,"And you considered the likelihood of termination given those provisions, true?",q,MR. CARLIS,start_answer
+228,716,27,10,"Among many other factors, yes.",a,THE WITNESS,start_question
+229,717,27,11,"And -- and you determined based on those provisions and other factors that the risk of termination was similar between those two agreements, true?",q,MR. CARLIS,start_answer
+230,720,27,14,"You're obviously harping on one condition. There are many factors to consider.  I considered them wholistically and came to the risk profile that I came to, the calculation I came to to determine the appropriate discount rate for the cash flows that I was discounting. So it's not a series of pinpoint decisions. It's a -- an overall analysis that one considers all relevant factors and makes appropriate judgments.",a,THE WITNESS,start_question
+231,729,27,23,"Take a look at Footnote 5 again, sir, or Note 5.  This is page 2 of your initial report.",q,MR. CARLIS,start_answer
+232,731,27,25,Okay.,a,THE WITNESS,start_question
+233,733,28,1,"This note talks only about the risk associated with potential lawful termination, true?",q,MR. CARLIS,start_answer
+234,735,28,3,It does not.,a,THE WITNESS,start_question
+235,736,28,4,"This -- I'm gonna read it aloud and tell me if I've read it correctly.  ""This premium considers the risk associated with the potential lawful termination of the Jamex/Shell Agreement, potential termination of the Whiting/Shell Agreement, and all other risk factors related to industry issues over the"" -- oh, you're correct.  I misread that last part. You decided that the risk associated with the potential lawful termination of the Jamex/Shell Agreement -- strike that. What are the other risk factors related to industry issues over the seven-year term of the Jamex/Shell Agreement?",q,MR. CARLIS,start_answer
+236,749,28,17,"There are any number of risk factors that go into whether a contract's going to play out as intended by the parties.  It's -- and part of it goes to overall economy.  Part of it goes to prices of oil and gas. That's effectively not in this particular contract because of the way it was structured, but it certainly impacted the comparable companies I used in my benchmark. So the overall political, geopolitical disruption.  Any -- any number of factors that can compact contracts or business activities in the oil and gas industry.",a,THE WITNESS,start_question
+237,761,29,3,"And you -- which other factors did you consider? So we've got the economy, oil and gas prices, geopolitical disruption. What else?",q,MR. CARLIS,start_answer
+238,766,29,8,"By considering benchmark companies in the oil and gas industry, I implicitly, if not explicitly considered every risk factor that impacts an oil and gas company operating in this space in the specific SIC code that I determined to be appropriate for this particular entity.",a,THE WITNESS,start_question
+239,772,29,14,Which SIC code did you use?,q,MR. CARLIS,start_answer
+240,773,29,15,"If memory serves, it's 5172.  We could search -- we could confirm that. (Examined exhibit.)  Yes, 5172.",a,THE WITNESS,start_question
+241,776,29,18,"So I think before we got distracted, we were looking for opinions on -- from a business perspective on -- that you're offering about Section 3.3.  We found this Note 5, which was on page 2. Are there others in this report?",q,MR. CARLIS,start_answer
+242,781,29,23,"(Examined exhibit.)  So on page 8 of my August 23 report, paragraph 23 --",a,THE WITNESS,start_question
+243,783,29,25,"I'm sorry, you've moved to Exhibit 238?",q,MR. CARLIS,start_answer
+244,785,30,1,Yes.,a,THE WITNESS,start_question
+245,786,30,2,My question's still on --,q,MR. CARLIS,start_answer
+246,787,30,3,"Oh, I'm sorry.",a,THE WITNESS,start_question
+247,788,30,4,"-- your first one, Exhibit 236.",q,MR. CARLIS,start_answer
+248,789,30,5,"(Examined exhibit.)  I'm trying to scan this quickly for the second time, but I don't see a specific discussion in the narrative portion of my July 12 report about the termination clause specifically, but clearly my schedule's -- including Schedule 3 that we were just discussing is where I dealt with risk, and that's the most relevant place for me to deal with that potential for termination.",a,THE WITNESS,start_question
+249,797,30,13,"Well, other than Note 5 that we've already discussed, where else is it discussed in your schedules?",q,MR. CARLIS,start_answer
+250,799,30,15,"Except for the one place that I should have discussed it, I'm not sure if I discussed it somewhere else or not.  Sitting here today, I don't see that I did, but I don't know why I would.",a,THE WITNESS,start_question
+251,803,30,19,"Okay.  And I'm not trying to play any games with you.  This is my one chance before trial.  I don't want you to show up there and suggest that other words in your report are interpreting 3.3, and so I want you to be -- I want you to be sure.",q,MR. CARLIS,start_chat
+252,808,30,24,"Seriously, do you want him to read his -- read the whole thing?",side_chat,MR. MARKETOS,start_chat
+253,811,31,1,"If he would like to.  I mean, I assume he's here for -- pretty familiar with it.",side_chat,MR. CARLIS,start_chat
+254,813,31,3,"I assume that, too, but . . .",side_chat,MR. MARKETOS,start_answer
+255,815,31,5,"(Examined exhibit.)  In this report, I believe that's the only place that I discuss the termination clause.",a,THE WITNESS,is brackets
+256,818,31,8,(Deposition Exhibit 237 marked for identification.),brackets,,start_question
+257,820,31,10,"(BY MR. CARLIS)  And here's 237, which I think is your second report in this case. And the same -- the same question.  I just want to know where you -- in that report, if anywhere, you're offering opinions about the termination provision in 3.3.",q,MR. CARLIS,start_answer
+258,826,31,16,"(Examined exhibit.)  This is my response to Mr. Fuller's affirmative report.  I don't believe the termination clause is discussed in here, after my scan of it.",a,THE WITNESS,start_question
+259,830,31,20,"And then I cut you off earlier after you had already found one, but let's turn --",q,MR. CARLIS,start_answer
+260,832,31,22,I saved my spot.,a,THE WITNESS,start_question
+261,833,31,23,Great.  Thank you. Let's turn to Exhibit 238.  Tell me all the places here where you're offering opinions about Section 3.3.,q,MR. CARLIS,start_answer
+262,838,32,2,"(Examined exhibit.)  I think the first mention is in paragraph 21, top of the page 8 -- or near the top of page 8, and picking up mid-sentence, third line toward the right, ""I did review Jamex financial statements, interviewed Mr. Ballengee, reviewed the Jamex/Shell Agreement, including the termination clause,"" and -- and go on to finish that sentence.  So that's one comment related to the termination clause.",a,THE WITNESS,start_question
+263,846,32,10,"Other than paragraph 21, do you offer any other opinions about the termination clause?",q,MR. CARLIS,start_answer
+264,848,32,12,"In paragraph 23, I can contest Mr. Fuller's assertion that the termination clause demonstrates, in his words, ""significant risk of termination."" And then where he also goes on to say that Shell's ability to terminate the Shell/Jamex confirmation with 30-day written notice was a -- a key reason for his -- that my discount rate was too low.  And, I mean, that entire paragraph is related to his take on the termination clause.",a,THE WITNESS,start_question
+265,857,32,21,Okay.  Paragraph 21 and paragraph 23. Are there any other paragraphs?,q,MR. CARLIS,start_answer
+266,859,32,23,"(Examined exhibit.)  I mean, this -- this entire section, to some extent, speaks to that. 24 talks about the potential of a terminated Jamex/Shell agreement.  This whole issue of whether or not I should have included a company-specific risk component in my discount rate, Mr. Fuller cites the termination clause as being a -- a reason I should have and -- and I contest that here.",a,THE WITNESS,start_question
+267,868,33,6,And that -- that's because you think that the termination provision in the Jamex/Shell Agreement is no more likely to be invoked than the termination provision in other typical agreements in the oil and gas industry; is that right?,q,MR. CARLIS,start_chat
+268,873,33,11,Objection; form.,side_chat,MR. MARKETOS,start_answer
+269,874,33,12,"I agreed with you earlier on that, but bottom line is it's just not that simple.  I looked at it wholistically.  And I know you want to parse it out so you have your -- your sound bite to -- to argue differently, but it's not that simple. A discount rate calculation -- a discount rate determination -- it's more a determination than a calculation.  There's a calculation that gets down to math at some point, but this is not something that you can calculate scientifically to two decimal places. It's something that one has to take into account all relevant factors, and then once you've taken into account all relevant factors, assess them in an intellectually honest way. Then using business judgment and experience, determine what the appropriate rate is, and that's the analysis I performed.  Putting this particular contract -- this particular clause of this contract into the overall rubric of risk of this contract not being fulfilled, of Jamex not getting its buck 40 per barrel over the seven-year period with contracts that these benchmark companies would enter into, and that's the analysis I performed, no less or no more.",a,THE WITNESS,start_chat
+270,898,34,10,I'm going to object to that as nonresponsive.,side_chat,MR. CARLIS,start_question
+271,900,34,12,"(BY MR. CARLIS)  Let's start at paragraph 21. You say that you reviewed the Jamex/Shell Agreement including the termination clause, true?",q,MR. CARLIS,start_answer
+272,903,34,15,I did.,a,THE WITNESS,start_question
+273,904,34,16,"And nowhere in 21 do you offer an interpretation of the meaning of the termination clause, right?",q,MR. CARLIS,start_answer
+274,907,34,19,I do not.,a,THE WITNESS,start_question
+275,908,34,20,"And nowhere in your report -- in this report or in either of your other reports do you offer an interpretation of the termination clause, true?",q,MR. CARLIS,start_answer
+276,911,34,23,"From a legal perspective, absolutely not.",a,THE WITNESS,start_question
+277,912,34,24,"You're not here to tell the Court or tell the jury what the termination provision means, right?",q,MR. CARLIS,start_answer
+278,915,35,1,I am not.,a,THE WITNESS,start_question
+279,916,35,2,"In paragraph 23 you reference Mr. Fuller's opinion and suggest that he states that there's significant risk of termination of the Jamex/Shell Agreement, true?",q,MR. CARLIS,start_answer
+280,920,35,6,"I don't think I suggest it.  I think he did say it and I say that he said it, so just to be clear.",a,THE WITNESS,start_question
+281,922,35,8,"Paragraph 23 you say that Mr. Fuller said that there was significant risk of the Jamex/Shell Agreement being terminated, right?",q,MR. CARLIS,start_answer
+282,925,35,11,Yes.,a,THE WITNESS,start_question
+283,926,35,12,And you don't believe that that's true; is that right?,q,MR. CARLIS,start_answer
+284,928,35,14,"I believe his -- he's -- he's interpreting the -- or attempting to interpret the termination clause to a greater extent than I've attempted to to -- as a matter of -- to start things. And then second, I believe he's attempting to overstate the ease at which Shell could terminate it.",a,THE WITNESS,start_question
+285,934,35,20,So I think you said two things.  I want to make sure I understand the first. You believe that Mr. Fuller has offered more of an interpretation of Section 3.3 than you're offering in this case; is that right?,q,MR. CARLIS,start_chat
+286,939,35,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+287,941,36,1,That's my take on it.  That's my inference from what I read in his report.,a,THE WITNESS,start_question
+288,943,36,3,"(BY MR. CARLIS)  Okay.  And -- and you state, the end of Section 23, ""I understand that the circumstances under which Shell could terminate the agreement were limited based on the express language of the agreement,"" true?",q,MR. CARLIS,start_answer
+289,948,36,8,Yes.,a,THE WITNESS,start_question
+290,949,36,9,"And you say ""I understand."" Did someone tell you that?",q,MR. CARLIS,start_answer
+291,951,36,11,"I would say I have at least two bases for that statement.  I -- I'm sure that counsel for Jamex expressed that view. And then second, again, I read that provision as a -- as a business person, and I've also seen deposition testimony that -- where this clause was parsed considerably. And I also understand that this language was not the first attempt at a termination clause and that the first attempt by Shell at a termination clause was much more broad, gave Shell much greater opportunity to get out of this contract, and effectively attempted to turn a seven-year deal into a month-to-month deal. And I don't believe it requires a law degree to say that this termination clause is less flexible for Shell than the earlier draft of one.  So that -- I think it's both those things.",a,THE WITNESS,start_question
+292,969,37,3,Whose deposition testimony are you referring to having reviewed about Section 3.3?,q,MR. CARLIS,start_answer
+293,971,37,5,At least Mr. Ballengee and Mr. Jilla.,a,THE WITNESS,start_question
+294,972,37,6,Anyone else?,q,MR. CARLIS,start_answer
+295,973,37,7,Those are the two that come to mind.,a,THE WITNESS,start_question
+296,974,37,8,"Well, feel free to take a look at your report and see if you cite others.",q,MR. CARLIS,start_answer
+297,976,37,10,"Well, I cite others, but those are the two that I recall discussing that issue.",a,THE WITNESS,start_question
+298,978,37,12,Do you have any reason to doubt Mr. Ballengee's interpretation of Section 3.3?,q,MR. CARLIS,start_chat
+299,980,37,14,Objection; form.,side_chat,MR. MARKETOS,start_answer
+300,981,37,15,"I -- I didn't really look at it that way.  I was interested in the back and forth and -- and the discussion and in the reference to previ- -- previous drafts. I didn't read it to form an opinion, again, because I -- a strict legal interpretation of that contract or that clause of that contract is not my purview.  I was reading the deposition for general background information in the case.",a,THE WITNESS,start_question
+301,990,37,24,(BY MR. CARLIS)  I think you said a moment ago that Section 3.3 was more broad than the original proposal from Shell. Is that your testimony?,q,MR. CARLIS,start_chat
+302,995,38,3,Objection; form.,side_chat,MR. MARKETOS,start_answer
+303,996,38,4,"That was my business person interpretation, yes.",a,THE WITNESS,start_question
+304,998,38,6,"(BY MR. CARLIS)  And you understand that Mr. Ballengee and Jamex proposed their own termination provision, true?",q,MR. CARLIS,start_answer
+305,1001,38,9,I believe -- I don't know that to be true.  I recall that they would prefer not to have one.  I recall that.  I don't know that they proposed alternative verbiage.  They may have.  I don't recall one way or the other.,a,THE WITNESS,start_question
+306,1006,38,14,"You understand that the termination provision of Section 3.3 is more broad than what Jamex and Mr. Ballengee wanted to have in the agreement, right?",q,MR. CARLIS,start_chat
+307,1009,38,17,Objection; form.,side_chat,MR. MARKETOS,start_answer
+308,1010,38,18,"I think I understand what you mean by ""more broad,"" but can you --",a,THE WITNESS,start_question
+309,1012,38,20,"(BY MR. CARLIS)  Sure.  Understanding that the termination section in Section 3.3 covers more things than would justify termination than the termination provision that Mr. Ballengee or Mr. Jilla and Jamex wanted to have in the agreement, right?",q,MR. CARLIS,start_chat
+310,1017,38,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+311,1019,39,1,I believe that's --  I believe I agree with that.,a,THE WITNESS,start_question
+312,1021,39,3,(BY MR. CARLIS)  What are some of the reasons why Shell could terminate the Shell/Jamex Agreement?,q,MR. CARLIS,start_chat
+313,1023,39,5,Objection; form.,side_chat,MR. MARKETOS,start_answer
+314,1024,39,6,"That clause clearly speaks for itself.  I'd prefer to -- you look at that.  I, again, viewed that primarily as a legal issue, and we've discussed I'm not an attorney and that is really outside my scope other than the narrow issue of determining risk.",a,THE WITNESS,start_question
+315,1029,39,11,"(BY MR. CARLIS)  As you sit here today, can you identify any bases for which Shell could terminate the Shell/Jamex Agreement?",q,MR. CARLIS,start_chat
+316,1032,39,14,Same basis.  Same -- same objection.,side_chat,MR. MARKETOS,start_answer
+317,1034,39,16,"I think my prior answer sticks, but I recall that one of them being if another party outside the parties involved and -- and specifically identified in the contract come forward and contend that they have a right to the $1.40 shipper fee, that could be a potential cause -- or a reason for termination.",a,THE WITNESS,start_question
+318,1040,39,22,(BY MR. CARLIS)  You said the provision speaks for itself. Do you believe 3.3 says that it has to be a party not involved in the Shell/Jamex Agreement?,q,MR. CARLIS,start_chat
+319,1045,40,1,Objection; form.,side_chat,MR. MARKETOS,start_answer
+320,1046,40,2,"Again, I think that's a legal interpretation. That's beyond my purview, and I -- if you're here to find out what I'm not going to say at trial, you just found out something I'm not going to say at trial. That's -- I'm not going to weigh in on a legal interpretation of who could assert rights that would allow Shell to get out of that contract.",a,THE WITNESS,start_question
+321,1053,40,9,"(BY MR. CARLIS)  You're not gonna come to trial and testify to when Shell could or couldn't terminate its agreement with Jamex, true?",q,MR. CARLIS,start_answer
+322,1056,40,12,True.,a,THE WITNESS,start_chat
+323,1057,40,13,Objection; form.,side_chat,MR. MARKETOS,start_chat
+324,1058,40,14,"Sorry, I did it again.",side_chat,THE WITNESS,start_chat
+325,1059,40,15,What was your answer?,side_chat,THE COURT REPORTER,start_chat
+326,1060,40,16,Sure.,side_chat,THE WITNESS,start_chat
+327,1061,40,17,"Did you say ""sure"" or ""true""?  Okay.",side_chat,THE COURT REPORTER,start_chat
+328,1063,40,19,I'll go with either one of those.,side_chat,THE WITNESS,start_chat
+329,1065,40,21,Okay.  Thanks.,side_chat,THE COURT REPORTER,start_chat
+330,1066,40,22,Pardon me.  I got a little tangled.,side_chat,MR. CARLIS,start_question
+331,1068,40,24,"(BY MR. CARLIS)  Mr. Bell, you understand that it's the jury's job, not your job, to resolve disputed factual issues, right?",q,MR. CARLIS,start_answer
+332,1072,41,2,Yes.,a,THE WITNESS,start_question
+333,1073,41,3,"And you're not gonna come to trial and try and resolve disputed factual issues for the jury, true?",q,MR. CARLIS,start_chat
+334,1075,41,5,Objection; form.,side_chat,MR. MARKETOS,start_answer
+335,1076,41,6,I am not.,a,THE WITNESS,start_question
+336,1077,41,7,"(BY MR. CARLIS)  And there are times -- and I'm sure you know that there are facts in dispute in this case, right?",q,MR. CARLIS,start_answer
+337,1080,41,10,I assume there are in most cases that make it to trial.,a,THE WITNESS,start_question
+338,1082,41,12,"I assume so. And rather than resolving disputed factual issues, Jamex's lawyers have instructed you to make certain assumptions, true?",q,MR. CARLIS,start_answer
+339,1086,41,16,Yes.,a,THE WITNESS,start_question
+340,1087,41,17,"And so, for example, Jamex's lawyers have asked you to assume that Whiting tortiously interfered with the Jamex/Shell Agreement, right?",q,MR. CARLIS,start_answer
+341,1090,41,20,Yes.,a,THE WITNESS,start_question
+342,1091,41,21,"And in reaching your opinions on damages, you've assumed that Whiting was liable, true?",q,MR. CARLIS,start_answer
+343,1093,41,23,Yes.,a,THE WITNESS,start_question
+344,1094,41,24,And did the lawyers for Jamex Marketing ask you to make any other assumptions?,q,MR. CARLIS,start_answer
+345,1097,42,1,Not that I recall.  And I've attempted to disclose any of those fundamental foundational assumptions in my reports.,a,THE WITNESS,start_question
+346,1100,42,4,"So your reports, I've read them.  They identify the assumption I just said. But if the reports don't identify an assumption, then you're not making it; is that true?",q,MR. CARLIS,start_chat
+347,1104,42,8,Objection.,side_chat,MR. MARKETOS,start_answer
+348,1105,42,9,"To the best of my knowledge, no.",a,THE WITNESS,start_question
+349,1106,42,10,"(BY MR. CARLIS)  So in your first two reports -- I think you still have them in front of you -- you have a heading titled ""The Disputes"" sort of early in the report. And you're familiar with that header?",q,MR. CARLIS,start_answer
+350,1111,42,15,Yes.,a,THE WITNESS,start_question
+351,1112,42,16,"Now, can you explain the purpose of that section of your reports?",q,MR. CARLIS,start_answer
+352,1114,42,18,"Sure.  That -- that's part of my standard report template where pretty much any report that I do in a litigation matter, I'm going to have a description of -- I'm gonna start the report with a -- an introduction of myself and my experience and credentials that form the basis of my ability to weigh into this and assist the trier in fact to determine damages. I'm then going to have an identification at a very high level of the parties involved, and then my understanding of what the parties are fighting over. So it's intended to be a background that lays out the facts as I understand them or the dispute -- the disputed facts as has been claimed, what the allegations are, because as we just discussed, my directive is to assume that the allegations are true, that liability will be found.  And in that context between these parties in this industry, in this context, I've analyzed damages.",a,THE WITNESS,start_question
+353,1133,43,11,"So one of the things you cite in the ""The Dispute"" section of your report are Jamex's complaints and amended complaint in this case, right?",q,MR. CARLIS,start_answer
+354,1136,43,14,Yes.,a,THE WITNESS,start_question
+355,1137,43,15,"And -- and I think you said a moment ago you cite that because you're assuming that the allegations in those are true and they therefore can be cited in your ""The Dispute"" section; is that right?",q,MR. CARLIS,start_answer
+356,1141,43,19,Correct.,a,THE WITNESS,start_question
+357,1142,43,20,And did your understanding of the dispute change between your first report on July 12th and your second report on August 9th?,q,MR. CARLIS,start_answer
+358,1145,43,23,"Well, we're talking about two different cases effectively, right, because we're talking about my second report dealt with the counterclaim.  So it's a different dispute in that sense because now it's Whiting in the plaintiff's chair suing Jamex and Mr. Ballengee. So from that perspective, it's a different dispute.  They're clearly related, but it's a different dispute.",a,THE WITNESS,start_question
+359,1154,44,6,Were there things in your July 12th report that you decided were wrong and changed in your August 9th report?,q,MR. CARLIS,start_answer
+360,1157,44,9,Not to my knowledge.,a,THE WITNESS,start_question
+361,1158,44,10,Okay.,q,MR. CARLIS,start_answer
+362,1159,44,11,"If you'd like to compare, I'm happy to discuss it with you.",a,THE WITNESS,start_question
+363,1161,44,13,"And -- and do you have any personal opinions as an expert in this case on whether the factual assertions you make in the ""The Dispute"" section of your report are, in fact, true?",q,MR. CARLIS,start_answer
+364,1165,44,17,"No, I believe -- I mean, we could go through. Some of those are cited to a -- a pleading by either Whiting or Jamex, and so those are one -- that party's view of the facts. All other case -- other parts of the dispute, I think, are undisputed.  For example -- or I believe to be absolute fact. For example, I'm sure I said in those sections that on such and such date this party filed an amended petition or this party filed its -- its initial petition or something like that, and in -- and in that particular case, I believe that to be fact because I have a -- that filing stamped by the Court with that particular date.  So that's, in my view, a supported fact. But with -- I'm happy to delve deeper if you have issues that you want to explore. And for the record, this is the most interested any attorney has ever been in my dispute section of my background report.",a,THE WITNESS,start_question
+365,1186,45,12,I liked it.,q,MR. CARLIS,start_answer
+366,1187,45,13,Yeah.,a,THE WITNESS,start_question
+367,1188,45,14,"So in the -- go ahead and turn to paragraph 12 of your first report.  Page 4, if that's helpful.",q,MR. CARLIS,start_answer
+368,1190,45,16,It is.  Thank you. (Examined exhibit.)  Okay.,a,THE WITNESS,start_question
+369,1192,45,18,"You say here that -- effectively Whiting agreed to sell Bridger Marketing 15,000 barrels of oil per day at WTI minus 780, right?  Fair characterization?",q,MR. CARLIS,start_answer
+370,1195,45,21,Yes.,a,THE WITNESS,start_question
+371,1196,45,22,"Who -- who told you that in late 2014 or early 2015 Whiting agreed to sell Bridger 15,000 barrels of oil per day at WTI minus 780?",q,MR. CARLIS,start_answer
+372,1199,45,25,"You see the footnote there, Footnote 14.  No one told me that.  I cite two sources there:  The plaintiff's amended petition and Mr. Ballengee's deposition.",a,THE WITNESS,start_question
+373,1204,46,4,And do you know any of the other terms of that purported agreement?,q,MR. CARLIS,start_answer
+374,1206,46,6,"I may have seen documents that relate to that. Sitting here today, I don't recall.",a,THE WITNESS,start_question
+375,1208,46,8,Do you know what Bridger Marketing was going to do with the oil it apparently planned to buy from Whiting?,q,MR. CARLIS,start_chat
+376,1211,46,11,Objection; form.,side_chat,MR. MARKETOS,start_answer
+377,1212,46,12,"I haven't had a specific discussion, but understanding their business, I am pretty sure they intended to sell it to someone.",a,THE WITNESS,start_question
+378,1215,46,15,"(BY MR. CARLIS)  Sell it at a better price, make money off the transaction?",q,MR. CARLIS,start_answer
+379,1217,46,17,I -- I'm sure that was their goal.,a,THE WITNESS,start_chat
+380,1218,46,18,Same objection.,side_chat,MR. MARKETOS,start_question
+381,1219,46,19,(BY MR. CARLIS)  You state that Jamex asked Shell to act as a sleeve for that purported agreement. Do you know who told you that?,q,MR. CARLIS,start_answer
+382,1222,46,22,"That may have come up in a discussion with Mr. Ballengee.  I don't specifically recall, but that would potentially be one source of it. I've also seen that discussed -- it was clearly in -- in the petition, which I believe I've cited in this -- well, I've certainly cited in this section. And I -- I think I recall seeing other contemporaneous documents that discussed a potential sleeve.",a,THE WITNESS,start_question
+383,1232,47,6,Do you know what it means to act as a sleeve in this context?,q,MR. CARLIS,start_answer
+384,1234,47,8,"I mean, in the broadest of terms, yes.  I mean, it's essentially providing credit backing or backing for the purposes of credit for a transaction -- oil and gas transaction.",a,THE WITNESS,start_question
+385,1238,47,12,"And you said ""in the -- the broadest of terms."" What in this -- what about in this specific context?  Do you know what it meant for Shell to be acting as a sleeve?",q,MR. CARLIS,start_answer
+386,1242,47,16,"It -- it's what I said.  When I said ""in broadest terms,"" I wasn't going to give you the Merriam-Webster verbatim definition of sleeve, but that's my general understanding of what that means --",a,THE WITNESS,start_question
+387,1246,47,20,Okay.  And --,q,MR. CARLIS,start_answer
+388,1247,47,21,-- in this context and generally.,a,THE WITNESS,start_question
+389,1248,47,22,And the idea would be for Jamex to use Shell's better credit to make the transaction occur; is that right?,q,MR. CARLIS,start_chat
+390,1251,47,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+391,1253,48,1,Yes.,a,THE WITNESS,start_question
+392,1254,48,2,(BY MR. CARLIS)  Is it your understanding that Shell ultimately acted as sleeve for the -- in the contracts that were signed in 2017?,q,MR. CARLIS,start_answer
+393,1257,48,5,It's my understanding that it did not.,a,THE WITNESS,start_chat
+394,1258,48,6,"We've been now going for an hour, a little bit slower than I had expected.  I'm inclined to take a short break if that's okay with you-all.  I'm actually planning for it to be short.",side_chat,MR. CARLIS,start_chat
+395,1262,48,10,Sure.  Perfect.,side_chat,MR. MARKETOS,start_chat
+396,1263,48,11,Off record at 10:39 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+397,1264,48,12,(A recess was taken from 10:39 a.m. to 10:52 a.m.),brackets,,start_chat
+398,1266,48,14,We are back on record at 10:52 a.m.,side_chat,THE VIDEOGRAPHER,start_question
+399,1268,48,16,"(BY MR. CARLIS)  Mr. Bell, I know earlier I asked if you had your retention agreement, et cetera. Thank you for giving it to me at the break.  I have it. I appreciate it.",q,MR. CARLIS,start_answer
+400,1272,48,20,"Thank you -- or you're welcome, I guess, more appropriately.",a,THE WITNESS,start_question
+401,1274,48,22,I want to make sure that I understand how you calculated damages in this case. Is it fair to say that you calculated what you considered to be the net present value of Jamex's lost profits under the terminated Jamex/Shell Agreement?,q,MR. CARLIS,start_answer
+402,1280,49,2,Yes.,a,THE WITNESS,start_question
+403,1281,49,3,Is it fair to say that you use a sort of but-for analysis to try to determine the profits Jamex would have made but for Shell's termination of that agreement?,q,MR. CARLIS,start_answer
+404,1285,49,7,Yes.,a,THE WITNESS,start_question
+405,1286,49,8,"And is it fair to say that your analysis includes four key variables?  I know there are probably others, but four key ones: The -- the number of barrels of oil; the profits Jamex would earn on each barrel; when those profits would be earned; and a discount rate.",q,MR. CARLIS,start_answer
+406,1294,49,16,"Yes, those are all important factors.",a,THE WITNESS,start_question
+407,1295,49,17,Are there any others that you would consider key that I'm -- that I'm missing?,q,MR. CARLIS,start_answer
+408,1297,49,19,"Well, clearly the term.  I guess that goes without -- without saying. But the -- the time period over which those future damages would have been earned or the lost -- the profits would have been earned is one that comes to mind that I don't think you specifically mentioned.",a,THE WITNESS,start_question
+409,1303,49,25,I meant it hidden inside when those profits would be earned.,q,MR. CARLIS,start_answer
+410,1306,50,2,"Oh, I'm sorry.",a,THE WITNESS,start_question
+411,1307,50,3,But I'm with you on the -- on the temporal pieces.,q,MR. CARLIS,start_answer
+412,1309,50,5,"So that -- I mean, I think those -- those are the highest level factors, yes.",a,THE WITNESS,start_question
+413,1311,50,7,"So the number of barrels of oil, the profits Jamex would earn on each barrel, when those profits would be earned or the term of the agreement, and a discount rate. Were you instructed to assume the value for any of those variables?",q,MR. CARLIS,start_answer
+414,1317,50,13,"Okay.  I'm sorry.  I was listening closely, but let's just take them one at a time, if you would --",a,THE WITNESS,start_question
+415,1319,50,15,Sure.,q,MR. CARLIS,start_answer
+416,1320,50,16,-- just so everything is really clear.,a,THE WITNESS,start_question
+417,1321,50,17,"The number of barrels of oil, let's use a per day as our metric. Were -- were you instructed to assume the number of barrels of oil that Jamex would purchase under the Jamex/Shell Agreement?",q,MR. CARLIS,start_answer
+418,1326,50,22,"No, I believe I got that from the agreement itself.",a,THE WITNESS,start_question
+419,1328,50,24,Okay.  And what about the profits Jamex would earn on each barrel?  Were you instructed to assume profits or did you determine that yourself?,q,MR. CARLIS,start_answer
+420,1332,51,2,I determined that myself.,a,THE WITNESS,start_question
+421,1333,51,3,"And the third, when those profits would be earned, is that something you determined yourself or were you instructed to assume?",q,MR. CARLIS,start_answer
+422,1336,51,6,I made my own assessment of that.,a,THE WITNESS,start_question
+423,1337,51,7,"And on the discount rate, you made your own assessment of that too --",q,MR. CARLIS,start_answer
+424,1339,51,9,I --,a,THE WITNESS,start_question
+425,1340,51,10,-- true?,q,MR. CARLIS,start_answer
+426,1341,51,11,I did.,a,THE WITNESS,start_question
+427,1342,51,12,"So each of those key variables, you made your own independent assessment, true?",q,MR. CARLIS,start_answer
+428,1344,51,14,Yes.,a,THE WITNESS,start_question
+429,1345,51,15,"All right.  So let's start, then, with the number of barrels of oil. You state in your report that under the Jamex/Shell Agreement, Jamex was to purchase up to 15,000 barrels of crude oil per day from Shell at Robinson Lake, North Dakota, true?",q,MR. CARLIS,start_answer
+430,1351,51,21,Yes.,a,THE WITNESS,start_question
+431,1352,51,22,And do you stand by that statement?,q,MR. CARLIS,start_answer
+432,1353,51,23,Yes.,a,THE WITNESS,start_question
+433,1354,51,24,And are these the same barrels that you used to calculate the lost profits in this case?,q,MR. CARLIS,start_answer
+434,1357,52,1,Yes.,a,THE WITNESS,start_question
+435,1358,52,2,"And as far as you know, these are the only barrels of oil at issue in the case, right?",q,MR. CARLIS,start_answer
+436,1360,52,4,"Directly at issue, yeah.  I mean, there are other agreements that the various parties were involved with and I've seen references to Jamex and its -- by its -- by its other names has a long history of buying oil from Whiting. But directly related to this case, that 15,000 barrels per day is -- is what is germane.",a,THE WITNESS,start_question
+437,1367,52,11,"Let me ask it slightly different so I'm sure we're talking about the same thing. As far as you know, the 15,000 barrels of crude oil per day that Whiting was to purchase from Shell at Robinson Lake are the only barrels of oil contributing to your damages calculation; is that right?",q,MR. CARLIS,start_answer
+438,1373,52,17,"Yes, it is.",a,THE WITNESS,start_question
+439,1374,52,18,And you say that you determined that -- that number of barrels on your own. And fair to say you did that based on reviewing the master crude purchase and sale agreement confirmation between Shell and Jamex?,q,MR. CARLIS,start_answer
+440,1379,52,23,"That was one source, yes.",a,THE WITNESS,start_question
+441,1380,52,24,Okay.  And can we call that the Jamex/Shell Agreement?,q,MR. CARLIS,start_answer
+442,1383,53,1,Yes.,a,THE WITNESS,start_question
+443,1384,53,2,Okay.  I'm handing you Exhibit --,q,MR. CARLIS,start_chat
+444,1385,53,3,What is it?  239?,side_chat,THE COURT REPORTER,start_chat
+445,1386,53,4,This is Exhibit 2 that was previously marked.,side_chat,MR. CARLIS,start_chat
+446,1388,53,6,Okay.,side_chat,THE COURT REPORTER,is brackets
+447,1389,53,7,(Deposition Exhibit 2 referenced.),brackets,,start_question
+448,1390,53,8,"(BY MR. CARLIS)  So I've handed you the Jamex/Shell Agreement. Can you tell me where in this agreement it entitles Jamex to purchase up to 15,000 barrels of crude oil at Robinson Lake?",q,MR. CARLIS,start_answer
+449,1395,53,13,"(Examined exhibit.)  That sounds like a legal -- or -- or request for a legal opinion.  You said what entitles it to -- to buy, so maybe I'm missing the import of your question, but . . .",a,THE WITNESS,start_question
+450,1399,53,17,"You determined that under the Jamex/Shell Agreement, Jamex was entitled to purchase up to 15,000 barrels a day at Robinson Lake, true?",q,MR. CARLIS,start_chat
+451,1402,53,20,Objection; form.,side_chat,MR. MARKETOS,start_answer
+452,1403,53,21,"I mean, part of that goes to liability assumption, I believe.  But generally, yes. (Examined exhibit.)  And specifically, if we're looking at what you've handed to me as Exhibit 2, if we look at page 3 of that, 4.1.1 identifies 15,000 barrels per day.",a,THE WITNESS,start_question
+453,1410,54,2,"(BY MR. CARLIS)  And the 15,000 -- sorry. Strike that. The up to 15,000 barrels per day is part of the definition of contract quantity; is that right?",q,MR. CARLIS,start_answer
+454,1414,54,6,Yes.,a,THE WITNESS,start_question
+455,1415,54,7,And it's that contract quantity that Jamex is no longer purchasing and gives rise to your damages calculation; is that right?,q,MR. CARLIS,start_answer
+456,1418,54,10,Yes.,a,THE WITNESS,start_chat
+457,1419,54,11,Objection; form.,side_chat,MR. MARKETOS,start_question
+458,1420,54,12,(BY MR. CARLIS)  I want to just figure out -- this might be easier.,q,MR. CARLIS,is brackets
+459,1422,54,14,(Deposition Exhibit 239 marked for identification.),brackets,,start_question
+460,1424,54,16,(BY MR. CARLIS)  I've handed you what I've marked as 239.  I have poor eyesight and this is slightly larger. Is this the same 4.1.1 that defines contract quantity as the provision in the agreement?,q,MR. CARLIS,start_answer
+461,1429,54,21,"(Examined exhibit.)  Yes, it appears to be.",a,THE WITNESS,start_question
+462,1430,54,22,"I just want to figure out, so that we can talk about the same things, what these defined terms mean. So first, can you just read into the record the first sentence of the definition of ""contract quantity""?",q,MR. CARLIS,start_answer
+463,1436,55,2,"""The contract quantity of Crude Petroleum shall be the quantity of Crude Petroleum purchased by and delivered to"" -- how is that pronounced, that acronym?",a,THE WITNESS,start_chat
+464,1439,55,5,STUSCO.,side_chat,MR. MARKETOS,start_answer
+465,1440,55,6,"-- ""STUSCO at the Receipt Point from Producer pursuant to the Supply Agreement up to 15,000 barrels per day.""",a,THE WITNESS,start_question
+466,1443,55,9,"(BY MR. CARLIS)  So for ease of reference, let's call STUSCO Shell. Does that make it easier?",q,MR. CARLIS,start_answer
+467,1446,55,12,I love that.,a,THE WITNESS,start_question
+468,1447,55,13,"Okay.  And the receipt point, that's the Robinson Lake location I think that you mentioned earlier, true?",q,MR. CARLIS,start_answer
+469,1450,55,16,Yes.,a,THE WITNESS,start_question
+470,1451,55,17,"And producer, that's Whiting, right?",q,MR. CARLIS,start_answer
+471,1452,55,18,"That's my understanding, yes.",a,THE WITNESS,start_question
+472,1453,55,19,"And the supply agreement is defined as the agreement between Whiting and Shell, true?",q,MR. CARLIS,start_chat
+473,1455,55,21,Objection; form.,side_chat,MR. MARKETOS,start_answer
+474,1456,55,22,I assume that to be the case.  I can't tell that from this -- just this paragraph right here.,a,THE WITNESS,start_question
+475,1458,55,24,(BY MR. CARLIS)  Gotcha.  If you look at -- I'm not trying to trick you.  If you look at 1.3 of Exhibit 2 --,q,MR. CARLIS,start_answer
+476,1462,56,2,"Yes.  It references the Shell/Whiting Agreement of May 13, 2015.",a,THE WITNESS,start_question
+477,1464,56,4,"So the 15,000 barrels a day at issue in this case is the contract quantity.  I just want to make sure that we now have the same understanding of this, Shell instead of STUSCO runs things at a receipt point. So the -- the shall -- the -- strike that. The Shell/Jamex Agreement defines contract quantity as a quantify of crude petroleum purchased by and delivered to Shell at the inlet flange of the Robinson Lake pipeline from Whiting pursuant to the Whiting/Shell Agreement up to 15,000 barrels per day, true?",q,MR. CARLIS,start_answer
+478,1475,56,15,That's my understanding.,a,THE WITNESS,start_question
+479,1476,56,16,"And this case is about -- and contract quantity is about oil that was purchased by and delivered to Shell, right?",q,MR. CARLIS,start_answer
+480,1479,56,19,Yes.,a,THE WITNESS,start_question
+481,1480,56,20,"And it was sold to Shell by Whiting, right?",q,MR. CARLIS,start_answer
+482,1481,56,21,Yes.,a,THE WITNESS,start_question
+483,1482,56,22,"And to count as contract quantity crude, the oil had to be delivered to Shell at the inlet flange of Robinson Lake, true?",q,MR. CARLIS,start_chat
+484,1485,56,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+485,1487,57,1,That's my understanding.,a,THE WITNESS,start_question
+486,1488,57,2,"(BY MR. CARLIS)  And under the Jamex/Shell Agreement, Jamex was only entitled to purchase the contract quantity of crude as opposed to any other oil that Shell might have anywhere else in the world, right?",q,MR. CARLIS,start_answer
+487,1492,57,6,"My understanding, that the -- the crude oil covered by the Jamex/Shell Agreement related to this 15,000 barrels, if that answers the question.",a,THE WITNESS,start_question
+488,1495,57,9,"And the same 15,000 barrels produced by Whiting, sold to Shell, and delivered to Shell at Robinson Lake, true?",q,MR. CARLIS,start_chat
+489,1498,57,12,Objection; form.,side_chat,MR. MARKETOS,start_answer
+490,1499,57,13,That's my understanding.,a,THE WITNESS,start_question
+491,1500,57,14,"(BY MR. CARLIS)  And so on a day where Whiting delivered 15,000 barrels of crude to Shell at Robinson Lake, Jamex could have purchased and made a profit on those 15,000 barrels, right?",q,MR. CARLIS,start_answer
+492,1504,57,18,"My understanding is that per the Jamex/Shell Agreement, Jamex was to purchase from Shell at Robinson Lake and resell to Shell at Stanley and for that 20 or so miles of pipeline serve as the shipper in exchange for the buck 40 a barrel fee. The -- your question implied that there was some arbitrage or -- to sell at a profit.  There was a fee associated with Jamex's performance under the Jamex/Shell Agreement, but they weren't buying and selling oil at some differential related to index changes or the price of oil or any of that kind of thing.  So I was a little bit confused by -- by that part of your question.",a,THE WITNESS,start_chat
+493,1518,58,6,"So I'll move to strike your answer as nonresponsive, but I'll try and give you a clearer answer that eliminates the -- the profit problem.",side_chat,MR. CARLIS,start_answer
+494,1521,58,9,Okay.,a,THE WITNESS,start_question
+495,1522,58,10,"(BY MR. CARLIS)  On a day where Whiting delivered 15,000 barrels of crude to Shell at Robinson Lake, Jamex under its agreement with Shell could have purchased those 15,000 barrels, true?",q,MR. CARLIS,start_answer
+496,1526,58,14,Yes.,a,THE WITNESS,start_question
+497,1527,58,15,"And I think you referred to it as a fee, but Jamex ultimately would recover $1.40 per barrel through its buy/sell transaction with Shell, true?",q,MR. CARLIS,start_chat
+498,1530,58,18,Objection; form.,side_chat,MR. MARKETOS,start_answer
+499,1531,58,19,"It would net 1- -- 1.40 per barrel, yes.",a,THE WITNESS,start_question
+500,1532,58,20,"(BY MR. CARLIS)  And it's that $1.40 that you believe is profit to Jamex, true?",q,MR. CARLIS,start_answer
+501,1534,58,22,Yes.,a,THE WITNESS,start_question
+502,1535,58,23,"You understand from the Jamex/Shell Agreement that the -- that that agreement contemplates situations where Jamex might buy fewer than 15,000 barrels on a given day, right?",q,MR. CARLIS,start_answer
+503,1540,59,2,"I believe the contract term that we've talked -- talked about and is here in 4.1.1 is up to 15,000 barrels per day.",a,THE WITNESS,start_question
+504,1543,59,5,"And there -- there are situations contemplated by the agreement where Jamex might purchase less than 15,000 barrels a day, true?",q,MR. CARLIS,start_answer
+505,1546,59,8,"Ostensibly true, yes.",a,THE WITNESS,start_question
+506,1547,59,9,And I'm not trying to trick you.  You can go to 4.1.2.2.,q,MR. CARLIS,start_chat
+507,1549,59,11,You're referring to Exhibit 2?,side_chat,MR. MARKETOS,start_chat
+508,1551,59,13,"I am, yes.",side_chat,MR. CARLIS,start_answer
+509,1552,59,14,(Examined exhibit.),a,THE WITNESS,start_question
+510,1553,59,15,"(BY MR. CARLIS)  And that's a situation where Jamex might purchase fewer than 15,000 barrels a day from Shell at Robinson Lake, true?",q,MR. CARLIS,start_answer
+511,1556,59,18,Yes.,a,THE WITNESS,start_question
+512,1557,59,19,"And in situations where Jamex purchases fewer than 15,000 barrels a day at Robinson Lake, it will have an opportunity to make the $1.40 on fewer barrels, right?",q,MR. CARLIS,start_answer
+513,1560,59,22,"If that were to occur, that -- that -- that's possible.",a,THE WITNESS,start_question
+514,1562,59,24,"And Jamex only makes a profit on the barrels it purchased -- purchases from Shell at Robinson Lake, right?",q,MR. CARLIS,start_answer
+515,1566,60,2,"Under this agreement, yes.",a,THE WITNESS,start_question
+516,1567,60,3,"So -- and you understand that under the Whiting/Shell Agreement, Whiting could have -- had two options.  It could either, A, deliver 15,000 barrels of crude oil to Shell at Robinson Lake, or B, make a deficiency payment to Shell for barrels it did not deliver, right?",q,MR. CARLIS,start_answer
+517,1573,60,9,That's my understanding.,a,THE WITNESS,start_question
+518,1574,60,10,"And so let's -- let's assume for a moment that one day during the seven-year term of the Whiting/Shell Agreement, there was some kind of problem on Whiting's gathering system and it prevented Whiting from delivering any barrels to Robinson Lake. Under those circumstances, there'd be no contract quantity crude for Jamex to purchase for that day, right?",q,MR. CARLIS,start_answer
+519,1582,60,18,"If I understand your hypothetical, that -- that's true.",a,THE WITNESS,start_question
+520,1584,60,20,"And on a day where Whiting delivered no oil to Shell at Robinson Lake and thus there was no contract quantity crude for Shell to buy from Whiting and then sell to Jamex, Jamex would have no barrels to purchase under the Jamex/Shell Agreement, right?",q,MR. CARLIS,start_answer
+521,1589,60,25,"I don't distinguish the difference in that question. The previous question, if there is, that implies to me I need clarification, so . . .",a,THE WITNESS,start_question
+522,1594,61,4,Sure.  I'm happy to -- to help. And the first hypothetical was just whether there was something there. The second is -- and I'll ask it again.,q,MR. CARLIS,start_answer
+523,1598,61,8,Okay.,a,THE WITNESS,start_question
+524,1599,61,9,"I think it -- it involves an extra party. So on a day where Whiting delivered no oil to Shell at Robinson Lake and thus there was no contract quantity crude for Shell to buy from Whiting and then sell to Jamex, Jamex would have no barrels to purchase under the Jamex/Shell Agreement, true?",q,MR. CARLIS,start_answer
+525,1605,61,15,"If I'm following the hypothetical, that's true.",a,THE WITNESS,start_question
+526,1606,61,16,"And under that hypothetical on that day, Jamex would make no money, true, under the agreement?",q,MR. CARLIS,start_answer
+527,1608,61,18,I think that's right.,a,THE WITNESS,start_question
+528,1609,61,19,"My -- my understanding of your damages calculation is it assumes that Whiting would deliver 15,000 barrels per day at Robinson Lake for the entire seven years of the contract; is that right?",q,MR. CARLIS,start_answer
+529,1613,61,23,"It does assume that.  But my model also incorporates a discount rate to account for the risk that that doesn't happen, among other risks, as we've -- as we've discussed.",a,THE WITNESS,start_question
+530,1618,62,2,"But the base from which you are discounting assumes the delivery of 15,000 barrels to Robinson Lake that are purchased by Jamex every day during the seven-year term of the agreement, right?",q,MR. CARLIS,start_answer
+531,1622,62,6,"That's the starting point, correct.",a,THE WITNESS,start_question
+532,1623,62,7,"What did you do to assure yourself that Whiting would have the production capacity to deliver 15,000 barrels per day to Robinson Lake in 2023?",q,MR. CARLIS,start_answer
+533,1626,62,10,"I -- I have reviewed Whiting 10-Ks. I've reviewed other information about Whiting. They're clearly a very large -- more than a billion dollars in revenue in 2018, as I recall, very, very large company, a sophisticated oil and gas producer, and they entered into this particular contract that required them to produce this quantity of oil over this seven-year period or pay a deficiency payment, which is clearly incentive to provide the oil, but not incur that. So that among any other number of factors are some of the factors that I considered in -- in assessing that probability and that -- well, the probability that they would fulfill that seven-year commitment.",a,THE WITNESS,start_question
+534,1641,62,25,Did you review Whiting's long-term production estimates for the Stanis field in North Dakota?,q,MR. CARLIS,start_answer
+535,1644,63,2,"I seem to recall that there's some information about that in its 10-K, but sitting here today, I don't recall specifics.",a,THE WITNESS,start_question
+536,1647,63,5,And do you know -- feel free to look at your report -- the num- -- the total barrels of oil Whiting anticipates being able to deliver to Robinson Lake in 2022?,q,MR. CARLIS,start_answer
+537,1651,63,9,I didn't discuss that specifically in my report.  I know that.  I don't recall whether I -- I reviewed that --,a,THE WITNESS,start_question
+538,1654,63,12,And --,q,MR. CARLIS,start_answer
+539,1655,63,13,-- in my analysis.,a,THE WITNESS,start_question
+540,1656,63,14,"-- sitting here today, do you know what Whiting anticipates being able to deliver to Robinson Lake in 2023?",q,MR. CARLIS,start_answer
+541,1659,63,17,"Sitting here today, I don't recall.",a,THE WITNESS,start_question
+542,1660,63,18,"And if, for some reason, Whiting is unable to deliver 15,000 barrels a day, and as a result, as you said, has to pay deficiency payments, that would mean Jamex would make less money under the agreement if it had continued for seven years, right?",q,MR. CARLIS,start_answer
+543,1665,63,23,"That's potentially true.  I -- I don't know legally if Jamex has any recourse in -- if there are deficiency payments made, if they have a claim to any of those payments or not.  I -- I just don't know that one way or the other.",a,THE WITNESS,start_question
+544,1671,64,3,"You're unaware of any contracts at all between Jamex and Whiting governing these 15,000 barrels, true?",q,MR. CARLIS,start_answer
+545,1673,64,5,I'm not aware that one exists between those two parties.,a,THE WITNESS,start_question
+546,1675,64,7,"And you're unaware of any provision in the Jamex/Shell agreements that you've reviewed entitling Jamex to some portion of any deficiency payment, true?",q,MR. CARLIS,start_answer
+547,1678,64,10,"I don't specifically recall that.  I don't think it's in there, but I'm not gonna say definitively it's not.",a,THE WITNESS,start_question
+548,1681,64,13,"Well, it's a pretty short agreement.  It's in front of you.  Let -- let me know if you see anything.",q,MR. CARLIS,start_answer
+549,1683,64,15,(Examined exhibit.),a,THE WITNESS,start_chat
+550,1684,64,16,Object to the form of the question.,side_chat,MR. MARKETOS,start_answer
+551,1686,64,18,"I don't see anything specifically here, but, again, I'm reading this as a layperson, so I -- I'm not going to -- to weigh in on whether or not Jamex is foreclosed from any recovery under a deficiency scenario.",a,THE WITNESS,start_question
+552,1690,64,22,"(BY MR. CARLIS)  And in reviewing that contract for your expert reports and talking to the folks that you remember talking to and in reviewing it now, you don't recall and you don't see anything that would entitle Jamex to some portion of the deficiency payments, do you?",q,MR. CARLIS,start_answer
+553,1696,65,2,"No, I just recall that there was a -- that was perceived as a low probability event.",a,THE WITNESS,start_question
+554,1698,65,4,The need for deficiency payments --,q,MR. CARLIS,start_answer
+555,1699,65,5,Correct.,a,THE WITNESS,start_question
+556,1700,65,6,-- in the first place? Did you -- strike that. Let's talk about profits per barrel. Is it your opinion that Jamex would have netted a profit of $1.40 per barrel on each barrel it purchased from Shell at Robinson Lake?,q,MR. CARLIS,start_answer
+557,1706,65,12,"Except for its cost of holding the line fill volume in inventory, yes.",a,THE WITNESS,start_question
+558,1708,65,14,"And in your analysis, the -- Jamex actually made a small profit on its line fill volume based on the termination, so it's not part of your calculation, true?",q,MR. CARLIS,start_answer
+559,1711,65,17,I believe that's Mr. Fuller's analysis you're thinking of.,a,THE WITNESS,start_question
+560,1713,65,19,Okay.  Do you agree that there's no added damages based on the line fill cost to Jamex in this case?,q,MR. CARLIS,start_answer
+561,1716,65,22,"I think we're passing each other here.  I actually calculated -- there are no additional damages. My analysis assumes that Jamex would in- -- would have incurred a cost to hold the line fill until the end of the seven-year term and that lowers the damages, so it lowers the $1.40 per barrel to something less than $1.40 per barrel on net.",a,THE WITNESS,start_question
+562,1724,66,4,And so now I'm slightly confused. The existence of line fill requirements lowered Jamex's damages in this case. Is that your testimony?,q,MR. CARLIS,start_answer
+563,1728,66,8,Yes.,a,THE WITNESS,start_question
+564,1729,66,9,"And putting line fill aside, the cost of holding line fill, it's your opinion that Jamex would have netted a profit of $1.40 per barrel on each barrel it purchased from Shell at Robinson Lake, true?",q,MR. CARLIS,start_answer
+565,1733,66,13,"Excluding its line fill costs, yes.",a,THE WITNESS,start_question
+566,1734,66,14,And did you confirm with Mr. Ballengee that Jamex was netting $1.40 per barrel in profit before Shell terminated the Jamex/Shell agreement?,q,MR. CARLIS,start_chat
+567,1737,66,17,Objection; form.,side_chat,MR. MARKETOS,start_answer
+568,1738,66,18,Yes.,a,THE WITNESS,start_question
+569,1739,66,19,"(BY MR. CARLIS)  And just to be clear, you don't reduce -- well, strike that. Putting aside the issue of line fill costs, you do not reduce the $1.40 by administrative costs or other costs associated with whatever work Jamex or Mr. Ballengee had to do under the Jamex/Shell Agreement, true?",q,MR. CARLIS,start_answer
+570,1747,67,1,Correct.,a,THE WITNESS,start_question
+571,1748,67,2,"And that's because, in your opinion, putting aside line fill, there were no material costs to Jamex under the Jamex/Shell Agreement, right?",q,MR. CARLIS,start_answer
+572,1751,67,5,"Aside from line fill related specifically to their performance under that contract once it began, that's correct.",a,THE WITNESS,start_question
+573,1754,67,8,"And so I understand your damages model, it also assumes that Shell would not have terminated the Shell/Jamex Agreement at some later date, right?",q,MR. CARLIS,start_answer
+574,1757,67,11,I don't believe that's right.,a,THE WITNESS,start_question
+575,1758,67,12,And because you have a discount rate and it's your opinion that the possibility of future termination is built into the discount rate; is that right?,q,MR. CARLIS,start_answer
+576,1761,67,15,That's correct.,a,THE WITNESS,start_question
+577,1762,67,16,"But putting aside your discount rate calculation, you are -- your base starts with $1.40 per barrel times 15,000 barrels for every day of the seven-year contract, true?",q,MR. CARLIS,start_answer
+578,1766,67,20,Yes.,a,THE WITNESS,start_question
+579,1767,67,21,"And it -- although you've calculated Jamex's lost profits, you've not done any industry analysis to determine whether or not the payments to Jamex under the Jamex/Shell Agreement comport with industry norms, true?",q,MR. CARLIS,start_answer
+580,1771,67,25,True.,a,THE WITNESS,start_question
+581,1773,68,1,"And you've not offered any opinions as to whether or not the payments to Jamex under the Jamex/Shell Agreement are consistent with the economic value to Shell of having Jamex in this deal, right?",q,MR. CARLIS,start_answer
+582,1777,68,5,"I mean, I certainly considered Shell -- again, I believe give or take the third largest company in the world, and clearly a very sophisticated player in the oil and gas industry, sophisticated in negotiating contracts for -- for buying and selling oil. I -- they entered into this agreement essentially because they felt that there was an economic value for them to do so, so I considered that certainly. But beyond that, I didn't perform a specific analysis, if your question was that narrow.",a,THE WITNESS,start_chat
+583,1787,68,15,So I'll move to strike because I think it was.,side_chat,MR. CARLIS,start_question
+584,1789,68,17,"(BY MR. CARLIS)  You've not done any economic analysis to determine the value to Shell of having Jamex in the deal, right?",q,MR. CARLIS,start_answer
+585,1792,68,20,"If my prior answer didn't answer your question, then no.",a,THE WITNESS,start_question
+586,1794,68,22,"And you have not done any economic analysis to determine the value to Whiting of having Jamex ship oil on Robinson Lake, true?",q,MR. CARLIS,start_answer
+587,1797,68,25,"At the risk of being overbroad here, again, Whiting is a seasoned producer and seller of -- of crude oil with long experience in selling it to Jamex and its prior entities. So -- but I didn't perform a specific economic analysis, and I'm not sure exactly what you're searching for in economic analysis because it's not a term of art. So I think the answer's no, as I understand your -- your use of the term ""economic analysis.""",a,THE WITNESS,start_chat
+588,1808,69,10,I'll move to strike and I'll try and be more clear.,side_chat,MR. CARLIS,start_question
+589,1810,69,12,"(BY MR. CARLIS)  Sitting here today, do you know whether or not -- strike that. Sitting here today, can you tell me how much money Shell saved by having Jamex in this deal?",q,MR. CARLIS,start_chat
+590,1814,69,16,Objection; form.,side_chat,MR. MARKETOS,start_answer
+591,1815,69,17,No.,a,THE WITNESS,start_question
+592,1816,69,18,"(BY MR. CARLIS)  And sitting here today, can you tell me how much money Whiting saved by having Jamex in this deal?",q,MR. CARLIS,start_answer
+593,1819,69,21,No.,a,THE WITNESS,start_question
+594,1820,69,22,"Jamex hasn't been an operating entity since June 30th of 2018, true?",q,MR. CARLIS,start_answer
+595,1822,69,24,I believe that's a correct date.  That's right.,a,THE WITNESS,start_question
+596,1823,69,25,"And Mr. Ballengee told you that before Jamex went out of business, its operations entailed the purchase of crude oil at the wellhead for resale, right?",q,MR. CARLIS,start_answer
+597,1827,70,3,"Yeah, I'm not sure that that's everything that the company did, but that's certainly a significant piece of its business is my understanding, yes.",a,THE WITNESS,start_question
+598,1830,70,6,"Well, turn to paragraph 8 of your first report.",q,MR. CARLIS,start_answer
+599,1831,70,7,(Complied.)  All right.  I have that.,a,THE WITNESS,start_question
+600,1832,70,8,"And second-to-last sentence you write, ""Prior to winding down its business operations on or about June 30th, 2018, Jamex's business operations entailed the purchase of crude oil at the wellhead for resale,"" true?",q,MR. CARLIS,start_chat
+601,1836,70,12,"We just -- we're on 236 -- Exhibit 236, for the record?  I just want to be clear.",side_chat,MR. MARKETOS,start_chat
+602,1838,70,14,We are.,side_chat,MR. CARLIS,start_chat
+603,1839,70,15,Okay.  Thank you.,side_chat,MR. MARKETOS,start_answer
+604,1840,70,16,I'm sorry.  Can you point me to the paragraph again?,a,THE WITNESS,start_question
+605,1842,70,18,(BY MR. CARLIS)  Sure.,q,MR. CARLIS,start_answer
+606,1843,70,19,I wasn't finding that immediately.,a,THE WITNESS,start_question
+607,1844,70,20,No problem.  Paragraph 8 --,q,MR. CARLIS,start_answer
+608,1845,70,21,"Oh, I'm sorry.  I had page 8.",a,THE WITNESS,start_question
+609,1846,70,22,-- of your July 12th report.,q,MR. CARLIS,start_answer
+610,1847,70,23,My bad.,a,THE WITNESS,start_question
+611,1848,70,24,And it's on page 3.  The top of page 3 you write -- I'll give you a second.  Sorry.,q,MR. CARLIS,start_answer
+612,1851,71,1,Okay.  I have that.,a,THE WITNESS,start_question
+613,1852,71,2,"The top of page 3 you write, ""Prior to winding down its business operations on or about June 30th, 2018, Jamex's business operations entailed the purchase of crude oil at the wellhead for resale,"" true?",q,MR. CARLIS,start_answer
+614,1856,71,6,"Yes, that's what it says.",a,THE WITNESS,start_question
+615,1857,71,7,"And you cite for support an interview with Mr. Ballengee, true?",q,MR. CARLIS,start_answer
+616,1859,71,9,"That's one of two sources, yes.",a,THE WITNESS,start_question
+617,1860,71,10,"And the other one is Jamex's financial statements as of 2018, true?",q,MR. CARLIS,start_answer
+618,1862,71,12,Yes.,a,THE WITNESS,start_question
+619,1863,71,13,"And so my question for you is:  Mr. Ballengee told you that before winding down its business operations on or about June 30th, 2018, Jamex's business operations entailed the purchase of crude oil at the wellhead for resale, right?",q,MR. CARLIS,start_answer
+620,1868,71,18,"What Mr. Ballengee told me -- I don't remember verbatim -- supported that point because I've cited it as a source, but the Jamex financial statement also supported that.  I'd have to look at that statement.  I don't know if that's a typed paraphrase from that financial statement or the notes to that financial statement or whether I got it primarily from him and the financial statement provided added support, but both sources support that notion.",a,THE WITNESS,start_question
+621,1878,72,2,"And the only business operations that you cite in your report is the purchase of crude oil at the wellhead, right?",q,MR. CARLIS,start_answer
+622,1881,72,5,"That's the only thing specifically listed. This to me -- the use of the word ""entailed"" in that scenario doesn't mean to the exclusion of all other activities, but it certainly -- that was one of the things it did and -- and ostensibly one of the primary things that it did.",a,THE WITNESS,start_question
+623,1887,72,11,"Might have been other things like brokering deals, true?",q,MR. CARLIS,start_answer
+624,1889,72,13,"That's potentially one -- one other activity, sure.",a,THE WITNESS,start_question
+625,1891,72,15,"And in this case, though, Jamex was not buying crude oil at the wellhead, true?",q,MR. CARLIS,start_answer
+626,1893,72,17,That's correct.,a,THE WITNESS,start_question
+627,1894,72,18,"Instead it was buying crude oil at the inlet flange of the Robinson Lake pipeline, right?",q,MR. CARLIS,start_answer
+628,1896,72,20,"As the agreement ultimately was signed, that's my understanding, yes.",a,THE WITNESS,start_question
+629,1898,72,22,"So the footnotes in your reports identifies sources of information you've relied on to support the various assertions you make about the line, true?",q,MR. CARLIS,start_answer
+630,1901,72,25,"That's the intent, yes.",a,THE WITNESS,start_question
+631,1903,73,1,"And you made sure that the sources you cite to support your assertions are reliable sources, true?",q,MR. CARLIS,start_answer
+632,1905,73,3,Yes.,a,THE WITNESS,start_question
+633,1906,73,4,"And sitting here today, you believe the sources you cite are reliable, right?",q,MR. CARLIS,start_answer
+634,1908,73,6,Yes.,a,THE WITNESS,start_question
+635,1909,73,7,"Indeed, you believe that the footnotes are integral parts of your expert reports, right?",q,MR. CARLIS,start_answer
+636,1911,73,9,"I -- I say that because when I've included things in footnotes before that the attorney missed, then they want to pretend they're not important.  So I want to point out that there are footnotes and I want to make sure you read them.",a,THE WITNESS,start_question
+637,1916,73,14,"And you say it because it's true that the footnotes in your report are integral parts of your report, true?",q,MR. CARLIS,start_answer
+638,1919,73,17,"I view them to be as important, yes.",a,THE WITNESS,start_question
+639,1920,73,18,"And one of the sources you cite is the sworn deposition testimony of Shell's Michael Grappaldi, right?",q,MR. CARLIS,start_answer
+640,1922,73,20,Yes.,a,THE WITNESS,start_question
+641,1923,73,21,"And you made a determination that Mr. Grappaldi's testimony was reliable and therefore felt comfortable citing his testimony in your report, true?",q,MR. CARLIS,start_chat
+642,1926,73,24,Objection; form.,side_chat,MR. MARKETOS,start_answer
+643,1927,73,25,"I -- as with any other deposition testimony, I view it as a sworn statement given under the penalty of perjury.  I don't take it as fact.  I understand that people lie under oath and that goes whether it's a party on my side of the case or on the opposing side of the case.  But it -- it is what it is.",a,THE WITNESS,start_question
+644,1934,74,6,(BY MR. CARLIS)  Do you think that the statements that you cite in your report are reliable or not?,q,MR. CARLIS,start_chat
+645,1937,74,9,Objection; form.,side_chat,MR. MARKETOS,start_answer
+646,1938,74,10,"I -- I intend them to be -- if they're factual statements, I attempt to show the basis upon which I put those -- included those statements in my report so that the reader can ascertain the source of that and make his or her own judgments. I view them to be -- for example, we talked about my dispute section where much of that information is cited to a pleading, which by definition is one side's view of the world.  And I don't necessarily view that as fact.  It could be.  Certainly one party feels that that's fact, while the other party disputes some or all of those facts.  So I cite the source of it and it is what it is. A 10-K, as we've all found out, which is sworn to by the C-suite executives and filed with the Securities and Exchange Commission, sometimes contain false statements.  Sophisticated people understand that, but still it's viewed as a credible source of information for a publicly traded company. So with that caveat, I attempt to give the reader my understanding of the facts and my basis for developing that understanding.",a,THE WITNESS,start_question
+647,1961,75,7,"(BY MR. CARLIS)  Well, let's put the dispute section aside for a moment and let's talk about the section of your report that you titled ""Discussion and Analysis of Damages"" where you lay out your opinions and support them with footnotes. Do you make sure that the sources you cite to support your assertions in the discussion and analysis section of your report are reliable sources?",q,MR. CARLIS,start_chat
+648,1969,75,15,Objection; form.,side_chat,MR. MARKETOS,start_answer
+649,1970,75,16,I -- I attempt to find the most reliable sources available.,a,THE WITNESS,start_question
+650,1972,75,18,"(BY MR. CARLIS)  Okay.  And you cite Mr. Grappaldi's deposition testimony, page 10 of your second report in the Discussion and Analysis of Damages section, right?",q,MR. CARLIS,start_answer
+651,1976,75,22,(Examined exhibit.)  I'm sorry.  Can you point me to that again?,a,THE WITNESS,start_question
+652,1978,75,24,Sure.  You can see it in Footnote 32.  It's Exhibit 237.,q,MR. CARLIS,start_answer
+653,1981,76,1,"I'm in the wrong report.  Let me grab that one. (Examined exhibit.)  Yes, I cite to Mr. Grappaldi's testimony.",a,THE WITNESS,start_question
+654,1984,76,4,"And you cite to Mr. Grappaldi's testimony in the Discussion and Analysis section of your report, true?",q,MR. CARLIS,start_answer
+655,1986,76,6,Yes.,a,THE WITNESS,start_question
+656,1987,76,7,"And you do that because Mr. Grappaldi was the most reliable source for that proposition, right?",q,MR. CARLIS,start_chat
+657,1989,76,9,Objection; form.,side_chat,MR. MARKETOS,start_answer
+658,1990,76,10,I don't know that to be true.,a,THE WITNESS,start_question
+659,1991,76,11,"(BY MR. CARLIS)  Well, did you have more reliable sources for that proposition that you opted not to cite?",q,MR. CARLIS,start_answer
+660,1994,76,14,"Not to my knowledge, but I don't purport to have access to any and everyone who could opine on this particular issue or has an opinion on this particular issue.",a,THE WITNESS,start_question
+661,1998,76,18,"Mr. Bell, the sources of which you're aware, Mr. Grappaldi's deposition testimony was the most reliable source to support that proposition and that's why you cited it, true?",q,MR. CARLIS,start_chat
+662,2002,76,22,Objection; form.  Objection; misleading.,side_chat,MR. MARKETOS,start_answer
+663,2004,76,24,"I don't know that to be -- but I don't know that to be true.  When you say ""most accurate,"" I don't know that to be true.",a,THE WITNESS,start_question
+664,2008,77,2,(BY MR. CARLIS)  I said of which you were aware. Are you aware of more reliable sources for that proposition?,q,MR. CARLIS,start_answer
+665,2012,77,6,"Sitting here today, I'm not.",a,THE WITNESS,start_question
+666,2013,77,7,"In crafting your report, if you had more reliable sources, would you have cited them?",q,MR. CARLIS,start_chat
+667,2015,77,9,Objection; form.,side_chat,MR. MARKETOS,start_answer
+668,2016,77,10,"If it was a contentious point or -- or a point that I thought impacted significantly my damages analysis and I had conflicting sources, for example, then I would probably disclose that there were conflicting points of information. I don't recall that being the case in this particular instance.",a,THE WITNESS,start_question
+669,2023,77,17,"(BY MR. CARLIS)  You think it's important in your role as an expert to disclose conflicting sources, true?",q,MR. CARLIS,start_answer
+670,2026,77,20,If it's germane to my analysis.,a,THE WITNESS,start_question
+671,2027,77,21,"And in these reports, you did your best to disclose conflicting sources that would be germane to your analysis, right?",q,MR. CARLIS,start_chat
+672,2030,77,24,Objection; form.,side_chat,MR. MARKETOS,start_answer
+673,2031,77,25,"I attempted to disclose my opinions, the bases for them, and I considered all the facts that I thought were relevant that -- that I had at my disposal -- at my disposal.",a,THE WITNESS,start_question
+674,2036,78,4,(BY MR. CARLIS)  And did you cite to the facts that you thought were relevant or did you ignore and not cite to sources that you thought were unhelpful or contradicted the statements you were making in your report?,q,MR. CARLIS,start_answer
+675,2041,78,9,I sourced anything that I thought was relevant.,a,THE WITNESS,start_question
+676,2042,78,10,"A moment ago you said that some lawyers don't bother to read your footnotes and then complain later, true?",q,MR. CARLIS,start_answer
+677,2045,78,13,"I've had that occur, yes.",a,THE WITNESS,start_question
+678,2046,78,14,"And you would like me to read your footnotes, true?",q,MR. CARLIS,start_answer
+679,2048,78,16,Yeah.  I welcome you to read them all.,a,THE WITNESS,start_question
+680,2049,78,17,"And between now and trial when I read them all, am I supposed to assume that you think that the stuff in your footnotes is accurate or -- or not?",q,MR. CARLIS,start_chat
+681,2052,78,20,Objection; form.,side_chat,MR. MARKETOS,start_answer
+682,2053,78,21,"To the best of my ability, everything contained in my report is accurate.",a,THE WITNESS,start_question
+683,2055,78,23,"(BY MR. CARLIS)  Including the footnotes, true?",q,MR. CARLIS,start_answer
+684,2056,78,24,Yes.,a,THE WITNESS,start_question
+685,2057,78,25,"So when you cite Mr. Grappaldi, it's because you think Mr. Grappaldi's being accurate, right?",q,MR. CARLIS,start_chat
+686,2060,79,2,Objection; form.,side_chat,MR. MARKETOS,start_answer
+687,2061,79,3,"On that particular point, I used his deposition testimony as support for his -- I believe it was his statement of opinion, but we can look at it. He was opining on a -- an e-mail that he had written, and so that is attempting to get into his head and he should know what's in his head. So on that point, if he's being factual, if he's being honest and candid and truthful, he is the best source for what was in his head.",a,THE WITNESS,start_question
+688,2070,79,12,"(BY MR. CARLIS)  Did you think he was being honest, candid, and truthful?",q,MR. CARLIS,start_chat
+689,2072,79,14,Objection; form.,side_chat,MR. MARKETOS,start_answer
+690,2073,79,15,I didn't form a particular basis on that one way or the other.  He was under oath and made this statement and I cited to it.,a,THE WITNESS,start_question
+691,2076,79,18,(BY MR. CARLIS)  So he could have been lying about it; is that right?,q,MR. CARLIS,start_chat
+692,2078,79,20,Objection; form.,side_chat,MR. MARKETOS,start_answer
+693,2079,79,21,That's possible.,a,THE WITNESS,start_question
+694,2080,79,22,"(BY MR. CARLIS)  And as you sit here today, are there any things that Mr. Grappaldi testified to that you think were lies?",q,MR. CARLIS,start_chat
+695,2083,79,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+696,2085,80,1,I don't have an opinion that anything he said was factually wrong.,a,THE WITNESS,start_question
+697,2087,80,3,(BY MR. CARLIS)  And if you --,q,MR. CARLIS,start_answer
+698,2088,80,4,I don't have a basis to say that.,a,THE WITNESS,start_question
+699,2089,80,5,"If you thought Mr. Grappaldi was testifying falsely, you wouldn't rely on that testimony, right?",q,MR. CARLIS,start_answer
+700,2091,80,7,"I don't think it's -- it's my job to establish the truth or falsity of any witness's statement unless I have contemporaneous documents or other information that seems to be more credible or equally credible that refutes that. I'm not aware of any -- I haven't seen in this case, to my recollection, any information that refutes the point that I relied on him for that we were spending a ton of time on.",a,THE WITNESS,start_question
+701,2100,80,16,"And the same is true -- strike that. If you read his dep- -- I just want to understand this.  This is strange to me. If you read Mr. Grappaldi's testimony and you saw numerous instances where you thought he was lying under oath, would you, as an expert, still be comfortable relying on other testimony of his in your report?",q,MR. CARLIS,start_chat
+702,2107,80,23,Objection; form.,side_chat,MR. MARKETOS,start_answer
+703,2108,80,24,"I haven't conceived that hypothetical.  But, again, I try not to rely on one piece of information alone if there are multiple pieces of information that support or shed light on that. I try to consider all information that's relevant and determine, if I have to, what is most credible in light of contemporaneous information in the whole of all evidence that I have at my disposal and make an assessment of what makes sense.  And that's what I did in this case and what I do in every case.",a,THE WITNESS,start_question
+704,2119,81,9,"(BY MR. CARLIS)  And here, though, you cited in Footnote 32 just the testimony of Mr. Grappaldi, true?",q,MR. CARLIS,start_answer
+705,2121,81,11,"Yes, related to an e-mail that he had written.",a,THE WITNESS,start_question
+706,2122,81,12,And do you think his testimony was truthful and reliable or not?,q,MR. CARLIS,start_answer
+707,2124,81,14,I have no reason to say it was not.,a,THE WITNESS,start_question
+708,2125,81,15,And do you have any reason to say it was?,q,MR. CARLIS,start_answer
+709,2126,81,16,"He -- other than to -- to point out, again, that he testified under oath as to that statement.",a,THE WITNESS,start_question
+710,2128,81,18,"And that's true of everything he testified to in his deposition, right?  He was under oath for the entirety of his deposition?",q,MR. CARLIS,start_answer
+711,2131,81,21,"That's my assumption, yes.",a,THE WITNESS,start_question
+712,2132,81,22,"All right.  So the other things he said, as far as you're concerned, are as credible as this thing, right?",q,MR. CARLIS,start_chat
+713,2135,81,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+714,2137,82,1,"I'm not sure why you care so much about my opinion of his testimony.  He's gonna be -- the jury's ultimately gonna decide whether they believe him and all the other witnesses or not. But I have no basis to -- to say this statement was more true or less true than anything else he said, if that's what you're trying to get.",a,THE WITNESS,start_question
+715,2144,82,8,(BY MR. CARLIS)  I just want to understand the level of reliability you need as an expert to cite a source. And my understanding is Mr. Grappaldi met that threshold; is that right?,q,MR. CARLIS,start_chat
+716,2149,82,13,Objection; form.,side_chat,MR. MARKETOS,start_answer
+717,2150,82,14,"For the -- the fact I cited him for, yes -- or the statement that I cited him for, yes.",a,THE WITNESS,start_question
+718,2152,82,16,"(BY MR. CARLIS)  Because he was testifying under oath, true?",q,MR. CARLIS,start_chat
+719,2154,82,18,Objection; form.,side_chat,MR. MARKETOS,start_answer
+720,2155,82,19,And he was the author of the e-mail that was in question for what I cited that for.,a,THE WITNESS,start_question
+721,2157,82,21,"(BY MR. CARLIS)  You state in your report that ""The value Jamex added to the transaction covered by the Jamex/Shell Agreement related to its business relationships with Whiting and Shell and its ability to get the crude oil purchase/sale agreement in place,"" true?",q,MR. CARLIS,start_answer
+722,2164,83,2,"I say that, if that's all I said.  I think there was a little bit more to it than that, but that's certainly a significant piece of it, in my view.",a,THE WITNESS,start_question
+723,2167,83,5,And do you stand by that assertion?,q,MR. CARLIS,start_answer
+724,2168,83,6,"I -- I -- again, with -- with the caveat I just mentioned, yes.",a,THE WITNESS,start_question
+725,2170,83,8,"You also say that ""Whiting, in sharp contrast to Jamex, had never performed the role of shipper at the time it was negotiating the -- the Agreement with Shell,"" true?",q,MR. CARLIS,start_answer
+726,2174,83,12,Yes.,a,THE WITNESS,start_question
+727,2175,83,13,Why is that statement relevant to your analysis?,q,MR. CARLIS,start_answer
+728,2177,83,15,"That is in my response to Mr. Fuller's opinion that essentially Whiting would have had no incremental cost if it had moved into the role of shipper of record for the oil quantity in question. And I think it's significant that Whiting had never performed that role.  In some of the e-mails that I reviewed internally among Whiting employees as they were contemplating moving into that role, they were trying to figure out how to get approved as a shipper. They were discovering that they were going to have environmental and -- and other risks associated with being the shipper that they hadn't previously contemplated, apparently, and -- and other factors that demonstrated considerable risk to Whiting and potential expense to get the people and expertise in place to perform the role of shipper of record.",a,THE WITNESS,start_question
+729,2194,84,6,And do you stand by your statement that Whiting had never per- -- before performed the role of shipper?,q,MR. CARLIS,start_chat
+730,2196,84,8,Objection; form.,side_chat,MR. MARKETOS,start_answer
+731,2197,84,9,That's my understanding from the information that I reviewed.,a,THE WITNESS,start_question
+732,2199,84,11,"(BY MR. CARLIS)  If the information you reviewed is wrong, then you might be wrong, true?",q,MR. CARLIS,start_answer
+733,2201,84,13,That's conceivable.,a,THE WITNESS,start_question
+734,2202,84,14,And what is the role of the shipper?,q,MR. CARLIS,start_answer
+735,2203,84,15,"Well, to state the obvious, to move something from Point A to Point B.",a,THE WITNESS,start_question
+736,2205,84,17,"In this case the Point A to Point B was on a pipeline owned by Plains, true?",q,MR. CARLIS,start_answer
+737,2207,84,19,"That's my understanding, yes.",a,THE WITNESS,start_question
+738,2208,84,20,"Plains controlled the pipeline, right?",q,MR. CARLIS,start_answer
+739,2209,84,21,Yes.,a,THE WITNESS,start_question
+740,2210,84,22,Do you know who built the pipeline?,q,MR. CARLIS,start_answer
+741,2211,84,23,"I don't know if I -- you mean physically built it?  Paid for it being built?  I'm not sure I know either of those, but --",a,THE WITNESS,start_question
+742,2215,85,1,Do you know who paid to build the pipeline?,q,MR. CARLIS,start_answer
+743,2216,85,2,I don't recall if I knew or not.  I -- I don't sitting here today.,a,THE WITNESS,start_question
+744,2218,85,4,Do you know who the original owner of the pipeline was?,q,MR. CARLIS,start_answer
+745,2220,85,6,No.,a,THE WITNESS,start_question
+746,2221,85,7,Did Mr. Ballengee tell you that Whiting had never before performed the role of shipper?,q,MR. CARLIS,start_answer
+747,2223,85,9,"I don't recall his saying that, no.",a,THE WITNESS,start_question
+748,2224,85,10,"You state in your report that it's suspect that ""Whiting could research and meet the requirements to become a shipper then allocate the necessary personnel to schedule shipments and perform accounting and other business functions around this new venture at zero cost,"" true?",q,MR. CARLIS,start_answer
+749,2230,85,16,Yes.,a,THE WITNESS,start_question
+750,2231,85,17,"And that's your opinion, true?",q,MR. CARLIS,start_answer
+751,2232,85,18,It is.,a,THE WITNESS,start_question
+752,2233,85,19,"You understand, Mr. Bell, that Whiting has been shipping its own crude on the Robinson Lake pipeline for more than a year now, right?",q,MR. CARLIS,start_answer
+753,2236,85,22,"That's my understanding, yes.",a,THE WITNESS,start_question
+754,2237,85,23,Do you have any understanding or any knowledge of how much it has cost Whiting to act as shipper on the Robinson Lake pipeline?,q,MR. CARLIS,start_answer
+755,2241,86,1,I don't believe I've got any information that would allow me to determine that.,a,THE WITNESS,start_question
+756,2243,86,3,"So -- so you don't know whether or not there have been incremental costs to Whiting, fair?",q,MR. CARLIS,start_answer
+757,2245,86,5,"I'm almost certain that there has to have been some costs, if nothing else, a cost to ensure that oil over that 20-mile span or so.  But I don't have any documentation that would allow me to quantify what that cost is.",a,THE WITNESS,start_question
+758,2250,86,10,"It's also possible that Whiting's current insurance would have covered the insurance for acting as shipper on the Robinson Lake pipeline, right?",q,MR. CARLIS,start_chat
+759,2253,86,13,Objection; form.,side_chat,MR. MARKETOS,start_answer
+760,2254,86,14,"I guess that's possible.  It's my experience with insurance companies that they normally don't accept more risk without compensation for accepting that risk, but I guess that's conceivable.",a,THE WITNESS,start_question
+761,2258,86,18,"(BY MR. CARLIS)  You've never reviewed Whiting's insurance policies, true?",q,MR. CARLIS,start_answer
+762,2260,86,20,I have not.,a,THE WITNESS,start_question
+763,2261,86,21,"So putting aside the issue of insurance which you've not reviewed the policies for, are you aware of any incremental cost of Whiting of acting as shipper on this pipeline?",q,MR. CARLIS,start_answer
+764,2265,86,25,"I'm not aware of any actual cost that I can quantify in -- in the sense that I haven't received any information that would allow me to quantify. I've suggested some potential costs that they would incur or likely incur that were incremental in my report -- to be clear, my August 9 report.",a,THE WITNESS,start_question
+765,2272,87,6,"And in your August 9 report, you make no attempt to attach a value to those costs, true?",q,MR. CARLIS,start_answer
+766,2274,87,8,That is true.,a,THE WITNESS,start_question
+767,2275,87,9,"You state that ""Mr. Fuller's discussion of the negotiation of the Whiting/Shell Agreement is highly selective and incomplete, and, as a result, misleading""; is that right?",q,MR. CARLIS,start_answer
+768,2279,87,13,Yes.,a,THE WITNESS,start_question
+769,2280,87,14,"And this goes back to your earlier testimony about disclosing conflicting evidence, right?",q,MR. CARLIS,start_answer
+770,2282,87,16,I think that's fair.,a,THE WITNESS,start_question
+771,2283,87,17,"And you discuss that same negotiation in your report, right?",q,MR. CARLIS,start_answer
+772,2285,87,19,Yes.,a,THE WITNESS,start_question
+773,2286,87,20,And do you believe that your discussion of that same negotiation is complete?,q,MR. CARLIS,start_answer
+774,2288,87,22,"For purposes of my analysis, yes.",a,THE WITNESS,start_question
+775,2289,87,23,Did you omit anything that you deemed material about those negotiations from your report?,q,MR. CARLIS,start_answer
+776,2291,87,25,No.,a,THE WITNESS,start_question
+777,2293,88,1,And do you believe your report fairly and accurately reflects Mr. Grappaldi's testimony about those negotiations?,q,MR. CARLIS,start_answer
+778,2296,88,4,"I don't specifically recall, but to my knowledge, it does.",a,THE WITNESS,start_question
+779,2298,88,6,"You also state in your report that ""Nowhere does Mr. Fuller address the significant difference in term length or what impact this difference might have on the negotiated price adjustment,"" true?",q,MR. CARLIS,start_answer
+780,2302,88,10,Yes.,a,THE WITNESS,start_question
+781,2303,88,11,"Mr. Bell, do you know what the average differential for oil sold at Stanley, North Dakota, was in January of 2015?",q,MR. CARLIS,start_answer
+782,2306,88,14,No.,a,THE WITNESS,start_question
+783,2307,88,15,"And do you know what the average differential for oil sold at Stanley on January 1, 2015, at the Robinson Lake pipeline was?",q,MR. CARLIS,start_answer
+784,2310,88,18,No.,a,THE WITNESS,start_question
+785,2311,88,19,"In 2017, for the year what was the average differential for oil sold at Stanley?",q,MR. CARLIS,start_answer
+786,2313,88,21,I don't know.,a,THE WITNESS,start_question
+787,2314,88,22,What about the average differential for oil sold at the inlet flange of the Robinson Lake pipeline in 2017?  Do you know that?,q,MR. CARLIS,start_answer
+788,2317,88,25,No.,a,THE WITNESS,start_question
+789,2319,89,1,Do you have any reason to believe that Jamex would have received more than $1.40 per barrel had this been a 10-year deal?,q,MR. CARLIS,start_chat
+790,2322,89,4,Objection; form.,side_chat,MR. MARKETOS,start_answer
+791,2323,89,5,I don't have an opinion on that.,a,THE WITNESS,start_question
+792,2324,89,6,(BY MR. CARLIS)  And do you have any reason to believe that Jamex would have received less than $1.40 per barrel had this been a 5-year deal?,q,MR. CARLIS,start_chat
+793,2327,89,9,Objection; form.,side_chat,MR. MARKETOS,start_answer
+794,2328,89,10,I don't have an opinion on that.,a,THE WITNESS,start_question
+795,2329,89,11,"(BY MR. CARLIS)  And you're not offering any opinion on whether or not Shell would've agreed to a minus 640 differential rather than a minus 780 differential depending on the length of the deal, are you?",q,MR. CARLIS,start_answer
+796,2334,89,16,"I'm not here to opine on what Shell would or would not have agreed to, but I -- I am of the opinion that a 7-year deal versus a 10-year deal, that -- that term difference is significant -- or potentially significant.",a,THE WITNESS,start_question
+797,2339,89,21,But you don't know -- let me ask you this:  Do you know what the average differential was on 10-year deals for oil sold at Stanley in 2017?,q,MR. CARLIS,start_answer
+798,2342,89,24,No.,a,THE WITNESS,start_question
+799,2343,89,25,Do you know what the average differential was on 7-year deals for oil sold at Stanley in 2017?,q,MR. CARLIS,start_answer
+800,2346,90,2,No.,a,THE WITNESS,start_question
+801,2347,90,3,"You don't know whether or not Shell would have insisted on a different differential for a 10-year deal than for a 7-year deal, true?",q,MR. CARLIS,start_answer
+802,2350,90,6,I don't know that definitively.,a,THE WITNESS,start_question
+803,2351,90,7,"You state that Jamex's 2015 revenue totaled more than 2.6 billion, true?",q,MR. CARLIS,start_answer
+804,2353,90,9,"Say the year again, please.",a,THE WITNESS,start_question
+805,2354,90,10,2015.,q,MR. CARLIS,start_answer
+806,2355,90,11,"I believe that's right, yes.",a,THE WITNESS,start_question
+807,2356,90,12,Why is it relevant to your analysis that Jamex's 2015 revenue totaled more than 2.6 billion?,q,MR. CARLIS,start_answer
+808,2358,90,14,"In my world, 2.6 billion is a significant amount of money.  That indicates a significant scope of operations, and 2015 is the year that the parties began discussing this deal is my under- -- well, I think they actually started discussing it toward the end of 2014. But anyway, 2015 was a significant year among the parties to this deal.",a,THE WITNESS,start_question
+809,2365,90,21,Do you believe Jamex was a profitable company in 2015?,q,MR. CARLIS,start_answer
+810,2367,90,23,I would have to look back at the financial statements for 2015.  I don't -- I don't recall when their profitability flipped.,a,THE WITNESS,start_question
+811,2371,91,1,"Because revenue's just one part of the equation, right?",q,MR. CARLIS,start_answer
+812,2373,91,3,"Depending on the equation, but I assume the equation you're talking about, yes.",a,THE WITNESS,start_question
+813,2375,91,5,"If your costs are higher than your revenue, you're not profitable, right?",q,MR. CARLIS,start_answer
+814,2377,91,7,Correct.,a,THE WITNESS,start_question
+815,2378,91,8,"But you don't know sitting here today whether Jamex's revenue in 2015 was more than 2.6 bil- -- I'm sorry, strike that. You don't know sitting here today whether Jamex's costs in 2015 were higher than its revenue, do you?",q,MR. CARLIS,start_answer
+816,2384,91,14,"Sitting here today, without looking back at -- at my analysis of the financial statements, I don't remember.",a,THE WITNESS,start_question
+817,2387,91,17,Would you be surprised to learn that Jamex lost $86 million in 2015?,q,MR. CARLIS,start_answer
+818,2389,91,19,No.,a,THE WITNESS,start_question
+819,2390,91,20,What was Jamex's 2016 revenue?,q,MR. CARLIS,start_answer
+820,2391,91,21,"Sitting here today, I don't remember.  I've looked at the financials, but I don't remember sitting here today.",a,THE WITNESS,start_question
+821,2394,91,24,Do you know how it compares to its expenses?,q,MR. CARLIS,start_answer
+822,2395,91,25,I don't believe they turned a profit in 2016.,a,THE WITNESS,start_question
+823,2397,92,1,"It's your understanding that Jamex had a loss in 2016 as well, true?",q,MR. CARLIS,start_answer
+824,2399,92,3,"Yes.  2016, to be clear, I think we're only dealing with a half a year because I believe that's the year they wound down the company and there were wind-down expenses and other things involved, but I -- I'm certain that they recorded a loss.",a,THE WITNESS,start_question
+825,2404,92,8,"Okay.  Who other than Shell purchased oil from Jamex in Q1, 2017?",q,MR. CARLIS,start_answer
+826,2406,92,10,I don't know.,a,THE WITNESS,start_question
+827,2407,92,11,Are you aware of any other contracts for the purchase or sale of oil or gas involving Jamex that were in place in June of 2017?,q,MR. CARLIS,start_answer
+828,2410,92,14,"Again, my understanding is they wound down the company in June of 2016, so I don't -- I don't believe they had ongoing operations in 2017.",a,THE WITNESS,start_question
+829,2413,92,17,"Other than its contract with Shell, how else, if at all, was Jamex generating income in 2017?",q,MR. CARLIS,start_answer
+830,2415,92,19,I'm not aware of its other operations specifically as relates to counterparties or contracts.,a,THE WITNESS,start_question
+831,2417,92,21,"Okay.  You don't have any financial information about Jamex demonstrating that it was in good financial health as of Q1, 2017, true?",q,MR. CARLIS,start_answer
+832,2420,92,24,True.,a,THE WITNESS,start_question
+833,2421,92,25,"And you agree that Jamex's size, balance sheet strength, and recent operating results, standing alone, would justify an upward adjustment to the industry-derived WACC, true?",q,MR. CARLIS,start_answer
+834,2426,93,4,"All other factors equal, depending on the context and caveats I included with that statement, yes.",a,THE WITNESS,start_question
+835,2428,93,6,"And as far as you understand it, is the -- was the entire scope of Jamex's business operations in 2017 this agreement with Shell?",q,MR. CARLIS,start_answer
+836,2431,93,9,I believe this was a very significant piece of it.  I don't know that it was 100 percent of it.,a,THE WITNESS,start_question
+837,2433,93,11,Do you know of anything else that Jamex was doing in 2017 other than its agreement with Shell?,q,MR. CARLIS,start_answer
+838,2435,93,13,"I understand that it was involved in numerous pieces of litigation that were ongoing with -- with multiple parties. As far as other contracts, as I've said, I'm not aware of anything in particular --",a,THE WITNESS,start_question
+839,2440,93,18,And you understand --,q,MR. CARLIS,start_answer
+840,2441,93,19,-- in particular.,a,THE WITNESS,start_question
+841,2442,93,20,"-- that in many of those cases, Jamex was the defendant, right?",q,MR. CARLIS,start_chat
+842,2444,93,22,Objection; form.,side_chat,MR. MARKETOS,start_answer
+843,2445,93,23,That's my understanding.,a,THE WITNESS,start_question
+844,2446,93,24,(BY MR. CARLIS)  Okay.  All right.,q,MR. CARLIS,start_chat
+845,2447,93,25,"This is officially the most boring deposition I've ever done, based on the lighting response.",side_chat,THE WITNESS,start_chat
+846,2451,94,3,We need a break --,side_chat,THE COURT REPORTER,start_chat
+847,2452,94,4,That's not very --,side_chat,MR. CARLIS,start_chat
+848,2453,94,5,-- pretty quick here.,side_chat,THE COURT REPORTER,start_chat
+849,2454,94,6,"Oh, we do?  Well, we can take one right now.",side_chat,MR. CARLIS,start_chat
+850,2456,94,8,Is right now good?,side_chat,THE COURT REPORTER,start_chat
+851,2457,94,9,Yeah.,side_chat,MR. CARLIS,start_chat
+852,2458,94,10,Okay.,side_chat,THE COURT REPORTER,start_chat
+853,2459,94,11,"If your fingers are tired, we have to stop.",side_chat,MR. CARLIS,start_chat
+854,2461,94,13,Off record at 11:55 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+855,2462,94,14,(A recess was taken from 11:55 a.m. to 12:02 p.m.),brackets,,start_chat
+856,2464,94,16,We are back on record at 12:02 p.m.,side_chat,THE VIDEOGRAPHER,start_question
+857,2466,94,18,"(BY MR. CARLIS)  Mr. Bell, can you describe for the jury your understanding of the scope of Jamex's business operations in quarter 1, 2017?",q,MR. CARLIS,start_answer
+858,2469,94,21,"If I have my dates correct, the company was essentially wound down at that point and there was some ongoing litigation, but essentially the company was wound down.",a,THE WITNESS,start_question
+859,2473,94,25,And can you describe for the jury the scope of Jamex's business operations in the summer of 2016?,q,MR. CARLIS,start_answer
+860,2476,95,2,I believe the wind-down occurred on or around June 30 of 2016.  And so ostensibly there weren't ongoing -- significant ongoing business operations past that point.,a,THE WITNESS,start_question
+861,2480,95,6,And what -- strike that. What benchmark companies did you use in your analysis?,q,MR. CARLIS,start_answer
+862,2483,95,9,The companies that comprised SIC Code 5172.,a,THE WITNESS,start_question
+863,2484,95,10,"And what are those companies, the names of those companies?",q,MR. CARLIS,start_answer
+864,2486,95,12,"Without looking at my file, I don't know that I could name them all.  I think Sunoco is one of them, but I don't recall without looking back at my file.",a,THE WITNESS,start_question
+865,2489,95,15,Is this the file?,q,MR. CARLIS,start_answer
+866,2490,95,16,"That has what I think I need to answer the question, yes.",a,THE WITNESS,start_question
+867,2492,95,18,Great.  Help yourself.,q,MR. CARLIS,start_answer
+868,2493,95,19,"(Examined document.)  Okay.  For my analysis that used data for December 31, 2017, March 2018, those companies were World Fuel Services Corporation, Sunoco, LLP --",a,THE WITNESS,start_question
+869,2497,95,23,I'm sorry.  I'm just gonna write them down and it takes me longer to write them down.,q,MR. CARLIS,start_answer
+870,2499,95,25,I'm sorry.,a,THE WITNESS,start_question
+871,2501,96,1,So World Fuels --,q,MR. CARLIS,start_answer
+872,2502,96,2,Services Corporation.,a,THE WITNESS,start_question
+873,2503,96,3,-- Services Corp. Okay.  The second?,q,MR. CARLIS,start_answer
+874,2505,96,5,Sunoco.,a,THE WITNESS,start_question
+875,2506,96,6,Will you spell that for me?,q,MR. CARLIS,start_answer
+876,2507,96,7,S-u-n-o-c-o.,a,THE WITNESS,start_question
+877,2508,96,8,Okay.,q,MR. CARLIS,start_answer
+878,2509,96,9,Third one is Genesis Energy.,a,THE WITNESS,start_question
+879,2510,96,10,Okay.,q,MR. CARLIS,start_answer
+880,2511,96,11,The fourth is CrossAmerica Partners.,a,THE WITNESS,start_question
+881,2512,96,12,Okay.,q,MR. CARLIS,start_answer
+882,2513,96,13,The fifth is Adams Resources and Energy.,a,THE WITNESS,start_question
+883,2514,96,14,Okay.,q,MR. CARLIS,start_answer
+884,2515,96,15,"The last is Martin Midstream Partners. And for my analysis for the later period, it's the same except Martin Midstream Partners doesn't make an appearance.",a,THE WITNESS,start_question
+885,2519,96,19,Can you describe the scope of business operations of World Fuel Services Corp.?,q,MR. CARLIS,start_answer
+886,2521,96,21,"It was the single largest company in this -- under this SIC code.  And the SIC code, to be clear, is described as petroleum and petroleum producer -- I'm sorry, petroleum and petroleum products wholesalers, except bulk station and -- bulk stations and terminals.",a,THE WITNESS,start_question
+887,2527,97,1,Okay.  But can you describe for the jury the scope of business operations for World Fuel Services?,q,MR. CARLIS,start_answer
+888,2529,97,3,"Not in -- not in detail, no.  They were involved in the space which I determined and Mr. Ballengee confirmed was the most relevant SIC code for Jamex Marketing, the Jamex entity we're dealing with.",a,THE WITNESS,start_question
+889,2533,97,7,Do you know whether it was an operating company in 2017?,q,MR. CARLIS,start_answer
+890,2535,97,9,"However you define ""operating company."" Was it in --",a,THE WITNESS,start_question
+891,2537,97,11,Did it exist --,q,MR. CARLIS,start_answer
+892,2538,97,12,"-- in business, in existence?",a,THE WITNESS,start_question
+893,2539,97,13,-- in revenue?,q,MR. CARLIS,start_answer
+894,2540,97,14,"Yes, it existed.",a,THE WITNESS,start_question
+895,2541,97,15,How much was its revenue in 2017?,q,MR. CARLIS,start_answer
+896,2542,97,16,You say 2017?,a,THE WITNESS,start_question
+897,2543,97,17,Or 2018?,q,MR. CARLIS,start_answer
+898,2544,97,18,So some of this information is on a fiscal year basis.  Some of it's on a calendar year basis.  But the revenue number that was cited for it was 33.7 billion.,a,THE WITNESS,start_question
+899,2547,97,21,And do you know what its profits were during the relevant period?,q,MR. CARLIS,start_answer
+900,2549,97,23,No.,a,THE WITNESS,start_question
+901,2550,97,24,Do you have any way of knowing whether it was operating in the red or the black?,q,MR. CARLIS,start_answer
+902,2553,98,1,"There are profitability metrics in the data, but it's given on a median basis, not a company-specific basis; so no, I don't have that in front of me.",a,THE WITNESS,start_question
+903,2556,98,4,What's the median profitability for these businesses?,q,MR. CARLIS,start_answer
+904,2558,98,6,The -- the profitability ratio was 2.0.,a,THE WITNESS,start_question
+905,2559,98,7,Can you explain to the jury what a profitability ratio of 2.0 means?,q,MR. CARLIS,start_answer
+906,2561,98,9,"Essentially an operating margin.  And this is a median, so, I mean, I -- I'd have to look at -- at how that's calculated on this par- -- for this particular data source.",a,THE WITNESS,start_question
+907,2565,98,13,"What do you mean by ""operating margin""?",q,MR. CARLIS,start_answer
+908,2566,98,14,Operating margin is the -- interchangeable with profit margin.,a,THE WITNESS,start_question
+909,2568,98,16,Okay.  So the median has a -- of these companies has a positive profit margin of 2.0?,q,MR. CARLIS,start_answer
+910,2570,98,18,Yes.,a,THE WITNESS,start_question
+911,2571,98,19,"And is there a way, then, to tell if you have a company with $33 billion in revenue, what a -- what -- assuming that company sat at the median, what its profits would be for the year?",q,MR. CARLIS,start_answer
+912,2575,98,23,"I don't want to go on record saying what that is because I don't want to misinterpret this data.  I'd have to look at how they calculated this particular ratio. But I recall -- yeah, I just recall -- I don't recall sitting here today what that -- what that was for -- for World Fuel Services or these other five companies that I mentioned.",a,THE WITNESS,start_question
+913,2584,99,6,"The median of these companies is profitable, true?",q,MR. CARLIS,start_answer
+914,2586,99,8,Correct.,a,THE WITNESS,start_question
+915,2587,99,9,What was Sunoco's revenue?,q,MR. CARLIS,start_answer
+916,2588,99,10,11.7 billion.,a,THE WITNESS,start_question
+917,2589,99,11,What was Genesis Energy's revenue?,q,MR. CARLIS,start_answer
+918,2590,99,12,2 billion.,a,THE WITNESS,start_question
+919,2591,99,13,"What was -- I'm sorry, did you say -- I can't -- I cannot read my own handwriting -- Crux American?",q,MR. CARLIS,start_answer
+920,2594,99,16,CrossAmerica.,a,THE WITNESS,start_question
+921,2595,99,17,CrossAmerica. What was its revenue?,q,MR. CARLIS,start_answer
+922,2597,99,19,1.8 billion.,a,THE WITNESS,start_question
+923,2598,99,20,What about Adams Resources?,q,MR. CARLIS,start_answer
+924,2599,99,21,1.1 billion.,a,THE WITNESS,start_question
+925,2600,99,22,What about Martin Midstream?,q,MR. CARLIS,start_answer
+926,2601,99,23,"946,000 -- I'm sorry.  946 million.",a,THE WITNESS,start_question
+927,2602,99,24,"Other than revenue and operating -- median operating margin, what other information about the scope of business operations do you have for these six companies?",q,MR. CARLIS,start_answer
+928,2607,100,3,"Well, as -- you'll have this when I -- when I give it to you, but there is a -- a wealth of information available for these -- these companies or for this SIC code is really how the data's presented.",a,THE WITNESS,start_question
+929,2611,100,7,You don't have the data on a company-by-company basis.  The data is for code-wide; is that true?,q,MR. CARLIS,start_answer
+930,2613,100,9,"Yes, that's correct.",a,THE WITNESS,start_question
+931,2614,100,10,"And that was the comparison you did was between Jamex and the -- the companies that sat within this SIC code generally, true?",q,MR. CARLIS,start_answer
+932,2617,100,13,Correct.,a,THE WITNESS,start_question
+933,2618,100,14,"So you don't know whether -- strike that. So other than revenue and operating margin, what other information did you look at for these companies?",q,MR. CARLIS,start_answer
+934,2622,100,18,"Well, on a company basis, the assets are also provided.  The rest of the information's aggregated for the SIC code.",a,THE WITNESS,start_question
+935,2625,100,21,"And when you say ""the assets,"" is it the -- the dollar value of the assets or the specific assets owned?",q,MR. CARLIS,start_answer
+936,2627,100,23,The dollar value of total assets.,a,THE WITNESS,start_question
+937,2628,100,24,What are the dol- -- the dollar value of total assets for World Fuel Services Corp.?,q,MR. CARLIS,start_answer
+938,2631,101,1,"This is not the best copy in the world, but I believe it to be in the same order. World Fuel Services was 5.6 billion. Sunoco was 8.3 billion. Genesis was 7.1 billion. CrossAmerica was 932 million. Adams was 247 million -- million, I believe. And Martin was 1.3 billion.",a,THE WITNESS,start_question
+939,2640,101,10,And can you just confirm for me what the time period this data attaches to?,q,MR. CARLIS,start_answer
+940,2642,101,12,"The source indicates that the data was updated through March 31, 2018. And so again to my earlier point, some of this information may be on a fiscal year basis.  Some of it may be on a calendar year basis -- or some of these companies' fiscal years may co- -- coincide with a calendar year.  I don't -- I don't know that sitting here.",a,THE WITNESS,start_question
+941,2650,101,20,"On the issue of damages mitigation, you offer the opinion that entering into another contract to ship oil in the Robinson Lake pipeline would not have mitigated Jamex's damages because it could have done both that contract and the Shell contract, true?",q,MR. CARLIS,start_chat
+942,2655,101,25,Objection; form.,side_chat,MR. MARKETOS,start_answer
+943,2657,102,1,Yes.,a,THE WITNESS,start_question
+944,2658,102,2,"(BY MR. CARLIS)  And would Jamex have been able to get the additional capacity on the Robinson Lake pipeline to move, say, 30,000 barrels rather than 15,000 barrels a day?",q,MR. CARLIS,start_answer
+945,2662,102,6,"I don't know specifically.  I do know that in the recent past, prior to this deal, Jamex had been the top three purchaser of Whiting crude at that point -- I mean, that geographic point, and accounted for, as I recall, 8 to 12 percent or so of Whiting's production, which certainly exceeded 15,000 barrels per day.  I recall 30,000 to 45,000 barrels being a volume not too much earlier, I believe, than when this deal was struck. So I know that there was some other capacity.",a,THE WITNESS,start_question
+946,2671,102,15,"You don't know whether or not those barrels that you just referenced were being shipped on the Robinson Lake pipeline, though, true?",q,MR. CARLIS,start_answer
+947,2674,102,18,"Sitting here today, I don't remember.",a,THE WITNESS,start_question
+948,2675,102,19,"They could have been trucked, for example?",q,MR. CARLIS,start_answer
+949,2676,102,20,That's possible.,a,THE WITNESS,start_question
+950,2677,102,21,"Could have been shipped on a different pipeline, true?",q,MR. CARLIS,start_answer
+951,2679,102,23,I can't remember enough detail to disagree. That is possible.,a,THE WITNESS,start_question
+952,2681,102,25,"And in 2017, you don't know whether or not there was sufficient capacity on the Robinson Lake pipeline such that Plains would let Jamex ship 30,000 barrels a day, true?",q,MR. CARLIS,start_answer
+953,2686,103,4,I don't know that.,a,THE WITNESS,start_question
+954,2687,103,5,"You also state, ""I understand that Jamex does not have an obligation to mitigate harm suffered from Whiting's tortious interference."" Who told you that?",q,MR. CARLIS,start_answer
+955,2691,103,9,That's my understanding from counsel.,a,THE WITNESS,start_chat
+956,2692,103,10,"Well, I don't have any more questions for you.  Thank you for your time.",side_chat,MR. CARLIS,start_chat
+957,2694,103,12,Thank you.,side_chat,THE WITNESS,start_chat
+958,2695,103,13,We'll reserve.  Thank you.,side_chat,MR. MARKETOS,start_chat
+959,2696,103,14,Time to go to the sculpture garden.,side_chat,MR. CARLIS,start_chat
+960,2698,103,16,Off record at 12:17 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+961,2699,103,17,(Discussion off the video record.),brackets,,start_chat
+962,2700,103,18,"Mr. Marketos, would you like him to read and sign?",side_chat,THE COURT REPORTER,start_chat
+963,2702,103,20,"Read and sign, please.",side_chat,MR. MARKETOS,start_chat
+964,2703,103,21,Do you need any spellings?,side_chat,THE WITNESS,start_chat
+965,2704,103,22,Yes. Did you want regular delivery?,side_chat,THE COURT REPORTER,start_chat
+966,2706,103,24,"I'd like a rough, please, and then I don't care what happens next, so it's whatever --",side_chat,MR. CARLIS,start_chat
+967,2709,104,1,That's fine.,side_chat,THE COURT REPORTER,start_chat
+968,2710,104,2,-- Richard says.,side_chat,MR. CARLIS,start_chat
+969,2711,104,3,"Pete, do you want a rough?",side_chat,THE COURT REPORTER,start_chat
+970,2713,104,5,By any chance -- I don't need one.,side_chat,MR. MARKETOS,start_chat
+971,2715,104,7,"Regular delivery is what's happening.  Rough for him, not for you.  Got it.",side_chat,THE COURT REPORTER,start_chat
+972,2717,104,9,Do you by any chance --,side_chat,MR. CARLIS,start_chat
+973,2718,104,10,I'll take a rough.  I'm sorry.  Just to mess you up.,side_chat,MR. MARKETOS,start_chat
+974,2720,104,12,Okay.,side_chat,THE COURT REPORTER,is brackets
+975,2722,104,14,"(Deposition concluded at 12:17 p.m., August 30, 2019.) CHANGES AND SIGNATURE",brackets,,start_chat
+976,2736,105,2,BARRY L. BELL DATE,side_chat,WITNESS NAME,symbols
+977,2739,105,5,_________________________________________________________,symbols,,symbols
+978,2740,105,6,_________________________________________________________,symbols,,symbols
+979,2741,105,7,_________________________________________________________,symbols,,symbols
+980,2742,105,8,_________________________________________________________,symbols,,symbols
+981,2743,105,9,_________________________________________________________,symbols,,symbols
+982,2744,105,10,_________________________________________________________,symbols,,symbols
+983,2745,105,11,_________________________________________________________,symbols,,symbols
+984,2746,105,12,_________________________________________________________,symbols,,symbols
+985,2747,105,13,_________________________________________________________,symbols,,symbols
+986,2748,105,14,_________________________________________________________,symbols,,symbols
+987,2749,105,15,_________________________________________________________,symbols,,symbols
+988,2750,105,16,_________________________________________________________,symbols,,symbols
+989,2751,105,17,_________________________________________________________,symbols,,symbols
+990,2752,105,18,_________________________________________________________,symbols,,symbols
+991,2753,105,19,_________________________________________________________,symbols,,symbols
+992,2754,105,20,_________________________________________________________,symbols,,symbols
+993,2755,105,21,_________________________________________________________,symbols,,symbols
+994,2756,105,22,_________________________________________________________,symbols,,symbols
+995,2757,105,23,_________________________________________________________,symbols,,symbols
+996,2758,105,24,_________________________________________________________,symbols,,symbols
+997,2759,105,25,"_________________________________________________________ I, BARRY L. BELL, have read the foregoing deposition and hereby affix my signature that same is true and correct, except as noted above.",symbols,,symbols
+998,2765,106,5,"_________________________________ BARRY L. BELL Before me, ___________________________, on this day personally appeared BARRY L. BELL, known to me (or proved to me under oath or through ___________________________) (description of identity card or other document) to be the person whose name is subscribed to the foregoing instrument and acknowledged to me that they executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office this __________ day of ________________________, 2019.",symbols,,symbols
+999,2785,106,23,"______________________________ NOTARY PUBLIC IN AND FOR THE STATE OF _________________ CAUSE NO. DC-18-04574 JAMEX MARKETING, LLC,          §  IN THE DISTRICT COURT Plaintiff and              §",symbols,,symbols
+1000,2795,107,5,§,symbols,,symbols
+1001,2797,107,6,"§ CORPORATION, WHITING OIL AND   § §  DALLAS COUNTY, TEXAS Counter-Plaintiffs, and    §",symbols,,symbols
+1002,2805,107,10,§,symbols,,symbols
+1003,2807,107,11,§,symbols,,symbols
+1004,2809,107,12,"§ Defendant.           §  68TH JUDICIAL DISTRICT REPORTER'S CERTIFICATION DEPOSITION OF BARRY L. BELL AUGUST 30, 2019 I, Karen L. D. Schoeve, Certified Shorthand Reporter, in and for the State of Texas, hereby certify to the following: That the witness, BARRY L. BELL, was duly sworn by the officer and that the transcript of the oral deposition is a true record of the testimony given by the witness; That the deposition transcript was submitted on ____________________ to the witness or to the attorney for the witness for examination, signature and return to me by ____________________; That the amount of time used by each party at the deposition is as follows: PETE MARKETOS     - 00 HOUR(S):00 MINUTE(S) For Defendants, Counter-Plaintiffs and That pursuant to information given to the deposition officer at the time said testimony was taken, the following includes counsel for all parties of record: FOR THE PLAINTIFF AND COUNTER-DEFENDANT: PETE MARKETOS, ESQUIRE 750 North Saint Paul Street Dallas, Texas 75201 T:  214.382.9810 Pete.Marketos@rm-firm.com FOR DEFENDANTS, COUNTER-PLAINTIFFS, AND THIRD-PARTY SUSMAN GODFREY L.L.P. Louisiana Street, Suite 5100 Houston, Texas 77002 T:  713.651.9366 acarlis@susmangodfrey.com I further certify that I am neither counsel for, related to, nor employed by any of the parties or attorneys in the action in which this proceeding was taken, and further that I am not financially or otherwise interested in the outcome of the action. Further certification requirements pursuant to Rule 203 of TRCP will be certified to after they have occurred. Certified to by me this 9th day of September, 2019.",symbols,,symbols
+1005,2881,110,19,"__________________________________ Realtime Systems Administrator NCRA Exp. Date:  09-30-21 Firm Registration #736 Old Eagle School Road, Suite 118 Wayne, Pennsylvania 19087 FURTHER CERTIFICATION UNDER RULE 203 TRCP The original deposition was/was not returned to the deposition officer on _________________________; If returned, the attached Changes and Signature page contains any changes and the reasons therefor; If returned, the original deposition was delivered to ADAM CARLIS, custodial attorney; That $__________ is the deposition officer's charges to the Defendants, Counter-Plaintiffs and Third-Party Plaintiffs for preparing the original deposition transcript and any copies of exhibits; That the deposition was delivered in accordance with Rule 203.3, and that a copy of this certificate was served on all parties shown herein on and filed with the Clerk. Certified to by me this __________ day of ____________________, 2019.",symbols,,symbols
+1006,2913,112,20,"__________________________________ Realtime Systems Administrator NCRA Exp. Date:  09-30-21 Firm Registration #736 Old Eagle School Road, Suite 118 Wayne, Pennsylvania 19087",symbols,,end

@@ -1,0 +1,585 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows ....,,,symbols
+1,62,9,14,- - - EXAMINATION,symbols,,symbols
+2,64,9,16,- - -,symbols,,start_question
+3,66,9,18,"Good afternoon.  My name is Joe Lavin.  I'm here on behalf of the Defendant in this matter, David Spohn.  I'm here today to take your deposition. Prior to today, have you ever been deposed before?",q,MR. LAVIN,start_answer
+4,72,9,24,No.,a,THE WITNESS,start_question
+5,74,10,1,"Just so you know, to my left and your right is the court reporter.  She's writing down everything that we say, so at the end of the day, there will be a written transcript with the questions that I ask you and the answers that you provide to those questions. It's important, because the court reporter is here, that all of your responses to my questions have to be verbal responses.  The court reporter can't take things down such as head nods yes or no, or indications with your hands to the left or the right, so you need to verbalize everything.  Okay?",q,MR. LAVIN,start_answer
+6,89,10,16,Yes.,a,THE WITNESS,start_question
+7,90,10,17,"I'm going to be asking you a series of questions.  If at any point you don't understand my question, let me know, and I'll do my best to rephrase it for you. All right?",q,MR. LAVIN,start_answer
+8,95,10,22,Okay.,a,THE WITNESS,start_question
+9,96,10,23,"When you do answer a question, I'll assume you heard the question, you understood the question, and you're answering it truthfully and honestly to the best of your ability.  All right?",q,MR. LAVIN,start_answer
+10,102,11,4,Okay.,a,THE WITNESS,start_question
+11,103,11,5,Do you understand that you are sworn in and under oath today?,q,MR. LAVIN,start_answer
+12,105,11,7,Yes.,a,THE WITNESS,start_question
+13,106,11,8,And the testimony you're about to give has the same force and effect as if we were testifying in court in front of a judge or a jury?,q,MR. LAVIN,start_answer
+14,110,11,12,Yes.  I understand.,a,THE WITNESS,start_question
+15,111,11,13,"All right.  That being said, if you don't know or can't remember an answer to one of my questions, ""I don't know"" and ""I can't remember"" are perfectly acceptable responses.  All right?",q,MR. LAVIN,start_answer
+16,116,11,18,Okay.,a,THE WITNESS,start_question
+17,117,11,19,"I don't want you to guess at anything.  So if your answer is an estimation or an approximation, things like speed, distance, time of day, just let me know that your answer is an estimation or an approximation, and not an exact answer. All right?",q,MR. LAVIN,start_answer
+18,125,12,2,Okay.,a,THE WITNESS,start_question
+19,126,12,3,Are you talking any medication today that would affect your ability to testify truthfully and accurately?,q,MR. LAVIN,start_answer
+20,129,12,6,No.,a,THE WITNESS,start_question
+21,130,12,7,Did you take any medications today?,q,MR. LAVIN,start_answer
+22,132,12,9,Yes.,a,THE WITNESS,start_question
+23,133,12,10,What did you take?,q,MR. LAVIN,start_answer
+24,134,12,11,"I take Coreg, I take Losartan, and that's it as far as cardiac medications. Other things are, just, Vitamin D and magnesium.",a,THE WITNESS,start_question
+25,138,12,15,All right.  Have you had an opportunity to speak with your attorney?,q,MR. LAVIN,start_answer
+26,140,12,17,Yes.,a,THE WITNESS,start_question
+27,141,12,18,Are you prepared to go forward with today's deposition?,q,MR. LAVIN,start_answer
+28,143,12,20,Yes.,a,THE WITNESS,start_question
+29,144,12,21,Can you state your name for the record?,q,MR. LAVIN,start_answer
+30,146,12,23,It's Daniel Phillip Kowalewski.,a,THE WITNESS,start_question
+31,147,12,24,And have you ever been known by any other names?,q,MR. LAVIN,start_answer
+32,150,13,2,No.,a,THE WITNESS,start_question
+33,151,13,3,And can you state your date of birth?,q,MR. LAVIN,start_answer
+34,153,13,5,"February 20th, 1960.",a,THE WITNESS,start_question
+35,154,13,6,"I am going to ask you for your full Social Security Number, but request that the court reporter just put the last four digits on the record. What is your Social Security Number?",q,MR. LAVIN,start_answer
+36,160,13,12,XXX-XX-4329.,a,THE WITNESS,start_question
+37,161,13,13,And what is your current address?,q,MR. LAVIN,start_answer
+38,163,13,15,"1224 Creekside Lane, Quakertown, Pennsylvania  18951.",a,THE WITNESS,start_question
+39,165,13,17,How long have you resided at 1224 Creekside Lane?,q,MR. LAVIN,start_answer
+40,167,13,19,It's six years now.,a,THE WITNESS,start_question
+41,168,13,20,Who do you currently live with?,q,MR. LAVIN,start_answer
+42,169,13,21,Barry Chester.,a,THE WITNESS,start_question
+43,170,13,22,And who is Barry Chester?,q,MR. LAVIN,start_answer
+44,171,13,23,He's my partner.,a,THE WITNESS,start_question
+45,172,13,24,"And for the six years that you've lived at 1224 Creekside Lane, have you lived with Barry Chester?",q,MR. LAVIN,start_answer
+46,176,14,3,Yes.,a,THE WITNESS,start_question
+47,177,14,4,Are you married?,q,MR. LAVIN,start_answer
+48,178,14,5,No.,a,THE WITNESS,start_question
+49,179,14,6,Do you have any children?,q,MR. LAVIN,start_answer
+50,180,14,7,No.,a,THE WITNESS,start_question
+51,181,14,8,Have you ever been married?,q,MR. LAVIN,start_answer
+52,182,14,9,No.,a,THE WITNESS,start_question
+53,183,14,10,What is your highest level of education?,q,MR. LAVIN,start_answer
+54,185,14,12,I have a B.A. in Fine Arts from New York University.,a,THE WITNESS,start_question
+55,187,14,14,And when did you obtain that degree?,q,MR. LAVIN,start_answer
+56,189,14,16,1982.,a,THE WITNESS,start_question
+57,190,14,17,"As we sit here today, do you hold any licenses or certifications for employment?",q,MR. LAVIN,start_answer
+58,193,14,20,No.,a,THE WITNESS,start_question
+59,194,14,21,Are you currently employed?,q,MR. LAVIN,start_answer
+60,195,14,22,No.,a,THE WITNESS,start_question
+61,196,14,23,When was the last time you were employed?,q,MR. LAVIN,start_answer
+62,199,15,1,February of 2011.,a,THE WITNESS,start_question
+63,200,15,2,What were you doing back in February of 2011?,q,MR. LAVIN,start_answer
+64,202,15,4,"I was a staff accountant for Cancer Care, which is a non for profit in New York City.",a,THE WITNESS,start_question
+65,205,15,7,How long did you work there?,q,MR. LAVIN,start_answer
+66,206,15,8,11 years.,a,THE WITNESS,start_question
+67,207,15,9,Why did you stop working at Cancer Care?,q,MR. LAVIN,start_answer
+68,209,15,11,I went on disability.,a,THE WITNESS,start_question
+69,210,15,12,What disabilities do you have?,q,MR. LAVIN,start_answer
+70,211,15,13,It's my heart.  I have global cardiomyopathy.  That's how it's diagnosed.,a,THE WITNESS,start_question
+71,214,15,16,How long have you been diagnosed with the global cardiomyopathy?,q,MR. LAVIN,start_answer
+72,216,15,18,I would say since 2011.,a,THE WITNESS,start_question
+73,217,15,19,Was there some kind of triggering event for that?,q,MR. LAVIN,start_answer
+74,219,15,21,"No.  I had cardiac problems most of my life.  And at that point, I had had double valve replacement in 2005, and that helped get me through for the next six years.  But then I was unable to work after that.",a,THE WITNESS,start_question
+75,226,16,3,"Prior to the accident that we're here for today, what problems did you experience related to your global cardiomyopathy?",q,MR. LAVIN,start_answer
+76,230,16,7,"Just, sometimes, fatigue during -- later in the day.  You know, just tiredness.",a,THE WITNESS,start_question
+77,233,16,10,Any other problems that you relate to the global cardiomyopathy?,q,MR. LAVIN,start_answer
+78,235,16,12,No.,a,THE WITNESS,start_question
+79,236,16,13,"With the medications that you take, you're able to maintain --",q,MR. LAVIN,start_answer
+80,238,16,15,Yes.,a,THE WITNESS,start_question
+81,239,16,16,"All right.  Prior to the accident that we're here for today, have you ever been involved in another motor vehicle accident?",q,MR. LAVIN,start_answer
+82,243,16,20,No.  Never.,a,THE WITNESS,start_question
+83,244,16,21,"How about after the motor vehicle accident that we're here for today, have you been involved in any subsequent motor vehicle accident?",q,MR. LAVIN,start_answer
+84,249,17,1,No.,a,THE WITNESS,start_question
+85,250,17,2,Have you ever been injured at work?,q,MR. LAVIN,start_answer
+86,252,17,4,No.,a,THE WITNESS,start_question
+87,253,17,5,So you've never applied for Workers' Compensation benefits?,q,MR. LAVIN,start_answer
+88,255,17,7,No.,a,THE WITNESS,start_question
+89,256,17,8,You indicated that you applied for and received Social Security Disability back in 2011?,q,MR. LAVIN,start_answer
+90,259,17,11,Yes.,a,THE WITNESS,start_question
+91,260,17,12,Have you ever applied for Social Security Disability before that point?,q,MR. LAVIN,start_answer
+92,262,17,14,No.,a,THE WITNESS,start_question
+93,263,17,15,"All right.  Have you ever slipped, fell and injured yourself requiring medical treatment?",q,MR. LAVIN,start_answer
+94,266,17,18,No.,a,THE WITNESS,start_question
+95,267,17,19,"Have you ever had an object fall on you, injuring yourself and requiring medical treatment?",q,MR. LAVIN,start_answer
+96,270,17,22,No.,a,THE WITNESS,start_question
+97,271,17,23,Have you ever broken a bone?,q,MR. LAVIN,start_answer
+98,272,17,24,No.,a,THE WITNESS,start_question
+99,274,18,1,Have you ever torn a muscle?,q,MR. LAVIN,start_answer
+100,275,18,2,No.,a,THE WITNESS,start_question
+101,276,18,3,Have you ever had any types of surgery besides the valve replacement that we already talked about?,q,MR. LAVIN,start_answer
+102,279,18,6,"Yes.  I also had surgery on my aorta when I was 13 years old, and I also had back surgery, a laminectomy, in 2004.",a,THE WITNESS,start_question
+103,282,18,9,Okay.  What was the laminectomy for?,q,MR. LAVIN,start_answer
+104,284,18,11,"Back pain that I had, and they corrected it, 'cause I had a -- one herniated disc and one that was splintered, so they had to actually go in and remove that.",a,THE WITNESS,start_question
+105,289,18,16,And was that surgery successful?,q,MR. LAVIN,start_answer
+106,290,18,17,Yes.,a,THE WITNESS,start_question
+107,291,18,18,Did you have resolution of your back pain after the 2004 laminectomy?,q,MR. LAVIN,start_answer
+108,293,18,20,Yes.,a,THE WITNESS,start_question
+109,294,18,21,Do you remember how soon after the surgery you experienced relief?,q,MR. LAVIN,start_answer
+110,296,18,23,Immediately.,a,THE WITNESS,start_question
+111,297,18,24,Do you remember who performed the surgery?,q,MR. LAVIN,start_answer
+112,300,19,2,Yes.,a,THE WITNESS,start_question
+113,301,19,3,Who was it?,q,MR. LAVIN,start_answer
+114,302,19,4,"Andrew Casden, C-a-s-d-e-n. It was at Beth Israel Hospital.",a,THE WITNESS,start_question
+115,304,19,6,Was that in New Jersey or New York?,q,MR. LAVIN,start_answer
+116,306,19,8,In New York.,a,THE WITNESS,start_question
+117,307,19,9,"Any other surgeries besides the aorta surgery when you were 13, the laminectomy in 2004 and the valve replacement?",q,MR. LAVIN,start_answer
+118,311,19,13,"Well, recently, I had a pacemaker installed --",a,THE WITNESS,start_question
+119,313,19,15,When was that?,q,MR. LAVIN,start_answer
+120,314,19,16,-- implanted. March 6th of this year.,a,THE WITNESS,start_question
+121,316,19,18,And who installed the pacemaker?,q,MR. LAVIN,start_answer
+122,317,19,19,"That was Dr. James Sandberg, S-a-n-d-b-e-r-g.",a,THE WITNESS,start_question
+123,319,19,21,Have you ever treated with Dr. Sandberg before the accident that we're here for today?,q,MR. LAVIN,start_answer
+124,322,19,24,No.,a,THE WITNESS,start_question
+125,324,20,1,Who referred you to Dr. Sandberg?,q,MR. LAVIN,start_answer
+126,325,20,2,"My cardiologist, who is Dr. Norman Marcus.",a,THE WITNESS,start_question
+127,327,20,4,Is that at CCLPVG Cardiology?,q,MR. LAVIN,start_answer
+128,328,20,5,"I don't know.  I think it's Lehigh Valley, LVHN Cardiology.",a,THE WITNESS,start_question
+129,330,20,7,Okay.  I'm sorry.  What was that cardiologist's name again?,q,MR. LAVIN,start_answer
+130,332,20,9,"Norman Marcus, M-a-r-c-u-s.",a,THE WITNESS,start_question
+131,333,20,10,Thank you. Are you experiencing any problems related to the pacemaker installation?,q,MR. LAVIN,start_answer
+132,337,20,14,Not that I'm aware of right now.,a,THE WITNESS,start_question
+133,338,20,15,Did Dr. Marcus indicate why you needed the pacemaker?,q,MR. LAVIN,start_answer
+134,340,20,17,Because of the global myopathy. It's just something that will help the heartbeat more efficiently.,a,THE WITNESS,start_question
+135,343,20,20,"In the last ten years, besides any surgery-related incidents and related to this motor vehicle accident, have you had any reason to go to the emergency room?",q,MR. LAVIN,start_answer
+136,349,21,1,"Just -- well, the last time I was in the emergency room was -- I had an atrial fibrillation attack back in, I believe it was, April of 2017, that brought me to the emergency room.",a,THE WITNESS,start_question
+137,354,21,6,What happened in April of 2017 to lead to that?,q,MR. LAVIN,start_answer
+138,356,21,8,"I had seen the orthopedic doctor that was treating me for my shoulder, and he had given me a second dose of Depo Medrol, I think it's called; it's a steroid.  And that was around 5:30 in the evening, and then by twelve o'clock midnight, I started experiencing rapid heartbeat and, you know, pretty bad AFib. So, it wouldn't correct itself, so after half-hour, I went to the emergency room, and they had to cardio- -- chemically cardiovert me.",a,THE WITNESS,start_question
+139,368,21,20,Did you return to your previous state after going to the emergency room at that point?,q,MR. LAVIN,start_answer
+140,371,21,23,Yes.,a,THE WITNESS,start_question
+141,372,21,24,Did you ever experience additional cardiac issues that you relate to this accident?,q,MR. LAVIN,start_answer
+142,376,22,3,"Not after that, no.",a,THE WITNESS,start_question
+143,377,22,4,Are there any jobs that you were holding at the time of the accident that we haven't already talked about?,q,MR. LAVIN,start_answer
+144,380,22,7,No.,a,THE WITNESS,start_question
+145,381,22,8,So you're not claiming any wage loss related to this accident?,q,MR. LAVIN,start_answer
+146,383,22,10,"Oh, no.  No.",a,THE WITNESS,start_question
+147,384,22,11,"You had indicated that you have a Bachelor's Degree in Fine Arts, correct?",q,MR. LAVIN,start_answer
+148,386,22,13,Yes.,a,THE WITNESS,start_question
+149,387,22,14,And is there a particular medium that you focus in?,q,MR. LAVIN,start_answer
+150,389,22,16,It was in film.,a,THE WITNESS,start_question
+151,390,22,17,Do you continue to create films?,q,MR. LAVIN,start_answer
+152,391,22,18,No.  Not anymore.,a,THE WITNESS,start_question
+153,392,22,19,"All right.  I'm going to shift gears now and talk about the accident that we're here for today.  As has been indicated in the previous deposition that you were here for, the date of accident was December 30th of 2016.  Does that date sound accurate to you?",q,MR. LAVIN,start_answer
+154,400,23,2,That's correct.,a,THE WITNESS,start_question
+155,401,23,3,Do you remember what time the accident occurred?,q,MR. LAVIN,start_answer
+156,403,23,5,"It was, I would say, around 12- -- between 12:45 and 12:55.",a,THE WITNESS,start_question
+157,405,23,7,What was -- what were the weather conditions like that day?,q,MR. LAVIN,start_answer
+158,407,23,9,"It was a sunny cool day, but it was sunny and clear.",a,THE WITNESS,start_question
+159,409,23,11,Where were the traffic conditions like at the time of the accident?,q,MR. LAVIN,start_answer
+160,412,23,14,"It was kind of congested.  It was a Friday afternoon right before the New Year's weekend, so there was quite a bit of traffic.",a,THE WITNESS,start_question
+161,416,23,18,Did you have any plans for the New Year's weekend?,q,MR. LAVIN,start_answer
+162,418,23,20,Just staying home with the family.,a,THE WITNESS,start_question
+163,420,23,22,Where were you coming from?,q,MR. LAVIN,start_answer
+164,421,23,23,"I was coming from the Grocery Outlet, which is a grocery store in Quakertown.",a,THE WITNESS,start_question
+165,425,24,2,How long were you at the grocery outlet that day?,q,MR. LAVIN,start_answer
+166,427,24,4,Probably about 30 to 40 minutes.,a,THE WITNESS,start_question
+167,428,24,5,Okay.  And where were you headed to?,q,MR. LAVIN,start_answer
+168,430,24,7,Then I was headed home.,a,THE WITNESS,start_question
+169,431,24,8,Did you have to be there by a particular time?,q,MR. LAVIN,start_answer
+170,433,24,10,No.,a,THE WITNESS,start_question
+171,434,24,11,What road did this accident occur on?,q,MR. LAVIN,start_answer
+172,436,24,13,Route 309 South.,a,THE WITNESS,start_question
+173,437,24,14,Were you familiar with the location of the accident?,q,MR. LAVIN,start_answer
+174,439,24,16,Yes.,a,THE WITNESS,start_question
+175,440,24,17,How often do you travel through that area?,q,MR. LAVIN,start_answer
+176,442,24,19,"Oh, maybe three to four times a week on that particular road.",a,THE WITNESS,start_question
+177,444,24,21,And how long had you been on 309 before the impact occurred?,q,MR. LAVIN,start_answer
+178,446,24,23,Maybe a mile.  That's the distance from the Grocery Outlet to the site of the accident.,a,THE WITNESS,start_question
+179,450,25,2,Has your license ever been suspended?,q,MR. LAVIN,start_answer
+180,452,25,4,Never.,a,THE WITNESS,start_question
+181,453,25,5,Has your license ever been revoked?,q,MR. LAVIN,start_answer
+182,455,25,7,Never.,a,THE WITNESS,start_question
+183,456,25,8,Have you ever been convicted of a crime?,q,MR. LAVIN,start_answer
+184,458,25,10,Never.,a,THE WITNESS,start_question
+185,459,25,11,What type of vehicle were you operating on the date of the accident?,q,MR. LAVIN,start_answer
+186,461,25,13,It was a Nissan Versa.,a,THE WITNESS,start_question
+187,462,25,14,Were you the owner of that vehicle?,q,MR. LAVIN,start_answer
+188,464,25,16,Yes.,a,THE WITNESS,start_question
+189,465,25,17,Were there any mechanical problems with the Nissan Versa that you were aware of before the accident happened?,q,MR. LAVIN,start_answer
+190,468,25,20,No.,a,THE WITNESS,start_question
+191,469,25,21,"And 309 at the location of this impact, is it a one-way street or a two-way street?",q,MR. LAVIN,start_answer
+192,472,25,24,"Well, it's five lanes, two lanes in either direction, north and south, with a center median which can be used for turning.  Or it becomes -- yeah, a turning lane at the intersection.",a,THE WITNESS,start_question
+193,478,26,5,So the center median is actually a turning lane for both directions?,q,MR. LAVIN,start_answer
+194,480,26,7,Yes.,a,THE WITNESS,start_question
+195,481,26,8,Where were you when the impact occurred?,q,MR. LAVIN,start_answer
+196,483,26,10,I was in the left turning lane.,a,THE WITNESS,start_question
+197,484,26,11,Where were you intending to turn?,q,MR. LAVIN,start_answer
+198,485,26,12,"I was going to turn onto Station Road, make a left-hand turn onto Station Road, on the way to my residence.",a,THE WITNESS,start_question
+199,488,26,15,"Whenever you did travel down 309, would you normally make the turn on Station Road?",q,MR. LAVIN,start_answer
+200,491,26,18,Yes.,a,THE WITNESS,start_question
+201,492,26,19,"Okay.  So even if traffic conditions were sparse, you would turn down Station Road?",q,MR. LAVIN,start_answer
+202,495,26,22,"Yeah.  That's the easiest way to get there, most direct.",a,THE WITNESS,start_question
+203,497,26,24,Did you ever see the other vehicle involved in this accident before the impact occurred?,q,MR. LAVIN,start_answer
+204,501,27,3,No.,a,THE WITNESS,start_question
+205,502,27,4,Did you notice whether or not there was a gap in the traffic that was there?,q,MR. LAVIN,start_answer
+206,505,27,7,No.,a,THE WITNESS,start_question
+207,506,27,8,Can you estimate your speed at the time of impact?,q,MR. LAVIN,start_answer
+208,508,27,10,Probably about 35 miles an hour.,a,THE WITNESS,start_question
+209,509,27,11,How far away were you from your turn?,q,MR. LAVIN,start_answer
+210,511,27,13,Probably four to five car lengths.,a,THE WITNESS,start_question
+211,513,27,15,"And since you never saw the other vehicle, you can't estimate the speed of that vehicle, correct?",q,MR. LAVIN,start_answer
+212,516,27,18,No.  No.,a,THE WITNESS,start_question
+213,517,27,19,How many impacts did you feel?,q,MR. LAVIN,start_answer
+214,518,27,20,Just one.,a,THE WITNESS,start_question
+215,519,27,21,Can you describe the impact?,q,MR. LAVIN,start_answer
+216,520,27,22,"It was very sudden and very, uh -- very hard.  It set the airbag off in the car.",a,THE WITNESS,start_question
+217,524,28,1,Did you come in contact with the airbag?,q,MR. LAVIN,start_answer
+218,526,28,3,"Oh, yes.",a,THE WITNESS,start_question
+219,527,28,4,Did you have any problems related to the airbag deployment?,q,MR. LAVIN,start_answer
+220,529,28,6,"I just recall there being a powder of something in the air at the time, and I guess I hit the steering wheel when I went forward and to the right.",a,THE WITNESS,start_question
+221,533,28,10,"The front end of your vehicle was damaged, correct?",q,MR. LAVIN,start_answer
+222,535,28,12,"Oh, yes.",a,THE WITNESS,start_question
+223,536,28,13,Can you say what part of the other vehicle was damaged?,q,MR. LAVIN,start_answer
+224,538,28,15,"Yes.  It was the driver's side front, and probably from the front tire to the front of the car.  It didn't hit into his door.",a,THE WITNESS,start_question
+225,542,28,19,Was your vehicle totaled?,q,MR. LAVIN,start_answer
+226,543,28,20,Yes.,a,THE WITNESS,start_question
+227,544,28,21,Did you ever have a conversation with the driver of the other vehicle?,q,MR. LAVIN,start_answer
+228,546,28,23,No.,a,THE WITNESS,start_question
+229,547,28,24,Are you able to get out of your car at the scene?,q,MR. LAVIN,start_answer
+230,550,29,2,No.,a,THE WITNESS,start_question
+231,551,29,3,Did you try?,q,MR. LAVIN,start_answer
+232,552,29,4,Yeah.,a,THE WITNESS,start_question
+233,553,29,5,Okay.  Did you have any conversations at the scene of the accident?,q,MR. LAVIN,start_answer
+234,556,29,8,"Not with anyone but the police officer.  And as I find out now, there was a man there, and I didn't know who he was, who had come to me very soon after the accident occurred.  And he said that he -- he checked to see how I was, and he said that he had called the police.  And if I needed an ambulance, if I wanted an ambulance, he said that he would call that, too, and that was the only conversation I had with anybody other than the police when they arrived.  And my sister arrived afterwards 'cause I called her on the cell phone after about two or three minutes later.",a,THE WITNESS,start_question
+235,571,29,23,And what is your sister's name?,q,MR. LAVIN,start_answer
+236,572,29,24,Phyllis Kowalewski.,a,THE WITNESS,start_question
+237,574,30,1,Are there any witnesses to this accident that you're aware of?,q,MR. LAVIN,start_answer
+238,576,30,3,"No.  I mean, there were a lot of cars around.  I mean, I'm sure they saw it, but...",a,THE WITNESS,start_question
+239,579,30,6,How did you leave the scene of the accident?,q,MR. LAVIN,start_answer
+240,581,30,8,In an ambulance.,a,THE WITNESS,is brackets
+241,582,30,9,(Brief pause.),brackets,,symbols
+242,583,30,10,- - -,symbols,,start_question
+243,585,30,12,Did you have your seatbelt on?,q,MR. LAVIN,start_answer
+244,586,30,13,Yes.,a,THE WITNESS,start_question
+245,587,30,14,"Besides the airbags, did your body come into contact with anything else inside the vehicle?",q,MR. LAVIN,start_answer
+246,590,30,17,"No.  Other than the steering wheel, I guess.  That's it.",a,THE WITNESS,start_question
+247,592,30,19,What part of your body came into contact with the steering wheel?,q,MR. LAVIN,start_answer
+248,594,30,21,"I would say the whole chest area and something, maybe, from the from the seatbelt, because I was all black and blue in this area here (indicating).",a,THE WITNESS,start_question
+249,599,31,1,Okay.  So you're indicating your right rib area?,q,MR. LAVIN,start_answer
+250,601,31,3,"Yes, my right rib area.",a,THE WITNESS,start_question
+251,602,31,4,Were you experiencing pain at the scene?,q,MR. LAVIN,start_answer
+252,604,31,6,Yes.,a,THE WITNESS,start_question
+253,605,31,7,Where were you experiencing pain at that point?,q,MR. LAVIN,start_answer
+254,607,31,9,All throughout the whole chest area.,a,THE WITNESS,start_question
+255,609,31,11,Did you have pain anywhere else at the scene of the accident?,q,MR. LAVIN,start_answer
+256,611,31,13,No.  It was just in the chest area.,a,THE WITNESS,start_question
+257,613,31,15,So what hospital were you taken to?,q,MR. LAVIN,start_answer
+258,615,31,17,Saint Luke's Quakertown.,a,THE WITNESS,start_question
+259,616,31,18,Had you ever been there before?,q,MR. LAVIN,start_answer
+260,617,31,19,No.  No.,a,THE WITNESS,start_question
+261,618,31,20,And what did they do for you?,q,MR. LAVIN,start_answer
+262,619,31,21,"Well, they brought me to the ER. They took X-rays.  They took blood work, blood pressure, just checked the vital signs.",a,THE WITNESS,start_question
+263,624,32,1,Did you get any testing done that day?  You said X-rays?,q,MR. LAVIN,start_answer
+264,626,32,3,X-rays.  Just X-rays.,a,THE WITNESS,start_question
+265,627,32,4,Do you know what body part you had X-rayed?,q,MR. LAVIN,start_answer
+266,629,32,6,"Yes.  It was my chest, the chest, the front and the right side.",a,THE WITNESS,start_question
+267,631,32,8,Are there any other tests that you are getting in the hospital that day?,q,MR. LAVIN,start_answer
+268,633,32,10,Nothing other than blood work. No.,a,THE WITNESS,start_question
+269,635,32,12,Were you released that day?,q,MR. LAVIN,start_answer
+270,636,32,13,Yes.,a,THE WITNESS,start_question
+271,637,32,14,And where did you go at that point?,q,MR. LAVIN,start_answer
+272,639,32,16,Home.,a,THE WITNESS,start_question
+273,640,32,17,"When you got home, were you experiencing pain?",q,MR. LAVIN,start_answer
+274,642,32,19,"Oh, yes.",a,THE WITNESS,start_question
+275,643,32,20,Where were you experiencing pain at that point?,q,MR. LAVIN,start_answer
+276,645,32,22,In the chest and the side area.,a,THE WITNESS,start_question
+277,646,32,23,When was the next time you sought medical treatment?,q,MR. LAVIN,start_answer
+278,649,33,1,"It was that Tuesday, I believe, after the accident.",a,THE WITNESS,start_question
+279,651,33,3,Where did you go at that point?,q,MR. LAVIN,start_answer
+280,652,33,4,I went to see my GP.,a,THE WITNESS,start_question
+281,653,33,5,And that's Quakertown Family Practice?,q,MR. LAVIN,start_answer
+282,655,33,7,Yes.,a,THE WITNESS,start_question
+283,656,33,8,And where were you experiencing pain at that point?,q,MR. LAVIN,start_answer
+284,658,33,10,"Still in that same area, throughout my chest area and my side.  And, you know, by that time, I was all bruised very, you know, badly.  Very black and blue, and green and orange.",a,THE WITNESS,start_question
+285,663,33,15,Is Quakertown Family Practice and Grandview Health the same facility?,q,MR. LAVIN,start_answer
+286,665,33,17,I believe they're within the same area.  They both share a building there.  I think it's 99 North West --,a,THE WITNESS,start_question
+287,668,33,20,Is there a difference in terms of who you treat with there?,q,MR. LAVIN,start_answer
+288,670,33,22,I don't understand.,a,THE WITNESS,start_question
+289,671,33,23,"So they share a building, but are they separate practices, the Quakertown Family Practice and Grandview Health?",q,MR. LAVIN,start_answer
+290,675,34,2,"Yes, they are.  They're separate.",a,THE WITNESS,start_question
+291,676,34,3,Okay.  So do you consider them both your primary doctor?,q,MR. LAVIN,start_answer
+292,678,34,5,"I would think that -- I'm not sure what they actually are called, Dr. Vasta, what he belongs to.",a,THE WITNESS,start_question
+293,681,34,8,Okay.,q,MR. LAVIN,start_answer
+294,682,34,9,"I think it's Grandview.  I don't know if it's called Quakertown Family Practice, but I know he's affiliated with Grandview Hospital.",a,THE WITNESS,start_question
+295,686,34,13,Okay.  How many times did you go to see your primary care doctor related to this accident?,q,MR. LAVIN,start_answer
+296,689,34,16,I would say at least three times before I actually went to see the orthopedic doctor.,a,THE WITNESS,start_question
+297,692,34,19,"And what did your primary care doctor do for you, if anything?",q,MR. LAVIN,start_answer
+298,694,34,21,"The primary care doctor, the first time on the 3rd, examined me, went through the whole thing just to see why I was in pain in the rib on the right side and to the chest.  They were afraid that there might have been some break or damage, so they sent me for an MRI -- not an MRI, a CAT scan that afternoon, so I had a CAT scan that same afternoon.",a,THE WITNESS,start_question
+299,704,35,6,Did you ever follow-up with your primary to discuss the results of the CAT scan?,q,MR. LAVIN,start_answer
+300,707,35,9,Yes.,a,THE WITNESS,start_question
+301,708,35,10,What's your understanding of the results?,q,MR. LAVIN,start_answer
+302,710,35,12,"They said that there was no internal damage that they saw or any internal injuries, and the ribs are just bruised.",a,THE WITNESS,start_question
+303,714,35,16,And then did you follow up again with your primary care doctor?,q,MR. LAVIN,start_answer
+304,716,35,18,"Oh, yes.",a,THE WITNESS,start_question
+305,717,35,19,Do you remember why?,q,MR. LAVIN,start_answer
+306,718,35,20,"'Cause I was still experiencing pain.  And at that point, what they had done was they had prescribed some NSAIDs and Tylenol for the pain, but I really don't like taking the NSAIDs because of my, you know, heart and the reaction that it could have with the other medications. But I alternated that for a few weeks, and the pain was still there, so I went back at the end of the month, I believe, and told him that I was still having a lot of pain.  And at that point, it was really not only in the chest area, which was getting a little better, but mostly in the neck and shoulder area.",a,THE WITNESS,start_question
+307,734,36,11,"All right.  And the third time that you went to see your primary doctor, do you remember why that was?",q,MR. LAVIN,start_answer
+308,737,36,14,"Because he had prescribed that I go for therapy after that time at the end of January, and I did go for physical therapy, maybe five or six sessions.  And they believed that it really wasn't helping me at that point, and they suggested that maybe I should see an orthopedic doctor. So I went back to my regular physician, and I believe he gave me a referral for the orthopedic doctor.",a,THE WITNESS,start_question
+309,747,36,24,"All right.  So after going to your primary care doctor, you go to NovaCare Rehabilitation?",q,MR. LAVIN,start_answer
+310,751,37,3,Yes.,a,THE WITNESS,start_question
+311,752,37,4,At Grandview Hospital?,q,MR. LAVIN,start_answer
+312,753,37,5,That's right.,a,THE WITNESS,start_question
+313,754,37,6,And that was at the referral of your primary doctor?,q,MR. LAVIN,start_answer
+314,756,37,8,Yes.,a,THE WITNESS,start_question
+315,757,37,9,"And as you indicated, you treated there approximately five or six times?",q,MR. LAVIN,start_answer
+316,760,37,12,Yes.,a,THE WITNESS,start_question
+317,761,37,13,Into February of 2017?,q,MR. LAVIN,start_answer
+318,762,37,14,Yes.,a,THE WITNESS,start_question
+319,763,37,15,But did you feel that the treatment there helped at all?,q,MR. LAVIN,start_answer
+320,765,37,17,No.,a,THE WITNESS,start_question
+321,766,37,18,And that's why you stopped going there?,q,MR. LAVIN,start_answer
+322,768,37,20,Yes.,a,THE WITNESS,start_question
+323,769,37,21,Then you went back to your primary care doctor?,q,MR. LAVIN,start_answer
+324,771,37,23,"Well, the therapist there said that they think that maybe I should see my primary care doctor and see an orthopedic doctor, because they said that, you know, with all the repetitions and all the exercises that I was doing, I should be feeling better.",a,THE WITNESS,start_question
+325,779,38,6,Okay.  And then at that point is when you went to Upper Bucks Orthopedics?,q,MR. LAVIN,start_answer
+326,781,38,8,Correct.,a,THE WITNESS,start_question
+327,782,38,9,And how many times did you go there total?,q,MR. LAVIN,start_answer
+328,784,38,11,Four or five times.  I'm not really sure.,a,THE WITNESS,start_question
+329,786,38,13,What did they do for you?,q,MR. LAVIN,start_answer
+330,787,38,14,"An examination of that whole area where my neck and chest -- I mean, my neck and shoulder.  Made me you know, try to lift my arm up, extend it, go to the front, to the back, to the side, just to see what kind of range of motion I had. Turning my neck to the right and to the left.",a,THE WITNESS,start_question
+331,795,38,22,"So every time that you went there, was it, essentially, an examination and a conversation with the orthopedic surgeon?",q,MR. LAVIN,start_answer
+332,800,39,2,Yes.,a,THE WITNESS,start_question
+333,801,39,3,Did he ever refer you for diagnostic testing?,q,MR. LAVIN,start_answer
+334,803,39,5,Yes.  Yes.,a,THE WITNESS,start_question
+335,804,39,6,Do you know what type of diagnostic testing it was?,q,MR. LAVIN,start_answer
+336,806,39,8,Yes.  I had an MRI.,a,THE WITNESS,start_question
+337,807,39,9,Of what body part?,q,MR. LAVIN,start_answer
+338,808,39,10,"Of the right shoulder and the neck, I would assume.",a,THE WITNESS,start_question
+339,810,39,12,All right.  And did he ever share the results of those tests with you? What is your understanding of those results?,q,MR. LAVIN,start_answer
+340,814,39,16,"What I understand -- this was the first thing he said that he saw in the shoulder, that there might be some sort of an inflammation in the area where the shoulder meets the rotator cuff or something.  He says there might be an area there that's inflamed, and I believe that's why he gave me another shot of the Depo Medrol, to help relieve that, and thinking that the steroid shots might help.  And --",a,THE WITNESS,start_question
+341,825,40,2,"Now, with regard to the Depo Medrol, you indicated that you got another shot.  Had you had a shot of that before?",q,MR. LAVIN,start_answer
+342,829,40,6,Yes.  I had that.  I believe at the first meeting with him he gave me that.,a,THE WITNESS,start_question
+343,832,40,9,"All right.  And after the first shot, did you have any adverse effect from the first shot?",q,MR. LAVIN,start_answer
+344,835,40,12,No.,a,THE WITNESS,start_question
+345,836,40,13,"But the second time you got one, there were adverse effects?",q,MR. LAVIN,start_answer
+346,838,40,15,Yes.,a,THE WITNESS,start_question
+347,839,40,16,And has any medical provider indicated why there was a difference?,q,MR. LAVIN,start_answer
+348,841,40,18,"Well, it could be that I might have had too much of that steroid, you know, whatever the medication is.  It's a steroidal medication that might have triggered the AFib episode.",a,THE WITNESS,start_question
+349,846,40,23,Did you ever consult with your cardiologist before getting the injection?,q,MR. LAVIN,start_answer
+350,850,41,2,No.,a,THE WITNESS,start_question
+351,851,41,3,Did you consider it?,q,MR. LAVIN,start_answer
+352,852,41,4,No.,a,THE WITNESS,start_question
+353,853,41,5,"So after the second epidural or -- I'm sorry, the second injection, you then went -- you said that was at around 5:30, and then around midnight, you went to the hospital?",q,MR. LAVIN,start_answer
+354,858,41,10,Correct.,a,THE WITNESS,start_question
+355,859,41,11,And then you were discharged that day after having some testing done?,q,MR. LAVIN,start_answer
+356,861,41,13,Yes.,a,THE WITNESS,start_question
+357,862,41,14,They had to actually chemically --,q,MR. LAVIN,start_answer
+358,863,41,15,"Chemically cardiovert me, and then they released me around 4:00 in the morning.",a,THE WITNESS,start_question
+359,866,41,18,"All right.  Then after that, did you go to your cardiologist?",q,MR. LAVIN,start_answer
+360,868,41,20,Yes.,a,THE WITNESS,start_question
+361,869,41,21,Okay.  And what did your cardiologist say to you?,q,MR. LAVIN,start_answer
+362,871,41,23,"Well, he did the cardiogram to check if everything was okay, and there might have been a possibility that that could have precipitated the onset of the AFib.",a,THE WITNESS,start_question
+363,877,42,4,Okay.  So did you say that it was also possible that there could have been another reason that the AFib occurred that night?,q,MR. LAVIN,start_answer
+364,881,42,8,No.  No 'cause I haven't had an incident of that since prior to my valve surgery.,a,THE WITNESS,start_question
+365,884,42,11,I have one question that kind of goes back in time with my questions.  Have you ever been involved in any other litigation besides the case that we're here for today?,q,MR. LAVIN,start_answer
+366,889,42,16,No.,a,THE WITNESS,start_question
+367,890,42,17,Are there any other doctors that you treated with related to the motor vehicle accident that we're here for today that we haven't already talked about?,q,MR. LAVIN,start_answer
+368,894,42,21,Dr. DiBenedetto.,a,THE WITNESS,start_question
+369,895,42,22,And what type of doctor is he?,q,MR. LAVIN,start_answer
+370,896,42,23,He's also an orthopedic.,a,THE WITNESS,start_question
+371,897,42,24,And is he at Lehigh Valley Physicians?,q,MR. LAVIN,start_answer
+372,900,43,2,Yes.,a,THE WITNESS,start_question
+373,901,43,3,And who referred you to Dr. DiBenedetto?,q,MR. LAVIN,start_answer
+374,903,43,5,"I just referred to him myself because I wanted to get another opinion on the -- on my shoulder and my neck, you know, the pain.",a,THE WITNESS,start_question
+375,907,43,9,And how did you find Dr. DiBenedetto?,q,MR. LAVIN,start_answer
+376,909,43,11,"Well, he works in the same area where my -- where I have my cardiologist, so I know that Lehigh Valley Health is very reputable.",a,THE WITNESS,start_question
+377,913,43,15,How many times did you go to see Dr. DiBenedetto?,q,MR. LAVIN,start_answer
+378,915,43,17,I saw him twice.,a,THE WITNESS,start_question
+379,916,43,18,Is it DiBenedetto?,q,MR. LAVIN,start_answer
+380,917,43,19,Yeah.  I think it's DiBenedetto.,a,THE WITNESS,start_question
+381,918,43,20,So you saw him twice?,q,MR. LAVIN,start_answer
+382,919,43,21,Yes.,a,THE WITNESS,start_question
+383,920,43,22,And what did he do for you?,q,MR. LAVIN,start_answer
+384,921,43,23,"Well, the first time I saw him, he reviewed the MRI from Dr. Hurley previously from the year before, and he saw the same thing.  He said that it probably is adhesive capsulitis and -- which is basically frozen shoulder, and he decided that I should go for different therapy specifically for that.",a,THE WITNESS,start_question
+385,930,44,7,Did you ever go to that therapy?,q,MR. LAVIN,start_answer
+386,931,44,8,Yes.,a,THE WITNESS,start_question
+387,932,44,9,Where was that?,q,MR. LAVIN,start_answer
+388,933,44,10,"That was at Lehigh Valley Therapeutic.  I'm not sure.  It's in the same building in Quakertown where my -- where Dr. Vasta is, my --",a,THE WITNESS,start_question
+389,937,44,14,Where is that; do you know what road?,q,MR. LAVIN,start_answer
+390,939,44,16,I think it's 99 North West End Boulevard.,a,THE WITNESS,start_question
+391,941,44,18,In Quakertown?,q,MR. LAVIN,start_answer
+392,942,44,19,In Quakertown.,a,THE WITNESS,start_question
+393,943,44,20,How long did you go to Lehigh Valley Therapeutic for?,q,MR. LAVIN,start_answer
+394,945,44,22,I'd say maybe five weeks.,a,THE WITNESS,start_question
+395,946,44,23,What did they do for you there?,q,MR. LAVIN,start_answer
+396,947,44,24,"Intensive maneuvers with the -- on the arm and shoulder, the right arm and shoulder; a lot of, you know, repetition. And they gave me exercises to do at home.",a,THE WITNESS,start_question
+397,952,45,4,Did treatment there help?,q,MR. LAVIN,start_answer
+398,953,45,5,Yes.,a,THE WITNESS,start_question
+399,954,45,6,What is your understanding of the frozen shoulder?,q,MR. LAVIN,start_answer
+400,956,45,8,"I know that there's a period when it occurs that the pain seems to persist during what they call a thawing period, and I think that's the period that they explained to me, that I was in the thawing period at the time that I was having this pain.",a,THE WITNESS,start_question
+401,963,45,15,All right.  Any other medical providers you treated with related to this accident that we haven't already talked about?,q,MR. LAVIN,start_answer
+402,967,45,19,No.,a,THE WITNESS,start_question
+403,968,45,20,"All right.  So just generally, so I have an understanding, you go to the emergency room, then your primary care doctor.  Then you went to physical therapy. It didn't help, so you went back to your primary care doctor who referred you to an orthopedic surgeon, who you treated with until you got the second injection.  Then you went back to the emergency room.  Then you went to a different orthopedic doctor who then referred you for five weeks of physical therapy?",q,MR. LAVIN,start_answer
+404,981,46,8,Correct.  That's true.,a,THE WITNESS,start_question
+405,982,46,9,"Okay.  Any other diagnostic testing that you got done that we haven't already talked about, besides the X-rays in the emergency room, the CAT scan at the recommendation of your primary care doctor, and the MRI recommended by the orthopedic surgeon?",q,MR. LAVIN,start_answer
+406,989,46,16,No.,a,THE WITNESS,start_question
+407,990,46,17,There was an X-ray in March of 2017.  Did you get an X-ray of your chest when you went to the hospital after the second shot?,q,MR. LAVIN,start_answer
+408,994,46,21,I don't recall.,a,THE WITNESS,start_question
+409,995,46,22,Okay.,q,MR. LAVIN,start_answer
+410,996,46,23,I would think that I had an X-ray done by the orthopedic doctor prior to having an MRI.,a,THE WITNESS,start_question
+411,1000,47,2,Okay.,q,MR. LAVIN,start_answer
+412,1001,47,3,"Because initially I had it at the emergency room, and I know I had another X-ray somewhere along the line having to do with the first orthopedic doctor.",a,THE WITNESS,start_question
+413,1005,47,7,Okay.  Is it true that the first orthopedic doctor that you saw you stopped going to after the adverse reaction?,q,MR. LAVIN,start_answer
+414,1008,47,10,After the adverse reaction and the fact that he thought that maybe surgery was an option for me.,a,THE WITNESS,start_question
+415,1011,47,13,"Okay.  So between Upper Bucks Orthopedic Associates and going to Lehigh Valley Physician Group, there was a year delay?",q,MR. LAVIN,start_answer
+416,1015,47,17,Yes.,a,THE WITNESS,start_question
+417,1016,47,18,Why did you wait a year before seeking additional medical treatment?,q,MR. LAVIN,start_answer
+418,1018,47,20,"Because I was just waiting for, maybe, it to start feeling better, and it never got any better.",a,THE WITNESS,start_question
+419,1021,47,23,"And when you say ""it,"" what are you referring to?",q,MR. LAVIN,start_answer
+420,1024,48,1,"The pain in my shoulder and arm, and the limited range of motion.",a,THE WITNESS,start_question
+421,1026,48,3,Have you sought any medical treatment since May of 2018?,q,MR. LAVIN,start_chat
+422,1028,48,5,Related to the accident?,side_chat,MR. HESS,start_chat
+423,1030,48,7,Related to the motor vehicle accident that we're here for today.,side_chat,MR. LAVIN,start_chat
+424,1033,48,10,No.,side_chat,THE WITNESS,start_question
+425,1035,48,12,"As we sit here today, do you have any appointments to treat with anybody related to this accident?",q,MR. LAVIN,start_answer
+426,1038,48,15,"Not to this accident, no.",a,THE WITNESS,start_question
+427,1039,48,16,You had indicated that the first orthopedic surgeon had recommended surgery of some sort?,q,MR. LAVIN,start_answer
+428,1042,48,19,Yes.,a,THE WITNESS,start_question
+429,1043,48,20,Has any other doctor recommended surgery?,q,MR. LAVIN,start_answer
+430,1045,48,22,No.,a,THE WITNESS,start_question
+431,1046,48,23,"Besides the injections that we already talked about, did you have any recommendations for additional injections?",q,MR. LAVIN,start_answer
+432,1051,49,3,No.,a,THE WITNESS,start_question
+433,1052,49,4,Do you have any intention to make an appointment to treat for injuries related to this accident?,q,MR. LAVIN,start_answer
+434,1055,49,7,No.,a,THE WITNESS,start_question
+435,1056,49,8,"I have a note that Dr. Emanuel Shiowitz, S-h-i-o-w-i-t-z, was your primary care doctor in Brooklyn?",q,MR. LAVIN,start_answer
+436,1059,49,11,Yes.,a,THE WITNESS,start_question
+437,1060,49,12,"And you stopped seeing him in 2011, correct?",q,MR. LAVIN,start_answer
+438,1062,49,14,"Yes.  When I moved here -- oh, no. No, not 2011.  I moved here in 2013, so I saw him up until 2013.",a,THE WITNESS,start_question
+439,1065,49,17,"Okay.  And your current primary doctor, his name is what again?",q,MR. LAVIN,start_answer
+440,1067,49,19,Alfred Vasta.,a,THE WITNESS,start_question
+441,1068,49,20,"Prior to going to the emergency room the second time after getting a shot, had you ever gone to see your cardiologist related to this accident?",q,MR. LAVIN,start_answer
+442,1072,49,24,Yes.,a,THE WITNESS,start_question
+443,1074,50,1,Okay.  And when was that?,q,MR. LAVIN,start_answer
+444,1075,50,2,"It was probably soon after.  In January, I know I had to see a PA just to make sure that there wasn't any damage. They wanted to see me right away, and I know they did a cardiogram.  And they checked me for that.",a,THE WITNESS,start_question
+445,1081,50,8,Was that after getting the injection with the adverse reaction?,q,MR. LAVIN,start_answer
+446,1083,50,10,"Oh, no.  This was in January right after the accident, because I wouldn't let that go.",a,THE WITNESS,start_question
+447,1086,50,13,"Okay.  In terms of health insurance, you receive Medicare benefits, correct?",q,MR. LAVIN,start_answer
+448,1089,50,16,Yes.,a,THE WITNESS,start_question
+449,1090,50,17,And you are also an AARP recipient?,q,MR. LAVIN,start_answer
+450,1092,50,19,Yes.,a,THE WITNESS,start_question
+451,1093,50,20,Do you have any other form of health insurance?,q,MR. LAVIN,start_answer
+452,1095,50,22,No.  That's it.,a,THE WITNESS,start_question
+453,1096,50,23,So I want to go through each body part.  You had indicated that you injured your neck and right shoulder in this accident?,q,MR. LAVIN,start_answer
+454,1101,51,3,Yes.,a,THE WITNESS,start_question
+455,1102,51,4,Did you injure any other body part other than the chest and the right rib cage area?,q,MR. LAVIN,start_answer
+456,1105,51,7,No.,a,THE WITNESS,start_question
+457,1106,51,8,"Okay.  With regard to the chest, do you still experience pain that you relate to this accident in your chest?",q,MR. LAVIN,start_answer
+458,1109,51,11,No.,a,THE WITNESS,start_question
+459,1110,51,12,How long did that take for that pain to resolve?,q,MR. LAVIN,start_answer
+460,1112,51,14,About a month.,a,THE WITNESS,start_question
+461,1113,51,15,And a month later did you still have the bruising there?,q,MR. LAVIN,start_answer
+462,1115,51,17,"It was fading, but it was still -- yeah.  It was still a bit evident.",a,THE WITNESS,start_question
+463,1117,51,19,"All right.  And with regard to the right rib cage, do you continue to experience pain in your right rib cage?",q,MR. LAVIN,start_answer
+464,1120,51,22,No.,a,THE WITNESS,start_question
+465,1121,51,23,How long did it take for the right rib cage pain to resolve?,q,MR. LAVIN,start_answer
+466,1124,52,1,About the same time.  About a month.,a,THE WITNESS,start_question
+467,1126,52,3,All right.  Had you ever had neck pain before this accident?,q,MR. LAVIN,start_answer
+468,1128,52,5,No.,a,THE WITNESS,start_question
+469,1129,52,6,How often do you experience neck pain now?,q,MR. LAVIN,start_answer
+470,1131,52,8,Rarely.  Not that I could say that it bothers me now in the neck.,a,THE WITNESS,start_question
+471,1133,52,10,"Okay.  So, now when you get neck pain, is it unrelated to this accident?",q,MR. LAVIN,start_answer
+472,1135,52,12,I would think so.,a,THE WITNESS,start_question
+473,1136,52,13,How long did it take for the neck pain to resolve?,q,MR. LAVIN,start_answer
+474,1138,52,15,"Ugh.  That took -- that took about three to four months for the neck pain, that I was able to turn my neck to the right side and be comfortable.  Yeah, about four months.",a,THE WITNESS,start_question
+475,1143,52,20,"When you did experience neck pain, can you describe what it felt like?",q,MR. LAVIN,start_answer
+476,1145,52,22,"It was a sharp -- it's like a stabbing pain every time I turned to the right, and it went down into the back, the shoulder blade area.",a,THE WITNESS,start_question
+477,1150,53,2,Did you ever experience neck pain after this accident related to this accident when you turned your head to the left?,q,MR. LAVIN,start_answer
+478,1154,53,6,"To the left after the accident? At the beginning, yes.  There was -- when I turned either way, it hurt.",a,THE WITNESS,start_question
+479,1157,53,9,All right.  But the neck pain did resolve about three to four month after this accident?,q,MR. LAVIN,start_answer
+480,1160,53,12,Yes.  Yes.,a,THE WITNESS,start_question
+481,1161,53,13,"Now, the right shoulder pain, had you ever had right shoulder pain before this accident?",q,MR. LAVIN,start_answer
+482,1164,53,16,No.  Never.,a,THE WITNESS,start_question
+483,1165,53,17,Do you continue to experience right shoulder pain that you relate to this accident?,q,MR. LAVIN,start_answer
+484,1168,53,20,"Only when I do some lateral movement with my arm, raising my arm.",a,THE WITNESS,start_question
+485,1170,53,22,Okay.  And where on your body is the pain that you experience when you do the lateral movement?,q,MR. LAVIN,start_answer
+486,1174,54,1,It's right in the -- right in the shoulder area.,a,THE WITNESS,start_question
+487,1176,54,3,Okay.  Like right in the joint (indicating)?,q,MR. LAVIN,start_answer
+488,1178,54,5,Yeah.  Yeah.  I would say in the joint.,a,THE WITNESS,start_question
+489,1180,54,7,Can you describe what that feels like when you do experience pain?,q,MR. LAVIN,start_answer
+490,1182,54,9,"It's a sharp shooting pain, stabbing pain if I go to high up with it.",a,THE WITNESS,start_question
+491,1184,54,11,Does that pain radiate anywhere else in your body?  Does it go down in your fingers or down your arm?,q,MR. LAVIN,start_answer
+492,1187,54,14,No.,a,THE WITNESS,start_question
+493,1188,54,15,How often do you experience that pain?,q,MR. LAVIN,start_answer
+494,1190,54,17,Just about every time I forget and try to lift my arm up above my shoulder.,a,THE WITNESS,start_question
+495,1193,54,20,Okay.  And can you approximate how many times in the last 30 days that occurred?,q,MR. LAVIN,start_answer
+496,1196,54,23,"Oh, maybe two or three times.  If I'm reaching for something behind me and all, that would do it.",a,THE WITNESS,start_question
+497,1200,55,2,"So you indicated that when you are reaching, you experience the pain?",q,MR. LAVIN,start_answer
+498,1202,55,4,Yes.,a,THE WITNESS,start_question
+499,1203,55,5,"When you release your arm, does the pain go away?",q,MR. LAVIN,start_answer
+500,1205,55,7,Yes.,a,THE WITNESS,start_question
+501,1206,55,8,"Okay.  Can you rate the pain when you do experience it on a scale of one to ten, ten being the worst pain you can ever imagine?",q,MR. LAVIN,start_answer
+502,1210,55,12,Maybe about a five or six.  That's it.,a,THE WITNESS,start_question
+503,1212,55,14,"All right.  So we talked about your neck.  We talked about your right shoulder, the chest and right rib cage. Are there any other body parts you injured in this accident?",q,MR. LAVIN,start_answer
+504,1217,55,19,No.,a,THE WITNESS,start_question
+505,1218,55,20,"All right.  At any point, were your sleep habits affected by this accident?",q,MR. LAVIN,start_answer
+506,1221,55,23,"At the beginning, it was just very uncomfortable in bed, you know.  Whenever I would turn and all, I would get pain, but that only lasted for, you know, a couple of months.",a,THE WITNESS,start_question
+507,1227,56,4,Were you able to bathe yourself without any problems?,q,MR. LAVIN,start_answer
+508,1229,56,6,"Oh, yes.",a,THE WITNESS,start_question
+509,1230,56,7,Are you able to dress yourself without any problems?,q,MR. LAVIN,start_answer
+510,1232,56,9,Yes.,a,THE WITNESS,start_question
+511,1233,56,10,Were there any household chores that are more difficult after this accident?,q,MR. LAVIN,start_answer
+512,1236,56,13,"Well, any reaching for, you know, anything.  If I had something on an upper shelf, if I tried to reach for it, I would have to only use my left arm.  I couldn't reach up anywhere above my shoulder at that point.  You see, now I could do that, but at that point up until May of 2017 -- 2018, 2018, I couldn't do that.",a,THE WITNESS,start_question
+513,1244,56,21,All right.  Are you responsible for outdoor maintenance at your home?,q,MR. LAVIN,start_answer
+514,1246,56,23,No.,a,THE WITNESS,start_question
+515,1247,56,24,Who is responsible for it?,q,MR. LAVIN,start_answer
+516,1249,57,1,"Well, we have a landscaper who does that, and any, you know, work that I have to do outside, we have somebody help.",a,THE WITNESS,start_question
+517,1253,57,5,And did you do that before this accident?,q,MR. LAVIN,start_answer
+518,1255,57,7,"Oh, yeah.  I was able to do a lot more, and I was able to paint and do things that --",a,THE WITNESS,start_question
+519,1258,57,10,"Well, in particular, with regard to outdoor maintenance and the landscaper, did you have one before the accident?",q,MR. LAVIN,start_answer
+520,1261,57,13,"Oh, yeah.  We had a landscaper since we moved in.  That's part of the --",a,THE WITNESS,start_question
+521,1263,57,15,"Now, you said you were doing art. Did you stop doing art after this accident?",q,MR. LAVIN,start_answer
+522,1266,57,18,"No.  I didn't say ""art.""",a,THE WITNESS,start_question
+523,1267,57,19,"Oh, I'm sorry.  What did you say?",q,MR. LAVIN,start_answer
+524,1269,57,21,(Laughter.),a,THE WITNESS,start_question
+525,1270,57,22,What is it that you said you would do?,q,MR. LAVIN,start_answer
+526,1272,57,24,Painting.,a,THE WITNESS,start_question
+527,1274,58,1,Painting?,q,MR. LAVIN,start_answer
+528,1275,58,2,Physically paint the wall or something --,a,THE WITNESS,start_question
+529,1277,58,4,Oh.,q,MR. LAVIN,start_answer
+530,1278,58,5,"-- you know, to paint the closet.",a,THE WITNESS,start_question
+531,1279,58,6,Okay.  And that aggravates your --,q,MR. LAVIN,start_answer
+532,1280,58,7,"Oh, yeah.",a,THE WITNESS,start_question
+533,1281,58,8,-- shoulder?,q,MR. LAVIN,start_answer
+534,1282,58,9,Yeah.,a,THE WITNESS,start_question
+535,1283,58,10,Is there anything you're unable to do now?,q,MR. LAVIN,start_answer
+536,1285,58,12,"At this point, the only thing that I'll really unable to do regarding the shoulder is to move it laterally on the right side.  I can't, like, reach for things if I tried this (indicating) or went backwards with it, but I could move it forward and back that way, which I -- I wasn't able to do before the physical therapy I had.",a,THE WITNESS,start_question
+537,1294,58,21,Did the injuries you sustained in this accident affect your personal relationships at all?,q,MR. LAVIN,start_answer
+538,1297,58,24,No.,a,THE WITNESS,start_question
+539,1299,59,1,Are there any other ways that your life was affected by this accident that we haven't talked about today?,q,MR. LAVIN,start_answer
+540,1302,59,4,"No, other than, you know, the pain and discomfort that I had.  That's it.",a,THE WITNESS,start_question
+541,1304,59,6,"All right.  So, essentially, besides the pain and discomfort that you experience, your life continued on as normal; is that fair to say?",q,MR. LAVIN,start_chat
+542,1308,59,10,"What, now or before?",side_chat,MR. HESS,start_chat
+543,1310,59,12,As of May of 2018.,side_chat,MR. LAVIN,start_chat
+544,1312,59,14,"Yeah.  I would say the only problem I have now is driving on 309. It's like more of -- I'm always afraid of watching out for somebody jetting out of a driveway or something, so I try to avoid 309.",side_chat,THE WITNESS,start_chat
+545,1320,59,22,I have no further questions.  Thank you.,side_chat,MR. LAVIN,start_chat
+546,1322,59,24,I have several questions.,side_chat,MR. HESS,symbols
+547,1325,60,2,- - - EXAMINATION,symbols,,symbols
+548,1327,60,4,- - -,symbols,,start_question
+549,1329,60,6,"In terms of diagnostic tests, do you recall having an X-ray of your neck and right shoulder in February of 2017?",q,MR. HESS,start_answer
+550,1332,60,9,The neck and right shoulder in February?,a,THE WITNESS,start_question
+551,1334,60,11,"And if you don't recall, you don't recall.",q,MR. HESS,start_answer
+552,1336,60,13,"I don't recall.  I know I had one from the orthopedic doctor, but I don't recall when it was done.",a,THE WITNESS,start_question
+553,1339,60,16,All right.  You talked about your chest and right rib area being injured. Were there any injuries to your abdomen or --,q,MR. HESS,start_answer
+554,1343,60,20,"Well, they did the CAT scan there because they were afraid that there were some internal injuries.  So, it wasn't an abdominal CAT scan that was done.",a,THE WITNESS,start_question
+555,1347,60,24,Did you ever have any symptoms in your abdominal area such as pain?,q,MR. HESS,start_answer
+556,1350,61,2,Yeah.  I did.,a,THE WITNESS,start_question
+557,1351,61,3,And did you have any bruising of your abdominal area?,q,MR. HESS,start_answer
+558,1353,61,5,"Yes.  It went from the -- all the way from the right rib down (indicating), down to the belly area right below where the rib cage is.",a,THE WITNESS,start_question
+559,1357,61,9,All right.  Did your injuries for a period of time affect your ability to lift with your right arm?,q,MR. HESS,start_answer
+560,1360,61,12,"Oh, yes.",a,THE WITNESS,start_question
+561,1361,61,13,Did your injuries affect your ability to drive for a period of time?,q,MR. HESS,start_answer
+562,1363,61,15,"Yes.  It was very, very difficult to turn my head to the right whenever I was parking or making a turn, or seeing if anybody was coming.",a,THE WITNESS,start_question
+563,1367,61,19,Did your injuries for a period of time affect prolonged reading?,q,MR. HESS,start_answer
+564,1369,61,21,Reading?  No.,a,THE WITNESS,start_question
+565,1370,61,22,"If you were reading for half an hour or an hour, and your neck was in one position, did that affect your ability to read?",q,MR. HESS,start_answer
+566,1375,62,2,"Well, yes.  I mean, normally when I read, I'm usually in a recliner because of that.",a,THE WITNESS,start_question
+567,1378,62,5,So did the pain impact reading for a period of time?,q,MR. HESS,start_answer
+568,1380,62,7,"Yes, for a period of time.",a,THE WITNESS,start_question
+569,1381,62,8,"And for a period of time, did you have some difficulty getting dressed due to your injuries?",q,MR. HESS,start_answer
+570,1384,62,11,"Well, it was very hard to get on my shirt and take -- remove my undergarments.  That was the biggest thing because I couldn't maneuver the arm out, so I had to learn how to do it from my left side and slip everything over, and then vice-versa.  So, yeah, definitely.",a,THE WITNESS,start_question
+571,1391,62,18,Were your household chores impacted for a period of time as a result of --,q,MR. HESS,start_answer
+572,1394,62,21,"Oh, yes.",a,THE WITNESS,start_question
+573,1395,62,22,"Last question is, are you right-handed or left-handed?",q,MR. HESS,start_answer
+574,1397,62,24,Right-handed.,a,THE WITNESS,start_chat
+575,1399,63,1,That's all I have.,side_chat,MR. HESS,start_chat
+576,1401,63,3,I have no further questions.  Thank you.,side_chat,MR. LAVIN,symbols
+577,1403,63,5,- - -,symbols,,is brackets
+578,1404,63,6,(Witness excused.),brackets,,symbols
+579,1405,63,7,- - -,symbols,,is brackets
+580,1406,63,8,(Deposition concluded at 3:35 p.m.),brackets,,symbols
+581,1407,63,9,"- - - C E R T I F I C A T I O N I, Maria Rousakis, hereby certify that the foregoing is a true and correct transcript of the proceedings held in this matter as transcribed from the stenographic notes taken by me on Tuesday, August 20, 2019. Maria Rousakis",symbols,,is brackets
+582,1445,64,20,"(This certification does not transcript, unless under the certifying reporter.)",brackets,,symbols
+583,1451,64,24,- - -,symbols,,end

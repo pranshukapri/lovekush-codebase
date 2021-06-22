@@ -1,0 +1,378 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, Crabbe.,,,symbols
+1,143,6,14,- - - VOIR DIRE EXAMINATION,symbols,,symbols
+2,145,6,16,- - -,symbols,,start_question
+3,147,6,18,"Doctor, would you please introduce yourself to the jury?",q,MR. LAVIN,start_answer
+4,149,6,20,My name is Sachin Dheer.  I'm a diagnostic radiologist with training in orthopedic imaging.,a,THE WITNESS,start_question
+5,151,6,22,"Thank you, Dr. Dheer.  Would you please tell us what kind of medicine you practice?",q,MR. LAVIN,start_answer
+6,153,6,24,"I'm a diagnostic radiologist, Board certified, and I have subspecialty or further fellowship training in orthopedic imaging.",a,THE WITNESS,start_question
+7,157,7,3,What does the field of radiology entail?,q,MR. LAVIN,start_answer
+8,158,7,4,"It's one of the specialities of medicine. It has to do with all of the imaging that's performed, whether it's x-rays, or ultrasound, or mammograms even.  My specialty is, as I said, orthopedic imaging.  Most of that is MRI, but we do other things as well, x-rays, and CAT scans.",a,THE WITNESS,start_question
+9,164,7,10,All right.  And so would those be considered subspecialties?,q,MR. LAVIN,start_answer
+10,166,7,12,Yes.,a,THE WITNESS,start_question
+11,167,7,13,And what is the importance of your subspecialty in orthopedic imaging?,q,MR. LAVIN,start_answer
+12,169,7,15,"So the importance of it is that we have added training with regard to analyzing images and determining if there is a traumatic injury, what type of traumatic injury it is. We grade it the way an orthopedic surgeon would find it useful.  We specifically convey information that an orthopedic surgeon or other type of orthopedic physician would find useful.  And we are kind of used to using the same kind of terminology and coming up with what we call a mechanism of injury if we find a certain set of findings. So basically, we are kind of like the imaging counterpart of an orthopedic surgeon.",a,THE WITNESS,start_question
+13,184,8,5,Can you tell us a little bit about your educational background?,q,MR. LAVIN,start_answer
+14,186,8,7,"I went to college at The University Of Maryland.  After graduating, I moved to Philadelphia to come to medical school at The University Of Pennsylvania.  After graduating from medical school, I entered my first year of post-graduate training. We call that internship down at Georgetown University Hospital, also in Washington, D.C. After finishing that, I moved back to Philadelphia to start my radiology residency. That's a four-year program, which I did at Jefferson University Hospital, here downtown.  After finishing that, I elected to stay at Jefferson for an additional year of training.  That was the orthopedic imaging, which I finished in 2007. I have been in practice ever since.  Most recently, I worked at Jefferson as a faculty member, doing orthopedic imaging.",a,THE WITNESS,start_question
+15,203,8,24,"All right.  And Doctor, can you please describe your past and present teaching responsibilities?",q,MR. LAVIN,start_answer
+16,207,9,3,"Sure.  Most of my teaching is to the residents and the fellows at Jefferson University Hospital.  I obviously teach them orthopedic imaging.  In addition to that, I give lectures around the country to other practicing radiologists on various topics in orthopedic imaging. I do teaching for emergency medicine residents, emergency medicine attendings, primarily in New Jersey, podiatry residents, who deal with the foot and ankle, orthopedic residents, who are, you know, orthopedic surgery trainings, both at the Rothman Institute here in Philadelphia and in New Jersey, and then various medical students from medical schools as well.",a,THE WITNESS,start_question
+17,221,9,17,"Dr. Dheer, are you Board certified?",q,MR. LAVIN,start_answer
+18,222,9,18,I am.,a,THE WITNESS,start_question
+19,223,9,19,And can you explain to the jury what the significance of a Board certification is?,q,MR. LAVIN,start_answer
+20,225,9,21,"Sure.  So to be Board certified, you essentially have to pass a series of examinations at different points in your training.  It starts all the way in medical school.  So you take a three-part examination at the various different stages of medical school in order to pass that.  You have to pass those in order to graduate from medical school. Then you take another series of three examinations over the course of your radiology residency to successfully complete that.  And then most recently, actually, we have instituted a re-certification process in radiology.  I'm actually part of the group that develops that test and puts questions to other radiologists in order to take that test. I have obviously taken it myself as well.  I have passed it.  So that's essentially what it is. The bottom line is it gives the public, the general public, a degree of confidence that, you know, someone that's Board certified basically meets a certain level of expertise and experience in their intended profession.",a,THE WITNESS,start_question
+21,248,10,19,All right.  How long have you been Board certified?,q,MR. LAVIN,start_answer
+22,250,10,21,I completed my Board certification for the first time in 2006.  And then I have re-certified several times since then.,a,THE WITNESS,start_question
+23,253,10,24,All right.  Do you belong to any professional societies?,q,MR. LAVIN,start_answer
+24,256,11,2,"I do.  I'm pretty much a member of all of the major radiology societies, and then also the largest subspecialty society for orthopedic radiologists.",a,THE WITNESS,start_question
+25,260,11,6,All right.  Have you ever been published?,q,MR. LAVIN,start_answer
+26,261,11,7,"I have.  Being published, essentially, is you do research.  You add to the peer-review literature in the specialty that people learn from, and kind of we grow our knowledge base from that. In order to publish, obviously, you go through a process some call peer-review.  It's where your research methodology and your conclusions and your findings are all critiqued by your colleagues. So I have published several papers in the orthopedic radiology literature, in the orthopedic literature as well. And now in addition to publishing, I also critique other people's research, so I serve as an editor as well.",a,THE WITNESS,start_question
+27,275,11,21,"All right.  And I'm going to hand you now what has been previously marked for identification purposes as Dheer-1.  Can you identify that document, please?",q,MR. LAVIN,start_answer
+28,280,12,1,"This is my CV.  It's actually not the most updated CV.  So for example, I used to be a clinical instructor.  Now, I'm an assistant professor at Jefferson.  But you know, so there is going to be more publications and such, but essentially, it's the same.",a,THE WITNESS,start_chat
+29,286,12,7,All right.  At this time I would like to move Dheer-1 into evidence.,side_chat,MR. LAVIN,start_chat
+30,288,12,9,No objection.,side_chat,MR. SPEZIALI,start_chat
+31,289,12,10,"All right.  Your Honor, at this time I would like to offer Dr. Sachin Dheer as an expert in the field of radiology and orthopedic radiology.",side_chat,MR. LAVIN,start_chat
+32,293,12,14,I have a few questions on Voir Dire.,side_chat,MR. SPEZIALI,symbols
+33,295,12,16,- - - VOIR DIRE EXAMINATION,symbols,,symbols
+34,297,12,18,- - -,symbols,,start_question
+35,299,12,20,"Doctor, where do you currently practice medicine?",q,MR. SPEZIALI,start_answer
+36,301,12,22,"So my clinical practice is in both New Jersey and Philadelphia.  My academic work that I do as a professor, the research and the teaching, the teaching is both in New Jersey and Philadelphia, primarily New Jersey.  The research is exclusively here in Philadelphia.",a,THE WITNESS,start_question
+37,308,13,4,"So the clinical practice, where is that located?",q,MR. SPEZIALI,start_answer
+38,310,13,6,"So physically, most of the days I sit in New Jersey, but obviously, we are all connected electronically now through our computer systems.  So even though I am sitting physically in New Jersey, I read studies from all across the Delaware Valley. Frankly, we have facilities all the way up in Collegeville, Pennsylvania, all the way through to, you know, New Jersey.",a,THE WITNESS,start_question
+39,318,13,14,"And in New Jersey, that's the Cherry Hill campus; is that correct?",q,MR. SPEZIALI,start_answer
+40,320,13,16,"That's one of them.  So most days I'm actually physically in Marlton, New Jersey.  And the reason is because the Rothman Institute has a large -- kind of their New Jersey hub is in Marlton. It's a massive building.  We have an imaging center on the ground floor of their building.  Obviously, most of what we do is there imaging, because of the Rothman, you know, surgeons.  So I find myself there most days.",a,THE WITNESS,start_question
+41,330,14,1,"How many days do you find yourself actively, as far as it relates to your clinical practice, practicing medicine in Pennsylvania?",q,MR. SPEZIALI,start_answer
+42,333,14,4,So physically how often do I come?,a,THE WITNESS,start_question
+43,334,14,5,Yes.,q,MR. SPEZIALI,start_answer
+44,335,14,6,I drive into Philly a couple times a month.,a,THE WITNESS,start_question
+45,336,14,7,Okay.  And that's just for your clinical practice?  That's not --,q,MR. SPEZIALI,start_answer
+46,338,14,9,"No.  That's -- that's -- again, when I come into Philly, it's -- I have to give lectures, you know, to medical students and residents, and you know, I have meetings for research projects that are ongoing and things like that.",a,THE WITNESS,start_question
+47,343,14,14,"Maybe my question wasn't clear.  You differentiated the clinical practice and your teaching practice and your research earlier.  I'm just concerned about clinical practice, right? Reviewing films for patients as a treating physician, right?  How many days do you spend doing that work in Pennsylvania?",q,MR. SPEZIALI,start_answer
+48,350,14,21,"So again, the vast majority of the studies that I read are from Pennsylvania.",a,THE WITNESS,start_question
+49,352,14,23,"No.  I'm asking you physically.  How often do you physically -- do you go to Pennsylvania, go to Philadelphia as it relates to you treating as a treating physician?",q,MR. SPEZIALI,start_answer
+50,357,15,3,"So I come to Philadelphia a few days a month.  When I come in, I'm not just giving lecture. That's like two hours a day, an hour a day.  Most of my time is spent at the work station, reading, dictating, you know, MRIs and x-rays, and things like that.",a,THE WITNESS,start_question
+51,363,15,9,So maybe twice a month at most you come to Philadelphia.  The rest you are in New Jersey; is that accurate?,q,MR. SPEZIALI,start_answer
+52,366,15,12,Yes.,a,THE WITNESS,start_question
+53,367,15,13,"Okay.  And Doctor, how would you describe the work that you are doing for this case here today, litigation practice in your words?",q,MR. SPEZIALI,start_answer
+54,370,15,16,"Sure.  So it's essentially consulting work that I'm asked to do.  So I get sent imaging studies.  I'm asked to determine if there is a traumatic injury of any kind.  If there is, I'm asked to describe it, characterize it, and determine if it could relate to an event that happened on a particular day.",a,THE WITNESS,start_question
+55,377,15,23,And defense counsel's office hired you for this consulting work; is that correct?,q,MR. SPEZIALI,start_answer
+56,380,16,1,That is correct.,a,THE WITNESS,start_question
+57,381,16,2,And have you done work for them previously?,q,MR. SPEZIALI,start_answer
+58,382,16,3,"Yes, I have.",a,THE WITNESS,start_question
+59,383,16,4,"And how long have you been engaging in this litigation, giving consulting work, in your opinion, for litigation cases?",q,MR. SPEZIALI,start_answer
+60,386,16,7,"So I first started doing it in 2011.  And that was at the recommendation of my orthopedic colleagues, you know.",a,THE WITNESS,start_question
+61,389,16,10,Okay.  And how long have you been doing it for defense counsel's office?,q,MR. SPEZIALI,start_answer
+62,391,16,12,This particular firm?,a,THE WITNESS,start_question
+63,392,16,13,Yes.,q,MR. SPEZIALI,start_answer
+64,393,16,14,I'm not sure.  It would have been some time after that.,a,THE WITNESS,start_question
+65,395,16,16,Okay.  How often do you -- how often do you give depositions for litigation cases?,q,MR. SPEZIALI,start_answer
+66,397,16,18,A few times a month.,a,THE WITNESS,start_question
+67,398,16,19,And how often do you author reports in relation to those cases?,q,MR. SPEZIALI,start_answer
+68,400,16,21,So how often do I author reports for litigation purposes?,a,THE WITNESS,start_question
+69,402,16,23,Yes.,q,MR. SPEZIALI,start_answer
+70,403,16,24,I would say maybe four to five a week.  So it would amount to maybe 15 to 20 a month.,a,THE WITNESS,start_question
+71,406,17,2,"And you're paid for that work, correct?",q,MR. SPEZIALI,start_answer
+72,407,17,3,Correct.,a,THE WITNESS,start_question
+73,408,17,4,"And in this matter, how much did you charge for -- well, let me be clear.  You authored one report in this matter; is that correct?",q,MR. SPEZIALI,start_answer
+74,411,17,7,Yes.,a,THE WITNESS,start_question
+75,412,17,8,"And that report is dated May 16th, 2019, right?",q,MR. SPEZIALI,start_answer
+76,414,17,10,Yes.,a,THE WITNESS,start_question
+77,415,17,11,And how much did you charge for that report?,q,MR. SPEZIALI,start_answer
+78,416,17,12,"So the MRI report that I authored consists of three MRI examinations, one of the cervical spine, two of the right shoulder.  So for each MRI it's $200.  So the whole report would have been $600.",a,THE WITNESS,start_question
+79,421,17,17,And you are also being -- you're also charging for your time and giving your opinions here today; is that correct?,q,MR. SPEZIALI,start_answer
+80,424,17,20,Correct.,a,THE WITNESS,start_question
+81,425,17,21,And how much do you charge for that?,q,MR. SPEZIALI,start_answer
+82,426,17,22,"$2,000.",a,THE WITNESS,start_question
+83,427,17,23,Flat fee?,q,MR. SPEZIALI,start_answer
+84,428,17,24,Yes.,a,THE WITNESS,start_question
+85,430,18,1,"Is there any other -- any other charges you made for this case, anything else, reviewing anything?",q,MR. SPEZIALI,start_answer
+86,433,18,4,"Not that I can think of, no.",a,THE WITNESS,start_question
+87,434,18,5,"Okay.  And Doctor, what is the split, if you know, between the work that you perform on behalf of plaintiffs in these litigation cases and on behalf of defendants, like the one here?",q,MR. SPEZIALI,start_answer
+88,438,18,9,"So in the situations where I actually know whether it's coming from a plaintiff attorney or a defense attorney, it's roughly 50/50.  And the reason I say ""in the cases where I know"" is because most of the time I actually don't know. And the reason for that is that most of the work that I get actually comes from these companies that basically, you know, put medical records together for their clients, whether, you know, whoever it may be.  And then they send it to me or they send it to whoever the appropriate expert might be in that particular matter. So in those cases, I don't know who their client is.  I don't know what side of the case they may be on.  It's makes no difference to me, because the way I do my reports is entirely the same. But in situations where I do know who it's coming from and I do have a general sense of, you know, whether it's a plaintiff attorney or defense attorney, it's roughly 50/50.  That being said, there are some firms that do both.  So you know, in cases where I know, it's roughly 50/50.",a,THE WITNESS,start_chat
+89,461,19,7,That's all I have. No objections to the witness.,side_chat,MR. SPEZIALI,start_chat
+90,463,19,9,"All right.  Joe Lavin here again on behalf of the defendant, Talia Crabbe.",side_chat,MR. LAVIN,symbols
+91,466,19,12,- - - DIRECT EXAMINATION,symbols,,symbols
+92,468,19,14,- - -,symbols,,start_question
+93,470,19,16,"Dr. Dheer, as you indicated, you reviewed three MRI films and authored a report regarding the plaintiff, Robert Miller, correct?",q,MR. LAVIN,start_answer
+94,473,19,19,Yes.,a,THE WITNESS,start_question
+95,474,19,20,"And that was at my request, correct?",q,MR. LAVIN,start_answer
+96,475,19,21,Correct.,a,THE WITNESS,start_question
+97,476,19,22,All right.  I want to focus your attention on the two MRIs of the right shoulder.  Can we pull those up?,q,MR. LAVIN,start_answer
+98,480,20,1,Sure.,a,THE WITNESS,start_question
+99,481,20,2,All right.,q,MR. LAVIN,start_chat
+100,482,20,3,Going off record. Time is 4:16.,side_chat,THE VIDEOGRAPHER,symbols
+101,484,20,5,- - -,symbols,,is brackets
+102,485,20,6,"(Whereupon, the following discussion was held off the video record.)",brackets,,symbols
+103,487,20,8,- - -,symbols,,start_chat
+104,488,20,9,Stand by.  We are back on record.  4:17.,side_chat,THE VIDEOGRAPHER,start_question
+105,491,20,12,"All right.  Dr. Dheer, this is an MRI film, correct?",q,MR. LAVIN,start_answer
+106,493,20,14,Yes.,a,THE WITNESS,start_question
+107,494,20,15,"Now, can you explain for me what you can see on an MRI?",q,MR. LAVIN,start_answer
+108,496,20,17,"Sure.  So MRI stands for magnetic resonance imaging.  It's one of the types of imaging that we use in medicine.  It's somewhat unique in that there is no radiation involved. But the other thing that is very unique about MRI is that it allows us to differentiate between different types of tissues in the body, whether it's bones or cartilage or muscle or tendon or, you know, nerves.  It allows us to differentiate all of those structures better than any other type of imaging. So it's been revolutionary, certainly in orthopedics, but in other specialities as well, because it allows you to visualize organs and other things as well. So within orthopedics, specifically, we're obviously concerned with the orthopedic-type structures, the bones and the cartilage and the muscles and so on and so forth.  So the first thing to realize is that any time we get any MRI of any body part, we get different types of imaging in different orientations. Okay.  So let me orient you first.  Imagine you are looking at Mr. Miller's right shoulder from the front.  So you are standing in front of Mr. Miller, okay, and you are kind of looking at his shoulder from the front.",a,THE WITNESS,start_question
+109,524,21,20,"All right.  I want to stop you there, Doctor.  Just for clarification purposes, what we are looking at now is a right shoulder MRI of the plaintiff, correct?",q,MR. LAVIN,start_answer
+110,528,21,24,Correct.,a,THE WITNESS,start_question
+111,530,22,1,And that MRI is dated January 13th of 2015; correct?,q,MR. LAVIN,start_answer
+112,532,22,3,That is correct.,a,THE WITNESS,start_question
+113,533,22,4,"All right.  So we are here for an accident, which occurred on October 10th of 2015.  So this MRI that was done on January 13th of 2015 would have been before that date of accident, correct?",q,MR. LAVIN,start_answer
+114,537,22,8,"Correct.  It was about nine months before the accident.  So even before we get in to what the findings are, right away we are aware that Mr. Miller had some complaints of his right shoulder, which sought him to seek out medical attention and MRI evaluation nine months before the accident.",a,THE WITNESS,start_question
+115,544,22,15,So can you tell us what we are looking at in this MRI?,q,MR. LAVIN,start_answer
+116,546,22,17,"Yes.  So imagine you are looking at Mr. Miller's shoulder from the front.  So this is actually going to be the surface of his shoulder. And this is kind of the rounding of the outside of his shoulder.  That's his skin surface.  This right -- this muscle right here is actually his deltoid muscle. So kind of the first muscle right under the skin.  There is actually two joints within the shoulder.  There's the glenohumeral joint, which is the ball-and-socket joint.  So this is the socket. This is the ball or the humeral head, which leads to the arm. And then as we kind of go back and forth from front to back and back to front, again, kind of taking slices through his shoulder as we are looking at it from the front.  This is the other joint, the AC joint, or the acromioclavicular joint. I think most people are familiar with that. If you kind of press down on your -- on the top of your shoulder right under your skin, you feel, you know, two hard bones.  That's your AC joint, okay? So most important structure in the shoulder to look at is the rotator cuff.  So the rotator cuff are a series of muscles and tendons, which basically give you the ability to elevate your arm. And so, this is the most important muscle of the rotator cuff, the supraspinatus muscle, this kind of gray structure right here.  It goes this way underneath the AC joint, which is out here, turns into the tendon.  So the muscle turns into the tendon and inserts on the outside of the arm or the humeral head, the ball of the ball-and-socket joint. So you can imagine every time the supraspinatus muscle and the other rotator cuff muscles contract, which is what muscles do, it pulls on this portion of the arm.  And your arm gets elevated.  So that's how the rotator cuff works to elevate your arm. So in this particular individual, there is no tear of the rotator cuff.  So you can see that there is a very nice continuous muscle leading to the tendon and inserting on the bone.  So that's good. There is something called tendinosis, which is essentially wear-and-tear or aging of that tendon.  And the reason we see this very commonly in virtually everybody that gets imaged kind of from their late 20s all through their adulthood is because all of the ligamentous and tendinous structures in the body have very poor blood supply. And so as a result, they start to undergo degeneration and aging.  We call that process tendinosis.  So this individual has tendinosis, which you would expect.  It's normal at this age.",a,THE WITNESS,start_question
+117,603,24,24,"So on this MRI film, which is dated January 13th of 2015, you do see tendinosis there?",q,MR. LAVIN,start_answer
+118,606,25,2,"Oh, yeah, absolutely.",a,THE WITNESS,start_question
+119,607,25,3,All right.  And that's a degenerative process?,q,MR. LAVIN,start_answer
+120,609,25,5,"Yes.  It's aging of the tendon.  It's, you know, the tendon is made of collagen, which is connective tissue in our body.  And like I said, collagen has very poor blood supply. And so as we kind of age from our mid- to late-20s on through adulthood, it -- you know, all of the collagen in our body undergoes, you know, very slow, very progressive aging.  Specifically with regard to a tendon, it's called tendinosis.",a,THE WITNESS,start_question
+121,618,25,14,All right.  Is there anything else that you are seeing in this right shoulder MRI?,q,MR. LAVIN,start_answer
+122,620,25,16,"Yeah.  So, you know, the tendinosis is not really significant, because it's not necessarily causing problems or considered abnormal even, because everybody has it. What there is, is significant osteoarthritis.  Or, you know, most people just think of it as arthritis.  But it's essentially, you know, chronic ongoing kind of wear-and-tear of this ball-and-socket joint, the glenohumeral joint of the shoulder. So specifically, what are we seeing?  We are seeing that the cartilage has, over years and years, has kind of worn out to the point where it's gone. There is something called a labrum, which is essentially, again, a ring of cartilage that lines the socket of the ball-and-socket joint, kind of gives you added stability. It's what allows us to have a great 360-degree range of motion without dislocating our shoulder.  So the cartilage is worn away.  The labrum is -- is worn away to the point where it's completely resorbed and absent.  That's something that occurs over many, many years, and this kind of represents the end stage of that.",a,THE WITNESS,start_question
+123,645,26,16,Can you point out for the jury where on the MRI you are seeing that so we can understand that?,q,MR. LAVIN,start_answer
+124,647,26,18,"Yes.  Absolutely.  So this individual doesn't really have any significant labrum left. Where I would see it is over here at the bottom, and I would see it over here at the top. So you can see there is a little remnant of the labrum left at the top, but all along the lining of the shoulder here and at the bottom, it's completely resorbed.  It's absent. And so not only is it kind of worn out, but the body has resorbed it.  And that takes many, many years to happen.  And then because of that, there's arthritis of the shoulder.  So this is actually a big bone spur that's projecting off the bottom of the socket.",a,THE WITNESS,start_question
+125,662,27,8,What is a bone spur?,q,MR. LAVIN,start_answer
+126,663,27,9,"A bone spur is basically extra bone that forms at the margin of a joint.  It's really the body's response to the fact that there has been this ongoing several years of just, you know, wear-and- tear of the joint. So any time we see bone spurs -- and they occur everywhere in the body -- so arthritis in the knee looks the same, and arthritis in the shoulder looks the same, and arthritis in the back looks the same. It's all the same process.  The body responds the same way, you know, with this ongoing kind of wear-and-tear that occurs over many years progressively and you end up getting arthritis. This particular degree of arthritis in the shoulder is fairly advanced in that this is a very large bony spur.  And it takes a long time for these types of bony spurs to get this big.  So that's kind of how I can look at the shoulder. And I can kind of confidently tell you that there is no injury here that would, you know, have occurred.  All of this is something that has been kind of developing in a very, very slow progressive fashion over many, many years.  And what we are looking at is kind of an end-stage arthritis in this shoulder.",a,THE WITNESS,start_question
+127,690,28,11,"All right.  And so I just want to focus your attention that this MRI is dated January 13th of 2015, which would have been before the date of accident that we are here for today, October 10th of 2015, correct?",q,MR. LAVIN,start_answer
+128,695,28,16,"Correct.  This was nine months before the accident.  And so basically, nine months before the accident, Mr. Miller was having some complaints of his right shoulder, which lead him to get this MRI. And I look at an MRI like this, and I say, ""yeah, that makes total sense.""  There is advanced osteoarthritis of this glenohumeral joint.",a,THE WITNESS,start_question
+129,702,28,23,"All right.  Now, you also reviewed an MRI of the right shoulder after this accident, correct?",q,MR. LAVIN,start_answer
+130,705,29,1,Yes.,a,THE WITNESS,start_question
+131,706,29,2,"All right.  Can we pull up that image, please?",q,MR. LAVIN,start_answer
+132,708,29,4,Sure.,a,THE WITNESS,start_chat
+133,709,29,5,Going off record. 4:26.,side_chat,THE VIDEOGRAPHER,symbols
+134,711,29,7,- - -,symbols,,is brackets
+135,712,29,8,"(Whereupon, the following discussion was held off the video record.)",brackets,,symbols
+136,714,29,10,- - -,symbols,,start_chat
+137,715,29,11,Stand by.  We are back on.  4:27.,side_chat,THE VIDEOGRAPHER,start_question
+138,718,29,14,"All right, Dr. Dheer.  So we have pulled up an MRI of the right shoulder.  This MRI is dated December 15th of 2015, correct?",q,MR. LAVIN,start_answer
+139,721,29,17,Correct.,a,THE WITNESS,start_question
+140,722,29,18,And can you tell me what we are seeing in this MRI?,q,MR. LAVIN,start_answer
+141,724,29,20,"Sure.  All right.  So this is an MRI that was done about two months after the accident-in- question.  And same type of image.  We are looking at the front of Mr. Miller's shoulder. So this is the surface on the outside of his shoulder.  This is that deltoid muscle.  We are going to go back and forth a little bit.  This is the supraspinatus muscle, turning into the tendon, inserting on the humeral head.  All of that is unchanged. There is tendinosis of the rotator cuff, not surprising.  And what else do we see?  We see this osteoarthritis that we were just talking about.  You can see that the cartilage is totally worn away. The labrum is totally worn away.  You get these big large osteophytes or bone spurs at the margin of the joint. It's no different than the image that we just looked at that was done, you know, 13 months or more, you know, from this MRI.  All right.  So that study was done about nine months before the accident.  This MRI is done about two months after. So the time span between the two is actually 11 months, so almost a year.  But the images look the same.",a,THE WITNESS,start_question
+142,750,30,21,"All right.  So now, I'm going to refer to what has been previously marked for identification purposes as Dheer-2.  This is your report in this matter, correct?",q,MR. LAVIN,start_answer
+143,755,31,1,Uh-huh.,a,THE WITNESS,start_question
+144,756,31,2,And this report -- is that a yes?,q,MR. LAVIN,start_answer
+145,757,31,3,Yes.,a,THE WITNESS,start_question
+146,758,31,4,"All right.  And that report is dated May 16th of 2019, correct?",q,MR. LAVIN,start_answer
+147,760,31,6,Correct.,a,THE WITNESS,start_question
+148,761,31,7,"Now, Dr. Dheer, after reviewing the two sets of right shoulder MRIs, did you form an impression based on that review?",q,MR. LAVIN,start_answer
+149,764,31,10,I did.,a,THE WITNESS,start_question
+150,765,31,11,And what was the impression and reasoning behind your conclusion?,q,MR. LAVIN,start_answer
+151,767,31,13,"Okay.  So the first impression was that just looking at this second MRI in isolation, I looked for traumatic injuries, and there were none.  Okay. No traumatic injuries of any kind.  So no muscle tears, no ligament or tendon tears, no fractures, no bruising or contusion, no dislocations, no collections of blood or fluid.  You know, just no injury of any kind. Then, I compared this MRI to the one that was done nine months before the accident.  And the findings were exactly the same. So not only was I able to review this MRI on its own and say that there is no injury, I was able to look at that first MRI and say, ""Well, that makes sense that the findings are completely unchanged between the two MRIs, so we have basically proved visually that there is all of the findings that we are seeing in the shoulder predate this, you know, reported date of injury, that they were there many, many months before this accident.""",a,THE WITNESS,start_question
+152,788,32,9,All right.  So just let me clarify for the jury.  So essentially your testimony is that there isn't any imaging evidence of an injury related to the October 10th of 2015 accident?,q,MR. LAVIN,start_answer
+153,792,32,13,Correct.,a,THE WITNESS,start_question
+154,793,32,14,"All right.  Doctor, is this opinion given within a reasonable degree of medical certainty?",q,MR. LAVIN,start_answer
+155,795,32,16,Yes.,a,THE WITNESS,start_question
+156,796,32,17,"All right.  Now, you also reviewed a film of the cervical spine, correct?",q,MR. LAVIN,start_answer
+157,798,32,19,I did.,a,THE WITNESS,start_question
+158,799,32,20,"All right.  Can we pull that up, please?",q,MR. LAVIN,start_answer
+159,800,32,21,"Sure.  And that's actually on the same disc here, so.",a,THE WITNESS,start_question
+160,802,32,23,All right.  So can you explain to the jury what we are looking at here?,q,MR. LAVIN,start_answer
+161,805,33,1,"Sure.  So again, we just popped up a new set of images.  So again, Robert Miller, right, his date-of-birth.  And it was done on February 23rd, 2016.  And this is his cervical spine or what most people think of as the neck. So recall, we get different images in different orientations.  Imagine you are looking at Mr. Miller's neck from the side, okay?  So this is actually the front of his neck or his throat.  This is his chin out here. This is actually his tongue, the muscles in his tongue.  This is the base of his brain.  This is the back of his head.  This is the back of his neck, the back of his upper back over here.  His throat, his trachea are over here.  This is his epiglottis actually over there.  All right.  So --",a,THE WITNESS,start_question
+162,821,33,17,"All right.  Dr. Dheer, can I just stop you for a second?",q,MR. LAVIN,start_answer
+163,823,33,19,Yes.,a,THE WITNESS,start_question
+164,824,33,20,"This is the MRI of the cervical spine, correct?",q,MR. LAVIN,start_answer
+165,826,33,22,Correct.,a,THE WITNESS,start_question
+166,827,33,23,"And that MRI is dated February 23rd of 2016, correct?",q,MR. LAVIN,start_answer
+167,830,34,1,Correct.,a,THE WITNESS,start_question
+168,831,34,2,All right.  So can you continue explaining what we are looking at?,q,MR. LAVIN,start_answer
+169,833,34,4,Sure.,a,THE WITNESS,start_question
+170,834,34,5,Thank you.,q,MR. LAVIN,start_answer
+171,835,34,6,"So when we look at the cervical spine, we recognize the fact that there are basically a series of stacked bones.  We call those the vertebrae, okay, that give us the rigidity and the stature in our necks.  All right.  And that's these squared-structures over here, okay. And then in between them are soft tissue structures, again, made up of collagen, right, that we were talking about earlier, connective tissue in the body.  And we call those the intervertebral discs or just the discs. And the reason we need those is because that gives us the ability to flex and twist and extend our spines and including our necks.  So we have the vertebrae and we have the intervertebral discs. Immediately behind that, we have this structure that comes out of the base of the brain and goes all the way down the spinal canal.  Okay. And is bathed in spinal fluid, which is this bright material over here.  That structure is a very important structure.  It's the spinal cord. Right.  It carries all the nerves and signals from the brain down through the spinal canal to the rest of our body.  And then on each side of the cervical spine towards the back are the facet joints.  Okay.  And these are like no different than all the other joints in the body.  Right. They basically form an articulation or a joint that holds the bones together and allows us to move.  So this is one side, the facet joints over here.  And then we're going to go off the other side of the neck.  And these are the facet joints over here.  So right away this individual has arthritis of the facet joints.",a,THE WITNESS,start_question
+172,870,35,16,How can you tell that?,q,MR. LAVIN,start_answer
+173,871,35,17,"It's no different than the arthritis that we saw in the shoulder.  You can see the bony spurs here.  You can see the thickening of the joint capsules here. The reason I can say that this is fairly significant facet arthropathy is because, as the facet joints start to get arthritic and the bones, you know, kind of aren't held together the way they should because of the degenerative change, you start to get movement of one of the vertebra on another. And we are actually seeing a little bit of that over here.  And again, no different than we saw on the shoulder, the vertebrae respond to that by forming these bony spurs.  So not only do we see the arthritis in the facet joints, we see the bony spur formation in the vertebrae themselves. And then because there is this arthritis and this wear-and-tear of the spine, you start to see these age-related changes within the discs that we talked about as well.  So the first age-related change you see is the fact that these discs are dark. Now, unless you have, you know, a young person's spine to compare to, you don't realize this, but these discs are actually supposed to be much brighter, because on this type of MRI image, fluid is bright.  And normal discs, young, healthy discs contain a fair amount of fluid with the connective tissue. The fact that these discs are so dark tells you that they are what we call desiccated or dehydrated.  They've lost water content.",a,THE WITNESS,start_question
+174,905,37,1,"Now, would that happen related to a car accident?",q,MR. LAVIN,start_answer
+175,907,37,3,"No.  That's actually the opposite of what you see in a traumatic injury.  When there is a traumatic injury of a disc or any other structure in the body, immediately the body has this intense, what we call, inflammatory reaction.  So it's the body's attempt to kind of like heal this off.",a,THE WITNESS,start_question
+176,913,37,9,Would you be able to see that on the MRI?,q,MR. LAVIN,start_answer
+177,914,37,10,"Definitely.  In fact, that's why people order MRIs.  And that's my job as an orthopedic radiologist to find these types of changes on the spine, not just age-related changes.  But we look for traumatic injuries, too.  And we characterize them and describe how severe they might be, and what structures are involved, and you know, all that.",a,THE WITNESS,start_question
+178,921,37,17,"Now, if you did see a traumatic image on the MRI, what would you be looking for?",q,MR. LAVIN,start_answer
+179,923,37,19,"Okay.  So for example, a traumatic injury of the disc, the disc would be extremely bright, because there would be the immediate recruitment of inflammatory fluid and even blood we see sometimes, which we don't see that in any of these discs. These discs are extremely dark or desiccated.  They have lost water content. If we see a traumatic injury of any of the ligaments that kind of hold everything together.  So there is an anterior longitudinal ligament.  There's a posterior longitudinal ligament.  There is something called the interspinous ligament and then the nuchal and supraspinous ligament, which runs down the back of the spine here. Any time those are injured, we see fluid surrounding them.  If it's a severe injury of the ligament, we grade them as one, two, or three.  You know, we'll see, you know, frank, you know, free edges of the torn fibres of the ligament, you know, sitting in the middle of this fluid and blood.  We obviously don't see that here. If you see fractures, you'll see a fracture line, extending through the bone.  You may see a deformity of the bone.  Again, that will be accompanied by this intense fluid build-up.  So it literally shows up as extremely bright signal on the MRI.",a,THE WITNESS,start_question
+180,951,38,22,"All right.  So I just want to clarify for the jury that if there were a traumatic injury, there's several things that you would be able to see on this MRI, correct?",q,MR. LAVIN,start_answer
+181,956,39,2,Absolutely.  Absolutely.,a,THE WITNESS,start_question
+182,957,39,3,And you are not seeing that on this MRI?,q,MR. LAVIN,start_answer
+183,958,39,4,"No.  None of those findings are present. And then just to give you an idea of what it is to be an orthopedic radiologist, not only do we find those findings, not only do we grade those findings the way an orthopedic surgeon would, but then we put all the findings together, and we come up with a mechanism of injury. Like, you know, so when I do see traumatic injuries in the spine, I don't just say ""this is torn,"" ""that's fractured.""  I say all of that.  And then I'll conclude by saying ""this is consistent with a hyperflexion mechanism of injury"" or a hyperextension or a torsion or axial loading.  Those are all, you know, different mechanisms that can result in different types of -- of injuries in the spine, so.",a,THE WITNESS,start_question
+184,974,39,20,"All right.  So I want to refer you back to your report of May 16th of 2019 that you had a chance to review this MRI of the cervical spine, dated February 23rd of 2016.  Did you form an impression based on this review?",q,MR. LAVIN,start_answer
+185,980,40,1,Yes.,a,THE WITNESS,start_question
+186,981,40,2,Would you explain to us your impression and the reasoning behind your conclusions?,q,MR. LAVIN,start_answer
+187,983,40,4,"Okay.  So my impression is that there's no traumatic injury of any kind.  Examples would include ligament and tendon tears, fractures, bruising, contusions, injuries of the spinal cord, the nerves.  All those things can be injured.  We don't see any of those. What I do see are very characteristic age-related changes in the spine, so arthritis of the facet joints, degenerative changes, and arthritic changes related to the discs and the vertebrae that surround the discs.  And that's, again, very characteristic.  Everybody develops them, depending on, you know, how old they are. And we see them very commonly.  And we obviously describe them.  So that is what I see here.  But I don't see any type of traumatic injury whatsoever.",a,THE WITNESS,start_question
+188,1000,40,21,"All right.  So just for clarity purposes, it's your opinion that you don't see any imaging evidence of an injury as a result of the October 10th of 2015 accident?",q,MR. LAVIN,start_answer
+189,1005,41,1,Yes.,a,THE WITNESS,start_question
+190,1006,41,2,"All right.  Doctor, is this opinion given within a reasonable degree of medical certainty?",q,MR. LAVIN,start_answer
+191,1008,41,4,"Absolutely, yes.",a,THE WITNESS,start_chat
+192,1009,41,5,"All right.  At this time I would move to enter Dr. Dheer's report of May 16th, 2019 into evidence.  I have no further questions.",side_chat,MR. LAVIN,start_chat
+193,1013,41,9,No objection.  Take that down for me.,side_chat,MR. SPEZIALI,start_chat
+194,1015,41,11,Going off record. 4:38.,side_chat,THE VIDEOGRAPHER,symbols
+195,1017,41,13,- - -,symbols,,is brackets
+196,1018,41,14,"(Whereupon, the following discussion was held off the video and stenographic records.)",brackets,,symbols
+197,1020,41,16,- - -,symbols,,start_chat
+198,1021,41,17,Stand by.  We are back on record.  4:38.,side_chat,THE VIDEOGRAPHER,symbols
+199,1023,41,19,- - - CROSS-EXAMINATION,symbols,,symbols
+200,1025,41,21,- - -,symbols,,start_question
+201,1027,41,23,"Good afternoon, Doctor.  Doctor, I just want to be clear.  You are not a surgeon, correct?",q,MR. SPEZIALI,start_answer
+202,1030,42,1,Correct.,a,THE WITNESS,start_question
+203,1031,42,2,And you are not a neurologist?,q,MR. SPEZIALI,start_answer
+204,1032,42,3,Correct.,a,THE WITNESS,start_question
+205,1033,42,4,"And you have a subset in radiology, but you are not an orthopedist; is that correct?",q,MR. SPEZIALI,start_answer
+206,1035,42,6,Correct.,a,THE WITNESS,start_question
+207,1036,42,7,"And Doctor, you are not a treating physician, correct?",q,MR. SPEZIALI,start_answer
+208,1038,42,9,Correct.,a,THE WITNESS,start_question
+209,1039,42,10,"And you're not a treating physician.  There is no doctor/physician/patient relationship here, correct?",q,MR. SPEZIALI,start_answer
+210,1042,42,13,Correct.,a,THE WITNESS,start_question
+211,1043,42,14,You saw Mr. Miller on behalf of defense counsel's office?,q,MR. SPEZIALI,start_answer
+212,1045,42,16,That is correct.,a,THE WITNESS,start_question
+213,1046,42,17,"And you never saw -- you never met Robert Miller, correct?",q,MR. SPEZIALI,start_answer
+214,1048,42,19,Correct.,a,THE WITNESS,start_question
+215,1049,42,20,What did you review in preparation for your report that's -- that we have marked here today?,q,MR. SPEZIALI,start_answer
+216,1051,42,22,"So I received the imaging studies.  I reviewed the imaging studies, went through them in my usual kind of checklist fashion that I have.  I dictated my reports.  And I sent it off.",a,THE WITNESS,start_question
+217,1056,43,2,"Now, when you say ""the imaging studies,"" are you just talking about the films that you reviewed on camera?",q,MR. SPEZIALI,start_answer
+218,1059,43,5,"Yes, the MRI images themselves.",a,THE WITNESS,start_question
+219,1060,43,6,Did you have a chance to review the reading radiologist's report?,q,MR. SPEZIALI,start_answer
+220,1062,43,8,I did not.,a,THE WITNESS,start_question
+221,1063,43,9,"So you didn't even review -- the reading radiologist, that would be considered a treating physician, correct?",q,MR. SPEZIALI,start_answer
+222,1066,43,12,"No.  So the reading radiologist would be a diagnostic physician.  That's what I do in my day job.  We review MRIs, but we don't treat people.",a,THE WITNESS,start_question
+223,1069,43,15,"Okay.  So it's already been said as a treating radiologist or a radiologist with a -- with a physician/patient relationship, that would be the reading radiologist, correct?",q,MR. SPEZIALI,start_answer
+224,1073,43,19,Yes.,a,THE WITNESS,start_question
+225,1074,43,20,"And you didn't have -- you didn't take the opportunity -- you didn't take the chance to read the reading radiologist's reports that are authored for the studies here today, correct?",q,MR. SPEZIALI,start_answer
+226,1078,43,24,That's correct.  I did not need to.,a,THE WITNESS,start_question
+227,1080,44,1,"You didn't take the opportunity to read the report from January 2015, correct?",q,MR. SPEZIALI,start_answer
+228,1082,44,3,That would be the shoulder MRI?,a,THE WITNESS,start_question
+229,1083,44,4,Yes.,q,MR. SPEZIALI,start_answer
+230,1084,44,5,"I did not need to, that's correct.",a,THE WITNESS,start_question
+231,1085,44,6,"I'm not asking you whether you needed to or not, Doctor.  I'm asking you if you did.  And I want to be clear for the record, right?  You can opine. We get it.  You are too good.  You don't need to read the report.  But I want to be clear for the record.  I'm just asking you if you actually did.",q,MR. SPEZIALI,start_answer
+232,1091,44,12,"No.  So I did not.  And the reason I did not is because I did not need to.  If I would need to review a record before I authored a report, I would ask for it.",a,THE WITNESS,start_question
+233,1095,44,16,"Right.  And I just want the record to be clear, because you are responding on what you need to do or not.  And I just want to be clear whether you did, all right?  It's real similar, Doc.  I'm just asking you yes-or-no questions to be clear for the jury.",q,MR. SPEZIALI,start_answer
+234,1101,44,22,"Right.  I did not, because I did not need to.",a,THE WITNESS,start_question
+235,1103,44,24,"All right.  So and then also for the MRI of the cervical spine, you didn't read the reading radiologist's report for that either, correct?",q,MR. SPEZIALI,start_answer
+236,1107,45,3,"The exact same thing.  I did not, because I did not need to.",a,THE WITNESS,start_question
+237,1109,45,5,Was that given to you?,q,MR. SPEZIALI,start_answer
+238,1110,45,6,No.,a,THE WITNESS,start_question
+239,1111,45,7,"So that was -- the radiologist's report, the independent physician, those records weren't even provided to you for your review, correct?",q,MR. SPEZIALI,start_answer
+240,1114,45,10,That is correct.,a,THE WITNESS,start_question
+241,1115,45,11,"Okay.  And as well as that's the shoulder MRI of December 2015.  Again, I get it.  You didn't need to.  It wasn't given to you.  And you never reviewed it, correct?",q,MR. SPEZIALI,start_answer
+242,1119,45,15,That's correct.,a,THE WITNESS,start_question
+243,1120,45,16,"Is that the common -- when you review these cases for litigation, is that -- well, strike that question.  As a reading radiologist, if you are reviewing something for a patient, right, that you -- that you are treating or diagnosing or doing diagnostics on, would you ever review the reading radiologist's report?",q,MR. SPEZIALI,start_answer
+244,1127,45,23,"I am the reading radiologist, so no report exists.",a,THE WITNESS,start_question
+245,1130,46,1,"As a comparison, right?  As an earlier study?",q,MR. SPEZIALI,start_answer
+246,1132,46,3,"Sometimes yes, sometimes no.  So for example, if it's -- you know, if I'm following up a tumor and, you know, I want to know what the prior radiologist may have measured it as, then yes.  But many times I won't, because I don't need to.",a,THE WITNESS,start_question
+247,1137,46,8,"So in instances where you want to make a comparison in time, in those instances, it might be a case that you do read them, right?  But you didn't read them here just to be clear?",q,MR. SPEZIALI,start_answer
+248,1141,46,12,"No, no.  That's not correct.  That's not what I said.",a,THE WITNESS,start_question
+249,1143,46,14,You did read them?,q,MR. SPEZIALI,start_answer
+250,1144,46,15,"No.  You said two things.  The first part was incorrect.  The second part was correct.  So I did not read the original radiologist's report in this case, because, as I said, I did not need to.  I was the -- you know, the expert radiologist consultant in this case, right? The other thing is you asked me is do I normally always compare?  And the answer is I don't.",a,THE WITNESS,start_question
+251,1152,46,23,"No.  I didn't say ""always.""  I said ""sometimes.""  Like I said, I said ""sometimes.""",q,MR. SPEZIALI,start_answer
+252,1155,47,1,"Oh, okay.",a,THE WITNESS,start_question
+253,1156,47,2,"I was summarizing what you said.  Sometimes when you are comparing two things in time and you want to see them -- you gave an example of I believe it was a tumor.  Sometimes you review the prior reading radiologist's studies, right?  Sometimes you do that?",q,MR. SPEZIALI,start_answer
+254,1162,47,8,"It depends.  So if I don't have the prior images, then, you know, I need a report, because I need to know what the images would have shown.  If I do have the prior images, sometimes I will look at the prior report.  Sometimes I won't.  Sometimes I have to, to do what's called a peer review on another interpreting radiologist.  But a lot of times if we don't need to, we don't.",a,THE WITNESS,start_question
+255,1170,47,16,And did you review any other records here?,q,MR. SPEZIALI,start_answer
+256,1171,47,17,No.,a,THE WITNESS,start_question
+257,1172,47,18,"Just the films that were shown on the laptop, correct?",q,MR. SPEZIALI,start_answer
+258,1174,47,20,"Well, I wouldn't say just the films.  It takes a lot of expertise to review them.  So yes, the films.",a,THE WITNESS,start_question
+259,1177,47,23,Okay.  Solely the films?,q,MR. SPEZIALI,start_answer
+260,1178,47,24,"Yes, solely the films.",a,THE WITNESS,start_question
+261,1180,48,1,"Apologies, Doctor.  I didn't mean to demean the MRI films.  So you didn't see any of the physicians that treated Robert Miller, you didn't see any of their records or reports, correct?",q,MR. SPEZIALI,start_answer
+262,1184,48,5,That's correct.,a,THE WITNESS,start_question
+263,1185,48,6,"You didn't see any of the notes from the months of treatment and therapy that he underwent, correct?",q,MR. SPEZIALI,start_answer
+264,1188,48,9,Correct.,a,THE WITNESS,start_question
+265,1189,48,10,"And you didn't perform any physical examination on him, correct?",q,MR. SPEZIALI,start_answer
+266,1191,48,12,"Correct.  I have never met him.  My examination consisted of an analysis of the imaging studies, which are obviously a view to the inside of his body, the shoulder and the cervical spine.",a,THE WITNESS,start_question
+267,1195,48,16,Is that really an examination?  Isn't that just a film review?  I mean you didn't examine -- I want to be clear for the jury.  I don't want to call that an examination if it's not.  But isn't that just a review of the films?,q,MR. SPEZIALI,start_answer
+268,1200,48,21,"Actually, not calling it an examination is, I think, misleading.  So it is absolutely an examination.  It's an examination of the inside of someone's body, right? I mean that's what we are doing.  We're looking at all of the different anatomy.  We're looking at whatever derangement may be present. We're determining if there's an injury of any kind. We're determining if there is any significant findings that need to be communicated to somebody. It is absolutely an examination.  It's not a physical examination, where I meet Mr. Miller or put my hands on Mr. Miller.  But in many ways it's much more powerful than a visual inspection.  Because I'm looking at the inside of his body.  So yes, that's an examination. And it's actually for that reason that when I do this in my day job, there is a doctor/patient relationship that is established.",a,THE WITNESS,start_question
+269,1220,49,16,"So the examination you performed is one on that computer or on another computer somewhere, the MRIs, correct?",q,MR. SPEZIALI,start_answer
+270,1223,49,19,It's an examination -- it's an examination of Mr. Miller's cervical spine and right shoulder done through the MRI.,a,THE WITNESS,start_question
+271,1226,49,22,"All right.  So solely done through the MRI, correct?",q,MR. SPEZIALI,start_answer
+272,1228,49,24,Correct.,a,THE WITNESS,start_question
+273,1230,50,1,"You never met him, you never saw him, no examination, you never were in the same room with him, you never asked him, you know, what hurt, how much does it hurt, anything like that, correct?",q,MR. SPEZIALI,start_answer
+274,1234,50,5,"Incorrect, because you said no examination of him, and I just clarified --",a,THE WITNESS,start_question
+275,1236,50,7,"Oh, physical.  I apologize, Doctor.",q,MR. SPEZIALI,start_answer
+276,1237,50,8,-- there was an examination.,a,THE WITNESS,start_question
+277,1238,50,9,"I apologize.  You physically examined him through the MRI films, through the computer, through the screen.  I meant physical.  I apologize.",q,MR. SPEZIALI,start_answer
+278,1241,50,12,No.  I didn't physically examine him.  I examined his cervical spine and his right shoulder through the MRI.,a,THE WITNESS,start_question
+279,1244,50,15,Do you know how old Mr. Miller is?,q,MR. SPEZIALI,start_answer
+280,1245,50,16,"I could tell you by looking at his date-of- birth.  So he was born in 1958.  So it would be -- at the time of the first MRI, he would have been approximately 57 or almost 57.",a,THE WITNESS,start_question
+281,1249,50,20,I'm asking you right now.  Did that come in to your opinions at all?  Did you use that information in developing any of your opinions at all?,q,MR. SPEZIALI,start_answer
+282,1253,50,24,"Yes.  And so the reason it's important is because when you look at an individual's age, you develop a sense of what type of findings, what type of age-related findings they tend to have. So for example, if I saw glenohumeral osteoarthritis in a 20-year-old, you know, that would give me pause.  You know, I would say that's unusual.  We don't usually see glenohumeral osteoarthritis in a 20-year-old. So this 20-year-old has been engaged in some type of activity that has led to, you know, wear-and-tear of the shoulder joint.  So yes, I do that type of analysis with every study I look at frankly.",a,THE WITNESS,start_question
+283,1268,51,14,"And as we -- is it fair to say that as we get up there in age, it's common to see age-related degeneration in, oftentimes, many individuals that you examine by way of the --",q,MR. SPEZIALI,start_answer
+284,1272,51,18,Virtually everybody.,a,THE WITNESS,start_question
+285,1273,51,19,"And but people can still get injured even though they have those age-related issues, correct?",q,MR. SPEZIALI,start_answer
+286,1275,51,21,"Absolutely, yes.",a,THE WITNESS,start_question
+287,1276,51,22,"And is it possible to have -- speak to say the cervical spine.  Is it possible to have a herniation or protrusion with the cervical spine that is -- that is caused by age, but is asymptomatic?",q,MR. SPEZIALI,start_answer
+288,1282,52,3,Yes.,a,THE WITNESS,start_question
+289,1283,52,4,"And correct me if I'm wrong, but just so the jury understands my question, that means that there could be a protrusion or herniation, and someone's not experiencing pain; is that accurate?",q,MR. SPEZIALI,start_answer
+290,1287,52,8,That is correct.,a,THE WITNESS,start_question
+291,1288,52,9,"And then due to something along the line, is it possible for that herniation then to be aggravated and then to the individual to then start experiencing pain?",q,MR. SPEZIALI,start_answer
+292,1292,52,13,"Absolutely.  And that's exactly what you were referring to before.  You said is it possible for people to have traumatic injuries that occur on top of these age-related changes. And in fact, that's what we see most of the time, because virtually everybody has age-related changes, depending on, you know, how old they are. And then, you know, a certain subset of those people unfortunately do sustain traumatic injuries on whatever body part that we are looking at.  So, you know, they can have a traumatic injury superimposed on.  Or another way to say it is aggravating a degenerative change. But again, if that's, in fact, the case, then you would see that on the MRI.  You would see that traumatic injury, that traumatic abnormality, whether it's the fluid build-up or the hemorrhage, or the tear of the ligament or a tendon on top of or in addition to or aggravating the age-related change that was already there. Just to be clear, that's not the case here. What we see in this case are solely age-related degenerative findings that were present well-before, you know, this accident. In fact, we have proven that in the right shoulder by comparing the MRI before and after the accident.  So you don't even have to believe me. You can just look at the images.  You know, they show you what it is.  But if, hypothetically, we have had an MRI of the cervical spine that was done, you know, before this accident, it would look the same, too, just like the shoulder does. So that's the case here.  But yes, it is theoretically possible for somebody to sustain a traumatic injury on top of these age-related changes.  We see that all the time.  I see that all the time in my practice, because everybody has age-related changes and some people do have traumatic injuries.",a,THE WITNESS,start_chat
+293,1333,54,4,Let's go off the record for a second.,side_chat,MR. SPEZIALI,start_chat
+294,1335,54,6,Going off the record.  The time is 4:50.,side_chat,THE VIDEOGRAPHER,symbols
+295,1337,54,8,- - -,symbols,,is brackets
+296,1338,54,9,"(Whereupon, the following discussion was held off the video record.)",brackets,,symbols
+297,1340,54,11,- - -,symbols,,start_chat
+298,1341,54,12,"I'm going to object to the doctor's opinion as beyond the report.  The report is pure speculation as to if we had a prior cervical MRI what it would show.  No basis and fact, and just pure speculation on the doctor's part.  Go back on.",side_chat,MR. SPEZIALI,start_chat
+299,1348,54,19,We're back on. 4:50.,side_chat,THE VIDEOGRAPHER,start_question
+300,1351,54,22,"And Doctor, I know we have a prior MRI of the shoulder, but we don't have a prior MRI of the cervical spine, correct?",q,MR. SPEZIALI,start_answer
+301,1355,55,1,That's correct.,a,THE WITNESS,start_question
+302,1356,55,2,"So you don't really know what a prior MRI of the cervical spine would look like, right?",q,MR. SPEZIALI,start_answer
+303,1358,55,4,I would expect it to look the same based on the fact that the MRI after the accident --,a,THE WITNESS,start_question
+304,1360,55,6,I'm asking you what you would know.  Would you know without speculating -- would you know for sure what it would look like or would that be just speculation on your part?,q,MR. SPEZIALI,start_answer
+305,1364,55,10,It would be -- it would be a logic -- it wouldn't be speculation.  It would be a logical conclusion based on my review of the MRI that I reviewed.  It's a logical conclusion.,a,THE WITNESS,start_question
+306,1368,55,14,"Okay.  And how long does that logic hold?  I mean can you speculate -- or I'm sorry.  That logic, does that hold for ten years or twenty years back that you can -- you can --",q,MR. SPEZIALI,start_answer
+307,1372,55,18,-- generally.,a,THE WITNESS,start_question
+308,1373,55,19,-- give an opinion as to -- as to what that cervical MRI would look like?,q,MR. SPEZIALI,start_answer
+309,1375,55,21,"No.  So generally, twenty years -- over twenty years we do tend to see changes, progression at age-related changes.  Even at ten years we tend to see progression at age-related changes. I can think of examples just from the last few days of me being at work, where five years showed no change, you know, four years showed no change, six years showed no change.",a,THE WITNESS,start_question
+310,1384,56,5,"That's empirical, right?  You're looking at two different studies and seeing no changes?",q,MR. SPEZIALI,start_answer
+311,1386,56,7,Correct.,a,THE WITNESS,start_question
+312,1387,56,8,Right?,q,MR. SPEZIALI,start_answer
+313,1388,56,9,Correct.,a,THE WITNESS,start_question
+314,1389,56,10,"That's not what we are talking about here. We are talking about you giving an opinion as to if you go back in time what his cervical spine and a related MRI would look like.  And I'm asking you how long back in time can you make that, give that opinion with a reasonable basis?",q,MR. SPEZIALI,start_answer
+315,1395,56,16,"So again, my opinion is based on my experience, right?  I can't point to an MRI that was done before the accident, because I didn't review one. But based on all my experience and my expertise, I can tell you that, generally speaking, we do see age-related changes progress over twenty years.  We see them progress over ten years. Obviously, over ten years, there tends to be less progression than there is over twenty years. That's, again, logical.  But I mean I can think of several examples where I can tell you --",a,THE WITNESS,start_question
+316,1408,57,4,"I don't want examples.  I'm just wondering how -- I'm wondering how far back in time you can go, spin the clock back and give opinions based on Mr. Miller's cervical spine.  That's all.",q,MR. SPEZIALI,start_answer
+317,1412,57,8,"Well, again, I reviewed a single MRI of Mr. Miller --",a,THE WITNESS,start_question
+318,1414,57,10,"Right.  Only one, right?",q,MR. SPEZIALI,start_answer
+319,1415,57,11,Right.,a,THE WITNESS,start_question
+320,1416,57,12,In time?,q,MR. SPEZIALI,start_answer
+321,1417,57,13,Right.  And based --,a,THE WITNESS,start_question
+322,1418,57,14,"And you didn't review -- you didn't physically examine him or see any other records, correct?",q,MR. SPEZIALI,start_answer
+323,1421,57,17,Correct.,a,THE WITNESS,start_question
+324,1422,57,18,Okay.,q,MR. SPEZIALI,start_answer
+325,1423,57,19,Which we have already established.,a,THE WITNESS,start_question
+326,1424,57,20,Right.,q,MR. SPEZIALI,start_answer
+327,1425,57,21,"So just to be clear, I reviewed an MRI of the cervical spine that was done a few months after the accident.  It showed no traumatic injury of any kind.  It showed no aggravation of any traumatic -- of any age-related change of any kind. All the findings were these characteristic, typical age-related changes that we see in the cervical spine.  And the reason I can say that to you is not just because I reviewed one MRI of the cervical spine.  It's because in my career, I have literally reviewed hundreds of thousands of cervical spine MRIs. And it's on that same basis, that same logic that I derive from my experience, right, that I can tell you that if, hypothetically, not literally, because there isn't a cervical spine MRI that predates this accident that I looked at.  But, hypothetically, if there had been, I would bet that the findings would be the same. Now, if I wasn't comfortable making that type of a conclusion, I wouldn't make it.  The reason I am comfortable making that type of a conclusion is because in my experience, based on the fact that there is no traumatic injury soon after the accident, and all of these findings or chronic and degenerative, and I'm confident with that, that if there had, hypothetically, been a study, it would look the same. Because all of the age-related changes predate this accident.  And that's the same type of analysis that we did with the shoulder, where we do have two MRIs.  So that's what I'm telling you.  So literally did I compare two MRIs of the cervical spine?  Absolutely not.",a,THE WITNESS,start_question
+328,1461,59,7,"We know that.  We know that, because we are here and we know there is no other MRI exists.  I was just trying to get a time frame on how long you can actually give that opinion with a reasonable degree of medical certainty. I don't think we are going to reach an answer.  You have been unable to give me an answer as to that.  So we'll move on.  I get it.  You can speculate as to prior MRIs that don't exist and you don't need the reports.  It all comes with your experience.  I get it, Doctor. Now, you are not disputing that there's any herniations in the cervical spine, correct?",q,MR. SPEZIALI,start_answer
+329,1474,59,20,"If I look back at my report, there was a protrusion-type herniation at C6-7.",a,THE WITNESS,start_question
+330,1476,59,22,"Okay.  And there was also -- was there any other protrusions that you found, Doctor?",q,MR. SPEZIALI,start_answer
+331,1478,59,24,No.,a,THE WITNESS,start_question
+332,1480,60,1,"And for the record, can you describe for the jury what is a herniation?",q,MR. SPEZIALI,start_answer
+333,1482,60,3,"So herniation actually has a specific medical definition.  It refers to the shape of an intervertebral disc in the spine.  So imagine a normal intervertebral disc has, you know, a donut shape to it roughly.  It's an oval. So a bulge, for example, is any outpouching of that disc that is more than 180 degrees.  So more than half of the entire circumference of the disc. A herniation is a more focal outpouching of that disc. Now, bulges and herniations, those are the definitions.  Those definitions have nothing to do with whether a bulge is traumatic or degenerative or a herniation is traumatic or degenerative.  All those definitions refer to is whether, you know, the shape of a disc is a bulge or a herniation.  That's it. The fact of the matter is that both bulges and herniations can be degenerative or traumatic. And if you just look at most of the people in the world, most bulges and herniations are, in fact, degenerative.  And the reason is because everybody develops age-related changes in their spine and relatively few people develop traumatic injuries of their spine, thankfully. But certainly bulges and herniations can be traumatic as well.  In this particular case, I just want to be very clear.  There were no traumatic changes exhibited in any of the discs, including the disc where there did happen to be a degenerative herniation. And so yes, there is a herniation at C6-7, but that herniation is degenerative.  It's chronic. It predates this accident.  It has nothing to do with this accident.",a,THE WITNESS,start_question
+334,1518,61,14,"Doctor, when it comes to herniations, that injury, whether chronic or --",q,MR. SPEZIALI,start_answer
+335,1520,61,16,It's not an injury.  It's not an injury.,a,THE WITNESS,start_question
+336,1521,61,17,"That condition, whether chronic or traumatic, correct, will that go back to its normal condition afterwards, or herniation, will it remain as is?",q,MR. SPEZIALI,start_answer
+337,1525,61,21,"So that's a good question.  So herniations, a small subset of them will actually continue to change shape.  Most of them get bigger.  Some stay the same.  And a small fraction of them actually will over time get smaller.  And that has nothing, again, to do with whether they are traumatic or degenerative.",a,THE WITNESS,start_question
+338,1533,62,4,Right.  That was my question.,q,MR. SPEZIALI,start_answer
+339,1534,62,5,That's just period.,a,THE WITNESS,start_question
+340,1535,62,6,Yeah.,q,MR. SPEZIALI,start_answer
+341,1536,62,7,"Yeah.  Herniations -- like any other tissue in the body, herniations can change shape and morphology as time goes on.",a,THE WITNESS,start_chat
+342,1539,62,10,"No further questions, Doctor.",side_chat,MR. SPEZIALI,symbols
+343,1541,62,12,- - - REDIRECT EXAMINATION,symbols,,symbols
+344,1543,62,14,- - -,symbols,,start_question
+345,1545,62,16,"All right.  Dr. Dheer, if someone were asymptomatic and then had a traumatic injury and became symptomatic, would you expect to be able to find something on the diagnostic imaging?",q,MR. LAVIN,start_answer
+346,1549,62,20,"Of course.  So if somebody claims that, you know, they had no pain and now they have pain, there has to be something to account for that at the, you know, the physical level in the physical universe that we live in.  There has to be something to account for that. And certainly we see that.  You know, we see traumatic injuries that have developed in people that account for, you know, a change in symptoms. Absolutely.  But again, if there is no such finding on the MRI, there is nothing to account for a change in symptom.",a,THE WITNESS,start_question
+347,1562,63,8,"All right.  And then similarly, you indicated that someone could have a pre-existing protrusion or bulge and have a new superimposed injury on top of that injury, correct?",q,MR. LAVIN,start_answer
+348,1566,63,12,"Yes, correct.",a,THE WITNESS,start_question
+349,1567,63,13,Did you find that here?,q,MR. LAVIN,start_answer
+350,1568,63,14,"No, no.  Again, there was no traumatic or recent or acute type of change anywhere in the right shoulder or the cervical spine that could be attributed to, you know, the events-in-question here. Everything was, you know, had been there for a very long time.  It was chronic.  It had been there for a long time.  It was degenerative, meaning it was age-related.  It represented, you know, just wear-and-tear of the spine in a progressive fashion over many years.  And there was nothing in addition to that or on top of that.",a,THE WITNESS,start_question
+351,1581,64,2,"All right.  And I want to clarify something, because it was talked about for a while on cross- examination.  Why do you not need to read the reading radiologist's report?",q,MR. LAVIN,start_answer
+352,1585,64,6,"I mean the short answer is that that's what I do, right?  So I mean how valuable would I be as an expert if I needed somebody else's report to tell me what the images showed? I think my value is that I look at a set of images without any external bias or influence.  And I generate an opinion of what those images show.  I guess it keeps me fair, right?  So yes.",a,THE WITNESS,start_question
+353,1593,64,14,Have any of the plaintiff's attorney's questions caused you to alter or change the opinions that are detailed in your report?,q,MR. LAVIN,start_answer
+354,1596,64,17,No.,a,THE WITNESS,start_question
+355,1597,64,18,"All right.  When you review MRI films, do you do so objectively?",q,MR. LAVIN,start_answer
+356,1599,64,20,Yes.,a,THE WITNESS,start_question
+357,1600,64,21,"After reviewing plaintiff's film and being cross-examined by plaintiff's counsel, what is your ultimate opinion to a reasonable degree of medical certainty?",q,MR. LAVIN,start_answer
+358,1605,65,1,That there is no traumatic injuries or traumatic aggravation of any kind in the right shoulder or the cervical spine.,a,THE WITNESS,start_chat
+359,1608,65,4,"Thank you, Dr. Dheer.",side_chat,MR. LAVIN,symbols
+360,1609,65,5,- - - RECROSS-EXAMINATION,symbols,,symbols
+361,1611,65,7,- - -,symbols,,start_question
+362,1613,65,9,"And Doctor, you mentioned about your objective, being objective and being fair.  Just to be clear for the jury, you're here at the behest and on behalf of defense counsel's office, correct?",q,MR. SPEZIALI,start_answer
+363,1617,65,13,That is correct.,a,THE WITNESS,start_question
+364,1618,65,14,"And you are being paid by them for your time and your opinions here today, correct?",q,MR. SPEZIALI,start_answer
+365,1620,65,16,"For my time, not my opinions, regardless of what my opinions may be.",a,THE WITNESS,start_question
+366,1622,65,18,"Right.  And the work you did on this case, correct?",q,MR. SPEZIALI,start_answer
+367,1624,65,20,Correct.,a,THE WITNESS,start_chat
+368,1625,65,21,Okay.  No further questions.,side_chat,MR. SPEZIALI,start_chat
+369,1627,65,23,Dep's concluded. Time is 5:01.,side_chat,THE VIDEOGRAPHER,symbols
+370,1630,66,1,- - -,symbols,,is brackets
+371,1631,66,2,"(Whereupon, the deposition concluded at 5:01 p.m.)",brackets,,symbols
+372,1633,66,4,- - -,symbols,,symbols
+373,1655,67,1,- - - C E R T I F I C A T I O N,symbols,,symbols
+374,1657,67,3,"- - - I, Amanda Brooks, a court reporter and commissioner of deeds, do hereby certify that the proceedings and evidence are contained fully and accurately in the stenographic notes taken by me on Thursday, August 29th, 2019, and that the foregoing testimony was taken in shorthand by myself and reduced to typing under my direction and control and that this is a correct transcript of the same.",symbols,,symbols
+375,1667,67,13,------------- AMANDA BROOKS Court Reporter Commissioner of Deeds,symbols,,is brackets
+376,1674,67,20,"(The foregoing certification of this transcript does not apply to any reproduction of the same by any means, unless under the direct control and/or supervision of the certifying shorthand reporter.)",brackets,,end

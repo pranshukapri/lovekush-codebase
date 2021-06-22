@@ -1,0 +1,874 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," after having been first duly sworn, was deposed and says as follows: EXAMINATION",,,start_question
+1,207,8,12,"Ms. Zurn, you understand that the oath that you have given is the same oath that you would be given in a court of law and comes with the same penalties of perjury?",q,MR. ELLERBE,start_answer
+2,211,8,16,Yes.,a,THE WITNESS,start_question
+3,212,8,17,"Now, the court reporter is taking down every spoken word, so nods or head shakes cannot be transcribed by the court reporter. Also, the court reporter can only take down what is being said by one person at a time.  I, therefore, ask that you wait until I finish my questions before you answer, and I will provide you with the same courtesy or try to. Understood?",q,MR. ELLERBE,start_answer
+4,223,9,2,Okay.  Yes.,a,THE WITNESS,start_question
+5,224,9,3,"If you don't understand a question, please let me know.  If you do answer my question, I will assume that understand and answer -- you understood and answered the question that I asked. Do you understand?",q,MR. ELLERBE,start_answer
+6,230,9,9,Yes.,a,THE WITNESS,start_question
+7,231,9,10,"Please do not guess in response to my questions.  However, I am entitled to your best estimate.  Do you understand the difference between a guess and an estimate?",q,MR. ELLERBE,start_answer
+8,235,9,14,Yes.,a,THE WITNESS,start_question
+9,236,9,15,Is there any reason you cannot go forward with providing your best testimony today?,q,MR. ELLERBE,start_answer
+10,238,9,17,No.,a,THE WITNESS,start_question
+11,239,9,18,Is there any reason you cannot testify fully and truthfully?,q,MR. ELLERBE,start_answer
+12,241,9,20,No.,a,THE WITNESS,start_question
+13,242,9,21,"Are you under the influence of any drugs, alcohol or medications that may affect your ability to respond to my questions fully and truthfully?",q,MR. ELLERBE,start_answer
+14,246,9,25,No.,a,THE WITNESS,start_question
+15,248,10,1,"If you need a break, just feel free to ask, okay?",q,MR. ELLERBE,start_answer
+16,250,10,3,Okay.,a,THE WITNESS,start_question
+17,251,10,4,Do you have any questions regarding the deposition process before we start?,q,MR. ELLERBE,start_answer
+18,253,10,6,Not at this time.,a,THE WITNESS,start_question
+19,254,10,7,Have you ever been deposed before?,q,MR. ELLERBE,start_answer
+20,255,10,8,Yes.,a,THE WITNESS,start_question
+21,256,10,9,"Okay.  So then you know that your counsel may make objections during the deposition.  And the purpose of the objection is for the judge to review that objection later.  So an objection is not an instruction to not answer.  So unless you're instructed not to answer the question by your counsel, please answer the question. Do you understand?",q,MR. ELLERBE,start_answer
+22,265,10,18,Yes.,a,THE WITNESS,start_question
+23,266,10,19,Okay.  How many times have you been deposed before?,q,MR. ELLERBE,start_answer
+24,268,10,21,Once.,a,THE WITNESS,start_question
+25,269,10,22,Can you describe the proceeding in which you were deposed?,q,MR. ELLERBE,start_answer
+26,271,10,24,Are you asking the specific subject for which I was deposed?,a,THE WITNESS,start_question
+27,274,11,1,Yes.,q,MR. ELLERBE,start_answer
+28,275,11,2,I was asked to provide subject matter expertise relating to a claim on warranty for our implantable cardiac rhythm devices.,a,THE WITNESS,start_question
+29,278,11,5,Okay.  Have you ever testified at trial?,q,MR. ELLERBE,start_answer
+30,279,11,6,No.,a,THE WITNESS,start_question
+31,280,11,7,Okay.  Are you appearing at this deposition as the corporate representative of Boston Scientific Corporation?,q,MR. ELLERBE,start_answer
+32,283,11,10,Yes.,a,THE WITNESS,start_question
+33,284,11,11,Okay.  What is your position -- or --,q,MR. ELLERBE,start_chat
+34,285,11,12,"Just to clarify that, Counsel, it's for two topics that she's here as the corporate representative, topic 4 and topic 7.",side_chat,MR. ROBINSON,start_chat
+35,289,11,16,Correct.  Okay. Thank you.,side_chat,MR. ELLERBE,start_question
+36,292,11,19,Are you currently employed by Boston Scientific Corporation?,q,MR. ELLERBE,start_answer
+37,294,11,21,I am.,a,THE WITNESS,start_question
+38,295,11,22,What is your current position?,q,MR. ELLERBE,start_answer
+39,296,11,23,I am director of global post market quality assurance.,a,THE WITNESS,start_question
+40,298,11,25,And how long have you been at Boston Scientific?,q,MR. ELLERBE,start_answer
+41,301,12,2,"I started in 1999 and worked until 2012, and then I left the company to go to a different company that Boston later acquired in 2015, so I've been back since 2015.",a,THE WITNESS,start_question
+42,305,12,6,And in 1999 were you working at Guidant or Boston Scientific?,q,MR. ELLERBE,start_answer
+43,307,12,8,Guidant.,a,THE WITNESS,start_question
+44,308,12,9,And then Guidant was acquired by Boston Scientific in 2006; is that right?,q,MR. ELLERBE,start_answer
+45,310,12,11,Yes.,a,THE WITNESS,start_question
+46,311,12,12,"So for that whole period you were working first at Guidant and then Boston Scientific, but was it all the cardiac rhythm management group?",q,MR. ELLERBE,start_answer
+47,315,12,16,Correct.,a,THE WITNESS,start_question
+48,316,12,17,And what was your position at Boston Scientific/Guidant in 2007 through 2009?,q,MR. ELLERBE,start_answer
+49,319,12,20,"So it varied, but I believe in 2007 I was the manager of device tracking.  And then sometime in 2008 I became the director of post market within the cardiac rhythm management division, and that covered 2008 and 2009.",a,THE WITNESS,start_question
+50,326,13,1,Okay.  And was that a position in the quality group?,q,MR. ELLERBE,start_answer
+51,328,13,3,Yes.,a,THE WITNESS,start_question
+52,329,13,4,So was your -- was the person you reported to Bill Young?,q,MR. ELLERBE,start_answer
+53,331,13,6,"In -- when I became the director, that is correct, in 2008.",a,THE WITNESS,start_question
+54,333,13,8,And before that who did you report to?,q,MR. ELLERBE,start_answer
+55,334,13,9,"I'm trying to remember in -- when I was managing device tracking.  I can't remember if Bill Young was still there or if I reported to, I think it was, Noel Colon, who would have been a director.",a,THE WITNESS,start_question
+56,339,13,14,Okay.  And can you describe your official duties as the manager of device tracking?,q,MR. ELLERBE,start_answer
+57,341,13,16,"I was responsible for ensuring that all the cardiac rhythm management devices were tracked in accordance with the FDA device tracking regulations 821, so I oversaw the operations that involved collecting device tracking registrations and the process that made sure that we continued to follow those patients, including the physician they were -- that saw the patient, where the patient resided, from the point that the patient received the device until the device came out of service.",a,THE WITNESS,start_question
+58,354,14,3,And would you also track whether the patient died or not?,q,MR. ELLERBE,start_answer
+59,356,14,5,"We would do our best to capture if there was a death, correct.",a,THE WITNESS,start_question
+60,358,14,7,"Can you describe your official duties as director of post market -- I'm sorry, can you describe what that --",q,MR. ELLERBE,start_answer
+61,361,14,10,Post market quality assurance.,a,THE WITNESS,start_question
+62,362,14,11,Can you describe what those -- what your position entailed there?,q,MR. ELLERBE,start_answer
+63,364,14,13,"To clarify, you're talking about when I was in the role in 2008 and 2009?",a,THE WITNESS,start_question
+64,366,14,15,That's correct.,q,MR. ELLERBE,start_answer
+65,367,14,16,"Okay.  In that role I was responsible for the post market operations for the cardiac rhythm management division, which included device tracking, it included post market, which was our complaint handling, as well as our failure analysis lab, which received returned explanted products and did analysis testing.",a,THE WITNESS,start_question
+66,374,14,23,What percentage of devices were returned to the failure analysis lab for testing?,q,MR. ELLERBE,start_chat
+67,376,14,25,"I'm going to object to the form of the question as being outside the scope of the topics for which Ms. Zurn has been designated as a corporate rep.  She can answer the question, but only in her individual capacity.  The answer is not going to be binding on the corporation. You can answer the question.",side_chat,MR. ROBINSON,start_chat
+68,385,15,8,"Your objection is noted for the record.  I think that's a matter that would have to be decided by the judge, and I'll just note that for the record.",side_chat,MR. ELLERBE,start_chat
+69,390,15,13,I just think I need to put you on notice about that when you go out of scope.,side_chat,MR. ROBINSON,start_chat
+70,393,15,16,Okay.  Understood.,side_chat,MR. ELLERBE,start_chat
+71,394,15,17,Can you please restate the question again now?,side_chat,THE WITNESS,start_chat
+72,396,15,19,Sure.,side_chat,MR. ELLERBE,start_question
+73,398,15,21,What percentage of devices were returned to the failure analysis lab for testing?,q,MR. ELLERBE,start_answer
+74,400,15,23,And I'm interpreting the question to be returned relative to those that had a complaint?,a,THE WITNESS,start_question
+75,404,16,1,Sure.,q,MR. ELLERBE,start_answer
+76,405,16,2,"To the best of my recollection, approximately 20 to 25 percent.",a,THE WITNESS,start_question
+77,407,16,4,Okay.  So was MDR reporting one of the subjects over which you had managerial authority?,q,MR. ELLERBE,start_answer
+78,410,16,7,Yes.,a,THE WITNESS,start_question
+79,411,16,8,Can you explain what an IDE is?,q,MR. ELLERBE,start_answer
+80,412,16,9,I will tell you to the best of my knowledge.,a,THE WITNESS,start_question
+81,413,16,10,Okay.,q,MR. ELLERBE,start_answer
+82,414,16,11,It stands for investigational device exemption.  My understanding is it's a process through the FDA by which a device that's not yet fully market approved is allowed to be implanted through some sort of a clinical study.,a,THE WITNESS,start_question
+83,420,16,17,Okay.  Do you know whether there was an IDE that applied to Cognis and Teligen?,q,MR. ELLERBE,start_answer
+84,422,16,19,I believe there was.,a,THE WITNESS,start_chat
+85,423,16,20,Objection to scope. You can answer the question.,side_chat,MR. ROBINSON,start_chat
+86,425,16,22,"I believe the answer is yes, there were -- there was.",side_chat,THE WITNESS,start_question
+87,428,16,25,And do you know when that IDE went into effect?,q,MR. ELLERBE,start_answer
+88,431,17,2,I -- I -- into effect as when it started?,a,THE WITNESS,start_question
+89,432,17,3,Correct.,q,MR. ELLERBE,start_answer
+90,433,17,4,I don't know the date.,a,THE WITNESS,start_question
+91,434,17,5,Okay.  Would it have been before 2007?,q,MR. ELLERBE,start_answer
+92,435,17,6,I honestly don't know.,a,THE WITNESS,start_question
+93,436,17,7,Okay.  Did a company like Boston Scientific have any obligation to report on events that occurred during an IDE?,q,MR. ELLERBE,start_chat
+94,439,17,10,Objection to form. You can answer.,side_chat,MR. ROBINSON,start_chat
+95,441,17,12,Answer? Did the company have an obligation to report -- can you please restate?,side_chat,THE WITNESS,start_chat
+96,444,17,15,Sure.,side_chat,MR. ELLERBE,start_question
+97,446,17,17,Did Boston Scientific have any obligation to report on any adverse events that happened during an IDE?,q,MR. ELLERBE,start_answer
+98,449,17,20,Yes.,a,THE WITNESS,start_question
+99,450,17,21,Okay.  Can you describe what that obligation was?,q,MR. ELLERBE,start_answer
+100,452,17,23,"The obligation would be governed under the IDE process.  So for any clinical study there is typically a protocol that describes the -- how an adverse event would be defined for that particular study, and that would also govern what types of adverse events would be reported.",a,THE WITNESS,start_question
+101,460,18,5,"Okay.  Now, did Boston Scientific submit a supplemental PMA for the Cognis and Teligen devices to the FDA in December of 2007?",q,MR. ELLERBE,start_chat
+102,463,18,8,Objection to scope. You can answer if you know.,side_chat,MR. ROBINSON,start_chat
+103,465,18,10,I don't know for sure.  I can't say for certain.,side_chat,THE WITNESS,start_question
+104,468,18,13,Do you know whether Boston Scientific submitted a supplemental PMA for Cognis and Teligen?,q,MR. ELLERBE,start_answer
+105,471,18,16,"My best, not guess, but estimation, is I believe they would have.",a,THE WITNESS,start_question
+106,473,18,18,And does the December 2007 time period sound right to you?,q,MR. ELLERBE,start_answer
+107,475,18,20,I don't know.,a,THE WITNESS,start_question
+108,476,18,21,"Okay.  Now, once a supplemental PMA -- strike that. Would there be an IDE for a device before a supplemental PMA was submitted?",q,MR. ELLERBE,start_chat
+109,480,18,25,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+110,482,19,1,I don't know.,side_chat,THE WITNESS,start_question
+111,484,19,3,You don't know -- can you describe the sequence in the development of a device and how -- strike that. Can you describe how the IDE and the supplemental PMA interact in terms of the sequence of the development of a device?,q,MR. ELLERBE,start_chat
+112,490,19,9,"Objection to scope. You can answer if you can, but...",side_chat,MR. ROBINSON,start_chat
+113,492,19,11,"The best of my knowledge is an IDE study is undertaken to -- from a clinical study perspective that is part of then a submission to the FDA, it's part of the data that goes into the FDA in terms of seeking approval for that device to market it.",side_chat,THE WITNESS,start_chat
+114,499,19,18,Okay.,side_chat,MR. ELLERBE,start_question
+115,501,19,20,"Now, once a supplemental PMA is submitted for a device, do the rules change as to what kind of events need be to reported to the FDA?",q,MR. ELLERBE,start_chat
+116,504,19,23,Objection to scope. You can answer if you can.,side_chat,MR. ROBINSON,start_chat
+117,506,19,25,"I'd like you to clarify the question, because I want to make sure I understand what you're asking.",side_chat,THE WITNESS,start_chat
+118,510,20,3,Okay.,side_chat,MR. ELLERBE,start_question
+119,512,20,5,So let's say that there was an IDE for a device first.  Do you understand?,q,MR. ELLERBE,start_answer
+120,514,20,7,Yup.,a,THE WITNESS,start_question
+121,515,20,8,Okay.  And then a supplemental PMA is submitted.,q,MR. ELLERBE,start_answer
+122,517,20,10,Uh-huh.,a,THE WITNESS,start_question
+123,518,20,11,"Now, you had testified earlier that the IDE would describe what kind of events needed to be reported to the FDA, right?",q,MR. ELLERBE,start_answer
+124,521,20,14,Correct.,a,THE WITNESS,start_question
+125,522,20,15,"Now, once that supplemental PMA is submitted, does anything change in terms of reporting on adverse events or is it the same rules apply?",q,MR. ELLERBE,start_answer
+126,525,20,18,"I think it depends on whether -- are you asking before -- we submit it in there's a time period, have we gotten approval from the FDA to market that product?",a,THE WITNESS,start_question
+127,529,20,22,Sorry?,q,MR. ELLERBE,start_answer
+128,530,20,23,"Because once it's marketed, then, yes, the rules change in terms of it becomes a post market -- becomes governed under the 803 regulation.",a,THE WITNESS,start_question
+129,535,21,2,I'm talking about the time period between when the supplemental PMA is submitted and when it is approved by the FDA.,q,MR. ELLERBE,start_answer
+130,538,21,5,"So I will tell you the answer to that is the 803 regulations would not kick in until approval, so that gap period would not require MDR reporting.",a,THE WITNESS,start_question
+131,542,21,9,Okay.  And I'm -- okay.  Understood.  Thank you. And are there any other rules and regulations that apply during that dependency of the supplemental PMA?,q,MR. ELLERBE,start_chat
+132,547,21,14,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+133,548,21,15,I'm not sure what specifically you're asking.  It's a -- it's a little bit of a vague question for me.,side_chat,THE WITNESS,start_chat
+134,551,21,18,Okay.,side_chat,MR. ELLERBE,start_chat
+135,552,21,19,Can you help clarify?,side_chat,THE WITNESS,start_chat
+136,554,21,21,Sure.,side_chat,MR. ELLERBE,start_question
+137,556,21,23,I'll take it -- maybe if we go with a different line of questions --,q,MR. ELLERBE,start_answer
+138,558,21,25,Okay.,a,THE WITNESS,start_question
+139,560,22,1,-- maybe it'll help explain. Do you know whether Boston Scientific began implanting Cognis and Teligen devices -- strike that. Do you know whether doctors began implanting the Cognis and Teligen devices in patients outside of the United States before the FDA approved the supplemental PMA for the Cognis and Teligen devices?,q,MR. ELLERBE,start_answer
+140,569,22,10,"I believe the answer is yes, as part of the clinical study.",a,THE WITNESS,start_question
+141,571,22,12,Okay.  And do you know whether those implants took place before or after the supplemental PMA was submitted?,q,MR. ELLERBE,start_answer
+142,574,22,15,I don't know for certain.  My estimate -- best estimation would be they probably would have.,a,THE WITNESS,start_question
+143,577,22,18,Probably would have what?,q,MR. ELLERBE,start_answer
+144,578,22,19,"The implants would have -- outside the U.S., would have been occurring prior to our submission to the FDA.",a,THE WITNESS,start_question
+145,581,22,22,Okay.  I'm going to represent to you that the implants took place after the supplemental PMA was submitted.,q,MR. ELLERBE,start_answer
+146,584,22,25,Okay.,a,THE WITNESS,start_question
+147,586,23,1,"So my question is:  What were the requirements in terms of reporting on those events that occurred in those implants outside of the United States while the supplemental PMA was pending, but before it was approved by the FDA?",q,MR. ELLERBE,start_answer
+148,592,23,7,Is your question relative to clinical reporting obligations or post market reporting obligations?,a,THE WITNESS,start_question
+149,595,23,10,"Well, let's take both.",q,MR. ELLERBE,start_answer
+150,596,23,11,"Okay.  So the question again is post supplement to the FDA, but -- I want -- I'm sorry, you've asked a lot of pre and post.",a,THE WITNESS,start_question
+151,599,23,14,Sure.,q,MR. ELLERBE,start_answer
+152,600,23,15,Could you please restate?,a,THE WITNESS,start_question
+153,601,23,16,Sure.  And maybe I'll just make further representations as to the timeline --,q,MR. ELLERBE,start_answer
+154,603,23,18,Okay.,a,THE WITNESS,start_question
+155,604,23,19,-- and to aid you in answering the questions. So the supplemental PMA for the Cognis and Teligen devices were -- I'll represent that that was submitted to the FDA in December of 2007.,q,MR. ELLERBE,start_answer
+156,609,23,24,Okay.,a,THE WITNESS,start_question
+157,610,23,25,And I'll further represent that doctors began implanting the Cognis and Teligen devices in patients outside the United States in February of 2008.,q,MR. ELLERBE,start_answer
+158,615,24,4,Okay.,a,THE WITNESS,start_question
+159,616,24,5,"And then I will finally represent that the FDA approved the supplemental PMA for the Cognis and Teligen devices in -- on -- on or about May 8th, 2008.",q,MR. ELLERBE,start_answer
+160,620,24,9,Okay.,a,THE WITNESS,start_question
+161,621,24,10,So my question is what were the requirements for reporting on adverse events that occurred in those outside the United States implants before the FDA approved the supplemental PMA?,q,MR. ELLERBE,start_answer
+162,625,24,14,Okay.  I'll answer from an MDR first --,a,THE WITNESS,start_question
+163,626,24,15,Okay.,q,MR. ELLERBE,start_answer
+164,627,24,16,-- because it's probably easier for me.  The MDR 803 rules do not apply until a device is marketed or approved.,a,THE WITNESS,start_question
+165,630,24,19,Okay.,q,MR. ELLERBE,start_answer
+166,631,24,20,"So if you're telling me the approval was in May of 2008, it would have been upon approval that at that time we would have began reporting for an MDR.",a,THE WITNESS,start_question
+167,635,24,24,Okay.,q,MR. ELLERBE,start_answer
+168,636,24,25,"Relative to IDE, my answer is that they would follow the clinical study protocol that was in place.",a,THE WITNESS,start_question
+169,640,25,3,Okay.,q,MR. ELLERBE,start_answer
+170,641,25,4,So whatever the protocol stipulated relative to adverse event reporting is what would have been reported.,a,THE WITNESS,start_question
+171,644,25,7,Okay.  Is the outside the United States territory sometimes referred to as OUS?,q,MR. ELLERBE,start_answer
+172,646,25,9,Yes.,a,THE WITNESS,start_question
+173,647,25,10,Okay.  Can you explain what MDRs are?,q,MR. ELLERBE,start_answer
+174,648,25,11,Yes.  MDR stands for medical device report. It is a requirement from the FDA as part of the 803 regulation on informing the FDA of certain types of events that happen once a device is approved for market release.,a,THE WITNESS,start_question
+175,653,25,16,Okay.  So let's look at an exhibit.  And it is Bates-stamped TEMP-BSC00113311.,q,MR. ELLERBE,is brackets
+176,655,25,18,(Exhibit 1 marked.),brackets,,start_question
+177,657,25,20,Okay.  Do you recognize this document?,q,MR. ELLERBE,start_answer
+178,658,25,21,I do.,a,THE WITNESS,start_question
+179,659,25,22,Okay.  Can you explain what it is?,q,MR. ELLERBE,start_answer
+180,660,25,23,It is a memo documenting minutes from a QSAT meeting from November of 2008.,a,THE WITNESS,start_question
+181,662,25,25,Okay.  And what is a QSAT meeting?,q,MR. ELLERBE,start_answer
+182,664,26,1,I believe the acronym stood for Quality System Assurance Team.,a,THE WITNESS,start_question
+183,666,26,3,And were you on the QSAT?,q,MR. ELLERBE,start_answer
+184,667,26,4,"I was not, I don't believe, a formal member, but I periodically attended them depending on the topic.",a,THE WITNESS,start_question
+185,670,26,7,Okay.  Did you attend this meeting?,q,MR. ELLERBE,start_answer
+186,671,26,8,Apparently I did.  I see my name as an attendee here.,a,THE WITNESS,start_question
+187,673,26,10,Okay.  And do you see there are action items in the bottom half of the page?,q,MR. ELLERBE,start_answer
+188,675,26,12,I do.,a,THE WITNESS,start_question
+189,676,26,13,Okay.  And do you see that two of the action items are assigned to you; is that right?,q,MR. ELLERBE,start_answer
+190,678,26,15,I do.,a,THE WITNESS,start_question
+191,679,26,16,Okay.  Can you describe what those action items are?,q,MR. ELLERBE,start_answer
+192,681,26,18,"Give me a minute to read it, please.",a,THE WITNESS,start_question
+193,682,26,19,Sure.,q,MR. ELLERBE,start_answer
+194,683,26,20,"(Reviews document.)  So the first one is an action to ensure that we looked at the definition of similar product in the FDA regulations and made sure that we were appropriately applying it. And I believe the second one is an action to -- after we went back and looked at those, anything else that we deem not reportable just to verify that that was the accurate assessment.  That's the best of my recollection.",a,THE WITNESS,start_question
+195,695,27,6,"Okay.  Can you explain the first part of that first action item -- excuse me -- that says, ""Ensure procedures clearly state ambiguous events require reporting to the FDA""?  Can you explain what that means?",q,MR. ELLERBE,start_answer
+196,700,27,11,"So I -- I don't remember exactly, but I will tell you what I would interpret it today as being.",a,THE WITNESS,start_question
+197,703,27,14,Okay.,q,MR. ELLERBE,start_answer
+198,704,27,15,"Is the regulations are not black and white, and our analysts are forced every day to make judgment and exercise based on their interpretation of the regulation.  We have procedures that do the best we can to make that as easy for them so there isn't ambiguity.  And my interpretation here would be there was something that we identified that wasn't as clearly documented as we could have made it, so the action was to go back and try and remove that ambiguity to make it clearer, our interpretation of the regulations, so that our analysts could appropriately report.",a,THE WITNESS,start_question
+199,719,28,4,"So you're saying that this does not mean that in case an event is ambiguous as to what may have happened, it should be reported to the FDA, that's not what this means?",q,MR. ELLERBE,start_answer
+200,723,28,8,"I'm reading it saying ensure that -- the action is to ensure our procedures clearly state that there was some -- as I said earlier, we want to make our procedures as clear as possible.  I'm reading this to say we wanted to look at our procedures to look at how best to remove ambiguity related to what was reportable to the FDA under the MDR regulation.",a,THE WITNESS,start_question
+201,732,28,17,"But here the word ambiguous, it's describing events; is that right?",q,MR. ELLERBE,start_answer
+202,734,28,19,Yes.,a,THE WITNESS,start_question
+203,735,28,20,Okay.  So is this talking about events that were ambiguous or policies that were ambiguous?,q,MR. ELLERBE,start_answer
+204,738,28,23,"The procedures are in place to interpret events.  Events do not come in black and white.  They often come in with varying -- varying degrees of information.  And so the ambiguous events oftentimes require additional information that we have to seek to clarify.  And, again, I'm -- you asked what I'm interpretation of this action item was.  It was to go ahead and make sure that our procedures are updated to make it easier for our analysts to review ambiguous events to make sure that they come up with a consistent and correct MDR reporting decision.",a,THE WITNESS,start_question
+205,753,29,12,"So this phrase does not mean that ambiguous events do require reporting to the FDA, that ambiguous -- strike that.  I'm sorry, I have more questions, more documents. Now we're going to look at Zurn 2, and it is Bates-stamped BSC_Higgins-00338611.",q,MR. ELLERBE,is brackets
+206,759,29,18,(Exhibit 2 marked.),brackets,,start_question
+207,761,29,20,Take as much time as you need to to review that.,q,MR. ELLERBE,start_answer
+208,763,29,22,(Reviews document.),a,THE WITNESS,start_question
+209,764,29,23,"I should have said, you know, the way that these e-mail chains work is you have to start at the back --",q,MR. ELLERBE,start_answer
+210,768,30,1,Which is what I did exactly.,a,THE WITNESS,start_question
+211,769,30,2,Okay.,q,MR. ELLERBE,start_answer
+212,770,30,3,-- so I can reacquaint myself.,a,THE WITNESS,is brackets
+213,771,30,4,(Reviews document.),brackets,,start_question
+214,772,30,5,"I'll just let you know, you take as much time as you need, but my questions are going to deal with your e-mail on the second page --",q,MR. ELLERBE,start_answer
+215,775,30,8,Okay.,a,THE WITNESS,start_question
+216,776,30,9,-- that ends in 12.,q,MR. ELLERBE,start_answer
+217,777,30,10,"Okay.  (Reviews document.) Okay.  I'm sure I'll want to read it again when you ask, but at least I've acquainted myself with it.",a,THE WITNESS,start_question
+218,781,30,14,Sure.  So can you just describe generally what this document is?,q,MR. ELLERBE,start_answer
+219,783,30,16,It's an e-mail chain among a number of people within the quality and clinical space discussing feedback received through FDA on MDR reporting and reporting under clinical studies.,a,THE WITNESS,start_question
+220,788,30,21,Okay.  So do you see the e-mail that you wrote on June 15th and sent at 5:13 p.m. that appears on the page that ends in 12?,q,MR. ELLERBE,start_answer
+221,791,30,24,I do.,a,THE WITNESS,start_question
+222,792,30,25,Okay.  And who were the people you were sending this to?,q,MR. ELLERBE,start_answer
+223,795,31,2,"Chris Harrold at the time would have been our vice-president of regulatory for the CRM division.  Bill Young would have been our vice-president of quality for the CRM division.  Steve McQuillan was in clinicals. I don't remember his title. Greg Voss was in clinicals, and Erika Huffman was a manager in the post market team.",a,THE WITNESS,start_question
+224,803,31,10,Okay.  So did she work under you at this point in time?,q,MR. ELLERBE,start_answer
+225,805,31,12,Yes.,a,THE WITNESS,start_question
+226,806,31,13,"Okay.  Now do you see the fifth bullet point down in your list of bullet points that begins with, ""Based on our QSAT deep dive""?",q,MR. ELLERBE,start_answer
+227,809,31,16,I do.,a,THE WITNESS,start_question
+228,810,31,17,And does that refer to the meeting whose minutes we just looked at?,q,MR. ELLERBE,start_answer
+229,812,31,19,"It refers to a QSAT.  I can't tell you if it's the exact QSAT meeting, because they were held periodically.",a,THE WITNESS,start_question
+230,815,31,22,Okay.,q,MR. ELLERBE,start_answer
+231,816,31,23,But it does refer to that same forum.,a,THE WITNESS,start_question
+232,817,31,24,Okay.  Can you explain what you're saying in this bullet point?,q,MR. ELLERBE,start_answer
+233,820,32,1,Let me read it one more time --,a,THE WITNESS,start_question
+234,821,32,2,Sure.,q,MR. ELLERBE,start_answer
+235,822,32,3,-- and then I will answer.,a,THE WITNESS,is brackets
+236,823,32,4,"(Reviews document.) Okay.  So at one point in time the -- our interpretation of the FDA regulations related to similar was not as broad as we ultimately made it, meaning it had to be more specific. The regulations don't tell you the definition of similar, so our interpretation at the time was more limited such that when that COGENT 4 study was taking place, it did not meet the definition of similar at that time, so we were not filing MDRs. What this is saying is based on learning from that deep dive, which I believe came through some feedback that we got from FDA on another site within the Boston Scientific family, but not within the CRM or the management division, we took and listened to that feedback and figured out we -- we should be looking at how do we apply it within CRM. It's important to note we were under different quality systems at the time, so what's referred to here as legacy BSC would have been different from cardiac rhythm management.  So what it's saying here is we took the feedback that we received, that we just talked about at a QSAT meeting, and we ultimately updated our procedures to define the definition of similar device.",brackets,,start_question
+237,854,33,9,"Okay.  And is this meaning that if a -- if Boston Scientific has a defibrillator device and it's -- it might still be under an IDE, but there's an adverse event that happens, does this mean that an MDR should be filed for that event?",q,MR. ELLERBE,start_chat
+238,860,33,15,Objection to form. You can answer.,side_chat,MR. ROBINSON,start_chat
+239,862,33,17,It doesn't necessarily mean an MDR would be filed.  It would be evaluated --,side_chat,THE WITNESS,start_chat
+240,865,33,20,Okay.,side_chat,MR. ELLERBE,start_chat
+241,866,33,21,-- against the criteria.,side_chat,THE WITNESS,start_chat
+242,868,33,23,Okay.,side_chat,MR. ELLERBE,start_question
+243,870,33,25,"So -- and if the criteria were met for MDR filing, then an MDR would be filed in that case?",q,MR. ELLERBE,start_answer
+244,874,34,3,"I would go back -- yes, but let me go back one step earlier.  It -- the definition of -- it's not as broad as saying a defibrillator. It had to be of the same product code. There's an FDA pro code that's assigned by the FDA, and that is how we like -- put like categories together and that's how we met the definition of similar. So if you -- if your question is if it met the definition of similar, meaning it had the same pro code, and we walked an MDR decision tree and we got to a decision that yes, it should be reported, yes, it would be reported as an MDR.",a,THE WITNESS,start_question
+245,888,34,17,"Okay.  And when we talk about similar, we're comparing a device that's under the IDE to a device that's already being marketed; is that right?",q,MR. ELLERBE,start_answer
+246,892,34,21,"Yeah, it's comparing -- yes, a device that is marketed to one that may not be marketed, correct.",a,THE WITNESS,start_question
+247,895,34,24,"Okay.  And if they have the same pro code then you would evaluate whether that -- excuse me.  Strike that. The event happens with the device that was not being marketed, right, but then you evaluate whether that device is similar to one that is being marketed; is that right?",q,MR. ELLERBE,start_answer
+248,903,35,6,Correct.,a,THE WITNESS,start_question
+249,904,35,7,"And then if they have the same pro code, then you evaluate whether or not that event needs to be reported under the normal MDR reporting criteria; is that right?",q,MR. ELLERBE,start_answer
+250,908,35,11,Correct.,a,THE WITNESS,start_question
+251,909,35,12,Do you know whether Cognis and Teligen had the same pro codes as their predecessor devices?,q,MR. ELLERBE,start_chat
+252,912,35,15,Objection to form.,side_chat,MR. ROBINSON,start_chat
+253,913,35,16,"I would -- so if I'm not supposed to guess, then I'm going to say I don't know for certain.",side_chat,THE WITNESS,start_chat
+254,916,35,19,Okay.,side_chat,MR. ELLERBE,start_question
+255,918,35,21,Do you know where the information regarding what the pro code for a device would be resides?,q,MR. ELLERBE,start_answer
+256,921,35,24,"So a pro code -- once it's approved, a pro code is assigned by the FDA and there is a database within the FDA that, I believe when you submit your registration, the pro code is part of that process, so we then as a manufacturer know what pro code to use when we do submit MDRs.",a,THE WITNESS,start_question
+257,929,36,6,"And if you submit a supplemental PMA for a new device as opposed to an original PMA, would the new device have the same pro code as the old device which it was supplementing?",q,MR. ELLERBE,start_answer
+258,933,36,10,I don't know.,a,THE WITNESS,start_question
+259,934,36,11,"Okay.  Now, can you explain what your parenthetical note in this bullet point means?",q,MR. ELLERBE,start_answer
+260,937,36,14,"Where it says italic starting with, ""Note""?",a,THE WITNESS,start_question
+261,938,36,15,Correct.,q,MR. ELLERBE,start_answer
+262,939,36,16,"Okay.  Let me read it.  (Reviews document.) Okay.  So it's saying that we did this deep dive, again, as I mentioned learning from feedback -- from FDA from different parts of Boston Scientific, we looked internally within our CRM process and we identified we were not filing MDRs on Cognis/Teligen that were part of COGENT 4. And as I stated earlier, at the time we did not have the definition of similar in place, so it was therefore not applied.  And the rationale I'm stating here is we viewed Cognis/Teligen as a different platform and, therefore, not similar, meaning we weren't using pro code as our basis for similar.  The quality system assurance team agreed with that. We aligned to make the interpretation change on a go-forward basis, so we decided not to go back and file MDRs, but we update our procedures on a go-forward to align with that pro code classification. And that's very consistent with any change in interpretation that we have with regulations, we will make them, very typically, on a go-forward basis.",a,THE WITNESS,start_question
+263,966,37,17,Can you explain why?,q,MR. ELLERBE,start_answer
+264,967,37,18,"Well, as I stated earlier, regulations are not black and white, so interpretation of those regulations is always evolving as we learn more.  So unless we viewed it as a -- a nonconformance where we clearly identified we -- we did not follow the regulation, but rather we evolved our understanding of the regulation, that's on a go-forward basis. There's -- it's very difficult to -- there's -- there's not a line in the sand black and white.  There is a continual evolution of interpretation.  And so when we make those changes, we make them going forward.",a,THE WITNESS,start_question
+265,982,38,7,Okay.  So here's a different hypothetical. If there were an adverse event that happened with a device and Boston Scientific didn't learn about that adverse event until a year later --,q,MR. ELLERBE,start_answer
+266,987,38,12,Okay.,a,THE WITNESS,start_question
+267,988,38,13,-- would it still do -- evaluate whether or not MDR reporting was appropriate for that event even though it had happened 12 months beforehand?,q,MR. ELLERBE,start_answer
+268,992,38,17,"We will take a complaint, no matter when we receive it, and we use the procedures that are in place at the time we get that complaint, and whatever procedure is in place is what we follow. So in your scenario, we learn of a complaint that may have happened sometime in the past, if we learn about it today, we will evaluate it today based on those procedures.",a,THE WITNESS,start_question
+269,1002,39,1,And does the FDA use MDR reporting to make decisions about whether any sort of action on its part is needed?,q,MR. ELLERBE,start_chat
+270,1005,39,4,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+271,1006,39,5,I don't know what FDA -- I can't speak for what FDA does with the information we submit.,side_chat,THE WITNESS,start_question
+272,1010,39,9,You don't know why the FDA requires reporting of MDRs?,q,MR. ELLERBE,start_answer
+273,1012,39,11,That's a different question than what you asked the first time.,a,THE WITNESS,start_question
+274,1014,39,13,"Okay.  Okay.  Well, then, can you tell me, do you know why FDA requires reporting of adverse events?",q,MR. ELLERBE,start_chat
+275,1017,39,16,I'm going to object to scope. You may answer.,side_chat,MR. ROBINSON,start_chat
+276,1020,39,19,"As part of device regulations, there is an obligation on manufacturers to monitor performance of products to ensure that they remain safe and effective, and the MDR regulation is one of the ways that they collect information for that purpose.",side_chat,THE WITNESS,start_question
+277,1029,40,2,"So in this case, wouldn't the FDA want to know about these events that had happened in the COGENT 4 study just as much as they would want to know about events that happened after they approved the devices?",q,MR. ELLERBE,start_chat
+278,1034,40,7,Objection to form and scope. You may answer.,side_chat,MR. ROBINSON,start_chat
+279,1037,40,10,"I'm sorry, I'm trying to understand your question.  Can you either restate it or state it slightly differently for me?",side_chat,THE WITNESS,start_chat
+280,1041,40,14,Sure.,side_chat,MR. ELLERBE,start_question
+281,1043,40,16,"So because Boston Scientific had not submitted MDRs for these events that happened in the COGENT 4 study, the FDA did not have MDR reports for those events, right?",q,MR. ELLERBE,start_chat
+282,1047,40,20,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+283,1049,40,22,They would not have received reports from the -- via the MDR system prior to the market approval.,side_chat,THE WITNESS,start_chat
+284,1052,40,25,Okay.,side_chat,MR. ELLERBE,start_question
+285,1055,41,2,So after the decision was made to change interpretation of the similar --,q,MR. ELLERBE,start_answer
+286,1057,41,4,Uh-huh.,a,THE WITNESS,start_question
+287,1058,41,5,-- is there any reason to think that the FDA wouldn't also be interested in those events?,q,MR. ELLERBE,start_chat
+288,1060,41,7,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+289,1062,41,9,"I can't speculate for what FDA's interest would or would not be.  All I can tell you is that we interpret the regulations and we follow our procedures which are the result of that interpretation, and when we made the change, we followed the regulation -- the interpretation and the procedures going forward.",side_chat,THE WITNESS,start_question
+290,1071,41,18,"But the information is still relevant to these devices that are being marketed at this time, right?",q,MR. ELLERBE,start_chat
+291,1074,41,21,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+292,1076,41,23,"What is your question again, the -- say it again.",side_chat,THE WITNESS,start_question
+293,1080,42,1,"The information about those events that happened in the COGENT 4 study is still relevant to the safety and effectiveness of these devices that were being marketed at the time this decision was made, right?",q,MR. ELLERBE,start_answer
+294,1085,42,6,Yes.,a,THE WITNESS,start_question
+295,1086,42,7,Okay.,q,MR. ELLERBE,start_chat
+296,1087,42,8,"I want to make a -- on the last answer, I'm objecting to the scope on that one as well.",side_chat,MR. ROBINSON,start_question
+297,1091,42,12,"Okay.  I'm going to show you another document.  This will be Zurn 3, and it's Bates-stamped BSC_Higgins-00275074.",q,MR. ELLERBE,is brackets
+298,1094,42,15,(Exhibit 3 marked.),brackets,,start_chat
+299,1095,42,16,(Reviews document.) Okay.,side_chat,THE WITNESS,start_question
+300,1098,42,19,Okay.  What is this document?,q,MR. ELLERBE,start_answer
+301,1099,42,20,This is a Complaint Summary Report from our Lighthouse complaint management system.,a,THE WITNESS,start_question
+302,1101,42,22,Okay.  And is it sometimes referred to -- this kind of document sometimes referred to as a CSR?,q,MR. ELLERBE,start_answer
+303,1104,42,25,Yes.,a,THE WITNESS,start_question
+304,1106,43,1,"Okay.  And do you see there's a number at the top of the first page that says, ""Internal PI number""?",q,MR. ELLERBE,start_answer
+305,1109,43,4,Yes.,a,THE WITNESS,start_question
+306,1110,43,5,Can you describe what that internal PI number means?,q,MR. ELLERBE,start_answer
+307,1112,43,7,It's the -- I believe it's the unique complaint number within Lighthouse.,a,THE WITNESS,start_question
+308,1114,43,9,Okay.  And can you just generally describe what information the CSRs contain?,q,MR. ELLERBE,start_answer
+309,1116,43,11,"They contain a summary of what was reported to us relative to a complaint.  They may contain any attempts that we make to collect additional or missing information if we need it. It would reflect whether we got the product back, if there was any analysis testing.  It would reflect if we had any -- it would reflect our assessment of whether or not it was reportable either to the FDA via an MDR or outside the United States through various vigilance reporting requirements.",a,THE WITNESS,start_question
+310,1128,43,23,And what is vigilance reporting requirements?,q,MR. ELLERBE,start_answer
+311,1129,43,24,Vigilance reporting is the generic term we use for a regulatory report outside the U.S. So analogous to an MDR is to the U.S. what a vigilance report would be to various countries throughout the world.,a,THE WITNESS,start_question
+312,1135,44,4,Okay.  And how -- or strike that. Would Complaint Summary Reports be used in the process of deciding whether or not to report an event to regulators?,q,MR. ELLERBE,start_answer
+313,1139,44,8,"This document itself, no.  The individual analyst doesn't use or print this document. This is a result of their work.",a,THE WITNESS,start_question
+314,1142,44,11,Okay.,q,MR. ELLERBE,start_answer
+315,1143,44,12,"So they would not use this document, per se, to make a reporting decision.",a,THE WITNESS,start_question
+316,1145,44,14,Okay.  Does a Complaint Summary Report reflect all the information that the analyst uses?,q,MR. ELLERBE,start_answer
+317,1148,44,17,"It reflects a summary of their investigation of the work that they've performed, yes.",a,THE WITNESS,start_question
+318,1150,44,19,Okay.  Okay.  And then can you turn to the second page?,q,MR. ELLERBE,start_answer
+319,1152,44,21,Uh-huh.,a,THE WITNESS,start_question
+320,1153,44,22,Does this page tell you where the event happened?,q,MR. ELLERBE,start_answer
+321,1155,44,24,"I'm looking here.  (Reviews document.) ""Account country,"" if we have it, would be populated.  In this case it's blank, so it's possible we did not -- were not able to obtain all the information.",a,THE WITNESS,start_question
+322,1161,45,4,"What about, ""Source Country""?",q,MR. ELLERBE,start_answer
+323,1162,45,5,"I'm sorry, I'm looking for that.  Hold on.",a,THE WITNESS,start_question
+324,1163,45,6,It's at the top on the right.,q,MR. ELLERBE,start_answer
+325,1164,45,7,There you go.,a,THE WITNESS,start_question
+326,1165,45,8,Okay.,q,MR. ELLERBE,start_answer
+327,1166,45,9,"Actually, I'm going to reclarify my previous question.  The account country would be specific to the contact information.",a,THE WITNESS,start_question
+328,1169,45,12,Okay.,q,MR. ELLERBE,start_answer
+329,1170,45,13,"But thank you for pointing out the source country is on the top, and it's Germany in this case.",a,THE WITNESS,start_question
+330,1173,45,16,So that means this event happened in Germany?,q,MR. ELLERBE,start_answer
+331,1174,45,17,Yes.,a,THE WITNESS,start_question
+332,1175,45,18,"And does the event date right under that mean that this event happened on March 18th, 2008?",q,MR. ELLERBE,start_answer
+333,1177,45,20,Yes.,a,THE WITNESS,start_question
+334,1178,45,21,"Okay.  And then at the bottom, do you see where it says, ""Device Info,"" that section?",q,MR. ELLERBE,start_answer
+335,1180,45,23,"Device Info, yes.",a,THE WITNESS,start_question
+336,1181,45,24,And does this mean that this was a Teligen device model F102 serial number 000128?,q,MR. ELLERBE,start_answer
+337,1184,46,1,Yes.,a,THE WITNESS,start_question
+338,1185,46,2,Okay.,q,MR. ELLERBE,start_chat
+339,1186,46,3,Should we maybe go off the record now.,side_chat,MR. ELLERBE,start_chat
+340,1188,46,5,We are going off the record at 9:50 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+341,1190,46,7,(Recess.),brackets,,start_chat
+342,1191,46,8,We are back on the record at 10:33 a.m.,side_chat,THE VIDEOGRAPHER,start_question
+343,1194,46,11,"Ms. Zurn, do you understand that you're still under oath?",q,MR. ELLERBE,start_answer
+344,1196,46,13,Yes.,a,THE WITNESS,start_question
+345,1197,46,14,"And before we took a break, we were talking about a CSR for an event that was labeled with an internal PI number 1261088-1; is that right?",q,MR. ELLERBE,start_answer
+346,1201,46,18,Correct.,a,THE WITNESS,start_question
+347,1202,46,19,Can you explain to me what the dash 1 means in that number?,q,MR. ELLERBE,start_answer
+348,1204,46,21,I don't know.,a,THE WITNESS,start_question
+349,1205,46,22,Okay.  Okay.  Can you turn to the third page in this document that ends in 076.,q,MR. ELLERBE,start_answer
+350,1207,46,24,(Complies.),a,THE WITNESS,start_question
+351,1208,46,25,"And can you read the description into the record, please?",q,MR. ELLERBE,start_answer
+352,1211,47,2,"""Event description, Boston Scientific CRM received information that this implanted right ventricular defibrillation lead presented with shocking impedances above 125 ohms one day after implant.""",a,THE WITNESS,start_question
+353,1216,47,7,Okay.  And then can you please read the manufacturer narrative as well?,q,MR. ELLERBE,start_answer
+354,1218,47,9,"""During the revision procedure, it was discovered that the lead's terminal pin was not fully inserted into the header of the implanted implantable cardioverter defibrillator,"" parenthesis, ""ICD.  The lead was reconnected and now the shock impedance measurements are within normal parameters. No adverse patient effects were reported.  No additional information is available.""",a,THE WITNESS,start_question
+355,1227,47,18,"So based off of that description, is it correct to say that this patient had a Teligen device implanted and then the next day it was discovered that one of the leads had a shocking impedance measurement above 125 ohms?",q,MR. ELLERBE,start_chat
+356,1233,47,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+357,1234,47,25,I think that's how I would summarize it.,side_chat,THE WITNESS,start_question
+358,1238,48,3,And then when it -- the manufacturer narrative refers to the revision procedure. Can you describe what a revision procedure is?,q,MR. ELLERBE,start_chat
+359,1242,48,7,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+360,1244,48,9,"Revision procedure would be one where after the device is implanted, something requires the patient to go back into surgery for various reasons to have the implanted device revised.",side_chat,THE WITNESS,start_question
+361,1250,48,15,And so that means the pocket is reopened; is that right?,q,MR. ELLERBE,start_chat
+362,1252,48,17,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+363,1254,48,19,It could be.  I don't know that it's always that case.,side_chat,THE WITNESS,start_question
+364,1257,48,22,"Reading this narrative, do you believe that the pocket was reopened?",q,MR. ELLERBE,start_chat
+365,1259,48,24,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+366,1262,49,1,"I would say yes, based on the sentence where it says the lead was reconnected.  To me that would imply yes.",side_chat,THE WITNESS,start_question
+367,1266,49,5,"Do you see on the next page, at the top it says, ""Regulatory decision information""?",q,MR. ELLERBE,start_answer
+368,1268,49,7,Yes.,a,THE WITNESS,start_question
+369,1269,49,8,Okay.  And is this what you were referring to earlier when you said that CSRs would record what the regulatory decision-making reporting -- strike that. Does this show what the regulatory reporting decision was for this event?,q,MR. ELLERBE,start_answer
+370,1275,49,14,Yes.,a,THE WITNESS,start_question
+371,1276,49,15,Okay.  And does this show that no reporting was done for the United States?,q,MR. ELLERBE,start_answer
+372,1278,49,17,Yes.,a,THE WITNESS,start_chat
+373,1279,49,18,Objection to form.,side_chat,MR. ROBINSON,start_question
+374,1281,49,20,Does this show that there was reporting done to an international regulator?,q,MR. ELLERBE,start_answer
+375,1283,49,22,Yes.,a,THE WITNESS,start_question
+376,1284,49,23,Do you know which regulator that would be?,q,MR. ELLERBE,start_answer
+377,1285,49,24,"From this box, I can't tell for certain.",a,THE WITNESS,start_question
+378,1286,49,25,"Based off of the fact that this implant occurred in Germany, does that give you information?",q,MR. ELLERBE,start_answer
+379,1290,50,3,"More than likely, then, it would have been the German competent authority.",a,THE WITNESS,start_question
+380,1292,50,5,Do you know why this event was not reported to the FDA?,q,MR. ELLERBE,start_chat
+381,1294,50,7,Objection to form.,side_chat,MR. ROBINSON,start_chat
+382,1295,50,8,"Well, the rationale on this, I can't tell exactly from -- because it's -- there's the blank field here.  But based on the date and based on the fact that I believe this device was not approved in the U.S. yet and we had not yet implemented the definition of similar, we would have considered it not eligible for MDR reporting.",side_chat,THE WITNESS,start_question
+383,1304,50,17,"Now, putting that policy aside, do you have any sense as to whether or not this event would have been -- strike that. If that policy were not in place, would the MDA -- MDR criteria have been applied to the this event to decide whether or not it needed to be reported to the FDA?",q,MR. ELLERBE,start_chat
+384,1311,50,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+385,1312,50,25,"If -- if you're -- if you're asking me if we had had -- if this had happened after the implementation of the similar clause, then we would have assessed it for reportability.",side_chat,THE WITNESS,start_chat
+386,1318,51,5,Okay.,side_chat,MR. ELLERBE,start_question
+387,1320,51,7,"And based off of your knowledge of MDR reporting, do you believe this event would have been -- should have been reported under that criteria?",q,MR. ELLERBE,start_chat
+388,1324,51,11,Objection to form.,side_chat,MR. ROBINSON,start_chat
+389,1325,51,12,"So to answer that I would have to look at the procedure that was in place at the time this event came in.  As I stated earlier, our procedures are revised periodically, so I would -- I would want to assess it and make that decision based on the procedure in place at the time the event occurred.",side_chat,THE WITNESS,start_chat
+390,1333,51,20,Okay.,side_chat,MR. ELLERBE,start_question
+391,1335,51,22,"Even though there was this change in BSC's internal policies regarding similar products, would it have been possible for BSC to have reported on this kind of event to the FDA?",q,MR. ELLERBE,start_chat
+392,1340,52,1,Objection to form.,side_chat,MR. ROBINSON,start_chat
+393,1341,52,2,"Would it have been possible?  I suppose.  But if the analyst was following the procedure, the answer would be no, they wouldn't have reported it.",side_chat,THE WITNESS,start_question
+394,1346,52,7,"If someone at Boston Scientific thought this is an important kind of event, we need to report on this to FDA even if our internal policy says that we don't have to, would it have been possible to submit that kind of report?",q,MR. ELLERBE,start_chat
+395,1352,52,13,Objection to form.,side_chat,MR. ROBINSON,start_chat
+396,1353,52,14,"Technically, it may have been.  However, I will say our analysts are trained, for very good reason, to follow procedure.  So following procedure, they should not have reported.",side_chat,THE WITNESS,start_question
+397,1359,52,20,"Okay.  Turning to the next page -- excuse me, two more pages.  It's the one that ends in 079 at the bottom.  Do you see at the bottom of that field there's a trend number?",q,MR. ELLERBE,start_answer
+398,1363,52,24,Yes.,a,THE WITNESS,start_question
+399,1364,52,25,Okay.  Is that trend number trend TR8018?,q,MR. ELLERBE,start_answer
+400,1366,53,1,Yes.,a,THE WITNESS,start_question
+401,1367,53,2,Do you know what that trend is?,q,MR. ELLERBE,start_answer
+402,1368,53,3,"I am vaguely familiar with it.  I -- I'm not an expert in the trending process, but I am vaguely familiar with it.",a,THE WITNESS,start_question
+403,1371,53,6,So what's the significance of listing the trends in the CSR?,q,MR. ELLERBE,start_answer
+404,1373,53,8,"A trend is one of the post market processes to monitor complaints of a similar type, and it helps us monitor to -- to see if there is potentially some -- some action we may need to take.  So putting it on the complaint file is part of the complete part of complaint handling regulations and internal requirements.",a,THE WITNESS,start_question
+405,1381,53,16,"So to use Boston Scientific's parlance, would this be a trended event?",q,MR. ELLERBE,start_chat
+406,1383,53,18,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+407,1384,53,19,Yes.,side_chat,THE WITNESS,start_question
+408,1386,53,21,"So outside of the MDR reporting process, were there any other methods by which Boston Scientific reported on incidents and adverse events that occurred in implants of the Cognis and Teligen devices before May 8th, 2008?",q,MR. ELLERBE,start_chat
+409,1393,54,2,Objection to form.,side_chat,MR. ROBINSON,start_chat
+410,1394,54,3,"So you're using the word ""report.""  Can you clarify what you mean by ""report,"" when you say reported to FDA?",side_chat,THE WITNESS,start_chat
+411,1397,54,6,Made FDA aware of.,side_chat,MR. ELLERBE,start_chat
+412,1398,54,7,"So the -- the only thing I can think of would be that FDA can come in and inspect Boston Scientific at any point in time, and that's very routine.  So it's possible that they could have become aware or become made aware through coming in and inspecting us.  And when we have inspections, complaint files are routinely looked at.",side_chat,THE WITNESS,start_chat
+413,1407,54,16,Okay.,side_chat,MR. ELLERBE,start_chat
+414,1408,54,17,So that would be a mechanism for FDA becoming aware of certain events.,side_chat,THE WITNESS,start_chat
+415,1411,54,20,Okay.,side_chat,MR. ELLERBE,start_question
+416,1413,54,22,Are you familiar with the COGENT field following report?,q,MR. ELLERBE,start_answer
+417,1415,54,24,I -- I don't know that I am.,a,THE WITNESS,start_question
+418,1416,54,25,Okay.,q,MR. ELLERBE,start_answer
+419,1418,55,1,It -- I might need to see --,a,THE WITNESS,start_question
+420,1419,55,2,Sure.,q,MR. ELLERBE,start_answer
+421,1420,55,3,-- if there's an exhibit or something you can show me.,a,THE WITNESS,start_question
+422,1422,55,5,Sure.,q,MR. ELLERBE,start_answer
+423,1423,55,6,It's a little bit of a vague question.,a,THE WITNESS,start_question
+424,1424,55,7,Okay.  Okay.  So I'm going to first show you an exhibit that will be marked Zurn 4.  It has a Bates number of TEMP-BSC00039698.,q,MR. ELLERBE,is brackets
+425,1427,55,10,(Exhibit 4 marked.),brackets,,start_question
+426,1429,55,12,Have you ever seen this document before?,q,MR. ELLERBE,start_answer
+427,1430,55,13,"I do not know if this is something I saw prior to this deposition or not.  Maybe, but it's -- it's not familiar to me.",a,THE WITNESS,start_question
+428,1433,55,16,"Okay.  Does this letter indicate that Ron Thompson was sending an amendment to the PMA supplement for Cognis and Teligen to Doris Terry on April 3rd, 2008?",q,MR. ELLERBE,start_answer
+429,1437,55,20,I would agree.  That's what it looks like to me.,a,THE WITNESS,start_question
+430,1439,55,22,Okay.  And would this just be a cover letter?,q,MR. ELLERBE,start_answer
+431,1440,55,23,That's what it looks like to me.,a,THE WITNESS,start_question
+432,1441,55,24,Okay.  So now I'm going to show you another exhibit.  This will be Zurn 5.  And it is Bates-stamped TEMP-BSC00036782.,q,MR. ELLERBE,is brackets
+433,1445,56,2,(Exhibit 5 marked.),brackets,,start_question
+434,1447,56,4,Have you ever seen this document before?,q,MR. ELLERBE,start_answer
+435,1448,56,5,I don't believe so.,a,THE WITNESS,start_question
+436,1449,56,6,Okay.,q,MR. ELLERBE,start_answer
+437,1450,56,7,No.,a,THE WITNESS,start_question
+438,1451,56,8,"I will represent to you that this is a copy of the amendment that Ron Thompson sent to Doris Terry on April 3rd, 2008.",q,MR. ELLERBE,start_answer
+439,1454,56,11,Okay.,a,THE WITNESS,start_question
+440,1455,56,12,Do you see on the last page that there is a list of exhibits?,q,MR. ELLERBE,start_answer
+441,1457,56,14,Yes.,a,THE WITNESS,start_question
+442,1458,56,15,Can you tell me what Exhibit 4 is?,q,MR. ELLERBE,start_answer
+443,1459,56,16,"It reads, ""OUS COGENT field following clinical report.""",a,THE WITNESS,start_question
+444,1461,56,18,Okay.  So now we'll look at one more exhibit. This will be marked Zurn 6.,q,MR. ELLERBE,is brackets
+445,1463,56,20,(Exhibit 6 marked.),brackets,,start_question
+446,1465,56,22,Have you ever seen this document before?,q,MR. ELLERBE,start_answer
+447,1466,56,23,This one I have.,a,THE WITNESS,start_question
+448,1467,56,24,Okay.  And is this the COGENT Field Following that was attached as an exhibit to that submission to the FDA?,q,MR. ELLERBE,start_answer
+449,1471,57,2,"It's titled the COGENT 4 Field Following, if that's your question.",a,THE WITNESS,start_question
+450,1473,57,4,Okay.  I'll represent to you that it is --,q,MR. ELLERBE,start_answer
+451,1474,57,5,Okay.,a,THE WITNESS,start_question
+452,1475,57,6,-- the exhibit.,q,MR. ELLERBE,start_answer
+453,1476,57,7,Okay.,a,THE WITNESS,start_question
+454,1477,57,8,"Now, can you tell me the criteria by which events -- strike that. Does this report describe observations and adverse events that happened in connection with the implantation of Cognis and Teligen devices in places outside the United States?",q,MR. ELLERBE,start_answer
+455,1484,57,15,I believe that is correct.,a,THE WITNESS,start_question
+456,1485,57,16,Okay.  Can you tell me what was the criteria for deciding whether or not to include those observations and/or adverse events in this report?,q,MR. ELLERBE,start_answer
+457,1489,57,20,Am I allowed to read this to try and answer that?,a,THE WITNESS,start_question
+458,1491,57,22,Sure.,q,MR. ELLERBE,start_answer
+459,1492,57,23,Okay.  (Reviews document.) So can you please restate your question one more time for me now?,a,THE WITNESS,start_question
+460,1496,58,1,Can you tell me what was the criteria for deciding whether or not to include those observations and/or adverse events in this report?,q,MR. ELLERBE,start_answer
+461,1500,58,5,"So my answer would be it would be based on the protocol for the clinical study and how we defined in that protocol adverse events and observations, which I think is defined in here.",a,THE WITNESS,start_question
+462,1505,58,10,Okay.,q,MR. ELLERBE,start_answer
+463,1506,58,11,I saw it on here somewhere.,a,THE WITNESS,start_question
+464,1507,58,12,Is it on page 9?,q,MR. ELLERBE,start_answer
+465,1508,58,13,"You're one ahead -- yeah.  So there's a definition on page 9 of an adverse event, and then on page 10 you had asked about observations and complications, and that's defined here.",a,THE WITNESS,start_question
+466,1513,58,18,"Okay.  If we can go back to page 9, do you see the section that discusses unanticipated device effects?",q,MR. ELLERBE,start_answer
+467,1516,58,21,I do.,a,THE WITNESS,start_question
+468,1517,58,22,"Okay.  Can you read that section into the record, please.",q,MR. ELLERBE,start_answer
+469,1519,58,24,"""An unanticipated adverse device effect is defined in the IDE regulations,"" parenthesis, ""21 CFR 812.3 S as any serious adverse effect on health or safety or any life-threatening problem or death caused by or associated with a device if that effect problem or death was not previously identified in nature, severity or degree of incidence in the investigation plan or application, including a supplementary plan or application, or any other unanticipated serious problem associated with a device that relates to the rights, safety or welfare of patients.  There have been no unanticipated adverse device effects reported in this field following to date.""",a,THE WITNESS,start_question
+470,1536,59,15,"So using this definition of unanticipated device effects, is it possible that if a certain kind of adverse effect happened more frequently than was anticipated, that that would be an unanticipated device effect?",q,MR. ELLERBE,start_chat
+471,1541,59,20,Objection to form.,side_chat,MR. ROBINSON,start_chat
+472,1542,59,21,"I don't read that in here.  I read severity.  But what you asked to me sounded like occurrence rate.  So I'm reading here if it's something that we did not anticipate, not previously identified or the severity.",side_chat,THE WITNESS,start_question
+473,1550,60,3,"Do you see where it says, ""Degree of incidence""?",q,MR. ELLERBE,start_answer
+474,1552,60,5,I do see that.,a,THE WITNESS,start_question
+475,1553,60,6,Could that mean rate?,q,MR. ELLERBE,start_chat
+476,1554,60,7,Objection to form.,side_chat,MR. ROBINSON,start_chat
+477,1555,60,8,I don't know.,side_chat,THE WITNESS,start_question
+478,1557,60,10,Do you think a person reading this might think that it refers to rate?,q,MR. ELLERBE,start_chat
+479,1559,60,12,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+480,1561,60,14,"When I read it the first time, and how I'm reading it now, severity or degree describes the type more than it does how often, and your question to me was more on the how often.",side_chat,THE WITNESS,start_question
+481,1567,60,20,"So is it your testimony that if an adverse effect -- excuse me, strike me -- strike that. If an adverse effect happened more frequently than was anticipated, that that would not be an unanticipated device effect?",q,MR. ELLERBE,start_chat
+482,1574,61,1,Objection to form.,side_chat,MR. ROBINSON,start_chat
+483,1575,61,2,"I don't know. You're asking me something that's a little outside of my subject area expertise, and I'm trying to answer it the best I can based on reading this.  But I -- I'm not steeped in the clinical space as much as I am in the post market space, so I'm answering the best I can.",side_chat,THE WITNESS,start_chat
+484,1583,61,10,Okay.  Okay.,side_chat,MR. ELLERBE,start_question
+485,1585,61,12,"Turning to the page that ends in 712, do you see the section heading, ""IS-1 incomplete port insertion""?",q,MR. ELLERBE,start_answer
+486,1588,61,15,Yes.,a,THE WITNESS,start_question
+487,1589,61,16,"Hold on a second.  Can you read that first paragraph out loud, please.",q,MR. ELLERBE,start_answer
+488,1591,61,18,"Sure.  ""The reported event associated with this is impedance of greater than 200 ohms due to the IS-1 terminal pin not being fully inserted into the header.  During the COGENT field following, the field engineers received training that reinforced the instructions-for-use in the system guide. The current system guide gives instruction on how to insert the IS-1 terminal pin, therefore, no changes will be made to address this issue.""",a,THE WITNESS,start_question
+489,1603,62,4,Thank you. And do you see under that paragraph that there's a list of seven devices?,q,MR. ELLERBE,start_answer
+490,1606,62,7,In the parenthesis with the letters?,a,THE WITNESS,start_question
+491,1607,62,8,Yes.,q,MR. ELLERBE,start_answer
+492,1608,62,9,Yes.,a,THE WITNESS,start_question
+493,1609,62,10,And those would be the devices where this observation was made?,q,MR. ELLERBE,start_chat
+494,1611,62,12,Objection to the form.,side_chat,MR. ROBINSON,start_chat
+495,1613,62,14,"Well, it says this issue was reported in seven devices, parenthesis, and it lists them, so I would understand this to mean that those were the seven devices that was referred to.",side_chat,THE WITNESS,start_chat
+496,1618,62,19,Okay.,side_chat,MR. ELLERBE,start_question
+497,1620,62,21,"And then based off of that earlier CSR that we looked at, would you think that that would be one of these events that was listed here?",q,MR. ELLERBE,start_chat
+498,1623,62,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+499,1624,62,25,May I look at the --,side_chat,THE WITNESS,start_chat
+500,1626,63,1,Sure.,side_chat,MR. ELLERBE,start_chat
+501,1627,63,2,This was number 3.,side_chat,THE WITNESS,is brackets
+502,1628,63,3,"(Reviews document.) Well, I would not, because this clearly says the event is associated with impedances of greater than 2000 ohms due to the IS terminal 1 not being fully inserted. In the description in the narrative, I don't see anywhere in here that it describes anything related to impedances greater than 2000 ohms.",brackets,,start_question
+503,1638,63,13,And are you looking at Zurn 3?,q,MR. ELLERBE,start_answer
+504,1639,63,14,"I am looking at Zurn 3, and I'm on -- on the bottom ending at 076.",a,THE WITNESS,start_question
+505,1641,63,16,Okay.  And does it say that the measurement was above 125 ohms?,q,MR. ELLERBE,start_answer
+506,1643,63,18,"In the description it says, ""The defibrillation lead presented with shocking impedances above 125 ohms,"" yes.",a,THE WITNESS,start_question
+507,1646,63,21,So can you rule out that this event didn't meet that definition of greater than 2000 ohms?,q,MR. ELLERBE,start_chat
+508,1649,63,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+509,1650,63,25,I will answer again. I don't see anything in here that says greater than 2000 ohms.  And what this says in here is that those events associated in this category had impedances greater than 2000 ohms.,side_chat,THE WITNESS,start_chat
+510,1657,64,6,Okay.,side_chat,MR. ELLERBE,start_question
+511,1659,64,8,But is there anything that could rule this even out from being included in there --,q,MR. ELLERBE,start_chat
+512,1661,64,10,Objection --,side_chat,MR. ROBINSON,start_question
+513,1663,64,12,-- or do you just not see enough criteria to include it in that greater than 2000 ohms?,q,MR. ELLERBE,start_chat
+514,1665,64,14,Objection to form.,side_chat,MR. ROBINSON,start_chat
+515,1666,64,15,"Based on the available information, I don't see it matching this criteria.",side_chat,THE WITNESS,start_question
+516,1670,64,19,Does this event also describe an event -- does this CSR also describe an event where there was an incomplete port insertion?,q,MR. ELLERBE,start_answer
+517,1673,64,22,It does say the lead's terminal pin was not fully inserted into the header of the ICD.,a,THE WITNESS,start_question
+518,1675,64,24,"So is that yes, this is an event where there was an incomplete port insertion?",q,MR. ELLERBE,start_chat
+519,1678,65,1,Objection to form.,side_chat,MR. ROBINSON,start_chat
+520,1679,65,2,It does meet part of the criteria in terms of the terminal pin not being fully inserted.,side_chat,THE WITNESS,start_chat
+521,1682,65,5,Okay.  Okay.,side_chat,MR. ELLERBE,start_question
+522,1684,65,7,"So now I'm going to show you a document that's marked BSC_Higgins-00284283, and I believe this will be Zurn 7.",q,MR. ELLERBE,is brackets
+523,1687,65,10,(Exhibit 7 marked.),brackets,,start_chat
+524,1688,65,11,"Counsel, I apologize, I -- I wrote Zurn 7 at the bottom of this, your copy.",side_chat,MR. ELLERBE,start_chat
+525,1691,65,14,Oh.,side_chat,MR. ROBINSON,start_chat
+526,1692,65,15,I'm just going to give that to you.,side_chat,MR. ELLERBE,start_chat
+527,1694,65,17,I'll forgive you. I would have written it anyway.,side_chat,MR. ROBINSON,start_chat
+528,1696,65,19,"I'm sure your handwriting is neater than mine, so I apologize for sullying it.",side_chat,MR. ELLERBE,start_chat
+529,1699,65,22,(Reviews document.) Okay.,side_chat,THE WITNESS,start_chat
+530,1701,65,24,Okay.,side_chat,MR. ELLERBE,start_question
+531,1704,66,1,Can you describe what this document is?,q,MR. ELLERBE,start_answer
+532,1705,66,2,This is a Complaint Summary Report.,a,THE WITNESS,start_question
+533,1706,66,3,Okay.  And can you describe what kind of device was involved here?,q,MR. ELLERBE,start_answer
+534,1708,66,5,"Well, I'm looking under the device information, and it lists ALTRUA as the product family.",a,THE WITNESS,start_question
+535,1711,66,8,Okay.  And where did this implant take place?,q,MR. ELLERBE,start_answer
+536,1712,66,9,This doesn't list the implant.  Are you asking -- are you asking where the event took place?,a,THE WITNESS,start_question
+537,1715,66,12,Yes.,q,MR. ELLERBE,start_answer
+538,1716,66,13,Source country says United States.,a,THE WITNESS,start_question
+539,1717,66,14,Okay.  And do you see the date as well?,q,MR. ELLERBE,start_answer
+540,1718,66,15,"The event date is listed as September 26th, 2008.",a,THE WITNESS,start_question
+541,1720,66,17,Okay.  And what is an ALTRUA device?,q,MR. ELLERBE,start_answer
+542,1721,66,18,"Boy, I believe it's a pacemaker, but it's been many years since I worked in the division.  So I'm pretty sure -- it's a pacemaker or defibrillator.  I'm pretty sure it's a pacemaker.",a,THE WITNESS,start_question
+543,1726,66,23,Okay.  And do you see on the page ending in 289?,q,MR. ELLERBE,start_answer
+544,1728,66,25,"289, okay.",a,THE WITNESS,start_question
+545,1730,67,1,Is there a trend associated with this CSR?,q,MR. ELLERBE,start_answer
+546,1731,67,2,There is.,a,THE WITNESS,start_question
+547,1732,67,3,Can you tell me what that trend is?,q,MR. ELLERBE,start_answer
+548,1733,67,4,TR08018.,a,THE WITNESS,start_question
+549,1734,67,5,Okay.  Now can you tell me why this -- strike that. If we go to the page ending in 286.,q,MR. ELLERBE,start_answer
+550,1737,67,8,Okay.,a,THE WITNESS,start_question
+551,1738,67,9,Does this page indicate that no MDR was submitted to the FDA?,q,MR. ELLERBE,start_answer
+552,1740,67,11,That is correct.,a,THE WITNESS,start_question
+553,1741,67,12,Can you explain why?,q,MR. ELLERBE,start_answer
+554,1742,67,13,"Well, the rationale that's listed here refers to a decision tree within the procedure at that time.",a,THE WITNESS,start_question
+555,1745,67,16,Okay.,q,MR. ELLERBE,start_answer
+556,1746,67,17,And I would be happy to explain it if I could at least walk the decision tree and provide that same rationale.,a,THE WITNESS,start_question
+557,1749,67,20,Okay.  Okay.  But you would need to see that policy document?,q,MR. ELLERBE,start_answer
+558,1751,67,22,"Right.  Because as I said earlier, we follow procedure, procedures change, so I'd want to follow the one that was in place at the time.",a,THE WITNESS,start_question
+559,1754,67,25,Sure.  Okay.  We can put that one aside.,q,MR. ELLERBE,start_answer
+560,1756,68,1,Okay.,a,THE WITNESS,start_question
+561,1757,68,2,"Now I'm going to show you Zurn 8, which is Bates-stamped BSC_Higgins-00280556.",q,MR. ELLERBE,is brackets
+562,1759,68,4,(Exhibit 8 marked.),brackets,,start_chat
+563,1760,68,5,(Reviews document.) Okay.,side_chat,THE WITNESS,start_chat
+564,1762,68,7,Okay.,side_chat,MR. ELLERBE,start_question
+565,1764,68,9,So can you tell me what this document is?,q,MR. ELLERBE,start_answer
+566,1765,68,10,Complaint Summary Report.,a,THE WITNESS,start_question
+567,1766,68,11,Okay.  And what kind of device was involved in this complaint?,q,MR. ELLERBE,start_answer
+568,1768,68,13,Under the device info it lists a Teligen.,a,THE WITNESS,start_question
+569,1769,68,14,Okay.  And was this also implanted in the United States in January of 2009?,q,MR. ELLERBE,start_answer
+570,1771,68,16,The event occurred in the United States.  It doesn't have implant date on here.,a,THE WITNESS,start_question
+571,1773,68,18,Okay.  And it was in the United States?,q,MR. ELLERBE,start_answer
+572,1774,68,19,"The event occurred in the United States, correct.",a,THE WITNESS,start_question
+573,1776,68,21,"Okay.  Now, can you read -- did you read the description of this event?",q,MR. ELLERBE,start_answer
+574,1778,68,23,I did.,a,THE WITNESS,start_question
+575,1779,68,24,"Okay.  Okay.  Do you see where it says, ""The physician then held the lead and the device together as the nurse tightened the setscrew""?",q,MR. ELLERBE,start_answer
+576,1784,69,3,I do see that.,a,THE WITNESS,start_question
+577,1785,69,4,Do you know whether that was an off-label implant technique?,q,MR. ELLERBE,start_chat
+578,1787,69,6,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+579,1789,69,8,I don't know.,side_chat,THE WITNESS,start_chat
+580,1790,69,9,Okay.,side_chat,MR. ELLERBE,start_question
+581,1792,69,11,"If it were on off-label implantation technique, is that something the FDA should have been notified about?",q,MR. ELLERBE,start_chat
+582,1795,69,14,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+583,1797,69,16,Notified how?  Can you clarify your question?,side_chat,THE WITNESS,start_question
+584,1800,69,19,Was this -- was this event submitted as an MDR?,q,MR. ELLERBE,start_answer
+585,1802,69,21,"On the next page it does say yes, we submitted an MDR.",a,THE WITNESS,start_question
+586,1804,69,23,"Okay.  And can you tell me, what does malfunction mean there?",q,MR. ELLERBE,start_answer
+587,1806,69,25,There are three types of MDR reports.  This to me says that the type of MDR that was filed was a type malfunction.,a,THE WITNESS,start_question
+588,1810,70,3,And what does that mean?,q,MR. ELLERBE,start_answer
+589,1811,70,4,"Well, as opposed to a death or a serious injury type, there's -- I'd have to get the regulations out to cite it exactly.  It's the least concerning or least significant type of mal -- or of MDR report.",a,THE WITNESS,start_question
+590,1816,70,9,"Okay.  So in the MDR report, should the FDA have been made aware of the fact that this implantation technique was off-label, if indeed it was off-label?",q,MR. ELLERBE,start_chat
+591,1820,70,13,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+592,1822,70,15,"So I don't believe that our MDR reporting requires -- again, I'd have to look at the procedure.  I don't know that this was off-label, first of all.",side_chat,THE WITNESS,start_chat
+593,1826,70,19,Okay.,side_chat,MR. ELLERBE,start_chat
+594,1827,70,20,So if -- if -- are you asking me if it was off-label -- what is your question exactly?,side_chat,THE WITNESS,start_question
+595,1831,70,24,Should the FDA have been told this happened and the doctor used an off-label technique to implant this device?,q,MR. ELLERBE,start_chat
+596,1835,71,2,Objection to form and scope.,side_chat,MR. ROBINSON,start_chat
+597,1837,71,4,"I don't know about should.  But when we write event descriptions in our MDR reports, we describe the facts as we collect them.  And I believe this event description would have largely been what would have been on the MDR.",side_chat,THE WITNESS,start_chat
+598,1843,71,10,Okay.,side_chat,MR. ELLERBE,start_question
+599,1845,71,12,"And this event description does not say whether or not this was an off-label technique or not, does it?",q,MR. ELLERBE,start_answer
+600,1848,71,15,It does not.,a,THE WITNESS,start_question
+601,1849,71,16,"Okay.  So -- okay.  Actually, let's look at the next exhibit.  This will be Zurn 9.",q,MR. ELLERBE,is brackets
+602,1851,71,18,(Exhibit 9 marked.),brackets,,start_question
+603,1853,71,20,"I'll make some representations to you as I give this to you, which is that this is a printout of a spreadsheet that was produced to us in this case by counsel for Boston Scientific, and it includes the information form from the Form 3500As for certain events --",q,MR. ELLERBE,start_answer
+604,1861,72,2,Okay.,a,THE WITNESS,start_question
+605,1862,72,3,-- corresponding to certain PI numbers.,q,MR. ELLERBE,start_answer
+606,1863,72,4,Okay.,a,THE WITNESS,start_question
+607,1864,72,5,"And I believe if you look at the top two rows, you'll see PI numbers for this event that we just were discussing.",q,MR. ELLERBE,start_answer
+608,1867,72,8,"Sorry, what -- do you want me to look at the first two rows, you said?",a,THE WITNESS,start_question
+609,1869,72,10,It's really -- I believe it's the second row. I'll represent to you that I think that's the form 3500A for this PI.,q,MR. ELLERBE,start_answer
+610,1872,72,13,"I'll look at the second row, okay.",a,THE WITNESS,start_question
+611,1873,72,14,"And I'll further, just for the record, state that I believe that the first row is the supplemental MDR that was submitted for the same PI number.",q,MR. ELLERBE,start_answer
+612,1877,72,18,Okay.  Okay.,a,THE WITNESS,start_question
+613,1878,72,19,Okay.  So does this row appear to you to contain all the information that would be submitted in a Form 3500A?,q,MR. ELLERBE,start_answer
+614,1881,72,22,"Boy, I --",a,THE WITNESS,start_chat
+615,1882,72,23,I'm going to object to the form and the scope of that question.,side_chat,MR. ROBINSON,start_chat
+616,1884,72,25,But I answer?,side_chat,THE WITNESS,start_chat
+617,1886,73,1,"Yeah, go ahead.",side_chat,MR. ROBINSON,start_chat
+618,1887,73,2,"Okay.  I don't know, because I'm used to seeing the 3500A looking like a form and not like a spreadsheet.",side_chat,THE WITNESS,start_chat
+619,1890,73,5,Okay.,side_chat,MR. ELLERBE,start_chat
+620,1891,73,6,"So if you showed me a 3500A, I could tell you what it looked like and -- but on a spreadsheet it's very hard for me to match.",side_chat,THE WITNESS,start_chat
+621,1895,73,10,"Let's make it clear we have -- we have produced this spreadsheet to them, to the Plaintiffs in this case, in lieu of printing out thousands of 3500s.",side_chat,MR. ROBINSON,start_chat
+622,1899,73,14,Okay.,side_chat,THE WITNESS,start_chat
+623,1900,73,15,So this is -- we have stipulated that this information on the spreadsheet is the same as what would have occurred in the 3500.,side_chat,MR. ROBINSON,start_chat
+624,1904,73,19,Okay.,side_chat,THE WITNESS,start_chat
+625,1905,73,20,All right.  So you can answer with that understanding in mind.,side_chat,MR. ROBINSON,start_chat
+626,1907,73,22,Then I would answer yes.,side_chat,THE WITNESS,start_chat
+627,1909,73,24,Okay.,side_chat,MR. ELLERBE,start_question
+628,1912,74,1,I'm going to show you --,q,MR. ELLERBE,start_answer
+629,1913,74,2,Okay.,a,THE WITNESS,start_question
+630,1914,74,3,-- another exhibit.  This will be Zurn 10.,q,MR. ELLERBE,is brackets
+631,1915,74,4,(Exhibit 10 marked.),brackets,,start_chat
+632,1916,74,5,Okay.,side_chat,THE WITNESS,is brackets
+633,1917,74,6,(Reviews document.),brackets,,start_question
+634,1919,74,8,So does this --,q,MR. ELLERBE,start_answer
+635,1920,74,9,Okay.,a,THE WITNESS,start_question
+636,1921,74,10,-- look like a form 3500A that you're used to?,q,MR. ELLERBE,start_answer
+637,1923,74,12,Yes.,a,THE WITNESS,start_question
+638,1924,74,13,Okay.  And I don't believe this is the same PI number.,q,MR. ELLERBE,start_answer
+639,1926,74,15,Okay.,a,THE WITNESS,start_question
+640,1927,74,16,"So my question is:  Do you see under the adverse event or product problem field, B, adverse event product problem field?",q,MR. ELLERBE,start_answer
+641,1930,74,19,Yes.,a,THE WITNESS,start_question
+642,1931,74,20,"Okay.  Do you see that items number 6 and 7 ask for, ""Relevant tests, laboratory data including dates and then other relevant history including preexisting medical""?",q,MR. ELLERBE,start_answer
+643,1935,74,24,I do.,a,THE WITNESS,start_question
+644,1936,74,25,Okay.  Do you see those fields on this spreadsheet?,q,MR. ELLERBE,start_answer
+645,1939,75,2,Does this spreadsheet roll to page 2 for the same row?,a,THE WITNESS,start_question
+646,1941,75,4,It does.,q,MR. ELLERBE,start_answer
+647,1942,75,5,"Okay.  So do you want to stipulate that it's not there or do you want me to review it and eyeball it back and forth?  Because I will. I will go through and look right now if you'd like, if that's what you're asking.",a,THE WITNESS,start_question
+648,1947,75,10,"Well, I just -- I want to know if that information was filled out and submitted for these MDRs or not because --",q,MR. ELLERBE,start_answer
+649,1950,75,13,"Well, I will tell you this -- before I go on --",a,THE WITNESS,start_question
+650,1952,75,15,Sure.,q,MR. ELLERBE,start_answer
+651,1953,75,16,"-- there are parts of this form that, if you look at it, the form on the top says it's for use by facilities --",a,THE WITNESS,start_question
+652,1956,75,19,Okay.,q,MR. ELLERBE,start_answer
+653,1957,75,20,"-- importers, distributors and manufacturers --",a,THE WITNESS,start_question
+654,1959,75,22,Okay.,q,MR. ELLERBE,start_answer
+655,1960,75,23,"-- and there are certain fields that are required for manufactures, which is what Boston Scientific is.  There are other fields filled out by user facilities.",a,THE WITNESS,start_question
+656,1965,76,2,Okay.,q,MR. ELLERBE,start_answer
+657,1966,76,3,"It could be that this field is not something that's -- something that a manufacturer typically fills out but is more appropriate if it's a user facility, for example.",a,THE WITNESS,start_question
+658,1971,76,8,Okay.  Do you know whether those two fields are things that would -- a manufacturer would fill out normally?,q,MR. ELLERBE,start_answer
+659,1974,76,11,"I -- I -- I don't know for certain.  So if you don't want me to guess, is my answer no?",a,THE WITNESS,start_question
+660,1976,76,13,I -- I don't want you to guess.,q,MR. ELLERBE,start_answer
+661,1977,76,14,I don't want to guess.,a,THE WITNESS,start_question
+662,1978,76,15,Okay.,q,MR. ELLERBE,start_answer
+663,1979,76,16,So I don't know for certain.,a,THE WITNESS,start_question
+664,1980,76,17,"Okay.  Okay.  Do you see that Section F says, ""For use by user facility/importer""?",q,MR. ELLERBE,start_answer
+665,1982,76,19,I do see that section.,a,THE WITNESS,start_question
+666,1983,76,20,Okay.  And is there a similar kind of limitation to the heading for Section B?,q,MR. ELLERBE,start_answer
+667,1985,76,22,"Not that's written on here, but I do know that there is a guidance document that is available that guides manufacturers, importers on how to fill this form out.  I'd have to look on that to see --",a,THE WITNESS,start_question
+668,1991,77,2,Okay.,q,MR. ELLERBE,start_answer
+669,1992,77,3,-- but...,a,THE WITNESS,start_question
+670,1993,77,4,"Okay.  So just so I'm clear, is it right that those two fields that we were talking about, Section B, number 6, ""Relevant test/laboratory data, including dates,"" and Section B, number 7, ""Other relevant history including preexisting medical,"" is not represented in this spreadsheet?",q,MR. ELLERBE,start_answer
+671,2000,77,11,(Reviews document.)  That is correct.,a,THE WITNESS,start_question
+672,2001,77,12,Okay.,q,MR. ELLERBE,start_answer
+673,2002,77,13,"I'm not seeing it.  Oh, there's a third page. (Reviews document.)  It's not there.",a,THE WITNESS,start_question
+674,2004,77,15,"Okay.  And then just looking at this row, the second row --",q,MR. ELLERBE,start_answer
+675,2006,77,17,Okay.,a,THE WITNESS,start_question
+676,2007,77,18,"-- of events, do you see anywhere where it is identified that the implantation technique was off-label?",q,MR. ELLERBE,start_chat
+677,2010,77,21,Objection to form.,side_chat,MR. ROBINSON,start_chat
+678,2011,77,22,"I do not see anywhere that it says off-label.  What I do see is it matches, as I stated earlier, what was in the event description.",side_chat,THE WITNESS,start_chat
+679,2016,78,1,Okay.  Okay.  You can put that aside.,side_chat,MR. ELLERBE,start_chat
+680,2018,78,3,(Complies.),side_chat,THE WITNESS,start_question
+681,2020,78,5,"During the 2007 to 2009 time period, was Boston Scientific allowed to report any of its MDRs on a quarterly basis?",q,MR. ELLERBE,start_answer
+682,2023,78,8,Yes.,a,THE WITNESS,start_question
+683,2024,78,9,And which MDRs were allowed to be reported quarterly?,q,MR. ELLERBE,start_answer
+684,2026,78,11,"You're asking a good question.  Um, we had an exemption, and I believe it covered pacemakers and defibrillators.  I believe it was all.  The exception to that would be -- I -- I'd need to -- the vast majority was -- were reported on a quarterly --",a,THE WITNESS,start_question
+685,2032,78,17,Okay.,q,MR. ELLERBE,start_answer
+686,2033,78,18,"-- so, yeah.",a,THE WITNESS,start_question
+687,2034,78,19,And do you know why Boston Scientific was given that exemption?,q,MR. ELLERBE,start_chat
+688,2036,78,21,I'm going to object to the form and the scope. You can answer if you know.,side_chat,MR. ROBINSON,start_chat
+689,2039,78,24,"From a historical perspective, what I believe the answer to that is the nature of the implanted pacemakers and defibrillators are such that we gain a lot of information throughout the lifecycle.  We also get devices back that we do testing on, but those devices don't always come back within the 30-day window. So because of the volume, FDA granted a larger period of time for pacemaker and defibrillators in this case to allow us to be able to submit report, hopefully having the majority of the information as opposed to filing multiple supplemental reports.  That's the best of my recollection as to why it was in place when I took over the role.",side_chat,THE WITNESS,start_question
+690,2057,79,16,"So just to be clear, this policy was in place when you took over which role?",q,MR. ELLERBE,start_answer
+691,2059,79,18,"My director of post market.  And this would have been an exemption that was granted by the FDA to Boston Scientific, actually, then probably Guidant.",a,THE WITNESS,start_question
+692,2063,79,22,Okay.  Do you know when that exemption was granted?,q,MR. ELLERBE,start_answer
+693,2065,79,24,I don't offhand.,a,THE WITNESS,start_question
+694,2066,79,25,Okay.,q,MR. ELLERBE,start_answer
+695,2068,80,1,I don't.,a,THE WITNESS,start_question
+696,2069,80,2,"Do you know, was there any sort of document that reflected that exemption?",q,MR. ELLERBE,start_answer
+697,2071,80,4,"Yes, we would have -- FDA would -- we would have a document on file from FDA granting us that exemption.",a,THE WITNESS,start_question
+698,2074,80,7,Okay.,q,MR. ELLERBE,start_chat
+699,2075,80,8,All right.  Then I believe I have no further questions for you.,side_chat,MR. ELLERBE,start_chat
+700,2077,80,10,Okay.,side_chat,THE WITNESS,start_chat
+701,2078,80,11,Let's take a short break and then we'll come back.,side_chat,MR. ROBINSON,start_chat
+702,2080,80,13,We are going off the record at 11:21 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+703,2082,80,15,(Recess.),brackets,,start_chat
+704,2083,80,16,We are back on the record at 11:33 a.m. EXAMINATION,side_chat,THE VIDEOGRAPHER,start_question
+705,2088,80,21,"Okay.  Ms. Zurn, I want you to pull -- first pull out Exhibit 3.",q,MR. ROBINSON,start_answer
+706,2090,80,23,Okay.,a,THE WITNESS,start_question
+707,2091,80,24,"Okay.  And this was -- you answered questions to Mr. -- from Mr. Ellerbe about this event that occurred in Germany on March -- the implant date was March 14th, 2008; is that correct?",q,MR. ROBINSON,start_answer
+708,2097,81,4,Yes.,a,THE WITNESS,start_question
+709,2098,81,5,And is that the event date as well?,q,MR. ROBINSON,start_answer
+710,2099,81,6,"The event date is March 18th, 2008.",a,THE WITNESS,start_question
+711,2100,81,7,Okay.  Now let me ask you to turn to Exhibit 6.,q,MR. ROBINSON,start_answer
+712,2102,81,9,(Complies.),a,THE WITNESS,start_question
+713,2103,81,10,Okay.  And I want you to look at page 26 --,q,MR. ROBINSON,start_answer
+714,2104,81,11,(Complies.),a,THE WITNESS,start_question
+715,2105,81,12,-- where there's a description of various adverse events that -- that occurred.,q,MR. ROBINSON,start_answer
+716,2107,81,14,Okay.,a,THE WITNESS,start_question
+717,2108,81,15,Okay.  And I want you to -- the second event that's listed there is one that's been given the patient ID GEBOCGAO.,q,MR. ROBINSON,start_answer
+718,2111,81,18,Okay.,a,THE WITNESS,start_question
+719,2112,81,19,Do you see that there?,q,MR. ROBINSON,start_answer
+720,2113,81,20,Yes.,a,THE WITNESS,start_question
+721,2114,81,21,Okay.  Can you look at that the description of that event and tell me if that is the same event that's described in Exhibit 3?,q,MR. ROBINSON,start_answer
+722,2117,81,24,So it appears that the dates line up and the description is the same -- very similar here.,a,THE WITNESS,start_question
+723,2120,82,1,Okay.,q,MR. ROBINSON,start_answer
+724,2121,82,2,Okay.,a,THE WITNESS,start_question
+725,2122,82,3,So do you believe these are the same event?,q,MR. ROBINSON,start_answer
+726,2123,82,4,Yes.,a,THE WITNESS,start_question
+727,2124,82,5,"Okay.  So this event, GEBOCGAO, which is also described in the Complaint Summary Report in Exhibit 3, was included in the information given to the FDA in -- in Exhibit 6; is that correct?",q,MR. ROBINSON,start_answer
+728,2129,82,10,Yes.,a,THE WITNESS,start_question
+729,2130,82,11,And if you turn also to page 12 of Exhibit 6.,q,MR. ROBINSON,start_answer
+730,2131,82,12,Okay.,a,THE WITNESS,start_question
+731,2132,82,13,Do you see that the -- this is a section that describes certain adverse event observations related to noise during shock impedance measurement?,q,MR. ROBINSON,start_answer
+732,2136,82,17,Yes.,a,THE WITNESS,start_question
+733,2137,82,18,And do you see that in the third paragraph there are 15 events in which that issue was noted?,q,MR. ROBINSON,start_answer
+734,2140,82,21,Yes.,a,THE WITNESS,start_question
+735,2141,82,22,"And do you see that one of those is the event that we're looking -- we've been talking about, GEBOCGAO?",q,MR. ROBINSON,start_answer
+736,2144,82,25,Yes.,a,THE WITNESS,start_question
+737,2146,83,1,Okay.  So the FDA was also given a narrative description of that event as well?,q,MR. ROBINSON,start_answer
+738,2148,83,3,Yes.,a,THE WITNESS,start_question
+739,2149,83,4,"So in addition to information about adverse events that the FDA would get through the MDR reporting process, did the FDA also get information about adverse events through the submission of the COGENT study report?",q,MR. ROBINSON,start_answer
+740,2154,83,9,Yes.  It looks like it's right here.,a,THE WITNESS,start_question
+741,2155,83,10,"Okay.  Are you aware if after the FDA received the initial COGENT field following report at Exhibit 6, if the FDA ever asked the company why it had not filed MDRs for the events described in the field following?",q,MR. ROBINSON,start_answer
+742,2160,83,15,No.,a,THE WITNESS,start_question
+743,2161,83,16,"Is that -- if the FDA had made such an inquiry, is that something that would have been brought to your attention in the positions you held at the company?",q,MR. ROBINSON,start_answer
+744,2165,83,20,Yes.  Yup.,a,THE WITNESS,start_question
+745,2166,83,21,All right.  Let me ask you now to turn to Exhibit 7.,q,MR. ROBINSON,start_answer
+746,2168,83,23,Okay.,a,THE WITNESS,start_question
+747,2169,83,24,And this was a Complaint Summary Report about another event that Mr. Ellerbe asked you about which had the number 1358733; is that correct?,q,MR. ROBINSON,start_answer
+748,2174,84,3,Yes.,a,THE WITNESS,start_question
+749,2175,84,4,"Okay.  And do you see on the page -- the third page of the document, it has the Bates number ending in 4285 at the bottom?",q,MR. ROBINSON,start_answer
+750,2178,84,7,Yes.,a,THE WITNESS,start_question
+751,2179,84,8,"Where it asks for the description of the event, it says, ""Refer to investigation text""?",q,MR. ROBINSON,start_answer
+752,2182,84,11,Yes.,a,THE WITNESS,start_question
+753,2183,84,12,"Okay.  What -- when it says, ""Refer to investigation text,"" what does it -- what is this document referencing?",q,MR. ROBINSON,start_answer
+754,2186,84,15,"More than likely an earlier complaint system record, I'm guessing.",a,THE WITNESS,start_question
+755,2188,84,17,Would that be the RET system?,q,MR. ROBINSON,start_answer
+756,2189,84,18,Yes.  Thank you.  Yes.,a,THE WITNESS,start_question
+757,2190,84,19,Okay.,q,MR. ROBINSON,is brackets
+758,2191,84,20,(Exhibit 11 marked.),brackets,,start_question
+759,2193,84,22,"All right.  So I'm going to ask the court -- well, we're going to hand you what's been marked as Exhibit 11, Zurn 11, and ask you if this is the text information regarding the PI number 1358733?",q,MR. ROBINSON,start_answer
+760,2199,85,2,"Yes, the numbers match.",a,THE WITNESS,start_question
+761,2200,85,3,Okay.  And do you see at the bottom of the first page of Exhibit 11 there's a description of the call that came in to report this particular event?,q,MR. ROBINSON,start_answer
+762,2204,85,7,"Where it starts, ""Merlin call"" --",a,THE WITNESS,start_question
+763,2205,85,8,Yes.,q,MR. ROBINSON,start_answer
+764,2206,85,9,"-- ""from Angela Hobscheidt"" -- ""Hobscheidt""?",a,THE WITNESS,start_question
+765,2207,85,10,Correct.,q,MR. ROBINSON,start_answer
+766,2208,85,11,Yes.,a,THE WITNESS,start_question
+767,2209,85,12,Okay.  And where in this document is the description of how the company's analyst analyzed whether or not an MDR report was required for this event?,q,MR. ROBINSON,start_answer
+768,2213,85,16,"So the first reference I see is on the bottom of the second page.  It starts with September 30th, 2008.  There's notations that they checked Trac, which was the device tracking system, and Merlin call log system, and it goes on to say, ""MDR equals no,"" with the rationale for why they made that decision.",a,THE WITNESS,start_question
+769,2221,85,24,"Okay.  And when it says in the parenthetical that says, ""Path 1, 2, 3, 4, 8, 11,"" what does that refer to?",q,MR. ROBINSON,start_answer
+770,2225,86,2,That refers to box numbers on the decision tree within the MDR reporting procedure.,a,THE WITNESS,start_question
+771,2227,86,4,"All right.  Now let me ask you about Exhibit 9, which is the spreadsheet that Mr. Ellerbe showed you.",q,MR. ROBINSON,start_answer
+772,2230,86,7,Yes.,a,THE WITNESS,start_question
+773,2231,86,8,"And turning to the second page of the document, which is the first page of the spreadsheet --",q,MR. ROBINSON,start_answer
+774,2234,86,11,Okay.,a,THE WITNESS,start_question
+775,2235,86,12,"-- and looking at the second event, which is 1384682.",q,MR. ROBINSON,start_answer
+776,2237,86,14,Yup.,a,THE WITNESS,start_question
+777,2238,86,15,There's a -- this -- this indicates the description of the event that was sent to the FDA; is that correct?,q,MR. ROBINSON,start_answer
+778,2241,86,18,On the 3500A form?,a,THE WITNESS,start_question
+779,2242,86,19,Yes.,q,MR. ROBINSON,start_answer
+780,2243,86,20,Yes.,a,THE WITNESS,start_question
+781,2244,86,21,"Okay.  And do you see in the -- what does it say about -- in the box marked Description, about how the physician and the nurse work together to connect the lead to the header?",q,MR. ROBINSON,start_answer
+782,2248,86,25,"It says, ""The physician then held the lead and the device together as the nurse tightened the setscrew.  All measurements were within normal range.""",a,THE WITNESS,start_question
+783,2253,87,4,And that's -- and that's information that was given to the FDA?,q,MR. ROBINSON,start_answer
+784,2255,87,6,"Yes, this was in the 3500A form.",a,THE WITNESS,start_question
+785,2256,87,7,Okay.  And when was that report made?,q,MR. ROBINSON,start_answer
+786,2257,87,8,"The column that says, ""Date of this report sent date,"" says May 7th, 2009.",a,THE WITNESS,is brackets
+787,2259,87,10,(Exhibits 12-14 marked.),brackets,,start_question
+788,2261,87,12,"All right.  Ms. Zurn, I'm going to hand you three documents that -- the first Exhibit 12 bears the number TEMP-BSC00040844 through 45. The second document, Exhibit 13, bears the numbers TEMP-BSC00040486 through 40500. And the third document, Exhibit 14, bears the number TEMP-BSC00040583 through 40675. And after you've had a chance to take a look at them, I just would like you to identify the documents for the record.",q,MR. ROBINSON,start_answer
+789,2273,87,24,(Reviews documents.)  Okay.  So you want me to tell you what I'm seeing here?,a,THE WITNESS,start_question
+790,2276,88,1,"Yes, tell me what they are.",q,MR. ROBINSON,start_answer
+791,2277,88,2,So Exhibit 12 looks like a cover letter for an IDE submission for a reverse mode switch.,a,THE WITNESS,start_question
+792,2279,88,4,Okay.,q,MR. ROBINSON,start_answer
+793,2280,88,5,"Exhibit 13 says it's the reverse mode switch pre-IDE, so it looks like an IDE submission, which is probably the attachment referred to in 12.",a,THE WITNESS,start_question
+794,2284,88,9,Okay.,q,MR. ROBINSON,start_answer
+795,2285,88,10,And 14 is a field following study clinical report.,a,THE WITNESS,start_question
+796,2287,88,12,"Okay.  Do you see in Exhibit 12, the cover letter, there's a reference to the COGENT study data in the two bullets at the bottom of the page?",q,MR. ROBINSON,start_answer
+797,2291,88,16,Yes.,a,THE WITNESS,start_question
+798,2292,88,17,Okay.  And the COGENT study data is what appears in Exhibit 14?,q,MR. ROBINSON,start_answer
+799,2294,88,19,Yes.,a,THE WITNESS,start_question
+800,2295,88,20,Okay.  What's the relationship -- can you tell me what the relationship is between the COGENT study at Exhibit 14 and the COGENT study at Exhibit 6?,q,MR. ROBINSON,start_answer
+801,2299,88,24,"Exhibit 6 is -- is this, (indicating)?",a,THE WITNESS,start_question
+802,2300,88,25,Correct.,q,MR. ROBINSON,start_answer
+803,2302,89,1,So the question is between these two?,a,THE WITNESS,start_question
+804,2303,89,2,"What's the -- yeah, is there a relationship between them?",q,MR. ROBINSON,start_answer
+805,2305,89,4,"They both are listed as field following clinical reports.  One seems to precede the other.  One was in April and the other followed -- April of 2008, the other was June of 2009.",a,THE WITNESS,start_question
+806,2310,89,9,And both were provided to the FDA?,q,MR. ROBINSON,start_answer
+807,2311,89,10,I believe so.,a,THE WITNESS,start_question
+808,2312,89,11,"And if you look at Exhibit 14, is -- starting at what would be page 60 of the document --",q,MR. ROBINSON,start_answer
+809,2314,89,13,Okay.,a,THE WITNESS,start_question
+810,2315,89,14,-- which has the number BSC00040642.,q,MR. ROBINSON,start_answer
+811,2316,89,15,Yup.,a,THE WITNESS,start_question
+812,2317,89,16,Is there information being provided to the FDA regarding adverse events that occurred during the COGENT field following?,q,MR. ROBINSON,start_answer
+813,2320,89,19,"Yes, the table is titled Serious Adverse Device Effects.",a,THE WITNESS,start_question
+814,2322,89,21,And how long does that table go on for?,q,MR. ROBINSON,start_answer
+815,2323,89,22,Do you want me to count the pages?  Many pages.,a,THE WITNESS,start_question
+816,2325,89,24,Does it end at page 80?,q,MR. ROBINSON,start_answer
+817,2326,89,25,"Let's see.  (Reviews document.)  It appears to -- let me check 81.  Yes, the Appendix B starts at 81, so appendix C goes 60 to 80.",a,THE WITNESS,start_question
+818,2330,90,3,Okay.  Thank you.  Okay.  I don't have any other questions about that now.,q,MR. ROBINSON,start_answer
+819,2332,90,5,Okay.,a,THE WITNESS,start_question
+820,2333,90,6,Let me ask you to go back to Zurn Exhibit 2.,q,MR. ROBINSON,start_answer
+821,2334,90,7,Okay.,a,THE WITNESS,start_question
+822,2335,90,8,"Okay.  Mr. Ellerbe asked you about the second page, fifth bullet.",q,MR. ROBINSON,start_answer
+823,2337,90,10,Yes.,a,THE WITNESS,start_question
+824,2338,90,11,"Okay.  I'm going to ask you -- I want to ask you about the sixth bullet where it says, ""Regarding this bullet above, it should be noted that in response to the deep dive on the legacy BSC warning systems, CRM updated its procedures to expand our MDR reporting to include devices not yet marketed in the U.S.; however, this appears to be in conflict with legacy BSC's practices as noted in their letter to FDA dated March 18th, 2009.  This letter stated that,"" quote, ""in the absence of formal legally reviewed guidance from FDA, we stand by our position stated,"" dot, dot, dot, ""that MDR regulations in 21 CFR part 803, limit all MDR reporting to devices marketed in the United States,"" end of quotations. Did I read that correctly?",q,MR. ROBINSON,start_answer
+825,2357,91,4,Yes.,a,THE WITNESS,start_question
+826,2358,91,5,"Okay.  Now, when it refers to, ""Legacy BSC,"" what are you -- what is this document referring to?",q,MR. ROBINSON,start_answer
+827,2361,91,8,It's referring to the -- the larger Boston Scientific company that ultimately acquired Guidant.  So we internally referred to legacy BSC as anything other than what was the cardiac rhythm management division.,a,THE WITNESS,start_question
+828,2366,91,13,Okay.  And the legacy BSC was taking a different position regarding the definition of similar than the CRM division was taking?,q,MR. ROBINSON,start_answer
+829,2369,91,16,That's correct.,a,THE WITNESS,start_question
+830,2370,91,17,Okay.  And the rationale for that is stated in this bullet; is that correct?,q,MR. ROBINSON,start_answer
+831,2372,91,19,That is correct.,a,THE WITNESS,start_question
+832,2373,91,20,All right.,q,MR. ROBINSON,start_chat
+833,2374,91,21,I have no other questions.,side_chat,MR. ROBINSON,start_chat
+834,2376,91,23,Okay.  Just a couple on redirect. FURTHER EXAMINATION,side_chat,MR. ELLERBE,start_question
+835,2382,92,3,You talked about a Merlin call and some of the information about the adverse effects. What is a Merlin call?,q,MR. ELLERBE,start_answer
+836,2385,92,6,"Merlin is a computer system that the technical services team uses to -- a computer system that captures their -- the call that they have with the clinician or a patient, whoever may call in look for technical support.",a,THE WITNESS,start_question
+837,2391,92,12,"Okay.  And then also turning to Zurn 6, Mr. Robinson asked about you the description of the adverse event on page 26 for the patient ID GEBOCGAO.",q,MR. ELLERBE,start_answer
+838,2395,92,16,Yes.,a,THE WITNESS,start_question
+839,2396,92,17,And you said that the description in that event was very similar to the description of the adverse event in Zurn 3; is that right?,q,MR. ELLERBE,start_answer
+840,2399,92,20,"I'll grab Zurn 3.  Sorry, I've got too much of a mess here.  I'm trying to find Zurn 3. Here it is.  Yes, it's not verbatim, but it is, in essence, the same complaint.",a,THE WITNESS,start_question
+841,2403,92,24,"And the description in the COGENT field following table does not say that the lead's terminal pin was not fully inserted when the revision procedure occurred, does it?",q,MR. ELLERBE,start_answer
+842,2408,93,3,It does not.,a,THE WITNESS,start_chat
+843,2409,93,4,Okay.  No further questions. FURTHER EXAMINATION,side_chat,MR. ELLERBE,start_question
+844,2414,93,9,"What does -- looking at the same language, what does it say about the -- what needed to be fixed?",q,MR. ROBINSON,start_answer
+845,2417,93,12,The setscrew of the proximal shock coil was fixed.,a,THE WITNESS,start_question
+846,2419,93,14,Okay.,q,MR. ROBINSON,start_chat
+847,2420,93,15,No other questions.,side_chat,MR. ROBINSON,start_chat
+848,2421,93,16,We are going off the record at 11:53 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+849,2423,93,18,"(Deposition concluded at 11:53 a.m.) DEPOSITION CORRECTION SHEET TITLE:  United States of America, et al. vs. WITNESS:  Sharon M. Zurn PAGE  LINE   DESIRED CHANGE",brackets,,symbols
+850,2437,94,5,____  ____  _____________________________________,symbols,,symbols
+851,2438,94,6,____  ____  _____________________________________,symbols,,symbols
+852,2439,94,7,____  ____  _____________________________________,symbols,,symbols
+853,2440,94,8,____  ____  _____________________________________,symbols,,symbols
+854,2441,94,9,____  ____  _____________________________________,symbols,,symbols
+855,2442,94,10,____  ____  _____________________________________,symbols,,symbols
+856,2443,94,11,____  ____  _____________________________________,symbols,,symbols
+857,2444,94,12,____  ____  _____________________________________,symbols,,symbols
+858,2445,94,13,____  ____  _____________________________________,symbols,,symbols
+859,2446,94,14,____  ____  _____________________________________,symbols,,symbols
+860,2447,94,15,____  ____  _____________________________________,symbols,,symbols
+861,2448,94,16,____  ____  _____________________________________,symbols,,symbols
+862,2449,94,17,____  ____  _____________________________________,symbols,,symbols
+863,2450,94,18,____  ____  _____________________________________,symbols,,symbols
+864,2451,94,19,____  ____  _____________________________________,symbols,,symbols
+865,2452,94,20,____  ____  _____________________________________,symbols,,symbols
+866,2453,94,21,____  ____  _____________________________________,symbols,,symbols
+867,2454,94,22,____  ____  _____________________________________,symbols,,symbols
+868,2455,94,23,____  ____  _____________________________________,symbols,,symbols
+869,2456,94,24,____  ____  _____________________________________,symbols,,symbols
+870,2457,94,25,"____  ____  _____________________________________ I, Sharon M. Zurn, have read this deposition transcript and acknowledge herein its accuracy except as noted:",symbols,,symbols
+871,2465,95,7,"________________________ STATE OF MINNESOTA  ) COUNTY OF ANOKA     ) deposition of Sharon M. Zurn, on August 20, 2019, in and for the County of Anoka, State of Minnesota, to administer an oath; That the witness was by me first duly nothing but the truth relative to said cause; That the foregoing transcript is a true said matter; That the witness reserved the right to parties hereto, nor interested in the outcome of August, 2019.",symbols,,symbols
+872,2514,96,18,______________________________ My Commission Expires 01/31/20,symbols,,end

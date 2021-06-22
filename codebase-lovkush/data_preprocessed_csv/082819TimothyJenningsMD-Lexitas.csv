@@ -1,0 +1,788 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," County, herein to tell the truth, the whole truth, and nothing but the truth, was examined and testified as follows: EXAMINATION",,,start_question
+1,120,4,17,"Good morning, Doctor.",q,MR. MILLER,start_answer
+2,121,4,18,Good morning.,a,THE WITNESS,start_question
+3,122,4,19,Can you tell me if you reviewed any documents in preparation for giving testimony here today?,q,MR. MILLER,start_answer
+4,125,4,22,Yes.,a,THE WITNESS,start_question
+5,126,4,23,Please tell me what documents you reviewed.,q,MR. MILLER,start_answer
+6,128,4,25,"I reviewed our report on the material that we received with respect to this case, and also I briefly looked at another report on the cytogenetics.",a,THE WITNESS,start_chat
+7,133,5,4,Do you have those reports?,side_chat,MR. MILLER,start_chat
+8,135,5,6,Yeah.  I'll have you mark them.  There's cytogenics and there's reports.,side_chat,MR. BELL,start_chat
+9,138,5,9,"I may have them in my material, but...",side_chat,MR. MILLER,start_question
+10,141,5,12,So you reviewed only those two documents?,q,MR. MILLER,start_answer
+11,142,5,13,Right.,a,THE WITNESS,start_question
+12,143,5,14,"To prepare for your testimony here today, did you conduct any type of investigation or interview or speak with anybody in the Department of Pathology or Anatomic Pathology?",q,MR. MILLER,start_answer
+13,148,5,19,"In preparation for this testimony, I did not.",a,THE WITNESS,start_question
+14,150,5,21,Are you aware of any investigation that was conducted by Albany Medical Center in connection with this matter?,q,MR. MILLER,start_answer
+15,153,5,24,Yes.,a,THE WITNESS,start_question
+16,154,5,25,And please tell me what investigation you are aware of.,q,MR. MILLER,start_chat
+17,157,6,2,"Objection to the form, but go ahead.",side_chat,MR. BELL,start_answer
+18,159,6,4,"Once I was made aware of this, I was involved in the investigations that ensued with respect to this that included a root cause analysis.",a,THE WITNESS,start_question
+19,163,6,8,"All right.  When you say you were involved in the investigation with this, what does ""this"" mean?",q,MR. MILLER,start_answer
+20,166,6,11,"Well, we had handled this material, this, what we call it, a specimen, in our laboratory, and handled it in a routine fashion rather than handling it with the special request that was made.  So there was an error in our laboratory in not holding the specimen for purposes of burial, as I understood it.  So that was the issue at hand that we investigated.",a,THE WITNESS,start_question
+21,175,6,20,"Tell me what the investigation consisted of, to your knowledge.",q,MR. MILLER,start_chat
+22,177,6,22,"Again, objection, but you can answer.",side_chat,MR. BELL,start_answer
+23,179,6,24,"As I say, we had a preliminary inquiry into whether we still had the specimen. We established that we did not.",a,THE WITNESS,start_question
+24,183,7,2,"When you use the word ""we,"" who are you referring to?",q,MR. MILLER,start_answer
+25,185,7,4,"Well, our laboratory personnel.  That would be if -- In the usual course, it would be the supervisor and the assistant supervisor in our laboratory, at that laboratory.",a,THE WITNESS,start_question
+26,190,7,9,Was a report generated as a result of this investigation?,q,MR. MILLER,start_answer
+27,192,7,11,I'm not sure of that.,a,THE WITNESS,start_question
+28,193,7,12,Who did you report to in that investigation?,q,MR. MILLER,start_answer
+29,195,7,14,"Well, I didn't really report to anyone.  I was part of the investigation.  I was part of the group that met to understand what had happened.  Much of it was designed to see if we could improve our practices so that this wouldn't happen again in the future.",a,THE WITNESS,start_question
+30,202,7,21,When was this investigation conducted?,q,MR. MILLER,start_answer
+31,203,7,22,"In that time frame.  I'm not sure it was -- If memory serves, there was a delay in our recognizing that there had been an error.  We normally hold samples, specimens like this for three weeks after we issue a report.  So it would have to have been at least a month or so, probably, before we began to investigate it.  So sometime after that we pursued this investigation.",a,THE WITNESS,start_question
+32,214,8,7,Was this a committee that was formed to investigate?,q,MR. MILLER,start_answer
+33,216,8,9,"It was an ad hoc committee, if you will. It was what we call a root cause analysis. When a significant error is made, we try to understand what happened, why it happened, and what we can do better to avoid that happening again.",a,THE WITNESS,start_question
+34,222,8,15,Who was in charge of the investigation?,q,MR. MILLER,start_chat
+35,223,8,16,Objection to form. Go ahead.,side_chat,MR. BELL,start_answer
+36,225,8,18,It usually is initiated by Risk Management.,a,THE WITNESS,start_question
+37,227,8,20,For Albany Medical Center?,q,MR. MILLER,start_answer
+38,228,8,21,That's correct.,a,THE WITNESS,start_question
+39,229,8,22,And can you tell me who the members were of this ad hoc committee?,q,MR. MILLER,start_chat
+40,231,8,24,"I'll object as to the identification of the people, but I -- but they come from different departments, so I'll let him identify the departments that were involved and the representatives.  It is, I think, protected, but in this case I'm letting it go a little farther than I think I would otherwise.",side_chat,MR. BELL,start_question
+41,242,9,9,"If you could tell me what departments were involved, please.",q,MR. MILLER,start_answer
+42,244,9,11,"I probably wouldn't be able to tell you the individuals, anyway.  So I can tell you that we had members of nursing, Risk Management, patient access, the morgue, the laboratory/  I think hospital administration may have been there, as well, and I think there were others there. There were several members of the nursing services from different areas, from which this type of specimen might emanate.  So we might receive this type from the OR, labor and delivery, the emergency room.",a,THE WITNESS,start_question
+43,256,9,23,"Did your protocols change?  When I said ""your,"" I'm talking about Albany Medical Center or any of the departments of pathology.  Did the protocols change in the way samples are handled as a result of this investigation?",q,MR. MILLER,start_chat
+44,263,10,4,"Objection to form, but you can answer.",side_chat,MR. BELL,start_answer
+45,265,10,6,"I believe so, but I'm not -- I'm not able to tell you in what ways they did.  I think there were aspects of it that involved nursing and the laboratory and other forms of communication that were modified.",a,THE WITNESS,start_question
+46,271,10,12,"As part of the investigation, were various individuals interviewed?",q,MR. MILLER,start_chat
+47,273,10,14,"Objection, but you can answer.",side_chat,MR. BELL,start_answer
+48,275,10,16,"I'm not sure what you mean by ""interviewed.""  Certainly there were questions that were addressed in terms of what people did or did not do and why they did or did not do what they did so we could understand what might have been a source of confusion or represent an opportunity for us to improve our process.",a,THE WITNESS,start_question
+49,283,10,24,"When you say certain people were identified as to what they did or could do or did not do, did you or the committee or anybody at Albany Medical Center specifically identify the specific individual or individuals within any of the pathology departments who handled the sample and who ultimately discarded the sample?",q,MR. MILLER,start_chat
+50,293,11,8,"Objection, but you can answer.",side_chat,MR. BELL,start_answer
+51,295,11,10,"I suspect we were able to identify the personnel involved, but I don't -- I don't know who those people were at this point in time.",a,THE WITNESS,start_question
+52,299,11,14,Are there any records to identify who those personnel are?,q,MR. MILLER,start_answer
+53,301,11,16,I'm not sure of that.,a,THE WITNESS,start_question
+54,302,11,17,"Putting aside for a moment the names of those individuals, can you tell me if those individuals you're referring to worked within a particular department or division of the hospital?",q,MR. MILLER,start_answer
+55,307,11,22,"Yes, I think at least one of them I know was in our laboratory.",a,THE WITNESS,start_question
+56,309,11,24,"And when you say ""our laboratory,"" what specific laboratory are you referring to?",q,MR. MILLER,start_answer
+57,312,12,1,It's called Histology or Surgical Pathology.,a,THE WITNESS,start_question
+58,314,12,3,What is the difference between surgical pathology and the Department of Anatomic Pathology?,q,MR. MILLER,start_answer
+59,317,12,6,"Well, in this hospital we call it the Division of Anatomic Pathology, which encompasses other laboratories, including Surgical Pathology.",a,THE WITNESS,start_question
+60,321,12,10,"Now, back at the time frame we're talking about here, I understand you are the Director of Anatomic Pathology, correct?",q,MR. MILLER,start_answer
+61,324,12,13,"Yes, sir.",a,THE WITNESS,start_question
+62,325,12,14,And when did you assume the directorship?,q,MR. MILLER,start_answer
+63,326,12,15,I believe it was '90 -- I'm not certain. In the -- '90 --,a,THE WITNESS,start_question
+64,328,12,17,I'm looking at your CV.,q,MR. MILLER,start_answer
+65,329,12,18,Thank you.,a,THE WITNESS,start_question
+66,330,12,19,1999.,q,MR. MILLER,start_answer
+67,331,12,20,Okay.,a,THE WITNESS,start_question
+68,332,12,21,"And before that, you were the Director of Surgical Pathology?",q,MR. MILLER,start_answer
+69,334,12,23,Correct.,a,THE WITNESS,start_question
+70,335,12,24,"Is there, in fact, a Department of Histology or does histology fall within the Surgical Sathology Department?",q,MR. MILLER,start_answer
+71,339,13,2,"It's essentially the same department, just a different name.",a,THE WITNESS,start_question
+72,341,13,4,And what are your duties and responsibilities as Director of Anatomic Pathology?,q,MR. MILLER,start_answer
+73,344,13,7,"Well, again, that encompasses not only surgical pathology, but also psychology and autopsy pathology and other services related to handling tissues and fluids for anatomic diagnosis.  My role there includes overseeing the operations to make sure that we maintain a quality performance.",a,THE WITNESS,start_question
+74,352,13,15,So you have administrative responsibilities?,q,MR. MILLER,start_answer
+75,354,13,17,"Yes, sir.",a,THE WITNESS,start_question
+76,355,13,18,Do you have clinical responsibilities?,q,MR. MILLER,start_answer
+77,356,13,19,"Outside of that title, I also operate as an attending pathologist and have a full service load, yes, sir.  Or I had had.",a,THE WITNESS,start_question
+78,359,13,22,"Back in the fall of 2015, approximately how many employees worked within the Department of Anatomic Pathology?",q,MR. MILLER,start_answer
+79,362,13,25,"We had a number of employees that were not full time.  I think we had about 12 pathologists, probably 50 or 60 technical people, 10 or 12 office employees.  I'm ballparking it.  I don't know the exact number.",a,THE WITNESS,start_question
+80,369,14,6,"So total, give or take, of 75 people?",q,MR. MILLER,start_answer
+81,370,14,7,"Yes, sir.",a,THE WITNESS,start_question
+82,371,14,8,Do they all work at the same location?,q,MR. MILLER,start_answer
+83,372,14,9,"No, sir.",a,THE WITNESS,start_question
+84,373,14,10,At different locations within the hospital building?,q,MR. MILLER,start_answer
+85,375,14,12,I believe so.,a,THE WITNESS,start_question
+86,376,14,13,"All right.  And those 75 people, does that include the people who work for the department of surgical pathology as well?",q,MR. MILLER,start_answer
+87,379,14,16,"Yes, sir.",a,THE WITNESS,start_question
+88,380,14,17,So do you make a distinction between people who work for surgical pathology versus anatomic pathology?,q,MR. MILLER,start_answer
+89,383,14,20,Only in certain respects.  Certainly not in operations that relate to the quality of the laboratory.,a,THE WITNESS,start_question
+90,386,14,23,"And when we're talking about surgical pathology, just generally speaking, are we talking about samples that are provided for pathological analysis as the result of some surgical procedure?",q,MR. MILLER,start_answer
+91,392,15,3,In general.,a,THE WITNESS,start_question
+92,393,15,4,"The Department of Anatomic Pathology, does it receive samples for analysis beyond just surgical samples?",q,MR. MILLER,start_answer
+93,396,15,7,Yes.,a,THE WITNESS,start_question
+94,397,15,8,And give me an example of the samples that you'd receive.,q,MR. MILLER,start_answer
+95,399,15,10,"Well, one of the most conspicuous ones would cytology samples; so we have fluids or smears, so forth.  We do also receive remains in the autopsy suite. Occasionally a sample is obtained outside of the venue of normal operations, either through trauma or accident or something like that, some kind of non-surgical procedure.",a,THE WITNESS,start_question
+96,408,15,19,Were there various departments within the Department of Anatomic Pathology?,q,MR. MILLER,start_answer
+97,410,15,21,"Various divisions, yeah.",a,THE WITNESS,start_question
+98,411,15,22,Please tell me what they were or are.,q,MR. MILLER,start_answer
+99,412,15,23,Well --,a,THE WITNESS,start_chat
+100,413,15,24,Objection.  You want him -- I don't know if it's changed since 2015 or not.,side_chat,MR. BELL,start_question
+101,418,16,3,Let's go back to 2015.,q,MR. MILLER,start_answer
+102,419,16,4,"I think it's similar to that.  We have -- The biggest divisions are surgical pathology, cytopathology, autopsy pathology.  Under those, we have subspecialty areas that include neuropathology, hematopathology, dermatopathology, and others that are less busy.",a,THE WITNESS,start_question
+103,427,16,12,Were there written protocols within the Department of Anatomic Pathology in 2015 regarding how samples were to be handled when received by the Department of Anatomic Pathology?,q,MR. MILLER,start_answer
+104,432,16,17,Yes.,a,THE WITNESS,start_question
+105,433,16,18,And were those various written protocols broken down by the different types of pathology that you just referred to or was it one general overview of a protocol?,q,MR. MILLER,start_answer
+106,437,16,22,We have a requisition form that is distinct in surgical pathology from the one that we use in cytopathology.,a,THE WITNESS,start_question
+107,440,16,25,It's distinct in which way?,q,MR. MILLER,start_answer
+108,442,17,1,It's just a different form.  It has different needs and requirements to -- for us to operate effectively.,a,THE WITNESS,start_question
+109,445,17,4,"Now, in the case that we're talking about, is it your understanding that fetal remains taken from Larissa Davis came to the Department of Anatomic Pathology?",q,MR. MILLER,start_answer
+110,449,17,8,"Yes, sir.",a,THE WITNESS,start_question
+111,450,17,9,Something like that was -- Would it be fair if I classified it as a routine thing?,q,MR. MILLER,start_answer
+112,453,17,12,"It is not uncommon for us to get those, so we handle those almost every day.",a,THE WITNESS,start_question
+113,455,17,14,Are there specific protocols for the way fetal remains are to be handled?,q,MR. MILLER,start_answer
+114,457,17,16,Yes.,a,THE WITNESS,start_question
+115,458,17,17,"Is it your understanding in this case -- Let me withdraw that. Is there a phrase within the department of pathology ""medical waste""?",q,MR. MILLER,start_answer
+116,462,17,21,It is a term that is used.  I'm not certain if it's in our documents or protocols.  I don't know that answer.,a,THE WITNESS,start_question
+117,465,17,24,"All right.  Putting aside your documents and protocols, have you heard the phrase ""medical waste""?",q,MR. MILLER,start_answer
+118,469,18,2,Of course.,a,THE WITNESS,start_question
+119,470,18,3,What do you understand that to mean?,q,MR. MILLER,start_answer
+120,471,18,4,"Well, it is a term that includes a variety of types of material that are deemed no longer necessary to retain for purposes of analysis or other reasons and can be disposed of.",a,THE WITNESS,start_question
+121,476,18,9,"And back in 2015, in your laboratory, how was medical waste disposed of?",q,MR. MILLER,start_answer
+122,478,18,11,"Well, we do have a variety of types of material that are encompassed in that term, again, including fluids, blood, things like that that are sometimes contaminating gauze or papers, and so those go in for that type of disposal. Our own laboratory also has the specimens that, after we have done what we are supposed to do with them, are also put through that disposal process.",a,THE WITNESS,start_question
+123,488,18,21,Specifically what is the disposal process?,q,MR. MILLER,start_answer
+124,489,18,22,"So again, for those specimens, I think is what you're asking about.",a,THE WITNESS,start_question
+125,491,18,24,Yes.,q,MR. MILLER,start_answer
+126,492,18,25,"We issue a report, we retain specimens for three weeks after the report is issued to permit -- provide an opportunity for us to hear back from someone if there are additional questions or concerns, and then they go for disposal.  We use an incinerating process, I think, through a company.",a,THE WITNESS,start_question
+127,501,19,8,You said in your answer that you hold on to the specimen for three weeks and then you issue a report?,q,MR. MILLER,start_answer
+128,504,19,11,"No, sir.  We issue a report -- We receive the specimen, we process it, we issue the report.",a,THE WITNESS,start_question
+129,507,19,14,Regarding the specimen itself?,q,MR. MILLER,start_answer
+130,508,19,15,"Right.  During that period, the specimen is held in storage.  We continue to hold it for three weeks after the report has been issued so that there is an opportunity for feedback.",a,THE WITNESS,start_question
+131,513,19,20,"When you use the word ""report,"" do you mean reporting on a pathological analysis?",q,MR. MILLER,start_answer
+132,515,19,22,Correct.  That diagnosis report as you see there.,a,THE WITNESS,start_question
+133,517,19,24,"Okay.  Apart from the investigation that you were involved in, did you personally have any involvement with examination or analysis of fetal remains from Larissa Davis?",q,MR. MILLER,start_answer
+134,523,20,4,I'm not sure I understand your question.,a,THE WITNESS,start_question
+135,524,20,5,Did you examine the specimen in this case?,q,MR. MILLER,start_answer
+136,525,20,6,"It was my report that has been issued from our lab.  My name is on that report.  I'm certain I did see the slides that were generated, the slide that was generated.",a,THE WITNESS,start_question
+137,529,20,10,So would your name be on that report if you did not personally examine those slides?,q,MR. MILLER,start_answer
+138,532,20,13,"No, sir.",a,THE WITNESS,start_question
+139,533,20,14,So whoever personally examined that report would have his or her name on?,q,MR. MILLER,start_answer
+140,535,20,16,Correct.,a,THE WITNESS,start_question
+141,536,20,17,"Okay.  Now, the incineration process, does Albany Medical Center have an incinerator for disposal of what it determines to be medical waste?",q,MR. MILLER,start_answer
+142,540,20,21,"I'm not certain anymore what the process is after it goes from our lab.  I'll be honest, I don't know.",a,THE WITNESS,start_question
+143,543,20,24,"Back in 2015, did Albany Medical Center have an incinerator on site, if you know?",q,MR. MILLER,start_answer
+144,546,21,1,I don't know the answer to that question.,a,THE WITNESS,start_question
+145,547,21,2,Who makes the determination that a specimen is no longer needed and they can dispose of it or incinerate it?,q,MR. MILLER,start_answer
+146,550,21,5,"Well, we've had a practice that's based on an understanding through administrations in the hospital that this is the process by which we're going to dispose of these specimens.  And so I don't know if that was a decision that was made by -- I don't know who made the decision, if that's the question.",a,THE WITNESS,start_chat
+147,558,21,13,"You mean in general, Jeff, or --",side_chat,MR. BELL,start_question
+148,561,21,16,"Let me be more specific, okay? When a specimen is sent to your lab, the analysis is done.  Once the analysis is done, you hold on to that specimen for about three weeks, give or take.  From that point on, who within that lab has the responsibility or makes the determination to say we no longer have to keep this or maintain it, we're going to dispose of it?",q,MR. MILLER,start_answer
+149,572,22,1,"I understand now, I think. So our practice includes a routine that would permit us to treat the vast majority of specimens in this fashion that we just described, which is a three-week hold period.  Our storage facilities do not permit us to hold so many specimens for an indefinite period of time, so the routine is to discard or dispose of these specimens after that three-week interval. If there is a special request, we would hold it in a somewhat -- in a similar, but different area for further analysis or disposition.",a,THE WITNESS,start_question
+150,586,22,15,"When you use the word ""routine"" for disposal, is this a written protocol or it's just a verbal routine or understood routine?",q,MR. MILLER,start_answer
+151,590,22,19,"I think it's written, but I don't know that I could pull it up.  It's the way we've practiced for many, many, many years.",a,THE WITNESS,start_question
+152,594,22,23,"Is there an individual within the lab, or was there back in 2015, or department within the lab who made the determination we don't need a particular specimen, we can dispose of it, or is that determination made by different people in a case-by-case basis?",q,MR. MILLER,start_chat
+153,602,23,5,Objection to form. You can go ahead.,side_chat,MR. BELL,start_answer
+154,604,23,7,"Well, we have a, I guess it's FIFO; first in, first out.  That's the storage system. So we actually go through each specimen and make sure that it has been signed out and that the three-week interval has been met, and we put that in for disposal.  So there is a process that treats all specimens in that fashion that are shelved as for disposal.",a,THE WITNESS,start_question
+155,613,23,16,"Generally speaking, Doctor, with regard to each specimen that comes into the lab, going through analysis, and from there disposal or special request, is there paperwork that tracks that specimen from the moment it enters the lab to the moment it's discarded or treated or held on to?",q,MR. MILLER,start_answer
+156,620,23,23,"So the paperwork that is that requisition form that comes with the specimen is married up with the specimen through the process until such time as a slide is made, slide or slides, and then it is married up with the slide.  So it is divorced from the specimen container at an intermediate period of the process. So once it is put into storage, the only way we can check it is through the computer, or we can make a special effort to go back and pull out the paperwork, but the report -- the paperwork does not stay with the specimen container indefinitely.",a,THE WITNESS,start_question
+157,635,24,12,"A few minutes ago in one of your answers, you made reference to special requests being received from time to time by the lab; correct?",q,MR. MILLER,start_answer
+158,639,24,16,Correct.,a,THE WITNESS,start_question
+159,640,24,17,Could you tell me generally what you understand a special request to be?,q,MR. MILLER,start_answer
+160,642,24,19,"Well, it's a request for us to do something other than routine.  We receive those -- sometimes as we receive this one written on the requisition sheet, other times there's a verbal communication, telephone or in person, email, fax.  We get communications in a variety of ways to give us this kind of special request.",a,THE WITNESS,start_question
+161,651,25,2,"So if your lab received a requisition that said in words or substance hold fetal remains, parents want them for purposes of burial, would you consider that to be a special request?",q,MR. MILLER,start_answer
+162,656,25,7,"Yes, sir.",a,THE WITNESS,start_question
+163,657,25,8,"And generally speaking, how, back in 2015, were special requests handled or tracked?",q,MR. MILLER,start_answer
+164,659,25,10,"Well, it depends on the request. Sometimes we get a request from a medical device company to hold something and so forth, but in this case, that request would have been met by putting the specimen in a separate area for -- for holding until we heard from the funeral home or whoever else reached out to us for that material.",a,THE WITNESS,start_question
+165,668,25,19,"So do I take your answer to mean that if a special request is received by your department for a specimen, that specimen is not supposed to be disposed of or incinerated?",q,MR. MILLER,start_answer
+166,673,25,24,That's correct.  An error was made.,a,THE WITNESS,start_question
+167,674,25,25,"Now, before you had mentioned that you get a requisition initially, and that if -- I assume that an inventory control number or something like that is given to a sample?",q,MR. MILLER,start_answer
+168,679,26,4,We have a unique identifier that is assigned to each case.,a,THE WITNESS,start_question
+169,681,26,6,And that unique identifier goes into the computer system?,q,MR. MILLER,start_answer
+170,683,26,8,Correct.,a,THE WITNESS,start_question
+171,684,26,9,"As that sample that received a special request traveled in the system in your laboratory back in 2015, does that requisition with the special request travel with the specimen or do you have to look at the computer to know if there was a special request for that sample?",q,MR. MILLER,start_answer
+172,691,26,16,No.  It's only on the requisition itself.,a,THE WITNESS,start_question
+173,692,26,17,"So if the requisition doesn't travel with the sample, the only way somebody handling that sample would know about that special request is by looking in the computer; correct?",q,MR. MILLER,start_answer
+174,697,26,22,"No, it wouldn't be in the computer.",a,THE WITNESS,start_question
+175,698,26,23,Where would it be?,q,MR. MILLER,start_answer
+176,699,26,24,"The special request is only on the requisition, and it would be set aside in the storage area so that if someone followed up and said I'm looking for that specimen, they would go in that area and look for it.  They would await that notification or call.  We can always recover the requisition sheet, but it doesn't stay with the specimen. It goes with the rest of the case.",a,THE WITNESS,start_question
+177,710,27,9,"What I'm envisioning from your answers is that, within your laboratory, there's more than one storage area?",q,MR. MILLER,start_answer
+178,713,27,12,"There's one storage area, but two -- It's divided.",a,THE WITNESS,start_question
+179,715,27,14,"Okay.  Special request to the left, not special request to the right, okay?",q,MR. MILLER,start_answer
+180,717,27,16,Fair enough.,a,THE WITNESS,start_chat
+181,718,27,17,Objection.  But go ahead.,side_chat,MR. BELL,start_question
+182,721,27,20,"And if you get a special request and it's supposed to go to the left, but, in fact, it is stored on the right side, nobody's ever going to know about that special request; correct?",q,MR. MILLER,start_answer
+183,726,27,25,That was the system we had in place at the time this event occurred.,a,THE WITNESS,start_question
+184,729,28,2,So there was no backup --,q,MR. MILLER,start_answer
+185,730,28,3,Correct.,a,THE WITNESS,start_question
+186,731,28,4,-- to make sure that the special request was honored; is that right?,q,MR. MILLER,start_answer
+187,733,28,6,I'm afraid that's correct.,a,THE WITNESS,start_question
+188,734,28,7,And that process is now a different process?,q,MR. MILLER,start_answer
+189,736,28,9,"Yes, sir.",a,THE WITNESS,start_question
+190,737,28,10,I'm going to go through a series of documents with you.,q,MR. MILLER,start_answer
+191,739,28,12,All right.,a,THE WITNESS,start_question
+192,740,28,13,All right.  And then I'll get more specific about this case.,q,MR. MILLER,start_chat
+193,742,28,15,I'm just going to hand these all to you.,side_chat,MR. MILLER,start_chat
+194,744,28,17,Okay.,side_chat,MR. BELL,start_chat
+195,745,28,18,We'll go through them.  If you can show the doctor number 1.,side_chat,MR. MILLER,start_question
+196,749,28,22,"Doctor, can you tell me what Exhibit 1 is, please?",q,MR. MILLER,start_answer
+197,751,28,24,"This is an Albany Medical Center policy and procedure, number 10.09.  Subject is fetal death reporting.",a,THE WITNESS,start_question
+198,755,29,2,"What's the purpose -- Withdraw that. Is this a policy, procedure or protocol of Albany Medical Center that was in effect back in November or October of 2015?",q,MR. MILLER,start_answer
+199,760,29,7,"It appears to be so.  It looks right, but -- The date here is effective 10/8/15, so that's part of that same time frame. I'm not sure if there was a modification around that time.  It might not have been communicated to everyone.  I don't know.",a,THE WITNESS,start_question
+200,766,29,13,"What's the purpose of this policy and procedure, generally speaking?",q,MR. MILLER,start_answer
+201,768,29,15,"Well, I think it's fairly stated here, to ensure an accurate and consistent method of completing the appropriate paperwork necessary to complete fetal death reporting.",a,THE WITNESS,start_question
+202,773,29,20,So this has to do with reporting of a death to the Department of Health and Vital Statistics?,q,MR. MILLER,start_answer
+203,776,29,23,Correct.,a,THE WITNESS,start_question
+204,777,29,24,Does this policy play any role in the -- in your laboratory?,q,MR. MILLER,start_answer
+205,780,30,1,"Well, it does insofar as we are aware of the importance of the 20-week time frame with respect to whether a death certificate needs to be filed or not. Obviously 20 weeks is sometimes difficult to establish.  You can use estimated date of confinement or other last period. There are other ways to establish that, but we basically don't have anything to do with this reporting, if that's the question.",a,THE WITNESS,start_question
+206,791,30,12,You mentioned 20 weeks.  What's the significance of 20 weeks?,q,MR. MILLER,start_answer
+207,793,30,14,"Well, again, there's -- It's considered a death if it's more than 20 weeks, by the state.",a,THE WITNESS,start_question
+208,796,30,17,"So if it's less than 20 weeks, what's it considered?",q,MR. MILLER,start_answer
+209,798,30,19,"I'm not sure of the exact terminology, but it doesn't require this form be completed.",a,THE WITNESS,start_question
+210,800,30,21,So this form only needs to be completed under what circumstances?,q,MR. MILLER,start_answer
+211,802,30,23,"I believe if it is 20 weeks of gestation. We still have a death notice, I think.  It is confusing in terms of the nomenclature and usage.  And one of the things that became evident with the root cause analysis was some of this confusion, but -- And I'm not the best person to speak to this, but I, myself, am sometimes confused.  But I think I stated fairly that there's a 20-week cutoff between what is considered a death by the State of New York.",a,THE WITNESS,start_question
+212,815,31,10,"Does this policy, number 1, play any role in terms of how samples are handled in your laboratory?",q,MR. MILLER,start_answer
+213,818,31,13,Yes.,a,THE WITNESS,start_question
+214,819,31,14,And what role does it play?,q,MR. MILLER,start_answer
+215,820,31,15,"Well, again, if it's less than 20 weeks, it is considered a surgical specimen and would be handled as we handled this one.",a,THE WITNESS,start_question
+216,823,31,18,So surgical specimen is one that typically is considered to be disposable?,q,MR. MILLER,start_answer
+217,825,31,20,Yes.,a,THE WITNESS,start_question
+218,826,31,21,"And other than incinerating surgical or disposable samples, is there any other way to dispose of them that you're aware of?",q,MR. MILLER,start_chat
+219,829,31,24,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+220,832,32,1,"Well, certainly we could do other things with them.  We could inter them.  That's done occasionally.",a,THE WITNESS,start_question
+221,835,32,4,That would be by special request?,q,MR. MILLER,start_answer
+222,836,32,5,"Yes, sir.",a,THE WITNESS,start_question
+223,837,32,6,"Back in the fall of 2015, was there a specific form that I will call a special request form?",q,MR. MILLER,start_answer
+224,840,32,9,I don't believe so.,a,THE WITNESS,start_question
+225,841,32,10,So back in 2015 -- and please tell me if I'm wrong here -- the only way that a special request can be honored is or was if the specimen were stored in the correct area of the laboratory?,q,MR. MILLER,start_chat
+226,846,32,15,"Objection to form, but you can answer.",side_chat,MR. BELL,start_answer
+227,848,32,17,"I suppose there might have been another way it might have been done, but that would be the most reliable method.",a,THE WITNESS,start_question
+228,851,32,20,"As part of your involvement in this case, either in the laboratory or since, have you looked to see if there are any or were there any entries in the computer at Albany Medical Center or its pathology laboratory that discussed this sample or discussed a special request?",q,MR. MILLER,start_answer
+229,859,33,2,Entries into the computer?,a,THE WITNESS,start_question
+230,860,33,3,"Yes.  Any computer system, any computer entries, any digital entries with regard to this sample or with regard to the special request made for this sample?",q,MR. MILLER,start_answer
+231,864,33,7,Not that I'm aware of.,a,THE WITNESS,start_question
+232,865,33,8,"If you could go to Exhibit 2, please. Exhibit 2 is an office note of Dr. Bruce Clark dated 10/26/15.  Do you know Dr. Clark?",q,MR. MILLER,start_answer
+233,869,33,12,I do.,a,THE WITNESS,start_question
+234,870,33,13,Who do you know him to be?,q,MR. MILLER,start_answer
+235,871,33,14,He's an obstetrician here in -- works primarily at Albany Med.,a,THE WITNESS,start_question
+236,873,33,16,"Now, on the first page, at the top where it says ""subjective,"" it talks about a follow-up for a post-spontaneous abortion. If you could read that first paragraph to yourself.",q,MR. MILLER,start_answer
+237,878,33,21,I do.  I have.  Okay.,a,THE WITNESS,start_question
+238,879,33,22,Do you see where it talks about patient presents for follow-up of post-spontaneous abortion?,q,MR. MILLER,start_answer
+239,882,33,25,"Yes, sir.",a,THE WITNESS,start_question
+240,884,34,1,And then several lines down it says (as read):  Wants fetal remains for religious reasons.,q,MR. MILLER,start_answer
+241,887,34,4,"Yes, sir.  I see that.",a,THE WITNESS,start_question
+242,888,34,5,Did you ever see this record before today?,q,MR. MILLER,start_answer
+243,889,34,6,I don't believe I did.,a,THE WITNESS,start_question
+244,890,34,7,"Now, if a doctor makes a note such as this in his or her medical record, back in 2015, was there any practice or procedure in place that would result in a record like this going to the pathology department?",q,MR. MILLER,start_answer
+245,896,34,13,"No, sir.",a,THE WITNESS,start_question
+246,897,34,14,"So the special requests that were made, what kind of form was it that would notify the department that it's supposed to handle a specific specimen a certain way?",q,MR. MILLER,start_answer
+247,901,34,18,"The only form is that requisition form. As I said, we often receive special requests through other forms of communication, but in terms of a written form, that's the only one.",a,THE WITNESS,start_question
+248,906,34,23,"Now, at the bottom of Exhibit 2, next to comments, it says (as read):  Patient had D&C tomorrow, 10/27/15.  And under that: She agrees to have chromosomal testing done. Do you see where I'm referring to?",q,MR. MILLER,start_answer
+249,913,35,4,"Yes, sir.",a,THE WITNESS,start_question
+250,914,35,5,"When chromosomal testing is done, generally speaking, is that testing done at your laboratory or would it be sent out to a different laboratory?",q,MR. MILLER,start_answer
+251,918,35,9,It's a different lab.,a,THE WITNESS,start_question
+252,919,35,10,"Okay.  And in order to -- Well, withdraw that. Let's assume, generally speaking, that your laboratory receives fetal remains and those remains are to be tested for chromosomal abnormalities.  What portion -- What do you do with the sample in order to be able to do that testing?",q,MR. MILLER,start_answer
+253,927,35,18,"Well, it would have to be fresh.  As I remember, looking at the report yesterday, this was received in formalin, so that would preclude any such possibility of arcinia (phonetic) for cytogenetic testing. So if we receive something fresh, then we take some of that tissue, we don't need a lot, but they -- or they don't need a lot.  We send some fresh tissue for cytogenetic testing.",a,THE WITNESS,start_question
+254,938,36,3,"All right.  When you use the word ""formalin,"" please explain that in lay person terms.",q,MR. MILLER,start_answer
+255,941,36,6,"Well, formaldehyde is a chemical designed for the preservation of tissues.  It affixes tissues in a way that permits us to handle them more consistently or readily.  This is a -- Formalin is a diluted form of formaldehyde.",a,THE WITNESS,start_question
+256,947,36,12,"Now, I believe in one of the exhibits you have the chromosome analysis.",q,MR. MILLER,start_chat
+257,949,36,14,Want me to show it to him?,side_chat,MR. BELL,start_chat
+258,951,36,16,"Of course, yes.",side_chat,MR. MILLER,start_question
+259,953,36,18,You're now looking at Exhibit 11.  Is that the chromosome analysis with regard to the specimen in this case?,q,MR. MILLER,start_answer
+260,956,36,21,"Again, this did not come from us.  It did not come from our lab.  It was not part of the specimen we received.  So this was sent from Dr. Clark or one of his people for this testing, presumably roughly the same time frame that they sent the rest of the case to us, but we did not have any part in submitting this tissue, nor generating this report.",a,THE WITNESS,start_question
+261,966,37,5,So this tissue was not submitted to your lab for chromosomal analysis; correct?,q,MR. MILLER,start_answer
+262,968,37,7,That's correct.,a,THE WITNESS,start_question
+263,969,37,8,"And you're saying that Dr. Clark would prepare a portion of the sample or the tissue, send it out himself to the lab for chromosomal analysis independent of your lab; correct?",q,MR. MILLER,start_answer
+264,974,37,13,"Correct.  Yeah.  So he may have used, you know, some nursing staff in his suite to facilitate that.  But yeah, it was done outside our laboratory.",a,THE WITNESS,start_question
+265,978,37,17,"Now, when a sample of tissue is sent out for chromosomal testing like this, is the tissue placed on a slide or how is it prepared?",q,MR. MILLER,start_answer
+266,982,37,21,"When it's sent for chromosomal analysis, I'm not prepared to be specific about the optimal way they would like to get it, but it has to be fresh, and it's usually in some kind of carrying media that provides that sustenance to preserve the tissue as best as possible.",a,THE WITNESS,start_question
+267,990,38,3,"So in order to be able to do the chromosomal analysis, the amount of tissue that a lab would need is a very small percentage of the --",q,MR. MILLER,start_answer
+268,994,38,7,"Yes, sir.  I don't know if they describe it here, but it's usually not -- you know, I mean, we -- I don't know the amount, but it's -- it would be a small part of most specimens.",a,THE WITNESS,start_question
+269,999,38,12,"So even after that specimen for chromosomal testing is sent out, the overwhelming majority of the tissue is still in existence to be sent to your laboratory; correct?",q,MR. MILLER,start_answer
+270,1004,38,17,Correct.,a,THE WITNESS,start_question
+271,1005,38,18,"I believe this is Exhibit 3, Albany Medical Center Division of Anatomic Pathology; correct?",q,MR. MILLER,start_answer
+272,1008,38,21,"Yes, sir.",a,THE WITNESS,start_question
+273,1009,38,22,"What is the purpose of this form, Exhibit 3?",q,MR. MILLER,start_answer
+274,1011,38,24,"This is a request for our services.  So we are like other physicians, we are consultants.  We are asked to provide a consultation on, in most cases, tissue material.  And the form provides us the demographic information so that we can be certain that the specimen in the container is -- belongs to this patient, and then there's additional opportunity for information about what the specimen is, what the preop diagnosis, the procedure, clinical history and so forth.",a,THE WITNESS,start_question
+275,1024,39,11,All right.  This form is -- shows a collection date of 10/27/15; correct?,q,MR. MILLER,start_answer
+276,1026,39,13,"Yes, sir.",a,THE WITNESS,start_question
+277,1027,39,14,Does that mean the tissue sample was collected on 10/27/15?,q,MR. MILLER,start_answer
+278,1029,39,16,Presumably.  That is correct.,a,THE WITNESS,start_question
+279,1030,39,17,"And is that day, 10/27/15, your understanding as to when Larissa Davis had a D&C?",q,MR. MILLER,start_answer
+280,1033,39,20,"Yes, sir.",a,THE WITNESS,start_question
+281,1034,39,21,"And it says (as read):  Location, OR 15. Is that the operating room where the tissue was collected?",q,MR. MILLER,start_answer
+282,1037,39,24,"Yes, sir.",a,THE WITNESS,start_question
+283,1038,39,25,"And the initials next to that, what do they stand for?",q,MR. MILLER,start_answer
+284,1041,40,2,"I think that's probably some of the nursing personnel, those people -- I don't know -- I never really use that or look at that.",a,THE WITNESS,start_question
+285,1045,40,6,And then it is preprinted to say under that (as read):  Request for surgical pathology tissue analysis?,q,MR. MILLER,start_answer
+286,1048,40,9,"Yes, sir.  This is a preprinted form.",a,THE WITNESS,start_question
+287,1049,40,10,"Okay.  Under that, it says (as read): Note, specimen number.  And write a source description for each one.  Record the number and source description of the specimen container; correct?",q,MR. MILLER,start_answer
+288,1054,40,15,"Yes, sir.",a,THE WITNESS,start_question
+289,1055,40,16,"Now, when it refers to specimen number, what -- what is that?",q,MR. MILLER,start_answer
+290,1057,40,18,"Well, in some cases some patients have procedures that generate more than one specimen from different sites or different types of tissue, so it's necessary for us to, you know, be able to document each and every one of those.  In this case there was a single specimen.",a,THE WITNESS,start_question
+291,1064,40,25,"Was the single specimen, which were the products of conception, given a specimen number?",q,MR. MILLER,start_answer
+292,1068,41,3,"Yes, sir.",a,THE WITNESS,start_question
+293,1069,41,4,"And from this form, can you identify where that number is?",q,MR. MILLER,start_answer
+294,1071,41,6,There's a label across the upper portion in that box right beneath those initials that you just asked me about.,a,THE WITNESS,start_question
+295,1074,41,9,Okay.,q,MR. MILLER,start_answer
+296,1075,41,10,S1520868.,a,THE WITNESS,start_question
+297,1076,41,11,That's a number that is given to this specimen by --,q,MR. MILLER,start_answer
+298,1078,41,13,By our laboratory.  That's our unique identifying number for our information system.,a,THE WITNESS,start_question
+299,1081,41,16,"When you say ""information system,"" what are you talking about?",q,MR. MILLER,start_answer
+300,1083,41,18,We have our own information system for anatomic pathology so that our reports are captured in there with all the elements of the process that we can include.,a,THE WITNESS,start_question
+301,1087,41,22,Let me ask you this:  Is the information system computerized?,q,MR. MILLER,start_answer
+302,1089,41,24,"Yes, sir.",a,THE WITNESS,start_question
+303,1090,41,25,So the number that's assigned to this particular sample was in a computer program at your laboratory; correct?,q,MR. MILLER,start_chat
+304,1094,42,3,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+305,1096,42,5,"In the program, it's in the database, yeah.",a,THE WITNESS,start_question
+306,1098,42,7,"Okay.  And what types of information, back in 2015, went into the database with regard to each tissue sample received by the lab under a particular identifying number?",q,MR. MILLER,start_answer
+307,1103,42,12,"I think it's most easily recognized by that report form that is available.  It includes the demographics, patient's name, age and date -- you know, date of birth, and their medical record number.  It also includes information from this requisition form, in part.  It also includes our description of the gross interpretation, and finally a report of the diagnosis itself.",a,THE WITNESS,start_question
+308,1113,42,22,Is any information entered into the database regarding special requests?,q,MR. MILLER,start_answer
+309,1115,42,24,No.,a,THE WITNESS,start_question
+310,1116,42,25,"Now, under the preprinted sentence (as read):  Request for surgical pathology tissue, et cetera, under that, it says: All of the following information is required by CLIA, then JCAHO and/or New York State Department of Health regulations. Can you tell me what CLIA is, please?",q,MR. MILLER,start_answer
+311,1126,43,9,"That's Clinical Laboratory Inspection Association.  I'm not sure of the I, but it's an agency that inspects and regulates laboratories.  JCAHO is the Joint Commission, American hospitals.  And New York State has its own set of regulations. Each of those agencies have oversight and requirements for our laboratory.",a,THE WITNESS,start_question
+312,1134,43,17,"Now, when it says here all the following information is required, specifically what information is required?",q,MR. MILLER,start_answer
+313,1137,43,20,"Well, we have a little license there to hopefully prompt them to give us information.  They don't always do so, but the information that we request is designed to provide us with as much information as we can get so that we can do a better job in interpreting the specimens.  The more information they get us, sometimes the better able we are to report.  But there -- Those aspects of the information that we seek include preop diagnosis, surgical procedure, and the clinical history.",a,THE WITNESS,start_question
+314,1151,44,8,"Could you tell me what the preop diagnosis is, as stated on Exhibit 3, please?",q,MR. MILLER,start_answer
+315,1153,44,10,"Well, I can read it for you if you’d like.",a,THE WITNESS,start_question
+316,1154,44,11,Sure.,q,MR. MILLER,start_answer
+317,1155,44,12,"(As read):  42-year-old gravitas 7, para 5, 015, female with IUFD at approximately 15 weeks.  Fetus measuring 12 weeks.",a,THE WITNESS,start_question
+318,1158,44,15,A couple lines down there's a heading (as read):  Additional comments.  Next to that it says:  Contents should be given to Levine Funeral Home at patient's request; is that correct?,q,MR. MILLER,start_answer
+319,1163,44,20,"Yes, sir.",a,THE WITNESS,start_question
+320,1164,44,21,Is that a special request?,q,MR. MILLER,start_answer
+321,1165,44,22,"Yes, sir.",a,THE WITNESS,start_question
+322,1166,44,23,Am I correct that a mother that miscarries and wants the products of conception cannot remove the products of conception from the hospital by herself?,q,MR. MILLER,start_answer
+323,1171,45,2,Correct.,a,THE WITNESS,start_question
+324,1172,45,3,Those products of conception can only be taken from the hospital by a funeral home; correct?,q,MR. MILLER,start_chat
+325,1175,45,6,If you know.,side_chat,MR. BELL,start_answer
+326,1176,45,7,The only reason I'm hesitating is there -- there has been an effort in the last few years to modify that for consumption of certain placental parts.  And so I'm not certain that the answer is strictly no --,a,THE WITNESS,start_question
+327,1181,45,12,Back in 2015 --,q,MR. MILLER,start_answer
+328,1182,45,13,"So it's happened in the last few years, so I don't know the time frame, but in general, the answer is it should go to a funeral home for burial, but there is a special exemption now for placental tissues.",a,THE WITNESS,start_question
+329,1188,45,19,Exemption for what purpose?,q,MR. MILLER,start_answer
+330,1189,45,20,"Again, for creating edible tissue.",a,THE WITNESS,start_question
+331,1190,45,21,"Now, do you know if Levine Funeral Home had any contact with the pathology laboratory after this sample was received by your laboratory on October 27, 2015?",q,MR. MILLER,start_answer
+332,1194,45,25,"It is my understanding that they reached out to our laboratory after the -- after the delivery.  And I don't know the particulars of that, but I do know that at some point it was made -- they were made aware that they were no longer in our -- in our laboratory.",a,THE WITNESS,start_question
+333,1202,46,7,You say it's your understanding that Levine Funeral Home reached out --,q,MR. MILLER,start_answer
+334,1204,46,9,"I'm sorry.  They -- In the normal -- If this had been handled appropriately, they would have called and we would have released it to them.  So that is the normal operation for this.  I think they did reach out or did call, and I'm not certain if they called and they were told, oh, yeah, it's here, and then they found out it wasn't here, or if they called and they were told it wasn't here.  But I know that at some point -- I think that is what exposed this issue was that they called and it was clear that we did not retain this material.",a,THE WITNESS,start_question
+335,1218,46,23,"So Levine Funeral Home called and said, hey, we've been contacted to get these remains --",q,MR. MILLER,start_answer
+336,1222,47,1,"I don't know about that, but --",a,THE WITNESS,start_question
+337,1223,47,2,Well --,q,MR. MILLER,start_answer
+338,1224,47,3,I'm saying I don't know --,a,THE WITNESS,start_question
+339,1225,47,4,In any event --,q,MR. MILLER,start_answer
+340,1226,47,5,-- that verbiage.,a,THE WITNESS,start_question
+341,1227,47,6,"It's your understanding, though, Levine Funeral Home contacted the pathology lab looking for the remains, and there was nothing to provide to Levine Funeral Home because those remains had been incinerated; right?",q,MR. MILLER,start_chat
+342,1233,47,12,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+343,1235,47,14,I think that is correct.  That's my understanding.,a,THE WITNESS,start_question
+344,1237,47,16,"Now, where does your understanding come from that Levine contacted the funeral -- contacted the Department of Pathology?",q,MR. MILLER,start_answer
+345,1240,47,19,"It's just my memory, vague though it may be, that that is how this was brought to light.",a,THE WITNESS,start_question
+346,1243,47,22,Did you personally speak with anybody from Levine Funeral Home?,q,MR. MILLER,start_answer
+347,1245,47,24,I don't believe so.,a,THE WITNESS,start_question
+348,1246,47,25,Do you know of anyone specifically who did?,q,MR. MILLER,start_answer
+349,1249,48,2,No.,a,THE WITNESS,start_question
+350,1250,48,3,Do you know if Levine Funeral Home actually ever came to your department looking for remains?,q,MR. MILLER,start_answer
+351,1253,48,6,I don't know that either.,a,THE WITNESS,start_question
+352,1254,48,7,Was any record or form prepared or any input into the database with regard to Larissa Davis' desire to have Levine Funeral Home pick up these remains?,q,MR. MILLER,start_chat
+353,1258,48,11,"Objection to form.  I think he's asked and answered, but you can answer again.",side_chat,MR. BELL,start_answer
+354,1261,48,14,I don't believe so.  Not to my knowledge.,a,THE WITNESS,start_question
+355,1262,48,15,"Now, toward the bottom of the form, it says (as read):  Physician's name.  It appears to be Dr. Walia, W-a-l-i-a. Do you know Dr. Walia?",q,MR. MILLER,start_answer
+356,1266,48,19,"No, sir.  I do not.",a,THE WITNESS,start_question
+357,1267,48,20,And then the supervising physician was Dr. Clark; correct?,q,MR. MILLER,start_answer
+358,1269,48,22,Correct.,a,THE WITNESS,start_question
+359,1270,48,23,"Let me show you -- ask you to go to Exhibit 4 if you would, please.  And could you please tell me what Exhibit 4 is?",q,MR. MILLER,start_answer
+360,1274,49,1,This is our report on that tissue that we've discussed.,a,THE WITNESS,start_question
+361,1276,49,3,"All right.  So the Davis fetal tissue received on October 27, 2015, per Exhibit 3, was analyzed and resulted in a report which is Exhibit 4; is that correct?",q,MR. MILLER,start_answer
+362,1281,49,8,"Yes, sir.",a,THE WITNESS,start_question
+363,1282,49,9,"So these fetal remains were analyzed on October 27, 2015, the same date that they were received; correct?",q,MR. MILLER,start_answer
+364,1285,49,12,"I don't believe so.  It looks -- I'm sorry.  We -- We analyze them over the next few days.  I don't know exactly when we first did this gross inspection.  It looks like it may have been over a weekend, but I don't know the time frame there, but normally this would -- would not take more than a few days.  Looks like it took a little bit longer, so I'm wondering if there was a weekend in there, but -- So I don't know the answer to your question whether we inspected it that day or it was accessioned that day, so...",a,THE WITNESS,start_question
+365,1298,49,25,What does the accession date mean?,q,MR. MILLER,start_answer
+366,1300,50,1,"So that means it was entered into the system.  The specimen and the requisition form came to our lab, they were entered into the computer as a new specimen for us, a new case, and assigned this case number.",a,THE WITNESS,start_question
+367,1306,50,7,"And when you refer to a case number, is that the ECD number?",q,MR. MILLER,start_answer
+368,1308,50,9,"No, sir.  That's this -- Right at the very --",a,THE WITNESS,start_question
+369,1310,50,11,Case number at the top?,q,MR. MILLER,start_answer
+370,1311,50,12,"S15.  Yes, sir.",a,THE WITNESS,start_question
+371,1312,50,13,Is that the same number that appears on --,q,MR. MILLER,start_answer
+372,1313,50,14,"Yes, sir.",a,THE WITNESS,start_question
+373,1314,50,15,-- Exhibit 3 which you mentioned before?,q,MR. MILLER,start_chat
+374,1315,50,16,Yes.,side_chat,MR. BELL,start_answer
+375,1316,50,17,Yes.,a,THE WITNESS,start_question
+376,1317,50,18,"Now, the final diagnosis says -- talks about uterine contents.  The products of conception including placental, chorionic villi, and fetal parts; correct?",q,MR. MILLER,start_answer
+377,1321,50,22,(Nodding.),a,THE WITNESS,start_chat
+378,1322,50,23,Yes?,side_chat,MR. BELL,start_answer
+379,1323,50,24,Yes.,a,THE WITNESS,start_question
+380,1327,51,2,What does chorionic villi mean?,q,MR. MILLER,start_answer
+381,1328,51,3,That's the part of the placental tissue that is designed for providing nutrition.,a,THE WITNESS,start_question
+382,1330,51,5,"And then there's a statement (as read): Testing -- Attesting that there was microscopic examination of the slides or materials that the pathologist reviewed, approved, and electronically signed; correct?  And your name appears there; correct?",q,MR. MILLER,start_answer
+383,1337,51,12,Correct.,a,THE WITNESS,start_question
+384,1338,51,13,"So as part of your analysis, were tissue slides prepared?",q,MR. MILLER,start_answer
+385,1340,51,15,"Yes, sir.",a,THE WITNESS,start_question
+386,1341,51,16,And who would have prepared those tissue slides?,q,MR. MILLER,start_answer
+387,1343,51,18,Technical personnel in the laboratory.,a,THE WITNESS,start_question
+388,1344,51,19,"And the tissue slides that are prepared, is that made from just a very small portion of the tissue sample received by the lab?",q,MR. MILLER,start_answer
+389,1348,51,23,"In this case, that is correct.",a,THE WITNESS,start_question
+390,1349,51,24,"So one of the technical people in the lab would have received the fetal remains, would have prepared a tissue sample -- a slide sample, and then that slide would be presented to you for analysis; correct?",q,MR. MILLER,start_answer
+391,1355,52,4,"Essentially, correct.",a,THE WITNESS,start_question
+392,1356,52,5,So did you personally just see the slide or did you ever just see the full fetal remains?,q,MR. MILLER,start_answer
+393,1359,52,8,I only saw the slide.,a,THE WITNESS,start_question
+394,1360,52,9,Did the remainder of the fetal remains after the slide was prepared stay with the technical person who prepared the slide?,q,MR. MILLER,start_answer
+395,1363,52,12,"Again, the procedure includes an inspection of the material, we call it gross, at the gross level, that is the naked eye level.  So they would identify portions of that material that were representative in one cassette, which is what they did, and then the rest of the material was put in for storage.",a,THE WITNESS,start_question
+396,1371,52,20,"And if -- If it was the technical person or somebody else who put this into storage and did not have this form, Exhibit 3, which says contents should be given to the Levine Funeral Home, the person putting it in storage would never know that request was made; right?",q,MR. MILLER,start_answer
+397,1379,53,2,Well --,a,THE WITNESS,start_chat
+398,1380,53,3,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+399,1382,53,5,That form should be with the specimen at that time.,a,THE WITNESS,start_question
+400,1384,53,7,"But if it wasn't, that person would have no idea that this request was made; right?",q,MR. MILLER,start_answer
+401,1386,53,9,"Well, that would be true, but that was not the case.",a,THE WITNESS,start_question
+402,1388,53,11,Okay.  What was the case then?,q,MR. MILLER,start_answer
+403,1389,53,12,"Well, it should have been with the specimen as it was grossed.",a,THE WITNESS,start_question
+404,1391,53,14,Okay.,q,MR. MILLER,start_answer
+405,1392,53,15,"This is actually a three-ply.  So we have a top copy that is maintained in a clean environment, and this could have formalin or fluids on it in the gross inspection, so that copy is discarded, and then there's a third copy that goes with the specimen through the -- to me.  So I would see this copy with the slide.  I would see the third copy with the slide.",a,THE WITNESS,start_question
+406,1401,53,24,All right.  So I'm assuming you read this?,q,MR. MILLER,start_answer
+407,1402,53,25,Yes.  I just assumed it was done correctly.,a,THE WITNESS,start_question
+408,1405,54,2,Because I assume you're not the one who goes and puts these tissue samples in storage; right?,q,MR. MILLER,start_answer
+409,1408,54,5,"No, sir.",a,THE WITNESS,start_question
+410,1409,54,6,That's why you have technical staff?,q,MR. MILLER,start_answer
+411,1410,54,7,Correct.,a,THE WITNESS,start_question
+412,1411,54,8,And --,q,MR. MILLER,start_answer
+413,1412,54,9,The vast majority of instances happens as it should.  This is an error.,a,THE WITNESS,start_question
+414,1414,54,11,Has this error happened before?,q,MR. MILLER,start_chat
+415,1415,54,12,Objection to form. You can answer.,side_chat,MR. BELL,start_answer
+416,1417,54,14,I don't know.  Not to my knowledge.,a,THE WITNESS,start_question
+417,1418,54,15,You have been employed by Albany Medical Center for quite some time; correct?,q,MR. MILLER,start_answer
+418,1420,54,17,"Yes, sir.",a,THE WITNESS,start_question
+419,1421,54,18,"In the course of your career at Albany Medical Center, are you aware of any other instance when a special request was made for preservation of the fetal remains, for whatever purpose, and those fetal remains were discarded contrary to the special request?",q,MR. MILLER,start_answer
+420,1428,54,25,"Not in my memory.  No, sir.",a,THE WITNESS,start_question
+421,1430,55,1,Do you know of anybody else at Albany Medical Center who's had that experience?,q,MR. MILLER,start_chat
+422,1432,55,3,Objection.  If you know.,side_chat,MR. BELL,start_answer
+423,1434,55,5,I'm not sure I understand.,a,THE WITNESS,start_question
+424,1435,55,6,Other than putting -- Have you spoken to any other pathologist or any other member of that department who is aware -- who has told you that special requests were not honored?,q,MR. MILLER,start_answer
+425,1440,55,11,"No, sir.",a,THE WITNESS,start_question
+426,1441,55,12,So you would have received a copy of the special request?,q,MR. MILLER,start_answer
+427,1443,55,14,I would have received a copy of that form --,a,THE WITNESS,start_question
+428,1445,55,16,Okay.,q,MR. MILLER,start_answer
+429,1446,55,17,-- with the request for special handling.,a,THE WITNESS,start_question
+430,1447,55,18,"After you complete your analysis, what do you do with the tissue slide and what do you do with this form?",q,MR. MILLER,start_chat
+431,1450,55,21,"The form, again, for the record, is being Exhibit number --",side_chat,MR. BELL,start_chat
+432,1452,55,23,3.,side_chat,MR. MILLER,start_answer
+433,1453,55,24,"So we have a working document, a preliminary report, a copy of that requisition form, and the slide come to me together.  And I was -- At that time we were dictating, so I would dictate that case along with other cases and turn that into our office, and it would ultimately be signed out and those copies would be filed.  So the slide also goes to a separate file.",a,THE WITNESS,start_question
+434,1464,56,9,"When you're dictating, specifically what's the subject matter of your dictation?  The pathological analysis?",q,MR. MILLER,start_answer
+435,1467,56,12,"It's encompassed in that.  I would dictate it -- In this case I would say the patient's name, the case number, and the --",a,THE WITNESS,start_question
+436,1471,56,16,The description?,q,MR. MILLER,start_answer
+437,1472,56,17,"No, not -- Just this piece right here, the uterine contents, colon, products of conception included.",a,THE WITNESS,start_question
+438,1475,56,20,"When you're dictating, does that go into the database?",q,MR. MILLER,start_answer
+439,1477,56,22,There's a --,a,THE WITNESS,start_chat
+440,1478,56,23,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+441,1480,56,25,Actually we were using cassette tapes at that time.,a,THE WITNESS,start_question
+442,1483,57,2,"When somebody transcribes it, does it go into the database?",q,MR. MILLER,start_answer
+443,1485,57,4,"Yes, sir.  This is -- This is entered just as you see it.",a,THE WITNESS,start_chat
+444,1487,57,6,This being Exhibit 4.,side_chat,MR. BELL,start_question
+445,1489,57,8,"When you're dictating, do you dictate anything about the special request?",q,MR. MILLER,start_answer
+446,1491,57,10,No.,a,THE WITNESS,start_question
+447,1492,57,11,"So if I understand you correctly, the special request for preservation of the fetal remains in this case are never entered into the database?",q,MR. MILLER,start_chat
+448,1496,57,15,"Objection.  Asked and answered, but go ahead.",side_chat,MR. BELL,start_answer
+449,1498,57,17,That's correct.,a,THE WITNESS,start_question
+450,1499,57,18,"And you may have answered me.  I apologize if I'm repeating this.  Once you were done with your analysis, what happened to the copy of the special request that you had with you when you're examining the tissue?",q,MR. MILLER,start_answer
+451,1504,57,23,"The copy I had, I think, actually does get discarded, but the original top copy, which is the same -- the original top copy is filed.",a,THE WITNESS,start_question
+452,1509,58,2,Filed where or with whom?,q,MR. MILLER,start_answer
+453,1510,58,3,"It's filed with -- We have a paper file in which we keep all of these records.  We're moving to scanning now, but at that time we still had bound volumes of the information that related to this case, which would include that requisition form and this report, and perhaps --",a,THE WITNESS,start_chat
+454,1517,58,10,This being the report.  That's fine.,side_chat,MR. BELL,start_question
+455,1520,58,13,You're saying you had a special file where this would be placed?,q,MR. MILLER,start_answer
+456,1522,58,15,"At the end of the year we bind -- we send these for binding, big volumes with -- you know, we have 60,000 cases a year or something.",a,THE WITNESS,start_question
+457,1526,58,19,"Okay.  Before it gets bound together, where does the --",q,MR. MILLER,start_answer
+458,1528,58,21,There's a --,a,THE WITNESS,start_chat
+459,1529,58,22,Let him finish asking the question.,side_chat,MR. BELL,start_question
+460,1532,58,25,Where does the special request go?,q,MR. MILLER,start_chat
+461,1534,59,1,The requisition sheet?,side_chat,MR. BELL,start_chat
+462,1536,59,3,Correct.,side_chat,MR. MILLER,start_answer
+463,1537,59,4,There's a lateral drawer file where we keep active cases until they are bound.,a,THE WITNESS,start_question
+464,1539,59,6,A lateral --,q,MR. MILLER,start_answer
+465,1540,59,7,It was just a file cabinet.,a,THE WITNESS,start_question
+466,1541,59,8,"As a sample goes through your laboratory, or did back in 2015, it sounds like the sample would pass through various hands, different people as part of the process; would that be correct?",q,MR. MILLER,start_answer
+467,1546,59,13,"Yes, sir.",a,THE WITNESS,start_question
+468,1547,59,14,"And as that sample gets further down the line, those people are handling it further down the line, do they have to go to this file cabinet and look to see if there a special requisition for this particular sample or case each time they handle the sample?",q,MR. MILLER,start_answer
+469,1554,59,21,"So again, the break point here was at the level of the specimen container that we were asked to retain in a special way.  So that was accessioned and then evaluated into gross inspection, and then put into a file.  So there were only really probably three people that handled that.  This material that was taken for our analysis as a representative portion of this was ultimately handled by a number of people, and this special request had nothing to do with that. So if we have other special requests, we have ways of handling those if they require special testing, but not special handling, if you understand.",a,THE WITNESS,start_question
+470,1571,60,12,"Let me ask you this:  When this specimen arrived at the laboratory on October 27, 2015, what was it contained in?",q,MR. MILLER,start_answer
+471,1574,60,15,I assume some kind of plastic transparent cup with formalin.,a,THE WITNESS,start_question
+472,1576,60,17,And does that sample stay in that cup throughout the entire process until discarded?,q,MR. MILLER,start_answer
+473,1579,60,20,"Apart from the time during which we have this gross inspection, it does.",a,THE WITNESS,start_question
+474,1581,60,22,"All right.  Did you have any process, back in 2015, where a sample like this comes into your laboratory, there is a requisition containing a special request, and you put a label on it that says special request or special handling?  Was there anything like that?",q,MR. MILLER,start_chat
+475,1589,61,4,"Objection to form and you're getting a little excited.  I understand, but please calm down.",side_chat,MR. BELL,start_answer
+476,1592,61,7,"No, we did not.",a,THE WITNESS,start_chat
+477,1593,61,8,"I don't know what number this is.  This is out of order, Bruce.",side_chat,MR. MILLER,start_chat
+478,1596,61,11,Number 7.,side_chat,MR. BELL,start_question
+479,1598,61,13,"Doctor, I'm going to show you Exhibit number 7.  Could you please tell me what that is?",q,MR. MILLER,start_answer
+480,1601,61,16,This is our accessioning procedure for the computer system in our laboratory.,a,THE WITNESS,start_question
+481,1603,61,18,"Okay.  When you say ""accessioning procedure,"" could you break that down for me and tell me in lay person's terms what that means?",q,MR. MILLER,start_answer
+482,1607,61,22,"Well, we want to assign -- assign a unique identifying case number to each specimen as it comes in to the lab.",a,THE WITNESS,start_question
+483,1610,61,25,Is Exhibit 7 -- Was Exhibit 7 a policy or a procedure or written protocol that was utilized by the lab back in the fall of 2015?,q,MR. MILLER,start_answer
+484,1615,62,4,"Yes, sir.",a,THE WITNESS,start_question
+485,1616,62,5,And the purpose of this is to -- this policy was to give a unique identifying number to the specimen itself?,q,MR. MILLER,start_answer
+486,1619,62,8,"Yes, sir.  Well, to enter it into the system so that we could provide a report with that unique number.",a,THE WITNESS,start_question
+487,1622,62,11,"Now, back in the fall of 2015, did the department of pathology have any written or printed or digital policies, procedures or protocols as to how special requests were to be handled?",q,MR. MILLER,start_answer
+488,1627,62,16,"I think you've asked me that before.  I can't remember any such specific policy, no, sir.",a,THE WITNESS,start_question
+489,1630,62,19,Is there presently a written policy or procedure or protocol with how special requests are to be handled?,q,MR. MILLER,start_chat
+490,1633,62,22,Object to the form. You can answer.,side_chat,MR. BELL,start_answer
+491,1635,62,24,I'm not sure of that either.  I don't know.,a,THE WITNESS,start_question
+492,1638,63,1,"Doctor, I'm showing you Exhibit 8.  Could you please tell me what that is?",q,MR. MILLER,start_answer
+493,1640,63,3,"The subject is death and its management, Albany Medical Center hospital policy and procedure.",a,THE WITNESS,start_question
+494,1643,63,6,Is this policy and procedure specific to the department of pathology?,q,MR. MILLER,start_answer
+495,1645,63,8,"No, sir.",a,THE WITNESS,start_question
+496,1646,63,9,"Does the -- Back in 2015, was this a policy or procedure that the department of pathology followed?",q,MR. MILLER,start_answer
+497,1649,63,12,"Yes, sir.",a,THE WITNESS,start_question
+498,1650,63,13,"And if I understand this correctly, this policy, procedure was effective 8/18/03 and last reviewed on 10/27/15; correct?",q,MR. MILLER,start_answer
+499,1654,63,17,"Yes, sir.",a,THE WITNESS,start_question
+500,1655,63,18,"In other words, this policy was reviewed --",q,MR. MILLER,start_answer
+501,1657,63,20,That date.,a,THE WITNESS,start_question
+502,1658,63,21,-- on the date that Mrs. Davis had a D&C; correct?,q,MR. MILLER,start_answer
+503,1660,63,23,It was reviewed by someone.  I'm not sure.,a,THE WITNESS,start_question
+504,1661,63,24,"Okay.  Now, on the second page, on Roman numeral X, it talks -- this policy talks about fetal death; correct?",q,MR. MILLER,start_answer
+505,1665,64,2,Right.  Yes.,a,THE WITNESS,start_question
+506,1666,64,3,"And under the first paragraph, it says (as read):  Fetal death is defined as death prior to the complete expulsion or extraction from its mother of a product of conception.  The death is indicated by the fact that after such separation, a fetus does not breathe or show any evidence of life such as beating of the heart, pulsation of the umbilical cord or definite movement of the voluntary muscles; correct?",q,MR. MILLER,start_answer
+507,1677,64,14,Correct.,a,THE WITNESS,start_question
+508,1678,64,15,"All right.  Now, this particular paragraph does not distinguish between a fetus that is more than 20 weeks old or less than 20 weeks old; correct?",q,MR. MILLER,start_answer
+509,1682,64,19,This paragraph does not.,a,THE WITNESS,start_question
+510,1683,64,20,"The next paragraph, though, last sentence in that paragraph states that (as read): All stillborn fetuses 20 weeks gestational age or more must have the body released to a funeral director for disposition, burial or cremation; correct?",q,MR. MILLER,start_answer
+511,1690,65,1,Correct.,a,THE WITNESS,start_question
+512,1691,65,2,"Back in October of 2015, if you receive the fetal remains of a fetus that was 20 weeks or more, was that sample labeled or identified somehow that somebody would know this was 20 weeks or more, meaning we can only release it to a funeral director?",q,MR. MILLER,start_answer
+513,1697,65,8,Yes.,a,THE WITNESS,start_question
+514,1698,65,9,And how was that done?,q,MR. MILLER,start_answer
+515,1699,65,10,"Well, often it's done before we receive it.  And some of this documentation inherent in this policy and procedure is completed in a way that would direct us to the morgue itself rather than to the surgical pathology lab.  In some cases this 20-week cutoff is difficult to establish, so we have to make inquiries and try to establish as best we can, but sometimes we get involved, sometimes we don't.",a,THE WITNESS,start_question
+516,1710,65,21,"Well, were there occasions and are there occasions when the department of pathology receives a sample or the fetal remains they know are more than 20 weeks to do some analysis --",q,MR. MILLER,start_answer
+517,1716,66,1,"Yes, sir.",a,THE WITNESS,start_question
+518,1717,66,2,-- for testing on?,q,MR. MILLER,start_answer
+519,1718,66,3,"Yes, sir.",a,THE WITNESS,start_question
+520,1719,66,4,"And under those circumstances, is it understood within the department that once we -- once those tests or analyses are completed, those remains can only be released to a funeral home?",q,MR. MILLER,start_answer
+521,1724,66,9,"Yes, sir.",a,THE WITNESS,start_question
+522,1725,66,10,"So under those circumstances, when fetal remains of a fetus that are more than 20 weeks are sent to the lab for analysis, how is that tissue labeled or identified so that you know this sample must go to a funeral home?",q,MR. MILLER,start_answer
+523,1731,66,16,"Well, we treat it differently and it goes to the morgue.",a,THE WITNESS,start_question
+524,1733,66,18,"Okay.  So if a doctor requests some analysis before it gets to you, it would go to the morgue?",q,MR. MILLER,start_answer
+525,1736,66,21,(Nodding.),a,THE WITNESS,start_chat
+526,1737,66,22,Yes?,side_chat,MR. BELL,start_answer
+527,1738,66,23,Correct.,a,THE WITNESS,start_question
+528,1739,66,24,And then the morgue would contact you?,q,MR. MILLER,start_answer
+529,1740,66,25,"Well, we may do an analysis down there in the morgue.",a,THE WITNESS,start_question
+530,1743,67,2,"I see.  Are there instances when the analysis is -- under those circumstances I've just described, are done in your laboratory?",q,MR. MILLER,start_answer
+531,1747,67,6,"Probably occasionally just for expeditious reasons, but again, it would be identified and returned to the morgue.",a,THE WITNESS,start_question
+532,1750,67,9,"So typically when you would receive fetal remains, do you get some information as to the gestational age?",q,MR. MILLER,start_answer
+533,1753,67,12,We must.  We cannot define that ourselves.,a,THE WITNESS,start_question
+534,1754,67,13,Do you have any knowledge as to whether or not a request for an autopsy was made by anybody with regard to the Davis fetal remains?,q,MR. MILLER,start_answer
+535,1758,67,17,I have no personal knowledge that such a request was ever made.,a,THE WITNESS,start_question
+536,1760,67,19,"As a result of your investigation, did you ever learn that a request for an autopsy was ever made?",q,MR. MILLER,start_answer
+537,1763,67,22,I don't believe so.,a,THE WITNESS,start_question
+538,1764,67,23,Are there occasions when your laboratory would receive fetal remains and a request for an autopsy is made?,q,MR. MILLER,start_answer
+539,1768,68,1,"Yes, sir.",a,THE WITNESS,start_question
+540,1769,68,2,"And that request for the autopsy, is it logged in somewhere or recorded somewhere?",q,MR. MILLER,start_answer
+541,1771,68,4,"Yes.  We actually assign it -- Well, if it's after 20 weeks, we would assign it with a different prefix code for autopsy. If it's under 20 weeks, we would -- we would do a limited form of an autopsy, but it would still be a surgical case number. It might not be designated as such.",a,THE WITNESS,start_question
+542,1778,68,11,It might not be designated as an autopsy?,q,MR. MILLER,start_answer
+543,1779,68,12,"As an autopsy, correct.",a,THE WITNESS,start_question
+544,1780,68,13,"When your laboratory receives a sample, any kind of sample for analysis, and a family member calls the lab to inquire as to the status perhaps of analysis, are those phone calls logged in at all?",q,MR. MILLER,start_answer
+545,1785,68,18,"I'm not certain.  I think not, but it -- Historically we haven't just because we receive so many phone calls and it's so busy we just don't have the staff or the personnel to do that.",a,THE WITNESS,start_question
+546,1790,68,23,"As a result of your investigation, did you speak to or identify anybody who ever spoke to Mr. or Mrs. Davis?",q,MR. MILLER,start_answer
+547,1794,69,1,"I know that -- My memory is that I spoke with Mr. Davis at a point in time during this early aftermath, and I think he also spoke with Dr. Rosano, perhaps.  I think Dr. Rosano asked me to speak with him, but I'm not certain whether he spoke with Dr. Rosano or not, but I'm pretty confident that I spoke with him.",a,THE WITNESS,start_question
+548,1802,69,9,Are you speaking now from recollection?,q,MR. MILLER,start_answer
+549,1803,69,10,"My own personal memory of having conversed with him about this and, you know, expressing my condolences and my own personal upset that we had done this, but I don't -- I don't remember any specific comments that I might have made, just in general.",a,THE WITNESS,start_question
+550,1810,69,17,Are there any records regarding that conversation?,q,MR. MILLER,start_answer
+551,1812,69,19,I don't know.,a,THE WITNESS,start_question
+552,1813,69,20,And what prompted this conversation you think you recall having?,q,MR. MILLER,start_answer
+553,1815,69,22,"As I remember, Dr. Rosano asked me to speak with Mr. Davis.  I'm not sure if it was -- I'm not certain of the situation, the circumstances surrounding that, but I do know that I -- my memory is that we spoke.",a,THE WITNESS,start_question
+554,1821,70,2,What is the position of Dr. Rosano?,q,MR. MILLER,start_answer
+555,1822,70,3,At that time he was the director of the clinical laboratories.,a,THE WITNESS,start_question
+556,1824,70,5,Did Dr. Rosano have any involvement in analyzing the sample or speaking with the Davises?,q,MR. MILLER,start_answer
+557,1827,70,8,"As I say, he may have spoken with --",a,THE WITNESS,start_chat
+558,1828,70,9,Objection to form.,side_chat,MR. BELL,start_answer
+559,1829,70,10,"I'm not certain.  I know he did not have any direct role in this -- in our report -- other than being administrative head, so...",a,THE WITNESS,start_question
+560,1833,70,14,What was the reason that Dr. Rosano asked you to speak with the Davises?,q,MR. MILLER,start_chat
+561,1835,70,16,Objection.  If you know.,side_chat,MR. BELL,start_answer
+562,1837,70,18,"I think he was just -- I think he thought Mr. Davis was upset and perhaps I could allay some of his concerns by speaking with him.  That's my memory.  I don't -- I don't know that that was, in fact, the case, but that's what I understood was happening.",a,THE WITNESS,start_question
+563,1844,70,25,"I take it at the point in time you're talking about, the tissue, the fetal remains that we're talking about here, had already been incinerated?",q,MR. MILLER,start_answer
+564,1849,71,4,"Yes, sir.",a,THE WITNESS,start_question
+565,1850,71,5,"And with regard to this conversation you believe you had with Mr. Davis, did you pick up the phone, dial their number to call them?",q,MR. MILLER,start_answer
+566,1854,71,9,As I remember I was in Dr. Rosano's office and he had one of his personnel place the call or else -- I'm not certain how that call was made.  I'm pretty certain I did not make a direct call myself.,a,THE WITNESS,start_question
+567,1859,71,14,"Okay.  Doctor, you have before you Exhibit 9.  Could you please tell us what it is?",q,MR. MILLER,start_answer
+568,1862,71,17,This is material from our manual for our grossing of specimens and anatomic pathology.,a,THE WITNESS,start_question
+569,1865,71,20,"What do you mean when you say ""grossing of specimens""?",q,MR. MILLER,start_answer
+570,1867,71,22,"So we inspect each specimen as it comes in with our naked eye, that's why that word ""gross"" is used as opposed to microscopic, and we describe the material we receive in terms of its volume, size, color, consistency, elements that we can recognize.  Depending on what's there, if there's something that's abnormal, we describe that, and we thereafter take sections of that material to represent what we have received, and we put those into cassettes that we individually label so that we can know what those sections are meant to represent.",a,THE WITNESS,start_question
+571,1882,72,11,Is that the gross description that is contained on the surgical pathology report?,q,MR. MILLER,start_answer
+572,1885,72,14,That is correct.,a,THE WITNESS,start_question
+573,1886,72,15,"Now, on the surgical pathology report, Exhibit 4, under gross description -- and I'll let you get to it -- it says (as read):  Assigned resident Tony L. Jabbour, J-a-b-b-o-u-r.  Do you remember who he is?",q,MR. MILLER,start_answer
+574,1891,72,20,"Yes, sir.",a,THE WITNESS,start_question
+575,1892,72,21,Who is he?,q,MR. MILLER,start_answer
+576,1893,72,22,"He is one of our residents training in pathology, or he was.",a,THE WITNESS,start_question
+577,1895,72,24,A doctor?,q,MR. MILLER,start_answer
+578,1896,72,25,"Yes, sir.",a,THE WITNESS,start_question
+579,1898,73,1,And what was he assigned to do?,q,MR. MILLER,start_answer
+580,1899,73,2,"Well, I'll preempt it.  The next name there is Sahar Nozad.  She was also a resident.  She was the one that did this gross examination description.  So she handled the specimen at that level.  The slide that was generated was given to Dr. El Jabbour, and he was the resident that was assigned to sign the case out with me.",a,THE WITNESS,start_question
+581,1908,73,11,Okay.  So Dr. El Jabbour just handled the slide; you saw the slide?,q,MR. MILLER,start_answer
+582,1910,73,13,Correct.,a,THE WITNESS,start_question
+583,1911,73,14,"And Dr. Nozad, N-o-z-a-d, handled the tissue specimen; correct?",q,MR. MILLER,start_answer
+584,1913,73,16,That is correct.,a,THE WITNESS,start_question
+585,1914,73,17,And you never personally handled the tissue specimen?,q,MR. MILLER,start_answer
+586,1916,73,19,That is correct.,a,THE WITNESS,start_question
+587,1917,73,20,"Okay.  So after grossing of the tissue specimen is done, what -- does the tissue specimen then go into storage?",q,MR. MILLER,start_answer
+588,1920,73,23,The material that we did not put into the cassette goes back in the container to be stored.,a,THE WITNESS,start_question
+589,1924,74,1,"Now, Exhibit 9 talks about obstetric pathology and obstetric fetopsy; correct?",q,MR. MILLER,start_answer
+590,1926,74,3,"Yes, sir.",a,THE WITNESS,start_question
+591,1927,74,4,Under obstetrical pathology it talks about products of conception and specimen processing and early D and E specimens. What are D and E?,q,MR. MILLER,start_answer
+592,1931,74,8,"It's the procedure that is done by the obstetrician and dilatation or evacuation, extraction.",a,THE WITNESS,start_question
+593,1934,74,11,And this just contains a description of grossing the fetal parts; correct?,q,MR. MILLER,start_answer
+594,1936,74,13,"Well, the tissue itself.  It may or may not include fetal parts.",a,THE WITNESS,start_question
+595,1938,74,15,"All right.  And on the next page when it talks about obstetric fetopsy, what does that refer to?",q,MR. MILLER,start_answer
+596,1941,74,18,"Well, if it's after 20 weeks, there's -- The obstetric fetopsy is basically used for stillbirth, you know, description of that process.",a,THE WITNESS,start_question
+597,1945,74,22,"When it talks about a specimen processing, are they referring just to a fetus more than 20 weeks or to all fetuses?",q,MR. MILLER,start_answer
+598,1948,74,25,This is for more than 20 weeks when a formal autopsy is pursued.,a,THE WITNESS,start_question
+599,1951,75,2,"Okay.  Doctor, before you is Exhibit 6, which is a letter dated December 23, 2015 from the New York State Department of Health to Larissa Davis regarding Albany Medical Center hospital and the Complaint with an ID number on that exhibit.  Are you -- Do you have any knowledge of an investigation conducted by the New York State Department of Health with regard to this matter?",q,MR. MILLER,start_answer
+600,1961,75,12,I do.,a,THE WITNESS,start_question
+601,1962,75,13,Were you involved in that or contacted?,q,MR. MILLER,start_answer
+602,1963,75,14,I was part of the group that responded to that.,a,THE WITNESS,start_question
+603,1965,75,16,"Okay.  And when you say you were part of the group that responded to that, you're talking about to the Complaint?",q,MR. MILLER,start_answer
+604,1968,75,19,Yes.,a,THE WITNESS,start_question
+605,1969,75,20,"And the response or part of the group responding to that complaint, was that separate from the ad hoc committee who conducted an investigation that you told me about earlier today?",q,MR. MILLER,start_answer
+606,1974,75,25,"They were linked, but each had its own dynamic.  The RCA was part of the basis, as I remember, for our response to New York State, and yet we dealt with New York State, you know, in an independent fashion.",a,THE WITNESS,start_question
+607,1981,76,6,"When you say ""the RCA,"" what are you referring to?",q,MR. MILLER,start_answer
+608,1983,76,8,"The root cause analysis, this group of people that met to try to uncover what went wrong and what we might do better in the future.",a,THE WITNESS,start_question
+609,1987,76,12,"The response to the New York State Department of Health, was that in writing?",q,MR. MILLER,start_answer
+610,1989,76,14,"I'm not certain.  I know we had communications with them over the phone. I believe -- I'm not certain whether there was a written response or not, but that was headed up by Ms. Archer and Dr. Rosano.",a,THE WITNESS,start_question
+611,1995,76,20,"Did you ever figure out the reason why this tissue, these fetal remains ended up being incinerated?",q,MR. MILLER,start_chat
+612,1998,76,23,"Objection to form, but you can answer.",side_chat,MR. BELL,start_answer
+613,2000,76,25,"You know, I think it was human error.  You know, we -- We handle, you know -- In my time here, we've handled millions of specimens and this has never happened. It's just, you know, human beings make mistakes.  And obviously there are repercussions and impacts the people affected very dramatically, and, you know, we feel terrible about it.  But somebody goofed, somebody didn't put -- didn't do what they were supposed to do. I'm not certain if he was distracted or he had some issue with his own family or what happened, you know, but I think a mistake was made.  There's no question about it.  He didn't do what he was supposed to do, he or she.",a,THE WITNESS,start_question
+614,2018,77,17,As you or representatives of the medical center look back and evaluated what went wrong --,q,MR. MILLER,start_chat
+615,2021,77,20,Objection to form. You can answer.,side_chat,MR. BELL,start_question
+616,2024,77,23,-- did you identify areas where you could have had better control to reduce the likelihood of something like this happening?,q,MR. MILLER,start_answer
+617,2029,78,2,"Well, that was the effort of this root cause analysis.  And we did, in fact, identify some ways that we thought might improve the process.",a,THE WITNESS,start_question
+618,2033,78,6,Could you tell me what they were?,q,MR. MILLER,start_answer
+619,2034,78,7,I wouldn't -- I'm not able to remember those.,a,THE WITNESS,start_question
+620,2036,78,9,"Well, let me ask you this:  When fetal remains come into your lab today that are less than 20 weeks in gestational age and a special request is made that the fetal parts are to be turned over to a funeral home, is the process in place today in the lab the same or different than the process was back in 2015?",q,MR. MILLER,start_chat
+621,2044,78,17,"Objection to form, but you can answer.",side_chat,MR. BELL,start_answer
+622,2046,78,19,"I think there have been changes.  Again, I'm not prepared to identify all those.  I know that one of the things we did is -- was rather labor-intensive, but it involved pulling out every case that was a product of conception and looking at the requisition sheet in this interval period of three weeks to make sure that we didn't miss any.  So it was an after the fact measure to be certain that we didn't make this mistake again. There were some other aspects of the ability to communicate the handling of documentation from the OR, ER, and labor and delivery, that, you know --",a,THE WITNESS,start_question
+623,2062,79,9,How is the documentation handled differently today?,q,MR. MILLER,start_answer
+624,2064,79,11,"Again, that's outside my bailiwick, and I'm not sure -- That's why I didn't want to act like I know.",a,THE WITNESS,start_question
+625,2067,79,14,Who would know about that?,q,MR. MILLER,start_answer
+626,2068,79,15,I don't know.,a,THE WITNESS,start_question
+627,2069,79,16,Is there anybody from Albany Medical Center who knows?,q,MR. MILLER,start_answer
+628,2071,79,18,"I would assume someone in nursing might have some idea about this, but I don't know.",a,THE WITNESS,start_question
+629,2074,79,21,Has the written policy and procedure changed?,q,MR. MILLER,start_answer
+630,2076,79,23,"Again, I'm not sure.  I don't know the answers.",a,THE WITNESS,start_question
+631,2078,79,25,How did you become aware that these fetal remains were incinerated?,q,MR. MILLER,start_answer
+632,2081,80,2,I'm not certain.  I believe our supervisor in histology came to me and said that this had happened.,a,THE WITNESS,start_question
+633,2084,80,5,I'm sorry.  The supervisor of?,q,MR. MILLER,start_answer
+634,2085,80,6,"In histology, in this laboratory.",a,THE WITNESS,start_question
+635,2086,80,7,And who was that?,q,MR. MILLER,start_answer
+636,2087,80,8,"Doug.  Douglas Weisheit, W-e-i-s-h-e-i-t.",a,THE WITNESS,start_question
+637,2088,80,9,How did he know this happened?,q,MR. MILLER,start_answer
+638,2089,80,10,I don't know.,a,THE WITNESS,start_question
+639,2090,80,11,What was his position in the lab?,q,MR. MILLER,start_answer
+640,2091,80,12,He's a supervisor.,a,THE WITNESS,start_question
+641,2092,80,13,And what were his duties and responsibilities at that time?,q,MR. MILLER,start_answer
+642,2094,80,15,Oversight of the laboratory operations.,a,THE WITNESS,start_question
+643,2095,80,16,Did that include making sure that special requests were honored?,q,MR. MILLER,start_answer
+644,2097,80,18,Yes.,a,THE WITNESS,start_question
+645,2098,80,19,My clients learned of the incineration from Dr. Clark.  Were you aware of that?,q,MR. MILLER,start_answer
+646,2100,80,21,"Now that you say it, I think our discussions led us to the conclusion that the best way for that information being delivered was through Dr. Clark, who was their primary care physician.",a,THE WITNESS,start_question
+647,2106,81,1,Who made that decision?,q,MR. MILLER,start_answer
+648,2107,81,2,I suspect it was under the guidance of Dr. Rosano.,a,THE WITNESS,start_question
+649,2109,81,4,Are you aware that the Davises learned about this and had a conversation with Dr. Clark only after they made a request for autopsy?,q,MR. MILLER,start_answer
+650,2113,81,8,I did not remember that part.,a,THE WITNESS,start_question
+651,2114,81,9,"Is the reason why nobody from -- Let me withdraw that. Dr. Clark, was he an employee of Albany Med at the time we're talking about or did he have an independent practice?",q,MR. MILLER,start_answer
+652,2119,81,14,"I'm not certain of his affiliation with Albany Med.  It's changed over the years, so I don't know.",a,THE WITNESS,start_question
+653,2122,81,17,Was there a reason or is there a reason why no one from the department of pathology or no representative of Albany Med called Mr. or Mrs. Davis and said this is what happened?,q,MR. MILLER,start_answer
+654,2127,81,22,"Well, again, I think -- We have a practice in general in the laboratory that we believe operates most effectively whereby the primary clinical physician is the one to communicate directly with the patients on information that we have, and that's our practice.  It works best.  If we interject ourselves, we can create confusion.  If there are emotional or other responses that need to be addressed, we don't know the patients or their families. And so that's the practice that we've always maintained, and that's what we thought would be best in this situation, to communicate, initially at least, through Dr. Clark.  I think Dr. Rosano, I believe, felt that perhaps if I spoke with Mr. Davis or -- and maybe he did as well, that might also give the opportunity for them to feedback, voice concerns, understand our concerns as well that -- So there was at least some attempt after Dr. Clark for us to reach out to them.",a,THE WITNESS,start_question
+655,2153,82,22,"The tissues we're talking about came into your lab on October 27, 2015?",q,MR. MILLER,start_answer
+656,2155,82,24,Correct.,a,THE WITNESS,start_question
+657,2156,82,25,How long after that October 27th date were these tissues incinerated?,q,MR. MILLER,start_answer
+658,2159,83,2,I do not know that.,a,THE WITNESS,start_question
+659,2160,83,3,How do you know that these tissues were incinerated?,q,MR. MILLER,start_answer
+660,2162,83,5,"Well, we sought them through our storage facility and we could not find them, so the assumption was made.  I don't know that -- it's also possible that they were checked off.  There was a log process that we have had for some time.  It's possible that it was documented in that fashion as well.  So I don't know.",a,THE WITNESS,start_question
+661,2170,83,13,"Back in this time frame, did Albany Medical Center, department of pathology provide tissue samples received in its lab to any other laboratory outside of Albany Medical Center?",q,MR. MILLER,start_chat
+662,2175,83,18,Objection to form. Go ahead.,side_chat,MR. BELL,start_answer
+663,2177,83,20,Only in an effort to do additional testing as requested by clinicians or as deemed necessary by us.,a,THE WITNESS,start_question
+664,2180,83,23,"During your tenure at this laboratory, were surgical remains ever processed for medical research?",q,MR. MILLER,start_answer
+665,2184,84,1,Can you repeat that question?,a,THE WITNESS,start_question
+666,2185,84,2,"Yes.  While you've been with this laboratory, have medical -- I'm sorry, have surgical remains been processed for medical research?",q,MR. MILLER,start_chat
+667,2189,84,6,"Object to the form, but go ahead.",side_chat,MR. BELL,start_answer
+668,2191,84,8,Yes.,a,THE WITNESS,start_question
+669,2192,84,9,Under what circumstances?,q,MR. MILLER,start_answer
+670,2193,84,10,"Well, with IRB approval for research purposes to advance understanding of disease.",a,THE WITNESS,start_question
+671,2196,84,13,"When you say ""IRB,"" what is that?",q,MR. MILLER,start_answer
+672,2197,84,14,That's the Institutional Review Board.  So all such research efforts must go through that agency for approval recognizing aspects of ethics and so forth.,a,THE WITNESS,start_question
+673,2201,84,18,"When research of that kind is performed on tissue of this kind, is permission of the parents sought?",q,MR. MILLER,start_chat
+674,2204,84,21,"Objection to form, but go ahead.",side_chat,MR. BELL,start_answer
+675,2206,84,23,"In some instances, yes, in some instances, no.  There is, I think, a global permission that is part of the documentation that is associated with entry into the facility.",a,THE WITNESS,start_question
+676,2212,85,3,Is research -- medical research on tissue performed with regard to fetal remains?,q,MR. MILLER,start_answer
+677,2214,85,5,I'm not aware of that.  It's possible that there have been IRB protocols that have deemed that appropriate.  I'm not the person to ask that question.  I don't know the answer.,a,THE WITNESS,start_question
+678,2219,85,10,"And IRB, is that an independent body?",q,MR. MILLER,start_answer
+679,2220,85,11,"The institution has a group of scientists that function in that role here, at Albany Med.",a,THE WITNESS,start_question
+680,2223,85,14,"And one of the questions that the Davises have is, what happened to this tissue? And they've been told it's been incinerated.  But in all candor, one of the concerns that they have is that this tissue was used in some other way or processed in some other way or became part of medical research because there's no documentation showing them that the tissue was, in fact, incinerated. So is there any documentation that exists anywhere that could satisfy this concern and inquiry?",q,MR. MILLER,start_chat
+681,2237,86,2,Objection to form. If you know.,side_chat,MR. BELL,start_answer
+682,2239,86,4,"I don't know.  It's possible -- Again, we did -- We did establish a methodology whereby we would be certain that it had been three weeks, at least three weeks before we disposed of the tissues.  And so it is possible that that log exists that would confirm that it was submitted for disposal.  Beyond that, there would be no other -- The only other material we have is that material we use for testing, which included the glass slide, which we are required to retain for 20 years and is in our file, and the paraffin block which we're also required to retain, but we offered that for purposes of burial. So to the best of my knowledge, there's no one going into our lab and getting tissues out of storage for research of this type.  That's not happening.  I can make a personal assurance, but that's no documentation.",a,THE WITNESS,start_question
+683,2262,87,1,You talk about a log relating to disposal or incineration.,q,MR. MILLER,start_answer
+684,2264,87,3,"Yeah, I'm not certain there is such a log. There may or may not be such a log.  I know we had a method whereby we were making sure that it had been three weeks before we disposed of these tissues, and it's possible that that was associated with a log.  I'm not certain.",a,THE WITNESS,start_question
+685,2271,87,10,"Okay.  Let me just ask you about this three-week process again from this perspective.  A tissue sample comes into the lab, and if I understand you correctly, you want to process this tissue within a couple of days.  And then you hold on to the sample for three weeks, and then it can be disposed of at that point in time. So you're talking about three-and-a-half weeks; correct?",q,MR. MILLER,start_answer
+686,2282,87,21,Sometimes a little longer.  Depends on how long it takes us to develop our report.,a,THE WITNESS,start_question
+687,2284,87,23,Okay.  Do you have any information as to the earliest time an employee of the lab or hospital became aware that these remains were disposed of?,q,MR. MILLER,start_answer
+688,2289,88,2,I have no such knowledge.,a,THE WITNESS,start_question
+689,2290,88,3,"The phone call from Dr. Clark to the Davises came approximately on December 16th, more than a month-and-a-half after the sample -- or the tissue came into the lab, and my clients have testified that one or both of them made numerous phone calls to the lab during the six-week period.  And when they would be called, they would be passed from one person to the next person, and that someone ultimately told Mr. Davis that the remains were processed. Do you know anything about that?",q,MR. MILLER,start_answer
+690,2303,88,16,"No, I do not.",a,THE WITNESS,start_question
+691,2304,88,17,"Does the word ""processed"" have any special meaning to you as a pathologist?",q,MR. MILLER,start_answer
+692,2306,88,19,"I think it means to us that it has been evaluated and that it's in -- somewhere in the system as, you know, whether a full report has been developed or it's in progress.  It's a fairly broad term.",a,THE WITNESS,start_question
+693,2311,88,24,"Now, back at the time frame we're talking about, November of 2015.  Was there an outside vendor that would be used to dispose of medical waste?",q,MR. MILLER,start_answer
+694,2316,89,3,I think -- I think we were using an outside vendor.,a,THE WITNESS,start_question
+695,2318,89,5,Do you know if the medical center or your department would dispose of medical waste through Albany Medical Center in-house?,q,MR. MILLER,start_answer
+696,2321,89,8,"We did have that process for a while, but I think we moved to a different process before this time frame.",a,THE WITNESS,start_question
+697,2324,89,11,So the incineration would take place outside of Albany Medical Center; correct?,q,MR. MILLER,start_answer
+698,2326,89,13,"I'm not certain.  I believe that's correct, but I'm by no means the best person to ask that question.",a,THE WITNESS,start_question
+699,2329,89,16,I gather that the laboratory handles tens of thousands of specimens a year; would that be fair?,q,MR. MILLER,start_answer
+700,2332,89,19,"Yes, sir.",a,THE WITNESS,start_question
+701,2333,89,20,"So at any given time, in storage for disposal could be more than a thousand samples?",q,MR. MILLER,start_answer
+702,2336,89,23,"Maybe not that many.  I don't know the answer to that, but probably.  That's a ballpark figure.",a,THE WITNESS,start_question
+703,2340,90,1,"Or between 500 and 1,000, perhaps?",q,MR. MILLER,start_answer
+704,2341,90,2,"No.  I don't -- Yeah, we have a limited storage area and it's usually near capacity.",a,THE WITNESS,start_question
+705,2344,90,5,"Back in the time frame we're talking about, when medical waste was going to be disposed of or incinerated, would this outside vendor come once a week, come every day, or with what regularity do they come?",q,MR. MILLER,start_answer
+706,2350,90,11,I think it was two or three times a week.,a,THE WITNESS,start_question
+707,2351,90,12,"And when this outside vendor would come, and before all these samples that had been in storage were given to the outside vendor for disposal, was there any procedure by which a final check was done to determine the sample that was being given should, in fact, be given and was not attached to any special request?",q,MR. MILLER,start_answer
+708,2359,90,20,"No, sir, not for a special request.  The only provision we were operating under was that it had been at least three weeks since the case had been signed out or the report had been issued.",a,THE WITNESS,start_chat
+709,2364,90,25,Give me a couple minutes.,side_chat,MR. MILLER,start_chat
+710,2367,91,2,Sure.,side_chat,MR. BELL,symbols
+711,2368,91,3,* * *,symbols,,is brackets
+712,2369,91,4,(A brief recess was taken.),brackets,,symbols
+713,2370,91,5,* * *,symbols,,start_question
+714,2372,91,7,"Doctor, do you understand that the family wants to know where these remains went?",q,MR. MILLER,start_answer
+715,2374,91,9,I do.,a,THE WITNESS,start_question
+716,2375,91,10,And tell me what the hospital did to find out where they went.,q,MR. MILLER,start_answer
+717,2377,91,12,"Well, I can't speak specifically to that. I can just tell you in general terms that our storage facility is such that we would expect to find that specimen in there if it were still in our hands, if it had not been disposed of.  And I believe we did a hard target search for that and we could not find it.  And it was in a time frame when other specimens of that same time frame would have been disposed of, so...",a,THE WITNESS,start_question
+718,2387,91,22,So you're assuming that the remains were disposed of because you can't find it?,q,MR. MILLER,start_answer
+719,2389,91,24,Correct.,a,THE WITNESS,start_question
+720,2390,91,25,"But you don't know for sure that these remains were incinerated or not, do you?",q,MR. MILLER,start_answer
+721,2393,92,2,"No, sir.",a,THE WITNESS,start_chat
+722,2394,92,3,"Objection to form, but go ahead.",side_chat,MR. BELL,start_question
+723,2397,92,6,And I take it that you don't know for certain what happened to those remains; is that correct?,q,MR. MILLER,start_answer
+724,2400,92,9,Not for certain.,a,THE WITNESS,start_question
+725,2401,92,10,"Incineration of the remains is an assumption on your part, isn't it?",q,MR. MILLER,start_chat
+726,2403,92,12,Objection to form. Go ahead.,side_chat,MR. BELL,start_answer
+727,2405,92,14,"Well, I think it's -- You know, there are degrees of confidence that we operate under in many aspects of our work.  And we handle -- as you said, we handle thousands of specimens.  There's almost nowhere else that that could have gone except for disposal.  So I'm assuming, but with a fairly -- or a quite high degree of confidence that they were disposed of.",a,THE WITNESS,start_question
+728,2414,92,23,"Tell me this, Doctor:  Is there a reason why nobody from the Medical Center ever called the Davises after learning that the remains were missing or incinerated to apologize to them?",q,MR. MILLER,start_answer
+729,2420,93,3,"Well, I believe I did that myself.",a,THE WITNESS,start_question
+730,2421,93,4,I think you said you extended your condolences.,q,MR. MILLER,start_chat
+731,2423,93,6,"And -- Well, he said more than that.  But go ahead.",side_chat,MR. BELL,start_answer
+732,2425,93,8,"I believe I said apologize.  I certainly meant to do that.  I meant to say that, and that was the intent of the call was to express our apologies, in part.  So, you know, I'm hopeful that was received in that way.  If it was not, then that was probably due to inadequacy on my part because that's what the intent was, at least in part. I'm not sure if others did as well, but I thought Dr. Clark did and I thought I did, and I don't know if others did as well, but I can't speak to those others, if anyone else did or did not.",a,THE WITNESS,start_question
+733,2439,93,22,"When a request is made to the IRB for permission to undertake research, is there documentation accompanying a request?",q,MR. MILLER,start_answer
+734,2442,93,25,"Oh, yes.  There's a form -- a formal request for that, approval.",a,THE WITNESS,start_question
+735,2445,94,2,"And is there -- As opposed to requesting formal permission, is the specific identification number for the tissue you're looking to do research on identified to the IRB?",q,MR. MILLER,start_answer
+736,2450,94,7,"No, that would be de-identified.  Any such case material would be de-identified. That's a standard.  You can seek special permission for specific materials if you have specific approval from that individual, but by and large, the vast majority of cases or instances in which you're seeking approval for research, materials are de-identified.",a,THE WITNESS,start_question
+737,2459,94,16,"When the research on that tissue for which permission is sought to do research from the IRB, what happens to that tissue?",q,MR. MILLER,start_answer
+738,2462,94,19,I'm sorry.  I don't understand.,a,THE WITNESS,start_question
+739,2463,94,20,"When the research is completed on that tissue, what happens to that tissue?",q,MR. MILLER,start_answer
+740,2465,94,22,"I think that's written up in the protocol and usually it's disposed of, I believe, but I'm not sure.  It would depend on the protocol, I guess.  I'm not involved with the IRB here, so I don't know what their standards or requirements are.",a,THE WITNESS,start_chat
+741,2472,95,3,That's all we have. I appreciate your time.,side_chat,MR. MILLER,symbols
+742,2474,95,5,* * *,symbols,,is brackets
+743,2475,95,6,"(Whereupon, the proceedings concluded at 12:36 p.m.)",brackets,,symbols
+744,2477,95,8,* * *,symbols,,start_chat
+745,2478,95,9,"I'm keeping exhibits, and providing to opposing counsel.  I prefer printed. I N D E X WITNESS       EXAMINATION BY               PAGE TIMOTHY JENNINGS, M.D. Mr. Miller                      4 TO PLAINTIFF'S EXHIBITS",side_chat,MR. MILLER,is brackets
+746,2520,96,25,"(No requests) SHORTHAND REPORTER CERTIFICATION I, the undersigned, a certified shorthand certify: That the proceedings within were taken forth; that any witnesses in the foregoing sworn; that a record of the proceedings was made thereafter transcribed under my direction; that testimony given. Further, that if the foregoing pertains to federal case, before completion of the [  ] was not requested. I further certify I am neither financially employee of any attorney or party to this Dated:  August 28, 2019 BRENDA J. O'CONNOR-MARELLO, CSR Qualified in Saratoga County DECLARATION/WITNESS CERTIFICATION Case:  Davis v. Albany Medical Center Hospital Deposition Date: August 28, 2019 I declare under penalty of perjury that have read the entire transcript of my deposition been read to me, and the same is true and corrections, if any, as indicated by me on the understanding that I offer these changes as if",brackets,,symbols
+747,2575,98,10,"______________________________ TIMOTHY JENNINGS, M.D. of__________________, 20___.",symbols,,symbols
+748,2581,98,15,"____________________________________________ [____________________________________](print) Notary Public. Registration No.:___________________________ State of ___________________________________ Qualified in ________________________County. My commission expires______________________. DEPOSITION ERRATA SHEET Case:  Davis v. Albany Medical Center Hospital Deposition Date: August 28, 2019 1:  To clarify the record 3:  To correct transcription errors. PAGE/LINE     CORRECTION MADE    REASON CODE",symbols,,symbols
+749,2602,99,7,________________________________________________,symbols,,symbols
+750,2603,99,8,________________________________________________,symbols,,symbols
+751,2604,99,9,________________________________________________,symbols,,symbols
+752,2605,99,10,________________________________________________,symbols,,symbols
+753,2606,99,11,________________________________________________,symbols,,symbols
+754,2607,99,12,________________________________________________,symbols,,symbols
+755,2608,99,13,________________________________________________,symbols,,symbols
+756,2609,99,14,________________________________________________,symbols,,symbols
+757,2610,99,15,________________________________________________,symbols,,symbols
+758,2611,99,16,________________________________________________,symbols,,symbols
+759,2612,99,17,________________________________________________,symbols,,symbols
+760,2613,99,18,________________________________________________,symbols,,symbols
+761,2614,99,19,________________________________________________,symbols,,symbols
+762,2615,99,20,________________________________________________,symbols,,symbols
+763,2616,99,21,________________________________________________,symbols,,symbols
+764,2617,99,22,________________________________________________,symbols,,symbols
+765,2618,99,23,________________________________________________,symbols,,symbols
+766,2619,99,24,________________________________________________,symbols,,symbols
+767,2620,99,25,________________________________________________ DEPOSITION ERRATA SHEET PAGE/LINE     CORRECTION MADE    REASON CODE,symbols,,symbols
+768,2624,100,3,________________________________________________,symbols,,symbols
+769,2625,100,4,________________________________________________,symbols,,symbols
+770,2626,100,5,________________________________________________,symbols,,symbols
+771,2627,100,6,________________________________________________,symbols,,symbols
+772,2628,100,7,________________________________________________,symbols,,symbols
+773,2629,100,8,________________________________________________,symbols,,symbols
+774,2630,100,9,________________________________________________,symbols,,symbols
+775,2631,100,10,________________________________________________,symbols,,symbols
+776,2632,100,11,________________________________________________,symbols,,symbols
+777,2633,100,12,________________________________________________,symbols,,symbols
+778,2634,100,13,________________________________________________,symbols,,symbols
+779,2635,100,14,________________________________________________,symbols,,symbols
+780,2636,100,15,________________________________________________,symbols,,symbols
+781,2637,100,16,________________________________________________,symbols,,symbols
+782,2638,100,17,________________________________________________,symbols,,symbols
+783,2639,100,18,________________________________________________,symbols,,symbols
+784,2640,100,19,________________________________________________,symbols,,symbols
+785,2641,100,20,"________________________________________________ ___________ Subject to the above changes, I ___________ No changes have been made.  I",symbols,,symbols
+786,2647,100,24,"_______________________________ TIMOTHY JENNINGS, M.D.",symbols,,end

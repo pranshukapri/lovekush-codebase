@@ -1,0 +1,522 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0,,,,start_chat
+1,136,5,17,"Yes, it is.",side_chat,MS. GRANT,symbols
+2,137,5,18,- - - DIRECT EXAMINATION,symbols,,symbols
+3,139,5,20,- - -,symbols,,start_question
+4,141,5,22,"Ma'am, could you give us your full name and living address.",q,MR. HUTTEMANN,start_answer
+5,143,5,24,"My name is Cheryl Marie Jacobs Visconi.  My address is 4013 Lansing Street, Philadelphia, Pennsylvania 19136.",a,THE WITNESS,start_question
+6,147,6,3,"What's your date of birth, ma'am?",q,MR. HUTTEMANN,start_answer
+7,148,6,4,"March 27, 1953.",a,THE WITNESS,start_question
+8,149,6,5,"On January 2, 2019, were you an employee of the School District of Philadelphia?",q,MR. HUTTEMANN,start_answer
+9,152,6,8,"Yes, I was.",a,THE WITNESS,start_question
+10,153,6,9,What was your position?,q,MR. HUTTEMANN,start_answer
+11,154,6,10,A Spanish teacher.,a,THE WITNESS,start_question
+12,155,6,11,How long had you been employed with the school district as a teacher?,q,MR. HUTTEMANN,start_answer
+13,157,6,13,16 years.,a,THE WITNESS,start_question
+14,158,6,14,At which school?,q,MR. HUTTEMANN,start_answer
+15,159,6,15,Northeast High School.,a,THE WITNESS,start_question
+16,160,6,16,"Did you spend your entire sixteen years at Northeast, or had you taught at other schools?",q,MR. HUTTEMANN,start_answer
+17,163,6,19,15 years at Northeast High School. One year I was at Sharswood Elementary and Prince Hall Elementary in the same year.,a,THE WITNESS,start_question
+18,166,6,22,Did you solely teach Spanish classes at Northeast High School?,q,MR. HUTTEMANN,start_answer
+19,168,6,24,Yes.,a,THE WITNESS,start_question
+20,170,7,1,Was that a full-time job with the school district?,q,MR. HUTTEMANN,start_answer
+21,172,7,3,Yes.,a,THE WITNESS,start_question
+22,173,7,4,What was your salary in January of 2019?,q,MR. HUTTEMANN,start_answer
+23,175,7,6,"I'm on a Step 11; $83,250 approximately.",a,THE WITNESS,start_question
+24,177,7,8,"Did you work in a classroom by yourself, or did you have aides in your classrooms?",q,MR. HUTTEMANN,start_answer
+25,180,7,11,I worked in the classroom by myself.,a,THE WITNESS,start_question
+26,181,7,12,What grades did you teach?,q,MR. HUTTEMANN,start_answer
+27,182,7,13,Mostly 9th and 10th graders.  Mostly 9th graders this past year.,a,THE WITNESS,start_question
+28,184,7,15,What floor of the building did you work on?,q,MR. HUTTEMANN,start_answer
+29,186,7,17,The first floor.,a,THE WITNESS,start_question
+30,187,7,18,Did you always work in the same classroom?,q,MR. HUTTEMANN,start_answer
+31,189,7,20,"No.  In that building, over the years, I've traveled.  I was in about 21 different rooms over my history.  In the last year, I traveled to three different rooms.",a,THE WITNESS,start_question
+32,193,7,24,Were those all on the first floor?,q,MR. HUTTEMANN,start_answer
+33,195,8,1,Yes.,a,THE WITNESS,start_question
+34,196,8,2,"Where were you working on January 2, 2019?",q,MR. HUTTEMANN,start_answer
+35,198,8,4,I was working in Room 150 on the first floor when the incident occurred.,a,THE WITNESS,start_question
+36,200,8,6,How would you characterize the student body at Northeast High School?,q,MR. HUTTEMANN,start_answer
+37,202,8,8,It's a typical Philadelphia school.,a,THE WITNESS,start_question
+38,203,8,9,Were there security measures in the school in terms of the kids coming and going from the school?,q,MR. HUTTEMANN,start_answer
+39,206,8,12,"In the morning, during entry, there are portable metal detectors put in place; one or two at the front door for the girls entry, and two others at back doors where the boys would enter.",a,THE WITNESS,start_question
+40,211,8,17,Were all the students supposed to go through the metal detectors?,q,MR. HUTTEMANN,start_answer
+41,213,8,19,"Yes, they are all supposed to go through the metal detectors, to my knowledge.",a,THE WITNESS,start_question
+42,215,8,21,Were there doors in addition to the entrance doors where the metal detectors were where kids could come and go from the school?,q,MR. HUTTEMANN,start_answer
+43,218,8,24,"There are many other doors that enter into the school around the perimeter of the building, yes.",a,THE WITNESS,start_question
+44,222,9,3,"When you say many, can you give us a broad estimate?",q,MR. HUTTEMANN,start_answer
+45,224,9,5,20 to 30.,a,THE WITNESS,start_question
+46,225,9,6,Are these doors open to the public?,q,MR. HUTTEMANN,start_answer
+47,226,9,7,"They are locked from the outside. Again, to my knowledge, they are locked from the outside.",a,THE WITNESS,start_question
+48,229,9,10,Can they be opened by a student in the hallway?,q,MR. HUTTEMANN,start_answer
+49,231,9,12,They can be.,a,THE WITNESS,start_question
+50,232,9,13,Did you observe students ever coming through those doors with other students allowing them in?,q,MR. HUTTEMANN,start_answer
+51,235,9,16,"I have, yes.",a,THE WITNESS,start_question
+52,236,9,17,Describe for us your classroom at Room 150.,q,MR. HUTTEMANN,start_answer
+53,238,9,19,"In Room 150, I had one entry door.  I guess it's a room -- I don't know -- 20-by-30 or so.  It's a rectangular room.  The windows had bars on them, stationary bars, gradings, because it's on the first floor.  The door to the room that particular day and for days prior is missing the glass piece that would have allowed me to -- I could lock the door, but not having the glass in place would allow anybody, even if the door were locked, to put their hand in the door and open the door. The room is well-lighted.",a,THE WITNESS,start_question
+54,251,10,7,"Is there only one entrance/egress, that door that you discussed?",q,MR. HUTTEMANN,start_answer
+55,253,10,9,"Yes, there's just one entry door.",a,THE WITNESS,start_question
+56,254,10,10,"Can you get out through the windows, or are they barred?",q,MR. HUTTEMANN,start_answer
+57,256,10,12,"They were barred.  That day I remember the police officers, when they finally came barrelling through, looked and commented about how we tried to barricade it with the lock.  The one officer said --",a,THE WITNESS,start_chat
+58,261,10,17,"Objection, hearsay.",side_chat,MS. GRANT,start_question
+59,263,10,19,We don't need to get into that right now.,q,MR. HUTTEMANN,start_answer
+60,265,10,21,He just said you could die in here.,a,THE WITNESS,start_chat
+61,266,10,22,"Objection, hearsay.",side_chat,MS. GRANT,start_question
+62,270,11,1,Were there doors to the outside proximate to the entrance to that classroom?,q,MR. HUTTEMANN,start_answer
+63,272,11,3,"Yes, there is one door looking out from the doorway itself, and I can look out. It's about 20 feet of the doorway entry for the classroom.",a,THE WITNESS,start_question
+64,276,11,7,Did you ever observe students coming in and out of those doors?,q,MR. HUTTEMANN,start_answer
+65,278,11,9,I have.,a,THE WITNESS,start_question
+66,279,11,10,"Was there an incident that occurred on January 2, 2019 at Northeast High School?",q,MR. HUTTEMANN,start_answer
+67,281,11,12,"Yes, there was.",a,THE WITNESS,start_question
+68,282,11,13,What time of the day?,q,MR. HUTTEMANN,start_answer
+69,283,11,14,It was about 11:15.  It was the 4th period.,a,THE WITNESS,start_question
+70,285,11,16,You had indicated that there was no glass in the door on that date; is that correct?,q,MR. HUTTEMANN,start_answer
+71,288,11,19,That's correct.,a,THE WITNESS,start_question
+72,289,11,20,I'm going to show you a photograph that's going to be marked as C-Visconi-1. Can you tell us who took this picture?,q,MR. HUTTEMANN,start_answer
+73,292,11,23,I took this picture at the end of the year.,a,THE WITNESS,start_question
+74,295,12,1,What does this depict?,q,MR. HUTTEMANN,start_answer
+75,296,12,2,"This depicts the door to Room 150 that I was working in, the door without the glass.",a,THE WITNESS,start_question
+76,298,12,4,"Was this the condition of the door on January 2, 2019?",q,MR. HUTTEMANN,start_answer
+77,300,12,6,"Yes.  To the best of my knowledge, yes.",a,THE WITNESS,start_question
+78,302,12,8,"I'm going to show you what's marked as C-Visconi-2, another photograph. Can you tell us what that depicts.",q,MR. HUTTEMANN,start_answer
+79,305,12,11,"That depicts, from the doorway of 150, the proximity of one of the outside doors.",a,THE WITNESS,start_question
+80,307,12,13,"When you say the outside doors, is that the red door that you can see in the photograph?",q,MR. HUTTEMANN,start_answer
+81,310,12,16,That's the red door we can see in the photograph.  That is a double-door system.,a,THE WITNESS,start_question
+82,312,12,18,Did you take this photograph from standing inside the door or outside the door for classroom 150?,q,MR. HUTTEMANN,start_answer
+83,315,12,21,I took it in the portal of the door itself.,a,THE WITNESS,start_question
+84,317,12,23,"On the left, there is a doorknob on that photograph. Is that doorknob the doorknob for classroom 150?",q,MR. HUTTEMANN,start_answer
+85,322,13,3,"Yes, it is.",a,THE WITNESS,start_question
+86,323,13,4,"Did you take this photograph, ma'am?",q,MR. HUTTEMANN,start_answer
+87,324,13,5,"I took this one, too.",a,THE WITNESS,start_chat
+88,325,13,6,I'm going to enter into evidence C-Visconi-1 and -2. Any objection?,side_chat,MR. HUTTEMANN,start_chat
+89,328,13,9,No objection. When were they taken?,side_chat,MS. GRANT,start_chat
+90,330,13,11,She said at the end of the year.,side_chat,MR. HUTTEMANN,start_chat
+91,332,13,13,Previous school area?,side_chat,MS. GRANT,start_chat
+92,333,13,14,June.,side_chat,THE WITNESS,start_question
+93,335,13,16,What happened on January 2nd?,q,MR. HUTTEMANN,start_answer
+94,336,13,17,"I went to Room 150.  The bell rang.  I went to 150 to start a regular 4th period.  I don't remember.  10, 15 minutes, all of a sudden -- and I don't remember if I heard lock down or shelter in place.  I don't remember what was said.  I don't remember who said it on the PA system. I just knew one of the procedures is to lock the door, and I really just couldn't lock the door.  I didn't know if it was a drill, or I didn't know what was going on.",a,THE WITNESS,start_question
+95,348,14,4,Were there students in the classroom?,q,MR. HUTTEMANN,start_answer
+96,349,14,5,"There were students in the classroom because we were in for a few minutes already. They were already in the classroom.  I just directed them to go against the wall which was farthest from the window on the opposite side. They all gathered.  They went over. They were pretty quiet, and then I heard the helicopter.  I guess it was a police helicopter.  You don't hear helicopters over the building too often.  It was up there and it was up there and it was up there.  I don't know if there was two, one, three.  I don't remember. Then my students started getting texts saying there is a shooter in the building.  I was in the room looking towards that door because all I could see was that hand coming through because the shooter must have known that there wasn't any glass in that door.  I just felt that way. I didn't know what to move.  I knew I had to barricade something.  The file cabinets were all full.  So I had my students move that locker to block the door because it was the only piece in the room that would have been movable and cover up to the top of where the opening was in the glass or where the glass would have been. I just felt that that would be a deterrent for the shooter.  Maybe if the shooter saw a wall, they would bypass the room.  Then I got a couple texts from friends that said be careful, there is a shooter in the building.",a,THE WITNESS,start_chat
+97,385,15,16,Note my objection regarding the hearsay statements to texts coming through.  They're all hearsay.,side_chat,MS. GRANT,start_chat
+98,388,15,19,I'm going to note they're present sense impressions in response. Go ahead.,side_chat,MR. HUTTEMANN,start_chat
+99,392,15,23,That's what was done.  The students sat and we just didn't know anything.,side_chat,THE WITNESS,start_question
+100,397,16,3,Did you hear any gunshots?,q,MR. HUTTEMANN,start_answer
+101,398,16,4,"I did not hear any gunshots, just continued to hear the helicopter above the building, which reinforced what they were telling and what I was getting on my phone.",a,THE WITNESS,start_question
+102,402,16,8,What was said over the PA?,q,MR. HUTTEMANN,start_answer
+103,403,16,9,"Nothing, not a word.",a,THE WITNESS,start_question
+104,404,16,10,Did you hear any other people in the hallways?,q,MR. HUTTEMANN,start_answer
+105,406,16,12,"No, did not hear anybody.",a,THE WITNESS,start_question
+106,407,16,13,Did anything come up on the PA indicating that this was any sort of a drill?,q,MR. HUTTEMANN,start_answer
+107,409,16,15,No.,a,THE WITNESS,start_question
+108,410,16,16,Anything to the contrary?,q,MR. HUTTEMANN,start_answer
+109,411,16,17,"No, not at that point, no.",a,THE WITNESS,start_question
+110,412,16,18,"When you say not at that point, was something said later?",q,MR. HUTTEMANN,start_answer
+111,414,16,20,"Somebody had said that their parents had listened to police radio, and that's what was going on.",a,THE WITNESS,start_chat
+112,417,16,23,"Objection, hearsay.",side_chat,MS. GRANT,start_question
+113,420,17,1,I'm talking about the PA system in the building.,q,MR. HUTTEMANN,start_answer
+114,422,17,3,"No, nothing came over once we heard lock down.  I don't remember if it was lock down.  I still can't remember if it was shelter in place or if it was lock down.",a,THE WITNESS,start_question
+115,426,17,7,What does lock down mean -- let's just take a step back. Had you ever had any instruction in the school about what to do in the event of an active shooter or a lockdown?,q,MR. HUTTEMANN,start_answer
+116,431,17,12,"We just have a calendar printout.  I don't remember us ever having a practice drill.  I don't remember that.  I don't remember that. All I knew from our printout was to go as far away from the door as possible, try not to be seen, turn off the lights, pull down shades, be as quite as possible.  My problem in that room was that not every window had shades.",a,THE WITNESS,start_question
+117,441,17,22,How long were you against the wall with the students?,q,MR. HUTTEMANN,start_answer
+118,443,17,24,"It seemed like forever.  It just seemed like forever.  Maybe an hour-and-ten minutes, 15 minutes, 20 minutes.",a,THE WITNESS,start_question
+119,447,18,3,"During that hour-and-ten minutes, did you receive any information about what was going on?",q,MR. HUTTEMANN,start_answer
+120,450,18,6,No.,a,THE WITNESS,start_question
+121,451,18,7,Did someone eventually enter your room?,q,MR. HUTTEMANN,start_answer
+122,453,18,9,Yes.,a,THE WITNESS,start_question
+123,454,18,10,Was that at the conclusion of that hour-and-ten-minutes?,q,MR. HUTTEMANN,start_answer
+124,456,18,12,"About, yes.",a,THE WITNESS,start_question
+125,457,18,13,Who came into your room?,q,MR. HUTTEMANN,start_answer
+126,458,18,14,Two police officers.,a,THE WITNESS,start_question
+127,459,18,15,How did they enter the room?,q,MR. HUTTEMANN,start_answer
+128,460,18,16,"They entered the room noisily.  They banged the door.  They pushed the locker.  It was just a very upsetting -- I thought somebody was coming through.  I didn't know it was them coming through.  Nobody announced anything.  They just came through, pushed the locker, and then that police officer said is this the best you can do. I just looked at him.  I just said, well, it's the only thing we had that would cover that door.  Then the other police officer looked like his superior.  He said --",a,THE WITNESS,start_chat
+129,473,19,4,"Note my objection, hearsay.",side_chat,MS. GRANT,start_chat
+130,475,19,6,He said you would have died in here anyway.,side_chat,THE WITNESS,start_chat
+131,477,19,8,Note present sense impression.,side_chat,MR. HUTTEMANN,start_question
+132,480,19,11,Did they enter the room without you letting them in?,q,MR. HUTTEMANN,start_answer
+133,482,19,13,Yes.,a,THE WITNESS,start_question
+134,483,19,14,"How did they do that, do you know?",q,MR. HUTTEMANN,start_answer
+135,484,19,15,"They just banged through the door.  I didn't have a door lock because I couldn't really lock it.  There was no reason to lock it.  They just banged through the door, or maybe I did lock it.  No, I didn't lock it. They just banged through the door. It was lots of noise because the locker went all over.  If they had said police, I would have felt better.  They just came through, so I just thought I was going die. I just thought that was the person coming through; they figured out the locker was there and knew I was trying to hide and trying to hide my students.  That was my main concern, trying to take care of them, keeping them quiet and settled.  There was so many in there at the time.",a,THE WITNESS,start_question
+136,503,20,9,Was there an announcement at any point indicating that the situation was over?,q,MR. HUTTEMANN,start_answer
+137,505,20,11,I don't remember that.  I remember it being over when the police came through.,a,THE WITNESS,start_question
+138,507,20,13,"Was school dismissed at that point, or did the day continue to its conclusion?",q,MR. HUTTEMANN,start_answer
+139,509,20,15,The day continued.,a,THE WITNESS,start_question
+140,510,20,16,Were you able to teach the rest of the day?,q,MR. HUTTEMANN,start_answer
+141,512,20,18,"Not really.  I did what I could do. Whatever lessons I had, we tried to go forward.  The schedule was off at that point because the new period would have started. The schedule was off.  We did what we could do for the rest of the day with the students who were there.",a,THE WITNESS,start_question
+142,520,21,1,Did you continue to work after that date on your regular schedule?,q,MR. HUTTEMANN,start_answer
+143,522,21,3,I did.,a,THE WITNESS,start_question
+144,523,21,4,Was there a point in time that you noticed that you were having any residual issues following this incident on January 2nd?,q,MR. HUTTEMANN,start_answer
+145,527,21,8,"It hit me a few hours later. Basically, early evening after I left the school I started to think back, and it was just disarming.  I thought I was -- I didn't know what I had just gone through.  I was really kind of -- I was still in shock, I think. Then I just kept trying to go through the day because that's what I'm used to.  The kids need you, and you just keep working. That's what we do as teachers.  We just keep working.",a,THE WITNESS,start_question
+146,539,21,20,Was there a point in time where you felt you needed medical care to deal with issues associated with January 2nd?,q,MR. HUTTEMANN,start_answer
+147,542,21,23,I did.,a,THE WITNESS,start_question
+148,543,21,24,Who did you see?,q,MR. HUTTEMANN,start_answer
+149,545,22,1,"I did see my family doctor and then I went to go see Dr. Seidman, a psychologist.",a,THE WITNESS,start_question
+150,547,22,3,Who's the family doctor you went to see?,q,MR. HUTTEMANN,start_answer
+151,549,22,5,Dr. Neal Mermelstein.,a,THE WITNESS,start_question
+152,550,22,6,Did you discuss with him what was going on?,q,MR. HUTTEMANN,start_answer
+153,552,22,8,I think I did.  I don't remember if I saw him fist or Dr. Seidman first.,a,THE WITNESS,start_question
+154,554,22,10,What were your symptoms that led you to feel like you needed treatment from a psychologist?,q,MR. HUTTEMANN,start_answer
+155,557,22,13,I couldn't sleep.  That was the first thing.  I had nightmares.,a,THE WITNESS,start_question
+156,559,22,15,What were the nightmares about?,q,MR. HUTTEMANN,start_answer
+157,560,22,16,That hand coming through that door with a gun and just shooting.,a,THE WITNESS,start_question
+158,562,22,18,"In addition to nightmares, was there anything else that was going on?",q,MR. HUTTEMANN,start_answer
+159,564,22,20,"I would just get flashbacks of somebody coming to the door.  I remember that being a problem for me.  Loud banging.  One night at home it was either backfire of a car or fireworks, and I just jumped.  A book will slam on the floor, I'll jump.",a,THE WITNESS,start_question
+160,571,23,2,Did you have any issues with safety concerns in school following January 2nd?,q,MR. HUTTEMANN,start_answer
+161,573,23,4,I did.,a,THE WITNESS,start_question
+162,574,23,5,What?,q,MR. HUTTEMANN,start_answer
+163,575,23,6,"Well, we don't have enough security in the building.  Those doors are not secure.  I watched a student let a student in one day through that particular door.",a,THE WITNESS,start_question
+164,579,23,10,What door are you talking about?,q,MR. HUTTEMANN,start_answer
+165,580,23,11,This door outside of 150.  It's in the photograph here.,a,THE WITNESS,start_question
+166,582,23,13,On C-Visconi-2?,q,MR. HUTTEMANN,start_answer
+167,583,23,14,"Yes.  There is another bank of doors right outside of that door on the side wall. There is another door to the outside about 100 feet down the hallway.  They're going past these double doors.  It's a red door. If you continue straight and then turn left, there are two more doors within another 75 feet to the outside going through those double doors.  To the right, is a bank of about eight doors to the outside.  There are just doors all over.",a,THE WITNESS,start_question
+168,595,24,1,Did you ever observe any students coming in and out of those doors?,q,MR. HUTTEMANN,start_answer
+169,597,24,3,"On a few occasions, but usually I'm in the classroom, so I don't always get to see that.",a,THE WITNESS,start_question
+170,600,24,6,Was there any particular times where you felt threatened by any situations with the students?,q,MR. HUTTEMANN,start_answer
+171,603,24,9,"No, not my students.",a,THE WITNESS,start_question
+172,604,24,10,Any students in the school?,q,MR. HUTTEMANN,start_answer
+173,605,24,11,No.,a,THE WITNESS,start_question
+174,606,24,12,When did this school day end?,q,MR. HUTTEMANN,start_answer
+175,607,24,13,The school day ends at 2:45.,a,THE WITNESS,start_question
+176,608,24,14,Did the school have after-hour programs?,q,MR. HUTTEMANN,start_answer
+177,610,24,16,Yes.,a,THE WITNESS,start_question
+178,611,24,17,Were you there during the after-hour programs?,q,MR. HUTTEMANN,start_answer
+179,613,24,19,I was.,a,THE WITNESS,start_question
+180,614,24,20,What were the after-hour programs for?,q,MR. HUTTEMANN,start_answer
+181,615,24,21,"The after-hour programs are for those students who did not finish their high school diplomas in a day-school program.  We have what we call the EOP program, Educational Opportunity Program. The Spanish program was put in place about two years after I started, and I was approached by the school to teach that program.  They said to me, we know you like our students and our students will like you. I always felt honored, and I always felt responsibile to take that program when it was offered.",a,THE WITNESS,start_question
+182,629,25,10,Were you teaching that program as of January 2nd?,q,MR. HUTTEMANN,start_answer
+183,631,25,12,I was.,a,THE WITNESS,start_question
+184,632,25,13,How was the security in the after-school program or the EOP program?,q,MR. HUTTEMANN,start_answer
+185,634,25,15,"They set up the metal detector in one place to allow students to come in.  It was found, however, that there were a couple students bypassing, coming in through another door, a back door or such. I approached one of the students one day about that, and he just used expletives and yelled at me, telling me to mind my f'ing business and just teach the f'ing Spanish and don't bother him.  I just immediately thought he had a weapon, a gun.",a,THE WITNESS,start_question
+186,646,26,2,You had observed him entering without going through the metal detector process?,q,MR. HUTTEMANN,start_answer
+187,648,26,4,"The head of the program had mentioned something that these two students were getting in -- two, three, I don't remember -- but I know him in particular was getting in because he was coming in late. After a certain time, that metal detector was shut down, and students were not permitted to come into class.  How he was getting in, no one could figure out.",a,THE WITNESS,start_question
+188,657,26,13,Was this after January 2nd?,q,MR. HUTTEMANN,start_answer
+189,658,26,14,Yes.,a,THE WITNESS,start_question
+190,659,26,15,How many incidents did you have with this student?,q,MR. HUTTEMANN,start_answer
+191,661,26,17,"Well, after that particular day and his yelling at me, I asked he be removed from the classroom.  I don't remember what happened to him.",a,THE WITNESS,start_question
+192,665,26,21,Did you ever have a fear of students bringing a gun into your classroom before January 2nd?,q,MR. HUTTEMANN,start_answer
+193,668,26,24,"No, I did not.",a,THE WITNESS,start_question
+194,670,27,1,Did you complete the school year in the spring of 2019?,q,MR. HUTTEMANN,start_answer
+195,672,27,3,Yes.,a,THE WITNESS,start_question
+196,673,27,4,How did you do over that time?,q,MR. HUTTEMANN,start_answer
+197,674,27,5,"It was a struggle every day in that many nights I didn't sleep well with getting up a few times a night, with nightmares or flashbacks or just seeing different things on the television, just waking up and thinking back on things. I continued to see Dr. Seidman.  I looked forward to that once-a-week meeting because I could talk with him.  I didn't tell anybody; only, I guess, my son knows.  I talked to no one at school.  I told none of my teacher colleagues.  I didn't tell administration because I didn't want them to think I was crazy.",a,THE WITNESS,start_question
+198,688,27,19,"Did you report your issues, nonetheless, to the administration, at least from a Workers' Comp standpoint?",q,MR. HUTTEMANN,start_answer
+199,691,27,22,"We did, yes, I did.",a,THE WITNESS,start_question
+200,692,27,23,When did you do that?,q,MR. HUTTEMANN,start_answer
+201,693,27,24,"That was, I believe, February 12th.",a,THE WITNESS,start_question
+202,695,28,1,Do you recall what you told them when you reported it?,q,MR. HUTTEMANN,start_answer
+203,697,28,3,"I believe I said I just needed -- I did ask for an FMLA, Family Medical Leave.",a,THE WITNESS,start_chat
+204,699,28,5,Who is them?,side_chat,MS. GRANT,start_chat
+205,700,28,6,The school district.,side_chat,THE WITNESS,start_question
+206,703,28,9,Who did you speak to?,q,MR. HUTTEMANN,start_answer
+207,704,28,10,We submitted the papers to the main office.,a,THE WITNESS,start_question
+208,706,28,12,Who gave you the paperwork to submit?,q,MR. HUTTEMANN,start_answer
+209,707,28,13,"I took it off the computer, I think, if I remember.",a,THE WITNESS,start_question
+210,709,28,15,"Who did you submit it to, do you recall?",q,MR. HUTTEMANN,start_answer
+211,711,28,17,"We submitted it to the school district, to the office of -- I can't remember names now.",a,THE WITNESS,start_question
+212,714,28,20,Did you discuss the incident in school in the notice that you gave?,q,MR. HUTTEMANN,start_answer
+213,716,28,22,"No, I did not.",a,THE WITNESS,start_question
+214,717,28,23,What did you advise them?,q,MR. HUTTEMANN,start_answer
+215,718,28,24,I assumed that they received the paperwork from the school district itself.,a,THE WITNESS,start_question
+216,721,29,2,What did you tell them in terms of what medical condition you were suffering from?,q,MR. HUTTEMANN,start_answer
+217,724,29,5,I just asked for time for myself just for health reasons.  I just needed some time off.  I didn't know if it was going to be consecutive.  They ask different questions. I wasn't sure because I've never gone through this before.  I just needed some time to try to get better.,a,THE WITNESS,start_question
+218,731,29,12,"When you say you gave notice, did you indicate that you suffered a work injury or thought you were suffering from a work injury?",q,MR. HUTTEMANN,start_answer
+219,735,29,16,I'm not sure.  I had so many papers. I just know I needed the time off.,a,THE WITNESS,start_question
+220,737,29,18,"On your claim petition, you indicated on February 12th you gave notice, verbally reported your injury to the school administration.",q,MR. HUTTEMANN,start_answer
+221,741,29,22,"I guess I did, yes.  I know the secretary gave me papers, too.  Yeah, one of the secretaries gave me papers.  I forgot about that.",a,THE WITNESS,start_question
+222,746,30,2,Who did you verbally report your injury to?,q,MR. HUTTEMANN,start_answer
+223,748,30,4,"Must have been the -- I guess it was to the principal.  No, I didn't say anything. I guess it was to the secretary.  That's why she gave me the papers.",a,THE WITNESS,start_question
+224,752,30,8,You completed this paperwork and submitted it to someone in the school administration?,q,MR. HUTTEMANN,start_answer
+225,755,30,11,Yes.,a,THE WITNESS,start_question
+226,756,30,12,Did you hear anything back? Did anybody contact you from Workers' Compensation to ask you what had occurred?,q,MR. HUTTEMANN,start_answer
+227,759,30,15,"I did get different letters, yes.",a,THE WITNESS,start_question
+228,760,30,16,Were they from PMA Insurance Company?,q,MR. HUTTEMANN,start_answer
+229,761,30,17,"Yes, they were.",a,THE WITNESS,start_question
+230,762,30,18,Did you speak with anybody at PMA to discuss what had happened?,q,MR. HUTTEMANN,start_answer
+231,764,30,20,"No, I didn't.  I don't remember that, no.  I just received all the documents that said everything was going forward, my FMLA was approved, and that will expire by September 24th. I really, as I said, didn't discuss it with anybody because I was just scared and never felt like this.  I felt they would think I was crazy, and I wanted to keep teaching.",a,THE WITNESS,start_question
+232,775,31,6,Did you continue to treat through the summer?,q,MR. HUTTEMANN,start_answer
+233,777,31,8,"I did, yes.  I take my medication, and I go to see Dr. Seidman.",a,THE WITNESS,start_question
+234,779,31,10,Who prescribes the medication for you?,q,MR. HUTTEMANN,start_answer
+235,780,31,11,Dr. Mermelstein.,a,THE WITNESS,start_question
+236,781,31,12,What is the medication?,q,MR. HUTTEMANN,start_answer
+237,782,31,13,"I take Lorazepam, 5 milligrams, and my citalopram, 10 milligrams.",a,THE WITNESS,start_question
+238,784,31,15,Were you able to return to your teaching job this fall?,q,MR. HUTTEMANN,start_answer
+239,786,31,17,No.,a,THE WITNESS,start_question
+240,787,31,18,Why not?,q,MR. HUTTEMANN,start_answer
+241,788,31,19,"As the summer went on, I was hoping the summer would get better because everybody says you'll get better, you're supposed to get better.  I thought I would get better. It just seems with all the downtime and then all of these shootings that have been going on, everything just all comes back again. I don't go to Walmart now.  I used to go once a week.  I just stay away.  Schools, I make sure I drive -- I live here in the city, and I just make sure I take paths where I don't even see a school.  I just take different roads.  If I know a school is going to be down there, I go a different way. The shooting in north Philly, all I could think was the hostages.  El Paso, Indiana, Orlando, they're just all right there.  These have been happening lately. It's too much. The shooting in the cars, I'm afraid to drive.  My son drove me down today.  The other day, I just thought I was going to die. I was going to the cardiologist.  There had been a shooting around that corner a couple weeks ago.  I felt I just wanted to duck in my car because I thought now they can shoot me anywhere.  It's just gotten progressively worse for me.",a,THE WITNESS,start_question
+242,817,32,23,Do you still have nightmares?,q,MR. HUTTEMANN,start_answer
+243,818,32,24,"I still have the nightmares.  I didn't sleep well last night either.  I think I could be walking my dog.  I had a nightmare about that the other night, walking him. Somebody jumping out of the bushes.  It's just very real for me.",a,THE WITNESS,start_question
+244,825,33,6,"Before January 2nd, had you ever been involved in any sort of an armed robbery or school shooting, any situation where there was a gun involved?",q,MR. HUTTEMANN,start_answer
+245,829,33,10,No.,a,THE WITNESS,start_question
+246,830,33,11,Had you ever treated for anxiety or post-traumatic stress disorder in the past?,q,MR. HUTTEMANN,start_answer
+247,832,33,13,"A little anxiety.  I guess it was a couple years ago.  I guess it was Christmas time.  Just anxious to make sure I had everything in order, trying to juggle school, make sure I had everything for the kids.  The doctor gave me a little -- I don't know what now.  I didn't take it for long, maybe it was a couple weeks.",a,THE WITNESS,start_question
+248,840,33,21,Was that Dr. Mermelstein?,q,MR. HUTTEMANN,start_answer
+249,841,33,22,Yes.,a,THE WITNESS,start_question
+250,842,33,23,Did you have any therapy associated with that anxiety?,q,MR. HUTTEMANN,start_answer
+251,845,34,1,"No, no.  I just needed a little...",a,THE WITNESS,start_question
+252,846,34,2,Had you seen Dr. Seidman and treated with him prior to January of 2019?,q,MR. HUTTEMANN,start_answer
+253,848,34,4,I did.,a,THE WITNESS,start_question
+254,849,34,5,What was that in regard to?,q,MR. HUTTEMANN,start_answer
+255,850,34,6,"I treated with him when I was a forced transfer that year that I spent with those elementary schools.  I didn't know what happened.  I was a little anxious. It was a whole new schedule for me.  I was an appointed teacher for Northeast High School, and in late August I'm told I'm not there anymore.  I had to find schools to go to because at that point the positions were filled.  It was a whole new schedule for me. I had to drive.  It was elementary schools that were available, and I was anxious.",a,THE WITNESS,start_question
+256,862,34,18,How long do you recall seeing Dr. Seidman back then?,q,MR. HUTTEMANN,start_answer
+257,864,34,20,"Just a couple months, few months maybe, couple months.  I don't really remember.",a,THE WITNESS,start_question
+258,867,34,23,"Other than Dr. Mermelstein and Dr. Seidman, have you seen anybody for the issues from January 2nd?",q,MR. HUTTEMANN,start_answer
+259,871,35,2,"No, but I did see my cardiologist.",a,THE WITNESS,start_question
+260,872,35,3,Has your heart condition changed in any way since January 2nd?,q,MR. HUTTEMANN,start_answer
+261,874,35,5,"No, he just said be careful.  I was fearful it was taking a toll on my nerves.",a,THE WITNESS,start_chat
+262,876,35,7,"I don't have any further questions, ma'am.  Thank you.",side_chat,MR. HUTTEMANN,symbols
+263,878,35,9,- - - CROSS-EXAMINATION,symbols,,symbols
+264,880,35,11,- - -,symbols,,start_question
+265,882,35,13,"Good afternoon, Ms. Visconi.  My name is Doreen Grant.  I represent the school district in your Workers' Compensation claim matter. I'm going to ask you a few questions. If you don't understand my questions, let me know.  I'll rephrase them for you.  I just want to make sure you understand what I'm saying so that you can give me an appropriate answer, all right?",q,MS. GRANT,start_answer
+266,892,35,23,Yes.,a,THE WITNESS,start_question
+267,893,35,24,"On January 2, 2019, was there an active shooter found at Northeast High School?",q,MS. GRANT,start_answer
+268,897,36,3,Not to my knowledge.,a,THE WITNESS,start_question
+269,898,36,4,"On January 2, 2019, you described that on that particular day there was a hand that went through the glass pane of your door with a gun. Did that actually happen, or was that your fear?",q,MS. GRANT,start_answer
+270,904,36,10,That's what I pictured happening.,a,THE WITNESS,start_question
+271,905,36,11,"In reality, no one stuck their hand through the window or the glass pane of the door with a gun; is that correct?",q,MS. GRANT,start_answer
+272,908,36,14,That's correct.,a,THE WITNESS,start_question
+273,909,36,15,You described in the picture of C-Visconi-2 a red door?,q,MS. GRANT,start_answer
+274,911,36,17,Yes.,a,THE WITNESS,start_question
+275,912,36,18,Does that door lead to outside or just to a different section of the school?,q,MS. GRANT,start_answer
+276,914,36,20,"No, that leads directly to the outside.",a,THE WITNESS,start_question
+277,916,36,22,You indicated that you visualized students allowing other folks on the outside or I'm assuming other students to come and enter into that door?,q,MS. GRANT,start_answer
+278,921,37,2,"I have seen that, yes.",a,THE WITNESS,start_question
+279,922,37,3,Did you report those findings to administration?,q,MS. GRANT,start_answer
+280,924,37,5,"Yes.  Also -- well, I don't know if I did.  On a different door, I did one day, but not on that door that day.  That was a different day.  That was a different time.",a,THE WITNESS,start_question
+281,928,37,9,Is it safe to say you've never been involved in a school shooting?,q,MS. GRANT,start_answer
+282,930,37,11,That's correct.,a,THE WITNESS,start_question
+283,931,37,12,Did you indicate you were employed with the school district for 16 years; is that correct?,q,MS. GRANT,start_answer
+284,934,37,15,"I was hired September 4, 2003, so this was my 16th year.",a,THE WITNESS,start_question
+285,936,37,17,"When you were initially hired, you were not a certified teacher; is that correct?",q,MS. GRANT,start_answer
+286,939,37,20,That's correct.,a,THE WITNESS,start_question
+287,940,37,21,"But through a program that the school district has and given their shortage of teachers, you were hired and taught while you worked on your certification; is that correct?",q,MS. GRANT,start_answer
+288,946,38,2,That's correct.,a,THE WITNESS,start_question
+289,947,38,3,You were hired on the basis of an emergency teaching permit?,q,MS. GRANT,start_answer
+290,949,38,5,Yes.,a,THE WITNESS,start_question
+291,950,38,6,When did you ultimately get your certification?,q,MS. GRANT,start_answer
+292,952,38,8,I guess it was four or five years in I had my Master's degree and continued to take the classes and did what I had to do.,a,THE WITNESS,start_question
+293,955,38,11,"When you applied to the school district, you were aware that it would be a disproportionate number of students that were inner-city youths?",q,MS. GRANT,start_answer
+294,959,38,15,Yes.,a,THE WITNESS,start_question
+295,960,38,16,That comes along with lower aptitudes?,q,MS. GRANT,start_answer
+296,961,38,17,"Yes, at times.",a,THE WITNESS,start_question
+297,962,38,18,"Those youths also come with, I guess, dysfunction?",q,MS. GRANT,start_answer
+298,964,38,20,Everyone has their...,a,THE WITNESS,start_question
+299,965,38,21,Issues?,q,MS. GRANT,start_answer
+300,966,38,22,Right.,a,THE WITNESS,start_question
+301,967,38,23,"Unfortunately, because you're dealing with inner-city youths, you have more issues with families and things like that --",q,MS. GRANT,start_chat
+302,971,39,2,"I'm just going to object to the lack of foundation, because if she's only taught in Northeast high school, she's really not in a position to --",side_chat,MR. HUTTEMANN,start_chat
+303,975,39,6,"Well, I'm speaking of Northeast High School.",side_chat,MS. GRANT,start_chat
+304,977,39,8,"She has no idea what other student bodies are.  If you're saying that there's more issues there, I don't know there is a foundation for that.",side_chat,MR. HUTTEMANN,start_chat
+305,981,39,12,"I wouldn't say unfortunately.  I love teaching there, and I love teaching my students.  They're kids. They're teenagers.  I say I just want to be a little part of your life that you can go on and say I learned something, and that we would have a fun time together and learning time together, so I miss them.",side_chat,THE WITNESS,start_question
+306,990,39,21,"The students that you did teach over the years, did they ever have disciplinary issues or problems during your class?",q,MS. GRANT,start_answer
+307,993,39,24,"They've had their issues, as teenagers do.  Of course, we as teachers, are just asked to write corrections do what we have to do to try to keep them coming back.  But they would always come to class, so I always had a full house.",a,THE WITNESS,start_question
+308,1000,40,6,Are you aware that the school district has had in the past what we call a list of schools that were deemed persistently dangerous and was on such a list?,q,MS. GRANT,start_answer
+309,1004,40,10,"I knew about the list, but I didn't know all the schools that were on it.  I really didn't pay attention to that because I wouldn't have gone to the school district if I was afraid of that.",a,THE WITNESS,start_question
+310,1009,40,15,But you were aware that there was some Philly schools that were on that persistently dangerous list?,q,MS. GRANT,start_answer
+311,1012,40,18,I heard that.,a,THE WITNESS,start_question
+312,1013,40,19,Are you aware of whether or not Northeast High School was on that particular list?,q,MS. GRANT,start_answer
+313,1016,40,22,"I really wasn't, no.",a,THE WITNESS,start_question
+314,1017,40,23,"Now, the school district employs resources, such as school police, school resource officers, and metal detectors, in attempt to cure violence in the schools, correct?",q,MS. GRANT,start_answer
+315,1023,41,4,Yes.,a,THE WITNESS,start_question
+316,1024,41,5,Would you agree with me that the metal detectors are used to detect individuals and students that possess items such as knives and firearms?,q,MS. GRANT,start_answer
+317,1028,41,9,"Well, I understood that those metal detectors were to prevent any harmful items to come through the door, whatever they may be, for instance.",a,THE WITNESS,start_question
+318,1032,41,13,"Specifically, with respect to Northeast High, you indicated that, of the 16 years, you spent 15 years at that school?",q,MS. GRANT,start_answer
+319,1035,41,16,Yes.,a,THE WITNESS,start_question
+320,1036,41,17,Do they have school police or resource officers?,q,MS. GRANT,start_answer
+321,1038,41,19,At Northeast High School?,a,THE WITNESS,start_question
+322,1039,41,20,Yes.,q,MS. GRANT,start_answer
+323,1040,41,21,Yes.,a,THE WITNESS,start_question
+324,1041,41,22,"I believe you indicated this, but the students at your school also have to go through metal detectors?",q,MS. GRANT,start_answer
+325,1045,42,1,"They do upon entry in the morning, yes.",a,THE WITNESS,start_question
+326,1047,42,3,"When you say entry in the morning, if a student came through late at noon, would they still have to enter into a particular area and go through metal detectors, as well?",q,MS. GRANT,start_answer
+327,1051,42,7,"To my knowledge, they are asked to come through the front door where there is a metal detector in place because, of course, we have visitors and guests who come through, as well.  Everyone is put through that. Teachers have talked, and we find from records that sometimes students do get in the building and didn't swipe through with their ID card.  How they get in, I don't know.",a,THE WITNESS,start_question
+328,1060,42,16,"You, as a teacher, given the fact that you have metal detectors, you have the school police and the resource officers, have you been instructed on what to do if violence occurs in your high school?",q,MS. GRANT,start_answer
+329,1065,42,21,"No, not to my knowledge.",a,THE WITNESS,start_question
+330,1066,42,22,"Say a fight broke out.  Are you instructed whether or not to contact the guidance office, the resource officers? What would be your steps?",q,MS. GRANT,start_answer
+331,1071,43,2,"If a fight breaks out, we're to call security.",a,THE WITNESS,start_question
+332,1073,43,4,You have a phone in your room?,q,MS. GRANT,start_answer
+333,1074,43,5,"Yes, there are phones in the rooms.",a,THE WITNESS,start_question
+334,1075,43,6,"Does the school district including Northeast High, do they employ the slogan: If you see something, say something?",q,MS. GRANT,start_answer
+335,1078,43,9,I'm not sure about that.,a,THE WITNESS,start_question
+336,1079,43,10,You haven't heard that slogan at your school at all?,q,MS. GRANT,start_answer
+337,1081,43,12,"I've heard the slogan, but I can't say at school.  That, I don't recall.",a,THE WITNESS,start_question
+338,1083,43,14,Do you attend school assemblies when the students receive instructions regarding school safety and things of that nature?,q,MS. GRANT,start_answer
+339,1086,43,17,"I attend assemblies, as required.  I don't remember any safety assemblies.",a,THE WITNESS,start_question
+340,1088,43,19,"Northeast High, do they have school drills?",q,MS. GRANT,start_answer
+341,1090,43,21,What kind of drills?,a,THE WITNESS,start_question
+342,1091,43,22,I'm asking you.,q,MS. GRANT,start_answer
+343,1092,43,23,We have fire drills.,a,THE WITNESS,start_question
+344,1093,43,24,You recall having fire drills?,q,MS. GRANT,start_answer
+345,1095,44,1,Yes.,a,THE WITNESS,start_question
+346,1096,44,2,What do you do in the case of a fire drill?,q,MS. GRANT,start_answer
+347,1098,44,4,"In case of a fire drill, we direct the children, depending on the room you're in -- because we're in different rooms -- depending on the room, we follow the instructions to get the students outside as quickly as possible, turn off all the lights, turn off air-conditioners, if they're on, close and lock the doors and take your attendance book with you.",a,THE WITNESS,start_question
+348,1107,44,13,Have you ever participated in a lockdown or shelter in place drill?,q,MS. GRANT,start_answer
+349,1109,44,15,Not that I remember.,a,THE WITNESS,start_question
+350,1110,44,16,Not that you remember?,q,MS. GRANT,start_answer
+351,1111,44,17,I don't.  I really don't.,a,THE WITNESS,start_question
+352,1112,44,18,I believe you offered instructions on direct on what's supposed to happen on a shelter in place or lockdown drill?,q,MS. GRANT,start_answer
+353,1115,44,21,Yes.,a,THE WITNESS,start_question
+354,1116,44,22,Can you tell me what's supposed to happen in your classroom when that drill is in effect?,q,MS. GRANT,start_answer
+355,1120,45,1,"We're to lock the door, turn off the lights -- maybe this is not in the right order -- pull down shades, at least cover windows, gather students as far away from the door or visibility as possible.",a,THE WITNESS,start_question
+356,1125,45,6,"Is that what you recall doing on January 9, 2019?",q,MS. GRANT,start_answer
+357,1127,45,8,On January 2nd.,a,THE WITNESS,start_question
+358,1128,45,9,"I'm sorry, January 2, 2019.",q,MS. GRANT,start_answer
+359,1129,45,10,"I remember I keep looking at that door without the glass.  I remember just trying to do the best I could.  I remember getting the students over to the wall, turning off the lights, closing the door and just trying to keep them quiet.  I knew the windows on the other side, somebody could look in and see them.  So I just wanted them as quiet as possible.  Then we moved that locker to the door.",a,THE WITNESS,start_question
+360,1139,45,20,You indicated that there was an announcement on January 2nd over the PA system?,q,MS. GRANT,start_answer
+361,1142,45,23,Yes.,a,THE WITNESS,start_question
+362,1143,45,24,"Was there also sirens going off or lights flashing, anything like that that occurred?",q,MS. GRANT,start_answer
+363,1147,46,3,"No, I don't think we have that kind of a system.",a,THE WITNESS,start_question
+364,1149,46,5,"You'd be relying on the PA system, someone coming over to tell you?",q,MS. GRANT,start_answer
+365,1151,46,7,Yes.,a,THE WITNESS,start_question
+366,1152,46,8,Do you recall at all what was said over the PA system?,q,MS. GRANT,start_answer
+367,1154,46,10,I couldn't remember if -- I can't remember if it was lockdown or shelter in place.,a,THE WITNESS,start_question
+368,1157,46,13,Is it your testimony that you didn't know if it was a drill or a real-life occurrence?,q,MS. GRANT,start_answer
+369,1160,46,16,That's correct.  The only other signal was that helicopter in the sky that stayed in that place.  It wasn't like an airplane flying over.  It just stayed in that place. It was very eerie.,a,THE WITNESS,start_question
+370,1165,46,21,The Philadelphia Police showed up?,q,MS. GRANT,start_answer
+371,1166,46,22,"Yes, whoever's helicopter is up there.",a,THE WITNESS,start_question
+372,1167,46,23,You indicated that there were two police officers that came to your room?,q,MS. GRANT,start_answer
+373,1170,47,1,"In the finale, when I thought it was over, yes.",a,THE WITNESS,start_question
+374,1172,47,3,Did you have a discussion with the police officers indicating that the drill or the lockdown procedure was essentially over and the building was cleared?,q,MS. GRANT,start_answer
+375,1176,47,7,"Well, they didn't really say much. They busted in, as I said, which was shattering; best you could do, you could die in here. There was no other conversation, and they just cleared.  There are over 200 rooms in the building, and I understand they were going room to room.",a,THE WITNESS,start_question
+376,1184,47,15,Why do you believe they indicated that you were going to die in there?,q,MS. GRANT,start_answer
+377,1186,47,17,Because of the metal gradings that are permanently attached to the window.,a,THE WITNESS,start_question
+378,1188,47,19,Meaning you couldn't get out of the window?,q,MS. GRANT,start_answer
+379,1190,47,21,Correct.,a,THE WITNESS,start_question
+380,1191,47,22,"You had one way in and one way out of the room, and that would have been through that door?",q,MS. GRANT,start_answer
+381,1195,48,1,That's correct.,a,THE WITNESS,start_question
+382,1196,48,2,"After the police officers left your room, you began to go back to normal procedures, getting the students together so that they could go on to their next classroom?",q,MS. GRANT,start_answer
+383,1201,48,7,"That's correct, as I remember.",a,THE WITNESS,start_question
+384,1202,48,8,"You don't recall or do you recall whether or not a person came on the PA system that indicated that this is what we're going to do next, particularly since you were off schedule?",q,MS. GRANT,start_answer
+385,1207,48,13,"I don't remember that at all.  I don't remember.  We must have been given some kind of directive to know where to go next because of the schedule, but I don't really remember.",a,THE WITNESS,start_question
+386,1211,48,17,You indicated earlier on direct that you received text messages from friends indicating that there was a suspected gunman in the building. What friends were those?  Other teachers that you were working with?,q,MS. GRANT,start_answer
+387,1217,48,23,No.,a,THE WITNESS,start_question
+388,1218,48,24,Were those friends outside of the school?,q,MS. GRANT,start_answer
+389,1221,49,2,There were one or two from the outside that said be careful.  They said there is a shooter in your building.,a,THE WITNESS,start_question
+390,1224,49,5,Those friends would have not had any personal knowledge of what was going on in the building?,q,MS. GRANT,start_answer
+391,1227,49,8,"No.  Apparently, it had hit the news, and that's where my students were getting their texts from.  They're very fast, much faster than me.  I have a flip phone, so I don't get the news feed the way they were getting it.",a,THE WITNESS,start_question
+392,1233,49,14,"Whether on January 2nd or thereafter, was there an official word from your school as to what occurred or did not occur?",q,MS. GRANT,start_answer
+393,1236,49,17,I don't remember that at all.,a,THE WITNESS,start_question
+394,1237,49,18,"That's fine.  Now, during that time in January of 2019 and shortly before, you received a suspension without pay and issued a warning following a complaint from a student; is that correct?",q,MS. GRANT,start_answer
+395,1242,49,23,No.,a,THE WITNESS,start_question
+396,1243,49,24,You did not?,q,MS. GRANT,start_answer
+397,1245,50,1,"I did not.  I did not receive a suspension.  I did receive a warning.  I did not receive a suspension or loss of pay.  The union did appeal that because the school didn't do, in a timely fashion, what they needed to do, so that's on appeal. We understand there's no mediator there at the school district, so it's going to take some time.  But everything was rectified.",a,THE WITNESS,start_question
+398,1255,50,11,What was the allegation against you that caused the warning?,q,MS. GRANT,start_answer
+399,1257,50,13,There were a couple meetings that the assistant principal set up for me that I did not attend.,a,THE WITNESS,start_question
+400,1260,50,16,What were those meetings for and what did they surround?,q,MS. GRANT,start_answer
+401,1262,50,18,"The assistant principal was new to our building.  There were certain procedures that we, in our department, would follow.  One of my students needed to have a more advanced Spanish class.  Within the department, we usually just take them to a teacher.  We talk about it first, and then the teacher takes them on.  We just make the changes from there. The parent, in the meantime, had come in to talk about the student being moved. She wanted her daughter moved.  We made the move for a day or so.  The student came back to me. When Mr. Greaves called me in to look at my lesson plans, my syllabus, the syllabus, as I told him, was online.  We use the same syllabus for world language.  My lesson plans, I always keep on my desk.  I know the school started to ask to have them e-mailed to them, but I always keep them on my desk.  That's what I've been doing for so many years.  I feel, if somebody walks in, they would be able to see them right there. In turn, I don't know what the meeting was.  I didn't go to that meeting.  I did have a meeting with Mr. Crowder, and then we did have a meeting.  That seemed to be okay. The school district came in. I think Mr. Greaves had some students write me up.  They had write-ups, and the representative from the school district said we see that everyone is saying you're teaching.  You're teaching.  We just need to see your lesson plans. Ms. McGowan, who is my union rep, said Ms. Visconi has been here so many years.  She leaves her lessons plans on her desk.  I just feel it was a miscommunication.  Those things happen all the time.  Mr. Greaves did re-evaluate me this year for my lessons and gave me two lovely evaluations.",a,THE WITNESS,start_question
+402,1306,52,12,Was there any allegations that you cursed in class and sexually harassed a student?,q,MS. GRANT,start_answer
+403,1309,52,15,"This was an incident, and the way that was portrayed in the writing wasn't actually correct.  I told Dr. Seidman.  I share so much with him.  He's doing the best with what I told him. I asked a group of young men to stop brushing their hair one day in class.  The one in particular got up and walked past me and said you're just a B.  Go F yourself.  I said please leave the room. That turned into, again, having a few students write me up; his friends, who agreed with him.  It ended up that Mr. Greaves had to get other students to submit paperwork saying I didn't curse at them. As I said to Mr. Greaves in our meeting, again with the school district and again with my union rep, I've always had a professional position; hospital industry and utility at PECO doing public service announcements, having my own office. For me to go into a school after 31 years of teaching -- first half of my life I was not in the school district -- I think to start cursing at students would be very much out of character.  If anything, as a language teacher, I teach them to speak with dignity, speak with grace.",a,THE WITNESS,start_question
+404,1338,53,19,What about the sexual harassment allegations?,q,MS. GRANT,start_answer
+405,1340,53,21,"I don't know what that was about.  I guess he thought the young man was sexually harassing me through his language and through the words he would use in class.  But, no, no, no.  We just took that Act 126 test, so I know what that looks like.",a,THE WITNESS,start_question
+406,1347,54,3,You were involved in the grievance proceedings on or around the time of this January 2nd incident?,q,MS. GRANT,start_answer
+407,1350,54,6,Yes.,a,THE WITNESS,start_question
+408,1351,54,7,"Now, as a result of those allegations of the students and dealing with your administration, that in and of itself, were you experiencing an increase in anxiety or depressive feelings, anything of that nature?",q,MS. GRANT,start_answer
+409,1356,54,12,"No, because I've been doing this for years.  Students who fly off the handle -- I've been cursed at before.  I've had students say to me, why did you let so-and-so talk to you like that or say that.  I always go back to everybody has issues.  Everybody has their problems.  You don't know what they come to class that day. I have to be the stable one.  I have to be the one to take that brunt because they have nowhere else to vent.",a,THE WITNESS,start_question
+410,1367,54,23,"What about having to go through that process with the administration, does that cause you any angst or anxiety, depressive feelings?",q,MS. GRANT,start_answer
+411,1372,55,3,"It wasn't the most fun, but I know who I am.  I know what I present in the classroom because I'm very professional.  I knew that things would be resolved.  It might have taken time and been frustrating on the way, but I know the truth always shows through. It just doesn't compare to January 2nd.",a,THE WITNESS,start_question
+412,1379,55,10,"I believe you testified to this, but from January 2, 2019 you continued to work through the last day of the school year in June 2019?",q,MS. GRANT,start_answer
+413,1383,55,14,"I did, yes.",a,THE WITNESS,start_question
+414,1384,55,15,"That also included that after-school program that you mentioned that you were teaching. Did you do that until the end of the school year, as well?",q,MS. GRANT,start_answer
+415,1389,55,20,I did.,a,THE WITNESS,start_question
+416,1390,55,21,"Now, you indicated that you spoke with the secretary because you got papers from the secretary in February 2019; is that correct?",q,MS. GRANT,start_answer
+417,1393,55,24,"I believe so.  Dates right now, I just can't remember everything.",a,THE WITNESS,start_question
+418,1396,56,2,Do you recall where you got the paperwork?  I'm assuming this is FMLA paperwork. What paperwork are we talking about?,q,MS. GRANT,start_answer
+419,1400,56,6,"I believe it was in the main office from our secretary, one of our secretaries.",a,THE WITNESS,start_question
+420,1402,56,8,"You got FMLA from the secretary, and when you completed that paperwork, you would have sent it down to the administration building?",q,MS. GRANT,start_answer
+421,1406,56,12,Yes.,a,THE WITNESS,start_question
+422,1407,56,13,It wouldn't have gone back to Northeast High School; it went to the administration building?,q,MS. GRANT,start_answer
+423,1410,56,16,"That's correct, as I remember.",a,THE WITNESS,start_question
+424,1411,56,17,Was it Dr. Seidman that completed the FMLA paperwork for you?,q,MS. GRANT,start_answer
+425,1413,56,19,"Yes, he did.",a,THE WITNESS,start_question
+426,1414,56,20,You indicated around about that time with Dr. Seidman you had difficulty focussing and concentrating given your high level or anxiety and lack of sleep?,q,MS. GRANT,start_answer
+427,1418,56,24,Yes.,a,THE WITNESS,start_question
+428,1420,57,1,Do you at all generally work during the summer?,q,MS. GRANT,start_answer
+429,1422,57,3,"No, I wasn't granted work, and I didn't apply this year at all.",a,THE WITNESS,start_question
+430,1424,57,5,Did you work the summer previously?,q,MS. GRANT,start_answer
+431,1425,57,6,No.,a,THE WITNESS,start_question
+432,1426,57,7,You indicated that your FMLA paperwork expires as of September 24th?,q,MS. GRANT,start_answer
+433,1428,57,9,Yes.,a,THE WITNESS,start_question
+434,1429,57,10,Do you anticipate returning back to work?,q,MS. GRANT,start_answer
+435,1431,57,12,"At this point, I'm going to ask for an extension on my FMLA.",a,THE WITNESS,start_question
+436,1433,57,14,You testified that you treated with Dr. Seidman in the past; is that correct?,q,MS. GRANT,start_answer
+437,1435,57,16,That's correct.,a,THE WITNESS,start_question
+438,1436,57,17,Was that back in 2012?,q,MS. GRANT,start_answer
+439,1437,57,18,Yes.,a,THE WITNESS,start_question
+440,1438,57,19,"What complaints were you feeling in 2012, or what symptoms, I guess, is the better word?",q,MS. GRANT,start_answer
+441,1441,57,22,"I was anxious about starting a new job in a new place with the school district because I was always there at Northeast High School.  It came as such a shock. I guess if I knew months ahead I was going out, you could make preparation. Finding out on such short notice and then looking through the chart and they said I had to come up with some combination to keep my job to keep working.  I had to match the schools, get the approval of the principals. It was a short window to get that done.  It was two weeks. Then readjusting to it.  It was elementary schools that were the only ones available.  So I had to change my whole curriculum.  I taught elementary Spanish before.  I'm certified K through 12 with language.  That wasn't the problem.  It was just getting accustomed to a new program.",a,THE WITNESS,start_question
+442,1462,58,18,Were you prescribed any medications around that time for your mental status at that point in time?,q,MS. GRANT,start_answer
+443,1465,58,21,"I was, one little thing, but I can't remember.  It was in the paperwork.  I don't remember what it was because I didn't take it for that long.  I guess maybe I took it a month or two, as needed.",a,THE WITNESS,start_question
+444,1471,59,2,It was Dr. Mermelstein who prescribed it?,q,MS. GRANT,start_answer
+445,1473,59,4,"Yes.  Once I got acclimated to the schedule, I was okay.  I made new friends. You just do what you do as a teacher.",a,THE WITNESS,start_question
+446,1476,59,7,"Other than that period around 2012, were you ever under a psychiatrist or psychologist's care?",q,MS. GRANT,start_answer
+447,1479,59,10,No.,a,THE WITNESS,start_question
+448,1480,59,11,"In the past before January 2, 2019, were you ever diagnosed with PTSD?",q,MS. GRANT,start_answer
+449,1482,59,13,No.,a,THE WITNESS,start_question
+450,1483,59,14,How about anxiety?,q,MS. GRANT,start_answer
+451,1484,59,15,"Slight anxiety, I guess, when the doctor gave me the medication for the school move.",a,THE WITNESS,start_question
+452,1487,59,18,In 2012?,q,MS. GRANT,start_answer
+453,1488,59,19,Yes.,a,THE WITNESS,start_question
+454,1489,59,20,Any other time?,q,MS. GRANT,start_answer
+455,1490,59,21,"No -- yes -- no, no.",a,THE WITNESS,start_question
+456,1491,59,22,"How about depression, ever diagnosed with depression?",q,MS. GRANT,start_answer
+457,1493,59,24,No.,a,THE WITNESS,start_question
+458,1495,60,1,The only psychologist or psychiatrist that you've ever treated with has been with Dr. Seidman?,q,MS. GRANT,start_answer
+459,1498,60,4,Yes.,a,THE WITNESS,start_question
+460,1499,60,5,"Have you ever treated with a counsellor, whether it be in a religious organization or just someone you know or what have you?  Have you ever sought treatment in that type of capacity?",q,MS. GRANT,start_answer
+461,1504,60,10,No.  I didn't want to talk to anybody about this.,a,THE WITNESS,start_question
+462,1506,60,12,Have you ever been institutionalized for psychological reasons in the past?,q,MS. GRANT,start_answer
+463,1508,60,14,No.,a,THE WITNESS,start_question
+464,1509,60,15,"In 2017, were you involved in an incident at Home Depot?",q,MS. GRANT,start_answer
+465,1511,60,17,I was.,a,THE WITNESS,start_question
+466,1512,60,18,Was that February 2017?,q,MS. GRANT,start_answer
+467,1513,60,19,I guess it was.,a,THE WITNESS,start_question
+468,1514,60,20,Did you file a claim and are represented by an attorney for that particular claim?,q,MS. GRANT,start_answer
+469,1517,60,23,Yes.,a,THE WITNESS,start_question
+470,1518,60,24,Are you in active litigation for that?,q,MS. GRANT,start_answer
+471,1520,61,1,It was settled.,a,THE WITNESS,start_question
+472,1521,61,2,When did you settle that case?,q,MS. GRANT,start_answer
+473,1522,61,3,"We settled in March, maybe.",a,THE WITNESS,start_question
+474,1523,61,4,Of this year?,q,MS. GRANT,start_answer
+475,1524,61,5,Yes.,a,THE WITNESS,start_question
+476,1525,61,6,"As a result of that claim, I guess you alleged that molding struck your face?",q,MS. GRANT,start_answer
+477,1527,61,8,Yes.,a,THE WITNESS,start_question
+478,1528,61,9,"That caused postconcussion syndrome, vertigo, memory issues and hearing loss?",q,MS. GRANT,start_answer
+479,1530,61,11,"Yes.  The doctors and the lawyers knew my only concern -- and the Home Depot representative -- knew my main concern was that my health was taken care of, that my medical bills were taken care of.  I wanted to make sure I didn't have any mental problems, any kind of embolism, loss of hearing, because that wood came down and hit me and I got scared.",a,THE WITNESS,start_question
+480,1539,61,20,What symptoms did you experience as a result of that incident?,q,MS. GRANT,start_answer
+481,1541,61,22,"I lost a little bit of -- I thought I was forgetting my words a little bit.  My hearing a little bit on the one side was off a little.  Little headaches.  Because when it first hit, I got pounded.  That was it. I know from a friend of mine, who was hit in the head, sometimes it's recurring. Getting older, I didn't want to have any future problems.  I asked to see the doctor, and he said get a lawyer so that the medical part can be taken care of.  Everything was taken care of.",a,THE WITNESS,start_question
+482,1554,62,10,Did you allege any sleep dysfunction as a result of that incident?,q,MS. GRANT,start_answer
+483,1556,62,12,"No, I don't think so.  I don't remember.",a,THE WITNESS,start_question
+484,1558,62,14,Are you actively treating for those conditions at all?,q,MS. GRANT,start_answer
+485,1560,62,16,No.  Thank God everything was fine.,a,THE WITNESS,start_question
+486,1561,62,17,Did you lose time from work as a result of that incident?,q,MS. GRANT,start_answer
+487,1563,62,19,I did not.,a,THE WITNESS,start_question
+488,1564,62,20,"Since the January 2, 2019 incident, has anything else affected your life to cause you anxiety or depressive symptoms?",q,MS. GRANT,start_answer
+489,1567,62,23,No.  I just keep going back to that day.  It was just the worst day of my life.,a,THE WITNESS,start_question
+490,1570,63,1,"Now, you've been with the school district for 16 years. Have you filed previously for Workers' Compensation benefits?",q,MS. GRANT,start_answer
+491,1574,63,5,I filed when I had the heart attack in school.,a,THE WITNESS,start_question
+492,1576,63,7,Was that claim denied?,q,MS. GRANT,start_answer
+493,1577,63,8,It was.,a,THE WITNESS,start_question
+494,1578,63,9,Was that the only other claim you've filed while working for the school district?,q,MS. GRANT,start_answer
+495,1580,63,11,Yes.,a,THE WITNESS,start_question
+496,1581,63,12,Are you receiving any Short-Term or Long-Term Disability benefits?,q,MS. GRANT,start_answer
+497,1583,63,14,No.,a,THE WITNESS,start_question
+498,1584,63,15,Unemployment benefits?,q,MS. GRANT,start_answer
+499,1585,63,16,No.,a,THE WITNESS,start_question
+500,1586,63,17,Any other earnings?,q,MS. GRANT,start_answer
+501,1587,63,18,No.,a,THE WITNESS,start_question
+502,1588,63,19,"Self-employment income, anything like that?",q,MS. GRANT,start_answer
+503,1590,63,21,No.,a,THE WITNESS,start_question
+504,1591,63,22,How do you currently support yourself?,q,MS. GRANT,start_answer
+505,1592,63,23,My payroll from school.,a,THE WITNESS,start_question
+506,1593,63,24,You're on salary continuation at this time?,q,MS. GRANT,start_answer
+507,1596,64,2,I don't have continuation.,a,THE WITNESS,start_question
+508,1597,64,3,You said you're on payroll from school?,q,MS. GRANT,start_answer
+509,1599,64,5,School district pay is how I support myself.,a,THE WITNESS,start_question
+510,1601,64,7,"Since you didn't return to the school district at the top of this school year, are you receiving any moneys from the school district now?",q,MS. GRANT,start_answer
+511,1605,64,11,No.,a,THE WITNESS,start_question
+512,1606,64,12,"Like sick time, vacation time, personal time, continuation, any of that?",q,MS. GRANT,start_answer
+513,1608,64,14,I'm using my personal days and my sick time.  I probably will reactivate my FMLA for the second half.,a,THE WITNESS,start_question
+514,1611,64,17,Have you applied for or received Social Security Disability benefits?,q,MS. GRANT,start_answer
+515,1613,64,19,No.,a,THE WITNESS,start_chat
+516,1614,64,20,That's all the questions I have.  Thank you.,side_chat,MS. GRANT,start_chat
+517,1616,64,22,I have nothing further.,side_chat,MR. HUTTEMANN,symbols
+518,1618,64,24,- - -,symbols,,is brackets
+519,1620,65,1,"(Whereupon, the deposition concluded at 1:25 p.m.)",brackets,,symbols
+520,1622,65,3,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 6, 2019, and that this is a correct transcription of same.",symbols,,end

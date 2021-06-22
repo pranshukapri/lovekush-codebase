@@ -1,0 +1,918 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, sign?,,,start_chat
+1,151,5,16,Sure.,side_chat,MR. PESKIN,start_chat
+2,152,5,17,Otherwise time is waived.  Excellent.,side_chat,MR. BUCKLEY,start_question
+3,155,5,20,Good morning.,q,MR. BUCKLEY,start_answer
+4,156,5,21,Good morning.,a,THE WITNESS,start_question
+5,157,5,22,Could you please state your full name.,q,MR. BUCKLEY,start_answer
+6,158,5,23,Madelyn Suzanne Davidson.,a,THE WITNESS,start_question
+7,159,5,24,"Miss Davidson, my name is Dan Buckley, and I represent a company called OSJ of North Adams, LLC, which is essentially Ocean State Job Lot, regarding a lawsuit which was filed by both Ted and Susan Davidson regarding an incident of May of 2015.",q,MR. BUCKLEY,start_answer
+8,167,6,5,Mm-hmm.,a,THE WITNESS,start_question
+9,168,6,6,Have you ever been to a deposition before?,q,MR. BUCKLEY,start_answer
+10,169,6,7,No.,a,THE WITNESS,start_question
+11,170,6,8,"Okay.  Attorney Peskin may have explained it to you, but essentially I'm going to be asking you some questions this morning.  Hopefully you will be answering to the best of your ability. ""I don't know"" is a perfectly acceptable answer.  If you don't know something, just let me know.  I don't want you to guess or anything like that because it may be wrong, and we're just here for truthful, factual information. I don't expect to be too long, but if you do want to take a break, stretch your legs, use the restroom, speak with Attorney Peskin, please let me know.  Okay?",q,MR. BUCKLEY,start_answer
+12,183,6,21,Okay.,a,THE WITNESS,start_question
+13,184,6,22,"All right.  To my right and your left is a court reporter which is taking down everything we all say.  It's a difficult job, so we try to not step on each other's questions or answers.  And I know in everyday conversation, we all talk over one another, but I would ask that you wait till I finish my question before you start answering, and I will try to do the same thing.  Fair enough?",q,MR. BUCKLEY,start_answer
+14,195,7,6,Mm-hmm.,a,THE WITNESS,start_question
+15,196,7,7,"Okay.  And I know you're doing it right now, just nodding and saying ""mm-hmm"" to mean, ""I understand what you're saying,"" but when I ask questions, you're going to have to say ""yes"" or ""no"" because the court reporter can't take down an ""mm-hmm.""  So I may just follow up with is that a ""yes"" or is that a ""no,"" so we have an accurate transcript.  Fair enough?",q,MR. BUCKLEY,start_answer
+16,204,7,15,Yes.,a,THE WITNESS,start_question
+17,205,7,16,What is your current address?,q,MR. BUCKLEY,start_answer
+18,206,7,17,1750 Northampton Street in Holyoke.,a,THE WITNESS,start_question
+19,207,7,18,Okay.  And how long have you lived there?,q,MR. BUCKLEY,start_answer
+20,208,7,19,For about a year and a half.,a,THE WITNESS,start_question
+21,209,7,20,And who do you live there with?,q,MR. BUCKLEY,start_answer
+22,210,7,21,"I live there with my mom, Susan Davidson, and my dad, Ted Davidson.",a,THE WITNESS,start_question
+23,212,7,23,"Okay.  And how long have you lived there -- excuse me, how long have you lived with your parents?",q,MR. BUCKLEY,start_answer
+24,218,8,2,Since I was born.,a,THE WITNESS,start_question
+25,219,8,3,Okay.,q,MR. BUCKLEY,start_answer
+26,220,8,4,In 1996.,a,THE WITNESS,start_question
+27,221,8,5,1996?,q,MR. BUCKLEY,start_answer
+28,222,8,6,Mm-hmm.,a,THE WITNESS,start_question
+29,223,8,7,So does that make you 23?,q,MR. BUCKLEY,start_answer
+30,224,8,8,"Yes, almost.",a,THE WITNESS,start_question
+31,225,8,9,Okay.  And where did you live before the Holyoke address?,q,MR. BUCKLEY,start_answer
+32,227,8,11,I lived in Goshen.,a,THE WITNESS,start_question
+33,228,8,12,With your parents?,q,MR. BUCKLEY,start_answer
+34,229,8,13,Yep.,a,THE WITNESS,start_question
+35,230,8,14,Can you give me a brief description of your education?,q,MR. BUCKLEY,start_answer
+36,232,8,16,"I have my high school education, and I also -- while I was in high school -- have a trade education.",a,THE WITNESS,start_question
+37,235,8,19,So did you go to a technical school?,q,MR. BUCKLEY,start_answer
+38,236,8,20,Yes.,a,THE WITNESS,start_question
+39,237,8,21,Okay.  Which technical school?,q,MR. BUCKLEY,start_answer
+40,238,8,22,Smith Vocational.,a,THE WITNESS,start_question
+41,239,8,23,All right.  Did you take certain classes on a certain trade or vocation?,q,MR. BUCKLEY,start_answer
+42,244,9,1,Yes.,a,THE WITNESS,start_question
+43,245,9,2,What was that?,q,MR. BUCKLEY,start_answer
+44,246,9,3,Cosmetology.,a,THE WITNESS,start_question
+45,247,9,4,Did you pursue any further education beyond high school or vocational school?,q,MR. BUCKLEY,start_answer
+46,249,9,6,No.,a,THE WITNESS,start_question
+47,250,9,7,Are you currently employed?,q,MR. BUCKLEY,start_answer
+48,251,9,8,Yes.,a,THE WITNESS,start_question
+49,252,9,9,And where do you work?,q,MR. BUCKLEY,start_answer
+50,253,9,10,I work at Ochoa Salon.,a,THE WITNESS,start_question
+51,254,9,11,And what do you do at Ochoa?,q,MR. BUCKLEY,start_answer
+52,255,9,12,I'm a hairstylist.,a,THE WITNESS,start_question
+53,256,9,13,And how long have you been a hairstylist at Ochoa?,q,MR. BUCKLEY,start_answer
+54,258,9,15,Two and a half years.,a,THE WITNESS,start_question
+55,259,9,16,Do you have any forms of social media?,q,MR. BUCKLEY,start_answer
+56,260,9,17,Yes.,a,THE WITNESS,start_question
+57,261,9,18,Okay.  Which ones?,q,MR. BUCKLEY,start_answer
+58,262,9,19,"I have an Instagram and a Facebook, and I have a Snapchat as well.",a,THE WITNESS,start_question
+59,264,9,21,And how long have they been active?,q,MR. BUCKLEY,start_answer
+60,265,9,22,"Facebook, I want to say -- let me think. About nine years for Facebook.",a,THE WITNESS,start_question
+61,267,9,24,That's all right if you don't know.,q,MR. BUCKLEY,start_answer
+62,271,10,1,Five years for Instagram and a couple months for the Snapchat.,a,THE WITNESS,start_question
+63,273,10,3,In preparation for this deposition did you review any documents or read anything?,q,MR. BUCKLEY,start_answer
+64,275,10,5,No.,a,THE WITNESS,start_question
+65,276,10,6,Okay.  Are you aware that both your parents and your sister Hannah were deposed in this case?,q,MR. BUCKLEY,start_answer
+66,279,10,9,Yes.,a,THE WITNESS,start_question
+67,280,10,10,Did you read their deposition transcripts?,q,MR. BUCKLEY,start_answer
+68,281,10,11,No.,a,THE WITNESS,start_question
+69,282,10,12,"Okay.  In preparation for this deposition, other than Attorney Peskin, did you speak with anybody?",q,MR. BUCKLEY,start_answer
+70,285,10,15,No.,a,THE WITNESS,start_question
+71,286,10,16,Are your parents aware that you're at your deposition today?,q,MR. BUCKLEY,start_answer
+72,288,10,18,Yes.,a,THE WITNESS,start_question
+73,289,10,19,Did you discuss at all what may be asked or what type of answers you may be providing?,q,MR. BUCKLEY,start_answer
+74,291,10,21,My sister told me some -- like some of the questions that she was asked.,a,THE WITNESS,start_question
+75,293,10,23,Okay.  Anything else?,q,MR. BUCKLEY,start_answer
+76,294,10,24,No.,a,THE WITNESS,start_question
+77,298,11,1,"Do you -- well, are you aware that your dad, we'll call him ""Ted"" for the purposes of this deposition, or ""Mr. Davidson,"" is claiming significant injuries from an incident of May of 2015 at the Tractor Supply, Ocean State Job Lot, in North Adams?",q,MR. BUCKLEY,start_answer
+78,304,11,7,Yes.,a,THE WITNESS,start_question
+79,305,11,8,When did you first became aware of an incident?,q,MR. BUCKLEY,start_answer
+80,307,11,10,I became aware of an incident as -- that day I was working -- as soon as I came home from work.,a,THE WITNESS,start_question
+81,310,11,13,And then you were living with your parents at the time?,q,MR. BUCKLEY,start_answer
+82,312,11,15,Yes.,a,THE WITNESS,start_question
+83,313,11,16,"Do you recall if it was a weekday, weekend?",q,MR. BUCKLEY,start_answer
+84,315,11,18,It was a weekend.,a,THE WITNESS,start_question
+85,316,11,19,Okay.  Do you have a memory of it being a weekend?  Or was it because you were working?,q,MR. BUCKLEY,start_answer
+86,318,11,21,"If I can remember, my mom was home, so it was a Saturday.",a,THE WITNESS,start_question
+87,320,11,23,And were you working at Ochoa Salon at the time?,q,MR. BUCKLEY,start_answer
+88,325,12,1,No.,a,THE WITNESS,start_question
+89,326,12,2,Where were you working?,q,MR. BUCKLEY,start_answer
+90,327,12,3,I was working at Cedar Chest in Northampton.,a,THE WITNESS,start_question
+91,329,12,5,And what's Cedar Chest?,q,MR. BUCKLEY,start_answer
+92,330,12,6,A small department store.,a,THE WITNESS,start_question
+93,331,12,7,Retail?,q,MR. BUCKLEY,start_answer
+94,332,12,8,"Mm-hmm, yep.",a,THE WITNESS,start_question
+95,333,12,9,Yes? And do you recall what time you got home from work that day?,q,MR. BUCKLEY,start_answer
+96,336,12,12,"I usually -- I worked 9:00 to 5:00, so I probably got home around 6:00.",a,THE WITNESS,start_question
+97,338,12,14,Six p.m.?,q,MR. BUCKLEY,start_answer
+98,339,12,15,Mm-hmm.,a,THE WITNESS,start_question
+99,340,12,16,Yes?,q,MR. BUCKLEY,start_answer
+100,341,12,17,Yes.,a,THE WITNESS,start_question
+101,342,12,18,Okay.  Everyone does it.  Don't worry. And what did you learn when you got home at 6:00 p.m. on that Saturday?,q,MR. BUCKLEY,start_answer
+102,345,12,21,My mom told me that my dad had had an accident.,a,THE WITNESS,start_question
+103,347,12,23,"Did she describe it any further than ""an accident""?",q,MR. BUCKLEY,start_answer
+104,352,13,1,She said that he got hit in the head.,a,THE WITNESS,start_question
+105,353,13,2,Anything further?,q,MR. BUCKLEY,start_answer
+106,354,13,3,No.,a,THE WITNESS,start_question
+107,355,13,4,"When you arrived at home, was your father there?",q,MR. BUCKLEY,start_answer
+108,357,13,6,Yes.,a,THE WITNESS,start_question
+109,358,13,7,Okay.,q,MR. BUCKLEY,start_answer
+110,359,13,8,He was in bed.,a,THE WITNESS,start_question
+111,360,13,9,"Okay.  When your mom explained that he was in an accident, he was hit in the head, what, if anything, did you do?",q,MR. BUCKLEY,start_answer
+112,363,13,12,"I just asked her if he was okay, and where he was, and she told me, and that was it.",a,THE WITNESS,start_question
+113,365,13,14,"When you mean, ""where he was"" when she told you, you mean in bed?",q,MR. BUCKLEY,start_answer
+114,367,13,16,Yeah.,a,THE WITNESS,start_question
+115,368,13,17,Did your mother describe at all more than how the incident happened or what had occurred?,q,MR. BUCKLEY,start_answer
+116,370,13,19,"No, she just said that he got hit in the head.",a,THE WITNESS,start_question
+117,372,13,21,When was the first time you saw -- did you see your dad that day?,q,MR. BUCKLEY,start_answer
+118,374,13,23,No.,a,THE WITNESS,start_question
+119,375,13,24,Did he remain in bed the rest of the evening or did you go out?,q,MR. BUCKLEY,start_answer
+120,380,14,2,He remained in bed for the rest of the evening.,a,THE WITNESS,start_question
+121,382,14,4,Okay.  And then when was the first time you saw your father after the alleged incident?,q,MR. BUCKLEY,start_answer
+122,384,14,6,I can't remember.,a,THE WITNESS,start_question
+123,385,14,7,"Well, it wasn't that Saturday, correct?",q,MR. BUCKLEY,start_answer
+124,386,14,8,Mm-hmm -- correct.,a,THE WITNESS,start_question
+125,387,14,9,Did you stay at home that night?,q,MR. BUCKLEY,start_answer
+126,388,14,10,Yes.,a,THE WITNESS,start_question
+127,389,14,11,"Okay.  Meaning, you didn't go away or sleep somewhere else?",q,MR. BUCKLEY,start_answer
+128,391,14,13,"No, I was home.",a,THE WITNESS,start_question
+129,392,14,14,"Do you have a memory of seeing your dad the following day, that Sunday?",q,MR. BUCKLEY,start_answer
+130,394,14,16,"No.  I may have gone in to check on him, but he was still sleeping.  I worked Sundays as well.",a,THE WITNESS,start_question
+131,397,14,19,Okay.,q,MR. BUCKLEY,start_answer
+132,398,14,20,So I was away for most of the day.,a,THE WITNESS,start_question
+133,399,14,21,What time did you start work the next day?,q,MR. BUCKLEY,start_answer
+134,400,14,22,12:00.,a,THE WITNESS,start_question
+135,401,14,23,"Okay.  Now, I know you testified that you ""may have gone in to check on him.""  I just want you to testify to something you are certain of, and don't guess.  Do you have a memory of going in and checking on him?",q,MR. BUCKLEY,start_answer
+136,409,15,4,Yes.,a,THE WITNESS,start_question
+137,410,15,5,Was that that Saturday or that Sunday morning before you left for work?,q,MR. BUCKLEY,start_answer
+138,412,15,7,That Sunday morning.,a,THE WITNESS,start_question
+139,413,15,8,And did you speak with him?,q,MR. BUCKLEY,start_answer
+140,414,15,9,No.,a,THE WITNESS,start_question
+141,415,15,10,Was he sleeping?,q,MR. BUCKLEY,start_answer
+142,416,15,11,He was sleeping.,a,THE WITNESS,start_question
+143,417,15,12,Did you make any observations other than your father sleeping?,q,MR. BUCKLEY,start_answer
+144,419,15,14,No.,a,THE WITNESS,start_question
+145,420,15,15,"Did you have any conversations with your mom before you left for work that day, other than what you told me?",q,MR. BUCKLEY,start_answer
+146,423,15,18,I don't remember.,a,THE WITNESS,start_question
+147,424,15,19,"So is it fair to say that at least when you got home, from 6:00 to at least a little before noon the following day, your dad hadn't left his room?",q,MR. BUCKLEY,start_answer
+148,428,15,23,Yes.,a,THE WITNESS,start_question
+149,429,15,24,Okay.  When was -- did you work till 6:00 p.m. the next day?,q,MR. BUCKLEY,start_answer
+150,434,16,2,I worked till 5:00.,a,THE WITNESS,start_question
+151,435,16,3,Five p.m.  Is that your typical hours --,q,MR. BUCKLEY,start_answer
+152,436,16,4,Yes.,a,THE WITNESS,start_question
+153,437,16,5,"-- of operation? Okay.  And did you go home that night, that Sunday, at 5:00?",q,MR. BUCKLEY,start_answer
+154,440,16,8,Yes.,a,THE WITNESS,start_question
+155,441,16,9,Were your parents home then?,q,MR. BUCKLEY,start_answer
+156,442,16,10,Yes.,a,THE WITNESS,start_question
+157,443,16,11,Was your father awake?,q,MR. BUCKLEY,start_answer
+158,444,16,12,Can't remember.,a,THE WITNESS,start_question
+159,445,16,13,Okay.  You don't have a memory if he was there when you got home?,q,MR. BUCKLEY,start_answer
+160,447,16,15,No.  All I remember is my mom picking me up from work.,a,THE WITNESS,start_question
+161,449,16,17,Okay.  Do you drive?,q,MR. BUCKLEY,start_answer
+162,450,16,18,"I do now, but I didn't at the time.",a,THE WITNESS,start_question
+163,451,16,19,"Oh, okay.  Did you have a license at the time?",q,MR. BUCKLEY,start_answer
+164,453,16,21,No.,a,THE WITNESS,start_question
+165,454,16,22,And how would you generally get to work?,q,MR. BUCKLEY,start_answer
+166,455,16,23,Usually my mom would bring me.,a,THE WITNESS,start_question
+167,456,16,24,"And at that time, let's say in May of 2015, what were your hours of work?",q,MR. BUCKLEY,start_answer
+168,461,17,2,"I worked Monday 9:00 -- or, I'm sorry, 10:00 to 6:00. May?  No, I was in school.  I take that back.  I was in school then in May. So I would work -- or I would go to school Monday through Friday, and then I would work Thursday nights 3:00 to 8:00, Friday 5:00 to 8:00, Sunday -- or Saturday, 10:00 to 6:00 -- or, I'm sorry, 10:00 to 5:00, and then on Sunday, it would be 12:00 to 5:00.",a,THE WITNESS,start_question
+169,471,17,12,You were in high school at the time?,q,MR. BUCKLEY,start_answer
+170,472,17,13,Yes.,a,THE WITNESS,start_question
+171,473,17,14,Okay.  So your retail job was a part-time job while you were in high school?,q,MR. BUCKLEY,start_answer
+172,475,17,16,Yes.,a,THE WITNESS,start_question
+173,476,17,17,"And your mother would drive you to and from work -- excuse me, to and from work?",q,MR. BUCKLEY,start_answer
+174,478,17,19,Yes.,a,THE WITNESS,start_question
+175,479,17,20,Would your father ever drive you?,q,MR. BUCKLEY,start_answer
+176,480,17,21,"Yes -- well, occasionally.  Because my mom -- so I would -- on like a regular weekday, I would go to school, and then I would walk to work, and then my mom would pick me up when she got out of work.",a,THE WITNESS,start_question
+177,488,18,2,Got it. So we're talking about the Sunday after your dad's incident.  You don't have a memory of seeing him when you got home.  Do you have a memory of seeing your mom when you got home?,q,MR. BUCKLEY,start_answer
+178,493,18,7,I don't remember.  All I remember was my mom picking me up from work.,a,THE WITNESS,start_question
+179,495,18,9,Okay.  Do you recall if you and your mom had any conversation about how your dad was doing at that time?,q,MR. BUCKLEY,start_answer
+180,498,18,12,I don't remember.,a,THE WITNESS,start_question
+181,499,18,13,"Okay.  So at this point, it sounds like what's been explained to you, what your mom said, your dad was hit in the head, correct?",q,MR. BUCKLEY,start_answer
+182,502,18,16,Yes.,a,THE WITNESS,start_question
+183,503,18,17,And you had no further information of what had happened?,q,MR. BUCKLEY,start_answer
+184,505,18,19,No.,a,THE WITNESS,start_question
+185,506,18,20,"At any point after that weekend was it explained to you what, if anything, had happened?",q,MR. BUCKLEY,start_answer
+186,508,18,22,Yes.,a,THE WITNESS,start_question
+187,509,18,23,Okay.  When?,q,MR. BUCKLEY,start_answer
+188,510,18,24,"I can't say for certain exactly when it was told to me, but I do know it was told within the first couple of days.",a,THE WITNESS,start_question
+189,516,19,3,And that's your best approximation?,q,MR. BUCKLEY,start_answer
+190,517,19,4,Yes.,a,THE WITNESS,start_question
+191,518,19,5,All right.  So it wasn't the Saturday.  It wasn't the Sunday.  So it may have been maybe the following couple of days?,q,MR. BUCKLEY,start_answer
+192,521,19,8,Yes.,a,THE WITNESS,start_question
+193,522,19,9,And who explained what happened?,q,MR. BUCKLEY,start_answer
+194,523,19,10,My mom.,a,THE WITNESS,start_question
+195,524,19,11,And what did she say?,q,MR. BUCKLEY,start_answer
+196,525,19,12,She said that the -- there was an incident at work with the gate and that the lever had fallen off and hit him in the head.,a,THE WITNESS,start_question
+197,528,19,15,Did she explain anything else?,q,MR. BUCKLEY,start_answer
+198,529,19,16,"Nope.  She said he went to the hospital, and that he would be out of work for a while.",a,THE WITNESS,start_question
+199,531,19,18,"Now, when she said there was an incident with ""the gate,"" did you know what she was talking about?",q,MR. BUCKLEY,start_answer
+200,534,19,21,Yes.,a,THE WITNESS,start_question
+201,535,19,22,How did you know what she was talking about?,q,MR. BUCKLEY,start_answer
+202,537,19,24,Because I have seen it before.,a,THE WITNESS,start_question
+203,541,20,1,"Okay.  And when did you -- you're referring to ""it,"" the gate?",q,MR. BUCKLEY,start_answer
+204,543,20,3,Yes.,a,THE WITNESS,start_question
+205,544,20,4,When did you see it?,q,MR. BUCKLEY,start_answer
+206,545,20,5,I had seen it -- I've been to the store multiple times.,a,THE WITNESS,start_question
+207,547,20,7,To shop or visit your father or both?,q,MR. BUCKLEY,start_answer
+208,548,20,8,A little bit of both.,a,THE WITNESS,start_question
+209,549,20,9,"And when you mean ""to shop,"" shop at Tractor Supply or Ocean State or both?",q,MR. BUCKLEY,start_answer
+210,551,20,11,Shop at Tractor Supply.,a,THE WITNESS,start_question
+211,552,20,12,Okay.  What do you buy at Tractor Supply?,q,MR. BUCKLEY,start_answer
+212,553,20,13,"Stuff for animals, pets.  They have books, garden decorations.",a,THE WITNESS,start_question
+213,555,20,15,Do you have pets?,q,MR. BUCKLEY,start_answer
+214,556,20,16,Yes.,a,THE WITNESS,start_question
+215,557,20,17,What do you have?,q,MR. BUCKLEY,start_answer
+216,558,20,18,Right now we have two dogs and a cat.  At the time we had -- we had two dogs and a cat as well.  Different dogs though.,a,THE WITNESS,start_question
+217,561,20,21,"And you had mentioned prior to your mom informing you of what happened, you had seen the gate, correct?",q,MR. BUCKLEY,start_answer
+218,564,20,24,Yes.,a,THE WITNESS,start_question
+219,568,21,1,And how would you happen to see the gate?,q,MR. BUCKLEY,start_answer
+220,569,21,2,"Just from driving by or walking.  I hadn't, like, examined it or anything.  I know what it looks like.",a,THE WITNESS,start_question
+221,572,21,5,"Sure.  And where is the gate located, to your memory?",q,MR. BUCKLEY,start_answer
+222,574,21,7,"I believe it's -- like, if you're in the parking lot, to the right.  But I don't know if that's certain.",a,THE WITNESS,start_question
+223,577,21,10,"Okay.  All right.  So you are referring to Tractor Supply, correct?",q,MR. BUCKLEY,start_answer
+224,579,21,12,Mm-hmm.,a,THE WITNESS,start_question
+225,580,21,13,Yes?,q,MR. BUCKLEY,start_answer
+226,581,21,14,Yes.,a,THE WITNESS,start_question
+227,582,21,15,So if you're standing in the parking lot looking at Tractor Supply --,q,MR. BUCKLEY,start_answer
+228,584,21,17,Yes.,a,THE WITNESS,start_question
+229,585,21,18,-- do you have a memory of where the gate was?,q,MR. BUCKLEY,start_answer
+230,587,21,20,"I can't say for certain, but to the best of my memory, it was to -- it was to the right facing Tractor Supply.",a,THE WITNESS,start_question
+231,590,21,23,"Sure.  So if you're in the parking lot, you're looking at Tractor Supply, your memory is the gate is to the right?",q,MR. BUCKLEY,start_answer
+232,596,22,2,Right.  Yes.,a,THE WITNESS,start_question
+233,597,22,3,"Is it in front of the store, to the side of the store, the back of the store?",q,MR. BUCKLEY,start_answer
+234,599,22,5,I believe it's to -- it's in the front of the store.,a,THE WITNESS,start_question
+235,601,22,7,"So when your mom said there was an incident with the gate, that's the gate you were thinking of in your head?",q,MR. BUCKLEY,start_answer
+236,604,22,10,Yes.,a,THE WITNESS,start_question
+237,605,22,11,To the right of the store?,q,MR. BUCKLEY,start_answer
+238,606,22,12,I believe so.,a,THE WITNESS,is brackets
+239,607,22,13,(Outdoor noise interruption.),brackets,,start_question
+240,608,22,14,And --,q,MR. BUCKLEY,start_chat
+241,609,22,15,"First steps of renovating Worcester, right? There's a little background noise, so I will try to speak up. There we go, for the moment.",side_chat,MR. BUCKLEY,start_question
+242,615,22,21,"So when your mom referenced ""the gate,"" that's the gate you had in mind, what you're describing, correct?",q,MR. BUCKLEY,start_answer
+243,618,22,24,Yes.,a,THE WITNESS,start_question
+244,622,23,1,"Is there any reason why you have a memory of that gate at all, of seeing it?",q,MR. BUCKLEY,start_answer
+245,624,23,3,"No, not necessarily.",a,THE WITNESS,start_question
+246,625,23,4,Okay.  It's just you had been there before?,q,MR. BUCKLEY,start_answer
+247,627,23,6,Yes.,a,THE WITNESS,start_question
+248,628,23,7,"And when your mom referenced a ""gate,"" that's what you thought of?",q,MR. BUCKLEY,start_answer
+249,630,23,9,"That's what I thought of, yes.",a,THE WITNESS,start_question
+250,631,23,10,"Fair enough. Prior to -- well, your mom described it as a lever had hit him in the head.  Is that correct?",q,MR. BUCKLEY,start_answer
+251,635,23,14,Yes.,a,THE WITNESS,start_question
+252,636,23,15,Was it explained where that lever came from?,q,MR. BUCKLEY,start_answer
+253,638,23,17,Yes.,a,THE WITNESS,start_question
+254,639,23,18,Okay.,q,MR. BUCKLEY,start_answer
+255,640,23,19,Because I wasn't positive what she was referring to.,a,THE WITNESS,start_question
+256,642,23,21,Okay.  Did she further explain?,q,MR. BUCKLEY,start_answer
+257,643,23,22,Yeah.,a,THE WITNESS,start_question
+258,644,23,23,And what did she say?,q,MR. BUCKLEY,start_answer
+259,645,23,24,"I believe she said that the thing that holds the two pieces of the gate together, to make it move, fell off and hit him.",a,THE WITNESS,start_question
+260,651,24,3,"And your mom didn't witness this incident, correct?",q,MR. BUCKLEY,start_answer
+261,653,24,5,What was that?,a,THE WITNESS,start_question
+262,654,24,6,"Your mother didn't witness this, correct?",q,MR. BUCKLEY,start_answer
+263,655,24,7,No.,a,THE WITNESS,start_question
+264,656,24,8,So is this information that she got from your dad?,q,MR. BUCKLEY,start_answer
+265,658,24,10,I'm not sure.,a,THE WITNESS,start_question
+266,659,24,11,Okay.,q,MR. BUCKLEY,start_answer
+267,660,24,12,"I think so.  That, or maybe she talked to the assistant manager.  I'm not sure.",a,THE WITNESS,start_question
+268,662,24,14,"Okay.  But your dad didn't give you the explanation, your mom did?",q,MR. BUCKLEY,start_answer
+269,664,24,16,"My mom did, yeah.",a,THE WITNESS,start_question
+270,665,24,17,"Okay.  And did she give you any other information of the mechanics of the incident, of what else happened?",q,MR. BUCKLEY,start_answer
+271,668,24,20,No.,a,THE WITNESS,start_question
+272,669,24,21,"Now, this is -- the incident happened on a Saturday.  And it wasn't a Sunday.  You believe it could have been a couple of days after.  So this is three or four days after the accident.  Is that fair?",q,MR. BUCKLEY,start_answer
+273,677,25,2,Yes.,a,THE WITNESS,start_question
+274,678,25,3,"Do you have a memory of seeing your dad, other than checking in on him on that Saturday?",q,MR. BUCKLEY,start_answer
+275,680,25,5,No.,a,THE WITNESS,start_question
+276,681,25,6,When's the memory of your first time speaking with your dad after the incident?,q,MR. BUCKLEY,start_answer
+277,683,25,8,I can't remember.,a,THE WITNESS,start_question
+278,684,25,9,"Do you have a memory -- well, do you have a memory of ever speaking with your father after the incident?",q,MR. BUCKLEY,start_answer
+279,687,25,12,"Eventually.  I'm trying to remember. That was in May.  Yeah, I'm sure I must have talked to him at some point, but not that I can remember.",a,THE WITNESS,start_question
+280,691,25,16,"Well, I'm not just talking about the incident itself.  Just generally seeing and speaking with your father after the incident?",q,MR. BUCKLEY,start_answer
+281,694,25,19,Yes.,a,THE WITNESS,start_question
+282,695,25,20,Do you have a memory of seeing or interacting with him in the weeks following the accident?,q,MR. BUCKLEY,start_answer
+283,698,25,23,Yes.,a,THE WITNESS,start_question
+284,699,25,24,Can you describe for me those interactions?,q,MR. BUCKLEY,start_answer
+285,704,26,2,We were fighting a lot.,a,THE WITNESS,start_question
+286,705,26,3,What was the reason?,q,MR. BUCKLEY,start_answer
+287,706,26,4,"All kinds of stuff.  We would fight about everything from -- we had -- both of our dogs were old, and they were both sick, and so they would get sick around the house.  He would freak out about that. I remember fighting with him about the outside, because he wouldn't, like, mow the grass or do the lawn like he usually did. He was just sort of in a fighting mood most of the time.",a,THE WITNESS,start_question
+288,716,26,14,And are you describing these observations as that they were different before the incident?,q,MR. BUCKLEY,start_answer
+289,718,26,16,Yes.,a,THE WITNESS,start_question
+290,719,26,17,"Meaning, would you fight about the dogs getting sick before the incident?",q,MR. BUCKLEY,start_answer
+291,721,26,19,No.,a,THE WITNESS,start_question
+292,722,26,20,"So when I asked you about interactions you had with your father in the weeks following, are you explaining the interactions, the observations you made of how he was different?",q,MR. BUCKLEY,start_answer
+293,726,26,24,Yes.,a,THE WITNESS,start_question
+294,730,27,1,"Okay.  All right. In those weeks following the incident, and you made these observations, did you have an opportunity to speak with him at all?",q,MR. BUCKLEY,start_answer
+295,734,27,5,Yes.,a,THE WITNESS,start_question
+296,735,27,6,Okay.  Did he ever explain what happened?,q,MR. BUCKLEY,start_answer
+297,736,27,7,Not that I can remember.,a,THE WITNESS,start_question
+298,737,27,8,Okay.  Is it fair to say to this day your dad has never explained to you specifically what had happened involving his incident?,q,MR. BUCKLEY,start_answer
+299,740,27,11,Not that I can remember.,a,THE WITNESS,start_question
+300,741,27,12,"Meaning, you don't have a memory of him ever telling you exactly what had happened involving his incident?",q,MR. BUCKLEY,start_answer
+301,744,27,15,Yes.,a,THE WITNESS,start_question
+302,745,27,16,"The only explanation you got is what your mother told you, correct?",q,MR. BUCKLEY,start_answer
+303,747,27,18,Yes.,a,THE WITNESS,start_question
+304,748,27,19,Prior to this incident had you ever heard of your father talking about this gate at Tractor Supply?,q,MR. BUCKLEY,start_answer
+305,751,27,22,"I had not heard him talk about it, but I had heard another Tractor Supply worker from a different Tractor Supply talk about it.",a,THE WITNESS,start_question
+306,757,28,1,Okay.  Who was that different worker?,q,MR. BUCKLEY,start_answer
+307,758,28,2,She was my friend.  Her name was Briana. She worked at the Tractor Supply in Southhampton.,a,THE WITNESS,start_question
+308,760,28,4,What's Briana's last name?,q,MR. BUCKLEY,start_answer
+309,761,28,5,Inman.,a,THE WITNESS,start_question
+310,762,28,6,And she had worked at a Tractor Supply in Southhampton?,q,MR. BUCKLEY,start_answer
+311,764,28,8,Yes.,a,THE WITNESS,start_question
+312,765,28,9,And how do you know Briana?,q,MR. BUCKLEY,start_answer
+313,766,28,10,We're family friends.,a,THE WITNESS,start_question
+314,767,28,11,"When you mean ""family friends""?",q,MR. BUCKLEY,start_answer
+315,768,28,12,My mom and her mom are friends.,a,THE WITNESS,start_question
+316,769,28,13,And had she ever worked at the Tractor Supply in North Adams?,q,MR. BUCKLEY,start_answer
+317,771,28,15,No.,a,THE WITNESS,start_question
+318,772,28,16,And does she still work for the Tractor Supply in Southhampton?,q,MR. BUCKLEY,start_answer
+319,774,28,18,No.,a,THE WITNESS,start_question
+320,775,28,19,Does she still work for Tractor Supply?,q,MR. BUCKLEY,start_answer
+321,776,28,20,No.,a,THE WITNESS,start_question
+322,777,28,21,Do you know what her address is?,q,MR. BUCKLEY,start_answer
+323,778,28,22,I don't.,a,THE WITNESS,start_question
+324,779,28,23,Do you know what her phone number is?,q,MR. BUCKLEY,start_answer
+325,780,28,24,"No, not anymore.",a,THE WITNESS,start_question
+326,784,29,1,Do you still stay in touch with her at all?,q,MR. BUCKLEY,start_answer
+327,786,29,3,No.,a,THE WITNESS,start_question
+328,787,29,4,Either through social media or --,q,MR. BUCKLEY,start_answer
+329,788,29,5,No.,a,THE WITNESS,start_question
+330,789,29,6,"Meaning, if someone tasks you to find her in the next 25 minutes, would you have any idea how to do that?",q,MR. BUCKLEY,start_answer
+331,792,29,9,No.,a,THE WITNESS,start_question
+332,793,29,10,Okay.  So you had mentioned that Miss Inman had mentioned a gate prior to your dad's incident.  Is that right?,q,MR. BUCKLEY,start_answer
+333,796,29,13,Yes.,a,THE WITNESS,start_question
+334,797,29,14,Can you explain that?,q,MR. BUCKLEY,start_answer
+335,798,29,15,"She said that one of the workers from that Tractor Supply in North Adams had gotten hurt.  She hurt her back while trying to move the gate -- or trying to open the gate, I'm sorry.",a,THE WITNESS,start_question
+336,802,29,19,"Okay.  So Briana, prior to your dad's incident, had explained to you that one of her coworkers had hurt her back trying to open a gate in North Adams?",q,MR. BUCKLEY,start_answer
+337,806,29,23,Yes.,a,THE WITNESS,start_question
+338,807,29,24,How did this conversation come up?,q,MR. BUCKLEY,start_answer
+339,811,30,1,"She -- I was doing her hair, and she would just talk to me about her work life, and so she said she was friends with that lady, and she told me what happened.",a,THE WITNESS,start_question
+340,815,30,5,"What was -- I'm sorry.  What was Briana's coworker's name, if you know?",q,MR. BUCKLEY,start_answer
+341,817,30,7,I don't remember her name.,a,THE WITNESS,start_question
+342,818,30,8,Did she ever tell you her name?,q,MR. BUCKLEY,start_answer
+343,819,30,9,Yeah.  I think she referred to her first name.  I just don't remember what it is.,a,THE WITNESS,start_question
+344,821,30,11,Okay.  And could you approximate when this conversation occurred?,q,MR. BUCKLEY,start_answer
+345,823,30,13,I don't remember.  I just remember it was before the accident.,a,THE WITNESS,start_question
+346,825,30,15,"Sure.  And if we're using May of 2015 as when your dad's incident occurred, could you go back in time around when this conversation occurred?  Was it a year before, two years before, two months before?",q,MR. BUCKLEY,start_answer
+347,830,30,20,I don't remember.,a,THE WITNESS,start_question
+348,831,30,21,Could you approximate?,q,MR. BUCKLEY,start_answer
+349,832,30,22,I don't think so.  I don't quite remember when it was that I was at her house.,a,THE WITNESS,start_question
+350,834,30,24,You were doing her hair at her house?,q,MR. BUCKLEY,start_answer
+351,838,31,1,Yes.,a,THE WITNESS,start_question
+352,839,31,2,And that was in which town?,q,MR. BUCKLEY,start_answer
+353,840,31,3,Westhampton.,a,THE WITNESS,start_question
+354,841,31,4,And she had mentioned that a coworker had hurt herself while trying to open a gate at the Tractor Supply in North Adams?,q,MR. BUCKLEY,start_answer
+355,844,31,7,Yes.,a,THE WITNESS,start_question
+356,845,31,8,How do you know it's the same gate involved with your father's incident?,q,MR. BUCKLEY,start_answer
+357,847,31,10,I have no idea.  I just assumed it was the same gate.,a,THE WITNESS,start_question
+358,849,31,12,Is there more than one gate at Tractor Supply in North Adams?,q,MR. BUCKLEY,start_answer
+359,851,31,14,I don't know.,a,THE WITNESS,start_question
+360,852,31,15,"You just know your father's incident involved a gate, and your friend had mentioned a friend of hers or a coworker had been injured with a gate?",q,MR. BUCKLEY,start_answer
+361,856,31,19,Yes.,a,THE WITNESS,start_question
+362,857,31,20,Do you have any other details beyond that?,q,MR. BUCKLEY,start_answer
+363,858,31,21,No.,a,THE WITNESS,start_question
+364,859,31,22,Anyone else mention the gate at North Adams other than Briana Inman prior to your dad's incident?,q,MR. BUCKLEY,start_answer
+365,865,32,1,I think I asked my dad about it right as soon as I got home.  I do remember asking him what happened with the lady at the gate.  He said that she just hurt her back trying to open it.,a,THE WITNESS,start_question
+366,869,32,5,"Okay.  And I know this is just how a lot of people speak.  You said, ""I think.""",q,MR. BUCKLEY,start_answer
+367,871,32,7,"I remember, yeah.",a,THE WITNESS,start_question
+368,872,32,8,Thank you.,q,MR. BUCKLEY,start_answer
+369,873,32,9,I have a memory of sitting in the living room asking.,a,THE WITNESS,start_question
+370,875,32,11,"When you say ""I think,"" it's not that you're not sure.  You have a memory of --",q,MR. BUCKLEY,start_answer
+371,877,32,13,Yes.,a,THE WITNESS,start_question
+372,878,32,14,"-- after that conversation, you spoke with your father?",q,MR. BUCKLEY,start_answer
+373,880,32,16,Yes.,a,THE WITNESS,start_question
+374,881,32,17,And you were just inquiring into the details?,q,MR. BUCKLEY,start_answer
+375,883,32,19,Yes.,a,THE WITNESS,start_question
+376,884,32,20,Is there any reason that you would go speak with your father about a conversation you had had with Briana Inman while doing her hair?,q,MR. BUCKLEY,start_answer
+377,887,32,23,I was just curious.,a,THE WITNESS,start_question
+378,888,32,24,And what did you say to him?,q,MR. BUCKLEY,start_answer
+379,892,33,1,"I just asked him what happened with the lady at work with the gate, and I remember him saying that she was just trying to open it, and she hurt her back.",a,THE WITNESS,start_question
+380,896,33,5,Okay.  Anything else?,q,MR. BUCKLEY,start_answer
+381,897,33,6,No.,a,THE WITNESS,start_question
+382,898,33,7,Any other conversations regarding the gate with anyone prior to the incident?,q,MR. BUCKLEY,start_answer
+383,900,33,9,No.,a,THE WITNESS,start_question
+384,901,33,10,Did you ever hear your father or mother speaking about the gate before the incident?,q,MR. BUCKLEY,start_answer
+385,903,33,12,No.,a,THE WITNESS,start_question
+386,904,33,13,Had you ever gone to -- I know you said you went to the Tractor Supply prior to the incident.  Did you ever go back after the incident?,q,MR. BUCKLEY,start_answer
+387,907,33,16,No.,a,THE WITNESS,start_question
+388,908,33,17,You've never gone back to either Tractor Supply or the Ocean State since 2015?,q,MR. BUCKLEY,start_answer
+389,910,33,19,No.,a,THE WITNESS,start_question
+390,911,33,20,Is there a reason?,q,MR. BUCKLEY,start_answer
+391,912,33,21,It wasn't really close to our house.  We just never went back.,a,THE WITNESS,start_question
+392,914,33,23,"Well, before that you would go there to buy animal supplies, pet supplies, correct?",q,MR. BUCKLEY,start_answer
+393,919,34,1,Yes.,a,THE WITNESS,start_question
+394,920,34,2,Did you continue to need pet supplies and animal supplies after the incident?,q,MR. BUCKLEY,start_answer
+395,922,34,4,Yes.  We would just go to a different store that was closer.,a,THE WITNESS,start_question
+396,924,34,6,Were you avoiding going back there after the incident or was it because your dad wasn't working there after the incident?,q,MR. BUCKLEY,start_answer
+397,927,34,9,It's because my dad wasn't working there.,a,THE WITNESS,start_question
+398,928,34,10,"So beforehand, you would just go because, one, you needed supplies, but also your dad worked there?",q,MR. BUCKLEY,start_answer
+399,931,34,13,Yes.,a,THE WITNESS,start_question
+400,932,34,14,"Okay.  So you have a memory at least on the Monday, Tuesday, around that time, after the incident, of having some observations of your father, correct?",q,MR. BUCKLEY,start_answer
+401,936,34,18,"No, I just -- my memory of him is seeing him sleeping.  And I'm sure eventually in that week we did talk, because I remember us fighting a lot right after it happened.",a,THE WITNESS,start_question
+402,940,34,22,"Sure.  And you testified that you were fighting about the dogs making a mess in the house and him not mowing the lawn, stuff like that?",q,MR. BUCKLEY,start_answer
+403,946,35,1,Yes.,a,THE WITNESS,start_question
+404,947,35,2,And that's probably in the week after the incident?,q,MR. BUCKLEY,start_answer
+405,949,35,4,Yes.,a,THE WITNESS,start_question
+406,950,35,5,"Did you make any observations of your father, you know, any physical observations?",q,MR. BUCKLEY,start_answer
+407,952,35,7,No.,a,THE WITNESS,start_question
+408,953,35,8,"Do you know what I mean by that?  Any cuts and bruises, or anything like that?",q,MR. BUCKLEY,start_answer
+409,955,35,10,"No, not that I can remember.",a,THE WITNESS,start_question
+410,956,35,11,Did he ever explain to you if he had any cuts or bruises or anything from the incident?,q,MR. BUCKLEY,start_answer
+411,958,35,13,The only thing I ever remember him saying is that his head hurt.,a,THE WITNESS,start_question
+412,960,35,15,And that was in the week following the incident?,q,MR. BUCKLEY,start_answer
+413,962,35,17,Yes.,a,THE WITNESS,start_question
+414,963,35,18,Okay.  But he never pointed out or you never observed any cuts or bruises on his body?,q,MR. BUCKLEY,start_answer
+415,965,35,20,No.,a,THE WITNESS,start_question
+416,966,35,21,So you're 23 now?,q,MR. BUCKLEY,start_answer
+417,967,35,22,Yes.,a,THE WITNESS,start_question
+418,968,35,23,"And it sounds like, is it fair to say, that you lived with both your parents for the entire 23 years?",q,MR. BUCKLEY,start_answer
+419,974,36,2,Yes.,a,THE WITNESS,start_question
+420,975,36,3,Any times you moved out on your own?,q,MR. BUCKLEY,start_answer
+421,976,36,4,No.,a,THE WITNESS,start_question
+422,977,36,5,"Can you describe for me, let's say in the years leading up to May of 2015, what your father did?",q,MR. BUCKLEY,start_answer
+423,980,36,8,"Yes.  So he worked pretty much all the time.  He would work long days.  He usually had Wednesdays off, from even -- I can remember him always having Wednesdays off when I was a kid.  But he would work pretty much six days a week solid, and then he would come home, you know, later at night. When he was home, he would do a lot of stuff outside, like with the cars or with the lawn or with the gardens. He had a lot of hobbies.  He liked to listen to music.  He liked to read a lot, watch movies when he was home.",a,THE WITNESS,start_question
+424,992,36,20,Okay.  Were there any activities you would do with just him or with your family?,q,MR. BUCKLEY,start_answer
+425,994,36,22,"I mean, we liked to go out for drives, and we would go out to dinner, and just kind of stuff like that.  Nothing too -- we wouldn't like go on vacations or anything. We would occasionally go to Rochester sometimes, but most of the time it was at home.",a,THE WITNESS,start_question
+426,1003,37,4,"And so you had mentioned, at least at the time of the incident, you weren't driving?",q,MR. BUCKLEY,start_answer
+427,1005,37,6,Correct.,a,THE WITNESS,start_question
+428,1006,37,7,You didn't have a license?,q,MR. BUCKLEY,start_answer
+429,1007,37,8,Correct.,a,THE WITNESS,start_question
+430,1008,37,9,And your father would drive you places?,q,MR. BUCKLEY,start_answer
+431,1009,37,10,"Yes, him and my mom.",a,THE WITNESS,start_question
+432,1010,37,11,"Let's say in the year leading up to May of 2015, when your dad's incident occurred, at what frequency would your dad drive you places?",q,MR. BUCKLEY,start_answer
+433,1013,37,14,"Not very frequent.  I think he -- or he did sometimes go with my mom to drop me off at work, but maybe just a handful of times, not very often at all.",a,THE WITNESS,start_question
+434,1017,37,18,Okay.,q,MR. BUCKLEY,start_answer
+435,1018,37,19,He was usually working.,a,THE WITNESS,start_question
+436,1019,37,20,"Now, is there anything else that you would like to explain about your dad prior to the incident that he would do?",q,MR. BUCKLEY,start_answer
+437,1022,37,23,"No, I mean, he just had -- he had a lot of energy.  He could do a lot of stuff.  Like, he could work from really early in the morning till, you know, six o'clock at night and then come home and mow the lawn and change the brakes.",a,THE WITNESS,start_question
+438,1030,38,4,And have you had observations of those type of activities that your dad would do change at all after the incident?,q,MR. BUCKLEY,start_answer
+439,1033,38,7,Yes.,a,THE WITNESS,start_question
+440,1034,38,8,How so?,q,MR. BUCKLEY,start_answer
+441,1035,38,9,"He has a really -- especially right after the accident, with our old house, he had a terrible time keeping up with the yard.  He stopped doing any type of gardening, landscaping at all.  I would very rarely seeing him working on the cars.  He stopped reading.  He barely listens to music anymore.  It gives him a headache. He doesn't really like to do much. He mostly just sleeps.",a,THE WITNESS,start_question
+442,1044,38,18,"So when you say especially closer to the accident, has he started to do more of these activities at a more frequent rate?",q,MR. BUCKLEY,start_answer
+443,1047,38,21,"No, he just had a harder time with -- I can remember, because we fought a lot about it -- keeping up with our yard at our old house.  He has a hard time with the new house, but our old house, especially, he had a really hard time with.",a,THE WITNESS,start_question
+444,1055,39,2,"If I recall, that was like an old farmhouse?",q,MR. BUCKLEY,start_answer
+445,1057,39,4,Yes.,a,THE WITNESS,start_question
+446,1058,39,5,With a large yard?,q,MR. BUCKLEY,start_answer
+447,1059,39,6,Yes.,a,THE WITNESS,start_question
+448,1060,39,7,"And your dad, prior to the incident, would do the gardening and landscaping and mowing?",q,MR. BUCKLEY,start_answer
+449,1062,39,9,Yes.,a,THE WITNESS,start_question
+450,1063,39,10,Did he continue to do that after the accident?,q,MR. BUCKLEY,start_answer
+451,1065,39,12,"I believe he stopped.  I can't remember for certain because -- but I do remember the person who was, like, the caretaker, he was part of the trustees, he at one point had to come over and start doing the mowing because my dad couldn't do it anymore.",a,THE WITNESS,start_question
+452,1071,39,18,So did he try to do it after the accident and then couldn't?,q,MR. BUCKLEY,start_answer
+453,1073,39,20,I believe so.,a,THE WITNESS,start_question
+454,1074,39,21,But at some point the caretaker of the estate started mowing your lawn?,q,MR. BUCKLEY,start_answer
+455,1076,39,23,Yeah.,a,THE WITNESS,start_question
+456,1077,39,24,And what about the landscaping?,q,MR. BUCKLEY,start_answer
+457,1081,40,1,He completely let all of that go.,a,THE WITNESS,start_question
+458,1082,40,2,Would the caretaker do that?,q,MR. BUCKLEY,start_answer
+459,1083,40,3,No.,a,THE WITNESS,start_question
+460,1084,40,4,"All right.  Has your dad since started, in your new house, has he started mowing the lawn?",q,MR. BUCKLEY,start_answer
+461,1086,40,6,He does mow the lawn.,a,THE WITNESS,start_question
+462,1087,40,7,And that's a much smaller lawn?,q,MR. BUCKLEY,start_answer
+463,1088,40,8,Yes.,a,THE WITNESS,start_question
+464,1089,40,9,How about the landscaping?,q,MR. BUCKLEY,start_answer
+465,1090,40,10,He does not do the landscaping.  We have a family friend that comes and helps with that.,a,THE WITNESS,start_question
+466,1092,40,12,Who is that family friend?,q,MR. BUCKLEY,start_answer
+467,1093,40,13,Her name is Miranda.,a,THE WITNESS,start_question
+468,1094,40,14,Last name?,q,MR. BUCKLEY,start_answer
+469,1095,40,15,"Avery, I think.",a,THE WITNESS,start_question
+470,1096,40,16,And what type of landscaping does Miranda help out with?,q,MR. BUCKLEY,start_answer
+471,1098,40,18,"Mostly just getting the weeds out of the garden, cutting the overgrown branches and stuff like that.  Just basic stuff.",a,THE WITNESS,start_question
+472,1101,40,21,When did you move from your old home to your new home?,q,MR. BUCKLEY,start_answer
+473,1103,40,23,In last January.,a,THE WITNESS,start_question
+474,1104,40,24,So about a year and a half ago?,q,MR. BUCKLEY,start_answer
+475,1108,41,1,Yes.,a,THE WITNESS,start_question
+476,1109,41,2,"So that means after the incident, you were at your old, larger home for about two and a half years.  Does that sound about right?",q,MR. BUCKLEY,start_answer
+477,1112,41,5,Yes.,a,THE WITNESS,start_question
+478,1113,41,6,So you had to go through two spring/summer seasons and two winter seasons?,q,MR. BUCKLEY,start_answer
+479,1115,41,8,Yes.,a,THE WITNESS,start_question
+480,1116,41,9,How large of a driveway did you have at your old home?,q,MR. BUCKLEY,start_answer
+481,1118,41,11,It wasn't large at all.,a,THE WITNESS,start_question
+482,1119,41,12,"And prior to the incident, would your dad either shovel or snow blow the driveway?",q,MR. BUCKLEY,start_answer
+483,1121,41,14,He would try.  Usually the caretaker would come with his plow and plow the snow out of the way.,a,THE WITNESS,start_chat
+484,1123,41,16,He said prior to the accident.,side_chat,MR. PESKIN,start_chat
+485,1125,41,18,"Prior to the accident, yes.",side_chat,THE WITNESS,start_chat
+486,1127,41,20,Okay.,side_chat,MR. PESKIN,start_answer
+487,1128,41,21,"The caretaker would come.  He did do a lot of shoveling with, like, the walkways.",a,THE WITNESS,start_question
+488,1131,41,24,"Yeah.  The caretaker was not doing the walkways, but prior to the incident, he would bring his snowplow and get that driveway out?",q,MR. BUCKLEY,start_answer
+489,1137,42,3,"Yes.  We had a snowblower at one point, but I believe it broke.",a,THE WITNESS,start_question
+490,1139,42,5,Was that prior to the incident?,q,MR. BUCKLEY,start_answer
+491,1140,42,6,Yes.,a,THE WITNESS,start_question
+492,1141,42,7,"So generally, prior to the accident, your dad wouldn't get a snowblower or plow or shovel, clear the driveway, correct?",q,MR. BUCKLEY,start_answer
+493,1144,42,10,He did until the snowblower broke.,a,THE WITNESS,start_question
+494,1145,42,11,"Okay.  How about after the accident, would your dad ever try to clear the driveway with snow?",q,MR. BUCKLEY,start_answer
+495,1147,42,13,He never tried to do the driveway.  He would try to do the little bit of walkway that we had.,a,THE WITNESS,start_question
+496,1150,42,16,Is it fair to say he wouldn't do the driveway because the caretaker would come and plow?,q,MR. BUCKLEY,start_answer
+497,1152,42,18,"Yes, but he usually -- he used to have to dig out the cars, because it would be a while before the guy would come down and plow us out.  But he couldn't do that after, so we would do it.",a,THE WITNESS,start_question
+498,1156,42,22,Why couldn't he do it after?,q,MR. BUCKLEY,start_answer
+499,1157,42,23,He just -- he would get too tired.,a,THE WITNESS,start_question
+500,1158,42,24,So you made no observations of your father either snow blowing or shoveling out the driveway after the incident?,q,MR. BUCKLEY,start_answer
+501,1164,43,3,No.,a,THE WITNESS,start_question
+502,1165,43,4,"Now, you mentioned your dad was a big reader before the incident?",q,MR. BUCKLEY,start_answer
+503,1167,43,6,Yes.,a,THE WITNESS,start_question
+504,1168,43,7,Okay.  And that has decreased since the accident?,q,MR. BUCKLEY,start_answer
+505,1170,43,9,Yes.,a,THE WITNESS,start_question
+506,1171,43,10,Does he read at all?  I've asked him these questions.  I'm just asking about what your observations have been.,q,MR. BUCKLEY,start_answer
+507,1174,43,13,"No.  He will occasionally cut down some hedges, but he doesn't do any weeding or anything like that.",a,THE WITNESS,start_question
+508,1177,43,16,"I'm sorry.  I said ""reading.""",q,MR. BUCKLEY,start_answer
+509,1178,43,17,"Oh, ""reading.""  I thought you said ""weeding."" No, I have not seen him read in a very long time.",a,THE WITNESS,start_question
+510,1182,43,21,At what frequency would he read prior to the incident?,q,MR. BUCKLEY,start_answer
+511,1184,43,23,Pretty much every night I would see him reading.,a,THE WITNESS,start_question
+512,1189,44,1,"And then since the accident, you don't see him reading at all?",q,MR. BUCKLEY,start_answer
+513,1191,44,3,No.,a,THE WITNESS,start_question
+514,1192,44,4,How about watching television?,q,MR. BUCKLEY,start_answer
+515,1193,44,5,"He used to love watching television.  He did that every night.  Now he maybe watches it for 20 minutes at a time, and then he puts it on mute, doesn't watch it for a while, and then he goes back to watching it.",a,THE WITNESS,start_question
+516,1198,44,10,Okay.  How about driving?  And I know you said your dad would drive you once in a while prior to the accident.  Did you make any observations if his driving habits changed afterwards?,q,MR. BUCKLEY,start_answer
+517,1202,44,14,Yes.,a,THE WITNESS,start_question
+518,1203,44,15,And how so?,q,MR. BUCKLEY,start_answer
+519,1204,44,16,"He gets intense road rage, as well as he loses track of where he is.  He gets really lost.",a,THE WITNESS,start_question
+520,1206,44,18,"What do you mean by ""road rage""?",q,MR. BUCKLEY,start_answer
+521,1207,44,19,"He gets angry.  He will literally park his car, get out of the car, and chase somebody.",a,THE WITNESS,start_question
+522,1209,44,21,Have you made observations of this?,q,MR. BUCKLEY,start_answer
+523,1210,44,22,Yes.,a,THE WITNESS,start_question
+524,1211,44,23,Can you describe it for me?,q,MR. BUCKLEY,start_answer
+525,1212,44,24,"One time we were driving in the car, and then we saw a truck pulling out and he was texting on his phone, so my dad turned around and chased him until he was parked, till he got to where he was going to go, and he proceeded to get out of the car and yell at him.",a,THE WITNESS,start_question
+526,1221,45,6,"When you mean ""chased,"" you mean he followed him in his car?",q,MR. BUCKLEY,start_answer
+527,1223,45,8,"Yes, yep.",a,THE WITNESS,start_question
+528,1224,45,9,"And he went, followed him, and then yelled at him when he stopped?",q,MR. BUCKLEY,start_answer
+529,1226,45,11,Yes.,a,THE WITNESS,start_question
+530,1227,45,12,Any other instances of road rage?,q,MR. BUCKLEY,start_answer
+531,1228,45,13,"All the time.  One time we were just driving, and somebody cut in front of him a little bit too close.  And we were stopped.  It was on a really busy street.  He stopped and proceeded to get out of the car and screamed at the guy.",a,THE WITNESS,start_question
+532,1233,45,18,"Okay.  And when you mean, ""all the time,"" and we don't have to go through every detail, but could you approximate how many times you witnessed your dad go through some road rage, as you described it.",q,MR. BUCKLEY,start_answer
+533,1238,45,23,Pretty close to every time I've -- I drive with him.,a,THE WITNESS,start_question
+534,1243,46,1,Okay.  And how many times did you drive with him a week after the accident?,q,MR. BUCKLEY,start_answer
+535,1245,46,3,"Probably about three, three or four.",a,THE WITNESS,start_question
+536,1246,46,4,And has that been consistent over the last four years?,q,MR. BUCKLEY,start_answer
+537,1248,46,6,"No, after I got my license, I drive a little bit less with him now.",a,THE WITNESS,start_question
+538,1250,46,8,When did you get your license?,q,MR. BUCKLEY,start_answer
+539,1251,46,9,"In August of that year, 2015.",a,THE WITNESS,start_question
+540,1252,46,10,"So we would say from May up to August, you would drive with him three to four times a day?",q,MR. BUCKLEY,start_answer
+541,1254,46,12,Yes.,a,THE WITNESS,start_question
+542,1255,46,13,And he would have instances of road rage almost every time?,q,MR. BUCKLEY,start_answer
+543,1257,46,15,Yes.,a,THE WITNESS,start_question
+544,1258,46,16,Did any ever get physical?,q,MR. BUCKLEY,start_answer
+545,1259,46,17,No.,a,THE WITNESS,start_question
+546,1260,46,18,Have there been any criminal charges taken out against your dad because of these?,q,MR. BUCKLEY,start_answer
+547,1262,46,20,No.,a,THE WITNESS,start_question
+548,1263,46,21,"How about any applications for restraining orders, if you know?",q,MR. BUCKLEY,start_answer
+549,1265,46,23,No.,a,THE WITNESS,start_question
+550,1266,46,24,"Have any of these, as you described them, ""road rage"" occurred but not in a vehicle, meaning out in a restaurant or out in any other social setting?",q,MR. BUCKLEY,start_answer
+551,1273,47,4,Yes.,a,THE WITNESS,start_question
+552,1274,47,5,Okay.  Could you describe those?,q,MR. BUCKLEY,start_answer
+553,1275,47,6,"We were in line at Whole Foods, and this guy started giving this -- the woman who was checking us out, he started giving her a hard time because she wasn't going fast enough, and -- this was the guy in front of us, and my dad proceeded to get in an argument with him about being rude to the waitress -- or to the cashier.",a,THE WITNESS,start_question
+554,1282,47,13,Would you consider that rage?,q,MR. BUCKLEY,start_answer
+555,1283,47,14,Yes.,a,THE WITNESS,start_question
+556,1284,47,15,As opposed to just sticking up for someone?,q,MR. BUCKLEY,start_answer
+557,1286,47,17,Yes.,a,THE WITNESS,start_question
+558,1287,47,18,"These instances, whether they are in social settings or in the car, had you ever seen your dad act like that prior to the incident?",q,MR. BUCKLEY,start_answer
+559,1290,47,21,No.,a,THE WITNESS,start_question
+560,1291,47,22,"How about any other observations you've made that your dad appeared to be different from the point of after the accident -- excuse me, before the accident to after the accident?  I'm going to ask that again. You've described some of his activities that he used to do?",q,MR. BUCKLEY,start_answer
+561,1301,48,5,Yes.,a,THE WITNESS,start_question
+562,1302,48,6,"That he either no longer does or does in a limited capacity, correct?",q,MR. BUCKLEY,start_answer
+563,1304,48,8,Yes.,a,THE WITNESS,start_question
+564,1305,48,9,"You've also described how he acts, either angry, getting road rage, in the car or in another social setting, correct?",q,MR. BUCKLEY,start_answer
+565,1308,48,12,Yes.,a,THE WITNESS,start_question
+566,1309,48,13,Any other changes that you've noticed?,q,MR. BUCKLEY,start_answer
+567,1310,48,14,"He has random explosions of being emotional.  Like he'll cry a lot, sometimes for no reason.",a,THE WITNESS,start_question
+568,1313,48,17,Can you give me an example?,q,MR. BUCKLEY,start_answer
+569,1314,48,18,"Well, for one, with a reason, any time a sad commercial comes on, a commercial with dogs or cats, he'll start crying.  Sometimes I'll just come in the living room, and he'll be crying.  Sometimes if he's outside and I come out to see him, he's crying.",a,THE WITNESS,start_question
+570,1320,48,24,What frequency would you observe these crying?,q,MR. BUCKLEY,start_answer
+571,1325,49,2,Probably about twice a week.,a,THE WITNESS,start_question
+572,1326,49,3,Has that been consistent in the last four years since the accident?,q,MR. BUCKLEY,start_answer
+573,1328,49,5,Yes.,a,THE WITNESS,start_question
+574,1329,49,6,"Other than an instance where you may normally see your father cry before the incident, a traumatic event or something, would you ever see him crying for no reason before the incident?",q,MR. BUCKLEY,start_answer
+575,1333,49,10,No.,a,THE WITNESS,start_question
+576,1334,49,11,"So this is something, at least from your standpoint, was completely new, correct?",q,MR. BUCKLEY,start_answer
+577,1336,49,13,Yes.,a,THE WITNESS,start_question
+578,1337,49,14,Any other observations?,q,MR. BUCKLEY,start_answer
+579,1338,49,15,Let's see.  We talked about him getting lost while driving.,a,THE WITNESS,start_question
+580,1340,49,17,"Sure.  And, again, let's stick with the three to four months that you would drive with him after the incident.  Because you had your license at that August, correct?",q,MR. BUCKLEY,start_answer
+581,1344,49,21,Yes.,a,THE WITNESS,start_question
+582,1345,49,22,"Okay.  And then in the three to four times a week, at what frequency would your father get lost driving?",q,MR. BUCKLEY,start_answer
+583,1351,50,1,"Probably three times, at least.  Like if we were driving four times a week, he would probably get lost three times.",a,THE WITNESS,start_question
+584,1354,50,4,So almost every time?,q,MR. BUCKLEY,start_answer
+585,1355,50,5,Almost every time.,a,THE WITNESS,start_question
+586,1356,50,6,Can you give me an example?,q,MR. BUCKLEY,start_answer
+587,1357,50,7,"He would get lost on the way home from just driving from -- if he would pick me up from work, on the way home, he would get lost.  If he had to drop me off at a friend's house, he would get lost, even if he had dropped me off at the friend's house before.  He would get lost on the way going to the doctor's office.  He would pretty much get lost anywhere.",a,THE WITNESS,start_question
+588,1365,50,15,Would you go with your father to doctor's appointments?,q,MR. BUCKLEY,start_answer
+589,1367,50,17,"To some of them, yes.",a,THE WITNESS,start_question
+590,1368,50,18,Would you go into the room?,q,MR. BUCKLEY,start_answer
+591,1369,50,19,No.,a,THE WITNESS,start_question
+592,1370,50,20,You would just go for the ride?,q,MR. BUCKLEY,start_answer
+593,1371,50,21,Yeah.,a,THE WITNESS,start_question
+594,1372,50,22,"And can you explain how you would learn that he was lost?  Would he be going in the direction that you knew wasn't the correct direction?  Or would he say, ""Oh, my God, where am I""?",q,MR. BUCKLEY,start_answer
+595,1380,51,3,"Yes, he would say he was lost.",a,THE WITNESS,start_question
+596,1381,51,4,Was this concerning to you?,q,MR. BUCKLEY,start_answer
+597,1382,51,5,Yes.,a,THE WITNESS,start_question
+598,1383,51,6,Because at least three times a week he's realizing he doesn't know where he is?,q,MR. BUCKLEY,start_answer
+599,1385,51,8,Yes.,a,THE WITNESS,start_question
+600,1386,51,9,Was it ever a concern of yours of his safety driving and getting lost so much?,q,MR. BUCKLEY,start_answer
+601,1388,51,11,Yes.,a,THE WITNESS,start_question
+602,1389,51,12,Did you vocalize that concern?,q,MR. BUCKLEY,start_answer
+603,1390,51,13,Yes.,a,THE WITNESS,start_question
+604,1391,51,14,To whom?,q,MR. BUCKLEY,start_answer
+605,1392,51,15,To my mom and my dad.,a,THE WITNESS,start_question
+606,1393,51,16,"What did they do, if anything, based on your concern?",q,MR. BUCKLEY,start_answer
+607,1395,51,18,They said that they knew; that they were also concerned.,a,THE WITNESS,start_question
+608,1397,51,20,About his safety?,q,MR. BUCKLEY,start_answer
+609,1398,51,21,Yes.,a,THE WITNESS,start_question
+610,1399,51,22,Okay.  So let's go with each of them. So your mom expressed concern of his safety driving because of his frequency of getting lost?,q,MR. BUCKLEY,start_answer
+611,1406,52,2,Yes.,a,THE WITNESS,start_question
+612,1407,52,3,And this is a conversation you had with her?,q,MR. BUCKLEY,start_answer
+613,1409,52,5,Yes.,a,THE WITNESS,start_question
+614,1410,52,6,Was anything done with that concern for his safety?,q,MR. BUCKLEY,start_answer
+615,1412,52,8,No.,a,THE WITNESS,start_question
+616,1413,52,9,Okay.  Your dad would keep driving?,q,MR. BUCKLEY,start_answer
+617,1414,52,10,Yes.,a,THE WITNESS,start_question
+618,1415,52,11,"Okay.  Did our dad express concern of his safety driving or getting lost, to you?",q,MR. BUCKLEY,start_answer
+619,1417,52,13,Yes.,a,THE WITNESS,start_question
+620,1418,52,14,Okay.  At least did you observe him do anything to remedy that concern?,q,MR. BUCKLEY,start_answer
+621,1420,52,16,"Well, he has GPS on his phone.  He used to use it, but he gets even more lost trying to use it. He usually calls my mom or my sister when he gets lost.",a,THE WITNESS,start_question
+622,1424,52,20,How tall's your dad?,q,MR. BUCKLEY,start_answer
+623,1425,52,21,"He is, I believe, six feet.",a,THE WITNESS,start_question
+624,1426,52,22,"He's a big guy, right?",q,MR. BUCKLEY,start_answer
+625,1427,52,23,Yes.,a,THE WITNESS,start_question
+626,1428,52,24,From your observations did you notice any weight changes after the accident?,q,MR. BUCKLEY,start_answer
+627,1433,53,2,He did gain quite a bit of weight right after the -- or in the months following the accident.,a,THE WITNESS,start_question
+628,1436,53,5,"Noticeable, at least to you?",q,MR. BUCKLEY,start_answer
+629,1437,53,6,Yes.,a,THE WITNESS,start_question
+630,1438,53,7,Was that ever spoken about or was that just an observation you made?,q,MR. BUCKLEY,start_answer
+631,1440,53,9,"We did talk about it, yes.",a,THE WITNESS,start_question
+632,1441,53,10,Okay.  What did you say?,q,MR. BUCKLEY,start_answer
+633,1442,53,11,"He just said that, yes, he has gained weight.",a,THE WITNESS,start_question
+634,1444,53,13,"Did anyone speculate as to what was the cause of the weight change, or weight gain?",q,MR. BUCKLEY,start_answer
+635,1446,53,15,"No, just that he was home, and we just brought up the fact that he had gained weight, not why.",a,THE WITNESS,start_question
+636,1449,53,18,Okay.  Do you know how much?,q,MR. BUCKLEY,start_answer
+637,1450,53,19,I don't know how much exactly.,a,THE WITNESS,start_question
+638,1451,53,20,But just something that you made an observation of?,q,MR. BUCKLEY,start_answer
+639,1453,53,22,Yes.,a,THE WITNESS,start_question
+640,1454,53,23,"Okay.  Has that continued -- your dad's weight, continued to increase or decrease?",q,MR. BUCKLEY,start_answer
+641,1459,54,1,As of right now?,a,THE WITNESS,start_question
+642,1460,54,2,"As of now, yeah.",q,MR. BUCKLEY,start_answer
+643,1461,54,3,His weight has decreased.,a,THE WITNESS,start_question
+644,1462,54,4,More activity?,q,MR. BUCKLEY,start_answer
+645,1463,54,5,Yes.,a,THE WITNESS,start_question
+646,1464,54,6,All right.  And what have those activities been?,q,MR. BUCKLEY,start_answer
+647,1466,54,8,He goes to the gym.,a,THE WITNESS,start_question
+648,1467,54,9,Which gym?,q,MR. BUCKLEY,start_answer
+649,1468,54,10,"It's in Easthampton, in Eastworks.  I don't know the name of it.",a,THE WITNESS,start_question
+650,1470,54,12,And what frequency?,q,MR. BUCKLEY,start_answer
+651,1471,54,13,I think he tries to go once a day or once every other day.,a,THE WITNESS,start_question
+652,1473,54,15,And those weight decreases have been noticeable?,q,MR. BUCKLEY,start_answer
+653,1475,54,17,Yes.,a,THE WITNESS,start_question
+654,1476,54,18,Do you know how much?,q,MR. BUCKLEY,start_answer
+655,1477,54,19,I believe 75 pounds.,a,THE WITNESS,start_question
+656,1478,54,20,Good.  And how long's he been going to the gym?,q,MR. BUCKLEY,start_answer
+657,1480,54,22,February.,a,THE WITNESS,start_question
+658,1481,54,23,Of this year?,q,MR. BUCKLEY,start_answer
+659,1482,54,24,Yes.,a,THE WITNESS,start_question
+660,1486,55,1,So about six months?,q,MR. BUCKLEY,start_answer
+661,1487,55,2,Yes.,a,THE WITNESS,start_question
+662,1488,55,3,Is there something that happened in February of '19 that triggered your dad to start going to the gym?,q,MR. BUCKLEY,start_answer
+663,1491,55,6,"No, we had all talked to him, that we -- and told him that we were really worried about him, about his weight.  And then one day, he just decided to sign up for this gym.  He had talked about it previously, but he didn't decide to actually make an appointment until February.",a,THE WITNESS,start_question
+664,1497,55,12,"When you mean an ""appointment,"" like a gym appointment?",q,MR. BUCKLEY,start_answer
+665,1499,55,14,"Yeah, to go meet with the guy and to talk to him.",a,THE WITNESS,start_question
+666,1501,55,16,"And when you're using the term ""we"" spoke about it, are you talking about you, your mom, and your dad, or just you and your dad?",q,MR. BUCKLEY,start_answer
+667,1504,55,19,"Me, my mom and dad.",a,THE WITNESS,start_question
+668,1505,55,20,Are you the only three that live together right now?,q,MR. BUCKLEY,start_answer
+669,1507,55,22,Yes.,a,THE WITNESS,start_question
+670,1508,55,23,Okay.  And how long's that been the case?,q,MR. BUCKLEY,start_answer
+671,1509,55,24,I don't remember when Hannah moved out.,a,THE WITNESS,start_question
+672,1513,56,1,Was Hannah living with you at the time of the accident?,q,MR. BUCKLEY,start_answer
+673,1515,56,3,I can't remember.,a,THE WITNESS,start_question
+674,1516,56,4,And you have another sister as well?,q,MR. BUCKLEY,start_answer
+675,1517,56,5,Yes.,a,THE WITNESS,start_question
+676,1518,56,6,She's out in Minnesota?,q,MR. BUCKLEY,start_answer
+677,1519,56,7,Yes.,a,THE WITNESS,start_question
+678,1520,56,8,And when was the last time -- what's your other sister's name?,q,MR. BUCKLEY,start_answer
+679,1522,56,10,Grace.,a,THE WITNESS,start_question
+680,1523,56,11,When was the last time that she lived in the family house?,q,MR. BUCKLEY,start_answer
+681,1525,56,13,"Oh, gosh, right before she went to college.  I can't remember which year that was.  I was going to be a junior in high school, so a while ago.",a,THE WITNESS,start_question
+682,1529,56,17,Okay.  But your dad's continuously going to the gym almost once a day?,q,MR. BUCKLEY,start_answer
+683,1531,56,19,Yes.,a,THE WITNESS,start_question
+684,1532,56,20,"To your knowledge, is your -- well, what is your understanding of your dad's injuries from the incident?",q,MR. BUCKLEY,start_answer
+685,1535,56,23,I know that he has permanent brain damage from the injury.,a,THE WITNESS,start_question
+686,1540,57,1,And how did you learn that?,q,MR. BUCKLEY,start_answer
+687,1541,57,2,I've been told by my mom.,a,THE WITNESS,start_question
+688,1542,57,3,And anyone else?,q,MR. BUCKLEY,start_answer
+689,1543,57,4,"No.  I mean, I've talked about it, you know, with my dad a little bit, but I was told specifically from my mom.",a,THE WITNESS,start_question
+690,1546,57,7,"Are those the words she used, ""permanent brain damage""?",q,MR. BUCKLEY,start_answer
+691,1548,57,9,Yes.,a,THE WITNESS,start_question
+692,1549,57,10,"When was this conversation, approximately?",q,MR. BUCKLEY,start_answer
+693,1550,57,11,Maybe six months after it happened.,a,THE WITNESS,start_question
+694,1551,57,12,"Okay.  So if the accident happened May of 2015, maybe around November '15?",q,MR. BUCKLEY,start_answer
+695,1553,57,14,Yes.,a,THE WITNESS,start_question
+696,1554,57,15,December '16?,q,MR. BUCKLEY,start_answer
+697,1555,57,16,Yes.,a,THE WITNESS,start_question
+698,1556,57,17,"And my understanding is if we're looking at over four years now, your dad hasn't gone back to work, correct?",q,MR. BUCKLEY,start_answer
+699,1559,57,20,Correct?,a,THE WITNESS,start_question
+700,1560,57,21,"And you've been living in the house in those four-plus years, correct?",q,MR. BUCKLEY,start_answer
+701,1562,57,23,Correct.,a,THE WITNESS,start_question
+702,1563,57,24,"And we discussed some of his activities that he no longer does, correct?",q,MR. BUCKLEY,start_answer
+703,1568,58,2,Correct.,a,THE WITNESS,start_question
+704,1569,58,3,Any other activities that you want to tell me about that he no longer does or has difficulty with?,q,MR. BUCKLEY,start_answer
+705,1572,58,6,"He used to be very handy with working on the house and working on stuff in the garage, like doing all kinds of things, and he no longer does that.",a,THE WITNESS,start_question
+706,1576,58,10,Completely?,q,MR. BUCKLEY,start_answer
+707,1577,58,11,"Completely, yeah.",a,THE WITNESS,start_question
+708,1578,58,12,Did he have tools?,q,MR. BUCKLEY,start_answer
+709,1579,58,13,Yes.,a,THE WITNESS,start_question
+710,1580,58,14,Does he use the tools at all?,q,MR. BUCKLEY,start_answer
+711,1581,58,15,No.,a,THE WITNESS,start_question
+712,1582,58,16,Anything else?,q,MR. BUCKLEY,start_answer
+713,1583,58,17,"He used to help with stuff around the house like laundry, dishes, just maintenance, and he doesn't do that anymore.",a,THE WITNESS,start_question
+714,1586,58,20,At all?,q,MR. BUCKLEY,start_answer
+715,1587,58,21,At all.,a,THE WITNESS,start_question
+716,1588,58,22,Anything else?,q,MR. BUCKLEY,start_answer
+717,1589,58,23,"His hobbies that he used to have, he used to make -- like work with trains.  He doesn't do that anymore.",a,THE WITNESS,start_question
+718,1595,59,2,"I'm kind of -- I keep saying ""Anything else?""  Maybe I'll just give you the opportunity. When you say you're done, you can let me know.",q,MR. BUCKLEY,start_answer
+719,1598,59,5,"Yeah, I think that's good.",a,THE WITNESS,start_question
+720,1599,59,6,"You feel that's enough, at least from your observations?",q,MR. BUCKLEY,start_answer
+721,1601,59,8,Yeah.,a,THE WITNESS,start_question
+722,1602,59,9,And so you work full-time now?,q,MR. BUCKLEY,start_answer
+723,1603,59,10,Yes.,a,THE WITNESS,start_question
+724,1604,59,11,So when do you leave in the morning?,q,MR. BUCKLEY,start_answer
+725,1605,59,12,"I have a different schedule each day, so on Mondays I work 9:00 to 5:00, Tuesdays I work 10:30 to 7:30, Wednesdays 10:00 to -- I'm sorry, 9:00 to 3:00, Thursdays 10:30 to 7:30, Fridays I'm off, and then Saturday 9:00 to 5:00.",a,THE WITNESS,start_question
+726,1610,59,17,And has that been the case for the last couple of years?,q,MR. BUCKLEY,start_answer
+727,1612,59,19,Give or take.,a,THE WITNESS,start_question
+728,1613,59,20,"I know some change, but in general?",q,MR. BUCKLEY,start_answer
+729,1614,59,21,"Yeah, a full-time schedule.",a,THE WITNESS,start_question
+730,1615,59,22,"So when you're leaving either on a Monday or Tuesday between nine and ten o'clock, is your dad up yet?",q,MR. BUCKLEY,start_answer
+731,1621,60,1,He usually is up to take my mom to work.,a,THE WITNESS,start_question
+732,1622,60,2,"Okay.  He drives her to work, correct?",q,MR. BUCKLEY,start_answer
+733,1623,60,3,Right.,a,THE WITNESS,start_question
+734,1624,60,4,And then comes home?,q,MR. BUCKLEY,start_answer
+735,1625,60,5,Yes.,a,THE WITNESS,start_question
+736,1626,60,6,If you know?,q,MR. BUCKLEY,start_answer
+737,1627,60,7,"Or he goes to the gym, whichever -- sometimes he goes later in the day, sometimes he comes back.",a,THE WITNESS,start_question
+738,1630,60,10,"All right.  And so what is he doing when you're -- if he's home, before going to the gym at that time, what would he be doing when you would leave for work?",q,MR. BUCKLEY,start_answer
+739,1634,60,14,He's in bed.,a,THE WITNESS,start_question
+740,1635,60,15,Okay.  So he stays in bed?,q,MR. BUCKLEY,start_answer
+741,1636,60,16,Yes.,a,THE WITNESS,start_question
+742,1637,60,17,And this is before his gym activities started in February?,q,MR. BUCKLEY,start_answer
+743,1639,60,19,Yes.,a,THE WITNESS,start_question
+744,1640,60,20,Would you ever see him make himself breakfast?,q,MR. BUCKLEY,start_answer
+745,1642,60,22,No.,a,THE WITNESS,start_question
+746,1643,60,23,Would you make him breakfast?,q,MR. BUCKLEY,start_answer
+747,1644,60,24,No.,a,THE WITNESS,start_question
+748,1648,61,1,"And then when you'd get home in the afternoon, would he be home, in general?",q,MR. BUCKLEY,start_answer
+749,1650,61,3,It depends on what time in the afternoon.,a,THE WITNESS,start_question
+750,1651,61,4,Okay.,q,MR. BUCKLEY,start_answer
+751,1652,61,5,"When I get home, like at 3:00, he's usually still sleeping.",a,THE WITNESS,start_question
+752,1654,61,7,Okay.,q,MR. BUCKLEY,start_answer
+753,1655,61,8,"But when I get home at like 7:30, he's usually out picking up my mom.",a,THE WITNESS,start_question
+754,1657,61,10,"Okay.  So when you get home at 3:00, when you say he's ""usually still sleeping,"" is it your belief that he hasn't gotten up yet?",q,MR. BUCKLEY,start_answer
+755,1660,61,13,I'm not sure.,a,THE WITNESS,start_question
+756,1661,61,14,"When you get home at 3:00, your observation is he's laying in bed?",q,MR. BUCKLEY,start_answer
+757,1663,61,16,Yes.,a,THE WITNESS,start_question
+758,1664,61,17,"But if you come home at 6:00, then he's out getting your mother?",q,MR. BUCKLEY,start_answer
+759,1666,61,19,Yes.,a,THE WITNESS,start_question
+760,1667,61,20,"What observations -- other than sleeping and getting your mother, what observation have you made before he started the gym in February of what your dad would do throughout the day?",q,MR. BUCKLEY,start_answer
+761,1671,61,24,"Mostly sleep.  If he was up, he would be in the living room sitting, sometimes with the TV on or muted, just sitting there.",a,THE WITNESS,start_question
+762,1677,62,3,Has your dad increased any activities beyond the gym currently?,q,MR. BUCKLEY,start_answer
+763,1679,62,5,No.,a,THE WITNESS,start_question
+764,1680,62,6,What does he do at the gym?,q,MR. BUCKLEY,start_answer
+765,1681,62,7,I'm not sure.,a,THE WITNESS,start_question
+766,1682,62,8,Cardio?  Weights?,q,MR. BUCKLEY,start_answer
+767,1683,62,9,His exercises.  I think all kinds of stuff.,a,THE WITNESS,start_question
+768,1685,62,11,"When people lose weight, don't they like to tell people how they did it and what they did?",q,MR. BUCKLEY,start_answer
+769,1687,62,13,"Usually, yes.",a,THE WITNESS,start_question
+770,1688,62,14,Yeah.  Does he lift weights?  Does he use the machines?,q,MR. BUCKLEY,start_answer
+771,1690,62,16,I'm not sure.,a,THE WITNESS,start_question
+772,1691,62,17,"Okay.  Prior to the incident, how was, at least your observations, of your parents' marriage?",q,MR. BUCKLEY,start_answer
+773,1693,62,19,It was pretty good.,a,THE WITNESS,start_question
+774,1694,62,20,Yeah?,q,MR. BUCKLEY,start_answer
+775,1695,62,21,"Yeah.  They tend to get along.  You know, my mom was unemployed for a while, but when they were working, they were both working a lot.",a,THE WITNESS,start_question
+776,1698,62,24,And had you made any observations of any change in their marriage since the accident?,q,MR. BUCKLEY,start_answer
+777,1703,63,2,Yes.,a,THE WITNESS,start_question
+778,1704,63,3,And what were those changes?,q,MR. BUCKLEY,start_answer
+779,1705,63,4,"They fight constantly.  And when I say that, I mean like every day at least a couple of fights.",a,THE WITNESS,start_question
+780,1708,63,7,A couple fights a day?,q,MR. BUCKLEY,start_answer
+781,1709,63,8,Yes.,a,THE WITNESS,start_question
+782,1710,63,9,Every day?,q,MR. BUCKLEY,start_answer
+783,1711,63,10,Yes.,a,THE WITNESS,start_question
+784,1712,63,11,All right.  About what?,q,MR. BUCKLEY,start_answer
+785,1713,63,12,Everything.  Everything you could possibly think of.  Sometimes for nothing at all.  They just start yelling at each other for -- sometimes for no reason.,a,THE WITNESS,start_question
+786,1717,63,16,Can you give me an example?,q,MR. BUCKLEY,start_answer
+787,1718,63,17,"Like yesterday, they were just yelling at each other.  My dad doesn't like the way my mom's voice sounded when he talked to her.  My dad can't find his wallet.  He can't find his keys.  He starts yelling at her.  He doesn't want to bring her to work.  Or she was a couple of minutes late coming out when he was there to pick her up.",a,THE WITNESS,start_question
+788,1725,63,24,And would you make observations of these type of things before the accident?,q,MR. BUCKLEY,start_answer
+789,1730,64,2,No.,a,THE WITNESS,start_question
+790,1731,64,3,"So regarding the observations of your father's difficulties or limitations since the accident, have you seen them get worse, get better, stay the same?",q,MR. BUCKLEY,start_answer
+791,1735,64,7,Could you ask that one more time?,a,THE WITNESS,start_question
+792,1736,64,8,"I'll ask it a different way.  Let's say -- for example, you testified that your father would get lost driving three out of four times a week, correct?",q,MR. BUCKLEY,start_answer
+793,1740,64,12,Yes.,a,THE WITNESS,start_question
+794,1741,64,13,And I know you don't drive with him as much anymore --,q,MR. BUCKLEY,start_answer
+795,1743,64,15,Yes.,a,THE WITNESS,start_question
+796,1744,64,16,-- but has him getting lost decreased?,q,MR. BUCKLEY,start_answer
+797,1745,64,17,No.,a,THE WITNESS,start_question
+798,1746,64,18,So he continues to get lost at the same amount of driving?,q,MR. BUCKLEY,start_answer
+799,1748,64,20,Yes.,a,THE WITNESS,start_question
+800,1749,64,21,At least to your knowledge?,q,MR. BUCKLEY,start_answer
+801,1750,64,22,Yes.,a,THE WITNESS,start_question
+802,1751,64,23,And then how about you mentioned he gets headaches?,q,MR. BUCKLEY,start_answer
+803,1756,65,1,Yes.,a,THE WITNESS,start_question
+804,1757,65,2,"Is that correct?  At what frequency does he get headaches, at least to your knowledge?",q,MR. BUCKLEY,start_answer
+805,1759,65,4,Pretty much every day.,a,THE WITNESS,start_question
+806,1760,65,5,So that hasn't changed since the accident?,q,MR. BUCKLEY,start_answer
+807,1761,65,6,No.,a,THE WITNESS,start_question
+808,1762,65,7,"And you testified, or someone else testified, that he would lose things, correct?",q,MR. BUCKLEY,start_answer
+809,1764,65,9,Yes.,a,THE WITNESS,start_question
+810,1765,65,10,All right.  Has his losing things gotten any better over the years?,q,MR. BUCKLEY,start_answer
+811,1767,65,12,No.,a,THE WITNESS,start_question
+812,1768,65,13,Has it gotten worse in your opinion?,q,MR. BUCKLEY,start_answer
+813,1769,65,14,"I mean, since the accident, it's pretty much been he just loses stuff all the time.",a,THE WITNESS,start_question
+814,1771,65,16,You haven't seen it get any better?,q,MR. BUCKLEY,start_answer
+815,1772,65,17,No.,a,THE WITNESS,start_question
+816,1773,65,18,What about reading?  Has he started reading anymore?,q,MR. BUCKLEY,start_answer
+817,1775,65,20,No.,a,THE WITNESS,start_question
+818,1776,65,21,Has he completely gotten rid of his reading?,q,MR. BUCKLEY,start_answer
+819,1778,65,23,Yeah.  I haven't seen him read in years.,a,THE WITNESS,start_question
+820,1779,65,24,"And you had mentioned he no longer landscapes, correct?",q,MR. BUCKLEY,start_answer
+821,1784,66,2,Correct.  He will -- the only thing that he will do is he will clean up the bushes occasionally.,a,THE WITNESS,start_question
+822,1787,66,5,"With what, the manual clippers or the electric one?",q,MR. BUCKLEY,start_answer
+823,1789,66,7,A little bit of both.,a,THE WITNESS,start_question
+824,1790,66,8,"How about your parents?  Do they go out to dinner, go to movies?",q,MR. BUCKLEY,start_answer
+825,1792,66,10,They go out to dinner sometimes.,a,THE WITNESS,start_question
+826,1793,66,11,And what frequency?,q,MR. BUCKLEY,start_answer
+827,1794,66,12,Maybe once or twice a week.,a,THE WITNESS,start_question
+828,1795,66,13,And was that the same before the accident or was it more or less before the accident?,q,MR. BUCKLEY,start_answer
+829,1797,66,15,Probably about the same.,a,THE WITNESS,start_question
+830,1798,66,16,"And so the once or twice a week that they go out to dinner, has that been consistent the last four years?",q,MR. BUCKLEY,start_answer
+831,1801,66,19,Yes.,a,THE WITNESS,start_question
+832,1802,66,20,To your knowledge is your dad receiving any medical treatment for what was described as permanent brain damage?,q,MR. BUCKLEY,start_answer
+833,1805,66,23,I believe so.,a,THE WITNESS,start_question
+834,1806,66,24,Okay.,q,MR. BUCKLEY,start_answer
+835,1810,67,1,"I'm not sure exactly what the treatment is, but I know that he always has doctor's appointments.",a,THE WITNESS,start_question
+836,1813,67,4,Are they with his regular family doctor or are they with head doctors?,q,MR. BUCKLEY,start_answer
+837,1815,67,6,I'm not sure.,a,THE WITNESS,start_question
+838,1816,67,7,"You are probably not the person to ask. I'm just -- have they said, ""Oh, I'm going to see this neurologist,"" or anything like that?",q,MR. BUCKLEY,start_answer
+839,1819,67,10,"I have heard them say -- you know, there's different head doctors, is what he calls them.",a,THE WITNESS,start_question
+840,1821,67,12,Okay.  And who is your primary care physician?,q,MR. BUCKLEY,start_answer
+841,1823,67,14,I see somebody in Dr. Kate's practice.,a,THE WITNESS,start_question
+842,1824,67,15,Dr. Kate is who?,q,MR. BUCKLEY,start_answer
+843,1825,67,16,Dr. Kate Atkinson.,a,THE WITNESS,start_question
+844,1826,67,17,"That's your entire family's doctor, right?",q,MR. BUCKLEY,start_answer
+845,1827,67,18,Yeah.,a,THE WITNESS,start_question
+846,1828,67,19,"So other than what your mother described as a piece of the gate falling and hitting him, you have no more information about the actual incident?",q,MR. BUCKLEY,start_answer
+847,1831,67,22,Correct.,a,THE WITNESS,start_chat
+848,1832,67,23,I have no other questions.,side_chat,MR. BUCKLEY,start_chat
+849,1837,68,1,I just have a few follow-ups.,side_chat,MS. BOUCHER,start_question
+850,1840,68,4,What's the name of the gym your father attends?,q,MS. BOUCHER,start_answer
+851,1842,68,6,I don't know.,a,THE WITNESS,start_question
+852,1843,68,7,Do you know where it is located?,q,MS. BOUCHER,start_answer
+853,1844,68,8,"Yes, it's in Eastworks in Easthampton.",a,THE WITNESS,start_question
+854,1845,68,9,And you say he started there in February?,q,MS. BOUCHER,start_answer
+855,1846,68,10,Yes.,a,THE WITNESS,start_question
+856,1847,68,11,And you don't know what type of exercise he's doing there currently?,q,MS. BOUCHER,start_answer
+857,1849,68,13,No.,a,THE WITNESS,start_question
+858,1850,68,14,Okay.  And what time of the day does he typically go to the gym?,q,MS. BOUCHER,start_answer
+859,1852,68,16,It differs.  Sometimes in the morning after he drops off my mom.  Sometimes later before he picks up my mom.,a,THE WITNESS,start_question
+860,1855,68,19,Is he working with a personal trainer there?,q,MS. BOUCHER,start_answer
+861,1857,68,21,"Kind of.  So I guess the way that they do it is they have a couple of people that, like, work with him, and they -- he goes through -- he went through like six weeks of them teaching him, like, how to do stuff, and then if he has questions, the people are always there.",a,THE WITNESS,start_question
+862,1866,69,3,Has he also made changes to his diet as well?,q,MS. BOUCHER,start_answer
+863,1868,69,5,Yes.,a,THE WITNESS,start_question
+864,1869,69,6,And what type of changes?,q,MS. BOUCHER,start_answer
+865,1870,69,7,He tried to cut out sugar as much as he can.,a,THE WITNESS,start_question
+866,1872,69,9,And you said he's lost 75 pounds since he started?,q,MS. BOUCHER,start_answer
+867,1874,69,11,Yes.,a,THE WITNESS,start_question
+868,1875,69,12,And what year did you graduate from high school?,q,MS. BOUCHER,start_answer
+869,1877,69,14,2015.,a,THE WITNESS,start_question
+870,1878,69,15,And where is Smith Vocational located?,q,MS. BOUCHER,start_answer
+871,1879,69,16,"It's in Florence, Mass.",a,THE WITNESS,start_question
+872,1880,69,17,"And Ochoa Salon, where you currently work, can you spell that?",q,MS. BOUCHER,start_answer
+873,1882,69,19,O-C-H-O-A.,a,THE WITNESS,start_question
+874,1883,69,20,And where's that located?,q,MS. BOUCHER,start_answer
+875,1884,69,21,"In South Hadley, Mass.",a,THE WITNESS,start_question
+876,1885,69,22,And you've worked there for two and a half years?,q,MS. BOUCHER,start_answer
+877,1887,69,24,Yes.,a,THE WITNESS,start_question
+878,1891,70,1,"Briana Inman, can you spell her last name?",q,MS. BOUCHER,start_answer
+879,1892,70,2,Let me think.  I-N-M-A-N.,a,THE WITNESS,start_question
+880,1893,70,3,I-N?,q,MS. BOUCHER,start_answer
+881,1894,70,4,I-N-M-A-N.,a,THE WITNESS,start_question
+882,1895,70,5,Okay.  And the last you know -- where was the last place she lived that you can recall?,q,MS. BOUCHER,start_answer
+883,1897,70,7,"I don't know the address, but she used to live in Westhampton with her parents.",a,THE WITNESS,start_question
+884,1899,70,9,And you haven't been in touch with her in several years?,q,MS. BOUCHER,start_answer
+885,1901,70,11,Yes.,a,THE WITNESS,start_question
+886,1902,70,12,And she worked at the Tractor Supply in Southampton?,q,MS. BOUCHER,start_answer
+887,1904,70,14,Yes.,a,THE WITNESS,start_question
+888,1905,70,15,And you worked -- is her mom still in touch with your mother?,q,MS. BOUCHER,start_answer
+889,1907,70,17,Yes.,a,THE WITNESS,start_question
+890,1908,70,18,And where do her parents -- do they still reside in Southampton?,q,MS. BOUCHER,start_answer
+891,1910,70,20,In Westhampton.,a,THE WITNESS,start_question
+892,1911,70,21,"Oh, Westhampton.",q,MS. BOUCHER,start_answer
+893,1912,70,22,Yes.,a,THE WITNESS,start_question
+894,1913,70,23,And you don't remember the name of the woman that she said was injured at the Tractor Supply?,q,MS. BOUCHER,start_answer
+895,1919,71,2,No.,a,THE WITNESS,start_question
+896,1920,71,3,"And this conversation with Briana Inman took place before May of 2015, correct?",q,MS. BOUCHER,start_answer
+897,1922,71,5,Yes.,a,THE WITNESS,start_question
+898,1923,71,6,But you don't recall exactly when?,q,MS. BOUCHER,start_answer
+899,1924,71,7,No.,a,THE WITNESS,start_question
+900,1925,71,8,It took place while you were doing her hair?,q,MS. BOUCHER,start_answer
+901,1927,71,10,Yes.,a,THE WITNESS,start_question
+902,1928,71,11,At her home?,q,MS. BOUCHER,start_answer
+903,1929,71,12,Yes.,a,THE WITNESS,start_question
+904,1930,71,13,And you've told us everything you can remember about that conversation?,q,MS. BOUCHER,start_answer
+905,1932,71,15,Yes.,a,THE WITNESS,start_chat
+906,1933,71,16,I think that's all I have.  Thank you.,side_chat,MS. BOUCHER,start_chat
+907,1935,71,18,Thank you.,side_chat,THE WITNESS,start_question
+908,1937,71,20,"One last question. You mentioned you spoke with your father about the gate and someone getting injured, correct?",q,MR. BUCKLEY,start_answer
+909,1941,71,24,Yes.,a,THE WITNESS,start_question
+910,1945,72,1,Did he say anything about any concern he had about that gate?,q,MR. BUCKLEY,start_answer
+911,1947,72,3,Not that I can remember.,a,THE WITNESS,start_chat
+912,1948,72,4,Okay.  Thanks.,side_chat,MR. BUCKLEY,start_chat
+913,1949,72,5,Thank you.,side_chat,THE WITNESS,is brackets
+914,1950,72,6,"(Deposition concluded at 10:49 a.m.) COMMONWEALTH OF MASSACHUSETTS  ) HAMPSHIRE, ss.                 ) I, MADELYN S. DAVIDSON, the witness herein, having read the foregoing testimony of the pages of this deposition, do hereby certify it to be a true and correct transcript, subject to the corrections, if any, shown on the attached page.",brackets,,symbols
+915,1983,73,12,"____________________________ MADELYN S. DAVIDSON COMMONWEALTH OF MASSACHUSETTS ) HAMPSHIRE, ss.                ) I wish to make the following changes, for the following reasons: PAGE  LINE ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ ____  ____     CHANGE: __________________________ REASON: ____________________________________ CERTIFICATE COMMONWEALTH OF MASSACHUSETTS ) I, SUSAN A. GARVIN, a Registered Commonwealth of Massachusetts, do hereby certify: That MADELYN S. DAVIDSON, the witness whose identified and duly sworn by me. That the foregoing proceedings were taken transcribed under my direction and supervision, and proceedings. I further certify that I am not related to marriage, and that I am in no way interested in the hand this September 5, 2019.",symbols,,symbols
+916,2049,75,16,"___________________ SUSAN A. GARVIN My Commission Expires:  June 12, 2026",symbols,,end

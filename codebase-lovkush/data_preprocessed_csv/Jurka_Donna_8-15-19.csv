@@ -1,0 +1,541 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," DONNA JURKA, DULY SWORN DIRECT EXAMINATION",,,start_question
+1,154,5,4,"All right.  Ms. Jurka, am I saying your name the right way?",q,MS. KAPLAN,start_answer
+2,156,5,6,Jurka.,a,THE WITNESS,start_question
+3,157,5,7,"Thank you.  I will try to remember that.  My name is Jackie Kaplan, and I introduced myself to you off the record this morning, but so the record is clear, I'm going to be asking you probably most of if not all of the questions today. First I'll just ask Attorney Donohue if we can agree to the usual stipulations?",q,MS. KAPLAN,start_chat
+4,165,5,15,Yes.  That's agreed.,side_chat,MR. DONOHUE,start_question
+5,166,5,16,"And I'll put them on the record just to be clear.  So first of all, all objections except as to form are reserved, motions except as to strike are reserved.  An objection by one Defendant is good for all Defendants, and although I don't think that this is an issue, I will put it on the record, appearance today does not waive any jurisdictional claims or defenses including those related to service of process. Are those all agreed?",q,MS. KAPLAN,start_chat
+6,177,6,3,Those are agreed.,side_chat,MR. DONOHUE,start_question
+7,178,6,4,"Excellent.  Ms. Jurka, have you ever been deposed before?",q,MS. KAPLAN,start_answer
+8,180,6,6,No.,a,THE WITNESS,start_question
+9,181,6,7,"Okay.  I'll set out a few rules and we'll try to go from there.  So the first and most important thing is that we have a court reporter here today which you may have noticed, and so you and I are going to do our very best or I'll ask you to do your very best not to speak over one another so try to let me finish my question before you answer and I'll try to let you finish your answer before I ask my next question. Next is that all your answers do need to be verbal today because we can't take down a head nod or a head shake or anything like that.  So I'll ask that you say yes and no or anything else that you have to say. If you answer a question that I ask, I'm going to assume you understood my question. However, if you don't understand my question or you want me to rephrase it, just let me know and I'm happy to do so. If you need a break you can let us know and we're happy to take a break.  You just need to answer the one question if it's pending at the time, and then we'll take a break. Understand all of that?",q,MS. KAPLAN,start_answer
+10,206,7,8,"Yes, I do.",a,THE WITNESS,start_question
+11,207,7,9,"Thank you.  Okay.  And then one other rule I like to mention is that this is what we call a discovery deposition, and what we mean by that is we're trying to discover whatever information you are aware of and recall, and we want to make a record of that.  We don't want you to guess as to anything.  So if the answer to a question is either I don't know or I don't remember, those are perfectly acceptable answers.  We just don't want you to assume or guess or anything like that.  All right?",q,MS. KAPLAN,start_answer
+12,218,7,20,(Nods head.),a,THE WITNESS,start_chat
+13,219,7,21,Is that yes?,side_chat,COURT REPORTER,start_answer
+14,220,7,22,Yes.,a,THE WITNESS,start_question
+15,221,7,23,It's only natural so we'll try to remind you. One other question.  Are you represented by counsel today?,q,MS. KAPLAN,start_answer
+16,225,8,3,"No, I'm not.",a,THE WITNESS,start_question
+17,226,8,4,Okay.  Have you spoken to Mr. Donohue who represents your brother?,q,MS. KAPLAN,start_answer
+18,228,8,6,"Yes, I have.",a,THE WITNESS,start_question
+19,229,8,7,Okay.  Did you speak to Mr. Donohue before today?,q,MS. KAPLAN,start_answer
+20,231,8,9,"Yes, I have.",a,THE WITNESS,start_question
+21,232,8,10,Have you spoken with anyone else from Mr. Donohue's office?,q,MS. KAPLAN,start_answer
+22,234,8,12,No.,a,THE WITNESS,start_question
+23,235,8,13,How many times have you spoken with Mr. Donohue before today?,q,MS. KAPLAN,start_answer
+24,237,8,15,Twice.,a,THE WITNESS,start_question
+25,238,8,16,And when were those occasions?,q,MS. KAPLAN,start_answer
+26,239,8,17,"He called me two or three weeks ago and we spoke at that time, and then he called me again on Monday or Tuesday and we spoke then.",a,THE WITNESS,start_question
+27,242,8,20,All right.,q,MS. KAPLAN,start_answer
+28,243,8,21,"Oh, he also came to my house.",a,THE WITNESS,start_question
+29,244,8,22,When was that?,q,MS. KAPLAN,start_answer
+30,245,8,23,"In the two or three week time frame, shortly after I had spoken to him on the phone.",a,THE WITNESS,start_question
+31,248,9,2,So he visited your home between the first and second phone call you had with him?,q,MS. KAPLAN,start_answer
+32,250,9,4,Yes.,a,THE WITNESS,start_question
+33,251,9,5,"The first phone call, the one that was 2 to 3 weeks ago, how long was that?",q,MS. KAPLAN,start_answer
+34,253,9,7,About a half an hour.,a,THE WITNESS,start_question
+35,254,9,8,And what did you discuss?,q,MS. KAPLAN,start_answer
+36,255,9,9,We discussed broadly what I knew about my brother's condition and about the new heating system that was installed in the family home.,a,THE WITNESS,start_question
+37,258,9,12,"Okay.  And I'll ask you more about those in a few minutes. When Mr. Donohue visited you at your home, how long was that visit?",q,MS. KAPLAN,start_answer
+38,262,9,16,About half an hour.,a,THE WITNESS,start_question
+39,263,9,17,And what did you discuss during that visit?,q,MS. KAPLAN,start_answer
+40,264,9,18,"The same thing.  He spoke about the deposition, some of the things that you just went over, what would be happening.",a,THE WITNESS,start_question
+41,267,9,21,A little preview?,q,MS. KAPLAN,start_answer
+42,268,9,22,Yes.,a,THE WITNESS,start_question
+43,269,9,23,"And when you spoke on Monday or Tuesday of this week, how long was that call?",q,MS. KAPLAN,start_answer
+44,272,10,2,20 minutes?,a,THE WITNESS,start_question
+45,273,10,3,And what did you discuss during that call?,q,MS. KAPLAN,start_answer
+46,274,10,4,Pretty much just reviewed the same things. Nothing different.,a,THE WITNESS,start_question
+47,276,10,6,"Other than conversations with Mr. Donahue, have you done anything else to prepare for today's deposition?",q,MS. KAPLAN,start_answer
+48,279,10,9,No.,a,THE WITNESS,start_question
+49,280,10,10,Have you spoken with your brother about today's deposition?,q,MS. KAPLAN,start_answer
+50,282,10,12,Only to the extent that he knows it's going on.,a,THE WITNESS,start_question
+51,283,10,13,Is your brother the one who originally told you you might be deposed in this case?,q,MS. KAPLAN,start_answer
+52,285,10,15,I don't know.,a,THE WITNESS,start_question
+53,286,10,16,"And when you say only to the extent he knows what's going on, what do you mean by that?",q,MS. KAPLAN,start_answer
+54,288,10,18,I told him that I had spoken to Matt and that there would be deposition that they wanted me to come to.,a,THE WITNESS,start_question
+55,291,10,21,Did you speak with your brother about what Matt had told you would be the substance of today's deposition?,q,MS. KAPLAN,start_answer
+56,295,11,1,No.,a,THE WITNESS,start_question
+57,296,11,2,Have you spoken with your brother about the deposition more than one time?,q,MS. KAPLAN,start_answer
+58,298,11,4,No.,a,THE WITNESS,start_question
+59,299,11,5,"When your brother was originally deposed back in March, did you speak with him about that deposition?",q,MS. KAPLAN,start_answer
+60,302,11,8,"I knew it was going on, but we didn't discuss what was talked about at the deposition.",a,THE WITNESS,start_question
+61,304,11,10,What did you believe was going on at that deposition?,q,MS. KAPLAN,start_answer
+62,306,11,12,"I knew there was a law case concerning the mesothelioma.  So I believed it was discussion, you know, how to put this.  About the law case.",a,THE WITNESS,start_question
+63,309,11,15,"Understood.  Other than the medical diagnosis and condition, the mesothelioma, did you understand what else was discussed at the deposition in March?",q,MS. KAPLAN,start_answer
+64,313,11,19,I knew nothing about the deposition other than the fact that there was one.,a,THE WITNESS,start_question
+65,315,11,21,And I'll ask you the same question about Day 2 of your brother's deposition which was last week or the week before?,q,MS. KAPLAN,start_answer
+66,319,12,1,I knew there was a second deposition.,a,THE WITNESS,start_question
+67,320,12,2,And did you speak with your brother about that deposition?,q,MS. KAPLAN,start_answer
+68,322,12,4,Only that he told me it was very short.,a,THE WITNESS,start_question
+69,323,12,5,So let me ask you because you mentioned that your conversations with Mr. Donohue were related to both your brother's condition as well as the new heating system in your home.  Is that correct?,q,MS. KAPLAN,start_answer
+70,328,12,10,Yes.,a,THE WITNESS,start_question
+71,329,12,11,And did you speak with your brother about that new heating system that was in your home?,q,MS. KAPLAN,start_answer
+72,331,12,13,No.,a,THE WITNESS,start_question
+73,332,12,14,Are you close with your brother?,q,MS. KAPLAN,start_answer
+74,333,12,15,Yes.,a,THE WITNESS,start_question
+75,334,12,16,"Now, I understood, correct me if I'm wrong, that you live next door to one another?",q,MS. KAPLAN,start_answer
+76,336,12,18,We do.,a,THE WITNESS,start_question
+77,337,12,19,How long have you lived next door to one another?,q,MS. KAPLAN,start_answer
+78,339,12,21,Six years.,a,THE WITNESS,start_question
+79,340,12,22,What is your address?,q,MS. KAPLAN,start_answer
+80,341,12,23,"581 Scenic Road, Unit 6, Laconia.",a,THE WITNESS,start_question
+81,343,13,1,Where did you live before that address?,q,MS. KAPLAN,start_answer
+82,344,13,2,"Smithfield, Virginia.",a,THE WITNESS,start_question
+83,345,13,3,"How long had you lived in Smithfield, Virginia?",q,MS. KAPLAN,start_answer
+84,346,13,4,8 years.,a,THE WITNESS,start_question
+85,347,13,5,What were you doing in Smithfield?,q,MS. KAPLAN,start_answer
+86,348,13,6,"My husband was employed by the military, Air Force and the Navy, and that's how we got there.",a,THE WITNESS,start_question
+87,350,13,8,Did you remain close with your brother during that time?,q,MS. KAPLAN,start_answer
+88,352,13,10,Yes.  My parents lived very close to him so when I visited my parents I saw him regularly.,a,THE WITNESS,start_question
+89,354,13,12,That was in New Hampshire?,q,MS. KAPLAN,start_answer
+90,355,13,13,"No, in Massachusetts.",a,THE WITNESS,start_question
+91,356,13,14,Back in Massachusetts.  Would you say that you've always had a close relationship with your brother?,q,MS. KAPLAN,start_answer
+92,359,13,17,Yes.,a,THE WITNESS,start_question
+93,360,13,18,Can I have you state your full name for the record which I probably should have done a few moments ago but we'll do it now.,q,MS. KAPLAN,start_answer
+94,363,13,21,Donna Marie Jurka.  J U R K A.,a,THE WITNESS,start_question
+95,364,13,22,And what is your maiden name?,q,MS. KAPLAN,start_answer
+96,365,13,23,Bixby.,a,THE WITNESS,start_question
+97,367,14,1,What is your date of birth?,q,MS. KAPLAN,start_answer
+98,368,14,2,5/5/51.,a,THE WITNESS,start_question
+99,369,14,3,Where were you born?,q,MS. KAPLAN,start_answer
+100,370,14,4,"Haverhill, Massachusetts.",a,THE WITNESS,start_question
+101,371,14,5,I should have asked you.  Do you have any plans to move from the 581 Scenic Road address?,q,MS. KAPLAN,start_answer
+102,373,14,7,No.,a,THE WITNESS,start_question
+103,374,14,8,Who do you live there with?,q,MS. KAPLAN,start_answer
+104,375,14,9,My husband.,a,THE WITNESS,start_question
+105,376,14,10,What is your husband's name?,q,MS. KAPLAN,start_answer
+106,377,14,11,Valdis.  V A L D I S.  Jurka.,a,THE WITNESS,start_question
+107,378,14,12,Do you have any children?,q,MS. KAPLAN,start_answer
+108,379,14,13,Yes.  I do.,a,THE WITNESS,start_question
+109,380,14,14,How many children do you have?,q,MS. KAPLAN,start_answer
+110,381,14,15,I have three living children.,a,THE WITNESS,start_question
+111,382,14,16,Do any of them live with you?,q,MS. KAPLAN,start_answer
+112,383,14,17,No.,a,THE WITNESS,start_question
+113,384,14,18,"Other than your husband, does anyone live with you?",q,MS. KAPLAN,start_answer
+114,386,14,20,No.,a,THE WITNESS,start_question
+115,387,14,21,Are you currently on any medications?,q,MS. KAPLAN,start_answer
+116,388,14,22,"Yes, I am.",a,THE WITNESS,start_question
+117,389,14,23,I won't ask that you list them all.  I'd just ask whether any of those medications affect your memory or ability to testify here today.,q,MS. KAPLAN,start_answer
+118,393,15,3,No.,a,THE WITNESS,start_question
+119,394,15,4,"So I'm going to jump right into one of the things I believe you discussed with Mr. Donohue, and that's that new heating system in your home on Stone Avenue.  Is that the address you're referring to?",q,MS. KAPLAN,start_answer
+120,399,15,9,"Yes, it is.",a,THE WITNESS,start_question
+121,400,15,10,And it was One Stone Avenue?,q,MS. KAPLAN,start_answer
+122,401,15,11,Yes.,a,THE WITNESS,start_question
+123,402,15,12,I'll represent to you that your brother testified a new heating system was installed in approximately 1961.  Does that ring true with your memory?,q,MS. KAPLAN,start_answer
+124,406,15,16,"Yes.  I would have said 1959, but --",a,THE WITNESS,start_question
+125,407,15,17,Why is that?,q,MS. KAPLAN,start_answer
+126,408,15,18,"That's just my memory of it, and, you know, I was very young so --",a,THE WITNESS,start_chat
+127,410,15,20,Your memory controls so you can just say whatever you remember.,side_chat,MR. DONOHUE,start_answer
+128,412,15,22,I remember it as I was being 8 years old so it would have been 1959.,a,THE WITNESS,start_question
+129,415,16,1,What is it that you recall about being 8 years old or how are you recalling 1959?,q,MS. KAPLAN,start_answer
+130,417,16,3,"And I don't know why I remember it this way, but all my life I have remembered being 8 years old. I helped my father install the heating system so it wasn't just something happening in the background.  I was involved.  And in my mind I was always 8 years old.",a,THE WITNESS,start_question
+131,423,16,9,Is it something you've spoken about in the years since you did it?,q,MS. KAPLAN,start_answer
+132,425,16,11,"It might have been mentioned some place along the line, but no, no big discussion of it.",a,THE WITNESS,start_question
+133,427,16,13,Do you remember what grade you were in in school?,q,MS. KAPLAN,start_answer
+134,429,16,15,No.,a,THE WITNESS,start_question
+135,430,16,16,Is there anything else going on at the time that you can recall simultaneously?,q,MS. KAPLAN,start_answer
+136,432,16,18,No.,a,THE WITNESS,start_question
+137,433,16,19,So you believe you were 8 years old which would have made your brother 10; is that correct?,q,MS. KAPLAN,start_answer
+138,435,16,21,Yes.,a,THE WITNESS,start_question
+139,436,16,22,How long had you lived in the One Stone Avenue home before this heating system was installed?,q,MS. KAPLAN,start_answer
+140,439,17,1,Four years.,a,THE WITNESS,start_question
+141,440,17,2,Your recollection is that you moved into the One Stone Avenue home in 1955 approximately?,q,MS. KAPLAN,start_answer
+142,442,17,4,Yes.,a,THE WITNESS,start_question
+143,443,17,5,Can you recall any addresses you lived in prior to 1955?,q,MS. KAPLAN,start_answer
+144,445,17,7,"We lived, no, I don't know if it was Broadway or North Broadway in Haverhill.",a,THE WITNESS,start_question
+145,447,17,9,Do you recall the number?,q,MS. KAPLAN,start_answer
+146,448,17,10,No.,a,THE WITNESS,start_question
+147,449,17,11,Do you recall anything that that home was nearby?,q,MS. KAPLAN,start_answer
+148,451,17,13,No.,a,THE WITNESS,start_question
+149,452,17,14,"A school, a supermarket, anything like that?",q,MS. KAPLAN,start_answer
+150,453,17,15,No.,a,THE WITNESS,start_question
+151,454,17,16,Is that the only other home you lived in before Stone Avenue?,q,MS. KAPLAN,start_answer
+152,456,17,18,"No.  I lived somewhere else.  My father was building the house on Broadway/North Broadway, when I was born.",a,THE WITNESS,start_question
+153,459,17,21,Do you know whether the other home you lived in was in Haverhill?,q,MS. KAPLAN,start_answer
+154,461,17,23,"Yes, it was.",a,THE WITNESS,start_question
+155,463,18,1,Do you know whether your parents owned that other home?,q,MS. KAPLAN,start_answer
+156,465,18,3,"Yes, they did.",a,THE WITNESS,start_question
+157,466,18,4,And obviously they owned the home on Broadway or North Broadway because your father was building it?,q,MS. KAPLAN,start_answer
+158,469,18,7,Yes.,a,THE WITNESS,start_question
+159,470,18,8,Do you know how long it took your father to build that home?,q,MS. KAPLAN,start_answer
+160,472,18,10,"Well, I would say probably four years.  It was continuously under construction until they moved.",a,THE WITNESS,start_question
+161,475,18,13,"And did you move into the home before, during or after the construction?",q,MS. KAPLAN,start_answer
+162,477,18,15,Probably to some extent during.,a,THE WITNESS,start_question
+163,478,18,16,"All right.  So going back to the One Stone Avenue, you believe you lived there for four years before this new heating system was installed; is that correct?",q,MS. KAPLAN,start_answer
+164,482,18,20,Yes.,a,THE WITNESS,start_question
+165,483,18,21,You said you participated or you helped your father install the new heating system?,q,MS. KAPLAN,start_answer
+166,485,18,23,Yes.,a,THE WITNESS,start_question
+167,487,19,1,What was -- and you were 8 years old at the time?,q,MS. KAPLAN,start_answer
+168,489,19,3,Yes.,a,THE WITNESS,start_question
+169,490,19,4,What was your role in the installation process?,q,MS. KAPLAN,start_answer
+170,491,19,5,"A lot of fetching, cutting pipe, putting pipe dope on the pipes as they were being connected, holding things.",a,THE WITNESS,start_question
+171,494,19,8,How are you cutting pipe?,q,MS. KAPLAN,start_answer
+172,495,19,9,"My father had a pipe cutter, had actually two different ones depending on the size of the pipe that was used being used, and he had set it up, and, you know, just had to turn in.",a,THE WITNESS,start_question
+173,499,19,13,Say that again?  You just had to turn it?,q,MS. KAPLAN,start_answer
+174,500,19,14,Yes.,a,THE WITNESS,start_question
+175,501,19,15,What was the pipe cutter?  Can you describe that?,q,MS. KAPLAN,start_answer
+176,503,19,17,"Okay.  At least the larger one was a fairly long arm, approximately, I don't know, two and a half feet long, and there was a circular piece to it that went around the pipe that had blades and you turn it on the pipe and then tighten it and turn more until it cut the pipe.",a,THE WITNESS,start_question
+177,509,19,23,You must have been a very strong 8 year old.,q,MS. KAPLAN,start_answer
+178,511,20,1,I don't remember it as being terribly difficult to do.,a,THE WITNESS,start_question
+179,513,20,3,No?,q,MS. KAPLAN,start_answer
+180,514,20,4,No.,a,THE WITNESS,start_question
+181,515,20,5,It sounds difficult.,q,MS. KAPLAN,start_answer
+182,516,20,6,"It happens very gradually, you know, tighten a little bit, tighten a little bit.",a,THE WITNESS,start_question
+183,518,20,8,"Understood.  All right.  And that pipe, do you know what material that pipe was made of?",q,MS. KAPLAN,start_answer
+184,520,20,10,Steel.,a,THE WITNESS,start_question
+185,521,20,11,Do you know that or are you guessing?,q,MS. KAPLAN,start_chat
+186,522,20,12,Objection.,side_chat,MR. DONOHUE,start_question
+187,523,20,13,"If you know it, it's fine.",q,MS. KAPLAN,start_answer
+188,524,20,14,"My mind, I know it.",a,THE WITNESS,start_question
+189,525,20,15,"Understood.  That's totally fine.  All right. So the steel pipe.  And what part of the system was that steel pipe for?  In other words, what was the pipe doing for the system?",q,MS. KAPLAN,start_answer
+190,529,20,19,"Well, there were two different types of pipe. There were gas pipes, and there were steam pipes.",a,THE WITNESS,start_question
+191,532,20,22,Did you cut both of these pipes?,q,MS. KAPLAN,start_answer
+192,533,20,23,Yes.,a,THE WITNESS,start_question
+193,535,21,1,And both types were steel?,q,MS. KAPLAN,start_answer
+194,536,21,2,Yes.,a,THE WITNESS,start_question
+195,537,21,3,Did the gas pipes and the steam pipes look different?,q,MS. KAPLAN,start_answer
+196,539,21,5,Steam pipes were considerably larger.,a,THE WITNESS,start_question
+197,540,21,6,Could you estimate the diameter of the gas pipes?,q,MS. KAPLAN,start_answer
+198,542,21,8,One inch?,a,THE WITNESS,start_question
+199,543,21,9,And how about the steam pipes?,q,MS. KAPLAN,start_answer
+200,544,21,10,Two and a half?,a,THE WITNESS,start_question
+201,545,21,11,Okay.  So let's go back to the unit itself.  Do you recall seeing the heating unit?,q,MS. KAPLAN,start_answer
+202,547,21,13,Yes.,a,THE WITNESS,start_question
+203,548,21,14,Can you describe that unit?,q,MS. KAPLAN,start_answer
+204,549,21,15,"The unit was probably 40 inches tall, two feet wide, four feet long, encased in metal covering, gray, with a water gauge on the outside, and a faucet.",a,THE WITNESS,start_question
+205,553,21,19,The gray metal covering; do you know what type of metal that was?,q,MS. KAPLAN,start_answer
+206,555,21,21,Steel.,a,THE WITNESS,start_question
+207,556,21,22,Were you present at the home when that unit arrived?,q,MS. KAPLAN,start_answer
+208,559,22,1,I don't remember it arriving.,a,THE WITNESS,start_question
+209,560,22,2,So you don't know whether your father picked it up or whether it was delivered?,q,MS. KAPLAN,start_answer
+210,562,22,4,"No, I don't.",a,THE WITNESS,start_question
+211,563,22,5,"The first time you saw that unit, was it already in place?",q,MS. KAPLAN,start_answer
+212,565,22,7,"As far as I remember, yes.",a,THE WITNESS,start_question
+213,566,22,8,And where was that?,q,MS. KAPLAN,start_answer
+214,567,22,9,In the basement.,a,THE WITNESS,start_question
+215,568,22,10,So you were never present while that unit was moved in any way?,q,MS. KAPLAN,start_answer
+216,570,22,12,No.,a,THE WITNESS,start_question
+217,571,22,13,"And did the unit arrive in one piece?  Strike that.  You don't know how it arrived. The first time you saw the unit, was it in one piece?",q,MS. KAPLAN,start_answer
+218,575,22,17,The first time I remember seeing it it was in one piece.,a,THE WITNESS,start_question
+219,577,22,19,Do you know what its power source was?,q,MS. KAPLAN,start_answer
+220,578,22,20,Natural gas.,a,THE WITNESS,start_question
+221,579,22,21,Did it have a name plate on it that you can recall?,q,MS. KAPLAN,start_answer
+222,581,22,23,No.,a,THE WITNESS,start_question
+223,583,23,1,"No, it didn't have one or no, you can't recall?",q,MS. KAPLAN,start_answer
+224,584,23,2,I can't recall.,a,THE WITNESS,start_question
+225,585,23,3,So you wouldn't know the model number of that piece of equipment?,q,MS. KAPLAN,start_answer
+226,587,23,5,No.,a,THE WITNESS,start_question
+227,588,23,6,And you wouldn't know what year that piece of equipment was manufactured?,q,MS. KAPLAN,start_answer
+228,590,23,8,No.,a,THE WITNESS,start_question
+229,591,23,9,And you don't know how your father purchased the piece of equipment?,q,MS. KAPLAN,start_answer
+230,593,23,11,I don't know for a fact yet I'm sure that it came through the Haverhill Gas Company.,a,THE WITNESS,start_chat
+231,595,23,13,And I'll move to strike the nonresponsive of that answer.,side_chat,MS. KAPLAN,start_question
+232,597,23,15,So you don't know how the unit was packaged when it arrived because you weren't there.,q,MS. KAPLAN,start_answer
+233,599,23,17,No.,a,THE WITNESS,start_question
+234,600,23,18,And you don't know how it was delivered; is that correct?,q,MS. KAPLAN,start_answer
+235,602,23,20,Yes.,a,THE WITNESS,start_question
+236,603,23,21,Did you ever see any documentation or written materials accompanying or with the unit?,q,MS. KAPLAN,start_answer
+237,605,23,23,No.,a,THE WITNESS,start_question
+238,607,24,1,"Since the unit was already in place and out of its packaging, whatever that may have been, the first time you saw it you can't say today whether it came with any auxiliary materials, can you?",q,MS. KAPLAN,start_chat
+239,612,24,6,Objection.  This is to the term auxiliary materials.  If you know what that means.,side_chat,MR. DONOHUE,start_answer
+240,615,24,9,"Well, like the pipe are you talking about?",a,THE WITNESS,start_question
+241,616,24,10,Sure.,q,MS. KAPLAN,start_answer
+242,617,24,11,"Okay.  There was pipe.  Whether they were delivered at the same time or not, I do not know that.",a,THE WITNESS,start_question
+243,620,24,14,Understood.  So you had mentioned pipe and you also mentioned a pipe dough; is that correct?,q,MS. KAPLAN,start_answer
+244,622,24,16,Dope.,a,THE WITNESS,start_question
+245,623,24,17,Dope.  Apologies.  So you don't know whether that piping or whether that pipe dope came with the unit or whether it was purchased separately?,q,MS. KAPLAN,start_answer
+246,626,24,20,No.,a,THE WITNESS,start_question
+247,627,24,21,"Do you recall any other auxiliary products, and if you need me to describe that I will but I think you know what I'm referring to, do you recall any others beside the pipe and the pipe dope?",q,MS. KAPLAN,start_answer
+248,633,25,3,"No, I do not.",a,THE WITNESS,start_question
+249,634,25,4,Can you describe the pipe dope?,q,MS. KAPLAN,start_answer
+250,635,25,5,"Came in a small metal can with a lid that popped off.  You'd apply it with a, well, a small paint brush.  Rather stiff paint brush.",a,THE WITNESS,start_question
+251,638,25,8,You said a stiff paint brush?,q,MS. KAPLAN,start_answer
+252,639,25,9,"Well, the bristles were short and stiff.  Not like you'd use for painting a wall.",a,THE WITNESS,start_question
+253,641,25,11,"How big was the can?  I know you said it was small, but could you describe --",q,MS. KAPLAN,start_answer
+254,643,25,13,Maybe three inches in diameter and three inches tall.,a,THE WITNESS,start_question
+255,645,25,15,Did you use any other tools other than the paint brush?,q,MS. KAPLAN,start_answer
+256,647,25,17,With using the pipe dope?,a,THE WITNESS,start_question
+257,648,25,18,Yes.,q,MS. KAPLAN,start_answer
+258,649,25,19,No.,a,THE WITNESS,start_question
+259,650,25,20,Can you recall any writing on that can of pipe dope?,q,MS. KAPLAN,start_answer
+260,652,25,22,No.,a,THE WITNESS,start_question
+261,653,25,23,Is pipe dope a generic or a colloquial term or is that the name of the product?,q,MS. KAPLAN,start_answer
+262,656,26,2,I do not know.,a,THE WITNESS,start_question
+263,657,26,3,Did your father call it pipe dope?,q,MS. KAPLAN,start_answer
+264,658,26,4,Yes.,a,THE WITNESS,start_question
+265,659,26,5,And what did you do with the pipe dope?,q,MS. KAPLAN,start_answer
+266,660,26,6,Applied it to the threads of the pipe before they were connected.,a,THE WITNESS,start_question
+267,662,26,8,Okay.  I'm going to ask you to describe that a little bit further.  So you applied this product to piping pieces that were not connected to the unit itself?,q,MS. KAPLAN,start_answer
+268,666,26,12,Yes.,a,THE WITNESS,start_question
+269,667,26,13,At some point those pipe pieces were connected to the unit; is that correct?,q,MS. KAPLAN,start_answer
+270,669,26,15,Yes.,a,THE WITNESS,start_question
+271,670,26,16,Did you do that work or did someone else do that work?,q,MS. KAPLAN,start_answer
+272,672,26,18,"Attaching it to the boiler itself?  I don't know.  My father or I, possibly my brother.",a,THE WITNESS,start_question
+273,674,26,20,So you don't have a specific recollection of attaching those pipe pieces to the boiler itself?,q,MS. KAPLAN,start_answer
+274,677,26,23,No.,a,THE WITNESS,start_question
+275,679,27,1,Can you say how many pipe pieces were connected to the boiler?,q,MS. KAPLAN,start_answer
+276,681,27,3,Only through logic.  No.,a,THE WITNESS,start_question
+277,682,27,4,"Fair enough.  And like I said, I know this is a long time ago so I don't want to put any undue pressure.  Just whatever you remember. So you would apply this pipe dope product to the pieces of pipe and then would the pieces of pipe also be connected to one another throughout the home?",q,MS. KAPLAN,start_answer
+278,689,27,11,Yes.,a,THE WITNESS,start_question
+279,690,27,12,And was that the majority of your job with respect to the installation of this heating system?,q,MS. KAPLAN,start_answer
+280,693,27,15,Do you mean just applying the pipe dope or connecting the pieces?,a,THE WITNESS,start_question
+281,695,27,17,That whole process.,q,MS. KAPLAN,start_answer
+282,696,27,18,The whole process.  Pipe dope connecting pieces.,a,THE WITNESS,start_question
+283,697,27,19,And then running them through the home?,q,MS. KAPLAN,start_answer
+284,698,27,20,Yes.,a,THE WITNESS,start_question
+285,699,27,21,How long was each piece of pipe?,q,MS. KAPLAN,start_answer
+286,700,27,22,It would depend on how straight a run it would have before it needed to turn.  Variable.,a,THE WITNESS,start_question
+287,703,28,1,Had you finished your answer?  I didn't mean to cut you off.,q,MS. KAPLAN,start_answer
+288,705,28,3,Yes.,a,THE WITNESS,start_question
+289,706,28,4,"Is that why you were cutting pieces, to make them fit throughout the home?",q,MS. KAPLAN,start_answer
+290,708,28,6,Yes.,a,THE WITNESS,start_question
+291,709,28,7,And were they connected to radiators throughout the home?,q,MS. KAPLAN,start_answer
+292,711,28,9,Yes.,a,THE WITNESS,start_question
+293,712,28,10,Did you work on those pieces of equipment at all?,q,MS. KAPLAN,start_answer
+294,714,28,12,No.,a,THE WITNESS,start_question
+295,715,28,13,"As you were doing your role which was the cutting of the pipe and then the threading of the pipe and applying the pipe dope as I understand it, what was your brother doing if you can recall?",q,MS. KAPLAN,start_answer
+296,720,28,18,We didn't work together.  We'd work with my father at different times so it would only be one of us at a time.,a,THE WITNESS,start_question
+297,723,28,21,Why is that?,q,MS. KAPLAN,start_answer
+298,724,28,22,I assume dealing with two children at one time is probably just a little bit too much.,a,THE WITNESS,start_question
+299,727,29,1,Got it.  So you have no memory of observing your brother work on this installation?,q,MS. KAPLAN,start_answer
+300,729,29,3,No.,a,THE WITNESS,start_question
+301,730,29,4,"While you were doing your role which we've previously described, can you recall what you observed your father doing?",q,MS. KAPLAN,start_answer
+302,733,29,7,He was doing the same thing.  It was nothing I was doing alone.,a,THE WITNESS,start_question
+303,735,29,9,So you were working together on this project?,q,MS. KAPLAN,start_answer
+304,736,29,10,Yes.,a,THE WITNESS,start_question
+305,737,29,11,How long in total did it take to install the boiler system?,q,MS. KAPLAN,start_answer
+306,739,29,13,Several weeks probably to a few months.  It was done over the summer.,a,THE WITNESS,start_question
+307,741,29,15,So you would work on it in a piecemeal process; is that fair to say?,q,MS. KAPLAN,start_answer
+308,743,29,17,Yes.,a,THE WITNESS,start_question
+309,744,29,18,"And as I understood your brother's testimony, your family had a cottage in Alton, New Hampshire; is that correct?",q,MS. KAPLAN,start_answer
+310,747,29,21,That's true.,a,THE WITNESS,start_question
+311,748,29,22,And you spent time at that cottage over this summer?,q,MS. KAPLAN,start_answer
+312,751,30,1,Yes.,a,THE WITNESS,start_question
+313,752,30,2,How long how often would you go to that cottage?,q,MS. KAPLAN,start_answer
+314,753,30,3,I don't remember that particular year.,a,THE WITNESS,start_question
+315,754,30,4,How long did you have that cottage?,q,MS. KAPLAN,start_answer
+316,755,30,5,"Well, my parents had it for probably 25 years.",a,THE WITNESS,start_question
+317,756,30,6,Do you know the address of it?,q,MS. KAPLAN,start_answer
+318,757,30,7,"It's Spring, oh, possibly 18, it was Spring Street, Alton.  I think 18.",a,THE WITNESS,start_question
+319,759,30,9,Do you know if it's still there?,q,MS. KAPLAN,start_answer
+320,760,30,10,"Yes, it is.",a,THE WITNESS,start_question
+321,761,30,11,Does your family still own it?,q,MS. KAPLAN,start_answer
+322,762,30,12,No.,a,THE WITNESS,start_question
+323,763,30,13,So you can't say any other products that you recall your father using while you were working with him on this project?,q,MS. KAPLAN,start_answer
+324,766,30,16,No.  No.,a,THE WITNESS,start_question
+325,767,30,17,Can you describe what the basement looked like?,q,MS. KAPLAN,start_answer
+326,768,30,18,"It was a cement floor, cement walls.  It was an unfinished basement.  So washing machine, dryer were down there.  Nothing special.",a,THE WITNESS,start_question
+327,771,30,21,Was it kind of dirty?,q,MS. KAPLAN,start_answer
+328,772,30,22,"Not terribly dirty, but.",a,THE WITNESS,start_question
+329,773,30,23,"If you walked down there with bare feet, would your feet come up a different color?",q,MS. KAPLAN,start_answer
+330,776,31,2,Yeah.,a,THE WITNESS,start_question
+331,777,31,3,"All right.  And after you participated in this installation project, you never repaired or maintained that boiler at all, did you?",q,MS. KAPLAN,start_answer
+332,780,31,6,No.,a,THE WITNESS,start_question
+333,781,31,7,And you were never present while either your brother or your father did any work on the boiler; is that correct?,q,MS. KAPLAN,start_answer
+334,784,31,10,No.,a,THE WITNESS,start_question
+335,785,31,11,"I have a couple photographs I'd like to show you, and I have a copy for your attorney. There's three of them.  Chase, I don't know if you want to take a look at these, too?",q,MS. KAPLAN,start_chat
+336,789,31,15,I can just take a look.,side_chat,MR. MARSHALL,start_chat
+337,790,31,16,"Folks on the phone, I'm showing some photographs, and we'll get these to everyone via email.",side_chat,MS. KAPLAN,start_chat
+338,793,31,19,You're going to take these one by one?,side_chat,MR. DONOHUE,start_chat
+339,795,31,21,"Yes.  And you can sort of ignore the writing.  I mean, you can look at it, but they're just notes.",side_chat,MS. KAPLAN,start_question
+340,799,32,1,So the first photo is a photo of a home.,q,MS. KAPLAN,start_chat
+341,800,32,2,Are we going to mark these as exhibits?,side_chat,MR. DONOHUE,start_chat
+342,802,32,4,"Yes, we can mark them, but I just want to ask her about them.",side_chat,MS. KAPLAN,start_chat
+343,804,32,6,"When you mark them for an exhibit, can you also just state what the statements are underneath the exhibit?",side_chat,MR. DONOHUE,start_chat
+344,807,32,9,Yes.,side_chat,MS. KAPLAN,start_chat
+345,808,32,10,Thank you.,side_chat,MR. DONOHUE,start_question
+346,810,32,12,"Well, the statement is ""Childhood home?"", and that's what I'm going to ask you.  Is this your home at One Stone Avenue?",q,MS. KAPLAN,start_answer
+347,813,32,15,"Yes, it is.",a,THE WITNESS,start_question
+348,814,32,16,And does this photo fairly and accurately depict what your home looked like when you lived there?,q,MS. KAPLAN,start_answer
+349,816,32,18,Substantially.  The front porch is different.,a,THE WITNESS,start_question
+350,817,32,19,Okay.  Is the front porch new or just renovated?,q,MS. KAPLAN,start_answer
+351,818,32,20,New.,a,THE WITNESS,start_question
+352,819,32,21,So there was not a front porch when you were there?,q,MS. KAPLAN,start_answer
+353,821,32,23,"There was, but it was much smaller.",a,THE WITNESS,start_question
+354,823,33,1,"Okay.  Looking at this home, as far as you can tell are the dimensions the same?",q,MS. KAPLAN,start_answer
+355,825,33,3,Yes.,a,THE WITNESS,start_question
+356,826,33,4,So there aren't any additions to the width or length of the house as far as you can tell from this front view?,q,MS. KAPLAN,start_answer
+357,829,33,7,No.,a,THE WITNESS,start_question
+358,830,33,8,So was the basement that I just asked you to describe the size of the home?,q,MS. KAPLAN,start_answer
+359,832,33,10,Yes.  It did not go under the front porch.,a,THE WITNESS,start_question
+360,833,33,11,Understood.  So it would have started underneath the door and the window that we can see?,q,MS. KAPLAN,start_answer
+361,835,33,13,Yes.,a,THE WITNESS,start_question
+362,836,33,14,All right.  So we'll go ahead and mark this as Exhibit 1.,q,MS. KAPLAN,is brackets
+363,838,33,16,(Exhibit 1 marked for identification),brackets,,start_chat
+364,839,33,17,"I'm just going to put an objection on the record to Exhibit 1 to the extent it has a statement on the bottom of it, and I think that's going to become more relevant as the next two exhibits are entered, but I'll restate that objection when the time comes.",side_chat,MR. DONOHUE,start_chat
+365,845,33,23,That's fine.,side_chat,MS. KAPLAN,start_question
+366,848,34,2,"Moving on to the second photograph, is this a building or series of buildings that you recognize were across the street from your home?",q,MS. KAPLAN,start_answer
+367,851,34,5,No.,a,THE WITNESS,start_question
+368,852,34,6,No.  What was across the street from your home at One Stone Avenue?,q,MS. KAPLAN,start_answer
+369,854,34,8,A lumberyard.  You'd see the lumber pile.,a,THE WITNESS,start_question
+370,855,34,9,You could see the lumber.  Okay.  Was it just like a sales lumberyard or was anything happening at that yard?,q,MS. KAPLAN,start_answer
+371,858,34,12,No.  They actually cut the lumber there.,a,THE WITNESS,start_question
+372,859,34,13,They cut the lumber.  Would that lumberyard operate during the day and on weekends and all of that?,q,MS. KAPLAN,start_answer
+373,862,34,16,Yes.  Probably not Sundays.,a,THE WITNESS,start_question
+374,863,34,17,"And, again, I'm just asking for your experience so if you observed it operating.",q,MS. KAPLAN,start_answer
+375,865,34,19,Yes.,a,THE WITNESS,start_chat
+376,866,34,20,Can you specify what time period we're talking about as regards to the lumberyard?,side_chat,MR. DONOHUE,start_question
+377,869,34,23,Sure.  When you moved into the home on One Stone Avenue was the lumberyard there?,q,MS. KAPLAN,start_answer
+378,872,35,2,Yes.,a,THE WITNESS,start_question
+379,873,35,3,And when you moved out of the home on One Stone Avenue which I should ask you do you know what year you moved out of that home?,q,MS. KAPLAN,start_answer
+380,876,35,6,1973.,a,THE WITNESS,start_question
+381,877,35,7,Where did you go from there?,q,MS. KAPLAN,start_answer
+382,878,35,8,To Chestnut Street in Haverhill.,a,THE WITNESS,start_question
+383,879,35,9,Did your parents stay at the One Stone Avenue home?,q,MS. KAPLAN,start_answer
+384,881,35,11,No.,a,THE WITNESS,start_question
+385,882,35,12,Okay.  Did your whole family move to Chestnut Avenue?,q,MS. KAPLAN,start_answer
+386,884,35,14,Yes.  Chestnut Street.,a,THE WITNESS,start_question
+387,885,35,15,Chestnut Street.,q,MS. KAPLAN,start_answer
+388,886,35,16,Yes.,a,THE WITNESS,start_question
+389,887,35,17,What was that address?,q,MS. KAPLAN,start_answer
+390,888,35,18,I don't remember.,a,THE WITNESS,start_question
+391,889,35,19,Was your brother still living with you guys when you moved to Chestnut Street?,q,MS. KAPLAN,start_answer
+392,891,35,21,"My brother was in the Army when we moved, and so I moved out of Chestnut Street and he came back and so he moved in.  We weren't there together.",a,THE WITNESS,start_question
+393,895,36,1,"Understood.  So in 1973, you would have been 22? Is that right?",q,MS. KAPLAN,start_answer
+394,897,36,3,Yes.,a,THE WITNESS,start_question
+395,898,36,4,And do you know whether your brother lived at the Chestnut Street home when he came home from the Army?,q,MS. KAPLAN,start_answer
+396,901,36,7,"Yes, he did.",a,THE WITNESS,start_question
+397,902,36,8,Do you know how long he lived there?,q,MS. KAPLAN,start_answer
+398,903,36,9,"No, I don't.",a,THE WITNESS,start_question
+399,904,36,10,All right.  So then back to the lumberyard.  Was the lumberyard still there and operating when you moved out in 1973?,q,MS. KAPLAN,start_answer
+400,907,36,13,"Yes, it was.",a,THE WITNESS,start_question
+401,908,36,14,We'll mark this as Exhibit 2.,q,MS. KAPLAN,is brackets
+402,909,36,15,(Exhibit 2 marked for identification),brackets,,start_question
+403,910,36,16,"And folks on the phone, the writing on the bottom says ""Industrial Building Across Street"" which Mrs. Jurka says she did not recognize from her childhood living there, but I will send it to you anyway. All right.  So we're now looking at the third photograph which is essentially an aerial view of the area, and --",q,MS. KAPLAN,start_chat
+404,919,37,1,"Jackie, if I may I just, I want to object to this one as well to the extent that it is premarked with labels that seem to depict different businesses. It also has another statement underneath so I'll object to the extent it's suggestive.  I don't know what the basis is for these markings including the street markings as well.",side_chat,MR. DONOHUE,start_chat
+405,927,37,9,The objection is noted.,side_chat,MS. KAPLAN,start_question
+406,929,37,11,"And Ms. Jurka, I'll ask you to take a look at this aerial view, and there's a white circle you may see.  Do you recognize that that is the One Stone Avenue home?",q,MS. KAPLAN,start_answer
+407,933,37,15,Yes.,a,THE WITNESS,start_question
+408,934,37,16,Okay.  And this is where you lived between '55 and '73?,q,MS. KAPLAN,start_answer
+409,936,37,18,Yes.,a,THE WITNESS,start_question
+410,937,37,19,And you'll see some sort of square looking buildings towards the lower and left-hand side of this photograph.  Do you recall whether any of those buildings were there when you lived in that home between 1955 and 1973?,q,MS. KAPLAN,start_answer
+411,943,38,1,I know there were industrial buildings at that site.,a,THE WITNESS,start_question
+412,945,38,3,"Other than the lumberyard, do you know what was going on at any of the other industrial buildings at that site?",q,MS. KAPLAN,start_answer
+413,948,38,6,"I know there was a tannery, and I believe that this building was a tannery.",a,THE WITNESS,start_question
+414,950,38,8,"And I'm going to give you a pen and let you mark which one you thought was a tannery, and this is a pink pen.",q,MS. KAPLAN,start_chat
+415,953,38,11,Thank you.,side_chat,MR. DONOHUE,start_answer
+416,954,38,12,So I believe that was the building there.,a,THE WITNESS,start_question
+417,955,38,13,"Okay.  And for the record, Ms. Jurka has now circled one of the buildings which she believed was the tannery at the time, and that will be on the marked exhibit. Other than the tannery and the lumberyard, do you know what was happening at any of these other buildings between '55 and '73?",q,MS. KAPLAN,start_chat
+418,962,38,20,Can you just specify which buildings?,side_chat,MR. DONOHUE,start_chat
+419,964,38,22,Sure.  The same ones I asked about before which are the sort of square looking build -- the nonresidential buildings. So they begin on the sort of top left corner there.  There's that red one with the black top and then coming down there is that whole left-hand side of the photograph shows square-looking buildings.,side_chat,MS. KAPLAN,start_answer
+420,973,39,7,"Okay.  The red one with the blacktop, that, I think that's a new building, but it was the city maintenance yard where they had their maintenance trucks, sand for the winter, salt.",a,THE WITNESS,start_question
+421,977,39,11,"Your memory is that in that location the city maintenance building and yard was while you lived there, but you don't recognize that red building from that time?",q,MS. KAPLAN,start_answer
+422,981,39,15,No.,a,THE WITNESS,start_question
+423,982,39,16,Understood.  Anything else that you recognize or that you can recall from that area while you lived there?,q,MS. KAPLAN,start_answer
+424,985,39,19,No.,a,THE WITNESS,start_question
+425,986,39,20,We'll go ahead and mark this as Exhibit 3 with Plaintiff's counsel's objections noted.,q,MS. KAPLAN,start_answer
+426,988,39,22,Do you want the red building marked?,a,THE WITNESS,start_question
+427,989,39,23,"Yes.  Let's circle that one.  Actually, strike that.  You don't need to because it's the only red building.",q,MS. KAPLAN,start_answer
+428,993,40,3,"Oh, okay.",a,THE WITNESS,start_question
+429,994,40,4,So you've already identified it.,q,MS. KAPLAN,is brackets
+430,995,40,5,(Exhibit 3 marked for identification),brackets,,start_question
+431,996,40,6,"All right, Ms. Jurka, I'm going to ask you now about sort of the other topic I think you discussed with Mr. Donohue and which you understand brings us all here today and that is what you referred to as your brother's condition.  And you earlier said that it was a mesothelioma.  Is that your understanding of his diagnosis?",q,MS. KAPLAN,start_answer
+432,1004,40,14,Yes.,a,THE WITNESS,start_question
+433,1005,40,15,Do you know what type of mesothelioma he was diagnosed with?,q,MS. KAPLAN,start_answer
+434,1007,40,17,Peritoneal.,a,THE WITNESS,start_question
+435,1008,40,18,And do you know when he was diagnosed?,q,MS. KAPLAN,start_answer
+436,1009,40,19,Last summer.,a,THE WITNESS,start_question
+437,1010,40,20,Were you with him when he received the diagnosis?,q,MS. KAPLAN,start_answer
+438,1012,40,22,"No, I wasn't.",a,THE WITNESS,start_question
+439,1013,40,23,Did he tell you about it?,q,MS. KAPLAN,start_answer
+440,1015,41,1,"Yes, he did.",a,THE WITNESS,start_question
+441,1016,41,2,What did he tell you?,q,MS. KAPLAN,start_answer
+442,1017,41,3,He told me he had been diagnosed with cancer and what type it was.,a,THE WITNESS,start_question
+443,1019,41,5,"Now, I know having the opportunity to have reviewed some medical records that have been provided in this case, I'll represent to you medical records have been provided in this case, and I believe you're listed as the backup proxy for your brother; is that correct?",q,MS. KAPLAN,start_answer
+444,1025,41,11,I did not know that.,a,THE WITNESS,start_question
+445,1026,41,12,Okay.  Fair enough.  Do you know who his medical proxy is?,q,MS. KAPLAN,start_answer
+446,1028,41,14,I don't know that for a fact.  I would believe his wife would be.,a,THE WITNESS,start_question
+447,1030,41,16,All right.  And you understand what a medical proxy is?,q,MS. KAPLAN,start_answer
+448,1032,41,18,Yes.,a,THE WITNESS,start_question
+449,1033,41,19,Have you attended any medical appointments or treatments with your brother?,q,MS. KAPLAN,start_answer
+450,1035,41,21,No.,a,THE WITNESS,start_question
+451,1036,41,22,Does your brother tell you about his medical appointments and treatments after or before they happen?,q,MS. KAPLAN,start_answer
+452,1040,42,2,Sometimes.,a,THE WITNESS,start_question
+453,1041,42,3,Are you aware that your brother had a CT scan in March of this year?,q,MS. KAPLAN,start_answer
+454,1043,42,5,Yes.,a,THE WITNESS,start_question
+455,1044,42,6,Did he tell you what the results of that CT scan were?,q,MS. KAPLAN,start_answer
+456,1046,42,8,"Yes, he did.",a,THE WITNESS,start_question
+457,1047,42,9,Is it your understanding that the results of that CT scan showed no evidence of cancer?,q,MS. KAPLAN,start_answer
+458,1049,42,11,Yes.,a,THE WITNESS,start_question
+459,1050,42,12,Did your brother tell you that?,q,MS. KAPLAN,start_answer
+460,1051,42,13,Yes.  He did.,a,THE WITNESS,start_question
+461,1052,42,14,Did he tell you anything else about that CT scan?,q,MS. KAPLAN,start_answer
+462,1054,42,16,No.,a,THE WITNESS,start_question
+463,1055,42,17,I'll represent to you that your brother testified on Day 2 of his deposition which happened just a week or two ago that his diagnosis has not slowed him down at all.  Is that your impression of his diagnosis as well?,q,MS. KAPLAN,start_answer
+464,1060,42,22,"Physically, yes.  But I think psychologically it has affected him.",a,THE WITNESS,start_question
+465,1063,43,1,Okay.  What does your brother like to do with his free time?,q,MS. KAPLAN,start_answer
+466,1065,43,3,His biggest hobby is pickleball.,a,THE WITNESS,start_question
+467,1066,43,4,And does he still play pickleball?,q,MS. KAPLAN,start_answer
+468,1067,43,5,Yes.  He does.,a,THE WITNESS,start_question
+469,1068,43,6,Where does he play pickleball?,q,MS. KAPLAN,start_answer
+470,1069,43,7,In several different communities locally. Different days different places.,a,THE WITNESS,start_question
+471,1071,43,9,Do you ever play with him?,q,MS. KAPLAN,start_answer
+472,1072,43,10,No.,a,THE WITNESS,start_question
+473,1073,43,11,Have you ever played?,q,MS. KAPLAN,start_answer
+474,1074,43,12,No.,a,THE WITNESS,start_question
+475,1075,43,13,"All right, Ms. Jurka.  If you'll give me a minute we'll go off the record, and I'm going to take a quick look at my notes and then hopefully we'll be done and then we'll see if anyone else has questions for you, okay?",q,MS. KAPLAN,start_answer
+476,1080,43,18,Okay.,a,THE WITNESS,start_question
+477,1081,43,19,Off the record.,q,MS. KAPLAN,is brackets
+478,1082,43,20,(Off the record),brackets,,start_chat
+479,1083,43,21,"While I'm looking at my notes, does anyone on the phone have questions for Mrs. Jurka?",side_chat,MS. KAPLAN,start_chat
+480,1087,44,1,I have a couple short questions.,side_chat,MR. ROSSETTI,start_chat
+481,1089,44,3,Is that Steve?,side_chat,MS. KAPLAN,start_chat
+482,1090,44,4,Yes.  I have literally about two minutes.,side_chat,MR. ROSSETTI,start_chat
+483,1092,44,6,Okay.  Are you okay to keep going?,side_chat,MS. KAPLAN,start_chat
+484,1094,44,8,"Yes, I am.",side_chat,THE WITNESS,start_chat
+485,1095,44,9,"All right.  So Steve, if you want to go ahead? EXAMINATION",side_chat,MS. KAPLAN,start_question
+486,1099,44,13,"Thank you, Mrs. Jurka.  Can you hear me okay?",q,MR. ROSSETTI,start_answer
+487,1100,44,14,"Yes, I can.",a,THE WITNESS,start_question
+488,1101,44,15,"Okay.  Thank you.  You testified about the boiler that was installed at One Stone Avenue for a decent amount of time this morning so I don't want to belabor that, but my questions are going to be related to that, okay?",q,MR. ROSSETTI,start_answer
+489,1106,44,20,Okay.,a,THE WITNESS,start_question
+490,1107,44,21,"All right.  And if you don't understand my question, please let me know.  Okay?",q,MR. ROSSETTI,start_answer
+491,1109,44,23,Yes.,a,THE WITNESS,start_question
+492,1111,45,1,"Okay.  You were not present when your father purchased that boiler, correct?",q,MR. ROSSETTI,start_answer
+493,1113,45,3,No.  I was not.,a,THE WITNESS,start_question
+494,1114,45,4,"Okay.  So you don't know where he purchased the boiler, correct?",q,MR. ROSSETTI,start_answer
+495,1116,45,6,I'm sure it came through the Haverhill Gas Company.  He had purchased other appliances through them.,a,THE WITNESS,start_question
+496,1119,45,9,"Okay.  But that wasn't the question that I asked you.  You don't know whether or not he purchased it through Haverhill Gas or if he purchased it somewhere else, correct?",q,MR. ROSSETTI,start_answer
+497,1123,45,13,"No, I don't.",a,THE WITNESS,start_question
+498,1124,45,14,"Okay.  So that could have been purchased with a discount that he received as a Haverhill Gas employee from some other place, correct?",q,MR. ROSSETTI,start_answer
+499,1127,45,17,No.  His discount would have been through the Haverhill Gas Company.,a,THE WITNESS,start_question
+500,1129,45,19,"Okay.  But again, you didn't see him purchase it and you weren't there when he purchased it, correct?",q,MR. ROSSETTI,start_answer
+501,1132,45,22,No.  I was not.,a,THE WITNESS,start_question
+502,1133,45,23,Okay.  I think that's all the questions I have for right now.  Thank you very much for your time.,q,MR. ROSSETTI,start_chat
+503,1137,46,3,And I am all set as well.  So does anyone else on the phone have questions for Mrs. Jurka before we turn it over to Matt?,side_chat,MS. KAPLAN,is brackets
+504,1140,46,6,(No audible response),brackets,,start_chat
+505,1141,46,7,I will take that as a no.  Do you guys want to take a little break or do you want to just go?,side_chat,MS. KAPLAN,start_chat
+506,1144,46,10,Let's take five minutes.,side_chat,MR. DONOHUE,start_chat
+507,1145,46,11,Okay.  Five-minute break.,side_chat,MS. KAPLAN,is brackets
+508,1146,46,12,(Recess taken 12:06 - 12:15) EXAMINATION,brackets,,start_question
+509,1149,46,15,"Thank you.  We're back on the record.  Mrs. Jurka, this is Matt Donohue.  As you know, I represent your brother, and I'm just going to ask you a few what I imagine to be final questions for today. May I see Exhibit 3?  Mrs. Jurka, I'm going to hand you Exhibit 3.  I actually have a couple very quick questions for you.  Have you seen this photo before today?",q,MR. DONOHUE,start_answer
+510,1159,47,1,No.,a,THE WITNESS,start_question
+511,1160,47,2,Do you know when this photo was taken?,q,MR. DONOHUE,start_answer
+512,1161,47,3,No.,a,THE WITNESS,start_question
+513,1162,47,4,"And you said that you believe the home circled in the white circle is the home you lived in on Stone Avenue, correct?",q,MR. DONOHUE,start_answer
+514,1165,47,7,Yes.,a,THE WITNESS,start_question
+515,1166,47,8,Are you familiar with any of the names or businesses that are written elsewhere on that exhibit?,q,MR. DONOHUE,start_answer
+516,1169,47,11,"No, I'm not.",a,THE WITNESS,start_question
+517,1170,47,12,Did you put those names or business names on this photograph?,q,MR. DONOHUE,start_answer
+518,1172,47,14,"No, I did not.",a,THE WITNESS,start_question
+519,1173,47,15,Do you know why they were put on this photograph?,q,MR. DONOHUE,start_answer
+520,1175,47,17,No.,a,THE WITNESS,start_question
+521,1176,47,18,And does this depict your neighborhood exactly as it appeared when you lived there growing up?,q,MR. DONOHUE,start_answer
+522,1178,47,20,Not exactly.,a,THE WITNESS,start_question
+523,1179,47,21,"Okay.  Now, you previously testified that you believed the boiler that was installed at your home on Stone Avenue was purchased through Haverhill Gas; is that correct?",q,MR. DONOHUE,start_answer
+524,1184,48,2,Yes.,a,THE WITNESS,start_question
+525,1185,48,3,And did your father purchase any other appliances through Haverhill Gas?,q,MR. DONOHUE,start_answer
+526,1187,48,5,"A stove, two stoves.  And central air conditioning system.",a,THE WITNESS,start_question
+527,1189,48,7,Did you ever know your father to purchase appliances for your home from any other store or through any other entity?,q,MR. DONOHUE,start_answer
+528,1192,48,10,No.,a,THE WITNESS,start_question
+529,1193,48,11,"You previously said your brother was quote, unquote, mentally affected by --",q,MR. DONOHUE,start_chat
+530,1195,48,13,Objection.,side_chat,MS. KAPLAN,start_question
+531,1196,48,14,-- by the diagnosis.,q,MR. DONOHUE,start_answer
+532,1197,48,15,Yes.,a,THE WITNESS,start_question
+533,1198,48,16,Could you say a little bit more about what you think your brother is going through?,q,MR. DONOHUE,start_answer
+534,1200,48,18,"I think he's under a lot of stress.  He has said to me that he's not concerned as much about himself but leaving and leaving his wife and children when they might need him.  Going for the scan, he was concerned.  Who knows if the mesothelioma will come back and the stress of is it back now.",a,THE WITNESS,start_question
+535,1208,49,2,Okay.  All right.  That's all the questions I have for you.,q,MR. DONOHUE,start_chat
+536,1210,49,4,Anyone on the phone have followup?,side_chat,MS. KAPLAN,is brackets
+537,1212,49,6,(No audible response),brackets,,start_chat
+538,1213,49,7,"Thank you very much, Mrs. Jurka.  I appreciate you coming in today.",side_chat,MR. DONOHUE,is brackets
+539,1215,49,9,(Deposition ended at 12:18 p.m.),brackets,,end

@@ -1,0 +1,897 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,128,5,13,- - - EXAMINATION,symbols,,symbols
+2,130,5,15,- - -,symbols,,start_question
+3,132,5,17,"Good afternoon, Ms. Mendez.",q,MS. FRASCELLA,start_answer
+4,133,5,18,Good afternoon.,a,THE WITNESS,start_question
+5,134,5,19,My name is Kim Frascella.  I represent Mr. Hunter in this litigation. Have you ever given a deposition before?,q,MS. FRASCELLA,start_answer
+6,138,5,23,No.,a,THE WITNESS,start_question
+7,139,5,24,I'm going to start by giving you some instructions.,q,MS. FRASCELLA,start_answer
+8,142,6,2,Okay.,a,THE WITNESS,start_question
+9,143,6,3,"My first instruction is going to be that all your responses need to be verbal. If you nod your head or say uh-uh or uh-huh, that cannot properly be reflected on the stenographic record.",q,MS. FRASCELLA,start_answer
+10,148,6,8,Okay.,a,THE WITNESS,start_question
+11,149,6,9,"If you give that type of response, either I will or your attorney will prompt you to give a verbal response, okay?",q,MS. FRASCELLA,start_answer
+12,152,6,12,Okay.,a,THE WITNESS,start_question
+13,153,6,13,"If you don't understand one of my questions, please let me know, and I'll rephrase it for you, okay?",q,MS. FRASCELLA,start_answer
+14,156,6,16,Okay.,a,THE WITNESS,start_question
+15,157,6,17,"If you don't know an answer to one of my questions or don't recall specific information, it's perfectly acceptable to tell me that.",q,MS. FRASCELLA,start_answer
+16,161,6,21,Okay.,a,THE WITNESS,start_question
+17,162,6,22,"No one here wants you to guess.  If you can estimate things like time or distance, that would be appreciated.  But if you just don't know or can't say, you can state that for the record, okay?",q,MS. FRASCELLA,start_answer
+18,168,7,3,Okay.,a,THE WITNESS,start_question
+19,169,7,4,"I ask that you wait until I complete my question before you begin your answer so that we're not speaking over one another. It's difficult for the court reporter to take down what's being said if we're talking over one another, okay?",q,MS. FRASCELLA,start_answer
+20,175,7,10,Okay.,a,THE WITNESS,start_question
+21,176,7,11,"You seem emotional already, and we haven't even gotten started.  Can I ask you why?",q,MS. FRASCELLA,start_answer
+22,179,7,14,It's difficult seeing the gentleman.,a,THE WITNESS,start_question
+23,180,7,15,Why is it difficult?,q,MS. FRASCELLA,start_chat
+24,181,7,16,Are you okay?  Do you want to step out for a moment with me?  Are you all right?,side_chat,MR. DALY,start_chat
+25,184,7,19,"It's difficult seeing the gentleman because since the day of the accident everything pretty much went bad, was ruined.",side_chat,THE WITNESS,start_question
+26,189,7,24,Was there anything in particular that occurred at the scene of the accident that's making you upset here today?,q,MS. FRASCELLA,start_answer
+27,193,8,3,I was with my daughter.,a,THE WITNESS,start_question
+28,194,8,4,She has another lawyer. Are you aware of that?,q,MS. FRASCELLA,start_answer
+29,196,8,6,Yes.,a,THE WITNESS,start_question
+30,197,8,7,Are you her Power of Attorney?,q,MS. FRASCELLA,start_answer
+31,198,8,8,Yes.,a,THE WITNESS,start_question
+32,199,8,9,Are you her legal guardian?,q,MS. FRASCELLA,start_answer
+33,200,8,10,Yes.,a,THE WITNESS,start_question
+34,201,8,11,Did you sign the letters of representation for the other lawyer for her for Mr. Wilson?,q,MS. FRASCELLA,start_answer
+35,204,8,14,Yes.,a,THE WITNESS,start_question
+36,205,8,15,"This accident occurred on June 10, 2018, correct?",q,MS. FRASCELLA,start_answer
+37,207,8,17,Yes.,a,THE WITNESS,start_question
+38,208,8,18,What time of day did it occur?,q,MS. FRASCELLA,start_answer
+39,209,8,19,I don't remember.,a,THE WITNESS,start_question
+40,210,8,20,"Can you tell me if it was during the day, afternoon, evening?",q,MS. FRASCELLA,start_answer
+41,212,8,22,In the afternoon.,a,THE WITNESS,start_question
+42,213,8,23,What were the weather conditions?,q,MS. FRASCELLA,start_answer
+43,214,8,24,"It was rainy, grayish, muggy weather.",a,THE WITNESS,start_question
+44,216,9,1,"My understanding is you were operating the vehicle that was involved in the accident on June 10, 2018, correct?",q,MS. FRASCELLA,start_answer
+45,219,9,4,Yes.,a,THE WITNESS,start_question
+46,220,9,5,What vehicle were you operating?,q,MS. FRASCELLA,start_answer
+47,221,9,6,"It was a Ford, white Ford.",a,THE WITNESS,start_question
+48,222,9,7,Was it a Bronco?  Was it an SUV?,q,MS. FRASCELLA,start_answer
+49,223,9,8,I think it was an Explorer.,a,THE WITNESS,start_question
+50,224,9,9,You owned that vehicle on that day?,q,MS. FRASCELLA,start_answer
+51,225,9,10,Yes.,a,THE WITNESS,start_question
+52,226,9,11,How long had you owned that vehicle?,q,MS. FRASCELLA,start_answer
+53,227,9,12,I don't remember.,a,THE WITNESS,start_question
+54,228,9,13,Do you still own that vehicle?,q,MS. FRASCELLA,start_answer
+55,229,9,14,No.,a,THE WITNESS,start_question
+56,230,9,15,"On the day of the accident, were you married?",q,MS. FRASCELLA,start_answer
+57,232,9,17,No.,a,THE WITNESS,start_question
+58,233,9,18,"On the day of the accident, did you live with anyone other than your children?",q,MS. FRASCELLA,start_answer
+59,235,9,20,Can you repeat that question?,a,THE WITNESS,start_question
+60,236,9,21,"Other than your children, as of the day of the accident, did anyone else live with you?",q,MS. FRASCELLA,start_answer
+61,239,9,24,My mother.,a,THE WITNESS,start_question
+62,241,10,1,What's your mother's name?,q,MS. FRASCELLA,start_answer
+63,242,10,2,Julia Rios.,a,THE WITNESS,start_question
+64,243,10,3,"What's your full name, ma'am?",q,MS. FRASCELLA,start_answer
+65,244,10,4,Jessica Mendez.,a,THE WITNESS,start_question
+66,245,10,5,Have you ever been known by any other names?,q,MS. FRASCELLA,start_answer
+67,247,10,7,No.,a,THE WITNESS,start_question
+68,248,10,8,Have you ever been married?,q,MS. FRASCELLA,start_answer
+69,249,10,9,No.,a,THE WITNESS,start_question
+70,250,10,10,"I saw in your answers to interrogatories you provided the names of two gentleman, Ray and Antonio?",q,MS. FRASCELLA,start_answer
+71,253,10,13,Yes.,a,THE WITNESS,start_question
+72,254,10,14,Who are those gentleman?,q,MS. FRASCELLA,start_answer
+73,255,10,15,Those gentleman were there the day of the accident.,a,THE WITNESS,start_question
+74,257,10,17,"When you say they were there, where?",q,MS. FRASCELLA,start_answer
+75,258,10,18,On Broad Street when we had the accident.,a,THE WITNESS,start_question
+76,260,10,20,You're saying they were witnesses to the accident?,q,MS. FRASCELLA,start_answer
+77,262,10,22,Yes.,a,THE WITNESS,start_question
+78,263,10,23,Have you spoken to either of them since the day of the accident?,q,MS. FRASCELLA,start_answer
+79,266,11,1,No.,a,THE WITNESS,start_question
+80,267,11,2,Did you call anyone from the scene of the accident?,q,MS. FRASCELLA,start_answer
+81,269,11,4,Repeat that question.,a,THE WITNESS,start_question
+82,270,11,5,Did you call anyone from the scene of the accident?,q,MS. FRASCELLA,start_answer
+83,272,11,7,Yes.,a,THE WITNESS,start_question
+84,273,11,8,Who did you call?,q,MS. FRASCELLA,start_answer
+85,274,11,9,"Everyone; my mom, my sister, my kids' father.",a,THE WITNESS,start_question
+86,276,11,11,Did he come to the scene?,q,MS. FRASCELLA,start_answer
+87,277,11,12,No.,a,THE WITNESS,start_question
+88,278,11,13,Did any of your relatives or friends that you contacted from the scene of the accident arrive on the scene?,q,MS. FRASCELLA,start_answer
+89,281,11,16,Yes.,a,THE WITNESS,start_question
+90,282,11,17,Who?,q,MS. FRASCELLA,start_answer
+91,283,11,18,I called the police.  They came first. Then my dad came.  Then my sister came.,a,THE WITNESS,start_question
+92,285,11,20,What's your dad's name?,q,MS. FRASCELLA,start_answer
+93,286,11,21,"Well, step-dad, but I call him dad. Sorry.",a,THE WITNESS,start_question
+94,288,11,23,That's fine.,q,MS. FRASCELLA,start_answer
+95,289,11,24,His name is Juan.,a,THE WITNESS,start_question
+96,291,12,1,Juan what?,q,MS. FRASCELLA,start_answer
+97,292,12,2,Alverado.,a,THE WITNESS,start_question
+98,293,12,3,"What about your sister, what's her name?",q,MS. FRASCELLA,start_answer
+99,295,12,5,Veronica.,a,THE WITNESS,start_question
+100,296,12,6,What's her last name?,q,MS. FRASCELLA,start_answer
+101,297,12,7,Alverado.,a,THE WITNESS,start_question
+102,298,12,8,"My understanding is your daughter's last name is Alverado, as well?",q,MS. FRASCELLA,start_answer
+103,300,12,10,Correct.,a,THE WITNESS,start_question
+104,301,12,11,"Does she have any relation to Juan, your daughter?",q,MS. FRASCELLA,start_answer
+105,303,12,13,Step-granddaughter.  I call him dad.,a,THE WITNESS,start_question
+106,304,12,14,I'm not trying to be smart when I ask that question.  They just have a similar name.  I want to know whether or not they are biologically related in any way.,q,MS. FRASCELLA,start_answer
+107,308,12,18,No.,a,THE WITNESS,start_question
+108,309,12,19,Did your step-father and your sister arrive separately?,q,MS. FRASCELLA,start_answer
+109,311,12,21,I don't recall.,a,THE WITNESS,start_question
+110,312,12,22,Did your stepfather or sister arrive before or after the police?,q,MS. FRASCELLA,start_answer
+111,314,12,24,After.,a,THE WITNESS,start_question
+112,316,13,1,Is there anyone else who could have been operating your vehicle at the time of the accident?,q,MS. FRASCELLA,start_answer
+113,319,13,4,No.,a,THE WITNESS,start_question
+114,320,13,5,"Can you give me a physical description of your daughter, please.",q,MS. FRASCELLA,start_answer
+115,322,13,7,She's small.  She looks like a nine-year-old little girl.  She weighs about 90 pounds.,a,THE WITNESS,start_question
+116,325,13,10,How old is she?,q,MS. FRASCELLA,start_answer
+117,326,13,11,She's 19 now.,a,THE WITNESS,start_question
+118,327,13,12,"My understanding is she does have some sort of disability, correct?",q,MS. FRASCELLA,start_answer
+119,329,13,14,Yes.,a,THE WITNESS,start_question
+120,330,13,15,What is the nature of that disability?,q,MS. FRASCELLA,start_answer
+121,331,13,16,"Microcephaly, pachygyria, cerebral palsy.  She also has seizures.  She gets seizures.",a,THE WITNESS,start_question
+122,334,13,19,Does she speak?,q,MS. FRASCELLA,start_answer
+123,335,13,20,No.,a,THE WITNESS,start_question
+124,336,13,21,How does she communicate?,q,MS. FRASCELLA,start_answer
+125,337,13,22,"Hand signals, not sign language, kind of mumbling.",a,THE WITNESS,start_question
+126,339,13,24,She's never been given -- you ever see the tablets that some children with disabilities have to communicate with those?,q,MS. FRASCELLA,start_answer
+127,343,14,3,It's too complicated for her.,a,THE WITNESS,start_question
+128,344,14,4,Is she able to walk?,q,MS. FRASCELLA,start_answer
+129,345,14,5,Yes.,a,THE WITNESS,start_question
+130,346,14,6,She doesn't have a wheelchair?,q,MS. FRASCELLA,start_answer
+131,347,14,7,"She does have a wheelchair.  Because she has cerebral palsy, it's difficult for her to walk.",a,THE WITNESS,start_question
+132,350,14,10,"At the scene of the accident, was she able to exit the vehicle and stand?",q,MS. FRASCELLA,start_answer
+133,352,14,12,We had to pick her up.,a,THE WITNESS,start_question
+134,353,14,13,You say we?,q,MS. FRASCELLA,start_answer
+135,354,14,14,Me and one of the gentleman that were there.,a,THE WITNESS,start_question
+136,356,14,16,When did you first speak to either Ray or Antonio at the scene?,q,MS. FRASCELLA,start_answer
+137,358,14,18,"All I remember we had the accident, and the gentlemen came running to the car. That's the first time I ever seen them and spoke to them.  I don't know who they were.",a,THE WITNESS,start_question
+138,362,14,22,Both of them at the same time?,q,MS. FRASCELLA,start_answer
+139,363,14,23,"One came first and one was trying to turn off the car because the car was smoking. I was panicked, and my daughter was screaming.  She was going through a panic attack.",a,THE WITNESS,start_question
+140,369,15,4,I read in your interrogatories that at the time of the accident she was asleep; is that correct?,q,MS. FRASCELLA,start_answer
+141,372,15,7,"Yeah, she was like -- I don't know -- like dozing off, not sleep sleep.",a,THE WITNESS,start_question
+142,374,15,9,Where was she seated in the vehicle?,q,MS. FRASCELLA,start_answer
+143,375,15,10,In the front.,a,THE WITNESS,start_question
+144,376,15,11,Passenger seat?,q,MS. FRASCELLA,start_answer
+145,377,15,12,Yes.,a,THE WITNESS,start_question
+146,378,15,13,"Did either of those gentleman, Ray Or Antonio, indicate to you that they witnessed the accident?",q,MS. FRASCELLA,start_answer
+147,381,15,16,Yes.,a,THE WITNESS,start_question
+148,382,15,17,Were they there when the police arrived?,q,MS. FRASCELLA,start_answer
+149,384,15,19,Yes.,a,THE WITNESS,start_question
+150,385,15,20,Did they speak to the police?,q,MS. FRASCELLA,start_answer
+151,386,15,21,Yes.,a,THE WITNESS,start_question
+152,387,15,22,Have you seen the police report in this case?,q,MS. FRASCELLA,start_answer
+153,389,15,24,No.,a,THE WITNESS,start_question
+154,391,16,1,Do you know whether or not either one of them were indicated on the police report?,q,MS. FRASCELLA,start_answer
+155,393,16,3,"Not that I know of, no.",a,THE WITNESS,start_question
+156,394,16,4,Do you know specifically who said what or who saw what?,q,MS. FRASCELLA,start_answer
+157,396,16,6,No.,a,THE WITNESS,start_question
+158,397,16,7,Can you give me a general idea of what they communicated to you at the scene?,q,MS. FRASCELLA,start_answer
+159,399,16,9,"They were trying to help me exit the car because it was smoking.  It was pretty bad.  There was things leaking, and they were scared it was going to catch on fire or something.  They were trying to help my daughter out of the vehicle with myself. I cannot specifically say who went after the other gentleman.  I was standing with one of them.  I don't remember.  Maybe if I see them, I'll be like, okay, you're this one, and you're the one that was standing next to me. One of them went after the gentleman, and one of them was with me to help take my daughter out of the car.  That was pretty much it.  They were like, are you okay?  We saw everything.  We're going to go stop the gentleman because he kept on going.",a,THE WITNESS,start_question
+160,418,17,3,Where did he go?,q,MS. FRASCELLA,start_answer
+161,419,17,4,He just kept on going.,a,THE WITNESS,start_question
+162,420,17,5,Where did he go?,q,MS. FRASCELLA,start_answer
+163,421,17,6,"He just kept on going, moving his car as if he was going to leave.",a,THE WITNESS,start_question
+164,423,17,8,"My understanding is that Conlyn Street dead ends into Old York Road, right?",q,MS. FRASCELLA,start_answer
+165,425,17,10,I think so.  I don't recall the streets.  I just remember I was going down Broad Street.,a,THE WITNESS,start_question
+166,428,17,13,Are you familiar with that area?,q,MS. FRASCELLA,start_answer
+167,429,17,14,No.,a,THE WITNESS,start_question
+168,430,17,15,Where do you live in relation to the area?,q,MS. FRASCELLA,start_answer
+169,432,17,17,"I live here in Philadelphia.  I don't know what you call my mom's area.  It's close to Allegheny, like 5th and Allegheny.",a,THE WITNESS,start_question
+170,435,17,20,You're not familiar with the area where the accident occurred?,q,MS. FRASCELLA,start_answer
+171,437,17,22,"No.  That part up there, I think, is called Cheltenham, if I'm not mistaken, or is close to Cheltenham.",a,THE WITNESS,start_question
+172,441,18,1,"After the accident occurred, where did you see my client's vehicle?",q,MS. FRASCELLA,start_answer
+173,443,18,3,"I didn't see it until after I was leaving to go to the emergency room. Everything was just really, really crazy, and this car was way off to the -- going this way to the right side.  There is a gas station, and his car was parked on the other side where the gas station was at.",a,THE WITNESS,start_chat
+174,450,18,10,To the right of you?,side_chat,MR. DALY,start_chat
+175,451,18,11,"Yeah, this way.",side_chat,THE WITNESS,start_question
+176,453,18,13,To the right?,q,MS. FRASCELLA,start_answer
+177,454,18,14,"Yeah, we're going this way, and he just kept on going.",a,THE WITNESS,start_question
+178,456,18,16,You were going southbound on Broad Street?,q,MS. FRASCELLA,start_answer
+179,458,18,18,"Yeah, towards Temple.",a,THE WITNESS,start_question
+180,459,18,19,What lane of travel were you in?,q,MS. FRASCELLA,start_answer
+181,460,18,20,What do you mean?,a,THE WITNESS,start_question
+182,461,18,21,How many lanes of travel in your direction on Broad Street?,q,MS. FRASCELLA,start_answer
+183,463,18,23,I think there was two.,a,THE WITNESS,start_question
+184,464,18,24,What lane were you in?,q,MS. FRASCELLA,start_answer
+185,466,19,1,I was on this lane.,a,THE WITNESS,start_question
+186,467,19,2,I don't know what that means.,q,MS. FRASCELLA,start_answer
+187,468,19,3,"I'm sorry, I guess --",a,THE WITNESS,start_question
+188,469,19,4,Closer to the center or closer to the shoulder?,q,MS. FRASCELLA,start_answer
+189,471,19,6,"Closer to the shoulder, not the center.",a,THE WITNESS,start_question
+190,473,19,8,Your testimony is that you were in the right lane of travel?,q,MS. FRASCELLA,start_answer
+191,475,19,10,Yeah.,a,THE WITNESS,start_question
+192,476,19,11,Closer to the Sunoco?,q,MS. FRASCELLA,start_answer
+193,477,19,12,"Yeah, closer to where the gas station would be at, much further, though.  I know there is a gas station.  It was behind me. I'm on the right side of the lane.  There's two lanes; there's one left and one right.  I was on the right side.",a,THE WITNESS,start_question
+194,483,19,18,Where did the accident occur?,q,MS. FRASCELLA,start_answer
+195,484,19,19,On Broad Street.,a,THE WITNESS,start_question
+196,485,19,20,Where?,q,MS. FRASCELLA,start_answer
+197,486,19,21,I don't remember.,a,THE WITNESS,start_question
+198,487,19,22,Did it intersect with a street?,q,MS. FRASCELLA,start_answer
+199,488,19,23,I don't remember.,a,THE WITNESS,start_question
+200,489,19,24,Where were you heading at the time of the accident?,q,MS. FRASCELLA,start_answer
+201,492,20,2,Home.,a,THE WITNESS,start_question
+202,493,20,3,From where?,q,MS. FRASCELLA,start_answer
+203,494,20,4,From dropping off my children.,a,THE WITNESS,start_question
+204,495,20,5,Where where were you dropping them off?,q,MS. FRASCELLA,start_answer
+205,497,20,7,In the Poconos.,a,THE WITNESS,start_question
+206,498,20,8,What were they doing in the Poconos?,q,MS. FRASCELLA,start_answer
+207,499,20,9,With their father.,a,THE WITNESS,start_question
+208,500,20,10,Was there a particular reason why you were on Broad Street on that route?,q,MS. FRASCELLA,start_answer
+209,502,20,12,The Map Quest said it was shorter. There was some kind of accident.  It just kind of veered me towards Broad Street.,a,THE WITNESS,start_question
+210,505,20,15,You were listening to some sort of GPS device at the time of the accident?,q,MS. FRASCELLA,start_answer
+211,507,20,17,"Yeah, the car has the little bluetooth to the phone.",a,THE WITNESS,start_question
+212,509,20,19,You had the directions mapped into the phone?,q,MS. FRASCELLA,start_answer
+213,511,20,21,Yeah.,a,THE WITNESS,start_question
+214,512,20,22,It was giving you prompts?,q,MS. FRASCELLA,start_answer
+215,513,20,23,Yeah.,a,THE WITNESS,start_question
+216,514,20,24,Can you tell me if the accident occurred at an intersection?,q,MS. FRASCELLA,start_answer
+217,517,21,2,Not that I remember.,a,THE WITNESS,start_question
+218,518,21,3,"Have you seen any photographs of the scene of the accident, Google map, anything?",q,MS. FRASCELLA,start_answer
+219,520,21,5,I don't even go down Broad Street anymore.  That's how bad it is.,a,THE WITNESS,start_question
+220,522,21,7,Were your headlights on?,q,MS. FRASCELLA,start_answer
+221,523,21,8,Yes.,a,THE WITNESS,start_question
+222,524,21,9,"At the time of the accident, were you in a romantic relationship with anyone?",q,MS. FRASCELLA,start_chat
+223,526,21,11,"Objection. You can answer, unless you don't want to.",side_chat,MR. DALY,start_chat
+224,529,21,14,Yes.,side_chat,THE WITNESS,start_question
+225,531,21,16,"I'm not saying this to be smart, I'm really not.  The romantic relationship that you were in on the day of the accident, was it with a man or woman?",q,MS. FRASCELLA,start_answer
+226,535,21,20,It was with a man.,a,THE WITNESS,start_question
+227,536,21,21,How long had you been dating that individual at the time of the accident?,q,MS. FRASCELLA,start_answer
+228,538,21,23,A few months.,a,THE WITNESS,start_question
+229,539,21,24,Did that person operate your vehicle?,q,MS. FRASCELLA,start_answer
+230,541,22,1,No.,a,THE WITNESS,start_question
+231,542,22,2,Did that person ever interact with your children?,q,MS. FRASCELLA,start_chat
+232,544,22,4,Objection. You can answer.,side_chat,MR. DALY,start_chat
+233,546,22,6,No.,side_chat,THE WITNESS,start_question
+234,548,22,8,Did he ever drive your children anywhere?,q,MS. FRASCELLA,start_answer
+235,550,22,10,No.,a,THE WITNESS,start_question
+236,551,22,11,Did you share your vehicle with anyone else?,q,MS. FRASCELLA,start_answer
+237,553,22,13,No.,a,THE WITNESS,start_question
+238,554,22,14,"How about your stepfather, did he ever operate your vehicle?",q,MS. FRASCELLA,start_answer
+239,556,22,16,No.,a,THE WITNESS,start_question
+240,557,22,17,Did you have any male family members or friends who you would let use your vehicle?,q,MS. FRASCELLA,start_answer
+241,560,22,20,No.,a,THE WITNESS,start_question
+242,561,22,21,What route did you take from the Poconos home?,q,MS. FRASCELLA,start_answer
+243,563,22,23,309.,a,THE WITNESS,start_question
+244,564,22,24,Not the turnpike?,q,MS. FRASCELLA,start_answer
+245,566,23,1,No.,a,THE WITNESS,start_question
+246,567,23,2,Did you make any stops on the way?,q,MS. FRASCELLA,start_answer
+247,568,23,3,Not that I remember.,a,THE WITNESS,start_question
+248,569,23,4,You indicated that you were using GPS through your cell phone. What was your cell phone number on the day of the accident?,q,MS. FRASCELLA,start_answer
+249,573,23,8,"I have two phones, so I don't know which one was being used.",a,THE WITNESS,start_question
+250,575,23,10,Do you recall both numbers?,q,MS. FRASCELLA,start_answer
+251,576,23,11,"(267)499-8579, and the other one (267)954-1243.",a,THE WITNESS,start_question
+252,578,23,13,Are they both through the same carrier?,q,MS. FRASCELLA,start_answer
+253,580,23,15,Yes.,a,THE WITNESS,start_question
+254,581,23,16,Who was the carrier on the day of the accident?,q,MS. FRASCELLA,start_answer
+255,583,23,18,Metro.,a,THE WITNESS,start_question
+256,584,23,19,Is there a particular reason why you have two cell phones?,q,MS. FRASCELLA,start_answer
+257,586,23,21,For work.,a,THE WITNESS,start_question
+258,587,23,22,Was one a work-issued phone?,q,MS. FRASCELLA,start_answer
+259,588,23,23,"No, no.  I have two phones because my job calls me, and then I have another phone because my daughter needs something to play with.  If the phone dies, I have the second phone so my job can call me.",a,THE WITNESS,start_question
+260,594,24,4,Are you the only one on that plan?,q,MS. FRASCELLA,start_answer
+261,595,24,5,Yes.,a,THE WITNESS,start_question
+262,596,24,6,How many other children do you have?,q,MS. FRASCELLA,start_answer
+263,597,24,7,Two.,a,THE WITNESS,start_question
+264,598,24,8,How old are they?,q,MS. FRASCELLA,start_answer
+265,599,24,9,14 and 13.,a,THE WITNESS,start_question
+266,600,24,10,Why don't you tell me in your own words how the accident occurred?,q,MS. FRASCELLA,start_answer
+267,602,24,12,I was just driving and this gentleman just crossed in front of me out of nowhere.,a,THE WITNESS,start_question
+268,604,24,14,Did you have any indication that the vehicle was going to turn?,q,MS. FRASCELLA,start_answer
+269,606,24,16,No.,a,THE WITNESS,start_question
+270,607,24,17,When did you first observe my client's vehicle?,q,MS. FRASCELLA,start_answer
+271,609,24,19,When his front was already there.  It just happened so fast.,a,THE WITNESS,start_question
+272,611,24,21,When you say his front was already where?,q,MS. FRASCELLA,start_answer
+273,613,24,23,Like right in front of me.,a,THE WITNESS,start_question
+274,614,24,24,Did you get a ticket?,q,MS. FRASCELLA,start_answer
+275,616,25,1,No.,a,THE WITNESS,start_question
+276,617,25,2,Where did the vehicles come into contact?,q,MS. FRASCELLA,start_answer
+277,619,25,4,I don't understand.,a,THE WITNESS,start_question
+278,620,25,5,Where did the impact occur on the vehicles?,q,MS. FRASCELLA,start_answer
+279,622,25,7,"On my vehicle, it was left and front left side and front.  I don't recall his vehicle.  He moved his vehicle, and I was too concerned as to worry about my daughter being in the car.",a,THE WITNESS,start_question
+280,627,25,12,You don't know where your car impacted his car?,q,MS. FRASCELLA,start_chat
+281,629,25,14,"Objection. You can answer -- no, don't answer.",side_chat,MR. DALY,start_chat
+282,632,25,17,"Well, I need to know where her car came into contact with his.  However you want to phrase it is fine with me.  I have no preference.",side_chat,MS. FRASCELLA,start_question
+283,637,25,22,What part of your car touched his car when the accident happened?,q,MS. FRASCELLA,start_answer
+284,639,25,24,I don't remember.,a,THE WITNESS,start_question
+285,641,26,1,"Front, middle, back?",q,MS. FRASCELLA,start_answer
+286,642,26,2,The front.,a,THE WITNESS,start_question
+287,643,26,3,What front part?,q,MS. FRASCELLA,start_answer
+288,644,26,4,The front left side.  That's the part that --,a,THE WITNESS,start_question
+289,646,26,6,"What front part, though?",q,MS. FRASCELLA,start_answer
+290,647,26,7,The front left part of my car.,a,THE WITNESS,start_question
+291,648,26,8,I'm not talking about your car.  I'm talking about his car.,q,MS. FRASCELLA,start_answer
+292,650,26,10,"The middle of his car, front middle.",a,THE WITNESS,start_question
+293,651,26,11,Can you tell me how many doors his car had?,q,MS. FRASCELLA,start_answer
+294,653,26,13,No.,a,THE WITNESS,start_question
+295,654,26,14,Do you know what kind of vehicle it was?,q,MS. FRASCELLA,start_answer
+296,656,26,16,No.,a,THE WITNESS,start_question
+297,657,26,17,"Can you tell me if it was a car, SUV?",q,MS. FRASCELLA,start_answer
+298,658,26,18,I think it was a truck.,a,THE WITNESS,start_question
+299,659,26,19,What type of truck?,q,MS. FRASCELLA,start_answer
+300,660,26,20,I don't know.,a,THE WITNESS,start_question
+301,661,26,21,How about the color of it?,q,MS. FRASCELLA,start_answer
+302,662,26,22,Black or blue.,a,THE WITNESS,start_question
+303,663,26,23,Was it raining at the time of the accident?,q,MS. FRASCELLA,start_answer
+304,666,27,1,I don't understand.,a,THE WITNESS,start_question
+305,667,27,2,Was it raining at the time of the accident?,q,MS. FRASCELLA,start_answer
+306,669,27,4,It was drizzling and muggy and darkish.,a,THE WITNESS,start_question
+307,671,27,6,"Can you tell me the last intersection you crossed over on Broad Street before the accident occurred, where the prior intersection was?",q,MS. FRASCELLA,start_answer
+308,675,27,10,I don't remember.,a,THE WITNESS,start_question
+309,676,27,11,"Where were you going to turn? Where did you have to get off Broad Street, how far down?",q,MS. FRASCELLA,start_answer
+310,679,27,14,"I got off 309.  It took me to Cheltenham.  I know Broad Street goes all the way down.  I was just going to take Broad Street all the way down to Temple, past Temple, Allegheny.",a,THE WITNESS,start_question
+311,684,27,19,Can you tell me what position my client's vehicle was in at the time of the accident?,q,MS. FRASCELLA,start_answer
+312,687,27,22,I don't know.,a,THE WITNESS,start_question
+313,688,27,23,You can't tell me how his vehicle was positioned in the roadway?,q,MS. FRASCELLA,start_answer
+314,691,28,1,I know he was coming -- all I saw was this thing just cross right in front of me.,a,THE WITNESS,start_question
+315,693,28,3,"When you say cross right in front of you, what was he doing?",q,MS. FRASCELLA,start_answer
+316,695,28,5,I'm not going to say jump because he's in a vehicle --,a,THE WITNESS,start_question
+317,697,28,7,Was he turning?,q,MS. FRASCELLA,start_answer
+318,698,28,8,"Yeah, like turning.  I know I'm in my two lanes and Broad Street is a big intersection, so two lanes on one side, two lanes on the other side.  It was like swoosh right in front of me so fast.",a,THE WITNESS,start_question
+319,703,28,13,"Prior to approaching the area where the accident occurred, did you see a vehicle stopped or waiting to turn?",q,MS. FRASCELLA,start_answer
+320,706,28,16,No.,a,THE WITNESS,start_question
+321,707,28,17,Did you see a turn signal?,q,MS. FRASCELLA,start_answer
+322,708,28,18,No.,a,THE WITNESS,start_question
+323,709,28,19,Did you see any other vehicles?,q,MS. FRASCELLA,start_answer
+324,710,28,20,There were other vehicles.  Everyone was just going.,a,THE WITNESS,start_question
+325,712,28,22,Were there any vehicles on your left in the left lane?,q,MS. FRASCELLA,start_answer
+326,714,28,24,No.,a,THE WITNESS,start_question
+327,716,29,1,How was traffic?,q,MS. FRASCELLA,start_answer
+328,717,29,2,It was light.  It wasn't heavy.,a,THE WITNESS,start_question
+329,718,29,3,Were you present when my client spoke to the police?,q,MS. FRASCELLA,start_answer
+330,720,29,5,I know the police came.  I did not want to see your client.  My main concern was with my daughter.,a,THE WITNESS,start_question
+331,723,29,8,You didn't hear any conversation between the police and my client?,q,MS. FRASCELLA,start_answer
+332,725,29,10,"No.  The police kept, I think, your client apart from me, and me and my daughter were apart on the other side.",a,THE WITNESS,start_question
+333,728,29,13,Was there any particular reason for that?,q,MS. FRASCELLA,start_answer
+334,730,29,15,"I was just worried about my daughter. My daughter was screaming and panicking.  One of the gentleman -- I don't recall who, Anthony or the other guy -- they actually helped me out by getting your client's information because I was a nervous wreck.  I was concerned with my daughter.",a,THE WITNESS,start_question
+335,737,29,22,Did either one of those gentlemen speak to my client?,q,MS. FRASCELLA,start_answer
+336,739,29,24,Not that I recall.,a,THE WITNESS,start_question
+337,741,30,1,How did they get my client's information?,q,MS. FRASCELLA,start_answer
+338,743,30,3,"Well, they went and when the police got there, the police asked the gentleman -- they were there.  They were really helpful keeping me calm and they took the police over there to where your client was at.  They came back.  That's how I got a picture of your client's information and stuff.",a,THE WITNESS,start_question
+339,750,30,10,Did you get an incident report with the police report number on it at the scene? Did the police give you that?,q,MS. FRASCELLA,start_answer
+340,753,30,13,They gave me a little yellow slip with some numbers on it.  I had to wait for that.,a,THE WITNESS,start_question
+341,755,30,15,Did the police ask you if you were injured at the scene?,q,MS. FRASCELLA,start_answer
+342,757,30,17,Yes.,a,THE WITNESS,start_question
+343,758,30,18,What did you respond?,q,MS. FRASCELLA,start_answer
+344,759,30,19,Yes.,a,THE WITNESS,start_question
+345,760,30,20,Did they call an ambulance?,q,MS. FRASCELLA,start_answer
+346,761,30,21,They said just to go to the emergency room.,a,THE WITNESS,start_question
+347,763,30,23,Did they ask if you needed an ambulance?,q,MS. FRASCELLA,start_answer
+348,766,31,1,They did.  It just never got there.  I called 911 and it just never got there and my daughter panicking everything.,a,THE WITNESS,start_question
+349,769,31,4,"When you called 911, did you specifically request an ambulance?",q,MS. FRASCELLA,start_answer
+350,771,31,6,"Yes, I said can I get assistance because I have my daughter, and it even took long for the police to get there.",a,THE WITNESS,start_question
+351,774,31,9,How long?,q,MS. FRASCELLA,start_answer
+352,775,31,10,"It took a while, and it just felt like forever for them to get there.",a,THE WITNESS,start_question
+353,777,31,12,"We already marked this as Hunter-1. It's the police report. Can you just read the handwritten portion in the narrative, please.",q,MS. FRASCELLA,start_answer
+354,781,31,16,You're talking about this?,a,THE WITNESS,start_question
+355,782,31,17,Yes.  You can read it to yourself.,q,MS. FRASCELLA,start_answer
+356,783,31,18,I'm not sure why they said that.,a,THE WITNESS,start_question
+357,784,31,19,You read that the police report indicated that you -- at least it indicates on the police report that there were no injuries claimed at the scene of the accident; is that fair?,q,MS. FRASCELLA,start_answer
+358,789,31,24,Okay.,a,THE WITNESS,start_question
+359,791,32,1,Is that what it says?,q,MS. FRASCELLA,start_answer
+360,792,32,2,That's what it says.,a,THE WITNESS,start_question
+361,793,32,3,You disagree with that?,q,MS. FRASCELLA,start_answer
+362,794,32,4,Yes.,a,THE WITNESS,start_question
+363,795,32,5,You specifically communicated to the police officer that you were injured?,q,MS. FRASCELLA,start_answer
+364,797,32,7,Yes.,a,THE WITNESS,start_question
+365,798,32,8,"What injuries did you communicate, if any?",q,MS. FRASCELLA,start_answer
+366,800,32,10,"I said I was having headaches, like dizziness, and my daughter was just screaming and yelling.  I didn't know what was wrong with her at the moment.",a,THE WITNESS,start_question
+367,804,32,14,Did the police officer express any concerns with her behavior?,q,MS. FRASCELLA,start_answer
+368,806,32,16,"No.  She was just hysterical and screaming, so much commotion and people coming around.  It was just rough.",a,THE WITNESS,start_question
+369,809,32,19,Does she have outbursts like that on a frequent basis?,q,MS. FRASCELLA,start_answer
+370,811,32,21,No.,a,THE WITNESS,start_question
+371,812,32,22,Does she have anxiety attacks on a frequent basis?,q,MS. FRASCELLA,start_answer
+372,814,32,24,No.,a,THE WITNESS,start_question
+373,816,33,1,Has she been diagnosed with any sort of anxiety disorder in addition to the medical conditions that she has?,q,MS. FRASCELLA,start_answer
+374,819,33,4,"No.  My daughter is not even diagnosed with ADHD.  Besides her conditions, she doesn't have any other thing.",a,THE WITNESS,start_question
+375,822,33,7,Does she attend school?,q,MS. FRASCELLA,start_answer
+376,823,33,8,Yes.,a,THE WITNESS,start_question
+377,824,33,9,Where does she go to school?,q,MS. FRASCELLA,start_answer
+378,825,33,10,Olney Charter High School.,a,THE WITNESS,start_question
+379,826,33,11,Is she in a particular grade?,q,MS. FRASCELLA,start_answer
+380,827,33,12,She's 12th now.,a,THE WITNESS,start_question
+381,828,33,13,What does her curriculum consist of?,q,MS. FRASCELLA,start_answer
+382,829,33,14,"She's in the special-needs unit, so it changes all the time.",a,THE WITNESS,start_question
+383,831,33,16,Does she have an aide with her all day?,q,MS. FRASCELLA,start_answer
+384,833,33,18,Yes.,a,THE WITNESS,start_question
+385,834,33,19,I'm going to show you another portion of the police report.  It's on page 4.  It's under the section which indicates EMS agency. Do you see that?,q,MS. FRASCELLA,start_answer
+386,838,33,23,Yes.,a,THE WITNESS,start_question
+387,839,33,24,"It indicates none, correct?",q,MS. FRASCELLA,start_answer
+388,841,34,1,Yes.,a,THE WITNESS,start_question
+389,842,34,2,It says medical facility.  Did I read that correctly?,q,MS. FRASCELLA,start_answer
+390,844,34,4,Yes.,a,THE WITNESS,start_question
+391,845,34,5,It says refused.  Did I read that correctly?,q,MS. FRASCELLA,start_answer
+392,847,34,7,Yes.,a,THE WITNESS,start_question
+393,848,34,8,You indicated that your stepfather and your sister arrived on the scene. How did you leave the scene of the accident?,q,MS. FRASCELLA,start_answer
+394,852,34,12,"In their car.  I don't know if it was my sister's car.  I don't recall, but I know I left in someone else's vehicle.",a,THE WITNESS,start_question
+395,855,34,15,I presume your daughter went with you in that vehicle?,q,MS. FRASCELLA,start_answer
+396,857,34,17,Yes.,a,THE WITNESS,start_question
+397,858,34,18,Where did you go immediately after the accident?,q,MS. FRASCELLA,start_answer
+398,860,34,20,To the emergency room.,a,THE WITNESS,start_question
+399,861,34,21,Where did you go?,q,MS. FRASCELLA,start_answer
+400,862,34,22,I went to take her to St. Christopher's Children's Hospital.,a,THE WITNESS,start_question
+401,864,34,24,Did you go to the emergency room yourself?,q,MS. FRASCELLA,start_answer
+402,867,35,2,Yes.,a,THE WITNESS,start_question
+403,868,35,3,Where did you go?,q,MS. FRASCELLA,start_answer
+404,869,35,4,Temple Hospital.,a,THE WITNESS,start_question
+405,870,35,5,Did you go to St. Chris first?,q,MS. FRASCELLA,start_answer
+406,871,35,6,Yes.,a,THE WITNESS,start_question
+407,872,35,7,How long were you there?,q,MS. FRASCELLA,start_answer
+408,873,35,8,For maybe two hours.,a,THE WITNESS,start_question
+409,874,35,9,Is that where she would go for medical treatment?,q,MS. FRASCELLA,start_answer
+410,876,35,11,Yes.,a,THE WITNESS,start_question
+411,877,35,12,"Did she treat there primarily, or did she treat at CHOP?",q,MS. FRASCELLA,start_answer
+412,879,35,14,"No, she treats there.",a,THE WITNESS,start_question
+413,880,35,15,Were there any diagnoses related to her condition after the accident at the emergency room?,q,MS. FRASCELLA,start_answer
+414,883,35,18,"They had a hard time checking my daughter.  It was a lot for her that day. They did keep us.  They did a few tests, but they had a hard time. She didn't let no one touch or pull. They couldn't take any x-rays or pictures of her because she was -- it was a lot.  She was scared.  What we did was we made an appointment so her doctor could check her.",a,THE WITNESS,start_question
+415,893,36,3,Who was that?,q,MS. FRASCELLA,start_answer
+416,894,36,4,Dr. Jeremiah Goldstein.,a,THE WITNESS,start_question
+417,895,36,5,Is Dr. Goldstein affiliated with St. Chris?,q,MS. FRASCELLA,start_answer
+418,897,36,7,Yes.,a,THE WITNESS,start_question
+419,898,36,8,What type of physician is Dr. Goldstein?,q,MS. FRASCELLA,start_answer
+420,900,36,10,Special-needs physician.,a,THE WITNESS,start_question
+421,901,36,11,When did she see Dr. Goldstein for the first time following the accident?,q,MS. FRASCELLA,start_answer
+422,903,36,13,I can't recall the date.  I don't remember the date.,a,THE WITNESS,start_question
+423,905,36,15,Was it the next day?  A week?  Two weeks?,q,MS. FRASCELLA,start_answer
+424,907,36,17,It was about maybe a week.,a,THE WITNESS,start_question
+425,908,36,18,Was she still in school at the time of the accident?,q,MS. FRASCELLA,start_answer
+426,910,36,20,I don't recall.  I don't know if it was summer school or not.,a,THE WITNESS,start_question
+427,912,36,22,Does she also go to school in the summer?,q,MS. FRASCELLA,start_answer
+428,914,36,24,Yes.,a,THE WITNESS,start_question
+429,916,37,1,When did you go to Temple Emergency Room?,q,MS. FRASCELLA,start_answer
+430,918,37,3,"After I took care of her, I went to the...",a,THE WITNESS,start_question
+431,920,37,5,Was it the same day as the accident?,q,MS. FRASCELLA,start_answer
+432,921,37,6,Yes.,a,THE WITNESS,start_question
+433,922,37,7,"Did she go with you, or did she go home?",q,MS. FRASCELLA,start_answer
+434,924,37,9,"No, she went home because it was already late, and she was tired.  She was just antsy.  I waited until she fell asleep, and then I went to the emergency room.",a,THE WITNESS,start_question
+435,928,37,13,Who stayed with her when you went to the emergency room?,q,MS. FRASCELLA,start_answer
+436,930,37,15,My sister.,a,THE WITNESS,start_question
+437,931,37,16,Was your mom there?,q,MS. FRASCELLA,start_answer
+438,932,37,17,Yes.,a,THE WITNESS,start_question
+439,933,37,18,"She was at the house, as well?",q,MS. FRASCELLA,start_answer
+440,934,37,19,"She was at the house, yeah.",a,THE WITNESS,start_question
+441,935,37,20,"You indicated to me that your mother currently lives with you, correct?",q,MS. FRASCELLA,start_answer
+442,937,37,22,Yes.,a,THE WITNESS,start_question
+443,938,37,23,Did she live with you at the time of the accident?,q,MS. FRASCELLA,start_answer
+444,941,38,1,Yes.,a,THE WITNESS,start_question
+445,942,38,2,"When you went to the Temple Emergency Room, what complaints did you have?",q,MS. FRASCELLA,start_answer
+446,944,38,4,"I told them my back was hurting, my left side was hurting, and I was feeling a little dizzy.",a,THE WITNESS,start_question
+447,947,38,7,Did they take any x-rays?,q,MS. FRASCELLA,start_answer
+448,948,38,8,"I remember them putting me in a room. I don't know if it was the x-rays or if it was an MRI, but I know that they took some kind of pictures of me.",a,THE WITNESS,start_question
+449,952,38,12,Were you in a tube?,q,MS. FRASCELLA,start_answer
+450,953,38,13,It was more of a table.,a,THE WITNESS,start_question
+451,954,38,14,Did they prescribe you any medication?,q,MS. FRASCELLA,start_answer
+452,955,38,15,Yes.,a,THE WITNESS,start_question
+453,956,38,16,What medications were you prescribed?,q,MS. FRASCELLA,start_answer
+454,957,38,17,I don't remember.,a,THE WITNESS,start_question
+455,958,38,18,"Did they actually give you the medication there, or did you have to have the prescription filled?",q,MS. FRASCELLA,start_answer
+456,961,38,21,"They gave me medication there, and they gave me a slip so I can go get some afterwards.",a,THE WITNESS,start_question
+457,964,38,24,Where do you have your prescriptions filled?,q,MS. FRASCELLA,start_answer
+458,967,39,2,"At that time, I don't remember. Usually, I have things filled out at CVS, but I don't think I took that one to the CVS.",a,THE WITNESS,start_question
+459,970,39,5,"From the date of the accident to present, what pharmacies have you used to fill any prescriptions by any of your treating physicians related to any injuries you sustained in this accident?",q,MS. FRASCELLA,start_answer
+460,975,39,10,Random pharmacies.  I know one is CVS. One would be Rite Aid.  I don't recall the others.,a,THE WITNESS,start_question
+461,978,39,13,How about any private pharmacies?,q,MS. FRASCELLA,start_answer
+462,979,39,14,"Yeah, I think two of them were, but I don't recall the names of those.",a,THE WITNESS,start_question
+463,981,39,16,How about locations?,q,MS. FRASCELLA,start_answer
+464,982,39,17,"I know they're on 5th Street.  I don't know the address, and I don't know the crossing streets of them.",a,THE WITNESS,start_question
+465,985,39,20,"After the emergency room, when did you next seek medical treatment?",q,MS. FRASCELLA,start_answer
+466,987,39,22,I don't remember.  I know I did.  I just don't remember.,a,THE WITNESS,start_question
+467,989,39,24,Do you know where you went?,q,MS. FRASCELLA,start_answer
+468,991,40,1,I went to Temple.,a,THE WITNESS,start_question
+469,992,40,2,After the emergency room?,q,MS. FRASCELLA,start_answer
+470,993,40,3,Yeah.,a,THE WITNESS,start_question
+471,994,40,4,Who did you see at Temple?,q,MS. FRASCELLA,start_answer
+472,995,40,5,I don't remember the doctor's name.,a,THE WITNESS,start_question
+473,996,40,6,Was it a family doctor that you saw?,q,MS. FRASCELLA,start_answer
+474,997,40,7,Yeah.,a,THE WITNESS,start_question
+475,998,40,8,Primary care physician?,q,MS. FRASCELLA,start_answer
+476,999,40,9,Yeah.,a,THE WITNESS,start_question
+477,1000,40,10,Do you recall the name of that primary care physician?,q,MS. FRASCELLA,start_answer
+478,1002,40,12,No.,a,THE WITNESS,start_question
+479,1003,40,13,How many times did you go to Temple physicians following this accident?,q,MS. FRASCELLA,start_answer
+480,1005,40,15,I don't remember.,a,THE WITNESS,start_question
+481,1006,40,16,Did they recommend any treatment for you?,q,MS. FRASCELLA,start_answer
+482,1008,40,18,"They said wrap my foot up.  I had to take care of my back, and I think they prescribed me some kind of Motrin or Tylenol. That's pretty much it.",a,THE WITNESS,start_question
+483,1012,40,22,"Did you go to therapy after the accident, physical therapy?",q,MS. FRASCELLA,start_answer
+484,1014,40,24,Yes.,a,THE WITNESS,start_question
+485,1016,41,1,Where did you go?,q,MS. FRASCELLA,start_answer
+486,1017,41,2,I don't remember the name of the place.,a,THE WITNESS,start_question
+487,1019,41,4,Who referred you there?,q,MS. FRASCELLA,start_answer
+488,1020,41,5,My attorney's office.,a,THE WITNESS,start_question
+489,1021,41,6,When did you first consult an attorney following the accident?,q,MS. FRASCELLA,start_answer
+490,1023,41,8,I don't know if it was a week or two.,a,THE WITNESS,start_question
+491,1024,41,9,Can you tell me how long you went to physical therapy for?,q,MS. FRASCELLA,start_answer
+492,1026,41,11,"It was a while, a few months.",a,THE WITNESS,start_question
+493,1027,41,12,Did your symptoms improve?,q,MS. FRASCELLA,start_answer
+494,1028,41,13,No.,a,THE WITNESS,start_question
+495,1029,41,14,Were you discharged from physical therapy?,q,MS. FRASCELLA,start_answer
+496,1031,41,16,Yes.,a,THE WITNESS,start_question
+497,1032,41,17,When were you discharged?,q,MS. FRASCELLA,start_answer
+498,1033,41,18,I don't remember.,a,THE WITNESS,start_question
+499,1034,41,19,"Did you see any other physicians or doctors other than Temple Emergency Room, Temple physicians and the physical therapy office?",q,MS. FRASCELLA,start_answer
+500,1038,41,23,"Not a physician, but I had to go a few times to a Ready Care.",a,THE WITNESS,start_question
+501,1041,42,1,What location?,q,MS. FRASCELLA,start_answer
+502,1042,42,2,"Aramingo, one on Allegheny.  I think those are the ones that I used, Aramingo and Allegheny.",a,THE WITNESS,start_question
+503,1045,42,5,Why did you go to Ready Care?,q,MS. FRASCELLA,start_answer
+504,1046,42,6,Because I was having a lot of pain.,a,THE WITNESS,start_question
+505,1047,42,7,Where?,q,MS. FRASCELLA,start_answer
+506,1048,42,8,On my lower back.  My ankle was swollen.,a,THE WITNESS,start_question
+507,1050,42,10,Which ankle?,q,MS. FRASCELLA,start_answer
+508,1051,42,11,"My left ankle.  It was swelling.  I couldn't take the pain, and my lower back, lower left side back.",a,THE WITNESS,start_question
+509,1054,42,14,Did you ever see an orthopedic physician following this accident?,q,MS. FRASCELLA,start_answer
+510,1056,42,16,I don't remember.,a,THE WITNESS,start_question
+511,1057,42,17,Did you have any injections following this accident?,q,MS. FRASCELLA,start_answer
+512,1059,42,19,Yes.,a,THE WITNESS,start_question
+513,1060,42,20,Where?,q,MS. FRASCELLA,start_answer
+514,1061,42,21,"I don't remember the place.  I know I did get injection, but I don't remember the place.",a,THE WITNESS,start_question
+515,1064,42,24,Was it the same place where you had the therapy?,q,MS. FRASCELLA,start_answer
+516,1067,43,2,"No, it was a different location.",a,THE WITNESS,start_question
+517,1068,43,3,Do you know the doctor that administered the injections?,q,MS. FRASCELLA,start_answer
+518,1070,43,5,I don't know the doctor's name.,a,THE WITNESS,start_question
+519,1071,43,6,Do you know what kind of injections they were?,q,MS. FRASCELLA,start_answer
+520,1073,43,8,"Yeah, I guess to ease my back a little bit and make the pain go away.",a,THE WITNESS,start_question
+521,1075,43,10,"But do you know what they were called? Were they cortisone injections, epidural steroid injections?",q,MS. FRASCELLA,start_answer
+522,1078,43,13,I don't remember honestly.,a,THE WITNESS,start_question
+523,1079,43,14,Were you under anesthesia?,q,MS. FRASCELLA,start_answer
+524,1080,43,15,"They put an injection to numb me.  I know they did that, and then they put the other thing.",a,THE WITNESS,start_question
+525,1083,43,18,Did you leave the same day?,q,MS. FRASCELLA,start_answer
+526,1084,43,19,Yes.,a,THE WITNESS,start_question
+527,1085,43,20,"Can you tell me where it was performed, the name of the street?",q,MS. FRASCELLA,start_answer
+528,1087,43,22,"No, I don't remember.",a,THE WITNESS,start_question
+529,1088,43,23,How did you get there?,q,MS. FRASCELLA,start_answer
+530,1089,43,24,"Transportation.  Someone took me, and they brought me back home.",a,THE WITNESS,start_question
+531,1092,44,2,The transportation was arranged?,q,MS. FRASCELLA,start_answer
+532,1093,44,3,Yes.,a,THE WITNESS,start_question
+533,1094,44,4,By whom?,q,MS. FRASCELLA,start_answer
+534,1095,44,5,By my attorney.,a,THE WITNESS,start_chat
+535,1096,44,6,Off the record.,side_chat,MS. FRASCELLA,symbols
+536,1097,44,7,- - -,symbols,,is brackets
+537,1098,44,8,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+538,1100,44,10,- - -,symbols,,start_question
+539,1102,44,12,"The procedure that you had that was performed by Dr. Patel, did it alleviate your symptoms at all?",q,MS. FRASCELLA,start_answer
+540,1105,44,15,"Just for a little bit, and it came back.",a,THE WITNESS,start_question
+541,1107,44,17,Have you been back to see Dr. Patel at all?,q,MS. FRASCELLA,start_answer
+542,1109,44,19,No.,a,THE WITNESS,start_question
+543,1110,44,20,"At the time of the accident, did you have health insurance?",q,MS. FRASCELLA,start_answer
+544,1112,44,22,Yes.,a,THE WITNESS,start_question
+545,1113,44,23,Who was the carrier?,q,MS. FRASCELLA,start_answer
+546,1114,44,24,Health Partners.,a,THE WITNESS,start_question
+547,1116,45,1,Does your daughter have a full-time aide for the home?,q,MS. FRASCELLA,start_answer
+548,1118,45,3,No.  She has it for school.,a,THE WITNESS,start_question
+549,1119,45,4,But not for home?,q,MS. FRASCELLA,start_answer
+550,1120,45,5,No.,a,THE WITNESS,start_question
+551,1121,45,6,Do you currently have health insurance?,q,MS. FRASCELLA,start_answer
+552,1123,45,8,No.,a,THE WITNESS,start_question
+553,1124,45,9,When did you cease having health insurance?,q,MS. FRASCELLA,start_answer
+554,1126,45,11,About a few months ago.,a,THE WITNESS,start_question
+555,1127,45,12,Why is that?,q,MS. FRASCELLA,start_answer
+556,1128,45,13,Just can't afford it right now.,a,THE WITNESS,start_question
+557,1129,45,14,"At the time of the accident, were you working?",q,MS. FRASCELLA,start_answer
+558,1131,45,16,Yes.,a,THE WITNESS,start_question
+559,1132,45,17,Where were you working?,q,MS. FRASCELLA,start_answer
+560,1133,45,18,Home care.,a,THE WITNESS,start_question
+561,1134,45,19,"What were you doing?  Is that the name of the company, home care?",q,MS. FRASCELLA,start_answer
+562,1136,45,21,It's called Liberty Bell Home Care Services.,a,THE WITNESS,start_question
+563,1138,45,23,What were you doing for them?,q,MS. FRASCELLA,start_answer
+564,1139,45,24,"Home care, like I take care of someone in their house.",a,THE WITNESS,start_question
+565,1142,46,2,Were you working full-time?,q,MS. FRASCELLA,start_answer
+566,1143,46,3,Yes.,a,THE WITNESS,start_question
+567,1144,46,4,What was your rate of pay?,q,MS. FRASCELLA,start_answer
+568,1145,46,5,I think it was $13.,a,THE WITNESS,start_question
+569,1146,46,6,An hour?,q,MS. FRASCELLA,start_answer
+570,1147,46,7,Yes.,a,THE WITNESS,start_question
+571,1148,46,8,Did you work for one client or multiple clients?,q,MS. FRASCELLA,start_answer
+572,1150,46,10,One.,a,THE WITNESS,start_question
+573,1151,46,11,How long had you worked with that particular client as of the day of the accident that you had?,q,MS. FRASCELLA,start_answer
+574,1154,46,14,Like four years.,a,THE WITNESS,start_question
+575,1155,46,15,How old was the client that you had at the time?,q,MS. FRASCELLA,start_answer
+576,1157,46,17,71.,a,THE WITNESS,start_question
+577,1158,46,18,When did you stop working at Liberty Bell Home Care?,q,MS. FRASCELLA,start_answer
+578,1160,46,20,"I had to take some time off, but I did not completely stop working.  I'm currently still working.",a,THE WITNESS,start_question
+579,1163,46,23,I misunderstood that. How long did you take off for?,q,MS. FRASCELLA,start_answer
+580,1166,47,1,Just a few months after the accident.,a,THE WITNESS,start_question
+581,1167,47,2,Did any of your physicians tell you you were unable to work?,q,MS. FRASCELLA,start_answer
+582,1169,47,4,I just couldn't do the job that I was expected to do.  I couldn't do it.,a,THE WITNESS,start_question
+583,1171,47,6,Did any of your physicians give you specific restrictions regarding your occupation following the accident?,q,MS. FRASCELLA,start_answer
+584,1174,47,9,"Light, anything light not heavy.",a,THE WITNESS,start_question
+585,1175,47,10,Who gave you those instructions?,q,MS. FRASCELLA,start_answer
+586,1176,47,11,"The doctor when I went to Temple and the physical therapist, as well.",a,THE WITNESS,start_question
+587,1178,47,13,Did they actually write you a note for your employer?,q,MS. FRASCELLA,start_answer
+588,1180,47,15,I don't remember.,a,THE WITNESS,start_question
+589,1181,47,16,Did you provide any sort of documentation to your employer for the time that you took off?,q,MS. FRASCELLA,start_answer
+590,1184,47,19,I don't remember.,a,THE WITNESS,start_question
+591,1185,47,20,This accident happened in June. When did you go back to work?,q,MS. FRASCELLA,start_answer
+592,1187,47,22,I don't remember the date.,a,THE WITNESS,start_question
+593,1188,47,23,Was it in 2018?,q,MS. FRASCELLA,start_answer
+594,1189,47,24,"It was around the same time, but I know I just took some time off.",a,THE WITNESS,start_question
+595,1192,48,2,"The accident happened in June. Did you go back to work in the fall, the winter?  Can you give me some idea?",q,MS. FRASCELLA,start_answer
+596,1195,48,5,Maybe August.,a,THE WITNESS,start_question
+597,1196,48,6,"When you returned to work, did you return to work for Liberty Bell?",q,MS. FRASCELLA,start_answer
+598,1198,48,8,Yes.,a,THE WITNESS,start_question
+599,1199,48,9,For the same client?,q,MS. FRASCELLA,start_answer
+600,1200,48,10,Yes.,a,THE WITNESS,start_question
+601,1201,48,11,Was it full-time when you returned?,q,MS. FRASCELLA,start_answer
+602,1202,48,12,I don't remember if it was full-time or not.,a,THE WITNESS,start_question
+603,1204,48,14,Do you work full-time currently?,q,MS. FRASCELLA,start_answer
+604,1205,48,15,Yes.,a,THE WITNESS,start_question
+605,1206,48,16,How long have you been working full-time since the accident?,q,MS. FRASCELLA,start_answer
+606,1208,48,18,"My hours has fluctuated.  Things have changed.  I don't remember what date, what time, what stuff specifically.",a,THE WITNESS,start_question
+607,1211,48,21,"Are you a 1099 employee with Liberty Bell, or do you get a W2?",q,MS. FRASCELLA,start_answer
+608,1213,48,23,W2.,a,THE WITNESS,start_question
+609,1214,48,24,What hours do you currently work?,q,MS. FRASCELLA,start_answer
+610,1216,49,1,8:00 to 10:00 in the morning and 10:30 to 10:30 at night.,a,THE WITNESS,start_question
+611,1218,49,3,"Is that seven days, five days?",q,MS. FRASCELLA,start_answer
+612,1219,49,4,Five to seven days.,a,THE WITNESS,start_question
+613,1220,49,5,"If you work more than 40 hours, do you get overtime?",q,MS. FRASCELLA,start_answer
+614,1222,49,7,I don't know how that works with the job.,a,THE WITNESS,start_question
+615,1224,49,9,Do you work more than 40 hours on a regular basis?,q,MS. FRASCELLA,start_answer
+616,1226,49,11,Yes.,a,THE WITNESS,start_question
+617,1227,49,12,Every week?,q,MS. FRASCELLA,start_answer
+618,1228,49,13,Yes.,a,THE WITNESS,start_question
+619,1229,49,14,Do you know how many hours over 40 you work on a weekly basis?,q,MS. FRASCELLA,start_answer
+620,1231,49,16,"Off my head, I don't.",a,THE WITNESS,start_question
+621,1232,49,17,Do you still have the same client today?,q,MS. FRASCELLA,start_answer
+622,1234,49,19,Yes.,a,THE WITNESS,start_question
+623,1235,49,20,Are you ever responsible for driving that client around?,q,MS. FRASCELLA,start_answer
+624,1237,49,22,Sometimes.,a,THE WITNESS,start_question
+625,1238,49,23,Does your client drive independently?,q,MS. FRASCELLA,start_answer
+626,1239,49,24,No.,a,THE WITNESS,start_question
+627,1241,50,1,What type of responsibilities do you have with regard to caring for that client?,q,MS. FRASCELLA,start_answer
+628,1243,50,3,Before or after the accident?,a,THE WITNESS,start_question
+629,1244,50,4,Both.  You can start with before.,q,MS. FRASCELLA,start_answer
+630,1245,50,5,"Before the accident, I was in charge of bathing my client, helping her in and out of the shower.",a,THE WITNESS,start_question
+631,1248,50,8,"Of the shower, not tub?",q,MS. FRASCELLA,start_answer
+632,1249,50,9,"Well, it's a tub, but she takes a shower.  You have to lift her leg over.",a,THE WITNESS,start_question
+633,1251,50,11,But she stands?,q,MS. FRASCELLA,start_answer
+634,1252,50,12,"Yeah, she stands.  She doesn't lay down.  I had to help her get in and out of bed, dress her up.",a,THE WITNESS,start_question
+635,1255,50,15,What about meal preparation?,q,MS. FRASCELLA,start_answer
+636,1256,50,16,Yes.,a,THE WITNESS,start_question
+637,1257,50,17,What about medication administration?,q,MS. FRASCELLA,start_answer
+638,1258,50,18,Yes.,a,THE WITNESS,start_question
+639,1259,50,19,What type of medications do you have to administer to her?,q,MS. FRASCELLA,start_answer
+640,1261,50,21,"Well, I don't have to administer, just give her her medications for her high blood pressure, for arthritis.",a,THE WITNESS,start_question
+641,1264,50,24,All oral medication?,q,MS. FRASCELLA,start_answer
+642,1266,51,1,"Yes, all oral medication.",a,THE WITNESS,start_question
+643,1267,51,2,How has that changed since the accident?,q,MS. FRASCELLA,start_answer
+644,1269,51,4,"It changed a lot because my client depended on me bathing her and helping her do her daily things, and since the accident -- she's heavy, so I can't pick her up and lift her up.",a,THE WITNESS,start_question
+645,1274,51,9,How heavy is she?,q,MS. FRASCELLA,start_answer
+646,1275,51,10,She's like 250 pounds.,a,THE WITNESS,start_question
+647,1276,51,11,What type of activities did you used to assist her with before the accident that you can't assist her with now?,q,MS. FRASCELLA,start_answer
+648,1279,51,14,"She wanted to lose some weight, so we used to go work out a little bit.",a,THE WITNESS,start_question
+649,1281,51,16,Work out where?,q,MS. FRASCELLA,start_answer
+650,1282,51,17,We would just walk out in the street and do some little weights at home.  I would take her out to at least a fast walk.,a,THE WITNESS,start_question
+651,1285,51,20,Speed walk?,q,MS. FRASCELLA,start_answer
+652,1286,51,21,Yeah.,a,THE WITNESS,start_question
+653,1287,51,22,You don't do that anymore?,q,MS. FRASCELLA,start_answer
+654,1288,51,23,No.,a,THE WITNESS,start_question
+655,1289,51,24,Has your client had any medical episodes or injuries since your accident that prohibits them from doing those things?,q,MS. FRASCELLA,start_answer
+656,1293,52,3,"Yes.  My client has tried taking herself a bath and doing things on her own where she has injured herself.  It's rough because I used to help her and do it for her. She doesn't want anyone else looking at her and taking care of her and that's understandable.  She tries doing it on her own, and she's hurt herself a few times.",a,THE WITNESS,start_question
+657,1301,52,11,You don't help her shower at all anymore?,q,MS. FRASCELLA,start_answer
+658,1303,52,13,It's difficult.,a,THE WITNESS,start_question
+659,1304,52,14,What's difficult about it?,q,MS. FRASCELLA,start_answer
+660,1305,52,15,"She's so heavy.  She puts her weight on me, and my back hurts and my left arm has been getting numb.  She tries to put a lot of her weight on my right side.",a,THE WITNESS,start_question
+661,1309,52,19,When did your right arm start becoming numb?,q,MS. FRASCELLA,start_answer
+662,1311,52,21,My left.,a,THE WITNESS,start_question
+663,1312,52,22,I'm sorry.  When?,q,MS. FRASCELLA,start_answer
+664,1313,52,23,"I started having problems right after the accident.  First, I started feeling a tingling sensation and pins and needles, and then sometimes my arm and I can't feel my fingers.",a,THE WITNESS,start_question
+665,1319,53,4,Which hand?,q,MS. FRASCELLA,start_answer
+666,1320,53,5,My left.,a,THE WITNESS,start_question
+667,1321,53,6,How frequently does that occur currently?,q,MS. FRASCELLA,start_answer
+668,1323,53,8,"It happens about maybe twice, three times a week.",a,THE WITNESS,start_question
+669,1325,53,10,How long does it last?,q,MS. FRASCELLA,start_answer
+670,1326,53,11,The numbness will last for maybe five to six minutes.,a,THE WITNESS,start_question
+671,1328,53,13,What about the tingling?,q,MS. FRASCELLA,start_answer
+672,1329,53,14,The tingling sensation comes and goes all the time.,a,THE WITNESS,start_question
+673,1331,53,16,"When it comes, how long does it last?",q,MS. FRASCELLA,start_answer
+674,1332,53,17,About three minutes.,a,THE WITNESS,start_question
+675,1333,53,18,How frequently in a day does it come and go?  How many times throughout the day?,q,MS. FRASCELLA,start_answer
+676,1335,53,20,"Throughout the day, it's like maybe five times, and I try to have something in my hand to kind of exercise it, like a squishy ball or something.",a,THE WITNESS,start_question
+677,1339,53,24,Are there any other activities that you are either limited in or can no longer do with regard to your occupation that we haven't spoken about?,q,MS. FRASCELLA,start_answer
+678,1344,54,4,Can't do her heavy laundry.,a,THE WITNESS,start_question
+679,1345,54,5,What's her heavy laundry?,q,MS. FRASCELLA,start_answer
+680,1346,54,6,"Like her big quilts, bedsheets.",a,THE WITNESS,start_question
+681,1347,54,7,Who does that?,q,MS. FRASCELLA,start_answer
+682,1348,54,8,I'm not sure.  I only do the light stuff.,a,THE WITNESS,start_question
+683,1350,54,10,Does she have an aide when you're not there?,q,MS. FRASCELLA,start_answer
+684,1352,54,12,She doesn't want anyone.,a,THE WITNESS,start_question
+685,1353,54,13,So she doesn't have another aide when you're not there?,q,MS. FRASCELLA,start_answer
+686,1355,54,15,"She has a granddaughter, but that's not an aide.",a,THE WITNESS,start_question
+687,1357,54,17,"Does she live there, the granddaughter?",q,MS. FRASCELLA,start_answer
+688,1359,54,19,"No, she lives on her own.  My client lives on her own.",a,THE WITNESS,start_question
+689,1361,54,21,"What about your own personal daily living activities, how have they been affected?",q,MS. FRASCELLA,start_answer
+690,1364,54,24,"My daily actives have been affected very much, especially with my disabled daughter.  It's difficult to pick her up and get her off the bed to change her diapers, get her dressed, put her in the shower.  It's difficult to bend down.",a,THE WITNESS,start_question
+691,1371,55,6,What's difficult about bending down?,q,MS. FRASCELLA,start_answer
+692,1372,55,7,"Because it hurts my back, and sometimes I don't have the balance and I lose the balance and I fall.",a,THE WITNESS,start_question
+693,1375,55,10,What part of your back hurts when you bend?,q,MS. FRASCELLA,start_answer
+694,1377,55,12,It starts in the lower back and goes to the middle part of my back.,a,THE WITNESS,start_question
+695,1379,55,14,When was the last time you saw a doctor related to your injuries?,q,MS. FRASCELLA,start_answer
+696,1381,55,16,It's been months.,a,THE WITNESS,start_question
+697,1382,55,17,Was the last time you saw a doctor when you saw Dr. Patel in December 2018?  Is that the last time?,q,MS. FRASCELLA,start_answer
+698,1385,55,20,"No, I have not seen a doctor, but I have been to an urgent care or Ready Care.",a,THE WITNESS,start_question
+699,1387,55,22,Is that what you already told me about?,q,MS. FRASCELLA,start_answer
+700,1389,55,24,Yes.,a,THE WITNESS,start_question
+701,1391,56,1,Did they prescribe you any medication?,q,MS. FRASCELLA,start_answer
+702,1392,56,2,"Sometimes they do, but I already have Motrin or Tylenol.  I didn't take anything strong.",a,THE WITNESS,start_question
+703,1395,56,5,Is there anyone else in your household who cares for your daughter?,q,MS. FRASCELLA,start_answer
+704,1397,56,7,"No.  I live with my mother, but my mother has a condition and she can't help me with my daughter.",a,THE WITNESS,start_question
+705,1400,56,10,What's her condition?,q,MS. FRASCELLA,start_answer
+706,1401,56,11,"Her hipbone is disintegrating, so it's going away.  My mom has early signs of dementia, so she can't help me out.  I'm supposed to be the caregiver for her and my daughter.",a,THE WITNESS,start_question
+707,1406,56,16,Who stays with your mother when you're at work?,q,MS. FRASCELLA,start_answer
+708,1408,56,18,My sister lives next door.,a,THE WITNESS,start_question
+709,1409,56,19,Have you applied for any assistance for your daughter as far as an aide for your home situation?,q,MS. FRASCELLA,start_answer
+710,1412,56,22,"Yes.  Recently, she's been approved, but just trying to find someone that can take care of my daughter is not so easy.",a,THE WITNESS,start_question
+711,1416,57,1,Is she on Medicare Or Medicaid or both?,q,MS. FRASCELLA,start_answer
+712,1418,57,3,I think it's both.  She has Health Partners.  I'm not sure what that falls into.,a,THE WITNESS,start_question
+713,1420,57,5,"Did she receive Disability benefits, as well?",q,MS. FRASCELLA,start_answer
+714,1422,57,7,"Yes, my daughter does.",a,THE WITNESS,start_question
+715,1423,57,8,"Other than when she went to St. Chris and to her primary doctor, did she have any other treatment related to the accident?",q,MS. FRASCELLA,start_answer
+716,1426,57,11,"She takes treatment of her own.  I would take her to Chester, but I don't know the name of it, the place I tried.",a,THE WITNESS,start_question
+717,1429,57,14,Who referred you there?,q,MS. FRASCELLA,start_answer
+718,1430,57,15,Her attorney.,a,THE WITNESS,start_question
+719,1431,57,16,Was it Dr. Bonner's office?,q,MS. FRASCELLA,start_answer
+720,1432,57,17,"Grossinger, I think.",a,THE WITNESS,start_question
+721,1433,57,18,What did Dr. Grossinger do for her?,q,MS. FRASCELLA,start_answer
+722,1434,57,19,He's giving her different kinds of therapy.  We don't go as often.,a,THE WITNESS,start_question
+723,1436,57,21,Has he given her any injections?,q,MS. FRASCELLA,start_answer
+724,1437,57,22,"Grossinger, I don't recall.  I don't remember.  We haven't been in months.",a,THE WITNESS,start_question
+725,1439,57,24,Did she have any MRIs?,q,MS. FRASCELLA,start_answer
+726,1441,58,1,"I don't remember.  I know we had MRIs in Children's Hospital.  Whatever Dr. Grossinger needs, he says to get from Children's Hospital because they have to put my daughter to sleep completely.",a,THE WITNESS,start_question
+727,1446,58,6,Are you talking about St. Chris?,q,MS. FRASCELLA,start_answer
+728,1447,58,7,Yes.,a,THE WITNESS,start_question
+729,1448,58,8,Have you had MRIs?,q,MS. FRASCELLA,start_answer
+730,1449,58,9,Yes.,a,THE WITNESS,start_question
+731,1450,58,10,Where did you have them?,q,MS. FRASCELLA,start_answer
+732,1451,58,11,I think it was City Line Avenue.  I don't recall the place.,a,THE WITNESS,start_question
+733,1453,58,13,"Did you only have one in your neck and back, or did you have more than that?",q,MS. FRASCELLA,start_answer
+734,1455,58,15,I think it was just my neck and back.,a,THE WITNESS,start_question
+735,1456,58,16,You had an EMG?,q,MS. FRASCELLA,start_answer
+736,1457,58,17,Yes.,a,THE WITNESS,start_question
+737,1458,58,18,Was it with Dr. Holding?,q,MS. FRASCELLA,start_answer
+738,1459,58,19,I don't remember what doctor it was.,a,THE WITNESS,start_question
+739,1460,58,20,Do you know where it was that you went?,q,MS. FRASCELLA,start_answer
+740,1462,58,22,"Broad Street, but I mean somewhere down here in Center City.",a,THE WITNESS,start_question
+741,1464,58,24,"Other than the procedure performed by Dr. Patel, did you have any other injections or procedures?",q,MS. FRASCELLA,start_answer
+742,1468,59,3,No.,a,THE WITNESS,start_question
+743,1469,59,4,Where did you go to high school?,q,MS. FRASCELLA,start_answer
+744,1470,59,5,Kensington High School.,a,THE WITNESS,start_question
+745,1471,59,6,Did you graduate?,q,MS. FRASCELLA,start_answer
+746,1472,59,7,No.,a,THE WITNESS,start_question
+747,1473,59,8,Did you get a GED?,q,MS. FRASCELLA,start_answer
+748,1474,59,9,No.,a,THE WITNESS,start_question
+749,1475,59,10,Do you have any education or training with regard to being a home health aide?,q,MS. FRASCELLA,start_answer
+750,1477,59,12,Yes.,a,THE WITNESS,start_question
+751,1478,59,13,Where did you have that done?,q,MS. FRASCELLA,start_answer
+752,1479,59,14,"I've been taking classes.  Well, I was taking classes.  I couldn't take none anymore.",a,THE WITNESS,start_question
+753,1482,59,17,I'm sorry?,q,MS. FRASCELLA,start_answer
+754,1483,59,18,"I was taking classes, but I couldn't take them anymore.",a,THE WITNESS,start_question
+755,1485,59,20,Why not?,q,MS. FRASCELLA,start_answer
+756,1486,59,21,"After the accident, things got difficult.",a,THE WITNESS,start_question
+757,1488,59,23,How so?,q,MS. FRASCELLA,start_answer
+758,1489,59,24,"I was in a lot of pain driving back and forth, and it wasn't easy taking care of my daughter at the same time.",a,THE WITNESS,start_question
+759,1493,60,3,Do you hold any other jobs other than as a home health aide?,q,MS. FRASCELLA,start_answer
+760,1495,60,5,"No, I don't work nowhere else.",a,THE WITNESS,start_question
+761,1496,60,6,"The period of time that you were out of work, were you compensated for any wages?",q,MS. FRASCELLA,start_answer
+762,1498,60,8,No.,a,THE WITNESS,start_question
+763,1499,60,9,"At the time of the motor vehicle accident, did you have car insurance?",q,MS. FRASCELLA,start_answer
+764,1501,60,11,Yes.,a,THE WITNESS,start_question
+765,1502,60,12,Who was it with?,q,MS. FRASCELLA,start_answer
+766,1503,60,13,American Independence.,a,THE WITNESS,start_question
+767,1504,60,14,Do you know if you were full tort or limited tort?,q,MS. FRASCELLA,start_chat
+768,1506,60,16,Objection.,side_chat,MS. FRASCELLA,start_chat
+769,1507,60,17,You can answer.,side_chat,MR. DALY,start_chat
+770,1508,60,18,Off the record.,side_chat,MS. FRASCELLA,symbols
+771,1509,60,19,- - -,symbols,,is brackets
+772,1510,60,20,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+773,1512,60,22,- - -,symbols,,start_chat
+774,1513,60,23,"Defense counsel and I have stipulated to the usual stipulations of form objections only, all others waived. You can now answer her question. Note my objection to form.",side_chat,MR. DALY,start_chat
+775,1519,61,4,I have no idea.,side_chat,THE WITNESS,start_question
+776,1521,61,6,"Before this motor vehicle accident, were you involved in any other motor vehicle accidents?",q,MS. FRASCELLA,start_answer
+777,1524,61,9,"Many, many years ago.",a,THE WITNESS,start_question
+778,1525,61,10,You indicated you worked with this particular client as a home health aide for a number of years. What did you do before you worked with this client?,q,MS. FRASCELLA,start_answer
+779,1530,61,15,I was a stay-at-home mom.,a,THE WITNESS,start_question
+780,1531,61,16,For how long?,q,MS. FRASCELLA,start_answer
+781,1532,61,17,"For many, many years.",a,THE WITNESS,start_question
+782,1533,61,18,Can you give me an idea?,q,MS. FRASCELLA,start_answer
+783,1534,61,19,Stay-at-home mom?,a,THE WITNESS,start_question
+784,1535,61,20,Yeah.,q,MS. FRASCELLA,start_answer
+785,1536,61,21,"Maybe 15 years, 14 years.",a,THE WITNESS,start_question
+786,1537,61,22,Was your job at Liberty Bell the first job you held since having children?,q,MS. FRASCELLA,start_answer
+787,1539,61,24,"No, I had a job prior to my first daughter.  That was many years ago.",a,THE WITNESS,start_question
+788,1542,62,2,I'm talking about after your kids.,q,MS. FRASCELLA,start_answer
+789,1543,62,3,"After my kids, no.  After I had kids --",a,THE WITNESS,start_question
+790,1545,62,5,"Liberty Bell was your first job after having kids, that's what I'm asking you.",q,MS. FRASCELLA,start_answer
+791,1547,62,7,"Yeah.  In the last six years, Liberty Bell, yeah, was my first job.",a,THE WITNESS,start_question
+792,1549,62,9,"Before that, you didn't work for at least 15 years?",q,MS. FRASCELLA,start_answer
+793,1551,62,11,Yes.,a,THE WITNESS,start_question
+794,1552,62,12,What's your date of birth?,q,MS. FRASCELLA,start_answer
+795,1553,62,13,2/23/1983.,a,THE WITNESS,start_chat
+796,1554,62,14,Off the record.,side_chat,MS. FRASCELLA,symbols
+797,1555,62,15,- - -,symbols,,is brackets
+798,1556,62,16,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+799,1558,62,18,- - -,symbols,,start_question
+800,1560,62,20,Do you take any medications on a regular basis?,q,MS. FRASCELLA,start_answer
+801,1562,62,22,No.,a,THE WITNESS,start_question
+802,1563,62,23,Have you ever been in the military?,q,MS. FRASCELLA,start_answer
+803,1564,62,24,No.,a,THE WITNESS,start_question
+804,1566,63,1,"Have you ever been convicted of a crime of falsehood, things like theft, burglary, shoplifting, forgery, passing a bad check, anything of that nature?",q,MS. FRASCELLA,start_answer
+805,1570,63,5,No.,a,THE WITNESS,start_question
+806,1571,63,6,Did you consume any drugs or alcohol on the day of the accident?,q,MS. FRASCELLA,start_answer
+807,1573,63,8,No.,a,THE WITNESS,start_question
+808,1574,63,9,Has your driver's license ever been suspended or revoked?,q,MS. FRASCELLA,start_answer
+809,1576,63,11,No.,a,THE WITNESS,start_question
+810,1577,63,12,When did you first obtain your driver's license?,q,MS. FRASCELLA,start_answer
+811,1579,63,14,"I'm trying to think.  That was many, many years ago.  I'm sorry, I can't remember the year.",a,THE WITNESS,start_question
+812,1582,63,17,Had you ever injured yourself in any type of accident before this one?,q,MS. FRASCELLA,start_answer
+813,1584,63,19,Can you repeat that question again.,a,THE WITNESS,start_question
+814,1585,63,20,Had you ever been injured in any type of accident before this one in 2018?,q,MS. FRASCELLA,start_answer
+815,1587,63,22,"No, not in 2018.",a,THE WITNESS,start_question
+816,1588,63,23,Before 2018?,q,MS. FRASCELLA,start_answer
+817,1589,63,24,"2004, 2003.",a,THE WITNESS,start_question
+818,1591,64,1,What type of accident were you in?,q,MS. FRASCELLA,start_answer
+819,1592,64,2,It was a car accident.,a,THE WITNESS,start_question
+820,1593,64,3,What type of car accident were you in?,q,MS. FRASCELLA,start_answer
+821,1594,64,4,Just a car accident.,a,THE WITNESS,start_question
+822,1595,64,5,Regular car accident?,q,MS. FRASCELLA,start_answer
+823,1596,64,6,"Yeah, just like a regular car accident.",a,THE WITNESS,start_question
+824,1598,64,8,Were you in a SEPTA accident?,q,MS. FRASCELLA,start_answer
+825,1599,64,9,"Yes, it was not my car.  Someone else was in the car.",a,THE WITNESS,start_question
+826,1601,64,11,Was it two different accidents or the same accident?,q,MS. FRASCELLA,start_answer
+827,1603,64,13,"It was the same accident, but it was not my car.  It was not my vehicle.",a,THE WITNESS,start_question
+828,1605,64,15,The incident involving the SEPTA vehicle was the accident we're speaking about?,q,MS. FRASCELLA,start_answer
+829,1608,64,18,Yes.,a,THE WITNESS,start_question
+830,1609,64,19,Were you injured?,q,MS. FRASCELLA,start_answer
+831,1610,64,20,Yes.,a,THE WITNESS,start_question
+832,1611,64,21,What parts of your body?,q,MS. FRASCELLA,start_answer
+833,1612,64,22,"My right side, my face.",a,THE WITNESS,start_question
+834,1613,64,23,Did you have MRIs after that accident?,q,MS. FRASCELLA,start_answer
+835,1614,64,24,I don't remember.,a,THE WITNESS,start_question
+836,1616,65,1,Any injections after that accident?,q,MS. FRASCELLA,start_answer
+837,1617,65,2,I don't remember.,a,THE WITNESS,start_question
+838,1618,65,3,Do you have any outstanding medical bills --,q,MS. FRASCELLA,start_chat
+839,1620,65,5,Objection. You can answer.,side_chat,MS. FRASCELLA,start_question
+840,1623,65,8,-- related to this accident?,q,MS. FRASCELLA,start_chat
+841,1624,65,9,Objection. You can answer.,side_chat,MS. FRASCELLA,start_chat
+842,1626,65,11,Off the record.,side_chat,MR. DALY,symbols
+843,1627,65,12,- - -,symbols,,is brackets
+844,1628,65,13,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+845,1630,65,15,- - -,symbols,,start_chat
+846,1631,65,16,No.,side_chat,THE WITNESS,start_question
+847,1633,65,18,Did you take any pictures at the accident scene?,q,MS. FRASCELLA,start_answer
+848,1635,65,20,"I think so.  I don't have them on me, though.",a,THE WITNESS,start_question
+849,1637,65,22,Did you take any pictures of my client's vehicle?,q,MS. FRASCELLA,start_answer
+850,1639,65,24,"I know one of the gentlemen took my phone, and they were on the phone with the kids' dad.  I'm not sure if he took the pictures or what.",a,THE WITNESS,start_question
+851,1644,66,4,Do you know if they took pictures?,q,MS. FRASCELLA,start_answer
+852,1645,66,5,Yes.,a,THE WITNESS,start_question
+853,1646,66,6,Have you seen them?,q,MS. FRASCELLA,start_answer
+854,1647,66,7,"Yes, but I don't remember -- every time I look at this I just break down.  That day I saw and I didn't want to deal with it anymore.",a,THE WITNESS,start_question
+855,1651,66,11,Do you still have the photographs?,q,MS. FRASCELLA,start_answer
+856,1652,66,12,I can check the phone.,a,THE WITNESS,start_question
+857,1653,66,13,Please do.  I think I was produced maybe one photograph of your vehicle.,q,MS. FRASCELLA,start_answer
+858,1655,66,15,Okay.,a,THE WITNESS,start_question
+859,1656,66,16,"If there are more, I'd ask you produce those to your attorney so he can provide them to me.",q,MS. FRASCELLA,start_answer
+860,1659,66,19,Okay.,a,THE WITNESS,start_question
+861,1660,66,20,"It's your understanding it was the other individual who took the photographs, not you?",q,MS. FRASCELLA,start_answer
+862,1663,66,23,Yes.,a,THE WITNESS,start_question
+863,1664,66,24,Did any parts of your vehicle strike anything inside the car?,q,MS. FRASCELLA,start_answer
+864,1667,67,2,"My left side.  Like the door, it hit so hard.  I could just remember the pain, like this burning sensation on my left side.",a,THE WITNESS,start_question
+865,1670,67,5,Where on your left side?,q,MS. FRASCELLA,start_answer
+866,1671,67,6,"Like my shoulder, my arm, left side, my knee under the steering wheel and the left side of the door.",a,THE WITNESS,start_question
+867,1674,67,9,Were any of the windows broken?,q,MS. FRASCELLA,start_answer
+868,1675,67,10,Not that I remember.,a,THE WITNESS,start_question
+869,1676,67,11,Did your vehicle have airbags?,q,MS. FRASCELLA,start_answer
+870,1677,67,12,Yes.,a,THE WITNESS,start_question
+871,1678,67,13,Did they deploy?,q,MS. FRASCELLA,start_answer
+872,1679,67,14,No.,a,THE WITNESS,start_question
+873,1680,67,15,Were you cut or bleeding at all?,q,MS. FRASCELLA,start_answer
+874,1681,67,16,No.,a,THE WITNESS,start_question
+875,1682,67,17,What about your daughter?,q,MS. FRASCELLA,start_answer
+876,1683,67,18,No.,a,THE WITNESS,start_question
+877,1684,67,19,Did you give any statements related to the accident?,q,MS. FRASCELLA,start_answer
+878,1686,67,21,Can you repeat the question?,a,THE WITNESS,start_question
+879,1687,67,22,Did you give any statements to anyone other than your attorneys?,q,MS. FRASCELLA,start_answer
+880,1689,67,24,No.,a,THE WITNESS,start_question
+881,1691,68,1,Did you give a statement to Allstate Insurance Company that you recall?,q,MS. FRASCELLA,start_answer
+882,1693,68,3,"No.  If they did call, I referred it to the attorneys.",a,THE WITNESS,start_question
+883,1695,68,5,Can you tell me how fast you were going at the time the accident occurred?,q,MS. FRASCELLA,start_answer
+884,1697,68,7,"Somewhere between 20 and 30.  It was rainy, so I wasn't driving fast.",a,THE WITNESS,start_question
+885,1699,68,9,Have you had any accidents since then?,q,MS. FRASCELLA,start_answer
+886,1700,68,10,No.,a,THE WITNESS,start_question
+887,1701,68,11,Have you ever been injured in a slip-and-fall or trip-and-fall accident?,q,MS. FRASCELLA,start_answer
+888,1703,68,13,No.,a,THE WITNESS,start_question
+889,1704,68,14,Do you wear glasses or contacts at all?,q,MS. FRASCELLA,start_answer
+890,1706,68,16,No.,a,THE WITNESS,start_question
+891,1707,68,17,Did you review any documents in preparation for your deposition today?,q,MS. FRASCELLA,start_answer
+892,1709,68,19,No.,a,THE WITNESS,symbols
+893,1710,68,20,- - -,symbols,,is brackets
+894,1711,68,21,"(Whereupon, the deposition concluded at 4:10 p.m.)",brackets,,symbols
+895,1713,68,23,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 3, 2019, and that this is a correct transcription of same.",symbols,,end

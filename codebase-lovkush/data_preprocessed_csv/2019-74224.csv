@@ -1,0 +1,369 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, DIRECT EXAMINATION,,,start_question
+1,130,23,3,"Good morning, Doctor.",q,MS. CORBETT,start_answer
+2,131,23,4,Good morning.,a,THE WITNESS,start_question
+3,132,23,5,"As I already introduced myself, I am Jillian Corbett and I represent Terea Thornton. Would you please introduce yourself to the jury this morning.",q,MS. CORBETT,start_answer
+4,136,23,9,My name is Dr. Louis Olegario.  I'm one of the physicians from DNA Advanced Pain Treatment Center.,a,THE WITNESS,start_question
+5,138,23,11,"And we're here today to take your testimony on behalf of Ms. Thornton regarding your evaluation of her that was performed at my request and also your treatment of her following a September 1, 2016 motor vehicle accident. But before we do all of that, I need to ask you a few questions about your background and qualifications as an expert witness.  So what type of doctor are you?",q,MS. CORBETT,start_answer
+6,146,23,19,"So I'm -- I did finish my residency training in physical medicine and rehabilitation, and then I did a fellowship for interventional pain management.",a,THE WITNESS,start_question
+7,149,23,22,And are you licensed to practice medicine in the Commonwealth of Pennsylvania?,q,MS. CORBETT,start_answer
+8,151,23,24,"Yes, I am.",a,THE WITNESS,start_question
+9,152,23,25,Would you explain for us a little bit what interventional pain management is.,q,MS. CORBETT,start_answer
+10,155,24,2,"So for interventional pain management what we do with that is we treat a lot of chronic pain patients. That's including after back or neck surgeries or any motor vehicular accident, any trauma, cancer patients.  We do treatments such as injections, medications, physical therapy.",a,THE WITNESS,start_question
+11,161,24,8,And could you explain for us a little bit what physical medicine is?,q,MS. CORBETT,start_answer
+12,163,24,10,"So physical medicine and rehabilitation, being -- that's why we call ourselves a physiatrist.  So we -- physiatrists we treat a lot of neurological problems, such as a stroke patients, trauma -- traumatic brain injury, spinal cord injury patients, even with musculoskeletal problem, any kind of chronic pain problems too.",a,THE WITNESS,start_question
+13,169,24,16,And how long have you been a doctor?,q,MS. CORBETT,start_answer
+14,170,24,17,I have been licensed here in Pennsylvania since 2003.,a,THE WITNESS,start_question
+15,172,24,19,And could you describe for the jury the process of how you became a doctor?,q,MS. CORBETT,start_answer
+16,174,24,21,"So becoming a doctor you have to have a bachelor's degree, a four-year bachelor's degree, and then a four years also in proper medical school, which I did finish my medical school in the Philippines, and I did one year of post graduate internship out there and then took my Philippines board before coming here.  Here in the states you have to pass USMLE I and II before you can start doing your residency training and then pass the USMLE III is when you can -- you are eligible to take your specialty board.",a,THE WITNESS,start_question
+17,185,25,6,"And Doctor, you mentioned going to medical school in the Philippines.  Are you from the Philippines?",q,MS. CORBETT,start_answer
+18,187,25,8,"Yes, I am.",a,THE WITNESS,start_question
+19,188,25,9,And you also mentioned taking boards.  Are you board certified in Pennsylvania?,q,MS. CORBETT,start_answer
+20,190,25,11,"Yes, I am.",a,THE WITNESS,start_question
+21,191,25,12,How did you become board certified?,q,MS. CORBETT,start_answer
+22,192,25,13,"So board certification for physical medicine and rehabilitation you have to have four years of residency training, so one year in general surgery as an internship, visiting SUNY Downstate, Brooklyn, New York. Then I did my three years of residency training in physical medicine and rehabilitation in Kingsbrook Jewish Medical Center.  It's also in Brooklyn, New York.",a,THE WITNESS,start_question
+23,199,25,20,"And Doctor, are you also board certified in interventional pain management?",q,MS. CORBETT,start_answer
+24,201,25,22,"Yes, I am.  After taking that one year of interventional pain fellowship, then that's where you are eligible to take the pain management exams.",a,THE WITNESS,start_question
+25,204,25,25,And are you board certified in any other states?,q,MS. CORBETT,start_answer
+26,206,26,1,I have license in the State of Florida and some inactive license in New York and New Jersey.,a,THE WITNESS,start_question
+27,208,26,3,"And Doctor, what does it mean when a license is inactive?",q,MS. CORBETT,start_answer
+28,210,26,5,"What it means there is like, you know, since you're not practicing there actively, you can just put on hold all of those requirements that they need so you don't have to do that until like, you know, you try to practice in that state, then you can actively fulfill all of those requirements.",a,THE WITNESS,start_question
+29,216,26,11,And have you ever been qualified to testify as an expert in Allegheny County?,q,MS. CORBETT,start_answer
+30,218,26,13,"Yes, I am.",a,THE WITNESS,start_question
+31,219,26,14,"Doctor, could you look at this exhibit that I have marked as A in front of you?  Could you please identify that document?",q,MS. CORBETT,is brackets
+32,222,26,17,(Olegario Exhibit A was marked for identification.),brackets,,start_answer
+33,224,26,19,Yes.  This is my recent curriculum vitae.,a,THE WITNESS,start_question
+34,225,26,20,And would you tell the jury about any type of positions and professional associations you have.,q,MS. CORBETT,start_answer
+35,227,26,22,"Yes.  I am a member of Pittsburgh Pain Society as well as Washington Pain Society and a member of Pennsylvania Medical Society, American Academy of Physical Medicine and Rehabilitation as well as American Board of Physical Medicine and Rehabilitation.  And I do some teaching also with some students who comes.  These are nursing students from the University of Pittsburgh who comes to our office where we teach them what we do in the office.  We do teach them the anatomy, the injections that we do, the surgery that we do in our practice.",a,THE WITNESS,start_question
+36,238,27,7,"And Doctor, you talked a little bit about being from DNA Pain Management.  So let's talk about your current practice.  What do you do on a daily basis?",q,MS. CORBETT,start_answer
+37,241,27,10,"In my daily basis it really depends, because sometimes I'm in the office, sometimes I'm in the surgery center or hospitals.  So when I'm in the office, I do see patients, around 35 patients.  These are all including follow-ups, new patients, as well as injections.  And then if I am in the surgery center or in the hospitals, a lot of those procedures are patients needs sedations, because they are scared of needles, as well as surgical cases like spinal cord stimulator, Morphine pumps, kyphoplasty and all of the surgeries that we do under sedations.  So that's what we do in the hospital or surgery center.",a,THE WITNESS,start_question
+38,253,27,22,"And Doctor, what types of procedures -- or what type of procedures do you perform?",q,MS. CORBETT,start_answer
+39,255,27,24,"So basically we do all of the joint injections. I do all of the epidurals, cervical, thoracic, lumbar.  I do sacroiliac injections, facet or a medial nerve branch block from cervical, thoracic, and lumbar.  I do kyphoplasty, vertebroplasty.  We do provocative discogram, spinal cord stimulator trial as well as the implants and Morphine pumps.",a,THE WITNESS,start_question
+40,263,28,6,"And Doctor, do you treat patients who have suffered a trauma, a physical trauma?",q,MS. CORBETT,start_answer
+41,265,28,8,"Yes, I do.",a,THE WITNESS,start_question
+42,266,28,9,And as part of your practice do you review medical diagnostic tests?,q,MS. CORBETT,start_answer
+43,268,28,11,"Yes, I do.",a,THE WITNESS,start_question
+44,269,28,12,And does your practice include diagnosing patients and projecting their future treatment?,q,MS. CORBETT,start_answer
+45,271,28,14,Yes.,a,THE WITNESS,start_question
+46,272,28,15,Are you familiar with the costs associated with future treatment?,q,MS. CORBETT,start_answer
+47,274,28,17,"Yes, I am.",a,THE WITNESS,start_question
+48,275,28,18,And how are you familiar with those costs?,q,MS. CORBETT,start_answer
+49,276,28,19,This is just based on my clinical experience.,a,THE WITNESS,start_chat
+50,277,28,20,"Thank you, Doctor.  At this time I'm going to allow opposing counsel to ask questions about your qualifications, and I would move to enter Exhibit A.",side_chat,MS. CORBETT,start_chat
+51,280,28,23,No objection. VOIR DIRE EXAMINATION,side_chat,MR. BORSUK,start_question
+52,286,29,3,"Hi, Doctor.  Just a few questions.  Again my name is Nicholas Borsuk.  I represent the defendants in this action.  Thank you for being here today, sir. When did you begin practicing medicine in the United States?",q,MR. BORSUK,start_answer
+53,291,29,8,Are you asking after my residency training?,a,THE WITNESS,start_question
+54,292,29,9,After your residency training.,q,MR. BORSUK,start_answer
+55,293,29,10,2003.,a,THE WITNESS,start_question
+56,294,29,11,2003.  And when did you begin that residency training in the United States?,q,MR. BORSUK,start_answer
+57,296,29,13,When?,a,THE WITNESS,start_question
+58,297,29,14,"When, yes.",q,MR. BORSUK,start_answer
+59,298,29,15,I did internship in general surgery in July of 1998 to June of 1999.,a,THE WITNESS,start_question
+60,300,29,17,"So prior to that, where were you practicing, sir?",q,MR. BORSUK,start_answer
+61,301,29,18,"So I was working as a house staff physician in the Department of Neurosurgery at SUNY Downstate and Kings County Hospital in Brooklyn, New York.  That's in May of '97 to June of 1998.  Prior to that, I did some observership in, visiting Miami, Florida in Miami Children Hospital, and then I did work back in the Philippines also for about three years, from '90 -- January of '93 through December of 1996.",a,THE WITNESS,start_question
+62,310,30,1,"Doctor, I just wanted to confirm.  You have two current certifications; is that correct?",q,MR. BORSUK,start_answer
+63,312,30,3,Yes.,a,THE WITNESS,start_question
+64,313,30,4,And that is a PM&R?,q,MR. BORSUK,start_answer
+65,314,30,5,That's correct.,a,THE WITNESS,start_question
+66,315,30,6,As it appears on your curriculum vitae?,q,MR. BORSUK,start_answer
+67,316,30,7,Yes.,a,THE WITNESS,start_question
+68,317,30,8,"And can you just again explain what is PM&R, what that abbreviation stands for?",q,MR. BORSUK,start_answer
+69,319,30,10,It's physical medicine and rehabilitation.,a,THE WITNESS,start_question
+70,320,30,11,And the other certification you have is for pain management?,q,MR. BORSUK,start_answer
+71,322,30,13,That is correct.,a,THE WITNESS,start_chat
+72,323,30,14,I have no further questions.,side_chat,MR. BORSUK,start_chat
+73,324,30,15,Thank you.  At this time I would offer Dr. Olegario as an expert in interventional pain management and physical medicine and rehabilitation.,side_chat,MS. CORBETT,start_chat
+74,327,30,18,No objection.,side_chat,MR. BORSUK,symbols
+75,328,30,19,----- DIRECT EXAMINATION (CONTINUED),symbols,,start_question
+76,331,30,22,"Now, Doctor, as I said before, we are here today to take your testimony on behalf of Ms. Thornton who you have treated and also evaluated at the request of my office related to her treatment following her accident on September 1st of 2016. So during this testimony, I'm going to ask you for some opinions and potentially diagnosis, but I don't want you to give any of those opinions, unless you can do so to a reasonable degree of medical certainty.  Is that fair?",q,MS. CORBETT,start_answer
+77,342,31,7,Yes.,a,THE WITNESS,start_question
+78,343,31,8,So my office asked you to prepare a narrative report so that you could testify in this matter on behalf of Ms. Thornton.  Could you please take a look at what I have marked as Exhibit B.  And do you recognize that document?,q,MS. CORBETT,is brackets
+79,348,31,13,(Dr. Olegario Exhibit B was marked for identification.),brackets,,start_answer
+80,350,31,15,Yes.,a,THE WITNESS,start_question
+81,351,31,16,Is that the report that you prepared regarding Ms. Thornton?,q,MS. CORBETT,start_answer
+82,353,31,18,"Yes, it is.",a,THE WITNESS,start_question
+83,354,31,19,"So, Doctor, I'm going to ask you to refer to your report as needed during the course of your testimony here today.  Okay?",q,MS. CORBETT,start_answer
+84,357,31,22,Okay.,a,THE WITNESS,start_question
+85,358,31,23,And did you evaluate Ms. Thornton yourself?,q,MS. CORBETT,start_answer
+86,359,31,24,"Yes, I did.",a,THE WITNESS,start_question
+87,360,31,25,And had you also treated Ms. Thornton for injuries associated with this accident before your evaluation at the request of my office?,q,MS. CORBETT,start_answer
+88,364,32,3,Yes.,a,THE WITNESS,start_question
+89,365,32,4,"And when you saw Ms. Thornton to treat her, did you perform a physical exam?",q,MS. CORBETT,start_answer
+90,367,32,6,"Yes, I did.",a,THE WITNESS,start_question
+91,368,32,7,"And when you also saw her to prepare this report, did you perform another physical exam?",q,MS. CORBETT,start_answer
+92,370,32,9,"Yes, I did.",a,THE WITNESS,start_question
+93,371,32,10,"In a moment I'm going to ask you to work -- walk the jury through your physical exam.  But before I do that, I would like to know prior to your examination of Ms. Thornton, did you have an opportunity to review any treatment records regarding her care?",q,MS. CORBETT,start_answer
+94,376,32,15,Yes.,a,THE WITNESS,start_question
+95,377,32,16,And what were those?,q,MS. CORBETT,start_answer
+96,378,32,17,"So I did review her magnetic resonance imaging of her cervical and lumbar spine.  I did -- I do have some records also from Dr. Holding about the patient's electrodiagnostic study results and from her chiropractor, from Dr. Petrarca, and some of the notes that was given to me from Mercy Hospital.",a,THE WITNESS,start_question
+97,384,32,23,"And Doctor, the records from Mercy Hospital, were those given to you by my office at a later date?",q,MS. CORBETT,start_answer
+98,386,32,25,Yes.,a,THE WITNESS,start_question
+99,388,33,1,And did any of those change the opinions that you gave in your report?,q,MS. CORBETT,start_answer
+100,390,33,3,No.,a,THE WITNESS,start_question
+101,391,33,4,"Doctor, you had mentioned some diagnostic tests that you reviewed.  And what were those tests?",q,MS. CORBETT,start_answer
+102,393,33,6,So MRI of her cervical and lumbar spine as well as the electrodiagnostic studies of her upper and lower extremities.,a,THE WITNESS,start_question
+103,396,33,9,"And Doctor, what did the MRIs show?",q,MS. CORBETT,start_answer
+104,397,33,10,"The MRI of her cervical spine it shows normal results, and then the MRI of her cervical results are normal.",a,THE WITNESS,start_question
+105,400,33,13,"And Doctor, what does an MRI image show?",q,MS. CORBETT,start_answer
+106,401,33,14,Um --,a,THE WITNESS,start_question
+107,402,33,15,"What is it -- I'm sorry.  That was a bad question.  What is it -- what is the test taken for or what is an MRI, rather?",q,MS. CORBETT,start_answer
+108,405,33,18,"So MRI stands as magnetic resonance imaging. What it does it uses powerful magnets and radio waves. With the help of the computer, it can generate all of this films.  It doesn't emit any radiation in comparisons to x-rays and CAT scans.  It's a very safe procedure, a very thorough test.",a,THE WITNESS,start_question
+109,411,33,24,And you had mentioned also an EMG test.  What is an EMG?,q,MS. CORBETT,start_answer
+110,414,34,1,"EMG is really electrodiagnostic studies.  It involves two portions which is the first one is the nerve conduction studies and that one is a needle electromyography.  So nerve conduction study, so it will tell us if there is any nerve pathology, and then the needle EMG it will show if the nerve pathology is an acute or a chronic.  So it's how the muscle responds to any nerve stimulus.",a,THE WITNESS,start_question
+111,422,34,9,And so what is the difference in what an EMG tests and what an MRI tests?,q,MS. CORBETT,start_answer
+112,424,34,11,"So MRI the way we see the MRI it easily represents the anatomy of the problem.  So it will show us if there is any anatomical problems of the spine or in the subcutaneous tissue or in the spinal cord.  In comparisons to electromyog --electrodiagnostic studies, it's more on the function of like where the nerve coming from the neck down to the arms, if there is any problems on the way from the neck down.  So it's more on the physiological side.",a,THE WITNESS,start_question
+113,432,34,19,And what did the EMGs taken of Ms. Thornton reveal?,q,MS. CORBETT,start_answer
+114,434,34,21,"She has two electrodiagnostic studies.  Her lumbar electrodiagnostic study shows no evidence of lumbar radiculopathy or peripheral nerve entrapment, and her cervical, her upper extremities, electrodiagnostic study shows cervical radiculopathy involving bilateral C5-C6 and right C6-C7 nerve roots.",a,THE WITNESS,start_question
+115,441,35,2,"And Doctor, we can keep talking about cervical and lumbar.  Could you tell us what the cervical spine is or what part that is?",q,MS. CORBETT,start_answer
+116,444,35,5,"Cervical is mainly the neck area, so it is composed of a seven vertebra bone.",a,THE WITNESS,start_question
+117,446,35,7,And what about the lumbar?,q,MS. CORBETT,start_answer
+118,447,35,8,Lumbar is in our lower portion of the spine.,a,THE WITNESS,start_question
+119,448,35,9,And you kind of discussed that radiculopathy was found in the cervical spine of Ms. Thornton.  What is radiculopathy.,q,MS. CORBETT,start_answer
+120,451,35,12,"So radiculopathy are when there are some nerve pathology that causes some pain from the neck down to their hands, their arms, their fingers, shooting pain, aching pain, or like an electric type of pain.",a,THE WITNESS,start_question
+121,455,35,16,"And Doctor, is it fully necessary for an MRI and an EMG to both show results or be abnormal for there to be radiculopathy in a patient?",q,MS. CORBETT,start_answer
+122,458,35,19,"No, not necessarily.",a,THE WITNESS,start_question
+123,459,35,20,And how is it that they can be different?,q,MS. CORBETT,start_answer
+124,460,35,21,"So first and foremost it's like, you know, those diagnostic studies are just -- it's just going to help the providers.  It's really basically the history and physical is what's most important.  And some of these tests it could be negative, but it doesn't mean that the patient doesn't have the problem.",a,THE WITNESS,start_question
+125,467,36,2,And how does radiculopathy occur?,q,MS. CORBETT,start_answer
+126,468,36,3,"So radiculopathy once there is a nerve type of problem that's coming from the cervical spine and it manifest in the -- in their arms, forearms or in their fingers.",a,THE WITNESS,start_question
+127,472,36,7,"And how can it be caused from trauma, if it can?",q,MS. CORBETT,start_answer
+128,473,36,8,"So what it does it involves when there are some nerve damage or any irritations from the nerve root that it can cause inflammation, and those inflammation is the one that is really causing all of this pain that it radiates down to their hands and fingers.",a,THE WITNESS,start_question
+129,478,36,13,"And in addition to these diagnostic studies and the other records that you told us you reviewed, did you, I believe you said you did, do a physical exam of Ms. Thornton?",q,MS. CORBETT,start_answer
+130,482,36,17,Yes.,a,THE WITNESS,start_question
+131,483,36,18,And what did that reveal?,q,MS. CORBETT,start_answer
+132,484,36,19,"So Ms. Thornton's cervical spine the range of motion is decreased in all directions, especially on cervical extension and flexion and also lateral rotation. She had some tenderness on both trapezius, the left shoulder area, and pain going down to her forearm and arm.",a,THE WITNESS,start_question
+133,489,36,24,And did your examination of her match the results of the objective testing?,q,MS. CORBETT,start_answer
+134,492,37,1,"Yes, it did.",a,THE WITNESS,start_question
+135,493,37,2,"After examining Ms. Thornton, reviewing her records, studies and images referenced in your report, did you find any injuries?",q,MS. CORBETT,start_answer
+136,496,37,5,Yes.,a,THE WITNESS,start_question
+137,497,37,6,And what were those?,q,MS. CORBETT,start_answer
+138,498,37,7,"That Ms. Thornton has a cervical radiculopathy as well as her facet injury as a result of the motor vehicular accident on September 1, 2016.",a,THE WITNESS,start_question
+139,501,37,10,"And when you first saw her for treatment, was she still suffering from pain from the accident?",q,MS. CORBETT,start_answer
+140,503,37,12,"Yes, she was.",a,THE WITNESS,start_question
+141,504,37,13,And was that about a year after the accident that you first saw her?,q,MS. CORBETT,start_answer
+142,506,37,15,That is correct.,a,THE WITNESS,start_question
+143,507,37,16,Is that typical for pain management?,q,MS. CORBETT,start_answer
+144,508,37,17,"It's really not unusual.  A lot of our patients since we treat chronic pain, a lot of them they refer to us six months to a year or even two years after like when their pain persist.  That's why we mainly treat chronic pain problems.",a,THE WITNESS,start_question
+145,513,37,22,And what does chronic mean?,q,MS. CORBETT,start_answer
+146,514,37,23,"Chronic means like, you know, when -- I mean, there is three stages; there is an acute, subacute, and a chronic.  So acute is within three months -- within a month, and then subacute is within three months of the problem, and then three months after that it becomes chronic, and that's when the problems persist, and then that's when we start seeing all of this patient.",a,THE WITNESS,start_question
+147,522,38,5,"And after reviewing the records and examining Ms. Thornton, I believe it was in September of 2017, what did you decide to do for her treatment-wise?",q,MS. CORBETT,start_answer
+148,525,38,8,"So after my evaluation with her, since her pain is mainly in the cervical spine down to her arms, so we discussed doing a cervical epidural steroid injections.",a,THE WITNESS,start_question
+149,528,38,11,And was one of those eventually performed?,q,MS. CORBETT,start_answer
+150,529,38,12,Yes.,a,THE WITNESS,start_question
+151,530,38,13,And what is a cervical epidural steroid injection?,q,MS. CORBETT,start_answer
+152,532,38,15,"So cervical epidural steroid injection usually what I usually tells my patients is it's basically exactly the same when women gives birth, so it's an epidural injection.  So the only difference is I use is an x-ray machine to guide my needle, and then I use steroids instead of the pain medication where these women -- the pregnant women gets.  So steroids is a very good anti-inflammatory medications.  It relieves the inflammations around the nerve root sheath, and once the inflammation subsides, then the pain coming from the neck down to their arm starts getting better.",a,THE WITNESS,start_question
+153,544,39,1,"And Doctor, did you see Ms. Thornton again at a later date?",q,MS. CORBETT,start_answer
+154,546,39,3,"Yes, I did.",a,THE WITNESS,start_question
+155,547,39,4,And did she report to you whether or not her injection had helped?,q,MS. CORBETT,start_answer
+156,549,39,6,"According to Ms. Thornton, she said it's a hundred percent relief from the injections.",a,THE WITNESS,start_question
+157,551,39,8,And how long does relief from an injection typically last?,q,MS. CORBETT,start_answer
+158,553,39,10,"It really depends from patient to patient, so it depends how bad the problem is also.  It could last from months to even a year.",a,THE WITNESS,start_question
+159,556,39,13,"And Doctor, after reviewing all of the diagnostic records and your own examination and also the prior records from the Rehab Center and UPMC, do you have an opinion to a reasonable degree of medical certainty what injuries Ms. Thornton suffered as a result of the motor vehicle accident of September 1st of 2016?",q,MS. CORBETT,start_answer
+160,563,39,20,Yes.,a,THE WITNESS,start_question
+161,564,39,21,And what is that opinion?,q,MS. CORBETT,start_answer
+162,565,39,22,That Ms. Thornton has a cervical radiculopathy involving bilateral C5-6 and right C6-C7 nerve roots as well as cervical facet injury.,a,THE WITNESS,start_question
+163,570,40,1,And how can that occur in a motor vehicle collision?,q,MS. CORBETT,start_answer
+164,572,40,3,"So usually when you get hit from behind, it could damage the -- some of the cervical facet joints.  It could cause some inflammation, and also it could irritate where the nerve root also comes out in the cervical foramen and it can irritate that nerve root there, because they are very sensitive to any kind of pressure.",a,THE WITNESS,start_question
+165,578,40,9,"And Doctor, what is your prognosis for Ms. Thornton?",q,MS. CORBETT,start_answer
+166,580,40,11,Ms. Thornton's prognosis is guarded.,a,THE WITNESS,start_question
+167,581,40,12,What does that mean?,q,MS. CORBETT,start_answer
+168,582,40,13,"So guarded means like, you know, Ms. Thornton might need more injections down the road, as well as frequent follow-up just to make sure like, you know, it improves her quality of life.",a,THE WITNESS,start_question
+169,586,40,17,And did you make any recommendations about any future medication treatment for Ms. Thornton?,q,MS. CORBETT,start_answer
+170,588,40,19,Yes.,a,THE WITNESS,start_question
+171,589,40,20,And what were those?,q,MS. CORBETT,start_answer
+172,590,40,21,"My recommendations for her is we can repeat the cervical epidural steroid injections.  Usually, as per my discussion with the patient, we usually do between three injections in a year.",a,THE WITNESS,start_question
+173,594,40,25,And how long does someone typically need these injections?,q,MS. CORBETT,start_answer
+174,597,41,2,"Usually there is no really specific time limit but it can be undetermined.  Like, you know, it depends how bad the problem and if it persists.",a,THE WITNESS,start_question
+175,600,41,5,"And Doctor, would Ms. Thornton's age have anything to do with her ability to recover or her injuries?",q,MS. CORBETT,start_answer
+176,603,41,8,"It's going to be hard for her, because like, you know, once you have a chronic problem, it's going to be there.  There will be times that her pain is going to be worse no matter what she's going to do.",a,THE WITNESS,start_question
+177,607,41,12,"And Doctor, you have performed cervical epidural steroid injections, as we discussed.  Could you estimate the cost of that treatment?",q,MS. CORBETT,start_answer
+178,610,41,15,"The injection usually cost between $850 to 1,100 per injection.",a,THE WITNESS,start_question
+179,612,41,17,And are those cost projections based on your experience in a clinical outpatient and surgical setting?,q,MS. CORBETT,start_answer
+180,614,41,19,Yes.,a,THE WITNESS,start_question
+181,615,41,20,Are your opinions about Ms. Thornton's future treatment held to a reasonable degree of medical probability?,q,MS. CORBETT,start_answer
+182,618,41,23,Yes.,a,THE WITNESS,start_question
+183,619,41,24,And you have reviewed multiple treatment records for Ms. Thornton.  Do you have an opinion as to the reasonableness and necessity of all of the treatment that she has had to date?,q,MS. CORBETT,start_answer
+184,624,42,3,Yes.,a,THE WITNESS,start_question
+185,625,42,4,And what is that?,q,MS. CORBETT,start_answer
+186,626,42,5,That all of the treatment that Ms. Thornton received up to this times are reasonable.,a,THE WITNESS,start_question
+187,628,42,7,"And finally, Doctor, have you given all of your opinions today to a reasonable degree of medical certainty?",q,MS. CORBETT,start_answer
+188,631,42,10,Yes.,a,THE WITNESS,start_chat
+189,632,42,11,I would offer Dr. Olegario on cross. CROSS-EXAMINATION,side_chat,MS. CORBETT,start_question
+190,636,42,15,"Good morning, Doctor.  I have a few questions I would just like to go over before we get into your reports.  You are a doctor for -- in layman's terms, you are a doctor for pain management; correct?",q,MR. BORSUK,start_answer
+191,640,42,19,Yes.,a,THE WITNESS,start_question
+192,641,42,20,We can agree that pain generally is a matter is subjective?,q,MR. BORSUK,start_answer
+193,643,42,22,"It's subjective, and then it could -- we try to incorporate with our physical findings.",a,THE WITNESS,start_question
+194,645,42,24,"Understood.  But there is no, for lack of a better phrase, painometer like there is so that you check your heart rate or something like that; correct?",q,MR. BORSUK,start_answer
+195,649,43,2,That is correct.,a,THE WITNESS,start_question
+196,650,43,3,"Doctor, in reviewing your report of November 13, 2018, did you personally write this report, sir?",q,MR. BORSUK,start_answer
+197,652,43,5,Yes.,a,THE WITNESS,start_question
+198,653,43,6,Every aspect of it?,q,MR. BORSUK,start_answer
+199,654,43,7,Uh-huh.,a,THE WITNESS,start_question
+200,655,43,8,"Okay.  In your report and during your testimony here, you make several statements regarding the plaintiff's position in the vehicle, wearing a seat belt and where the accident actually occurred as to the contact.  This information was provided to you by the plaintiff; correct?",q,MR. BORSUK,start_answer
+201,661,43,14,"With the patients, yes.",a,THE WITNESS,start_question
+202,662,43,15,Okay.  And -- but you never saw the vehicle that was involved in the accident?,q,MR. BORSUK,start_answer
+203,664,43,17,The picture of the accident?,a,THE WITNESS,start_question
+204,665,43,18,Yes.,q,MR. BORSUK,start_answer
+205,666,43,19,No.,a,THE WITNESS,start_question
+206,667,43,20,And you never went to the scene of the accident?,q,MR. BORSUK,start_answer
+207,668,43,21,That is correct.,a,THE WITNESS,start_question
+208,669,43,22,And at the time of this report you never saw the hospital records; correct?,q,MR. BORSUK,start_answer
+209,671,43,24,That is correct.,a,THE WITNESS,start_question
+210,672,43,25,Do you remember when exactly you first saw the hospital records?,q,MR. BORSUK,start_answer
+211,675,44,2,It was just sent to me last week.,a,THE WITNESS,start_question
+212,676,44,3,"Okay.  So when you physically examined the patient, Ms. Thornton, you still had not seen the hospital records; correct?",q,MR. BORSUK,start_answer
+213,679,44,6,At that time there is none.,a,THE WITNESS,start_question
+214,680,44,7,"Okay.  Doctor, I want to go a little bit into the medical records of Ms. Thornton and if you need to look through your file to follow along.  It appear that her first chiropractic visit was on October 4, 2016.  Is that correct?",q,MR. BORSUK,start_answer
+215,685,44,12,That is correct.,a,THE WITNESS,start_question
+216,686,44,13,"Okay.  And her next visit wasn't until January 2017, three months later?",q,MR. BORSUK,start_answer
+217,688,44,15,From the chiropractor?,a,THE WITNESS,start_question
+218,689,44,16,From her first chiropractic.,q,MR. BORSUK,start_answer
+219,690,44,17,I think she was seen every two days.,a,THE WITNESS,start_question
+220,691,44,18,Every two days?,q,MR. BORSUK,start_answer
+221,692,44,19,Yes.  She has October 4th and October 6th.  Is that what you are asking?,a,THE WITNESS,start_question
+222,694,44,21,Yes; that's what I'm asking.,q,MR. BORSUK,start_answer
+223,695,44,22,Yeah.,a,THE WITNESS,start_question
+224,696,44,23,So she was going every time?,q,MR. BORSUK,start_answer
+225,697,44,24,Yes.  I think two to three times a week.,a,THE WITNESS,start_question
+226,698,44,25,To the chiropractor?,q,MR. BORSUK,start_answer
+227,700,45,1,That is correct.,a,THE WITNESS,start_question
+228,701,45,2,"Okay.  According to Ms. Thornton's records, medical records, she was prescribed some pain medicine -- medication; is that correct?",q,MR. BORSUK,start_answer
+229,704,45,5,She was given Ibuprofen which is a nonsteroidal anti-inflammatory medication.,a,THE WITNESS,start_question
+230,706,45,7,Anything else other than the Ibuprofen?,q,MR. BORSUK,start_answer
+231,707,45,8,"As far as I know, I think she was given also a muscle relaxer, Flexeril.",a,THE WITNESS,start_question
+232,709,45,10,Did she tell you if she ever took that prescription?,q,MR. BORSUK,start_answer
+233,711,45,12,Those are the prescription that was given to her when she went to emergency -- emergent -- Mercy ER.,a,THE WITNESS,start_question
+234,713,45,14,"And did -- Doctor, I will re-ask my question. Did she ever inform you if she took that medication?",q,MR. BORSUK,start_answer
+235,715,45,16,She did take the Ibuprofen.,a,THE WITNESS,start_question
+236,716,45,17,The Ibuprofen.  But the muscle relaxer?,q,MR. BORSUK,start_answer
+237,717,45,18,"She didn't really mention that, but it was just in the records.",a,THE WITNESS,start_question
+238,719,45,20,For someone who is suffering from the pain as she describes is it common to not take a muscle relaxer that has been prescribed to you?,q,MR. BORSUK,start_answer
+239,722,45,23,"I do see a lot of patients that, you know, a lot of -- some of them they're not really pill takers because of the side effects, so it depends.  I do encounter a lot of those.",a,THE WITNESS,start_question
+240,727,46,2,"Doctor, you examined her on September 19, 2017; correct?",q,MR. BORSUK,start_answer
+241,729,46,4,That is correct.,a,THE WITNESS,start_question
+242,730,46,5,And that is the first time you examined her?,q,MR. BORSUK,start_answer
+243,731,46,6,That is correct.,a,THE WITNESS,start_question
+244,732,46,7,Did you examine her any time after that?,q,MR. BORSUK,start_answer
+245,733,46,8,"The next time I did see her is October of 2018, October 31st.",a,THE WITNESS,start_question
+246,735,46,10,October 31st?,q,MR. BORSUK,start_answer
+247,736,46,11,That is correct.,a,THE WITNESS,start_question
+248,737,46,12,"We'll go back to the September 2017.  But October 20 -- or 31st, 2018 did you do a full physical examination?",q,MR. BORSUK,start_answer
+249,740,46,15,"Yes, I did.",a,THE WITNESS,start_question
+250,741,46,16,On September -- in September 2017 that was more than a year after the accident; correct?,q,MR. BORSUK,start_answer
+251,743,46,18,That is correct.,a,THE WITNESS,start_question
+252,744,46,19,Okay.  And you reviewed all of her medical records?,q,MR. BORSUK,start_answer
+253,746,46,21,I did.,a,THE WITNESS,start_question
+254,747,46,22,And in those medical records there was an MRI that was taken of her lower lumbar back in February of 2017?,q,MR. BORSUK,start_answer
+255,750,46,25,Yes.,a,THE WITNESS,start_question
+256,752,47,1,And that came back negative?,q,MR. BORSUK,start_answer
+257,753,47,2,That's correct.,a,THE WITNESS,start_question
+258,754,47,3,But plaintiff at that time had been complaining about her lower lumbar pain; correct?,q,MR. BORSUK,start_answer
+259,756,47,5,She was.  She was.,a,THE WITNESS,start_question
+260,757,47,6,"So the MRI came back negative and then an EMG was also taken, correct, of the lower lumbar?",q,MR. BORSUK,start_answer
+261,759,47,8,"The lower extremities, yes.",a,THE WITNESS,start_question
+262,760,47,9,And that came back as negative as well?,q,MR. BORSUK,start_answer
+263,761,47,10,That's correct.,a,THE WITNESS,start_question
+264,762,47,11,"Doctor, is there any explanation as to why she was complaining of pain, although those two tests came back negative?",q,MR. BORSUK,start_answer
+265,765,47,14,"Oh, yes.  I mean, from my experience in working as a pain physician for 16 years and even a physiatrist, I do encounter a lot of patients who are complaining and all of the tests were negative.  But as I do in my practice, I usually rely on my history and physical and all of these tests will just -- will only confirm my diagnosis, but I do encounter a lot of those.",a,THE WITNESS,start_question
+266,772,47,21,"They confirm your diagnosis.  And so, Doctor, can I ask then for your diagnosis, is your diagnosis that she is not suffering in her lower lumbar?",q,MR. BORSUK,start_answer
+267,775,47,24,"In the lower back at that time -- okay.  When I did see the patient initially, she was complaining more of her cervical spine, so I didn't really address her lumbar spine.  But she did tell me, though, that she was having pain in the lower back, but her neck pain was worse.  So we try to explain to the patient that we will like to concentrate in the area where is the worst problem.  So at the time it was her cervical spine, so -- and in fact, it was in my notes from my October of 2018 when she was saying that she was complaining of her lower back, but I don't have her records at the time, so I was trying to get her records and review the records, but her initial visit is more on the cervical spine.",a,THE WITNESS,start_question
+268,789,48,12,"So as I -- let me understand then, Doctor.",q,MR. BORSUK,start_answer
+269,790,48,13,Uh-huh.,a,THE WITNESS,start_question
+270,791,48,14,"In September of 2017 she complained -- I understand the cervical spine issue and you examined her for that, but she also complained of the lumbar, pain in her lower lumbar.  So you did not examine her?",q,MR. BORSUK,start_answer
+271,795,48,18,I did examine her.,a,THE WITNESS,start_question
+272,796,48,19,Okay.  And what was your diagnosis from the examination in regard to her lower lumbar in September 2017?,q,MR. BORSUK,start_answer
+273,799,48,22,"At that time I don't have any diagnosis.  That's because, as I said, like, you know, she was complaining more on the cervical spine.  So I just defer for my impression at the time, but I was just discussing with the patient that since her cervical spine is what's causing her problem, so we will try to concentrate in that area until her next office visit.  Then we can -- if the pain in the lower back persist.  That's how I do it and then we will just reevaluate and do any procedures if -- whatever procedures we can do.",a,THE WITNESS,start_question
+274,810,49,7,So you examined her but did not make a diagnosis on her lower lumbar?,q,MR. BORSUK,start_answer
+275,812,49,9,Yes.,a,THE WITNESS,start_question
+276,813,49,10,"Even though you reviewed her records -- and back in February when she took the MRI, she complained of the lower lumbar was the greater issue?",q,MR. BORSUK,start_answer
+277,816,49,13,"I think at that time I don't have, if I'm not mistaken, I don't have the records from the lower back.  I have mainly the cervical.",a,THE WITNESS,start_question
+278,819,49,16,"Okay.  So when you examined her in September of 2017, you didn't have the MRI and the EMG of her lower lumbar?",q,MR. BORSUK,start_answer
+279,822,49,19,I don't think so because it was -- I put that in off notes in her last office visit in October that I need to get her MRI for her lumbar spine as well as her EMG. So it means to say I don't have that in our files.,a,THE WITNESS,start_question
+280,826,49,23,Did you ever obtain those documents -- you obtained those documents prior to the report; correct?,q,MR. BORSUK,start_answer
+281,828,49,25,"Yes.  I think after I did see the patient, yes, after I have -- I have -- before I did this narrative report.  That is correct.",a,THE WITNESS,start_question
+282,832,50,3,And you reviewed the EMG and MRI of her lower lumbar?,q,MR. BORSUK,start_answer
+283,834,50,5,"Yes, I did.",a,THE WITNESS,start_question
+284,835,50,6,"And you saw that she was complaining predominately of her lower lumbar, not of her cervical back in February of 2017?",q,MR. BORSUK,start_answer
+285,838,50,9,No.  No.  2018.,a,THE WITNESS,start_question
+286,839,50,10,What's 2018?,q,MR. BORSUK,start_answer
+287,840,50,11,The October.  That's where she was complaining more of the lower back.,a,THE WITNESS,start_question
+288,842,50,13,"I understand.  I understand, Doctor.  But if you look through the medical records, she was complaining of her lower lumbar more so in February 2017.  That's why an EMG and MRI was taken of it.",q,MR. BORSUK,start_answer
+289,846,50,17,"Yes, but when I saw her in September of 2017, her pain is more on the cervical spine.  I mean, they -- it really depends.  Like sometimes when patients involved in a motor vehicular accident, if it involves both the lower back and the neck, there are some days that that one area is worse than the other area.  So -- but when I saw her in September, it was more on her cervical spine, so that's why we try to concentrate treating her cervical area than the lower back.",a,THE WITNESS,start_question
+290,856,51,1,"So when you treat, you wouldn't treat both, even though as you have just demonstrated to me today that in a vehicular accident where there is a collision that a patient could be suffering from cervical and lower lumbar, and she explained both to you.  You only treat her for the cervical?",q,MR. BORSUK,start_answer
+291,862,51,7,"Yeah.  I mean, because -- first is we inject steroids, so we don't want to load patients with steroids, you know.  So -- and I usually ask the patient like, you know, where is the worst problem, is the cervical or lower back.  We usually do that, and at the time it was her cervical spine that was causing her most of her problems, so that's why we -- that's why I did the cervical epidural injections instead of the lower back.",a,THE WITNESS,start_question
+292,870,51,15,"Now, then you said you then saw her on October 31, 2018, the second time; correct?",q,MR. BORSUK,start_answer
+293,872,51,17,That is correct.,a,THE WITNESS,start_question
+294,873,51,18,And there you stated there was a lower lumbar?,q,MR. BORSUK,start_answer
+295,874,51,19,"At that time, yes, she was complaining more of her lower back.",a,THE WITNESS,start_question
+296,876,51,21,More than her cervical?,q,MR. BORSUK,start_answer
+297,877,51,22,"At that time, yes.",a,THE WITNESS,start_question
+298,878,51,23,"Okay.  So in October of 2018 she was having more lower back, lower lumbar issues than her cervical spine in her neck?",q,MR. BORSUK,start_answer
+299,882,52,1,"Yes.  When I saw her, she was complaining more of that.",a,THE WITNESS,start_question
+300,884,52,3,"In October of 2018, did you ask her whether her pain in her cervical spine was more or less than when you had last seen her?",q,MR. BORSUK,start_answer
+301,887,52,6,At the time -- let me see.  Her pain level was 5. She was telling me it helps her but pain starts coming back.,a,THE WITNESS,start_question
+302,890,52,9,Pain starts coming back.  I'm sorry.  Can you --,q,MR. BORSUK,start_answer
+303,891,52,10,Pain starts coming back in her cervical spine down to her arms and forearms into her hands.,a,THE WITNESS,start_question
+304,893,52,12,"Okay.  Now, why would -- what is your diagnostics for the pain that is going from her neck down into her hands, Doctor?",q,MR. BORSUK,start_answer
+305,896,52,15,I had her as cervical radiculopathy as well as a facet injury.,a,THE WITNESS,start_question
+306,898,52,17,And that's based off of the EMG of her cervical spine?,q,MR. BORSUK,start_answer
+307,900,52,19,Based on the EMG as well as my history and physical exam.,a,THE WITNESS,start_question
+308,902,52,21,"Okay.  And that EMG -- and the report in regards to that EMG comes from Dr. Holding, dated August 30, 2017; correct?",q,MR. BORSUK,start_answer
+309,905,52,24,I'm sorry.  Which day again?,a,THE WITNESS,start_question
+310,906,52,25,"August 30, 2017.",q,MR. BORSUK,start_answer
+311,908,53,1,Yes.,a,THE WITNESS,start_question
+312,909,53,2,Okay.  And that was just -- and that was right before you first physically examined Ms. Thornton?,q,MR. BORSUK,start_answer
+313,911,53,4,Yes.,a,THE WITNESS,start_question
+314,912,53,5,"In that report from Dr. Holding it stated that she also suffered from mild bilateral carpal tunnel syndrome, affecting sensory only the first digit.",q,MR. BORSUK,start_answer
+315,915,53,8,Yes.,a,THE WITNESS,start_question
+316,916,53,9,"What does that mean, Doctor?",q,MR. BORSUK,start_answer
+317,917,53,10,"So carpal tunnel is usually around the wrist area, and then you manifest symptoms down to your fingers and index middle and half of your ring finger.",a,THE WITNESS,start_question
+318,920,53,13,All right.  And how is carpal tunnel caused?,q,MR. BORSUK,start_answer
+319,921,53,14,"Carpal tunnel sometimes it could -- it could affect a lot of ways, as long as it does pinch the medial nerve -- the median nerve.",a,THE WITNESS,start_question
+320,924,53,17,"Doctor, are the effects of carpal tunnel and radiculopathy, cervical radiculopathy, similar?",q,MR. BORSUK,start_answer
+321,926,53,19,Not necessarily.,a,THE WITNESS,start_question
+322,927,53,20,"Well, in this instance, Doctor, since the plaintiff has complained of tingling or pain that would travel down through her fingers, that type of cervical radiculopathy, would that be similar to carpal tunnel syndrome?",q,MR. BORSUK,start_answer
+323,932,53,25,"No, it's not, but here's the thing.",a,THE WITNESS,start_question
+324,934,54,1,How is it not?,q,MR. BORSUK,start_answer
+325,935,54,2,"If you look at the muscle -- I was just looking at the EMG testing that was done by Dr. Holding.  She did put some in some of the muscles which is supplied by this nerve.  Okay? And the median nerve it's basically around the wrist area, and the cervical radiculopathy it comes from the neck.  So there are some testing that you can really try to differentiate between a radiculopathy and a peripheral neuropathy which is the carpal tunnel.",a,THE WITNESS,start_question
+326,945,54,12,"Okay.  Doctor, you and I can both agree that Dr. Holding did recognize there is carpal tunnel in plaintiff?",q,MR. BORSUK,start_answer
+327,948,54,15,There is in the sensory only.  So what does it mean?  Sensory is just the nerve conduction studies.  Nothing happened with the needle electromyography.,a,THE WITNESS,start_question
+328,952,54,19,Okay.  And can you explain?  What do you mean by sensory only?,q,MR. BORSUK,start_answer
+329,954,54,21,Sensory is the nerve conduction studies.,a,THE WITNESS,start_question
+330,955,54,22,Yes.,q,MR. BORSUK,start_answer
+331,956,54,23,"So when you -- the way you do it like you know, you feel some shocking in there.  And if it is positive, they try to record all of this, and if it is positive, that's just mild, because they have to combine that with the motor which is the needle electromyography and then that becomes more severe.",a,THE WITNESS,start_question
+332,964,55,5,"Now, the MRI came back for the cervical spine as negative.  And as I believe you explained, Doctor, that an MRI represents or shows, it use magnets and radio waves, and shows the status of the nerve, in this case, in the neck, correct, in the spinal cord?",q,MR. BORSUK,start_answer
+333,969,55,10,It's more on the anatomy that causes some pathology around the cervical spine area.,a,THE WITNESS,start_question
+334,971,55,12,What do you mean by anatomy surrounding the pathology -- or with the pathology?,q,MR. BORSUK,start_answer
+335,973,55,14,"Anatomy means like, you know, let's say what's causing the problem from the cervical spinal area, from the nerve, the facet joint, even up to the spinal cord and even the muscle tissue too.  So it can detect all of those.",a,THE WITNESS,start_question
+336,978,55,19,Is it common for there to be a divergence between the MRI and the EMG?,q,MR. BORSUK,start_answer
+337,980,55,21,I'm sorry?,a,THE WITNESS,start_question
+338,981,55,22,Is it common for there to be a divergence between an MRI and EMG in a diagnosis?,q,MR. BORSUK,start_answer
+339,983,55,24,"Yeah.  I mean, it could happen.  I mean, it could go both ways.",a,THE WITNESS,start_question
+340,986,56,1,"I understand it could.  But is it common, Doctor?",q,MR. BORSUK,start_answer
+341,988,56,3,"I'm not so sure if it was, the percentage-wise, but yes.  I'm not sure.  I'm not pretty -- so sure if it's common or not, but it could happen.",a,THE WITNESS,start_question
+342,991,56,6,"Doctor, do you know if the plaintiff is continuing to go to see a chiropractor?",q,MR. BORSUK,start_answer
+343,993,56,8,"I think the last time when I saw her she was mentioning that 2017 was the last time, so I don't think she was -- she's seeing this chiropractor again.",a,THE WITNESS,start_question
+344,996,56,11,"Doctor, is it in your opinion beneficial for her to continue to go see the chiropractor?",q,MR. BORSUK,start_answer
+345,998,56,13,"If the chiropractor helps her, yes, it could be beneficial, because chronic pain it comes and goes.",a,THE WITNESS,start_question
+346,1000,56,15,"All right.  And Doctor, you and I can both agree that the biggest proponent in recovering from an injury like this is seeing the medical professionals that you have been told to go see; correct?",q,MR. BORSUK,start_answer
+347,1004,56,19,Yes.,a,THE WITNESS,start_question
+348,1005,56,20,"Do you know if she's taken any additional steroid injections, sir?",q,MR. BORSUK,start_answer
+349,1007,56,22,"Just per my recommendation the last time I saw her, that she has to make an appointment after reviewing all of her records.  Then that's where we can decide what kind of injections she's getting.",a,THE WITNESS,start_question
+350,1012,57,1,"So when was the last -- according to your knowledge, when was the last time she took a steroid injection?",q,MR. BORSUK,start_answer
+351,1015,57,4,I just did one on her which is back in September of 2017.,a,THE WITNESS,start_question
+352,1017,57,6,Okay.  In 2017.  How frequently is she -- you said about three a year; correct?,q,MR. BORSUK,start_answer
+353,1019,57,8,That is correct.,a,THE WITNESS,start_question
+354,1020,57,9,And so she's then -- we are a year now.  In 2017 we are two years; correct?,q,MR. BORSUK,start_answer
+355,1022,57,11,"Yeah.  I mean, that's --",a,THE WITNESS,start_question
+356,1023,57,12,So she hasn't taken a steroid injection for two years?,q,MR. BORSUK,start_answer
+357,1025,57,14,Yes.  That's just based on my experience and that's just my recommendation.  So it's up to the patients to come and visit us again.,a,THE WITNESS,start_chat
+358,1028,57,17,All right.  I have no further questions.,side_chat,MR. BORSUK,start_chat
+359,1030,57,19,"Thank you.  Doctor, only a brief follow-up. REDIRECT EXAMINATION",side_chat,MS. CORBETT,start_question
+360,1034,57,23,"We had talked about loading patients up with steroids, is how you had phrased it.  What are some of the side effects of the epidural steroid injections?",q,MS. CORBETT,start_answer
+361,1038,58,1,"With the medication itself.  You know, I mean, if you take a lot of steroids, it's not good for the bones.  It can cause a lot of other problems also, and also we have to ask if the patients are diabetic, because sometimes their sugar goes up.  So we try not to load with a lot of steroids and that's one of the reasons for that, and also their adrenal glands, it could make some problems with that also.",a,THE WITNESS,start_question
+362,1046,58,9,"And Doctor, did any of the questions by Mr. Borsuk change any of your opinions?",q,MS. CORBETT,start_answer
+363,1048,58,11,No.,a,THE WITNESS,start_chat
+364,1049,58,12,Thank you.  I don't have any further questions.,side_chat,MS. CORBETT,start_chat
+365,1051,58,14,The time is 8:48 a.m.  This concludes this video deposition.,side_chat,THE VIDEOGRAPHER,is brackets
+366,1053,58,16,(Signature waived.),brackets,,is brackets
+367,1054,58,17,"(Whereupon, the above-entitled matter was concluded at 8:48 a.m. this date.) COMMONWEALTH OF PENNSYLVANIA COUNTY OF ALLEGHENY the Commonwealth of Pennsylvania, do hereby certify that sworn to testify the truth, the whole truth, and nothing the time and place stated herein; and that the said reduced to typewriting under my direction, and witness, all to the best of my skill and ability. I further certify that the inspection, reading and respective parties and by the witness. I further certify that I am not a relative or interested, directly or indirectly, in this action. IN WITNESS WHEREOF, I have hereunto set my hand and 2019.",brackets,,end

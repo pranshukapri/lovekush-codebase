@@ -1,0 +1,614 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, current address for the record.,,,start_chat
+1,156,5,12,"175 Community Drive, Great Neck, New York. EXAMINATION",side_chat,THE WITNESS,start_question
+2,160,5,16,"Good morning, Dr. Moline. How are you?",q,"ADAM MARTIN, ESQ",start_answer
+3,162,5,18,I'm okay.,a,THE WITNESS,start_question
+4,163,5,19,This is Adam Martin.  I'm going to lead off.  I represent two of the defendants in the action.  I'll probably be asking the majority of the questions this morning.,q,"ADAM MARTIN, ESQ",start_chat
+5,167,5,23,"Before we get started, Mike, the usual stipulations?",side_chat,MR. MARTIN,start_chat
+6,169,5,25,Yes. Jacqueline Moline,side_chat,MR. JOYCE,start_chat
+7,172,6,2,"All objections, except as to form, are waived until the time of trial, and an objection by one defendant is good for all?",side_chat,MR. MARTIN,start_chat
+8,176,6,6,Correct.,side_chat,MR. JOYCE,start_chat
+9,177,6,7,Would you like to have the doctor read and sign the transcript?,side_chat,MR. MARTIN,start_chat
+10,179,6,9,No.,side_chat,MR. JOYCE,start_question
+11,180,6,10,"Okay.  Dr. Moline, I know you've been deposed multiple times, so I'm going to skip the typical instructions as you're quite experienced at this.  I'll note, of course, that we are doing this by phone, and Attorney Joyce and the other attorneys are also on the phone, so if we can just do our best to pause after questions and answers to make sure we're both complete, and if Attorney Joyce has any objections he can get those in.  We'll just do the best that we can given our situation; okay?",q,"ADAM MARTIN, ESQ",start_answer
+12,191,6,21,Okay.,a,THE WITNESS,start_question
+13,192,6,22,And it's my understanding that you are in your office right now; is that correct?,q,"ADAM MARTIN, ESQ",start_answer
+14,194,6,24,"Well, I'm in a conference room, so I'm actually in a conference room in my office Jacqueline Moline suite.  I am not in my physical office.",a,THE WITNESS,start_question
+15,199,7,3,"Okay.  And the only person there with you there, currently, is the court reporter; correct?",q,"ADAM MARTIN, ESQ",start_answer
+16,202,7,6,Correct.,a,THE WITNESS,start_question
+17,203,7,7,And my understanding is you've been retained by Attorney Joyce as an expert in the Susan Stewart matter; is that correct?,q,"ADAM MARTIN, ESQ",start_answer
+18,206,7,10,Yes.,a,THE WITNESS,start_question
+19,207,7,11,Do you remember when you were first contacted by Attorney Joyce or anyone from his office?,q,"ADAM MARTIN, ESQ",start_answer
+20,210,7,14,"That's a very open-ended question. Are you speaking related to this case in particular, or ever?",a,THE WITNESS,start_question
+21,213,7,17,"Yes, yes, related to the retention in the Susan Stewart case.",q,"ADAM MARTIN, ESQ",start_answer
+22,215,7,19,"It was actually fairly recently.  It's been within the past, I would say, three weeks.",a,THE WITNESS,start_question
+23,217,7,21,"Do you have the notice of deposition in front of you, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+24,219,7,23,I do not.,a,THE WITNESS,start_question
+25,220,7,24,Do you recall being sent the notice of deposition for this case? Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+26,224,8,2,No.,a,THE WITNESS,start_chat
+27,225,8,3,"I happen to have a copy, but I don't have the attachments.",side_chat,THE REPORTER,start_chat
+28,227,8,5,"Okay.  Madam Court Reporter, if we could just mark it, what you have, as Exhibit 1, please.",side_chat,MR. MARTIN,is brackets
+29,230,8,8,"(Whereupon, Plaintiff's Exhibit Number 1, a notice of deposition, was marked for identification as of this date.)",brackets,,start_question
+30,234,8,12,"Doctor, the notice of deposition you were just handled as Exhibit 1, am I correct, it does not have a schedule A attached to it?",q,"ADAM MARTIN, ESQ",start_answer
+31,237,8,15,You are correct.,a,THE WITNESS,start_question
+32,238,8,16,"I'll represent to you that the notice of deposition we served had a schedule A requesting the production of certain documents. Since you did not see the notice of deposition, am I correct in the assumption that you did you not review the schedule A appended thereto?",q,"ADAM MARTIN, ESQ",start_answer
+33,245,8,23,That would be a correct assumption.,a,THE WITNESS,start_question
+34,246,8,24,Okay.  Did you bring anything with you to the deposition today? Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+35,250,9,2,Yes.,a,THE WITNESS,start_question
+36,251,9,3,Okay.  What did you bring with you in your file?,q,"ADAM MARTIN, ESQ",start_answer
+37,253,9,5,"I brought a copy of my notes, as well as some documents that were sent to me related to fiber release from MVA Associates. And I was provided with set of Defendant H.B. Fuller Company's responses to plaintiff's first standard set of liability interrogatories in a case entitled Mazzorana, M-A-Z-Z-O-R-A-N-A. I was provided with a document related to Bird & Son that is entitled An Introduction to Bird Asphalt Roofing Products. And I was provided with Kaiser Gypsum Company's 2004 supplemental responses to interrogatories in San Francisco County complex asbestos litigation. I also brought a copy of my CV, my reference and reliance list, household exposure references, and some abstracts of the articles that were referenced.",a,THE WITNESS,start_question
+38,271,9,23,"Okay, thank you.",q,"ADAM MARTIN, ESQ",start_chat
+39,272,9,24,"Why don't we go through the somewhat tedious task of marking Jacqueline Moline those as exhibits, so if we could start with your handwritten notes and mark those as Exhibit 2.",side_chat,MR. MARTIN,is brackets
+40,279,10,5,"(Whereupon, Plaintiff's Exhibit Number 2, handwritten notes, was marked for identification as of this date.)",brackets,,start_chat
+41,282,10,8,If we could marked the fiber release studies from MVA as Exhibit 3.,side_chat,MR. MARTIN,is brackets
+42,285,10,11,"(Whereupon, Plaintiff's Exhibit Number 3, MVA fiber release studies, was marked for identification as of this date.)",brackets,,start_chat
+43,289,10,15,"If we can marked H.B. Fuller interrogatory answers as Exhibit 4, please.",side_chat,MR. MARTIN,is brackets
+44,292,10,18,"(Whereupon, Plaintiff's Exhibit Number 4, H.B. Fuller interrogatory answers, was marked for identification as of this date.)",brackets,,start_chat
+45,296,10,22,"If you could mark the Bird & Son Introduction to Bird Asphalt Roofing packet, that's Exhibit 5, please.",side_chat,MR. MARTIN,symbols
+46,299,10,25,* * * * * * Jacqueline Moline,symbols,,is brackets
+47,302,11,2,"(Whereupon, Plaintiff's Exhibit Number 3, Bird & Son Introduction to Bird Asphalt Roofing packet, was marked for identification as of this date.)",brackets,,start_chat
+48,306,11,6,If the Kaiser Gypsum supplemental interrogatory answers please be be marked as Exhibit 6.,side_chat,MR. MARTIN,is brackets
+49,309,11,9,"(Whereupon, Plaintiff's Exhibit Number 6, a Kaiser Gypsum supplemental interrogatory answers, was marked for identification as of this date.)",brackets,,start_chat
+50,313,11,13,"If we could mark Dr. Moline's CV as Exhibit 7, please.",side_chat,MR. MARTIN,is brackets
+51,315,11,15,"(Whereupon, Plaintiff's Exhibit Number 7, a curriculum vitae, was marked for identification as of this date.)",brackets,,start_chat
+52,318,11,18,Thank you.  If the list of reference and reliance materials be marked as Exhibit 8.,side_chat,MR. MARTIN,is brackets
+53,321,11,21,"(Whereupon, Plaintiff's Exhibit Number 8, a list of reference and reliance materials, was marked for identification as of this date.)",brackets,,start_chat
+54,325,11,25,Thank you. Jacqueline Moline,side_chat,MR. MARTIN,start_question
+55,328,12,2,"Dr. Moline, which articles did you bring abstracts for?",q,"ADAM MARTIN, ESQ",start_answer
+56,330,12,4,"There's a separate household exposure references list, and I brought the abstracts for all 45 of them.  It's all in one packet, so it can be marked as one packet.",a,THE WITNESS,start_chat
+57,334,12,8,"Let's do that.  Let's mark that household exposure reference list along with all the abstracts as the next exhibit, please.",side_chat,MR. MARTIN,is brackets
+58,338,12,12,"(Whereupon, Plaintiff's Exhibit Number 9, a household exposure reference list with abstracts, was marked for identification as of this date.)",brackets,,start_question
+59,342,12,16,"Dr. Moline, we are were also provided with two letters from Attorney Joyce's office, dated August 13th. Do you have those with you?",q,"ADAM MARTIN, ESQ",start_answer
+60,346,12,20,No.,a,THE WITNESS,start_question
+61,347,12,21,"I'll represent to you that one of the letters represents the inclusion of the product-specific documents, those being the Bird Incorporated, the H.B. Fuller, and Kaiser Gypsum documents, and the second one represent, depicts Jacqueline Moline the inclusion of John Stewart's deposition transcript, decedent's medical records from South Shore Hospital, and decedent's medical records from Primary Care Medical Records from Compass Medical Braintree. Do you recall receiving those documents as well, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+62,361,13,9,"Yes, but I received them electronically.  I don't have a copy of them printed out.",a,THE WITNESS,start_question
+63,364,13,12,"That's fine.  The documents that we've marked as exhibits and the documents that I just referenced that were included with that correspondence, the deposition transcript and the medical records as well as the defendants' specific documents, does that represent everything you've reviewed in connection with this case?",q,"ADAM MARTIN, ESQ",start_answer
+64,372,13,20,Yes.,a,THE WITNESS,start_question
+65,373,13,21,"Thank you. So there's nothing other than what we've discussed, any articles that you you've reviewed, that you looked at in connection with forming your opinion in this case? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+66,380,14,2,"Well, that's an impossible question to answer, since the 45 articles referenced on the household abstracts are not the sum total of everything I've ever read in my life with respect to asbestos and its health affects. So I don't know quite how to answer your question as you phrased it, specifically related to the Stewart case, I haven't reviewed additional documents specifically. But I've certainly read articles that go to the fiber release from joint compound that are not referenced in the marked exhibits or things along those lines.  Some of them should be on my reference list. It's actually just a reference list.  It shouldn't say reliance list.",a,THE WITNESS,start_question
+67,396,14,18,Sure.  And those are just articles that you've read throughout your career as part of your preparation for various depos and your expert work; correct?,q,"ADAM MARTIN, ESQ",start_answer
+68,400,14,22,"No.  I've read those articles because I'm in specialist in occupational medicine, and I deal with patients who have exposures to asbestos, and a side reason for reading them Jacqueline Moline maybe be related to medicolegal work, but that is not the primary reason I have read all these articles.",a,THE WITNESS,start_question
+69,409,15,5,"Fair enough.  Thank you. Were there any specific articles that you reviewed in the last three weeks, since your retention by Attorney Joyce, in connection in forming your opinions in this case?",q,"ADAM MARTIN, ESQ",start_answer
+70,414,15,10,"Not specifically, apart from looking at some of the -- I have the articles that are referenced as abstracts electronically.  I didn't review any of the full articles.  I've reviewed them in the past, but I just printed our the abstracts so I would have something to bring with me that wasn't overly burdensome in terms of paper.",a,THE WITNESS,start_question
+71,422,15,18,"Okay.  And other than the defendant-specific documents that you received from Attorney Joyce for H.B. Fuller and Kaiser Gypsum and Bird, did you review any other documents specifically related to the defendants in this case?",q,"ADAM MARTIN, ESQ",start_answer
+72,428,15,24,Apart from the MVA fiber release?,a,THE WITNESS,start_question
+73,429,15,25,"Yes, yes.  Thank you. Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+74,432,16,2,No.,a,THE WITNESS,start_question
+75,433,16,3,"Doctor, the CV I have from you is dated August 26, 2019, which I think was yesterday. Is that what you have in front of you?",q,"ADAM MARTIN, ESQ",start_answer
+76,437,16,7,It is what I have in front of me.,a,THE WITNESS,start_question
+77,438,16,8,"What's the most recent addition to that CV, if you know?",q,"ADAM MARTIN, ESQ",start_answer
+78,440,16,10,"To be honest with you, I don't know what the most recent addition was.  There are some omissions on here that should have been listed on here.  I'm not quite sure why they are not, but maybe they are somewhere I haven't found them. The most recent addition would be the article that was in press, in the Journal of Clinical Psychiatry, but there should have been a couple of other things added that are not on there that I'm happy to share with you.",a,THE WITNESS,start_question
+79,451,16,21,"Sure.  Any of those that haven't been added, do any of them relate to asbestos or asbestos-related disease?",q,"ADAM MARTIN, ESQ",start_answer
+80,454,16,24,"I've been named to the scientific advisory committee for the Asbestos Disease Jacqueline Moline Awareness Organization.  That is not added to this CV. I testified in Congress on June 11, 2019. It was to provide data related to the impact of the World Trade Center, but I believe asbestos was discussed as part of one of the exposures.",a,THE WITNESS,start_question
+81,464,17,8,And that's it?,q,"ADAM MARTIN, ESQ",start_answer
+82,465,17,9,I gave a presentation -- let me see if it's -- I gave a presentation about ovarian cancer and asbestos in April to the Asbestos Disease Awareness Organization.  I don't know if that was added.  It doesn't look like it was added.,a,THE WITNESS,start_question
+83,471,17,15,"Are you currently in the process of writing or collaborating on any articles or studies that you anticipate to be peer-reviewed, but haven't come out yet, that relate to asbestos or asbestos-related disease?",q,"ADAM MARTIN, ESQ",start_answer
+84,476,17,20,"Yes, and I do not discuss articles in print, because it's intellectual property. Until they are published, I don't discuss them.",a,THE WITNESS,start_question
+85,479,17,23,"Beyond the correspondence from Attorney Joyce on August 13th enclosing materials, have you had any other discussions Jacqueline Moline with Attorney Joyce or his office in connection with this case?",q,"ADAM MARTIN, ESQ",start_answer
+86,486,18,4,Apart from asking me -- we had an initial conversation about whether I would -- I could review the case.  That occurred before he sent me the information. And I had a brief discussion with him yesterday.,a,THE WITNESS,start_question
+87,492,18,10,And what was the context of yesterday's discussion?,q,"ADAM MARTIN, ESQ",start_answer
+88,494,18,12,"That I would be deposed by some very nice lawyers and, basically, that he didn't think it would go too long, and just to make sure I had the received the documents since some of them were sent more recently related to fiber release from various products.",a,THE WITNESS,start_question
+89,500,18,18,"I think we've covered it, but have you reviewed any reports from any other experts that were authorized in connection with the Susan Stewart case?",q,"ADAM MARTIN, ESQ",start_answer
+90,504,18,22,"Unless they were -- no.  I mean, everything that I reviewed in terms of expert reports has been marked.",a,THE WITNESS,start_question
+91,507,18,25,"Okay.  Thank you. Jacqueline Moline You're still at North Shore University Hospital, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+92,512,19,4,"Our corporate entity is now called Northwell Health, and one of the hospitals is North Shore University Hospital, that I have privileges at.",a,THE WITNESS,start_question
+93,516,19,8,"Are you still seeing, actively seeing, patients?",q,"ADAM MARTIN, ESQ",start_answer
+94,518,19,10,Yes.,a,THE WITNESS,start_question
+95,519,19,11,"I read this deposition from you two years ago in the Bouche case.  I think it was here in Massachusetts, so I don't want to belabor much of what was covered there. So in terms of the percentage of time you spend treating patients versus research, versus your expert litigation work, has the percentage of that work essentially remained the same over the last two years?",q,"ADAM MARTIN, ESQ",start_answer
+96,528,19,20,"I think that, in general, yes.  I spend, apart from when I'm being deposed or at trial, most of the litigation work is done on off-hours or on vacation or -- you know, nights and weekends or before or after the normal workday. Jacqueline Moline I still see patients one day a week, and I still am involved in a variety of clinical program oversight and research and administrative duties.",a,THE WITNESS,start_question
+97,540,20,6,"Has the percentage of income that you're deriving from litigation consulting work consistent with what it was two years ago, which I believe you said was 30, 35 percent?",q,"ADAM MARTIN, ESQ",start_answer
+98,544,20,10,"Actually, last year was a little higher.  It was about 45 to 50 percent which as anomalus.  I don't think it will be as high this year, but usually it's about 40 percent.",a,THE WITNESS,start_question
+99,548,20,14,Can you estimate or tell me what that amount was last year?,q,"ADAM MARTIN, ESQ",start_answer
+100,550,20,16,I cannot.,a,THE WITNESS,start_question
+101,551,20,17,"Do you still charge 550 an hour, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+102,553,20,19,No.,a,THE WITNESS,start_question
+103,554,20,20,Okay.  What are your current rates?,q,"ADAM MARTIN, ESQ",start_answer
+104,555,20,21,600 an hour.,a,THE WITNESS,start_question
+105,556,20,22,"And is that consistent for deposition, trial, and preparation work?",q,"ADAM MARTIN, ESQ",start_answer
+106,558,20,24,Yes. Although the deposition and trial work Jacqueline Moline doesn't go to me.  It goes to the health system.,a,THE WITNESS,start_question
+107,563,21,3,"Correct, thank you. You have not prepared a report specific to the Susan Stewart case; am I correct?",q,"ADAM MARTIN, ESQ",start_answer
+108,566,21,6,You are correct.,a,THE WITNESS,start_question
+109,567,21,7,And my assumption is that you were not asked to prepare one by Attorney Joyce; is that correct?,q,"ADAM MARTIN, ESQ",start_answer
+110,570,21,10,Yes.,a,THE WITNESS,start_question
+111,571,21,11,Were you asked to formulate causation opinions specific to the individual defendants in the case?,q,"ADAM MARTIN, ESQ",start_answer
+112,574,21,14,I have been asked for general causation.  I haven't been asked for defendant-specific.,a,THE WITNESS,start_question
+113,577,21,17,"Okay.  Thank you. Doctor, did you testify in any trials in 2018?",q,"ADAM MARTIN, ESQ",start_answer
+114,580,21,20,Yes.,a,THE WITNESS,start_question
+115,581,21,21,Can you estimate for me how many?,q,"ADAM MARTIN, ESQ",start_answer
+116,582,21,22,I don't know exactly how many it was in 2018.  It's probably about -- I think I've testified in about 15 trials a year.,a,THE WITNESS,start_question
+117,585,21,25,How about so far this year in 2019? Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+118,588,22,2,About six or eight.  I'm not exactly sure the number.,a,THE WITNESS,start_question
+119,590,22,4,Thank you. Are you aware of your testimony being excluded by any court in 2018 or 2019?,q,"ADAM MARTIN, ESQ",start_answer
+120,593,22,7,No.,a,THE WITNESS,start_question
+121,594,22,8,"Thank you. Can you estimate for me, Doctor, how much time you've spent in reviewing and working on the Susan Stewart matter?",q,"ADAM MARTIN, ESQ",start_answer
+122,598,22,12,"I think about six hours.  I would have to look at my notes, but I think it's about that.",a,THE WITNESS,start_question
+123,601,22,15,"Thank you. Just a couple more background questions. Doctor, my understanding is you are certified in occupational and environmental medicine; is that correct?",q,"ADAM MARTIN, ESQ",start_answer
+124,606,22,20,You mean board-certified?  Yes.,a,THE WITNESS,start_question
+125,607,22,21,And you are not a board-certified pulmonologist?,q,"ADAM MARTIN, ESQ",start_answer
+126,609,22,23,Why don't I just go through everything I'm not.,a,THE WITNESS,start_question
+127,611,22,25,Sure. Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+128,614,23,2,"I'm not a pulmonologist. I'm not an oncologist. I'm not a toxicologist. I've taken industrial hygiene courses, but I'm not a certified industrial hygienist. I've taken epidemiology and statistics courses and have taught them, but I do not have a PhD in epidemiology. I'm not a pathologist. I'm not an electron microscopist. I'm not a material science person. I'm not to geologist. I'm not a safety engineer.",a,THE WITNESS,start_question
+129,627,23,15,Any new board certifications in the last two years?,q,"ADAM MARTIN, ESQ",start_answer
+130,629,23,17,That's like asking if you have a new bar association. No.  I don't.,a,THE WITNESS,start_question
+131,632,23,20,Okay.  Thank you. Did you review Susan Stewart's medical records that you were provided?,q,"ADAM MARTIN, ESQ",start_answer
+132,635,23,23,I did.,a,THE WITNESS,start_question
+133,636,23,24,Okay.  And what were you look at Mrs. Stewart's medical records for? Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+134,640,24,2,"I was looking for her diagnosis, medical course.  I've looked to see if she, what her past medical history was, if there was relevant family history.  The general medical review that I do for all patients.",a,THE WITNESS,start_question
+135,645,24,7,"And part of your handwritten notes are your notes from your review of her medical records; correct, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+136,648,24,10,My handwritten notes are the review of the medical records.  I do them contemporaneously.,a,THE WITNESS,start_question
+137,651,24,13,Thank you. And you weren't asked to provide any sort of diagnosis of Mr. Stewart's disease; am I correct?,q,"ADAM MARTIN, ESQ",start_answer
+138,655,24,17,"Well, she's passed away, so I could not provide an active diagnosis.",a,THE WITNESS,start_question
+139,657,24,19,Were you asked to confirm the diagnosis?,q,"ADAM MARTIN, ESQ",start_answer
+140,659,24,21,"I was asked, only in the sense, to say was there evidence that she, in fact, from the medical records had a mesothelioma, but that's the only way I would be able to review the medical records to confirm it. Jacqueline Moline",a,THE WITNESS,start_question
+141,666,25,2,Sure.  And what was your opinion on that?,q,"ADAM MARTIN, ESQ",start_answer
+142,668,25,4,That she had malignant mesothelioma that was confirmed at pathologists at two organizations.,a,THE WITNESS,start_question
+143,671,25,7,"Thank you. And I take it's obvious, but you never treated Mrs. Stewart; correct?",q,"ADAM MARTIN, ESQ",start_answer
+144,674,25,10,Correct.,a,THE WITNESS,start_question
+145,675,25,11,Did you review any actual X-rays or CT scans or pathology slides of Mrs. Stewart?,q,"ADAM MARTIN, ESQ",start_answer
+146,677,25,13,"So I'm not a pathologist, as I said before, so I don't look at slides. I wasn't provided with any radiology, so I did not review them.",a,THE WITNESS,start_question
+147,681,25,17,Did you observe any reference in Mrs. Stewart's medical records to pleural plaques?,q,"ADAM MARTIN, ESQ",start_answer
+148,684,25,20,There was a references to pleural plaques in the PET/CT scan she had on the left side.  That was the only reference that I saw.,a,THE WITNESS,start_question
+149,687,25,23,"Was there any reference to those plaques being asbestos-related, to your recollection? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+150,692,26,2,No.,a,THE WITNESS,start_question
+151,693,26,3,Did you observe any mention or reference of Mrs. Stewart having asbestosis?,q,"ADAM MARTIN, ESQ",start_answer
+152,695,26,5,No.,a,THE WITNESS,start_question
+153,696,26,6,"Doctor, you said you're not a board-certified industrial hygienist, so am I correct that you don't do any dose reconstruction?",q,"ADAM MARTIN, ESQ",start_answer
+154,700,26,10,"There's nothing such thing as a board-certified industrial hygienist.  It's called a certified industrial hygienist.  Board certification is typically referred to as a nomenclature for physicians, is my understanding. But I did not do a dose reconstruction in this case.",a,THE WITNESS,start_question
+155,708,26,18,"In forming your opinions, generally, not specific to this case, do you ever review dose reconstructions that are performed by industrial hygienists to inform your opinion?",q,"ADAM MARTIN, ESQ",start_answer
+156,712,26,22,"If it's provided, I will take a look at it, sure.  I mean, that's -- I have industrial hygiene training, and occupational medicine is a multidiscipline profession where Jacqueline Moline we work with industrial hygienists all the time, so we work with them in that setting. It's fairly unusual that I see a dose reconstruction, because most people don't walk around with a dosimeter.",a,THE WITNESS,start_question
+157,723,27,7,Have you reviewed any dose reconstructions from any industrial hygienists specific to the Susan Stewart case?,q,"ADAM MARTIN, ESQ",start_answer
+158,726,27,10,"No.  I haven't been provided with any other expert reports, as we talked about earlier, so there would be no way for me to do that.",a,THE WITNESS,start_question
+159,730,27,14,"Thank you. Generally, Doctor, my understanding is that your opinion is that chrysotile asbestos can cause mesothelioma; am I correct?",q,"ADAM MARTIN, ESQ",start_answer
+160,734,27,18,"My opinion and the general scientific community, yes.",a,THE WITNESS,start_question
+161,736,27,20,Okay.  And so someone can develop mesothelioma only -- strike that. So someone could develop mesothelioma even if their only known exposures are to chrysotile? Is that your opinion as well?,q,"ADAM MARTIN, ESQ",start_answer
+162,741,27,25,Can you rephrase that? Jacqueline Moline,a,THE WITNESS,start_question
+163,744,28,2,Sure. Is it your opinion that someone who has only exposures to chrysotile may develop mesothelioma from those exposures?,q,"ADAM MARTIN, ESQ",start_answer
+164,748,28,6,"If their only type of exposure to asbestos is chrysotile asbestos, yes, they can develop mesothelioma.",a,THE WITNESS,start_question
+165,751,28,9,"But you'd also agree that there are other fiber types, including amosite and crocidolite, that are more carcinogenic than chrysotile on a fiber-per-fiber basis?",q,"ADAM MARTIN, ESQ",start_answer
+166,755,28,13,Depends what about disease you're talking about.,a,THE WITNESS,start_question
+167,757,28,15,Okay.  With respect to mesothelioma.,q,"ADAM MARTIN, ESQ",start_answer
+168,758,28,16,"On a fiber-per-fiber base, yes.",a,THE WITNESS,start_question
+169,759,28,17,"Do you have an order of magnitude by which you believe, starting with amosite, an order of magnitude to which it's more carcinogenic than chrysotile?",q,"ADAM MARTIN, ESQ",start_answer
+170,763,28,21,"In the past, I've said it's about two and a half to four time more potent.",a,THE WITNESS,start_question
+171,765,28,23,And the same question for crocidolite?,q,"ADAM MARTIN, ESQ",start_answer
+172,766,28,24,About ten times more.,a,THE WITNESS,start_question
+173,767,28,25,"Thank you. Jacqueline Moline If an individual has exposure to chrysotile and amosite asbestos, are you able to attribute the disease to the exposures to one fiber type versus the other fiber type?",q,"ADAM MARTIN, ESQ",start_answer
+174,774,29,6,No.  It's a cumulative exposure.  It's impossible to separate that out.,a,THE WITNESS,start_question
+175,776,29,8,"And that's with respect, the cumulative exposures, as to all types of fibers; correct?",q,"ADAM MARTIN, ESQ",start_answer
+176,779,29,11,Correct.  You cannot say it's only one or the other and the third isn't a contributing factor.,a,THE WITNESS,start_question
+177,782,29,14,"With respect to the products at issue in the Susan Stewart case, did you read any materials describing the asbestos content of any of the particular products manufactured by the defendants?",q,"ADAM MARTIN, ESQ",start_answer
+178,787,29,19,"I've read stuff in the past, and I was also provided with some of the exhibits that had the percentages with respect to the Fuller, Bird, and Kaiser Gypsum. I've also seen percentages of other types of joint compound.",a,THE WITNESS,start_question
+179,793,29,25,"So specific to this case, we are Jacqueline Moline discussing the product-specific documents that we already marked as exhibits; correct?",q,"ADAM MARTIN, ESQ",start_answer
+180,798,30,4,Correct.,a,THE WITNESS,start_question
+181,799,30,5,"In determining potential exposures to asbestos from a particular product, do you consider whether the product is encapsulated?",q,"ADAM MARTIN, ESQ",start_answer
+182,802,30,8,With respect to how one might have an exposure?  I'm not quite sure I understand your question.,a,THE WITNESS,start_question
+183,805,30,11,"Sure.  If a product -- strike that. If asbestos in a product is encapsulated and is not friable as it stands, there could be no fiber that the individual can inhale; is that true?",q,"ADAM MARTIN, ESQ",start_chat
+184,810,30,16,Objection to form.,side_chat,MR. JOYCE,start_answer
+185,811,30,17,"If the product is not friable or cannot be become airborne, then it's not -- I would not consider it, in a -- that state to be capable of causing disease.",a,THE WITNESS,start_question
+186,815,30,21,"Okay.  Thank you. So the encapsulated products, the encapsulated asbestos product must be manipulated in some way such that it would release asbestos fibers; correct? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+187,822,31,2,Correct.,a,THE WITNESS,start_question
+188,823,31,3,"We touched on it briefly, Doctor, but from reading your past transcripts, my understanding, and I know this has been asked before, but so I have a chance to hear it from you: In determining someone's potential exposures and whether it could contribute to mesothelioma, you would assess the person's cumulative exposures to asbestos; is that correct?",q,"ADAM MARTIN, ESQ",start_answer
+189,833,31,13,"Well, I assess the individual components, the constituents that make up the cumulative exposure, so I would look at the various things they have done, to look at how they would have their overall exposure, that would be the cumulative exposure, yes.",a,THE WITNESS,start_question
+190,839,31,19,"Okay.  So in determining their or assessing their cumulative exposure, you look at their potential individual exposures that they had throughout their life via occupational or para-occupational exposures?",q,"ADAM MARTIN, ESQ",start_answer
+191,844,31,24,"Correct.  There's other categories of exposure, too.  You look at all the exposures Jacqueline Moline that one might have.",a,THE WITNESS,start_question
+192,849,32,3,"All the potential exposures one individual may have, that is their cumulative exposure when put together; correct?",q,"ADAM MARTIN, ESQ",start_answer
+193,852,32,6,Correct.,a,THE WITNESS,start_question
+194,853,32,7,Do you distinguish between an exposure that is a contributing factor to disease versus an exposure that is a substantial contributing factor to the disease?,q,"ADAM MARTIN, ESQ",start_chat
+195,857,32,11,Objection to form.,side_chat,MR. JOYCE,start_answer
+196,858,32,12,"No.  That's just a semantic game you guys like to play.  It's -- The exposures all contribute to one's cumulative exposure, and whether I used an adjective or adverb depends on the context of the sentence I'm using.",a,THE WITNESS,start_question
+197,864,32,18,"Sure, and thank you for the clarification.  That was something I saw in a past transcript, and I wasn't clear on it, so I wanted to clear that up.  Thank you. You also agree, Doctor, that people are exposed to asbestos fibers from the ambient air?",q,"ADAM MARTIN, ESQ",start_answer
+198,870,32,24,"The potential for exposure, yes.",a,THE WITNESS,start_question
+199,871,32,25,And you would agree the amount of Jacqueline Moline asbestos in the ambient air differs from place to place or environment to environment; is that correct?,q,"ADAM MARTIN, ESQ",start_answer
+200,877,33,5,"I mean, that's a very broad sweeping statement, but ambient air concentrations can vary by region, location, yes.",a,THE WITNESS,start_question
+201,880,33,8,"Do you have any numerical figure that you typically attribute to ambient air exposures, in terms of per CC?",q,"ADAM MARTIN, ESQ",start_answer
+202,883,33,11,"The most recent number, that I'm aware of, is an EPA document from, I think, either 2011 or 2012, which is 0.00001 fibers per CC, and they don't differentiate between rural and urban.",a,THE WITNESS,start_question
+203,888,33,16,Was that four zeros after the decimal point?,q,"ADAM MARTIN, ESQ",start_answer
+204,890,33,18,That was.,a,THE WITNESS,start_question
+205,891,33,19,Okay.  Thank you. Do you consider ambient air exposures that one might have as part of that individual's cumulative exposures?,q,"ADAM MARTIN, ESQ",start_answer
+206,895,33,23,"In the sense that I view that as the foundation that people, everyone has, and then the additional exposures they have from the Jacqueline Moline occupational, environmental, household, para-occupational, take-home exposures would be on top of that.",a,THE WITNESS,start_question
+207,903,34,5,And your understanding in this case is that Mrs. Stewart's exposures were take-home exposures; correct?,q,"ADAM MARTIN, ESQ",start_answer
+208,906,34,8,Correct.,a,THE WITNESS,start_question
+209,907,34,9,And did you read or see any reference to Mrs. Stewart personally working with asbestos-contained products?,q,"ADAM MARTIN, ESQ",start_answer
+210,910,34,12,I did not.,a,THE WITNESS,start_question
+211,911,34,13,"And how do you define -- I know I read it, Doctor.  I'm sorry.  I just want to make sure I get the terminology right. How do you classify take-home exposures? They are not occupational, how do you classify them?",q,"ADAM MARTIN, ESQ",start_answer
+212,917,34,19,"There are household exposures.  They can also by classified, in a general sense, environmental exposure, because they are not occupational, but either as take-home or household exposures.",a,THE WITNESS,start_question
+213,922,34,24,Okay.  Thank you. Do you have any information about the fiber Jacqueline Moline concentration of asbestos in the ambient air in the area where Mrs. Stewart lived in Massachusetts?,q,"ADAM MARTIN, ESQ",start_answer
+214,929,35,5,No.  I have not seen any specific air monitoring.,a,THE WITNESS,start_question
+215,931,35,7,"And given the difference in asbestos concentration in ambient air in different parts of the country, urban versus rural, for example, it's possible that Mrs. Stewart's lifetime background exposures could be more or less than an individual that lived in a different area of the country; is that fair?",q,"ADAM MARTIN, ESQ",start_chat
+216,938,35,14,Objection to form.,side_chat,MR. JOYCE,start_answer
+217,939,35,15,"I wouldn't even know how to answer that question.  Everyone has their own exposure. I mean, one person lives in one area, and another person lives in another area.  Their exposures may be the same or they may be different.",a,THE WITNESS,start_question
+218,945,35,21,Okay.  Does a particular exposure to asbestos have to be above background levels for you to consider it as part of your cumulative exposure assessment?,q,"ADAM MARTIN, ESQ",start_answer
+219,949,35,25,"Well, cumulative means everything that Jacqueline Moline someone has been exposed to in general.  When I'm looking at specific exposures, I would consider them above background.",a,THE WITNESS,start_question
+220,955,36,5,"And if they are below background, you would not consider them?",q,"ADAM MARTIN, ESQ",start_answer
+221,957,36,7,I don't know how you would have a below background.  That's an oxymoron.,a,THE WITNESS,start_question
+222,959,36,9,So you would consider any particular exposure to be above background; correct?,q,"ADAM MARTIN, ESQ",start_answer
+223,961,36,11,Can you rephrase that?  I don't understand quite how you are asking me the question the way you phrased it.,a,THE WITNESS,start_question
+224,964,36,14,"So any occupational or environmental exposure is, by definition, going to be above background.",q,"ADAM MARTIN, ESQ",start_answer
+225,967,36,17,If there's an exposure --,a,THE WITNESS,start_question
+226,968,36,18,In your opinion?,q,"ADAM MARTIN, ESQ",start_answer
+227,969,36,19,"No.  I think it all depends on the scenario.  If someone is walking by an intact floor tile, then they are not going to have any exposure, even though they are walking on an asbestos-containing material. So if they have to be exposed to asbestos that is airborne for it to be a meaningful Jacqueline Moline exposure.",a,THE WITNESS,start_question
+228,979,37,3,"If someone was walking by on one occasion while somebody disturbed or manipulated an asbestos-containing floor tile, would that be considered a meaningful exposure?",q,"ADAM MARTIN, ESQ",start_answer
+229,983,37,7,"I would need more details to be able to talk about that.  It depends on what the manipulation was and how long they were there. If it was they stepped by it, I think it would probably be more in the de minimus category, but again, it would depend on the exact scenario. If they are shooting the, whatever, with somebody while they're manipulating floor tiles, then it could be meaningful exposure.  If there's standing there talking to someone who is scraping and cutting floor tiles, then that is a more meaningful exposure than if someone is just walking by.",a,THE WITNESS,start_question
+230,997,37,21,Do you have a numerical figure in terms of higher per CT exposure that is a cutoff between a de minimus and a meaningful exposure?,q,"ADAM MARTIN, ESQ",start_answer
+231,1000,37,24,De minimus is going to be at background. Jacqueline Moline,a,THE WITNESS,start_question
+232,1004,38,2,"Not to belabor it, Doctor, but my understanding is that any exposure to asbestos from an asbestos-containing product that a person may have, whether it be environmental or occupational or any other type of exposure, is therefore, by definition, above background and above de minimus?",q,"ADAM MARTIN, ESQ",start_chat
+233,1011,38,9,Are you asking her definition of the exposure; correct?,side_chat,MR. JOYCE,start_chat
+234,1013,38,11,"Yes, her definition. Just trying to get on the same page.",side_chat,MR. MARTIN,start_answer
+235,1015,38,13,"I don't know if I can really answer your questions, because it's so general and so vague.  I'm not trying to be difficult here. I think if someone is walking by and has -- you know, someone who is working with a floor tile that they are serving, that's a de minimus exposure compared to somebody who is standing there and working or talking to them for a while. So the exposures would be, in general, an order or two of magnitude above background in order for me to consider them.",a,THE WITNESS,start_question
+236,1027,38,25,And are you able to ascribe a Jacqueline Moline numerical fibers per CT or order of magnitude studio to exposures -- strike that. Do you need to see or rely upon an IH's reconstruction of potential exposure to determine whether or not it's an order of magnitude such that it's a meaningful exposure?,q,"ADAM MARTIN, ESQ",start_answer
+237,1036,39,8,"No.  If there's certainly scenarios where someone is manipulating a product that's known to contain asbestos, where it's not necessary if there's visible dust, for example, from the manipulation of an asbestos-containing product, that's going to be orders of magnitude above background. You don't need an industrial hygiene measurement of the countless, hundreds of thousands of exposure scenarios that have occurred in the United States alone.  I doubt that there have been industrial hygiene measurements for every time somebody was exposed to asbestos, but yet, it's possible to ascribe their exposures and subsequent diseases to those exposures, absent an industrial hygiene report.",a,THE WITNESS,start_chat
+238,1052,39,24,I'm sorry.  This is Michael Joyce.  I think I was cut off on Jacqueline Moline that last question. Could the court reporter read back the last answer?,side_chat,MR. JOYCE,is brackets
+239,1059,40,5,"(Whereupon, the requested testimony was read back by the reporter.)",brackets,,start_question
+240,1061,40,7,"Doctor, where an exposure, a potential exposure, to asbestos is small and there's no visible dust and the exposure period is short, would you need an IH to determine or an IH report to determine whether or not that specific exposure is above or below background?",q,"ADAM MARTIN, ESQ",start_chat
+241,1067,40,13,Objection to form.,side_chat,MR. JOYCE,start_answer
+242,1068,40,14,"No.  It depends on the description, what the manipulation is of the various product, what the -- there aren't industrial hygiene reports for every exposure scenario.  I mean, that's a fallacy that one needs an industrial hygiene report, and it's not required under the Helsinki criteria for attribution of asbestos-related disease.",a,THE WITNESS,start_question
+243,1076,40,22,"Particular to this case, do you feel you need an industrial hygiene assessment to calculate Mrs. Stewart's potential take-home exposures to any particular defendant's Jacqueline Moline products?",q,"ADAM MARTIN, ESQ",start_chat
+244,1083,41,3,Objection to form as to the word calculation.,side_chat,MR. JOYCE,start_answer
+245,1085,41,5,"You know, I've been studying asbestos-related disease for 28 years, and I've encountered a number of individuals who have worked with the various products at issue in this case that are not particularly novel with respect to their ubiquitous nature and the construction realm during the timeframe in which Mrs. Stewart and her husband had these exposures. I don't think an industrial hygiene report is necessary, based my on my experience and my understanding of the medical literature with respect to many of these products or product categories, as well as the asbestos content that was identified as being present in the these compounds.",a,THE WITNESS,start_question
+246,1101,41,21,"Thank you, Doctor. Would you agree with me that Mr. Stewart did not work in the construction trade; correct?",q,"ADAM MARTIN, ESQ",start_answer
+247,1104,41,24,"He was not a construction worker, that's correct.  He worked in the supply side. Jacqueline Moline",a,THE WITNESS,start_question
+248,1108,42,2,"And obviously, Mrs. Stewart did not work in the construction trade; correct?",q,"ADAM MARTIN, ESQ",start_answer
+249,1110,42,4,"Correct. He did do some construction, but that was not for pay.",a,THE WITNESS,start_question
+250,1113,42,7,Right.  He did some small work on the family home; correct?,q,"ADAM MARTIN, ESQ",start_answer
+251,1115,42,9,Correct.,a,THE WITNESS,start_question
+252,1116,42,10,And would you agree that Mr. Stewart's exposure to construction-related materials would be less than your typical individual that worked in the construction trade?,q,"ADAM MARTIN, ESQ",start_answer
+253,1120,42,14,It's a very broad topic.,a,THE WITNESS,start_chat
+254,1121,42,15,Objection to form.,side_chat,MR. JOYCE,start_answer
+255,1122,42,16,"I mean, you could have someone who worked in the construction trade who never worked around any asbestos-containing products, so it's hard to answer that question.",a,THE WITNESS,start_question
+256,1126,42,20,"Based on your review of Mr. Stewart's testimony, is it a fair representation that he was not working with or manipulating asbestos-containing products on a daily basis?",q,"ADAM MARTIN, ESQ",start_answer
+257,1130,42,24,"I'd be -- I don't know if he was specifically asked how often he was dealing with Jacqueline Moline the various bags and various products, but he wasn't applying them on a daily basis, that's correct.",a,THE WITNESS,start_question
+258,1137,43,5,"And necessarily, Mrs. Stewart's exposure or take-home exposure is going to be less than Mr. Stewart's direct exposure; is that fair?",q,"ADAM MARTIN, ESQ",start_answer
+259,1141,43,9,"In general, yes. Although there are some studies that show that, in the act of shaking out clothes, the exposures can be similar to what the actual exposure is during the construction activity or the initial dust generating activity.",a,THE WITNESS,start_question
+260,1147,43,15,"Doctor, if a person's lifetime exposure to asbestos from a certain defendant's product is less than their lifetime background exposure, could you still attribute the exposure to that product as a cause of the person's mesothelioma?",q,"ADAM MARTIN, ESQ",start_chat
+261,1153,43,21,Objection to form.,side_chat,MR. JOYCE,start_answer
+262,1154,43,22,"So you're saying if an individual product exposure over the course of someone's life is less than background, which, meaning it's above background, would I attribute it? Jacqueline Moline",a,THE WITNESS,start_question
+263,1160,44,2,Correct.,q,"ADAM MARTIN, ESQ",start_answer
+264,1161,44,3,No.,a,THE WITNESS,start_question
+265,1162,44,4,Thank you.,q,"ADAM MARTIN, ESQ",start_chat
+266,1163,44,5,"We've been going about an hour, ten minutes, and 43 seconds. Can we take a three-minute comfort break?",side_chat,THE WITNESS,start_chat
+267,1167,44,9,"Of course, any time, Doctor.  Thank you.",side_chat,MR. MARTIN,is brackets
+268,1169,44,11,"(Whereupon, a brief recess was taken.)",brackets,,start_question
+269,1171,44,13,"Doctor, am I correct that you have not done any dose reconstructions for mathematical calculations to determine or calculate Mrs. Stewart's cumulative exposures to asbestos resulting from Mr. Stewart's handling of asbestos-containing products?",q,"ADAM MARTIN, ESQ",start_answer
+270,1177,44,19,You are correct.,a,THE WITNESS,start_question
+271,1178,44,20,"And therefore, it follows that you haven't done any such calculations of her exposures to any specific defendant's product; am I correct?",q,"ADAM MARTIN, ESQ",start_answer
+272,1182,44,24,That would be correct.,a,THE WITNESS,start_question
+273,1183,44,25,"And you have not done any calculations Jacqueline Moline to determine whether her cumulative exposure to asbestos from the defendant's asbestos-containing products, by virtue of Mr. Stewart's work with those products, was more or less than her total background exposure during her lifetime?",q,"ADAM MARTIN, ESQ",start_chat
+274,1192,45,8,Objection to form. Perhaps you can define what you mean by calculations.,side_chat,MR. JOYCE,start_chat
+275,1195,45,11,Sure.,side_chat,MR. MARTIN,start_question
+276,1196,45,12,"Any mathematical assessment in terms of fibers, fiber years or fibers per CC of her overall exposures?",q,"ADAM MARTIN, ESQ",start_answer
+277,1199,45,15,"I'm unaware of that data being available for me to even begin to attempt to do such a thing, so no.  I have not done any mathematical calculations of any exposures that Mrs. Stewart had.",a,THE WITNESS,start_question
+278,1204,45,20,"Are you able to say, then, whether Mrs. Stewart's exposures, her lifetime cumulative exposures, to a specific defendant's product were above her cumulative lifetime background exposure to asbestos?",q,"ADAM MARTIN, ESQ",start_answer
+279,1209,45,25,"In the sense that she had exposure Jacqueline Moline from -- Mr. Stewart had these exposures to various products, such as the Bird felting that he cut, to the joint compound bags that broke, to the Fuller cement or Fuller thin-set that he was manipulating, that he carried with him on his body that she had exposure to and then transferred, in essence, to her, whether it was from physical contact or whether it was from being in the room with her or whether it was from the manipulation of his dusty clothes. That would be her exposure to the various products that he was working with. But there's no -- I have seen no information in relation to any dosimeters that were placed on her lifetime that would allow one to do a reasonable mathematical calculation.",a,THE WITNESS,start_question
+280,1228,46,18,"Thank you. And would you agree, Doctor, of course, that if a product does not contain asbestos, it cannot be a cause of Mrs. Stewart's mesothelioma; correct?",q,"ADAM MARTIN, ESQ",start_answer
+281,1233,46,23,That would be correct.,a,THE WITNESS,start_question
+282,1234,46,24,"Doctor, when discussing cumulative exposure, the amount of a person's exposure is Jacqueline Moline an important consideration to that assessment; correct.",q,"ADAM MARTIN, ESQ",start_answer
+283,1240,47,4,"You mean from each particular product, as it adds to their cumulative exposure?  I'm not sure what you mean.",a,THE WITNESS,start_question
+284,1243,47,7,"Correct.  If someone is exposed to a product a hundred times, that's more significant than someone is exposed to a product one time; correct? Assume that the levels of exposure are the same in each instance, individual instance.",q,"ADAM MARTIN, ESQ",start_answer
+285,1249,47,13,"In the sense of how much it adds to their cumulative exposure, yes. With respect to how it might cause disease, we don't have those answers.",a,THE WITNESS,start_question
+286,1253,47,17,"Okay.  So a hypothetical: If someone were a logger in a shipyard working with amosite-containing asbestos every day or every workday for 20 years, and on one other occasion scraped of a chrysotile-containing gasket, would you, would it be your opinion that each exposure contributed equally to the development of a disease? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+287,1264,48,2,You're asking me a hypothetical that has absolutely no relation to the exposures discussed in the Stewart case. I just want to get that clear; is that correct?,a,THE WITNESS,start_question
+288,1269,48,7,"That's clear, yes.",q,"ADAM MARTIN, ESQ",start_answer
+289,1270,48,8,"So that would be, if you're looking at it in those context as somebody who is working with asbestos for 20 years, it doesn't matter what the product is, but day-in, day-out they are working with a particular product versus one particular exposure, then I think it would be difficult to ascribe their disease to that one particular exposure on one day. That is different from an exposure that they had over the course of 7300 days of exposure, where they had eight hours a day for 7300 days or minus the weekends.",a,THE WITNESS,start_question
+290,1282,48,20,"And this is just going to the idea, Doctor, that the frequency or regularity with which one is exposed to asbestos from a specific product, that's important to your assessment of whether that exposure was causative of the disease; is that correct? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+291,1290,49,2,"As a general statement, the frequency goes to the overall dose. I think that it's challenging to answer questions that are very hypothetical, since we don't know all there is to know about how the various fibers interact with each other once they are in the body.",a,THE WITNESS,start_question
+292,1297,49,9,"The proximity of an individual to the fiber, asbestos fibers, is also an important consideration in determining causation; is that fair?",q,"ADAM MARTIN, ESQ",start_answer
+293,1301,49,13,"Well, that goes to dose with respect to if someone is working with it or working adjacent to it, versus being 15 or 20 feet away. They are going to, theoretically, have a lower exposure if they are 15 or 20 feet away than someone who is directly manipulating it or adjacent to someone who is directly manipulating it.",a,THE WITNESS,start_question
+294,1309,49,21,"In forming your opinions as to individual defendants in this case, did you consider the frequency, duration, and proximity of Mrs. Stewart's take-home exposures to those products? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+295,1316,50,2,"In the sense that the frequency with which her husband used those products, I think he wasn't asked a lot of those questions with great specificity, in terms of those questions in his deposition. But certainly, with respect to what was frequently sold at the various places, whether it was at the Plywood Ranch or Grossman's where he was dealing with these various products over his career, I certainly looked at what products he was describing with respect to how that would lead to his exposure, which would, in turn, lead to Mrs. Stewart's exposure.",a,THE WITNESS,start_question
+296,1329,50,15,"Are you familiar with the term excursion limit, Dr. Moline?",q,"ADAM MARTIN, ESQ",start_answer
+297,1331,50,17,Are you talking about the OSHA excursion limit?,a,THE WITNESS,start_question
+298,1333,50,19,Correct.,q,"ADAM MARTIN, ESQ",start_answer
+299,1334,50,20,Yes.,a,THE WITNESS,start_question
+300,1335,50,21,And am I correct that there's one fiber per CC over the course of 30 minutes?,q,"ADAM MARTIN, ESQ",start_answer
+301,1337,50,23,"I thought it was .2 fibers per CC over 30 minutes, but I haven't looked at the excursion limit for a while.  I thought it was Jacqueline Moline less.",a,THE WITNESS,start_question
+302,1343,51,3,"Okay.  Do you have any reason to believe that any of Mrs. Stewart's individual exposures exceeded that limit, the .2?",q,"ADAM MARTIN, ESQ",start_answer
+303,1346,51,6,"It's certainly possible, based on the literature with respect to what the fiber concentrations have been measured doing laundry, that they would have been above .2 or even one fiber per CC.",a,THE WITNESS,start_question
+304,1351,51,11,"And that's just based on literature review, nothing specific to this case; correct?",q,"ADAM MARTIN, ESQ",start_answer
+305,1353,51,13,"Well, again, there's no exposure-specific information with respect to the dosimeters or actual dose that Mrs. Stewart had, so I have to rely on the literature in these cases.",a,THE WITNESS,start_question
+306,1358,51,18,"Understanding that OSHA sets an exposure limit over an eight-hour time weighted average of .1 fibers per CC -- Well, first of all, am I correct, is it your understanding of the OSHA eight-hour time weighted average is .1 fibers per CC?",q,"ADAM MARTIN, ESQ",start_answer
+307,1364,51,24,Yes.,a,THE WITNESS,start_question
+308,1365,51,25,And you would agree with me that Jacqueline Moline Mrs. Stewart was not exposed to asbestos eight hours a day in an occupational setting; is that correct?,q,"ADAM MARTIN, ESQ",start_answer
+309,1371,52,5,Correct.,a,THE WITNESS,start_question
+310,1372,52,6,Do you have anything on which you can rely to opine that her exposures would have exceed that OSHA standard?,q,"ADAM MARTIN, ESQ",start_answer
+311,1375,52,9,"Again, first of all, OSHA has absolutely no relevance to Mrs. Stewart's particular exposure since she was not employed and she would fall under, so OSHA doesn't apply to her exposure as a take-home exposure. With respect, again, there's been no actual measurements that were done at Mrs. Stewart's home or the laundromats while she was shaking out the clothes.  With respect to what the actual measurements were, there were no actual measurements done, but based on the literature, the numbers are certainly higher than .1 fiber per CC, and they have been reported as higher than the excursion limits.",a,THE WITNESS,start_question
+312,1389,52,23,"And that's during the act of washing the clothes, correct, or shaking them out?",q,"ADAM MARTIN, ESQ",start_answer
+313,1391,52,25,Correct. Jacqueline Moline,a,THE WITNESS,start_question
+314,1394,53,2,"All right.  Doctor, we talked about occupational exposures and background exposures. There's also the opportunity for what I'll describe as environmental exposure to asbestos; is that correct, for example, living near a factory using or emitting asbestos fibers?",q,"ADAM MARTIN, ESQ",start_answer
+315,1400,53,8,Yes.,a,THE WITNESS,start_question
+316,1401,53,9,And it's possible that someone that lived near a factory or other plant or shipyard that emitting asbestos fibers may have a higher exposure to asbestos from the background air than someone who does not live near such a central location?,q,"ADAM MARTIN, ESQ",start_answer
+317,1407,53,15,That's correct.  Someone who lives near a factory that's emitting asbestos into the air would have a potential for a higher exposure than someone who is not living near a factory that is not emitting asbestos.,a,THE WITNESS,start_question
+318,1412,53,20,And shipyards are one of those types of locations we are understood to emit asbestos fiber into the surrounding areas; correct?,q,"ADAM MARTIN, ESQ",start_answer
+319,1415,53,23,"Surrounding area of the shipyard, yes. I don't know how far the measurements extend beyond the shipyards, which, in general, are Jacqueline Moline fairly large.",a,THE WITNESS,start_question
+320,1421,54,3,"You've read articles regarding environmental exposure in shipyards, and you've testified on those before; is that correct?",q,"ADAM MARTIN, ESQ",start_answer
+321,1424,54,6,"I've certainly talked about folks that have worked in shipyards, but I don't know if I've talked about the environment around shipyards.  I might have.",a,THE WITNESS,start_question
+322,1428,54,10,Are you aware of any studies suggesting that the rates of mesothelioma may be higher in areas near shipyards?,q,"ADAM MARTIN, ESQ",start_answer
+323,1431,54,13,"Well, it depends on who they are measuring, because of the people living near a shipyard are also working at a shipyard and their family members are dealing with the fact that their spouses or children are bringing home their asbestos-laden clothes from the shipyards, so the rates are going to be higher in the community. So it depends if you're asking me is it from the general environment versus the people who work and live near the shipyard.",a,THE WITNESS,start_question
+324,1442,54,24,"Sure.  I'm asking in the general environment, so not people that worked there or Jacqueline Moline were exposed to those that did work there, but someone living in the community. Are you aware of any studies suggesting that incidents of mesothelioma may be higher for those that fit that description, that live near shipyards?",q,"ADAM MARTIN, ESQ",start_answer
+325,1452,55,8,I'm aware of various factories.  I'm sure there probably are studies related to the shipyard.  I can't specifically think of one now.,a,THE WITNESS,start_question
+326,1456,55,12,"And would it be fair, Doctor, that, in your opinion, in looking at potential environmental exposures to those living near a shipyard, there would numerous factors to consider, including distance from the shipyard, wind direction, things of that nature?",q,"ADAM MARTIN, ESQ",start_answer
+327,1462,55,18,Products used in the shipyard --,a,THE WITNESS,start_question
+328,1463,55,19,Sure.,q,"ADAM MARTIN, ESQ",start_answer
+329,1464,55,20,"There are a variety of factors, yes. You would, in order to have an effective assessment, you would need air monitoring in the community.",a,THE WITNESS,start_question
+330,1468,55,24,"You'd agree with me, Dr. Moline, that shipyards in the 1950s, '60s, and '70s generally Jacqueline Moline used significant amounts of amosite asbestos?",q,"ADAM MARTIN, ESQ",start_answer
+331,1473,56,3,"They used -- that wasn't the only type of asbestos they used, but they used amosite, yes.",a,THE WITNESS,start_question
+332,1476,56,6,"And would some of that asbestos, amosite asbestos and other types of asbestos, be emitted into the environment near the shipyard?",q,"ADAM MARTIN, ESQ",start_answer
+333,1479,56,9,"In the environment right around the shipyard, yes.",a,THE WITNESS,start_question
+334,1481,56,11,"Do you have any familiarity with the Four River Shipyard in Quincy, Mass?",q,"ADAM MARTIN, ESQ",start_answer
+335,1483,56,13,Did you say Four River?,a,THE WITNESS,start_question
+336,1484,56,14,Yes.,q,"ADAM MARTIN, ESQ",start_answer
+337,1485,56,15,I've heard of it I don't have any familiarity with it.  I've seen its name.,a,THE WITNESS,start_question
+338,1487,56,17,"Okay.  If I represented to you that that shipyard built both commercial and naval ships from the '50s through the '70s, at least, would you have any reason to disagree with that?",q,"ADAM MARTIN, ESQ",start_answer
+339,1491,56,21,I wouldn't be able to comment on what they did there.,a,THE WITNESS,start_question
+340,1493,56,23,"And from your experience, would you agree that the construction of those ships and overhaul of ships likely utilized asbestos Jacqueline Moline during that time period?",q,"ADAM MARTIN, ESQ",start_answer
+341,1499,57,3,"Within the ships themselves, yes.  I mean, it's not like asbestos was used on top of the ship.  It was used in the engine rooms, the boilers rooms, on the pipes in the ship, on the bulkheads, and confined spaces in the ships.  It wasn't like the ship was painted with asbestos or the masts or the deck was made of asbestos. Certainly, within the ship itself, in the below-deck, there would have been asbestos.",a,THE WITNESS,start_question
+342,1508,57,12,"If you were made aware or informed that the town where Mrs. Stewart grew up and spent most of her life bordered Quincy, Massachusetts, in the area where the shipyard was present, would potential environmental exposures from the ambient air from the shipyard be something that you would consider in your assessment of her cumulative exposure to asbestos?",q,"ADAM MARTIN, ESQ",start_chat
+343,1517,57,21,Objection to the form of the question.  Assumes facts not in the record.  It calls for speculation.,side_chat,MR. JOYCE,start_answer
+344,1520,57,24,I would need more information about so many things to be able to give an opinion to a Jacqueline Moline reasonable degree of medical certainty with respect to that question.,a,THE WITNESS,start_question
+345,1526,58,4,"Is there a distance from a shipyard -- strike that. Doctor, I'm going to move on to a few client-specific lines of questioning, if you're ready to continue.",q,"ADAM MARTIN, ESQ",start_answer
+346,1531,58,9,That would be awesome.,a,THE WITNESS,start_question
+347,1532,58,10,"Okay.  Specific to this case, and we may have covered this, and I apologize if we did, if you feel we did -- But did you review any specific articles or studies regarding exposure to asbestos from roofing products as part of your review of this case?",q,"ADAM MARTIN, ESQ",start_answer
+348,1539,58,17,"Only -- I mean, I was provided with the Bird document.  That's Exhibit 5. Other than that, I don't believe I looked at any specific article in the past three weeks.",a,THE WITNESS,start_question
+349,1543,58,21,"So if you may have read articles related to incidents of mesothelioma or asbestos exposure in roofers, for example, in the past, but not in the three weeks that you've been retained in this case? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+350,1550,59,2,"That's correct.  I certainly have read articles where exposure to roofing, I've had patients who were roofers, so I've studied it in the past. Specifically related to this case, I haven't reviewed any articles recently apart from the Bird document.",a,THE WITNESS,start_question
+351,1557,59,9,"And I think we've covered it, but you'd agree with me, in terms of occupation, Mr. Stewart was not a roofer; correct?",q,"ADAM MARTIN, ESQ",start_answer
+352,1560,59,12,"That is correct. He did do a little bit of roofing, but I mean, he did, he reroofed his house, but did not -- he was not a roofer by occupation.",a,THE WITNESS,start_question
+353,1564,59,16,And there's no suggestion that Mr. Stewart ever did any roofing work on commercial or industrial buildings?,q,"ADAM MARTIN, ESQ",start_answer
+354,1567,59,19,Correct.,a,THE WITNESS,start_question
+355,1568,59,20,"If you would, Doctor, if you could just give me your understanding of Mr. Stewart's work with Bird roofing products?",q,"ADAM MARTIN, ESQ",start_answer
+356,1571,59,23,"He worked selling the Bird felt paper. He had to cut the rolls with a hand saw or a circular saw and also sold joist paper, which Jacqueline Moline was described as the same as felt paper.  He also manipulated Bird-impregnated, asphalt-impregnated shingles, when he was working both at the Plywood Ranch and the different facilities, as well as when he was at Grossman's.",a,THE WITNESS,start_question
+357,1582,60,8,"You don't hold yourself out as having any specialized knowledge of roofing products or their composition, do you, Doctor?",q,"ADAM MARTIN, ESQ",start_answer
+358,1585,60,11,No.,a,THE WITNESS,start_question
+359,1586,60,12,"So to determine, for example, the asbestos content of any specific roofing product, would you need to look to literature or materials that analyzed that product?",q,"ADAM MARTIN, ESQ",start_answer
+360,1590,60,16,"Well, it's rampant in the medical literature that roofing materials contained asbestos. With respect to an individual product, I would need to look at a material safety data sheet or other document that would give me the information related to the asbestos content of a particular brand or product, yes.",a,THE WITNESS,start_question
+361,1598,60,24,Okay.  And have you done that for any of the Bird roofing products at issue in this Jacqueline Moline case?,q,"ADAM MARTIN, ESQ",start_answer
+362,1603,61,3,"Well, I was provided a document that said that the Bird felt had to have the -- the standard was that it had to have an 85 percent asbestos minimum per the specs, with respect to this case.",a,THE WITNESS,start_question
+363,1608,61,8,"And the only Bird materials you were sent were discussing the felt, correct, not the shingles?",q,"ADAM MARTIN, ESQ",start_answer
+364,1611,61,11,"I was, in this particular one, yes, I was only provided with an excerpt, and it did not have the shingles.  It was just on the rolled material.",a,THE WITNESS,start_question
+365,1615,61,15,"And did you glean an understanding, from reviewing those few pages regarding the felt, that there was a significant amount of Bird felt that was made on an organic felt that did not contain asbestos?",q,"ADAM MARTIN, ESQ",start_answer
+366,1620,61,20,An organic felt?,a,THE WITNESS,start_question
+367,1621,61,21,Correct.,q,"ADAM MARTIN, ESQ",start_answer
+368,1622,61,22,You're telling me that roofs are now organic?,a,THE WITNESS,start_question
+369,1624,61,24,"I can point you to a specific document, if you'd like, and we can talk about Jacqueline Moline it.",q,"ADAM MARTIN, ESQ",start_answer
+370,1629,62,3,"I don't recall looking at it. I think we're talking about organic in different ways. But it says organic felt was used as the base, except for their asbestos and their asbestos sheet, where the asbestos felt was 85 percent.",a,THE WITNESS,start_question
+371,1636,62,10,"And I'll just direct your attention to the next paragraph, and the first sentence, which says: The organic felt, which is used in the manufacture of asphalt roofing --",q,"ADAM MARTIN, ESQ",start_answer
+372,1641,62,15,"Whoa, whoa, whoa.  You're being mean to her.",a,THE WITNESS,start_question
+373,1643,62,17,What?,q,"ADAM MARTIN, ESQ",start_answer
+374,1644,62,18,You're being mean to the court reporter.  You're talking way too fast.,a,THE WITNESS,start_chat
+375,1646,62,20,Please read slowly when you read.,side_chat,THE REPORTER,start_chat
+376,1648,62,22,Sure.  Of course.  My apologies.,side_chat,MR. MARTIN,start_question
+377,1650,62,24,"I direct your attention, Doctor, to the second paragraph of that same page, the Jacqueline Moline initial sentence, which says: The organic felt, which is used in the manufacture of asphalt roofing is essentially a paper product. Do you see that?",q,"ADAM MARTIN, ESQ",start_answer
+378,1659,63,7,I do.,a,THE WITNESS,start_question
+379,1660,63,8,"Okay.  And this just goes to the proposition that, in order for the manipulation of a product to lead to an exposure to asbestos for an individual, that product has to contain asbestos; correct?",q,"ADAM MARTIN, ESQ",start_answer
+380,1665,63,13,"Your preface to the sentence, I don't quite understand in the context. In order for them to have asbestos exposure, the product has to have asbestos.",a,THE WITNESS,start_question
+381,1669,63,17,"And you never did any -- strike that. You're not aware of any physical samples of the roofing products that Mr. Stewart worked with, are you?",q,"ADAM MARTIN, ESQ",start_answer
+382,1673,63,21,No.,a,THE WITNESS,start_question
+383,1674,63,22,"And you're not aware of any testing, composition or material testing, of any of the roofing products that Mr. Stewart actually handled or manipulated; correct? Jacqueline Moline",q,"ADAM MARTIN, ESQ",start_answer
+384,1680,64,2,I have not been provided with any of that data.,a,THE WITNESS,start_question
+385,1682,64,4,"With regard to the perforated felt, and I'm looking at the last page, Doctor, of the Bird, which I guess is Exhibit 5 --",q,"ADAM MARTIN, ESQ",start_answer
+386,1685,64,7,Yeah.,a,THE WITNESS,start_question
+387,1686,64,8,"I believe it's the last sentence.  It says -- no, second to last sentence: This felt is used in both the 15-pound perforated asbestos-saturated asphalt felt and the 45-pound asbestos base sheets. Do you see that?",q,"ADAM MARTIN, ESQ",start_answer
+388,1692,64,14,Yes.,a,THE WITNESS,start_question
+389,1693,64,15,"Is it your understanding, or do you agree with me from reading that document, that the asbestos felt was an asphalt-saturated felt?",q,"ADAM MARTIN, ESQ",start_answer
+390,1696,64,18,"Yes.  Well, with respect to the perforated asphalt-saturated felt, it says it's an asphalt-saturated felt. It does not say that for the 45-pound asbestos base sheet.  It doesn't have the word saturated.",a,THE WITNESS,start_question
+391,1702,64,24,"Yes, that's true, and thank you for pointing that out. Jacqueline Moline There's no testimony from Mr. Stewart that we worked with any 45-pound asbestos base sheet that you say; correct?",q,"ADAM MARTIN, ESQ",start_answer
+392,1709,65,5,Correct.,a,THE WITNESS,start_question
+393,1710,65,6,Do you have an opinion or do you know whether the asphalt saturation of the felt would encapsulate the asbestos in the products?,q,"ADAM MARTIN, ESQ",start_answer
+394,1713,65,9,"I don't know if it would -- I don't have any information related to that with respect to its ability to fully saturate.  My recollection of seeing some pictures of the felt is that, even when it's been saturated, you can still see that it has a fibrous element to it, so I wouldn't be able to speak to it more specifically.",a,THE WITNESS,start_question
+395,1721,65,17,Have you ever seen any studies or dose reconstructions that assess any potential fiber release simply from the handling as opposed to the cutting or manipulation of asbestos roofing felt?,q,"ADAM MARTIN, ESQ",start_answer
+396,1726,65,22,I'm not sure.,a,THE WITNESS,start_question
+397,1727,65,23,Okay.  What is your recollection of the number of times that Mr. Stewart testified that he had to cut rolls of roofing felt? Jacqueline Moline,q,"ADAM MARTIN, ESQ",start_answer
+398,1732,66,2,"I don't recall a specific numerical value.  I have in my notes that he cut rolls with a hand saw or circular saw. I think it was something that was certainly done more than several times, but I don't recall the specific number.",a,THE WITNESS,start_question
+399,1738,66,8,Do you recall that he testified to doing it about a half a dozen times during his career?,q,"ADAM MARTIN, ESQ",start_answer
+400,1741,66,11,"I mean, I think the deposition will speak to itself.  I think it was something along those lines, yes.",a,THE WITNESS,start_question
+401,1744,66,14,Do you recall him distinguishing between rolls of perforated felt manufactured by Bird and rolls of nonperforated felt manufactured by Bird?,q,"ADAM MARTIN, ESQ",start_answer
+402,1748,66,18,"I do recall that he differentiated them, yes.",a,THE WITNESS,start_question
+403,1750,66,20,Do you have any understanding as to whether or not nonperforated residential roofing felt contains asbestos?,q,"ADAM MARTIN, ESQ",start_answer
+404,1753,66,23,"My understanding is that it did, but apart from the documents that I've been provided, it says that -- Jacqueline Moline I mean, this is only describing the perforated, but he didn't seem to differentiate between the two, other than the perforated versus the non.",a,THE WITNESS,start_question
+405,1762,67,6,"Have you read or reviewed, in preparation for this deposition or your opinion in this case, any interrogatory answers served by Bird?",q,"ADAM MARTIN, ESQ",start_answer
+406,1766,67,10,I have not.  Everything that I was provided was marked.,a,THE WITNESS,start_question
+407,1768,67,12,"Okay.  If I represent to you that the 15-pound nonperforated felt did not contain asbestos, will you accept that for purposes of the remainder of the deposition?",q,"ADAM MARTIN, ESQ",start_answer
+408,1772,67,16,So I'm to assume that that is a true fact?  Is that what you're asking me to do?,a,THE WITNESS,start_question
+409,1774,67,18,Yes.,q,"ADAM MARTIN, ESQ",start_answer
+410,1775,67,19,Okay.,a,THE WITNESS,start_question
+411,1776,67,20,"So assume that the nonperforated felt did not contain asbestos, and Mr. Stewart testified to cutting felt on only six occasions, and he further testified that he would first try to use the nonperforated felt, would you agree with me that he potentially cut perforated felt Jacqueline Moline on less than six occasions?",q,"ADAM MARTIN, ESQ",start_chat
+412,1785,68,3,Objection to the form of the question.  Mischaracterizes the testimony. I think you've already asked her that question.,side_chat,MR. JOYCE,start_answer
+413,1790,68,8,"I don't recall specifically whether he differentiated between what papers he cut, so I wouldn't be able to tell you how many times he cut perforated versus non.  I recall him talking about the perforated.",a,THE WITNESS,start_question
+414,1795,68,13,"Are you aware, one way or the other, whether some of Bird 15-pound perforated felt did not contain asbestos?",q,"ADAM MARTIN, ESQ",start_answer
+415,1798,68,16,I am -- I have not been provided with information that states that it did not contain asbestos.,a,THE WITNESS,start_question
+416,1801,68,19,"Are you able to quantity, Dr. Moline, in any mathematical way, either fibers per CC for a specific exposure or fiber years of exposure, that Mr. Stewart may have had to Bird products?",q,"ADAM MARTIN, ESQ",start_answer
+417,1806,68,24,"I am, based on the information I had, I am not able to do that. Jacqueline Moline",a,THE WITNESS,start_question
+418,1810,69,2,"And therefore, you cannot do it for Mrs. Stewart, either; am I correct?",q,"ADAM MARTIN, ESQ",start_answer
+419,1812,69,4,"I'm unable, that data being available, so I wouldn't be able to do it for Mr. or Mrs. Stewart.",a,THE WITNESS,start_question
+420,1815,69,7,"And therefore, there's no way for you to opine whether or not the cumulative lifetime exposure Mrs. Stewart may have had to Bird product was above or below her cumulative lifetime background exposures?",q,"ADAM MARTIN, ESQ",start_chat
+421,1820,69,12,Objection. Mischaracterizes testimony.,side_chat,MR. JOYCE,start_answer
+422,1822,69,14,"No.  One doesn't need to have an actual mathematical number in order to say that someone had a low level or any type of exposure. If they are manipulating asbestos product, just because someone didn't measure it at the time, doesn't mean that they didn't have an exposure. You're making a statement that if there's no mathematical number, then there's no way to say that there's an exposure. I'd like you to consider the fact that thousands of people have you been exposed to asbestos where there has been no quantified Jacqueline Moline exposure and they've developed disease, so your assumption is flawed.",a,THE WITNESS,start_question
+423,1838,70,4,"I'm not arguing -- well, strike that. But you can't tell me whether the cumulative exposure, potential cumulative exposure, to Bird products, when added together, is more or less than the exposure Mrs. Stewart may have had from the ambient air?",q,"ADAM MARTIN, ESQ",start_chat
+424,1844,70,10,Objection to form.,side_chat,MR. JOYCE,start_answer
+425,1845,70,11,"Well, I can't give you an actual number. With respect to the fact that Mr. Stewart had this exposure from the Bird felt, and then he would bring the clothes home, and that would be a potential exposure that Mrs. Stewart would have.  That would be when she was manipulating his clothes above background is, is how I would describe it in this particular case or in any case of take-home since there's never an actual measurement.",a,THE WITNESS,start_question
+426,1856,70,22,And that assumes that the product Mr. Stewart was cutting contained asbestos and that Mrs. Stewart then laundered those clothes that he was wearing during that potential Jacqueline Moline exposure; correct?,q,"ADAM MARTIN, ESQ",start_answer
+427,1863,71,3,Correct.,a,THE WITNESS,start_question
+428,1864,71,4,"Do you have an opinion, Doctor, to a reasonable degree of scientific and medical certainty, whether Mrs. Stewart's take-home exposures to Bird products were a substantial contributing cause of her disease?",q,"ADAM MARTIN, ESQ",start_answer
+429,1869,71,9,"Based on the information that I have that he was cutting asbestos-containing Bird products that would have contaminated his clothing, his body, his car, that Mrs. Stewart would have had exposure to, then I would say that he -- she had an exposure to Bird products that were sufficient to be a contributing factor.",a,THE WITNESS,start_question
+430,1877,71,17,"And that would be your opinion, even considering, based on his testimony, that it only happened, at most, on six occasions?",q,"ADAM MARTIN, ESQ",start_answer
+431,1880,71,20,"He was also manipulating the joist paper, which he described as the same as the felt paper, as well as other products, so it's based on all of the Bird products he described.",a,THE WITNESS,start_question
+432,1884,71,24,"But again, you'd only attribute potential exposures to work with products that Jacqueline Moline contained asbestos; correct?",q,"ADAM MARTIN, ESQ",start_answer
+433,1889,72,3,Correct.,a,THE WITNESS,start_question
+434,1890,72,4,"And you'd consider evidence that such product did not contain asbestos or were not manufactured by Bird in reaching your conclusion, correct?",q,"ADAM MARTIN, ESQ",start_chat
+435,1894,72,8,Objection too form.,side_chat,MR. JOYCE,start_answer
+436,1895,72,9,I'm sorry.  I don't understand what you're asking me. You're asking me Bird-specific or not Bird-specific?,a,THE WITNESS,start_question
+437,1899,72,13,"If I represented to you that Bird did not make the joist tape, you would certainly consider that when making your, when forming your opinion as to potential exposures to Bird products; correct?",q,"ADAM MARTIN, ESQ",start_answer
+438,1904,72,18,"If Bird did not make the joist paper, then Bird would not -- I would not attribute Bird to the joist paper.",a,THE WITNESS,start_question
+439,1907,72,21,"With regard to Kaiser Gypsum, Dr. Moline, you reviewed the interrogatories answers that were provided by Attorney Joyce; correct?",q,"ADAM MARTIN, ESQ",start_answer
+440,1911,72,25,Correct. Jacqueline Moline,a,THE WITNESS,start_question
+441,1914,73,2,Did you review anything else specific to Kaiser Gypsum?,q,"ADAM MARTIN, ESQ",start_answer
+442,1916,73,4,"With respect to this case, no.",a,THE WITNESS,start_question
+443,1917,73,5,"And with respect to the interrogatory answers you were provided, what information did you rely upon in helping you form your opinion in this case?",q,"ADAM MARTIN, ESQ",start_answer
+444,1921,73,9,"That a variety of different Kaiser Gypsum products -- Actually, it cemented my knowledge that Kaiser Gypsum joint compound, cement, and other products, contained asbestos since they gave the percentages of asbestos in the various products, of which I had been familiar in the past, but it provided additional information about the percentage of asbestos in the various products that Kaiser Gypsum manufactured. Some of them or many of them I was aware of before, but not specifically related to this Stewart case.",a,THE WITNESS,start_question
+445,1934,73,22,And what was your -- what is your summary of Mr. Stewart's testimony regarding his work with or around Kaiser Gypsum products?,q,"ADAM MARTIN, ESQ",start_answer
+446,1937,73,25,"That they sold Kaiser Gypsum products, Jacqueline Moline and sometimes the bags would break, and he would describe it as a cloud of dust.  He would have to clean up the spills.  Sometimes the bags would break and they would tape them over, if they could; that the bags, in general, were dusty. He noticed that when he was dealing with the dry joint compound it would, even in the closed bags, there would be dust when they were unloading the pallets onto the shelves. He described about 30 percent of the joint compound they sold was Kaiser Gypsum.",a,THE WITNESS,start_question
+447,1952,74,14,Okay.  And 70 percent was manufactured by a different company; correct?,q,"ADAM MARTIN, ESQ",start_answer
+448,1954,74,16,Correct.,a,THE WITNESS,start_question
+449,1955,74,17,"When he testified to putting the sealed bags of joint compound onto the shelves and recalled seeing a puff of dust, you're not aware of any study of the composition of that dust coming off those sealed bags, are you?",q,"ADAM MARTIN, ESQ",start_answer
+450,1960,74,22,I have not seen a study that has looked specifically at sealed bag dust puffs.,a,THE WITNESS,start_question
+451,1962,74,24,So that dust could have been coming from other sources other than the actual Jacqueline Moline material in the bags; correct?,q,"ADAM MARTIN, ESQ",start_answer
+452,1967,75,3,"You're saying when someone is manipulating a bag that's full of dust and they are moving that dust, that I'm to assume that the dust comes from another place other than the bag that's dealing with products that are, some of which have a dimension that are smaller than the pores of a bag? You're asking me to assume that the dust could have come from other places, other than the manipulation of the bag?  Is that what you're asking me?",a,THE WITNESS,start_question
+453,1978,75,14,I'm not asking you to assume.  I'm asking you if it's possible.,q,"ADAM MARTIN, ESQ",start_answer
+454,1980,75,16,"Could it be that there was a pile of dust that they stacked the bag on that they are disturbing?  Sure, but not probable.",a,THE WITNESS,start_question
+455,1983,75,19,"Or dust on the bag -- well, strike that. What was your recollection of how many times Mr. Stewart recalled having to clean up bags that ripped open?",q,"ADAM MARTIN, ESQ",start_answer
+456,1988,75,24,"I didn't put down the specific number of times that they ripped open in my notes.  I Jacqueline Moline don't recall how many times he said they would rip open, but, I mean, it wasn't a one time occurrence.  I know that.",a,THE WITNESS,start_question
+457,1995,76,5,Would you agree or disagree with me if I represented to you that he said it happened on about 25 to 30 occasions?,q,"ADAM MARTIN, ESQ",start_answer
+458,1998,76,8,"With respect to the bags just bursting open, I've --",a,THE WITNESS,start_question
+459,2000,76,10,Correct.,q,"ADAM MARTIN, ESQ",start_answer
+460,2001,76,11,"I think that's probably about correct, in terms of the actual bags just bursting open, but that's not taking into account other exposures from the various bags that didn't burst open all the way.",a,THE WITNESS,start_question
+461,2006,76,16,"Understood. Would you, based on his description of only 30 percent of the joint compound bags was Kaiser Gypsum, would you have reason to disagree with the assumption that, of the 25 or 30 times that the bags ripped open, only 30 percent of those occasions involved Kaiser Gypsum?",q,"ADAM MARTIN, ESQ",start_answer
+462,2013,76,23,"I mean, it could have been that Kaiser Gypsum made bad bag and those were always the ones that always ripped. Jacqueline Moline I don't have any way of knowing what the exact percentages of Kaiser Gypsum bags ripped as opposed to another company.",a,THE WITNESS,start_question
+463,2021,77,5,Fair enough.,q,"ADAM MARTIN, ESQ",start_chat
+464,2022,77,6,"I hate to do this, but I'm staying very hydrated, so I need to excuse myself for two minutes.",side_chat,THE WITNESS,start_chat
+465,2025,77,9,I'm almost done.  If you can go two or three minutes --,side_chat,MR. MARTIN,start_chat
+466,2027,77,11,I can wait.,side_chat,THE WITNESS,start_chat
+467,2028,77,12,"And then we can take a break, and the next person can go.",side_chat,MR. MARTIN,start_chat
+468,2030,77,14,Sounds wonderful.,side_chat,MR. JOYCE,start_question
+469,2031,77,15,"And again, you have not seen or -- strike that. You have no way of assessing or quantifying the amount of potential exposure Mr. Stewart had to asbestos resulting from his handling of Kaiser Gypsum products?",q,"ADAM MARTIN, ESQ",start_answer
+470,2037,77,21,You mean a numerical way?,a,THE WITNESS,start_question
+471,2038,77,22,Correct.,q,"ADAM MARTIN, ESQ",start_answer
+472,2039,77,23,"No.  There was no actual measurements that were done of Mr. Stewart.  I mean, he would have to base it on the percentage of asbestos Jacqueline Moline that was present in the various products and the number of times he manipulated any of the various Kaiser Gypsum products. But we don't have an enough information to give a mathematical number.",a,THE WITNESS,start_question
+473,2049,78,7,"And then the same follows for Mrs. Stewart, correct, that we don't have enough information to do a numerical calculation of her potential exposure?",q,"ADAM MARTIN, ESQ",start_answer
+474,2053,78,11,Correct.,a,THE WITNESS,start_question
+475,2054,78,12,"And we've established it would be something less than Mr. Stewart's exposure, based on the take-home nature of her exposure?",q,"ADAM MARTIN, ESQ",start_answer
+476,2057,78,15,"In general, yes. Although, if he had super dusty clothes and she's shaking them out, then it could be very similar to what he was exposed to at the time, based on the literature showing that the exposures can actually be relatively similar to what the worker was exposed to when the laundering person is shaking out the clothes.",a,THE WITNESS,start_question
+477,2065,78,23,"Do you have an opinion in this case, Dr. Moline, with a reasonable degree of scientific and medical certainty, whether Jacqueline Moline Mrs. Stewart's potential exposures to asbestos from Kaiser Gypsum products was a substantial cause of her mesothelioma?",q,"ADAM MARTIN, ESQ",start_answer
+478,2073,79,5,Yes.  I think they were.,a,THE WITNESS,start_question
+479,2074,79,6,"And is that based on anything, other than your review of his testimony and your understanding of the composition of the Kaiser Gypsum products?",q,"ADAM MARTIN, ESQ",start_answer
+480,2078,79,10,"As well as the medical literature that talks about exposures from joint compound and take-home exposure, yes. I mean, it's based on Mr. Stewart's testimony, the percentages of asbestos confirmed in the Kaiser Gypsum documents, as well as the medical literature related to joint compound exposures and take-home exposures.",a,THE WITNESS,start_chat
+481,2086,79,18,"Dr. Moline, I think that's all I have.  I appreciate your patience.  I don't think I've had the pleasure of taking your deposition or participating in one before, so thank you for your time. I'll review my notes, but after the break, I'll pass it on to anyone else who Jacqueline Moline has questions.",side_chat,MR. MARTIN,is brackets
+482,2097,80,3,"(Whereupon, a brief recess was taken.) EXAMINATION",brackets,,start_question
+483,2101,80,7,"Doctor, this is John Egan.  I represent H.B. Fuller.  I've got some questions, a lot fewer than Mr. Martin, but I do have at least a few. I want to ask you some questions about your notes, which I think we earlier marked as Exhibit Number 2, and I think I'm looking at those same notes. This is four pages of handwritten notes on lined paper; is that right?",q,"JOHN EGAN, ESQ",start_answer
+484,2111,80,17,Yes.,a,THE WITNESS,start_question
+485,2112,80,18,With the name Susan Stewart at the top of the first page?,q,"JOHN EGAN, ESQ",start_answer
+486,2114,80,20,Correct.,a,THE WITNESS,start_question
+487,2115,80,21,If you -- I take it these are notes that you transcribed based on your review of written materials that were provided to you by Mr. Joyce; is that right? Jacqueline Moline,q,"JOHN EGAN, ESQ",start_answer
+488,2122,81,2,"I wrote these notes.  Transcription means something else to me. As I was reading the documents that were provided to me by Mr. Joyce, I took notes.",a,THE WITNESS,start_question
+489,2126,81,6,"Fair enough. If you would look down toward the bottom of the first page, the second handwritten line up from the bottom, as I read that, it says: Sold Fuller adhesives or rolled flooring. Did I read that correctly?",q,"JOHN EGAN, ESQ",start_answer
+490,2132,81,12,You did.,a,THE WITNESS,start_question
+491,2133,81,13,"And do you know where you, what you were reading or reviewing when you wrote that line?",q,"JOHN EGAN, ESQ",start_answer
+492,2136,81,16,"It was some part of Mr. Stewart's deposition, where he described that.",a,THE WITNESS,start_question
+493,2138,81,18,"When you give an anything from this case, Stewart case, relating to H.B. Fuller, other than Mr. Stewart's deposition transcript?",q,"JOHN EGAN, ESQ",start_answer
+494,2141,81,21,And the document that we mark as the other exhibits?,a,THE WITNESS,start_question
+495,2143,81,23,"Correct.  Maybe my question wasn't clear enough. My understanding is some of those other Jacqueline Moline exhibits were answers to interrogatories from other cases involving Bird and Kaiser Gypsum, your CV, et cetera, et cetera. But was there anything else that was specific to this case that was provided to you by Mr. Joyce, other than the deposition transcript from Mr. Stewart's deposition?",q,"JOHN EGAN, ESQ",start_answer
+496,2155,82,9,"With respect to this case, I was provided with interrogatories that were from a different case that were from Fuller, but not with respect to this particular case, as well as testing of the thin-set materials that were done by MVA.  Again, these were done in association with other law firms, so they were not specific to this case.  They are specific to the various products. But that's all that was provided to me.",a,THE WITNESS,start_question
+497,2165,82,19,"Okay.  If you turn to the second page of your notes, the 9th handwritten line on that second page, again as I read it, it says: Fuller floor mastic, M-A-S-T-I-C, and then there's a parentheses with the words dry and pre-made in the parenthesis. Did I read that correctly? Jacqueline Moline",q,"JOHN EGAN, ESQ",start_answer
+498,2174,83,2,You did.,a,THE WITNESS,start_question
+499,2175,83,3,Did you also -- strike the question. Did you also write that line after reviewing some portion of Mr. Stewart's deposition transcript?,q,"JOHN EGAN, ESQ",start_answer
+500,2179,83,7,I did.,a,THE WITNESS,start_question
+501,2180,83,8,"Continuing further on down that page, there are three lines written at the very bottom.  What I read is: When bags of JC -- Is that your abbreviation for joint compound?",q,"JOHN EGAN, ESQ",start_answer
+502,2186,83,14,"In this particular setting, yes.",a,THE WITNESS,start_question
+503,2187,83,15,"Okay.  When bags of JC or Fuller would break -- Then there's a dash. -- some dust or cloud of dust -- And then an arrow. -- work clothes worn home, cleaned up spilled dust with brush/dustpan. Did I read that correctly?",q,"JOHN EGAN, ESQ",start_answer
+504,2195,83,23,Correct.,a,THE WITNESS,start_question
+505,2196,83,24,And was that information also derived from Mr. Stewart's deposition transcript? Jacqueline Moline,q,"JOHN EGAN, ESQ",start_answer
+506,2200,84,2,It was.,a,THE WITNESS,start_question
+507,2201,84,3,"Now, beginning on the next page which I guess is the third page of your notes, it looks to me, from my review of this, that the third page and the fourth page are exclusively, or at least almost exclusively, your notes of your review of Susan Stewart's medical records; is that fair to say?",q,"JOHN EGAN, ESQ",start_answer
+508,2208,84,10,Yes.,a,THE WITNESS,start_question
+509,2209,84,11,"There's nothing on the third and fourth pages of those notes that has to do with her exposure or John Stewart's exposure to an asbestos-containing product manufactured by either H.B. Fuller or any other defendant, for that matter; is that fair to say?",q,"JOHN EGAN, ESQ",start_answer
+510,2215,84,17,Yes.,a,THE WITNESS,start_question
+511,2216,84,18,"You also said that you reviewed a set of answers to interrogatories in the Mazzorana case, and we marked those as Exhibit 4?",q,"JOHN EGAN, ESQ",start_answer
+512,2219,84,21,Correct.,a,THE WITNESS,start_question
+513,2220,84,22,Those were provided to you by Mr. Joyce as well?,q,"JOHN EGAN, ESQ",start_answer
+514,2222,84,24,Yes.,a,THE WITNESS,start_question
+515,2223,84,25,Let me just relocate those. Jacqueline Moline Those answers to interrogatories in the Mazzorana case were from a case in state court in New York; correct?,q,"JOHN EGAN, ESQ",start_answer
+516,2229,85,5,Yes.,a,THE WITNESS,start_question
+517,2230,85,6,Do you have those in front of you?,q,"JOHN EGAN, ESQ",start_answer
+518,2231,85,7,I do.,a,THE WITNESS,start_question
+519,2232,85,8,Did you know anything about the Mazzorana case before Mr. Joyce sent you this set of answers to interrogatories?,q,"JOHN EGAN, ESQ",start_answer
+520,2235,85,11,No.,a,THE WITNESS,start_question
+521,2236,85,12,You weren't involved in that case in any fashion?,q,"JOHN EGAN, ESQ",start_answer
+522,2238,85,14,I don't believe so.,a,THE WITNESS,start_question
+523,2239,85,15,"The copy of those answers to interrogatories that I have seem to jump from what looks like page 1 to what looks like page 6. Is your, does your set have pages 2, 3, 4, or 5 in them?",q,"JOHN EGAN, ESQ",start_answer
+524,2245,85,21,No.,a,THE WITNESS,start_question
+525,2246,85,22,"So I take it you weren't provided with pages 2, 3, 4, 5?",q,"JOHN EGAN, ESQ",start_answer
+526,2248,85,24,That is correct.,a,THE WITNESS,start_question
+527,2249,85,25,"What did you learn of any significance Jacqueline Moline from reviewing this set of answers, or at least partial set of answers to interrogatories, from the Mazzorana case?",q,"JOHN EGAN, ESQ",start_answer
+528,2255,86,5,"That the thin-set products contained asbestos ranging from .6 percent to 8 percent. And which was what I had understood prior to reading this interrogatory, that these types of thin-set contained asbestos.  I hadn't actually seen the percentages.",a,THE WITNESS,start_question
+529,2261,86,11,"Okay.  What is your understanding, as you sit there this morning, as to what, as to whether either Susan Stewart or John Stewart were exposed to thin-set?",q,"JOHN EGAN, ESQ",start_answer
+530,2265,86,15,"John Stewart would have been exposed from the bags of the thin-set, which he described as breaking on occasion. He handled them when they were being sold in the stores or when he was manipulating them with the, whether it was maneuvering them on a forklift or just removing them from pallets, noted that both the Fuller or just the bags of the various types of products would get hooked all the time and there would be some exposure or some of the product would eke out from them Jacqueline Moline getting caught on the shelving that they were placed on during the course of manipulation of the bags.",a,THE WITNESS,start_question
+531,2281,87,5,Okay.  Let me state the question a different way: Is the source of your knowledge or information with regard to Mr. Stewart's exposure to thin-set based on anything other than your review of his deposition transcript?,q,"JOHN EGAN, ESQ",start_answer
+532,2287,87,11,With respect to Mr. Stewart's exposure?  No.,a,THE WITNESS,start_question
+533,2289,87,13,Okay.  I take it that applies to Mrs. Stewart as well?,q,"JOHN EGAN, ESQ",start_answer
+534,2291,87,15,Correct.,a,THE WITNESS,start_question
+535,2292,87,16,"Did you receive any information from any other source, written or oral, pertaining to Mr. Stewart or Mrs. Stewart's exposure to a product manufactured or sold by H.B. Fuller, other than the transcript from Mr. Stewart's deposition?",q,"JOHN EGAN, ESQ",start_answer
+536,2298,87,22,Only in the sense of Mr. Joyce said that one of the defendants in the case was Fuller. And it was from the sale of these products Jacqueline Moline that was corroborated by Mr. Stewart's deposition.  That was the extent of it.,a,THE WITNESS,start_question
+537,2306,88,4,Okay.  That's the extent of what Mr. Joyce told you?,q,"JOHN EGAN, ESQ",start_answer
+538,2308,88,6,Yes.,a,THE WITNESS,start_question
+539,2309,88,7,"With regards specifically to Fuller, I mean.",q,"JOHN EGAN, ESQ",start_answer
+540,2311,88,9,"Right, right, that that was one of the defendants in the case, and that it -- And then when I looked in the deposition, I saw that it was Fuller.  I don't recall that he mentioned it before I actually read the deposition.  I honestly did not know who was going to be asking me questions today until we talked very briefly yesterday and until you all got on the phone.",a,THE WITNESS,start_question
+541,2320,88,18,"Okay.  I have some notes here from your earlier testimony this morning, so it may be a paraphrase at best, but I think you said earlier that you were provided with materials, I took that to be written materials, regarding the percentage of asbestos in various defendants' products. Do you recall saying that earlier this Jacqueline Moline morning?",q,"JOHN EGAN, ESQ",start_answer
+542,2331,89,3,Yes.  I was referring to the documents that we've been discussing.,a,THE WITNESS,start_question
+543,2333,89,5,Okay.  Were those the -- You described them as the MVA documents?,q,"JOHN EGAN, ESQ",start_answer
+544,2335,89,7,"Yes and no.  I mean, the MVA actually did a measurement that measured the amount of asbestos as well as some air sampling. And I was also referring to the interrogatories that we just discussed with respect to Fuller and then the other companies' products.",a,THE WITNESS,start_question
+545,2342,89,14,Okay.  The documents from MVA Associates were marked as --,q,"JOHN EGAN, ESQ",start_answer
+546,2344,89,16,Collectively as Exhibit 3.,a,THE WITNESS,start_question
+547,2345,89,17,Exhibit 3; right?,q,"JOHN EGAN, ESQ",start_answer
+548,2346,89,18,Yes.,a,THE WITNESS,start_question
+549,2347,89,19,And that's 50-some-odd pages of documents. Do you have those in front of you?,q,"JOHN EGAN, ESQ",start_answer
+550,2350,89,22,I have them in front of me.  I don't know how many pages there are.,a,THE WITNESS,start_question
+551,2352,89,24,I'll represent to you that the copies that I have amount to 51 pages. Jacqueline Moline,q,"JOHN EGAN, ESQ",start_answer
+552,2356,90,2,"Mine are double-sided, so its less.",a,THE WITNESS,start_question
+553,2357,90,3,"Prior to receiving them from Mr. Joyce in connection with your expected testimony in this case, had you ever seen those documents before?",q,"JOHN EGAN, ESQ",start_answer
+554,2361,90,7,"I don't believe I've seen these specific documents before. But in all honesty, I might have in some other case.  They sort of go into a big rabbit hole of various documents and exposure measurements for various products that are at issue in various cases, and I can't recall seeing these specific ones before, but I might have.",a,THE WITNESS,start_question
+555,2370,90,16,Okay.  Do you have any -- strike the question. I take it you were not involved to any extent in the analyses that were done by MVA Scientific Consultants that were documented in the reports that we have collectively marked as Exhibit 3?,q,"JOHN EGAN, ESQ",start_answer
+556,2377,90,23,That would be correct.,a,THE WITNESS,start_question
+557,2378,90,24,"And the answers to interrogatories in the Mazzorana case that we've marked as Exhibit Jacqueline Moline Number 4, those were the documents that were provided to you by Mr. Joyce under his cover letter of August 13th; is that correct?",q,"JOHN EGAN, ESQ",start_answer
+558,2385,91,5,"I believe so.  I don't remember -- I don't think -- actually, I think they might have come -- I think the 13th I got the deposition and the medical records.  I might have received the other ones a couple days later.  I don't remember.",a,THE WITNESS,start_question
+559,2392,91,12,"I'm just looking at what I have. There are actually two letters dated August 13th from Mr. Joyce to you.  One of them says, confirms that your deposition is being taken on August 27th, which is today, and it encloses, specifically Mr. Stewart's deposition transcript, medical records from South Shore Hospital, and medical records from Compass Medical in Braintree.  There's that letter. And then there's a second letter, also dated August 13th, that says: Enclosed please find documents pertaining to the following defendants:  Bird, Incorporated; H.B. Fuller Company; and Kaiser Jacqueline Moline Gypsum Company. And it also encloses a copy of your deposition notice.  I guess my question is: Are the documents that we've been talking about for the last few minutes, the answers to interrogatories from the Mazzorana case and the -- well, let's limit it to that, the answers to interrogatories in the Mazzorana case. Is that what was provided to you under cover of August 13th when Mr. Joyce sent that letter to you?",q,"JOHN EGAN, ESQ",start_answer
+560,2419,92,13,Yes.,a,THE WITNESS,start_question
+561,2420,92,14,Just trying to make sure that there isn't some other documents or some other set of documents that you were provided with that we haven't identified this morning?,q,"JOHN EGAN, ESQ",start_answer
+562,2424,92,18,No.  This is the extent of the documents that I've been provided.,a,THE WITNESS,start_question
+563,2426,92,20,"Okay.  Now, you've testified a couple of times this morning that you were retained by Mr. Joyce approximately three weeks ago; is that right?",q,"JOHN EGAN, ESQ",start_answer
+564,2430,92,24,It was -- it might have even been -- I think it was around August 9th or 10th that we Jacqueline Moline had a conversation.,a,THE WITNESS,start_question
+565,2435,93,3,"Okay.  Were you aware that you were actually disclosed as an expert witness for the plaintiff in this case in a document that was filed in court in June of this year, June of 2019?",q,"JOHN EGAN, ESQ",start_answer
+566,2440,93,8,"I was not aware of that, but it doesn't surprise me.",a,THE WITNESS,start_question
+567,2442,93,10,Why does it not surprise you?,q,"JOHN EGAN, ESQ",start_answer
+568,2443,93,11,"I've worked with Mr. Joyce before, and sometimes the deadlines are that -- I believe we had a conversation in the spring that there were a number of cases coming up that I would be disclosed in, but I don't recall any specifics of the various cases, so if I had been disclosed in June, that wouldn't surprise me.",a,THE WITNESS,start_question
+569,2450,93,18,"After reviewing the information that you've been provided in connection with your testimony in this case, did you undertake any research or investigation yourself as to whether any of the products that were described by Mr. Stewart in his deposition as being manufactured or sold by H.B. Fuller, in fact, contained asbestos? Jacqueline Moline",q,"JOHN EGAN, ESQ",start_answer
+570,2460,94,2,No.  I relied on the documents I was sent.,a,THE WITNESS,start_question
+571,2462,94,4,Okay.,q,"JOHN EGAN, ESQ",start_answer
+572,2463,94,5,And my --,a,THE WITNESS,start_question
+573,2464,94,6,I'm sorry?,q,"JOHN EGAN, ESQ",start_answer
+574,2465,94,7,"I'm sorry.  I started speaking, and I didn't complete my phrase. I have looked at documents related to thin-set in the past, but not specifically related to the Stewart case.  I can't tell you went it was, but I know I have looked at them in the past. But with respect to the Stewart case, the documents that we've discussed today are the total related to this case.",a,THE WITNESS,start_question
+575,2475,94,17,Okay.,q,"JOHN EGAN, ESQ",start_answer
+576,2476,94,18,I haven't done any specific research on H.B. Fuller since August 10th.,a,THE WITNESS,start_chat
+577,2478,94,20,"I think that's all I have, Doctor.  I'll pass you on to the next lawyer.  Thank you.",side_chat,MR. EGAN,start_chat
+578,2481,94,23,You're welcome.,side_chat,THE WITNESS,start_chat
+579,2482,94,24,No questions.,side_chat,MS. BALLUKU,start_chat
+580,2483,94,25,Mike? Jacqueline Moline,side_chat,MR. MARTIN,start_chat
+581,2486,95,2,"If no one has any questions from the defense side, I'll go ahead. EXAMINATION",side_chat,MR. JOYCE,start_question
+582,2491,95,7,"Dr. Moline, good morning.  My name is Michael Joyce. Do you have an opinion, to a reasonable degree of medical certainty, whether or not the, Mrs. Stewart's exposure to the Fuller products discussed in Mr. Stewart's deposition were a substantial contributing factor to her mesothelioma?",q,"MICHAEL JOYCE, ESQ",start_answer
+583,2499,95,15,Yes.  Her exposure to the products would have been a substantial factor.,a,THE WITNESS,start_question
+584,2501,95,17,"And I'll ask you the same question as to her exposure to Durabond products described in Mr. Stewart's deposition. Do you have a opinion, to a reasonable degree of medical certainty, whether that exposure was a significantly contributing factor to her mesothelioma?",q,"MICHAEL JOYCE, ESQ",start_answer
+585,2508,95,24,"Yes, it was.",a,THE WITNESS,start_chat
+586,2509,95,25,"Okay.  I have no, Jacqueline Moline nothing further.",side_chat,MR. JOYCE,start_chat
+587,2513,96,3,I think we're done.,side_chat,MR. MARTIN,start_chat
+588,2514,96,4,"Let me ask one quick question.  This is John Egan, again. EXAMINATION",side_chat,MR. EGAN,start_question
+589,2518,96,8,"Doctor, I take it that your opinion with regard to causation and H.B. Fuller, the one that you expressed just a moment ago, is based on your understanding that the H.B. Fuller products that Mr. Stewart identified in his deposition did, in fact, contain asbestos; correct?",q,"JOHN EGAN, ESQ",start_answer
+590,2525,96,15,That's correct.,a,THE WITNESS,start_chat
+591,2526,96,16,Thank you.,side_chat,MR. EGAN,start_chat
+592,2527,96,17,"Thank you, Doctor.  I think we're done. Off the record.",side_chat,MR. MARTIN,is brackets
+593,2530,96,20,"(Whereupon, a discussion was held off the record.)",brackets,,start_chat
+594,2532,96,22,"Mr. Joyce, you are ordering a copy of the transcript?",side_chat,THE REPORTER,start_chat
+595,2534,96,24,Yes.,side_chat,MR. JOYCE,start_chat
+596,2535,96,25,"Mr. Egan, are you Jacqueline Moline ordering a copy of the transcript?",side_chat,THE REPORTER,start_chat
+597,2539,97,3,"Yes, please.",side_chat,MR. EGAN,start_chat
+598,2540,97,4,"Ms. Balluku, are you ordering a copy of the transcript?",side_chat,THE REPORTER,start_chat
+599,2542,97,6,"Yes, we are.",side_chat,MS. BALLUKU,start_chat
+600,2543,97,7,Thank you very much.,side_chat,THE REPORTER,is brackets
+601,2544,97,8,"(Whereupon, the record was closed. Time noted: 11:53 a.m.) -o0o- Jacqueline Moline INSTRUCTIONS TO WITNESS Please read your deposition over carefully and make any necessary corrections. You should state the reason in the appropriate space on the errata sheet for any corrections that are made. After doing so, please sign the errata sheet and date it.  You are signing same subject to the changes you have noted on the errata sheet, which will be attached to your deposition. It is imperative that you return the original errata sheet to the deposing attorney within thirty (30) days of receipt of the deposition transcript by you.  If you fail to do so, the deposition transcript may be deemed to be accurate and may be used in court. -o0o- Jacqueline Moline E R R A T A  S H E E T PAGE   LINE     CHANGE",brackets,,symbols
+602,2594,99,6,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+603,2596,99,8,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+604,2598,99,10,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+605,2600,99,12,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+606,2602,99,14,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+607,2604,99,16,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+608,2606,99,18,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+609,2608,99,20,____   ____  ____________________________ REASON: ____________________________,symbols,,symbols
+610,2612,99,24,"_________________________    ___________ Jacqueline Moline ACKNOWLEDGMENT OF DEPONENT STATE OF NEW YORK     ) COUNTY OF             ) I hereby CERTIFY that, having been first duly sworn or affirmed to testify to the truth, I gave the above testimony. I FURTHER CERTIFY that I have read the foregoing record of my testimony taken at the time and place noted in the heading hereof, and I do hereby acknowledge it to be a true and correct transcript of same.",symbols,,symbols
+611,2634,100,18,"____________________________ Subscribed and sworn to before me this _____ day of ________________, 2019.",symbols,,symbols
+612,2641,100,24,"_____________________________ Jacqueline Moline C E R T I F I C A T I O N )    :  S.S.: and within the State of New York, do hereby proceeding was held before me at the aforesaid or affirmed before the commencement of the stenographically by me, then transcribed under is a true record of the testimony of said to any of the parties to this action by blood or or indirectly in the matter in controversy, nor my hand this September 12, 2019. APRYL S. MONTERO this transcript does not apply to any under the direct control and/or supervision of",symbols,,end

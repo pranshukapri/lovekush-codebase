@@ -1,0 +1,1501 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows:,,,symbols
+1,369,11,1,* * * * * EXAMINATION CONDUCTED,symbols,,start_question
+2,372,11,4,"Okay.  Sir, I'm going to put a few things on the record just with your attorney first.  All right?",q,MS. VELLUCCI,start_answer
+3,375,11,7,Sure.,a,THE WITNESS,start_chat
+4,376,11,8,"Chris, will you agree to the usual stipulations?",side_chat,MS. VELLUCCI,start_chat
+5,378,11,10,Yes.,side_chat,MR. MEISENKOTHEN,start_chat
+6,379,11,11,And I'll put those on the record just so we have them.  And that's that an objection by one defendant is good for all.,side_chat,MS. VELLUCCI,start_chat
+7,383,11,15,Right.,side_chat,MR. MEISENKOTHEN,start_chat
+8,384,11,16,"That all objections, except as to form, are reserved.",side_chat,MS. VELLUCCI,start_chat
+9,386,11,18,Right.,side_chat,MR. MEISENKOTHEN,start_chat
+10,387,11,19,"And same with motions to strike, they're reserved.",side_chat,MS. VELLUCCI,start_chat
+11,389,11,21,Right.,side_chat,MR. MEISENKOTHEN,start_chat
+12,390,11,22,"And because we're kind of doing this deposition shortly after the complaint was filed, there are a number of defendants that have not yet been served, so an appearance at this deposition, it's our position that it doesn't waive any defenses as to service of process.",side_chat,MS. VELLUCCI,start_chat
+13,398,12,5,"And the usual, I reserve my right to argue otherwise, if I have to, but that's fine.",side_chat,MR. MEISENKOTHEN,start_chat
+14,401,12,8,"Okay.  And lastly, with respect to Judge Bellis's rule, that only Connecticut licensed attorneys can be here.  If you are not licensed in Connecticut, you just let Chris or I know right away and otherwise we will proceed.",side_chat,MS. VELLUCCI,start_chat
+15,407,12,14,Right.,side_chat,MR. MEISENKOTHEN,start_question
+16,408,12,15,"Sir, can you please state your full name for me, please.",q,MS. VELLUCCI,start_answer
+17,410,12,17,"Joseph A. Sazanowicz, Jr.",a,THE WITNESS,start_question
+18,411,12,18,"And what does the ""A"" stand for?",q,MS. VELLUCCI,start_answer
+19,412,12,19,Anthony.,a,THE WITNESS,start_question
+20,413,12,20,And what's your date of birth?,q,MS. VELLUCCI,start_answer
+21,414,12,21,11/23/1954.,a,THE WITNESS,start_question
+22,415,12,22,And are the last four digits of your Social Security number 2690?,q,MS. VELLUCCI,start_answer
+23,417,12,24,Correct.,a,THE WITNESS,start_question
+24,419,13,1,"Can you tell me your address, please?",q,MS. VELLUCCI,start_answer
+25,420,13,2,"4 Florence Lane, Plantsville, Connecticut.",a,THE WITNESS,start_question
+26,422,13,4,And that's where we are today?,q,MS. VELLUCCI,start_answer
+27,423,13,5,Correct.,a,THE WITNESS,start_question
+28,424,13,6,"And how long have you lived here, sir?",q,MS. VELLUCCI,start_answer
+29,425,13,7,35 --,a,THE WITNESS,start_chat
+30,426,13,8,3.,side_chat,MS. SAZANOWICZ,start_answer
+31,427,13,9,33 years.,a,THE WITNESS,start_question
+32,428,13,10,Okay.  And have you ever been deposed before?,q,MS. VELLUCCI,start_answer
+33,430,13,12,Yes.,a,THE WITNESS,start_question
+34,431,13,13,And was that in connection with a lawsuit or your job?,q,MS. VELLUCCI,start_answer
+35,433,13,15,In connection with a law enforcement lawsuit.,a,THE WITNESS,start_question
+36,435,13,17,"Were you a party to the lawsuit, or were you a witness?",q,MS. VELLUCCI,start_answer
+37,437,13,19,I was a party to the lawsuit.,a,THE WITNESS,start_question
+38,438,13,20,And when was that?,q,MS. VELLUCCI,start_answer
+39,439,13,21,"Oh, it was quite a while ago, 20 years maybe.  20 years ago.",a,THE WITNESS,start_question
+40,441,13,23,"Okay.  I'm going to go through just a couple of admonitions that your attorney may have already gone through with you.  It's just important that you verbalize all of your responses.  We have a court reporter taking down everything I'm saying and you're saying. And if I do remind you, if you do nod or shake your head and I remind you, I don't mean it to be rude.  It's just so that we have a clear record.  Okay?",q,MS. VELLUCCI,start_answer
+41,452,14,9,Yes.,a,THE WITNESS,start_question
+42,453,14,10,"All right.  And it's also important that we don't speak over one another, so I'll do my best to wait until you finish answering before I ask a question, and I just ask that you wait until I finish a question before you answer.  Okay?",q,MS. VELLUCCI,start_answer
+43,459,14,16,Yes.,a,THE WITNESS,start_question
+44,460,14,17,"If I've asked a question and you answer it, I'm going to assume that you understood it; is that fair?",q,MS. VELLUCCI,start_answer
+45,463,14,20,Yes.,a,THE WITNESS,start_question
+46,464,14,21,"And I just ask that -- I'm going to be asking you questions that go back aways to the '60s and the '70s.  If at any point you don't know the answer, feel free to just say I don't know.  Okay?",q,MS. VELLUCCI,start_answer
+47,470,15,2,Yes.,a,THE WITNESS,start_question
+48,471,15,3,"And I just ask that you don't guess, so if you can give an estimate, that's fine. Just don't guess.  Does that sound fair?",q,MS. VELLUCCI,start_answer
+49,474,15,6,Yes.,a,THE WITNESS,start_question
+50,475,15,7,You're married?,q,MS. VELLUCCI,start_answer
+51,476,15,8,Yes.,a,THE WITNESS,start_question
+52,477,15,9,And what is your wife's name?,q,MS. VELLUCCI,start_answer
+53,478,15,10,Nancy.,a,THE WITNESS,start_question
+54,479,15,11,And what's her maiden name?,q,MS. VELLUCCI,start_answer
+55,480,15,12,Morin.,a,THE WITNESS,start_question
+56,481,15,13,And what's her date of birth?,q,MS. VELLUCCI,start_answer
+57,482,15,14,"June 1, 1956.",a,THE WITNESS,start_question
+58,483,15,15,And when were the two of you married?,q,MS. VELLUCCI,start_answer
+59,484,15,16,"October 29, 1977.",a,THE WITNESS,start_question
+60,485,15,17,"Do you have any other marriages, or is that your only marriage?",q,MS. VELLUCCI,start_answer
+61,487,15,19,The only one.,a,THE WITNESS,start_question
+62,488,15,20,"And you have two children, right?",q,MS. VELLUCCI,start_answer
+63,489,15,21,Correct.,a,THE WITNESS,start_question
+64,490,15,22,What are their names?,q,MS. VELLUCCI,start_answer
+65,491,15,23,Rachel and Robert.,a,THE WITNESS,start_question
+66,492,15,24,"Okay.  And Rachel, where does she live?",q,MS. VELLUCCI,start_answer
+67,495,16,2,Excuse me?,a,THE WITNESS,start_question
+68,496,16,3,Where does Rachel live?,q,MS. VELLUCCI,start_answer
+69,497,16,4,"Rachel lives in Brooklyn, New York.",a,THE WITNESS,start_question
+70,498,16,5,And where does your son live?,q,MS. VELLUCCI,start_answer
+71,499,16,6,"Cheshire, Connecticut.",a,THE WITNESS,start_question
+72,500,16,7,"Okay.  Sir, are you taking any medications today that may affect your ability to testify or answer questions truthfully?",q,MS. VELLUCCI,start_answer
+73,503,16,10,I don't know.,a,THE WITNESS,start_question
+74,504,16,11,So as you're sitting here today --,q,MS. VELLUCCI,start_answer
+75,505,16,12,I'm taking medications.  I don't know if it's affecting me or not in testifying.,a,THE WITNESS,start_question
+76,507,16,14,Could you just tell me what medications you're taking either that you took this morning or you took last night?,q,MS. VELLUCCI,start_answer
+77,510,16,17,Can my wife answer that question?,a,THE WITNESS,start_question
+78,511,16,18,"No, unfortunately.  But to the best of your memory.  And if you don't know, that's fine.",q,MS. VELLUCCI,start_chat
+79,514,16,21,"Not the names, Joe, but if you're on pain medication.",side_chat,MR. MEISENKOTHEN,start_answer
+80,516,16,23,"I'm on a cough medicine.  It stifles the cough, and I had some codeine yesterday.  I had some cough medicine with codeine before I went to bed last night, but I really don't know how it affects me.",a,THE WITNESS,start_question
+81,522,17,4,Okay.  But you're doing your best to give truthful and accurate testimony?,q,MS. VELLUCCI,start_answer
+82,524,17,6,"Yeah.  I didn't take any painkiller this morning that I'm aware of that's a painkiller, but my meds obviously have something to do with coughing and all that.",a,THE WITNESS,start_question
+83,528,17,10,"And if at any point you need a break, just let me know.",q,MS. VELLUCCI,start_answer
+84,530,17,12,"Yeah, I got you.  No problem.",a,THE WITNESS,start_question
+85,531,17,13,"I just ask that if I ask a question, that you answer it, and then we'll go right to the break.  Okay?",q,MS. VELLUCCI,start_answer
+86,534,17,16,Okay.,a,THE WITNESS,start_question
+87,535,17,17,"Sir, are you currently employed?",q,MS. VELLUCCI,start_answer
+88,536,17,18,No.,a,THE WITNESS,start_question
+89,537,17,19,"And you retired, right?",q,MS. VELLUCCI,start_answer
+90,538,17,20,"December 1, I retired.",a,THE WITNESS,start_question
+91,539,17,21,Of what year?,q,MS. VELLUCCI,start_answer
+92,540,17,22,2018.,a,THE WITNESS,start_question
+93,541,17,23,Can you tell me where did you go to high school?,q,MS. VELLUCCI,start_answer
+94,544,18,1,Southington High School.,a,THE WITNESS,start_question
+95,545,18,2,Did you graduate?,q,MS. VELLUCCI,start_answer
+96,546,18,3,Yes.,a,THE WITNESS,start_question
+97,547,18,4,When did you graduate?,q,MS. VELLUCCI,start_answer
+98,548,18,5,June of 1972.,a,THE WITNESS,start_question
+99,549,18,6,And do you have any post high school education?,q,MS. VELLUCCI,start_answer
+100,551,18,8,I graduated from University of New Haven.,a,THE WITNESS,start_question
+101,553,18,10,When was that?,q,MS. VELLUCCI,start_answer
+102,554,18,11,"1984, a bachelor's degree.  Also, I have an associate's degree from Thompson** Community College, 1978.",a,THE WITNESS,start_question
+103,557,18,14,And that was a two-year degree?,q,MS. VELLUCCI,start_answer
+104,558,18,15,Correct.,a,THE WITNESS,start_question
+105,559,18,16,"Did you go to get your associate's part-time at night, or were you going during the day?",q,MS. VELLUCCI,start_answer
+106,562,18,19,Part-time.,a,THE WITNESS,start_question
+107,563,18,20,And what about your bachelor's degree?,q,MS. VELLUCCI,start_answer
+108,564,18,21,Part-time.,a,THE WITNESS,start_question
+109,565,18,22,Okay.  Where did you grow up?  Where were you born?,q,MS. VELLUCCI,start_answer
+110,567,18,24,Right here in Southington.,a,THE WITNESS,start_question
+111,569,19,1,Do you remember the first address that you lived at?,q,MS. VELLUCCI,start_answer
+112,571,19,3,Yes.,a,THE WITNESS,start_question
+113,572,19,4,What was that?,q,MS. VELLUCCI,start_answer
+114,573,19,5,17 Sunnyridge Drive.,a,THE WITNESS,start_question
+115,574,19,6,And that's in Southington?,q,MS. VELLUCCI,start_answer
+116,575,19,7,Correct.,a,THE WITNESS,start_question
+117,576,19,8,And when did you live there until?,q,MS. VELLUCCI,start_answer
+118,577,19,9,Until I was married in 1977.,a,THE WITNESS,start_question
+119,578,19,10,"Okay.  And so you moved out of the home on Sunnyridge Drive in 1977, and then where did you live?",q,MS. VELLUCCI,start_answer
+120,581,19,13,145 Liberty Street.,a,THE WITNESS,start_question
+121,582,19,14,Also in Southington?,q,MS. VELLUCCI,start_answer
+122,583,19,15,Correct.,a,THE WITNESS,start_question
+123,584,19,16,How long did you live there?,q,MS. VELLUCCI,start_answer
+124,585,19,17,"Approximately, two years.",a,THE WITNESS,start_question
+125,586,19,18,"Okay.  And then in about 1979, where did you live?",q,MS. VELLUCCI,start_answer
+126,588,19,20,"I believe it was 22 John Street, again, in Southington.",a,THE WITNESS,start_question
+127,590,19,22,And how long did you live there?,q,MS. VELLUCCI,start_answer
+128,591,19,23,Until we bought this place in 1985.,a,THE WITNESS,start_question
+129,592,19,24,Okay.  And you've lived at your home where we're at today since 1985?,q,MS. VELLUCCI,start_answer
+130,595,20,2,"Yeah, it might have been longer at Liberty Street than I just mentioned.  Probably at least three years at Liberty Street and a few at John Street.",a,THE WITNESS,start_question
+131,599,20,6,"Okay.  All right.  So the residences that you just listed for me, those are the only places where you've lived?",q,MS. VELLUCCI,start_answer
+132,602,20,9,Correct.,a,THE WITNESS,start_question
+133,603,20,10,Okay.  I want to go right into some work that you did starting with the work you did in high school.  Okay?,q,MS. VELLUCCI,start_answer
+134,606,20,13,Yes.,a,THE WITNESS,start_question
+135,607,20,14,Can you tell me the first job that you held?,q,MS. VELLUCCI,start_answer
+136,609,20,16,In high school or ever?,a,THE WITNESS,start_question
+137,610,20,17,Ever.  You can tell me the first job you ever did.,q,MS. VELLUCCI,start_answer
+138,612,20,19,"I was a newspaper boy, obviously, like everyone else, but I also worked on farms.  I forgot to mention this before.  I worked on a farm for two years from May until October or November when I was -- I believe I was 13 and I was 14 or -- I was either 13 and 14 or 14 and 15.  I'm not sure.",a,THE WITNESS,start_question
+139,620,21,2,"So during those two years, either when you were 13 to 14 or 14 to 15, you worked at a farm from May to October or November?",q,MS. VELLUCCI,start_answer
+140,623,21,5,"Approximately to the end of, you know, when school let out.  Maybe the first year I didn't start until school let out in June, and I stayed until fall until harvest time.  And then the following year we started much earlier and worked until it got cold.",a,THE WITNESS,start_question
+141,629,21,11,And where were those farms located?,q,MS. VELLUCCI,start_answer
+142,630,21,12,The farm was located on Route 3 -- I believe it's called Route 322.  It's in Southington.  It was called The Corn Crib. It's over by the movie theater on the south end of town.  A movie theater sits on the property now.  A truck stop sits on the property.,a,THE WITNESS,start_question
+143,636,21,18,Did you work at the same farm both of those years?,q,MS. VELLUCCI,start_answer
+144,638,21,20,Yes.,a,THE WITNESS,start_question
+145,639,21,21,What did you do there?,q,MS. VELLUCCI,start_answer
+146,640,21,22,"First thing we ever did was pull weeds.  We fertilized.  We threw insecticides out.  We gathered crops.  We got to drive tractors.  We did some plowing.  We supervised a bunch of older people.  We were 14, 15 years old supervising 30-year-old guys.",a,THE WITNESS,start_question
+147,647,22,4,What kind of farm was this?,q,MS. VELLUCCI,start_answer
+148,648,22,5,Vegetable farm.,a,THE WITNESS,start_question
+149,649,22,6,"And part of your job was fertilizing, you said?",q,MS. VELLUCCI,start_answer
+150,651,22,8,That was one of the things we had done.,a,THE WITNESS,start_question
+151,653,22,10,Did you work with any vermiculite?,q,MS. VELLUCCI,start_answer
+152,654,22,11,I don't know.,a,THE WITNESS,start_question
+153,655,22,12,Okay.  Do you know -- are you able to tell me the types of products that you used to fertilize?,q,MS. VELLUCCI,start_answer
+154,658,22,15,"Fertilizing could have been done by hand where you just had a bucket of fertilizer and threw a shot next to every tomato plant, or it could have been -- I think fertilizer was -- the only fertilizing was done by hand, if I can remember correctly.",a,THE WITNESS,start_question
+155,664,22,21,Did you physically touch the fertilizer with your hands?,q,MS. VELLUCCI,start_answer
+156,666,22,23,"Oh, yes, all the time.",a,THE WITNESS,start_question
+157,667,22,24,"And I don't mean to interrupt you, but I just want to remind you again, if you could just wait until I finish the question and then answer.  I know it's a little awkward, but it just makes for a cleaner record down the record.  Okay?",q,MS. VELLUCCI,start_answer
+158,674,23,6,Yes.,a,THE WITNESS,start_question
+159,675,23,7,So you said you actually worked with the fertilizer; you held it in your hand?,q,MS. VELLUCCI,start_answer
+160,677,23,9,Yes.,a,THE WITNESS,start_question
+161,678,23,10,And you would spread it out?,q,MS. VELLUCCI,start_answer
+162,679,23,11,Yes.,a,THE WITNESS,start_question
+163,680,23,12,And you don't know what the fertilizer was made of?,q,MS. VELLUCCI,start_answer
+164,682,23,14,"The fertilizer had numbers, you know. It was a proportion of nitrates, potassium, whatever.  It had a number like 5, 10, 15, or something.",a,THE WITNESS,start_question
+165,686,23,18,Did it come in bags or packaging?,q,MS. VELLUCCI,start_answer
+166,687,23,19,Yes.,a,THE WITNESS,start_question
+167,688,23,20,Do you recall anything about what the packaging looked like?,q,MS. VELLUCCI,start_answer
+168,690,23,22,"Big sacks.  I believe they were -- well, I don't know.  They were 50 or 75 or 100 pounds.  I don't know.",a,THE WITNESS,start_question
+169,694,24,1,Okay.  And is that something you did every day?,q,MS. VELLUCCI,start_answer
+170,696,24,3,No.,a,THE WITNESS,start_question
+171,697,24,4,How often did you fertilize?,q,MS. VELLUCCI,start_answer
+172,698,24,5,"I believe -- well, I'm not sure, but it was not every day.  It was maybe over a few weeks you had to -- every few weeks you gave it a little shot.  Depended on the weather, the rain.",a,THE WITNESS,start_question
+173,703,24,10,How large was this farm?,q,MS. VELLUCCI,start_answer
+174,704,24,11,"It was more than 30 acres, less than 40, I believe.",a,THE WITNESS,start_question
+175,706,24,13,"And you said -- you mentioned doing some plowing, and I'm wondering did you do any kind of mechanical work on any of the equipment or vehicles that may have been on the farm?",q,MS. VELLUCCI,start_answer
+176,710,24,17,No.,a,THE WITNESS,start_question
+177,711,24,18,Did anyone do any mechanical work in your presence on any equipment or vehicles on the farm?,q,MS. VELLUCCI,start_answer
+178,714,24,21,"Well, the farmer did.",a,THE WITNESS,start_question
+179,715,24,22,Okay.  Can you tell me -- do you have a specific memory of what the farmer did?,q,MS. VELLUCCI,start_answer
+180,717,24,24,No.,a,THE WITNESS,start_question
+181,719,25,1,Do you remember the type of equipment he was working on?,q,MS. VELLUCCI,start_answer
+182,721,25,3,Tractors.,a,THE WITNESS,start_question
+183,722,25,4,Do you remember the brand of any of those tractors?,q,MS. VELLUCCI,start_answer
+184,724,25,6,Farmall and International Harvester. National Harvester or International Harvester. I'm not sure of the name.,a,THE WITNESS,start_question
+185,727,25,9,Who owned this farm?,q,MS. VELLUCCI,start_answer
+186,728,25,10,Frank DeMaria.,a,THE WITNESS,start_question
+187,729,25,11,"Was he the mechanic, or was that someone else?",q,MS. VELLUCCI,start_answer
+188,731,25,13,He was a one-man show.,a,THE WITNESS,start_question
+189,732,25,14,"And, as you sit here today, can you tell me, specifically, what type of work he did on those tractors in your presence?",q,MS. VELLUCCI,start_answer
+190,735,25,17,"Well, no, no.",a,THE WITNESS,start_question
+191,736,25,18,All right.  So we just talked about the farm work kind of briefly.  Any other jobs that you held for pay while you were in high school?,q,MS. VELLUCCI,start_answer
+192,740,25,22,"Yeah, I worked at the Mt. Southington Ski Area.",a,THE WITNESS,start_question
+193,742,25,24,And what did you do there?,q,MS. VELLUCCI,start_answer
+194,744,26,1,I operated lifts.  I got that job when I turned 16.,a,THE WITNESS,start_question
+195,746,26,3,Was that part-time?,q,MS. VELLUCCI,start_answer
+196,747,26,4,Yes.,a,THE WITNESS,start_question
+197,748,26,5,Was that all year or just in ski season?,q,MS. VELLUCCI,start_answer
+198,750,26,7,Ski season.,a,THE WITNESS,start_question
+199,751,26,8,And what was that?,q,MS. VELLUCCI,start_answer
+200,752,26,9,"Well, it would be November -- I believe I started November of 1970, and then when the ski area closed, we were done.",a,THE WITNESS,start_question
+201,755,26,12,Okay.  And so that would be until the end of the winter in '71?,q,MS. VELLUCCI,start_answer
+202,757,26,14,"First year, yes.",a,THE WITNESS,start_question
+203,758,26,15,Did you work there more than one year?,q,MS. VELLUCCI,start_answer
+204,759,26,16,"Yes, two years.",a,THE WITNESS,start_question
+205,760,26,17,So age 16 and 17?,q,MS. VELLUCCI,start_answer
+206,761,26,18,Yes.,a,THE WITNESS,start_question
+207,762,26,19,Was that on the weekends or weeknights or both?,q,MS. VELLUCCI,start_answer
+208,764,26,21,"Yes, weekends.  There might have been occasional weeknights, but we couldn't work past a certain time.",a,THE WITNESS,start_question
+209,767,26,24,What time was that?,q,MS. VELLUCCI,start_answer
+210,769,27,1,I don't recall.,a,THE WITNESS,start_question
+211,770,27,2,And why couldn't you work past a certain time?,q,MS. VELLUCCI,start_answer
+212,772,27,4,Because we weren't 18 years of age yet.,a,THE WITNESS,start_question
+213,774,27,6,"All right.  Other than operate the ski lifts, is there anything else you did when you were working for the Mt. Southington Ski Area?",q,MS. VELLUCCI,start_answer
+214,777,27,9,It was all related to lift operation.,a,THE WITNESS,start_question
+215,778,27,10,Did you do any mechanical work on the ski lifts?,q,MS. VELLUCCI,start_answer
+216,780,27,12,No.,a,THE WITNESS,start_question
+217,781,27,13,Okay.  Did anyone do that in your presence?,q,MS. VELLUCCI,start_answer
+218,783,27,15,No.,a,THE WITNESS,start_question
+219,784,27,16,Any other jobs that you held in high school?,q,MS. VELLUCCI,start_answer
+220,786,27,18,Gas station jobs.,a,THE WITNESS,start_question
+221,787,27,19,All right.  What was the first gas station that you worked at?,q,MS. VELLUCCI,start_answer
+222,789,27,21,"First one was the Argo station on West Street in Southington, and then again, it was -- it would have been the same time I was working in the ski area and all that.",a,THE WITNESS,start_question
+223,794,28,1,So 1970 and 1971?,q,MS. VELLUCCI,start_answer
+224,795,28,2,"Yeah, 1970ish, and I worked at night there, a night or two a weekend.",a,THE WITNESS,start_question
+225,797,28,4,All right.  Let me ask you a couple questions about what you just said.  You said you worked a night or two?,q,MS. VELLUCCI,start_answer
+226,800,28,7,Correct.,a,THE WITNESS,start_question
+227,801,28,8,During the week?,q,MS. VELLUCCI,start_answer
+228,802,28,9,Correct.,a,THE WITNESS,start_question
+229,803,28,10,After school?,q,MS. VELLUCCI,start_answer
+230,804,28,11,Correct.,a,THE WITNESS,start_question
+231,805,28,12,And then did you also work there on the weekend?,q,MS. VELLUCCI,start_answer
+232,807,28,14,"I believe I did, yes.",a,THE WITNESS,start_question
+233,808,28,15,Was that one day on the weekend or both days?,q,MS. VELLUCCI,start_answer
+234,810,28,17,"I don't -- I would guess it would be one, but I don't know.  No, I don't know.  I don't know.",a,THE WITNESS,start_question
+235,813,28,20,Okay.  What were your hours when you worked there during the week?,q,MS. VELLUCCI,start_answer
+236,815,28,22,I don't know exactly.,a,THE WITNESS,start_question
+237,816,28,23,Would you go right after school?,q,MS. VELLUCCI,start_answer
+238,817,28,24,I might have.,a,THE WITNESS,start_question
+239,819,29,1,Do you remember if you went home first?,q,MS. VELLUCCI,start_answer
+240,821,29,3,I don't recall.,a,THE WITNESS,start_question
+241,822,29,4,Do you know how late the gas station was open until?,q,MS. VELLUCCI,start_answer
+242,824,29,6,I think that one stayed open until 10:00.,a,THE WITNESS,start_question
+243,826,29,8,Did you work until 10 p.m.?,q,MS. VELLUCCI,start_answer
+244,827,29,9,"Yes, I did.",a,THE WITNESS,start_question
+245,828,29,10,So that same situation where you couldn't work late at the ski area didn't apply to the gas station?,q,MS. VELLUCCI,start_answer
+246,831,29,13,"No, because this was family.  This was my -- this was family.",a,THE WITNESS,start_question
+247,833,29,15,How were you paid?  Were you paid by check or cash?,q,MS. VELLUCCI,start_answer
+248,835,29,17,I don't recall.,a,THE WITNESS,start_question
+249,836,29,18,And who owned the gas station?,q,MS. VELLUCCI,start_answer
+250,837,29,19,At that time Pasquale Bruschino.,a,THE WITNESS,start_question
+251,838,29,20,"Pasquale, and what was the last name?",q,MS. VELLUCCI,start_answer
+252,839,29,21,"Bruschino, B-R-U-S-C-H-I-N-O.",a,THE WITNESS,start_question
+253,840,29,22,And that was a family friend?,q,MS. VELLUCCI,start_answer
+254,841,29,23,He was my sister's boyfriend.,a,THE WITNESS,start_question
+255,842,29,24,And what was your sister's name?,q,MS. VELLUCCI,start_answer
+256,844,30,1,Carolyn.  They eventually were married and divorced.,a,THE WITNESS,start_question
+257,846,30,3,Okay.  Did you work at the Argo gas station at the same time you were working at the ski area?,q,MS. VELLUCCI,start_answer
+258,849,30,6,I believe so.,a,THE WITNESS,start_question
+259,850,30,7,"So during a given week, you might work a night or two at the gas station and then a night or two at the ski area?",q,MS. VELLUCCI,start_answer
+260,853,30,10,Yes.,a,THE WITNESS,start_question
+261,854,30,11,Okay.  Did you ever work more than two days a week at the gas station?,q,MS. VELLUCCI,start_answer
+262,856,30,13,I don't recall.,a,THE WITNESS,start_question
+263,857,30,14,"Can you describe it for me at all, in other words, what the gas station looked like?",q,MS. VELLUCCI,start_answer
+264,859,30,16,"It was a single-story building with -- I believe it had two garage bays, offices on the right side, gas pumps were out front.",a,THE WITNESS,start_question
+265,862,30,19,How many gas pumps were there?,q,MS. VELLUCCI,start_answer
+266,863,30,20,"I believe there was a double island, two islands, probably a couple on each -- I don't know exactly on each island, but I believe there was two islands.",a,THE WITNESS,start_question
+267,867,30,24,Did the bays have lifts?,q,MS. VELLUCCI,start_answer
+268,869,31,1,Yes.,a,THE WITNESS,start_question
+269,870,31,2,And did they have the roll-up doors in front of the bays?,q,MS. VELLUCCI,start_answer
+270,872,31,4,Yes.,a,THE WITNESS,start_question
+271,873,31,5,Do you know about how tall the ceilings were in there?,q,MS. VELLUCCI,start_answer
+272,875,31,7,"Oh, at least 13 feet.",a,THE WITNESS,start_question
+273,876,31,8,And what were you hired to do there?,q,MS. VELLUCCI,start_answer
+274,877,31,9,Pump gas.,a,THE WITNESS,start_question
+275,878,31,10,And was that your primary responsibility?,q,MS. VELLUCCI,start_answer
+276,880,31,12,Yes.,a,THE WITNESS,start_question
+277,881,31,13,Did you do anything other than pump gas?,q,MS. VELLUCCI,start_answer
+278,883,31,15,Whatever was needed.,a,THE WITNESS,start_question
+279,884,31,16,And what would that be?,q,MS. VELLUCCI,start_answer
+280,885,31,17,"Well, if someone was doing a brake job, you'd help them do the brake job.  If you had to change a tire, you'd change a tire. Most of the time I'm there by myself, obviously, because I'm there at night.",a,THE WITNESS,start_question
+281,890,31,22,Do you recall the names of any mechanics who worked there?,q,MS. VELLUCCI,start_answer
+282,892,31,24,Pasquale Bruschino.,a,THE WITNESS,start_question
+283,894,32,1,Was he --,q,MS. VELLUCCI,start_answer
+284,895,32,2,He was the mechanic.  He was the owner.,a,THE WITNESS,start_question
+285,897,32,4,Was he the only mechanic?,q,MS. VELLUCCI,start_answer
+286,898,32,5,I'm not sure.,a,THE WITNESS,start_question
+287,899,32,6,"What time did mechanic work take place at the garage?  I know you said the gas pumps or the station was open until 10, but do you know around when they stopped doing mechanic work on cars?",q,MS. VELLUCCI,start_answer
+288,904,32,11,"No, I don't know.",a,THE WITNESS,start_question
+289,905,32,12,And you said that you'd be alone there?,q,MS. VELLUCCI,start_answer
+290,907,32,14,Mostly.,a,THE WITNESS,start_question
+291,908,32,15,"When you were working there, Pasquale, he was home or at least he wasn't at the gas station?",q,MS. VELLUCCI,start_answer
+292,911,32,18,He might have been there for a short period of time and then went home.,a,THE WITNESS,start_question
+293,913,32,20,Okay.  And you weren't a mechanic?,q,MS. VELLUCCI,start_answer
+294,914,32,21,No.,a,THE WITNESS,start_question
+295,915,32,22,Okay.  That's a true statement?,q,MS. VELLUCCI,start_answer
+296,916,32,23,"By trade, no, I'm not a mechanic by trade.",a,THE WITNESS,start_question
+297,919,33,1,"Okay.  And to the extent that you did any type of automotive work at this gas station, you were assisting; is that fair to say?",q,MS. VELLUCCI,start_answer
+298,923,33,5,Correct.,a,THE WITNESS,start_question
+299,924,33,6,"Okay.  And would you assist on anything that the mechanic needed your help with, or is there something in particular that you did?",q,MS. VELLUCCI,start_answer
+300,928,33,10,Anything he needed help with.,a,THE WITNESS,start_question
+301,929,33,11,Okay.  And was this a full-service gas station and garage?,q,MS. VELLUCCI,start_answer
+302,931,33,13,Yes.,a,THE WITNESS,start_question
+303,932,33,14,Was there anything that came in the door that he would turn away as far as automotive repair?,q,MS. VELLUCCI,start_answer
+304,935,33,17,I don't know.,a,THE WITNESS,start_question
+305,936,33,18,Okay.  And you said you'd help with brake work and you mentioned tire changing.  Is there anything else that you recall assisting with at this gas station?,q,MS. VELLUCCI,start_answer
+306,940,33,22,We worked on engines.  We rebuilt motors.,a,THE WITNESS,start_question
+307,942,33,24,Would you do oil changes?,q,MS. VELLUCCI,start_answer
+308,944,34,1,Yes.,a,THE WITNESS,start_question
+309,945,34,2,What about things like replacing filters?,q,MS. VELLUCCI,start_answer
+310,947,34,4,Yes.,a,THE WITNESS,start_question
+311,948,34,5,Did you replace headlights and batteries and things like that?,q,MS. VELLUCCI,start_answer
+312,950,34,7,Yes.,a,THE WITNESS,start_question
+313,951,34,8,Okay.  Did you replace spark plugs?,q,MS. VELLUCCI,start_answer
+314,952,34,9,Yes.,a,THE WITNESS,start_question
+315,953,34,10,Did you do any radiator work?,q,MS. VELLUCCI,start_answer
+316,954,34,11,Yes.,a,THE WITNESS,start_question
+317,955,34,12,"What about inspections, did this gas station offer inspections?",q,MS. VELLUCCI,start_answer
+318,957,34,14,I don't know.  I don't recall.,a,THE WITNESS,start_question
+319,958,34,15,"In your shift -- -- strike that. When I asked you before the hours you kept, I know that was kind of a difficult thing to remember.  Do you know how many hours you would work in a given shift?",q,MS. VELLUCCI,start_answer
+320,963,34,20,I know I worked a lot of hours.,a,THE WITNESS,start_question
+321,964,34,21,Okay.  Do you know how much you were paid hourly?,q,MS. VELLUCCI,start_answer
+322,966,34,23,"I believe it was minimum wage, $1.65.",a,THE WITNESS,start_question
+323,967,34,24,And were you paid every week?,q,MS. VELLUCCI,start_answer
+324,969,35,1,"Yes.  I do recall between my various jobs, I worked 70 hours a week at times.  I'm sorry.  When school was out, I worked 70 hours a week.",a,THE WITNESS,start_question
+325,973,35,5,"During the school year, if we're thinking about a given week during the school year, do you know about how many hours you would have worked at this gas station?",q,MS. VELLUCCI,start_answer
+326,977,35,9,It would just be a guess.,a,THE WITNESS,start_question
+327,978,35,10,And I don't want you to guess.,q,MS. VELLUCCI,start_answer
+328,979,35,11,"Yeah, I don't know.",a,THE WITNESS,start_question
+329,980,35,12,"But would it have been from the time you got out of school or thereabouts until the time the garage closed, which you said was around 10 p.m.?",q,MS. VELLUCCI,start_answer
+330,984,35,16,"Yeah, whenever I got there until 10 p.m.",a,THE WITNESS,start_question
+331,986,35,18,Okay.  That's helpful.,q,MS. VELLUCCI,start_answer
+332,987,35,19,"Of course, weekends would be different, of course.",a,THE WITNESS,start_question
+333,989,35,21,What time was the garage open on the weekends?,q,MS. VELLUCCI,start_answer
+334,991,35,23,In the morning.,a,THE WITNESS,start_question
+335,992,35,24,"Was that Saturday and Sunday or just Saturday, if you remember?",q,MS. VELLUCCI,start_answer
+336,995,36,2,I don't recall.,a,THE WITNESS,start_question
+337,996,36,3,Okay.,q,MS. VELLUCCI,is brackets
+338,997,36,4,"(Off the record, 10:26 a.m.)",brackets,,is brackets
+339,998,36,5,"(Back on the record, 10:26 a.m.)",brackets,,start_question
+340,999,36,6,Did you participate in any after-school activities when you were in high school?,q,MS. VELLUCCI,start_answer
+341,1002,36,9,No.,a,THE WITNESS,start_question
+342,1003,36,10,So no sports or clubs or anything like that?,q,MS. VELLUCCI,start_answer
+343,1005,36,12,No.,a,THE WITNESS,start_question
+344,1006,36,13,Were you a good student?,q,MS. VELLUCCI,start_answer
+345,1007,36,14,No.,a,THE WITNESS,start_question
+346,1008,36,15,Did you do homework?,q,MS. VELLUCCI,start_answer
+347,1009,36,16,Rarely.,a,THE WITNESS,start_question
+348,1010,36,17,"Okay.  So if you were to do homework, when would you do that?",q,MS. VELLUCCI,start_answer
+349,1012,36,19,In school.,a,THE WITNESS,start_question
+350,1013,36,20,So you wouldn't do that at home after school or on the weekends?,q,MS. VELLUCCI,start_answer
+351,1015,36,22,Probably not.,a,THE WITNESS,start_question
+352,1016,36,23,"Okay.  How did you get to this gas station?  Were you old enough to drive at that point, the Argo gas station?",q,MS. VELLUCCI,start_answer
+353,1020,37,2,"I would have gotten rides.  I was old enough to drive, but I didn't have a car.",a,THE WITNESS,start_question
+354,1022,37,4,How old were you when you first got a car?,q,MS. VELLUCCI,start_answer
+355,1024,37,6,Close to 17.,a,THE WITNESS,start_question
+356,1025,37,7,"And who would give you rides, your parents or friends?",q,MS. VELLUCCI,start_answer
+357,1027,37,9,Sister.,a,THE WITNESS,start_question
+358,1028,37,10,And she was older than you?,q,MS. VELLUCCI,start_answer
+359,1029,37,11,Yes.,a,THE WITNESS,start_question
+360,1030,37,12,"This garage, did it do work on passenger vehicles?  And by that I mean cars, light trucks?",q,MS. VELLUCCI,start_answer
+361,1033,37,15,Yes.,a,THE WITNESS,start_question
+362,1034,37,16,No heavy equipment or heavy-duty trucks?,q,MS. VELLUCCI,start_answer
+363,1036,37,18,No.,a,THE WITNESS,start_question
+364,1037,37,19,"Was the work done on domestic vehicles, foreign vehicles, or both?",q,MS. VELLUCCI,start_answer
+365,1039,37,21,I can recall domestic vehicles.,a,THE WITNESS,start_question
+366,1040,37,22,Okay.  And do you recall specifically any makes of vehicles that you either did work on or you assisted in doing work on?,q,MS. VELLUCCI,start_answer
+367,1044,38,1,"All makes, American cars.",a,THE WITNESS,start_question
+368,1045,38,2,Okay.  So Chevys?,q,MS. VELLUCCI,start_answer
+369,1046,38,3,"Chevys, Fords, Dodge, Chrysler, Plymouth.",a,THE WITNESS,start_question
+370,1048,38,5,"All right.  Were you ever -- was it ever the case that during your shift you would participate in a brake job from start to finish, or were you there kind of pitching in and helping at whatever stage it was in when you arrived?",q,MS. VELLUCCI,start_answer
+371,1054,38,11,"Mr. Bruschino taught me how to do them, so I would go through -- several times I recall going through right there with him step by step and him instructing me how to do them.",a,THE WITNESS,start_question
+372,1058,38,15,Do you recall how many times that you were alongside him assisting or being instructed on how to do a brake job?,q,MS. VELLUCCI,start_answer
+373,1061,38,18,"Many.  I don't recall.  I mean, more than five.",a,THE WITNESS,start_question
+374,1063,38,20,"Okay.  Was it more than five, less than ten?",q,MS. VELLUCCI,start_answer
+375,1065,38,22,Maybe more than ten.,a,THE WITNESS,start_question
+376,1066,38,23,Okay.  Was it less than 15?,q,MS. VELLUCCI,start_answer
+377,1067,38,24,Maybe less than 15.,a,THE WITNESS,start_question
+378,1069,39,1,Okay.  And you never did a brake job on your own there; is that true?,q,MS. VELLUCCI,start_answer
+379,1071,39,3,"Yeah, I did.",a,THE WITNESS,start_question
+380,1072,39,4,You did?,q,MS. VELLUCCI,start_answer
+381,1073,39,5,I learned how to do them.,a,THE WITNESS,start_question
+382,1074,39,6,How many brake jobs do you recall doing on your own?,q,MS. VELLUCCI,start_answer
+383,1076,39,8,"Most of them would be on, like, my own stuff, my own car, you know, my mother's car, my sister's car.",a,THE WITNESS,start_question
+384,1079,39,11,Did you ever do brake work on customers' cars at this gas station?,q,MS. VELLUCCI,start_answer
+385,1081,39,13,"Complete by myself, no.",a,THE WITNESS,start_question
+386,1082,39,14,"Okay.  When you were assisting and learning how to do a brake job, what was your role?  In other words, were you actively doing anything, or were you kind of passively watching and maybe handing tools?",q,MS. VELLUCCI,start_answer
+387,1087,39,19,"Well, he would instruct me, and I did what he told me to do.",a,THE WITNESS,start_question
+388,1089,39,21,So you had some hands-on?,q,MS. VELLUCCI,start_answer
+389,1090,39,22,"Yeah, all hands-on.",a,THE WITNESS,start_question
+390,1091,39,23,"Were these drum brake jobs, disc brake jobs, or both while you were at that gas station?",q,MS. VELLUCCI,start_answer
+391,1095,40,2,"I wasn't very good at the discs.  Disc was new, so it was mostly drums.  Discs was a brand-new thing.",a,THE WITNESS,start_question
+392,1098,40,5,"When you were assisting with brake jobs, were you doing all four wheels or just two?",q,MS. VELLUCCI,start_answer
+393,1101,40,8,"Back then you had rear drums and front discs, so mostly the drums.",a,THE WITNESS,start_question
+394,1103,40,10,Okay.  So two in the rear of the vehicle?,q,MS. VELLUCCI,start_answer
+395,1105,40,12,Yeah.,a,THE WITNESS,start_question
+396,1106,40,13,"Okay.  If I asked you to describe how you went about doing a drum brake job or how you assisted, could you describe the steps for me?",q,MS. VELLUCCI,start_answer
+397,1110,40,17,Now?,a,THE WITNESS,start_question
+398,1111,40,18,Yes.,q,MS. VELLUCCI,start_answer
+399,1112,40,19,No.,a,THE WITNESS,start_question
+400,1113,40,20,Could you tell me anything that you remember doing when you were doing a drum brake job?,q,MS. VELLUCCI,start_answer
+401,1116,40,23,"Yeah.  I mean, you had to take these retainers off, these springs.  You had different tools that you'd put on the retainer. You turn your tool.  And whatever it was called that held the part on came off.  You pulled the drums off.  You loosened the cable up from the emergency brake, and then we used to spray it with an air hose.",a,THE WITNESS,start_question
+402,1125,41,7,Was there an air hose at this gas station?,q,MS. VELLUCCI,start_answer
+403,1127,41,9,Yes.,a,THE WITNESS,start_question
+404,1128,41,10,And did you actually use the air hose when you were doing this?,q,MS. VELLUCCI,start_answer
+405,1130,41,12,Yes.,a,THE WITNESS,start_question
+406,1131,41,13,"And how long would you use the air hose for per wheel, if you can tell me?",q,MS. VELLUCCI,start_answer
+407,1133,41,15,Probably a matter of seconds to clear the dust away.,a,THE WITNESS,start_question
+408,1135,41,17,"So after everything was removed, what did you do next?",q,MS. VELLUCCI,start_answer
+409,1137,41,19,"Well, everything was removed and you put the new parts on.",a,THE WITNESS,start_question
+410,1139,41,21,Okay.  And did you just kind of follow the reverse of the order in which you took the parts off?,q,MS. VELLUCCI,start_answer
+411,1142,41,24,"Yeah.  Well, I used to leave one -- do one side at a time, so I can go back and look at the other side to make sure I knew what I was doing.",a,THE WITNESS,start_question
+412,1147,42,4,Okay.  Do you know approximately how long it would take to do a two-wheel drum brake job while you were at this gas station?,q,MS. VELLUCCI,start_answer
+413,1150,42,7,"No, I don't know.  It depends on how fast you wanted to work.",a,THE WITNESS,start_question
+414,1152,42,9,"Do you know how long, when you were learning and kind of doing this hands-on work with the owner, how long that would take?",q,MS. VELLUCCI,start_answer
+415,1155,42,12,No.,a,THE WITNESS,start_question
+416,1156,42,13,Was it an hour?  Was it a half hour?,q,MS. VELLUCCI,start_answer
+417,1157,42,14,"I mean, you don't want me to guess.",a,THE WITNESS,start_question
+418,1158,42,15,I don't.,q,MS. VELLUCCI,start_answer
+419,1159,42,16,I don't know.  It wasn't two hours.,a,THE WITNESS,start_question
+420,1160,42,17,"Okay.  The new parts that you were installing, the new brakes, were those ready to fit the vehicle in which they were being installed?",q,MS. VELLUCCI,start_answer
+421,1164,42,21,"Yeah, you ordered them to fit the vehicle.",a,THE WITNESS,start_question
+422,1166,42,23,"Okay.  And so when they were ordered, they were ordered for that particular make, model, year of car, right?",q,MS. VELLUCCI,start_answer
+423,1170,43,2,Right.,a,THE WITNESS,start_question
+424,1171,43,3,And did they fit?,q,MS. VELLUCCI,start_answer
+425,1172,43,4,"If they didn't, you got the right ones.  You had to change them.",a,THE WITNESS,start_question
+426,1174,43,6,"So if they didn't fit, you'd exchange them for a new set of brakes?",q,MS. VELLUCCI,start_answer
+427,1176,43,8,Correct.,a,THE WITNESS,start_question
+428,1177,43,9,Did you have to do anything to the new brake in order to install it?,q,MS. VELLUCCI,start_answer
+429,1179,43,11,Not that I recall.,a,THE WITNESS,start_question
+430,1180,43,12,"Okay.  For any of the vehicles that you worked on or assisted working on at this gas station, would you know the car's prior maintenance history or repair history before you worked on it?",q,MS. VELLUCCI,start_answer
+431,1185,43,17,Probably not.,a,THE WITNESS,start_question
+432,1186,43,18,Would you know the brand of any brake that you removed or that the owner removed in your presence from a vehicle at this gas station?,q,MS. VELLUCCI,start_answer
+433,1190,43,22,I recall brands that we used to use.,a,THE WITNESS,start_question
+434,1191,43,23,That you installed?,q,MS. VELLUCCI,start_answer
+435,1192,43,24,Yeah.,a,THE WITNESS,start_question
+436,1194,44,1,Do you know the brands of any of the brakes that were removed?,q,MS. VELLUCCI,start_answer
+437,1196,44,3,No.,a,THE WITNESS,start_question
+438,1197,44,4,"Okay.  And you said you would know the brands or at least some of the brands that were installed, right?",q,MS. VELLUCCI,start_answer
+439,1200,44,7,Yeah.,a,THE WITNESS,start_question
+440,1201,44,8,Okay.  Who ordered replacement parts?,q,MS. VELLUCCI,start_answer
+441,1202,44,9,Could have been me.,a,THE WITNESS,start_question
+442,1203,44,10,Do you remember ordering replacement parts there?,q,MS. VELLUCCI,start_answer
+443,1205,44,12,No.,a,THE WITNESS,start_question
+444,1206,44,13,Okay.  Did you ever have to go pick up replacement parts?,q,MS. VELLUCCI,start_answer
+445,1208,44,15,I don't recall.,a,THE WITNESS,start_question
+446,1209,44,16,"You said you didn't have your license then, so you probably didn't.",q,MS. VELLUCCI,start_answer
+447,1211,44,18,I did.  I didn't have a car.,a,THE WITNESS,start_question
+448,1212,44,19,"Okay.  Do you remember going to pick up parts while you were at this gas station, going to any particular store?",q,MS. VELLUCCI,start_answer
+449,1215,44,22,"Yeah, I mean -- I can't be specific about where I was working or doing at the time that I went to any particular parts store.",a,THE WITNESS,start_question
+450,1219,45,1,Just so I understand what you're saying.  Is it that you remember getting parts from certain stores?,q,MS. VELLUCCI,start_answer
+451,1222,45,4,Sure.,a,THE WITNESS,start_question
+452,1223,45,5,But you just don't know which stores you went to for this job?,q,MS. VELLUCCI,start_answer
+453,1225,45,7,Correct.,a,THE WITNESS,start_question
+454,1226,45,8,"Can you tell me, in general, which stores you recalled going to -- and I'm not asking yet about work on your own vehicles.  I mean work done at this gas station or any other gas station, and we'll talk more about the others in a bit.",q,MS. VELLUCCI,start_answer
+455,1232,45,14,"Some of the stores we used was NAPA in Plantsville.  We used Southington Auto Parts. We used Newington Auto Parts.  I believe we also -- I'm trying to think if we used Western Auto or not.  I don't recall Western Auto right now, but we used whatever there was.  We'd call around, get a price, and some places delivered. Others we had to pick up.",a,THE WITNESS,start_question
+456,1240,45,22,"Okay.  Let me ask you a couple questions then about those stores that you listed.  And just to be clear, these are the three stores, NAPA in Plantsville, Southington Auto Parts, and Newington Auto Parts are parts stores that you recalled getting auto parts from at the various different gas stations where you worked, and we're only talking about one right now?",q,MS. VELLUCCI,start_answer
+457,1250,46,7,Also Weiner's in New Britain.,a,THE WITNESS,start_question
+458,1251,46,8,Okay.  So that's four?,q,MS. VELLUCCI,start_answer
+459,1252,46,9,They did the engine work.,a,THE WITNESS,start_question
+460,1253,46,10,Did you get parts from Weiner's as well?,q,MS. VELLUCCI,start_answer
+461,1255,46,12,Yes.,a,THE WITNESS,start_question
+462,1256,46,13,You said NAPA was in Plantsville?,q,MS. VELLUCCI,start_answer
+463,1257,46,14,Yes.,a,THE WITNESS,start_question
+464,1258,46,15,Can you tell me where that store was located?,q,MS. VELLUCCI,start_answer
+465,1260,46,17,I believe it's called Main Street where it is -- where it was or is.,a,THE WITNESS,start_question
+466,1262,46,19,"And do you recall the full name of that store, or did you just know it as NAPA?",q,MS. VELLUCCI,start_answer
+467,1264,46,21,"NAPA Auto Parts or Plantsville Auto Parts.  If I'm not mistaken, it's Plantsville Auto Parts and NAPA would have been the franchise on it, but I could be wrong.  I think that's how they do that.",a,THE WITNESS,start_question
+468,1270,47,2,Do you recall seeing a sign either on the building or in the window or something like that in the store?,q,MS. VELLUCCI,start_answer
+469,1273,47,5,I've got a 50-year-old memory.,a,THE WITNESS,start_question
+470,1274,47,6,Do you have a memory of what the sign looked like?,q,MS. VELLUCCI,start_answer
+471,1276,47,8,"I could see ""NAPA.""  I could see N-A-P-A.",a,THE WITNESS,start_question
+472,1278,47,10,"And you obviously saw ""Plantsville Auto Parts"" somewhere on the building?",q,MS. VELLUCCI,start_answer
+473,1280,47,12,"I believe so.  I'm not sure on that, but I knew it as that.  I knew it as Plantsville Auto Parts, and I knew it as a NAPA store.",a,THE WITNESS,start_question
+474,1284,47,16,Was that store affiliated with NAPA at least during the time that you were going there for parts or using parts from that store?,q,MS. VELLUCCI,start_answer
+475,1287,47,19,Was it affiliated with NAPA?,a,THE WITNESS,start_question
+476,1288,47,20,For the entire time that you went there?,q,MS. VELLUCCI,start_answer
+477,1290,47,22,I don't know.,a,THE WITNESS,start_question
+478,1291,47,23,"Okay.  Do you recall the name of the owner of that store, by any chance?",q,MS. VELLUCCI,start_answer
+479,1294,48,1,No.,a,THE WITNESS,start_question
+480,1295,48,2,What about any employees?,q,MS. VELLUCCI,start_answer
+481,1296,48,3,No.,a,THE WITNESS,start_question
+482,1297,48,4,"Do you know whether this gas station, Argo, had an account there?",q,MS. VELLUCCI,start_answer
+483,1299,48,6,I don't know.,a,THE WITNESS,start_question
+484,1300,48,7,Do you know if they delivered parts or if the parts were picked up?,q,MS. VELLUCCI,start_answer
+485,1302,48,9,I don't recall.,a,THE WITNESS,start_question
+486,1303,48,10,Okay.  You also mentioned Southington Auto Parts.  Where was that store located?,q,MS. VELLUCCI,start_answer
+487,1305,48,12,That was on Route 10.,a,THE WITNESS,start_question
+488,1306,48,13,And do you know the owner or employees at that store?,q,MS. VELLUCCI,start_answer
+489,1308,48,15,No.,a,THE WITNESS,start_question
+490,1309,48,16,"Do you know if this gas station, the Argo gas station, had an account there?",q,MS. VELLUCCI,start_answer
+491,1311,48,18,No.  I don't know.,a,THE WITNESS,start_question
+492,1312,48,19,And do you know whether they delivered or whether parts were picked up?,q,MS. VELLUCCI,start_answer
+493,1314,48,21,I don't know.,a,THE WITNESS,start_question
+494,1315,48,22,I'm going to ask you the same questions about Newington Auto Parts.  Where was that located?,q,MS. VELLUCCI,start_answer
+495,1319,49,1,"In Newington, Cedar Street.  That, we picked up.",a,THE WITNESS,start_question
+496,1321,49,3,And do you recall the name of the owner or any employees at that store?,q,MS. VELLUCCI,start_answer
+497,1323,49,5,I remember a kid named Jeff.  I believe it was Jeff.  I don't know.,a,THE WITNESS,start_question
+498,1325,49,7,That's okay.,q,MS. VELLUCCI,start_answer
+499,1326,49,8,"I'm just throwing it out there to see if it sticks, I guess.",a,THE WITNESS,start_question
+500,1328,49,10,"And what about Weiner's, you said that was in New Britain?",q,MS. VELLUCCI,start_answer
+501,1330,49,12,Yeah.,a,THE WITNESS,start_question
+502,1331,49,13,Where in New Britain?,q,MS. VELLUCCI,start_answer
+503,1332,49,14,Where in New Britain?,a,THE WITNESS,start_question
+504,1333,49,15,Yes.,q,MS. VELLUCCI,start_answer
+505,1334,49,16,I'm not sure the name of the street.,a,THE WITNESS,start_question
+506,1335,49,17,And you said that you had some engine work done there.  Would you send engines there to be rebuilt?,q,MS. VELLUCCI,start_answer
+507,1338,49,20,"Partial engines, blocks, heads.  That was more of an industrial -- more of a commercial operation, I should say, where you could bring an engine and they'll rebuild it for you or buy a short block or buy -- so if you had bad valves on a motor, you took the heads off, you sent them.  They redid the head, charged you whatever, and you slapped it back on the engine.",a,THE WITNESS,start_question
+508,1348,50,5,"Do you recall whether the gas station ever purchased anything else from that store; in other words, other than --",q,MS. VELLUCCI,start_answer
+509,1351,50,8,"Well, you've got your gaskets and everything else that went with whatever operation you were doing.",a,THE WITNESS,start_question
+510,1354,50,11,Did the gaskets come in kits?  Were they loose?,q,MS. VELLUCCI,start_answer
+511,1356,50,13,Both.,a,THE WITNESS,start_question
+512,1357,50,14,Were they all precut?,q,MS. VELLUCCI,start_answer
+513,1358,50,15,Yes.,a,THE WITNESS,start_question
+514,1359,50,16,Do you recall the brand of any gaskets that were purchased from Weiner's in New Britain?,q,MS. VELLUCCI,start_answer
+515,1362,50,19,No.,a,THE WITNESS,start_question
+516,1363,50,20,"All right.  I want to go back to -- before I asked you about where you recalled the gas station getting parts, we were talking about brake work at Argo, and I wanted to ask you if you recall the brands of any brakes that you installed or were installed in your presence at Argo?",q,MS. VELLUCCI,start_answer
+517,1371,51,3,"Yes.  Now, I can't remember right now.",a,THE WITNESS,start_question
+518,1372,51,4,Okay.,q,MS. VELLUCCI,start_answer
+519,1373,51,5,I'm trying to remember.  Give me a second.,a,THE WITNESS,start_question
+520,1375,51,7,Sure.,q,MS. VELLUCCI,start_answer
+521,1376,51,8,Because we used them all the time.  It was -- wow.  Chemo brain.,a,THE WITNESS,start_question
+522,1378,51,10,Let me ask you some questions that might help refresh your memory.,q,MS. VELLUCCI,start_answer
+523,1380,51,12,Well --,a,THE WITNESS,start_question
+524,1381,51,13,Go ahead.,q,MS. VELLUCCI,start_answer
+525,1382,51,14,I can't remember.,a,THE WITNESS,start_question
+526,1383,51,15,Do you recall using any Raybestos brakes?,q,MS. VELLUCCI,start_answer
+527,1385,51,17,Yes.,a,THE WITNESS,start_question
+528,1386,51,18,Okay.  Was that a brand of brake that you --,q,MS. VELLUCCI,start_answer
+529,1388,51,20,Yes.,a,THE WITNESS,start_question
+530,1389,51,21,-- worked with at that gas station?,q,MS. VELLUCCI,start_answer
+531,1390,51,22,Yes.,a,THE WITNESS,start_question
+532,1391,51,23,And that's a brand of brake that you installed on vehicles?,q,MS. VELLUCCI,start_answer
+533,1394,52,1,Yes.,a,THE WITNESS,start_question
+534,1395,52,2,Do you know if you ever removed them from vehicles?,q,MS. VELLUCCI,start_answer
+535,1397,52,4,Yes.,a,THE WITNESS,start_question
+536,1398,52,5,Would you --,q,MS. VELLUCCI,start_answer
+537,1399,52,6,"Well, I took brakes off vehicles and put those brakes on vehicles.",a,THE WITNESS,start_question
+538,1401,52,8,So is it your memory that you would remove brakes you had previously installed; is that your testimony?,q,MS. VELLUCCI,start_answer
+539,1404,52,11,No.,a,THE WITNESS,start_question
+540,1405,52,12,Okay.  Then I think earlier you had said that you might not remember the brakes that you removed from vehicles; is that your testimony?,q,MS. VELLUCCI,start_answer
+541,1409,52,16,Right.,a,THE WITNESS,start_question
+542,1410,52,17,"Okay.  Do you recall the word ""Raybestos"" appearing on the packaging the brakes came in?",q,MS. VELLUCCI,start_answer
+543,1413,52,20,Yes.,a,THE WITNESS,start_question
+544,1414,52,21,And --,q,MS. VELLUCCI,start_answer
+545,1415,52,22,There was one other name also.  I can't recall right now.,a,THE WITNESS,start_question
+546,1417,52,24,Another name on the box or another brand?,q,MS. VELLUCCI,start_answer
+547,1420,53,2,Another brand.,a,THE WITNESS,start_question
+548,1421,53,3,Okay.  Do you recall ever installing General Motors-branded brakes?,q,MS. VELLUCCI,start_answer
+549,1423,53,5,"Yes, GM parts we used to buy, too.",a,THE WITNESS,start_question
+550,1424,53,6,And would you get those parts from a dealership?,q,MS. VELLUCCI,start_answer
+551,1426,53,8,Not necessarily.  GM Delco.,a,THE WITNESS,start_question
+552,1427,53,9,Where did you get the GM brakes?,q,MS. VELLUCCI,start_answer
+553,1428,53,10,"I don't recall, but not necessarily from a dealer.  I don't know.  I don't recall if you had to get them from a dealer or not.",a,THE WITNESS,start_question
+554,1431,53,13,Okay.  And would General Motors appear on the packaging that the brakes came in?,q,MS. VELLUCCI,start_answer
+555,1433,53,15,"I believe it says ""GM Delco.""  I think GM Delco was the line.",a,THE WITNESS,start_question
+556,1435,53,17,"Okay.  What about Wagner brakes, is that a brand that you recall installing?",q,MS. VELLUCCI,start_answer
+557,1437,53,19,"Yes, I recall Wagner.",a,THE WITNESS,start_question
+558,1438,53,20,And you installed those brakes while you were at this gas station?,q,MS. VELLUCCI,start_answer
+559,1440,53,22,I might have.  I recall Wagner brakes.,a,THE WITNESS,start_question
+560,1441,53,23,"Okay.  And would you see the name ""Wagner"" on the packaging that the brakes came in?",q,MS. VELLUCCI,start_answer
+561,1445,54,2,Yes.,a,THE WITNESS,start_question
+562,1446,54,3,"What about Mopar, do you recall installing any Mopar brakes?",q,MS. VELLUCCI,start_answer
+563,1448,54,5,I recall Mopar parts but not specifically brakes.,a,THE WITNESS,start_question
+564,1450,54,7,"Okay.  What about Johns-Manville brakes, do you recall installing any Johns-Manville brakes?",q,MS. VELLUCCI,start_answer
+565,1453,54,10,No.,a,THE WITNESS,start_question
+566,1454,54,11,Do you recall installing any H.K. Porter brakes?,q,MS. VELLUCCI,start_answer
+567,1456,54,13,No.,a,THE WITNESS,start_question
+568,1457,54,14,Do you recall installing any Raytech brakes?,q,MS. VELLUCCI,start_answer
+569,1459,54,16,I recall the brand.  I don't recall if I ever installed them though.,a,THE WITNESS,start_question
+570,1461,54,18,Okay.  Are there any other brands of brakes that you can recall sitting here right now installing while you were at this Argo gas station?,q,MS. VELLUCCI,start_answer
+571,1465,54,22,No.,a,THE WITNESS,start_question
+572,1466,54,23,"And if something else comes to mind, just let me know.  Okay?",q,MS. VELLUCCI,start_answer
+573,1469,55,1,Yes.,a,THE WITNESS,start_question
+574,1470,55,2,Do you know which brands of brakes you got from which store?  Is that possible for you to do?,q,MS. VELLUCCI,start_answer
+575,1473,55,5,"No, I don't.",a,THE WITNESS,start_question
+576,1474,55,6,"Okay.  The brands that you did work with, and I can list them again that you recalled were Raybestos, the GM Delco, and Wagner, do you think you used those brakes about equally, or is there one brand you think you used more than the other at this gas station?",q,MS. VELLUCCI,start_answer
+577,1481,55,13,I don't recall.,a,THE WITNESS,start_question
+578,1482,55,14,"Okay.  The brakes that you installed, the linings, were they already attached to the shoe?",q,MS. VELLUCCI,start_answer
+579,1485,55,17,Yes.,a,THE WITNESS,start_question
+580,1486,55,18,"And do you know if they were bonded or riveted, or did you see them come both ways?",q,MS. VELLUCCI,start_answer
+581,1488,55,20,I remember both bonded and riveted.,a,THE WITNESS,start_question
+582,1489,55,21,"Going quickly back to the NAPA store that you mentioned earlier, do you have a memory of purchasing replacement brakes or working with replacement brakes that came from that NAPA store at this gas station?",q,MS. VELLUCCI,start_answer
+583,1495,56,2,"A specific memory, no.",a,THE WITNESS,start_question
+584,1496,56,3,"Okay.  Let me just look at something very quickly.  All right.  You mentioned doing some engine work, I believe --",q,MS. VELLUCCI,start_answer
+585,1499,56,6,Yes.,a,THE WITNESS,start_question
+586,1500,56,7,-- at Argo; is that right?,q,MS. VELLUCCI,start_answer
+587,1501,56,8,"Miss, I worked at different gas stations.",a,THE WITNESS,start_question
+588,1503,56,10,I know.,q,MS. VELLUCCI,start_answer
+589,1504,56,11,This Argo station was not a long period of time.,a,THE WITNESS,start_question
+590,1506,56,13,"Do you know how long you worked there for, how many months?",q,MS. VELLUCCI,start_answer
+591,1508,56,15,"It went out of business, so I was probably only there for less than six months, then I went on to other gas stations on the same street.",a,THE WITNESS,start_question
+592,1512,56,19,Yes.,q,MS. VELLUCCI,start_answer
+593,1513,56,20,"So you're -- you know, you're tied into this one thing here.  It's very difficult for me to say if it's even the same place, the way you're asking the questions, you know.",a,THE WITNESS,start_question
+594,1517,56,24,"So it seems like it's easier for you to talk generally about the work you did at the various gas stations, and it's harder to kind of separate them out; is that what you're saying?",q,MS. VELLUCCI,start_answer
+595,1523,57,5,Of course.  You're talking 50 years ago.,a,THE WITNESS,start_question
+596,1525,57,7,Let me ask you just a couple more questions about this gas station and we'll move on to the other ones.  Okay?,q,MS. VELLUCCI,start_answer
+597,1528,57,10,Sure.,a,THE WITNESS,start_question
+598,1529,57,11,And it may be that it will be a lot faster since I've already asked you a lot of questions on this one.  Okay?,q,MS. VELLUCCI,start_answer
+599,1532,57,14,Sure.,a,THE WITNESS,start_question
+600,1533,57,15,"And I'll go back to the question right before we had that exchange.  Do you remember at this gas station, Argo, doing engine work, or you just don't know?",q,MS. VELLUCCI,start_answer
+601,1537,57,19,We did engine work there.  We had a motor we rebuilt.,a,THE WITNESS,start_question
+602,1539,57,21,Is there one motor that you have in mind that you rebuilt at this gas station?,q,MS. VELLUCCI,start_answer
+603,1541,57,23,"Yeah, it was a 427 Chevy that we rebuilt because we were going to stick it in my Impala, vroom, vroom.",a,THE WITNESS,start_question
+604,1545,58,2,"Did you do that work yourself, or were you kind of learning?",q,MS. VELLUCCI,start_answer
+605,1547,58,4,With Patsy.,a,THE WITNESS,start_question
+606,1548,58,5,Let me just ask you a couple quick questions about that engine rebuild.  Do you recall working with gaskets when you did that work?,q,MS. VELLUCCI,start_answer
+607,1552,58,9,Yes.,a,THE WITNESS,start_question
+608,1553,58,10,Do you recall removing gaskets?,q,MS. VELLUCCI,start_answer
+609,1554,58,11,Yes.,a,THE WITNESS,start_question
+610,1555,58,12,Do you know the brand of gaskets you removed?,q,MS. VELLUCCI,start_answer
+611,1557,58,14,Jeez --,a,THE WITNESS,start_question
+612,1558,58,15,Was there any way to tell the brand that you were removing?,q,MS. VELLUCCI,start_answer
+613,1560,58,17,"Well, when you're taking off a motor probably, maybe sometimes they were stamped in there with the name of the company, but I should know this, but I don't.",a,THE WITNESS,start_question
+614,1564,58,21,Did you install new gaskets?,q,MS. VELLUCCI,start_answer
+615,1565,58,22,Yes.,a,THE WITNESS,start_question
+616,1566,58,23,Were they precut?,q,MS. VELLUCCI,start_answer
+617,1567,58,24,"Normally, I would think.  That's how gaskets came.  You got kits.",a,THE WITNESS,start_question
+618,1570,59,2,Do you recall the brand of the kit or the brand of the gaskets?,q,MS. VELLUCCI,start_answer
+619,1572,59,4,"No.  When you bought a -- if you were doing the top half of a motor, you got a top half of the motor gasket kit, and it had various gaskets for whatever you needed, you know, a head gasket, thermostat gasket, you know, water pipe gasket -- I mean, water pump gasket, whatever you needed came in the package.  You ripped it open, threw the stuff together.",a,THE WITNESS,start_question
+620,1581,59,13,"And that's generally how -- that was your experience, generally?",q,MS. VELLUCCI,start_answer
+621,1583,59,15,"Yeah, you did it with care.",a,THE WITNESS,start_question
+622,1584,59,16,"So let's talk about the next gas station that you worked at.  You said that you were at this one for less than six months and then it closed down or went out of business, right?",q,MS. VELLUCCI,start_answer
+623,1589,59,21,Yeah.,a,THE WITNESS,start_question
+624,1590,59,22,And then where did you go?,q,MS. VELLUCCI,start_answer
+625,1591,59,23,Right up the street to his uncle's gas station.,a,THE WITNESS,start_question
+626,1594,60,1,Was that the Amoco station?,q,MS. VELLUCCI,start_answer
+627,1595,60,2,Correct.,a,THE WITNESS,start_question
+628,1596,60,3,And that was also on West Street in Southington?,q,MS. VELLUCCI,start_answer
+629,1598,60,5,Correct.,a,THE WITNESS,start_question
+630,1599,60,6,How long did you work there?,q,MS. VELLUCCI,start_answer
+631,1600,60,7,I'm guessing a couple years.  You got my tax return; you'll be able to tell.,a,THE WITNESS,start_question
+632,1602,60,9,Okay.  So you were paid by check?,q,MS. VELLUCCI,start_answer
+633,1603,60,10,Either check or cash.,a,THE WITNESS,start_question
+634,1604,60,11,Do you recall --,q,MS. VELLUCCI,start_answer
+635,1605,60,12,"I was on the books, I mean, you know.",a,THE WITNESS,start_question
+636,1606,60,13,Were you making minimum wage there as well?,q,MS. VELLUCCI,start_answer
+637,1608,60,15,Don't recall.,a,THE WITNESS,start_question
+638,1609,60,16,And you said it was his uncle.  That's Patsy's uncle?,q,MS. VELLUCCI,start_answer
+639,1611,60,18,Yeah.,a,THE WITNESS,start_question
+640,1612,60,19,What's his name?,q,MS. VELLUCCI,start_answer
+641,1613,60,20,His name was Pasquale Pagano.,a,THE WITNESS,start_question
+642,1614,60,21,And he's deceased?,q,MS. VELLUCCI,start_answer
+643,1615,60,22,Correct.,a,THE WITNESS,start_question
+644,1616,60,23,"And the owner of the Argo gas station, is he still alive?",q,MS. VELLUCCI,start_answer
+645,1619,61,1,Yes.,a,THE WITNESS,start_question
+646,1620,61,2,And is he in the Southington area?,q,MS. VELLUCCI,start_answer
+647,1621,61,3,"Yes, Berlin.",a,THE WITNESS,start_question
+648,1622,61,4,In Berlin?,q,MS. VELLUCCI,start_answer
+649,1623,61,5,Yes.,a,THE WITNESS,start_question
+650,1624,61,6,Okay.,q,MS. VELLUCCI,start_answer
+651,1625,61,7,He's still my good friend.,a,THE WITNESS,start_question
+652,1626,61,8,When is the last time you spoke to him?,q,MS. VELLUCCI,start_answer
+653,1628,61,10,Either yesterday or the day before.,a,THE WITNESS,start_question
+654,1629,61,11,Does he know that you have a lawsuit pending?,q,MS. VELLUCCI,start_answer
+655,1631,61,13,No.  I don't know what he knows.,a,THE WITNESS,start_question
+656,1632,61,14,Does he know that you're giving deposition testimony today?,q,MS. VELLUCCI,start_answer
+657,1634,61,16,No.,a,THE WITNESS,start_question
+658,1635,61,17,Did you talk to him at all about the gas station and the work that you did there?,q,MS. VELLUCCI,start_answer
+659,1637,61,19,No.,a,THE WITNESS,start_question
+660,1638,61,20,"And you said he used to be married to your sister, and then they divorced?",q,MS. VELLUCCI,start_answer
+661,1640,61,22,Correct.,a,THE WITNESS,start_question
+662,1641,61,23,"Okay.  Going back now to this Amoco station, I'm just trying to figure out -- you said you worked there a couple of years.  Was that starting in '71 then when you left the other gas station?  Does that sound like a fair estimate?",q,MS. VELLUCCI,start_answer
+663,1648,62,5,"Yeah, yes.",a,THE WITNESS,start_question
+664,1649,62,6,And how many either days a week did you work there or how many --,q,MS. VELLUCCI,is brackets
+665,1651,62,8,(Interruption.),brackets,,start_question
+666,1652,62,9,How many hours a week or days a week did you work at this gas station?,q,MS. VELLUCCI,start_answer
+667,1654,62,11,One or two days a week.,a,THE WITNESS,start_question
+668,1655,62,12,And was this after school?,q,MS. VELLUCCI,start_answer
+669,1656,62,13,Yes.,a,THE WITNESS,start_question
+670,1657,62,14,And you were part-time --,q,MS. VELLUCCI,start_answer
+671,1658,62,15,And weekends.  I worked the weekend.,a,THE WITNESS,start_question
+672,1659,62,16,Was it just Saturday or both days?,q,MS. VELLUCCI,start_answer
+673,1660,62,17,"It was either-or, or it could have been both.  Could have been both or not.",a,THE WITNESS,start_question
+674,1662,62,19,Just depended on what work was available?,q,MS. VELLUCCI,start_answer
+675,1664,62,21,"Yeah, they were open Sunday.  That place was open Sundays.",a,THE WITNESS,start_question
+676,1666,62,23,"And this was a gas station, right?",q,MS. VELLUCCI,start_answer
+677,1667,62,24,Right.,a,THE WITNESS,start_question
+678,1669,63,1,Was your primary job there pumping gas as well?,q,MS. VELLUCCI,start_answer
+679,1671,63,3,Yes.,a,THE WITNESS,start_question
+680,1672,63,4,Were there any other gas pump attendants who worked the same shift as you?,q,MS. VELLUCCI,start_answer
+681,1674,63,6,No.,a,THE WITNESS,start_question
+682,1675,63,7,"What about at the prior gas station, any other gas pump attendants?",q,MS. VELLUCCI,start_answer
+683,1677,63,9,No.,a,THE WITNESS,start_question
+684,1678,63,10,"Was Pasquale, the owner of the Amoco station, was he a mechanic?",q,MS. VELLUCCI,start_answer
+685,1680,63,12,Yes.,a,THE WITNESS,start_question
+686,1681,63,13,Were there any other mechanics there?,q,MS. VELLUCCI,start_answer
+687,1682,63,14,At times.,a,THE WITNESS,start_question
+688,1683,63,15,Do you recall any of their names?,q,MS. VELLUCCI,start_answer
+689,1684,63,16,No.,a,THE WITNESS,start_question
+690,1685,63,17,Were they part-time --,q,MS. VELLUCCI,start_answer
+691,1686,63,18,"Yes.  His nephew Pasquale, the guy that had the other gas station, worked there as a mechanic.  He was the head mechanic.",a,THE WITNESS,start_question
+692,1689,63,21,Was he there full-time?,q,MS. VELLUCCI,start_answer
+693,1690,63,22,Yes.,a,THE WITNESS,start_question
+694,1691,63,23,"So when his garage closed down, he went to work for his uncle?",q,MS. VELLUCCI,start_answer
+695,1694,64,1,Correct.,a,THE WITNESS,start_question
+696,1695,64,2,"Okay.  Can you describe that station, how it looked?",q,MS. VELLUCCI,start_answer
+697,1697,64,4,"Single floor, three-bay garage, office on the right side on the corner of the 84 off-ramp and West Street.",a,THE WITNESS,start_question
+698,1700,64,7,Is it still there today?,q,MS. VELLUCCI,start_answer
+699,1701,64,8,Yes.,a,THE WITNESS,start_question
+700,1702,64,9,It's still a gas station of some form today?,q,MS. VELLUCCI,start_answer
+701,1704,64,11,"Yes, I believe it's a gas station still.",a,THE WITNESS,start_question
+702,1706,64,13,"Okay.  The three bays, did they have lifts?",q,MS. VELLUCCI,start_answer
+703,1708,64,15,Yes.,a,THE WITNESS,start_question
+704,1709,64,16,And can you tell me the height of the ceilings at that garage?,q,MS. VELLUCCI,start_answer
+705,1711,64,18,"Minimum, a dozen feet.",a,THE WITNESS,start_question
+706,1712,64,19,How many gas pumps were there?,q,MS. VELLUCCI,start_answer
+707,1713,64,20,Two islands.,a,THE WITNESS,start_question
+708,1714,64,21,"Other than pumping gas, did you have any other job duties or responsibilities at this gas station?",q,MS. VELLUCCI,start_answer
+709,1717,64,24,"Whatever needed to be done, you know.",a,THE WITNESS,start_question
+710,1719,65,1,"And when you were doing whatever needed to be done, were you assisting others, or were you doing work on your own?",q,MS. VELLUCCI,start_answer
+711,1722,65,4,I could be changing a tire by myself.,a,THE WITNESS,start_question
+712,1723,65,5,Okay.  Is there any other types of jobs that you did that you would have done by yourself there other than --,q,MS. VELLUCCI,start_answer
+713,1726,65,8,"Change oil, change a wiper, change a headlight, minor mechanical stuff.",a,THE WITNESS,start_question
+714,1728,65,10,Go ahead.  I didn't know if you were finished.,q,MS. VELLUCCI,start_answer
+715,1730,65,12,(Nodding.),a,THE WITNESS,start_question
+716,1731,65,13,Did you do any mechanical work which was assisting either of the mechanics there?,q,MS. VELLUCCI,start_answer
+717,1733,65,15,I don't recall.,a,THE WITNESS,start_question
+718,1734,65,16,Did you assist in any brake work there?,q,MS. VELLUCCI,start_answer
+719,1736,65,18,"Specifically, I don't recall.",a,THE WITNESS,start_question
+720,1737,65,19,"Okay.  So at this gas station, you were primarily pumping gas and then doing those minor mechanical jobs you just identified for me?",q,MS. VELLUCCI,start_answer
+721,1741,65,23,I don't recall.,a,THE WITNESS,start_question
+722,1742,65,24,Okay.  And was this another full-service garage --,q,MS. VELLUCCI,start_answer
+723,1745,66,2,Yes.,a,THE WITNESS,start_question
+724,1746,66,3,Did they turn any work away?,q,MS. VELLUCCI,start_answer
+725,1747,66,4,Did they turn any work away?,a,THE WITNESS,start_question
+726,1748,66,5,Was there something they couldn't do that they had to send to another place?,q,MS. VELLUCCI,start_answer
+727,1750,66,7,"These places wouldn't do much, you know, heavy, heavy-duty work, general repairs, you know.",a,THE WITNESS,start_question
+728,1753,66,10,All right.  Did you work at any other gas stations?,q,MS. VELLUCCI,start_answer
+729,1755,66,12,Yes.,a,THE WITNESS,start_question
+730,1756,66,13,And what's that?,q,MS. VELLUCCI,start_answer
+731,1757,66,14,Another one up the street after I quit Mr. Pagano.,a,THE WITNESS,start_question
+732,1759,66,16,When did you quit?,q,MS. VELLUCCI,start_answer
+733,1760,66,17,I don't recall.,a,THE WITNESS,start_question
+734,1761,66,18,Why did you quit?,q,MS. VELLUCCI,start_answer
+735,1762,66,19,Because he was a thief.,a,THE WITNESS,start_question
+736,1763,66,20,Okay.  Did something happen?,q,MS. VELLUCCI,start_answer
+737,1764,66,21,Yeah.,a,THE WITNESS,start_question
+738,1765,66,22,And what was that?,q,MS. VELLUCCI,start_answer
+739,1766,66,23,"Me and my brother-in-law went to get our W-2 forms, and I knew how much money I made, like 1,700 dollars or something over the year, and my W-2 form said I made like 700 dollars.",a,THE WITNESS,start_question
+740,1772,67,4,"And when you saw that, you decided you were going to stop working there?",q,MS. VELLUCCI,start_answer
+741,1774,67,6,Yeah.,a,THE WITNESS,start_question
+742,1775,67,7,Okay.,q,MS. VELLUCCI,start_answer
+743,1776,67,8,I had a few words.,a,THE WITNESS,start_question
+744,1777,67,9,"Okay.  So the next gas station that you worked at, you said, was also down the street.  What was that?  What was the name of it?",q,MS. VELLUCCI,start_answer
+745,1781,67,13,It was a Mobil station owned by Joe Palmeri.,a,THE WITNESS,start_question
+746,1783,67,15,Can you say that last name one more time?,q,MS. VELLUCCI,start_answer
+747,1785,67,17,"Joe Palmeri, P-A-L-M-E-R-I.",a,THE WITNESS,start_question
+748,1786,67,18,And was that employment part-time while you were in school?,q,MS. VELLUCCI,start_answer
+749,1788,67,20,I believe I was out of school.  I used to work Friday nights.,a,THE WITNESS,start_question
+750,1790,67,22,Did you just work Friday nights?  Was that your one shift?,q,MS. VELLUCCI,start_answer
+751,1792,67,24,I recall working Friday nights.,a,THE WITNESS,start_question
+752,1794,68,1,"Do you recall working any other evenings, nights?",q,MS. VELLUCCI,start_answer
+753,1796,68,3,"No, I don't recall.",a,THE WITNESS,start_question
+754,1797,68,4,Do you recall working there on the weekend at all?,q,MS. VELLUCCI,start_answer
+755,1799,68,6,I don't recall.,a,THE WITNESS,start_question
+756,1800,68,7,Okay.  And about how long did you work at this gas station?,q,MS. VELLUCCI,start_answer
+757,1802,68,9,"I'm going to say a year or so and I'm thinking this is, like, later on, like, 1973 or so where I was working full-time jobs and out of high school and this was just one piece that I had.",a,THE WITNESS,start_question
+758,1807,68,14,Do you recall where you were working full-time while you were working the Friday night shift at this gas station?,q,MS. VELLUCCI,start_answer
+759,1810,68,17,I believe I was working at Precision Grinding.,a,THE WITNESS,start_question
+760,1812,68,19,Okay.  Was it -- strike that. Did I ask you the name of this gas station?  I'm sorry if I did.,q,MS. VELLUCCI,start_answer
+761,1815,68,22,You asked me.,a,THE WITNESS,start_question
+762,1816,68,23,Did you tell me?,q,MS. VELLUCCI,start_chat
+763,1817,68,24,It was Mobil.,side_chat,MR. MEISENKOTHEN,start_answer
+764,1819,69,1,"Joe, Joe Palmeri.  It was a Mobil station.",a,THE WITNESS,start_question
+765,1821,69,3,"Sorry about that, all right. Was it your job at the Mobil station to pump gas?",q,MS. VELLUCCI,start_answer
+766,1824,69,6,Yes.,a,THE WITNESS,start_question
+767,1825,69,7,Did you do anything else?,q,MS. VELLUCCI,start_answer
+768,1826,69,8,Yes.,a,THE WITNESS,start_question
+769,1827,69,9,What did you do?,q,MS. VELLUCCI,start_answer
+770,1828,69,10,Whatever was needed.,a,THE WITNESS,start_question
+771,1829,69,11,And would that be the minor types of mechanical work that you mentioned before?,q,MS. VELLUCCI,start_answer
+772,1831,69,13,Yes.,a,THE WITNESS,start_question
+773,1832,69,14,Like oil changes?,q,MS. VELLUCCI,start_answer
+774,1833,69,15,Yes.,a,THE WITNESS,start_question
+775,1834,69,16,And changing headlights?,q,MS. VELLUCCI,start_answer
+776,1835,69,17,"Yes, but mostly it was pumping gas because it was a Friday night.",a,THE WITNESS,start_question
+777,1837,69,19,Were there any other employees working there when you were working your Friday night shift?,q,MS. VELLUCCI,start_answer
+778,1840,69,22,No.,a,THE WITNESS,start_question
+779,1841,69,23,Were there any mechanics working while you were working your Friday night shift?,q,MS. VELLUCCI,start_answer
+780,1844,70,1,No.,a,THE WITNESS,start_question
+781,1845,70,2,"Can you think of any other types of -- any work at all that you did other than what you've already listed for me at this gas station, or have I exhausted your memory as far as what jobs and responsibilities you had?",q,MS. VELLUCCI,start_answer
+782,1850,70,7,I can't recall.,a,THE WITNESS,start_question
+783,1851,70,8,"Okay.  For any of the brakes that you've worked with, do you recall or do you know the composition of those brakes, what they were made of?",q,MS. VELLUCCI,start_answer
+784,1855,70,12,No.,a,THE WITNESS,start_question
+785,1856,70,13,Okay.  Did you ever install a metallic brake?,q,MS. VELLUCCI,start_answer
+786,1858,70,15,Yes.,a,THE WITNESS,start_question
+787,1859,70,16,Okay.  And where was that?,q,MS. VELLUCCI,start_answer
+788,1860,70,17,Don't recall.,a,THE WITNESS,start_question
+789,1861,70,18,Do you know the brand of the metallic brake?,q,MS. VELLUCCI,start_answer
+790,1863,70,20,No.,a,THE WITNESS,start_question
+791,1864,70,21,Did you ever install any semimetallic brakes?,q,MS. VELLUCCI,start_answer
+792,1866,70,23,Yes.,a,THE WITNESS,start_question
+793,1867,70,24,"And same questions, do you know where that was?",q,MS. VELLUCCI,start_answer
+794,1870,71,2,No.,a,THE WITNESS,start_question
+795,1871,71,3,Or what brand?,q,MS. VELLUCCI,start_answer
+796,1872,71,4,No.,a,THE WITNESS,start_question
+797,1873,71,5,Did you ever install any ceramic brakes?,q,MS. VELLUCCI,start_answer
+798,1875,71,7,Yes.,a,THE WITNESS,start_question
+799,1876,71,8,And do you know where you did that?,q,MS. VELLUCCI,start_answer
+800,1877,71,9,No.,a,THE WITNESS,start_question
+801,1878,71,10,Or what brands?,q,MS. VELLUCCI,start_answer
+802,1879,71,11,No.  I know those were the three different types of stuff we used to see.,a,THE WITNESS,start_question
+803,1881,71,13,And that's at the garage at the gas station?,q,MS. VELLUCCI,start_answer
+804,1883,71,15,Yes.,a,THE WITNESS,start_question
+805,1884,71,16,Did you ever wear when you were doing work at the gas stations a mask or respirator?,q,MS. VELLUCCI,start_answer
+806,1886,71,18,When we found out that asbestos is not good for you.,a,THE WITNESS,start_question
+807,1888,71,20,When was that?,q,MS. VELLUCCI,start_answer
+808,1889,71,21,"Too late, obviously, for me.",a,THE WITNESS,start_question
+809,1890,71,22,"Do you remember when, where you were working or what decade it was?",q,MS. VELLUCCI,start_answer
+810,1892,71,24,"I recall we were doing a brake job at one of these places, and either I or someone else started spraying, and then somebody started yelling don't do that, blah, blah, blah, it's bad for you.",a,THE WITNESS,start_question
+811,1898,72,5,"What were you spraying, an air hose?",q,MS. VELLUCCI,start_answer
+812,1899,72,6,Air hose.,a,THE WITNESS,start_question
+813,1900,72,7,Do you recall which of the -- is it one of the gas stations we've talked about?,q,MS. VELLUCCI,start_answer
+814,1902,72,9,Had to have been.,a,THE WITNESS,start_question
+815,1903,72,10,Because those are the only three gas stations you worked at?,q,MS. VELLUCCI,start_answer
+816,1905,72,12,Yeah.,a,THE WITNESS,start_question
+817,1906,72,13,Did you ever work at a gas station after the Mobil station?,q,MS. VELLUCCI,start_answer
+818,1908,72,15,No.,a,THE WITNESS,start_question
+819,1909,72,16,And you said you worked at the Mobil station starting in '73.  Do you recall how long you worked there for?,q,MS. VELLUCCI,start_answer
+820,1912,72,19,"No, I don't.  It had to be less than a year, and then I started going to school again after working too many jobs.",a,THE WITNESS,start_question
+821,1915,72,22,"Would it be then that it was sometime -- if you worked at that Mobil station in '73 for less than a year, so it takes us to about '74.  Would it be that this incident that you just described for me where someone told you it was bad to spray the air hose happened in either '74 or before '74?",q,MS. VELLUCCI,start_answer
+822,1923,73,5,I'm guessing it would be prior to '74.,a,THE WITNESS,start_question
+823,1924,73,6,"It had to be, right?",q,MS. VELLUCCI,start_answer
+824,1925,73,7,Correct.,a,THE WITNESS,start_question
+825,1926,73,8,Okay.  Do you recall who it was that said that?,q,MS. VELLUCCI,start_answer
+826,1928,73,10,No.,a,THE WITNESS,start_question
+827,1929,73,11,Was it a mechanic?,q,MS. VELLUCCI,start_answer
+828,1930,73,12,Could have been Pasquale.  I don't know.,a,THE WITNESS,start_question
+829,1932,73,14,"And did you stop?  I mean, did you listen to what he said?",q,MS. VELLUCCI,start_answer
+830,1934,73,16,"Yeah, you know.  We became aware that asbestos was not good for you.  Prior to that we would just spray away.  That's how you cleaned the brakes off, you sprayed away.",a,THE WITNESS,start_question
+831,1938,73,20,Do you believe that you worked with brakes that contained asbestos?,q,MS. VELLUCCI,start_answer
+832,1940,73,22,Yes.,a,THE WITNESS,start_question
+833,1941,73,23,And how is it that you believe that some of the brakes you worked with contained asbestos?,q,MS. VELLUCCI,start_answer
+834,1945,74,2,"News media, you know.  News reports.",a,THE WITNESS,start_question
+835,1946,74,3,And that was back in the '70s?,q,MS. VELLUCCI,start_answer
+836,1947,74,4,Yes.,a,THE WITNESS,start_question
+837,1948,74,5,"Did you ever see -- kind of thinking back at the packaging and the boxes the brakes came in, did you ever see the word ""asbestos"" or any indication that the brakes contained asbestos on the boxes?",q,MS. VELLUCCI,start_answer
+838,1953,74,10,I don't recall.,a,THE WITNESS,start_question
+839,1954,74,11,"Do you have any photos, documents, or anything like that from your employment at either of those three gas stations?",q,MS. VELLUCCI,start_answer
+840,1957,74,14,I don't believe so.,a,THE WITNESS,start_question
+841,1958,74,15,"Do you know if anyone would?  In other words, would Pasquale, do you know if he would have documents or photographs from either his gas station or his uncle's?",q,MS. VELLUCCI,start_answer
+842,1962,74,19,He may.  I don't know.,a,THE WITNESS,start_question
+843,1963,74,20,All right.  I want to ask you about some personal automotive work.,q,MS. VELLUCCI,start_chat
+844,1965,74,22,"Do you want to take a break, or do you want to just keep going?",side_chat,MS. VELLUCCI,start_chat
+845,1967,74,24,"Do you want to take a short break, or are you okay?",side_chat,MR. MEISENKOTHEN,start_chat
+846,1970,75,2,I'm good.,side_chat,THE WITNESS,start_question
+847,1971,75,3,"I'm going to ask you then about personal automotive work because you kind of alluded to it at the gas stations and you talked about doing some work on your vehicles. What I'd like to get an understanding of is the types of work that you've done on your vehicles or vehicles that other people owned, friends, family members that you can specifically remember.  So why don't we talk about that -- there was one vehicle that you mentioned that you worked on at that Argo gas station.  Do you want to tell me about that?",q,MS. VELLUCCI,start_answer
+848,1983,75,15,About the motor?,a,THE WITNESS,start_question
+849,1984,75,16,And that was your vehicle with the motor?,q,MS. VELLUCCI,start_answer
+850,1986,75,18,"Yeah, I had a 1965 Super Sport.  Every penny I earned I threw in it.  We were going to put this motor in it that we got, so we rebuilt the motor and never put it in it.  Sold it so many years later.",a,THE WITNESS,start_question
+851,1991,75,23,And that was a Chevy?,q,MS. VELLUCCI,start_answer
+852,1992,75,24,That was a Chevy.,a,THE WITNESS,start_question
+853,1994,76,1,"And the vintage was '65, right?",q,MS. VELLUCCI,start_answer
+854,1995,76,2,"No, the motor was out of a '68 Corvette.",a,THE WITNESS,start_question
+855,1997,76,4,The new motor?,q,MS. VELLUCCI,start_answer
+856,1998,76,5,"Yeah.  It had damaged bearings, so we took it apart and fixed it all up.",a,THE WITNESS,start_question
+857,2000,76,7,Okay.,q,MS. VELLUCCI,start_answer
+858,2001,76,8,And crankshafts.,a,THE WITNESS,start_question
+859,2002,76,9,And that work would have been done in the early 1970s?,q,MS. VELLUCCI,start_answer
+860,2004,76,11,While I was at the Argo station.,a,THE WITNESS,start_question
+861,2005,76,12,"Okay.  And do you remember where -- I may have asked this, forgive me if I did, where you purchased any replacement gaskets that you used to do this work?",q,MS. VELLUCCI,start_answer
+862,2009,76,16,No.,a,THE WITNESS,start_question
+863,2010,76,17,Okay.  Do you remember the brand of those gaskets?,q,MS. VELLUCCI,start_answer
+864,2012,76,19,No.,a,THE WITNESS,start_question
+865,2013,76,20,All right.  So that's -- and you did that in the garage itself or outside?,q,MS. VELLUCCI,start_answer
+866,2015,76,22,"Yeah, in the garage, but I do remember buying gaskets for it because they were expensive.",a,THE WITNESS,start_question
+867,2019,77,1,"Did anyone help you because I think you said ""we""?",q,MS. VELLUCCI,start_answer
+868,2021,77,3,"Yeah, my brother-in-law.",a,THE WITNESS,start_question
+869,2022,77,4,Okay.  So we've got that '65 Chevy Super Sport?,q,MS. VELLUCCI,start_answer
+870,2024,77,6,"Well, that was the car.  The motor was a '68 Corvette motor, 427.",a,THE WITNESS,start_question
+871,2026,77,8,Did you do any other work on that vehicle?,q,MS. VELLUCCI,start_answer
+872,2028,77,10,It would be about 15 grand right now if I had it.  Did I do any other work on that vehicle?,a,THE WITNESS,start_question
+873,2031,77,13,Yes.,q,MS. VELLUCCI,start_answer
+874,2032,77,14,"Yeah, I did everything on my car down there.  Painted it.  Put all kinds of new parts on it, dual exhaust, high speed -- high-rise manifold, carburetor.  The car looked like a million bucks.",a,THE WITNESS,start_question
+875,2037,77,19,You said -- did you replace the exhaust?,q,MS. VELLUCCI,start_answer
+876,2039,77,21,"Yeah, put dual exhaust.  I made a dual exhaust out of it.",a,THE WITNESS,start_question
+877,2041,77,23,Do you recall -- this was during the same time period at the garage?,q,MS. VELLUCCI,start_answer
+878,2044,78,1,Yes.,a,THE WITNESS,start_question
+879,2045,78,2,Do you recall the brand of any of the new exhaust parts that you installed?,q,MS. VELLUCCI,start_answer
+880,2047,78,4,"Not specifically for that car, but I know we always used to use like Wagner was one of the mufflers and Walker.  I think it was Walker, right?",a,THE WITNESS,start_question
+881,2051,78,8,What was Walker?,q,MS. VELLUCCI,start_answer
+882,2052,78,9,Walker was exhaust also.,a,THE WITNESS,start_question
+883,2053,78,10,"Okay.  So the two names you just gave me, Wagner and Walker, are brands you kind of generally recall?",q,MS. VELLUCCI,start_answer
+884,2056,78,13,"Yeah.  I mean, you bought a muffler from NAPA.  That's what you were going to get.",a,THE WITNESS,start_question
+885,2058,78,15,Do you remember getting either of those brands of mufflers from NAPA?,q,MS. VELLUCCI,start_answer
+886,2060,78,17,No.,a,THE WITNESS,start_question
+887,2061,78,18,Okay.,q,MS. VELLUCCI,start_answer
+888,2062,78,19,"Not specifically, but that's what they gave you.",a,THE WITNESS,start_question
+889,2064,78,21,Do you know where you purchased the muffler or any of the exhaust parts?,q,MS. VELLUCCI,start_answer
+890,2066,78,23,No.,a,THE WITNESS,start_question
+891,2067,78,24,Did you have to install a new gasket when you were installing the new muffler?,q,MS. VELLUCCI,start_answer
+892,2070,79,2,"Certain spots, tailpipe, I mean, engine pipe, there would be a doughnut gasket at the end of the engine pipe that's connected to the tailpipe, mid pipe, whatever.  Asbestos doughnut gaskets about that big, heavy, flanged-type thing.",a,THE WITNESS,start_question
+893,2076,79,8,"Did they come with the muffler, or did you buy those separately?",q,MS. VELLUCCI,start_answer
+894,2078,79,10,You paid separately for those because you could have reused them if you wanted to.,a,THE WITNESS,start_question
+895,2080,79,12,Do you recall the brands of those gaskets?,q,MS. VELLUCCI,start_answer
+896,2082,79,14,No.,a,THE WITNESS,start_question
+897,2083,79,15,Do you know where you purchased them?,q,MS. VELLUCCI,start_answer
+898,2084,79,16,They came from the parts store with the exhaust parts.,a,THE WITNESS,start_question
+899,2086,79,18,And you don't know where for this vehicle you purchased those exhaust parts; is that true?,q,MS. VELLUCCI,start_answer
+900,2089,79,21,I don't remember.,a,THE WITNESS,start_question
+901,2090,79,22,Okay.  You said you did some painting. Did you do any bodywork on this vehicle?,q,MS. VELLUCCI,start_answer
+902,2092,79,24,Yes.,a,THE WITNESS,start_question
+903,2094,80,1,And what did you do?,q,MS. VELLUCCI,start_answer
+904,2095,80,2,"Everything.  Every dent, every piece of rust, cut out the fender wells and put the tires in it and painted it.",a,THE WITNESS,start_question
+905,2098,80,5,"When you were dealing with dents, did you ever have to use any body filler?",q,MS. VELLUCCI,start_answer
+906,2100,80,7,"Yes, Bondo, and there was also a red putty, came in a tube.  You used that for finish work.",a,THE WITNESS,start_question
+907,2103,80,10,Do you know where you bought either of those products?,q,MS. VELLUCCI,start_answer
+908,2105,80,12,No.,a,THE WITNESS,start_question
+909,2106,80,13,"Can you just describe for me how it is that you used the body filler product, just the couple of steps that you might have followed?",q,MS. VELLUCCI,start_answer
+910,2109,80,16,"Well, you got some rust, dent, whatever.  You do the best you can getting rid of the rust and the dent, and you apply your Bondo.  You mix it up with the hardener and apply that like a putty or a paste, smooth as you can get it, let it dry.  And then you plane it down and then sand it down and maybe put a little bit more on there until it looks good.",a,THE WITNESS,start_question
+911,2117,80,24,"And that process that you just described, is that how you would apply body filler regardless of the vehicle?",q,MS. VELLUCCI,start_answer
+912,2121,81,3,Depending how big your damage is.,a,THE WITNESS,start_question
+913,2122,81,4,"So if the dent was larger, would you put more?",q,MS. VELLUCCI,start_answer
+914,2124,81,6,You might have to put a piece of sheet metal over it.,a,THE WITNESS,start_question
+915,2126,81,8,"Okay.  But as far as when you were working with the body filler product, those are the steps that you followed?",q,MS. VELLUCCI,start_answer
+916,2129,81,11,"Yeah, that I can recall.",a,THE WITNESS,start_question
+917,2130,81,12,Okay.,q,MS. VELLUCCI,start_answer
+918,2131,81,13,It was a long time ago.,a,THE WITNESS,start_question
+919,2132,81,14,"And I think the answer may be that it depends on the size, but could you approximate how long it is that you spent sanding the body filler?",q,MS. VELLUCCI,start_answer
+920,2136,81,18,"Depending how big the damage is.  You sand it fairly simply.  It's fairly soft material.  You had sanding boards.  You had different tools, you know.  You had like screen -- I forget what they're called now but like a rasp-type thing for when it was really rough, you know, you knock all the heavy stuff off.",a,THE WITNESS,start_question
+921,2145,82,2,So you'd first use a rasp to sand it down?,q,MS. VELLUCCI,start_answer
+922,2147,82,4,"If it was bad enough, yeah.",a,THE WITNESS,start_question
+923,2148,82,5,And then you'd use sandpaper?,q,MS. VELLUCCI,start_answer
+924,2149,82,6,"Yeah, you could use paper.  We didn't have that many power tools back then.",a,THE WITNESS,start_question
+925,2151,82,8,And that work was done at the Argo gas station as well?,q,MS. VELLUCCI,start_answer
+926,2153,82,10,"I believe so, yeah.",a,THE WITNESS,start_question
+927,2154,82,11,Okay.,q,MS. VELLUCCI,start_answer
+928,2155,82,12,"I just -- I mean, I might be running into the other gas station, too.",a,THE WITNESS,start_question
+929,2157,82,14,But it was around that same time period?,q,MS. VELLUCCI,start_answer
+930,2159,82,16,"Yeah.  I mean, I got the car -- I got the car around June of '72, so it would have been the end of the Argo -- it would have been the end of the Argo experience, you know.",a,THE WITNESS,start_question
+931,2163,82,20,You also mentioned doing some carburetor work on this vehicle.  Did that involve a gasket as well?,q,MS. VELLUCCI,start_answer
+932,2166,82,23,Sure.,a,THE WITNESS,start_question
+933,2167,82,24,And do you recall the brand of gasket that you removed?,q,MS. VELLUCCI,start_answer
+934,2170,83,2,No.,a,THE WITNESS,start_question
+935,2171,83,3,Or that you installed?,q,MS. VELLUCCI,start_answer
+936,2172,83,4,No.,a,THE WITNESS,start_question
+937,2173,83,5,Do you know where you purchased it?,q,MS. VELLUCCI,start_answer
+938,2174,83,6,No.,a,THE WITNESS,start_question
+939,2175,83,7,Okay.  Any other work you remember on this Chevy Super Sport?,q,MS. VELLUCCI,start_answer
+940,2177,83,9,No.,a,THE WITNESS,start_question
+941,2178,83,10,"Can you recall any other vehicles that you've done brake work, clutch work, gasket work, bodywork, muffler work on?",q,MS. VELLUCCI,start_answer
+942,2181,83,13,"Yeah, probably every vehicle I owned back in the day.  You know, I had a -- after that I got rid of cars that were costing me money, so I had a '66 Polaris.  I don't recall specifically what cars I did what work on, no.",a,THE WITNESS,start_question
+943,2186,83,18,"Are you able to tell me about the time frame in which you were doing this type of work on your vehicles, the first time you would have worked on one of your vehicles to the last time you would have worked on one of your vehicles; is that possible?",q,MS. VELLUCCI,start_answer
+944,2192,83,24,"I worked on cars until probably 20 years ago, you know.",a,THE WITNESS,start_question
+945,2195,84,2,Would the first time you worked on a vehicle have been the Chevy Super Sport we were just talking about?,q,MS. VELLUCCI,start_answer
+946,2198,84,5,"That I worked on a vehicle, probably not.",a,THE WITNESS,start_question
+947,2200,84,7,"That was yours, not associated with the garage?",q,MS. VELLUCCI,start_answer
+948,2202,84,9,"That was mine, yes, probably that was mine.",a,THE WITNESS,start_question
+949,2204,84,11,"Okay.  Are you able to tell me about how many times you would have replaced brakes on one of your own vehicles, the total number of times you would have done that?",q,MS. VELLUCCI,start_answer
+950,2208,84,15,Less than ten.,a,THE WITNESS,start_question
+951,2209,84,16,Are you able to tell me the brands of any of the new brakes that you installed on any of your vehicles?,q,MS. VELLUCCI,start_answer
+952,2212,84,19,"Well, we just went over it a minute ago.",a,THE WITNESS,start_question
+953,2214,84,21,The same brands?,q,MS. VELLUCCI,start_answer
+954,2215,84,22,Yes.  I can't recall the names now.,a,THE WITNESS,start_question
+955,2216,84,23,"That's okay.  And if you want, I could read them back to you, but is it your memory that the brands that we were talking about earlier, you also installed those on your personal vehicles?",q,MS. VELLUCCI,start_answer
+956,2222,85,4,Yeah.,a,THE WITNESS,start_question
+957,2223,85,5,Okay.,q,MS. VELLUCCI,start_answer
+958,2224,85,6,"I mean, we did a brake job on my wife's car a few months ago, you know, so the stuff is still going.  If I can save 600 dollars by doing a brake job, I'd probably save 600 dollars.  I forgot.  I still monkey around with the stuff once in a while.",a,THE WITNESS,start_question
+959,2230,85,12,"Taking aside the brake job that you just mentioned that was very recently, thinking back to any automotive work you did in the '70s, in the '80s, do you know where you would have purchased replacement brakes from?",q,MS. VELLUCCI,start_answer
+960,2235,85,17,From those parts stores that I mentioned.,a,THE WITNESS,start_question
+961,2237,85,19,The same parts stores that you mentioned?,q,MS. VELLUCCI,start_answer
+962,2239,85,21,"Yes, the same three or four stores.",a,THE WITNESS,start_question
+963,2240,85,22,Do you have a specific memory of purchasing a particular part from a particular store --,q,MS. VELLUCCI,start_answer
+964,2244,86,1,No.,a,THE WITNESS,start_question
+965,2245,86,2,-- for a particular vehicle?,q,MS. VELLUCCI,start_answer
+966,2246,86,3,"Sorry, no.",a,THE WITNESS,start_question
+967,2247,86,4,"Okay.  You mentioned kind of toward the beginning when I was asking you about the parts stores that you recalled going to with the gas stations, you started listing them, and you said maybe Western Auto, and then you said you didn't really recall Western Auto in connection with the gas stations. I want to kind of get an understanding.  Do you recall ever going to a Western Auto store?",q,MS. VELLUCCI,start_answer
+968,2257,86,14,Yes.,a,THE WITNESS,start_question
+969,2258,86,15,Okay.  And can you tell me what for and when it was that you did that?,q,MS. VELLUCCI,start_answer
+970,2260,86,17,"Downtown Southington had a Western Auto store, and I've been there many times. I'm trying to recall if I ever bought automobile parts there.  I can't come up with an answer.",a,THE WITNESS,start_question
+971,2265,86,22,Is it your memory that Western Auto kind of sold everything; it was kind of a precursor to --,q,MS. VELLUCCI,start_answer
+972,2269,87,1,General store.,a,THE WITNESS,start_question
+973,2270,87,2,"Right, like, it sold clothing and appliances and things like that?",q,MS. VELLUCCI,start_answer
+974,2272,87,4,"Toys, sporting goods.",a,THE WITNESS,start_question
+975,2273,87,5,"Okay.  And my understanding is that you recalled going to a Western Auto store in downtown Southington, right?",q,MS. VELLUCCI,start_answer
+976,2276,87,8,Yeah.,a,THE WITNESS,start_question
+977,2277,87,9,But you don't recall whether you ever purchased an automotive part from that store?,q,MS. VELLUCCI,start_answer
+978,2279,87,11,Correct.,a,THE WITNESS,start_chat
+979,2280,87,12,Okay.  Why don't we take a quick break.,side_chat,MS. VELLUCCI,start_chat
+980,2282,87,14,Sure.,side_chat,MR. MEISENKOTHEN,start_chat
+981,2283,87,15,Off the record at 11:17 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+982,2285,87,17,"(Off the record, 11:17 a.m.)",brackets,,is brackets
+983,2286,87,18,"(Back on the record, 11:24 a.m.)",brackets,,start_chat
+984,2287,87,19,On the record at 11:24 a.m.,side_chat,THE VIDEOGRAPHER,start_question
+985,2289,87,21,"Sir, are you ready to continue on a little bit longer?",q,MS. VELLUCCI,start_answer
+986,2291,87,23,"Yes, I am.",a,THE WITNESS,start_question
+987,2292,87,24,"Okay.  I want to ask you something I think I've asked, but I just want to make sure I've exhausted your memory on this.  And can you recall any other vehicles outside of vehicles you worked on in connection with the gas stations, so any other vehicles that you've done work on in your lifetime?",q,MS. VELLUCCI,start_answer
+988,2300,88,7,Yes.,a,THE WITNESS,start_question
+989,2301,88,8,Can you recall them specifically?,q,MS. VELLUCCI,start_answer
+990,2302,88,9,"When I was working at the Precision Grinding after January '73, I worked on a couple cars there.  One was for my wife, my future wife.  I bought a car with a blown motor in it and fixed it up, put a motor in it and all that. And then I also did a car for my buddy.  We did a motor on a car.  And for some reason, I can't remember now if it was a Pinto or a Vega, two pieces of junk cars, but for some reason my wires are getting crossed if it was a Pinto or a Vega, but we did a motor job on it.  We took the motor out of the car, took the whole motor apart and put it back together and the car ran, so we were successful.",a,THE WITNESS,start_question
+991,2317,88,24,"Let me ask you then since we're still on that about that car for your friend.  What was the make of the vehicle, do you know that?",q,MS. VELLUCCI,start_answer
+992,2321,89,3,I'm trying to recall if it was a Chevy or a Ford.,a,THE WITNESS,start_question
+993,2323,89,5,Okay.,q,MS. VELLUCCI,start_answer
+994,2324,89,6,I think it was -- I'm not going to answer that because I can't recall right now. Tomorrow I'll remember.,a,THE WITNESS,start_question
+995,2327,89,9,"If you do, if you remember it, just interrupt me and let me know.  Okay?",q,MS. VELLUCCI,start_answer
+996,2329,89,11,Yeah.,a,THE WITNESS,start_question
+997,2330,89,12,When did you do that motor work?,q,MS. VELLUCCI,start_answer
+998,2331,89,13,Sometime after 1973.,a,THE WITNESS,start_question
+999,2332,89,14,Was it while you were at the Precision Grinding?,q,MS. VELLUCCI,start_answer
+1000,2334,89,16,Correct.,a,THE WITNESS,start_question
+1001,2335,89,17,And my understanding from some written discovery received in this case from your attorney is that you worked at Precision Grinding from '73 to '75.  So would it be in that time frame?,q,MS. VELLUCCI,start_answer
+1002,2340,89,22,"Yeah, but I thought I worked a little bit longer than that.  That was maybe when I worked full-time.  I did, yeah.  I worked for '73 to '75, then I was gone for a year, then I came back in '76.  I came back in '77. I was gone for a year, and then I became a cop.  And I still worked part-time there for a couple years.",a,THE WITNESS,start_question
+1003,2349,90,6,"Okay.  And I'll ask you some follow-up about that in a little bit.  But just kind of thinking about this car, which friend did you do this work for?",q,MS. VELLUCCI,start_answer
+1004,2353,90,10,Ron Naper.,a,THE WITNESS,start_question
+1005,2354,90,11,Is he still with us today?,q,MS. VELLUCCI,start_answer
+1006,2355,90,12,Yes.,a,THE WITNESS,start_question
+1007,2356,90,13,Where does he live?,q,MS. VELLUCCI,start_answer
+1008,2357,90,14,Southington.,a,THE WITNESS,start_question
+1009,2358,90,15,Is he about your age?,q,MS. VELLUCCI,start_answer
+1010,2359,90,16,He's 78.,a,THE WITNESS,start_question
+1011,2360,90,17,Okay.  And you described the work you did.  Where did you do that work?,q,MS. VELLUCCI,start_answer
+1012,2362,90,19,At the garage at the shop.,a,THE WITNESS,start_question
+1013,2363,90,20,At Precision Grinding?,q,MS. VELLUCCI,start_answer
+1014,2364,90,21,Correct.,a,THE WITNESS,start_question
+1015,2365,90,22,Did he help you?,q,MS. VELLUCCI,start_answer
+1016,2366,90,23,Yes.,a,THE WITNESS,start_question
+1017,2367,90,24,"Do you recall the brand name, trade name, or manufacturer of any gaskets that you removed in connection with this work?",q,MS. VELLUCCI,start_answer
+1018,2371,91,3,No.,a,THE WITNESS,start_question
+1019,2372,91,4,"Do you recall the brand name, trade name, or manufacturer of any of the gaskets you installed?",q,MS. VELLUCCI,start_answer
+1020,2375,91,7,No.,a,THE WITNESS,start_question
+1021,2376,91,8,"Did you purchase the parts, the replacement parts, or did he?",q,MS. VELLUCCI,start_answer
+1022,2378,91,10,I don't recall.,a,THE WITNESS,start_question
+1023,2379,91,11,Do you recall where they were from?,q,MS. VELLUCCI,start_answer
+1024,2380,91,12,Don't recall.,a,THE WITNESS,start_question
+1025,2381,91,13,"All right.  And then you mentioned doing some work on your soon-to-be wife's car in '73; is that what you said, or it was while you were at Precision Grinding anyway?",q,MS. VELLUCCI,start_answer
+1026,2385,91,17,That would have been in '74 since I already had a new car in '74.  I had to keep her from driving my car.,a,THE WITNESS,start_question
+1027,2388,91,20,Okay.  What kind of car did she have that you did this work on?,q,MS. VELLUCCI,start_answer
+1028,2390,91,22,American Motors Ambassador.,a,THE WITNESS,start_question
+1029,2391,91,23,"And you said you did -- the car had a blown motor, so what did you have to do?",q,MS. VELLUCCI,start_answer
+1030,2394,92,1,Bought a used motor.,a,THE WITNESS,start_question
+1031,2395,92,2,Where did you get the used motor from?,q,MS. VELLUCCI,start_answer
+1032,2396,92,3,"I believe it was Terryville Auto Parts, Terryville Junkyard.",a,THE WITNESS,start_question
+1033,2398,92,5,It was a junkyard?,q,MS. VELLUCCI,start_answer
+1034,2399,92,6,Yes.,a,THE WITNESS,start_question
+1035,2400,92,7,Okay.  And did you have to purchase any replacement gaskets to install the new motor?,q,MS. VELLUCCI,start_answer
+1036,2403,92,10,Yes.,a,THE WITNESS,start_question
+1037,2404,92,11,Where did you get those?,q,MS. VELLUCCI,start_answer
+1038,2405,92,12,Don't recall.,a,THE WITNESS,start_question
+1039,2406,92,13,Do you recall the brand of those gaskets?,q,MS. VELLUCCI,start_answer
+1040,2408,92,15,Don't recall.,a,THE WITNESS,start_question
+1041,2409,92,16,Did you do any other work on this vehicle that your wife owned?,q,MS. VELLUCCI,start_answer
+1042,2411,92,18,"Brakes, tires, paint.",a,THE WITNESS,start_question
+1043,2412,92,19,Anything else?,q,MS. VELLUCCI,start_answer
+1044,2413,92,20,"Well, when you buy a used motor that was in a crash, I remember specifically the oil pan had to be changed on it.  It had a big hole in it, and the balancer near the crankshaft was busted, had to change that.  Whatever.  Threw it in the car and fired it up and it worked.",a,THE WITNESS,start_question
+1045,2420,93,2,"When you changed out the oil pan, did you have to replace the gasket, too?",q,MS. VELLUCCI,start_answer
+1046,2422,93,4,Yes.,a,THE WITNESS,start_question
+1047,2423,93,5,Do you recall where you purchased the new gasket?,q,MS. VELLUCCI,start_answer
+1048,2425,93,7,No.,a,THE WITNESS,start_question
+1049,2426,93,8,Do you recall the brand of it?,q,MS. VELLUCCI,start_answer
+1050,2427,93,9,No.,a,THE WITNESS,start_question
+1051,2428,93,10,And that's a precut gasket as well?,q,MS. VELLUCCI,start_answer
+1052,2429,93,11,Those are rubber.,a,THE WITNESS,start_question
+1053,2430,93,12,"Oh, those are rubber, okay. What about the brakes?  You said you changed the brakes on this vehicle?",q,MS. VELLUCCI,start_answer
+1054,2433,93,15,Yeah.,a,THE WITNESS,start_question
+1055,2434,93,16,"When did you do that, also during that time?",q,MS. VELLUCCI,start_answer
+1056,2436,93,18,During the process.,a,THE WITNESS,start_question
+1057,2437,93,19,Around '74?,q,MS. VELLUCCI,start_answer
+1058,2438,93,20,"Yeah, it had to be '74.",a,THE WITNESS,start_question
+1059,2439,93,21,Did you do that work at the shop at Precision Grinding?,q,MS. VELLUCCI,start_answer
+1060,2441,93,23,Yes.,a,THE WITNESS,start_question
+1061,2442,93,24,Did you do two wheels or four wheels?,q,MS. VELLUCCI,start_answer
+1062,2444,94,1,I don't recall.,a,THE WITNESS,start_question
+1063,2445,94,2,Were they drum brakes or disc brakes?,q,MS. VELLUCCI,start_answer
+1064,2446,94,3,I believe the rears were drums.  I don't recall.  1968 car.,a,THE WITNESS,start_question
+1065,2448,94,5,Did anyone help you with that brake job?,q,MS. VELLUCCI,start_answer
+1066,2450,94,7,I don't recall.,a,THE WITNESS,start_question
+1067,2451,94,8,Do you recall --,q,MS. VELLUCCI,start_answer
+1068,2452,94,9,We could assume that Pat Bruschino helped me with everything on the car.,a,THE WITNESS,start_question
+1069,2454,94,11,Okay.  Do you recall the brand of brakes that you removed from this vehicle?,q,MS. VELLUCCI,start_answer
+1070,2456,94,13,No.,a,THE WITNESS,start_question
+1071,2457,94,14,What about the brakes that you installed?,q,MS. VELLUCCI,start_answer
+1072,2459,94,16,No.,a,THE WITNESS,start_question
+1073,2460,94,17,Do you know where you purchased the replacement brakes?,q,MS. VELLUCCI,start_answer
+1074,2462,94,19,No.,a,THE WITNESS,start_question
+1075,2463,94,20,Did you perform this brake job in the same manner as you described when I asked you earlier how you generally did brake work?,q,MS. VELLUCCI,start_answer
+1076,2466,94,23,Yes.,a,THE WITNESS,start_question
+1077,2467,94,24,Okay.  And was there an air hose at Precision Grinding?,q,MS. VELLUCCI,start_answer
+1078,2470,95,2,Yes.,a,THE WITNESS,start_question
+1079,2471,95,3,So you would have used it in the same manner as you previously described?,q,MS. VELLUCCI,start_answer
+1080,2473,95,5,"Well, this was 1974.  We might have been smarter then.",a,THE WITNESS,start_question
+1081,2475,95,7,"So by this time in 1974, is it your understanding that you knew that there was some hazards associated with asbestos?",q,MS. VELLUCCI,start_answer
+1082,2478,95,10,I can't say for sure.,a,THE WITNESS,start_question
+1083,2479,95,11,"Okay.  If you had known, if this was during that time period after the story you gave me earlier, you wouldn't have used the air hose?",q,MS. VELLUCCI,start_answer
+1084,2483,95,15,No.,a,THE WITNESS,start_question
+1085,2484,95,16,"I was asking you some questions previously about brakes in general, and I want to ask you some more questions about brakes. You had told me that when you obtained new brakes, they were ordered for that particular make, model year of vehicle, right?",q,MS. VELLUCCI,start_answer
+1086,2490,95,22,Okay.,a,THE WITNESS,start_question
+1087,2491,95,23,"And that they were meant to fit, and generally, they did fit the vehicle, right?",q,MS. VELLUCCI,start_answer
+1088,2494,96,1,(Nodding.),a,THE WITNESS,start_question
+1089,2495,96,2,Is that a yes?,q,MS. VELLUCCI,start_answer
+1090,2496,96,3,Yes.,a,THE WITNESS,start_question
+1091,2497,96,4,"And do you recall hearing the term ""precision-ground"" or ""precision-molded"" brakes?",q,MS. VELLUCCI,start_answer
+1092,2500,96,7,"It does sound familiar to me, but I can't say specifically that I recall it.",a,THE WITNESS,start_question
+1093,2502,96,9,"Okay.  So let me just ask you this, do you recall ever working with or installing precision-ground brakes on vehicles?",q,MS. VELLUCCI,start_answer
+1094,2505,96,12,No.,a,THE WITNESS,start_question
+1095,2506,96,13,"Okay.  And earlier you told me that when you installed brakes, you didn't have to do anything to get them to fit in the vehicle, right?",q,MS. VELLUCCI,start_answer
+1096,2510,96,17,"You know, you're bringing back memories and I'm wondering now, but I can't say.",a,THE WITNESS,start_question
+1097,2513,96,20,"Okay.  So is it your memory then that when you obtained a set of new brakes, you would open the box and the brakes would be in the box, right?",q,MS. VELLUCCI,start_answer
+1098,2517,96,24,Yes.,a,THE WITNESS,start_question
+1099,2519,97,1,And those brakes were ready to install as is?,q,MS. VELLUCCI,start_answer
+1100,2521,97,3,I guess so.  That's the only thing I can remember.  I don't remember having to grind anything off a brake to make it work.,a,THE WITNESS,start_question
+1101,2524,97,6,"Okay.  So you just told me about two vehicles, your wife's vehicle and the friend's vehicle.  Are there any other vehicles that your friends owned or family members owned or that you owned that you did work on?",q,MS. VELLUCCI,start_answer
+1102,2529,97,11,Probably.,a,THE WITNESS,start_question
+1103,2530,97,12,"Anything, as we sit here today, that you could tell me about, specifically?",q,MS. VELLUCCI,start_answer
+1104,2532,97,14,I always fixed my mother's car.  She was always asking for something.  I always ended up doing it.,a,THE WITNESS,start_question
+1105,2535,97,17,Do you have a memory of any work you've done on any of your mother's cars?,q,MS. VELLUCCI,start_answer
+1106,2537,97,19,"Yeah, changed the oil, tune it up, changed exhaust pipes.",a,THE WITNESS,start_question
+1107,2539,97,21,Do you recall -- do you specifically remember replacing exhaust pipes on one of your mom's cars?,q,MS. VELLUCCI,start_answer
+1108,2542,97,24,Yes.,a,THE WITNESS,start_question
+1109,2544,98,1,Which car or cars did you do that on?,q,MS. VELLUCCI,start_answer
+1110,2545,98,2,'78 Chevy.,a,THE WITNESS,start_question
+1111,2546,98,3,And when would you have done that work?,q,MS. VELLUCCI,start_answer
+1112,2548,98,5,In the '80s.,a,THE WITNESS,start_question
+1113,2549,98,6,Do you recall where you changed the exhaust pipes?  Was it outside?,q,MS. VELLUCCI,start_answer
+1114,2551,98,8,Probably in her driveway.,a,THE WITNESS,start_question
+1115,2552,98,9,Okay.  Do you recall the brand of any of the products you removed?,q,MS. VELLUCCI,start_answer
+1116,2554,98,11,No.,a,THE WITNESS,start_question
+1117,2555,98,12,What about that you installed?,q,MS. VELLUCCI,start_answer
+1118,2556,98,13,No.,a,THE WITNESS,start_question
+1119,2557,98,14,And do you know where you purchased any of the replacement parts for that work?,q,MS. VELLUCCI,start_answer
+1120,2559,98,16,No.,a,THE WITNESS,start_question
+1121,2560,98,17,Any other vehicles that you can think of that you've worked on or you've assisted others in working on that we haven't already talked about?,q,MS. VELLUCCI,start_answer
+1122,2564,98,21,No.,a,THE WITNESS,start_question
+1123,2565,98,22,"Okay.  I was asking you before about jobs you held in high school, and then we kind of skipped out of high school and talked about the Mobil station. Did you work anywhere else in high school other than the gas stations, the ski area, and the farms that we talked about?",q,MS. VELLUCCI,start_answer
+1124,2573,99,5,I don't believe so.,a,THE WITNESS,start_question
+1125,2574,99,6,Okay.  Do you recall -- give me just one moment.  Do you recall ever working at a business called Eddy's?,q,MS. VELLUCCI,start_answer
+1126,2577,99,9,Yes.,a,THE WITNESS,start_question
+1127,2578,99,10,Okay.  Was that in high school or after high school?,q,MS. VELLUCCI,start_answer
+1128,2580,99,12,That was after high school.,a,THE WITNESS,start_question
+1129,2581,99,13,All right.  When did you work there?,q,MS. VELLUCCI,start_answer
+1130,2582,99,14,"Right after high school.  I got hired in June, but I was only 17 so I couldn't work in the factory.  You can only work in the warehouse until I was 18.  That was the most disgusting place I ever worked in my life.",a,THE WITNESS,start_question
+1131,2587,99,19,And why was that?,q,MS. VELLUCCI,start_answer
+1132,2588,99,20,Because it was dangerous.,a,THE WITNESS,start_question
+1133,2589,99,21,And how was it dangerous?,q,MS. VELLUCCI,start_answer
+1134,2590,99,22,"Well, it was Eddy's electric motor repair shop, and they would -- you would take apart a motor, cut it open, and you'd throw it on a fire and burn all the varnish off with all the doors and windows closed in the building because the health department was trying to shut him down.  The paint was peeling off the houses in the neighborhood. So I did that once, and I said I ain't doing this again, coughing on toxic fumes, but everything was, you know, 440-amp volts laying around here and naphtha.  They sprayed naphtha all over everything.  It was disgusting.  And as soon as -- when I turned 18, they put me in there, started teaching me the ropes, and I stayed -- I turned 18 November 23, and right after Christmas I quit.",a,THE WITNESS,start_question
+1135,2608,100,15,All right.  Let me ask you just a couple follow-up questions about what you just said.  So you started there in June -- after you graduated high school which was June of '72?,q,MS. VELLUCCI,start_answer
+1136,2613,100,20,"Yeah, I cleaned out a warehouse.",a,THE WITNESS,start_question
+1137,2614,100,21,So your job was to clean out a warehouse at Eddy's Electric Motor Company?,q,MS. VELLUCCI,start_answer
+1138,2616,100,23,Yeah.,a,THE WITNESS,start_question
+1139,2617,100,24,Where was Eddy's located?,q,MS. VELLUCCI,start_answer
+1140,2619,101,1,The warehouse was on a different street.,a,THE WITNESS,start_question
+1141,2621,101,3,Where was that?,q,MS. VELLUCCI,start_answer
+1142,2622,101,4,"The warehouse was on, I think it was called Berlin Street, Berlin Avenue or Berlin Street.",a,THE WITNESS,start_question
+1143,2625,101,7,And what did you do in order to clean out the warehouse?  What kind of work were you doing?,q,MS. VELLUCCI,start_answer
+1144,2628,101,10,"It was just all stuff, you know, organizing it.",a,THE WITNESS,start_question
+1145,2630,101,12,What was in the warehouse?,q,MS. VELLUCCI,start_answer
+1146,2631,101,13,I don't even remember.,a,THE WITNESS,start_question
+1147,2632,101,14,Okay.,q,MS. VELLUCCI,start_answer
+1148,2633,101,15,Junk.,a,THE WITNESS,start_question
+1149,2634,101,16,"Did you do that work by yourself, or were others working there?",q,MS. VELLUCCI,start_answer
+1150,2636,101,18,By myself.,a,THE WITNESS,start_question
+1151,2637,101,19,"And then you did that work until you turned 18, which was November 23, 1972?",q,MS. VELLUCCI,start_answer
+1152,2639,101,21,Yeah.,a,THE WITNESS,start_question
+1153,2640,101,22,"And starting November 23, you were working in the motor shop?",q,MS. VELLUCCI,start_answer
+1154,2642,101,24,Yeah.,a,THE WITNESS,start_question
+1155,2644,102,1,And the motor shop is what you were just describing to me?,q,MS. VELLUCCI,start_answer
+1156,2646,102,3,Yeah.,a,THE WITNESS,start_question
+1157,2647,102,4,Okay.  And then you said you quit -- did you say around Christmastime?,q,MS. VELLUCCI,start_answer
+1158,2649,102,6,"Yeah, right after Christmas.",a,THE WITNESS,start_question
+1159,2650,102,7,In '72?,q,MS. VELLUCCI,start_answer
+1160,2651,102,8,Yeah.,a,THE WITNESS,start_question
+1161,2652,102,9,"Okay.  I am going to let someone else ask you some more questions about that, so I'm going to move on to some other questions. I actually want to talk to you a bit about home renovations, home repairs, things of that nature, so I'm switching gears on you a little bit.  And I want to talk to you specifically about the heating system that was at the home that you grew up in, the 17 Sunnyridge Drive address.",q,MS. VELLUCCI,start_answer
+1162,2662,102,19,Yes.,a,THE WITNESS,start_question
+1163,2663,102,20,Okay.  And what was the heating system there when you were a child when you were growing up?,q,MS. VELLUCCI,start_answer
+1164,2666,102,23,Coal furnace.,a,THE WITNESS,start_question
+1165,2667,102,24,Okay.  And my understanding is that that furnace -- strike that. Was that -- how long was that furnace in the home?,q,MS. VELLUCCI,start_answer
+1166,2672,103,4,"The house was built around 1946, and then this would have been around 1966 when the furnace failed.  We got carbon monoxide poison in the house, we fixed it, and the following year we took it apart.",a,THE WITNESS,start_question
+1167,2677,103,9,Took apart the old furnace?,q,MS. VELLUCCI,start_answer
+1168,2678,103,10,Yeah.,a,THE WITNESS,start_question
+1169,2679,103,11,"Do you know the brand name, manufacturer, or trade name of that old coal furnace?",q,MS. VELLUCCI,start_answer
+1170,2682,103,14,No.,a,THE WITNESS,start_question
+1171,2683,103,15,"Okay.  So you said in -- did it fail in '66, and you took it apart in '66?",q,MS. VELLUCCI,start_answer
+1172,2685,103,17,"It failed, like, the year before.  It had a hole through the burn chamber so carbon monoxide was going right into the heating ducts so ...",a,THE WITNESS,start_question
+1173,2689,103,21,Go ahead.,q,MS. VELLUCCI,start_answer
+1174,2690,103,22,I'm done.,a,THE WITNESS,start_question
+1175,2691,103,23,Did you assist in taking it apart or dismantling the old coal furnace?,q,MS. VELLUCCI,start_answer
+1176,2694,104,1,Yes.,a,THE WITNESS,start_question
+1177,2695,104,2,And what did that entail?,q,MS. VELLUCCI,start_answer
+1178,2696,104,3,Sledgehammer.,a,THE WITNESS,start_question
+1179,2697,104,4,Where was the furnace located?,q,MS. VELLUCCI,start_answer
+1180,2698,104,5,Basement.,a,THE WITNESS,start_question
+1181,2699,104,6,How long did it take to dismantle that furnace?,q,MS. VELLUCCI,start_answer
+1182,2701,104,8,Don't recall.,a,THE WITNESS,start_question
+1183,2702,104,9,"Was it hours, days, a week?",q,MS. VELLUCCI,start_answer
+1184,2703,104,10,A couple of days.,a,THE WITNESS,start_question
+1185,2704,104,11,"Did you do that alone, or did anyone help you?",q,MS. VELLUCCI,start_answer
+1186,2706,104,13,Under the direction of my father.,a,THE WITNESS,start_question
+1187,2707,104,14,"Okay.  Was he supervising, or was he in there with a sledgehammer taking it apart, too?",q,MS. VELLUCCI,start_answer
+1188,2710,104,17,He might have helped a little.,a,THE WITNESS,start_question
+1189,2711,104,18,But it was primarily your job?,q,MS. VELLUCCI,start_answer
+1190,2712,104,19,(Nodding.),a,THE WITNESS,start_question
+1191,2713,104,20,Is that a yes?,q,MS. VELLUCCI,start_answer
+1192,2714,104,21,Yes.,a,THE WITNESS,start_question
+1193,2715,104,22,Okay.  And was the furnace insulated?,q,MS. VELLUCCI,start_answer
+1194,2716,104,23,I believe it was because it had a jacket on it.,a,THE WITNESS,start_question
+1195,2719,105,1,So there was some sort of a metal jacket on the outside?,q,MS. VELLUCCI,start_answer
+1196,2721,105,3,Yes.,a,THE WITNESS,start_question
+1197,2722,105,4,And there was some sort of an insulation underneath the jacket?,q,MS. VELLUCCI,start_answer
+1198,2724,105,6,"I believe so, yes.",a,THE WITNESS,start_question
+1199,2725,105,7,"Okay.  And in your sledgehammering that furnace, did that cause you to disturb that insulation?",q,MS. VELLUCCI,start_answer
+1200,2728,105,10,I believe so.,a,THE WITNESS,start_question
+1201,2729,105,11,Okay.  How did you take the pieces of the furnace -- how did you remove them from the basement?,q,MS. VELLUCCI,start_answer
+1202,2732,105,14,Threw them out the cellar window.,a,THE WITNESS,start_question
+1203,2733,105,15,Did you do that?,q,MS. VELLUCCI,start_answer
+1204,2734,105,16,Yes.,a,THE WITNESS,start_question
+1205,2735,105,17,"And then you threw it out the window, and then what happened to those pieces?",q,MS. VELLUCCI,start_answer
+1206,2737,105,19,It was discarded in some manner.,a,THE WITNESS,start_question
+1207,2738,105,20,Did you have anything to do with those pieces after you threw them out the window?,q,MS. VELLUCCI,start_answer
+1208,2740,105,22,I'm sure I did.,a,THE WITNESS,start_question
+1209,2741,105,23,Do you remember taking them to like a dump or a dumpster?,q,MS. VELLUCCI,start_answer
+1210,2744,106,1,I don't recall.,a,THE WITNESS,start_question
+1211,2745,106,2,"Okay.  When you were sledgehammering this old furnace, did that create dust?",q,MS. VELLUCCI,start_answer
+1212,2747,106,4,"I have a visual of it, yes.",a,THE WITNESS,start_question
+1213,2748,106,5,And what does that visual look like?,q,MS. VELLUCCI,start_answer
+1214,2749,106,6,Choking on dust and dirt and coal ashes.,a,THE WITNESS,start_question
+1215,2751,106,8,"And that was over the course of a couple of days, you said?",q,MS. VELLUCCI,start_answer
+1216,2753,106,10,Yes.,a,THE WITNESS,start_question
+1217,2754,106,11,And how many hours a day would you spend down there with the sledgehammer dismantling the furnace?,q,MS. VELLUCCI,start_answer
+1218,2757,106,14,I don't recall.,a,THE WITNESS,start_question
+1219,2758,106,15,Can you tell me the size of the basement that this furnace was located in?,q,MS. VELLUCCI,start_answer
+1220,2760,106,17,"Yes.  I want to say 680 square feet for some reason.  The whole house was four rooms, smaller than this room and those rooms together, so I believe it was 680.  It could be 800.  Fairly small.",a,THE WITNESS,start_question
+1221,2765,106,22,Okay.  And that's your best estimate?,q,MS. VELLUCCI,start_answer
+1222,2766,106,23,"Yeah, fairly small.",a,THE WITNESS,start_question
+1223,2767,106,24,"Was it all open, or was the furnace in its own room?",q,MS. VELLUCCI,start_answer
+1224,2770,107,2,The furnace was in the middle of the room.,a,THE WITNESS,start_question
+1225,2772,107,4,And it was open to the whole basement?,q,MS. VELLUCCI,start_answer
+1226,2773,107,5,Yes.,a,THE WITNESS,start_question
+1227,2774,107,6,And how far was the window that you threw out the pieces from where the furnace was?,q,MS. VELLUCCI,start_answer
+1228,2777,107,9,10 feet.,a,THE WITNESS,start_question
+1229,2778,107,10,And did you take the pieces into your hands and physically carry them --,q,MS. VELLUCCI,start_answer
+1230,2780,107,12,Yes.,a,THE WITNESS,start_question
+1231,2781,107,13,-- to the window?,q,MS. VELLUCCI,start_answer
+1232,2782,107,14,Yes.,a,THE WITNESS,start_question
+1233,2783,107,15,Did you wear gloves?,q,MS. VELLUCCI,start_answer
+1234,2784,107,16,Don't recall.,a,THE WITNESS,start_question
+1235,2785,107,17,Okay.  Did you wear any protective clothing?,q,MS. VELLUCCI,start_answer
+1236,2787,107,19,Don't -- no.,a,THE WITNESS,start_question
+1237,2788,107,20,Did you wear a mask?,q,MS. VELLUCCI,start_answer
+1238,2789,107,21,No.,a,THE WITNESS,start_question
+1239,2790,107,22,And then my understanding is that a new heating system was installed after this one was removed?,q,MS. VELLUCCI,start_answer
+1240,2794,108,1,Yes.,a,THE WITNESS,start_question
+1241,2795,108,2,And would that have been in around 1966?,q,MS. VELLUCCI,start_answer
+1242,2797,108,4,Yes.,a,THE WITNESS,start_question
+1243,2798,108,5,"Do you recall the brand name, trade name, or manufacturer of the new heating system?",q,MS. VELLUCCI,start_answer
+1244,2801,108,8,No.,a,THE WITNESS,start_question
+1245,2802,108,9,"Was it a boiler?  Was it a furnace, do you know?",q,MS. VELLUCCI,start_answer
+1246,2804,108,11,The tankless oil boiler.,a,THE WITNESS,start_question
+1247,2805,108,12,"Do you know where the new boiler was purchased, where it came from?",q,MS. VELLUCCI,start_answer
+1248,2807,108,14,No.,a,THE WITNESS,start_question
+1249,2808,108,15,And who installed the new boiler?,q,MS. VELLUCCI,start_answer
+1250,2809,108,16,I and my father.,a,THE WITNESS,start_question
+1251,2810,108,17,Was that boiler -- did it have a jacket as well?,q,MS. VELLUCCI,start_answer
+1252,2812,108,19,Yes.,a,THE WITNESS,start_question
+1253,2813,108,20,Did it have the insulation underneath the jacket?,q,MS. VELLUCCI,start_answer
+1254,2815,108,22,Yes.,a,THE WITNESS,start_question
+1255,2816,108,23,Can you tell me how it is you went about installing that boiler?,q,MS. VELLUCCI,start_answer
+1256,2819,109,1,"Well, it was baseboard heat, so every piece of baseboard in the house, I cut it and soldered it.  And he had the brains and I had the -- I did all the work.",a,THE WITNESS,start_question
+1257,2823,109,5,Okay.,q,MS. VELLUCCI,start_answer
+1258,2824,109,6,I was a sixth grader.,a,THE WITNESS,start_question
+1259,2825,109,7,"Did the boiler itself, did it come in one piece, or were there multiple pieces that you had to --",q,MS. VELLUCCI,start_answer
+1260,2828,109,10,"One piece.  It was one piece, approximately -- it's taller than the stand right in front of me.",a,THE WITNESS,start_question
+1261,2831,109,13,And about how tall would you estimate that is?,q,MS. VELLUCCI,start_answer
+1262,2833,109,15,"Well, that looks about 30 inches, but a little taller than that.",a,THE WITNESS,start_question
+1263,2835,109,17,So about 3 feet tall?,q,MS. VELLUCCI,start_answer
+1264,2836,109,18,"I mean, approximately 3 feet tall.",a,THE WITNESS,start_question
+1265,2837,109,19,"Okay.  And in installing the new boiler, did you have to do any work with gaskets or anything to assemble any pieces that connected to the boiler?",q,MS. VELLUCCI,start_answer
+1266,2841,109,23,"When you cleaned it, you did.",a,THE WITNESS,start_question
+1267,2842,109,24,Okay.  But the installation didn't involve any of that work?,q,MS. VELLUCCI,start_answer
+1268,2845,110,2,Probably the exhaust on top was sealed with asbestos cement.,a,THE WITNESS,start_question
+1269,2847,110,4,Did you have to seal the exhaust on top?,q,MS. VELLUCCI,start_answer
+1270,2849,110,6,"I'm trying to remember.  You sealed everything, you know.",a,THE WITNESS,start_question
+1271,2851,110,8,So that's something that you would have done?,q,MS. VELLUCCI,start_answer
+1272,2853,110,10,"Yes, if it required it.",a,THE WITNESS,start_question
+1273,2854,110,11,And how do you know the cement that you were working with was asbestos cement?,q,MS. VELLUCCI,start_answer
+1274,2856,110,13,Because everything was.  I don't specifically know.,a,THE WITNESS,start_question
+1275,2858,110,15,"Do you know what color it was, do you remember?",q,MS. VELLUCCI,start_answer
+1276,2860,110,17,Gray.,a,THE WITNESS,start_question
+1277,2861,110,18,Was there ever a time when the cement that was on the -- that was there sealing the exhaust had to ever be scraped off or removed?,q,MS. VELLUCCI,start_answer
+1278,2864,110,21,Every year we cleaned it.,a,THE WITNESS,start_question
+1279,2865,110,22,Okay.  And can you tell me what you did to clean that boiler?,q,MS. VELLUCCI,start_answer
+1280,2867,110,24,"You removed the exhaust.  I believe it was probably 6-inch pipe, exhaust that went on top of it.  You pull that out of the chimney, and then you pull the metal cap off. And then under that, you had all these -- you had these fins you pulled out of these slots.  And you took the cover off and you cleaned all the fins and you vacuumed out the inside, and then you put the asbestos back on the top to seal it.  You got a new gasket on top to seal it. I'm trying to remember.  I'm getting a little hazy on that, how exactly we did it, but I know there was asbestos rope -- it was like a rope we put in the top.",a,THE WITNESS,start_question
+1281,2883,111,15,"Was the asbestos rope the gasket, or is the gasket something else?",q,MS. VELLUCCI,start_answer
+1282,2885,111,17,That was the gasket.,a,THE WITNESS,start_question
+1283,2886,111,18,Okay.  And how is it that you believe that the rope was asbestos?,q,MS. VELLUCCI,start_answer
+1284,2888,111,20,"I knew it, I guess.",a,THE WITNESS,start_question
+1285,2889,111,21,What color was it?,q,MS. VELLUCCI,start_answer
+1286,2890,111,22,It was grayish.,a,THE WITNESS,start_question
+1287,2891,111,23,"Did you have to -- every time you cleaned the boiler, did you have to remove the rope?",q,MS. VELLUCCI,start_answer
+1288,2895,112,2,Yes.,a,THE WITNESS,start_question
+1289,2896,112,3,Would you install the same rope?,q,MS. VELLUCCI,start_answer
+1290,2897,112,4,"I think we tried to save it sometimes, but we wet it.  We would wet it, and it would get -- there would be carbon mess, and it would get crappy there.  I think we reused it sometimes.",a,THE WITNESS,start_question
+1291,2902,112,9,And sometimes you'd have to replace it?,q,MS. VELLUCCI,start_answer
+1292,2904,112,11,Yeah.,a,THE WITNESS,start_question
+1293,2905,112,12,Did you ever have to cut or trim the rope?,q,MS. VELLUCCI,start_answer
+1294,2907,112,14,"I'm certain we did.  I would -- yeah, it's a guess.",a,THE WITNESS,start_question
+1295,2909,112,16,Okay.  Is it your belief that that's something you did with that boiler?,q,MS. VELLUCCI,start_answer
+1296,2911,112,18,Yes.,a,THE WITNESS,start_question
+1297,2912,112,19,You mentioned that -- strike that. Did you have to put the asbestos cement in more than one place on the boiler?,q,MS. VELLUCCI,start_answer
+1298,2915,112,22,Not that I recall.,a,THE WITNESS,start_question
+1299,2916,112,23,Okay.  Did you put the asbestos cement on the boiler every year?,q,MS. VELLUCCI,start_answer
+1300,2919,113,1,Yes.,a,THE WITNESS,start_question
+1301,2920,113,2,"The cement that you were using, did that come -- was that a dry product that you mixed, or was it a premixed wet product?",q,MS. VELLUCCI,start_answer
+1302,2923,113,5,"I could be wrong here.  Maybe the stuff that went on -- that you sealed the pipe with wasn't asbestos.  Maybe it was just a concrete product.  I don't recall.  I don't know what that was made out of.  I know the gasket was asbestos because of the heat and all that, but I don't know about the top stuff.  I mean, there's cements -- there's furnace cements and all that that aren't asbestos.",a,THE WITNESS,start_question
+1303,2932,113,14,"And as we sit here today, you just don't know one way or the other?",q,MS. VELLUCCI,start_answer
+1304,2934,113,16,"Yeah, I'm not sure on that.",a,THE WITNESS,start_question
+1305,2935,113,17,"And you never had the product tested, did you?",q,MS. VELLUCCI,start_answer
+1306,2937,113,19,No.,a,THE WITNESS,start_question
+1307,2938,113,20,Okay.  Did you ever have to either sand or scrape or remove the cement from that boiler?,q,MS. VELLUCCI,start_answer
+1308,2941,113,23,Yeah.,a,THE WITNESS,start_question
+1309,2942,113,24,How often did you do that?,q,MS. VELLUCCI,start_answer
+1310,2944,114,1,Every year when you did the job.,a,THE WITNESS,start_question
+1311,2945,114,2,How long would that take?,q,MS. VELLUCCI,start_answer
+1312,2946,114,3,Not long at all.  Minutes.,a,THE WITNESS,start_question
+1313,2947,114,4,I'm sorry?,q,MS. VELLUCCI,start_answer
+1314,2948,114,5,Minutes.,a,THE WITNESS,start_question
+1315,2949,114,6,"What did you use to remove the cement, what kind of a tool?",q,MS. VELLUCCI,start_answer
+1316,2951,114,8,Some type of scraping device.,a,THE WITNESS,start_question
+1317,2952,114,9,"When you used the scraping device on the cement, did it create dust?",q,MS. VELLUCCI,start_answer
+1318,2954,114,11,I'm not sure.,a,THE WITNESS,start_question
+1319,2955,114,12,Did it come off in multiple pieces as you were scraping?,q,MS. VELLUCCI,start_answer
+1320,2957,114,14,Yes.,a,THE WITNESS,start_question
+1321,2958,114,15,And did that -- did the pieces fall to the floor?,q,MS. VELLUCCI,start_answer
+1322,2960,114,17,"They stayed on top, and we picked them up.",a,THE WITNESS,start_question
+1323,2962,114,19,With your hands?,q,MS. VELLUCCI,start_answer
+1324,2963,114,20,Yeah.,a,THE WITNESS,start_question
+1325,2964,114,21,Did anything get on the floor so you'd have to sweep it up?,q,MS. VELLUCCI,start_answer
+1326,2966,114,23,"When you were all done, you had a mess.",a,THE WITNESS,start_question
+1327,2969,115,1,And you'd sweep that up?,q,MS. VELLUCCI,start_answer
+1328,2970,115,2,Correct.,a,THE WITNESS,start_question
+1329,2971,115,3,And was that dusty?,q,MS. VELLUCCI,start_answer
+1330,2972,115,4,I would assume.  I don't know.,a,THE WITNESS,start_question
+1331,2973,115,5,"When you -- where would you get the replacement rope, the gasket?",q,MS. VELLUCCI,start_answer
+1332,2975,115,7,That would be another guess.,a,THE WITNESS,start_question
+1333,2976,115,8,"And I don't want you to guess.  If you know, that's good.",q,MS. VELLUCCI,start_answer
+1334,2978,115,10,I don't know.,a,THE WITNESS,start_question
+1335,2979,115,11,Okay.,q,MS. VELLUCCI,start_answer
+1336,2980,115,12,I know there was a local store that we bought stuff from.,a,THE WITNESS,start_question
+1337,2982,115,14,"What about the cement, do you know where you purchased that?",q,MS. VELLUCCI,start_answer
+1338,2984,115,16,I don't know.  I'm just saying there was a local plumbing and heating store that we frequented.,a,THE WITNESS,start_question
+1339,2987,115,19,Do you know how many times you would work with the rope?  Was that annually as well?,q,MS. VELLUCCI,start_answer
+1340,2989,115,21,That was every year.,a,THE WITNESS,start_question
+1341,2990,115,22,"And I think I started to ask you this and I think we got sidetracked a little bit. The cement that you installed, did that come premixed, or was that a dry product that you added water to?",q,MS. VELLUCCI,start_answer
+1342,2996,116,3,The rope?,a,THE WITNESS,start_question
+1343,2997,116,4,Not the rope.  The cement.,q,MS. VELLUCCI,start_answer
+1344,2998,116,5,"I don't know.  I don't recall.  I know -- like I said before, I'm not even sure it was an asbestos product, but I know we always used to finish off sealing the top off, you know. Actually, I don't think it was that crucial because there was a positive airflow, so it wasn't like -- the chimney was sucking everything up, so it's not like this had to be super sealed.",a,THE WITNESS,start_question
+1345,3008,116,15,Did you do this work that you described with the cement and the rope?  You said it was annual.  Did you do that every year until you moved out in 1977?,q,MS. VELLUCCI,start_answer
+1346,3012,116,19,I did it a long time.  I don't recall until when.  She had a new furnace put in at one time.  That's when I stopped.,a,THE WITNESS,start_question
+1347,3015,116,22,That was your mom?  Your mom had a new furnace installed?,q,MS. VELLUCCI,start_answer
+1348,3017,116,24,Yeah.,a,THE WITNESS,start_question
+1349,3019,117,1,Was that after you moved out?,q,MS. VELLUCCI,start_answer
+1350,3020,117,2,"Oh, yeah.",a,THE WITNESS,start_question
+1351,3021,117,3,Did you continue to do this annual cleaning of the furnace after you moved out?,q,MS. VELLUCCI,start_answer
+1352,3023,117,5,Yes.,a,THE WITNESS,start_question
+1353,3024,117,6,"So you did it through 1977, the cleaning that we just talked about?",q,MS. VELLUCCI,start_answer
+1354,3026,117,8,Yeah.,a,THE WITNESS,start_question
+1355,3027,117,9,And then you did this annual maintenance sometime after 1977 as well?,q,MS. VELLUCCI,start_answer
+1356,3029,117,11,Yeah.,a,THE WITNESS,start_question
+1357,3030,117,12,"Okay.  What else was in the basement? Was it a finished basement, an unfinished basement?",q,MS. VELLUCCI,start_answer
+1358,3033,117,15,"No, unfinished.",a,THE WITNESS,start_question
+1359,3034,117,16,"And was there anything else down there?  Was there laundry?  Was there like a rec room, anything like that?",q,MS. VELLUCCI,start_answer
+1360,3037,117,19,Laundry.,a,THE WITNESS,start_question
+1361,3038,117,20,Did you ever go downstairs into the basement to do laundry while you were living there?,q,MS. VELLUCCI,start_answer
+1362,3041,117,23,Yes.,a,THE WITNESS,start_question
+1363,3042,117,24,And where was the laundry in relation to that boiler?,q,MS. VELLUCCI,start_answer
+1364,3045,118,2,Boiler was in the southern room. Laundry was in the eastern wall.,a,THE WITNESS,start_question
+1365,3047,118,4,About how many feet away?,q,MS. VELLUCCI,start_answer
+1366,3048,118,5,"A dozen, ten.",a,THE WITNESS,start_question
+1367,3049,118,6,Would you say that you were downstairs in that basement on a daily basis while you lived there?,q,MS. VELLUCCI,start_answer
+1368,3052,118,9,No.,a,THE WITNESS,start_question
+1369,3053,118,10,How often were you downstairs?,q,MS. VELLUCCI,start_answer
+1370,3054,118,11,A few times a week.,a,THE WITNESS,start_question
+1371,3055,118,12,"All right.  Thinking still about the home at 17 Sunnyridge Drive, can you think of any other types of home renovation, repair work, construction work that you did or you helped someone do at that home?",q,MS. VELLUCCI,start_answer
+1372,3060,118,17,Yes.,a,THE WITNESS,start_question
+1373,3061,118,18,And what's that?,q,MS. VELLUCCI,start_answer
+1374,3062,118,19,Glazing windows.,a,THE WITNESS,start_question
+1375,3063,118,20,"Okay.  I will let someone else ask some more detailed questions about that, but if you could just tell me the time frame?  Was it the entire time you lived there?",q,MS. VELLUCCI,start_answer
+1376,3067,118,24,"Let's put it mildly, my old man didn't do shit at home.  I did everything, okay.  So if there was something that had to be done, I had to do it.  So if there was a busted window, if there was something that had to be -- you know, the putty was falling out of the window, I did the glazing. Since I was a little shit, I did everything.  So he'd send me down to the hardware store, tell me to get a pane of glass. I'd get the pane of glass.  I'd come home, I'd put it in.",a,THE WITNESS,start_question
+1377,3080,119,12,Okay.,q,MS. VELLUCCI,start_answer
+1378,3081,119,13,"All right.  So that's just the way it was.  So everything that happened, every repair that was on that house I did it at one time or the other.  I sided that house when I was in high school.  I did basically everything you could think about.  And, you know, part of it was all the windows.  I mean, I did it -- like, in the '70s I did -- in the early '70s I glazed all the windows, you know, what needed to be done, popped out all the loose glazing and got my DAP and simple job once you do a few windows.",a,THE WITNESS,start_question
+1379,3094,120,1,Okay.,q,MS. VELLUCCI,start_answer
+1380,3095,120,2,So I did -- that's what I did.,a,THE WITNESS,start_question
+1381,3096,120,3,And you said you sided the house.  Did you remove the siding that was existing?,q,MS. VELLUCCI,start_answer
+1382,3098,120,5,"It had asphalt siding on it.  It was probably asbestos siding, too.  We covered it with vinyl.",a,THE WITNESS,start_question
+1383,3101,120,8,"Did you remove the existing siding, or did you just put vinyl on top of it?",q,MS. VELLUCCI,start_answer
+1384,3103,120,10,"We left it.  No, I don't even know.  I don't even know.",a,THE WITNESS,start_question
+1385,3105,120,12,Do you recall when it is that you did the siding at this house?,q,MS. VELLUCCI,start_answer
+1386,3107,120,14,"1972, high school, just getting out of high school.",a,THE WITNESS,start_question
+1387,3109,120,16,Okay.  And you said that the siding that existed on the house was probably asbestos siding.  Why do you say that?,q,MS. VELLUCCI,start_answer
+1388,3112,120,19,"It was probably -- it was asphalt.  It was this black stuff.  It was really thick and really textured outside like shingles.  I think it was asphalt, not asbestos, but I'm trying to remember if we took the stuff off or not.  I think we did because it was too thick on the windows.",a,THE WITNESS,start_question
+1389,3120,121,2,Did you remove the siding from the entire house or just around the windows?,q,MS. VELLUCCI,start_answer
+1390,3122,121,4,"No, I think we did the whole house.",a,THE WITNESS,start_question
+1391,3123,121,5,How long did that take you to do?,q,MS. VELLUCCI,start_answer
+1392,3124,121,6,A few weeks.,a,THE WITNESS,start_question
+1393,3125,121,7,Did anyone help you?,q,MS. VELLUCCI,start_answer
+1394,3126,121,8,"Yeah, he had some drunk buddy that would set us up every day.",a,THE WITNESS,start_question
+1395,3128,121,10,"And the ""he"" is your father?",q,MS. VELLUCCI,start_answer
+1396,3129,121,11,Yeah.,a,THE WITNESS,start_question
+1397,3130,121,12,Do you remember the buddy's name?,q,MS. VELLUCCI,start_answer
+1398,3131,121,13,"He'd come over and have a few beers and tell you how to trim a window.  Oh, the pleasant memories.",a,THE WITNESS,start_question
+1399,3134,121,16,Do you remember the friend's name?,q,MS. VELLUCCI,start_answer
+1400,3135,121,17,"Stanley, the roofer.  Stanley Wosinowski or something like that.",a,THE WITNESS,start_question
+1401,3137,121,19,Would you be able to tell me the brand of the existing siding?,q,MS. VELLUCCI,start_answer
+1402,3139,121,21,"No, it's vinyl.",a,THE WITNESS,start_question
+1403,3140,121,22,That's what you installed?,q,MS. VELLUCCI,start_answer
+1404,3141,121,23,Yeah.,a,THE WITNESS,start_question
+1405,3142,121,24,And there's no way to know the brand of the siding that was existing on the house?,q,MS. VELLUCCI,start_answer
+1406,3145,122,2,"If I went over the house and pulled the piece off, I could tell you.",a,THE WITNESS,start_question
+1407,3147,122,4,"Who lives there now at that address, do you know?",q,MS. VELLUCCI,start_answer
+1408,3149,122,6,We finally got rid of it.  Somebody bought it.,a,THE WITNESS,start_question
+1409,3151,122,8,When was it sold?,q,MS. VELLUCCI,start_answer
+1410,3152,122,9,It was just sold this year.,a,THE WITNESS,start_question
+1411,3153,122,10,In 2018?,q,MS. VELLUCCI,start_answer
+1412,3154,122,11,Yeah.,a,THE WITNESS,start_question
+1413,3155,122,12,And did your mom own it up until 2018?,q,MS. VELLUCCI,start_answer
+1414,3156,122,13,"Yeah, we tried forever to give it away.  They finally took it.",a,THE WITNESS,start_question
+1415,3158,122,15,So it was a private sale?,q,MS. VELLUCCI,start_answer
+1416,3159,122,16,It's a nightmare.  The whole thing was a nightmare.  My sister living in another state and passed away five years ago arranged mortgages for my sister living there and taking care of her.  We had no idea this house was upside down.  It was a nightmare.,a,THE WITNESS,start_question
+1417,3165,122,22,"But regardless, you don't own it?",q,MS. VELLUCCI,start_answer
+1418,3166,122,23,"No.  And you know what, I basically took care of that house for -- until three years ago.  I had enough.",a,THE WITNESS,start_question
+1419,3170,123,2,"Did you ever do any -- again, thinking about that same home, any drywall or sheetrock or joint compound work?",q,MS. VELLUCCI,start_answer
+1420,3173,123,5,All the time.,a,THE WITNESS,start_question
+1421,3174,123,6,Okay.  And what did you do?,q,MS. VELLUCCI,start_answer
+1422,3175,123,7,Fixed the holes that the old man made.,a,THE WITNESS,start_question
+1423,3176,123,8,"And do you remember around the first time you would have done that type of work, repairing holes?",q,MS. VELLUCCI,start_answer
+1424,3179,123,11,I was a kid.,a,THE WITNESS,start_question
+1425,3180,123,12,And did that continue for the entire time you lived there through 1977?,q,MS. VELLUCCI,start_answer
+1426,3182,123,14,"Like I said, whenever there was a problem, I fixed it.  I'm not saying holes all the time, but he made holes.  He punched walls.",a,THE WITNESS,start_question
+1427,3185,123,17,Can you tell me how it is you went about repairing the holes?,q,MS. VELLUCCI,start_answer
+1428,3187,123,19,A sheetrock hole?,a,THE WITNESS,start_question
+1429,3188,123,20,Yes.,q,MS. VELLUCCI,start_answer
+1430,3189,123,21,"Simple.  Just find out where your hole is, find out where your stud is, go wide enough to get halfway into your stud, cut the sheetrock off half of the stud.  Cut the sheetrock off the other half of the stud, you know, make your square piece, whatever it is, and cut your new sheetrock and fit it in there so it's overlapping on two studs.  Throw a couple of screws in there to hold it in place. Get your mud.  Get your tape.  Put some mud down.  Put some tape down.  Let it dry.  Do it again.  Do it again.",a,THE WITNESS,start_question
+1431,3202,124,9,"All right.  Let me ask you a couple of quick follow-up questions.  About the sheetrock, do you know the brand name, trade name, or manufacturer of the sheetrock you were working with?",q,MS. VELLUCCI,start_answer
+1432,3207,124,14,"No, but if you pop it on me, I'm going to say, oh, yeah.",a,THE WITNESS,start_question
+1433,3209,124,16,"But, as you sit here today, you don't know?",q,MS. VELLUCCI,start_answer
+1434,3211,124,18,"No.  Didn't it all come from Canada, if I'm not mistaken?  I don't know.",a,THE WITNESS,start_question
+1435,3213,124,20,Were you cutting the sheetrock that was already in the wall just to kind of make a better shape?,q,MS. VELLUCCI,start_answer
+1436,3216,124,23,Yeah.,a,THE WITNESS,start_question
+1437,3217,124,24,And then would you buy sheetrock to put into the gap?,q,MS. VELLUCCI,start_answer
+1438,3220,125,2,Yeah.,a,THE WITNESS,start_question
+1439,3221,125,3,And did you have to cut that sheetrock as well to fit it?,q,MS. VELLUCCI,start_answer
+1440,3223,125,5,Yeah.,a,THE WITNESS,start_question
+1441,3224,125,6,What did you use to cut the sheetrock with?,q,MS. VELLUCCI,start_answer
+1442,3226,125,8,Utility knife.,a,THE WITNESS,start_question
+1443,3227,125,9,And did that create dust?,q,MS. VELLUCCI,start_answer
+1444,3228,125,10,"Oh, yeah, you took a -- go ahead.",a,THE WITNESS,start_question
+1445,3229,125,11,And then you said you used mud and you used tape?,q,MS. VELLUCCI,start_answer
+1446,3231,125,13,Yeah.,a,THE WITNESS,start_question
+1447,3232,125,14,"Do you know the brand name, trade name, or manufacturer of the mud that you used?",q,MS. VELLUCCI,start_answer
+1448,3234,125,16,The joint compound?,a,THE WITNESS,start_question
+1449,3235,125,17,Yes.,q,MS. VELLUCCI,start_answer
+1450,3236,125,18,It's flying around up there somewheres.,a,THE WITNESS,start_question
+1451,3238,125,20,"As you sit here today, you don't know?",q,MS. VELLUCCI,start_answer
+1452,3239,125,21,I can go downstairs and tell you.,a,THE WITNESS,start_question
+1453,3240,125,22,How so?,q,MS. VELLUCCI,start_answer
+1454,3241,125,23,I've got a bucket down there.,a,THE WITNESS,start_question
+1455,3242,125,24,It's the same type of product that you used back at your mother's home?,q,MS. VELLUCCI,start_answer
+1456,3245,126,2,Yeah.,a,THE WITNESS,start_question
+1457,3246,126,3,Do you know the brand of the tape that you used?,q,MS. VELLUCCI,start_answer
+1458,3248,126,5,No.,a,THE WITNESS,start_question
+1459,3249,126,6,"Do you know where you would have purchased the sheetrock, the mud, or the tape?",q,MS. VELLUCCI,start_answer
+1460,3251,126,8,"The stuff that I have over here I got from Home Depot.  The old, you know, stuff I would have had before I would have got from either Southington Hardware or Parker's Hardware in Plantsville.  That was a long time ago.  Even Kmart used to sell the stuff.",a,THE WITNESS,start_question
+1461,3257,126,14,"After you applied the mud and the tape, you said you would let it dry and you'd do it again?",q,MS. VELLUCCI,start_answer
+1462,3260,126,17,"Oh, yeah.",a,THE WITNESS,start_question
+1463,3261,126,18,How many times would you kind of go through that for a particular hole?,q,MS. VELLUCCI,start_answer
+1464,3263,126,20,It depends on how good you are.,a,THE WITNESS,start_question
+1465,3264,126,21,And how good were you?,q,MS. VELLUCCI,start_answer
+1466,3265,126,22,"I got good at it.  I did all the windows -- not these rooms, but all these other rooms I changed the windows because we had windows like across the street like ranch windows.  I pulled all those out and, you know, depends on how good you are.  Practice makes perfect.",a,THE WITNESS,start_question
+1467,3273,127,5,"Back then in the '70s or even in the '60s when you were doing this, do you know how many times you would have -- how many layers, in other words, you would have had to apply?",q,MS. VELLUCCI,start_answer
+1468,3277,127,9,"No, a couple, two or three layers. There's a little bit -- the more you do it, you just put a little bit more on.  You feather it in, you know, because the more you put on, the more you've got to take off.",a,THE WITNESS,start_question
+1469,3282,127,14,Did you have to do anything to the first layer before you applied the second layer?,q,MS. VELLUCCI,start_answer
+1470,3285,127,17,Let it dry.,a,THE WITNESS,start_question
+1471,3286,127,18,And did you have to do anything after it dried?,q,MS. VELLUCCI,start_answer
+1472,3288,127,20,All depended on how good you were.,a,THE WITNESS,start_question
+1473,3289,127,21,"Do you remember, for the work you did, did you have to do anything after it dried?",q,MS. VELLUCCI,start_answer
+1474,3291,127,23,"Yeah, you played with it.  You played with it until it looked good, until it felt smooth, so you could step back and not see an imperfection.",a,THE WITNESS,start_question
+1475,3296,128,3,And how did you do that?  How did you make it smooth?,q,MS. VELLUCCI,start_answer
+1476,3298,128,5,By putting the right amount of compound on it and by sanding it.  They have these screen devices; it's like you buy one at Home Depot.  It's a sanding device on a pole.,a,THE WITNESS,start_question
+1477,3302,128,9,So you would use like a pole sander?,q,MS. VELLUCCI,start_answer
+1478,3303,128,10,"Yeah.  It sands very easily, then of course, you end up sucking it in, which isn't good.",a,THE WITNESS,start_chat
+1479,3306,128,13,"All right.  Let's take a break, sir.  Thank you.",side_chat,MS. VELLUCCI,start_chat
+1480,3308,128,15,Off the record at 12:05 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+1481,3310,128,17,"(Off the record, 12:05 p.m.)",brackets,,is brackets
+1482,3311,128,18,"(Whereupon, the deposition was suspended at 12:12 p.m.) STATE OF CONNECTICUT WATERBURY, ss. I, DEANNA L. VEINOTTE, a Registered for the State of Connecticut, do hereby certify me on January 31, 2019; prior to being examined, was by me first duly That said deposition was taken before me at taken down by me in shorthand and thereafter and supervision; the testimony given by the witness and of all I further certify that I am neither counsel nor in any way interested in the outcome name and affixed my seal this 8th day of DEANNA L. VEINOTTE, RPR, CRR, CCP, CRC My Commission expires:  July 31, 2021 TRANSCRIPT DOES NOT APPLY TO ANY REPRODUCTION DIRECT CONTROL AND/OR DIRECTION OF THE SIGNATURE - ERRATA SHEET the pains and penalties of perjury that I have and further certify that said transcript is a the exception of the corrections, additions, PAGE LINE  CORRECTIONS, ADDITION OR DELETION",brackets,,symbols
+1483,3374,130,8,____ _____ ____________________________________,symbols,,symbols
+1484,3375,130,9,____ _____ ____________________________________,symbols,,symbols
+1485,3376,130,10,____ _____ ____________________________________,symbols,,symbols
+1486,3377,130,11,____ _____ ____________________________________,symbols,,symbols
+1487,3378,130,12,____ _____ ____________________________________,symbols,,symbols
+1488,3379,130,13,____ _____ ____________________________________,symbols,,symbols
+1489,3380,130,14,____ _____ ____________________________________,symbols,,symbols
+1490,3381,130,15,____ _____ ____________________________________,symbols,,symbols
+1491,3382,130,16,____ _____ ____________________________________,symbols,,symbols
+1492,3383,130,17,"____ _____ ____________________________________ Signed under the penalties of perjury this _____ day of __________, 2019.",symbols,,symbols
+1493,3388,130,22,_________________________ JOSEPH SAZANOWICZ,symbols,,symbols
+1494,3392,131,1,********************************************** INSTRUCTIONS TO DEPONENT,symbols,,symbols
+1495,3394,131,3,"********************************************** After reading this volume of your deposition, indicate any corrections or changes to your testimony and the reasons therefor on the Errata Sheet supplied to you, and sign it. TRANSCRIPT VOLUME ITSELF!",symbols,,symbols
+1496,3403,131,11,********************************************** ERRATA SHEET HANDLING/DISTRIBUTION,symbols,,symbols
+1497,3405,131,13,"********************************************** The original of the Errata Sheet has been delivered to Christopher Meisenkothen, Esq. When the Errata Sheet has been completed by the deponent and signed, a copy thereof should be delivered to each party of record and the ORIGINAL thereof delivered to Christopher Meisenkothen, Esq., to whom the original deposition transcript was delivered.",symbols,,symbols
+1498,3414,131,22,********************************************** THE COMPLETED AND SIGNED ERRATA SHEET WHEN YOU,symbols,,symbols
+1499,3418,131,24,**********************************************,symbols,,end

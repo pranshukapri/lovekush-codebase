@@ -1,0 +1,1126 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, defenses.,,,start_chat
+1,313,9,8,Agreed.,side_chat,MR. HUMEN,start_chat
+2,314,9,9,Okay. DIRECT EXAMINATION,side_chat,MR. KENNY,start_question
+3,317,9,12,"Good morning, sir.",q,MR. KENNY,start_answer
+4,318,9,13,Good morning.,a,THE WITNESS,start_question
+5,319,9,14,My name is Ryan Kenny.  I'm going to be asking you probably most of the questions this morning.  Then there might be a few other attorneys in the room that are going to have some follow-up questions.,q,MR. KENNY,start_answer
+6,323,9,18,Um-hum.,a,THE WITNESS,start_question
+7,324,9,19,Have you ever had your deposition taken before?,q,MR. KENNY,start_answer
+8,326,9,21,No.,a,THE WITNESS,start_question
+9,327,9,22,"Okay.  One thing that we have to remember here is Niki is taking down everything we say, and so it's important that, unlike normal everyday talk where we are talking over one another, that you just wait for me to finish my question before you go ahead with your answer.",q,MR. KENNY,start_answer
+10,333,10,3,Um-hum.  Yep.,a,THE WITNESS,start_question
+11,334,10,4,And I'll do the same.  I'll be respectful and wait for you to answer --,q,MR. KENNY,start_answer
+12,336,10,6,Okay.,a,THE WITNESS,start_question
+13,337,10,7,-- before I ask my next question.,q,MR. KENNY,start_answer
+14,338,10,8,Okay.,a,THE WITNESS,start_question
+15,339,10,9,"After I ask my question and you give me an answer, I'm going to assume that, one, you understood it and, two, it was a truthful answer to the best of your memory.  Okay?",q,MR. KENNY,start_answer
+16,343,10,13,"Um-hum, yes.",a,THE WITNESS,start_question
+17,344,10,14,"We are going back many years here.  A lot of things you may not remember, so the last thing I want you to do is guess.  If you don't understand or if you don't know the answer to something, just please tell me --",q,MR. KENNY,start_answer
+18,349,10,19,Um-hum.,a,THE WITNESS,start_question
+19,350,10,20,"-- you know, ""I don't know"" or ""I don't recall""?",q,MR. KENNY,start_answer
+20,352,10,22,Yep.,a,THE WITNESS,start_question
+21,353,10,23,Okay?,q,MR. KENNY,start_answer
+22,354,10,24,Yep.,a,THE WITNESS,start_question
+23,356,11,1,"If you need a break at any time, just let us know.  We'll go off the record, take a quick five.",q,MR. KENNY,start_answer
+24,358,11,3,Okay.,a,THE WITNESS,start_question
+25,359,11,4,"It's also important, again Niki taking down everything we say here, that you remember to answer verbally.  So she can't take down a shake of the head --",q,MR. KENNY,start_answer
+26,362,11,7,"Oh, yeah.",a,THE WITNESS,start_question
+27,363,11,8,-- or a nod or something like that.,q,MR. KENNY,start_answer
+28,364,11,9,Yeah.  Okay.,a,THE WITNESS,start_question
+29,365,11,10,All right?,q,MR. KENNY,start_answer
+30,366,11,11,Okay.,a,THE WITNESS,start_question
+31,367,11,12,"And the last thing, if you could just please keep your voice up to the best you can.  We have some folks on the phone.",q,MR. KENNY,start_answer
+32,370,11,15,Yep.,a,THE WITNESS,start_question
+33,371,11,16,"You are doing a great job so far, so. All right.  Could you please state your full name for the record, please?",q,MR. KENNY,start_answer
+34,374,11,19,Lawrence T. Donovan.,a,THE WITNESS,start_question
+35,375,11,20,"And where were you born, Mr. Donovan?",q,MR. KENNY,start_answer
+36,376,11,21,"Boston, Massachusetts.",a,THE WITNESS,start_question
+37,377,11,22,And were you born in actually Boston?,q,MR. KENNY,start_answer
+38,378,11,23,Yes.,a,THE WITNESS,start_question
+39,379,11,24,Okay.  What hospital?,q,MR. KENNY,start_answer
+40,381,12,1,Boston City Hospital.,a,THE WITNESS,start_question
+41,382,12,2,And did you live outside the city growing up?,q,MR. KENNY,start_answer
+42,383,12,3,"I did.  I lived out in -- I lived in Derry, New Hampshire, for about 30 years.",a,THE WITNESS,start_question
+43,385,12,5,"Okay.  And what is your date of birth, sir?",q,MR. KENNY,start_answer
+44,386,12,6,12-20-42.,a,THE WITNESS,start_chat
+45,387,12,7,And can we go off the record?,side_chat,MR. KENNY,is brackets
+46,388,12,8,(Off-the-record discussion held.),brackets,,start_chat
+47,389,12,9,"And back on the record, please.",side_chat,MR. KENNY,start_question
+48,391,12,11,"And what is your current address, Mr. Donovan?",q,MR. KENNY,start_answer
+49,392,12,12,"332 Bradstrom Circle, Naples, Florida.",a,THE WITNESS,start_question
+50,393,12,13,And how long have you lived at this address for?,q,MR. KENNY,start_answer
+51,395,12,15,"Ten years, 12 years.  Ten or 12 years.",a,THE WITNESS,start_question
+52,396,12,16,And have you lived at this address full time?,q,MR. KENNY,start_answer
+53,397,12,17,"No, six months out of the year, a little over six months, actually.",a,THE WITNESS,start_question
+54,399,12,19,Where do you live the other six months?,q,MR. KENNY,start_answer
+55,400,12,20,"Dedham, Massachusetts.",a,THE WITNESS,start_question
+56,401,12,21,So you currently still have a residence in Dedham?,q,MR. KENNY,start_answer
+57,403,12,23,Um-hum.,a,THE WITNESS,start_question
+58,404,12,24,And what's the address of that?,q,MR. KENNY,start_answer
+59,406,13,1,"4 Calvin Road, C-A-L-V-I-N.",a,THE WITNESS,start_question
+60,407,13,2,And how long have you lived at that home?,q,MR. KENNY,start_answer
+61,408,13,3,"Oh, about the same, ten, 12 years.",a,THE WITNESS,start_question
+62,409,13,4,And when do you leave the Dedham home to come down to Florida?,q,MR. KENNY,start_answer
+63,411,13,6,"Usually at the end of August.  I mean, I'm sorry.  October.",a,THE WITNESS,start_question
+64,413,13,8,So -- and when do you go back to the home?,q,MR. KENNY,start_answer
+65,414,13,9,"This year we are going to leave the beginning of May, May 3rd or 4th, something like that.",a,THE WITNESS,start_question
+66,416,13,11,And has that been kind of your routine since you moved down to Florida?,q,MR. KENNY,start_answer
+67,418,13,13,"Yeah, end of April, early May, yeah.  Yeah. Miss the snow.",a,THE WITNESS,start_question
+68,420,13,15,Smart move.,q,MR. KENNY,start_answer
+69,421,13,16,Yeah.,a,THE WITNESS,start_question
+70,422,13,17,Do you have any plans to move in the future either from your Dedham home or from your Florida home?,q,MR. KENNY,start_answer
+71,424,13,19,No.,a,THE WITNESS,start_question
+72,425,13,20,"As I'm sure you're aware, this case has been filed in Massachusetts.  Would you have any trouble traveling to Massachusetts to testify at this case?",q,MR. KENNY,start_answer
+73,428,13,23,No.  As long as you pay my freight.,a,THE WITNESS,start_question
+74,429,13,24,"Okay.  We'll talk to your lawyer about that. And, sir, are you currently married?",q,MR. KENNY,start_answer
+75,432,14,2,"No, widowed.",a,THE WITNESS,start_question
+76,433,14,3,Sorry to hear that.,q,MR. KENNY,start_answer
+77,434,14,4,All right.,a,THE WITNESS,start_question
+78,435,14,5,"Do you and your wife, your former wife have kids?",q,MR. KENNY,start_answer
+79,437,14,7,"Yes, three.",a,THE WITNESS,start_question
+80,438,14,8,And what are their names?,q,MR. KENNY,start_answer
+81,439,14,9,"Lawrence, Jr., Maureen, and Diane.",a,THE WITNESS,start_question
+82,440,14,10,And how old is Lawrence?,q,MR. KENNY,start_answer
+83,441,14,11,Forty-nine.,a,THE WITNESS,start_question
+84,442,14,12,Where does he live?,q,MR. KENNY,start_answer
+85,443,14,13,"He lives in New York City, Brooklyn.",a,THE WITNESS,start_question
+86,444,14,14,And how about Maureen?  How old is Maureen?,q,MR. KENNY,start_answer
+87,445,14,15,She's 48.,a,THE WITNESS,start_question
+88,446,14,16,And where does she live?,q,MR. KENNY,start_answer
+89,447,14,17,"Derry, New Hampshire.",a,THE WITNESS,start_question
+90,448,14,18,And then how about Diane?,q,MR. KENNY,start_answer
+91,449,14,19,"She's 39.  She lives in Hooksett, New Hampshire.",a,THE WITNESS,start_question
+92,451,14,21,And how are your children's health?,q,MR. KENNY,start_answer
+93,452,14,22,Good.,a,THE WITNESS,start_question
+94,453,14,23,Good.  And what did your wife pass away from?,q,MR. KENNY,start_answer
+95,454,14,24,"Dementia, I guess, Alzheimer's.",a,THE WITNESS,start_question
+96,456,15,1,Have either your wife or any of your kids ever been diagnosed with any form of cancer?,q,MR. KENNY,start_answer
+97,458,15,3,No.,a,THE WITNESS,start_question
+98,459,15,4,And how is your health generally?,q,MR. KENNY,start_answer
+99,460,15,5,It's all right.  It's good.,a,THE WITNESS,start_question
+100,461,15,6,Have you ever been diagnosed with any asbestos-related disease?,q,MR. KENNY,start_answer
+101,463,15,8,"Yes, I have pleural plaque.",a,THE WITNESS,start_question
+102,464,15,9,And when were you diagnosed with pleural plaque?,q,MR. KENNY,start_answer
+103,466,15,11,"Well, actually, as it turns out I have a --",a,THE WITNESS,start_chat
+104,467,15,12,Should I show it to him?,side_chat,THE WITNESS,start_chat
+105,468,15,13,You can if you want.  Yeah.,side_chat,MR. HUMEN,start_answer
+106,469,15,14,"I had x-rays taken yesterday for something else, and ""calcified pleural plaques bilaterally, sequela, S-E-Q-U-E-L-A, of previous asbestos exposure. Small calcified granulomas as seen at the right lung apex.  Prominent thoracic spine end plate -- but that has nothing to do with -- calcifications are seen within the aortic lobe.""",a,THE WITNESS,start_question
+107,477,15,22,"With permission of your counsel, do you mind if I take a look at that?",q,MR. KENNY,start_chat
+108,479,15,24,All right?,side_chat,THE WITNESS,start_chat
+109,481,16,1,I don't have a problem with that.,side_chat,MR. HUMEN,start_chat
+110,482,16,2,"Why don't we go ahead and mark this, if that's okay?  I'll make a copy of it so he can take the original home.  We'll mark this as Exhibit 1.",side_chat,MR. KENNY,is brackets
+111,486,16,6,(Exhibit Number 1 marked for identification.),brackets,,start_question
+112,488,16,8,It looks like it's a one-page report from Naples Diagnostic Imaging Center from an appointment you had yesterday?,q,MR. KENNY,start_answer
+113,491,16,11,Um-hum.,a,THE WITNESS,start_question
+114,492,16,12,"Now, was this -- was this a follow-up to --",q,MR. KENNY,start_answer
+115,493,16,13,"No.  As it turned out, he thought it was from walking.  I walk a couple of miles a day most days, and my right -- my left nipple was bleeding.  So I went to see if it might have been something in there causing it or whatever was causing it, so he recommended I take an x-ray?",a,THE WITNESS,start_question
+116,499,16,19,"Prior to this x-ray, this check-up, had you been diagnosed with an asbestos-related disease?",q,MR. KENNY,start_answer
+117,501,16,21,"Same thing years ago, yeah.",a,THE WITNESS,start_question
+118,502,16,22,Do you remember approximately when you may have been diagnosed?,q,MR. KENNY,start_answer
+119,504,16,24,I'm going to say in the '70s at Mass. General I had -- then I had follow-ups at Braintree Rehab.  They used to send us all there for x-rays.  And they came up with the same diagnosis.  This might be a little worse than what it used to be.,a,THE WITNESS,start_question
+120,510,17,5,"And when you said ""they would send us all there,"" who is the ""they"" you are talking about?",q,MR. KENNY,start_answer
+121,512,17,7,Through the union.,a,THE WITNESS,start_question
+122,513,17,8,Union.,q,MR. KENNY,start_answer
+123,514,17,9,It set up x-rays for all the membership.,a,THE WITNESS,start_question
+124,515,17,10,And you were a member of Local 7?,q,MR. KENNY,start_answer
+125,516,17,11,Local 6.,a,THE WITNESS,start_question
+126,517,17,12,"Local 6, I'm sorry.",q,MR. KENNY,start_answer
+127,518,17,13,Local 7 is iron workers.,a,THE WITNESS,start_question
+128,519,17,14,That's right.  So the first time you believe you were diagnosed with pleural plaques was sometime in the '70s at MGH?,q,MR. KENNY,start_answer
+129,522,17,17,"I think it was, yeah.",a,THE WITNESS,start_question
+130,523,17,18,"Do you remember if it was the beginning, mid, late?",q,MR. KENNY,start_answer
+131,525,17,20,I don't.,a,THE WITNESS,start_question
+132,526,17,21,And you wouldn't be able to tell me the name of the doctor that diagnosed you originally?,q,MR. KENNY,start_answer
+133,528,17,23,"Oh, geez.  It was a woman doctor.  I don't even know if she's there anymore.  I forget.  I can't remember her name.",a,THE WITNESS,start_question
+134,532,18,2,"Okay.  If it comes back to you, just let me know at any time.",q,MR. KENNY,start_answer
+135,534,18,4,Um-hum.,a,THE WITNESS,start_question
+136,535,18,5,And that goes for anything that we are talking about today.,q,MR. KENNY,start_answer
+137,537,18,7,Yeah.,a,THE WITNESS,start_question
+138,538,18,8,"If you don't remember something and then you remember an hour later, feel free, either at a break just tell your attorney, we can go back and revisit.",q,MR. KENNY,start_answer
+139,541,18,11,Okay.,a,THE WITNESS,start_question
+140,542,18,12,"Okay.  So have you ever filed, brought a lawsuit for your asbestos-related disease?",q,MR. KENNY,start_answer
+141,544,18,14,"Well, I went through Thornton & Early at the time.",a,THE WITNESS,start_question
+142,546,18,16,Okay.,q,MR. KENNY,start_answer
+143,547,18,17,They just started the case.,a,THE WITNESS,start_question
+144,548,18,18,And do you remember when that was?,q,MR. KENNY,start_answer
+145,549,18,19,"Geez, I'm 73 years old now, you know, so my memory is not as good as it used to be.",a,THE WITNESS,start_question
+146,551,18,21,That's fine.  The best you can do.,q,MR. KENNY,start_answer
+147,552,18,22,"Probably the '80s, maybe.",a,THE WITNESS,start_question
+148,553,18,23,And so you had Thornton bring a lawsuit on your behalf --,q,MR. KENNY,start_answer
+149,556,19,1,Yeah.,a,THE WITNESS,start_question
+150,557,19,2,-- for your pleural plaques?,q,MR. KENNY,start_answer
+151,558,19,3,Um-hum.,a,THE WITNESS,start_question
+152,559,19,4,And you sued a number of defendants; is that correct?,q,MR. KENNY,start_answer
+153,561,19,6,Yeah.,a,THE WITNESS,start_question
+154,562,19,7,"Do you know, is that case still pending?  Is it resolved?",q,MR. KENNY,start_answer
+155,564,19,9,I think it's still pending as far as I know. I haven't had any -- any correspondence with any of those for years.,a,THE WITNESS,start_question
+156,567,19,12,Have you received any sort of settlement payments from that lawsuit that you brought?,q,MR. KENNY,start_answer
+157,569,19,14,Very small.,a,THE WITNESS,start_question
+158,570,19,15,Small?,q,MR. KENNY,start_answer
+159,571,19,16,Yeah.  I think Haliburton I got one for $6 and change.  They are a very nice company.,a,THE WITNESS,start_question
+160,573,19,18,Is that $6 a month?,q,MR. KENNY,start_answer
+161,574,19,19,$6 period.,a,THE WITNESS,start_question
+162,575,19,20,"Oh, $6 total?",q,MR. KENNY,start_answer
+163,576,19,21,Yeah.,a,THE WITNESS,start_question
+164,577,19,22,"Oh, wow.  Okay.",q,MR. KENNY,start_answer
+165,578,19,23,Very nice people.,a,THE WITNESS,start_question
+166,579,19,24,"Other than the $6, you recall approximately how much you may have received to date?",q,MR. KENNY,start_answer
+167,582,20,2,"Probably total of maybe 3,000.",a,THE WITNESS,start_question
+168,583,20,3,"And other than Haliburton, do you remember the names of any of the other companies that you may have settled with?",q,MR. KENNY,start_answer
+169,586,20,6,I probably have it back home.  I have them written down somewhere.,a,THE WITNESS,start_question
+170,588,20,8,"Okay.  If you can find that list, I know we are scheduled to go tomorrow as well.",q,MR. KENNY,start_answer
+171,590,20,10,Um-hum.,a,THE WITNESS,start_question
+172,591,20,11,If you find that and --,q,MR. KENNY,start_answer
+173,592,20,12,Yeah.,a,THE WITNESS,start_question
+174,593,20,13,"-- bring it, that would be great. Have you ever been diagnosed with any form of cancer?",q,MR. KENNY,start_answer
+175,596,20,16,Just skin cancer.,a,THE WITNESS,start_question
+176,597,20,17,Skin cancer?,q,MR. KENNY,start_answer
+177,598,20,18,Yeah.,a,THE WITNESS,start_question
+178,599,20,19,"And you're here today to testify in a case that was filed by Peter Crescenzo and his brother, Biagio Crescenzo?",q,MR. KENNY,start_answer
+179,602,20,22,Um-hum.,a,THE WITNESS,start_question
+180,603,20,23,When were you first contacted?  Or were you contacted by either Peter or Biagio regarding this lawsuit?,q,MR. KENNY,start_answer
+181,607,21,2,"No, never.",a,THE WITNESS,start_question
+182,608,21,3,Were you contacted by their attorneys?,q,MR. KENNY,start_answer
+183,609,21,4,"No.  Well, just these guys.",a,THE WITNESS,start_question
+184,610,21,5,Okay.  And are you represented today by Waters & Kraus or Thornton's office?,q,MR. KENNY,start_chat
+185,612,21,7,Yes.,side_chat,MR. HUMEN,start_answer
+186,613,21,8,Yeah.,a,THE WITNESS,start_question
+187,615,21,10,"Okay.  So because you are represented by Thornton's office, I don't want to know the details of any conversations that you had, but I would like to explore a little bit more about the relationship and how you kind of came here today to testify, okay?",q,MR. KENNY,start_answer
+188,620,21,15,"Um-hum, yeah.",a,THE WITNESS,start_question
+189,621,21,16,When were you first contacted by either Waters & Kraus or Thornton's office?,q,MR. KENNY,start_answer
+190,623,21,18,I think it was back in February.,a,THE WITNESS,start_question
+191,624,21,19,And were you contacted by phone call or letter?,q,MR. KENNY,start_answer
+192,626,21,21,Phone call.,a,THE WITNESS,start_question
+193,627,21,22,And do you remember who you spoke with?,q,MR. KENNY,start_answer
+194,628,21,23,Patrick Wigle.,a,THE WITNESS,start_question
+195,629,21,24,Did Mr. Wigle inform that you the Crescenzo brothers had filed lawsuits?,q,MR. KENNY,start_answer
+196,632,22,2,Um-hum.,a,THE WITNESS,start_question
+197,633,22,3,Did he ask if you had ever worked with them?,q,MR. KENNY,start_answer
+198,634,22,4,Yeah.,a,THE WITNESS,start_question
+199,635,22,5,"Okay.  After that initial phone call, did you agree to testify as a coworker in their cases?",q,MR. KENNY,start_answer
+200,637,22,7,Yes.,a,THE WITNESS,start_question
+201,638,22,8,"Other than that phone call in February, have you had any other conversations with anyone from Waters & Kraus or Thornton & Naumes -- or Thornton's Law Firm?",q,MR. KENNY,start_answer
+202,641,22,11,No.  Just Patrick Wigle.,a,THE WITNESS,start_question
+203,642,22,12,And did Patrick call you again after this February?,q,MR. KENNY,start_answer
+204,644,22,14,"Well, he tried to set something I think for February, and that fell through.  Then March again and then finally for this.",a,THE WITNESS,start_question
+205,647,22,17,So you had several follow-up phone calls to kind of reschedule --,q,MR. KENNY,start_answer
+206,649,22,19,Um-hum.,a,THE WITNESS,start_question
+207,650,22,20,-- when your deposition would take place?,q,MR. KENNY,start_answer
+208,651,22,21,Um-hum.,a,THE WITNESS,start_chat
+209,652,22,22,Just be careful.  Um-hum and hum-ums are really tough on --,side_chat,MR. HUMEN,start_answer
+210,654,22,24,"Oh, yes.",a,THE WITNESS,start_chat
+211,656,23,1,-- on Niki --,side_chat,MR. HUMEN,start_answer
+212,657,23,2,Yeah.,a,THE WITNESS,start_chat
+213,658,23,3,-- trying to type.,side_chat,MR. HUMEN,start_answer
+214,659,23,4,Yes.  I'm sorry.  Yeah.  You can't type um-hum.,a,THE WITNESS,start_question
+215,662,23,7,And did you meet with your attorney prior to the start of the deposition today?,q,MR. KENNY,start_answer
+216,664,23,9,"I just talked to him this morning, yeah.",a,THE WITNESS,start_question
+217,665,23,10,Was that the first time you spoke?,q,MR. KENNY,start_answer
+218,666,23,11,With David.,a,THE WITNESS,start_question
+219,667,23,12,Okay.,q,MR. KENNY,start_answer
+220,668,23,13,"Well, I talked to him on the phone.  He -- you know, to tell me he was going to meet me here.",a,THE WITNESS,start_question
+221,670,23,15,Got you.,q,MR. KENNY,start_answer
+222,671,23,16,Yeah.,a,THE WITNESS,start_question
+223,672,23,17,"And prior to meeting -- prior to the start of the deposition when you guys met today, did you review any lists of any kind?",q,MR. KENNY,start_answer
+224,675,23,20,I named off some of the jobs I worked with Peter on.  I have a list here.,a,THE WITNESS,start_question
+225,677,23,22,"All right.  Other than the job list -- now, did you create that job list yourself?",q,MR. KENNY,start_answer
+226,679,23,24,"I've had this, yeah.  I've had this for years.",a,THE WITNESS,start_question
+227,681,24,1,Were you shown any lists by your attorney?,q,MR. KENNY,start_answer
+228,682,24,2,No.,a,THE WITNESS,start_question
+229,683,24,3,How about any photographs?,q,MR. KENNY,start_answer
+230,684,24,4,No.,a,THE WITNESS,start_question
+231,685,24,5,"Do you mind if we review that, if I take a look at that list?",q,MR. KENNY,start_chat
+232,687,24,7,Is that all right?,side_chat,THE WITNESS,start_chat
+233,688,24,8,Yes.,side_chat,MR. HUMEN,start_answer
+234,689,24,9,Okay.  Sure.  There is two different lists there.,a,THE WITNESS,start_question
+235,692,24,12,Sure.,q,MR. KENNY,start_chat
+236,693,24,13,"We'll mark this as Exhibit 2, if that's all right.",side_chat,MR. KENNY,start_chat
+237,695,24,15,Yep.,side_chat,MR. HUMEN,start_chat
+238,696,24,16,And make a copy on the break.,side_chat,MR. KENNY,start_chat
+239,697,24,17,"Do you want to -- there's -- since there is two different lists, do you want to do both as one exhibit or do you want to do them separate?",side_chat,MR. HUMEN,start_chat
+240,701,24,21,"The medical report as -- oh, there is two different work lists here.  Okay.",side_chat,MR. KENNY,start_answer
+241,703,24,23,Yes.  One's chronological and one is alphabetical.,a,THE WITNESS,start_chat
+242,706,25,1,"All right.  Yeah, why don't you do two different lists?",side_chat,MR. KENNY,is brackets
+243,708,25,3,(Exhibit Number 2 marked for identification.),brackets,,start_question
+244,710,25,5,"So this we'll mark as Exhibit 2, which is I guess entitled ""Work History Donovan, Sr., Lawrence T."" And then Exhibit 3 I believe is titled ""Jobsite History for Donovan, Sr., Lawrence T.,"" run date June 12, 2003.",q,MR. KENNY,is brackets
+245,714,25,9,(Exhibit Number 3 marked for identification.),brackets,,start_question
+246,716,25,11,Where did you come up with these lists?,q,MR. KENNY,start_answer
+247,717,25,12,From the lawyer from Thornton & Naumes.,a,THE WITNESS,start_question
+248,718,25,13,Okay.  When were you provided -- or were you provided with these lists?,q,MR. KENNY,start_answer
+249,720,25,15,"2003, is it?",a,THE WITNESS,start_question
+250,721,25,16,And Thornton's office provided you with this list?,q,MR. KENNY,start_answer
+251,723,25,18,I'm pretty sure it was.,a,THE WITNESS,start_question
+252,724,25,19,Okay.  And how about Exhibit 3?,q,MR. KENNY,start_answer
+253,725,25,20,Same.,a,THE WITNESS,start_question
+254,726,25,21,They provided you with this list?,q,MR. KENNY,start_answer
+255,727,25,22,"Um-hum.  Well, I wrote all my jobs out that I worked with and gave it to them.",a,THE WITNESS,start_question
+256,729,25,24,Um-hum.,q,MR. KENNY,start_answer
+257,731,26,1,And they -- they printed it out like that.,a,THE WITNESS,start_question
+258,732,26,2,All right.,q,MR. KENNY,start_answer
+259,733,26,3,"So it's from me, but they printed it out.",a,THE WITNESS,start_question
+260,734,26,4,And I see on Exhibit 2 here there are some bullet points.  Are those bullet points that you made?,q,MR. KENNY,start_answer
+261,736,26,6,Yeah.,a,THE WITNESS,start_question
+262,737,26,7,And what do those bullet points indicate?,q,MR. KENNY,start_answer
+263,738,26,8,That's a couple of jobs that I remember working with Peter Crescenzo on.,a,THE WITNESS,start_question
+264,740,26,10,Okay.  I believe those bullet points are International Paper and then Polaroid in Cambridge and Polaroid in Waltham?,q,MR. KENNY,start_answer
+265,743,26,13,Right.,a,THE WITNESS,start_question
+266,744,26,14,Did you do the same thing for Exhibit 3?  Did you mark any bullets on here?,q,MR. KENNY,start_answer
+267,746,26,16,"I don't think I did, no.",a,THE WITNESS,start_question
+268,747,26,17,"Okay.  So other than these lists that were provided by Thornton's office in 2003, have you been provided with any other lists from your attorneys?",q,MR. KENNY,start_answer
+269,750,26,20,No.,a,THE WITNESS,start_question
+270,751,26,21,"Have you personally created any lists, gone back in your memory and tried to remember places you may have worked with either Peter Crescenzo or Biagio?",q,MR. KENNY,start_answer
+271,754,26,24,"I just thought -- you know, I was trying to think what jobs I did work with them, and I worked with so many guys.",a,THE WITNESS,start_question
+272,758,27,3,Sure.,q,MR. KENNY,start_answer
+273,759,27,4,"Probably almost every guy in the local, but that's why I put those bullet proof -- points so I would remember.",a,THE WITNESS,start_question
+274,762,27,7,Okay.  But you didn't create any handwritten lists or type up any lists yourself?,q,MR. KENNY,start_answer
+275,764,27,9,No.  No.,a,THE WITNESS,start_question
+276,765,27,10,"Before today's deposition, did you review Peter Crescenzo's deposition testimony at all?",q,MR. KENNY,start_answer
+277,767,27,12,No.,a,THE WITNESS,start_question
+278,768,27,13,Did you speak with Peter Crescenzo at all prior to today?,q,MR. KENNY,start_answer
+279,770,27,15,Nope.  Nope.,a,THE WITNESS,start_question
+280,771,27,16,Did you speak with any co-workers from Local 6 prior to today?,q,MR. KENNY,start_answer
+281,773,27,18,"No.  No.  I talked to my business agent, just to let him know I was coming here for a deposition, just to let him know.",a,THE WITNESS,start_question
+282,776,27,21,Okay.,q,MR. KENNY,start_answer
+283,777,27,22,"But he didn't give me any information on anything.  You know, I didn't even know he was deposed -- Peter.",a,THE WITNESS,start_question
+284,781,28,1,"Okay.  Did you do any internet research, go to the library to do any research?",q,MR. KENNY,start_answer
+285,783,28,3,No.,a,THE WITNESS,start_question
+286,784,28,4,And my questions today are primarily going to focus on your work with Peter Crescenzo.,q,MR. KENNY,start_answer
+287,786,28,6,Um-hum.,a,THE WITNESS,start_question
+288,787,28,7,Tomorrow we are going to ask you questions related to Biagio.,q,MR. KENNY,start_answer
+289,789,28,9,Yes.,a,THE WITNESS,start_question
+290,790,28,10,Just figured that would be kind of an easier way to keep things straight.,q,MR. KENNY,start_answer
+291,792,28,12,Um-hum.  Yes.,a,THE WITNESS,start_question
+292,793,28,13,"So unless, you know, I specifically say, all of my questions today I'm going to ask you about are regarding your work with Peter Crescenzo.",q,MR. KENNY,start_answer
+293,796,28,16,Um-hum.,a,THE WITNESS,start_question
+294,797,28,17,"If you happen to remember that Biagio Crescenzo happened to be on a jobsite with you and Peter, feel free to let us know that; but for the most part, my questions are just going to focus on your work with Peter.",q,MR. KENNY,start_answer
+295,802,28,22,Okay.,a,THE WITNESS,start_question
+296,803,28,23,When did you and Mr. Crescenzo first meet?,q,MR. KENNY,start_answer
+297,804,28,24,"I would say the early '60s.  I started in '65, and I think the first job I worked with Peter was in '68.",a,THE WITNESS,start_question
+298,808,29,3,And what job was that?,q,MR. KENNY,start_answer
+299,809,29,4,Did I -- let me take a peek at this.,a,THE WITNESS,start_question
+300,810,29,5,Sure.,q,MR. KENNY,start_answer
+301,811,29,6,Polaroid in Cambridge.,a,THE WITNESS,start_question
+302,812,29,7,So you think the first time you met Peter was on a job in 1968 at the Polaroid in Cambridge?,q,MR. KENNY,start_answer
+303,814,29,9,"Yeah.  And I worked also Polaroid in Waltham with him, the same year.",a,THE WITNESS,start_question
+304,816,29,11,"And you said you started in the early '60s. Just so the record's clear, you started with the Local 6 in the early '60s?",q,MR. KENNY,start_answer
+305,819,29,14,1965.,a,THE WITNESS,start_question
+306,820,29,15,And what was your job title in 1965?,q,MR. KENNY,start_answer
+307,821,29,16,"Apprentice, yeah.",a,THE WITNESS,start_question
+308,822,29,17,Apprentice insulator?,q,MR. KENNY,start_answer
+309,823,29,18,"Yes, first-year apprentice.",a,THE WITNESS,start_question
+310,824,29,19,And how long were you an apprentice for?,q,MR. KENNY,start_answer
+311,825,29,20,Four years.,a,THE WITNESS,start_question
+312,826,29,21,So from about '65 to '69?,q,MR. KENNY,start_answer
+313,827,29,22,Um-hum.,a,THE WITNESS,start_question
+314,828,29,23,"So when you first started working with Peter at the Polaroid in Cambridge, you were still an apprentice?",q,MR. KENNY,start_answer
+315,832,30,2,Yeah.,a,THE WITNESS,start_question
+316,833,30,3,Do you know if Peter was also an apprentice?,q,MR. KENNY,start_answer
+317,834,30,4,"Yes, he was probably first-year apprentice.",a,THE WITNESS,start_question
+318,835,30,5,"Prior to working for the Local 6 in '65, what was your highest level education?",q,MR. KENNY,start_answer
+319,837,30,7,High school.,a,THE WITNESS,start_question
+320,838,30,8,High school?,q,MR. KENNY,start_answer
+321,839,30,9,Um-hum.,a,THE WITNESS,start_question
+322,840,30,10,Did you graduate?,q,MR. KENNY,start_answer
+323,841,30,11,Yeah.,a,THE WITNESS,start_question
+324,842,30,12,And where did you graduate from?,q,MR. KENNY,start_answer
+325,843,30,13,Mission High in Roxbury.,a,THE WITNESS,start_question
+326,844,30,14,"After you graduated high school, did you receive any certifications or licenses or anything like that during your career?",q,MR. KENNY,start_answer
+327,847,30,17,Just my journeyman's card when I become a journeyman.,a,THE WITNESS,start_question
+328,849,30,19,"So going back to the first time you met Peter in 1968 at the Polaroid in Cambridge, do you remember where exactly in Cambridge the facility was located?",q,MR. KENNY,start_answer
+329,852,30,22,"It was a big complex.  I think it was right on Main Street, I think, in Cambridge, if I am not mistaken.",a,THE WITNESS,start_question
+330,856,31,1,Do you remember when in 1968 you first started there?,q,MR. KENNY,start_answer
+331,858,31,3,No.,a,THE WITNESS,start_question
+332,859,31,4,Do you remember maybe what season it would have been?,q,MR. KENNY,start_answer
+333,861,31,6,"Probably May or June, something like that. That's usually when they first hire the apprentices start a new class.",a,THE WITNESS,start_question
+334,864,31,9,"And did you and Mr. Crescenzo start at the same time?  Was he already there, or did he come after you, if you remember?",q,MR. KENNY,start_answer
+335,867,31,12,I don't remember.,a,THE WITNESS,start_question
+336,868,31,13,Do you remember how long the two of you were on the job together?,q,MR. KENNY,start_answer
+337,870,31,15,I would say maybe a couple of months.,a,THE WITNESS,start_question
+338,871,31,16,And you mentioned that you thought that Peter was a apprentice insulator as well as?,q,MR. KENNY,start_answer
+339,873,31,18,Um-hum.,a,THE WITNESS,start_chat
+340,874,31,19,"Is that a ""yes""?",side_chat,DEFENSE COUNSEL,start_answer
+341,875,31,20,"Yes.  I'm sorry.  Yeah, yes.",a,THE WITNESS,start_question
+342,877,31,22,"Are you able to describe for me what the Polaroid facility in Cambridge looked like, kind of the layout of the facility?",q,MR. KENNY,start_answer
+343,881,32,1,"Well, they had different -- different parts to it.  Some were like ovens.  We used to insulate the ovens, some piping, the boiler piping, just -- just to supply the steam or whatever to each part of the building.",a,THE WITNESS,start_question
+344,886,32,6,"So was the Cambridge facility, was that one building?",q,MR. KENNY,start_answer
+345,888,32,8,Um-hum.,a,THE WITNESS,start_question
+346,889,32,9,Do you know --,q,MR. KENNY,start_chat
+347,890,32,10,Yes?,side_chat,DEFENSE COUNSEL,start_question
+348,892,32,12,Sorry.  You have to --,q,MR. KENNY,start_answer
+349,893,32,13,Yes.  I'm sorry.  Geez.,a,THE WITNESS,start_question
+350,894,32,14,Do you recall approximately how big the building was?,q,MR. KENNY,start_answer
+351,896,32,16,"It took up at least a block, I would say, if I can remember right.",a,THE WITNESS,start_question
+352,898,32,18,"Was it one big open floor plan, or was it divided up into several --",q,MR. KENNY,start_answer
+353,900,32,20,Divided up into separate -- different areas.,a,THE WITNESS,start_question
+354,901,32,21,"And were you designated to work in one specific area during the time you were there, or were you working all over the facility?",q,MR. KENNY,start_answer
+355,904,32,24,Probably all over.  Probably delivering stock to the different guys and mixing cements and whatever for them.,a,THE WITNESS,start_question
+356,908,33,3,And was this facility one floor or two floors?,q,MR. KENNY,start_answer
+357,909,33,4,I'm thinking one if I remember right.,a,THE WITNESS,is brackets
+358,910,33,5,(Off-the-record discussion held.),brackets,,start_question
+359,912,33,7,"All right.  So one story that was broken up into several different rooms, you think?",q,MR. KENNY,start_answer
+360,914,33,9,Um-hum.,a,THE WITNESS,start_question
+361,915,33,10,"Your job as an apprentice insulator, you said you would be delivering stock?",q,MR. KENNY,start_answer
+362,917,33,12,Um-hum.,a,THE WITNESS,start_question
+363,918,33,13,Mixing cement?,q,MR. KENNY,start_answer
+364,919,33,14,Um-hum.,a,THE WITNESS,start_question
+365,920,33,15,What other job duties did you have?,q,MR. KENNY,start_chat
+366,921,33,16,"Can you say ""yes""?",side_chat,DEFENSE COUNSEL,start_answer
+367,922,33,17,"Oh, yes.  I'm sorry. Putting on some of the insulation.",a,THE WITNESS,start_question
+368,925,33,20,Would it be fair to say as an apprentice the majority of your work would be kind of more of the grunt work delivering the stock --,q,MR. KENNY,start_answer
+369,928,33,23,Um-hum.,a,THE WITNESS,start_question
+370,929,33,24,-- and mixing cement?,q,MR. KENNY,start_answer
+371,931,34,1,"Yeah, especially the first year, like Peter.",a,THE WITNESS,start_question
+372,932,34,2,Are you able to tell me what percentage of time you think you were actually applying insulation versus doing other job duties?,q,MR. KENNY,start_answer
+373,935,34,5,Maybe half the time.,a,THE WITNESS,start_question
+374,936,34,6,And how about Peter?  Are you able to estimate for me the number of -- or the percentage of time that he would be applying insulation at the Polaroid facility in Cambridge versus the other type of --,q,MR. KENNY,start_answer
+375,940,34,10,"He was probably logging the stock and mixing the cement and stuff for the crew most of the time, I would say, maybe throwing on a piece of insulation here and there, but I'm not really sure.  But usually your first-year apprentice, they do all the grunt work, you know, mixing the mud and lugging the dusty cartons of asbestos and whatever.",a,THE WITNESS,start_question
+376,947,34,17,"Now, going back to the some of the equipment that you mentioned, you mentioned that there would be ovens that would be insulated, piping throughout the facility that would be insulated?",q,MR. KENNY,start_answer
+377,951,34,21,Um-hum.,a,THE WITNESS,start_question
+378,952,34,22,Piping that was leading up to boilers that would be have to be insulated?,q,MR. KENNY,start_answer
+379,954,34,24,Um-hum.,a,THE WITNESS,start_chat
+380,956,35,1,Yes.,side_chat,MR. HUMEN,start_answer
+381,957,35,2,Yes.,a,THE WITNESS,start_question
+382,959,35,4,Sorry.  I'm going to get a sign and just hold it up and say --,q,MR. KENNY,start_answer
+383,961,35,6,Yeah.,a,THE WITNESS,start_question
+384,962,35,7,All right.  So let's start with the ovens. What type of ovens were these at the facility?,q,MR. KENNY,start_answer
+385,964,35,9,"I don't know what they used them for.  It's part of their process of making film, I'm thinking.",a,THE WITNESS,start_question
+386,966,35,11,Um-hum.,q,MR. KENNY,start_answer
+387,967,35,12,"I imagine.  But they are probably 6 or 8 feet in diameter, and they had to be insulated by block, Kaylo block, with skim coat and mud.  Then a finished coat of asbestos cement on the outside.",a,THE WITNESS,start_question
+388,971,35,16,Do you know the manufacturer of any of the ovens that had to be insulated at the Polaroid facility?,q,MR. KENNY,start_answer
+389,973,35,18,I don't remember.,a,THE WITNESS,start_question
+390,974,35,19,Did you ever observe Mr. Crescenzo performing any insulation work on any of these ovens at the Cambridge facility?,q,MR. KENNY,start_answer
+391,977,35,22,"Well, he would hand the pieces to the journeyman to -- to mix the mud and hand them the mud, the buckets of cement.",a,THE WITNESS,start_question
+392,981,36,1,Okay.  And you mentioned Kaylo block.  Did you ever observe Mr. Crescenzo handling Kaylo block?,q,MR. KENNY,start_answer
+393,983,36,3,Yes.,a,THE WITNESS,start_question
+394,984,36,4,Then you mentioned it was covered with a mud?,q,MR. KENNY,start_answer
+395,985,36,5,Um-hum.,a,THE WITNESS,start_question
+396,986,36,6,"And then after that, there was a asbestos layer put on?",q,MR. KENNY,start_answer
+397,988,36,8,Yeah.,a,THE WITNESS,start_question
+398,989,36,9,Okay.  Did you ever observe Mr. Crescenzo handling the asbestos layer that would go on?,q,MR. KENNY,start_answer
+399,991,36,11,Yeah.  He used to mix the mud.  He used to mix it.,a,THE WITNESS,start_question
+400,993,36,13,"So is the mud, the asbestos coating, is that the same thing?",q,MR. KENNY,start_answer
+401,995,36,15,"We call them both mud.  One was a one coat, they called it, one-coat cement.  So you put that on as a binder.  Then the asbestos mud cement went over that.",a,THE WITNESS,start_question
+402,998,36,18,Okay.,q,MR. KENNY,start_answer
+403,999,36,19,Trowelled on.,a,THE WITNESS,start_question
+404,1000,36,20,"So it goes Kaylo block, one coat, and then the mud?",q,MR. KENNY,start_answer
+405,1002,36,22,Yeah.,a,THE WITNESS,start_question
+406,1003,36,23,Got you.  Do you know who manufactured the one coat that went on the ovens?,q,MR. KENNY,start_answer
+407,1006,37,1,"Oh, geez.  You think I would, but I can't remember offhand.",a,THE WITNESS,start_question
+408,1008,37,3,All right.  How about the mud?,q,MR. KENNY,start_answer
+409,1009,37,4,That was Vermont Asbestos.,a,THE WITNESS,start_question
+410,1010,37,5,Vermont Asbestos.,q,MR. KENNY,start_chat
+411,1011,37,6,Form.,side_chat,DEFENSE COUNSEL,start_question
+412,1013,37,8,How did the bags of Vermont Asbestos come packaged?,q,MR. KENNY,start_answer
+413,1015,37,10,They came in 50-pound bags.,a,THE WITNESS,start_question
+414,1016,37,11,50 pounds?,q,MR. KENNY,start_answer
+415,1017,37,12,Yeah.,a,THE WITNESS,start_question
+416,1018,37,13,That would have to be mixed?,q,MR. KENNY,start_answer
+417,1019,37,14,Yeah.,a,THE WITNESS,start_question
+418,1020,37,15,Do you recall ever observing Mr. Crescenzo mixing?,q,MR. KENNY,start_answer
+419,1022,37,17,Um-hum.,a,THE WITNESS,start_chat
+420,1023,37,18,Yes?,side_chat,MR. HUMEN,start_answer
+421,1024,37,19,Yes.,a,THE WITNESS,start_question
+422,1026,37,21,"When you arrived at this facility in 1968 and you were working with Mr. Crescenzo, what stage of construction was the facility in?",q,MR. KENNY,start_answer
+423,1029,37,24,"It was -- it was already up.  The building was already up.  I think this was a whole new system they were putting in, as far as I can remember.",a,THE WITNESS,start_question
+424,1033,38,3,So the building itself was already erected?,q,MR. KENNY,start_answer
+425,1034,38,4,Um-hum.,a,THE WITNESS,start_question
+426,1035,38,5,You were just going in and replacing different systems?,q,MR. KENNY,start_answer
+427,1037,38,7,Um-hum.,a,THE WITNESS,start_chat
+428,1038,38,8,Yes.,side_chat,DEFENSE COUNSEL,start_answer
+429,1039,38,9,Yes.  Christ Jesus.,a,THE WITNESS,start_chat
+430,1040,38,10,We should take turns.,side_chat,DEFENSE COUNSEL,start_question
+431,1042,38,12,"Now, you also mentioned that piping would be insulated at this facility?",q,MR. KENNY,start_answer
+432,1044,38,14,Um-hum.,a,THE WITNESS,start_chat
+433,1045,38,15,Yes?,side_chat,MR. HUMEN,start_answer
+434,1046,38,16,Yes.  Christ.,a,THE WITNESS,start_question
+435,1048,38,18,What type of piping was this at the facility that had to be insulated?,q,MR. KENNY,start_answer
+436,1050,38,20,Steam piping.,a,THE WITNESS,start_question
+437,1051,38,21,Steam piping?,q,MR. KENNY,start_answer
+438,1052,38,22,"Mostly steam piping, yeah.",a,THE WITNESS,start_question
+439,1053,38,23,Are you able to estimate for me the number of feet or steam piping that made a run through this facility?,q,MR. KENNY,start_answer
+440,1057,39,2,"Oh, geez.  It's hard to say.  It's hundreds of feet, I would say.",a,THE WITNESS,start_question
+441,1059,39,4,"Now, you mentioned that the piping itself would have to be insulated.  Was there already currently insulation on the pipe and it had to be replaced, or were you insulating these steam pipes new?",q,MR. KENNY,start_answer
+442,1063,39,8,"As far as I remember, it was all new; but where they had to cut into old pipe, they'd have to take some off to put in a T in some other -- you know, a new direction.",a,THE WITNESS,start_question
+443,1067,39,12,But fair to say the majority of the insulation put on the pipes was new?,q,MR. KENNY,start_answer
+444,1069,39,14,Yeah.,a,THE WITNESS,start_question
+445,1070,39,15,Did you ever observe Mr. Crescenzo putting new insulation on the steam piping at the Polaroid facility?,q,MR. KENNY,start_answer
+446,1072,39,17,"I don't remember him putting the piping on -- the insulation on, no, but I remember him handling it and giving it to the guys to put on.",a,THE WITNESS,start_question
+447,1075,39,20,And what type of insulation was this that was going on?,q,MR. KENNY,start_answer
+448,1077,39,22,"Kaylo.  It's a white, Kaylo, calcium silicate.",a,THE WITNESS,start_question
+449,1078,39,23,And what was the process of putting this insulation on the steam piping?,q,MR. KENNY,start_answer
+450,1081,40,1,They would wire it on.,a,THE WITNESS,start_question
+451,1082,40,2,Um-hum.,q,MR. KENNY,start_answer
+452,1083,40,3,Is that what you mean?,a,THE WITNESS,start_question
+453,1084,40,4,Yes.,q,MR. KENNY,start_answer
+454,1085,40,5,"Just wire it, you know, tie the wire on it, break all the joints, tie the -- tie it on with wire.",a,THE WITNESS,start_question
+455,1087,40,7,"So other than putting on the insulation, keeping it on the pipe with the wiring, was there anything else that needed to be done to the pipe insulation?",q,MR. KENNY,start_answer
+456,1091,40,11,They put a coating afterwards of aluminum. Most of the time it was aluminum.  Then they went to PVC after that.  I'm not sure if they used it on that job.,a,THE WITNESS,start_question
+457,1094,40,14,And you also mentioned that there was piping that had to be insulated that led up to the boilers at the facility?,q,MR. KENNY,start_answer
+458,1097,40,17,Um-hum.,a,THE WITNESS,start_question
+459,1098,40,18,Do you recall how many boilers were at this facility?,q,MR. KENNY,start_answer
+460,1100,40,20,"I'm thinking one, but I'm not -- I can't swear to it.",a,THE WITNESS,start_question
+461,1102,40,22,What size are we talking about here for this boiler?,q,MR. KENNY,start_answer
+462,1104,40,24,"Oh, it was probably -- I can't tell you the size.  It's a good-size big boiler.",a,THE WITNESS,start_question
+463,1107,41,2,"When you say good size, was it 6 feet tall? Was it 60 feet tall?  Are you able to estimate at all?",q,MR. KENNY,start_answer
+464,1109,41,4,Maybe -- I don't remember.,a,THE WITNESS,start_question
+465,1110,41,5,Do you recall the manufacturer of the boiler at this facility?,q,MR. KENNY,start_answer
+466,1112,41,7,"I don't know if it was Foster Wheeler.  I think it was Foster Wheeler, but I can't swear to it.",a,THE WITNESS,start_question
+467,1114,41,9,And you mentioned that you recalled seeing piping leading up to the boiler being insulated?,q,MR. KENNY,start_answer
+468,1116,41,11,Um-hum.,a,THE WITNESS,start_chat
+469,1117,41,12,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+470,1118,41,13,Yes.,a,THE WITNESS,start_question
+471,1120,41,15,Sorry.  Do you recall ever seeing any work being done on the boiler itself when you were working there?,q,MR. KENNY,start_answer
+472,1123,41,18,I can't remember.  I can't remember.,a,THE WITNESS,start_question
+473,1124,41,19,And what type of insulation was being put on the pipes that was leading up to the boiler?,q,MR. KENNY,start_answer
+474,1126,41,21,"Same, calcium silicate.",a,THE WITNESS,start_question
+475,1127,41,22,Did you ever observe Mr. Crescenzo applying this insulation on the pipes leading up to the boiler?,q,MR. KENNY,start_answer
+476,1129,41,24,"No.  I saw him handling it, giving it to the journeyman to put on.",a,THE WITNESS,start_question
+477,1132,42,2,"But the actual process of installing it, you never saw him do that?",q,MR. KENNY,start_answer
+478,1134,42,4,No.,a,THE WITNESS,start_question
+479,1135,42,5,"So we talked about the ovens had to be insulated, the piping, steam piping throughout the facility, the piping leading up to the boiler.  Are there any other types of equipment that you recalled insulating or recalled seeing Mr. Crescenzo insulate at that facility?",q,MR. KENNY,start_answer
+480,1141,42,11,I don't remember.,a,THE WITNESS,start_question
+481,1142,42,12,Do you know when Mr. Crescenzo left that facility?,q,MR. KENNY,start_answer
+482,1144,42,14,"At the end of the job, you mean?",a,THE WITNESS,start_question
+483,1145,42,15,Yeah.,q,MR. KENNY,start_answer
+484,1146,42,16,"Oh, maybe -- I don't know.  Maybe two or three months later.",a,THE WITNESS,start_question
+485,1148,42,18,So if he started -- do you think he started there in May or June?,q,MR. KENNY,start_answer
+486,1150,42,20,I'm thinking that.,a,THE WITNESS,start_question
+487,1151,42,21,And so he might have left in August or September?,q,MR. KENNY,start_answer
+488,1153,42,23,"Something like that, yeah, as far as I can remember.  You know, it's --",a,THE WITNESS,start_question
+489,1156,43,1,Yep.  And you mentioned that you also worked at the Polaroid facility in Waltham together?,q,MR. KENNY,start_answer
+490,1158,43,3,Um-hum.,a,THE WITNESS,start_question
+491,1159,43,4,Did you go from the Polaroid --,q,MR. KENNY,start_chat
+492,1160,43,5,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+493,1161,43,6,Yes.  Jesus.,a,THE WITNESS,start_chat
+494,1162,43,7,"Thank you, guys, for picking all this up.  I just keep going.",side_chat,MR. KENNY,start_chat
+495,1164,43,9,It's tough because it's a habit in regular conversation.,side_chat,MR. HUMEN,start_chat
+496,1166,43,11,"Yeah, yeah.",side_chat,THE WITNESS,start_question
+497,1168,43,13,Did you go from the Polaroid facility in Cambridge directly to the Polaroid facility in Waltham?,q,MR. KENNY,start_answer
+498,1170,43,15,"I don't remember that, but I remember working at both facilities.",a,THE WITNESS,start_question
+499,1172,43,17,And you remember Mr. Crescenzo was working at the Polaroid facility in Waltham?,q,MR. KENNY,start_answer
+500,1174,43,19,Um-hum.,a,THE WITNESS,start_chat
+501,1175,43,20,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+502,1176,43,21,Yes.  Jesus.,a,THE WITNESS,start_question
+503,1178,43,23,"Okay.  And so you think -- you don't know when you started there, but how long do you think you worked at this facility for?",q,MR. KENNY,start_answer
+504,1182,44,2,"I would say months, a few months anyway.",a,THE WITNESS,start_question
+505,1183,44,3,Three months?,q,MR. KENNY,start_answer
+506,1184,44,4,"A few, three or four months, I would say. Sometimes you're on a job for three or four months. They will pull you off that job and send you somewhere else and then maybe send you back there afterwards, you know, but --",a,THE WITNESS,start_question
+507,1189,44,9,"And when you first arrived at the facility in Waltham, was Mr. Crescenzo already working there?",q,MR. KENNY,start_answer
+508,1191,44,11,I think he was already working there.,a,THE WITNESS,start_question
+509,1192,44,12,Do you know how long he may have been working there by the time you showed up?,q,MR. KENNY,start_answer
+510,1194,44,14,I don't know.,a,THE WITNESS,start_question
+511,1195,44,15,"After you left three or four months later, was he still working there or had he left?",q,MR. KENNY,start_answer
+512,1197,44,17,I don't remember that either.,a,THE WITNESS,start_question
+513,1198,44,18,Okay.  So let's just focus on the three or four months that you were there and you recall seeing him working there as well.,q,MR. KENNY,start_answer
+514,1201,44,21,Um-hum.,a,THE WITNESS,start_question
+515,1202,44,22,"Again, I'm going to kind of run through the same questions with regard to the Waltham facility.  How are you doing?  You want to take a quick five?",q,MR. KENNY,start_answer
+516,1206,45,1,Just sip water.,a,THE WITNESS,start_question
+517,1207,45,2,We can take a quick break.,q,MR. KENNY,start_answer
+518,1208,45,3,"If you want, yeah, that's fine.",a,THE WITNESS,is brackets
+519,1209,45,4,(Off the record from 10:36 a.m. until 10:48 a.m.),brackets,,start_chat
+520,1211,45,6,Back on the record.,side_chat,MR. KENNY,start_question
+521,1213,45,8,"Ready to continue, sir?",q,MR. KENNY,start_answer
+522,1214,45,9,Yes.,a,THE WITNESS,start_question
+523,1215,45,10,"All right.  There you go.  When you started working at the Waltham facility, were you still an apprentice insulator at the time or were you now a full time insulator?",q,MR. KENNY,start_answer
+524,1219,45,14,Was that the -- let me --,a,THE WITNESS,start_question
+525,1220,45,15,Sorry.  Your list is being copied.,q,MR. KENNY,start_answer
+526,1221,45,16,Yeah.  I think it was a mechanic.  I think I was a journeyman.,a,THE WITNESS,start_question
+527,1223,45,18,And how about Mr. Crescenzo?  Do you remember?,q,MR. KENNY,start_answer
+528,1224,45,19,I would have to look at the paper.  I forget.,a,THE WITNESS,start_question
+529,1225,45,20,Okay.,q,MR. KENNY,start_chat
+530,1226,45,21,Do you want to just hold off and wait until we get that back?,side_chat,MR. HUMEN,start_chat
+531,1228,45,23,"I mean, I can go back to those questions.  I would rather just keep moving, move along, if that's all right.",side_chat,MR. KENNY,start_chat
+532,1232,46,2,Okay.,side_chat,MR. HUMEN,start_question
+533,1234,46,4,"Now, when you became a journeyman, did your job duties change at all?",q,MR. KENNY,start_answer
+534,1236,46,6,"Well, you did more of the application.  You -- sometimes you'd run work, you know, if you were first guy on the job, it was a small job, you would end up being the boss, you know, the foreman.",a,THE WITNESS,start_question
+535,1240,46,10,"Um-hum.  Now, when you were working at the Waltham facility, it's fair to say you were doing less of the grunt work and more of the everyday insulator work?",q,MR. KENNY,start_answer
+536,1244,46,14,"Yeah, yeah.",a,THE WITNESS,start_question
+537,1245,46,15,And are you able to remember whether or not Mr. Crescenzo was kind of doing more of the every day work and less of the grunt work at this facility?,q,MR. KENNY,start_answer
+538,1248,46,18,"I think he was doing more, because the way you go along in your apprenticeship, the more duties they give you, installing the stuff and the insulation.",a,THE WITNESS,start_question
+539,1251,46,21,"So once they see you are able to do the work, they give you more responsibility?",q,MR. KENNY,start_answer
+540,1253,46,23,Yeah.  Yeah.,a,THE WITNESS,start_question
+541,1254,46,24,"Now, similar to the Polaroid facility in Cambridge -- I asked you about the layout there -- are you able to describe for me the layout in the Waltham facility?",q,MR. KENNY,start_answer
+542,1259,47,4,"They had many buildings there, but the major one was, I would say, at least six or seven stories tall, and the other one, the boiler room was probably six or seven stories.  And that supplied the -- I would say there's probably four or five outbuildings too that were a good size.",a,THE WITNESS,start_question
+543,1265,47,10,You said four or five outbuildings?,q,MR. KENNY,start_answer
+544,1266,47,11,"Yes, other buildings besides the --",a,THE WITNESS,start_question
+545,1267,47,12,"Okay.  Now, this main building that was six or seven stories high, was it an open floor plan or was it divided up into different rooms?",q,MR. KENNY,start_answer
+546,1270,47,15,"I know they had a big cafeteria on one floor. I think it was different -- different parts, different sections.",a,THE WITNESS,start_question
+547,1273,47,18,And were you designated to work in a particular area of this main building during your time there?,q,MR. KENNY,start_answer
+548,1276,47,21,"Well, you'd bounce around different, if they needed you over here, they'd put you over here; if they needed you over there, they'd put you over there, you know, but --",a,THE WITNESS,start_question
+549,1281,48,1,Did you ever work in the four or five other buildings that you described --,q,MR. KENNY,start_answer
+550,1283,48,3,"I worked in the boiler room.  Used to -- I think the buildings were numbered like C for one building or something like that, but I forget.  They have since ripped it all down anyway.",a,THE WITNESS,start_question
+551,1287,48,7,So you think each of the buildings at the Polaroid facility at Waltham had a numerical and alphabetical --,q,MR. KENNY,start_answer
+552,1290,48,10,I think so.,a,THE WITNESS,start_question
+553,1291,48,11,But you are not able to tell me what those numbers are for the different buildings?,q,MR. KENNY,start_answer
+554,1293,48,13,No.  Not right off the top of my head.,a,THE WITNESS,start_question
+555,1294,48,14,"So other than the boiler room in the main building, did you work anywhere else at this facility?",q,MR. KENNY,start_answer
+556,1296,48,16,"Yeah.  I probably worked on each one of the buildings at one time or another; but as far as this particular time with Peter, it was the boiler room and I think it's called the coating building where they coated the film.  I'm not sure of that.",a,THE WITNESS,start_question
+557,1301,48,21,"And what was manufactured, what was going on in the main building?",q,MR. KENNY,start_answer
+558,1303,48,23,"They made film, I'm pretty sure, for the Polaroid cameras.",a,THE WITNESS,start_question
+559,1306,49,1,"So let's start with your work with Peter in the boiler room.  So this boiler room, was this a separate building --",q,MR. KENNY,start_answer
+560,1309,49,4,Um-hum.,a,THE WITNESS,start_question
+561,1310,49,5,-- off from anything else?,q,MR. KENNY,start_answer
+562,1311,49,6,Yeah.,a,THE WITNESS,start_question
+563,1312,49,7,"And other than boilers, was there any other equipment in this room?",q,MR. KENNY,start_answer
+564,1314,49,9,"There was, like, ductwork, tanks, you know, piping.",a,THE WITNESS,start_question
+565,1316,49,11,Anything else?,q,MR. KENNY,start_answer
+566,1317,49,12,That's about it.  I think as far as I know.,a,THE WITNESS,start_question
+567,1318,49,13,"Now, you mentioned the boiler room was six or seven stories high.",q,MR. KENNY,start_answer
+568,1320,49,15,Um-hum.,a,THE WITNESS,start_question
+569,1321,49,16,"Was it, if you were standing on the ground floor and you looked up, you could look all the way to the top or were there different levels?",q,MR. KENNY,start_answer
+570,1324,49,19,"There were different levels, but there were grates too, grating.",a,THE WITNESS,start_question
+571,1326,49,21,Got you.  And what were your job duties when you were working in the boiler room?,q,MR. KENNY,start_answer
+572,1328,49,23,"Applying insulation to the boiler, applying insulation to the piping.",a,THE WITNESS,start_question
+573,1331,50,1,Anything else?,q,MR. KENNY,start_answer
+574,1332,50,2,No.,a,THE WITNESS,start_question
+575,1333,50,3,Did you ever observe Mr. Crescenzo performing any work in the boiler room?,q,MR. KENNY,start_answer
+576,1335,50,5,Um-hum.,a,THE WITNESS,start_question
+577,1336,50,6,And what do you recall seeing him do?,q,MR. KENNY,start_chat
+578,1337,50,7,"Got to say ""yes.""",side_chat,DEFENSE COUNSEL,start_chat
+579,1338,50,8,Sorry.,side_chat,MR. KENNY,start_answer
+580,1339,50,9,"Oh, yes.  Geez, I got it right in front of me too.",a,THE WITNESS,start_chat
+581,1341,50,11,That would be yes.,side_chat,DEFENSE COUNSEL,start_answer
+582,1342,50,12,"Applying insulation to the boilers and the piping, same as me.",a,THE WITNESS,start_question
+583,1345,50,15,So you recall seeing Mr. Crescenzo applying insulation to the boilers and the piping?,q,MR. KENNY,start_answer
+584,1347,50,17,Um-hum.  Yep.,a,THE WITNESS,start_question
+585,1348,50,18,"And, again, this facility when you were working there with Mr. Crescenzo and the work you were performing, was it new insulation work or were you guys removing old insulation and applying new?",q,MR. KENNY,start_answer
+586,1352,50,22,We removed some of the old but mostly all new -- new insulation.,a,THE WITNESS,start_question
+587,1354,50,24,And what type of insulation were you using on the piping in the boiler room?,q,MR. KENNY,start_answer
+588,1357,51,2,That was also Kaylo.,a,THE WITNESS,start_question
+589,1358,51,3,Similar to what we talked about at the other facility?,q,MR. KENNY,start_answer
+590,1360,51,5,Yes.,a,THE WITNESS,start_question
+591,1361,51,6,Was there anything different in the application of the insulation on this piping at this facility versus the one in Cambridge?,q,MR. KENNY,start_answer
+592,1364,51,9,"It's usually mostly the same, same application for just about every job.",a,THE WITNESS,start_question
+593,1366,51,11,"And, again, are you able to estimate the number of feet of piping that you performed insulation work on in the boiler room?",q,MR. KENNY,start_answer
+594,1369,51,14,"Probably hundreds of feet, couple of hundred feet maybe.",a,THE WITNESS,start_question
+595,1371,51,16,"Are you able to estimate for me the number of feet of piping you saw, you personally saw Mr. Crescenzo insulating in the boiler room?",q,MR. KENNY,start_answer
+596,1374,51,19,"I couldn't tell that.  You just keep going until it's done, you know.",a,THE WITNESS,start_question
+597,1376,51,21,Okay.  Then you also mentioned you performed some insulation work on the boiler?,q,MR. KENNY,start_answer
+598,1378,51,23,Um-hum.,a,THE WITNESS,start_chat
+599,1379,51,24,"Is that a ""yes""?",side_chat,DEFENSE COUNSEL,start_answer
+600,1381,52,1,Yes.  Jesus.  And I got it right in front of me like I said.,a,THE WITNESS,start_question
+601,1384,52,4,Was there more than one boiler in this room?,q,MR. KENNY,start_answer
+602,1385,52,5,"I don't think so.  As far as I know, it was the only one.",a,THE WITNESS,start_question
+603,1387,52,7,Are you able to describe for me the dimensions of the boiler in this room?,q,MR. KENNY,start_answer
+604,1389,52,9,40 feet wide by 50 feet in and six stories high.,a,THE WITNESS,start_question
+605,1391,52,11,And what -- what parts of the boiler were you personally insulating at this facility?,q,MR. KENNY,start_answer
+606,1393,52,13,The boiler walls and the piping going and coming from the boiler.,a,THE WITNESS,start_question
+607,1395,52,15,Do you recall if the insulation you were putting on the boiler walls was new insulation?,q,MR. KENNY,start_answer
+608,1397,52,17,"Yes, it was.",a,THE WITNESS,start_question
+609,1398,52,18,So was this a new boiler that was installed?,q,MR. KENNY,start_answer
+610,1399,52,19,"It might have been stripped and then re-insulated.  I don't know, but it was all new that we put on it.",a,THE WITNESS,start_question
+611,1402,52,22,But you weren't present during the process where it was stripped?,q,MR. KENNY,start_answer
+612,1404,52,24,No.,a,THE WITNESS,start_question
+613,1406,53,1,And you don't -- do you know if Mr. Crescenzo was present during --,q,MR. KENNY,start_answer
+614,1408,53,3,I don't know that either.,a,THE WITNESS,start_question
+615,1409,53,4,And what type of new insulation did you put on the boiler walls?,q,MR. KENNY,start_answer
+616,1411,53,6,Kaylo block.,a,THE WITNESS,start_question
+617,1412,53,7,Kaylo block?,q,MR. KENNY,start_answer
+618,1413,53,8,Um-hum.,a,THE WITNESS,start_question
+619,1414,53,9,Can you describe the process for me of applying the Kaylo block to the boiler walls?,q,MR. KENNY,start_answer
+620,1416,53,11,"They would pin -- if I can remember correctly, they had a pin gun would zap pins in between each pipe and push the Kaylo block onto that and put it on with a clip.",a,THE WITNESS,start_question
+621,1420,53,15,And this is work that you personally performed?,q,MR. KENNY,start_answer
+622,1422,53,17,Um-hum.,a,THE WITNESS,start_chat
+623,1423,53,18,Yes?,side_chat,MR. HUMEN,start_chat
+624,1424,53,19,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+625,1425,53,20,Yes.,a,THE WITNESS,start_question
+626,1427,53,22,And did you -- did you observe Mr. Crescenzo ever doing this type of work with Kaylo block on the boiler wall?,q,MR. KENNY,start_answer
+627,1431,54,1,Yes.,a,THE WITNESS,start_question
+628,1432,54,2,And then you also mentioned that you performed insulation work on the piping leading up to the boiler?,q,MR. KENNY,start_answer
+629,1434,54,4,Yes.,a,THE WITNESS,start_question
+630,1435,54,5,Was this similar to the insulation work that you did on the piping throughout the boiler room?,q,MR. KENNY,start_answer
+631,1437,54,7,Um-hum.,a,THE WITNESS,start_chat
+632,1438,54,8,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+633,1439,54,9,Yes.  God.,a,THE WITNESS,start_question
+634,1441,54,11,Is there anything different about the application of the insulation that you did on the piping leading up to the boilers versus the other piping in the boiler room?,q,MR. KENNY,start_answer
+635,1445,54,15,No.  It was mostly the same.,a,THE WITNESS,start_question
+636,1446,54,16,Are you able to estimate for me the amount of time that you've spent performing work in the boiler room versus the other parts of the Waltham facility?,q,MR. KENNY,start_answer
+637,1449,54,19,"Probably a couple of months, two or three months in each -- each part of it, I would say.",a,THE WITNESS,start_question
+638,1451,54,21,So if you were there -- now I'm talking about again just your time with Peter.,q,MR. KENNY,start_answer
+639,1453,54,23,Yes.,a,THE WITNESS,start_question
+640,1454,54,24,You think you guys were there together for about three or four months?,q,MR. KENNY,start_answer
+641,1457,55,2,I would say so.,a,THE WITNESS,start_question
+642,1458,55,3,"Of that three or four months, are you able to tell me how much time the two of you spent working together in the boiler room?",q,MR. KENNY,start_answer
+643,1461,55,6,"Well, I mean all different sections and the same boiler, so probably for the two or three months, you know, not side by each, you know, but in the same area.",a,THE WITNESS,start_question
+644,1465,55,10,"Um-hum.  Okay.  Correct me if I'm wrong, but I thought you said you also did work in other aspects of the facility other than the boiler room?",q,MR. KENNY,start_answer
+645,1468,55,13,"I did, yeah.",a,THE WITNESS,start_question
+646,1469,55,14,"All right.  So if you're there for three to four months, you weren't working a hundred percent of the time in the boiler room; right?",q,MR. KENNY,start_answer
+647,1472,55,17,"No.  When that was near completion, we just moved -- followed the piping out into the other buildings and did ductwork and piping in the other buildings also.",a,THE WITNESS,start_question
+648,1476,55,21,"Okay.  So that ductwork you did and the work you did on the other piping leading outside the boiler room, are you able to tell me what percentage of the time that work was versus your time in the boiler room itself?",q,MR. KENNY,start_answer
+649,1482,56,2,I don't know.  We just worked until it was done.,a,THE WITNESS,start_question
+650,1484,56,4,All right.,q,MR. KENNY,start_answer
+651,1485,56,5,"I can't tell, you know, if it was two months or a month or what.",a,THE WITNESS,start_question
+652,1487,56,7,And you mentioned that you did work on tanks?,q,MR. KENNY,start_answer
+653,1488,56,8,Yes.,a,THE WITNESS,start_question
+654,1489,56,9,What type of tanks were these?,q,MR. KENNY,start_answer
+655,1490,56,10,"It's like a holding tank for the overflow water, I would say, from -- I don't know the specific name for it.",a,THE WITNESS,start_question
+656,1493,56,13,Was it hot water? cold water?,q,MR. KENNY,start_answer
+657,1494,56,14,Hot water.,a,THE WITNESS,start_question
+658,1495,56,15,So you put insulation on the tanks?,q,MR. KENNY,start_answer
+659,1496,56,16,Um-hum.,a,THE WITNESS,start_chat
+660,1497,56,17,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+661,1498,56,18,Yes.,a,THE WITNESS,start_question
+662,1500,56,20,Do you know what type of insulation you put on the tanks?,q,MR. KENNY,start_answer
+663,1502,56,22,"I think it's the same stuff, the Kaylo block.",a,THE WITNESS,start_question
+664,1503,56,23,"Again, were these tanks already insulated and insulation had to be removed, or was this new insulation being put on the tanks?",q,MR. KENNY,start_answer
+665,1507,57,2,"New insulation, as far as I can remember.",a,THE WITNESS,start_question
+666,1508,57,3,Do you know approximately how many tanks had to be insulated at that facility?,q,MR. KENNY,start_answer
+667,1510,57,5,"I don't know, a couple, two -- I don't know.",a,THE WITNESS,start_question
+668,1511,57,6,"Now, were these larger tanks?  Are you able to describe for me the diameter of them at all?",q,MR. KENNY,start_answer
+669,1513,57,8,"Probably 8, 10 feet around.",a,THE WITNESS,start_question
+670,1514,57,9,And what part of the tank would have to be insulated?,q,MR. KENNY,start_answer
+671,1516,57,11,The whole tank.,a,THE WITNESS,start_question
+672,1517,57,12,Including the top?,q,MR. KENNY,start_answer
+673,1518,57,13,"Top, bottom, sides.",a,THE WITNESS,start_question
+674,1519,57,14,"And the insulation of the tank, was that work -- did you ever see Mr. Crescenzo performing that work at the Waltham facility?",q,MR. KENNY,start_answer
+675,1522,57,17,Um-hum.,a,THE WITNESS,start_chat
+676,1523,57,18,Yes.,side_chat,MR. HUMEN,start_answer
+677,1524,57,19,"Yes, we all did.  Yes.",a,THE WITNESS,start_question
+678,1526,57,21,And you also mentioned there was some ductwork at the facility?,q,MR. KENNY,start_answer
+679,1528,57,23,"Yeah.  One of the other buildings, and I think that was done by -- with fiberglass board.",a,THE WITNESS,start_question
+680,1531,58,1,Fiberglass board?,q,MR. KENNY,start_answer
+681,1532,58,2,Yeah.,a,THE WITNESS,start_question
+682,1533,58,3,How long did the ductwork insulation take you to do?,q,MR. KENNY,start_answer
+683,1535,58,5,That was probably a few weeks.,a,THE WITNESS,start_question
+684,1536,58,6,And was Peter working with you during this time?,q,MR. KENNY,start_answer
+685,1538,58,8,"Some of the time.  There was other guys there too, you know, on and off.",a,THE WITNESS,start_question
+686,1540,58,10,"Now, when you were working at the Waltham facility, did they have different shifts that workers would come in?",q,MR. KENNY,start_answer
+687,1543,58,13,No.,a,THE WITNESS,start_question
+688,1544,58,14,Just all one shift?,q,MR. KENNY,start_answer
+689,1545,58,15,Um-hum.,a,THE WITNESS,start_chat
+690,1546,58,16,Yes?,side_chat,DEFENSE COUNSEL,start_answer
+691,1547,58,17,Yes.  Christ.,a,THE WITNESS,start_question
+692,1549,58,19,"When you showed up to the Waltham facility in the morning, did you have a supervisor or foreman that would tell you what your duties were for the day?",q,MR. KENNY,start_answer
+693,1552,58,22,"Yeah.  But you -- if you started on this piping here, you would -- you know, usually you were on that until it was over.",a,THE WITNESS,start_question
+694,1556,59,1,Right.,q,MR. KENNY,start_answer
+695,1557,59,2,"Unless they had, you know, another job they wanted done faster somewhere else.  Yeah.",a,THE WITNESS,start_question
+696,1559,59,4,"And the same goes -- I didn't ask you this, but the same goes for the Cambridge facility when you would show up to work.  You would have someone that would tell you what you had to do that day --",q,MR. KENNY,start_answer
+697,1563,59,8,Yeah.,a,THE WITNESS,start_question
+698,1564,59,9,-- or you would just continue on a project that you had done earlier?,q,MR. KENNY,start_answer
+699,1566,59,11,"They would tell you, too, if they wanted to pull you off that and put you on something else, you know, which --",a,THE WITNESS,start_question
+700,1569,59,14,"With the Waltham facility, the Polaroid Waltham facility, of the three to four months that you think you worked with Peter, are you able to tell me what percentage of that time the two of you were actually working side by side versus maybe you going off on another job or him going off on another job?",q,MR. KENNY,start_answer
+701,1575,59,20,I can't tell you.  I don't know.,a,THE WITNESS,start_question
+702,1576,59,21,"Is it fair to say, though, that you weren't working with him a hundred percent of the time?",q,MR. KENNY,start_answer
+703,1578,59,23,"Oh, yeah.  I wasn't a hundred percent, no.",a,THE WITNESS,start_question
+704,1579,59,24,The same with the Cambridge facility?,q,MR. KENNY,start_answer
+705,1581,60,1,"Um-hum.  Same thing, yes.  Yeah.",a,THE WITNESS,start_question
+706,1582,60,2,Getting better.,q,MR. KENNY,start_answer
+707,1583,60,3,"Yes.  Geez, not much.",a,THE WITNESS,start_question
+708,1584,60,4,"So other than the ductwork, the work in the boiler room on the boiler and the piping, work on the tanks, is there any other type of work that you recall doing with Mr. Crescenzo at this facility?",q,MR. KENNY,start_answer
+709,1588,60,8,I can't recall anything else.,a,THE WITNESS,start_question
+710,1589,60,9,"All right.  Sorry to keep jumping back here, but I'm just remembering some questions.  Do you remember any of the names of any co-workers that you and Mr. Crescenzo worked with at the Cambridge facility?",q,MR. KENNY,start_answer
+711,1593,60,13,Tommy Whalen I think was one.  Tommy Whalen was on the Waltham one too.,a,THE WITNESS,start_question
+712,1595,60,15,"How about supervisor, do you remember any supervisors's names either at Cambridge or Waltham?",q,MR. KENNY,start_answer
+713,1597,60,17,"I think Tommy Whalen was a supervisor on the Waltham job.  And I can't remember, you know.  You work with so many guys on so many different jobs.",a,THE WITNESS,start_question
+714,1600,60,20,"That's okay.  If you -- again, like I say, if you remember, you know, you go home tonight --",q,MR. KENNY,start_answer
+715,1602,60,22,Yeah.,a,THE WITNESS,start_question
+716,1603,60,23,-- and a name pops in your head --,q,MR. KENNY,start_answer
+717,1604,60,24,Um-hum.,a,THE WITNESS,start_question
+718,1606,61,1,-- just let us know tomorrow.,q,MR. KENNY,start_answer
+719,1607,61,2,Yeah.,a,THE WITNESS,start_question
+720,1608,61,3,"Okay.  So after leaving the Waltham facility, where do you recall working next with Mr. Crescenzo?",q,MR. KENNY,start_answer
+721,1610,61,5,Let me check my paperwork here.  Christ.,a,THE WITNESS,start_chat
+722,1611,61,6,Can we pass those lists around?,side_chat,DEFENSE COUNSEL,start_answer
+723,1613,61,8,"International Paper in Jay, Maine.",a,THE WITNESS,start_question
+724,1615,61,10,"Do you remember when you first started working at the International Paper in Jay, Maine?",q,MR. KENNY,start_answer
+725,1617,61,12,"I was up there when they first started the job.  It was -- I started there in the '60s, but they would have different, different jobs after that, put a new paper machine in.  So they had to do all the different piping to that machine.  So back then this was in '76.",a,THE WITNESS,start_question
+726,1623,61,18,'76 is when you remember working with Mr. Crescenzo?,q,MR. KENNY,start_answer
+727,1625,61,20,"With Peter, yeah.",a,THE WITNESS,start_question
+728,1626,61,21,Was that the only time that you recall working with Mr. Crescenzo at the International Paper in Jay?,q,MR. KENNY,start_answer
+729,1628,61,23,Yeah.,a,THE WITNESS,start_question
+730,1629,61,24,But you had been to that facility earlier on?,q,MR. KENNY,start_answer
+731,1631,62,1,"I was up there in 1965, I think, with Benny.",a,THE WITNESS,start_question
+732,1632,62,2,"And where in Jay, Maine, was it located if you remember, like a street address?",q,MR. KENNY,start_answer
+733,1634,62,4,"Oh, geez.  I know you got to go through Livermore Falls, some little town.  This Jay, Maine, is just a small little town.  It's on the river.  They're mostly all on the river, these paper mills.  I can't remember.  I don't know.  I'm not sure.  Route 16.  I can't -- I can't remember for sure.",a,THE WITNESS,start_question
+734,1640,62,10,"When you were working there in '76 with Peter, how long did you work together?",q,MR. KENNY,start_answer
+735,1642,62,12,"I would say a couple of months on and off, you know, not every day.  You know, I might work a couple of days this week and maybe a day or two next week.",a,THE WITNESS,start_question
+736,1645,62,15,"Um-hum.  And Jay, Maine, is pretty far up there?",q,MR. KENNY,start_answer
+737,1647,62,17,"Yeah.  It's -- after Lewiston, so it's -- yeah, it's a good ride.",a,THE WITNESS,start_question
+738,1649,62,19,Were you doing a commute back and forth --,q,MR. KENNY,start_answer
+739,1650,62,20,"No, no.",a,THE WITNESS,start_question
+740,1651,62,21,-- were you staying there?,q,MR. KENNY,start_answer
+741,1652,62,22,We stayed there.  Yeah.,a,THE WITNESS,start_question
+742,1653,62,23,And how about Peter?  Do you remember if he would stay up there too?,q,MR. KENNY,start_answer
+743,1656,63,1,"Oh, yeah, we all did.  You couldn't commute from there.",a,THE WITNESS,start_question
+744,1658,63,3,Kind of go home on the weekends and then come back?,q,MR. KENNY,start_answer
+745,1660,63,5,Yeah.  Yeah.,a,THE WITNESS,start_question
+746,1661,63,6,"And, again, were there designated shifts that the workers work at, or was it one shift?",q,MR. KENNY,start_answer
+747,1663,63,8,"Mostly one shift, I would say, one shift.",a,THE WITNESS,start_question
+748,1664,63,9,And what were the hours?,q,MR. KENNY,start_answer
+749,1665,63,10,"Probably 7:00 to 3:30, or 8:00 for 4:30, you know, one of the two.",a,THE WITNESS,start_question
+750,1667,63,12,Did they give you any opportunity to work overtime either later in the day or on the weekends?,q,MR. KENNY,start_answer
+751,1669,63,14,"I don't remember working much overtime then. It might have come on here and there, you know.",a,THE WITNESS,start_question
+752,1671,63,16,Um-hum.,q,MR. KENNY,start_answer
+753,1672,63,17,"Maybe, you know, but --",a,THE WITNESS,start_question
+754,1673,63,18,"And at this point, were you a full-time insulator?",q,MR. KENNY,start_answer
+755,1675,63,20,Yeah.,a,THE WITNESS,start_question
+756,1676,63,21,And was Peter a full-time insulator?,q,MR. KENNY,start_answer
+757,1677,63,22,Um-hum.,a,THE WITNESS,start_chat
+758,1678,63,23,Yes?,side_chat,MR. HUMEN,start_answer
+759,1679,63,24,Yes.,a,THE WITNESS,start_question
+760,1682,64,2,And what type of work were you performing at the International Paper in 1976?,q,MR. KENNY,start_answer
+761,1684,64,4,"We were doing the boiler walls with 48 -- 48 insulation they call it.  It was, like, 4 inches thick, something like that.  Fiberglass piping, some of the piping.  We used fiberglass insulation on that.",a,THE WITNESS,start_question
+762,1688,64,8,On the piping?,q,MR. KENNY,start_answer
+763,1689,64,9,Um-hum.,a,THE WITNESS,start_chat
+764,1690,64,10,Yes?,side_chat,MR. HUMEN,start_answer
+765,1691,64,11,Yes.  Jesus.,a,THE WITNESS,start_question
+766,1693,64,13,"And similar to my questions about the Polaroid facilities, are you able to tell me what the layout looked like at International Paper?",q,MR. KENNY,start_answer
+767,1696,64,16,"Oh, geez.  It was a big facility.  I don't know how many paper machines.  It was big, acres, the whole facility.",a,THE WITNESS,start_question
+768,1699,64,19,Multiple buildings?,q,MR. KENNY,start_answer
+769,1700,64,20,Yeah.,a,THE WITNESS,start_question
+770,1701,64,21,And during the time that you were there -- strike that. How long did you work together with Peter at this facility for?,q,MR. KENNY,start_answer
+771,1706,65,1,I would say for a few months anyway.,a,THE WITNESS,start_question
+772,1707,65,2,Three or four months?,q,MR. KENNY,start_answer
+773,1708,65,3,"Yeah, I would say so, at least.",a,THE WITNESS,start_question
+774,1709,65,4,"During that three to four months, were you designated in one area of the International Paper facility or did you guys move around?",q,MR. KENNY,start_answer
+775,1712,65,7,"It was mostly the boiler room at that time, doing the boiler.",a,THE WITNESS,start_question
+776,1714,65,9,"Now, was this a new boiler that was being installed?",q,MR. KENNY,start_answer
+777,1716,65,11,"I think it was, but I can't swear to it.",a,THE WITNESS,start_question
+778,1717,65,12,And do you recall the manufacturer of the boiler?,q,MR. KENNY,start_answer
+779,1719,65,14,Geez.  I don't know if it was Riley Stoker.  I can't say for certain.,a,THE WITNESS,start_question
+780,1721,65,16,"Was there more than one boiler in this room, or was it just one?",q,MR. KENNY,start_answer
+781,1723,65,18,"No, just one and that was floors too.  It was a good-size boiler.",a,THE WITNESS,start_question
+782,1725,65,20,So you think a new boiler was being installed and you guys were putting 48-inch board on it?,q,MR. KENNY,start_answer
+783,1727,65,22,Yeah.,a,THE WITNESS,start_question
+784,1728,65,23,Do you know how long that job took?,q,MR. KENNY,start_answer
+785,1729,65,24,That was months also.,a,THE WITNESS,start_question
+786,1731,66,1,"So if you were there three to four months, do you think this work in the boiler room took the majority of the time that you were there working together?",q,MR. KENNY,start_answer
+787,1734,66,4,Yeah.,a,THE WITNESS,start_question
+788,1735,66,5,Do you recall working anywhere else with Peter other than in the boiler room at International Paper?,q,MR. KENNY,start_answer
+789,1737,66,7,I don't recall.,a,THE WITNESS,start_question
+790,1738,66,8,"How about co-workers at this jobsite in '76, do you remember the names of any of the co-workers?",q,MR. KENNY,start_answer
+791,1740,66,10,"Freddy, Freddy McGovern was the boss.  Peter was like a foreman.  Geez.  Joe Nelson, Kenny O'Connell. I can't remember the other.  There was a bunch more guys, though.",a,THE WITNESS,start_question
+792,1744,66,14,"Now, what was your job title at this job?",q,MR. KENNY,start_answer
+793,1745,66,15,Insulator.,a,THE WITNESS,start_question
+794,1746,66,16,Insulator?,q,MR. KENNY,start_answer
+795,1747,66,17,Yeah.,a,THE WITNESS,start_question
+796,1748,66,18,"Not a supervisor, just a insulator?",q,MR. KENNY,start_answer
+797,1749,66,19,No.  Yeah.,a,THE WITNESS,start_question
+798,1750,66,20,Do you think Peter was working as a foreman at the time?,q,MR. KENNY,start_answer
+799,1752,66,22,Yeah.,a,THE WITNESS,start_question
+800,1753,66,23,"Because Peter was working as a foreman at the time, were his job duties any different than your job duties as a insulator?",q,MR. KENNY,start_answer
+801,1757,67,2,"Well, he'd just -- Freddy would say where he wanted the men put, and he would put the men there, and then he would work with the tools somewhat, too, Peter, you know.  He wasn't just a -- you know, he was a working foreman.",a,THE WITNESS,start_question
+802,1762,67,7,And you mentioned in the boiler room you were also putting in some insulation on the piping?,q,MR. KENNY,start_answer
+803,1764,67,9,Um-hum.,a,THE WITNESS,start_question
+804,1765,67,10,Is this piping that was leading up to the boiler?,q,MR. KENNY,start_answer
+805,1767,67,12,Yes.  Yes.,a,THE WITNESS,start_question
+806,1768,67,13,And -- but you think that this piping was fiberglass insulation?,q,MR. KENNY,start_answer
+807,1770,67,15,"I'm pretty sure it was because, back then, I don't think you could use asbestos anymore.",a,THE WITNESS,start_question
+808,1772,67,17,Do you have a recollection as to when the use of asbestos may have been banned from your workplace?,q,MR. KENNY,start_answer
+809,1774,67,19,"I'm thinking it was either '70 or '72, I think, but they could use -- if they had asbestos left in their warehouses or whatever they could use it up, and that would be it.",a,THE WITNESS,start_question
+810,1778,67,23,Okay.,q,MR. KENNY,start_answer
+811,1779,67,24,As far as I can remember.,a,THE WITNESS,start_question
+812,1781,68,1,"You mentioned that either '70 or '72 you think that asbestos could no longer be used in the workplace. Do you remember seeing something or going to a safety meeting and being told this, or how do you remember that?",q,MR. KENNY,start_answer
+813,1786,68,6,It might have been told at the union meetings. I forget.  I don't know.,a,THE WITNESS,start_question
+814,1788,68,8,"Sorry to jump back again, but we talked about the boiler at the Waltham facility, but I don't think I asked you the manufacturer.  Do you know the manufacturer of that boiler?",q,MR. KENNY,start_answer
+815,1792,68,12,"Foster Wheeler, I think it was Foster Wheeler.",a,THE WITNESS,start_question
+816,1793,68,13,I want to talk a little bit more about the union meetings where you think you may have been told that asbestos would be hazardous to your health.  Did the Local 6 have regular union meetings for its workers?,q,MR. KENNY,start_answer
+817,1797,68,17,"Oh, yeah.",a,THE WITNESS,start_question
+818,1798,68,18,About how often would they have those meetings?,q,MR. KENNY,start_answer
+819,1800,68,20,Once a month.,a,THE WITNESS,start_question
+820,1801,68,21,Once a month.  And what types of things were discussed at these meetings?,q,MR. KENNY,start_answer
+821,1803,68,23,Union business.,a,THE WITNESS,start_question
+822,1804,68,24,Okay.  And could you elaborate a little bit more on union business?,q,MR. KENNY,start_answer
+823,1807,69,2,"What different jobs were coming up, how the workload was, benefits, you know, if you were up for a raise, what we want to do is disburse the monies we would get, just, you know, just union business.",a,THE WITNESS,start_question
+824,1811,69,6,And were safety precautions part of these meetings?,q,MR. KENNY,start_answer
+825,1813,69,8,I guess.  I don't know.,a,THE WITNESS,start_question
+826,1814,69,9,But you do remember the topic of the hazard of asbestos coming up at these meetings?,q,MR. KENNY,start_answer
+827,1816,69,11,I'm thinking that's where I heard it.,a,THE WITNESS,start_question
+828,1817,69,12,"How about at any of the jobsites that we discussed here today either at Cambridge, the Polaroid in Cambridge, the Polaroid in Waltham, or the International Paper, do you recall at any of those three jobsites where you were working with Peter if you ever had meetings where they discussed the hazards of asbestos?",q,MR. KENNY,start_answer
+829,1824,69,19,"No, not that I can recall.",a,THE WITNESS,start_question
+830,1825,69,20,"How about signage?  Do you ever recall seeing any signs saying, you know, ""warning asbestos,"" ""warning contains asbestos""?",q,MR. KENNY,start_answer
+831,1828,69,23,"I can't recall, but I know when they started stripping the asbestos on certain jobs, they did -- they would have to encase it all, you know, plastic and then have warnings up there.  But I don't think it was on these jobs.",a,THE WITNESS,start_question
+832,1834,70,4,"All right.  Do you remember we were talking about abatement work, asbestos abatement work?",q,MR. KENNY,start_answer
+833,1836,70,6,Um-hum.,a,THE WITNESS,start_question
+834,1837,70,7,Yes?,q,MR. KENNY,start_answer
+835,1838,70,8,Yes.,a,THE WITNESS,start_question
+836,1839,70,9,Okay.  Do you remember the first time that you were working at a jobsite where you recalled seeing asbestos abatement being done?,q,MR. KENNY,start_answer
+837,1842,70,12,"It was one of the powerhouses.  I forget which one it was honestly.  But they encased the whole thing with plastic.  They had different doors you'd come in and out of and showers and everything, clean room, dirty room, shower.",a,THE WITNESS,start_question
+838,1847,70,17,Do you remember approximately what year that might have been or even decade?,q,MR. KENNY,start_answer
+839,1849,70,19,I would say in the '80s.,a,THE WITNESS,start_question
+840,1850,70,20,"Do you know if it was early '80s, mid '80s, late '80s?",q,MR. KENNY,start_answer
+841,1852,70,22,I don't know.  I don't know.,a,THE WITNESS,start_question
+842,1853,70,23,"Okay.  How about when you were working at the Cambridge -- the Polaroid facility in Cambridge, were you provided any protective equipment, either mask, goggles, respirator, anything like that?",q,MR. KENNY,start_answer
+843,1858,71,3,"No, not that I can recall.",a,THE WITNESS,start_question
+844,1859,71,4,How about paper masks?  Were the insulators provided with any paper masks?,q,MR. KENNY,start_answer
+845,1861,71,6,"On some jobs they would have their own, they would wear them, you know; but I don't know if they supplied them or not.",a,THE WITNESS,start_question
+846,1864,71,9,Do you recall if you ever wore any protective equipment when you were working at the Polaroid in Cambridge?,q,MR. KENNY,start_answer
+847,1867,71,12,I can't remember.  I don't remember.,a,THE WITNESS,start_question
+848,1868,71,13,Do you recall if you ever saw Mr. Crescenzo wearing any protective equipment when he was working at the --,q,MR. KENNY,start_answer
+849,1871,71,16,No.,a,THE WITNESS,start_question
+850,1872,71,17,-- Polaroid facility in Cambridge?,q,MR. KENNY,start_answer
+851,1873,71,18,No.,a,THE WITNESS,start_question
+852,1874,71,19,And same goes for Waltham.  Did you wear any protective equipment at Waltham?,q,MR. KENNY,start_answer
+853,1876,71,21,No.,a,THE WITNESS,start_question
+854,1877,71,22,Do you ever recall seeing Mr. Crescenzo wearing any protective equipment in Waltham?,q,MR. KENNY,start_answer
+855,1879,71,24,I don't recall.,a,THE WITNESS,start_question
+856,1881,72,1,"And lastly International Paper in '76, at that time, did you start wearing any protective equipment when you were working --",q,MR. KENNY,start_answer
+857,1884,72,4,"We wore paper masks a lot of the times, just, yeah --",a,THE WITNESS,start_question
+858,1886,72,6,When you were work --,q,MR. KENNY,start_answer
+859,1887,72,7,-- for dust --,a,THE WITNESS,start_question
+860,1888,72,8,Okay?,q,MR. KENNY,start_answer
+861,1889,72,9,For dust particles.,a,THE WITNESS,start_question
+862,1890,72,10,"When you were working in the boiler room at International Paper, would you be wearing a paper mask?",q,MR. KENNY,start_answer
+863,1892,72,12,"Sometimes you would, yeah.",a,THE WITNESS,start_question
+864,1893,72,13,And how about Peter?  Do you remember seeing him wear a paper mask when he was working in the boiler room?,q,MR. KENNY,start_answer
+865,1896,72,16,"I think most -- all the guys did by then.  You know, they started wearing them.",a,THE WITNESS,start_question
+866,1898,72,18,"Do you know if the insulators, any of the insulators you worked with took extra safety steps like to wear a respirator instead of a paper mask?",q,MR. KENNY,start_answer
+867,1901,72,21,The only time I remember wearing a full-fledged respirator was down in the Plymouth powerhouse --,a,THE WITNESS,start_question
+868,1904,72,24,Do you remember --,q,MR. KENNY,start_answer
+869,1906,73,1,-- nuclear plant.,a,THE WITNESS,start_question
+870,1907,73,2,Do you remember what year that was?,q,MR. KENNY,start_answer
+871,1908,73,3,"I got it here somewhere, but that was in '87. '87, yeah.",a,THE WITNESS,start_question
+872,1910,73,5,"Any of the three jobsites that we discussed today, do you ever recall OSHA visiting any of those three sites?",q,MR. KENNY,start_answer
+873,1913,73,8,I don't remember.,a,THE WITNESS,start_question
+874,1914,73,9,"So at International Paper other than the work in the boiler room on the boiler itself as well as on the piping in the boiler room, do you recall working on any other equipment at this facility with Peter?",q,MR. KENNY,start_answer
+875,1918,73,13,"I don't recall, no.",a,THE WITNESS,start_question
+876,1919,73,14,"When you were working for the union, do you ever recall receiving a periodical called the asbestos worker?",q,MR. KENNY,start_answer
+877,1922,73,17,Asbestos Workers Journal we used to get.,a,THE WITNESS,start_question
+878,1923,73,18,All right.,q,MR. KENNY,start_answer
+879,1924,73,19,Yeah.,a,THE WITNESS,start_question
+880,1925,73,20,"And what type of information was in that journal, if you remember?",q,MR. KENNY,start_answer
+881,1927,73,22,"I just got one the other day too.  Just what was going on at other locals throughout the country and, you know, nothing -- nothing as far as this stuff here goes.",a,THE WITNESS,start_question
+882,1932,74,2,All right.  Do you ever recall seeing anything about health hazards with regard to asbestos in the Asbestos Worker Journal?,q,MR. KENNY,start_answer
+883,1935,74,5,"I remember them talking about, yeah, the asbestos, yeah, and Mount Sinai, the doctor there -- geez, I should know his name too.  He since passed away too.  But they did all the research for it at Mount Sinai Hospital.",a,THE WITNESS,start_question
+884,1940,74,10,Do you remember when you first started seeing publications in the Asbestos Workers magazine about asbestos being harmful or these health studies that you were talking about?,q,MR. KENNY,start_answer
+885,1944,74,14,"I'm not sure what year, but probably late '70s, early '80s, maybe.",a,THE WITNESS,start_question
+886,1946,74,16,"So other than the Polaroid in Waltham, the Polaroid in Cambridge and the International Paper in Jay, do you remember any other jobsites where you and Peter Crescenzo worked together?",q,MR. KENNY,start_answer
+887,1950,74,20,"I don't remember.  We might have been on the same job with different companies, too.",a,THE WITNESS,start_question
+888,1952,74,22,Um-hum.,q,MR. KENNY,start_answer
+889,1953,74,23,"That could have happened, but I can't recall.",a,THE WITNESS,start_question
+890,1954,74,24,Okay.,q,MR. KENNY,start_chat
+891,1956,75,1,Why don't we go off the record?,side_chat,MR. KENNY,is brackets
+892,1957,75,2,(Off-the-record discussion held.),brackets,,start_chat
+893,1958,75,3,"All right, sir, back on the record.",side_chat,MR. KENNY,start_question
+894,1961,75,6,We talked about the safely meetings that you attended when you were a member of the -- you are still a member of the Local 6?,q,MR. KENNY,start_answer
+895,1964,75,9,I am.  Retired member.,a,THE WITNESS,start_question
+896,1965,75,10,Okay.  Do you recall when you were attending any of those meetings if Peter was at any of the meetings that you would go to?,q,MR. KENNY,start_answer
+897,1968,75,13,Union meetings?,a,THE WITNESS,start_question
+898,1969,75,14,Yes.,q,MR. KENNY,start_answer
+899,1970,75,15,"Oh, yeah.",a,THE WITNESS,start_question
+900,1971,75,16,Do you remember the first time you saw Peter at the union meeting?,q,MR. KENNY,start_answer
+901,1973,75,18,"Oh, I don't know, probably when he first joined and since then, you know.",a,THE WITNESS,start_question
+902,1975,75,20,Sure.,q,MR. KENNY,start_answer
+903,1976,75,21,"He wouldn't go to every meeting, but I would see him, you know, quite frequently.",a,THE WITNESS,start_question
+904,1978,75,23,"So you guys met, you said, in 1968.  You think you may have seen him at meetings in the '60s?",q,MR. KENNY,start_answer
+905,1981,76,1,Yeah.  I would say so.,a,THE WITNESS,start_question
+906,1982,76,2,"Now, I forget to ask you.  I know you're --",q,MR. KENNY,start_answer
+907,1983,76,3,"I think he still goes to them.  I don't go to them anymore, but I think Peter still goes to them as far as I know.",a,THE WITNESS,start_question
+908,1986,76,6,"I asked where you worked with Peter, but I didn't ask who your employers were at each facility.  Do you remember who your employer was at the Polaroid in Cambridge when you worked there with Peter?",q,MR. KENNY,start_answer
+909,1990,76,10,"Thermal Insulation, I think it was.  And International Paper I think was Powerhouse Equipment. It was a new outfit in our area at the time.",a,THE WITNESS,start_question
+910,1993,76,13,Was Thermal Insulation your employer at both Polaroid facilities?,q,MR. KENNY,start_answer
+911,1995,76,15,"Yes, um-hum.",a,THE WITNESS,start_question
+912,1996,76,16,And how about the general contractors?  Do you remember the general contractors at any of the three facilities that you worked with Peter at?,q,MR. KENNY,start_answer
+913,1999,76,19,"Geez, I forget.",a,THE WITNESS,start_question
+914,2000,76,20,Okay.,q,MR. KENNY,start_answer
+915,2001,76,21,I can't remember.,a,THE WITNESS,start_chat
+916,2002,76,22,"Okay.  All right, sir.  Those are all the questions I have for you.  Thank you very much for your time, and I'll let some other folks in the room ask.",side_chat,MR. KENNY,start_chat
+917,2007,77,2,You're welcome.  Okay.,side_chat,THE WITNESS,start_chat
+918,2008,77,3,Can you hear me okay from here?,side_chat,MS. HOCKMEYER,start_chat
+919,2010,77,5,I can.,side_chat,THE WITNESS,start_chat
+920,2011,77,6,I'll speak up.,side_chat,MS. HOCKMEYER,start_chat
+921,2012,77,7,Okay.,side_chat,THE WITNESS,start_chat
+922,2013,77,8,It's easier.  My computer's here. CROSS EXAMINATION,side_chat,MS. HOCKMEYER,start_question
+923,2017,77,12,Okay.  So I just want to focus on International Paper for a little bit with you?,q,MS. HOCKMEYER,start_answer
+924,2019,77,14,Um-hum.,a,THE WITNESS,start_question
+925,2020,77,15,I'll pick up right where Ryan just left off. You said you don't recall any of the general contractors.  Does the name Walsh Construction remind you of whether or not Walsh Construction was the general contractor in 1976?,q,MS. HOCKMEYER,start_answer
+926,2025,77,20,The only job I remember Walsh Construction was Mass. General Hospital in Boston.  I don't remember them being up there in Maine.,a,THE WITNESS,start_question
+927,2028,77,23,Okay.  Do you recall the names of -- do you recall the name of who Fred McGovern's boss was on the job?,q,MS. HOCKMEYER,start_answer
+928,2032,78,2,"Like I say, it was a new outfit.  I think they were out of Ohio, actually, and I met him one time, and I don't recall his name.  He wasn't out of our -- the Boston area.  It wasn't one of our Boston shops, like New England Insulation or any of the other ones, you know.",a,THE WITNESS,start_question
+929,2038,78,8,Was this person someone from Powerhouse Equipment?,q,MS. HOCKMEYER,start_answer
+930,2040,78,10,"Yeah.  He -- yeah.  He wasn't on the job all the time.  He was just, like, their outside super, I guess, or the owner of the company.  I'm not sure which, but he'd show up every once in a while, and we would have no dealings with him, actually.",a,THE WITNESS,start_question
+931,2045,78,15,Fair to say that Peter took his daily orders from Fred?,q,MS. HOCKMEYER,start_answer
+932,2047,78,17,"I would say so, yeah.  We all did, actually, you know, one way or the other.",a,THE WITNESS,start_question
+933,2049,78,19,Did you take orders from Fred or from Peter?,q,MS. HOCKMEYER,start_answer
+934,2050,78,20,Both.,a,THE WITNESS,start_question
+935,2051,78,21,Did it just vary on a given day or was there a time frame where it switched from Fred giving you orders to now Peter giving you orders?,q,MS. HOCKMEYER,start_answer
+936,2054,78,24,"Well, sometimes Fred would take off a little early, and Peter would take over for him, so he would be, like, more or less the boss boss, you know.",a,THE WITNESS,start_question
+937,2058,79,3,Was this because Peter was the senior journeyman on the site after Fred would leave?,q,MS. HOCKMEYER,start_answer
+938,2060,79,5,No.  No.,a,THE WITNESS,start_question
+939,2061,79,6,Just worked out this way?,q,MS. HOCKMEYER,start_answer
+940,2062,79,7,"Yeah, just -- yeah.",a,THE WITNESS,start_question
+941,2063,79,8,"When Peter would be the person who would fill in the role of foreman, would he then transition into less hands-on work and more directional --",q,MS. HOCKMEYER,start_answer
+942,2066,79,11,Yeah.  He would do less.,a,THE WITNESS,start_question
+943,2067,79,12,-- work?,q,MS. HOCKMEYER,start_answer
+944,2068,79,13,"Yeah, he would do a little less work.",a,THE WITNESS,start_question
+945,2069,79,14,Are you able to approximate for me of the three to four months that you were at this site together what percent of the time Peter was directing work as your foreman versus doing hands-on work himself?,q,MS. HOCKMEYER,start_answer
+946,2073,79,18,"He was mostly hands-on work, you know.  I would say, you know, three quarters of the time he was hands on.",a,THE WITNESS,start_question
+947,2076,79,21,Do you recall taking orders from anybody aside from Fred and Peter while you worked at International Paper?,q,MS. HOCKMEYER,start_answer
+948,2079,79,24,"No, I don't.",a,THE WITNESS,start_question
+949,2081,80,1,Do you recall ever taking orders from any general contractor on the site even if you can't tell me who they were?,q,MS. HOCKMEYER,start_answer
+950,2084,80,4,"They don't have anything to do with us.  They tell -- if they have a problem, they go to Fred who is the supervisor.  We don't -- we didn't have any dealings with the -- as a worker, had no dealings with the general contractor.",a,THE WITNESS,start_question
+951,2089,80,9,Would the same be true for International Paper in that you would have no dealings with anybody from International Paper?,q,MS. HOCKMEYER,start_answer
+952,2092,80,12,Right.,a,THE WITNESS,start_question
+953,2093,80,13,And nobody from International Paper would direct you how to do your job?,q,MS. HOCKMEYER,start_answer
+954,2095,80,15,No.,a,THE WITNESS,start_question
+955,2096,80,16,"When you wanted to access the facility, drive in, do you recall whether or not there was a guard shack that you had to go to and check in?",q,MS. HOCKMEYER,start_answer
+956,2099,80,19,"There was, yeah, uh-hum.",a,THE WITNESS,start_question
+957,2100,80,20,And did you have to get a visitor's badge or some kind of an emblem to wear?,q,MS. HOCKMEYER,start_answer
+958,2102,80,22,"Let me think now.  You know, I forget, but we may have, but I can't remember right offhand.",a,THE WITNESS,start_question
+959,2104,80,24,Do you recall whether or not Powerhouse Equipment set up a trailer on the site for you to go and congregate with your crew?,q,MS. HOCKMEYER,start_answer
+960,2108,81,3,"Let me think of that too.  Some of them did, and some of them didn't.  I think they did, as far as I can recall.",a,THE WITNESS,start_question
+961,2111,81,6,And this was a new construction job?,q,MS. HOCKMEYER,start_answer
+962,2112,81,7,Yeah.,a,THE WITNESS,start_question
+963,2113,81,8,New insulation jobs?,q,MS. HOCKMEYER,start_answer
+964,2114,81,9,Um-hum.,a,THE WITNESS,start_question
+965,2115,81,10,"So all the materials had to be -- yes?  You said ""um-hum.""",q,MS. HOCKMEYER,start_answer
+966,2117,81,12,Yes.  Yes.  I'm sorry.,a,THE WITNESS,start_question
+967,2118,81,13,So all the materials had to be supplied to the site for you to do your job?,q,MS. HOCKMEYER,start_answer
+968,2120,81,15,Yes.,a,THE WITNESS,start_question
+969,2121,81,16,Do you remember who supplied the materials?,q,MS. HOCKMEYER,start_answer
+970,2122,81,17,"I don't.  I really don't.  I know before when I was -- some of them would come by train, train cars loaded with stock, you know.",a,THE WITNESS,start_question
+971,2125,81,20,But do you have any memory of a train car coming to International Paper?,q,MS. HOCKMEYER,start_answer
+972,2127,81,22,Not to this job I don't recall specifically.,a,THE WITNESS,start_question
+973,2128,81,23,Okay.,q,MS. HOCKMEYER,start_answer
+974,2129,81,24,But mostly trailer trucks.,a,THE WITNESS,start_question
+975,2131,82,1,"Understanding that you don't know who the supplier was of the materials, do you have a memory of the materials arriving when you were there?",q,MS. HOCKMEYER,start_answer
+976,2134,82,4,Yeah.,a,THE WITNESS,start_question
+977,2135,82,5,Do you know who was responsible for ordering the materials that you used?,q,MS. HOCKMEYER,start_answer
+978,2137,82,7,"Usually they have an estimator on the job.  So when the job starts, they know what you're going to start doing first, and they would order that stock so there's not just an overload of stock on the job.  So they order it as they -- as it progressed.  So probably Fred would -- you know, once we would get -- say, we had to go from here to there, once we get there or close to there, he'd call and order stock for the next section, the next part, you know.  So, in other words, the stock for the whole job wasn't there at one time.",a,THE WITNESS,start_question
+979,2147,82,17,"Understood.  So this estimator, would this be somebody that would be hired or working with Powerhouse Equipment to determine how much stock was needed and who would supply it?",q,MS. HOCKMEYER,start_answer
+980,2151,82,21,"The way I understand, when they bid a job, the estimator estimates the amount of material and the amount of time it should take to do that job too.  So he would work for Powerhouse Equipment.",a,THE WITNESS,start_question
+981,2156,83,1,Did anybody inspect your work?,q,MS. HOCKMEYER,start_answer
+982,2157,83,2,"I imagine people from the plant, you know, to make sure it was all right, I guess.",a,THE WITNESS,start_question
+983,2159,83,4,Did Peter inspect your work?,q,MS. HOCKMEYER,start_answer
+984,2160,83,5,"Not really, no.",a,THE WITNESS,start_question
+985,2161,83,6,Fair to say that the boiler room or powerhouse was shut down when you were doing your work?,q,MS. HOCKMEYER,start_answer
+986,2163,83,8,Yeah.,a,THE WITNESS,start_chat
+987,2164,83,9,I think those are all my questions.,side_chat,MS. HOCKMEYER,start_chat
+988,2166,83,11,Okay.  Thank you.,side_chat,THE WITNESS,is brackets
+989,2167,83,12,(Off-the-record discussion held.) CROSS EXAMINATION,brackets,,start_question
+990,2170,83,15,"Good morning, Mr. Donovan.",q,MR. LYNCH,start_answer
+991,2171,83,16,Good morning.,a,THE WITNESS,start_question
+992,2172,83,17,Frank Lynch.,q,MR. LYNCH,start_answer
+993,2173,83,18,Nice to meet you.,a,THE WITNESS,start_question
+994,2174,83,19,Thank you for coming.  We appreciate the time.,q,MR. LYNCH,start_answer
+995,2175,83,20,My pleasure.,a,THE WITNESS,start_question
+996,2176,83,21,You're familiar with Cleaver-Brooks boilers?,q,MR. LYNCH,start_answer
+997,2177,83,22,Um-hum.,a,THE WITNESS,start_chat
+998,2178,83,23,Yes.,side_chat,MR. HUMEN,start_answer
+999,2179,83,24,Yes.  Jesus Christ.,a,THE WITNESS,start_question
+1000,2182,84,2,"You agree with me that they're what they call a prepackaged-type boiler that comes in on a truck or a railcar, that type of thing?",q,MR. LYNCH,start_answer
+1001,2185,84,5,I think you're right.  I think so.,a,THE WITNESS,start_question
+1002,2186,84,6,"Okay.  Hopefully a simple question for you, the jobsites that we've discussed where you worked either with Peter or around Peter on the same job --",q,MR. LYNCH,start_answer
+1003,2189,84,9,Uh-hum.,a,THE WITNESS,start_question
+1004,2190,84,10,-- would you agree with me that those jobsites did not involve Cleaver-Brooks boilers?,q,MR. LYNCH,start_answer
+1005,2192,84,12,I would say they did not involve them.,a,THE WITNESS,start_question
+1006,2193,84,13,That's what I thought.,q,MR. LYNCH,start_answer
+1007,2194,84,14,"I don't think so, yeah.",a,THE WITNESS,start_question
+1008,2195,84,15,Okay.  On one of your lists -- and we certainly appreciate your bringing these.  It's easier when you are going back so far in time.,q,MR. LYNCH,start_answer
+1009,2198,84,18,Um-hum.,a,THE WITNESS,start_question
+1010,2199,84,19,"Exhibit Number 2, I think you wrote in Thermal next to the two Polaroids?",q,MR. LYNCH,start_answer
+1011,2201,84,21,Yeah.,a,THE WITNESS,start_question
+1012,2202,84,22,Okay.  So just so we all understand that you were employed by Thermal?,q,MR. LYNCH,start_answer
+1013,2204,84,24,"Thermal Insulation, yeah.",a,THE WITNESS,start_question
+1014,2206,85,1,Okay.  And that's an insulation contractor; right?,q,MR. LYNCH,start_answer
+1015,2208,85,3,Yes.  Um-hum.,a,THE WITNESS,start_question
+1016,2209,85,4,An Peter Crescenzo was also employed by Thermal Insulation?,q,MR. LYNCH,start_answer
+1017,2211,85,6,Yes.,a,THE WITNESS,start_question
+1018,2212,85,7,"And for the two Polaroid jobs that you worked with Peter, you were both employed by Thermal; correct?",q,MR. LYNCH,start_answer
+1019,2214,85,9,"Yes, yeah, correct.",a,THE WITNESS,start_question
+1020,2215,85,10,"And on this list it says -- it's under 1968, the two Polaroid jobs; is that correct?",q,MR. LYNCH,start_answer
+1021,2217,85,12,Yeah.,a,THE WITNESS,start_question
+1022,2218,85,13,Is that your memory?,q,MR. LYNCH,start_answer
+1023,2219,85,14,Yes.,a,THE WITNESS,start_question
+1024,2220,85,15,So it was 1968 that you think you worked with Peter for both jobs?,q,MR. LYNCH,start_answer
+1025,2222,85,17,Yes.,a,THE WITNESS,start_question
+1026,2223,85,18,"All right.  You didn't work for Thermal very long, did you?",q,MR. LYNCH,start_answer
+1027,2225,85,20,"No.  No, not at all.",a,THE WITNESS,start_question
+1028,2226,85,21,Okay.  Do you recall exactly how long it was?,q,MR. LYNCH,start_answer
+1029,2227,85,22,"Geez.  Probably just months, maybe.",a,THE WITNESS,start_question
+1030,2228,85,23,"Okay.  You know, you have a great memory.  I got to tell you.",q,MR. LYNCH,start_answer
+1031,2231,86,1,"Well, I'm trying to -- as far as I can remember.  That's all I can say.",a,THE WITNESS,start_question
+1032,2233,86,3,No.  And that's the best you can do.  Have you seen your Social Security record --,q,MR. LYNCH,start_answer
+1033,2235,86,5,I have.,a,THE WITNESS,start_question
+1034,2236,86,6,-- recently?,q,MR. LYNCH,start_answer
+1035,2237,86,7,No.,a,THE WITNESS,start_question
+1036,2238,86,8,Why don't you take a look at this?,q,MR. LYNCH,start_answer
+1037,2239,86,9,How did you get that?,a,THE WITNESS,start_question
+1038,2240,86,10,"You made a claim by the Thornton Law Firm years and years ago, and it got produced in that case.",q,MR. LYNCH,start_answer
+1039,2242,86,12,Oh.  Are you allowed to have this?,a,THE WITNESS,start_question
+1040,2243,86,13,"Oh, yeah.",q,MR. LYNCH,start_answer
+1041,2244,86,14,So what do you want me to look at?,a,THE WITNESS,start_question
+1042,2245,86,15,Okay.  Have you seen your Social Security printouts before?  You've seen documents like this?,q,MR. LYNCH,start_answer
+1043,2247,86,17,I don't recall ever seeing one.,a,THE WITNESS,start_question
+1044,2248,86,18,"Okay.  Let me -- I'll pick out the page for you because all I want to do is talk about your employment with Thermal.  I had it right here a minute ago.  So I'm looking at -- it's paginated at the bottom Page 5 of your Social Security record.  And then if you look up here, you see Thermal Insulation Company --",q,MR. LYNCH,start_answer
+1045,2254,86,24,Um-hum.,a,THE WITNESS,start_question
+1046,2256,87,1,-- Inc. of Braintree.  That's the company we are talking about; right?,q,MR. LYNCH,start_answer
+1047,2258,87,3,Yeah.,a,THE WITNESS,start_question
+1048,2259,87,4,"Okay.  And then it will give you the year, and then they break this down by quarters?",q,MR. LYNCH,start_answer
+1049,2261,87,6,Um-hum.,a,THE WITNESS,start_question
+1050,2262,87,7,"You see January through March, April through June?",q,MR. LYNCH,start_answer
+1051,2264,87,9,Yep.,a,THE WITNESS,start_question
+1052,2265,87,10,And it reports earnings for you from Thermal of a little over a thousand dollars in the second quarter --,q,MR. LYNCH,start_answer
+1053,2268,87,13,Yeah.,a,THE WITNESS,start_question
+1054,2269,87,14,-- of 1968; is that correct?  At least what the document says?,q,MR. LYNCH,start_answer
+1055,2271,87,16,"Yeah, I guess.",a,THE WITNESS,start_question
+1056,2272,87,17,Okay.,q,MR. LYNCH,start_answer
+1057,2273,87,18,Yeah.,a,THE WITNESS,start_question
+1058,2274,87,19,Going for your glasses.  I want to make sure you are comfortable with it.,q,MR. LYNCH,start_answer
+1059,2276,87,21,"Yeah.  That would be right, I guess.",a,THE WITNESS,start_question
+1060,2277,87,22,Okay.  So that's consistent with your memory that you worked with them for two or three months or so in 1968; correct?,q,MR. LYNCH,start_answer
+1061,2281,88,1,Um-hum.  Yes.,a,THE WITNESS,start_question
+1062,2282,88,2,"And I think your memory was also good that you started probably in the spring time, April or May?",q,MR. LYNCH,start_answer
+1063,2284,88,4,Yeah.,a,THE WITNESS,start_question
+1064,2285,88,5,Okay.  And worked there with Peter for a few months?,q,MR. LYNCH,start_answer
+1065,2287,88,7,Um-hum.,a,THE WITNESS,start_question
+1066,2288,88,8,"Yes?  That's a ""yes""?",q,MR. LYNCH,start_answer
+1067,2289,88,9,Yes.,a,THE WITNESS,start_question
+1068,2290,88,10,And would you agree with me now looking back on this and thinking this that both Polaroid jobs were within that time period?,q,MR. LYNCH,start_answer
+1069,2293,88,13,"I would say so, yes.",a,THE WITNESS,start_chat
+1070,2294,88,14,"Okay, great.  Why don't we mark this?",side_chat,MR. LYNCH,start_question
+1071,2297,88,17,And I just have a couple more questions.,q,MR. LYNCH,start_answer
+1072,2298,88,18,Oh.,a,THE WITNESS,start_question
+1073,2299,88,19,You can take a look at it to your heart's delight.  Let Niki do her job here.,q,MR. LYNCH,is brackets
+1074,2301,88,21,(Off-the-record discussion held.),brackets,,is brackets
+1075,2302,88,22,(Exhibit Number 4 marked for identification.),brackets,,start_question
+1076,2304,88,24,You mentioned that when you got the Asbestos Worker Journal that there were some articles in there about asbestos health hazards by the Mount Sinai Hospital; right?,q,MR. LYNCH,start_answer
+1077,2309,89,4,Um-hum.  Yeah.,a,THE WITNESS,start_question
+1078,2310,89,5,Did you remember the name Dr. Selikoff or Irving Selikoff?,q,MR. LYNCH,start_answer
+1079,2312,89,7,Dr. Irving Selikoff.,a,THE WITNESS,start_question
+1080,2313,89,8,That's the guy; right?,q,MR. LYNCH,start_answer
+1081,2314,89,9,That's him.,a,THE WITNESS,start_question
+1082,2315,89,10,And you can remember Dr. Selikoff had articles that were produced by the Mount Sinai Hospital that were included within the Asbestos Workers Journal; correct?,q,MR. LYNCH,start_answer
+1083,2318,89,13,"I'm pretty sure, yes.",a,THE WITNESS,start_question
+1084,2319,89,14,"Yeah, and they happened on a pretty regular basis back in the '60s and the '70s; right?",q,MR. LYNCH,start_answer
+1085,2321,89,16,"Yeah, you're right.",a,THE WITNESS,start_question
+1086,2322,89,17,Okay.  Do you recall meeting Dr. Selikoff ever?,q,MR. LYNCH,start_answer
+1087,2324,89,19,I don't know if I ever met him.  He may have been at one of our meetings.,a,THE WITNESS,start_question
+1088,2326,89,21,Yeah.,q,MR. LYNCH,start_answer
+1089,2327,89,22,But --,a,THE WITNESS,start_question
+1090,2328,89,23,Do you remember people from the Mount Sinai Hospital coming up to talk to you; right?,q,MR. LYNCH,start_answer
+1091,2331,90,1,I don't remember.  I might not have been at that meeting.,a,THE WITNESS,start_question
+1092,2333,90,3,Okay.,q,MR. LYNCH,start_answer
+1093,2334,90,4,"I don't know, but I know they did.",a,THE WITNESS,start_question
+1094,2335,90,5,You remember they came up to at least to meet with Local 6?,q,MR. LYNCH,start_answer
+1095,2337,90,7,Yeah.  Yeah.,a,THE WITNESS,start_question
+1096,2338,90,8,Okay.  And the reason that they came up to meet with Local 6 was to talk about the hazards of breathing in asbestos dust?,q,MR. LYNCH,start_answer
+1097,2341,90,11,Yeah.,a,THE WITNESS,start_question
+1098,2342,90,12,And do you remember during that time period that they encouraged the workers of Local 6 to do a couple of things.  One was to stop smoking; right?,q,MR. LYNCH,start_answer
+1099,2345,90,15,"Oh, yeah.",a,THE WITNESS,start_question
+1100,2346,90,16,And another one was to try and avoid breathing in the dust; correct?,q,MR. LYNCH,start_answer
+1101,2348,90,18,"Um-hum.  I'm sure, yeah.",a,THE WITNESS,start_chat
+1102,2349,90,19,"Okay.  Great.  All right.  Those are all the questions I have.  Thank you, sir.",side_chat,MR. LYNCH,start_chat
+1103,2351,90,21,Okay.,side_chat,THE WITNESS,start_chat
+1104,2352,90,22,I appreciate it.,side_chat,MR. LYNCH,start_chat
+1105,2353,90,23,I just have one quick question. REDIRECT EXAMINATION,side_chat,MR. KENNY,start_question
+1106,2357,91,2,"When you were at International Paper and you were doing some insulation work on the boiler, you said you were using some 48 board?",q,MR. KENNY,start_answer
+1107,2360,91,5,48 board.,a,THE WITNESS,start_question
+1108,2361,91,6,Do you know what that was made of?,q,MR. KENNY,start_answer
+1109,2362,91,7,"Geez, it was brown.  I remember that.  Geez. It wasn't fiberglass.  I can't remember what they called it because I used it at the Bow, New Hampshire, too, the same thing.  Geez.  I can't remember.  It was like a little felt.  I can't remember.  I really can't.",a,THE WITNESS,start_question
+1110,2367,91,12,Fair to say it wasn't asbestos insulation?,q,MR. KENNY,start_answer
+1111,2368,91,13,"No, it wasn't.  It was like a heavy-density fiberglass.",a,THE WITNESS,start_question
+1112,2370,91,15,Okay.,q,MR. KENNY,start_answer
+1113,2371,91,16,"It wasn't fiberglass.  It was -- I forget what the heck -- but it wasn't asbestos, though.",a,THE WITNESS,start_chat
+1114,2373,91,18,"All right.  Thank you, sir. That's all I have.  Does anyone on the phone have any questions?",side_chat,MR. KENNY,start_chat
+1115,2376,91,21,"No, I don't have any.",side_chat,DEFENSE COUNSEL,start_chat
+1116,2377,91,22,Do you have any follow-up?,side_chat,MR. KENNY,start_chat
+1117,2378,91,23,"No, I don't have any.",side_chat,MR. HUMEN,start_chat
+1118,2379,91,24,Okay.,side_chat,MR. KENNY,start_chat
+1119,2381,92,1,No follow-up.,side_chat,MR. HUMEN,start_chat
+1120,2382,92,2,Anyone else in the room?,side_chat,MR. KENNY,start_chat
+1121,2383,92,3,No.,side_chat,DEFENSE COUNSEL,start_chat
+1122,2384,92,4,All right.  I think we are done. Thank you.,side_chat,MR. KENNY,is brackets
+1123,2386,92,6,"(The deposition ended at 11:45 a.m.) CERTIFICATE OF REPORTER STATE OF FLORIDA         ) COUNTY OF HILLSBOROUGH   ) I, NIKI MAURINE NOOJIN, RPR, FPR, and Notary Public, do hereby certify that I was authorized to and did stenographically report the foregoing deposition of LAWRENCE DONOVAN; that a review of the transcript was not requested; and that the foregoing transcript, pages 1 through 94, is a true record of my stenographic notes. I FURTHER CERTIFY that I am not a relative, employee, or attorney, or counsel of any of the parties' attorneys or counsel connected with the action, nor am I financially interested in the action. DATED 04/14/2016, at Tampa, Hillsborough County, Florida.",brackets,,symbols
+1124,2427,93,22,"_____________________________ Notary Public CERTIFICATE OF OATH STATE OF FLORIDA        ) COUNTY OF HILLSBOROUGH  ) I, NIKI MAURINE NOOJIN, Notary Public, State of Florida, certify that the witness, LAWRENCE T. DONOVAN, personally appeared before me on April 5, 2016 and was duly sworn. WITNESS my hand and official seal this date: April 14, 2016. Identification: Personally Known _________________________________ Or Produced Identification_________X______________ Type of Identification Produced:  Driver's License NIKI MAURINE NOOJIN MY COMMISSION FF 972564",symbols,,end

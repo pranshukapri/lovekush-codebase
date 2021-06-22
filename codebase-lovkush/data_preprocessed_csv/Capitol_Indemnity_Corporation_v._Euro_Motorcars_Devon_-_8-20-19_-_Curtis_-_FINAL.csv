@@ -1,0 +1,666 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,188,6,13,- - - EXAMINATION,symbols,,symbols
+2,190,6,15,- - -,symbols,,start_question
+3,192,6,17,"Good afternoon, Janet.  My name is Joseph Blum and I represent Mercedes-Benz in the cases that have been brought from the fire here at Clemens Cleaning Village. I'm going to ask you series of questions today.  If at any time you don't understand my question, please let me know and I'll be happy to restate the question.  And I ask you also to keep all your responses verbal because the court reporter has to take down everything we're saying, and she can't take down nods of your head or shrugs of your shoulders.  Okay?",q,MR. BLUM,start_answer
+4,206,7,6,I understand.,a,THE WITNESS,start_question
+5,207,7,7,"I would also ask you try to wait until I finish asking my question before you start to speak, because although in a normal conversation you would do that, here it's a little more difficult because the court reporter has to take everything down.  Okay?",q,MR. BLUM,start_answer
+6,213,7,13,Uh-huh.,a,THE WITNESS,start_question
+7,214,7,14,"Also, if at any time you want to take a break, please let me know. And is there anything that would prevent you from testifying clearly and accurately today?",q,MR. BLUM,start_answer
+8,219,7,19,No.,a,THE WITNESS,start_question
+9,220,7,20,Okay.  By whom are you employed?,q,MR. BLUM,start_answer
+10,221,7,21,Clemens Uniform.,a,THE WITNESS,start_question
+11,222,7,22,And what do you do there?,q,MR. BLUM,start_answer
+12,223,7,23,"Office manager, accounting.",a,THE WITNESS,start_question
+13,224,7,24,Okay.  And how long have you worked -- is it Clemens Cleaning Village that is your employer?,q,MR. BLUM,start_answer
+14,228,8,3,"Yes, Clemens Cleaning Village, Inc., yes.",a,THE WITNESS,start_question
+15,230,8,5,And how long have you worked for Clemens Cleaning Village?,q,MR. BLUM,start_answer
+16,232,8,7,July of 1983.,a,THE WITNESS,start_question
+17,233,8,8,"And did you come here right out of school, to Clemens Cleaning Village?",q,MR. BLUM,start_answer
+18,235,8,10,No.,a,THE WITNESS,start_question
+19,236,8,11,Okay.  Tell us what your educational background is?,q,MR. BLUM,start_answer
+20,238,8,13,"I went to, I graduated from college, Eastern Mennonite College, in 1976.  And then I took accounting classes at Temple in -- that would have been like '78 and '79.",a,THE WITNESS,start_question
+21,242,8,17,"And when you got your degree, what was it in?",q,MR. BLUM,start_answer
+22,244,8,19,Math.,a,THE WITNESS,start_question
+23,245,8,20,"All right.  When you went to Temple, did you get any kind of certificate or additional degree?",q,MR. BLUM,start_answer
+24,248,8,23,No.  I just took accounting classes.,a,THE WITNESS,start_question
+25,249,8,24,"And when you were at Temple, were you going there full time?",q,MR. BLUM,start_answer
+26,252,9,2,No; part time.,a,THE WITNESS,start_question
+27,253,9,3,And were you working at that time?,q,MR. BLUM,start_answer
+28,254,9,4,I was working at American Olean Tile.,a,THE WITNESS,start_question
+29,256,9,6,And what did you do there?,q,MR. BLUM,start_answer
+30,257,9,7,I was in inventory control.,a,THE WITNESS,start_question
+31,258,9,8,And how long did you work there in that capacity?,q,MR. BLUM,start_answer
+32,260,9,10,"Two years, '77 to '79.",a,THE WITNESS,start_question
+33,261,9,11,And after that where did you go to work?,q,MR. BLUM,start_answer
+34,263,9,13,"I worked at Tuthill Pump Company out in Chicago, Illinois.",a,THE WITNESS,start_question
+35,265,9,15,And what did you do there?,q,MR. BLUM,start_answer
+36,266,9,16,I was in accounting.,a,THE WITNESS,start_question
+37,267,9,17,And how long did you stay there at the pump company?,q,MR. BLUM,start_answer
+38,269,9,19,That was from '79 to '83.,a,THE WITNESS,start_question
+39,270,9,20,Okay.  And then did you come back here to work?,q,MR. BLUM,start_answer
+40,272,9,22,"Yeah, then we moved back here, yeah.",a,THE WITNESS,start_question
+41,273,9,23,And are you a member of the Clemens family?,q,MR. BLUM,start_answer
+42,276,10,1,Yes.,a,THE WITNESS,start_question
+43,277,10,2,Okay.  Randy is your brother?,q,MR. BLUM,start_answer
+44,278,10,3,Yes.,a,THE WITNESS,start_question
+45,279,10,4,"When you first came to work here at Clemens, what facility or physically where did you work?",q,MR. BLUM,start_answer
+46,282,10,7,"When I actually started working in 1983, I did all of the accounting work out of my home.  I had an office set up in my home and I did it out of there.",a,THE WITNESS,start_question
+47,286,10,11,Okay.  And was the company at that point operating dry cleaning --,q,MR. BLUM,start_answer
+48,288,10,13,Yes.,a,THE WITNESS,start_question
+49,289,10,14,-- as well as --,q,MR. BLUM,start_answer
+50,290,10,15,Just dry cleaning at that point. I'm sorry.,a,THE WITNESS,start_question
+51,292,10,17,When did the company start to perform what I'll call the uniform services?,q,MR. BLUM,start_answer
+52,294,10,19,"As best as I can remember, it would have been 1986.",a,THE WITNESS,start_question
+53,296,10,21,"When that first started, did it start out of one of the dry cleaning locations?",q,MR. BLUM,start_answer
+54,299,10,24,"Yes, it did.",a,THE WITNESS,start_question
+55,301,11,1,Which one did it start out of?,q,MR. BLUM,start_answer
+56,302,11,2,614 East Main Street in Lansdale.,a,THE WITNESS,start_question
+57,303,11,3,At its height how many locations did the company have in terms of dry cleaning?,q,MR. BLUM,start_answer
+58,305,11,5,We had three dry cleaning plants and two drop stores.,a,THE WITNESS,start_question
+59,307,11,7,And at some point did the company sell off all the dry cleaning operations?,q,MR. BLUM,start_answer
+60,309,11,9,"Yes, we did.",a,THE WITNESS,start_question
+61,310,11,10,And when was that?,q,MR. BLUM,start_answer
+62,311,11,11,"It was in bits and pieces, but we got out of dry cleaning completely in 2009.",a,THE WITNESS,start_question
+63,313,11,13,And when did the company first start operations at the facility on 5th Street?,q,MR. BLUM,start_answer
+64,315,11,15,"As close as I can recall, I think it would be 1989.",a,THE WITNESS,start_question
+65,317,11,17,"And when you first moved on to 5th Street, the company only occupied like one section of the building; is that correct?",q,MR. BLUM,start_answer
+66,320,11,20,That is correct.,a,THE WITNESS,start_question
+67,321,11,21,And at what point did it expand beyond that first section?,q,MR. BLUM,start_answer
+68,323,11,23,I don't really know.  I honestly don't know all the dates of when that was.,a,THE WITNESS,start_question
+69,326,12,1,"All right.  And was there work that was done in the building as you expanded it, your operations?",q,MR. BLUM,start_answer
+70,329,12,4,Yes.,a,THE WITNESS,start_question
+71,330,12,5,What kind of work do you recall doing inside the building?,q,MR. BLUM,start_answer
+72,332,12,7,Are you talking about me personally or --,a,THE WITNESS,start_question
+73,334,12,9,No.  The company.,q,MR. BLUM,start_answer
+74,335,12,10,All right.,a,THE WITNESS,start_question
+75,336,12,11,"I didn't think, you don't look like somebody out there swinging a hammer.",q,MR. BLUM,start_answer
+76,338,12,13,That's why this was --,a,THE WITNESS,start_question
+77,339,12,14,I apologize for not being clear. What type of work did the company do in the building?,q,MR. BLUM,start_answer
+78,342,12,17,"Well, I mean, we started with like one washer and then just kept, so it was always washers, dryers, and then the tablecloth press was added to press tablecloths.  But that was fairly early on because that was in the first section.  I'm just trying to recall how the sections were. So tablecloth press, washers, dryers.",a,THE WITNESS,start_question
+79,351,13,1,"And when you made those changes, did you alter the building in any way?",q,MR. BLUM,start_answer
+80,353,13,3,"So when we went from one section to two sections, they just cut an opening in the drywall to make a doorway through.  They made a doorway through at the washers and dryers and then up, up near the office where there was an aisleway.",a,THE WITNESS,start_question
+81,359,13,9,Any other changes that you remember being made to the physical structure at that point?,q,MR. BLUM,start_answer
+82,362,13,12,No.,a,THE WITNESS,start_question
+83,363,13,13,At some point you expanded beyond the first three units even further.  Do you remember whether or not there were any physical changes that were made at that point?,q,MR. BLUM,start_answer
+84,367,13,17,To the building?,a,THE WITNESS,start_question
+85,368,13,18,Yes.,q,MR. BLUM,start_answer
+86,369,13,19,"Well, after we went from three, from the first three to the next one, then there was a block wall there.  So then they had, you know, cut an opening for a block wall and make a ramp down because it was two different levels.  So we had to have a ramp between the two levels.",a,THE WITNESS,start_question
+87,377,14,2,All right.,q,MR. BLUM,start_answer
+88,378,14,3,And we just used that next section that we had that was strictly for warehouse.,a,THE WITNESS,start_question
+89,380,14,5,"And the other interior walls between those units, were they all cinderblock or were they just drywall?",q,MR. BLUM,start_answer
+90,383,14,8,"The way the building was constructed was that there were three units, and then the cinderblock wall, so the first three units only had a double -- it was like a double drywall, fireproof drywall, whatever.  But that was, it was like two layers of drywall.",a,THE WITNESS,start_question
+91,389,14,14,Okay.,q,MR. BLUM,start_answer
+92,390,14,15,It didn't have a block wall.  So the first three units and then there was a cinderblock.  That's what the fire code was at the time the building was constructed.,a,THE WITNESS,start_question
+93,394,14,19,"And at any time during any of that construction, was there ever discussion about installing any type of sprinkler systems?",q,MR. BLUM,start_answer
+94,397,14,22,"My brother handled more of that, but it was my understanding that the North Penn Water Authority, when we looked into it, did not have sufficient water pressure for us to have sprinkler systems in our building.",a,THE WITNESS,start_question
+95,403,15,3,And was there ever a discussion about putting in a fire alarm during any of that construction?,q,MR. BLUM,start_answer
+96,406,15,6,I don't recall any.,a,THE WITNESS,start_question
+97,407,15,7,Was there ever a discussion about putting in any kind of smoke detectors?,q,MR. BLUM,start_answer
+98,409,15,9,I don't recall any.,a,THE WITNESS,start_question
+99,410,15,10,Do you remember a point in time when the company installed a video security system?,q,MR. BLUM,start_answer
+100,412,15,12,"Uh-huh, I do remember that.",a,THE WITNESS,start_question
+101,413,15,13,When approximately did that take place?,q,MR. BLUM,start_answer
+102,415,15,15,"As best as I can recall, it would have been 2015.",a,THE WITNESS,start_question
+103,417,15,17,And why was that done in 2015?,q,MR. BLUM,start_answer
+104,418,15,18,"There was two issues.  One was some stealing and missing items that were happening.  And the other issue was at the time clock where people were punching, like they would come in and punch in at 6 o'clock and they would punch someone else at 6 o'clock that wasn't in yet.  So there was an issue with the time clock, so I know that's why we had wanted the time clock.",a,THE WITNESS,start_question
+105,428,16,3,Okay.  And who did the work to install that video system?,q,MR. BLUM,start_answer
+106,430,16,5,"I honestly don't recall.  I'm sorry, I don't remember.",a,THE WITNESS,start_question
+107,432,16,7,Do you remember where the video cameras were?,q,MR. BLUM,start_answer
+108,434,16,9,"Well, I know we had one in the office, and I know that we had one at the time clock.  And then I believe that there was one at the loading dock, as I recall.  I think there was only four, four cameras?  That's all I recall, I'm sorry.  I don't remember.",a,THE WITNESS,start_question
+109,440,16,15,That's okay.  Was there ever any discussions before the fire about the company upgrading the interior of the building or upgrading the equipment that you were using?,q,MR. BLUM,start_answer
+110,444,16,19,"Well, we were in the process of making plans that the people that were in the second end building were going to move to the end unit, and we were going to be taking over another, the other section.  So we were going to move them over.  But that was just in the planning stages, nothing was started with that yet.",a,THE WITNESS,start_question
+111,453,17,3,"And what was it you were then planning to do after the tenant moved over, what was Clemens, what were the Clemens people going to do, what was going to change?",q,MR. BLUM,start_answer
+112,457,17,7,"So what was going to change was, we wanted the more automated sorting system, and that took up a lot of floor space, and so that was -- that was the reason that we wanted to, because where we sort was just like this little area, so we needed more space to be able to sort the garments with this new automated system.",a,THE WITNESS,start_question
+113,465,17,15,"And what would the advantage have been for you of the automated system?  Not for you, but for the company?",q,MR. BLUM,start_answer
+114,468,17,18,More accurate sorting.,a,THE WITNESS,start_question
+115,469,17,19,"Would it have occurred faster, the sorting?",q,MR. BLUM,start_answer
+116,471,17,21,"Yeah, I mean, that's what was it supposed to be, faster, more efficient, yeah.",a,THE WITNESS,start_question
+117,473,17,23,How far had you gotten in the process of planning for that?,q,MR. BLUM,start_answer
+118,476,18,1,"So we started putting the microchips in the garments, because they had told us that that took a long time till you get like all the chips in.  So we had started putting the chips in the garments.  And we had bought the computers that were needed for the sorting and the scanning.  And we had the portal that read that, we had that, and that had arrived and that was in the back building for lack of space, so then that wasn't destroyed in the fire.  And so we had purchased, I guess we had purchased all of the equipment, but we had not actually set any of it up yet before the fire occurred.  But we had purchased everything that we needed to set that up.",a,THE WITNESS,start_question
+119,491,18,16,"And did that include like what I'll call the physical rack system, whatever, for the sorting system that you had?",q,MR. BLUM,start_answer
+120,494,18,19,No.  That was going to have to be installed yet.  That was not installed.,a,THE WITNESS,start_question
+121,496,18,21,And did you have estimates at that time about how much it was going to cost to install all that?,q,MR. BLUM,start_answer
+122,499,18,24,"Randy took care of that, so he would have had that.  I didn't have that information.",a,THE WITNESS,start_question
+123,503,19,3,Okay.  But you had gotten that far that you had talked about what the estimates were to put that in?,q,MR. BLUM,start_answer
+124,506,19,6,"He would have that, yeah.",a,THE WITNESS,start_question
+125,507,19,7,And were you on the property the day before the fire?,q,MR. BLUM,start_answer
+126,509,19,9,Yes.,a,THE WITNESS,start_question
+127,510,19,10,And do you remember anything unusual occurring that day?,q,MR. BLUM,start_answer
+128,512,19,12,Not at all.,a,THE WITNESS,start_question
+129,513,19,13,Okay.  What time did you leave the facility that day?,q,MR. BLUM,start_answer
+130,515,19,15,Probably around 5 o'clock.  That's usually when I leave.,a,THE WITNESS,start_question
+131,517,19,17,And where did you sit in the facility?,q,MR. BLUM,start_answer
+132,519,19,19,"So my office was in unit, like we called it Unit 3, in the front.",a,THE WITNESS,start_question
+133,521,19,21,So that would have been in the original section that was leased by the company?,q,MR. BLUM,start_answer
+134,524,19,24,I don't know what you call the original section.,a,THE WITNESS,start_question
+135,527,20,2,"You know, I'm going to stop for a minute.  If you can look at Exhibit No. 4, okay, can you tell me with the red numbers which unit you were in?",q,MR. BLUM,start_answer
+136,531,20,6,It would be 4 on here.,a,THE WITNESS,start_question
+137,532,20,7,And was the base unit for the video system in that office?,q,MR. BLUM,start_answer
+138,534,20,9,No.  It was in 5.,a,THE WITNESS,start_question
+139,535,20,10,"Who else worked with you in the office, in the physical office you worked in?",q,MR. BLUM,start_answer
+140,537,20,12,"John Camioni, he's no longer with us, and Andrew Bourlet, he's no longer with us.",a,THE WITNESS,start_question
+141,540,20,15,Okay.  And what did they do?,q,MR. BLUM,start_answer
+142,541,20,16,So Andrew was customer service and John was accounts receivable.,a,THE WITNESS,start_question
+143,543,20,18,"So if we walked out of the office door for your office and you looked out into the plant, what would have been in front of you?",q,MR. BLUM,start_answer
+144,547,20,22,"That would have been where they did the sorting, the garment sorting.",a,THE WITNESS,start_question
+145,549,20,24,Did they do that on a table?  What did the sorting area look like?,q,MR. BLUM,start_answer
+146,552,21,2,"Oh, okay.  So I meant the garments, so like the garments that came out of the steam tunnel, they came down like a conveyor rack and then they took them and they had like a conveyor system that they sort them on.",a,THE WITNESS,start_question
+147,557,21,7,"And after they sort them, where did they go?",q,MR. BLUM,start_answer
+148,559,21,9,"They had a rail for each driver, so after they had them all like assembled, then they would go on the rails for the drivers. So that would have been like what they put here.",a,THE WITNESS,start_question
+149,564,21,14,Where all those lines are?,q,MR. BLUM,start_answer
+150,565,21,15,Uh-huh.,a,THE WITNESS,start_question
+151,566,21,16,"And those rails for the drivers, like how high up did they go?",q,MR. BLUM,start_answer
+152,568,21,18,"So they -- you could reach them. They were double-deckered, but you could reach up to the top one.",a,THE WITNESS,start_question
+153,571,21,21,"And how long were those rails, if you were standing at the front of it, how deep into the building would it go?",q,MR. BLUM,start_answer
+154,574,21,24,"I would say 20 to 22 feet, maybe.",a,THE WITNESS,start_question
+155,576,22,1,"And then what was beyond these sorted clothes racks, what was beyond those as you went further back in the building?",q,MR. BLUM,start_answer
+156,579,22,4,"That's where the drivers, this all was open in here where the drivers would pull to load their trucks.",a,THE WITNESS,start_question
+157,582,22,7,And were there clean mats also stored in that area?,q,MR. BLUM,start_answer
+158,584,22,9,"Right, there would be -- there was a mat rack in that same section there, right about where this is marked.",a,THE WITNESS,start_question
+159,587,22,12,All right.,q,MR. BLUM,start_answer
+160,588,22,13,"Clean mats, yes.",a,THE WITNESS,start_question
+161,589,22,14,"And if you walked out of your office to the right, there was a wall there, is that correct, between Unit 4 and Unit 5 that's marked on that diagram?",q,MR. BLUM,start_answer
+162,593,22,18,"Yes, uh-huh.",a,THE WITNESS,start_question
+163,594,22,19,"How big was the opening between Unit 4 and 5, the walls?",q,MR. BLUM,start_answer
+164,596,22,21,"Oh, no.  4 and 5, between 4 and 5, there wasn't a wall there.  The wall was between 5 and 6.",a,THE WITNESS,start_question
+165,599,22,24,Okay.  So the wall between 4 and 5 had been removed?,q,MR. BLUM,start_answer
+166,602,23,2,Completely out.,a,THE WITNESS,start_question
+167,603,23,3,"And then so if you went to the right coming out of your office in 4, what was there on the floor in Unit 5?",q,MR. BLUM,start_answer
+168,606,23,6,I have to think back.,a,THE WITNESS,start_question
+169,607,23,7,Take your time.,q,MR. BLUM,start_answer
+170,608,23,8,"The steam tunnel was definitely here, and then there was a table that someone worked at.  And she like sorted the, that's what we call the executive wear, the shirts, dress pants and dress shirts.  So there was a table there that she used at the top here. And then there was a table there that was used for measuring inventory.  And sometimes they would use that for folding things, too, but there was a table there.",a,THE WITNESS,start_question
+171,618,23,18,And was there pressing units there?,q,MR. BLUM,start_answer
+172,619,23,19,"So the pressing units would have been like down in this area.  There was a pants press -- oh, the shirt press was out here.  So the shirt press was -- this is a while ago -- the shirt press, like the table was here and the shirt press was here, and then the pants press was down here.  So this was pressing equipment here.",a,THE WITNESS,start_question
+173,628,24,3,And was that electrically operated pressing equipment?,q,MR. BLUM,start_answer
+174,630,24,5,"So it had -- it needed air to operate, like the air compressor.  And then it was hooked up to a steam boiler.  So it was like steam, not really electrical.",a,THE WITNESS,start_question
+175,634,24,9,Where was the steam boiler --,q,MR. BLUM,start_answer
+176,635,24,10,"So the steam boiler, we had the boiler room is back in the back here, I guess this is --",a,THE WITNESS,start_question
+177,638,24,13,The back --,q,MR. BLUM,start_answer
+178,639,24,14,I'm trying to think of which unit the steam boiler was in.,a,THE WITNESS,start_question
+179,641,24,16,Was it in the addition that had been added or was it in the original building?,q,MR. BLUM,start_answer
+180,643,24,18,It was in the original building.,a,THE WITNESS,start_question
+181,644,24,19,"Okay.  And was it in Unit 4, 5, or 6, if you know?",q,MR. BLUM,start_answer
+182,646,24,21,That's what I'm looking at.  It was in 6.  It was in 6.,a,THE WITNESS,start_question
+183,648,24,23,"And just so we're clear, though, the pressing stations that we just described, they were along what would have been the wall between 4 and 5, they were in that spot?",q,MR. BLUM,start_answer
+184,653,25,3,Yes.,a,THE WITNESS,start_question
+185,654,25,4,"Okay.  And did the employees in that spot, did they have like electrical fans or anything that they operated there to help keep themselves cool?",q,MR. BLUM,start_answer
+186,658,25,8,"There was a big ceiling fan that would have been like right over there.  But every station, you know, like had fans.  So I'm sure they would have had fans because no matter where you worked in there, there were fans.",a,THE WITNESS,start_question
+187,664,25,14,"Okay.  Do you recall, were there ever any times when electrical work, where Clemens itself hired people to do electrical work in those units, 4, 5, or 6?",q,MR. BLUM,start_answer
+188,668,25,18,"I mean, we would have always used Bergey's Electric when we did any electrical work.",a,THE WITNESS,start_question
+189,671,25,21,Do you remember there being any problems with the electrical work?,q,MR. BLUM,start_answer
+190,673,25,23,No.,a,THE WITNESS,start_question
+191,674,25,24,Was there a company that maintained the garage doors for you?,q,MR. BLUM,start_answer
+192,677,26,2,KJ Doors.,a,THE WITNESS,start_question
+193,678,26,3,How often were they out there to look at the doors?,q,MR. BLUM,start_answer
+194,680,26,5,"They would definitely come once a year to do maintenance.  If I recall, it was usually like going into the wintertime when they would come and check the doors out, because we had issues sometimes where the doors would go up and not come down or something.  So they usually came towards the wintertime.",a,THE WITNESS,start_question
+195,688,26,13,"What, if anything, did you review to prepare for your deposition today?",q,MR. BLUM,start_answer
+196,690,26,15,As far as?,a,THE WITNESS,start_question
+197,691,26,16,"Well, did you review any documents before you came here today to prepare?",q,MR. BLUM,start_answer
+198,693,26,18,I'm not sure what you mean.,a,THE WITNESS,start_question
+199,694,26,19,"Well, you knew you were coming here today; correct?",q,MR. BLUM,start_answer
+200,696,26,21,Yes.,a,THE WITNESS,start_question
+201,697,26,22,Did you look at anything to refresh your recollection before you came?,q,MR. BLUM,start_answer
+202,699,26,24,"I had, the only thing I looked at last week was the information that I had given concerning the invoices for the subcontractors after the insurance stopped paying.",a,THE WITNESS,start_question
+203,704,27,4,"Okay.  Right in front of you here, I'm going to ask you to take a look at Exhibit No. 2 there, if you just grab that right there.  If you look, that's a Notice of Deposition, if you look at what's titled Page 3, it has a list of topics on there. Have you seen that list of topics before?",q,MR. BLUM,start_answer
+204,711,27,11,Yes.,a,THE WITNESS,start_question
+205,712,27,12,Okay.  And did you and Randy discuss which of these topics would best be covered by each of you?,q,MR. BLUM,start_answer
+206,715,27,15,No.,a,THE WITNESS,start_question
+207,716,27,16,"Before you came here today, did you understand that you would be the witness who would testify on behalf of Clemens Cleaning Village about the day-to-day business operations?",q,MR. BLUM,start_answer
+208,721,27,21,Yes.,a,THE WITNESS,start_question
+209,722,27,22,And what about the day-to-day business operations for the P.R. Family Partnership?,q,MR. BLUM,start_answer
+210,726,28,1,"I am not, nothing to do with the P.R. Family Partnership.",a,THE WITNESS,start_question
+211,728,28,3,Okay.  In your capacity of working do you ever do any work for that?,q,MR. BLUM,start_answer
+212,730,28,5,No.,a,THE WITNESS,start_question
+213,731,28,6,"In terms of the second bullet point, which is the property damage claims as alleged in the Complaint, and I'm going to be more specific, in terms of the equipment and inventory that was lost, are you the best person to give that testimony?",q,MR. BLUM,start_answer
+214,737,28,12,It depends I guess what you're asking.,a,THE WITNESS,start_question
+215,739,28,14,"Okay.  In terms of the losses that the company sustained that were not covered by insurance, would you be the best person to know those numbers?",q,MR. BLUM,start_answer
+216,743,28,18,"Well, I mean, I went down the list with the adjuster, if that's what you're asking, as far as the property loss.  Is that what you're asking or --",a,THE WITNESS,start_question
+217,747,28,22,"Well, I am going to ask about that and I'm concerned about that.  But what I really want to know the answer to is what is Clemens Cleaning Village claiming that it was not paid for?",q,MR. BLUM,start_answer
+218,753,29,3,Okay.  I assembled that documentation.  Is that what you're asking?,a,THE WITNESS,start_question
+219,755,29,5,Okay.  So therefore you're the best person from the company to tell us what those claims are.  Is that true?,q,MR. BLUM,start_answer
+220,758,29,8,Okay.  Yes.,a,THE WITNESS,start_question
+221,759,29,9,"It is, okay.  And how about the business interruption claims, were you familiar with the business interruption claims that were put together?",q,MR. BLUM,start_answer
+222,763,29,13,"I did that, yes.",a,THE WITNESS,start_question
+223,764,29,14,And are you the best person to tell us what portions of the business interruption claims were not paid by the insurance?,q,MR. BLUM,start_answer
+224,767,29,17,Yes.,a,THE WITNESS,start_question
+225,768,29,18,"Okay.  You can put that aside now, thank you. All right.  You made a reference to a document that you had put together.  Could you look, there's a whole stack of exhibits there, look for Exhibit No. 9. Is that the document that you put together, Exhibit 9?",q,MR. BLUM,start_answer
+226,777,30,2,Yes.,a,THE WITNESS,start_question
+227,778,30,3,All right.  And you were the person who assembled all this?,q,MR. BLUM,start_answer
+228,780,30,5,Yes.,a,THE WITNESS,start_question
+229,781,30,6,Okay.  What was the purpose of putting this together?,q,MR. BLUM,start_answer
+230,783,30,8,To document what costs we had for the subcontracting of the uniforms after the insurance stopped paying the business interruption.,a,THE WITNESS,start_question
+231,787,30,12,"All right.  So can you tell me what pages 3215 through 3217, what do those pages represent?",q,MR. BLUM,start_answer
+232,790,30,15,"That is the way the, our executive wear, we had to send out to a dry cleaner because the shirts and pants are pressed.  And so that was the executive wear, and that's the way the dry cleaner gave us, that's the bill he gave us like that.",a,THE WITNESS,start_question
+233,796,30,21,"And would the period, say 8/7, it doesn't have a year?",q,MR. BLUM,start_answer
+234,798,30,23,"That would have been -- he didn't write a year on, but that would have been 2017.",a,THE WITNESS,start_question
+235,802,31,2,"Okay.  And is it accurate that by the time you got to 8/25 of '17, that would have been the last time he invoiced you for those services?",q,MR. BLUM,start_answer
+236,806,31,6,"Actually, I'm pretty sure that we continued using his services in September, but we did not claim that because we were operating everything in this building, but we just didn't get the shirt equipment going. And so we didn't include that in this claim.",a,THE WITNESS,start_question
+237,812,31,12,All right.  So is it accurate then that in terms of time the last claim is for 8/25?,q,MR. BLUM,start_answer
+238,815,31,15,That's correct.,a,THE WITNESS,start_question
+239,816,31,16,All right.  Can you take a look at page 3218 for me.  What does page 3218 represent?,q,MR. BLUM,start_answer
+240,819,31,19,"This was, we always had a dry cleaner machine -- before we had the fire, we had a dry cleaning machine.  So then certain things that came in that were real greasy and oily, we would dry clean in our machine.  And this K Cleaners did that work for us because we didn't have a dry cleaning machine anymore.",a,THE WITNESS,start_question
+241,827,32,2,"So is it accurate that what page 3218 and 3219 represent are the portions of that expense for K Cleaners -- I'm sorry, just page 3218 is for K Cleaners for the period when the insurance company did not reimburse you?",q,MR. BLUM,start_answer
+242,833,32,8,Yes.,a,THE WITNESS,start_question
+243,834,32,9,"And are the dates that appear on the left-hand side, are they invoice dates?",q,MR. BLUM,start_answer
+244,836,32,11,"Yes, they are.",a,THE WITNESS,start_question
+245,837,32,12,And so is it accurate that the last invoice that you're making a claim for from K Cleaners is 8/31/17?,q,MR. BLUM,start_answer
+246,840,32,15,That's correct.,a,THE WITNESS,start_question
+247,841,32,16,"Okay.  And if you look at page 3219, this one is for Town Valet Cleaners; is that right?",q,MR. BLUM,start_answer
+248,844,32,19,"Okay, so that's what this is, this Town Valet, this was his invoices.  And I think that this whole packet doesn't include, we had like copies of all of the invoices, and then this was missing, and so then that's why that was included in here.",a,THE WITNESS,start_question
+249,851,33,1,"Okay.  So you used the words ""this"" and ""that"" quite a few in there.",q,MR. BLUM,start_answer
+250,853,33,3,I'm sorry.,a,THE WITNESS,start_question
+251,854,33,4,"That's okay, because then on the record it's not clear. So what you're talking about is the handwritten pages at the beginning of Exhibit 9 end up being totaled on your QuickBooks report on page 3219?",q,MR. BLUM,start_answer
+252,860,33,10,That is correct.,a,THE WITNESS,start_question
+253,861,33,11,"I should have asked you this question before.  Beginning on page 3218, is this a report that you ran from your QuickBooks account?",q,MR. BLUM,start_answer
+254,865,33,15,"Yes, it is.",a,THE WITNESS,start_question
+255,866,33,16,And is it from like an account or a piece of the ledger which was entitled Business Continuation Expense?,q,MR. BLUM,start_answer
+256,869,33,19,Yes.,a,THE WITNESS,start_question
+257,870,33,20,"And did you, when you ran this, did you personally run this report?",q,MR. BLUM,start_answer
+258,872,33,22,I did.,a,THE WITNESS,start_question
+259,873,33,23,And did you limit the dates on that report to certain dates?,q,MR. BLUM,start_answer
+260,876,34,1,"I did, because we just wanted this period.",a,THE WITNESS,start_question
+261,878,34,3,Okay.  So the period you ran it from was what?,q,MR. BLUM,start_answer
+262,880,34,5,"Was 6/19 through the end of August, because the insurance company for their continuation paid prior to that.",a,THE WITNESS,start_question
+263,883,34,8,Okay.,q,MR. BLUM,start_answer
+264,884,34,9,So we had lots of invoices for K Cleaners that were paid from the business continuation.  But then it stopped.,a,THE WITNESS,start_question
+265,887,34,12,And then you ended it on August 30th because at that point the operations were back in the new building?,q,MR. BLUM,start_answer
+266,890,34,15,That is correct.,a,THE WITNESS,start_question
+267,891,34,16,Could you take a look at page 3220 for me for a second.  Can you tell me what was the services that Absorbtech was providing?,q,MR. BLUM,start_answer
+268,894,34,19,Absorbtech cleaned our roll towels and the -- I guess maybe it was just the roll towels.,a,THE WITNESS,start_question
+269,897,34,22,Okay.  And then what about Kleentech?,q,MR. BLUM,start_answer
+270,899,34,24,"Kleentech, they processed the printing rags.",a,THE WITNESS,start_question
+271,902,35,2,"Say that again, printing rags?",q,MR. BLUM,start_answer
+272,903,35,3,Printing -- they're shop rags that printers use.,a,THE WITNESS,start_question
+273,905,35,5,Okay.  And what was the printing company that was your customer for those?,q,MR. BLUM,start_answer
+274,907,35,7,"We have quite a few, like, Gemalto is one big one, it's now Thales.  I'm trying to think of those, the other ones that would be big.  I guess there was, there's one out in Lancaster, Clarke Systems, that uses those. But, I mean, we have a lot of printers, I mean.",a,THE WITNESS,start_question
+275,914,35,14,"Okay, that's fine.  And then what about MacIntosh Linen?",q,MR. BLUM,start_answer
+276,916,35,16,"MacIntosh Linen, they processed all of our like terry, what we call bar mops and kitchen towels that we use for restaurants.",a,THE WITNESS,start_question
+277,919,35,19,"And then if you turn to the next page, 3221, how about Gemini?",q,MR. BLUM,start_answer
+278,921,35,21,"They did all the table linens, the napkins and tablecloths, and they did the aprons as well.",a,THE WITNESS,start_question
+279,924,35,24,And then Acme Uniform?,q,MR. BLUM,start_answer
+280,926,36,1,"They did, they washed the uniforms.",a,THE WITNESS,start_question
+281,927,36,2,"Now, tell me what savings the company had as a result of the fact that it subcontracted this work out?",q,MR. BLUM,start_answer
+282,930,36,5,It was the only way we could keep in business.,a,THE WITNESS,start_question
+283,932,36,7,"I understand that.  But when you gave the work to someone else to do, your company in turn would have saved some money; isn't that correct?",q,MR. BLUM,start_answer
+284,936,36,11,"We wouldn't have had, obviously, the utilities and that kind of thing, if that's what you mean.",a,THE WITNESS,start_question
+285,939,36,14,"Well, utilities, there would have been people who did the work; correct?",q,MR. BLUM,start_answer
+286,941,36,16,Uh-huh.,a,THE WITNESS,start_question
+287,942,36,17,There would have been wear and tear on equipment; is that correct?,q,MR. BLUM,start_answer
+288,944,36,19,Yes.,a,THE WITNESS,start_question
+289,945,36,20,"Okay.  What, if anything, have you done to calculate those savings?",q,MR. BLUM,start_answer
+290,947,36,22,I did not include that in here.,a,THE WITNESS,start_question
+291,948,36,23,"To the best of your knowledge, has anyone taken any steps to calculate those savings?",q,MR. BLUM,start_answer
+292,952,37,2,"No, I don't believe so.",a,THE WITNESS,start_question
+293,953,37,3,"Okay.  If you could take a look at page 3224 for me, please, what is your understanding of what this page represents?",q,MR. BLUM,start_answer
+294,956,37,6,"So when we, after the fire we lost quite a few of our trucks in the fire, and so we had to rent trucks until we could get replacement trucks in.  And some of the -- the insurance does not cover renting bigger trucks, so they had -- they could rent -- you could rent a truck and they would pay the rental cost, but they didn't cover it on any of the bigger trucks that we had to rent. And then there was also a time period that they would not pay the rental, it was -- and I'm sorry, I don't remember that right now, how many days it was, it escapes me.  There was a certain period that it covered, so this was what we paid to lease the trucks that we needed until we could buy new trucks. And then I put what the insurance covered on that, so the total on the truck rental on the back, on 3228, that total came from the other page, $40,862.84, and then received from insurance, that's the amount that we received from the insurance.  So then that was the amount that was unreimbursed for the truck lease.",a,THE WITNESS,start_question
+295,982,38,7,"All right.  So the unreimbursed expense is $29,202.14 and that's what you're making a claim for?",q,MR. BLUM,start_answer
+296,985,38,10,That is correct.,a,THE WITNESS,start_question
+297,986,38,11,"So let's go back to page 3224, the trucks that went out of service that you lost, were they owned by the company or leased by the company?",q,MR. BLUM,start_answer
+298,990,38,15,They were owned by the company.,a,THE WITNESS,start_question
+299,991,38,16,And I notice that some of these expenses run all the way into November.  Why did it take so long to get some of those trucks replaced?,q,MR. BLUM,start_answer
+300,995,38,20,"That's how long on those, on the big box trucks, that's what the lead time is when you're ordering a truck.",a,THE WITNESS,start_question
+301,998,38,23,And how many of the big box trucks did you have?,q,MR. BLUM,start_answer
+302,1001,39,1,I don't have that number in front of me.,a,THE WITNESS,start_question
+303,1003,39,3,Do you have invoices in the documentation you have to back up all of these rental truck expenses?,q,MR. BLUM,start_answer
+304,1006,39,6,"That was there, yes.",a,THE WITNESS,start_question
+305,1007,39,7,"Okay.  Let's take a look at page 3225, if we could.  Can you tell me what this represents?",q,MR. BLUM,start_answer
+306,1010,39,10,That was -- I don't think that represents anything.  I think that was just like an error because that doesn't have anything on it.  I think it's the next page that has the information.,a,THE WITNESS,start_question
+307,1015,39,15,"Okay.  So page 3226, tell me what that represents?",q,MR. BLUM,start_answer
+308,1017,39,17,That represents the cost that we had to run back and forth to the subcontractors after the business continuation stopped.,a,THE WITNESS,start_question
+309,1020,39,20,"And how did you incur, what were those costs for?",q,MR. BLUM,start_answer
+310,1022,39,22,"We had one truck that we rented from DelVal, there was a big box truck, and we rented that just to come back and forth to the subcontractors.  And that was covered by the business continuation until that stopped.  So I just was looking on here, so this is like on 3227, that's summarized there.",a,THE WITNESS,start_question
+311,1030,40,5,All right.  So are pages 3227 and 3228 a summary of all the unreimbursed expenses that you are claiming in the case?,q,MR. BLUM,start_chat
+312,1033,40,8,"For clarity, you means Clemens Cleaning Village?",side_chat,MR. SLATTERY,start_chat
+313,1035,40,10,Absolutely.,side_chat,MR. BLUM,start_chat
+314,1036,40,11,Okay.,side_chat,MR. SLATTERY,start_answer
+315,1037,40,12,"Yes, that was the total that we had put together.",a,THE WITNESS,start_question
+316,1039,40,14,And did you personally prepare pages 3227 and 3228?,q,MR. BLUM,start_answer
+317,1041,40,16,I did.,a,THE WITNESS,start_question
+318,1042,40,17,"Okay.  So I just wanted to run through these.  So from page 3227, the subcontractor block is actually a summary of all the subcontractors you went through in the beginning of the document; correct?",q,MR. BLUM,start_answer
+319,1047,40,22,Correct.,a,THE WITNESS,start_question
+320,1048,40,23,"And that totals $230,000 plus?",q,MR. BLUM,start_answer
+321,1049,40,24,Correct.,a,THE WITNESS,start_question
+322,1051,41,1,"All right.  The cost of transport to the subcontractors, is for that extra box truck?",q,MR. BLUM,start_answer
+323,1054,41,4,Correct.,a,THE WITNESS,start_question
+324,1055,41,5,"All right.  And then total for that section of damages is $239,660.31; is that correct?",q,MR. BLUM,start_answer
+325,1058,41,8,That's correct.,a,THE WITNESS,start_question
+326,1059,41,9,"Now the next section says ""Replacement cost.""  Okay?  And that wasn't really documented in the beginning portion of this document.  Tell me what you did to come up with these numbers for replacement costs?",q,MR. BLUM,start_answer
+327,1064,41,14,"I had gone on the QuickBooks account and looked at what the total amount that we charged when we were doing all these replacements, that the invoices -- we actually had all the invoices for those to back up these items, like stacks of invoices.  But I had taken this from QuickBooks, that this is what was charged to the accounts that we incurred to replace everything after the fire.",a,THE WITNESS,start_question
+328,1073,41,23,"And when you say everything, I want to be a little bit careful about that.",q,MR. BLUM,start_answer
+329,1076,42,1,"Okay, I'm sorry.",a,THE WITNESS,start_question
+330,1077,42,2,"No; that's okay, I mean, that's a normal way to say anything.  I just want to be a little more precise at the moment. So what types of replacement items are you talking about here?",q,MR. BLUM,start_answer
+331,1082,42,7,"Okay.  So like on the uniform replacement, it would have been everything that we -- the uniforms that were lost in the fire that we had to put replacement orders in to replace the garments that were lost in the fire. The towels and mops, whatever that would have been, all of the bar towels and aprons and everything for the kitchen accounts that we did.",a,THE WITNESS,start_question
+332,1092,42,17,All right.  And would it be appropriate to use the word inventory?  Was this all the company's inventory that was lost?,q,MR. BLUM,start_answer
+333,1096,42,21,I guess it depends what you're meaning by inventory.,a,THE WITNESS,start_question
+334,1098,42,23,"Okay.  Tell me how you personally, you as a person working here at Clemens, would have described all these items?",q,MR. BLUM,start_answer
+335,1102,43,2,"Yeah, it's what we -- yes, I guess inventory would be what you would call it, what we needed to service the accounts, yes.",a,THE WITNESS,start_question
+336,1105,43,5,"And the inventory that was lost in the fire, was all of it used or was some of it new material?",q,MR. BLUM,start_answer
+337,1108,43,8,"Well, for the towels, I mean, we always definitely would have had, you know, like bales of towels that would have been new. But obviously the items that came back from the customers would have all been, you know, used items.",a,THE WITNESS,start_question
+338,1114,43,14,"Okay.  And so in the towels or the mops that you replaced, can you tell me the percentage of those that were new versus used, the ones that were lost?",q,MR. BLUM,start_answer
+339,1118,43,18,I'm not sure I understand the question.,a,THE WITNESS,start_question
+340,1120,43,20,"Okay.  So let's just stick with, let's go to the uniforms, if we could, for a minute, I think it's a little bit easier.  The uniform replacement you have $264,861; correct?",q,MR. BLUM,start_answer
+341,1126,44,1,Uh-huh.,a,THE WITNESS,start_question
+342,1127,44,2,All right.  So you replaced everything that was lost in the fire of the uniforms; correct?,q,MR. BLUM,start_answer
+343,1130,44,5,"We didn't really replace everything that was lost in the fire because we had a whole like -- like when people return stuff, you know, like it goes into inventory.  And then we have that to use again.  We didn't replace -- that doesn't include anything, we didn't replace any of that inventory.",a,THE WITNESS,start_question
+344,1137,44,12,"So tell me, the 264,000, what does that represent?",q,MR. BLUM,start_answer
+345,1139,44,14,That represents what we had to replace for the garments that were in service at accounts.,a,THE WITNESS,start_question
+346,1142,44,17,And all those garments that were in service were all used garments at that point?,q,MR. BLUM,start_answer
+347,1144,44,19,That would be correct.,a,THE WITNESS,start_question
+348,1145,44,20,"Okay.  And let's go back to the towels and mops.  So the towels and mops that you replaced as part of this that you're making this claim for, were they all used equipment?",q,MR. BLUM,start_answer
+349,1151,45,1,"The towels and mops, like I said, there would have been -- we always had like bales of towels, you know, that would have been brand-new that weren't even in service yet, that would have been that.  But everything that would be out at the customers, yes, that would be used.",a,THE WITNESS,start_question
+350,1158,45,8,"So tell me in the claim that you're making in this case, what of the towels was used and, like in a percentage, how much was used and how much was in a new bale sitting in your inventory?",q,MR. BLUM,start_answer
+351,1163,45,13,I would say as my best guess would be 75% would have been used.,a,THE WITNESS,start_question
+352,1165,45,15,Okay.  And what are you basing that number off of?,q,MR. BLUM,start_answer
+353,1167,45,17,Just my best estimate of what it is.,a,THE WITNESS,start_question
+354,1168,45,18,"Okay.  So is it accurate that you did not go back to try to do any specific analysis to say, this is the number that we're sitting here -- that we know were brand-new, you haven't done anything like to actually verify that?",q,MR. BLUM,start_answer
+355,1174,45,24,That is correct.,a,THE WITNESS,start_question
+356,1176,46,1,"The first aid inventory, would that have all been new?",q,MR. BLUM,start_answer
+357,1178,46,3,That would have all been new.,a,THE WITNESS,start_question
+358,1179,46,4,"Mats, were the mats that were replaced all ones that were in use?",q,MR. BLUM,start_answer
+359,1181,46,6,Yes.,a,THE WITNESS,start_question
+360,1182,46,7,"Linens, were those linens that were replaced all ones that were in use?",q,MR. BLUM,start_answer
+361,1184,46,9,Yes.,a,THE WITNESS,start_question
+362,1185,46,10,"Garment chips, were those all that were already employed in use?",q,MR. BLUM,start_answer
+363,1187,46,12,"No; because we had, like I said, we were just starting this program, so we had purchased 20,000 of those like right before the fire that would have been burned in the fire.",a,THE WITNESS,start_question
+364,1192,46,17,"Okay.  Are those, the claim that you're making, the 15,927 was all for new chips, or is that some used chips that were also lost?",q,MR. BLUM,start_answer
+365,1196,46,21,It would have been some that would have been in garments to begin with.,a,THE WITNESS,start_question
+366,1198,46,23,And do you know what percentage were in garments and what percentage weren't?,q,MR. BLUM,start_answer
+367,1201,47,1,"We had just started putting those in, so I would say that, I'm going to say 75% would have been ones that weren't in garments yet.  They would have been new.",a,THE WITNESS,start_question
+368,1205,47,5,"Again, is that your best estimate?",q,MR. BLUM,start_answer
+369,1206,47,6,That's my best estimate.,a,THE WITNESS,start_question
+370,1207,47,7,"Okay.  Now, you have listed in there total replacement cost, the 674, is that a total of all those items?",q,MR. BLUM,start_answer
+371,1210,47,10,"Yes, it is.",a,THE WITNESS,start_question
+372,1211,47,11,"All right.  And then it says ""Insurance valuation,"" 456,000 plus change. Is that the amount you collected from the insurance company?",q,MR. BLUM,start_answer
+373,1215,47,15,"Yes, it is.",a,THE WITNESS,start_question
+374,1216,47,16,"And do you know, did the insurance company in their valuation, was that their valuation of what the actual value of those items were that were lost?",q,MR. BLUM,start_answer
+375,1220,47,20,"I don't know how they came to that valuation, I'm not sure if it was just that we were up at the $2 million limit anyway.",a,THE WITNESS,start_question
+376,1223,47,23,"Okay, I understand.  But, at any rate, the difference is whatever listed there, 218,282; correct?",q,MR. BLUM,start_answer
+377,1227,48,2,Correct.,a,THE WITNESS,start_question
+378,1228,48,3,"Now can we switch to the upper right-hand column of the document for a minute.  It says there ""First day sales,"" and I understand there was not coverage for the first day after the fire.  Tell me what you did to calculate that $15,000 number?",q,MR. BLUM,start_answer
+379,1234,48,9,"That was the loss that we had calculated because -- and I took that, that was a Wednesday, so we had looked at what the Wednesday sales would have normally been to compare it to what the sales that we lost for that day.",a,THE WITNESS,start_question
+380,1240,48,15,"Okay.  And so tell me how did you come up with that actual calculation, 15,000?",q,MR. BLUM,start_answer
+381,1242,48,17,"I took the sales that we actually booked on 6/15, which was nothing because we couldn't go out that day.  And then I looked at what a normal Wednesday would be, and a normal Wednesday, like I averaged the previous four, and it was 15,000 was the normal.  So our normal Wednesday sales at that point would have been 15,000, and we didn't have any sales that Wednesday.",a,THE WITNESS,start_question
+382,1252,49,2,So the number that you calculated was the gross sales for the day?,q,MR. BLUM,start_answer
+383,1254,49,4,That's correct.,a,THE WITNESS,start_question
+384,1255,49,5,"Okay.  And the 15,000 is the average of the four Wednesdays before the fire?",q,MR. BLUM,start_answer
+385,1257,49,7,Correct.,a,THE WITNESS,start_question
+386,1258,49,8,And would the company have had any savings for not operating on that day?,q,MR. BLUM,start_answer
+387,1260,49,10,"I'm trying to think of a nice way to answer this question.  Thinking back to that day, the last thing that I was thinking about was, we really saved a lot of money.  I'm sorry, that just really -- maybe we can move on to another question.  I don't want to answer that one.",a,THE WITNESS,start_question
+388,1267,49,17,Okay.  So that's your best answer for that question?,q,MR. BLUM,start_answer
+389,1269,49,19,That is my best answer.,a,THE WITNESS,start_question
+390,1270,49,20,"Okay.  The ""Fire-related extra expenses,"" it says ""Accounting 11,401.""  Can you tell me what that is for?",q,MR. BLUM,start_answer
+391,1273,49,23,"So our accountant had to do a lot of extra accounting work with, because our fiscal year ran to September and the fire was in June.  And we got the $2 million to buy, you know, like to replace stuff, but that money wasn't spent in that fiscal year, so they had to do a lot of extra accounting work.  I'm not -- I'm not into what the CPAs do, but they kept track of the extra work that they had to do to document all of this and file the extra IRS paperwork or whatever that was needed concerning that.  And that was, they gave us a separate invoice for that extra work and that's what that was.",a,THE WITNESS,start_question
+392,1288,50,13,"And underneath there it says ""Received check,"" is that $10,000 a check that you received from the insurance company?",q,MR. BLUM,start_answer
+393,1291,50,16,"That is true, yes.",a,THE WITNESS,start_question
+394,1292,50,17,"So the amount claimed for that is the difference, the $1,401?",q,MR. BLUM,start_answer
+395,1294,50,19,That is correct.,a,THE WITNESS,start_question
+396,1295,50,20,"Now, if we go back to the left-hand column, there's the property loss over the 2 million limit.  Do you see that?",q,MR. BLUM,start_answer
+397,1298,50,23,Okay.,a,THE WITNESS,start_question
+398,1299,50,24,"What, if anything, did you do to come up with that number?",q,MR. BLUM,start_answer
+399,1302,51,2,I believe that was taken from the insurance company valuation.,a,THE WITNESS,start_question
+400,1304,51,4,So all you did is you took the valuation that the insurance company gave you and minus the 2 million that you were paid?,q,MR. BLUM,start_answer
+401,1307,51,7,That is correct.,a,THE WITNESS,start_question
+402,1308,51,8,"Okay.  Beneath that, this ""Unreimbursed lease expense"" is actually the -- we've talked about that item, correct, and it leads to the 40,000?",q,MR. BLUM,start_answer
+403,1312,51,12,Yes.,a,THE WITNESS,start_question
+404,1313,51,13,"And then on the next page there is, you did receive an $11,660 check for that?",q,MR. BLUM,start_answer
+405,1315,51,15,Yes.,a,THE WITNESS,start_question
+406,1316,51,16,Okay.  And the final section is totaling all of the unreimbursed expenses; correct?,q,MR. BLUM,start_answer
+407,1319,51,19,Yes.,a,THE WITNESS,start_question
+408,1320,51,20,"Did you personally do anything to calculate any losses related to lease payments?  I'm sorry, I'll be more specific. Lease payments from tenants in the building?",q,MR. BLUM,start_answer
+409,1324,51,24,That's not -- that's not my -- I don't do anything with that.,a,THE WITNESS,start_question
+410,1327,52,2,"All right.  And I take it from what you said also already, you did not do anything to calculate any losses pertaining to the actual structure itself, the building?",q,MR. BLUM,start_answer
+411,1331,52,6,That's a different entity.,a,THE WITNESS,start_question
+412,1332,52,7,"Okay.  So speaking just as to Clemens Cleaning Village, have you told us all of the extra expenses that you're aware of that Clemens Cleaning Village had?",q,MR. BLUM,start_answer
+413,1336,52,11,Correct.,a,THE WITNESS,start_question
+414,1337,52,12,"Okay.  If you can, there's a document in front of you which is Exhibit No. 10.",q,MR. BLUM,start_chat
+415,1340,52,15,Why don't we take a five-minute break.,side_chat,MR. BLUM,symbols
+416,1342,52,17,- - -,symbols,,is brackets
+417,1343,52,18,(Short recess.),brackets,,symbols
+418,1344,52,19,- - -,symbols,,start_question
+419,1346,52,21,Have you had an opportunity to look at Exhibit 10?,q,MR. BLUM,start_answer
+420,1348,52,23,"I was looking through it, yes.",a,THE WITNESS,start_question
+421,1349,52,24,Have you ever seen this document before?,q,MR. BLUM,start_answer
+422,1352,53,2,Yes.,a,THE WITNESS,start_question
+423,1353,53,3,Okay.  And have you seen it in this form?,q,MR. BLUM,start_answer
+424,1355,53,5,No.  It's similar to what I would have gotten every month as they made it -- I don't think I ever saw it completely totaled.,a,THE WITNESS,start_question
+425,1358,53,8,And were you aware that the insurance company's calculations showed that the company did not show a loss of business income over the year after the fire?,q,MR. BLUM,start_answer
+426,1362,53,12,Sales or income?,a,THE WITNESS,start_question
+427,1363,53,13,"Income, business income.",q,MR. BLUM,start_answer
+428,1364,53,14,I see that.,a,THE WITNESS,start_question
+429,1365,53,15,And do you have any reason to dispute that?,q,MR. BLUM,start_answer
+430,1367,53,17,No.,a,THE WITNESS,start_question
+431,1368,53,18,"If you look at beginning on page 1741, this is a list from the insurance company of payments that they made for the extra expense.  Have you seen this evaluation before?",q,MR. BLUM,start_answer
+432,1373,53,23,"Like I said, I saw it month by month, I never really saw it like the whole claim totaled up.  But, yes, I have seen.",a,THE WITNESS,start_question
+433,1377,54,2,"And any time when you saw the month-to-month expenses, are the month-to-month payments for the extra expense, were there any that were rejected by the insurance company?",q,MR. BLUM,start_answer
+434,1382,54,7,"Like the additional accounting amount, that was initially rejected, and then they paid that.  That was one that I could think of. And then as far as, that's as far as business -- was that considered business, no, I guess that wasn't business continuation.",a,THE WITNESS,start_question
+435,1389,54,14,Which?,q,MR. BLUM,start_answer
+436,1390,54,15,The accounting.,a,THE WITNESS,start_question
+437,1391,54,16,Okay.,q,MR. BLUM,start_answer
+438,1392,54,17,"I think that was just part of the insurance, that wasn't the business continuation, I'm sorry, I'm confusing it.",a,THE WITNESS,start_question
+439,1395,54,20,"That's all right.  So as far as you know, for the claims that were submitted by Clemens Cleaning Village for the extra expense for the period that was covered, everything was paid by the insurance company?",q,MR. BLUM,start_answer
+440,1401,55,1,I can't think of anything that was for the business continuation --,a,THE WITNESS,start_question
+441,1403,55,3,Okay.,q,MR. BLUM,start_answer
+442,1404,55,4,-- that wasn't paid.,a,THE WITNESS,start_question
+443,1405,55,5,"All right.  If you could take a look for me, in front of you there's a document -- No. 8 should be in front of you.  Have you seen this report before?",q,MR. BLUM,start_answer
+444,1409,55,9,No.,a,THE WITNESS,start_question
+445,1410,55,10,Okay.  Take a look at the next page.,q,MR. BLUM,start_answer
+446,1411,55,11,"Oh, this, okay, I'm sorry.  Yes, I did see this.",a,THE WITNESS,start_question
+447,1413,55,13,All right.  And this is where you calculated the difference between the 2 million and the 2.9 million?,q,MR. BLUM,start_answer
+448,1416,55,16,Correct.,a,THE WITNESS,start_question
+449,1417,55,17,All right.  And were you personally involved in the verification of list of items that were included on this report by Mr. Hammar?,q,MR. BLUM,start_answer
+450,1421,55,21,"So when he came out, he walked through the building and listed everything. And then he came back to my office and asked me to go through to find -- he asked me like what vendors we got certain equipment from, and if I had a record of when we got, you know, certain equipment and that.  So I sat down with him and gave him like information about what vendors certain things came from that he, you know, that he asked about.",a,THE WITNESS,start_question
+451,1432,56,7,Okay.  Were you involved in any way in ascertaining what any of the numbers were in terms of the cost or the insured cost or anything like that?,q,MR. BLUM,start_answer
+452,1436,56,11,"He came up with the valuation for that.  No, I didn't give him any numbers.  He came up with those numbers.  I just like gave him vendors for certain items that he wasn't familiar with.",a,THE WITNESS,start_question
+453,1441,56,16,And did you have any other involvement in working with him on preparing this list?,q,MR. BLUM,start_answer
+454,1444,56,19,"The -- I'm trying to think of what he -- no, I don't think so.  Just, like I said, just giving him vendors that we got them from.",a,THE WITNESS,start_question
+455,1448,56,23,And are you aware of any equipment that Mr. Hammar did not include on the list that should have been included?,q,MR. BLUM,start_answer
+456,1452,57,2,"No, I was not aware of anything that he -- he was pretty thorough.",a,THE WITNESS,start_question
+457,1454,57,4,Okay.  And so the only claim that you have is for the difference between the value that the insurance company paid versus the replacement value?,q,MR. BLUM,start_answer
+458,1458,57,8,On the uniforms --,a,THE WITNESS,start_question
+459,1459,57,9,No.,q,MR. BLUM,start_answer
+460,1460,57,10,-- is that what you're saying?,a,THE WITNESS,start_question
+461,1461,57,11,"No, not on the uniforms.  On this set of equipment?",q,MR. BLUM,start_answer
+462,1463,57,13,"Oh, the equipment, I'm sorry.",a,THE WITNESS,start_question
+463,1464,57,14,"Sorry, I was not clear.",q,MR. BLUM,start_answer
+464,1465,57,15,Okay.  Yes.,a,THE WITNESS,start_question
+465,1466,57,16,"All right.  In terms of the investigation about what caused the fire after the fire occurred, were you involved in any way in that investigation?",q,MR. BLUM,start_answer
+466,1470,57,20,No.,a,THE WITNESS,start_question
+467,1471,57,21,Okay.  Were you interviewed by the State Police or anyone?,q,MR. BLUM,start_answer
+468,1473,57,23,No.,a,THE WITNESS,start_question
+469,1474,57,24,Is there any other losses that you can think of as we sit here today that were suffered by Clemens Cleaning Village that you're making a claim for?,q,MR. BLUM,start_answer
+470,1479,58,4,No.  It's all in the paper.,a,THE WITNESS,start_chat
+471,1480,58,5,I have no further questions.,side_chat,MR. BLUM,symbols
+472,1482,58,7,- - - EXAMINATION,symbols,,symbols
+473,1484,58,9,- - -,symbols,,start_question
+474,1486,58,11,"Ma'am, my name is Dan Divis, I represent Bergey's Leasing.  I think you mentioned a Bergey's Electric, that's not the company that I represent?",q,MR. DIVIS,start_answer
+475,1490,58,15,"No, no.  I'm aware of the difference.",a,THE WITNESS,start_question
+476,1492,58,17,"I just have a couple of followup questions. First, have you ever spoken to anybody from Bergey's Leasing, my client, with respect to any of your claims in this case or the fire at issue?",q,MR. DIVIS,start_answer
+477,1498,58,23,I personally did not.,a,THE WITNESS,start_question
+478,1499,58,24,"Okay.  The subcontractors that are identified in the documents, for instance -- well, K Cleaners, had you ever used K Cleaners before?",q,MR. DIVIS,start_answer
+479,1504,59,4,No.,a,THE WITNESS,start_question
+480,1505,59,5,"And what about, let's say subsequent to or after August 2017, did you use K Cleaners for any reason?",q,MR. DIVIS,start_answer
+481,1508,59,8,"Yes.  We do use K Cleaners, we did not replace the dry cleaner that we had.  We still plan to, but it was just an expense that we couldn't afford at this point.",a,THE WITNESS,start_question
+482,1512,59,12,So presently do you subcontract out all of your dry cleaning?,q,MR. DIVIS,start_answer
+483,1514,59,14,Yes.,a,THE WITNESS,start_question
+484,1515,59,15,"Town Valet Cleaners, what are they?",q,MR. DIVIS,start_answer
+485,1516,59,16,They're the ones that did the executive wear.,a,THE WITNESS,start_question
+486,1518,59,18,Had you ever used them as a subcontractor before the fire?,q,MR. DIVIS,start_answer
+487,1520,59,20,"Not at all, no.",a,THE WITNESS,start_question
+488,1521,59,21,Do you still use them?,q,MR. DIVIS,start_answer
+489,1522,59,22,"No, not at all.",a,THE WITNESS,start_question
+490,1523,59,23,"Kleentech, did you ever use them as a subcontractor before?",q,MR. DIVIS,start_answer
+491,1526,60,1,No.,a,THE WITNESS,start_question
+492,1527,60,2,And do you still use Kleentech today?,q,MR. DIVIS,start_answer
+493,1529,60,4,"Yes, we do.",a,THE WITNESS,start_question
+494,1530,60,5,For what reason?,q,MR. DIVIS,start_answer
+495,1531,60,6,"The print rags, we don't have the wastewater equipment approval.  We have to purchase another wastewater system to be able to do that.",a,THE WITNESS,start_question
+496,1535,60,10,Have you continued to use Kleentech since the fire?,q,MR. DIVIS,start_answer
+497,1537,60,12,"We do.  Not to the extent.  We used to use them for all of the shop rags.  Now we just do the print shop rags, yes, print shop rags for them.",a,THE WITNESS,start_question
+498,1541,60,16,"So you're saying that you used them for all of the shop rags after the fire, up until --",q,MR. DIVIS,start_answer
+499,1544,60,19,Up until -- we use them for all. Now we process the red and the blue ones inhouse.  We just send the green ones out.,a,THE WITNESS,start_question
+500,1547,60,22,"And as I understand your testimony, you had never used Kleentech before the fire at issue; is that accurate?",q,MR. DIVIS,start_answer
+501,1551,61,1,That's correct.,a,THE WITNESS,start_question
+502,1552,61,2,"MacIntosh Linen, what are they? What did they do?",q,MR. DIVIS,start_answer
+503,1554,61,4,They're a big commercial laundry in Allentown.,a,THE WITNESS,start_question
+504,1556,61,6,Had you ever used that contractor before the fire at issue?,q,MR. DIVIS,start_answer
+505,1558,61,8,"No, never.",a,THE WITNESS,start_question
+506,1559,61,9,And do you still use MacIntosh Linen?,q,MR. DIVIS,start_answer
+507,1561,61,11,"No, not at all.",a,THE WITNESS,start_question
+508,1562,61,12,"What about Gemini Linen, can you tell me what business they're in?",q,MR. DIVIS,start_answer
+509,1564,61,14,"They do table linens, napkins and tablecloths.",a,THE WITNESS,start_question
+510,1566,61,16,And had you ever used Gemini Linen before the fire at issue?,q,MR. DIVIS,start_answer
+511,1568,61,18,"No, not at all.",a,THE WITNESS,start_question
+512,1569,61,19,Did you still use Gemini today?,q,MR. DIVIS,start_answer
+513,1570,61,20,No.,a,THE WITNESS,start_question
+514,1571,61,21,"Acme Uniform, had you ever used them before the fire?",q,MR. DIVIS,start_answer
+515,1573,61,23,No.,a,THE WITNESS,start_question
+516,1574,61,24,And do you still use them on occasion --,q,MR. DIVIS,start_answer
+517,1577,62,2,"No, never.",a,THE WITNESS,start_question
+518,1578,62,3,"-- presently? Presently does Clemens, do you own all of the vehicles in your fleet?",q,MR. DIVIS,start_answer
+519,1581,62,6,"At this time we do, yes.",a,THE WITNESS,start_question
+520,1582,62,7,In June of 2016 how many leased vehicles did Clemens Cleaning have?,q,MR. DIVIS,start_answer
+521,1584,62,9,I believe it was three.,a,THE WITNESS,start_question
+522,1585,62,10,And were they all leased from Bergey's or --,q,MR. DIVIS,start_answer
+523,1587,62,12,"Yes, they were.",a,THE WITNESS,start_question
+524,1588,62,13,Were they all Sprinters?,q,MR. DIVIS,start_answer
+525,1589,62,14,I don't want to say.  I'm not sure.,a,THE WITNESS,start_question
+526,1590,62,15,"How many vehicles did Clemens own back in June of 2016, vans, I'm talking about?",q,MR. DIVIS,start_answer
+527,1592,62,17,I don't have that specific number here.,a,THE WITNESS,start_question
+528,1594,62,19,Do you know what type of vans they were?,q,MR. DIVIS,start_answer
+529,1596,62,21,"Well, we had some box trucks.  I know we had some Dodge Sprinters, we had some of the Ram trucks.  We had the Isuzu uniform trucks.",a,THE WITNESS,start_question
+530,1601,63,1,"And did the vehicles, did they all have Clemens wrapping on them back in June of 2016?",q,MR. DIVIS,start_answer
+531,1604,63,4,They did.,a,THE WITNESS,start_question
+532,1605,63,5,"And the fleet that you have now, in terms of the vans that you use, who is the manufacturer of those vehicles?",q,MR. DIVIS,start_answer
+533,1608,63,8,That we have now?,a,THE WITNESS,start_question
+534,1609,63,9,Yes.,q,MR. DIVIS,start_answer
+535,1610,63,10,I know we have three or four of the Ford Transits that we got since the fire.  We still have Isuzu box trucks.  And we have ProMasters.,a,THE WITNESS,start_question
+536,1614,63,14,Any other vehicles that are in your fleet now other than the ones you mentioned to me?,q,MR. DIVIS,start_answer
+537,1617,63,17,I guess we still have some Dodge Sprinters.,a,THE WITNESS,start_question
+538,1619,63,19,How many Dodge Sprinters are in your fleet now?,q,MR. DIVIS,start_answer
+539,1621,63,21,I don't have that list in front of me.,a,THE WITNESS,start_question
+540,1623,63,23,More than one?,q,MR. DIVIS,start_answer
+541,1624,63,24,I honestly don't know.  I'm not a truck person.,a,THE WITNESS,start_question
+542,1627,64,2,Understood.  You mentioned Mr. Camioni?,q,MR. DIVIS,start_answer
+543,1629,64,4,Camioni.,a,THE WITNESS,start_question
+544,1630,64,5,He worked in the same office as you?,q,MR. DIVIS,start_answer
+545,1631,64,6,Yes.,a,THE WITNESS,start_question
+546,1632,64,7,And he was in accounts receivable?,q,MR. DIVIS,start_answer
+547,1633,64,8,Yes.,a,THE WITNESS,start_question
+548,1634,64,9,Does he still work for the company?,q,MR. DIVIS,start_answer
+549,1635,64,10,No.,a,THE WITNESS,start_question
+550,1636,64,11,Do you know where he works now?,q,MR. DIVIS,start_answer
+551,1637,64,12,"He works, I don't know the name of the company, all I know is that it's an accounting firm.  He went to an accounting firm.",a,THE WITNESS,start_question
+552,1641,64,16,Mr. Camioni?,q,MR. DIVIS,start_answer
+553,1642,64,17,Camioni.,a,THE WITNESS,start_question
+554,1643,64,18,How old is he?,q,MR. DIVIS,start_answer
+555,1644,64,19,"About 33 or 4, maybe.",a,THE WITNESS,start_question
+556,1645,64,20,And he left the company when?,q,MR. DIVIS,start_answer
+557,1646,64,21,He left the company late August of 2017.,a,THE WITNESS,start_question
+558,1648,64,23,And what were the circumstances under which he left the company?,q,MR. DIVIS,start_answer
+559,1651,65,1,He just wanted -- he had an accounting background and he was going to go to an accounting firm to work to be a CPA.,a,THE WITNESS,start_question
+560,1654,65,4,"Okay.  And then for your, for lack of a better, would you be in charge of the accounting department here?",q,MR. DIVIS,start_answer
+561,1657,65,7,"Yes, I would.",a,THE WITNESS,start_question
+562,1658,65,8,How many people work in your department presently?,q,MR. DIVIS,start_answer
+563,1660,65,10,For as far as accounting or the whole office?,a,THE WITNESS,start_question
+564,1662,65,12,Accounting.,q,MR. DIVIS,start_answer
+565,1663,65,13,"Accounting is just myself and Brad Imel, I-M-E-L.",a,THE WITNESS,start_question
+566,1665,65,15,And then how many folks work in this plant in the office only as opposed to the workers down on the floor?,q,MR. DIVIS,start_answer
+567,1668,65,18,Do you want me to count my brother?,a,THE WITNESS,start_question
+568,1669,65,19,Sure.,q,MR. DIVIS,start_answer
+569,1670,65,20,"We have four office people, full-time office.",a,THE WITNESS,start_question
+570,1672,65,22,Are there people who work part time in the office?,q,MR. DIVIS,start_answer
+571,1674,65,24,"We have one guy that does other jobs plus the office.  He works full time, it's just that he's not full time in the office.",a,THE WITNESS,start_question
+572,1678,66,3,"And then in terms of managing the folks on the floor, is that something that your brother is generally responsible for?",q,MR. DIVIS,start_answer
+573,1681,66,6,We have a plant manager.,a,THE WITNESS,start_question
+574,1682,66,7,Who is that?,q,MR. DIVIS,start_answer
+575,1683,66,8,Christina Kolb.,a,THE WITNESS,start_question
+576,1684,66,9,K-O-L-B?,q,MR. DIVIS,start_answer
+577,1685,66,10,Uh-huh.,a,THE WITNESS,start_question
+578,1686,66,11,Yes?,q,MR. DIVIS,start_answer
+579,1687,66,12,Yes.,a,THE WITNESS,start_question
+580,1688,66,13,How long has Christina been the plant manager?,q,MR. DIVIS,start_answer
+581,1690,66,15,"She started right when we came up, when we got back into the building here, so that would have been like August of 2017.",a,THE WITNESS,start_question
+582,1693,66,18,And who was the plant manager before Christina?,q,MR. DIVIS,start_answer
+583,1695,66,20,The plant manager like when we were in the older building before the fire?,a,THE WITNESS,start_question
+584,1697,66,22,"No; here, say in June of 2016, who was the plant manager, at the time of the fire at issue who was the plant manager?",q,MR. DIVIS,start_answer
+585,1701,67,1,"I think at that point, I think Scott Young was the plant manager at that point.  My brother did oversee a lot of the day-to-day plant operation at that point, but I believe Scott was like a charge person at that point.",a,THE WITNESS,start_question
+586,1706,67,6,And does Scott work for the company anymore?,q,MR. DIVIS,start_answer
+587,1708,67,8,"No, he doesn't.",a,THE WITNESS,start_question
+588,1709,67,9,Do you know where he works now?,q,MR. DIVIS,start_answer
+589,1710,67,10,I do not.  I think he works for his dad.,a,THE WITNESS,start_question
+590,1712,67,12,"What business is that, if you know?",q,MR. DIVIS,start_answer
+591,1713,67,13,Electrician.,a,THE WITNESS,start_question
+592,1714,67,14,"Just in terms of the, Mr. Blum went through this with you, but the replacement cost of the -- excuse me, the towels, mops, uniform replacement, first aid, mats, linens, garment chips, emblems that you replaced, I suppose you had the figures -- correct me if I'm wrong -- in terms of what you had as an inventory for all of those items before the fire started?",q,MR. DIVIS,start_answer
+593,1723,67,23,Which page are you on?,a,THE WITNESS,start_question
+594,1724,67,24,Sure.  Page 3227.,q,MR. DIVIS,start_answer
+595,1726,68,1,Okay.  I just want to make sure I was looking at the same thing.,a,THE WITNESS,start_question
+596,1728,68,3,"In other words, there's a cost there associated with the towels and mops that were lost in the fire; correct?",q,MR. DIVIS,start_answer
+597,1731,68,6,Yes.,a,THE WITNESS,start_question
+598,1732,68,7,"And in terms of the number of towels and mops, in terms of that inventory, were you the one that would have had that in the accounting department before the fire?",q,MR. DIVIS,start_answer
+599,1736,68,11,Yes.,a,THE WITNESS,start_question
+600,1737,68,12,"Same thing for the uniform replacement, first aid, mats, linens, garment chips, emblems, all of that was information that you would have had in the accounting office in terms of what you had or what you, meaning Clemens, had on hand before the fire; correct?",q,MR. DIVIS,start_answer
+601,1744,68,19,Correct.,a,THE WITNESS,start_question
+602,1745,68,20,"And the accountants that you use are who, what's the name of the firm?",q,MR. DIVIS,start_answer
+603,1747,68,22,Baum Smith & Clemens.,a,THE WITNESS,start_question
+604,1748,68,23,Are they any relation to you?,q,MR. DIVIS,start_answer
+605,1749,68,24,"Tim Clemens, it's like a very, very distant relation.",a,THE WITNESS,start_chat
+606,1752,69,2,"Ma'am, that's all the questions I have for you.",side_chat,MR. DIVIS,start_chat
+607,1754,69,4,I do have one followup question.,side_chat,MR. BLUM,symbols
+608,1756,69,6,- - - FURTHER EXAMINATION,symbols,,symbols
+609,1758,69,8,- - -,symbols,,start_question
+610,1760,69,10,"You mentioned shop rags, there was red, blue, and green rags.  What was the distinction in terms of those?",q,MR. BLUM,start_answer
+611,1763,69,13,"So the red rags are used by automobile mechanics and that. And then the blue rags are used by machine shops.  And they get metal shavings in that, so we always have to keep them separate when you wash them and everything like that. And then the green rags are printing company rags.",a,THE WITNESS,start_question
+612,1771,69,21,And why are they kept separated?,q,MR. BLUM,start_answer
+613,1772,69,22,Because of the solvents that are in the printing rags.,a,THE WITNESS,start_question
+614,1774,69,24,Okay.  And do you know what those solvents are?,q,MR. BLUM,start_answer
+615,1777,70,2,I don't.,a,THE WITNESS,start_chat
+616,1778,70,3,Okay.  That's it.,side_chat,MR. BLUM,start_chat
+617,1779,70,4,I don't have any questions.,side_chat,MR. ACKLEN,start_chat
+618,1781,70,6,No.,side_chat,MR. REICH,symbols
+619,1782,70,7,- - -,symbols,,is brackets
+620,1783,70,8,(Witness excused.),brackets,,is brackets
+621,1784,70,9,(Whereupon the deposition adjourned at 2:38 p.m.),brackets,,symbols
+622,1786,70,11,"- - - CERTIFICATE I HEREBY CERTIFY that the proceedings, evidence, and objections are contained fully and accurately in the stenographic notes taken by me upon the deposition of JANET CURTIS taken on August 20, 2019, and that this is a true and correct transcript of same. MADALENE FOSTER ROHDE Registered Professional Reporter",symbols,,is brackets
+623,1819,71,18,"(The foregoing certification of this transcript does not apply to any reproduction of the same by any means unless under the direct control and/or supervision of the certifying reporter.) I have read the foregoing transcript of my examination given on August 20, 2019, and it is true, correct, and complete, to the best of my knowledge, recollection, and belief, except for the list of corrections, if any, attached on a separate sheet herewith. Date               JANET CURTIS before me this     day Notary Public READ/SIGN DEPOSITION OF:  Janet Curtis",brackets,,start_chat
+624,1858,73,2,Clemens v Euro Motorcars DO NOT WRITE ON THE DEPOSITION ITSELF Page Line  Changes or corrections and reason,side_chat,IN THE MATTER OF,symbols
+625,1861,73,5,______________________________________________,symbols,,symbols
+626,1862,73,6,______________________________________________,symbols,,symbols
+627,1863,73,7,______________________________________________,symbols,,symbols
+628,1864,73,8,______________________________________________,symbols,,symbols
+629,1865,73,9,______________________________________________,symbols,,symbols
+630,1866,73,10,______________________________________________,symbols,,symbols
+631,1867,73,11,______________________________________________,symbols,,symbols
+632,1868,73,12,______________________________________________,symbols,,symbols
+633,1869,73,13,______________________________________________,symbols,,symbols
+634,1870,73,14,______________________________________________,symbols,,symbols
+635,1871,73,15,______________________________________________,symbols,,symbols
+636,1872,73,16,______________________________________________,symbols,,symbols
+637,1873,73,17,______________________________________________,symbols,,symbols
+638,1874,73,18,______________________________________________,symbols,,symbols
+639,1875,73,19,______________________________________________,symbols,,symbols
+640,1876,73,20,______________________________________________,symbols,,symbols
+641,1877,73,21,"______________________________________________ have listed all changes and corrections above, DATE:__________ SIGNATURE:____________________ LAWYER'S NOTES",symbols,,symbols
+642,1885,74,2,______________________________________________,symbols,,symbols
+643,1886,74,3,______________________________________________,symbols,,symbols
+644,1887,74,4,______________________________________________,symbols,,symbols
+645,1888,74,5,______________________________________________,symbols,,symbols
+646,1889,74,6,______________________________________________,symbols,,symbols
+647,1890,74,7,______________________________________________,symbols,,symbols
+648,1891,74,8,______________________________________________,symbols,,symbols
+649,1892,74,9,______________________________________________,symbols,,symbols
+650,1893,74,10,______________________________________________,symbols,,symbols
+651,1894,74,11,______________________________________________,symbols,,symbols
+652,1895,74,12,______________________________________________,symbols,,symbols
+653,1896,74,13,______________________________________________,symbols,,symbols
+654,1897,74,14,______________________________________________,symbols,,symbols
+655,1898,74,15,______________________________________________,symbols,,symbols
+656,1899,74,16,______________________________________________,symbols,,symbols
+657,1900,74,17,______________________________________________,symbols,,symbols
+658,1901,74,18,______________________________________________,symbols,,symbols
+659,1902,74,19,______________________________________________,symbols,,symbols
+660,1903,74,20,______________________________________________,symbols,,symbols
+661,1904,74,21,______________________________________________,symbols,,symbols
+662,1905,74,22,______________________________________________,symbols,,symbols
+663,1906,74,23,______________________________________________,symbols,,symbols
+664,1907,74,24,______________________________________________,symbols,,end

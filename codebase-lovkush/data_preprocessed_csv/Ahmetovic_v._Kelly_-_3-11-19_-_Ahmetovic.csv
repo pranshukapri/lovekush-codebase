@@ -1,0 +1,823 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," EMINA AHMETOVIC, residing at 21 McMullen Avenue, Wethersfield, Connecticut, being first duly sworn, as hereinafter certified, was examined and testified as follows:",,,start_question
+1,97,4,10,"Good morning, Ms. Ahmetovic.  Is that how you say your name?",q,MS. FRARE,start_answer
+2,99,4,12,Yes.  Ahmetovic.  But Ahmetovic is close enough.,a,THE WITNESS,start_question
+3,100,4,13,"Thank you. My name is Suzanne Frare and I'm an attorney.  I represent Paul Thomas Kelly in this lawsuit brought by you regarding an accident back on March 17, 2017.  I'm going to ask you some questions related to that. Now, have you ever testified before in a deposition?",q,MS. FRARE,start_answer
+4,107,4,20,No.,a,THE WITNESS,start_question
+5,108,4,21,"Okay.  Well, first, some ground rules.  As you can see, there's a court reporter in the room that's going to take down what's said.  So we need to try and avoid speaking at the same time.  So even if you know what I'm going to say, wait for me to finish my question before you begin your answer.  And I'll try to do the same.  All right?",q,MS. FRARE,start_answer
+6,115,5,2,(Witness gestures.),a,THE WITNESS,start_question
+7,116,5,3,"And please answer verbally because if you just nod your head, the reporter can't take down that response.",q,MS. FRARE,start_answer
+8,118,5,5,Yes.,a,THE WITNESS,start_question
+9,119,5,6,"Okay.  Also, if I ask you something you don't understand, please let me know.  Okay?  I'll try to rephrase the question or ask it another way.  Otherwise, I'll assume that you understand.  Okay?",q,MS. FRARE,start_answer
+10,123,5,10,Yes.,a,THE WITNESS,start_question
+11,124,5,11,"If for some reason you need to take a break, that shouldn't be a problem as long as there's not a pending question.  All right?",q,MS. FRARE,start_answer
+12,127,5,14,Yes.,a,THE WITNESS,start_question
+13,128,5,15,"Okay.  Now, what is your date of birth?",q,MS. FRARE,start_answer
+14,129,5,16,"February 12, 1987.",a,THE WITNESS,start_question
+15,130,5,17,And where were you born?,q,MS. FRARE,start_answer
+16,131,5,18,"I was born in eastern Europe, Bosnia.",a,THE WITNESS,start_question
+17,132,5,19,And when did you come to the United States?,q,MS. FRARE,start_answer
+18,133,5,20,November of 2003.,a,THE WITNESS,start_question
+19,134,5,21,"Now, do you have a social security number?",q,MS. FRARE,start_answer
+20,135,5,22,"Yes, I do.",a,THE WITNESS,start_question
+21,136,5,23,"Okay.  Just for the record, if you can tell me what that is; but she's only going to take down the last four digits.",q,MS. FRARE,start_answer
+22,140,6,1,Of course.  It's XXX-XX-2426.,a,THE WITNESS,start_question
+23,141,6,2,Okay.  And where do you live?,q,MS. FRARE,start_answer
+24,142,6,3,I live in Wethersfield.,a,THE WITNESS,start_question
+25,143,6,4,And what's your address?,q,MS. FRARE,start_answer
+26,144,6,5,"It's 21 McMullen, M-c-M-u-l-l-e-n, Avenue in Wethersfield, Connecticut 06109.",a,THE WITNESS,start_question
+27,146,6,7,Okay.  And who do you live with?,q,MS. FRARE,start_answer
+28,147,6,8,"I live with my husband, our three children, and my mother-in-law.",a,THE WITNESS,start_question
+29,149,6,10,Okay.  And what's your husband's name?,q,MS. FRARE,start_answer
+30,150,6,11,Sahman.  First name is spelled S-a-h-m-a-n.,a,THE WITNESS,start_question
+31,151,6,12,And same last name?,q,MS. FRARE,start_answer
+32,152,6,13,No.  I kept my maiden name.,a,THE WITNESS,start_question
+33,153,6,14,And what is his last name?,q,MS. FRARE,start_answer
+34,154,6,15,M-e-h-m-e-d-l-v-i-c.,a,THE WITNESS,start_question
+35,155,6,16,And how long have you been married?,q,MS. FRARE,start_answer
+36,156,6,17,"Since 2006, 13 years.",a,THE WITNESS,start_question
+37,157,6,18,That's 13 years ago.  Wow. How old are your children?,q,MS. FRARE,start_answer
+38,159,6,20,We have three.  Our oldest son is 12 and our younger son is 11 and we have a four-year-old daughter.,a,THE WITNESS,start_question
+39,161,6,22,And can you tell me your children's names?,q,MS. FRARE,start_answer
+40,162,6,23,"Our oldest is Sabl, S-a-b-l.  Our middle is Elmin, E-l-m-i-n.  And our daughter is Elmina, E-l-m-i-n-a.",a,THE WITNESS,start_question
+41,164,6,25,Okay.  And what's your mother-in-law's name?,q,MS. FRARE,start_answer
+42,166,7,1,"Raza, R-a-z-a.",a,THE WITNESS,start_question
+43,167,7,2,And same last name as your husband?,q,MS. FRARE,start_answer
+44,168,7,3,Correct.,a,THE WITNESS,start_question
+45,169,7,4,And how long have you resided at 21 McMullen Ave.?,q,MS. FRARE,start_answer
+46,170,7,5,Over seven years.,a,THE WITNESS,start_question
+47,171,7,6,And do you own that home?,q,MS. FRARE,start_answer
+48,172,7,7,Correct.,a,THE WITNESS,start_question
+49,173,7,8,"So at the time of this accident in 2017, is that where you were residing?",q,MS. FRARE,start_answer
+50,175,7,10,"Yes, ma'am.",a,THE WITNESS,start_question
+51,176,7,11,And can you tell me your highest level of education?,q,MS. FRARE,start_answer
+52,178,7,13,I am a medical assistant.  I graduated in end of 2013.,a,THE WITNESS,start_question
+53,180,7,15,And where did you graduate from?,q,MS. FRARE,start_answer
+54,181,7,16,"American Institute, formerly known as Fox Institute, in West Hartford.",a,THE WITNESS,start_question
+55,183,7,18,And did you obtain a degree?,q,MS. FRARE,start_answer
+56,184,7,19,I got my diploma and certifications.,a,THE WITNESS,start_question
+57,185,7,20,Any other formal education in the United States?,q,MS. FRARE,start_answer
+58,186,7,21,"Yes.  When I first came from Bosnia, I was a sophomore in high school; so I went to high school in Chicago.  That's where I lived.  I did come here my senior year, so I ended up not graduating from high school, but I did got my GED here in Connecticut.",a,THE WITNESS,start_question
+59,192,8,1,And when did you get your GED?,q,MS. FRARE,start_answer
+60,193,8,2,End of 2006.  I got married end of 2006.,a,THE WITNESS,start_question
+61,194,8,3,"Busy year, huh?",q,MS. FRARE,start_answer
+62,195,8,4,Yes.,a,THE WITNESS,start_question
+63,196,8,5,"Now, are you currently employed?",q,MS. FRARE,start_answer
+64,197,8,6,"Yes, ma'am.",a,THE WITNESS,start_question
+65,198,8,7,And where do you work?,q,MS. FRARE,start_answer
+66,199,8,8,Arrhythmia Consultants of Connecticut.,a,THE WITNESS,start_question
+67,200,8,9,And I'm sorry.  I missed the first part.,q,MS. FRARE,start_answer
+68,201,8,10,Arrhythmia.,a,THE WITNESS,start_question
+69,202,8,11,Arrhythmia Consultants of Connecticut?,q,MS. FRARE,start_answer
+70,203,8,12,Correct.,a,THE WITNESS,start_question
+71,204,8,13,And where is that located?,q,MS. FRARE,start_answer
+72,205,8,14,"That is part of Saint Francis.  It's located at Gengras Building, 1000 Asylum Avenue.",a,THE WITNESS,start_question
+73,207,8,16,Saint Francis Hospital?,q,MS. FRARE,start_answer
+74,208,8,17,Correct.,a,THE WITNESS,start_question
+75,209,8,18,Okay.  And how long have you worked there?,q,MS. FRARE,start_answer
+76,210,8,19,Since last year of August.,a,THE WITNESS,start_question
+77,211,8,20,So August of 2018?,q,MS. FRARE,start_answer
+78,212,8,21,Correct.,a,THE WITNESS,start_question
+79,213,8,22,And what do you do there?,q,MS. FRARE,start_answer
+80,214,8,23,"I was hired as a medical assistant, but I do more of administrative work.  I only do medical assisting once a day, usually Fridays.",a,THE WITNESS,start_question
+81,218,9,1,And what does that entail?,q,MS. FRARE,start_answer
+82,219,9,2,"So bringing in patients, rooming in patients, blood pressures, medication lists, echocardiograms, entering labs.",a,THE WITNESS,start_question
+83,222,9,5,Okay.  And are you working full-time?,q,MS. FRARE,start_answer
+84,223,9,6,Correct.,a,THE WITNESS,start_question
+85,224,9,7,Five days a week or something else?,q,MS. FRARE,start_answer
+86,225,9,8,"Yes.  8:30 till 5:00, Monday through Friday.",a,THE WITNESS,start_question
+87,226,9,9,And are you paid salary or hourly?,q,MS. FRARE,start_answer
+88,227,9,10,Hourly.,a,THE WITNESS,start_question
+89,228,9,11,And what do you make an hour?,q,MS. FRARE,start_answer
+90,229,9,12,17.50.,a,THE WITNESS,start_question
+91,230,9,13,"And prior to that, where did you work?",q,MS. FRARE,start_answer
+92,231,9,14,I worked at Pounds Medical Weight Loss.,a,THE WITNESS,start_question
+93,232,9,15,I'm sorry.  Uptown?,q,MS. FRARE,start_answer
+94,233,9,16,Pounds Medical.,a,THE WITNESS,start_question
+95,234,9,17,Pounds?,q,MS. FRARE,start_answer
+96,235,9,18,Yeah.,a,THE WITNESS,start_question
+97,236,9,19,And where is that located?,q,MS. FRARE,start_answer
+98,237,9,20,That's located on 125 Lasalle here in West Hartford.,a,THE WITNESS,start_question
+99,239,9,22,And how long did you work there?,q,MS. FRARE,start_answer
+100,240,9,23,I started working there 2014 until last year in August.,a,THE WITNESS,start_question
+101,242,9,25,When you took the other job?,q,MS. FRARE,start_answer
+102,244,10,1,Correct.,a,THE WITNESS,start_question
+103,245,10,2,And were you working as a medical assistant?,q,MS. FRARE,start_answer
+104,246,10,3,Correct.,a,THE WITNESS,start_question
+105,247,10,4,And were you working full-time?,q,MS. FRARE,start_answer
+106,248,10,5,"Yes, ma'am.",a,THE WITNESS,start_question
+107,249,10,6,Five days a week?,q,MS. FRARE,start_answer
+108,250,10,7,"Five, sometimes six.",a,THE WITNESS,start_question
+109,251,10,8,And about how many hours a week were you working?,q,MS. FRARE,start_answer
+110,252,10,9,"Anywhere between 38 to 45, depending if we had to work Saturdays.",a,THE WITNESS,start_question
+111,254,10,11,Okay.  And were you paid hourly or salary?,q,MS. FRARE,start_answer
+112,255,10,12,Correct.  Hourly.,a,THE WITNESS,start_question
+113,256,10,13,Okay.  And what were you making an hour?,q,MS. FRARE,start_answer
+114,257,10,14,17.50.  It's the same amount.,a,THE WITNESS,start_question
+115,258,10,15,Okay.  Is there a particular reason you switched jobs?,q,MS. FRARE,start_answer
+116,260,10,17,"Yes.  The reason I switched jobs, I couldn't perform as I did before, the volume of patients I would see a day.  And, first, I only did it for three days a week, and two days I would do front desk.  My boss worked with me to kind of alleviate it. Due to my issue with my shoulder and blood pressures and rooming in patients, I couldn't do as much; so they gave me two days to do front desk, which is registering patients, answering phone calls, scheduling, and so on.  But after number of months, I couldn't do it anymore; and I switched to Arrhythmia Consultants, which basically I do very much administrative and only a day of medical assisting.",a,THE WITNESS,start_question
+117,274,11,5,"Okay.  So your job at Pounds Medical, that required more patient interaction?",q,MS. FRARE,start_answer
+118,276,11,7,"Yes.  And they had more patients volumewise. They -- you know, I would see anywhere between 30 to 40 patients a day that I have to room in and make sure that they are ready for our providers and our dietitians.  So, you know, 30 blood pressures, 30 weights, 30 labs, 30 everything.  It became a lot for me, considering that I was in so much pain.  And it's a manual blood pressure, so you have to pump yourself all day long.",a,THE WITNESS,start_question
+119,284,11,15,So it wasn't the electrical one?,q,MS. FRARE,start_answer
+120,285,11,16,No.,a,THE WITNESS,start_question
+121,286,11,17,Okay.,q,MS. FRARE,start_answer
+122,287,11,18,This office also has the manual.  There is no machine.,a,THE WITNESS,start_question
+123,289,11,20,"Okay.  But at your old -- at Pounds Medical, you were seeing 30 to 40 patients every day?",q,MS. FRARE,start_answer
+124,291,11,22,"Every day.  That's a medical weight-loss clinic, so appointments are anywhere between 20 to 25 minutes.  And we had two doctors and three dietitians, full schedules every day.  So they all had full schedules.  So they all had -- you know, sometimes they would have ten patients a day each, and it was myself and the other medical assistant that had to bring all of them.  So she does half; I do half.",a,THE WITNESS,start_question
+125,299,12,4,"Okay.  Now, this new job that you have, how many patients a day are you seeing?",q,MS. FRARE,start_answer
+126,301,12,6,Much less.  About 10 to 12.  12 is like a busy day at Arrhythmia Consultants.,a,THE WITNESS,start_question
+127,303,12,8,"And now, at Pounds, you were -- before the accident -- at the time of the accident, before it happened, you were also doing administrative work?",q,MS. FRARE,start_answer
+128,306,12,11,"No.  This was couple of months after the accident because I would be in so much pain and I wouldn't be able to pump all day and to be bringing in patients.  So my boss at the time -- to alleviate it, she let me do two days of administrative, which is kind of -- it would help me with my hand.  Like, I would do medical assisting Monday, Wednesday, Friday.  So Tuesday and Thursday it would be kind of alleviation days between that.",a,THE WITNESS,start_question
+129,314,12,19,Okay.  So she tried to make accommodations?,q,MS. FRARE,start_answer
+130,315,12,20,I apologize.  I interrupted you. Yes.  She tried accommodating because I think I was a good employee and she wanted to keep me.,a,THE WITNESS,start_question
+131,318,12,23,Okay.  But then you switched positions.  And how is that working out?,q,MS. FRARE,start_answer
+132,320,12,25,"That is working out just fine.  I do mostly administrative, which is scheduling, which is obtaining records for the new patients, entering medications, making sure, you know, I collect co-pays, check-ins, check-outs, getting labs from Collaborative or Quest, so having pretty much all the paperwork ready before the patient comes.  And when the patient comes, you know, they check in.",a,THE WITNESS,start_question
+133,328,13,7,And a lot less patients?,q,MS. FRARE,start_answer
+134,329,13,8,"Many, many less patients.",a,THE WITNESS,start_question
+135,330,13,9,"Now, did you end up missing time from work at Pounds Medical because of the accident?",q,MS. FRARE,start_answer
+136,332,13,11,Not really.,a,THE WITNESS,start_chat
+137,333,13,12,Why don't we go off the record just for one second.,side_chat,MR. ABELS,is brackets
+138,335,13,14,"(Whereupon, a discussion was held off the record.)",brackets,,start_chat
+139,337,13,16,Back on the record.,side_chat,MS. FRARE,start_question
+140,339,13,18,"So, Ms. Ahmetovic, are you claiming lost wages related to this accident?",q,MS. FRARE,start_answer
+141,341,13,20,"No, ma'am.",a,THE WITNESS,start_question
+142,342,13,21,"Are you claiming any impairment to your ability to do your job other than what you've told us, that you were having trouble seeing so many patients?",q,MS. FRARE,start_answer
+143,345,13,24,"Yes.  I'm missing all the interaction I had with patients.  Actually, being at Pounds, I mean, I met a lot of people there.  And these are the patients that would come back constantly, I mean, to the point they knew about my children.  They asked about the pictures on the walls.  Some of them even knew when was my children's birthday because they would be there weekly, on a weekly basis.  And then that went down gradually, especially after being front desk. There is no interaction no more that I had in the room with them, which is actually having a conversation.",a,THE WITNESS,start_question
+144,356,14,9,So your job has changed?,q,MS. FRARE,start_answer
+145,357,14,10,"It has.  And I actually miss working for Pounds. It was -- I mean, it was the first job in medical assisting field, and I just loved being there.  I loved people coming there.",a,THE WITNESS,start_question
+146,361,14,14,"Now, your job at the other place, the Arrhythmia Consulting, are you able to perform your job there?",q,MS. FRARE,start_answer
+147,363,14,16,"Like I said, I only do it on Fridays.  So I only see patients on Fridays.  So I do see patients.  I do room in patients, but it's different.  It's different than what it used to be at my previous job.  My job here now, it's mostly behind a desk, phone calls, picking up pharmacy phone calls, patient phone calls, and stuff like that.",a,THE WITNESS,start_question
+148,369,14,22,Okay.  So you're able to perform your duties at this new position; correct?,q,MS. FRARE,start_answer
+149,371,14,24,"I am, ma'am.",a,THE WITNESS,start_question
+150,372,14,25,So back to the accident.  What's the exact date of the accident?,q,MS. FRARE,start_answer
+151,375,15,2,"Saint Patrick's Day.  March 17, 2017.",a,THE WITNESS,start_question
+152,376,15,3,And what time did the accident take place?,q,MS. FRARE,start_answer
+153,377,15,4,Late afternoon.,a,THE WITNESS,start_question
+154,378,15,5,And where did the accident take place?,q,MS. FRARE,start_answer
+155,379,15,6,On Berlin Turnpike.,a,THE WITNESS,start_question
+156,380,15,7,Was it near any cross streets or --,q,MS. FRARE,start_answer
+157,381,15,8,"I wouldn't be able to tell you about the cross streets, but I know the landmarks.  There is a gas station, and then there is, like, a plaza with a lot of stores and restaurants.  That's where we were going to, to Elaine's Restaurant.",a,THE WITNESS,start_question
+158,386,15,13,"So at the time of the accident, you were going to Elaine's Restaurant?",q,MS. FRARE,start_answer
+159,388,15,15,Correct.,a,THE WITNESS,start_question
+160,389,15,16,And where were you coming from?,q,MS. FRARE,start_answer
+161,390,15,17,We were coming from my house.,a,THE WITNESS,start_question
+162,391,15,18,And who were you with?,q,MS. FRARE,start_answer
+163,392,15,19,"I was with my sister-in-law, who was driving.  I had my daughter in the backseat, and a friend, Mirela.",a,THE WITNESS,start_question
+164,394,15,21,What's your sister-in-law's name?,q,MS. FRARE,start_answer
+165,395,15,22,Melissa.,a,THE WITNESS,start_question
+166,396,15,23,And her last name?,q,MS. FRARE,start_answer
+167,397,15,24,It's M-e-h-m-e-d-l-v-i-c.,a,THE WITNESS,start_question
+168,398,15,25,And what kind of vehicle were you in?,q,MS. FRARE,start_answer
+169,400,16,1,"That was Altima, black Altima, Nissan Altima.  No. Nissan Maxima.  I apologize.  I confused it.  It's a Maxima.",a,THE WITNESS,start_question
+170,402,16,3,And that was her vehicle?,q,MS. FRARE,start_answer
+171,403,16,4,"Yes, ma'am.",a,THE WITNESS,start_question
+172,404,16,5,Any problems with that vehicle that you were aware of before the accident?,q,MS. FRARE,start_answer
+173,406,16,7,"No, ma'am.  Not to my knowledge.",a,THE WITNESS,start_question
+174,407,16,8,Okay.  And where were you seated in the vehicle?,q,MS. FRARE,start_answer
+175,408,16,9,I was a passenger in front.,a,THE WITNESS,start_question
+176,409,16,10,And where was your daughter?,q,MS. FRARE,start_answer
+177,410,16,11,Behind me.  So on the right side backseat.,a,THE WITNESS,start_question
+178,411,16,12,And you said there was a friend?,q,MS. FRARE,start_answer
+179,412,16,13,Yes.,a,THE WITNESS,start_question
+180,413,16,14,And who was the friend?,q,MS. FRARE,start_answer
+181,414,16,15,"Mirela, M-i-r-e-l-a.  That's my sister-in-law's friend.",a,THE WITNESS,start_question
+182,416,16,17,And where was she seated?,q,MS. FRARE,start_answer
+183,417,16,18,"She was sitting next to my daughter, Lily.",a,THE WITNESS,start_question
+184,418,16,19,"Now, do you have a driver's license?",q,MS. FRARE,start_answer
+185,419,16,20,I do.,a,THE WITNESS,start_question
+186,420,16,21,Is it a Connecticut license?,q,MS. FRARE,start_answer
+187,421,16,22,"Yes, ma'am.",a,THE WITNESS,start_question
+188,422,16,23,And how long have you had that approximately?,q,MS. FRARE,start_answer
+189,423,16,24,"I don't know.  Maybe eight years, nine years.",a,THE WITNESS,start_question
+190,424,16,25,Okay.  Is there a particular reason you were going two Elaine's Restaurant?,q,MS. FRARE,start_answer
+191,427,17,2,Yes.  We were going to book it for my sister-in-law's birthday -- my sister-in-law's baby shower. She was seven months pregnant at the time.,a,THE WITNESS,start_question
+192,430,17,5,This is your sister-in-law that was driving the car?,q,MS. FRARE,start_answer
+193,432,17,7,Correct.,a,THE WITNESS,start_question
+194,433,17,8,"Okay.  Now, this accident, did it involve one other vehicle other than the vehicle you were in or more than one?",q,MS. FRARE,start_answer
+195,436,17,11,So us and the person that hit us.,a,THE WITNESS,start_question
+196,437,17,12,And what kind of vehicle was that?,q,MS. FRARE,start_answer
+197,438,17,13,Ours was Nissan Maxima.,a,THE WITNESS,start_question
+198,439,17,14,Right.  The other vehicle?,q,MS. FRARE,start_answer
+199,440,17,15,Black.,a,THE WITNESS,start_question
+200,441,17,16,Was it a car or an SUV?,q,MS. FRARE,start_answer
+201,442,17,17,A car.,a,THE WITNESS,start_question
+202,443,17,18,Do you know the make or model or the car?,q,MS. FRARE,start_answer
+203,444,17,19,"I think -- I think -- I know it was Dodge, but I don't know if it was Dodge Stratus or Dodge Charger.  I'm not sure between those two.",a,THE WITNESS,start_question
+204,447,17,22,Okay.  And did you notice this vehicle at all before the accident occurred?,q,MS. FRARE,start_answer
+205,449,17,24,"Absolutely not, ma'am.",a,THE WITNESS,start_question
+206,450,17,25,"And the vehicle you were in, was it moving or stopped at the time of the accident?",q,MS. FRARE,start_answer
+207,453,18,2,"So at the time of the accident, we were stopped, turning into -- trying to turn into the parking for Elaine's.",a,THE WITNESS,start_question
+208,456,18,5,So why don't you tell me what happened.,q,MS. FRARE,start_answer
+209,457,18,6,"So we were traveling down Berlin Turnpike.  So here is the gas station.  Here is Elaine's.  So Melissa was trying to turn in, and we were just talking.  And next thing you know, boom, and she was just like, ""We were just hit."" So when the collision happened, I don't know -- I just went flying forward.  And coming back, I hit the door. And I immediately -- I had my daughter in the back.  Like, I immediately, like, jumped back looking at Lily.  And I just had that feeling -- oh, my God.  Like, it seems like it's coming back.  But that feeling of not being able to breathe, like somebody has their hands on, like, your neck and kind of, like, pressing and you just can't. So I really had hard time in the car.  So I got out of the car and I felt -- I was just, like, gasping for air literally.  I don't know how to explain it.  It felt like somebody throws you in a pool and, like, you're under water and you're like (descriptive sound), that type of feeling. And then I don't know who called the cops.  I don't know was it Melissa.  I don't know was it the other guy.  Somebody called the cops.",a,THE WITNESS,start_question
+210,479,19,2,Okay.  So let me just get back to the accident.,q,MS. FRARE,start_answer
+211,480,19,3,Sorry.,a,THE WITNESS,start_question
+212,481,19,4,"No, no.  Thank you.  That's good. Berlin Turnpike, that was the road that you were traveling on; correct?",q,MS. FRARE,start_answer
+213,484,19,7,"Yes, ma'am.",a,THE WITNESS,start_question
+214,485,19,8,And is it a two-way road?,q,MS. FRARE,start_answer
+215,486,19,9,"No.  The direction we were going, it's one way. You have two lines -- two lanes to go that direction, and then there is the barrier.  That's for the opposite traffic.",a,THE WITNESS,start_question
+216,489,19,12,Okay.  So there is traffic that goes in the opposite way?,q,MS. FRARE,start_answer
+217,491,19,14,Mm-hmm.,a,THE WITNESS,start_question
+218,492,19,15,And there is a barrier in the middle?,q,MS. FRARE,start_answer
+219,493,19,16,"Yes, ma'am.",a,THE WITNESS,start_question
+220,494,19,17,"Okay.  In the direction you were headed, there were two traveling lanes?",q,MS. FRARE,start_answer
+221,496,19,19,Correct.,a,THE WITNESS,start_question
+222,497,19,20,And which lane were you in?,q,MS. FRARE,start_answer
+223,498,19,21,All the way to the right lane.,a,THE WITNESS,start_question
+224,499,19,22,And was Elaine's Restaurant to the right?,q,MS. FRARE,start_answer
+225,500,19,23,"Yes, ma'am.",a,THE WITNESS,start_question
+226,501,19,24,How long had you been in the right lane before the accident?,q,MS. FRARE,start_answer
+227,504,20,1,"Well, if I travel from my house, which is McMullen, you go up to Jordan Lane to where the Stop & Shop is and that's when -- Berlin Turnpike begins at that light. So we would need to turn left and keep going.  So there's a light there -- a couple of lights, at least three lights to Elaine's.",a,THE WITNESS,start_question
+228,510,20,7,Okay.  Can you estimate how far in terms of distance?,q,MS. FRARE,start_answer
+229,512,20,9,"I don't know if I really could in miles, but I would say at least 3 miles from where the Jordan Lane ends to, like, the beginning and all the way down the Berlin Turnpike.",a,THE WITNESS,start_question
+230,516,20,13,"Now, do you know if your sister-in-law had her blinker on to turn?",q,MS. FRARE,start_answer
+231,518,20,15,I -- yes.  That's definitely.,a,THE WITNESS,start_question
+232,519,20,16,And how do you know that?,q,MS. FRARE,start_answer
+233,520,20,17,I know this because she is a frantic person.,a,THE WITNESS,start_question
+234,521,20,18,Okay.,q,MS. FRARE,start_answer
+235,522,20,19,"When other people don't blink, she gets upset.  So trust me, she blinks.",a,THE WITNESS,start_question
+236,524,20,21,Okay.  So you're basing it on her personality and habits?,q,MS. FRARE,start_answer
+237,526,20,23,"And I've driven with her many, many other times.",a,THE WITNESS,start_question
+238,527,20,24,Okay.  Did you hear the blinker or --,q,MS. FRARE,start_answer
+239,528,20,25,No.  I haven't heard the blinker.,a,THE WITNESS,start_question
+240,530,21,1,Okay.  Do you have any idea how long the blinker was on before the accident?,q,MS. FRARE,start_answer
+241,532,21,3,Timewise?,a,THE WITNESS,start_question
+242,533,21,4,Yeah.,q,MS. FRARE,start_answer
+243,534,21,5,"I don't know.  I mean, we were going and then she started slowing down.  And then, like, when she was, like, stopped really to turn in, that's when the accident happened, so gotta be at least a minute -- at least a minute that she put her blinker on before actually stopping and, like, trying to go in.",a,THE WITNESS,start_question
+244,540,21,11,"All right.  And I know you said when the accident occurred, the vehicle was at a complete stop?",q,MS. FRARE,start_answer
+245,542,21,13,Absolutely.  We were stopped and -- but then boom. That's what happened.,a,THE WITNESS,start_question
+246,544,21,15,Can you estimate approximately how long the vehicle was at a complete stop?,q,MS. FRARE,start_answer
+247,546,21,17,I would say a couple of seconds.,a,THE WITNESS,start_question
+248,547,21,18,"And the manner in which she slowed down her vehicle, was that gradual or sudden?",q,MS. FRARE,start_answer
+249,549,21,20,"Gradual.  This is a seven-months-pregnant woman that looks three times before she walks to her car.  Trust me.  It was her first child.  We just wanted her to have this baby already, all of us.",a,THE WITNESS,start_question
+250,553,21,24,She was very cautious; right?,q,MS. FRARE,start_answer
+251,554,21,25,Yes.  You can say cautious.,a,THE WITNESS,start_question
+252,556,22,1,"Okay.  Now, what part of the vehicle you were in was impacted by this other vehicle?",q,MS. FRARE,start_answer
+253,558,22,3,"Back.  The bumper, the trunk area, the rear.",a,THE WITNESS,start_question
+254,559,22,4,"Could you say whether the impact to the back bumper -- was it to, like, the middle back or more towards the passenger side or the driver's side?",q,MS. FRARE,start_answer
+255,562,22,7,"I really can't say, but I think -- I think it was somewhere kind of in the middle, maybe to the -- more to the driver's side.",a,THE WITNESS,start_question
+256,565,22,10,"And when the impact occurred, was your vehicle straight or had it started to turn?  Was it at an angle?",q,MS. FRARE,start_answer
+257,567,22,12,"Straight.  It was straight because when we were hit, we were pushed in the entrance of the parking lot.",a,THE WITNESS,start_question
+258,569,22,14,So how far was your vehicle -- it was -- was it pushed forward or pushed to the side?,q,MS. FRARE,start_answer
+259,571,22,16,"Pushed -- pushed -- so this is the entry.  So we were trying to go in here.  And the way he hit, we were, like, pushed like that, in.",a,THE WITNESS,start_question
+260,574,22,19,So pushed --,q,MS. FRARE,start_answer
+261,575,22,20,So forward.,a,THE WITNESS,start_question
+262,576,22,21,And how far did the vehicle go after the impact?,q,MS. FRARE,start_answer
+263,577,22,22,Our vehicle or --,a,THE WITNESS,start_question
+264,578,22,23,Your vehicle.,q,MS. FRARE,start_answer
+265,579,22,24,Just into the parking.  We were pushed into the parking.,a,THE WITNESS,start_question
+266,582,23,1,"Okay.  In terms of inches, feet, something else, can you say how far the vehicle traveled after the impact?",q,MS. FRARE,start_answer
+267,584,23,3,"Maybe from here to that wall.  Like, not -- I don't know.  What's that?  Maybe 5 feet, 6 feet.  I don't know what that is.",a,THE WITNESS,start_question
+268,587,23,6,Sounds about right.  About approximately 5 to 6 feet; correct?,q,MS. FRARE,start_answer
+269,589,23,8,"Yes, ma'am.",a,THE WITNESS,start_question
+270,590,23,9,"Now, this other vehicle, what part of this vehicle had contact with yours?",q,MS. FRARE,start_answer
+271,592,23,11,"The front.  The gentleman, like, went in our rear but hit his front.",a,THE WITNESS,start_question
+272,594,23,13,"Okay.  Now, before -- was it -- I'm sorry.  Was it just one impact?",q,MS. FRARE,start_answer
+273,596,23,15,"Mm-hmm.  Yes, ma'am.",a,THE WITNESS,start_question
+274,597,23,16,"And how would you describe this impact, the force of the impact?",q,MS. FRARE,start_answer
+275,599,23,18,"We're talking, you know, just talking, and then you hear (descriptive sound) kind of just out of nowhere. It felt like something, like, just jumped out of you -- I mean jumped out of me type of feeling, you know, when this big noise just, like, boom.  It's, like, this collision out of absolutely nowhere.",a,THE WITNESS,start_question
+276,605,23,24,So there was nothing that led you to anticipate this happening?,q,MS. FRARE,start_answer
+277,608,24,1,"Absolutely not, ma'am.  Not at all.",a,THE WITNESS,start_question
+278,609,24,2,"Okay.  Now, were you wearing your seat belt at the time of the accident?",q,MS. FRARE,start_answer
+279,611,24,4,"Yes, I have.",a,THE WITNESS,start_question
+280,612,24,5,And was this seat belt the kind that goes across your chest and across your waist?,q,MS. FRARE,start_answer
+281,614,24,7,Yes.  Like this.,a,THE WITNESS,start_question
+282,615,24,8,"Now, was the vehicle equipped with airbags?  Do you know?",q,MS. FRARE,start_answer
+283,617,24,10,"I'm sure it was.  But, like, they didn't break.",a,THE WITNESS,start_question
+284,618,24,11,Okay.  They didn't go off?,q,MS. FRARE,start_answer
+285,619,24,12,No.,a,THE WITNESS,start_question
+286,620,24,13,"And as best you can -- I know you told me a little already, but can you describe what happened to your body when the impact occurred?",q,MS. FRARE,start_answer
+287,623,24,16,"So like I said, out of nowhere we get hit and I went flying to the dashboard and coming back.  Like, it just felt like matter of seconds that it happened, like forward, boom, like this.  And then right away I'm thinking baby is in the back, so I right away, like, go to look to the back. Like, where is she?  Like, what's going on?  That's the best I can demonstrate.",a,THE WITNESS,start_question
+288,630,24,23,"That's very good. So when you go forward, do you brace yourself against the dashboard?",q,MS. FRARE,start_answer
+289,634,25,1,"No.  I actually -- I actually -- I don't think I even figured to brace myself.  I hit -- I kind of hit with my chest, like, going like that.  I kind of, like, jumped and then back.  And, like, when coming back, like, this is the door and the window on the car.  Like, I hit with my shoulder and my right side.",a,THE WITNESS,start_question
+290,640,25,7,Right side?  Right shoulder?,q,MS. FRARE,start_answer
+291,641,25,8,"Yes, ma'am.  And then I turned and I was like Lily, you know.  She was like 20 months at the time.",a,THE WITNESS,start_question
+292,643,25,10,"Okay.  And so your right shoulder and right side, did that hit the window or the frame of the door?",q,MS. FRARE,start_answer
+293,645,25,12,"That hit both.  That hit the window and, you know, where you put your hand, where you can -- that part of the door where you can have the hand.",a,THE WITNESS,start_question
+294,648,25,15,The armrest?,q,MS. FRARE,start_answer
+295,649,25,16,Yes.,a,THE WITNESS,start_question
+296,650,25,17,So you hit that.  Okay.  And the dashboard?  You said your chest hit the dashboard?,q,MS. FRARE,start_answer
+297,652,25,19,I went forward in that dashboard.,a,THE WITNESS,start_question
+298,653,25,20,Okay.  And then immediately you turned towards your left to check on your daughter?,q,MS. FRARE,start_answer
+299,655,25,22,Correct.  Immediately I swang (ph) left to look at her and see what's going on with her.,a,THE WITNESS,start_question
+300,657,25,24,Did you take your seat belt off at that time?,q,MS. FRARE,start_answer
+301,658,25,25,"At that time, no.  But then, like, immediately right after I took it off and I was, like, trying -- I was actually trying to climb between the two seats to climb in the back because at this point I actually wasn't even thinking that anything happened to me.  I'm thinking she's in the back.  Like, she's in the car seat.  Like, I need to get to her.  But surprisingly, like, nothing happened to her, thank God.",a,THE WITNESS,start_question
+302,667,26,8,"I was going to ask you.  Yeah, thank God.  20 months.  Was she in a car seat?",q,MS. FRARE,start_answer
+303,669,26,10,Correct.  With the harness.,a,THE WITNESS,start_question
+304,670,26,11,And she was okay?  No injuries?,q,MS. FRARE,start_answer
+305,671,26,12,She was okay.  No injuries.  Not a scratch.,a,THE WITNESS,start_question
+306,672,26,13,Thank God.,q,MS. FRARE,start_answer
+307,673,26,14,"Thank God, yes.",a,THE WITNESS,start_question
+308,674,26,15,"Now, you said -- did you immediately get out of the car?",q,MS. FRARE,start_answer
+309,676,26,17,"So not immediately.  Like I said, I was trying to get in the back to Lily.  And then I just had that feeling of, like, somebody is -- feeling like somebody is almost choking me.  I felt I couldn't breathe in there.  I felt like I'm just gasping for air and nothing is happening, so I got out.  I opened my door and I got out.  I was trying to catch my breath, and I was trying to catch my breath.  I opened her door and, like, I'm unbuckling everything, picking her up, twisting her, turning her.  She's just fine. I mean, she --",a,THE WITNESS,start_question
+310,687,27,2,Was she upset?,q,MS. FRARE,start_answer
+311,688,27,3,"I don't know if she was asleep when it happened. Like, I don't understand, but she was absolutely calm. Like, she wasn't crying.  She was just like, okay, mom.  So I sit her back down because I still had that feeling of not being able to breathe correctly.  My sister-in-law was just sitting in her seat.  And I was like, ""Are you okay?  What's going on?  Are you fine?"" She was on the phone.  I don't even know.  I think she was on the phone with the police.  She was like, ""Okay, okay, just calm down."" And next thing you know in a little bit -- I didn't go back in the car, but next thing you know, the police officer pulled in.",a,THE WITNESS,start_question
+312,701,27,16,So how long did it take for the police to get there?,q,MS. FRARE,start_answer
+313,703,27,18,At least a good 15 minutes.,a,THE WITNESS,start_question
+314,704,27,19,Okay.  And what did you do during the 15 minutes?,q,MS. FRARE,start_answer
+315,705,27,20,"Outside.  I was just trying to breathe, to be honest with you.  And at that point I'm like I understand I'm scared.  Like, I know I just got frightened, but I just couldn't calm myself.  I don't know if I'm explaining this correctly.  But I just couldn't get rid of that feeling that somebody is, like, almost choking me and I cannot breathe.",a,THE WITNESS,start_question
+316,712,28,1,Okay.,q,MS. FRARE,start_answer
+317,713,28,2,"So I don't know if I was having an anxiety attack or whatever was going on, but I just couldn't shake it off.",a,THE WITNESS,start_question
+318,715,28,4,"And how long did that last, that feeling of not being able to breathe?",q,MS. FRARE,start_answer
+319,717,28,6,"It felt forever, honest to God.  It felt forever. But, I mean, even when the police got there, I had a hard time.  I kept holding myself because I felt like if I keep doing this, it gets better.  But I don't know.  At least 15 minutes.",a,THE WITNESS,start_question
+320,722,28,11,"Okay.  So when the police got there, was this feeling a little bit better or --",q,MS. FRARE,start_answer
+321,724,28,13,"A little bit better, but not gone, absolutely not gone.  I think I was just in shock, too.  I mean, I think everything kind of bunched in together, so I just couldn't calm down.",a,THE WITNESS,start_question
+322,728,28,17,Did anyone help you?,q,MS. FRARE,start_answer
+323,729,28,18,"No.  I think they were all shocked.  My sister-in-law did not move from her car.  Mirela was just sitting there, and Lily -- you know, she was in her car seat and that's it.  And then the police officer came, and he took -- when the police officer came, that's when the gentleman that hit us -- that's when he came over.",a,THE WITNESS,start_question
+324,735,28,24,Did he come over at all within the 15 minutes?,q,MS. FRARE,start_answer
+325,736,28,25,No.  He came over to the window after the police showed up.  That's when he came.,a,THE WITNESS,start_question
+326,739,29,2,Can you describe him?,q,MS. FRARE,start_answer
+327,740,29,3,"Nice looking.  He was on, like, a skinnier side, definitely blond, short haircut.",a,THE WITNESS,start_question
+328,742,29,5,White man?,q,MS. FRARE,start_answer
+329,743,29,6,White man definitely.,a,THE WITNESS,start_question
+330,744,29,7,How old?,q,MS. FRARE,start_answer
+331,745,29,8,"I would say -- I don't know.  I didn't take, like, the best glance of him; but I would say early thirties, not more than that, because he did not look old.",a,THE WITNESS,start_question
+332,748,29,11,And do you know what he was doing during the 15 minutes before the police arrived?,q,MS. FRARE,start_answer
+333,750,29,13,Yes.  He kept walking frantically around his car and he looked upset looking at his car and then he had the kids.  He took the kids at one point from the car and put them back in the car.,a,THE WITNESS,start_question
+334,754,29,17,Did he have kids in his car?,q,MS. FRARE,start_answer
+335,755,29,18,He had three kids.,a,THE WITNESS,start_question
+336,756,29,19,How old were the kids?,q,MS. FRARE,start_answer
+337,757,29,20,"I don't know.  Maybe my son's age at the time. Maybe like 9, 10, 8, like in that range.  They were not small, small children.",a,THE WITNESS,start_question
+338,760,29,23,Okay.  And you saw him take the kids out of the car?,q,MS. FRARE,start_answer
+339,762,29,25,"Yeah.  The kids.  He opened the door for the kids. He opened the door for the kids, and all three came out and went back in.  I believe it was a boy and two girls, but I'm not absolutely sure.",a,THE WITNESS,start_question
+340,767,30,4,"Okay.  Is it fair to say that before the police arrived, he was tending to his kids?",q,MS. FRARE,start_answer
+341,769,30,6,"Well, he was tending more to his car, to be honest with you, because that's where he was looking.  He was looking at the front of his car and kind of, like, looking kind of under and his grille area.  He was looking at that a lot.",a,THE WITNESS,start_question
+342,774,30,11,"Okay.  Now, your sister-in-law, did she sustain any injury in this accident?",q,MS. FRARE,start_answer
+343,776,30,13,"Yes.  So that night she did go to ER to get herself checked out because she was pregnant, but the back -- she's still having issues with that, back pain. That's all I know of.",a,THE WITNESS,start_question
+344,780,30,17,Did she make a claim related to this accident?  Do you know?,q,MS. FRARE,start_answer
+345,782,30,19,Yes.,a,THE WITNESS,start_question
+346,783,30,20,Okay.  Does she have a lawsuit pending?,q,MS. FRARE,start_answer
+347,784,30,21,I am not sure of that.  I know she does have a lawyer.,a,THE WITNESS,start_question
+348,786,30,23,Do you happen to know who her lawyer is?,q,MS. FRARE,start_answer
+349,787,30,24,No.,a,THE WITNESS,start_question
+350,788,30,25,Okay.  Just if you know. And what about the passenger in the car?  Did she sustain any injury?,q,MS. FRARE,start_answer
+351,792,31,3,"Mirela, no.  She never said that she -- anything. She never said that she hurts at all, and she never started any sort of claim.",a,THE WITNESS,start_question
+352,795,31,6,"Okay.  Now, immediately after the accident -- and I know you described that feeling of not being able to breathe and all of that.  Other than that feeling, were you feeling any pain or aware of any injury immediately after?",q,MS. FRARE,start_answer
+353,799,31,10,"Immediately after, I felt sharp pain in my chest. That was through the time that I felt I can't breathe.  And, like, I felt, like, sharp pains coming through my chest; but besides that, no.",a,THE WITNESS,start_question
+354,803,31,14,"Okay.  And at any point after the accident, did you have any visible injury?",q,MS. FRARE,start_answer
+355,805,31,16,Visible?  What do you mean?,a,THE WITNESS,start_question
+356,806,31,17,Let me ask it a different way.  Were you bleeding from any part of your body?,q,MS. FRARE,start_answer
+357,808,31,19,"No, ma'am.",a,THE WITNESS,start_question
+358,809,31,20,Did you develop any bruising?,q,MS. FRARE,start_answer
+359,810,31,21,"No, ma'am.",a,THE WITNESS,start_question
+360,811,31,22,Any red marks like from the seat belt or anything?,q,MS. FRARE,start_answer
+361,812,31,23,"Just here, but not all the way, but just here. But that was probably because I went forward and that's where it stretched to.",a,THE WITNESS,start_question
+362,816,32,1,Okay.,q,MS. FRARE,start_answer
+363,817,32,2,But nothing big.,a,THE WITNESS,start_question
+364,818,32,3,"So just for the record, you're pointing to your right shoulder area?",q,MS. FRARE,start_answer
+365,820,32,5,Yes.,a,THE WITNESS,start_question
+366,821,32,6,Okay.  And what was there?,q,MS. FRARE,start_answer
+367,822,32,7,That was the line of the seat belt.,a,THE WITNESS,start_question
+368,823,32,8,Like a red mark?,q,MS. FRARE,start_answer
+369,824,32,9,"Yes, ma'am.  It didn't stick around.  It went away.",a,THE WITNESS,start_question
+370,826,32,11,Any medical treatment for that?,q,MS. FRARE,start_answer
+371,827,32,12,"For the mark, no.  I'm sorry.",a,THE WITNESS,start_question
+372,828,32,13,"No, no, no.  Silly question.  I'm just trying to get my report here.",q,MS. FRARE,start_chat
+373,830,32,15,Off the record.,side_chat,MR. ABELS,is brackets
+374,831,32,16,"(Whereupon, a discussion was held off the record.)",brackets,,start_chat
+375,833,32,18,Back on the record.,side_chat,MS. FRARE,start_question
+376,835,32,20,Any swelling to any part of your body related to the accident?,q,MS. FRARE,start_answer
+377,837,32,22,"Yes, ma'am.",a,THE WITNESS,start_question
+378,838,32,23,What's that?,q,MS. FRARE,start_answer
+379,839,32,24,"The whole right side here, my neck here, my back.",a,THE WITNESS,start_question
+380,840,32,25,And that actually swelled?,q,MS. FRARE,start_answer
+381,842,33,1,That actually was swollen for -- this part right here was swollen for weeks.,a,THE WITNESS,start_question
+382,844,33,3,Between your neck and your shoulder on the right side?,q,MS. FRARE,start_answer
+383,846,33,5,Yes.,a,THE WITNESS,start_question
+384,847,33,6,And your back?  What part of your back?,q,MS. FRARE,start_answer
+385,848,33,7,What do you call this?  The trapezius?  This whole side was swollen.,a,THE WITNESS,start_question
+386,850,33,9,Your upper back?,q,MS. FRARE,start_answer
+387,851,33,10,"Yes, ma'am.",a,THE WITNESS,start_question
+388,852,33,11,Any other part of your body?,q,MS. FRARE,start_answer
+389,853,33,12,That was hurting or that was swollen?,a,THE WITNESS,start_question
+390,854,33,13,I'm asking swollen.,q,MS. FRARE,start_answer
+391,855,33,14,No.,a,THE WITNESS,start_question
+392,856,33,15,"Now, did you speak to the police officer?",q,MS. FRARE,start_answer
+393,857,33,16,Yes.,a,THE WITNESS,start_question
+394,858,33,17,And can you tell me the sum and substance of what was said with the police officer?,q,MS. FRARE,start_answer
+395,860,33,19,"He asked us for our documentation, which we gave. He also asked me -- because I was in distress, he asked me if I wanted to go to the hospital.",a,THE WITNESS,start_question
+396,863,33,22,What did you say?,q,MS. FRARE,start_answer
+397,864,33,23,"I was just out of it.  I was like, ""No, no.  I'm good.  I'm good.  I just can't breathe."" And I don't know what else.  He told us to wait in the car.",a,THE WITNESS,start_question
+398,869,34,2,Okay.  So he asked if you wanted to go to the hospital?,q,MS. FRARE,start_answer
+399,871,34,4,Mm-hmm.,a,THE WITNESS,start_question
+400,872,34,5,And you declined medical attention?,q,MS. FRARE,start_answer
+401,873,34,6,Yes.,a,THE WITNESS,start_question
+402,874,34,7,Is there a reason?,q,MS. FRARE,start_answer
+403,875,34,8,"I just didn't -- didn't feel like I was hurt, like I had injuries, to be honest with you.",a,THE WITNESS,start_question
+404,877,34,10,Okay.  Any witnesses to the accident other than the occupants of the vehicle?,q,MS. FRARE,start_answer
+405,879,34,12,Not that I know.,a,THE WITNESS,start_question
+406,880,34,13,Any photographs of the accident scene or the vehicles involved?,q,MS. FRARE,start_answer
+407,882,34,15,Not on my part.,a,THE WITNESS,start_question
+408,883,34,16,"Now, was there damage to the vehicle that you were in?",q,MS. FRARE,start_answer
+409,885,34,18,Mm-hmm.  Yes.,a,THE WITNESS,start_question
+410,886,34,19,Can you describe that damage?,q,MS. FRARE,start_answer
+411,887,34,20,"Well, the bumper area was hit with, like, visible damage and the trunk area.",a,THE WITNESS,start_question
+412,889,34,22,"Now, visible damage, was it denting or scratched?",q,MS. FRARE,start_answer
+413,890,34,23,Like denting.,a,THE WITNESS,start_question
+414,891,34,24,Can you just describe what you recall as far as the damage?,q,MS. FRARE,start_answer
+415,894,35,1,"Like going in, like bent in.",a,THE WITNESS,start_question
+416,895,35,2,Okay.  And what about the other vehicle?,q,MS. FRARE,start_answer
+417,896,35,3,"His front.  Like I mentioned before, his front was in damage.",a,THE WITNESS,start_question
+418,898,35,5,And was that dented and pushed in?,q,MS. FRARE,start_answer
+419,899,35,6,"No.  I don't know.  I feel like that was, like, broken.  I didn't go over.  But from the way it looked and the way he was, like, going around it, I felt like that was damaged a lot.",a,THE WITNESS,is brackets
+420,903,35,10,"(Whereupon, a discussion was held off the record.)",brackets,,is brackets
+421,905,35,12,(Exhibit 1 was marked for identification.),brackets,,is brackets
+422,906,35,13,(Exhibit 2 was marked for identification.),brackets,,is brackets
+423,907,35,14,(Exhibit 3 was marked for identification.),brackets,,start_question
+424,909,35,16,"If you just take a minute and look at those three pages, what's been marked as Defendant's 1, 2, and 3.",q,MS. FRARE,start_answer
+425,911,35,18,(Witness complies.),a,THE WITNESS,start_question
+426,912,35,19,Do you recognize what's shown in those three photos?,q,MS. FRARE,start_answer
+427,914,35,21,Yes.  That's Melissa's car.,a,THE WITNESS,start_question
+428,915,35,22,And let's take Defendant's Exhibit 1.  Is that photo of the back of Melissa's car?,q,MS. FRARE,start_answer
+429,917,35,24,Mm-hmm.  Yes.,a,THE WITNESS,start_question
+430,918,35,25,Do you know who took the photos?,q,MS. FRARE,start_answer
+431,920,36,1,No.,a,THE WITNESS,start_question
+432,921,36,2,Have you ever seen these photos before?,q,MS. FRARE,start_answer
+433,922,36,3,No.,a,THE WITNESS,start_question
+434,923,36,4,Is there any damage shown in Defendant's 1 there?,q,MS. FRARE,start_answer
+435,924,36,5,Yes.,a,THE WITNESS,start_question
+436,925,36,6,Can you just describe the damage for the record?,q,MS. FRARE,start_answer
+437,926,36,7,"So it's white.  It's scratched up.  I don't know if I -- I don't know if I'm seeing it correctly, but I feel like that's a dent.",a,THE WITNESS,start_question
+438,929,36,10,A little dent on what would be the driver's side of that vehicle on the back?,q,MS. FRARE,start_answer
+439,931,36,12,"Yes, ma'am.",a,THE WITNESS,start_question
+440,932,36,13,And let's take Defendant's 2.  Is that also showing the back of Melissa's car?,q,MS. FRARE,start_answer
+441,934,36,15,Yes.,a,THE WITNESS,start_question
+442,935,36,16,"And Defendant's 3, is that a closer-up picture of the back bumper of the car?",q,MS. FRARE,start_answer
+443,937,36,18,Yes.  That is a closer picture than these.,a,THE WITNESS,start_question
+444,938,36,19,Okay.  Do these three pictures fairly and accurately show the way the back of Melissa's car looked after the accident?,q,MS. FRARE,start_answer
+445,941,36,22,Yes.,a,THE WITNESS,start_question
+446,942,36,23,Is there any damage that you recall that's not shown in those three photos?,q,MS. FRARE,start_answer
+447,944,36,25,"Not that I recall, ma'am, no.",a,THE WITNESS,start_question
+448,946,37,1,And there was no damage to the side of the vehicle or the front; correct?,q,MS. FRARE,start_answer
+449,948,37,3,"No, ma'am.",a,THE WITNESS,start_question
+450,949,37,4,"Now, how did you leave the accident scene?",q,MS. FRARE,start_answer
+451,950,37,5,In that car.,a,THE WITNESS,start_question
+452,951,37,6,Okay.  Any -- was there any problems driving that vehicle?  Do you know?,q,MS. FRARE,start_answer
+453,953,37,8,Nothing she said.,a,THE WITNESS,start_question
+454,954,37,9,Did she get the vehicle repaired?,q,MS. FRARE,start_answer
+455,955,37,10,She sold the vehicle.,a,THE WITNESS,start_question
+456,956,37,11,And when did she sell it in relation to the accident?,q,MS. FRARE,start_answer
+457,958,37,13,"Shortly after.  So the accident happened in March. She had Bella beginning of May, first week of May.  She had already sold the car, because she had a different car.",a,THE WITNESS,start_question
+458,961,37,16,Did she sell it because of the accident?,q,MS. FRARE,start_answer
+459,962,37,17,I believe so.  I'm not absolutely sure.,a,THE WITNESS,start_question
+460,963,37,18,Okay.,q,MS. FRARE,start_answer
+461,964,37,19,"She felt like it wasn't safe anymore, so she gave it up and got a new car.",a,THE WITNESS,start_question
+462,966,37,21,Okay.  But you were able to drive in it leaving the accident?,q,MS. FRARE,start_answer
+463,968,37,23,"Yes, ma'am.",a,THE WITNESS,start_question
+464,969,37,24,Okay.  Did you go to Elaine's Restaurant?,q,MS. FRARE,start_answer
+465,970,37,25,"No.  No.  That was a mess.  But we did call, and we explained what happened because we had a scheduled appointment for this baby shower.  And I was the one doing it for her, so the deposit is under my name and everything. So Elaine's Restaurant happened later.  I kind of just went in, gave my debit card -- not the same day, but a couple days after went in, gave my debit card, and, you know, put the deposit in and said how many people.  But believe it or not, the best part is she ended up having the baby the day of the baby shower, so there was never a baby shower.  So all the decorations, cake, everything kind of went down the road.  And I didn't get my deposit back.",a,THE WITNESS,start_question
+466,983,38,12,"And I just want to be clear.  So the day of this accident, you were looking at the restaurant?",q,MS. FRARE,start_answer
+467,985,38,14,"We were going to pay up for the deposit because we already agreed on everything online.  They have a website, and then you pick -- you pick what you want for drinks, you pick what you want for food, and it's kind of like a price per person.  So you can get a drink, they get food, and you get their room, their back room, where they, like, make everything.  And then it's, like, a certain price after you tell them how many people.",a,THE WITNESS,start_question
+468,993,38,22,Okay.  So the baby shower wasn't the day of the accident?,q,MS. FRARE,start_answer
+469,995,38,24,"No, no, no, it wasn't.",a,THE WITNESS,start_question
+470,996,38,25,And where did you go after the accident?,q,MS. FRARE,start_answer
+471,998,39,1,Home.,a,THE WITNESS,start_question
+472,999,39,2,And when did you first seek medical attention?,q,MS. FRARE,start_answer
+473,1000,39,3,The next morning.  It was a Saturday.,a,THE WITNESS,start_question
+474,1001,39,4,Did you bring your daughter in to have any kind of medical attention?,q,MS. FRARE,start_answer
+475,1003,39,6,"I called her pediatrician, and she wanted me to bring her in.  I brought her in, but she had no visible -- nothing wrong with her.",a,THE WITNESS,start_question
+476,1006,39,9,And when did you bring your daughter in?,q,MS. FRARE,start_answer
+477,1007,39,10,That Monday.,a,THE WITNESS,start_question
+478,1008,39,11,What day of the week did the accident happen?,q,MS. FRARE,start_answer
+479,1009,39,12,It was Friday.,a,THE WITNESS,start_question
+480,1010,39,13,"So the next day, Saturday --",q,MS. FRARE,start_answer
+481,1011,39,14,Correct.,a,THE WITNESS,start_question
+482,1012,39,15,-- is that when you first sought medical attention?,q,MS. FRARE,start_answer
+483,1014,39,17,"Yes, ma'am.",a,THE WITNESS,start_question
+484,1015,39,18,And where did you go?,q,MS. FRARE,start_answer
+485,1016,39,19,I went to Kathy's Urgent Care.,a,THE WITNESS,start_question
+486,1017,39,20,Had you ever been there before?,q,MS. FRARE,start_answer
+487,1018,39,21,No.  I brought relatives there before.,a,THE WITNESS,start_question
+488,1019,39,22,"And when you went there the next day, what were your complaints at the time?",q,MS. FRARE,start_answer
+489,1021,39,24,"I'm dying.  I was sore all over.  Like, I felt like I couldn't get up.  I was hurting everywhere.",a,THE WITNESS,start_question
+490,1024,40,1,Okay.,q,MS. FRARE,start_answer
+491,1025,40,2,"So they -- you know, I told them that I'm here, I got in a car accident yesterday, and I'm hurting.  So they took a couple of X-rays, said I didn't break anything.  They said I was just probably sore from the impact.  I was sent home on muscle relaxers and ibuprofen.",a,THE WITNESS,start_question
+492,1030,40,7,Okay.  Were you making complaints of pain to any specific area?,q,MS. FRARE,start_answer
+493,1032,40,9,"Yes.  So my head, back of my head was hurting, my neck, and this whole right side.  And then I had a pain in my lower back, like right in the middle, that's like traveling to outside of my back.  I felt I couldn't sit.  I felt I couldn't lay down type of pain.",a,THE WITNESS,start_question
+494,1037,40,14,And this is that next day?,q,MS. FRARE,start_answer
+495,1038,40,15,"This is Saturday, correct.",a,THE WITNESS,start_question
+496,1039,40,16,"All right.  So the pain in your lower back, it traveled down?  It radiated?",q,MS. FRARE,start_answer
+497,1041,40,18,"Yes, ma'am.",a,THE WITNESS,start_question
+498,1042,40,19,To what part of your body?,q,MS. FRARE,start_answer
+499,1043,40,20,Just in my lower back and just to the sides of the back.,a,THE WITNESS,start_question
+500,1045,40,22,Not down your legs?,q,MS. FRARE,start_answer
+501,1046,40,23,"No.  I had a lot of tingling to my legs, but no pain.",a,THE WITNESS,start_question
+502,1048,40,25,Okay.  Tingling to what part of your leg?,q,MS. FRARE,start_answer
+503,1050,41,1,Going down to my feet.,a,THE WITNESS,start_question
+504,1051,41,2,In the front of your legs or side or back?,q,MS. FRARE,start_answer
+505,1052,41,3,"The side of my leg, going down to my foot.",a,THE WITNESS,start_question
+506,1053,41,4,Your right leg?,q,MS. FRARE,start_answer
+507,1054,41,5,Yes.,a,THE WITNESS,start_question
+508,1055,41,6,Not your left leg; correct?,q,MS. FRARE,start_answer
+509,1056,41,7,"No.  Left side, surprisingly, is fine.",a,THE WITNESS,start_question
+510,1057,41,8,And what part of your body did they take the X-rays?,q,MS. FRARE,start_answer
+511,1059,41,10,"Up here.  The back, the shoulder, the neck.",a,THE WITNESS,start_question
+512,1060,41,11,Your neck and your right shoulder?,q,MS. FRARE,start_answer
+513,1061,41,12,Mm-hmm.,a,THE WITNESS,start_question
+514,1062,41,13,Did they prescribe medication?,q,MS. FRARE,start_answer
+515,1063,41,14,"They gave me muscle relaxer, and they gave me ibuprofen for pain.",a,THE WITNESS,start_question
+516,1065,41,16,And how long did you take the muscle relaxer?,q,MS. FRARE,start_answer
+517,1066,41,17,For as long as I had it.,a,THE WITNESS,start_question
+518,1067,41,18,Was that days?,q,MS. FRARE,start_answer
+519,1068,41,19,"I think that's -- they give you a week.  So it's three a day, every eight hours.",a,THE WITNESS,start_question
+520,1070,41,21,"And you took that, three a day for a week?",q,MS. FRARE,start_answer
+521,1071,41,22,"Yes, ma'am.  And ibuprofen, two.",a,THE WITNESS,start_question
+522,1072,41,23,A day?,q,MS. FRARE,start_answer
+523,1073,41,24,Mm-hmm.,a,THE WITNESS,start_question
+524,1074,41,25,And how long did you take that?,q,MS. FRARE,start_answer
+525,1076,42,1,"For as long as I had the prescription.  So I don't know what they gave me.  I don't know if they gave me a week or a month's supply, but I took that till the end.",a,THE WITNESS,start_question
+526,1079,42,4,And did you go back to Kathy's Urgent Care at all for injuries related to the accident?,q,MS. FRARE,start_answer
+527,1081,42,6,"No, ma'am.",a,THE WITNESS,start_question
+528,1082,42,7,And did you go somewhere else for medical attention?,q,MS. FRARE,start_answer
+529,1084,42,9,"Yes, ma'am.",a,THE WITNESS,start_question
+530,1085,42,10,And where was that?,q,MS. FRARE,start_answer
+531,1086,42,11,I started going to the physical therapy on Franklin Avenue.,a,THE WITNESS,start_question
+532,1088,42,13,Do you know the name of that?,q,MS. FRARE,start_answer
+533,1089,42,14,Physicians.,a,THE WITNESS,start_question
+534,1090,42,15,Is it Hartford --,q,MS. FRARE,start_answer
+535,1091,42,16,"Hartford Physicians or Hartford Physical.  I'm not sure the name, but I -- the reason why I know of that place is my mother-in-law used to go there.",a,THE WITNESS,start_question
+536,1094,42,19,Had you ever gone for treatment there before the accident?,q,MS. FRARE,start_answer
+537,1096,42,21,"No, ma'am.",a,THE WITNESS,start_question
+538,1097,42,22,"Did any doctor recommend you go there, or you just decided to go?",q,MS. FRARE,start_answer
+539,1099,42,24,I just went there.,a,THE WITNESS,start_question
+540,1100,42,25,And when did you go?,q,MS. FRARE,start_answer
+541,1102,43,1,"April.  Shortly after.  I don't know which day exactly, but shortly after.",a,THE WITNESS,start_question
+542,1104,43,3,"From the records I have, it's April 7, 2017.  Does that sound right?",q,MS. FRARE,start_answer
+543,1106,43,5,Yes.  Beginning of April.,a,THE WITNESS,start_question
+544,1107,43,6,And how long did you go for?,q,MS. FRARE,start_answer
+545,1108,43,7,"So I was there for a couple of months.  I was going first weekly, and then it was biweekly.  Then it was monthly.",a,THE WITNESS,start_question
+546,1111,43,10,"Okay.  I have that you went until April 18, 2017. Does that sound about right?",q,MS. FRARE,start_answer
+547,1113,43,12,I was going to that place longer than April 18th.,a,THE WITNESS,start_question
+548,1114,43,13,Did I miss something?  It's possible.,q,MS. FRARE,start_chat
+549,1115,43,14,You should have that whole --,side_chat,MR. ABELS,start_chat
+550,1116,43,15,April 18.,side_chat,MS. FRARE,start_chat
+551,1117,43,16,August.,side_chat,MR. ABELS,start_chat
+552,1118,43,17,I'm sorry.  It's Monday.,side_chat,MS. FRARE,start_question
+553,1120,43,19,"August 18, 2017, is what I meant to say.",q,MS. FRARE,start_answer
+554,1121,43,20,"Yes, ma'am.",a,THE WITNESS,start_question
+555,1122,43,21,So you went from April 7th to August 17th.  Okay. Sorry about that.,q,MS. FRARE,start_chat
+556,1124,43,23,Off the record.,side_chat,MS. FRARE,is brackets
+557,1125,43,24,"(Whereupon, a discussion was held off the record.)",brackets,,start_chat
+558,1128,44,1,Back on the record.,side_chat,MS. FRARE,start_question
+559,1130,44,3,"So when you went in April, what were your complaints at that time?",q,MS. FRARE,start_answer
+560,1132,44,5,"Same.  Headaches, my head, my neck, shoulder, back.",a,THE WITNESS,start_question
+561,1134,44,7,Okay.  And what kind of treatment did they do for you?,q,MS. FRARE,start_answer
+562,1136,44,9,"So I met with a couple of different doctors.  I had Dr. Richardson and Dr. Cherry.  So what they did -- they did electroshock therapy almost.  It's where they put these stickies on you, and then you're under -- at the same time, you're under very hot towels or blankets.  I don't know what was on top of me.  But that is to kind of break down and relax the muscles.  I did adjustments with them. I did stretching exercises, which I do till this day.  I have a small electric machine that they gave me during that time that I still use till this day, which is -- you have -- it's battery operated; but you have these stickies that you put to where it hurts, and then you're adjusting for as much as you can take.",a,THE WITNESS,start_question
+563,1149,44,22,Okay.  Of that electric stimulation?,q,MS. FRARE,start_answer
+564,1150,44,23,Correct.,a,THE WITNESS,start_question
+565,1151,44,24,And were they doing this to your shoulder -- your right shoulder/neck area?,q,MS. FRARE,start_answer
+566,1154,45,1,They were doing it all over.  They were doing it to the shoulder.  They were doing it to the neck.  They were doing it to the back.,a,THE WITNESS,start_question
+567,1157,45,4,Okay.  And did that help?,q,MS. FRARE,start_answer
+568,1158,45,5,"My back is great.  It helped absolutely.  But shoulder and my neck is an ongoing thing.  It did help, but it hasn't taken it away.",a,THE WITNESS,start_question
+569,1161,45,8,"So your back pain, you said, is great?",q,MS. FRARE,start_answer
+570,1162,45,9,It's gone.,a,THE WITNESS,start_question
+571,1163,45,10,Okay.  So it's resolved?,q,MS. FRARE,start_answer
+572,1164,45,11,That is.,a,THE WITNESS,start_question
+573,1165,45,12,And when did that resolve?,q,MS. FRARE,start_answer
+574,1166,45,13,"A couple months into these treatments it got better.  And I had horrible, horrible headaches for a period of time.  So I really lived on Aleve day/night.  But that had gotten better over time.  A cup months in, that got better and that's awesome.",a,THE WITNESS,start_question
+575,1171,45,18,And the Aleve you can get over the counter; correct?,q,MS. FRARE,start_answer
+576,1173,45,20,Correct.  I should be on their ad really.,a,THE WITNESS,start_question
+577,1174,45,21,So how long did you end up having the horrible headaches approximately?,q,MS. FRARE,start_answer
+578,1176,45,23,"At least couple months in.  But then they started gradually going down, less days per week headaches and then less headaches.  And now, like, I barely ever get a headache now, which thank God.",a,THE WITNESS,start_question
+579,1181,46,2,Did you seek any specific medical treatment for the headaches other than taking the Aleve?,q,MS. FRARE,start_answer
+580,1183,46,4,"Other than taking the Aleve, no.",a,THE WITNESS,start_question
+581,1184,46,5,Okay.  And I know you told me there was a period of time you were going once a week to the therapy?,q,MS. FRARE,start_answer
+582,1186,46,7,"Yes, ma'am.",a,THE WITNESS,start_question
+583,1187,46,8,And for how long did you go once a week?,q,MS. FRARE,start_answer
+584,1188,46,9,"Oh, my goodness.  I think it's a month that I went every week.",a,THE WITNESS,start_question
+585,1190,46,11,And then it changed biweekly?,q,MS. FRARE,start_answer
+586,1191,46,12,And then it changed biweekly.,a,THE WITNESS,start_question
+587,1192,46,13,For how long?,q,MS. FRARE,start_answer
+588,1193,46,14,If you can refer to the dates.  I'm really not sure how long.,a,THE WITNESS,start_question
+589,1195,46,16,Okay.  And the last time you went was in August of 2017?,q,MS. FRARE,start_answer
+590,1197,46,18,"No.  I actually -- I actually saw a different doctor after.  I saw a surgeon, Dr. Rubin, for after August.",a,THE WITNESS,start_question
+591,1199,46,20,"Okay.  But before we get to Dr. Rubin, the physical therapy -- was it physical therapy that you had?",q,MS. FRARE,start_answer
+592,1201,46,22,Mm-hmm.  Correct.,a,THE WITNESS,start_question
+593,1202,46,23,Did you also see a chiropractor there?,q,MS. FRARE,start_answer
+594,1203,46,24,That's Dr. Cherry.  He would adjust me.,a,THE WITNESS,start_question
+595,1204,46,25,Okay.  So you had physical therapy and chiropractic treatment?,q,MS. FRARE,start_answer
+596,1207,47,2,Yes.  Yes.  I apologize.  Yes.,a,THE WITNESS,start_question
+597,1208,47,3,You're doing great. How long would these sessions last?,q,MS. FRARE,start_answer
+598,1210,47,5,Timewise?,a,THE WITNESS,start_question
+599,1211,47,6,Yeah.  When you would go.,q,MS. FRARE,start_answer
+600,1212,47,7,"Maybe half an hour.  Not more than half an hour definitely, since they bring you in the room and they lay you down and they set you up.  Half an hour, I would say.",a,THE WITNESS,start_question
+601,1215,47,10,Had you ever had this type of treatment before?,q,MS. FRARE,start_answer
+602,1216,47,11,No.,a,THE WITNESS,start_question
+603,1217,47,12,So this is the first time you had physical therapy or chiropractic?,q,MS. FRARE,start_answer
+604,1219,47,14,"Yes, ma'am.",a,THE WITNESS,start_question
+605,1220,47,15,And is there a reason that you stopped going?,q,MS. FRARE,start_answer
+606,1221,47,16,"Well, I was told that they can't do any more for me.",a,THE WITNESS,start_question
+607,1223,47,18,So they told you that?  It wasn't a decision you made?,q,MS. FRARE,start_answer
+608,1225,47,20,Exactly.,a,THE WITNESS,start_question
+609,1226,47,21,And then you saw Dr. Rubin.  Is he an orthopedist?,q,MS. FRARE,start_answer
+610,1227,47,22,"Yes, ma'am.",a,THE WITNESS,start_question
+611,1228,47,23,And when did you see Dr. Rubin?,q,MS. FRARE,start_answer
+612,1229,47,24,"Right after I saw Dr. Cherry, in that period. They were the ones that did all the appointments and scheduling.  It's the same practice, same place.",a,THE WITNESS,start_question
+613,1233,48,2,And did Dr. Cherry recommend you see Dr. Rubin?,q,MS. FRARE,start_answer
+614,1234,48,3,Yes.  That's their practice.,a,THE WITNESS,start_question
+615,1235,48,4,And do you recall when you first saw Dr. Rubin?,q,MS. FRARE,start_answer
+616,1236,48,5,"Oh, my God.  I can't recall a date.  I'm sorry.",a,THE WITNESS,start_question
+617,1237,48,6,That's okay. How often would you see him?,q,MS. FRARE,start_answer
+618,1239,48,8,"I saw him frequently -- more frequently at the beginning, but then I saw him -- like, towards the end, I saw him once a month.",a,THE WITNESS,start_question
+619,1242,48,11,When was the last time you saw him?,q,MS. FRARE,start_answer
+620,1243,48,12,Last time I was there.  I'm sorry.  I don't know the date.,a,THE WITNESS,start_question
+621,1245,48,14,Was it March of 2018?,q,MS. FRARE,start_answer
+622,1246,48,15,March.  Correct.  It was March.,a,THE WITNESS,start_question
+623,1247,48,16,"March 20, 2018?",q,MS. FRARE,start_answer
+624,1248,48,17,"I'm not sure of the date, but I think it was March.  But I don't know which day.",a,THE WITNESS,start_question
+625,1250,48,19,Okay.  And did he send you for any type of testing?,q,MS. FRARE,start_answer
+626,1252,48,21,He did order an MRI.,a,THE WITNESS,start_question
+627,1253,48,22,To what part of your body?,q,MS. FRARE,start_answer
+628,1254,48,23,To my neck and my shoulder.,a,THE WITNESS,start_question
+629,1255,48,24,Had you ever had an MRI before?,q,MS. FRARE,start_answer
+630,1256,48,25,"Not that I remember, no.",a,THE WITNESS,start_question
+631,1258,49,1,Did he discuss the results of the MRI with you?,q,MS. FRARE,start_answer
+632,1259,49,2,Yes.,a,THE WITNESS,start_question
+633,1260,49,3,And what did he say?,q,MS. FRARE,start_answer
+634,1261,49,4,"I really don't understand that much; but pretty much what he said is I'm not a candidate for surgery from the MRI and, basically, that's all he could do for me.",a,THE WITNESS,start_question
+635,1264,49,7,Did he give you any type of diagnosis or anything like that?,q,MS. FRARE,start_answer
+636,1266,49,9,"He did say that there was some percentage of damage, but I don't know the diagnosis for any of that.",a,THE WITNESS,start_question
+637,1268,49,11,Did he recommend any further treatment or going to any other doctors or anything like that?,q,MS. FRARE,start_answer
+638,1270,49,13,"No, he has not.",a,THE WITNESS,start_question
+639,1271,49,14,"Do you plan to continue to see him, Dr. Rubin?",q,MS. FRARE,start_answer
+640,1272,49,15,"I would like to; but Dr. Rubin, I believe, you know, is done with my treatment.  There is not too much that he can help me with anymore.  I am not to that point where I would require surgery.  The practice pretty much did as much as they could for me.  Also, you know, I couldn't get the cortisone shots because they literally target a specific portion, but mine is all over.  So he said it would be useless to get the shots because they really don't know where it is.",a,THE WITNESS,start_question
+641,1281,49,24,So you had no type of injections?,q,MS. FRARE,start_answer
+642,1282,49,25,No.,a,THE WITNESS,start_question
+643,1284,50,1,Did you go to any other doctors or any other medical facilities related to this accident?,q,MS. FRARE,start_answer
+644,1286,50,3,"So, no, I have not been under any other doctors; but what I have been doing would be getting massages.",a,THE WITNESS,start_question
+645,1288,50,5,Where do you have that?,q,MS. FRARE,start_answer
+646,1289,50,6,"Everywhere.  I usually get them off Groupon.  And it would just be to really concentrate on my neck and the arm area.  I had them pretty much everywhere, from Oasis to Envy to another massage place right on Silas Deane, which is close by my house.  I still do the exercises in the showers, the stretching that they showed me.  I still use the machine that they gave me, the electrical current.  I do that twice a week.",a,THE WITNESS,start_question
+647,1297,50,14,And did the physical therapist or chiropractor give you that?,q,MS. FRARE,start_answer
+648,1299,50,16,Yes.  Dr. Cherry did.,a,THE WITNESS,start_question
+649,1300,50,17,And did they give you exercises to do at home?,q,MS. FRARE,start_answer
+650,1301,50,18,Yes.  I had the whole book.,a,THE WITNESS,start_question
+651,1302,50,19,And you do those at home?,q,MS. FRARE,start_answer
+652,1303,50,20,"Yes, ma'am.  Majority of them are to be done in the shower while, you know, the hot water is hitting you so it helps your muscles relax.  So when you're stretching and pulling, it's actually good for you.  And the shower head is to kind of hit you to the spot.  And the hotter it is, like, it's easier to, like, relax.",a,THE WITNESS,start_question
+653,1310,51,1,And how often do you do that?,q,MS. FRARE,start_answer
+654,1311,51,2,Every time I shower.,a,THE WITNESS,start_question
+655,1312,51,3,So every day?,q,MS. FRARE,start_answer
+656,1313,51,4,"Daily.  Yes, ma'am.",a,THE WITNESS,start_question
+657,1314,51,5,So can you describe your current condition related to your injuries from the accident?,q,MS. FRARE,start_answer
+658,1316,51,7,"So these two last years have been anything but easy, considering I do have three kids.  I have a household to run, and I have a full-time job.  It affects my every day, absolutely every day.  From home point, I can't do as much as I could.  I can't clean.  Where I come from, we do a lot of dough, a lot of dough making.  So I bake bread basically -- well, I should say I used to bake bread every day.  But I can't do that anymore because it requires so much of, you know, making the dough.",a,THE WITNESS,start_question
+659,1325,51,16,Using your arm?,q,MS. FRARE,start_answer
+660,1326,51,17,"And I am a righty, so I do everything with my right hand.  I can't even brush with my left hand. Cleaning.  I have hardwood floors inside the house.  Mopping, vacuuming, all of that is an issue. Literally providing for my children is an issue.  I can't even bring the groceries from the car because as little as a gallon of milk might seem, it's an issue carrying it in my right arm.  If I grab it from my left, I have no issues whatsoever.  But my brain doesn't always think.  I always reach out for the right from everything.  I use my sons a lot to take care of that part.",a,THE WITNESS,start_question
+661,1338,52,3,"Now, is there anything -- so I understand these are things that you still do, but they're very difficult?",q,MS. FRARE,start_answer
+662,1340,52,5,"Yes, ma'am.",a,THE WITNESS,start_question
+663,1341,52,6,Is there anything you used to do on a regular basis that you just can't do at all because of your injuries from the accident?,q,MS. FRARE,start_answer
+664,1344,52,9,"I can still do a little bit, which is my gardening, but not as I used to.  I just kind of let go of that.",a,THE WITNESS,start_question
+665,1347,52,12,"Okay.  And I'm going to get into more details about those restrictions you have, but is there any activity that you don't do at all?",q,MS. FRARE,start_answer
+666,1350,52,15,Not at all?,a,THE WITNESS,start_question
+667,1351,52,16,Right.,q,MS. FRARE,start_answer
+668,1352,52,17,No.,a,THE WITNESS,start_question
+669,1353,52,18,"So the things that -- you said you have difficulty cleaning, vacuuming, and mopping?",q,MS. FRARE,start_answer
+670,1355,52,20,And wiping and cleaning the bathrooms.,a,THE WITNESS,start_question
+671,1356,52,21,"So these are all things that you do, but you have trouble doing it?",q,MS. FRARE,start_answer
+672,1358,52,23,"Yes, ma'am.",a,THE WITNESS,start_question
+673,1359,52,24,Okay.  And the trouble is what exactly?,q,MS. FRARE,start_answer
+674,1360,52,25,"So anytime I do anything like that, it's worse. My pain with my shoulder, it's continuous.  It doesn't stop. But the more I stretch myself to do things, the worse it gets.  So I try not to really do much unless I really have to.  If I have to clean the floors, then I have to clean the floors, but I don't clean it as I used to.  I don't know if I explained myself correctly.  I do what I have to do, not what I want to do.",a,THE WITNESS,start_question
+675,1369,53,8,All right.  So you did more cleaning before?,q,MS. FRARE,start_answer
+676,1370,53,9,I have.  I have.,a,THE WITNESS,start_question
+677,1371,53,10,And now do you have anyone that helps you do it?,q,MS. FRARE,start_answer
+678,1372,53,11,No.,a,THE WITNESS,start_question
+679,1373,53,12,And can you tell me specifically where the pain is?,q,MS. FRARE,start_answer
+680,1375,53,14,Right here.  This is the pain in this whole shoulder area where I'm touching.,a,THE WITNESS,start_question
+681,1377,53,16,So the back of your shoulder?,q,MS. FRARE,start_answer
+682,1378,53,17,"Yes.  And this whole area here.  It's always in pain, always, always, especially this part right here that I'm grabbing.",a,THE WITNESS,start_question
+683,1381,53,20,"So between -- just so I can get it for the record, so between your neck area and your right shoulder on the top part?",q,MS. FRARE,start_answer
+684,1384,53,23,Yes.,a,THE WITNESS,start_question
+685,1385,53,24,And the back?,q,MS. FRARE,start_answer
+686,1386,53,25,"And the back of my shoulder, yes.",a,THE WITNESS,start_question
+687,1388,54,1,On your upper shoulder blade area?,q,MS. FRARE,start_answer
+688,1389,54,2,Correct.  This area right here that I'm holing.,a,THE WITNESS,start_question
+689,1390,54,3,"Now, is this like a sharp pain or a dull pain? How would you describe it?",q,MS. FRARE,start_answer
+690,1392,54,5,"This is a stiff pain that's kind of -- that's almost like something's pressing and just grabbed you and stays there.  It doesn't go anywhere.  There's better days, yes, but there's much worse days.",a,THE WITNESS,start_question
+691,1396,54,9,Is it like a knot?,q,MS. FRARE,start_answer
+692,1397,54,10,"It is.  It is grabbed and stays there.  Like, I don't know if I'm explaining myself correctly.  It seems like somebody grabbed and just, like, holds type of pain.",a,THE WITNESS,start_question
+693,1400,54,13,"Now, is this something that comes and goes?",q,MS. FRARE,start_answer
+694,1401,54,14,"This doesn't come and go.  This is always there, but then there is days that are better than others.",a,THE WITNESS,start_question
+695,1403,54,16,And this has been since the accident?,q,MS. FRARE,start_answer
+696,1404,54,17,"This has been since the accident, ma'am.",a,THE WITNESS,start_question
+697,1405,54,18,Did you ever have anything like this before the accident?,q,MS. FRARE,start_answer
+698,1407,54,20,"No.  Not with the shoulder, no.",a,THE WITNESS,start_question
+699,1408,54,21,"So just to be clear, so before this accident, did you ever have an injury or an accident or injury involving your shoulder?",q,MS. FRARE,start_answer
+700,1411,54,24,"No, ma'am.",a,THE WITNESS,start_question
+701,1412,54,25,"And before this accident, did you ever have an accident or injury involving your neck?",q,MS. FRARE,start_answer
+702,1415,55,2,"No, ma'am.",a,THE WITNESS,start_question
+703,1416,55,3,"And before this accident, did you ever have an accident or injury involving your back?",q,MS. FRARE,start_answer
+704,1418,55,5,"No, ma'am.",a,THE WITNESS,start_question
+705,1419,55,6,"Okay.  And since this accident, have you reinjured your neck, your back, or your right shoulder?",q,MS. FRARE,start_answer
+706,1421,55,8,"No, ma'am.",a,THE WITNESS,start_question
+707,1422,55,9,"So, now, other than this pain that you were describing in your shoulder/neck area, are there any other pain that you're still having related to the accident?",q,MS. FRARE,start_answer
+708,1425,55,12,"No, ma'am.  No, ma'am.  I had the headaches.  I had the back pain.  I had those issues.  Those are gone. This is my issue.  This is my constant issue, which is this part right here and this part right here. I mean, Dr. Rubin -- at the time of the treatment, he had me try something different.  He had me take the biggest towel I have in my house and you keep folding it, keep folding it, till you're done.  And then you keep folding it this way so you kind of make a block.  You tape it up, and that's what you try sleeping on.  He was wrong. That didn't help. I thought if I buy more expensive, better mattresses, that's going to help.  It has not helped.",a,THE WITNESS,start_question
+709,1438,55,25,Did you get a new mattress?,q,MS. FRARE,start_answer
+710,1440,56,1,"I have.  I got new pillows.  I got Tempur-Pedic pillows.  I got Tempur-Pedic mattresses.  It doesn't help. We're almost two years into this, and I sleep like a crazy person.  I -- I'm sorry.  I just have to say it.  I sleep literally on my chest next to my -- and that's my side. Nobody can sleep on that side.  I have my nightstand, which is right here.  This is my bed.  This is my nightstand.  I put a pillow over from the bed to the nightstand, and that's how I sleep.  I cannot sleep on my back, nor I can find a way to sleep.  I bought body pillows.  I mean, I bought every pillow out there; but I haven't figured it out yet.",a,THE WITNESS,start_question
+711,1451,56,12,I take it this is a different way of sleeping than you did before the accident?,q,MS. FRARE,start_answer
+712,1453,56,14,"Yes, ma'am.  I used to sleep on my back.  I'm a back sleeper.  That doesn't happen anymore.  Now I literally sleep on my chest, my stomach.",a,THE WITNESS,start_question
+713,1456,56,17,Okay.  When did you get the new mattress?,q,MS. FRARE,start_answer
+714,1457,56,18,So the accident happened in -- so the following year.  The following year.,a,THE WITNESS,start_question
+715,1459,56,20,Do you remember when and where?,q,MS. FRARE,start_answer
+716,1460,56,21,"My birthday, February 12th.",a,THE WITNESS,start_question
+717,1461,56,22,Okay.  Was it a birthday present?,q,MS. FRARE,start_answer
+718,1462,56,23,"That was a birthday present.  I have family -- my husband's family usually asks each other what would you like for birthdays, pretty much what do you need.  I said all of you put your money together and then we'll pay the rest to buy the mattress and that's exactly what happened.",a,THE WITNESS,start_question
+719,1468,57,3,That's a good family.  I don't get stuff like that.,q,MS. FRARE,start_answer
+720,1470,57,5,"You know, whatever you want to give me, instead of getting me a perfume, just give me money to help pay for this.  And that's exactly what happened.",a,THE WITNESS,start_question
+721,1473,57,8,So that was in --,q,MS. FRARE,start_answer
+722,1474,57,9,"In 2018, February.",a,THE WITNESS,start_question
+723,1475,57,10,In 2018?,q,MS. FRARE,start_answer
+724,1476,57,11,"Yes, ma'am.",a,THE WITNESS,start_question
+725,1477,57,12,The bed didn't make any difference at all?,q,MS. FRARE,start_answer
+726,1478,57,13,"No.  Absolutely.  It helps all the difference to my husband, but not to me.  And I even got the softer -- because you can get a firmer and, like, a softer side and I got a softer side.  No.  It's a lot of money, though.",a,THE WITNESS,start_question
+727,1482,57,17,And baking?  You said it's been affecting how you work with the dough; correct?,q,MS. FRARE,start_answer
+728,1484,57,19,"Yes, ma'am.",a,THE WITNESS,start_question
+729,1485,57,20,And how often were you baking before the accident?,q,MS. FRARE,start_answer
+730,1486,57,21,Daily.  I cook every day for my family.  That's how I was raised.,a,THE WITNESS,start_question
+731,1488,57,23,Okay.,q,MS. FRARE,start_answer
+732,1489,57,24,"Do I cook all the stuff I used to do with the dough?  No, because it requires much more strength and requires to go through that dough making.  You have to -- in order to make the bread or any type of, like, Bosnia thing, because we do a lot with dough, a lot with fillings, you have to get it to the certain consistency.  So if you don't really work your dough, the taste is different, like if you don't really put your hands in it, if I'm saying correctly.",a,THE WITNESS,start_question
+733,1498,58,7,Yeah.,q,MS. FRARE,start_answer
+734,1499,58,8,Now my mother-in-law does the bread.  I don't touch that just because it's so much strength and working it.,a,THE WITNESS,start_question
+735,1502,58,11,"And these questions, I'm trying to get an idea how your life has changed and how the activities have changed. So is baking something you still do, but you don't do it as much?",q,MS. FRARE,start_answer
+736,1506,58,15,"Yes, ma'am.",a,THE WITNESS,start_question
+737,1507,58,16,"And can you tell me, like, has it changed what you've made or how has it changed?",q,MS. FRARE,start_answer
+738,1509,58,18,"Yes.  It changed in what I used to make.  I mean, I -- my husband and I used to entertain a lot.  So I would cook for a couple of couples, you know, when they come for dinner, so a lot of dough, a lot of potatoes, a lot of peeling, a lot of cutting.  All of that is hard.  It's hard to even cut, like, drumsticks.  You know how they come? Like, you have the drumstick, and then you have the other part?  I used to do that with no issues.  Now I have my husband cut them, like separate it by the bone, because, like, pressing on that with the knife is just hard.  It really is. Even, like, washing dishes.  Unfortunately, I don't have a dishwasher yet.  It will happen one day.  But, like, washing dishes, it becomes so stiff and becomes so uncomfortable that sometimes I just leave the dishes for the next day.  I just don't feel my -- don't see myself doing it because, like, it becomes so much.",a,THE WITNESS,start_question
+739,1527,59,10,Okay.  And the grocery shopping you still do?,q,MS. FRARE,start_answer
+740,1528,59,11,I do.,a,THE WITNESS,start_question
+741,1529,59,12,You were telling us it's difficult lifting gallons of milk and stuff like that?,q,MS. FRARE,start_answer
+742,1531,59,14,"Yes, ma'am.  I have my army.  I have my two sons that I make bring everything in and, you know, stock everything.  This goes here.  You put this here.  You put this here.  I take care of the frozen stuff, put it in the fridge and stuff like that.  But, I mean, bringing the groceries in, that's their new job.",a,THE WITNESS,start_question
+743,1537,59,20,Okay.  And gardening you said?,q,MS. FRARE,start_answer
+744,1538,59,21,"Now, that is my very, very nice love that I have. I love roses.  I love outdoors.  So the house we bought, it has a lot of -- like, it has enough portion of land.  Right? So I bought so many rose -- I had so many rose bushes that I'm the one taking care of.  We have a raised garden that I had all the vegetables in it.  Now I really just have, like, the scallions and tomatoes and peppers because those you really don't have to do much work.  You put them, plant them, they start growing, you water them, and that's it.  I can't really do so much.  That takes time and --",a,THE WITNESS,start_question
+745,1549,60,6,So what don't you have now?,q,MS. FRARE,start_answer
+746,1550,60,7,"I don't have majority.  I don't have -- I did potatoes.  I don't do potatoes no more because those require you to do more with them.  I don't do corn because it's, like, so much harder, like, when you're cleaning it up, like, to take everything out because their roots grow so much down.  So the scallions are so much easier.  You just put them in, water them, and they grow.  And I do tomatoes and I do peppers.  I still do that, yes.",a,THE WITNESS,start_question
+747,1558,60,15,But you used to do potatoes and corn?,q,MS. FRARE,start_answer
+748,1559,60,16,I used to do everything.  Correct.,a,THE WITNESS,start_question
+749,1560,60,17,And you don't do that anymore?,q,MS. FRARE,start_answer
+750,1561,60,18,Mm-hmm.,a,THE WITNESS,start_question
+751,1562,60,19,And the roses?  Do you still have the roses?,q,MS. FRARE,start_answer
+752,1563,60,20,"Majority of them has been dying because I -- it takes so much work.  You know, it just looks like a bush, but it takes a lot of work trimming it down, making sure that you have the correct plant food for them.  Like, when autumn comes, you need to protect them for the next year.  I just -- it's so much harder to do that because it takes time and it takes strength to be doing that.  And I kind of pretty much not gave up on it but all -- it's still there, but not as much.",a,THE WITNESS,start_question
+753,1573,61,4,Okay.  So you've given me a lot of examples.  Is there anything else that you think has been affected by your injuries from the accident?,q,MS. FRARE,start_answer
+754,1576,61,7,"No.  Basically, my every day is affected, to be honest with you, from providing for my family to a job that I literally had to switch because I couldn't perform as much as I used to.",a,THE WITNESS,start_question
+755,1580,61,11,Have you had to pay anyone to help you?,q,MS. FRARE,start_answer
+756,1581,61,12,I don't make enough money like that.,a,THE WITNESS,start_question
+757,1582,61,13,"In the records I have, you last went to Dr. Rubin in March of 2018, last year.",q,MS. FRARE,start_answer
+758,1584,61,15,"Yes, ma'am.",a,THE WITNESS,start_question
+759,1585,61,16,Have you had any medical treatment within the last year related to the accident?,q,MS. FRARE,start_answer
+760,1587,61,18,"Not -- like I said before, I have not been under any physician's care, but I have been getting massages.  I have been doing at home stretching and using two times a week my electrical current machine that they gave me, but not to any doctors.",a,THE WITNESS,start_question
+761,1592,61,23,Okay.  And how often do you get massages?,q,MS. FRARE,start_answer
+762,1593,61,24,"Usually, once a month.",a,THE WITNESS,start_question
+763,1594,61,25,And how much is it to get a massage?,q,MS. FRARE,start_answer
+764,1596,62,1,"Well, if I get it from the Groupon, it's like $30, $40.  If you don't get it from the Groupon, then it's $100 usually for an hour.",a,THE WITNESS,start_question
+765,1599,62,4,For an hour?,q,MS. FRARE,start_answer
+766,1600,62,5,Yes.  It's 60 minutes usually everywhere you go.,a,THE WITNESS,start_question
+767,1601,62,6,Is that usually what you get?,q,MS. FRARE,start_answer
+768,1602,62,7,"I try to get it off Groupon, to be honest; but if I don't find it on Groupon, then, you know, I pay the $100 and get it over with because I feel -- you know, them just working that area out, like, I feel it has helped me.",a,THE WITNESS,start_question
+769,1606,62,11,Does it alleviate it?,q,MS. FRARE,start_answer
+770,1607,62,12,"That alleviates definitely.  It makes it feel better for me.  And then that's why I'm getting it monthly, because I feel like I feel different after being worked in that specific spot.  It alleviates it.  It doesn't take it away, but it definitely helps.",a,THE WITNESS,start_question
+771,1612,62,17,All right.  Are you taking any medication?,q,MS. FRARE,start_answer
+772,1613,62,18,"Prescriptions, no.  Aleve, all the time.",a,THE WITNESS,start_question
+773,1614,62,19,How often?,q,MS. FRARE,start_answer
+774,1615,62,20,"So I get up in the morning.  I'm from eastern Europe, so we make our coffee different.  We really don't use Keurig.",a,THE WITNESS,start_chat
+775,1618,62,23,Off the record.,side_chat,MR. ABELS,is brackets
+776,1619,62,24,"(Whereupon, a discussion was held off the record.)",brackets,,start_chat
+777,1622,63,1,"So, basically, we use Turkish coffee, which is ground beans.  So you boil your pot of coffee.  Then you take two scoops of the grounds and then you pour it with, like, the hot coffee and that's how you drink it.  It's stronger coffee. But I get up in the morning.  I'm putting my water on my stove.  I'm taking my two Aleve.  That's, like, my -- no missed days.  That's every morning.  Coming from work, you take two more.",side_chat,THE WITNESS,start_question
+778,1632,63,11,So you're taking four a day?,q,MS. FRARE,start_answer
+779,1633,63,12,"Every day.  Sometimes when it's really bad, like, I take four at a time.  But usually it's two in the mornings, two at nights.",a,THE WITNESS,start_question
+780,1636,63,15,And this has been since the accident?,q,MS. FRARE,start_answer
+781,1637,63,16,"Yes, ma'am.",a,THE WITNESS,start_question
+782,1638,63,17,"I don't think I asked you.  At the time of the accident, within 24 hours, had you taken any medication?",q,MS. FRARE,start_answer
+783,1640,63,19,When the Kathy's gave me the ibuprofen.,a,THE WITNESS,start_question
+784,1641,63,20,"Like, before the accident occurred, the day -- within the day of the accident, was there any type of medication that you were taking?",q,MS. FRARE,start_answer
+785,1644,63,23,Not that I know.  I'm not on any medication.,a,THE WITNESS,start_question
+786,1645,63,24,Okay.  Did any doctors give you any prescriptions other than at Kathy's originally?,q,MS. FRARE,start_answer
+787,1648,64,1,Dr. Rubin did later.,a,THE WITNESS,start_question
+788,1649,64,2,And what did Dr. Rubin give you?,q,MS. FRARE,start_answer
+789,1650,64,3,"It was a pain medication.  I don't recall what it was.  It started with ""M,"" but it didn't really alleviate. It didn't help me.  So I just keep taking my Aleve.",a,THE WITNESS,start_question
+790,1653,64,6,How long a period of time did you try this medication?,q,MS. FRARE,start_answer
+791,1655,64,8,For a month.  And I still had Aleve in between.,a,THE WITNESS,start_question
+792,1656,64,9,"Did they give you any type of, like, support device, a back brace or neck brace or anything like that?",q,MS. FRARE,start_answer
+793,1658,64,11,No.  I didn't get anything like that.,a,THE WITNESS,start_chat
+794,1659,64,12,"All right.  I think I'm getting through this.  Let me just check my cheat sheet here.  Even when I check this, there's always something.",side_chat,MS. FRARE,start_chat
+795,1662,64,15,Of course.,side_chat,MR. ABELS,start_chat
+796,1663,64,16,Would you mind if I just took a break to let my boss know how much longer?,side_chat,THE WITNESS,start_chat
+797,1665,64,18,Absolutely.,side_chat,MS. FRARE,is brackets
+798,1666,64,19,"(Whereupon, a discussion was held off the record.)",brackets,,start_question
+799,1669,64,22,Have you had any out-of-pocket expenses related to the accident?,q,MS. FRARE,start_answer
+800,1671,64,24,"Just for my massages and my Aleve.  Besides that, no.",a,THE WITNESS,start_question
+801,1674,65,1,And have you ever been convicted of a crime?,q,MS. FRARE,start_answer
+802,1675,65,2,"Oh, no, ma'am.",a,THE WITNESS,start_chat
+803,1676,65,3,I have to ask this question. Okay.  I think I am done.,side_chat,MS. FRARE,start_chat
+804,1678,65,5,I don't have any either.  I think we're all good.,side_chat,MR. ABELS,start_chat
+805,1680,65,7,Thank you.,side_chat,MS. FRARE,is brackets
+806,1681,65,8,"(Whereupon, the deposition was concluded at 11:26 a.m.) CERTIFICATE OF REPORTER I, Jessica Noble, a Notary Public duly commissioned and qualified in and for the State of Connecticut, do hereby certify that pursuant to Notice, there came before me, on March 11, 2019, at 10:00 a.m., the following named person, to wit:  EMINA AHMETOVIC, who was by me duly sworn to testify to the truth and nothing but the truth; that she was thereupon carefully examined upon her oath and her examination reduced to writing under my supervision; that this deposition is a true record of the testimony given by the witness. I further certify that I am neither attorney nor counsel for, nor related to, nor employed by any of the parties to the action in which this deposition is taken and further, that I am not a relative or employee of any attorney or counsel employed by the parties hereto, or financially interested in the action. IN WITNESS THEREOF, I have hereunto set my hand",brackets,,symbols
+807,1721,66,21,"__________________________ Jessica Noble CT License No. 402 J U R A T I, EMINA AHMETOVIC, do hereby certify that the foregoing testimony given by me on March 11, 2019, is true and accurate, including any corrections noted on the corrections page, to the best of my knowledge and belief.",symbols,,symbols
+808,1734,67,6,"________________   ________________________ At __________________________ in said county of ___________________, this __________ day of ___________, 2019, personally appeared EMINA AHMETOVIC and she made oath to the truth of the foregoing answers by her subscribed. Before me, _____________________, Notary Public. My Commission expires: ERRATA SHEET",symbols,,start_chat
+809,1760,68,4,EMINA AHMETOVIC VS. PAUL THOMAS KELLY PAGE       LINE        CORRECTION,side_chat,CASE NAME,symbols
+810,1764,68,8,__________________________________________________________,symbols,,symbols
+811,1765,68,9,__________________________________________________________,symbols,,symbols
+812,1766,68,10,__________________________________________________________,symbols,,symbols
+813,1767,68,11,__________________________________________________________,symbols,,symbols
+814,1768,68,12,__________________________________________________________,symbols,,symbols
+815,1769,68,13,__________________________________________________________,symbols,,symbols
+816,1770,68,14,__________________________________________________________,symbols,,symbols
+817,1771,68,15,__________________________________________________________,symbols,,symbols
+818,1772,68,16,__________________________________________________________,symbols,,symbols
+819,1773,68,17,__________________________________________________________,symbols,,symbols
+820,1774,68,18,__________________________________________________________ NAME:_____________________ DATE:_____________________ INDEX OF EXAMINATIONS Page INDEX OF EXHIBITS DEFENDANT'S EXHIBITS FOR I.D. Exhibit 1        Photograph                         35 Exhibit 2        Photograph                         35 Exhibit 3        Photograph                         35,symbols,,is brackets
+821,1793,69,11,(REPORTER'S NOTE:  THE EXHIBITS WERE RETAINED BY ATTORNEY,brackets,,end

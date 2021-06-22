@@ -1,0 +1,461 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, EXAMINATION,,,symbols
+1,147,5,23,-  -  -,symbols,,start_question
+2,151,6,1,"Sir, could you state your name for the record?",q,MR. LINN,start_answer
+3,153,6,3,Jose Eduardo Guerrero.,a,THE WITNESS,start_question
+4,154,6,4,"Mr. Guerrero, my name is Daniel Linn, and I'm the attorney for Maya Nelson in this action she's brought against you in connection with a car accident that took place on October 31st, 2017.",q,MR. LINN,start_answer
+5,160,6,10,Yes.,a,THE WITNESS,start_question
+6,161,6,11,"We have an interpreter here today, correct?",q,MR. LINN,start_answer
+7,163,6,13,Correct.,a,THE WITNESS,start_question
+8,164,6,14,I understand that you speak some English?,q,MR. LINN,start_chat
+9,166,6,16,95 percent.,side_chat,THE WITNESS,start_question
+10,168,6,18,"For purposes of today, it's my understanding that you feel more comfortable testifying in Spanish, correct?",q,MR. LINN,start_answer
+11,172,6,22,That's correct.,a,THE WITNESS,start_question
+12,173,6,23,"So for purposes of today, I want you to make sure that you let the interpreter completely interpret my question before you begin to answer.",q,MR. LINN,start_answer
+13,179,7,3,Yes.,a,THE WITNESS,start_question
+14,180,7,4,I never want us to be in a situation where you later told us that you didn't understand our questions.,q,MR. LINN,start_answer
+15,183,7,7,That's fine.,a,THE WITNESS,start_question
+16,184,7,8,So I'm going to take your deposition today.  Have you ever had your deposition taken before?,q,MR. LINN,start_answer
+17,187,7,11,No.,a,THE WITNESS,start_question
+18,188,7,12,All right.  Basically what this is is a question-and-answer session. I'm going to ask you some questions concerning your background.,q,MR. LINN,start_answer
+19,192,7,16,Mhmm.,a,THE WITNESS,start_question
+20,193,7,17,"The accident, and some other matters.  If at any time I ask you a question that you don't know the answer to, please let me know that you do not understand my question and I will repeat it or rephrase it.",q,MR. LINN,start_answer
+21,199,7,23,Okay.,a,THE WITNESS,start_question
+22,200,7,24,"If you don't know the answer to a question, that's perfectly fine, just let me know and we'll move on.",q,MR. LINN,start_answer
+23,205,8,3,That's fine.,a,THE WITNESS,start_question
+24,206,8,4,"I may ask you for estimates in terms of time or distance.  If you can provide us with an estimate, please do so.  But if you simply have no idea, just let me know and I'll move on.",q,MR. LINN,start_answer
+25,211,8,9,Yes.,a,THE WITNESS,start_question
+26,212,8,10,"It's important today that you answer all questions verbally.  A shrug or a gesture does not show up on our transcript.  And sir, if I ask you a question today and you did not tell me that you were confused or you did not understand the question, I'm going to assume that you understood the question that I asked you and that you answered that question honestly.",q,MR. LINN,start_answer
+27,222,8,20,That's fine.,a,THE WITNESS,start_question
+28,223,8,21,"All right.  Sir, are you under the influence of any drugs, medication, or alcohol that would prevent your ability to understand and answer questions here today?",q,MR. LINN,start_answer
+29,230,9,2,No.,a,THE WITNESS,start_question
+30,231,9,3,"Sir, where do you currently reside?",q,MR. LINN,start_answer
+31,233,9,5,"Claymont, Delaware.",a,THE WITNESS,start_question
+32,234,9,6,What's the address there?,q,MR. LINN,start_answer
+33,235,9,7,"13 Virginia Avenue, Claymont, Delaware 19703.",a,THE WITNESS,start_question
+34,237,9,9,How long have you resided at that address?,q,MR. LINN,start_answer
+35,239,9,11,Since 2006 to now.,a,THE WITNESS,start_question
+36,240,9,12,Where were you born?,q,MR. LINN,start_answer
+37,241,9,13,Mexico.,a,THE WITNESS,start_question
+38,242,9,14,When did you come to this country?,q,MR. LINN,start_answer
+39,244,9,16,1991.,a,THE WITNESS,start_question
+40,245,9,17,"Okay.  At some point, did you obtain U.S. citizenship?",q,MR. LINN,start_answer
+41,247,9,19,Yes.,a,THE WITNESS,start_question
+42,248,9,20,When was that?,q,MR. LINN,start_answer
+43,249,9,21,In '95.,a,THE WITNESS,start_question
+44,250,9,22,Okay.  Are you currently employed?,q,MR. LINN,start_answer
+45,252,9,24,Yes.,a,THE WITNESS,start_question
+46,255,10,1,Who do you work for?,q,MR. LINN,start_chat
+47,256,10,2,Benner & Sons.,side_chat,THE WITNESS,start_chat
+48,257,10,3,The interpreter would like to let you know that the name is in English and he is pronouncing it in English.,side_chat,THE INTERPRETER,start_chat
+49,262,10,8,That's fine.  And we've written down on a piece of paper B-E-N-N-E-R & Son.,side_chat,MR. LINN,start_question
+50,266,10,12,And you do painting for them?,q,MR. LINN,start_answer
+51,268,10,14,Yes.,a,THE WITNESS,start_question
+52,269,10,15,How long have you done that?,q,MR. LINN,start_answer
+53,270,10,16,Close to 20 years.,a,THE WITNESS,start_question
+54,271,10,17,"Okay.  Back on October 31st, 2017, did you own a vehicle?",q,MR. LINN,start_answer
+55,273,10,19,Yes.,a,THE WITNESS,start_question
+56,274,10,20,What type of vehicle did you own?,q,MR. LINN,start_answer
+57,276,10,22,2007 Kia Rio.,a,THE WITNESS,start_question
+58,277,10,23,2007 Kia?,q,MR. LINN,start_answer
+59,278,10,24,"Yes, yes.",a,THE WITNESS,start_question
+60,281,11,1,Did you own that vehicle yourself or did anybody else own that vehicle with you?,q,MR. LINN,start_answer
+61,284,11,4,Only myself.,a,THE WITNESS,start_question
+62,285,11,5,Was that vehicle in good working order at the time of the accident?,q,MR. LINN,start_answer
+63,288,11,8,Yes.,a,THE WITNESS,start_question
+64,289,11,9,Did it have any mechanical problems of any kind?,q,MR. LINN,start_answer
+65,291,11,11,"No, no.",a,THE WITNESS,start_question
+66,292,11,12,"All right.  Do you recall this accident happening on October 31st, 2017?",q,MR. LINN,start_answer
+67,295,11,15,Yes.,a,THE WITNESS,start_question
+68,296,11,16,What time did the accident occur?,q,MR. LINN,start_answer
+69,298,11,18,"I don't remember, around...",a,THE WITNESS,start_question
+70,299,11,19,"Was it the beginning of the day, the middle of the day, the end of the day?",q,MR. LINN,start_answer
+71,302,11,22,In the afternoon.,a,THE WITNESS,start_question
+72,303,11,23,Where were you going at the time?,q,MR. LINN,start_answer
+73,307,12,1,To pick up my wife.,a,THE WITNESS,start_question
+74,308,12,2,Were you doing anything for your job at Benner & Sons at the time of the accident?,q,MR. LINN,start_answer
+75,311,12,5,No.,a,THE WITNESS,start_question
+76,312,12,6,Okay.  So you were going to go pick up your son?,q,MR. LINN,start_answer
+77,314,12,8,To my wife.,a,THE WITNESS,start_question
+78,315,12,9,"Oh, your wife.  Where were you going, where was your wife, where were you going to pick her up?",q,MR. LINN,start_answer
+79,318,12,12,To McDonalds in Eddystone.,a,THE WITNESS,start_question
+80,319,12,13,At a McDonalds in Eddystone?,q,MR. LINN,start_answer
+81,320,12,14,Yes.,a,THE WITNESS,start_question
+82,321,12,15,Did you have to be there by any particular time?,q,MR. LINN,start_answer
+83,323,12,17,Yes.,a,THE WITNESS,start_question
+84,324,12,18,What time did you have to be there?,q,MR. LINN,start_answer
+85,326,12,20,At 4:00.,a,THE WITNESS,start_question
+86,327,12,21,Why did you have to be there by 4:00?,q,MR. LINN,start_answer
+87,329,12,23,Because that's the time that she comes out.,a,THE WITNESS,start_question
+88,333,13,1,Did she work at McDonalds?,q,MR. LINN,start_answer
+89,334,13,2,Yes.,a,THE WITNESS,start_question
+90,335,13,3,And she is done at 4:00?,q,MR. LINN,start_answer
+91,336,13,4,Yes.,a,THE WITNESS,start_question
+92,337,13,5,Did you work that day?,q,MR. LINN,start_answer
+93,338,13,6,Yes.,a,THE WITNESS,start_question
+94,339,13,7,What time did work begin and what time did it end?,q,MR. LINN,start_answer
+95,341,13,9,"I begin at 7:00 and I was finished at 3:30, well, I finished at 3:30.",a,THE WITNESS,start_question
+96,344,13,12,Okay.  And is it customary for you to pick your wife up from work at McDonalds?,q,MR. LINN,start_answer
+97,347,13,15,Yes.,a,THE WITNESS,start_question
+98,348,13,16,And that would be 4:00 every day?,q,MR. LINN,start_answer
+99,350,13,18,It varies.,a,THE WITNESS,start_question
+100,351,13,19,Why did you know on this day it was 4:00?,q,MR. LINN,start_answer
+101,353,13,21,"No, it wasn't at 4:00, she came out at 4:00.",a,THE WITNESS,start_question
+102,355,13,23,She was done her work day at 4:00?,q,MR. LINN,start_answer
+103,359,14,1,Yes.,a,THE WITNESS,start_question
+104,360,14,2,And you knew that before you began your trip that day?,q,MR. LINN,start_answer
+105,362,14,4,Yes.,a,THE WITNESS,start_question
+106,363,14,5,Okay.  I take it you don't like to be late when you go to pick up your wife?,q,MR. LINN,start_chat
+107,366,14,8,Object to the form.,side_chat,MS. KRENICKY,start_question
+108,369,14,11,You can answer.,q,MR. LINN,start_answer
+109,370,14,12,No.,a,THE WITNESS,start_question
+110,371,14,13,"No, you do not like to be late?",q,MR. LINN,start_answer
+111,373,14,15,No.,a,THE WITNESS,start_question
+112,374,14,16,"Is it a correct statement, yes or no, that you do not like to be late to pick up your wife?",q,MR. LINN,start_answer
+113,377,14,19,I don't like arriving late.,a,THE WITNESS,start_question
+114,378,14,20,"Understood, thank you.  On the date of the accident, did you have a cellphone?",q,MR. LINN,start_answer
+115,381,14,23,Yes.,a,THE WITNESS,start_question
+116,382,14,24,Is it the same cellphone that you have today?,q,MR. LINN,start_answer
+117,386,15,2,No.,a,THE WITNESS,start_question
+118,387,15,3,Is it the same service that you have today?,q,MR. LINN,start_answer
+119,389,15,5,Yes.,a,THE WITNESS,start_question
+120,390,15,6,"What is the service that you had with your cellphone back on October 31st, 2017?",q,MR. LINN,start_answer
+121,393,15,9,Metro PCS.,a,THE WITNESS,start_question
+122,394,15,10,And currently you're still with Metro PCS?,q,MR. LINN,start_answer
+123,396,15,12,Yes.,a,THE WITNESS,start_question
+124,397,15,13,Is the phone number the same?,q,MR. LINN,start_answer
+125,399,15,15,"Yes, it's the same.",a,THE WITNESS,start_question
+126,400,15,16,"What was your phone number back on October 31st, 2017 with Metro PCS?",q,MR. LINN,start_answer
+127,403,15,19,302-565-9402.,a,THE WITNESS,start_question
+128,404,15,20,Okay.  What were the weather conditions like that day?,q,MR. LINN,start_answer
+129,406,15,22,"Clean, calm.",a,THE WITNESS,start_question
+130,407,15,23,Clear and dry?,q,MR. LINN,start_answer
+131,408,15,24,Yes.,a,THE WITNESS,start_question
+132,411,16,1,Okay.  Where did the accident take place?,q,MR. LINN,start_answer
+133,413,16,3,I don't know the name of the street.,a,THE WITNESS,start_question
+134,415,16,5,Okay.  Had you ever been through this intersection prior to the accident?,q,MR. LINN,start_answer
+135,418,16,8,"Yes, I use it every day.",a,THE WITNESS,start_question
+136,419,16,9,Do you know what street you were driving on itself?,q,MR. LINN,start_answer
+137,421,16,11,"I don't know the name, but I know the street.",a,THE WITNESS,start_question
+138,423,16,13,"Okay.  You're familiar with the street, you just don't know the name?",q,MR. LINN,start_answer
+139,425,16,15,Yes.,a,THE WITNESS,start_question
+140,426,16,16,And you drive on this particular street at this intersection on a daily basis?,q,MR. LINN,start_answer
+141,429,16,19,I'm still using it.,a,THE WITNESS,start_question
+142,430,16,20,You still use that street?,q,MR. LINN,start_answer
+143,431,16,21,Yes.,a,THE WITNESS,start_question
+144,432,16,22,And do you still go through that intersection on a daily basis?,q,MR. LINN,start_answer
+145,434,16,24,Yes.,a,THE WITNESS,start_question
+146,437,17,1,"Okay.  If the police report, sir, in this matter indicates that the incident took place at the intersection of 12th and Potter streets, would you have reason to disagree with that?",q,MR. LINN,start_answer
+147,442,17,6,"No, that's probably right.",a,THE WITNESS,start_question
+148,443,17,7,"All right.  The police report indicates that prior to the accident, you had been traveling eastbound on 12th Street; does that sound right to you?",q,MR. LINN,start_answer
+149,448,17,12,Yes.,a,THE WITNESS,start_chat
+150,449,17,13,"Just before you continue, I just want a standing objection to the use of the police report to any extent that it could be used into trial. But I understand what you're doing at this point.  So just so I don't keep interrupting you, I'd just like a standing objection to the admissibility of the police report in this case.",side_chat,MS. KRENICKY,start_chat
+151,460,17,24,"All right, no problem.",side_chat,MR. LINN,start_question
+152,465,18,3,"Sir, since we've agreed that you were traveling on 12th Street at the time of this accident, do you know how many blocks you had been traveling on 12th Street before the intersection where the accident took place?",q,MR. LINN,start_answer
+153,471,18,9,"I passed one and I was on the second, on the second.",a,THE WITNESS,start_question
+154,473,18,11,So you had driven approximately two blocks on 12th Street before the accident took place?,q,MR. LINN,start_answer
+155,476,18,14,Yes.,a,THE WITNESS,start_question
+156,477,18,15,"12th Street for the direction that you were traveling, how many lanes is it for your direction?",q,MR. LINN,start_answer
+157,480,18,18,There's two.,a,THE WITNESS,start_question
+158,481,18,19,Is it one lane in each direction?,q,MR. LINN,start_answer
+159,483,18,21,Yes.,a,THE WITNESS,start_question
+160,484,18,22,"One lane going eastbound, one lane going westbound?",q,MR. LINN,start_answer
+161,486,18,24,Yes.,a,THE WITNESS,start_question
+162,489,19,1,Is there parking on 12th Street?,q,MR. LINN,start_answer
+163,491,19,3,"Yeah, on the street there are vehicles, on the right side, yes.",a,THE WITNESS,start_question
+164,493,19,5,Is there parking on both the east side of the street and the west side of the street?,q,MR. LINN,start_answer
+165,496,19,8,Yes.,a,THE WITNESS,start_question
+166,497,19,9,"Okay.  Is the intersection of 12th and Potter where this accident took place controlled by any traffic signs, lights, or devices?",q,MR. LINN,start_answer
+167,501,19,13,There was a light only.,a,THE WITNESS,start_question
+168,502,19,14,Is the light at 12th and Potter streets?,q,MR. LINN,start_answer
+169,504,19,16,"No, it's further ahead.",a,THE WITNESS,start_question
+170,505,19,17,"So for the intersection at 12th and Potter, are there any traffic control devices, lights, or anything of that kind?",q,MR. LINN,start_answer
+171,509,19,21,Only the stops.,a,THE WITNESS,start_question
+172,510,19,22,Is there a stop sign for eastbound 12th Street?,q,MR. LINN,start_answer
+173,512,19,24,"Yeah, there is three stops.",a,THE WITNESS,start_question
+174,515,20,1,"Okay.  So for your direction of travel for eastbound 12th Street, there would have been a stop sign at its intersection at Potter Street?",q,MR. LINN,start_answer
+175,519,20,5,Yes.,a,THE WITNESS,start_question
+176,520,20,6,"How about for cars traveling on Potter Street, are there any stop signs for cars traveling on Potter Street?",q,MR. LINN,start_answer
+177,524,20,10,It also has a stop.,a,THE WITNESS,start_question
+178,525,20,11,Okay.  Was there any construction going on at the intersection of 12th and Potter Street on the date of this accident?,q,MR. LINN,start_answer
+179,529,20,15,Not back then.,a,THE WITNESS,start_question
+180,530,20,16,Okay.  Are you familiar with Potter Street where it crosses at 12th Street?,q,MR. LINN,start_answer
+181,533,20,19,"Yes, I know the crossing, but I've never gone into that street.",a,THE WITNESS,start_question
+182,535,20,21,All right.  Does Potter Street continue straight through 12th Street?,q,MR. LINN,start_answer
+183,538,20,24,"No, it finishes there.",a,THE WITNESS,start_question
+184,541,21,1,"Okay.  If a car was traveling on Potter Street as it approached 12th Street, could it continue straight or would it have to make either a left or a right?",q,MR. LINN,start_answer
+185,546,21,6,"No, it can only turn either right or left.",a,THE WITNESS,start_question
+186,548,21,8,Okay.  And is that the case to the present time?,q,MR. LINN,start_answer
+187,550,21,10,"Yeah, it's the same.",a,THE WITNESS,start_question
+188,551,21,11,Okay.  And do you recall seeing any construction vehicles of any kind at the intersection of 12th and Potter on the date of the accident?,q,MR. LINN,start_answer
+189,555,21,15,No.,a,THE WITNESS,start_question
+190,556,21,16,What were traffic conditions like that day?,q,MR. LINN,start_answer
+191,558,21,18,Not a lot of traffic.,a,THE WITNESS,start_question
+192,559,21,19,"Okay.  Sir, from the time that you got onto 12th Street approximately two blocks before Potter Street, can you take me from that point in time and tell me what happened?",q,MR. LINN,start_answer
+193,564,21,24,"I still had like about ten meters to arrive to the stop sign, and when I looked at her car, she was already very close to the corner, to my corner.",a,THE WITNESS,start_question
+194,570,22,4,Tell me what happened at that point.,q,MR. LINN,start_answer
+195,572,22,6,"I couldn't brake -- I did brake, but...",a,THE WITNESS,start_question
+196,574,22,8,What happened after you applied your brakes?,q,MR. LINN,start_answer
+197,576,22,10,I stood there because we were already together.,a,THE WITNESS,start_question
+198,578,22,12,Okay.  Let's bring us back in time.  Do you know what street you were on just before you got onto 12th Street?,q,MR. LINN,start_answer
+199,582,22,16,"I think it was 322, I believe.",a,THE WITNESS,start_question
+200,584,22,18,All right.  Is the intersection of 322 and 12th Street approximately two blocks away from Potter?,q,MR. LINN,start_answer
+201,588,22,22,Yes.,a,THE WITNESS,start_question
+202,589,22,23,"Okay.  So you turn off of 322 and you get onto 12th Street, correct?",q,MR. LINN,start_answer
+203,594,23,2,Yes.,a,THE WITNESS,start_question
+204,595,23,3,And then you traveled one block?,q,MR. LINN,start_answer
+205,597,23,5,Yes.,a,THE WITNESS,start_question
+206,598,23,6,What is the intersection after that one block?,q,MR. LINN,start_answer
+207,600,23,8,I don't know.,a,THE WITNESS,start_question
+208,601,23,9,Okay.  Is that intersection a block before Potter Street controlled by a traffic light or a stop sign?,q,MR. LINN,start_answer
+209,604,23,12,A stop sign.,a,THE WITNESS,start_question
+210,605,23,13,Did you stop at that intersection one block before 12th and Potter Street?,q,MR. LINN,start_answer
+211,608,23,16,Yes.,a,THE WITNESS,start_question
+212,609,23,17,And then the next intersecting street after that stop sign would be 12th and Potter?,q,MR. LINN,start_answer
+213,612,23,20,Yes.,a,THE WITNESS,start_question
+214,613,23,21,Do you know what the speed limit would be on 12th Street as you're approaching Potter?,q,MR. LINN,start_answer
+215,616,23,24,25.,a,THE WITNESS,start_question
+216,619,24,1,"Okay.  If the police report in this matter indicated that the speed limit for 12th Street would have been 15 miles an hour, would you have a reason to agree or disagree with that?",q,MR. LINN,start_answer
+217,624,24,6,"No, must be correct.",a,THE WITNESS,start_question
+218,625,24,7,I'm sorry.,q,MR. LINN,start_answer
+219,626,24,8,It must be correct.,a,THE WITNESS,start_question
+220,627,24,9,"So if you were doing 25 miles an hour and the speed limit was 15 miles an hour, can we agree that you were traveling faster than the speed limit permitted as you were traveling on Potter Street?",q,MR. LINN,start_chat
+221,633,24,15,Objection to form.,side_chat,MS. KRENICKY,start_question
+222,636,24,18,You can answer.,q,MR. LINN,start_answer
+223,637,24,19,I said 25 because I'm not sure.  I know that the speed limit is very slow.,a,THE WITNESS,start_question
+224,640,24,22,"Okay, fine.  As you were approaching Potter Street while proceeding down 12th, at any time were you utilizing your cellphone?",q,MR. LINN,start_answer
+225,646,25,2,No.,a,THE WITNESS,start_question
+226,647,25,3,Were you making any calls?,q,MR. LINN,start_answer
+227,648,25,4,I made calls after the accident.,a,THE WITNESS,start_question
+228,650,25,6,Were you making calls just before the accident?,q,MR. LINN,start_answer
+229,652,25,8,No.,a,THE WITNESS,start_question
+230,653,25,9,"Does your Kia that you had on the date of the accident, does that have hands-free use of your cellphone?",q,MR. LINN,start_answer
+231,656,25,12,Yes.  All my vehicles have that.,a,THE WITNESS,start_question
+232,658,25,14,Do you have to hold your phone in order to make a phone call?,q,MR. LINN,start_answer
+233,660,25,16,No.,a,THE WITNESS,start_question
+234,661,25,17,Were you texting at the time of this accident?,q,MR. LINN,start_answer
+235,663,25,19,No.,a,THE WITNESS,start_question
+236,664,25,20,Does your Kia Rio have the capability of hands-free texting while you're operating your vehicle?,q,MR. LINN,start_answer
+237,667,25,23,No.,a,THE WITNESS,start_question
+238,668,25,24,So you would actually physically have to text on your phone in order to text if you were in your vehicle?,q,MR. LINN,start_answer
+239,674,26,4,Yes.  But I wasn't doing that.,a,THE WITNESS,start_question
+240,676,26,6,"Understood.  As you approach Potter Street, is there any obstruction to your view for cars that are traveling on Potter Street which approach 12th Street?",q,MR. LINN,start_answer
+241,681,26,11,No.,a,THE WITNESS,start_question
+242,682,26,12,And by that I mean construction?,q,MR. LINN,start_answer
+243,684,26,14,No.,a,THE WITNESS,start_question
+244,685,26,15,Shrubbery or trees?,q,MR. LINN,start_answer
+245,686,26,16,No.,a,THE WITNESS,start_question
+246,687,26,17,"Okay.  So as you're coming down 12th Street, at any point in time, do you stop at the stop sign before the impact?",q,MR. LINN,start_answer
+247,691,26,21,"No, because I hadn't gotten to the stop yet.",a,THE WITNESS,start_question
+248,693,26,23,"Okay.  At the moment of impact, approximately how fast were you traveling?",q,MR. LINN,start_answer
+249,698,27,2,"I was almost stopped.  Like 5 or 10, something like that.",a,THE WITNESS,start_question
+250,700,27,4,"Okay.  When you first see the other vehicle for the very first time, where is that vehicle?",q,MR. LINN,start_answer
+251,703,27,7,She was coming out of her stop from the street.,a,THE WITNESS,start_question
+252,705,27,9,Was she coming out from Potter Street?,q,MR. LINN,start_answer
+253,707,27,11,Yes.,a,THE WITNESS,start_question
+254,708,27,12,"When you first see her for the first time you say she's coming out, has she entered the intersection yet?",q,MR. LINN,start_answer
+255,711,27,15,She had already come out.,a,THE WITNESS,start_question
+256,712,27,16,How much of her vehicle had entered the intersection at the time that you first see her?,q,MR. LINN,start_answer
+257,715,27,19,She had already come into the street.,a,THE WITNESS,start_question
+258,717,27,21,"Was half of her car into the intersection, her entire car into the intersection, a small portion, can you give us an estimate as to how much of her car was into the intersection when you first lay eyes on it?",q,MR. LINN,start_answer
+259,725,28,3,Half of the vehicle.,a,THE WITNESS,start_question
+260,726,28,4,Okay.  So half of the vehicle was still on Potter Street and half of her vehicle was into the intersection; is that correct?,q,MR. LINN,start_chat
+261,730,28,8,When you first saw it.,side_chat,MS. KRENICKY,start_question
+262,733,28,11,When you first saw it.,q,MR. LINN,start_answer
+263,734,28,12,"Yeah.  The first time that I saw it, it was half inside.",a,THE WITNESS,start_question
+264,736,28,14,Okay.  Where is the front of your vehicle when you see her vehicle for the very first time?,q,MR. LINN,start_answer
+265,739,28,17,I was arriving to the stop.,a,THE WITNESS,start_question
+266,740,28,18,Okay.  Can you give us an estimate as to how far you were from the stop sign when you first saw her vehicle for the first time?,q,MR. LINN,start_answer
+267,744,28,22,Like five meters.,a,THE WITNESS,start_question
+268,745,28,23,"Okay.  And at that point, your vehicle was traveling five miles an hour?",q,MR. LINN,start_answer
+269,750,29,2,"Yeah, because I was getting ready for the stop.",a,THE WITNESS,start_question
+270,752,29,4,"Okay.  At the moment of impact, can you tell us where your vehicle was?",q,MR. LINN,start_answer
+271,755,29,7,Behind the stop.,a,THE WITNESS,start_question
+272,756,29,8,Okay.  Were you still five meters from the stop sign at the moment of impact?,q,MR. LINN,start_answer
+273,759,29,11,No.  What happens is that she came out very fast and she went into my lane.,a,THE WITNESS,start_question
+274,762,29,14,"Okay, and I understand that. I guess what I want to know is at the moment of impact, how far from the stop sign were you?",q,MR. LINN,start_answer
+275,766,29,18,Like three meters.,a,THE WITNESS,start_question
+276,767,29,19,"And you said that when she made her turn, she was in your lane of travel, correct?",q,MR. LINN,start_chat
+277,770,29,22,The interpreter needs repetition.,side_chat,THE INTERPRETER,start_question
+278,775,30,1,"At the moment of impact, she was in your lane of travel?",q,MR. LINN,start_answer
+279,777,30,3,"Not all of it, but half of it, a part of it, yes.",a,THE WITNESS,start_question
+280,779,30,5,"And we can agree that you were in the eastbound lanes of 12th Street, correct?",q,MR. LINN,start_answer
+281,782,30,8,Yes.,a,THE WITNESS,start_question
+282,783,30,9,How much of her vehicle was in the eastbound lanes at the moment of impact?,q,MR. LINN,start_answer
+283,786,30,12,"The street is small, like a meter.",a,THE WITNESS,start_question
+284,788,30,14,Okay.  Was any portion of her vehicle in the westbound lane of 12th Street at the moment of impact?,q,MR. LINN,start_answer
+285,791,30,17,Yes.,a,THE WITNESS,start_question
+286,792,30,18,How much of her vehicle was in the westbound lane versus how much of her vehicle was in the eastbound lane?,q,MR. LINN,start_answer
+287,795,30,21,She only went like a meter inside of my lane.,a,THE WITNESS,start_question
+288,797,30,23,Okay.  And the impact took place approximately three meters before the stop sign on 12th Street?,q,MR. LINN,start_answer
+289,802,31,2,Yes.,a,THE WITNESS,start_question
+290,803,31,3,"From the time that you first see her when you were five meters from the stop sign until the moment of impact, can you give us an estimate as to how much time passed?",q,MR. LINN,start_answer
+291,808,31,8,How much time went by?,a,THE WITNESS,start_question
+292,809,31,9,"From the moment that you first see her until the moment of impact, how much time passed?",q,MR. LINN,start_answer
+293,812,31,12,Seconds.,a,THE WITNESS,start_question
+294,813,31,13,Did you do anything to try and attempt to avoid the accident?,q,MR. LINN,start_answer
+295,815,31,15,"Yes, I applied the brakes.",a,THE WITNESS,start_question
+296,816,31,16,Did you blow your horn?,q,MR. LINN,start_answer
+297,817,31,17,I didn't have time for that.,a,THE WITNESS,start_question
+298,818,31,18,Did the other driver blow her horn?,q,MR. LINN,start_answer
+299,820,31,20,"Yeah, when we had already crashed she did.",a,THE WITNESS,start_question
+300,822,31,22,Did she blow her horn before the impact?,q,MR. LINN,start_answer
+301,824,31,24,"No, I never heard it.",a,THE WITNESS,start_question
+302,827,32,1,But she blew her horn after the impact?,q,MR. LINN,start_answer
+303,829,32,3,"Yeah, already when we had already touched.",a,THE WITNESS,start_question
+304,831,32,5,Do you have any explanation as to why she would have blown her horn after impact?,q,MR. LINN,start_answer
+305,834,32,8,"No, I don't know.",a,THE WITNESS,start_question
+306,835,32,9,Do you know what the speed of her vehicle was at the moment of impact?,q,MR. LINN,start_answer
+307,838,32,12,"I can only say that she came out of the stop very fast, that's the only thing that I think.",a,THE WITNESS,start_question
+308,841,32,15,Do you ever see any part of her vehicle traveling up Potter Street?,q,MR. LINN,start_answer
+309,843,32,17,Yes.,a,THE WITNESS,start_question
+310,844,32,18,Where was she on Potter Street when you saw her traveling up Potter Street?,q,MR. LINN,start_answer
+311,847,32,21,"Well, I just saw her when she came out of the stop.",a,THE WITNESS,start_question
+312,849,32,23,Okay.  Did you ever see her vehicle before it entered the intersection of Potter Street?,q,MR. LINN,start_answer
+313,854,33,2,No.,a,THE WITNESS,start_question
+314,855,33,3,Was there anything that would have obstructed your view from seeing her traveling down Potter Street before it got to the intersection?,q,MR. LINN,start_answer
+315,859,33,7,No.,a,THE WITNESS,start_question
+316,860,33,8,"When you were five meters from the stop sign, approximately how far down Potter Street can you see the vehicle?",q,MR. LINN,start_answer
+317,864,33,12,"Inside of the street, very little.",a,THE WITNESS,start_question
+318,866,33,14,Why is it that you can only see very little?,q,MR. LINN,start_answer
+319,868,33,16,Because there are cars parked on that street.,a,THE WITNESS,start_question
+320,870,33,18,Okay.  Were cars parked on Potter Street as it approached its intersection on that particular day?,q,MR. LINN,start_answer
+321,873,33,21,Yes.,a,THE WITNESS,start_question
+322,874,33,22,And those parked vehicles was what would have obstructed your view of seeing her car come up Potter Street as it approached 12th?,q,MR. LINN,start_answer
+323,880,34,2,"Not me, but I guess the other vehicle would have had problems because they're parked on the other side.",a,THE WITNESS,start_question
+324,883,34,5,"So when you say, ""Not me,"" was your view of vehicles coming up Potter Street obstructed?",q,MR. LINN,start_answer
+325,886,34,8,No.,a,THE WITNESS,start_question
+326,887,34,9,So you had a clear view of cars coming up Potter Street?,q,MR. LINN,start_answer
+327,889,34,11,Yes.,a,THE WITNESS,start_question
+328,890,34,12,Could you see half a block down Potter Street where it meets its intersection with 12th Street?,q,MR. LINN,start_answer
+329,893,34,15,Yeah.  You can see when the cars are coming up to do the stop.,a,THE WITNESS,start_question
+330,895,34,17,"From five meters from the stop sign, could you see half a block down Potter Street as it approaches its intersection with 12th Street?",q,MR. LINN,start_answer
+331,899,34,21,"Half the block, no.",a,THE WITNESS,start_question
+332,900,34,22,How much of the block can you see when you're five meters from the stop sign?,q,MR. LINN,start_answer
+333,905,35,1,Like ten meters.,a,THE WITNESS,start_question
+334,906,35,2,"Okay.  As you were five meters from the stop sign, did you look down Potter Street?",q,MR. LINN,start_answer
+335,909,35,5,Yes.,a,THE WITNESS,start_question
+336,910,35,6,"And at that point, you could see ten meters down Potter Street?",q,MR. LINN,start_answer
+337,912,35,8,More or less.,a,THE WITNESS,start_question
+338,913,35,9,What part of your vehicle was struck?,q,MR. LINN,start_answer
+339,915,35,11,The driver side.,a,THE WITNESS,start_question
+340,916,35,12,Would that be the front of your car?,q,MR. LINN,start_answer
+341,918,35,14,"No, it wasn't in front, it was in the corner of the bumper.",a,THE WITNESS,start_question
+342,920,35,16,Is that where the front of your car meets the side of your car?,q,MR. LINN,start_chat
+343,922,35,18,"The interpreter needs repetition, I'm sorry.",side_chat,THE INTERPRETER,start_question
+344,926,35,22,Would that be where the front of your car meets the driver side of your car?,q,MR. LINN,start_answer
+345,931,36,1,Yes.,a,THE WITNESS,start_question
+346,932,36,2,Did you take pictures of your vehicle?,q,MR. LINN,start_answer
+347,934,36,4,Yes.,a,THE WITNESS,start_chat
+348,935,36,5,Off the record.,side_chat,MR. LINN,symbols
+349,936,36,6,-  -  -,symbols,,is brackets
+350,937,36,7,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+351,940,36,10,-  -  -,symbols,,start_question
+352,942,36,12,Can you tell me what portion of my client's vehicle made contact with your vehicle?,q,MR. LINN,start_answer
+353,945,36,15,The driver's door.,a,THE WITNESS,start_question
+354,946,36,16,Her driver's door?,q,MR. LINN,start_answer
+355,947,36,17,Yes.,a,THE WITNESS,start_question
+356,948,36,18,Did you have any conversations with my client after the accident?,q,MR. LINN,start_answer
+357,951,36,21,No.,a,THE WITNESS,start_question
+358,952,36,22,Did the police arrive?,q,MR. LINN,start_answer
+359,953,36,23,Yes.,a,THE WITNESS,start_question
+360,954,36,24,"When the police arrived, did you speak to the police officer?",q,MR. LINN,start_answer
+361,958,37,2,Yes.,a,THE WITNESS,start_question
+362,959,37,3,Did you give him your version of what occurred that day?,q,MR. LINN,start_answer
+363,961,37,5,Yes.,a,THE WITNESS,start_question
+364,962,37,6,"When the police officer asked you questions, were you able to understand him?",q,MR. LINN,start_answer
+365,965,37,9,Yes.,a,THE WITNESS,start_question
+366,966,37,10,"You had no problems with interpretations, correct?",q,MR. LINN,start_answer
+367,968,37,12,No.,a,THE WITNESS,start_question
+368,969,37,13,"Sir, I want to show you some photographs from Google Maps, okay? First off, I'm going to show you a packet of photos and I'm going to ask you to look through those photos and my question will be do you recognize what's shown in these photographs.",q,MR. LINN,start_chat
+369,976,37,20,Keep looking.,side_chat,MS. KRENICKY,start_question
+370,978,37,22,Have you had a chance to look through those Google photos?,q,MR. LINN,start_answer
+371,980,37,24,Yes.,a,THE WITNESS,start_question
+372,983,38,1,Do you recognize what's shown in those photos?,q,MR. LINN,start_answer
+373,985,38,3,Yes.,a,THE WITNESS,start_question
+374,986,38,4,What does this show?,q,MR. LINN,start_answer
+375,987,38,5,The streets.,a,THE WITNESS,start_question
+376,988,38,6,And does this show the intersection of 12th and Potter streets?,q,MR. LINN,start_answer
+377,990,38,8,Yes.,a,THE WITNESS,start_question
+378,991,38,9,Okay.,q,MR. LINN,symbols
+379,992,38,10,-  -  -,symbols,,is brackets
+380,993,38,11,"(Whereupon, Exhibit D-2 was marked for identification.)",brackets,,symbols
+381,995,38,13,-  -  -,symbols,,start_question
+382,997,38,15,"Sir, I'm showing you what we marked as D-2.  Does this show your view that you would have had as you approached Potter Street on that day?",q,MR. LINN,start_answer
+383,1001,38,19,Yes.,a,THE WITNESS,start_question
+384,1002,38,20,"With an X, sir, I'm going to give you my pen, and I'd like you to place on this photograph, if you can, an X where the front of your car was when you first laid eyes on the other vehicle. Okay.  Can you circle that for me, sir?",q,MR. LINN,start_answer
+385,1010,39,2,Yes.,a,THE WITNESS,symbols
+386,1011,39,3,-  -  -,symbols,,is brackets
+387,1012,39,4,"(Whereupon, Exhibit D-3 was marked for identification.)",brackets,,symbols
+388,1014,39,6,-  -  -,symbols,,start_question
+389,1016,39,8,"Sir, I'm showing you what we marked as D-3.  Can we agree that's a little closer to the intersection showing your view?",q,MR. LINN,start_answer
+390,1020,39,12,Yes.,a,THE WITNESS,start_question
+391,1021,39,13,"And again with my pen, if you could, could you place an X where your front of your vehicle was when you first laid eyes on it?",q,MR. LINN,start_answer
+392,1025,39,17,"When I saw it, I was around here.",a,THE WITNESS,start_question
+393,1027,39,19,Okay.  And the circle that you've kind of drawn on here in D-3 shows the front of your vehicle at the time that you first see the other car?,q,MR. LINN,start_answer
+394,1031,39,23,"Yeah, when she was already turning.",a,THE WITNESS,start_question
+395,1035,40,1,Okay.  And you believe this to be about five meters from the stop sign?,q,MR. LINN,start_answer
+396,1038,40,4,"I'm not sure, but that's what I believe.",a,THE WITNESS,start_question
+397,1040,40,6,Okay.  Can you describe the impact between the two vehicles?,q,MR. LINN,start_answer
+398,1042,40,8,It wasn't that hard because we both braked.,a,THE WITNESS,start_question
+399,1044,40,10,"Was it a light impact, a medium impact, or a heavy impact?",q,MR. LINN,start_answer
+400,1046,40,12,"Light, I would say.",a,THE WITNESS,start_question
+401,1047,40,13,Do you get a monthly bill from Metro PCS?,q,MR. LINN,start_answer
+402,1049,40,15,No.,a,THE WITNESS,start_question
+403,1050,40,16,How do you pay your bill with Metro PCS?,q,MR. LINN,start_answer
+404,1052,40,18,"Yes, it is every month, but it's prepaid.",a,THE WITNESS,start_question
+405,1054,40,20,Does your monthly bill show you the calls that you made?,q,MR. LINN,start_answer
+406,1056,40,22,No.,a,THE WITNESS,start_question
+407,1057,40,23,Do you know whether or not Metro PCS has a way of showing us the calls that you would have made back in October of 2017?,q,MR. LINN,start_answer
+408,1063,41,3,No.  I already tried that and they said no.,a,THE WITNESS,start_chat
+409,1065,41,5,"Take a quick break for a second, okay.",side_chat,MR. LINN,symbols
+410,1067,41,7,-  -  -,symbols,,is brackets
+411,1068,41,8,"(Whereupon, a brief break was taken.)",brackets,,symbols
+412,1070,41,10,-  -  -,symbols,,is brackets
+413,1071,41,11,"(Whereupon, Exhibit D1-A, D1-B, and D1-C were marked for identification.)",brackets,,symbols
+414,1074,41,14,-  -  -,symbols,,start_question
+415,1076,41,16,"Sir I'm going to show you some photos that we've marked D1-A, D1-B and D1-C.",q,MR. LINN,start_answer
+416,1079,41,19,Okay.,a,THE WITNESS,start_question
+417,1080,41,20,"And they're basically all the same pictures.  First of all, I'm going to show you them on my cellphone, which the court reporter also has, as well.  And I'm just showing you three photographs, correct?",q,MR. LINN,start_answer
+418,1088,42,2,Yes.,a,THE WITNESS,start_question
+419,1089,42,3,Are these the photographs that you took after accident?,q,MR. LINN,start_answer
+420,1091,42,5,Yes.,a,THE WITNESS,start_question
+421,1092,42,6,And does this show the damage to your vehicle?,q,MR. LINN,start_answer
+422,1094,42,8,Yes.,a,THE WITNESS,start_question
+423,1095,42,9,"And this basically shows your headlight, correct?",q,MR. LINN,start_answer
+424,1097,42,11,Yes.,a,THE WITNESS,start_question
+425,1098,42,12,"And it is the driver side headlight, correct?",q,MR. LINN,start_answer
+426,1100,42,14,Yes.,a,THE WITNESS,start_question
+427,1101,42,15,"And we see some damage just below the driver side headlight, correct?",q,MR. LINN,start_answer
+428,1103,42,17,Yes.,a,THE WITNESS,start_question
+429,1104,42,18,Did that damage come from this accident?,q,MR. LINN,start_answer
+430,1106,42,20,Yes.,a,THE WITNESS,start_chat
+431,1107,42,21,"Sir, that's all the questions I have.  We're good, thank you very much.",side_chat,MR. LINN,symbols
+432,1110,42,24,-  -  -,symbols,,is brackets
+433,1113,43,1,"(Whereupon, the Witness was excused.)",brackets,,symbols
+434,1115,43,3,-  -  -,symbols,,is brackets
+435,1116,43,4,"(Whereupon, the deposition ended at 10:40 a.m.)",brackets,,symbols
+436,1118,43,6,-  -  - CERTIFICATE I HEREBY CERTIFY that the Witness was duly sworn by me and that the deposition is a true record of the testimony given by the Witness.,symbols,,symbols
+437,1148,44,10,_____________________________________ Date:  7/29/19 of this transcript does not apply to any unless under the direct control and/or LAWYER'S NOTES PAGE  LINE,symbols,,symbols
+438,1171,45,3,____  ____  ____________________________,symbols,,symbols
+439,1172,45,4,____  ____  ____________________________,symbols,,symbols
+440,1173,45,5,____  ____  ____________________________,symbols,,symbols
+441,1174,45,6,____  ____  ____________________________,symbols,,symbols
+442,1175,45,7,____  ____  ____________________________,symbols,,symbols
+443,1176,45,8,____  ____  ____________________________,symbols,,symbols
+444,1177,45,9,____  ____  ____________________________,symbols,,symbols
+445,1178,45,10,____  ____  ____________________________,symbols,,symbols
+446,1179,45,11,____  ____  ____________________________,symbols,,symbols
+447,1180,45,12,____  ____  ____________________________,symbols,,symbols
+448,1181,45,13,____  ____  ____________________________,symbols,,symbols
+449,1182,45,14,____  ____  ____________________________,symbols,,symbols
+450,1183,45,15,____  ____  ____________________________,symbols,,symbols
+451,1184,45,16,____  ____  ____________________________,symbols,,symbols
+452,1185,45,17,____  ____  ____________________________,symbols,,symbols
+453,1186,45,18,____  ____  ____________________________,symbols,,symbols
+454,1187,45,19,____  ____  ____________________________,symbols,,symbols
+455,1188,45,20,____  ____  ____________________________,symbols,,symbols
+456,1189,45,21,____  ____  ____________________________,symbols,,symbols
+457,1190,45,22,____  ____  ____________________________,symbols,,symbols
+458,1191,45,23,____  ____  ____________________________,symbols,,symbols
+459,1192,45,24,____  ____  ____________________________,symbols,,end

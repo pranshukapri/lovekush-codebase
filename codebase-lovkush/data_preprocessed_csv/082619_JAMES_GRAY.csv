@@ -1,0 +1,316 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,136,5,12,- - - EXAMINATION,symbols,,symbols
+2,138,5,14,- - -,symbols,,start_question
+3,140,5,16,"Mr. Gray, would you state your name for the court reporter.",q,MR. KELLY,start_answer
+4,142,5,18,James Gray.,a,THE WITNESS,start_question
+5,143,5,19,Your address?,q,MR. KELLY,start_answer
+6,144,5,20,"1726 Erlen Road, Elkins Park, Pennsylvania 19027.",a,THE WITNESS,start_question
+7,146,5,22,What's your date of birth?,q,MR. KELLY,start_answer
+8,147,5,23,7/8/65.,a,THE WITNESS,start_question
+9,148,5,24,Have you ever given a deposition before?,q,MR. KELLY,start_answer
+10,151,6,2,No.,a,THE WITNESS,start_question
+11,152,6,3,"A few instructions before we start. What's going to happen here is I'm going to ask you questions and you're going to answer. The court reporter is taking it down. It's important not to talk over each other.  It makes it difficult for the court reporter to take the question down.  Make sure you understand my question before you answer it.  If you don't, I'm glad to repeat it.  I don't want you to give an inaccurate answer. You can't answer uh-uh or uh-huh.  You have to say yes or no because the court reporter can't take that down, and we wouldn't know what you meant by it necessarily. Is there any reason today why you can't give a deposition? Are you on any kind of medication or disability or anything?",q,MR. KELLY,start_answer
+12,172,6,23,No.,a,THE WITNESS,start_question
+13,173,6,24,"If you need a break at any time, let me know, and we'll go from there.  I'm glad to wait, if you want to stop and talk to your attorney, that's fine. Mr. Gray, do you remember the accident we're here for today?",q,MR. KELLY,start_answer
+14,180,7,6,Yes.,a,THE WITNESS,start_question
+15,181,7,7,Do you remember the date?,q,MR. KELLY,start_answer
+16,182,7,8,"No, I don't remember the date.",a,THE WITNESS,start_question
+17,183,7,9,"If I said it was December 7, 2016, would you believe that's accurate?",q,MR. KELLY,start_answer
+18,185,7,11,I don't know.  I don't remember the date.,a,THE WITNESS,start_question
+19,187,7,13,About two years ago or so?,q,MR. KELLY,start_answer
+20,188,7,14,Yes.,a,THE WITNESS,start_question
+21,189,7,15,"Where were you going on that day, do you recall?",q,MR. KELLY,start_answer
+22,191,7,17,I was either going two places that I recall.  Either going to pick up a friend of mines or going to -- I think I was on my way to L&I.,a,THE WITNESS,start_question
+23,195,7,21,Where were you coming from?,q,MR. KELLY,start_answer
+24,196,7,22,My house.,a,THE WITNESS,start_question
+25,197,7,23,"You were driving a company truck, correct?",q,MR. KELLY,start_answer
+26,200,8,1,"Yeah, my car.  It was my car.",a,THE WITNESS,start_question
+27,201,8,2,Is it your company?,q,MR. KELLY,start_answer
+28,202,8,3,Yes.,a,THE WITNESS,start_question
+29,203,8,4,What's the name of the company?,q,MR. KELLY,start_answer
+30,204,8,5,B-World Electrical Contractors.,a,THE WITNESS,start_question
+31,205,8,6,Are there any other owners of that company besides you?,q,MR. KELLY,start_answer
+32,207,8,8,No.,a,THE WITNESS,start_question
+33,208,8,9,Were you using it for the purpose of work?,q,MR. KELLY,start_answer
+34,210,8,11,Yes.,a,THE WITNESS,start_question
+35,211,8,12,"You don't remember if you were going to L&I or somewhere else, right?",q,MR. KELLY,start_answer
+36,213,8,14,Yes.,a,THE WITNESS,start_question
+37,214,8,15,What route did you take to the scene of the accident?,q,MR. KELLY,start_answer
+38,216,8,17,Where was I coming from?  Which way did I go?,a,THE WITNESS,start_question
+39,218,8,19,How did you get to the accident?,q,MR. KELLY,start_answer
+40,219,8,20,"My normal route.  I go down Broad Street, get on at Tioga, take the expressway and go straight down to either 15th Street and get off, somewhere in there.",a,THE WITNESS,start_question
+41,223,8,24,Do you recall how fast you were going at the time of the accident?,q,MR. KELLY,start_answer
+42,226,9,2,Normal speed.,a,THE WITNESS,start_chat
+43,227,9,3,"I'm just going to object to the form. Do you mean at the moment of impact, or as he was traveling down the road before impact?",side_chat,MS. SCHWEIKERT,start_chat
+44,232,9,8,Let's say 30 seconds before impact.,side_chat,MR. KELLY,start_chat
+45,234,9,10,"Clearly, about 35, 40, because it was kind of misty so everybody wasn't driving fast.",side_chat,THE WITNESS,start_question
+46,238,9,14,"What would you describe the traffic like that day; heavy, light, medium?",q,MR. KELLY,start_answer
+47,240,9,16,"Medium, but not -- yeah, medium.",a,THE WITNESS,start_question
+48,241,9,17,"How often did you travel on that part of -- you were on Route 1, correct?",q,MR. KELLY,start_answer
+49,243,9,19,Yes.,a,THE WITNESS,start_question
+50,244,9,20,How often did you travel in that part of Route 1?,q,MR. KELLY,start_answer
+51,246,9,22,What do you mean?,a,THE WITNESS,start_question
+52,247,9,23,Did you do it every day?,q,MR. KELLY,start_answer
+53,248,9,24,Just about every day.,a,THE WITNESS,start_question
+54,250,10,1,For how long had you been doing it?,q,MR. KELLY,start_answer
+55,251,10,2,Years.,a,THE WITNESS,start_question
+56,252,10,3,"What street were you approaching when the accident occurred, what cross street? You're on Route 1, correct?",q,MR. KELLY,start_answer
+57,255,10,6,"No, we were on the expressway.  The last thing I remember is Fox when we pulled over.  So we were off of Route 1.  You turn off of Route 1 onto Tioga and then get to the expressway.",a,THE WITNESS,start_question
+58,260,10,11,Was there any traffic light ahead of you at the time?,q,MR. KELLY,start_answer
+59,262,10,13,"No, no traffic lights involved.",a,THE WITNESS,start_question
+60,263,10,14,"At some point prior to the accident, you were in the middle lane or the far-right lane? Was it three lanes in that direction that you were traveling?",q,MR. KELLY,start_answer
+61,268,10,19,Yes.,a,THE WITNESS,start_question
+62,269,10,20,"Before the accident, what lane were you in?",q,MR. KELLY,start_answer
+63,271,10,22,The middle lane.,a,THE WITNESS,start_question
+64,272,10,23,Describe what happened from the time you were in that middle lane until the accident occurred.,q,MR. KELLY,start_answer
+65,276,11,2,"What I remember is this; I was coming down and the car cut us off, cut me off.  It was a red truck in front of me.  I went to the far-right lane.  That car went this way, this way and shot.  I said, dang, he almost got me. I looked back into the middle lane. The gold car and a couple other cars are behind me.  I drive with my left hand.  I'm riding down.  I click.  I go over.  No one is there, but I see cars behind me, the gold car and everything. Like I said, we're going about 35, 40, because the day was like today and kind of drizzling.  I started drifting very slow over, and I heard a roar.  I turned around, and we both just kind of breezed over to the side.",a,THE WITNESS,start_question
+66,294,11,20,Was the red truck in front of you?,q,MR. KELLY,start_answer
+67,295,11,21,Red truck was gone.,a,THE WITNESS,start_question
+68,296,11,22,It was gone by that time?,q,MR. KELLY,start_answer
+69,297,11,23,Right.,a,THE WITNESS,start_question
+70,298,11,24,Why were you shifting to the far-left lane?,q,MR. KELLY,start_answer
+71,301,12,2,"Because it was open.  That's the lane I normally stay in.  When I go down Route 1, I like to stay in that lane in case anything happen.  You can go right into that lane.  I never stay to the far right. I was going over slowly, and that's when I heard the roaring of the engine and scrape the side of my car.",a,THE WITNESS,start_question
+72,309,12,10,The accident occurred in what lane?,q,MR. KELLY,start_answer
+73,310,12,11,I was in the middle lane.  I never got over to the far left.,a,THE WITNESS,start_question
+74,312,12,13,Never got over?,q,MR. KELLY,start_answer
+75,313,12,14,"Never got over.  I got about, I'll say, 30 to 40 percent into that lane.",a,THE WITNESS,start_question
+76,315,12,16,"Your intention was to go to the far left lane, correct?",q,MR. KELLY,start_answer
+77,317,12,18,Yes.,a,THE WITNESS,start_question
+78,318,12,19,Why were you going to the far left lane?,q,MR. KELLY,start_answer
+79,320,12,21,"That's the lane I always drive in because the openness.  There is another lane to the left of it.  Things happen.  I don't know if that lane is a state trooper lane that you can get into, get yourself out.  So I stay to the far left.  When I'm coming down back, I stay to the far right because it's got the other lane over there, too.",a,THE WITNESS,start_question
+80,329,13,5,"You indicated that you looked behind you, and you didn't see any traffic?",q,MR. KELLY,start_answer
+81,331,13,7,"No, I seen all the traffic.",a,THE WITNESS,start_question
+82,332,13,8,You saw all the traffic?,q,MR. KELLY,start_answer
+83,333,13,9,"Yeah.  Again, I drive with my left hand.  I looked in my left mirror.  I clicked my turn signal.  I proceeded to go.  I seen all the cars behind me. As I said, I heard a car roar straight up to me.  I did like that.  I just heard a little hit and scratches.  I looked over and really seen that car.  We both just eased over.  We were going about 35, if that, maybe 40.",a,THE WITNESS,start_question
+84,343,13,19,When is the first time you saw the car that you had the accident with?,q,MR. KELLY,start_answer
+85,345,13,21,It was like three or four cars behind me.,a,THE WITNESS,start_question
+86,347,13,23,You did see it at that point?,q,MR. KELLY,start_answer
+87,348,13,24,"Yeah, I seen that car, another dark-colored car.",a,THE WITNESS,start_question
+88,351,14,2,"When you saw that car three or four cars behind you, when you saw the car you had the accident with, what lane was it in?",q,MR. KELLY,start_answer
+89,354,14,5,I think it was right directly behind me.,a,THE WITNESS,start_question
+90,356,14,7,The same lane as you?,q,MR. KELLY,start_answer
+91,357,14,8,Same lane as me.,a,THE WITNESS,start_question
+92,358,14,9,Were you in the process of making the turn at that time?,q,MR. KELLY,start_answer
+93,360,14,11,"Again, when the white car cut us all off -- because I asked one of them, and they said, yeah, we seen it.  The red truck went, and we all was like this.  This lane was completely open.  I seen everybody right behind me. I'm telling you we drove for maybe a block or so.  Then I started going over. That's when felt that car come up.",a,THE WITNESS,start_question
+94,369,14,20,"You said you looked out your mirror, you said your left mirror?",q,MR. KELLY,start_answer
+95,371,14,22,Right.,a,THE WITNESS,start_question
+96,372,14,23,Is that the side mirror?,q,MR. KELLY,start_answer
+97,373,14,24,The side.,a,THE WITNESS,start_question
+98,375,15,1,Is it a regular side mirror?,q,MR. KELLY,start_answer
+99,376,15,2,Right.,a,THE WITNESS,start_question
+100,377,15,3,Does it have one of those little mirrors on top of it to help you see behind the truck?,q,MR. KELLY,start_answer
+101,380,15,6,"No, I had a minivan.",a,THE WITNESS,start_question
+102,381,15,7,Do you have a rear-view mirror?,q,MR. KELLY,start_answer
+103,382,15,8,Yes.,a,THE WITNESS,start_question
+104,383,15,9,Can you see out of it in the van?,q,MR. KELLY,start_answer
+105,384,15,10,Yes.,a,THE WITNESS,start_question
+106,385,15,11,Did you look into that?,q,MR. KELLY,start_answer
+107,386,15,12,"Yes, I looked into that mirror.  I saw several cars behind me.  Before I made my turn, it was clear.",a,THE WITNESS,start_question
+108,389,15,15,You say you drive with your left hand. What were you doing with your right hand?,q,MR. KELLY,start_answer
+109,392,15,18,"If I can remember that, I'd be a millionaire.",a,THE WITNESS,start_question
+110,394,15,20,Do you use your phone when you're driving?,q,MR. KELLY,start_answer
+111,396,15,22,"No, not on the expressway.  You hear too many things happening with the phone. Have I answered my phone?  Probably, yeah. I'd be lying if I said I didn't.  I wasn't using my phone.  It was a day like today.",a,THE WITNESS,start_question
+112,402,16,3,Were you on the phone at the time?,q,MR. KELLY,start_answer
+113,403,16,4,No.,a,THE WITNESS,start_question
+114,404,16,5,Did you have your radio on?,q,MR. KELLY,start_answer
+115,405,16,6,610.,a,THE WITNESS,start_question
+116,406,16,7,Angelo Cataldi?,q,MR. KELLY,start_answer
+117,407,16,8,Yeah.,a,THE WITNESS,start_question
+118,408,16,9,Could you describe your vehicle? What kind of vehicle were you driving?,q,MR. KELLY,start_answer
+119,410,16,11,A Dodge Caravan.,a,THE WITNESS,start_question
+120,411,16,12,It does have a rear-view window in the back; it's not a work van that has --,q,MR. KELLY,start_answer
+121,413,16,14,It's a minivan.,a,THE WITNESS,start_question
+122,414,16,15,Could you describe the car that you were in the accident with?,q,MR. KELLY,start_answer
+123,416,16,17,Have I ever got in an accident?,a,THE WITNESS,start_chat
+124,417,16,18,"No, what color was the car that was in the accident with you?",side_chat,MS. SCHWEIKERT,start_chat
+125,420,16,21,"Gold, I think it was.  Yeah, it was gold.  I had a lot of pictures of it until I lost my phone.",side_chat,THE WITNESS,start_question
+126,425,17,1,"At the time of the accident, were you on any kind of medication?",q,MR. KELLY,start_answer
+127,427,17,3,No.,a,THE WITNESS,start_question
+128,428,17,4,Had you had any alcohol within the previous 12 hours?,q,MR. KELLY,start_answer
+129,430,17,6,Not in my life.,a,THE WITNESS,start_question
+130,431,17,7,"When you were in the middle lane before you started to go to the left, how far in front of you was the nearest vehicle?",q,MR. KELLY,start_answer
+131,434,17,10,In front of me?,a,THE WITNESS,start_question
+132,435,17,11,In front of you.,q,MR. KELLY,start_answer
+133,436,17,12,"I told you that red truck is the only thing I can vaguely remember.  I don't know if I can remember anything to the right of me. What had occurred, I waited until it got clear, and everything was like where you're at and this is me.  That's when I -- again, we drove like a block.  I was in front of everybody because I waited until everything got clear because it just happened.",a,THE WITNESS,start_question
+134,447,17,23,"When the accident occurred, what part of the other vehicle and what part of your vehicle came into contact first?",q,MR. KELLY,start_answer
+135,451,18,2,"When I was driving, I felt the tip to the back, and it got a crack in the car.  I still have it.  I still proceeded to go, but when I started hearing stuff sound like a can-opener, I looked because I thought I was hitting a branch or something was hitting me but it was them.",a,THE WITNESS,start_question
+136,458,18,9,What part of your vehicle?,q,MR. KELLY,start_answer
+137,459,18,10,"The side door, and the front of their car was messed up, the front and the mirror. If I remember, the front fender and their mirror.",a,THE WITNESS,start_question
+138,463,18,14,"It was the side door on your car, the driver's side?",q,MR. KELLY,start_answer
+139,465,18,16,"From the back bumper all the way up to the side, yes.",a,THE WITNESS,start_question
+140,467,18,18,Was there anybody in your vehicle at the time?,q,MR. KELLY,start_answer
+141,469,18,20,No.,a,THE WITNESS,start_question
+142,470,18,21,Was your vehicle repaired?,q,MR. KELLY,start_answer
+143,471,18,22,The door was.,a,THE WITNESS,start_question
+144,472,18,23,Was it drivable from the scene?,q,MR. KELLY,start_answer
+145,473,18,24,Yes.,a,THE WITNESS,start_question
+146,475,19,1,Do you recall the cost of the repair?,q,MR. KELLY,start_answer
+147,476,19,2,"Like I said, it's an old car.  I don't recall that.",a,THE WITNESS,start_question
+148,478,19,4,You did it yourself?,q,MR. KELLY,start_answer
+149,479,19,5,"No, a buddy of mine did it from a car lot.",a,THE WITNESS,start_question
+150,481,19,7,"Besides the people in the other car, do you know of any other witnesses to the accident?",q,MR. KELLY,start_answer
+151,484,19,10,No.,a,THE WITNESS,start_question
+152,485,19,11,Did you give any kind of written or recorded statement to anybody?,q,MR. KELLY,start_answer
+153,487,19,13,"I think I did.  I think people were calling me.  I think I did, yes.",a,THE WITNESS,start_question
+154,489,19,15,Do you recall who it was to?,q,MR. KELLY,start_answer
+155,490,19,16,No.,a,THE WITNESS,start_question
+156,491,19,17,Did the police come to the accident scene?,q,MR. KELLY,start_answer
+157,493,19,19,Yes.,a,THE WITNESS,start_question
+158,494,19,20,Did you talk to the police?,q,MR. KELLY,start_answer
+159,495,19,21,Yes.,a,THE WITNESS,start_question
+160,496,19,22,Did you tell them essentially what you just told me about what happened?,q,MR. KELLY,start_answer
+161,498,19,24,Yes.,a,THE WITNESS,start_question
+162,500,20,1,Is there anything else you told the police officer that you may not have told me?,q,MR. KELLY,start_answer
+163,502,20,3,Not that I can recall.,a,THE WITNESS,start_question
+164,503,20,4,Did you have discussions with any of the people in the other vehicle?,q,MR. KELLY,start_answer
+165,505,20,6,Yes.,a,THE WITNESS,start_question
+166,506,20,7,Do you know which person that was?,q,MR. KELLY,start_answer
+167,507,20,8,It was an older guy.,a,THE WITNESS,start_chat
+168,508,20,9,There's people not in the room yet.  One person is not in the room.,side_chat,MS. SCHWEIKERT,start_chat
+169,511,20,12,I didn't realize that when I asked you that question.,side_chat,MR. KELLY,start_question
+170,514,20,15,What was that conversation about?,q,MR. KELLY,start_answer
+171,515,20,16,"I said to him, what happened?  Where were you going?  He said, we're trying to get to Washington.  He said I was telling him slow down, slow down, slow down. It was only one that spoke English, only one that ever said anything to me.  The one in the back of the car, he seemed like he was sickly.  He didn't even get out until the ambulance came, and I can remember he was on the phone and I was like --",a,THE WITNESS,start_chat
+172,526,21,2,"He, we're speaking about Mr. Nguyen?",side_chat,MS. SCHWEIKERT,start_chat
+173,528,21,4,"Right.  He immediately jumped on the phone.  I did, too. I hope he was calling the police because I did, too. He said he was like, slow down, slow down.  Like I said, it was a younger one, a middle one and an older one.  The older one, he looked like he was sickly a little bit.  I don't want to say that, but that's what it looked like to me.  That was it.  That was basically it.",side_chat,THE WITNESS,start_question
+174,540,21,16,Nothing else that you can recall?,q,MR. KELLY,start_answer
+175,541,21,17,Nothing else that I can recall.,a,THE WITNESS,start_question
+176,542,21,18,"Do you know if their vehicle was drivable, the other car?",q,MR. KELLY,start_answer
+177,544,21,20,Yes.,a,THE WITNESS,start_question
+178,545,21,21,"Yes, it was drivable?",q,MR. KELLY,start_answer
+179,546,21,22,"Their vehicle, yes.",a,THE WITNESS,start_question
+180,547,21,23,The weather that day --,q,MR. KELLY,start_answer
+181,548,21,24,That's who I was talking to.,a,THE WITNESS,start_question
+182,550,22,1,You're identifying Mr. Pham?,q,MR. KELLY,start_answer
+183,551,22,2,"Mr. Pham, yes.",a,THE WITNESS,start_question
+184,552,22,3,You indicated the weather that day was misty?,q,MR. KELLY,start_answer
+185,554,22,5,"Just like this, yeah.",a,THE WITNESS,start_question
+186,555,22,6,Was there sunlight up yet at that point?,q,MR. KELLY,start_answer
+187,557,22,8,"It was just like this just, just like today.",a,THE WITNESS,start_chat
+188,559,22,10,"Overcast, for the record.",side_chat,MS. SCHWEIKERT,start_question
+189,562,22,13,"Was the road wet, dry, do you recall?",q,MR. KELLY,start_answer
+190,563,22,14,In between.  It was just drizzling little bit.  It wasn't wet where you would have went hydroplaning or anything.,a,THE WITNESS,start_question
+191,566,22,17,Were you issued any kind of citations from the police?,q,MR. KELLY,start_answer
+192,568,22,19,No.,a,THE WITNESS,start_question
+193,569,22,20,Did they give you any kind of warnings?,q,MR. KELLY,start_answer
+194,571,22,22,No.,a,THE WITNESS,start_question
+195,572,22,23,Did the police indicate to you who they thought was at fault?,q,MR. KELLY,start_answer
+196,575,23,1,"At that point, I didn't understand what they said.  He said I got them listed down as the striker.",a,THE WITNESS,start_question
+197,578,23,4,As the striker?,q,MR. KELLY,start_answer
+198,579,23,5,That was his exact words.,a,THE WITNESS,start_question
+199,580,23,6,"How long were you at the scene, do you recall?",q,MR. KELLY,start_answer
+200,582,23,8,"About 30, 40 minutes.",a,THE WITNESS,start_question
+201,583,23,9,"Where did you go after that, if you recall?",q,MR. KELLY,start_answer
+202,585,23,11,"I got on the phone with a guy named Sherman.  That's when he took me to his lawyer house.  I said, listen, man.  He said you better go.  You don't know what's going to happen to you.  So we went downtown somewhere. He told me you better go to the hospital and make sure.  I said I'm not hurt. We barely touched each other.  I said I'm not hurt.  Then that was that. Then I think I proceeded to go to L&I, or I probably -- after that, things go blank. After that day, it goes blank.  I don't remember too much after that.",a,THE WITNESS,start_question
+203,600,24,1,What you did the rest of the day?,q,MR. KELLY,start_answer
+204,601,24,2,Yeah.  Did I go to L&I?  Did I go to south Philly to my buddy's house?  I don't know.,a,THE WITNESS,start_question
+205,604,24,5,Do you recall if at any time you hit your brakes?,q,MR. KELLY,start_answer
+206,606,24,7,"Yes.  When I heard them, when I heard the screeching, that's why I slowed down, hit my brakes and we both went over to the right.",a,THE WITNESS,start_question
+207,609,24,10,When you both went over to the right?,q,MR. KELLY,start_answer
+208,610,24,11,"No, I know I went over to the right, and then we all landed up over there.",a,THE WITNESS,start_question
+209,612,24,13,"All the way to the right, you went, not to the left?",q,MR. KELLY,start_answer
+210,614,24,15,"Yeah, to the right.",a,THE WITNESS,start_question
+211,615,24,16,"When you went all the way to the right, whose car was in front; yours or the other vehicle?  Were you behind them or in front of them?",q,MR. KELLY,start_answer
+212,619,24,20,I don't remember that.,a,THE WITNESS,start_question
+213,620,24,21,You don't remember?,q,MR. KELLY,start_answer
+214,621,24,22,No.,a,THE WITNESS,start_chat
+215,622,24,23,I have no other questions.,side_chat,MR. KELLY,symbols
+216,625,25,1,- - - EXAMINATION,symbols,,symbols
+217,627,25,3,- - -,symbols,,start_question
+218,629,25,5,"Mr. Gray, thank you for being here today.  I don't have much.  Just a couple of clarifications that I would like from you. First, the points of impact.  Let's talk about the damages that your vehicle sustained. To what areas was your vehicle damaged?",q,MS. KATHOPOULIS,start_answer
+219,637,25,13,The back bumper had had a little crack.,a,THE WITNESS,start_question
+220,639,25,15,What side?,q,MS. KATHOPOULIS,start_answer
+221,640,25,16,The left side.,a,THE WITNESS,start_chat
+222,641,25,17,The driver's side.,side_chat,MS. SCHWEIKERT,start_chat
+223,643,25,19,Driver's side.,side_chat,THE WITNESS,start_question
+224,645,25,21,Back bumper?,q,MS. KATHOPOULIS,start_answer
+225,646,25,22,"Scrape from there, and the bigger impact was on the side door.",a,THE WITNESS,start_question
+226,648,25,24,Passenger or driver's door?,q,MS. KATHOPOULIS,start_answer
+227,650,26,1,"Driver's rear door, not the front. It's like a minivan.  The side that opened.",a,THE WITNESS,start_chat
+228,652,26,3,The rear slider on the driver's side?,side_chat,MS. SCHWEIKERT,start_chat
+229,654,26,5,"Yeah, right where the right handle is at.",side_chat,THE WITNESS,start_question
+230,657,26,8,"The vehicle that you were involved in the accident with, where did that vehicle sustain damage?",q,MS. KATHOPOULIS,start_answer
+231,660,26,11,I just told you.,a,THE WITNESS,start_question
+232,661,26,12,The other car.,q,MS. KATHOPOULIS,start_answer
+233,662,26,13,"From what I seen, it was the front right passenger, front fender and it seemed like it was the mirror.",a,THE WITNESS,start_question
+234,665,26,16,Which mirror?,q,MS. KATHOPOULIS,start_answer
+235,666,26,17,The passenger mirror.,a,THE WITNESS,start_question
+236,667,26,18,You indicated that you saw Mr. Nguyen on a phone?,q,MS. KATHOPOULIS,start_answer
+237,669,26,20,Him?,a,THE WITNESS,start_question
+238,670,26,21,"Yes, next to me.",q,MS. KATHOPOULIS,start_answer
+239,671,26,22,"After we got out, he just got on the phone.",a,THE WITNESS,start_question
+240,673,26,24,That was after you had gotten to the accident?,q,MS. KATHOPOULIS,start_answer
+241,676,27,2,"Yeah.  Again, he asked me who I was talking to.  I was talking to him.  He was on the phone, and there was another one in the back of the car.",a,THE WITNESS,start_chat
+242,680,27,6,Indicating Mr. Pham.,side_chat,MS. SCHWEIKERT,start_chat
+243,682,27,8,"Mr. Pham, he was talking to.",side_chat,MR. KELLY,start_chat
+244,684,27,10,That's when everything was over.  I don't know if he was on the phone when we were driving.  I couldn't see.,side_chat,THE WITNESS,start_question
+245,689,27,15,You just saw Mr. Nguyen after the accident?,q,MS. KATHOPOULIS,start_answer
+246,691,27,17,"After everything happened, only one person spoke to me, and that was him.",a,THE WITNESS,start_chat
+247,693,27,19,Mr. Pham.,side_chat,MS. SCHWEIKERT,start_chat
+248,694,27,20,No one else spoke to me.,side_chat,THE WITNESS,start_question
+249,697,27,23,Did you see Mr. Pham on the phone at any point after the accident?,q,MS. KATHOPOULIS,start_answer
+250,700,28,1,"Yes, after the accident.",a,THE WITNESS,start_question
+251,701,28,2,This is Mr. Pham.  This is Mr. Nguyen.,q,MS. KATHOPOULIS,start_answer
+252,702,28,3,"No, I didn't see him on a phone.",a,THE WITNESS,start_chat
+253,703,28,4,Mr. Pham was not on the phone.,side_chat,MS. SCHWEIKERT,start_question
+254,706,28,7,You and Mr. Pham were speaking?,q,MS. KATHOPOULIS,start_answer
+255,707,28,8,Right.,a,THE WITNESS,start_question
+256,708,28,9,You and Mr. Nguyen did not speak?,q,MS. KATHOPOULIS,start_answer
+257,709,28,10,At all.,a,THE WITNESS,start_question
+258,710,28,11,But Mr. Nguyen was on the phone after everything happened?,q,MS. KATHOPOULIS,start_answer
+259,712,28,13,"Yes, because he never said nothing to me.",a,THE WITNESS,start_question
+260,714,28,15,Did you see Mr. Nguyen on the phone?,q,MS. KATHOPOULIS,start_answer
+261,715,28,16,Which one is Mr. Nguyen?,a,THE WITNESS,start_question
+262,716,28,17,Right here.  The driver. Did you see Mr. Nguyen on the phone before the accident happened?,q,MS. KATHOPOULIS,start_answer
+263,719,28,20,No.  I told you I couldn't see in his car.  I just know I saw cars behind me.,a,THE WITNESS,start_question
+264,721,28,22,"After the accident, you both went over to the right lane?",q,MS. KATHOPOULIS,start_answer
+265,723,28,24,"That's where we ended up at.  That's what I remember.  We all ended up out of harm's way, and harm's way was to the right.",a,THE WITNESS,start_question
+266,727,29,3,Is there a reason why you weren't on the left?  You said there was a shoulder on the left lane. Is there a reason you didn't merge into the left lane after the accident?,q,MS. KATHOPOULIS,start_answer
+267,732,29,8,"When you go there, you'll see both sides.  That was the more safe.  At that point where we were at, that was the more safer side if you were trying to get off the road.  If I can remember, that's where we was.  I think that's where we was, to the right.",a,THE WITNESS,start_question
+268,739,29,15,"Just one more for the record.  If you could, just break it down a little bit how the accident occurred. About a minute before the accident, you were traveling in the middle lane of Roosevelt Boulevard?",q,MS. KATHOPOULIS,start_answer
+269,745,29,21,"Again, I was in the middle lane.  A car cut me off.",a,THE WITNESS,start_question
+270,747,29,23,What color was that car?,q,MS. KATHOPOULIS,start_answer
+271,748,29,24,"A dark-colored car.  There was a white car, his car, other cars behind me.  I even asked him.  I said did you see what just happened.  He told me yes. I cut over to the right lane.  There was a red truck.  I cut back over to the middle lane.  The red truck was gone.  We drove about a block.  Everything was clear. I drive with my left hand.  I clicked my turn signal.  I looked.  I went slowly over. That's when I heard the engine, and that's when we both went over.  I could tell you that 20 years from now, same thing.",a,THE WITNESS,start_question
+272,762,30,13,"When you say you went slowly over, can you give an estimate how fast you were driving?",q,MS. KATHOPOULIS,start_answer
+273,765,30,16,"Like I said, 35, 40, maybe under that because it's 55 or 50 on that and everybody was going slower than normal speed.",a,THE WITNESS,start_question
+274,768,30,19,You were in the middle lane about a minute before the accident. There is a dark car in front of you and it cuts you off?,q,MS. KATHOPOULIS,start_answer
+275,772,30,23,"No.  Again, that happened before I was in the middle.  That happened before the accident, way before the accident. Again, I jumped in the middle lane. We drove about a block.  It was about a good distance.  The red truck was gone and the black car that shot past everybody, the dark-colored car. That's, again, when I started proceeding over to the left lane.  I heard the boom, boom, boom, and I turned over.",a,THE WITNESS,start_question
+276,784,31,10,Is there a reason that you proceed into the left lane?,q,MS. KATHOPOULIS,start_answer
+277,786,31,12,"Again, that's the lane I like to drive in.  I do 76.  I do that route almost every day.  If I'm going back the other way, I'll be on the other far-right lane.",a,THE WITNESS,start_question
+278,790,31,16,When was the first time that you saw the vehicle that you were involved in an accident with?,q,MS. KATHOPOULIS,start_answer
+279,793,31,19,First time I saw it?,a,THE WITNESS,start_question
+280,794,31,20,"Yes, prior to impact.",q,MS. KATHOPOULIS,start_answer
+281,795,31,21,"Again, as that car cut in front of me, I seen a white car behind me.  I seen that car and other cars.  The only reason I seen that car was because that car was directly behind me.  When I went to go this way, that's when I felt that car coming up behind me.",a,THE WITNESS,start_question
+282,803,32,4,You first saw the car you were involved in the accident with when you were in the middle lane?,q,MS. KATHOPOULIS,start_answer
+283,806,32,7,When I was coming down --,a,THE WITNESS,start_question
+284,807,32,8,In which lane?,q,MS. KATHOPOULIS,start_answer
+285,808,32,9,"In the middle lane.  The car cut me off.  I jumped into the right lane.  When that car got past that, it was a red truck in front of me.  I went back to the middle lane. The red truck went about a block. Everybody was behind me.  Everything to the right and left of me was clear.  My antennas was up.  Clicked my turn signal, and that's when I proceeded slowly.  That's what happened.  I said, did you see that car, what happened?  He told me yes.",a,THE WITNESS,start_question
+286,819,32,20,"You asked him, meaning Mr. Pham?",q,MS. KATHOPOULIS,start_answer
+287,820,32,21,Yes.,a,THE WITNESS,start_question
+288,821,32,22,Can you estimate how many car lengths away the car that you were involved in the accident was when you saw them?,q,MS. KATHOPOULIS,start_answer
+289,825,33,1,Three to four car lengths.,a,THE WITNESS,start_chat
+290,826,33,2,I think that should be all for me.,side_chat,MS. KATHOPOULIS,symbols
+291,828,33,4,- - - EXAMINATION,symbols,,symbols
+292,830,33,6,- - -,symbols,,start_question
+293,832,33,8,You indicated you looked into your mirror. This was before you started to turn?,q,MR. KELLY,start_answer
+294,835,33,11,Yes.,a,THE WITNESS,start_question
+295,836,33,12,Did you also turn your head at any point to look?,q,MR. KELLY,start_answer
+296,838,33,14,No?  Where?  For what?,a,THE WITNESS,start_question
+297,839,33,15,You didn't turn your head to the left in addition?,q,MR. KELLY,start_answer
+298,841,33,17,"Click, click, and my eyes went from here to there.",a,THE WITNESS,start_question
+299,843,33,19,You didn't --,q,MR. KELLY,start_answer
+300,844,33,20,No.  No reason to do that.,a,THE WITNESS,start_question
+301,845,33,21,Have you received any medical treatment as a result of the accident?,q,MR. KELLY,start_answer
+302,847,33,23,"Yes.  Like I said, I left there and went down to somewhere on 9th in south Philly.  I went there about twice.  That was it.  The lawyer called me about this case.  I said I really wasn't hurt at all.  I didn't go back.  He said, well, I'm dropping you.  I said okay.  I didn't think nothing of it.",a,THE WITNESS,symbols
+303,855,34,6,- - - EXAMINATION,symbols,,symbols
+304,857,34,8,- - -,symbols,,start_question
+305,859,34,10,Was it physical therapy?,q,MS. KATHOPOULIS,start_answer
+306,860,34,11,Yes.,a,THE WITNESS,start_question
+307,861,34,12,"You went there about two times, you said?",q,MS. KATHOPOULIS,start_answer
+308,863,34,14,Yes.,a,THE WITNESS,start_question
+309,864,34,15,Any other medical treatment in relation to this accident besides the south Philly place you went to two times?,q,MS. KATHOPOULIS,start_answer
+310,867,34,18,No.,a,THE WITNESS,start_chat
+311,868,34,19,That is all for me.,side_chat,MS. KATHOPOULIS,symbols
+312,870,34,21,- - -,symbols,,is brackets
+313,871,34,22,"(Whereupon, the deposition concluded at 12:29 p.m.)",brackets,,symbols
+314,873,34,24,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 26, 2019, and that this is a correct transcription of same.",symbols,,end

@@ -1,0 +1,298 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,95,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,97,4,10,-  -  -,symbols,,start_question
+3,99,4,12,"Can you please state your name for the record, sir.",q,MS. HUDACK,start_answer
+4,100,4,13,"Sure.  Francis Stubbs, S-T-U-B-B-S.",a,THE WITNESS,start_question
+5,101,4,14,And have you ever gone by any other names?,q,MS. HUDACK,start_answer
+6,102,4,15,"Yes, Chip.",a,THE WITNESS,start_question
+7,103,4,16,"I represent the plaintiff, Celeste Mihalo.  Have you ever given a deposition before?",q,MS. HUDACK,start_answer
+8,105,4,18,"No, but I've assisted at them.  I'm an interpreter.",a,THE WITNESS,start_question
+9,106,4,19,Okay.  What language?,q,MS. HUDACK,start_answer
+10,107,4,20,Spanish.  I've actually done them right in this room.,a,THE WITNESS,start_question
+11,109,4,22,So you kind of know how this goes?,q,MS. HUDACK,start_answer
+12,110,4,23,Exactly.,a,THE WITNESS,start_question
+13,111,4,24,I'll just briefly go over the instructions.,q,MS. HUDACK,start_answer
+14,112,4,25,Okay.,a,THE WITNESS,start_question
+15,114,5,1,"Verbal instructions, ""yes,"" ""no,"" 'cause the court reporter is here and can't take it down.  If you don't understand what I'm saying, please tell me and I will rephrase.  If you don't know and you want to estimate, that's fine.  Just let me know that you're estimating. Are you under the influence today of any medications, drugs, alcohol that would affect your ability to testify truthfully?",q,MS. HUDACK,start_answer
+16,122,5,9,"No, I am not.",a,THE WITNESS,start_question
+17,123,5,10,"What is your date of birth, sir?",q,MS. HUDACK,start_answer
+18,124,5,11,6/6/1959.,a,THE WITNESS,start_question
+19,125,5,12,And are you married?,q,MS. HUDACK,start_answer
+20,126,5,13,Yes.,a,THE WITNESS,start_question
+21,127,5,14,What is your wife's name?,q,MS. HUDACK,start_answer
+22,128,5,15,"Carmen, C-A-R-M-E-N.",a,THE WITNESS,start_question
+23,129,5,16,And how long have you been married?,q,MS. HUDACK,start_answer
+24,130,5,17,It will be 25 years this November.,a,THE WITNESS,start_question
+25,131,5,18,Any children?,q,MS. HUDACK,start_answer
+26,132,5,19,One.,a,THE WITNESS,start_question
+27,133,5,20,And what's their name and age?,q,MS. HUDACK,start_answer
+28,134,5,21,"David, and he is 15.",a,THE WITNESS,start_question
+29,135,5,22,"And where do you currently live, sir?",q,MS. HUDACK,start_answer
+30,136,5,23,I live about a block south of here on East Oakland Avenue.  154 is the number.,a,THE WITNESS,start_question
+31,138,5,25,How long have you lived there?,q,MS. HUDACK,start_answer
+32,140,6,1,"'97.  22 years, I guess.",a,THE WITNESS,start_question
+33,141,6,2,"And who do you live there with, your wife and son?",q,MS. HUDACK,start_answer
+34,142,6,3,"My wife and son, uh-huh.",a,THE WITNESS,start_question
+35,143,6,4,Does your wife also own a car?,q,MS. HUDACK,start_answer
+36,144,6,5,Yes.,a,THE WITNESS,start_question
+37,145,6,6,You have a car and she has a car?,q,MS. HUDACK,start_answer
+38,146,6,7,Correct.,a,THE WITNESS,start_question
+39,147,6,8,And what is your highest level of education?,q,MS. HUDACK,start_answer
+40,148,6,9,I have a bachelor of music.,a,THE WITNESS,start_question
+41,149,6,10,And where did you get that degree?,q,MS. HUDACK,start_answer
+42,150,6,11,"Well, now it's called the University of the Arts. It wasn't called that then, but now it's U of A.",a,THE WITNESS,start_question
+43,152,6,13,And when did you graduate?,q,MS. HUDACK,start_answer
+44,153,6,14,1983.,a,THE WITNESS,start_question
+45,154,6,15,And you said you're currently employed as an interpreter?,q,MS. HUDACK,start_answer
+46,156,6,17,"I am an interpreter, and I'm also an organist in church.",a,THE WITNESS,start_question
+47,158,6,19,Any specific church?,q,MS. HUDACK,start_answer
+48,159,6,20,"Addisville, A-D-D-I-S-V-I-L-L-E, Addisville Reformed Church in Richboro, PA.",a,THE WITNESS,start_question
+49,161,6,22,"And as an interpreter, who do you work for?",q,MS. HUDACK,start_answer
+50,162,6,23,Various agencies and the -- Bucks County.,a,THE WITNESS,start_question
+51,163,6,24,How long have you worked as an interpreter?,q,MS. HUDACK,start_answer
+52,164,6,25,A little over ten years.,a,THE WITNESS,start_question
+53,166,7,1,And how about as an organist?,q,MS. HUDACK,start_answer
+54,167,7,2,"Organist, I've -- well, I've worked as an organist since I was 13, but at this church, a little -- about 10 years.",a,THE WITNESS,start_question
+55,170,7,5,And have you ever had your license suspended or revoked?,q,MS. HUDACK,start_answer
+56,172,7,7,No.,a,THE WITNESS,start_question
+57,173,7,8,Any kind of moving violations like speeding tickets?,q,MS. HUDACK,start_answer
+58,175,7,10,I did have a speeding ticket.  Oh.  Wait a minute. That was my wife.  Wait a minute.  Oh.  I know what I -- I had a driving without -- registration was -- was expired.,a,THE WITNESS,start_question
+59,178,7,13,Do you know when you got that ticket approximately?,q,MS. HUDACK,start_answer
+60,179,7,14,Close to ten years ago.,a,THE WITNESS,start_question
+61,180,7,15,Any prior car accidents?,q,MS. HUDACK,start_answer
+62,181,7,16,Yes.  Yes.  I had one.  My brakes failed on a truck.  That was about -- I'd say about 12 years ago.,a,THE WITNESS,start_question
+63,183,7,18,And can you just briefly tell me what happened with that accident.,q,MS. HUDACK,start_answer
+64,185,7,20,"Yes.  I was approaching the stop sign at Church, and -- here in town.  I think it was at Church Street. And my brakes failed, and I hit the back end of a delivery truck.  No -- no one was hurt.",a,THE WITNESS,start_question
+65,189,7,24,Any lawsuits arise out of that?,q,MS. HUDACK,start_answer
+66,190,7,25,No.,a,THE WITNESS,start_question
+67,192,8,1,Any other prior car accidents?,q,MS. HUDACK,start_answer
+68,193,8,2,"One other accident in Camden.  I was on assignment, and I was rear-ended pulling into a gas station.",a,THE WITNESS,start_question
+69,195,8,4,Any other prior accidents?,q,MS. HUDACK,start_answer
+70,196,8,5,"No, not that I can remember.",a,THE WITNESS,start_question
+71,197,8,6,Any accidents after the accident we're here for today?,q,MS. HUDACK,start_answer
+72,199,8,8,No.,a,THE WITNESS,start_question
+73,200,8,9,"Do you recall being involved in this accident on September 28th, 2016?",q,MS. HUDACK,start_answer
+74,202,8,11,"Absolutely, yes.",a,THE WITNESS,start_question
+75,203,8,12,What time of day did it happen?,q,MS. HUDACK,start_answer
+76,204,8,13,"It was evening, I would say around 7:00 or so.",a,THE WITNESS,start_question
+77,205,8,14,And what was the weather like?,q,MS. HUDACK,start_answer
+78,206,8,15,It was rainy and dark.,a,THE WITNESS,start_question
+79,207,8,16,How hard was it raining?,q,MS. HUDACK,start_answer
+80,208,8,17,Fairly steady.,a,THE WITNESS,start_question
+81,209,8,18,Had it been raining all day?,q,MS. HUDACK,start_answer
+82,210,8,19,I think so.,a,THE WITNESS,start_question
+83,211,8,20,And what kind of car were you driving?,q,MS. HUDACK,start_answer
+84,212,8,21,"I was in an E-250 cargo van, Ford.",a,THE WITNESS,start_question
+85,213,8,22,And what color was it?,q,MS. HUDACK,start_answer
+86,214,8,23,White.,a,THE WITNESS,start_question
+87,215,8,24,Did you own the car?,q,MS. HUDACK,start_answer
+88,216,8,25,Yes.,a,THE WITNESS,start_question
+89,218,9,1,Did you insure the car?,q,MS. HUDACK,start_answer
+90,219,9,2,Yes.,a,THE WITNESS,start_question
+91,220,9,3,Was it in good working order?,q,MS. HUDACK,start_answer
+92,221,9,4,Pretty good.  It was an old van.,a,THE WITNESS,start_question
+93,222,9,5,What year was it?,q,MS. HUDACK,start_answer
+94,223,9,6,"'97, if I don't -- if I recall.",a,THE WITNESS,start_question
+95,224,9,7,Did it have a valid inspection?,q,MS. HUDACK,start_answer
+96,225,9,8,Yes.,a,THE WITNESS,start_question
+97,226,9,9,And registration?,q,MS. HUDACK,start_answer
+98,227,9,10,Absolutely.,a,THE WITNESS,start_question
+99,228,9,11,In Pennsylvania?,q,MS. HUDACK,start_answer
+100,229,9,12,Yes.,a,THE WITNESS,start_question
+101,230,9,13,Was anyone else in the car with you?,q,MS. HUDACK,start_answer
+102,231,9,14,No.,a,THE WITNESS,start_question
+103,232,9,15,And where were you coming from?,q,MS. HUDACK,start_answer
+104,233,9,16,"I was coming from my warehouse in Trumbauersville, that's T-R-U-M-B-A-U-E-R-S, ville.",a,THE WITNESS,start_question
+105,235,9,18,And what were you doing at the warehouse?,q,MS. HUDACK,start_answer
+106,236,9,19,I was helping a friend load a truck with some merchandise.  He was coming -- he was from Rhode Island.,a,THE WITNESS,start_question
+107,238,9,21,What kind of merchandise?,q,MS. HUDACK,start_answer
+108,239,9,22,I sell -- I used to have an arts and crafts import business.  It was mostly arts and crafts.,a,THE WITNESS,start_question
+109,241,9,24,You had that business at the time of the accident?,q,MS. HUDACK,start_answer
+110,242,9,25,I was still selling a little bit but just to friends.  This is a friend of mine.,a,THE WITNESS,start_question
+111,245,10,2,And you're no longer doing that?,q,MS. HUDACK,start_answer
+112,246,10,3,Very occasionally.,a,THE WITNESS,start_question
+113,247,10,4,"And what do you mean by like ""arts and crafts""?",q,MS. HUDACK,start_answer
+114,248,10,5,"Well, I would travel around and buy articles of wood, iron, glass, clay all around the world, Asia, South America, Mexico, and ship them here and sell them.  I had two stores in New Hope and one here in Doylestown.",a,THE WITNESS,start_question
+115,252,10,9,So you have stores right now?,q,MS. HUDACK,start_answer
+116,253,10,10,No.  I closed all my stores as of 2012.,a,THE WITNESS,start_question
+117,254,10,11,But you still kind of sell the arts and crafts?,q,MS. HUDACK,start_answer
+118,255,10,12,What's left over.,a,THE WITNESS,start_question
+119,256,10,13,So you said you were at the warehouse?,q,MS. HUDACK,start_answer
+120,257,10,14,Correct.,a,THE WITNESS,start_question
+121,258,10,15,How long were you there before you left?,q,MS. HUDACK,start_answer
+122,259,10,16,I would say about four or five hours.,a,THE WITNESS,start_question
+123,260,10,17,"And then, where were you going?",q,MS. HUDACK,start_answer
+124,261,10,18,Home.,a,THE WITNESS,start_question
+125,262,10,19,How long does it take to get from the warehouse to home?,q,MS. HUDACK,start_answer
+126,264,10,21,"Roughly, 35 minutes.",a,THE WITNESS,start_question
+127,265,10,22,Did you have to be home at any particular time?,q,MS. HUDACK,start_answer
+128,266,10,23,No.,a,THE WITNESS,start_question
+129,267,10,24,So you weren't in a rush?,q,MS. HUDACK,start_answer
+130,268,10,25,"No, I was not.",a,THE WITNESS,start_question
+131,270,11,1,And did you have a cell phone at the time?,q,MS. HUDACK,start_answer
+132,271,11,2,"I do -- I did, yes.",a,THE WITNESS,start_question
+133,272,11,3,What was the number?,q,MS. HUDACK,start_answer
+134,273,11,4,I -- I think it was (215)939-6469.,a,THE WITNESS,start_question
+135,274,11,5,And what was the provider?,q,MS. HUDACK,start_answer
+136,275,11,6,T-Mobile.,a,THE WITNESS,start_question
+137,276,11,7,Were you using the cell phone in the car that day?,q,MS. HUDACK,start_answer
+138,277,11,8,"I -- I did use it just before this accident happened, but I had hung up before it happened.",a,THE WITNESS,start_question
+139,279,11,10,So you -- you made a phone call?,q,MS. HUDACK,start_answer
+140,280,11,11,"No.  My son called me, actually.",a,THE WITNESS,start_question
+141,281,11,12,"Were you using the phone in any other capacity, GPS, music?",q,MS. HUDACK,start_answer
+142,283,11,14,"No, I was not.",a,THE WITNESS,start_question
+143,284,11,15,"And do you have to wear glasses, sir?",q,MS. HUDACK,start_answer
+144,285,11,16,"Yes, but not to drive.",a,THE WITNESS,start_question
+145,286,11,17,Just to read?,q,MS. HUDACK,start_answer
+146,287,11,18,"For reading, uh-huh.",a,THE WITNESS,start_question
+147,288,11,19,"All right.  So you said you left the warehouse, heading home.  How long after you left the warehouse did the accident occur?",q,MS. HUDACK,start_answer
+148,291,11,22,"It was about 10, 15 minutes.",a,THE WITNESS,start_question
+149,292,11,23,And what street were you on when the accident occurred?,q,MS. HUDACK,start_answer
+150,294,11,25,I was on Route 313.,a,THE WITNESS,start_question
+151,296,12,1,Are you familiar with that street?,q,MS. HUDACK,start_answer
+152,297,12,2,Very.,a,THE WITNESS,start_question
+153,298,12,3,How often do you drive on that street?,q,MS. HUDACK,start_answer
+154,299,12,4,"I had that building for 15 years, so often.",a,THE WITNESS,start_question
+155,300,12,5,"Every time you left that building, you went home?",q,MS. HUDACK,start_answer
+156,301,12,6,"I would say most of the time, I took 313, yes.",a,THE WITNESS,start_question
+157,302,12,7,Can you describe the area of Route 313 where the accident occurred.,q,MS. HUDACK,start_answer
+158,304,12,9,"Yes.  I was just past 5th Street, which is -- goes into Perkasie.  And it's a stretch -- I think it's 55 miles an hour there.  And it's an open stretch before you get to Dublin.",a,THE WITNESS,start_question
+159,308,12,13,How many lanes of traffic?,q,MS. HUDACK,start_answer
+160,309,12,14,Two.,a,THE WITNESS,start_question
+161,310,12,15,One in each direction?,q,MS. HUDACK,start_answer
+162,311,12,16,Correct.,a,THE WITNESS,start_question
+163,312,12,17,"You said, ""The speed limit is 55 miles per hour."" Do you know how fast you were going?",q,MS. HUDACK,start_answer
+164,314,12,19,I was probably going 40 to 45 'cause my van was quite old.,a,THE WITNESS,start_question
+165,316,12,21,What's on either side of the street?  Is it like a residential area?  Is it --,q,MS. HUDACK,start_answer
+166,318,12,23,"Let me see.  Well, there's -- on the left, there was -- there's like a garden stand in the summer.  This wasn't summer.  But -- and there's a business and -- a couple businesses.  On the right is just open fields.",a,THE WITNESS,start_question
+167,323,13,2,Is there parking on either side of the street?,q,MS. HUDACK,start_answer
+168,324,13,3,No.,a,THE WITNESS,start_question
+169,325,13,4,And how was the traffic that day?,q,MS. HUDACK,start_answer
+170,326,13,5,Fairly light.,a,THE WITNESS,start_question
+171,327,13,6,Is that normal --,q,MS. HUDACK,start_answer
+172,328,13,7,Yes --,a,THE WITNESS,start_question
+173,329,13,8,-- for that area?,q,MS. HUDACK,start_answer
+174,330,13,9,-- at that hour.,a,THE WITNESS,start_question
+175,331,13,10,Any kind of traffic control devices like a -- a light or a stop sign or --,q,MS. HUDACK,start_answer
+176,333,13,12,Where the accident happened?,a,THE WITNESS,start_question
+177,334,13,13,Yes.,q,MS. HUDACK,start_answer
+178,335,13,14,"No, there's not.",a,THE WITNESS,start_question
+179,336,13,15,All right.  And can you just briefly describe how this impact occurred.,q,MS. HUDACK,start_answer
+180,338,13,17,"Yeah.  I was coming down 313, heading east.  And I -- I remember seeing a car up ahead.  But as I said, it was dark and rainy.  And I just saw running lights, so I assumed the car was moving.  And it wasn't until I was almost on top of -- of Celeste Mihalo that I realized that she was stopped. And I don't remember any emergency rights -- lights or brake lights, just running lights. And I just -- I, of course, applied the brakes, but I slipped.  I mean it was skidding, and I just plowed into her tire that was on the -- she had one of those Jeeps that had the tire on the back, and I hit that tire pretty hard.",a,THE WITNESS,start_question
+181,352,14,5,And you said you did see her car.  Can you estimate time-wise?,q,MS. HUDACK,start_answer
+182,354,14,7,"I would say about five, six seconds before.",a,THE WITNESS,start_question
+183,355,14,8,And you said you couldn't tell if she was stopped or moving?,q,MS. HUDACK,start_answer
+184,357,14,10,I could not.  I -- I assumed she was moving.,a,THE WITNESS,start_question
+185,358,14,11,And you said the only thing you saw were running lights?,q,MS. HUDACK,start_answer
+186,360,14,13,That's correct.,a,THE WITNESS,start_question
+187,361,14,14,And how fast would you say you thought you were going?,q,MS. HUDACK,start_answer
+188,363,14,16,"Well, I was probably going 40, 45 until I hit the brakes.  And then, I don't know how fast I was going when I hit her.",a,THE WITNESS,start_question
+189,366,14,19,And how soon after you saw her did you apply the brakes?,q,MS. HUDACK,start_answer
+190,368,14,21,Probably about three seconds.,a,THE WITNESS,start_question
+191,369,14,22,And can you describe the impact.,q,MS. HUDACK,start_answer
+192,370,14,23,"It was fairly strong.  My airbag inflated, and that was pretty awful.",a,THE WITNESS,start_question
+193,372,14,25,Just your driver side airbag?,q,MS. HUDACK,start_answer
+194,374,15,1,Correct.,a,THE WITNESS,start_question
+195,375,15,2,And where were you looking when the collision occurred?,q,MS. HUDACK,start_answer
+196,377,15,4,Straight ahead.,a,THE WITNESS,start_question
+197,378,15,5,And you said you hit the tire on the rear of her car.  Was it completely the front of your car.  Did you hit like square on?,q,MS. HUDACK,start_answer
+198,381,15,8,The damage was more to the right-hand side of my front -- of the front of my car -- of my van.,a,THE WITNESS,start_question
+199,383,15,10,"Other than applying the brakes, did you make any other evasive maneuvers?",q,MS. HUDACK,start_answer
+200,385,15,12,No.  There wasn't time.,a,THE WITNESS,start_question
+201,386,15,13,"And after the impact, did your car move at all?",q,MS. HUDACK,start_answer
+202,387,15,14,"I tried to move it to the -- past the bridge.  It was right at a bridge, and I tried to get it off the road because I was choking, quite honestly.  I rolled down the window and there was --",a,THE WITNESS,start_question
+203,391,15,18,'Cause of the --,q,MS. HUDACK,start_answer
+204,392,15,19,"The airbags were just -- that gunpowder, whatever they put in there was -- was choking me.  And I was putting my head out the window, trying to get it off to the side, which I managed to do.  There's a driveway just past -- at 1300 Route 13.  I managed to pull off there.",a,THE WITNESS,start_question
+205,397,15,24,"But once -- or right at the impact, did your car hit and stay there?",q,MS. HUDACK,start_answer
+206,400,16,1,"Pretty much, yeah.",a,THE WITNESS,start_question
+207,401,16,2,And how about my client's car?,q,MS. HUDACK,start_answer
+208,402,16,3,I think her's -- she must have been pushed forward.,a,THE WITNESS,start_question
+209,403,16,4,Did your body move at all --,q,MS. HUDACK,start_answer
+210,404,16,5,Yeah.,a,THE WITNESS,start_question
+211,405,16,6,-- upon impact inside the car?,q,MS. HUDACK,start_answer
+212,406,16,7,I hit that airbag pretty hard.,a,THE WITNESS,start_question
+213,407,16,8,Did you sustain any damage to your car other than the -- the airbag being deployed?,q,MS. HUDACK,start_answer
+214,409,16,10,The car was -- the van was totaled.,a,THE WITNESS,start_question
+215,410,16,11,"How about my client's car, were you able to see if she had damage?",q,MS. HUDACK,start_answer
+216,412,16,13,"Yeah.  Her -- the tire absorbed a lot of the impact.  Her battery was knocked loose, but we managed -- the police actually managed to reattach that.  And I'm sure -- I'm pretty sure she was able to drive her vehicle home.",a,THE WITNESS,start_question
+217,417,16,18,"So after the impact, you said you immediately tried to move to the side of the road?",q,MS. HUDACK,start_answer
+218,419,16,20,Correct.,a,THE WITNESS,start_question
+219,420,16,21,And can you describe to me again where you were trying to move.,q,MS. HUDACK,start_answer
+220,422,16,23,I was trying to get to a driveway that was just past the bridge where the impact occurred.  And it's -- I remember the address is 1300.,a,THE WITNESS,start_question
+221,426,17,1,"And after you moved your car, what did you do next?",q,MS. HUDACK,start_answer
+222,427,17,2,"Well, we got -- I got out and made sure Celeste was okay, and she seemed to be.",a,THE WITNESS,start_question
+223,429,17,4,You spoke with her?,q,MS. HUDACK,start_answer
+224,430,17,5,Absolutely.,a,THE WITNESS,start_question
+225,431,17,6,And what did she say?,q,MS. HUDACK,start_answer
+226,432,17,7,"She was shaken up.  She said that -- well, actually, there were two witnesses to this, which I -- I did not get their name or number.  I think they called the police though, so you might be able to get it there.  And they -- and Celeste told me a couple deer had come across the road.",a,THE WITNESS,start_question
+227,438,17,13,Did you ever see the deer?,q,MS. HUDACK,start_answer
+228,439,17,14,I did not.,a,THE WITNESS,start_question
+229,440,17,15,Are there deer commonly in that area?,q,MS. HUDACK,start_answer
+230,441,17,16,Yes.,a,THE WITNESS,start_question
+231,442,17,17,Is that why she was stopped in the road?,q,MS. HUDACK,start_answer
+232,443,17,18,"Apparently, yes.  And -- and the police did remark that they saw hoof marks on the front of her car.",a,THE WITNESS,start_question
+233,445,17,20,And you said there was two witnesses at the scene. Did you speak with them?,q,MS. HUDACK,start_answer
+234,447,17,22,Briefly.,a,THE WITNESS,start_question
+235,448,17,23,Do you remember what was said?,q,MS. HUDACK,start_answer
+236,449,17,24,Just that they saw it all happen and that they had called the police.,a,THE WITNESS,start_question
+237,452,18,1,And the police did arrive on scene?,q,MS. HUDACK,start_answer
+238,453,18,2,"After some time, yes.",a,THE WITNESS,start_question
+239,454,18,3,Can you approximate?,q,MS. HUDACK,start_answer
+240,455,18,4,I'd say a good 15 minutes.,a,THE WITNESS,start_question
+241,456,18,5,And what were you doing in that 15 minutes?,q,MS. HUDACK,start_answer
+242,457,18,6,"I was talking to Celeste.  But then, she got on her phone and called someone.  I was just processing what had just happened.  I called my son to let him know I would be a little bit late.",a,THE WITNESS,start_question
+243,461,18,10,Did you call anybody else?,q,MS. HUDACK,start_answer
+244,462,18,11,No.,a,THE WITNESS,start_question
+245,463,18,12,And what happened when the police got there?,q,MS. HUDACK,start_answer
+246,464,18,13,"Well, I should correct that.  Until I called a tow truck.",a,THE WITNESS,start_question
+247,466,18,15,Okay.  What happened once the police got there?,q,MS. HUDACK,start_answer
+248,467,18,16,They examined the cars and determined that it was an accident.  No one was cited.  No tickets were issued to either of us.  And they saw the hoof marks and chalked it up as bad luck.,a,THE WITNESS,start_question
+249,471,18,20,Was a police report made?,q,MS. HUDACK,start_answer
+250,472,18,21,Yes.,a,THE WITNESS,start_question
+251,473,18,22,Have you seen that police report?,q,MS. HUDACK,start_answer
+252,474,18,23,I don't think so.,a,THE WITNESS,start_question
+253,475,18,24,"And after speaking with the police, what happened next?",q,MS. HUDACK,start_answer
+254,478,19,1,I -- I called a -- a truck -- tow service through Triple A.  And I believe Celeste left with her car.,a,THE WITNESS,start_question
+255,480,19,3,She was able to drive away from the scene?,q,MS. HUDACK,start_answer
+256,481,19,4,"If I remember correctly, yes.  I'm not 100 percent sure.",a,THE WITNESS,start_question
+257,483,19,6,"And you said your van was totaled, right?",q,MS. HUDACK,start_answer
+258,484,19,7,"It was a total loss, yeah.  I didn't have collision.  It was so old.",a,THE WITNESS,start_question
+259,486,19,9,And where was it towed to?,q,MS. HUDACK,start_answer
+260,487,19,10,"To my mechanic here in Doylestown, over on -- near the airport.",a,THE WITNESS,start_question
+261,489,19,12,And how did you leave the scene?,q,MS. HUDACK,start_answer
+262,490,19,13,In the tow truck.,a,THE WITNESS,start_question
+263,491,19,14,And did somebody pick you up from the --,q,MS. HUDACK,start_answer
+264,492,19,15,I think I walked home from there.,a,THE WITNESS,start_question
+265,493,19,16,"Other than you, Celeste, the police officer, and the -- you said there was two witnesses?",q,MS. HUDACK,start_answer
+266,495,19,18,Yes.,a,THE WITNESS,start_question
+267,496,19,19,Was there anyone else on the scene?,q,MS. HUDACK,start_answer
+268,497,19,20,Just the people who live at 1300.  They came sometime after the accident and just pulled in their driveway.  That was the only other people.,a,THE WITNESS,start_question
+269,500,19,23,Did you speak with them?,q,MS. HUDACK,start_answer
+270,501,19,24,"No, not at all.",a,THE WITNESS,start_question
+271,502,19,25,And have you ever seen any of the witnesses or my client since?,q,MS. HUDACK,start_answer
+272,505,20,2,"No.  No, I haven't.",a,THE WITNESS,start_question
+273,506,20,3,How long were you on the scene?,q,MS. HUDACK,start_answer
+274,507,20,4,I'd say about 45 minutes to an hour.,a,THE WITNESS,start_question
+275,508,20,5,Did you sustain any injuries from this accident?,q,MS. HUDACK,start_answer
+276,509,20,6,Personal?,a,THE WITNESS,start_question
+277,510,20,7,Yes.,q,MS. HUDACK,start_answer
+278,511,20,8,You mean physical?,a,THE WITNESS,start_question
+279,512,20,9,Yes.,q,MS. HUDACK,start_answer
+280,513,20,10,Yes.  I hurt my right shoulder.,a,THE WITNESS,start_question
+281,514,20,11,Did you seek treatment for that injury?,q,MS. HUDACK,start_answer
+282,515,20,12,I did.,a,THE WITNESS,start_question
+283,516,20,13,Are you still currently treating?,q,MS. HUDACK,start_answer
+284,517,20,14,No.,a,THE WITNESS,start_chat
+285,518,20,15,Let me just look over this.,side_chat,MS. HUDACK,start_question
+286,520,20,17,"You said you -- after the impact, you moved your car to the right?",q,MS. HUDACK,start_answer
+287,522,20,19,Correct.,a,THE WITNESS,start_question
+288,523,20,20,Did my client ever move her car?,q,MS. HUDACK,start_answer
+289,524,20,21,"I don't think so.  The battery had come disconnected, so she couldn't start it.",a,THE WITNESS,start_question
+290,526,20,23,You said that the police came and -- and reattached it?,q,MS. HUDACK,start_answer
+291,528,20,25,I remember the police helping her reattach the battery.,a,THE WITNESS,start_chat
+292,531,21,2,I think that's all I have.,side_chat,MS. HUDACK,start_chat
+293,532,21,3,Okay.  Awesome.,side_chat,MS. KOELSCH,is brackets
+294,533,21,4,(Witness excused.),brackets,,is brackets
+295,534,21,5,"(Deposition ended at 9:15 a.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+296,572,22,18,__________________________ Ian Monahan and Notary Public,symbols,,end

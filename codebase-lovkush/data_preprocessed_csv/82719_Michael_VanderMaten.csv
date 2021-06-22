@@ -1,0 +1,276 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0,,,,symbols
+1,225,7,14,- - -,symbols,,start_chat
+2,226,7,15,Did you want him to read and sign?,side_chat,MR. BLUM,start_chat
+3,228,7,17,Yes.,side_chat,MR. ACKLEN,start_question
+4,230,7,19,"Good morning.  Could you state your full name for the record, please.",q,MR. BLUM,start_answer
+5,232,7,21,Sure.  Michael J. Vander Maten.,a,THE WITNESS,start_question
+6,233,7,22,"All right.  Michael, do you mind if I call you Michael?",q,MR. BLUM,start_answer
+7,235,7,24,Mike or Michael is fine.,a,THE WITNESS,start_question
+8,236,7,25,"All right.  Mike, my name is Joseph Blum, and I represent Mercedes-Benz in a case that's been brought by Harleysville Insurance Company.  I'm going to ask you a series of questions today. If at any time you don't understand my question, please tell me.  I will be happy to restate it for you.  If at any time today you want to take a break, please let us know.  I will be happy to let you take a break. I would also ask that you keep all of your responses verbal because the court reporter cannot take down nods of our head or shrugs of our shoulders.  Is there anything which would prevent you from testifying accurately today?",q,MR. BLUM,start_answer
+9,252,8,15,No.,a,THE WITNESS,start_question
+10,253,8,16,By whom are employed?,q,MR. BLUM,start_answer
+11,254,8,17,I'm currently employed by Nationwide Insurance Company.,a,THE WITNESS,start_question
+12,256,8,19,And in what capacity do you work?,q,MR. BLUM,start_answer
+13,258,8,21,"I work for the Commercial Claims Department, their Forensic Accounting Team.",a,THE WITNESS,start_question
+14,260,8,23,"And what would you describe -- what would your job description be, what do you do?",q,MR. BLUM,start_answer
+15,264,9,1,"We assist policyholders and our claims associates in the Commercial Claims Department with evaluating various economic damage aspects related to insurance claims. These could be business interruption losses, inventory loses, extra expense, employee dishonesty, cash theft loses.  Anything that we can do to assist either our policyholders or our claims associates in evaluating those damages.",a,THE WITNESS,start_question
+16,274,9,11,And how long have you been employed by Nationwide in that capacity?,q,MR. BLUM,start_answer
+17,276,9,13,Since November of 2015.,a,THE WITNESS,start_question
+18,277,9,14,"All right.  And before November of 2015, could you tell us what you were doing work wise.",q,MR. BLUM,start_answer
+19,280,9,17,"Sure.  I was a forensic accountant with an independent CPA firm, Vavnik, Trine, and Day.",a,THE WITNESS,start_question
+20,283,9,20,Whoa.  Can you spell that for us.,q,MR. BLUM,start_answer
+21,285,9,22,"V-A-V-N-I-K, T-R-I-N-E, and D-A-Y.",a,THE WITNESS,start_question
+22,287,9,24,"Guess what, if you spelled it wrong, none of us will ever know.",q,MR. BLUM,start_answer
+23,290,10,1,"Well, I had to think because we got bought out by another CPA firm.  I was only with them for a very short time.",a,THE WITNESS,start_question
+24,293,10,4,"All right.  While you were at the CPA firm, how long were you there at the CPA firm?",q,MR. BLUM,start_answer
+25,296,10,7,"At Vavnik, I was there for about a year before joining Nationwide.",a,THE WITNESS,start_question
+26,298,10,9,"Okay.  Were you at a predecessor firm, I take it, before that?",q,MR. BLUM,start_answer
+27,300,10,11,"Yes, I was.  It was Gaintner, Bandler, Reed, and Peters.",a,THE WITNESS,start_question
+28,302,10,13,Okay.  And how long were you there?,q,MR. BLUM,start_answer
+29,304,10,15,Since January of 1999.,a,THE WITNESS,start_question
+30,305,10,16,"And tell me, while you were at those two CPA firms, what were you doing there?",q,MR. BLUM,start_answer
+31,307,10,18,"Essentially the same thing that I'm doing now for Nationwide, in-house for Nationwide, I was doing as an independent contractor for various insurance companies including Nationwide.",a,THE WITNESS,start_question
+32,312,10,23,"And before January of 1999, what were you doing?",q,MR. BLUM,start_answer
+33,314,10,25,Same thing.  I was doing forensic accounting for a firm out of Los Angeles.  It was called RGL Gallagher.,a,THE WITNESS,start_question
+34,318,11,3,And how long were you there?,q,MR. BLUM,start_answer
+35,319,11,4,"Well, I was with them since 1997.  They started out as Campos and Stratus. I was with them since 1990, May of '90.",a,THE WITNESS,start_question
+36,322,11,7,Was that also in the capacity of a forensic accountant?,q,MR. BLUM,start_answer
+37,324,11,9,It was.,a,THE WITNESS,start_question
+38,325,11,10,"Before 1990, were you employed?",q,MR. BLUM,start_answer
+39,326,11,11,I was in school.,a,THE WITNESS,start_question
+40,327,11,12,And where did you go to school?,q,MR. BLUM,start_answer
+41,328,11,13,University of Arizona.,a,THE WITNESS,start_question
+42,329,11,14,Did you receive a degree there?,q,MR. BLUM,start_answer
+43,330,11,15,I did.  I have a bachelor's in accounting and finance.,a,THE WITNESS,start_question
+44,332,11,17,Okay.  And any other advanced degrees?,q,MR. BLUM,start_answer
+45,334,11,19,"No, sir.",a,THE WITNESS,start_question
+46,335,11,20,Okay.  And have you ever sat for a CPA exam?,q,MR. BLUM,start_answer
+47,337,11,22,I did.,a,THE WITNESS,start_question
+48,338,11,23,And did you pass it?,q,MR. BLUM,start_answer
+49,339,11,24,"I passed -- when I took the exam, it was a five part exam and I passed certain parts at different times.  I did not pass them all at one time to complete the exam.",a,THE WITNESS,start_question
+50,344,12,3,"All right.  So as we sit here today, you are not considered a CPA?",q,MR. BLUM,start_answer
+51,346,12,5,I am not a CPA.,a,THE WITNESS,start_question
+52,347,12,6,And have you taken any other courses after you left the University of Arizona related to accounting or forensics?,q,MR. BLUM,start_answer
+53,350,12,9,"Yes.  Well, I'm a Certified Fraud Examiner.  I've been a CFE for a number of years since 2005, I believe.  I take regularly ongoing continuing education courses related to fraud and fraud examination.  Those typically center around the accounting aspects of fraud and fraud examination.",a,THE WITNESS,start_question
+54,357,12,16,"And your CFE, what did you have to do to obtain that?",q,MR. BLUM,start_answer
+55,359,12,18,Take an exam.,a,THE WITNESS,start_question
+56,360,12,19,"Is that a written exam, an oral exam, or a combination?",q,MR. BLUM,start_answer
+57,362,12,21,It's a written exam.,a,THE WITNESS,start_question
+58,363,12,22,"And who is the, like, sponsoring agency or the group that --",q,MR. BLUM,start_answer
+59,365,12,24,"The association is Certified Fraud Examiners, I believe, out of Austin, Texas.",a,THE WITNESS,start_question
+60,369,13,2,Did you have to just take that exam or were there preparatory courses that you had to pass in order to take the exam?,q,MR. BLUM,start_answer
+61,372,13,5,"Well, there was a preparatory exam course that you had to take, but you also needed to fulfill the experience requirements. Based on the years of service and the type of accounting practice that I was in, it qualified me for the experience requirement to sit for the exam.",a,THE WITNESS,start_question
+62,379,13,12,All right.  And have you ever testified as an expert in court at any time?,q,MR. BLUM,start_answer
+63,381,13,14,Yes.,a,THE WITNESS,start_question
+64,382,13,15,And can you tell us how many times.,q,MR. BLUM,start_answer
+65,384,13,17,"This is just through deposition testimony.  I haven't testified in court.  So I think it was, maybe, four or five.",a,THE WITNESS,start_question
+66,387,13,20,And do you remember the names of any of the cases?,q,MR. BLUM,start_answer
+67,389,13,22,I don't as I sit here today.,a,THE WITNESS,start_question
+68,390,13,23,Did you maintain copies of the -- do you have copies of the transcripts from any of those depositions?,q,MR. BLUM,start_answer
+69,394,14,1,"No, I do not.",a,THE WITNESS,start_question
+70,395,14,2,Do you remember what courts they were in?,q,MR. BLUM,start_answer
+71,397,14,4,"I think one of them was Arizona State Court, and I think there might have been a Federal Court case as well.",a,THE WITNESS,start_question
+72,400,14,7,What were the general topics that you were testifying about in those cases?,q,MR. BLUM,start_answer
+73,402,14,9,"It was with regard to economic damages such as loss of income -- I'm trying to think.  I think one of them might have been an employee dishonesty case.  But, in general, most of them have been regarding the loss of income business interruption aspects.",a,THE WITNESS,start_question
+74,408,14,15,"Okay.  On a day-to-day basis or monthly basis when you're at Nationwide, can you tell us, like, how many forensic examinations are you conducting just on a routine basis?",q,MR. BLUM,start_answer
+75,413,14,20,"Sure.  Our goal is to do about 26 claims a month, which is about 300 a year. Typically allowing for vacations and stuff.  We pretty much try to stick toward that goal.",a,THE WITNESS,start_question
+76,417,14,24,"And is that something you actually track, like, how many you have done?",q,MR. BLUM,start_answer
+77,420,15,1,"Oh, yes.",a,THE WITNESS,start_question
+78,421,15,2,"And as we sit here today, do you remember the claim from the Clemens Cleaning Village?",q,MR. BLUM,start_answer
+79,424,15,5,I do.,a,THE WITNESS,start_question
+80,425,15,6,"Okay.  Before you came here today, other than speaking to your attorney, did you do anything to prepare yourself for the deposition?",q,MR. BLUM,start_answer
+81,429,15,10,"Basically looked through my report, my prior report.",a,THE WITNESS,start_question
+82,431,15,12,Okay.  And were there drafts of your report that you also reviewed?,q,MR. BLUM,start_answer
+83,433,15,14,No.,a,THE WITNESS,start_question
+84,434,15,15,"Okay.  So let's turn now -- I'm going to start asking you some questions specifically about Clemens.  When you have an assignment like this, is it something that you typically go out into the field or do you work from your office or from home to do that?",q,MR. BLUM,start_answer
+85,440,15,21,No.  Almost all of the work that we do is performed from our home.,a,THE WITNESS,start_question
+86,442,15,23,"And in the Clemens Cleaning Village case, is that true that you --",q,MR. BLUM,start_answer
+87,444,15,25,That is true.,a,THE WITNESS,start_question
+88,446,16,1,-- basically sat in your home office and performed this work?,q,MR. BLUM,start_answer
+89,448,16,3,That's correct.,a,THE WITNESS,start_question
+90,449,16,4,"Okay.  Did you ever interview, like, over-the-phone or in-person, anyone who was a representative of Clemens Cleaning Village?",q,MR. BLUM,start_answer
+91,453,16,8,"I had an initial conversation with Randy, Mr. Randy Clemens.  Then, I believe, I also had a conversation with his associate, Ms. Janet Curtis.",a,THE WITNESS,start_question
+92,457,16,12,"Okay.  And did you ever have any contact with their accounting firm, the outside accounting firm, that represents Clemens Cleaning Village?",q,MR. BLUM,start_answer
+93,461,16,16,"No, sir.",a,THE WITNESS,start_question
+94,462,16,17,Do you remember anything about the conversation you had with Randy Clemens?,q,MR. BLUM,start_answer
+95,464,16,19,"That specific conversation, no.",a,THE WITNESS,start_question
+96,465,16,20,Okay.  Do you have any general thoughts about what it was about?,q,MR. BLUM,start_answer
+97,467,16,22,"Well, generally, in my initial conversation with a policyholder I will discuss what our role in the process is, what kind of information we'll probably need to take a look at, the process of evaluating the business income loss, the extra expense loss.  That's a typical conversation that I would have with any policyholder.",a,THE WITNESS,start_question
+98,476,17,5,All right.  Do you recall your conversation with Janet specifically?,q,MR. BLUM,start_answer
+99,478,17,7,"My initial conversation was with Randy.  It wasn't with Janet.  I did speak with Janet later on with regard to the flow of the documentation, when we would be receiving documentation.  If I had any questions, they would typically go through Janet.",a,THE WITNESS,start_question
+100,484,17,13,All right.  What were you asked to do in this case?,q,MR. BLUM,start_answer
+101,486,17,15,"I was asked to work with our policyholder, evaluate the business income loss, summarize, review the extra expense invoices that they were submitting, put them into a format that I could provide to the claim associate for his coverage review and coverage determination, and then the report on a monthly basis going along through the policy period.",a,THE WITNESS,start_question
+102,494,17,23,"All right.  And if we were to -- I take it that everything you did on this would have been done on the computer, not on paper necessarily?",q,MR. BLUM,start_answer
+103,499,18,2,That's correct.,a,THE WITNESS,start_question
+104,500,18,3,"And if we were to sit down at your computer, what kind of file or files would be available to you if you looked at them for this claim?",q,MR. BLUM,start_answer
+105,504,18,7,I just want to clarify.,a,THE WITNESS,start_question
+106,505,18,8,Sure.,q,MR. BLUM,start_answer
+107,506,18,9,"When you say files, do you mean, like, PDF or word documents or what --",a,THE WITNESS,start_question
+108,508,18,11,"I'm more talking, like, organization.  If you sat down at your computer today and you wanted to look at the file for Clemens Cleaning Village --",q,MR. BLUM,start_answer
+109,512,18,15,Okay.,a,THE WITNESS,start_question
+110,513,18,16,What would it look like in terms of the layout or how you could find pieces of the file?,q,MR. BLUM,start_answer
+111,516,18,19,"It would be in a sub-folder with categorization of my work papers and then any PDF of my documents, of my reports, that were submitted to the claim associate.  Then possibly a folder with the extra expense invoice, possibly a folder with other documents such as payroll or tax returns.",a,THE WITNESS,start_question
+112,524,19,1,"So in terms of the extra expense, if the client or the insured was submitting invoices, let's just say for a replacement shirt, would you have reviewed and then saved that invoice in your file?",q,MR. BLUM,start_answer
+113,529,19,6,Yes.,a,THE WITNESS,start_question
+114,530,19,7,"And could you, if you had to, go back and trace every invoice that's listed in your report to some PDF or document that's in your file?",q,MR. BLUM,start_answer
+115,534,19,11,"Yes.  It would take some time, but, yeah.",a,THE WITNESS,start_question
+116,536,19,13,But your belief is that it is all there?,q,MR. BLUM,start_answer
+117,538,19,15,Yes.,a,THE WITNESS,start_question
+118,539,19,16,I'm going to mark as Exhibit-1 to your deposition a copy of your report.,q,MR. BLUM,symbols
+119,541,19,18,- - -,symbols,,is brackets
+120,542,19,19,"(Whereupon, Exhibit-1 was marked for identification.)",brackets,,symbols
+121,544,19,21,- - -,symbols,,start_question
+122,546,19,23,"I'm just going to ask you to take a moment and go through that.  My first question is, is that a true and correct copy of your final report from the Clemens Cleaning Village claim?",q,MR. BLUM,start_answer
+123,552,20,3,Yes.  This does appear to be a final report.,a,THE WITNESS,start_question
+124,554,20,5,"In the upper left-hand corner on the first page there is a date of 10/24/18.  Is that the date on which you personally would have finalized that or is that just, like, when this report got printed?  You tell me what that number represents.",q,MR. BLUM,start_answer
+125,560,20,11,"It's typically the same thing. So when I generate the report, it was generated on 10/24.  It's stamped with that date, and that's usually the date that I would send it off to the claim associate.",a,THE WITNESS,start_question
+126,565,20,16,"Is it accurate that before you got to this final report on 10/24, would there have been interim reports that you would have provided to the claims adjuster?",q,MR. BLUM,start_answer
+127,569,20,20,"Yes, sir.",a,THE WITNESS,start_question
+128,570,20,21,And is it also accurate that all of the information that you submitted to the claims adjuster in those interim reports is really summarized and finalized in this report of 10/24/18?,q,MR. BLUM,start_answer
+129,576,21,1,Yes.,a,THE WITNESS,start_question
+130,577,21,2,"Okay.  All right.  I want to focus on the first page, if we could.",q,MR. BLUM,start_answer
+131,579,21,4,Okay.,a,THE WITNESS,start_question
+132,580,21,5,"Can you tell me briefly -- there is page numbers at the bottom, which are production numbers from the litigation.  They are not your page numbers.  So looking at page 1731, could you just please tell us what this page represents.",q,MR. BLUM,start_answer
+133,586,21,11,"This page is just a summary of the evaluated business income loss through our policy period ending June 15, 2017, and a summary of the extra expenses that we had reviewed.  It just summarizes the analysis contained in the schedules leading up to the summary schedule.",a,THE WITNESS,start_question
+134,593,21,18,"Okay.  Just so we're on the same page, and you have to understand I'm not an accountant so I want to make sure I'm using the right words.  Can you just tell me, what is your definition as you're working on this of what business income loss is?",q,MR. BLUM,start_answer
+135,599,21,24,"Well, the business income loss is the net profit or loss that you would have had but for the loss of that, plus your continuing operating expenses including payroll.  That analysis is contained on the supporting schedules, as well as a format which, I believe, is a little bit simpler for policyholders to understand and us to explain. It's an evaluation of the loss revenues less those expenses that would discontinue or be saved during the loss period. Those numbers should equal -- whether you do that first bottom up approach or the top down approach, which I would call the loss sales less save expenses, and that analysis is contained in the supporting Schedules.",a,THE WITNESS,start_question
+136,616,22,15,"Okay.  And then the extra expense, just again so we're on the same page, tell me from your professional definition of what extra expense means in the context of this report.",q,MR. BLUM,start_answer
+137,621,22,20,"Well, those extra expenses would be those expenses incurred by the policyholder that are over and above normal to continue the business operations.  We basically summarize those invoices and review them as they were provided to us from the policyholder to the claims associate for their review of coverage as well.  There could be duplications with what they are handling in terms of the property damage or contents.  We typically summarize those expenses and provide it to the claims associate for their determination as to coverage.",a,THE WITNESS,start_question
+138,635,23,8,"And, again, just sticking with the summary on page one, under the preliminary business income loss through June 15th of 2017, I believe the way your schedule here shows is that there is no loss; is that correct?",q,MR. BLUM,start_answer
+139,640,23,13,That is correct.,a,THE WITNESS,start_question
+140,641,23,14,"All right.  Then there are two, I call them footnotes, on this page.  It's notes A and B.  Can you tell us, what was the significance of note A on the first page of your report?",q,MR. BLUM,start_answer
+141,646,23,19,"I think the significance of footnote A was from an earlier report and the footnote probably should not have continued on. But, essentially, the purpose of footnote A in an earlier report that I was illustrating to the claims associate that the policyholder had not submitted a formal business interruption claim, and that the indication that we were receiving from the policyholder was the same as our preliminary analysis through July 2016.  So obviously that first footnote shouldn't have continued on into this report probably.",a,THE WITNESS,start_question
+142,659,24,6,How about footnote B?,q,MR. BLUM,start_answer
+143,660,24,7,"Footnote B, I was illustrating to the claims associate that we had taken into account the policy provision of the 24 hour waiting period.  That's the first part of the note.  Then as we were evaluating the loss of income for Clemens Cleaning Village, the format of the loss sales less they saved expenses became a negative number. I had a conversation with our claims associate in that time period asking him if we would be -- if it was his opinion that we should deduct that negative business income amount from the extra expenses that were submitted.  He had indicated to me that, no, we would not be taking that negative business income value against the extra expenses.",a,THE WITNESS,start_question
+144,676,24,23,Did he indicate to you why that was?,q,MR. BLUM,start_answer
+145,678,24,25,"He felt that the coverages were stand alone, that the business interruption was suffered from the extra expenses.  If there was no business income or business interruption loss, that the extra expenses would stand on their own.",a,THE WITNESS,start_question
+146,685,25,6,"Okay.  And I take it if we go through page-by-page, everything in the rest of this report is the backup for the two conclusions or the two summaries you have on page one; is that correct?",q,MR. BLUM,start_answer
+147,690,25,11,That's correct.,a,THE WITNESS,start_question
+148,691,25,12,"Can you look at the next page for us, page 1732.  Can you tell me, what does page 1732 represent?",q,MR. BLUM,start_answer
+149,694,25,15,"Yes.  This is the evaluation of the business income loss in that format that I described earlier, which is in that net income plus continuing operating expense format.  So this is in what's typically the policy language format of the business interruption.",a,THE WITNESS,start_question
+150,700,25,21,"And the conclusion that I see on here -- make sure I understand this -- is that the extreme right-hand column is the loss net income, right?  And your number here is $188,318, which shows as a negative number meaning there was actually $188,000 above what their operating income would have otherwise been?",q,MR. BLUM,start_answer
+151,709,26,4,Yes.  Or that there was no business interruption loss.,a,THE WITNESS,start_question
+152,711,26,6,"Okay.  During the timeframe when your company is reimbursing the insured for extra expenses, does that impact your analysis of this loss of business income?",q,MR. BLUM,start_answer
+153,715,26,10,The timing of when payments are made doesn't impact our analysis of business interruption.  I hope I understood your question.,a,THE WITNESS,start_question
+154,719,26,14,"I think you did.  Because when you say the timing of payments, it's the timing of payments from the insurance company to the insured does not impact this analysis?",q,MR. BLUM,start_answer
+155,723,26,18,"That's correct.  And from our department, from the Forensic Accounting Team, we don't have anything to do with payments that are made.  We issue the reports and then payments are made from the claims adjuster at the claims management level.",a,THE WITNESS,start_question
+156,729,26,24,"And I take it if you look at the Schedule on page 1732, are there areas that you can identify where the insured actually saved money as a result of the loss and that's how they ended up with a negative loss net income?",q,MR. BLUM,start_answer
+157,735,27,4,"I don't know if I would phrase it as, they saved money, per se.  I would just say that in the evaluation of the business interruption loss, the extra expenses that they incurred mitigated their revenue losses.  Then when we took into account the revenue evaluation.  There were certain expenses that when deducted lead us to a negative number. Such as, a larger one on here would be depreciation, for instance.",a,THE WITNESS,start_question
+158,745,27,14,"Okay.  In fact, the depreciation here is $223,745; is that correct?",q,MR. BLUM,start_answer
+159,747,27,16,"There are actually two lines of depreciation.  There is a $223,745 and then there is a $28,470.",a,THE WITNESS,start_question
+160,750,27,19,And both of those are depreciation numbers that contributed to the negative section of the loss net income?,q,MR. BLUM,start_answer
+161,753,27,22,That's correct.,a,THE WITNESS,start_question
+162,754,27,23,"And can you tell us when you did this comparison, obviously you were saying there wasn't a loss, what were you comparing it to?  So what was the base numbers that you used to compare that there was not a loss income?",q,MR. BLUM,start_answer
+163,760,28,3,"Well, we were primarily interested -- well, let me take a step back. Once the determination by the claims associate was made that the negative BI would not be applied to the extra expenses, from that standpoint on, on a monthly basis we were reviewing monthly sales from Clemens and their monthly payroll reports and just monitoring on a sales basis whether there would be any reduction or loss of revenues that could contribute to a positive business income loss.",a,THE WITNESS,start_question
+164,771,28,14,Okay.  And I take it that there was not a loss that occurred?,q,MR. BLUM,start_answer
+165,773,28,16,That's correct.,a,THE WITNESS,start_question
+166,774,28,17,"Okay.  So I take it from the date of your report that was done on 10/24/2018, that in fact when this report was completed, the period of covered loss from June 15th of 2016 to June 15th of 2017, had completed that cycle and was totally available to you when you did your final numbers?",q,MR. BLUM,start_answer
+167,781,28,24,That's correct.,a,THE WITNESS,start_question
+168,782,28,25,"All right.  Can you tell us then, putting that page aside, what Schedule 1A, which is on page 1733, represents?",q,MR. BLUM,start_answer
+169,786,29,3,"Schedule 1A represents the other format that I had described to you earlier. Schedule 1 is the evaluation of the business income loss and the net profit plus continuing format.  Schedule 1A is the business income loss bi-period or month, which is in the loss revenue less save expense format.  The totals should be equal to the two, between the two Schedules.",a,THE WITNESS,start_question
+170,795,29,12,"Right.  And, in fact, when you look at your Schedule 1 and Schedule 1A, your total for the loss net income is the same?",q,MR. BLUM,start_answer
+171,798,29,15,That's correct.,a,THE WITNESS,start_question
+172,799,29,16,"Okay.  If you could turn to the next page, which is listed as Schedule 2, which appears on 1734.  Can you please tell us what this Schedule represents.",q,MR. BLUM,start_answer
+173,803,29,20,"Yes.  An integral into the business interruption or business income evaluation is the calculation loss of revenues. So that's what we see on Schedule 2. Basically, we analyze the monthly revenues for the two years prior to the loss.  We took a trending of those sales figures.  It looks like we took an August through May trend of about a one percent growth and applied that to our prior year sales to get our projected sales during the loss period.  We then compared those projected sales to actual sales.  The difference is noted in the column on Schedule 2.  When you sum that column, that number would then flow forward to Schedule 1A and Schedule 1 in the business interruption evaluation.",a,THE WITNESS,start_question
+174,820,30,11,"Okay.  I just want to make sure I understand that.  So in the loss revenue column, which is on the right-hand side --",q,MR. BLUM,start_answer
+175,823,30,14,Yes.,a,THE WITNESS,start_question
+176,824,30,15,The number that appears where it says increase/decrease --,q,MR. BLUM,start_answer
+177,826,30,17,Yes.,a,THE WITNESS,start_question
+178,827,30,18,That is an increase or decrease in the sales over the prior period?,q,MR. BLUM,start_answer
+179,829,30,20,Over the projection.,a,THE WITNESS,start_question
+180,830,30,21,Okay.,q,MR. BLUM,start_answer
+181,831,30,22,"So the prior period would be the prior month sales multiplied by the one percent growth factor to arrive at the projected.  Then the difference that you see in the increase or the decrease column would be the comparison of the actual -- to the projected.  Where there is a negative number, it would mean that the actual sales proceeded our projection.  When there is a non-negative number, it would be those sales that are decreased or we're considering as loss revenues.",a,THE WITNESS,start_question
+182,843,31,8,"Okay.  Can you tell me, what was the source of the historical information that you relied upon for this analysis?",q,MR. BLUM,start_answer
+183,846,31,11,I believe we were receiving monthly sales reports from Janet Curtis.,a,THE WITNESS,start_question
+184,848,31,13,I understand that.  But I mean more prior to the loss period.  What historical information did you have from prior to the loss period?,q,MR. BLUM,start_answer
+185,852,31,17,Monthly sales reports going back a couple of years.  Then we also had a couple of years of tax returns.,a,THE WITNESS,start_question
+186,855,31,20,"Okay.  And I apologize if I misunderstood you there.  When you say sales reports, were they, like, Quicken QuickBook reports that had come from the client or the insured?",q,MR. BLUM,start_answer
+187,860,31,25,"They might not have been Quicken, but they were monthly sales reports.",a,THE WITNESS,start_question
+188,863,32,2,"All right.  Great.  If we could turn to page 1735, which is listed as Schedule 3.  Can you please tell us what that is.",q,MR. BLUM,start_answer
+189,866,32,5,"Schedule 3 is a summary of the Clemens Cleaning Village tax return for the 12 months ending September 30, 2015.",a,THE WITNESS,start_question
+190,869,32,8,Uh-uh.,q,MR. BLUM,start_answer
+191,870,32,9,Which would be their 2014 tax return.,a,THE WITNESS,start_question
+192,872,32,11,And why were you preparing that summary?,q,MR. BLUM,start_answer
+193,874,32,13,"I was preparing this summary to evaluate in terms of the ongoing business interruption loss.  Those expenses that would be fixed in nature and those expenses that would be variable in nature.  Typically, variable expenses would discontinue during a period of interruption.  Fixed expenses would likely continue depending upon the length of the interruption period.  So that's what this analysis was intended to do.",a,THE WITNESS,start_question
+194,884,32,23,"Okay.  Then Schedule 4, which falls on pages 1736 and 1737.  Could you please explain to us what that is.",q,MR. BLUM,start_answer
+195,888,33,1,"Yes.  1736 and 1737 pages are an analysis of the payroll.  What we did is, we looked at the payroll for the 84 days prior to loss and developed what their average payroll may look like or did look like.  That was a daily average of $5,228.  Then we compared that to the post loss payroll or the payroll actually incurred in the post loss period. What we were doing here is trying to identify any saved payroll as a result of the loss. Initially when we got into this, we were looking at whether there would be a continuance of operations or not.  So we were evaluating payroll on an ongoing basis to determine if there was any savings in that area.",a,THE WITNESS,start_question
+196,903,33,16,"And I take it -- can you tell us, was there or wasn't there any savings in the payroll through the claim period?",q,MR. BLUM,start_answer
+197,906,33,19,"It does not appear that there was any savings.  In fact, our analysis tends to show that payroll went up slightly after the loss.",a,THE WITNESS,start_question
+198,910,33,23,"Okay.  All right.  If you could turn to page 1738 for us, please.  I believe it continues after that to Schedule 4A.  Could you please tell us what that is.",q,MR. BLUM,start_answer
+199,915,34,2,Yeah.  Schedule 4A is just a summary of the weekly payroll records that were provided by Clemens.  The totals on Schedule 4A flow through to Schedule 4 and is part of the payroll analysis.,a,THE WITNESS,start_question
+200,920,34,7,"Okay.  If you look at Schedule 5, which starts on 1741.  Could you please tell us what that is.",q,MR. BLUM,start_answer
+201,923,34,10,"Schedule 5, pages 1741 through 1758, is a summary of those extra expense invoices and charges that were presented to us by Clemens.  They were summarized by me and forwarded on to the claims associate.",a,THE WITNESS,start_question
+202,928,34,15,"Okay.  And just so we're clear, let's just take the very first entry on Schedule 5, which is, it says, Macintosh linen and uniform and then there is an invoice number and date, right?",q,MR. BLUM,start_answer
+203,933,34,20,Yes.,a,THE WITNESS,start_question
+204,934,34,21,"Then it says, fire towel processing.",q,MR. BLUM,start_answer
+205,936,34,23,Yes.,a,THE WITNESS,start_question
+206,937,34,24,And an as claimed number.  What does that represent?,q,MR. BLUM,start_answer
+207,940,35,1,The as claimed number would have been the amount that was on the invoice and on the quickbooks ledger that was provided by the policyholder.,a,THE WITNESS,start_question
+208,944,35,5,"All right.  Then the difference, what does that represent?",q,MR. BLUM,start_answer
+209,946,35,7,"The difference would be, based on my review, those items which I think on my first pass would not be appropriate to an expense charge.  In this case, we have a difference where this vendor Macintosh had charged sales tax.  Because Clemens was the end user or the distributor, sales tax shouldn't have been included in those invoices and we backed those out.",a,THE WITNESS,start_question
+210,955,35,16,"And then so the as reviewed number, is that a number which you basically are approving to say this is in line for payment?",q,MR. BLUM,start_answer
+211,959,35,20,"The as reviewed column is the column that on a preliminary basis I would put in as reviewed.  Then what I do is submit this to the claims associate.  If he has any issues or changes to be made or based on his coverage, then I would pull that out of as reviewed and make a note.  So basically what ends up in the as reviewed column is after my review and the claims associate's review.",a,THE WITNESS,start_question
+212,969,36,4,"Okay.  And so if we went through this entire Schedule 5, each of these invoices came to you personally and you reviewed it; is that correct?",q,MR. BLUM,start_answer
+213,973,36,8,Yes.,a,THE WITNESS,start_question
+214,974,36,9,"Okay.  And if we went to your computer file today, theoretically, we should be able to find each of these invoices in that file?",q,MR. BLUM,start_answer
+215,978,36,13,Yes.,a,THE WITNESS,start_question
+216,979,36,14,And then is it also accurate that you received some kind of proof of payment by the insured for these invoices?,q,MR. BLUM,start_answer
+217,982,36,17,I did not receive proof of payment.  Payment is a little bit different than the accrual or incurred portion.,a,THE WITNESS,start_question
+218,985,36,20,Sure.,q,MR. BLUM,start_answer
+219,986,36,21,"So I did not receive proof of payment, but I received proof that it had been entered into their accounting system and was part of their incurred expenses.",a,THE WITNESS,start_question
+220,990,36,25,All right.  So you had at least proof in their books that they showed they had this invoice and had listed it as a legitimate expense?,q,MR. BLUM,start_answer
+221,995,37,4,Yes.,a,THE WITNESS,start_question
+222,996,37,5,That would be true then if we went through every one of these individual invoices listed in Schedule 5?,q,MR. BLUM,start_answer
+223,999,37,8,I believe so.,a,THE WITNESS,start_question
+224,1000,37,9,Okay.  So why are you qualifying your answer there?,q,MR. BLUM,start_answer
+225,1002,37,11,"Well, I don't recall whether on a monthly basis Janet was giving me the quickbooks report every month.  So I'm not sure.  My only qualification is, I don't know if I received all of those quickbook reports.",a,THE WITNESS,start_question
+226,1007,37,16,"All right.  If we could, let's go to page 1757.",q,MR. BLUM,start_answer
+227,1009,37,18,Okay.,a,THE WITNESS,start_question
+228,1010,37,19,"Actually, I have a question.  It goes on for a couple of pages, but there is an item of fuel for leased trucks.  Can you tell me why that would have qualified as an extra expense if they had -- it would have had to have had ongoing trucking operations no matter what.",q,MR. BLUM,start_answer
+229,1018,38,1,"My understanding and explanation from the policyholder was that these were -- well, they had the leased trucks and then they had to expend fuels for those leased trucks to handle the product or the linens that were sent out of house.  It required them to go to more locations and have more trucks to bring those back in to house for distribution.  That's my understanding.",a,THE WITNESS,start_question
+230,1027,38,10,Okay.  Did you do any other analysis to verify any of that?,q,MR. BLUM,start_answer
+231,1029,38,12,No.,a,THE WITNESS,start_question
+232,1030,38,13,"Okay.  If we look on page 1757, there is an insurance expense.  Can you tell me why those insurance expenses were considered an extra expense?",q,MR. BLUM,start_answer
+233,1034,38,17,"Well, in this case, the description insurance expense that you see there with the number before it is the policyholder's or Clemens' description.  I think she was just classifying those as expenses she didn't know what else to do with. So she just put them into an expense category called insurance expenses.  And to remain consistent with what they were doing in their accounting system, I just kept the same nomenclature.  It appears that these expenses are for a temporary build out so that the policyholder can continue operations.",a,THE WITNESS,start_question
+234,1048,39,5,And that would be then -- the next category down actually says cost for temporary location.  They would be part of that; is that correct?,q,MR. BLUM,start_answer
+235,1052,39,9,That's correct.,a,THE WITNESS,start_question
+236,1053,39,10,"At the very bottom of the cost for temporary location there is a purchase for an industrial dryer.  That's, like, $52,000. Do you see that?",q,MR. BLUM,start_answer
+237,1057,39,14,Yes.,a,THE WITNESS,start_question
+238,1058,39,15,Why would that cover as an extra expense versus being a replacement under the building or under the personal property claim?,q,MR. BLUM,start_answer
+239,1061,39,18,"That's a question for our claims associate.  I think at this point in time when this expense came through, the claim associate was Steve.  He was comfortable with it being part of the extra expense.  These are examples of expenses that I would really rely on our claims adjuster to approve and put forward.",a,THE WITNESS,start_question
+240,1068,39,25,"Okay.  And then the temporary rent, can you tell me what your understanding of the temporary rent was.",q,MR. BLUM,start_answer
+241,1072,40,3,"The temporary rent was the rent for the temporary location that they were operating out of, which would take in these subcontracted out for cleaning linens and so on.  So the policyholder had to rent a temporary location that I think was on their same property that they used to continue their operations.",a,THE WITNESS,start_question
+242,1080,40,11,"All right.  And then underneath it says, less saved rent?",q,MR. BLUM,start_answer
+243,1082,40,13,Yes.,a,THE WITNESS,start_question
+244,1083,40,14,"Or less save rent loss location, right?  So that is it, I take it, the amount that they saved by not paying at the original location?",q,MR. BLUM,start_answer
+245,1087,40,18,That's correct.,a,THE WITNESS,start_question
+246,1088,40,19,"Okay.  And in the end, was there extra rent or saved rent?",q,MR. BLUM,start_answer
+247,1090,40,21,"In the end, I think the difference was $2,400 between the two, between the temporary rent and the saved rent.",a,THE WITNESS,start_question
+248,1093,40,24,"All right.  Great.  If we look on page 1758, there is a total number that's listed there.",q,MR. BLUM,start_answer
+249,1097,41,2,"Yes, sir.",a,THE WITNESS,start_question
+250,1098,41,3,"Okay.  There is an as claimed number and the as reviewed number is $13,196.71 less.  From your review, had you personally agreed that the 1.9 million that's listed in the as reviewed column is what should have been paid to the insured?",q,MR. BLUM,start_answer
+251,1104,41,9,"The $1,976,815.39 is the amount that I provided to the claims associate after my pass through for it, and that's the amount that they had approved as covered.",a,THE WITNESS,start_question
+252,1108,41,13,"Okay.  And at any time, did the claims person working on this file provide you with any input or any information which indicated that any of the things that you had included should not have been in here?",q,MR. BLUM,start_answer
+253,1113,41,18,Yeah.  There was one back on page 1757.,a,THE WITNESS,start_question
+254,1115,41,20,Uh-uh.,q,MR. BLUM,start_answer
+255,1116,41,21,"The extra accounting fees. There is a $10,500 charge that the claim associate, after discussion with him, he didn't feel that was an extra expense.",a,THE WITNESS,start_question
+256,1120,41,25,Okay.  Was there anything other than that accounting issue that you recall was questioned by the claims adjuster?,q,MR. BLUM,start_answer
+257,1124,42,3,"I think there was questions as to the temporary build out and some of the other questions, but ultimately in the end they were approved.",a,THE WITNESS,start_question
+258,1128,42,7,"Okay.  After you completed your report in October of 2017, did you have any other involvement in this matter?",q,MR. BLUM,start_answer
+259,1131,42,10,Only other involvement is preparing an expert report for possible trial.,a,THE WITNESS,start_question
+260,1133,42,12,Okay.,q,MR. BLUM,start_chat
+261,1134,42,13,I have no further questions.,side_chat,MR. BLUM,start_question
+262,1137,42,16,You have been with Nationwide for how many years?  I missed that.,q,MR. SLATTERY,start_answer
+263,1139,42,18,November of 2015.,a,THE WITNESS,start_question
+264,1140,42,19,"When you've testified as an expert before, I think you said you testified in depositions only; is that accurate?",q,MR. SLATTERY,start_answer
+265,1143,42,22,That's correct.,a,THE WITNESS,start_question
+266,1144,42,23,And then when you've testified -- have you testified as an expert on behalf of Nationwide?,q,MR. SLATTERY,start_answer
+267,1148,43,1,"I don't believe so.  It was all prior to Nationwide, and it wasn't for a Nationwide case.",a,THE WITNESS,start_question
+268,1151,43,4,Understood.  And then in terms of what -- is there any difference between what you do for Nationwide in terms of your forensic accounting analysis as compared to what you did in private practice?,q,MR. SLATTERY,start_answer
+269,1156,43,9,No.,a,THE WITNESS,start_chat
+270,1157,43,10,That's all the questions I have.,side_chat,MR. SLATTERY,start_chat
+271,1159,43,12,No questions.,side_chat,MR. DIVIS,start_chat
+272,1160,43,13,No questions.,side_chat,MR. ACKLEN,is brackets
+273,1161,43,14,(Witness excused.),brackets,,is brackets
+274,1162,43,15,"(Deposition ended at 9:51 a.m.) C E R T I F I C A T E I do hereby certify that I am a Notary Public in good standing, that the aforesaid testimony was taken before me, pursuant to notice, at the time and place indicated; that said deponent was by me duly sworn to tell the truth, the whole truth, and nothing but the truth; that the testimony of said deponent was correctly recorded in machine shorthand by me, to the best of my ability, and thereafter transcribed under my supervision with computer-aided transcription; that the deposition is a true and correct record of the testimony given by the witness; and that I am neither of counsel nor kin to any party in said action, nor interested in the outcome thereof. WITNESS my hand and official seal this 6th day of September, 2019. <%signature%>",brackets,,end

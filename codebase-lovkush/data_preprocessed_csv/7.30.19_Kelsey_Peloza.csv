@@ -1,0 +1,1093 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,139,5,14,-  -  - EXAMINATION,symbols,,symbols
+2,141,5,16,-  -  -,symbols,,start_question
+3,143,5,18,"Good morning.  My name is Haley Welch, I represent the Defendants Marissa and Mindy in the lawsuit that you filed.  We're here today for your deposition.  Can you state your full name for the record?",q,MS. WELCH,start_answer
+4,149,5,24,Kelsey Peloza.,a,THE WITNESS,start_question
+5,152,6,1,All right.  Have you ever gone by any other names?,q,MS. WELCH,start_answer
+6,154,6,3,No.,a,THE WITNESS,start_question
+7,155,6,4,Have you ever had your deposition taken before?,q,MS. WELCH,start_answer
+8,157,6,6,No.,a,THE WITNESS,start_question
+9,158,6,7,"So I'm going to go through a brief set of instructions, hopefully make the process go a little bit more smoothly today.  You just took an oath to tell the truth.  The even though we're in an informal setting here today, the oath you took is the same oath you would take in an actual courtroom.  Does that make sense?",q,MS. WELCH,start_answer
+10,167,6,16,Mhmm.,a,THE WITNESS,start_question
+11,168,6,17,Is that a yes?,q,MS. WELCH,start_answer
+12,169,6,18,Yes.,a,THE WITNESS,start_question
+13,170,6,19,"So that's my next instruction, all of your answers need to be verbal.  We have a court reporter taking down everything we say, so even though I may understand when you say uh-huh and mhmm, they're written down the same on a transcript so it's not clear. And even though I may understand if you nod your head or shrug your shoulders, that also can't be written down on a transcript. So just make sure yes or no answers.  If you nod your head, shrug your shoulders, say uh-huh or mhmm, I will correct you.  I'm not trying to be rude, I'm just trying to make sure we get a clear record.  Okay?",q,MS. WELCH,start_answer
+14,189,7,12,Okay.,a,THE WITNESS,start_question
+15,190,7,13,"If you don't understand any of my questions for any reason, just let me know.  I'll be happy to rephrase it, re-ask it to make sure you do understand the question. If you answer any of my questions, I'm going to assume, and our written record will reflect three things. First, that you heard the question, second that you understood the question, and third, that you answered the question truthfully.  Okay?",q,MS. WELCH,start_answer
+16,204,8,1,Okay.,a,THE WITNESS,start_question
+17,205,8,2,"We're not here today for any guesses.  If you don't know something or you don't remember something, ""I don't know,"" or ""I don't remember,"" are perfectly acceptable answers, so long as that's the truth.",q,MS. WELCH,start_answer
+18,211,8,8,Okay.,a,THE WITNESS,start_question
+19,212,8,9,"If you need to estimate or approximate anything like time, speed, distance, or date, that's fine, just let us know that you're estimating or approximating.  Okay?",q,MS. WELCH,start_answer
+20,217,8,14,Okay.,a,THE WITNESS,start_question
+21,218,8,15,Have you understood all of these instructions?,q,MS. WELCH,start_answer
+22,220,8,17,Yes.,a,THE WITNESS,start_question
+23,221,8,18,Are you on any medications that would prevent you from understanding or answering any of my questions?,q,MS. WELCH,start_answer
+24,224,8,21,No.,a,THE WITNESS,start_question
+25,225,8,22,Did you review any documents in preparation for today's deposition?,q,MS. WELCH,start_answer
+26,227,8,24,Yes.,a,THE WITNESS,start_question
+27,230,9,1,What documents did you review?,q,MS. WELCH,start_answer
+28,232,9,3,I don't know the specific names of the documents.,a,THE WITNESS,start_question
+29,234,9,5,Could you describe them? Did you look at a police report?,q,MS. WELCH,start_answer
+30,236,9,7,I did not look at it myself.,a,THE WITNESS,start_question
+31,237,9,8,"Okay.  Just to clarify, I do not want to know anything that you and your attorney discussed.  I'm just asking did you look at any documents, photographs --",q,MS. WELCH,start_answer
+32,242,9,13,"We looked at photographs, diagram.",a,THE WITNESS,start_question
+33,244,9,15,"Okay.  And diagram, is that a map of the intersection?",q,MS. WELCH,start_answer
+34,246,9,17,Correct.,a,THE WITNESS,start_question
+35,247,9,18,What is your date of birth?,q,MS. WELCH,start_answer
+36,248,9,19,"June 6th, 1990.",a,THE WITNESS,start_chat
+37,249,9,20,Off the record.,side_chat,MS. WELCH,symbols
+38,250,9,21,-  -  -,symbols,,is brackets
+39,251,9,22,"(Whereupon, a brief discussion wad held off the record.)",brackets,,symbols
+40,256,10,1,-  -  -,symbols,,start_question
+41,258,10,3,Do you have your driver's license with you?,q,MS. WELCH,start_answer
+42,260,10,5,Yes.,a,THE WITNESS,start_question
+43,261,10,6,"If you don't mind, hand that to your attorney and I'm going to take a quick look at it.  Thank you.",q,MS. WELCH,start_chat
+44,264,10,9,"I've been handed Ms. Peloza's PA driver's license number 31 381 490.  Address on here is 1206 Walnut Street, Apartment 6 in Philadelphia.  And there are no restrictions, I'll hand that back to you.",side_chat,MS. WELCH,start_question
+45,272,10,17,"I'll hand that back to you, thank you.  Do you still live at the 1206 Walnut Street address?",q,MS. WELCH,start_answer
+46,275,10,20,Yes.,a,THE WITNESS,start_question
+47,276,10,21,How long have you lived there?,q,MS. WELCH,start_answer
+48,278,10,23,Just about two years.,a,THE WITNESS,start_question
+49,279,10,24,Okay.  Did you live there at the time of this car accident that we're here for in June of 2017?,q,MS. WELCH,start_answer
+50,284,11,3,No.,a,THE WITNESS,start_question
+51,285,11,4,Where did you live at the time of the accident?,q,MS. WELCH,start_answer
+52,287,11,6,Lansdale.,a,THE WITNESS,start_question
+53,288,11,7,What was the address?,q,MS. WELCH,start_answer
+54,289,11,8,I don't remember the street.,a,THE WITNESS,start_question
+55,290,11,9,Okay.  Who did you live with in Lansdale?,q,MS. WELCH,start_answer
+56,292,11,11,Just me.,a,THE WITNESS,start_question
+57,293,11,12,"And who do you live with, if anybody, at the Walnut Street address?",q,MS. WELCH,start_answer
+58,295,11,14,I have two roommates.,a,THE WITNESS,start_question
+59,296,11,15,Have you had the same two roommates the entire time you lived there?,q,MS. WELCH,start_answer
+60,299,11,18,Yes.,a,THE WITNESS,start_question
+61,300,11,19,What are their names?,q,MS. WELCH,start_answer
+62,301,11,20,Pete and Dan.,a,THE WITNESS,start_question
+63,302,11,21,What is Pete's last name?,q,MS. WELCH,start_answer
+64,303,11,22,Henry.,a,THE WITNESS,start_question
+65,304,11,23,And Dan's last name?,q,MS. WELCH,start_answer
+66,305,11,24,Brezlin.,a,THE WITNESS,start_question
+67,308,12,1,Brezlin?,q,MS. WELCH,start_answer
+68,309,12,2,Mhmm.,a,THE WITNESS,start_question
+69,310,12,3,When did you move from Lansdale to Philadelphia?,q,MS. WELCH,start_answer
+70,312,12,5,September of '17.,a,THE WITNESS,start_question
+71,313,12,6,So a few months after this car accident?,q,MS. WELCH,start_answer
+72,315,12,8,Correct.,a,THE WITNESS,start_question
+73,316,12,9,Have you ever been married?,q,MS. WELCH,start_answer
+74,317,12,10,No.,a,THE WITNESS,start_question
+75,318,12,11,Do you have any children?,q,MS. WELCH,start_answer
+76,319,12,12,No.,a,THE WITNESS,start_question
+77,320,12,13,"The 1206 Walnut Street address, that apartment, is it in a high-rise building or is it a walk out?",q,MS. WELCH,start_answer
+78,323,12,16,It's a walk out.,a,THE WITNESS,start_question
+79,324,12,17,What floor do you guys live on?,q,MS. WELCH,start_answer
+80,326,12,19,Third.,a,THE WITNESS,start_question
+81,327,12,20,Is there an elevator or do you always use stairs?,q,MS. WELCH,start_answer
+82,329,12,22,Stairs.,a,THE WITNESS,start_question
+83,330,12,23,What's your educational background?,q,MS. WELCH,start_answer
+84,334,13,1,College.,a,THE WITNESS,start_question
+85,335,13,2,Where did you go to college?,q,MS. WELCH,start_answer
+86,336,13,3,Delaware Valley College.,a,THE WITNESS,start_question
+87,337,13,4,When did you graduate?,q,MS. WELCH,start_answer
+88,338,13,5,2013.,a,THE WITNESS,start_question
+89,339,13,6,And what is your degree in?,q,MS. WELCH,start_answer
+90,340,13,7,Business.,a,THE WITNESS,start_question
+91,341,13,8,Do you have any military service?,q,MS. WELCH,start_answer
+92,343,13,10,No.,a,THE WITNESS,start_question
+93,344,13,11,"All right.  Please don't be offended, I have to ask this of everybody.  In the last ten years, have you been convicted of any crimes that involve dishonesty?  So anything like fraud, theft, forgery, robbery.",q,MS. WELCH,start_answer
+94,350,13,17,No.,a,THE WITNESS,start_question
+95,351,13,18,Do you have a family doctor or primary care doctor?,q,MS. WELCH,start_answer
+96,353,13,20,"No, not required for my insurance.",a,THE WITNESS,start_question
+97,355,13,22,"Okay.  When was the last time, if ever, that you had a primary care or family doctor?",q,MS. WELCH,start_answer
+98,360,14,1,At the time of the accident.,a,THE WITNESS,start_question
+99,361,14,2,Okay.  Who was your primary care doctor at the --,q,MS. WELCH,start_answer
+100,363,14,4,Meredith Ray.,a,THE WITNESS,start_question
+101,364,14,5,"Okay.  I'm going to give you one more instruction, I don't know if I gave it to you.  You knew what I was about to ask you, and throughout the deposition, you may anticipate my questions.  Just let me finish the full question before you start your answer. Okay?",q,MS. WELCH,start_answer
+102,372,14,13,Okay.,a,THE WITNESS,start_question
+103,373,14,14,All right.  How long was Meredith Ray your primary doctor?,q,MS. WELCH,start_answer
+104,375,14,16,Approximately a couple years.,a,THE WITNESS,start_question
+105,377,14,18,Okay.,q,MS. WELCH,start_chat
+106,378,14,19,Off the record.,side_chat,MS. WELCH,symbols
+107,379,14,20,-  -  -,symbols,,is brackets
+108,380,14,21,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+109,383,14,24,-  -  -,symbols,,start_question
+110,387,15,2,Where do you get prescription medications filled?,q,MS. WELCH,start_answer
+111,389,15,4,CVS pharmacy.,a,THE WITNESS,start_question
+112,390,15,5,Which one?,q,MS. WELCH,start_answer
+113,391,15,6,None.,a,THE WITNESS,start_question
+114,392,15,7,I'm sorry?,q,MS. WELCH,start_answer
+115,393,15,8,None right now.,a,THE WITNESS,start_question
+116,394,15,9,Which CVS pharmacy?,q,MS. WELCH,start_answer
+117,395,15,10,"Oh, which one?",a,THE WITNESS,start_question
+118,396,15,11,The one at 19th and Chestnut?,q,MS. WELCH,start_answer
+119,398,15,13,"It would be the one at 19 and Chestnut, yes, correct.  Sorry.",a,THE WITNESS,start_question
+120,400,15,15,"It's all right, I just figured that was the closest one to your apartment.  You currently have health insurance?",q,MS. WELCH,start_answer
+121,404,15,19,Yes.,a,THE WITNESS,start_question
+122,405,15,20,Who is that through?,q,MS. WELCH,start_answer
+123,406,15,21,Aetna.,a,THE WITNESS,start_question
+124,407,15,22,And did you have health insurance at the time of this accident?,q,MS. WELCH,start_answer
+125,409,15,24,Yes.,a,THE WITNESS,start_question
+126,412,16,1,Who was that through?,q,MS. WELCH,start_answer
+127,413,16,2,Also Aetna.,a,THE WITNESS,start_question
+128,414,16,3,Okay.  Has there been a point in time between the accident and today where you had any other insurance besides Aetna?,q,MS. WELCH,start_answer
+129,418,16,7,No.,a,THE WITNESS,start_question
+130,419,16,8,Has there been a point in time between the accident and today where you did not have any health insurance?,q,MS. WELCH,start_answer
+131,422,16,11,No.,a,THE WITNESS,start_question
+132,423,16,12,"Prior to this accident, were you treating for any medical conditions?",q,MS. WELCH,start_answer
+133,425,16,14,No.,a,THE WITNESS,start_question
+134,426,16,15,Have you ever applied for Social Security disability for any reason?,q,MS. WELCH,start_answer
+135,429,16,18,No.,a,THE WITNESS,start_question
+136,430,16,19,"Do you have any social media accounts, Instagram, Facebook, Twitter?",q,MS. WELCH,start_answer
+137,432,16,21,Yes.,a,THE WITNESS,start_question
+138,433,16,22,Which ones do you have?,q,MS. WELCH,start_answer
+139,434,16,23,Facebook and Instagram.,a,THE WITNESS,start_question
+140,435,16,24,Facebook do you just use your first and last name?,q,MS. WELCH,start_answer
+141,439,17,2,No.,a,THE WITNESS,start_chat
+142,440,17,3,I'm going to object to any questions about identification of the Facebook. You would have to show that there's a good faith reason why you get that information.  I haven't seen that yet.,side_chat,MR. KOWALSKI,start_chat
+143,447,17,10,"Okay.  I'm not asking for any information such as passwords, I'm just asking for the username, which would be public information.",side_chat,MS. WELCH,start_chat
+144,452,17,15,Then you can look for it.,side_chat,MR. KOWALSKI,start_chat
+145,454,17,17,Okay.,side_chat,MS. WELCH,start_question
+146,456,17,19,What's your username on Instagram?,q,MS. WELCH,start_chat
+147,458,17,21,Same objection.,side_chat,MR. KOWALSKI,start_chat
+148,460,17,23,Are you instructing her not to answer?,side_chat,MS. WELCH,start_chat
+149,464,18,1,Yup.  I'm not allowing her to answer any identification of social media.,side_chat,MR. KOWALSKI,start_chat
+150,467,18,4,"Mark that for the record, please.",side_chat,MS. WELCH,start_question
+151,470,18,7,Are you currently employed?,q,MS. WELCH,start_answer
+152,471,18,8,Yes.,a,THE WITNESS,start_question
+153,472,18,9,Where do you work?,q,MS. WELCH,start_answer
+154,473,18,10,Bristol Myers Squibb.,a,THE WITNESS,start_question
+155,474,18,11,What is your job title?,q,MS. WELCH,start_answer
+156,475,18,12,Drug supply manager.,a,THE WITNESS,start_question
+157,476,18,13,How long have you worked at Bristol Myers Squibb?,q,MS. WELCH,start_answer
+158,478,18,15,Almost two years.,a,THE WITNESS,start_question
+159,479,18,16,And your supervisor's name?,q,MS. WELCH,start_answer
+160,480,18,17,Andrew Delenick.,a,THE WITNESS,start_question
+161,481,18,18,Can you spell Delenick?,q,MS. WELCH,start_answer
+162,482,18,19,No.,a,THE WITNESS,start_question
+163,483,18,20,All right.  So you started this job after the accident?,q,MS. WELCH,start_answer
+164,485,18,22,Correct.,a,THE WITNESS,start_question
+165,486,18,23,Where did you work at the time of the accident?,q,MS. WELCH,start_answer
+166,490,19,1,Merck.,a,THE WITNESS,start_question
+167,491,19,2,What did you do at Merck?,q,MS. WELCH,start_answer
+168,492,19,3,Similar job.,a,THE WITNESS,start_question
+169,493,19,4,Drug supply management?,q,MS. WELCH,start_answer
+170,494,19,5,"Inventory management, drug supply, yeah.",a,THE WITNESS,start_question
+171,496,19,7,And how long did you work at Merck?,q,MS. WELCH,start_answer
+172,498,19,9,Just under two years.,a,THE WITNESS,start_question
+173,499,19,10,And your supervisor's name at the time of the accident?,q,MS. WELCH,start_answer
+174,501,19,12,Gene Smeck.,a,THE WITNESS,start_question
+175,502,19,13,Do you remember when you switched jobs from Merck to Bristol Myers?,q,MS. WELCH,start_answer
+176,505,19,16,It would have been October.,a,THE WITNESS,start_question
+177,506,19,17,Of 2017?,q,MS. WELCH,start_answer
+178,507,19,18,Correct.,a,THE WITNESS,start_question
+179,508,19,19,What was the reason for the job change?,q,MS. WELCH,start_answer
+180,510,19,21,Better job.,a,THE WITNESS,start_question
+181,511,19,22,"Okay.  Following this car accident, did you miss any full days from work at Merck?",q,MS. WELCH,start_answer
+182,516,20,1,No.,a,THE WITNESS,start_question
+183,517,20,2,"Following this accident, did you have any problems completing any of your job duties or tasks at Merck?",q,MS. WELCH,start_answer
+184,520,20,5,No.,a,THE WITNESS,start_question
+185,521,20,6,"Can you just briefly describe your job at Merck, like what was the day-to-day like at Merck?",q,MS. WELCH,start_answer
+186,524,20,9,"Emails, analyzing data, spread sheets, meetings.  It's an office job.",a,THE WITNESS,start_question
+187,527,20,12,Primarily a desk job then?,q,MS. WELCH,start_answer
+188,528,20,13,Yes.,a,THE WITNESS,start_question
+189,529,20,14,"Any physical tasks, heavy lifting, anything like that?",q,MS. WELCH,start_answer
+190,531,20,16,No.,a,THE WITNESS,start_question
+191,532,20,17,Okay.  Did any doctors put you on any limitations or restrictions with regard to your job at Merck?,q,MS. WELCH,start_answer
+192,535,20,20,I had to wear splints while at the desk.,a,THE WITNESS,start_question
+193,537,20,22,And which doctor was that that gave you the splints?,q,MS. WELCH,start_answer
+194,539,20,24,Dr. Freed.,a,THE WITNESS,start_question
+195,542,21,1,And was that while using the computer?,q,MS. WELCH,start_answer
+196,544,21,3,Yes.,a,THE WITNESS,start_question
+197,545,21,4,Were you always wearing the splints while using the computer or some of the time?,q,MS. WELCH,start_answer
+198,548,21,7,"Oh, always.",a,THE WITNESS,start_question
+199,549,21,8,"Okay.  When you switched jobs to Bristol Myers, did any doctors put you on any restrictions or limitations with regard to that job?",q,MS. WELCH,start_answer
+200,553,21,12,They carried on some restrictions.,a,THE WITNESS,start_question
+201,555,21,14,So wearing the splints while at the computer?,q,MS. WELCH,start_answer
+202,557,21,16,Yes.,a,THE WITNESS,start_question
+203,558,21,17,Did you have any problems completing any of your job duties or tasks at Bristol Myers?,q,MS. WELCH,start_answer
+204,561,21,20,No.,a,THE WITNESS,start_question
+205,562,21,21,"Did you ever miss any time from either job, whether it was Merck or Bristol Myers that you relate to this accident?",q,MS. WELCH,start_answer
+206,568,22,1,No.,a,THE WITNESS,start_question
+207,569,22,2,"And Bristol Myers, is that a similar job duty?",q,MS. WELCH,start_answer
+208,571,22,4,Correct.,a,THE WITNESS,start_question
+209,572,22,5,"So no physical tasks, no heavy lifting, right?",q,MS. WELCH,start_answer
+210,574,22,7,Correct.,a,THE WITNESS,start_question
+211,575,22,8,"At either job, did you ever have to have any accommodations made for you because of your injuries from this accident?",q,MS. WELCH,start_answer
+212,579,22,12,No.,a,THE WITNESS,start_question
+213,580,22,13,How long did that last that Dr. Freed suggested that you wear the splints while on the computer?,q,MS. WELCH,start_answer
+214,583,22,16,It's still in effect.,a,THE WITNESS,start_question
+215,584,22,17,"Okay.  And is the splint for the right, the left, or both?",q,MS. WELCH,start_answer
+216,586,22,19,Both.,a,THE WITNESS,start_question
+217,587,22,20,"Prior to this car accident, had you ever been involved in any other car accidents?",q,MS. WELCH,start_answer
+218,590,22,23,Yes.,a,THE WITNESS,start_question
+219,591,22,24,How many?,q,MS. WELCH,start_answer
+220,594,23,1,One.,a,THE WITNESS,start_question
+221,595,23,2,When was that approximately?,q,MS. WELCH,start_answer
+222,596,23,3,"In college, I don't remember what year.",a,THE WITNESS,start_question
+223,598,23,5,So some time in 2013 or before?,q,MS. WELCH,start_answer
+224,600,23,7,Correct.,a,THE WITNESS,start_question
+225,601,23,8,Were you injured in that car accident?,q,MS. WELCH,start_answer
+226,603,23,10,No.,a,THE WITNESS,start_question
+227,604,23,11,Did you seek any medical treatment after that accident?,q,MS. WELCH,start_answer
+228,606,23,13,No.,a,THE WITNESS,start_question
+229,607,23,14,All right.  Have you been involved in any accidents after June 29th of 2017?,q,MS. WELCH,start_answer
+230,610,23,17,No.,a,THE WITNESS,start_question
+231,611,23,18,Have you ever been involved in a slip and fall or trip and fall type accident?,q,MS. WELCH,start_answer
+232,614,23,21,No.,a,THE WITNESS,start_question
+233,615,23,22,Have you ever made any sort of Workers' Compensation claim?,q,MS. WELCH,start_answer
+234,617,23,24,No.,a,THE WITNESS,start_question
+235,620,24,1,"All right.  So let's talk about the accident that we're here for. My records indicate it was June 29th, 2017.  Does that date sound correct to you?",q,MS. WELCH,start_answer
+236,625,24,6,Correct.,a,THE WITNESS,start_question
+237,626,24,7,What time of day did this accident occur?,q,MS. WELCH,start_answer
+238,628,24,9,Just before 11:00 a.m.,a,THE WITNESS,start_question
+239,629,24,10,What kind of car were you driving?,q,MS. WELCH,start_answer
+240,631,24,12,Fiat.,a,THE WITNESS,start_question
+241,632,24,13,Was that your vehicle?,q,MS. WELCH,start_answer
+242,633,24,14,"That was mine, yes.",a,THE WITNESS,start_question
+243,634,24,15,And who was it insured through?,q,MS. WELCH,start_answer
+244,636,24,17,USAA.,a,THE WITNESS,start_question
+245,637,24,18,Do you know if you had the full tort or the limited tort option?,q,MS. WELCH,start_answer
+246,639,24,20,Limited.,a,THE WITNESS,start_question
+247,640,24,21,What was the weather like on the day of this accident?,q,MS. WELCH,start_answer
+248,642,24,23,"Sunny, clear skies.",a,THE WITNESS,start_question
+249,643,24,24,"In the 24 hours before this accident, had you had any alcohol, medication, or drugs?",q,MS. WELCH,start_answer
+250,648,25,3,No.,a,THE WITNESS,start_question
+251,649,25,4,Were you wearing a seatbelt?,q,MS. WELCH,start_answer
+252,650,25,5,Yes.,a,THE WITNESS,start_question
+253,651,25,6,Was anybody in the car with you at the time of the accident?,q,MS. WELCH,start_answer
+254,653,25,8,No.,a,THE WITNESS,start_question
+255,654,25,9,Where were you coming from?,q,MS. WELCH,start_answer
+256,655,25,10,Home.,a,THE WITNESS,start_question
+257,656,25,11,And that was your address in Lansdale?,q,MS. WELCH,start_answer
+258,658,25,13,"In Lansdale, correct.",a,THE WITNESS,start_question
+259,659,25,14,Where were you heading to?,q,MS. WELCH,start_answer
+260,660,25,15,The gym.,a,THE WITNESS,start_question
+261,661,25,16,What gym is that?,q,MS. WELCH,start_answer
+262,662,25,17,LA Fitness.,a,THE WITNESS,start_question
+263,663,25,18,Okay.  And where is that LA Fitness?,q,MS. WELCH,start_answer
+264,665,25,20,Right off -- I don't have the exact address.,a,THE WITNESS,start_question
+265,667,25,22,Was it off of --,q,MS. WELCH,start_answer
+266,668,25,23,It was off of 309.,a,THE WITNESS,start_question
+267,669,25,24,Okay.  Where did the accident occur?,q,MS. WELCH,start_answer
+268,673,26,2,The intersection of Knapp Road and DeKalb Pike.,a,THE WITNESS,start_question
+269,675,26,4,Were you on Knapp Road or were you on DeKalb?,q,MS. WELCH,start_answer
+270,677,26,6,DeKalb.,a,THE WITNESS,start_question
+271,678,26,7,"Can you describe DeKalb in the area where the accident took place? By that, I mean how many lanes of travel it is.",q,MS. WELCH,start_answer
+272,682,26,11,Two lanes.,a,THE WITNESS,start_question
+273,683,26,12,Is it two lanes in each direction?,q,MS. WELCH,start_answer
+274,685,26,14,Correct.,a,THE WITNESS,start_question
+275,686,26,15,Are there any turning lanes at that intersection of DeKalb and Knapp?,q,MS. WELCH,start_answer
+276,688,26,17,Yes.,a,THE WITNESS,start_question
+277,689,26,18,"Is that intersection controlled by any traffic control devices, stop sign, traffic light?",q,MS. WELCH,start_answer
+278,692,26,21,Yes.,a,THE WITNESS,start_question
+279,693,26,22,Which one?,q,MS. WELCH,start_answer
+280,694,26,23,Traffic light.,a,THE WITNESS,start_question
+281,695,26,24,"What was the traffic like the morning of this accident; light, medium, heavy?",q,MS. WELCH,start_answer
+282,700,27,3,Light.,a,THE WITNESS,start_question
+283,701,27,4,All right.  Were you traveling in the right-hand lane or left-hand lane of DeKalb?,q,MS. WELCH,start_answer
+284,704,27,7,Right hand.,a,THE WITNESS,start_question
+285,705,27,8,"Had this accident not occurred, was your intention to go straight or turn at the intersection?",q,MS. WELCH,start_answer
+286,708,27,11,Straight.,a,THE WITNESS,start_question
+287,709,27,12,"When you first observed the traffic light on DeKalb at Knapp Road, what color was it?",q,MS. WELCH,start_answer
+288,712,27,15,Green.,a,THE WITNESS,start_question
+289,713,27,16,Did you ever have to stop at the traffic light at Knapp and DeKalb?,q,MS. WELCH,start_answer
+290,715,27,18,Have I ever had to stop ever or in that instance?,a,THE WITNESS,start_question
+291,717,27,20,"On the day of the accident, did you have to come to a stop on DeKalb at the intersection of Knapp?",q,MS. WELCH,start_answer
+292,720,27,23,No.,a,THE WITNESS,start_question
+293,721,27,24,Did you ever observe that traffic light any color besides green?,q,MS. WELCH,start_answer
+294,725,28,2,Day of the accident?,a,THE WITNESS,start_question
+295,726,28,3,Day of the accident.,q,MS. WELCH,start_answer
+296,727,28,4,No.,a,THE WITNESS,start_question
+297,728,28,5,Walk me through how the accident occurred.,q,MS. WELCH,start_answer
+298,730,28,7,"I was driving through the intersection, going towards 309, and the red car made what would have been a left turn attempting to go onto Knapp Road in front of me, and then we had the collision.",a,THE WITNESS,start_question
+299,736,28,13,Okay.  Were there any cars traveling in front of you?,q,MS. WELCH,start_answer
+300,738,28,15,No.,a,THE WITNESS,start_question
+301,739,28,16,Were there any cars to your left?,q,MS. WELCH,start_answer
+302,741,28,18,Not that I recall.,a,THE WITNESS,start_question
+303,742,28,19,"And just to be clear, you said the other car involved in the accident was a red car?",q,MS. WELCH,start_answer
+304,745,28,22,Correct.,a,THE WITNESS,start_question
+305,746,28,23,Were they also on DeKalb coming in the opposite direction of you?,q,MS. WELCH,start_answer
+306,750,29,1,Correct.,a,THE WITNESS,start_question
+307,751,29,2,Okay.  What is the speed limit on DeKalb in the area where the accident took place?,q,MS. WELCH,start_answer
+308,754,29,5,45.,a,THE WITNESS,start_question
+309,755,29,6,What speed were you traveling at as you went through the intersection of DeKalb and Knapp?,q,MS. WELCH,start_answer
+310,758,29,9,I don't remember.,a,THE WITNESS,start_question
+311,759,29,10,When did you first observe that red car that was involved in the accident with you?,q,MS. WELCH,start_answer
+312,762,29,13,When she came into my line of vision.,a,THE WITNESS,start_question
+313,764,29,15,And when was it that she came into your line of vision?,q,MS. WELCH,start_answer
+314,766,29,17,"She came into my peripheral -- I was aware of cars being over here, but I don't think that I made the distinction that it was a red car until she came -- it would have been, she was turning left here, so my peripheral.",a,THE WITNESS,start_question
+315,772,29,23,"Okay.  And when she entered your peripheral vision, where was that car, was it still in her lane of travel, was it in your lane of travel, or somewhere in between?",q,MS. WELCH,start_answer
+316,779,30,4,Somewhere in between.,a,THE WITNESS,start_question
+317,780,30,5,"So when you first observed that red car, the red car was already mid left turn?",q,MS. WELCH,start_answer
+318,783,30,8,"Oh, yes, yes.",a,THE WITNESS,start_question
+319,784,30,9,Okay.  Did you ever observe that red car while she was still traveling on DeKalb in the opposite direction of you?,q,MS. WELCH,start_answer
+320,788,30,13,No.,a,THE WITNESS,start_question
+321,789,30,14,Do you know one way or the other whether that red car came to a stop prior to starting their left-hand turn?,q,MS. WELCH,start_answer
+322,792,30,17,I do not.,a,THE WITNESS,start_question
+323,793,30,18,Do you know if the red car used a turn signal before making a left turn?,q,MS. WELCH,start_answer
+324,796,30,21,I do not.,a,THE WITNESS,start_question
+325,797,30,22,"When you first observed that red car, how far away was it from you?",q,MS. WELCH,start_answer
+326,799,30,24,I don't know.,a,THE WITNESS,start_question
+327,802,31,1,Are you able to estimate the speed of that red car when you first observed it?,q,MS. WELCH,start_answer
+328,805,31,4,No.,a,THE WITNESS,start_question
+329,806,31,5,What did you do when you first observed that red car?,q,MS. WELCH,start_answer
+330,808,31,7,Slammed on my brakes.,a,THE WITNESS,start_question
+331,809,31,8,"Were you able to take any other evasive action, did you swerve your vehicle?",q,MS. WELCH,start_answer
+332,812,31,11,"I did not have time for that, no, I didn't want to flip my car.",a,THE WITNESS,start_question
+333,814,31,13,Did you honk your horn?,q,MS. WELCH,start_answer
+334,815,31,14,There was no time.,a,THE WITNESS,start_question
+335,816,31,15,How much time passed from when you first observed that red car to when the collision occurred?,q,MS. WELCH,start_answer
+336,819,31,18,I don't know.,a,THE WITNESS,start_question
+337,820,31,19,"How far into the intersection of DeKalb and Knapp were you when the impact between the two cars occurred?  By that, I mean were you a quarter of the way through the intersection, halfway through the intersection, three quarters of the way through the intersection?",q,MS. WELCH,start_answer
+338,830,32,3,Approximately halfway.,a,THE WITNESS,start_question
+339,831,32,4,What part of the cars came into contact with each other?,q,MS. WELCH,start_answer
+340,833,32,6,"It was my left front kind of at the tire and a little bit in front of it on driver side, and then her, it was the passenger side where, like, where her front tire was.",a,THE WITNESS,start_question
+341,838,32,11,Okay.  And did the collision occur in the right-hand lane of DeKalb?,q,MS. WELCH,start_answer
+342,840,32,13,It was in the intersection.,a,THE WITNESS,start_question
+343,841,32,14,Okay.  Would it have been in the right-hand lane of the intersection?,q,MS. WELCH,start_answer
+344,843,32,16,Yes.,a,THE WITNESS,start_question
+345,844,32,17,"Okay.  How would you describe the severity of the impact; was it light, medium, heavy?",q,MS. WELCH,start_answer
+346,847,32,20,Heavy.,a,THE WITNESS,start_question
+347,848,32,21,Did your airbags go off?,q,MS. WELCH,start_answer
+348,849,32,22,Yes.,a,THE WITNESS,start_question
+349,850,32,23,"Immediately after the impact occurred, what did you do?",q,MS. WELCH,start_answer
+350,854,33,1,I held onto the steering wheel until the car stopped.,a,THE WITNESS,start_question
+351,856,33,3,And where did the car come to a rest?,q,MS. WELCH,start_answer
+352,858,33,5,On the grass on Knapp Road.,a,THE WITNESS,start_question
+353,859,33,6,Did your car spin as a result of the impact?,q,MS. WELCH,start_answer
+354,861,33,8,It hit me and we went -- it turned me to the right.,a,THE WITNESS,start_question
+355,863,33,10,How far away from the point of impact did your car come to a rest?,q,MS. WELCH,start_answer
+356,865,33,12,I don't know that.,a,THE WITNESS,start_question
+357,866,33,13,"All right.  So once the car comes to a rest, what do you do?",q,MS. WELCH,start_answer
+358,868,33,15,Unbuckle my seatbelt and get out of the car.,a,THE WITNESS,start_question
+359,870,33,17,Did you lose consciousness as a result of the impact?,q,MS. WELCH,start_answer
+360,872,33,19,No.,a,THE WITNESS,start_question
+361,873,33,20,Were you able to get out of your vehicle on your own?,q,MS. WELCH,start_answer
+362,875,33,22,Yes.,a,THE WITNESS,start_question
+363,876,33,23,"Once you got out of the car, what did you do?",q,MS. WELCH,start_answer
+364,880,34,1,Walked up away from my car and sat down.,a,THE WITNESS,start_question
+365,882,34,3,Where did you sit?,q,MS. WELCH,start_answer
+366,883,34,4,In the grass.,a,THE WITNESS,start_question
+367,884,34,5,Are you aware of any witnesses to the accident?,q,MS. WELCH,start_answer
+368,886,34,7,Yes.,a,THE WITNESS,start_question
+369,887,34,8,Who are those witnesses?,q,MS. WELCH,start_answer
+370,888,34,9,I don't know their name.,a,THE WITNESS,start_question
+371,889,34,10,Okay.  Did anybody stop at the scene of the accident?,q,MS. WELCH,start_answer
+372,891,34,12,Yes.,a,THE WITNESS,start_question
+373,892,34,13,Okay.  How many people stopped?,q,MS. WELCH,start_answer
+374,894,34,15,Two that I'm aware of.,a,THE WITNESS,start_question
+375,895,34,16,"Were they together, like in the same car?",q,MS. WELCH,start_answer
+376,897,34,18,Yes.,a,THE WITNESS,start_question
+377,898,34,19,Do you know their names?,q,MS. WELCH,start_answer
+378,899,34,20,I do not.,a,THE WITNESS,start_question
+379,900,34,21,"Were they male, female?",q,MS. WELCH,start_answer
+380,901,34,22,The one I talked to was a female.,a,THE WITNESS,start_question
+381,903,34,24,Approximately how old was she?,q,MS. WELCH,start_answer
+382,907,35,2,Above 30.,a,THE WITNESS,start_question
+383,908,35,3,Does the name Gwen Gearhart sound familiar to you?,q,MS. WELCH,start_answer
+384,910,35,5,It does not.,a,THE WITNESS,start_question
+385,911,35,6,"So above 30, between 30 and 40 years old?",q,MS. WELCH,start_answer
+386,913,35,8,She may have even been above 40.,a,THE WITNESS,start_question
+387,915,35,10,40?,q,MS. WELCH,start_answer
+388,916,35,11,Yeah.,a,THE WITNESS,start_question
+389,917,35,12,All right.  What was your conversation with the witness?,q,MS. WELCH,start_answer
+390,919,35,14,She sat down next to me and comforted me and said she saw the whole thing and that she was going to wait for the police to get there and for the ambulance to come.,a,THE WITNESS,start_question
+391,924,35,19,Do you know who called 911?,q,MS. WELCH,start_answer
+392,925,35,20,I do not.,a,THE WITNESS,start_question
+393,926,35,21,Did you call 911?,q,MS. WELCH,start_answer
+394,927,35,22,I did not.,a,THE WITNESS,start_question
+395,928,35,23,Did the police arrive?,q,MS. WELCH,start_answer
+396,929,35,24,They did.,a,THE WITNESS,start_question
+397,932,36,1,How long did you wait for the police?,q,MS. WELCH,start_answer
+398,934,36,3,I don't remember.,a,THE WITNESS,start_question
+399,935,36,4,"Did that witness, that female, did she wait for the police with you?",q,MS. WELCH,start_answer
+400,938,36,7,She did.,a,THE WITNESS,start_question
+401,939,36,8,Did she talk to the police?,q,MS. WELCH,start_answer
+402,940,36,9,I don't know.,a,THE WITNESS,start_question
+403,941,36,10,Did you ever talk to the driver of the red car?,q,MS. WELCH,start_answer
+404,943,36,12,I did not.,a,THE WITNESS,start_question
+405,944,36,13,Did you talk to the police?,q,MS. WELCH,start_answer
+406,945,36,14,"I did not, that I remember.",a,THE WITNESS,start_question
+407,946,36,15,Okay.  Did any ambulance come to the scene?,q,MS. WELCH,start_answer
+408,948,36,17,"Yes, but not for me.",a,THE WITNESS,start_question
+409,949,36,18,Okay.  How did you leave the scene of the accident?,q,MS. WELCH,start_answer
+410,951,36,20,I had a friend come pick me up.,a,THE WITNESS,start_question
+411,953,36,22,Did anybody leave in an ambulance?,q,MS. WELCH,start_answer
+412,955,36,24,I don't know.,a,THE WITNESS,start_question
+413,958,37,1,Did any EMTs check you out at the scene of the accident?,q,MS. WELCH,start_answer
+414,960,37,3,Yes.,a,THE WITNESS,start_question
+415,961,37,4,"Okay.  Can you describe what they did for you, if anything?",q,MS. WELCH,start_answer
+416,963,37,6,"They asked me questions, asked about my injuries.",a,THE WITNESS,start_question
+417,965,37,8,Okay.  What did you tell them about any injuries?,q,MS. WELCH,start_answer
+418,967,37,10,That I was in pain.,a,THE WITNESS,start_question
+419,968,37,11,"Okay.  At the scene of the accident, what parts of your body were in immediate pain?",q,MS. WELCH,start_answer
+420,971,37,14,My left shin and then my upper body.,a,THE WITNESS,start_question
+421,973,37,16,And you just kind of pointed to your chest and neck?,q,MS. WELCH,start_answer
+422,975,37,18,"Chest and neck, yes.",a,THE WITNESS,start_question
+423,976,37,19,What's your friend's name that picked you up at the scene?,q,MS. WELCH,start_answer
+424,978,37,21,Cynthia Song.,a,THE WITNESS,start_question
+425,979,37,22,"Okay.  Upon impact between the two cars, did any parts of your body hit anything inside of your vehicle?",q,MS. WELCH,start_answer
+426,984,38,1,I don't remember.,a,THE WITNESS,start_question
+427,985,38,2,Was any part of your body bleeding at the scene of the accident?,q,MS. WELCH,start_answer
+428,987,38,4,Yes.,a,THE WITNESS,start_question
+429,988,38,5,What was that?,q,MS. WELCH,start_answer
+430,989,38,6,"I guess where the seatbelt goes across, the -- I don't even know, the clavicle area, chest.",a,THE WITNESS,start_question
+431,992,38,9,So it would have been the left clavicle area from the seatbelt?,q,MS. WELCH,start_answer
+432,994,38,11,Yes.,a,THE WITNESS,start_question
+433,995,38,12,Okay.  Did you notice any immediate bruising or swelling on any parts of your body at the scene?,q,MS. WELCH,start_answer
+434,998,38,15,No.,a,THE WITNESS,start_question
+435,999,38,16,Did you take photographs at the scene of the accident?,q,MS. WELCH,start_answer
+436,1001,38,18,Yes.,a,THE WITNESS,start_question
+437,1002,38,19,Okay.,q,MS. WELCH,symbols
+438,1003,38,20,-  -  -,symbols,,is brackets
+439,1004,38,21,"(Whereupon, Exhibit Plaintiff 1, Plaintiff 2, and Plaintiff 3 were marked for identification.)",brackets,,symbols
+440,1010,39,1,-  -  -,symbols,,start_question
+441,1012,39,3,"I'm going to show you three photographs, we'll mark them as Plaintiff 1, 2 and 3.  I'll hand them to your attorney first.  Can you just confirm that those three photographs are the photographs that you took at the scene?",q,MS. WELCH,start_answer
+442,1018,39,9,Yes.,a,THE WITNESS,start_question
+443,1019,39,10,Okay.  The --,q,MS. WELCH,start_answer
+444,1020,39,11,"Well, my friend took them.",a,THE WITNESS,start_question
+445,1021,39,12,Okay.  Cynthia took those photographs?,q,MS. WELCH,start_answer
+446,1023,39,14,"Cynthia took those photographs, sorry.",a,THE WITNESS,start_question
+447,1025,39,16,"That's okay.  In exhibits 1 and 2, that's your vehicle, correct?",q,MS. WELCH,start_answer
+448,1027,39,18,Correct.,a,THE WITNESS,start_question
+449,1028,39,19,And exhibit 3 depicts the other vehicle involved?,q,MS. WELCH,start_answer
+450,1030,39,21,Correct.,a,THE WITNESS,start_question
+451,1031,39,22,"The photographs 1 and 2, is that where your vehicle came to a rest following the accident?",q,MS. WELCH,start_answer
+452,1036,40,1,Yes.,a,THE WITNESS,start_question
+453,1037,40,2,"You can set those aside. All right.  So from the scene of the accident, Cynthia picks you up, where do you go?",q,MS. WELCH,start_answer
+454,1041,40,6,"To the emergency room, Abington.",a,THE WITNESS,start_question
+455,1043,40,8,"Okay.  When you get to Abington Hospital, what complaints do you make?",q,MS. WELCH,start_answer
+456,1046,40,11,"My right hip, my calf.",a,THE WITNESS,start_question
+457,1047,40,12,Which calf?,q,MS. WELCH,start_answer
+458,1048,40,13,"The left calf, or shin, if you will, specifically.",a,THE WITNESS,start_question
+459,1050,40,15,Okay.,q,MS. WELCH,start_answer
+460,1051,40,16,"And then my upper left shoulder, neck area.",a,THE WITNESS,start_question
+461,1053,40,18,What did they do for you at the hospital?,q,MS. WELCH,start_answer
+462,1055,40,20,X-rays.,a,THE WITNESS,start_question
+463,1056,40,21,Do you know the results of any of those x-rays?,q,MS. WELCH,start_answer
+464,1058,40,23,No.,a,THE WITNESS,start_question
+465,1059,40,24,Okay.  Were you given any medication at the hospital?,q,MS. WELCH,start_answer
+466,1063,41,2,No.,a,THE WITNESS,start_question
+467,1064,41,3,Were you discharged the same day?,q,MS. WELCH,start_answer
+468,1066,41,5,Yes.,a,THE WITNESS,start_question
+469,1067,41,6,About how long were you at the hospital?,q,MS. WELCH,start_answer
+470,1069,41,8,I don't remember.,a,THE WITNESS,start_question
+471,1070,41,9,Okay.  Did they give you any follow-up instructions of what to do?,q,MS. WELCH,start_answer
+472,1072,41,11,I don't remember.,a,THE WITNESS,start_question
+473,1073,41,12,Okay.  Did Cynthia stay with you at the hospital?,q,MS. WELCH,start_answer
+474,1075,41,14,She did.,a,THE WITNESS,start_question
+475,1076,41,15,"All right.  And from the hospital, where did you go?",q,MS. WELCH,start_answer
+476,1078,41,17,Home.,a,THE WITNESS,start_question
+477,1079,41,18,Cynthia drove you home?,q,MS. WELCH,start_answer
+478,1080,41,19,She did.,a,THE WITNESS,start_question
+479,1081,41,20,"When you were at the hospital, how bad was your right hip pain on a scale of zero to ten?  Zero being no pain at all, ten being the worst pain you can imagine.",q,MS. WELCH,start_answer
+480,1088,42,1,Probably a six.,a,THE WITNESS,start_question
+481,1089,42,2,What about your left calf and shin area?,q,MS. WELCH,start_answer
+482,1091,42,4,That was like an eight.,a,THE WITNESS,start_question
+483,1092,42,5,And your left shoulder and neck area?,q,MS. WELCH,start_answer
+484,1094,42,7,Similar to my hip.,a,THE WITNESS,start_question
+485,1095,42,8,"Okay.  Did you injure any other parts of your body in this accident besides the right hip, left shin, and left shoulder and neck?",q,MS. WELCH,start_answer
+486,1099,42,12,Not that I was aware of at the time of the accident.,a,THE WITNESS,start_question
+487,1101,42,14,Okay.  Did any other parts of your body ever start to cause you pain after the day of the accident?,q,MS. WELCH,start_answer
+488,1104,42,17,Yes.,a,THE WITNESS,start_question
+489,1105,42,18,What were those?,q,MS. WELCH,start_answer
+490,1106,42,19,My right neck and shoulder area.,a,THE WITNESS,start_question
+491,1108,42,21,Okay.  When did your right neck and shoulder start to bother you?,q,MS. WELCH,start_answer
+492,1110,42,23,I don't remember.,a,THE WITNESS,start_question
+493,1111,42,24,"So we have the right hip, the left calf and shin, the left shoulder and neck, and the right shoulder and neck.  Did you injure any other parts of your body in this accident?",q,MS. WELCH,start_answer
+494,1118,43,5,No.,a,THE WITNESS,start_question
+495,1119,43,6,"Prior to this accident, had you ever injured your right hip?",q,MS. WELCH,start_answer
+496,1121,43,8,No.,a,THE WITNESS,start_question
+497,1122,43,9,"Prior to this accident, had you ever injured your left calf and shin?",q,MS. WELCH,start_answer
+498,1124,43,11,No.,a,THE WITNESS,start_question
+499,1125,43,12,"Prior to this accident, had you ever injured your left shoulder or left neck?",q,MS. WELCH,start_answer
+500,1128,43,15,No.,a,THE WITNESS,start_question
+501,1129,43,16,"Prior to this accident, had you ever injured your right shoulder?",q,MS. WELCH,start_answer
+502,1131,43,18,No.,a,THE WITNESS,start_question
+503,1132,43,19,Had you ever injured the right side of your neck before this accident?,q,MS. WELCH,start_answer
+504,1135,43,22,No.,a,THE WITNESS,start_question
+505,1136,43,23,"Had you ever experienced pain in any of those parts of your body prior to this accident, including your right hip, your left calf and shin, your left shoulder, left neck, right shoulder, and right neck?",q,MS. WELCH,start_answer
+506,1144,44,5,No.,a,THE WITNESS,start_question
+507,1145,44,6,Have any of these parts of your body that you injured in this accident fully recovered since the time of this accident?,q,MS. WELCH,start_answer
+508,1149,44,10,Just my shin.,a,THE WITNESS,start_question
+509,1150,44,11,Okay.  Did the right hip ever fully recover?,q,MS. WELCH,start_answer
+510,1152,44,13,No.,a,THE WITNESS,start_question
+511,1153,44,14,And either shoulder or neck fully recover?,q,MS. WELCH,start_answer
+512,1155,44,16,No.,a,THE WITNESS,start_question
+513,1156,44,17,When did the shin fully recover?,q,MS. WELCH,start_answer
+514,1158,44,19,I don't remember.,a,THE WITNESS,start_question
+515,1159,44,20,"I'm going to show you three more photographs that your attorney provided in discovery and mark them as 4, 5, and 6.",q,MS. WELCH,symbols
+516,1163,44,24,-  -  -,symbols,,is brackets
+517,1166,45,1,"(Whereupon, Exhibit Plaintiff 4, Plaintiff 5, and Plaintiff 6 were marked for identification.)",brackets,,symbols
+518,1170,45,5,-  -  -,symbols,,start_question
+519,1172,45,7,"If we look at exhibit 4, which was the one on top, what does exhibit 4 show us, what does that depict?",q,MS. WELCH,start_answer
+520,1175,45,10,My left shin.,a,THE WITNESS,start_question
+521,1176,45,11,And do you know when that was taken?,q,MS. WELCH,start_answer
+522,1178,45,13,I don't remember.,a,THE WITNESS,start_question
+523,1179,45,14,Okay.  And what were you specifically depicting on your left shin?,q,MS. WELCH,start_answer
+524,1181,45,16,The bruising.,a,THE WITNESS,start_question
+525,1182,45,17,How long did that bruising last for after the accident?,q,MS. WELCH,start_answer
+526,1184,45,19,"Many weeks, I don't know exactly how many.",a,THE WITNESS,start_question
+527,1186,45,21,"Okay.  Exhibit 4, which is the middle one, what does that depict?",q,MS. WELCH,start_answer
+528,1188,45,23,My left clavicle area.,a,THE WITNESS,start_question
+529,1189,45,24,Do you know when that was was taken?,q,MS. WELCH,start_answer
+530,1193,46,2,The same day as the shin picture.,a,THE WITNESS,start_question
+531,1195,46,4,But you don't remember specifically how long after the accident those were taken?,q,MS. WELCH,start_answer
+532,1198,46,7,No.,a,THE WITNESS,start_question
+533,1199,46,8,"The markings that we see on your left clavicle area on exhibit 4, how long did those last for following this accident?",q,MS. WELCH,start_answer
+534,1203,46,12,I don't remember.,a,THE WITNESS,start_question
+535,1204,46,13,"And then exhibit 6, that last one, what is depicted in that one?",q,MS. WELCH,start_answer
+536,1206,46,15,That would have been my right chest area.,a,THE WITNESS,start_question
+537,1208,46,17,Okay.,q,MS. WELCH,start_answer
+538,1209,46,18,Yes.,a,THE WITNESS,start_question
+539,1210,46,19,And what does that depict to your right chest?,q,MS. WELCH,start_answer
+540,1212,46,21,I'm sorry.,a,THE WITNESS,start_question
+541,1213,46,22,What is that showing of your right chest?,q,MS. WELCH,start_answer
+542,1215,46,24,The bruising.,a,THE WITNESS,start_question
+543,1218,47,1,How long did the bruising last on your right chest following the accident?,q,MS. WELCH,start_answer
+544,1221,47,4,I don't remember.,a,THE WITNESS,start_question
+545,1222,47,5,"All right.  So following the emergency room, when was the next time that you sought medical attention following the accident?",q,MS. WELCH,start_answer
+546,1226,47,9,"About 12 days later, approximately.",a,THE WITNESS,start_question
+547,1228,47,11,Where was the next place that you sought medical attention?,q,MS. WELCH,start_answer
+548,1230,47,13,Meredith Ray.,a,THE WITNESS,start_question
+549,1231,47,14,And what did Dr. Ray do for you?,q,MS. WELCH,start_answer
+550,1233,47,16,She gave me a physical exam.,a,THE WITNESS,start_question
+551,1234,47,17,Did she give you any medication?,q,MS. WELCH,start_answer
+552,1236,47,19,No.,a,THE WITNESS,start_question
+553,1237,47,20,Did she refer you for any further treatment?,q,MS. WELCH,start_answer
+554,1239,47,22,She did not.,a,THE WITNESS,start_question
+555,1240,47,23,Did she make any suggestions or recommendations?,q,MS. WELCH,start_answer
+556,1244,48,1,She did.,a,THE WITNESS,start_question
+557,1245,48,2,What was that?,q,MS. WELCH,start_answer
+558,1246,48,3,I don't remember.,a,THE WITNESS,start_question
+559,1247,48,4,Okay.  Where was the next place that you went for medical attention after Dr. Ray?,q,MS. WELCH,start_answer
+560,1250,48,7,"It was Dr. Freed and Dr. Bloom, not necessarily in that order, I don't remember who I saw first.",a,THE WITNESS,start_question
+561,1253,48,10,"Okay, fair enough.  Let's start with Dr. Bloom.  Dr. Bloom is a chiropractor?",q,MS. WELCH,start_answer
+562,1256,48,13,Correct.,a,THE WITNESS,start_question
+563,1257,48,14,Okay.  How did you find out about Dr. Bloom?,q,MS. WELCH,start_answer
+564,1259,48,16,"Referral, friend referral.",a,THE WITNESS,start_question
+565,1260,48,17,And who referred you to Dr. Bloom?,q,MS. WELCH,start_answer
+566,1262,48,19,Amanda Batista.,a,THE WITNESS,start_question
+567,1263,48,20,Are you right-handed or left-handed?,q,MS. WELCH,start_answer
+568,1265,48,22,Left-handed.,a,THE WITNESS,start_question
+569,1266,48,23,"Okay.  All right.  What did Dr. Bloom do for you, what kind of treatment did you receive there?",q,MS. WELCH,start_answer
+570,1271,49,2,"Chiropractic work, massage therapy, hydrotherapy.",a,THE WITNESS,start_question
+571,1273,49,4,How often were you going to Dr. Bloom?,q,MS. WELCH,start_answer
+572,1275,49,6,I don't remember.,a,THE WITNESS,start_question
+573,1276,49,7,"Do you remember how long you treated with Dr. Bloom, was it several weeks, several months?",q,MS. WELCH,start_answer
+574,1279,49,10,It was several months.,a,THE WITNESS,start_question
+575,1280,49,11,Were you discharged from his treatment or did you decide to stop going on your own?,q,MS. WELCH,start_answer
+576,1283,49,14,I relocated.,a,THE WITNESS,start_question
+577,1284,49,15,What do you mean when you say you relocated?,q,MS. WELCH,start_answer
+578,1286,49,17,"Into Center City, I moved.",a,THE WITNESS,start_question
+579,1287,49,18,So Dr. Bloom would have been located closer to your Lansdale home?,q,MS. WELCH,start_answer
+580,1289,49,20,Correct.,a,THE WITNESS,start_question
+581,1290,49,21,So you stopped going to Dr. Bloom because of the move?,q,MS. WELCH,start_answer
+582,1292,49,23,Correct.,a,THE WITNESS,start_question
+583,1293,49,24,"Once you moved into Center City, did you find a new chiropractor?",q,MS. WELCH,start_answer
+584,1297,50,2,I did.,a,THE WITNESS,start_question
+585,1298,50,3,Who was that?,q,MS. WELCH,start_answer
+586,1299,50,4,Dr. Petrelli.,a,THE WITNESS,start_question
+587,1300,50,5,How long after the move did you start seeing Dr. Petrelli?,q,MS. WELCH,start_answer
+588,1302,50,7,I don't remember.,a,THE WITNESS,start_question
+589,1303,50,8,So you would have stopped seeing Dr. Bloom around October of 2017 when you moved?,q,MS. WELCH,start_answer
+590,1306,50,11,"I think I saw him -- it was after that, if I remember.  It was a little bit after that.",a,THE WITNESS,start_question
+591,1309,50,14,The last time you saw Dr. Bloom would have been in 2017?,q,MS. WELCH,start_answer
+592,1311,50,16,"I think so, yeah.",a,THE WITNESS,start_question
+593,1312,50,17,Okay.  So I've had an opportunity to review some of your medical records.,q,MS. WELCH,start_answer
+594,1315,50,20,Sure.,a,THE WITNESS,start_question
+595,1316,50,21,"Does it sound correct that you started seeing Dr. Petrelli in July of 2018, or do you remember seeing them before or after that?",q,MS. WELCH,start_answer
+596,1322,51,1,I very honestly don't remember when I started seeing him.,a,THE WITNESS,start_question
+597,1324,51,3,Okay.  Did you see any other chiropractors between Dr. Bloom and Dr. Petrelli?,q,MS. WELCH,start_answer
+598,1327,51,6,"I did not, no.",a,THE WITNESS,start_question
+599,1328,51,7,"Okay.  If I told you that the records indicated you last went to Dr. Bloom on October 16th of 2017 and you fist went to Dr. Petrelli on July 30th of 2018, do you have any reason to disagree with those dates?",q,MS. WELCH,start_answer
+600,1334,51,13,"No, if that's the record.",a,THE WITNESS,start_question
+601,1335,51,14,"Okay.  Is there a reason that you did not seek out any other chiropractors in between October and July, October 2017 and July of 2018?",q,MS. WELCH,start_answer
+602,1339,51,18,I can't remember if that's when I started physical therapy.,a,THE WITNESS,start_question
+603,1341,51,20,Are you talking about Excel Physical Therapy?,q,MS. WELCH,start_answer
+604,1343,51,22,Yes.,a,THE WITNESS,start_question
+605,1344,51,23,All right.  I will represent to you that the records indicate you started Excel Physical Therapy in July of 2018.  Does that sound correct to you?,q,MS. WELCH,start_answer
+606,1350,52,3,"It does, yes.",a,THE WITNESS,start_question
+607,1351,52,4,"Okay, all right.  Is there a reason that you did not seek out any other chiropractic treatment or physical therapy between October of 2017 and July of 2018?",q,MS. WELCH,start_answer
+608,1356,52,9,No particular reason.,a,THE WITNESS,start_question
+609,1357,52,10,Okay.  Did Dr. Bloom ever refer you to any specialists or other doctors?,q,MS. WELCH,start_answer
+610,1360,52,13,No.,a,THE WITNESS,start_question
+611,1361,52,14,Did Dr. Bloom ever discuss any type of injections for pain with you?,q,MS. WELCH,start_answer
+612,1363,52,16,No.,a,THE WITNESS,start_question
+613,1364,52,17,Did Dr. Bloom ever discuss any sort of surgery with you?,q,MS. WELCH,start_answer
+614,1366,52,19,No.,a,THE WITNESS,start_question
+615,1367,52,20,Was your treatment with Dr. Bloom helpful to your pain levels?,q,MS. WELCH,start_answer
+616,1369,52,22,Yes.,a,THE WITNESS,start_question
+617,1370,52,23,"The treatment you received with Dr. Petrelli, was it essentially the same as the type of treatment you were receiving with Dr. Bloom?",q,MS. WELCH,start_answer
+618,1376,53,3,Yes.,a,THE WITNESS,start_question
+619,1377,53,4,Do you recall how often you were seeing Dr. Petrelli?,q,MS. WELCH,start_answer
+620,1379,53,6,I think it was once a week.,a,THE WITNESS,start_question
+621,1380,53,7,Do you remember how long that lasted for?,q,MS. WELCH,start_answer
+622,1382,53,9,"I do not, no.",a,THE WITNESS,start_question
+623,1383,53,10,"If I told you the records indicated that you last went to Dr. Petrelli September 4th of to 2018, do you have any reason to disagree with that date?",q,MS. WELCH,start_answer
+624,1388,53,15,I don't think so.,a,THE WITNESS,start_question
+625,1389,53,16,Okay.  Did Dr. Petrelli ever refer you out to any specialists?,q,MS. WELCH,start_answer
+626,1391,53,18,No.,a,THE WITNESS,start_question
+627,1392,53,19,Did Dr. Petrelli ever discuss injections or surgery for your pain with you?,q,MS. WELCH,start_answer
+628,1395,53,22,No.,a,THE WITNESS,start_question
+629,1396,53,23,Was your treatment with Dr. Petrelli helpful to your pain levels?,q,MS. WELCH,start_answer
+630,1400,54,1,Yes.,a,THE WITNESS,start_question
+631,1401,54,2,Okay.  Were you discharged from your treatment with Dr. Petrelli or did you decide to stop going on your own?,q,MS. WELCH,start_answer
+632,1404,54,5,I was -- I decided to stop going on my own.,a,THE WITNESS,start_question
+633,1406,54,7,And why was that?,q,MS. WELCH,start_answer
+634,1407,54,8,Scheduling.,a,THE WITNESS,start_question
+635,1408,54,9,"Were you feeling better at that point, or was it simply scheduling?",q,MS. WELCH,start_answer
+636,1410,54,11,It was scheduling.,a,THE WITNESS,start_question
+637,1411,54,12,"And when you say scheduling, what do you mean?",q,MS. WELCH,start_answer
+638,1413,54,14,Work.,a,THE WITNESS,start_question
+639,1414,54,15,Okay.  Was Dr. Petrelli only open during business hours?,q,MS. WELCH,start_answer
+640,1416,54,17,"No, he was open later.",a,THE WITNESS,start_question
+641,1417,54,18,Okay.  What were your work hours at the time you were treating with Dr. Petrelli?,q,MS. WELCH,start_answer
+642,1420,54,21,It varies.,a,THE WITNESS,start_question
+643,1421,54,22,Did you work evenings?,q,MS. WELCH,start_answer
+644,1422,54,23,"Yup, sometimes, mhmm.",a,THE WITNESS,start_question
+645,1423,54,24,All right.  So let's talk about you mentioned Dr. Freed.  How did you find out about Dr. Freed?,q,MS. WELCH,start_answer
+646,1428,55,3,I do not remember.,a,THE WITNESS,start_question
+647,1429,55,4,How did you find out about Dr. Petrelli?,q,MS. WELCH,start_answer
+648,1431,55,6,I found him.,a,THE WITNESS,start_question
+649,1432,55,7,Online?,q,MS. WELCH,start_answer
+650,1433,55,8,Huh?,a,THE WITNESS,start_question
+651,1434,55,9,Like a Google search for chiropractors near your new apartment?,q,MS. WELCH,start_answer
+652,1436,55,11,"Yeah, I think.",a,THE WITNESS,start_question
+653,1437,55,12,Okay.,q,MS. WELCH,start_answer
+654,1438,55,13,Yeah.,a,THE WITNESS,start_question
+655,1439,55,14,Do you remember when you first would have seen Dr. Freed?,q,MS. WELCH,start_answer
+656,1441,55,16,I think in 2017.,a,THE WITNESS,start_question
+657,1442,55,17,"And what were you seeing Dr. Freed for, was it for everything or was it a specific injury or part of your body?",q,MS. WELCH,start_answer
+658,1446,55,21,"Yeah, that was for the upper body, for the neck and shoulder area.",a,THE WITNESS,start_question
+659,1448,55,23,"Okay.  By the time that you went to Dr. Freed, had your neck and shoulder pain gotten any better, worse, or stayed the same since the time of the accident?",q,MS. WELCH,start_answer
+660,1455,56,4,It had stayed the same.,a,THE WITNESS,start_question
+661,1456,56,5,"Okay.  Was there a side that was worse, the right side or the left side, or were they about the same?",q,MS. WELCH,start_answer
+662,1459,56,8,They were about the same.,a,THE WITNESS,start_question
+663,1460,56,9,And you had never injured either shoulder prior to this accident?,q,MS. WELCH,start_answer
+664,1462,56,11,No.,a,THE WITNESS,start_question
+665,1463,56,12,Did you play any sports in high school or college?,q,MS. WELCH,start_answer
+666,1465,56,14,No.,a,THE WITNESS,start_question
+667,1466,56,15,Can you describe the type of pain you were experiencing in your neck and your shoulders?,q,MS. WELCH,start_answer
+668,1469,56,18,"It was muscle pain, numbness, tingling doing certain things.",a,THE WITNESS,start_question
+669,1471,56,20,Where was the tingling that you were feeling?,q,MS. WELCH,start_answer
+670,1473,56,22,In my hands.,a,THE WITNESS,start_question
+671,1474,56,23,Both hands or just one?,q,MS. WELCH,start_answer
+672,1475,56,24,Both hands.,a,THE WITNESS,start_question
+673,1478,57,1,Were there particular things that you did that caused the tingling in the hands?,q,MS. WELCH,start_answer
+674,1481,57,4,Yes.,a,THE WITNESS,start_question
+675,1482,57,5,What were those things?,q,MS. WELCH,start_answer
+676,1483,57,6,"Raising my arms up, most movement of my arms.",a,THE WITNESS,start_question
+677,1485,57,8,And you mentioned numbness. Where was the numbness that you were feeling?,q,MS. WELCH,start_answer
+678,1488,57,11,That was in my hands.,a,THE WITNESS,start_question
+679,1489,57,12,Were there particular things you did that caused the numbness in the hands as opposed to the tingling?,q,MS. WELCH,start_answer
+680,1492,57,15,The arms up.,a,THE WITNESS,start_question
+681,1493,57,16,"Initially after the accident, so when you first started treating with Dr. Freed, how often were you having the numbness and the tingling in your hands?",q,MS. WELCH,start_answer
+682,1498,57,21,It was upon activation.,a,THE WITNESS,start_question
+683,1499,57,22,"Okay.  Was it something you were experiencing daily, or --",q,MS. WELCH,start_answer
+684,1501,57,24,"Oh, yeah, yeah.",a,THE WITNESS,start_question
+685,1504,58,1,"If you raised your hands, felt the numbness and tingling, but you put your hands back down, would it immediately go away?",q,MS. WELCH,start_answer
+686,1508,58,5,No.,a,THE WITNESS,start_question
+687,1509,58,6,How long would it typically last for?,q,MS. WELCH,start_answer
+688,1511,58,8,"Oh, I have no idea.",a,THE WITNESS,start_question
+689,1512,58,9,"Okay.  And when you say that you were having numbness, was it that you couldn't feel your hands at all or was it more of like the sensation if your arm falls asleep?",q,MS. WELCH,start_answer
+690,1517,58,14,"It was like fall asleep and numbness, weakness.",a,THE WITNESS,start_question
+691,1519,58,16,"All right.  What did Dr. Freed do for you when you saw him, what kind of treatment did you receive with Dr. Freed?",q,MS. WELCH,start_answer
+692,1523,58,20,"I did one of the EMG tests, I did -- he got me the splints for daytime and nighttime.",a,THE WITNESS,start_question
+693,1526,58,23,"Okay.  Can you describe that EMG test you had, like --",q,MS. WELCH,start_answer
+694,1530,59,1,Describe it how?,a,THE WITNESS,start_question
+695,1531,59,2,Explain the test to me. What did they do?,q,MS. WELCH,start_answer
+696,1533,59,4,"They basically give you little electric shocks to test your nerves, and then they poke a needle in you.",a,THE WITNESS,start_question
+697,1537,59,8,"And you're pointing to your right arm, right?",q,MS. WELCH,start_answer
+698,1539,59,10,"No, not specifically.  I'm just telling you that they put it in your shoulder.",a,THE WITNESS,start_question
+699,1542,59,13,Did they do it on both sides?,q,MS. WELCH,start_answer
+700,1544,59,15,"Yes, I think -- wait, I don't remember.",a,THE WITNESS,start_question
+701,1546,59,17,"Okay.  Was that test a painful process, did it hurt?",q,MS. WELCH,start_answer
+702,1548,59,19,"Oh, yeah, a lot.",a,THE WITNESS,start_question
+703,1549,59,20,How long did the test last for?,q,MS. WELCH,start_answer
+704,1551,59,22,I don't remember.,a,THE WITNESS,start_question
+705,1552,59,23,Do you know the results of that test?,q,MS. WELCH,start_answer
+706,1556,60,1,"I do, but I don't remember. But we went over them.",a,THE WITNESS,start_question
+707,1558,60,3,"Okay, fair enough.  And you mentioned splints.  You said daytime and nighttime.  Did you have two different sets of splints?",q,MS. WELCH,start_answer
+708,1562,60,7,I do.,a,THE WITNESS,start_question
+709,1563,60,8,What's the difference between them?,q,MS. WELCH,start_answer
+710,1565,60,10,"The nighttime splints are harder, more restrictive in movement, and the daytime splints have a little more give to them.",a,THE WITNESS,start_question
+711,1569,60,14,"The daytime splints, you mentioned that you wear them while you're at the computer.",q,MS. WELCH,start_answer
+712,1572,60,17,Yes.,a,THE WITNESS,start_question
+713,1573,60,18,Are there any other tasks or times of day that you wear the daytime splints?,q,MS. WELCH,start_answer
+714,1576,60,21,Yes.,a,THE WITNESS,start_question
+715,1577,60,22,Okay.  What else?,q,MS. WELCH,start_answer
+716,1578,60,23,"If you're doing groceries and lifting heavy bags, yup.",a,THE WITNESS,start_question
+717,1582,61,1,And you mentioned that you still wear those splints?,q,MS. WELCH,start_answer
+718,1584,61,3,I do.,a,THE WITNESS,start_question
+719,1585,61,4,Daily or less than that?,q,MS. WELCH,start_answer
+720,1586,61,5,Daily.,a,THE WITNESS,start_question
+721,1587,61,6,"And the nighttime splints, is that for both hands or just one?",q,MS. WELCH,start_answer
+722,1589,61,8,Both.,a,THE WITNESS,start_question
+723,1590,61,9,And do you still wear those?,q,MS. WELCH,start_answer
+724,1591,61,10,I do.,a,THE WITNESS,start_question
+725,1592,61,11,Do you wear them daily?,q,MS. WELCH,start_answer
+726,1593,61,12,"I do, nightly.",a,THE WITNESS,start_question
+727,1594,61,13,"Fair.  And the splints, they go over your hands or are they just on your arms?",q,MS. WELCH,start_answer
+728,1597,61,16,"Over my hands, yeah, so it's hand into wrist.",a,THE WITNESS,start_question
+729,1599,61,18,How high up do they do?,q,MS. WELCH,start_answer
+730,1600,61,19,About here.,a,THE WITNESS,start_question
+731,1601,61,20,So about halfway between your wrist and your elbow?,q,MS. WELCH,start_answer
+732,1603,61,22,Yes.,a,THE WITNESS,start_question
+733,1604,61,23,And are the daytime splints about the same length?,q,MS. WELCH,start_answer
+734,1608,62,1,"Yes, yeah.",a,THE WITNESS,start_question
+735,1609,62,2,And are those splints helpful to the numbness and the tingling that you were experiencing?,q,MS. WELCH,start_answer
+736,1612,62,5,"They are, yeah.",a,THE WITNESS,start_question
+737,1613,62,6,"When you wear the splints, do you ever have the issues with the numbness or tingling?",q,MS. WELCH,start_answer
+738,1616,62,9,Not that I paid attention to.,a,THE WITNESS,start_question
+739,1618,62,11,"Did Dr. Freed ever refer you out for an MRI study or a CAT scan, anything like that that you remember?",q,MS. WELCH,start_answer
+740,1621,62,14,"I think I did -- no, nope.",a,THE WITNESS,start_question
+741,1622,62,15,Okay.  Did Dr. Freed ever prescribe you any medication?,q,MS. WELCH,start_answer
+742,1624,62,17,No.,a,THE WITNESS,start_question
+743,1625,62,18,Did Dr. Freed ever discuss injections with you for pain?,q,MS. WELCH,start_answer
+744,1627,62,20,Yes.,a,THE WITNESS,start_question
+745,1628,62,21,Okay.  When did you discuss injections?,q,MS. WELCH,start_answer
+746,1630,62,23,I don't remember what visit it was.,a,THE WITNESS,start_question
+747,1634,63,1,Fair enough.  Did you ever receive injections?,q,MS. WELCH,start_answer
+748,1636,63,3,No.,a,THE WITNESS,start_question
+749,1637,63,4,Why not?,q,MS. WELCH,start_answer
+750,1638,63,5,"Because it was a down the road possibility, so...",a,THE WITNESS,start_question
+751,1640,63,7,"Okay.  So when you discussed it with Dr. Freed, it was discussed as a potential future option?",q,MS. WELCH,start_answer
+752,1643,63,10,Correct.,a,THE WITNESS,start_question
+753,1644,63,11,Did you ever discuss surgery with Dr. Freed?,q,MS. WELCH,start_answer
+754,1646,63,13,"Not specific to current, currently.",a,THE WITNESS,start_question
+755,1648,63,15,And what do you mean by that?,q,MS. WELCH,start_answer
+756,1650,63,17,"I can't remember, that's what I mean by that.",a,THE WITNESS,start_question
+757,1652,63,19,Okay.  So you don't remember one way or the other if you discussed surgery with Dr. Freed?,q,MS. WELCH,start_answer
+758,1655,63,22,"I can't remember, no.",a,THE WITNESS,start_question
+759,1656,63,23,How often were you seeing Dr. Freed?,q,MS. WELCH,start_answer
+760,1660,64,1,"It was every few months, every couple months.",a,THE WITNESS,start_question
+761,1662,64,3,Okay.,q,MS. WELCH,start_answer
+762,1663,64,4,"I mean, it varied when we were working on the splints and the EMG test.",a,THE WITNESS,start_question
+763,1666,64,7,Okay.  Are you still seeing Dr. Freed?,q,MS. WELCH,start_answer
+764,1668,64,9,Intermittently.,a,THE WITNESS,start_question
+765,1669,64,10,"When you say intermittently, what do you mean by that?",q,MS. WELCH,start_answer
+766,1671,64,12,Follow ups.,a,THE WITNESS,start_question
+767,1672,64,13,Do you remember the last time you saw Dr. Freed?,q,MS. WELCH,start_answer
+768,1674,64,15,I don't.,a,THE WITNESS,start_question
+769,1675,64,16,Was it in 2018 or 2019?,q,MS. WELCH,start_answer
+770,1676,64,17,I don't remember.,a,THE WITNESS,start_question
+771,1677,64,18,Okay.  Do you have any future appointments scheduled with Dr. Freed?,q,MS. WELCH,start_answer
+772,1680,64,21,"Not yet, but I'm coming due for one, so...",a,THE WITNESS,start_question
+773,1682,64,23,So you are planning to schedule something with Dr. Freed in the future?,q,MS. WELCH,start_answer
+774,1687,65,2,Yes.,a,THE WITNESS,start_question
+775,1688,65,3,"Okay.  When you first started seeing Dr. Freed, how bad was the neck and shoulder pain on that scale of zero to ten, zero being no pain at all, ten being the worst pain you can imagine? Let's start with the left side?",q,MS. WELCH,start_answer
+776,1694,65,9,"I mean, I honestly can't remember.",a,THE WITNESS,start_question
+777,1696,65,11,Okay.  And could you tell me about the right side?,q,MS. WELCH,start_answer
+778,1698,65,13,(Witness nods.),a,THE WITNESS,start_question
+779,1699,65,14,Was that a no?,q,MS. WELCH,start_answer
+780,1700,65,15,"That was a no, sorry.",a,THE WITNESS,start_question
+781,1701,65,16,"As we sit here today, July of 2019, do you still experience left shoulder and neck pain?",q,MS. WELCH,start_answer
+782,1704,65,19,Yes.,a,THE WITNESS,start_question
+783,1705,65,20,Do you still experience right shoulder and right neck pain?,q,MS. WELCH,start_answer
+784,1707,65,22,"Less, but yes.",a,THE WITNESS,start_question
+785,1708,65,23,"Okay.  Immediately following the accident, were you experiencing neck and shoulder pain on a daily basis?",q,MS. WELCH,start_answer
+786,1713,66,2,Yes.,a,THE WITNESS,start_question
+787,1714,66,3,"Currently, do you experience neck and shoulder pain on a daily basis, or is it less often than that?",q,MS. WELCH,start_answer
+788,1717,66,6,It's daily.,a,THE WITNESS,start_question
+789,1718,66,7,Are the pain levels lower now in 2019 than they were following the accident in 2017?,q,MS. WELCH,start_answer
+790,1721,66,10,Yes.,a,THE WITNESS,start_question
+791,1722,66,11,"As we sit here in 2019, do you still ever have that numbness and tingling in your arms and hands?",q,MS. WELCH,start_answer
+792,1725,66,14,That actually has gotten worse.,a,THE WITNESS,start_question
+793,1727,66,16,And what do you mean when you say it's gotten worse?,q,MS. WELCH,start_answer
+794,1729,66,18,"Like I can feel it just sitting here without, you know, aggravating it with movement and stuff.",a,THE WITNESS,start_question
+795,1732,66,21,Do you have the numbness and tingling still on a daily basis?,q,MS. WELCH,start_answer
+796,1734,66,23,Yes.,a,THE WITNESS,start_question
+797,1735,66,24,Did any doctors you treated with after this accident ever prescribe you any medications?,q,MS. WELCH,start_answer
+798,1740,67,3,"I don't remember.  I think they all asked me if I wanted to take them, and I opted I wanted to do it without medicine.",a,THE WITNESS,start_question
+799,1744,67,7,And why was that?,q,MS. WELCH,start_answer
+800,1745,67,8,Because that's what I believe in.,a,THE WITNESS,start_question
+801,1747,67,10,Okay.,q,MS. WELCH,start_answer
+802,1748,67,11,And if I can get away with -- yeah.,a,THE WITNESS,start_question
+803,1750,67,13,Understood.  Have you ever been diagnosed with diabetes?,q,MS. WELCH,start_answer
+804,1752,67,15,No.,a,THE WITNESS,start_question
+805,1753,67,16,Okay.  Do you still have right hip pain or problems?,q,MS. WELCH,start_answer
+806,1755,67,18,Intermittently.,a,THE WITNESS,start_question
+807,1756,67,19,"Okay.  And when you say intermittently, how often would that be?",q,MS. WELCH,start_answer
+808,1758,67,21,"It's every couple -- it's an every once in a while, yeah.",a,THE WITNESS,start_question
+809,1760,67,23,"Okay.  And once in a while means different things to different people.  So would you say it's once a week, once a month, every couple months?",q,MS. WELCH,start_answer
+810,1766,68,3,More of a once a month.,a,THE WITNESS,start_question
+811,1767,68,4,"When you still have that right hip pain, how bad is it?  You told me earlier it was a six out of ten right after the accident.  Is it the same, better, worse now?",q,MS. WELCH,start_answer
+812,1772,68,9,"It's better, it's more of an episode.",a,THE WITNESS,start_question
+813,1774,68,11,"Okay.  And does the hip pain that you still have, does it happen regardless of what you're doing, or is there certain activities or things that cause the right hip pain still?",q,MS. WELCH,start_answer
+814,1779,68,16,It's not based off of an activity.,a,THE WITNESS,start_question
+815,1781,68,18,"Okay.  And you also mentioned that you went to physical therapy, and that was Excel.",q,MS. WELCH,start_answer
+816,1784,68,21,Yes.,a,THE WITNESS,start_question
+817,1785,68,22,How did you find out about Excel or who referred you there?,q,MS. WELCH,start_answer
+818,1787,68,24,I don't remember.,a,THE WITNESS,start_question
+819,1790,69,1,"Can you describe what they did for you at Excel Physical Therapy, like what kind of treatment did you receive?",q,MS. WELCH,start_answer
+820,1794,69,5,"I was going -- different exercises and stretches and exercises to take home, as well.",a,THE WITNESS,start_question
+821,1797,69,8,Okay.  Do you remember how often you were going to Excel Physical Therapy?,q,MS. WELCH,start_answer
+822,1800,69,11,That was twice a week.,a,THE WITNESS,start_question
+823,1801,69,12,"And do you recall how long that lasted for, like how many months?",q,MS. WELCH,start_answer
+824,1803,69,14,"I don't, no.",a,THE WITNESS,start_question
+825,1804,69,15,"Were you discharged from Excel Physical Therapy, or did you decide that you wanted to stop going on your own?",q,MS. WELCH,start_answer
+826,1808,69,19,That was I decided to stop going on my own.,a,THE WITNESS,start_question
+827,1810,69,21,And why was that?,q,MS. WELCH,start_answer
+828,1811,69,22,Because I was feeling better.,a,THE WITNESS,start_question
+829,1813,69,24,You mentioned that you learned some home exercises?,q,MS. WELCH,start_answer
+830,1817,70,2,Yes.,a,THE WITNESS,start_question
+831,1818,70,3,How often were you doing the exercises at home?,q,MS. WELCH,start_answer
+832,1820,70,5,Probably twice a week.,a,THE WITNESS,start_question
+833,1821,70,6,Do you still do home exercises?,q,MS. WELCH,start_answer
+834,1823,70,8,I do.,a,THE WITNESS,start_question
+835,1824,70,9,"And are these for the neck, the shoulders, the hip?",q,MS. WELCH,start_answer
+836,1826,70,11,For upper body.,a,THE WITNESS,start_question
+837,1827,70,12,Do you still do home exercises twice per week or is less often than that now or more often than that?,q,MS. WELCH,start_answer
+838,1830,70,15,It's more often than that.,a,THE WITNESS,start_question
+839,1831,70,16,How often do you do them now?,q,MS. WELCH,start_answer
+840,1833,70,18,"Probably it's four times a week, yeah.",a,THE WITNESS,start_question
+841,1835,70,20,"When you do those home exercises, how long is that, is that ten minutes, a half hour, hour?",q,MS. WELCH,start_answer
+842,1838,70,23,It's like ten minutes.,a,THE WITNESS,start_question
+843,1839,70,24,"All right.  So we have now talked about Abington Emergency Room, Dr. Bloom, Dr. Petrelli, Dr. Freed, Excel Physical Therapy.  Are there any other doctors or medical professionals that you treated with following this accident?",q,MS. WELCH,start_answer
+844,1847,71,6,I went to someone once and I didn't like them.,a,THE WITNESS,start_question
+845,1849,71,8,Who was that?,q,MS. WELCH,start_answer
+846,1850,71,9,"I don't remember his name, actually.  And then I never went back, then I went to Excel.",a,THE WITNESS,start_question
+847,1853,71,12,So was this a physical therapist that you went to and didn't like?,q,MS. WELCH,start_answer
+848,1856,71,15,Yes.,a,THE WITNESS,start_question
+849,1857,71,16,I know you talked to Dr. Freed about the possibility of injections.,q,MS. WELCH,start_answer
+850,1860,71,19,Yes.,a,THE WITNESS,start_question
+851,1861,71,20,Do you have any plans or intention of getting injections in the future?,q,MS. WELCH,start_answer
+852,1864,71,23,"If it doesn't get better, yeah.",a,THE WITNESS,start_question
+853,1868,72,1,Were you ever confined to your home or your bed after this accident?,q,MS. WELCH,start_answer
+854,1871,72,4,Confined to?,a,THE WITNESS,start_question
+855,1872,72,5,Mhmm.,q,MS. WELCH,start_answer
+856,1873,72,6,No.,a,THE WITNESS,start_question
+857,1874,72,7,Were you ever prescribed any other medical devices besides the splints that we've discussed?,q,MS. WELCH,start_answer
+858,1877,72,10,No.,a,THE WITNESS,start_question
+859,1878,72,11,"Your car, was it totaled in this accident?",q,MS. WELCH,start_answer
+860,1880,72,13,Yes.,a,THE WITNESS,start_question
+861,1881,72,14,"Do you have any hobbies, activities and interests that were affected by this accident?",q,MS. WELCH,start_answer
+862,1884,72,17,Yes.,a,THE WITNESS,start_question
+863,1885,72,18,"Tell me about what type of hobbies, activities or interests were affected.",q,MS. WELCH,start_answer
+864,1888,72,21,Any of the ones that involve my upper body.,a,THE WITNESS,start_question
+865,1890,72,23,Okay.  Specifically what type of things did you do before the accident that were affected?,q,MS. WELCH,start_answer
+866,1895,73,2,"The gym, horseback riding, I was running.  As far as sports activities or active activities, yeah, that was...",a,THE WITNESS,start_question
+867,1898,73,5,"Okay.  At the time of the accident, I think you said you were a member of LA Fitness?",q,MS. WELCH,start_answer
+868,1901,73,8,I was.,a,THE WITNESS,start_question
+869,1902,73,9,Were you a member of any other gyms or just the LA Fitness?,q,MS. WELCH,start_answer
+870,1904,73,11,The one at work.,a,THE WITNESS,start_question
+871,1905,73,12,"Okay.  Prior to this accident, how often were you going to the gym?",q,MS. WELCH,start_answer
+872,1908,73,15,Probably four or five days a week.,a,THE WITNESS,start_question
+873,1910,73,17,And what type of activities were you primarily doing at the gym?,q,MS. WELCH,start_answer
+874,1912,73,19,"I was doing like the HIT classes, spin, barre, any of those circuit classes.",a,THE WITNESS,start_question
+875,1915,73,22,"Okay.  Following this accident, was there a period of time where you did not go to the gym at all?",q,MS. WELCH,start_answer
+876,1920,74,1,Yeah.,a,THE WITNESS,start_question
+877,1921,74,2,How long did that last for?,q,MS. WELCH,start_answer
+878,1922,74,3,"How long did that last for, that lasted for months, yeah.",a,THE WITNESS,start_question
+879,1924,74,5,Did you eventually start going back to the gym?,q,MS. WELCH,start_answer
+880,1926,74,7,Yes.,a,THE WITNESS,start_question
+881,1927,74,8,"And currently, do you go to the gym?",q,MS. WELCH,start_answer
+882,1929,74,10,I do.,a,THE WITNESS,start_question
+883,1930,74,11,What gym do you go to now?,q,MS. WELCH,start_answer
+884,1931,74,12,City Fitness.,a,THE WITNESS,start_question
+885,1932,74,13,"And does your current job have a gym, as well?",q,MS. WELCH,start_answer
+886,1934,74,15,They do.,a,THE WITNESS,start_question
+887,1935,74,16,Do you use that gym?,q,MS. WELCH,start_answer
+888,1936,74,17,No.,a,THE WITNESS,start_question
+889,1937,74,18,What type of activities do you do at City Fitness?,q,MS. WELCH,start_answer
+890,1939,74,20,I got a personal trainer to help me with strengthening my upper body.,a,THE WITNESS,start_question
+891,1941,74,22,Okay.  What's the name of your personal trainer?,q,MS. WELCH,start_answer
+892,1943,74,24,"His last day is tomorrow. Her name is going to be Tiffany, and I don't know her last name yet.",a,THE WITNESS,start_question
+893,1948,75,3,Okay.  Who was the personal trainer whose last day is tomorrow?,q,MS. WELCH,start_answer
+894,1950,75,5,"Daniel.  Last name, I don't know.  But I only started it last week, so this is not...",a,THE WITNESS,start_question
+895,1953,75,8,You just started the personal trainer last week?,q,MS. WELCH,start_answer
+896,1955,75,10,Yeah.,a,THE WITNESS,start_question
+897,1956,75,11,How long have you been a member at City Fitness?,q,MS. WELCH,start_answer
+898,1958,75,13,Two weeks.,a,THE WITNESS,start_question
+899,1959,75,14,Okay.  And were you a member of any other gyms between LA Fitness at the time of the accident and the City Fitness that you're a member at now?,q,MS. WELCH,start_answer
+900,1963,75,18,Yes.,a,THE WITNESS,start_question
+901,1964,75,19,Where were you a member?,q,MS. WELCH,start_answer
+902,1965,75,20,Optimal Fitness.,a,THE WITNESS,start_question
+903,1966,75,21,Anywhere else?,q,MS. WELCH,start_answer
+904,1967,75,22,No.,a,THE WITNESS,start_question
+905,1968,75,23,Optimal Fitness is in Center City?,q,MS. WELCH,start_answer
+906,1972,76,1,It is.,a,THE WITNESS,start_question
+907,1973,76,2,What type of activities were you doing at Optimal Fitness?,q,MS. WELCH,start_answer
+908,1975,76,4,Yoga and the treadmill.,a,THE WITNESS,start_question
+909,1976,76,5,"Did you stop doing HIT classes, spin classes, circuit classes?",q,MS. WELCH,start_answer
+910,1978,76,7,Yeah.,a,THE WITNESS,start_question
+911,1979,76,8,Have you done any of those type of classes since the type of this accident?,q,MS. WELCH,start_answer
+912,1982,76,11,No.,a,THE WITNESS,start_question
+913,1983,76,12,Why not?,q,MS. WELCH,start_answer
+914,1984,76,13,"Because it's painful, and I have weakness up here now that I can't accommodate that.",a,THE WITNESS,start_question
+915,1987,76,16,"Okay.  Do HIT classes and circuit classes, do they involve any weight lifting?",q,MS. WELCH,start_answer
+916,1990,76,19,Yes.,a,THE WITNESS,start_question
+917,1991,76,20,And what is it about spin classes that you can't do?,q,MS. WELCH,start_answer
+918,1993,76,22,"Oh, I just don't do them anymore.",a,THE WITNESS,start_question
+919,1995,76,24,Does that have anything to do with your injuries from this accident?,q,MS. WELCH,start_answer
+920,1999,77,2,No.,a,THE WITNESS,start_question
+921,2000,77,3,"And the barre classes, do you just not do them anymore or can you not do them because of your injuries?",q,MS. WELCH,start_answer
+922,2003,77,6,That I can't do anymore.,a,THE WITNESS,start_question
+923,2004,77,7,And what is it about barre classes that you can't do?,q,MS. WELCH,start_answer
+924,2006,77,9,"With the arm lifting, and yeah.",a,THE WITNESS,start_question
+925,2008,77,11,Do you have any problems doing the yoga workouts at Optimal?,q,MS. WELCH,start_answer
+926,2010,77,13,Yeah.,a,THE WITNESS,start_question
+927,2011,77,14,What kind of issues do you have?,q,MS. WELCH,start_answer
+928,2013,77,16,"Well, anywhere where my shoulders and lifting and everything, I get the weakness and the tingling, so they give me modifications.",a,THE WITNESS,start_question
+929,2017,77,20,So you have discussed the injuries with the yoga instructors?,q,MS. WELCH,start_answer
+930,2019,77,22,Yes.,a,THE WITNESS,start_question
+931,2020,77,23,How often do you do yoga?,q,MS. WELCH,start_answer
+932,2021,77,24,Not really anymore.,a,THE WITNESS,start_question
+933,2024,78,1,Okay.  When were you doing yoga?,q,MS. WELCH,start_answer
+934,2026,78,3,It was last year.,a,THE WITNESS,start_question
+935,2027,78,4,Why don't you do it anymore?,q,MS. WELCH,start_answer
+936,2028,78,5,I don't do it anymore.,a,THE WITNESS,start_question
+937,2029,78,6,"Does it have to do with the injuries, or is it just that you don't do it anymore?",q,MS. WELCH,start_answer
+938,2032,78,9,I don't do it anymore.,a,THE WITNESS,start_question
+939,2033,78,10,You mentioned you also would do the treadmill at Optimal Fitness.,q,MS. WELCH,start_answer
+940,2035,78,12,Yes.,a,THE WITNESS,start_question
+941,2036,78,13,How often were you running on the treadmill?,q,MS. WELCH,start_answer
+942,2038,78,15,Once a week.,a,THE WITNESS,start_question
+943,2039,78,16,Okay.  Do you have any issues with running on the treadmill because of your injuries from this accident?,q,MS. WELCH,start_answer
+944,2043,78,20,Yes.,a,THE WITNESS,start_question
+945,2044,78,21,Describe that.,q,MS. WELCH,start_answer
+946,2045,78,22,"It's my upper body, so it gets -- it keeps overcompensating I guess.  I tend to do a lot more walking than I do running, but...",a,THE WITNESS,start_question
+947,2051,79,2,"You generally mentioning running, as well.  Prior to the accident were you running outside as well, or just treadmill running?",q,MS. WELCH,start_answer
+948,2055,79,6,It was mostly treadmill running.,a,THE WITNESS,start_question
+949,2057,79,8,"Prior to the accident, were you doing any outdoor running like 5Ks, any races, anything like that?",q,MS. WELCH,start_answer
+950,2060,79,11,No.,a,THE WITNESS,start_question
+951,2061,79,12,How often were you running on a treadmill prior to the accident?,q,MS. WELCH,start_answer
+952,2063,79,14,Probably two or three times a week.,a,THE WITNESS,start_question
+953,2065,79,16,And how long would you run for prior to the accident?,q,MS. WELCH,start_answer
+954,2067,79,18,Usually 20 minutes to half an hour.,a,THE WITNESS,start_question
+955,2069,79,20,When were you able to start running again after the accident?,q,MS. WELCH,start_answer
+956,2071,79,22,I don't remember.,a,THE WITNESS,start_question
+957,2072,79,23,Okay.  So you also mentioned horseback riding.,q,MS. WELCH,start_answer
+958,2076,80,1,Yes.,a,THE WITNESS,start_question
+959,2077,80,2,Tell me how that was affected by the accident?,q,MS. WELCH,start_answer
+960,2079,80,4,I couldn't do it at all.,a,THE WITNESS,start_question
+961,2080,80,5,For how long?,q,MS. WELCH,start_answer
+962,2081,80,6,"Up until this year, two years.",a,THE WITNESS,start_question
+963,2083,80,8,"Prior to the accident, how often were you horseback riding?",q,MS. WELCH,start_answer
+964,2085,80,10,Probably twice a month.,a,THE WITNESS,start_question
+965,2086,80,11,Where would you go horseback riding?,q,MS. WELCH,start_answer
+966,2088,80,13,"Like the name of the facility, or specifically --",a,THE WITNESS,start_question
+967,2090,80,15,"Yeah, the facility.",q,MS. WELCH,start_answer
+968,2091,80,16,Platinum Equestrian Academy.,a,THE WITNESS,start_question
+969,2092,80,17,And you started horseback riding again in 2019?,q,MS. WELCH,start_answer
+970,2094,80,19,I did.,a,THE WITNESS,start_question
+971,2095,80,20,And is it Platinum Equestrian or do you go somewhere else now?,q,MS. WELCH,start_answer
+972,2098,80,23,"No, it's just my friend.",a,THE WITNESS,start_question
+973,2099,80,24,What do you mean by that?,q,MS. WELCH,start_answer
+974,2102,81,1,"She has a farm, it doesn't have a name.",a,THE WITNESS,start_question
+975,2104,81,3,What friend is that?,q,MS. WELCH,start_answer
+976,2105,81,4,Anastasia.,a,THE WITNESS,start_question
+977,2106,81,5,What's her last name?,q,MS. WELCH,start_answer
+978,2107,81,6,Mishniva.,a,THE WITNESS,start_question
+979,2108,81,7,Where is her farm?,q,MS. WELCH,start_answer
+980,2109,81,8,It is in Perkiomenville.,a,THE WITNESS,start_question
+981,2110,81,9,And how often are you horseback riding?,q,MS. WELCH,start_answer
+982,2112,81,11,Once a month.,a,THE WITNESS,start_question
+983,2113,81,12,What was it about horseback riding that you couldn't do following the accident?,q,MS. WELCH,start_answer
+984,2116,81,15,It's a lot of upper body.,a,THE WITNESS,start_question
+985,2117,81,16,Okay.  Do you have to wear the splints or braces on your arms when you do yoga?,q,MS. WELCH,start_answer
+986,2120,81,19,"I don't, they would get in the way.",a,THE WITNESS,start_question
+987,2122,81,21,Okay.  Do you --,q,MS. WELCH,start_answer
+988,2123,81,22,They're not made for it.,a,THE WITNESS,start_question
+989,2124,81,23,Do you wear splints or braces or any type of device on your arms or wrists while working out or doing the horseback riding?,q,MS. WELCH,start_answer
+990,2130,82,3,"Horseback riding, yes.",a,THE WITNESS,start_question
+991,2131,82,4,"All right.  Do you have any other hobbies, activities, or interests that were affected by your injuries from this accident besides the horseback riding, the running, and going to the gym?",q,MS. WELCH,start_answer
+992,2137,82,10,"Yes, commuting up to see my mom.  My mom does not live in the state, and I drive up there.  I was seeing her probably four or five times a year, and now I'm done to twice a year because long periods in a car really aggravate.",a,THE WITNESS,start_question
+993,2143,82,16,Where does your mom live?,q,MS. WELCH,start_answer
+994,2144,82,17,In Boston.,a,THE WITNESS,start_question
+995,2145,82,18,And what is it about the travel that causes you issues or problems?,q,MS. WELCH,start_answer
+996,2148,82,21,"So it starts affecting my whole left side.  It gets irritated, sore, it's painful for my back actually.",a,THE WITNESS,start_question
+997,2151,82,24,"Does the driving cause any numbness, tingling, or anything like that?",q,MS. WELCH,start_answer
+998,2156,83,3,Yes.,a,THE WITNESS,start_question
+999,2157,83,4,"Do you have issues driving on a day-to-day basis, or is it longer trips?",q,MS. WELCH,start_answer
+1000,2160,83,7,It's --,a,THE WITNESS,start_question
+1001,2161,83,8,"That was a bad question.  Do you have trouble driving on a day-to-day basis, or is it just on longer trips that you experience issues?",q,MS. WELCH,start_answer
+1002,2165,83,12,"My commute, as well, to work.",a,THE WITNESS,start_question
+1003,2167,83,14,How long is your commute?,q,MS. WELCH,start_answer
+1004,2168,83,15,45 minutes to an hour.,a,THE WITNESS,start_question
+1005,2169,83,16,And what kind of issues do you experience during that commute?,q,MS. WELCH,start_answer
+1006,2171,83,18,Same problems.,a,THE WITNESS,start_question
+1007,2172,83,19,"Numbness, tingling, pain in the back?",q,MS. WELCH,start_answer
+1008,2174,83,21,"Yeah.  And the neck, like left side here, it's usually into the shoulder blade and kind of like, I don't know what muscle that is.",a,THE WITNESS,start_question
+1009,2180,84,1,Okay.  Does it happen every day or is that once in a while?,q,MS. WELCH,start_answer
+1010,2182,84,3,Every day.,a,THE WITNESS,start_question
+1011,2183,84,4,And where is your office?,q,MS. WELCH,start_answer
+1012,2184,84,5,It's in Princeton.,a,THE WITNESS,start_question
+1013,2185,84,6,Do you always drive or is there public transportation that could get you there?,q,MS. WELCH,start_answer
+1014,2188,84,9,I always drive.,a,THE WITNESS,start_question
+1015,2189,84,10,"Is public transportation an option, or do you have to drive?",q,MS. WELCH,start_answer
+1016,2191,84,12,I have to drive.,a,THE WITNESS,start_question
+1017,2192,84,13,"Following the accident, did you have any problems with household chores, cooking, cleaning, laundry, anything like that?",q,MS. WELCH,start_answer
+1018,2196,84,17,"Laundry yes, other stuff, no.",a,THE WITNESS,start_question
+1019,2198,84,19,What kind of problems did you have with laundry?,q,MS. WELCH,start_answer
+1020,2200,84,21,It caused pain in my back and shoulder and neck.,a,THE WITNESS,start_question
+1021,2202,84,23,"In your apartment, do you have laundry in the building, in your unit?",q,MS. WELCH,start_answer
+1022,2207,85,2,It's in the basement.,a,THE WITNESS,start_question
+1023,2208,85,3,Were you ever unable to do the laundry by yourself?,q,MS. WELCH,start_answer
+1024,2210,85,5,Yes.,a,THE WITNESS,start_question
+1025,2211,85,6,And how long did that last for?,q,MS. WELCH,start_answer
+1026,2213,85,8,I don't remember.,a,THE WITNESS,start_question
+1027,2214,85,9,Did you need somebody to help you do it?,q,MS. WELCH,start_answer
+1028,2216,85,11,My poor roommates.,a,THE WITNESS,start_question
+1029,2217,85,12,Do you still have problems with laundry?,q,MS. WELCH,start_answer
+1030,2219,85,14,No.,a,THE WITNESS,start_question
+1031,2220,85,15,When did that get better?,q,MS. WELCH,start_answer
+1032,2221,85,16,I don't remember.,a,THE WITNESS,start_question
+1033,2222,85,17,"Did you ever have any problems with personal hygiene, getting dressed by yourself, bathing yourself?",q,MS. WELCH,start_answer
+1034,2225,85,20,No.,a,THE WITNESS,start_question
+1035,2226,85,21,Are there any other daily activities in your life that were affected by these injuries?,q,MS. WELCH,start_answer
+1036,2229,85,24,I'm sure there's things I can't think of now.,a,THE WITNESS,start_question
+1037,2233,86,2,Is there anything else that you can think of that was affected?,q,MS. WELCH,start_answer
+1038,2235,86,4,Not at the very moment.,a,THE WITNESS,start_question
+1039,2236,86,5,Okay.  Is there anything that you can't do at all now that you could do before this car accident?,q,MS. WELCH,start_answer
+1040,2239,86,8,"I can't exercise like I used to, I can't sit in cars for as long as I used to without stopping, without being in pain, which is significant to getting up to see my family.",a,THE WITNESS,start_question
+1041,2244,86,13,"Visiting your family less, is that still going on or has it gotten any better?",q,MS. WELCH,start_answer
+1042,2247,86,16,It's still going on.,a,THE WITNESS,start_question
+1043,2248,86,17,"So it was four to five times a year, and now it's two times a year?",q,MS. WELCH,start_answer
+1044,2250,86,19,"Like twice a year, yeah.",a,THE WITNESS,start_question
+1045,2251,86,20,"So wearing the splints or braces at work, does that bother you or embarrass you or anything like that?",q,MS. WELCH,start_answer
+1046,2254,86,23,"They are annoying, yes, they do bug me.",a,THE WITNESS,start_question
+1047,2258,87,1,"What about the ones that you sleep in, do you have any issues with those, do they bother you, embarrass you, or anything like that?",q,MS. WELCH,start_answer
+1048,2262,87,5,"Yes, yeah.",a,THE WITNESS,start_question
+1049,2263,87,6,I'm going to ask that you at some point following today's deposition take a photograph of the ones that you wear during the day and the ones that you wear during the night.,q,MS. WELCH,start_answer
+1050,2268,87,11,Okay.,a,THE WITNESS,start_question
+1051,2269,87,12,"Provide those to your attorney and he can send me a copy of those, if you don't mind.",q,MS. WELCH,start_answer
+1052,2272,87,15,"Okay, sure.",a,THE WITNESS,start_question
+1053,2273,87,16,"Let me review my notes, but I think I'm just about done.",q,MS. WELCH,start_answer
+1054,2275,87,18,Okay.,a,THE WITNESS,symbols
+1055,2276,87,19,-  -  -,symbols,,is brackets
+1056,2277,87,20,"(Whereupon, a brief break was taken.)",brackets,,symbols
+1057,2279,87,22,-  -  -,symbols,,start_question
+1058,2281,87,24,Are you aware of any unpaid medical bills that were not covered by your health insurance with Aetna or through USAA?,q,MS. WELCH,start_answer
+1059,2287,88,4,I'm not sure I understand the question.,a,THE WITNESS,start_question
+1060,2289,88,6,Are you aware of any medical bills from this accident that were not paid through your health insurance?,q,MS. WELCH,start_answer
+1061,2292,88,9,No.,a,THE WITNESS,start_chat
+1062,2293,88,10,Those are all the questions I have for you.  I appreciate your time today.,side_chat,MS. WELCH,start_chat
+1063,2296,88,13,Done.,side_chat,MR. KOWALSKI,symbols
+1064,2297,88,14,-  -  -,symbols,,is brackets
+1065,2298,88,15,"(Whereupon, the Witness was excused.)",brackets,,symbols
+1066,2300,88,17,-  -  -,symbols,,is brackets
+1067,2301,88,18,"(Whereupon, the deposition ended at 11:34 p.m.)",brackets,,symbols
+1068,2303,88,20,-  -  - CERTIFICATE I HEREBY CERTIFY that the Witness was duly sworn by me and that the deposition is a true record of the testimony given by the Witness.,symbols,,symbols
+1069,2319,89,10,_________________________________________ Date:  7/30/19 of this transcript does not apply to any unless under the direct control and/or LAWYER'S NOTES PAGE  LINE,symbols,,symbols
+1070,2342,90,3,____  ____  ____________________________,symbols,,symbols
+1071,2343,90,4,____  ____  ____________________________,symbols,,symbols
+1072,2344,90,5,____  ____  ____________________________,symbols,,symbols
+1073,2345,90,6,____  ____  ____________________________,symbols,,symbols
+1074,2346,90,7,____  ____  ____________________________,symbols,,symbols
+1075,2347,90,8,____  ____  ____________________________,symbols,,symbols
+1076,2348,90,9,____  ____  ____________________________,symbols,,symbols
+1077,2349,90,10,____  ____  ____________________________,symbols,,symbols
+1078,2350,90,11,____  ____  ____________________________,symbols,,symbols
+1079,2351,90,12,____  ____  ____________________________,symbols,,symbols
+1080,2352,90,13,____  ____  ____________________________,symbols,,symbols
+1081,2353,90,14,____  ____  ____________________________,symbols,,symbols
+1082,2354,90,15,____  ____  ____________________________,symbols,,symbols
+1083,2355,90,16,____  ____  ____________________________,symbols,,symbols
+1084,2356,90,17,____  ____  ____________________________,symbols,,symbols
+1085,2357,90,18,____  ____  ____________________________,symbols,,symbols
+1086,2358,90,19,____  ____  ____________________________,symbols,,symbols
+1087,2359,90,20,____  ____  ____________________________,symbols,,symbols
+1088,2360,90,21,____  ____  ____________________________,symbols,,symbols
+1089,2361,90,22,____  ____  ____________________________,symbols,,symbols
+1090,2362,90,23,____  ____  ____________________________,symbols,,symbols
+1091,2363,90,24,____  ____  ____________________________,symbols,,end

@@ -1,0 +1,909 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,135,5,14,-  -  - EXAMINATION,symbols,,symbols
+2,137,5,16,-  -  -,symbols,,start_question
+3,139,5,18,"Good morning, Ms. Nelson.",q,MS. KRENICKY,start_answer
+4,140,5,19,Good morning.,a,THE WITNESS,start_question
+5,141,5,20,"We met briefly off the record, but for the record, my name is Karleen Krenicky.  I represent the Defendant, Mr. Guerrero Lopez, that was just here in the lawsuit that you have filed against him for a car accident that happened back on October 31st of 2017. You just sat through his deposition, yours will be similar in that it's just a question-and-answer session, but I'm trying to find out about you, about your background, the accident that brings us here today, and then the injuries that you are claiming from the accident.  Okay?",q,MS. KRENICKY,start_answer
+6,158,6,11,Yes.,a,THE WITNESS,start_question
+7,159,6,12,"A transcript is getting made of everything everyone says, so it's very important that only one of us speaks at a time and that all of your answers are out loud.  Everyone does it.  Try really hard not to say mhmm, for example.  If you mean yes or you mean no, just make sure you say it out loud.  Okay?",q,MS. KRENICKY,start_answer
+8,167,6,20,Yes.,a,THE WITNESS,start_question
+9,168,6,21,"Do not guess.  If you do not know something or you do not remember something, that's perfectly fine.  Dan doesn't want you to guess, I don't want you to guess.  Just say, ""I don't know,"" ""I don't recall,"" whatever is the appropriate response.  Okay?",q,MS. KRENICKY,start_answer
+10,177,7,4,Yes.,a,THE WITNESS,start_question
+11,178,7,5,"That being said, if you can estimate or approximate, please do so, just tell me that's what you're doing. Okay?",q,MS. KRENICKY,start_answer
+12,182,7,9,Yes.,a,THE WITNESS,start_question
+13,183,7,10,"If you do not understand one of my questions, let me know that you don't understand it.  If you answer one of my questions today, I will assume you heard it, you understood it, and that is what you are answering; is that fair?",q,MS. KRENICKY,start_answer
+14,189,7,16,Yes.,a,THE WITNESS,start_question
+15,190,7,17,You took an oath to tell the truth.  Do you have that understanding?,q,MS. KRENICKY,start_answer
+16,192,7,19,Yes.,a,THE WITNESS,start_question
+17,193,7,20,"If at any time today, I don't think we're going to be here too, too long, but if you need to use the restroom, get a drink, just let me know, we will do so.  The only rule is that you answer any question I've asked before we take our break.  Okay?",q,MS. KRENICKY,start_answer
+18,202,8,3,"Sure, yes.",a,THE WITNESS,start_question
+19,203,8,4,And are you under the influence of any medication or substances that would affect your ability to give truthful and accurate answers to my questions today?,q,MS. KRENICKY,start_answer
+20,208,8,9,No.,a,THE WITNESS,start_question
+21,209,8,10,Is it okay if we get started?,q,MS. KRENICKY,start_answer
+22,211,8,12,Yes.,a,THE WITNESS,start_question
+23,212,8,13,Wonderful.  What is your full name?,q,MS. KRENICKY,start_answer
+24,214,8,15,Maya I. Nelson.,a,THE WITNESS,start_question
+25,215,8,16,What's the I stand for?,q,MS. KRENICKY,start_answer
+26,216,8,17,"Ieisha, two I's.",a,THE WITNESS,start_question
+27,217,8,18,Just spell the whole thing for the court reporter.,q,MS. KRENICKY,start_answer
+28,219,8,20,I-E-I-S-H-A.,a,THE WITNESS,start_question
+29,220,8,21,And have you ever gone by any other name?,q,MS. KRENICKY,start_answer
+30,222,8,23,No.,a,THE WITNESS,start_question
+31,223,8,24,And how old are you?,q,MS. KRENICKY,start_answer
+32,226,9,1,I never tell my age.  26.,a,THE WITNESS,start_question
+33,227,9,2,What is your birthday?,q,MS. KRENICKY,start_answer
+34,228,9,3,"9/3/92, September 3rd, 1992.",a,THE WITNESS,start_question
+35,229,9,4,Can I have the last four of your social?,q,MS. KRENICKY,start_answer
+36,231,9,6,3007.,a,THE WITNESS,start_question
+37,232,9,7,And where do you live?,q,MS. KRENICKY,start_answer
+38,233,9,8,"I live at 722 East 7th Street, Wilmington, Delaware.",a,THE WITNESS,start_question
+39,235,9,10,How long have you lived there?,q,MS. KRENICKY,start_answer
+40,237,9,12,"Years, over ten years.",a,THE WITNESS,start_question
+41,238,9,13,Okay.  Is it safe to say you lived there on October 31st of 2017?,q,MS. KRENICKY,start_answer
+42,240,9,15,Yes.,a,THE WITNESS,start_question
+43,241,9,16,And who do you live there with?,q,MS. KRENICKY,start_answer
+44,243,9,18,My mom.,a,THE WITNESS,start_question
+45,244,9,19,And what's her name?,q,MS. KRENICKY,start_answer
+46,245,9,20,Venus Nelson.,a,THE WITNESS,start_question
+47,246,9,21,Does anyone else live there?,q,MS. KRENICKY,start_answer
+48,247,9,22,No.,a,THE WITNESS,start_question
+49,248,9,23,Have you ever been married?,q,MS. KRENICKY,start_answer
+50,249,9,24,No.,a,THE WITNESS,start_question
+51,252,10,1,Do you have any kids?,q,MS. KRENICKY,start_answer
+52,253,10,2,No.,a,THE WITNESS,start_question
+53,254,10,3,And do you have a driver's license?,q,MS. KRENICKY,start_answer
+54,256,10,5,Yes.,a,THE WITNESS,start_question
+55,257,10,6,In Delaware?,q,MS. KRENICKY,start_answer
+56,258,10,7,Yes.,a,THE WITNESS,start_question
+57,259,10,8,How long have you had a Delaware driver's license?,q,MS. KRENICKY,start_answer
+58,261,10,10,Since 2016.,a,THE WITNESS,start_question
+59,262,10,11,Did you ever have a license in any other state?,q,MS. KRENICKY,start_answer
+60,264,10,13,No.,a,THE WITNESS,start_question
+61,265,10,14,Okay.  Are there any restrictions on your license?,q,MS. KRENICKY,start_answer
+62,267,10,16,No.,a,THE WITNESS,start_question
+63,268,10,17,Has your license ever been suspended for any reason?,q,MS. KRENICKY,start_answer
+64,270,10,19,No.,a,THE WITNESS,start_question
+65,271,10,20,Did you own a car on October 31st of 2017?,q,MS. KRENICKY,start_answer
+66,273,10,22,Yes.,a,THE WITNESS,start_question
+67,274,10,23,What kind of car was that?,q,MS. KRENICKY,start_answer
+68,275,10,24,"A black Jeep Cherokee, 2017.",a,THE WITNESS,start_question
+69,278,11,1,Did you buy that car new?,q,MS. KRENICKY,start_answer
+70,279,11,2,Yes.,a,THE WITNESS,start_question
+71,280,11,3,And were you the only owner of that vehicle?,q,MS. KRENICKY,start_answer
+72,282,11,5,Yes.,a,THE WITNESS,start_question
+73,283,11,6,And was that car insured?,q,MS. KRENICKY,start_answer
+74,284,11,7,Yes.,a,THE WITNESS,start_question
+75,285,11,8,With USAA?,q,MS. KRENICKY,start_answer
+76,286,11,9,Yes.,a,THE WITNESS,start_question
+77,287,11,10,And was that your policy?,q,MS. KRENICKY,start_answer
+78,288,11,11,Yes.,a,THE WITNESS,start_question
+79,289,11,12,Do you have any military service?,q,MS. KRENICKY,start_answer
+80,291,11,14,"Well, I'm under my dad's insurance.",a,THE WITNESS,start_question
+81,293,11,16,"Okay.  So it's his policy, but your car was listed on there?",q,MS. KRENICKY,start_answer
+82,295,11,18,Yes.,a,THE WITNESS,start_question
+83,296,11,19,But your dad doesn't have any ownership in the vehicle?,q,MS. KRENICKY,start_answer
+84,298,11,21,No.,a,THE WITNESS,start_question
+85,299,11,22,"Was that policy, do you know was it a Delaware car insurance policy or was it a Pennsylvania one; do you know?",q,MS. KRENICKY,start_answer
+86,304,12,1,I'm not sure.,a,THE WITNESS,start_question
+87,305,12,2,Okay.  How far did you go in school?,q,MS. KRENICKY,start_answer
+88,307,12,4,How far did I go?,a,THE WITNESS,start_question
+89,308,12,5,Mhmm.,q,MS. KRENICKY,start_answer
+90,309,12,6,I have my bachelors degree in science.,a,THE WITNESS,start_question
+91,311,12,8,So a BS in science?,q,MS. KRENICKY,start_answer
+92,312,12,9,Yes.,a,THE WITNESS,start_question
+93,313,12,10,Okay.  And any schooling after college?,q,MS. KRENICKY,start_answer
+94,315,12,12,No.,a,THE WITNESS,start_question
+95,316,12,13,Where did you go to college?,q,MS. KRENICKY,start_answer
+96,317,12,14,Benedict College in South Carolina.,a,THE WITNESS,start_question
+97,319,12,16,Where did you go to high school?,q,MS. KRENICKY,start_answer
+98,321,12,18,"I went to West Catholic, and then I graduated from Chester High, so my diploma is from Chester High.",a,THE WITNESS,start_question
+99,324,12,21,Did you use your dad's address for school?,q,MS. KRENICKY,start_answer
+100,326,12,23,Yes.,a,THE WITNESS,start_question
+101,327,12,24,Do you work?,q,MS. KRENICKY,start_answer
+102,330,13,1,Yes.,a,THE WITNESS,start_question
+103,331,13,2,Where?,q,MS. KRENICKY,start_answer
+104,332,13,3,Bryn Mawr Medical Specialist Association.,a,THE WITNESS,start_question
+105,334,13,5,What do you do there?,q,MS. KRENICKY,start_answer
+106,335,13,6,"I assist in skin cancer surgeries, surgical tech.",a,THE WITNESS,start_question
+107,337,13,8,How long have you had that job?,q,MS. KRENICKY,start_answer
+108,339,13,10,For three years.  It will be four years in February.,a,THE WITNESS,start_question
+109,341,13,12,So is that where you were working when this happened?,q,MS. KRENICKY,start_answer
+110,343,13,14,Yes.,a,THE WITNESS,start_question
+111,344,13,15,Did you miss any time away from your job as a result of this accident?,q,MS. KRENICKY,start_answer
+112,347,13,18,No.,a,THE WITNESS,start_question
+113,348,13,19,How many hours a week do you work?,q,MS. KRENICKY,start_answer
+114,350,13,21,"40, 40 to 44.",a,THE WITNESS,start_question
+115,351,13,22,"Okay.  And just generally, what's a surgical tech do?  I think I know, but just tell me from your words.",q,MS. KRENICKY,start_answer
+116,356,14,1,"So we do full scan exams, and if a patient comes in SK-MEL cell or basal cell melanoma, we remove it pretty much.",a,THE WITNESS,start_question
+117,360,14,5,But what are you doing in that process?,q,MS. KRENICKY,start_answer
+118,362,14,7,"I assist with the surgery, I numb sometimes, and I triage patients, I remove sutures.",a,THE WITNESS,start_question
+119,365,14,10,Okay.  Anything else?,q,MS. KRENICKY,start_answer
+120,366,14,11,It's a lot more.  Do you want everything?,a,THE WITNESS,start_question
+121,368,14,13,"Well, let me ask it this way.  Are you on your feet all day?",q,MS. KRENICKY,start_answer
+122,370,14,15,"Yes, I'm on my feet the majority of the time.  Triaging patients I'm using a computer, but it's a laptop on the go pretty much.",a,THE WITNESS,start_question
+123,374,14,19,What percentage of your day are you on your feet at work?,q,MS. KRENICKY,start_answer
+124,376,14,21,90 percent.,a,THE WITNESS,start_question
+125,377,14,22,Did you have any trouble doing your job after this accident?,q,MS. KRENICKY,start_answer
+126,379,14,24,Yes.,a,THE WITNESS,start_question
+127,382,15,1,Explain that.,q,MS. KRENICKY,start_answer
+128,383,15,2,So I would find myself sitting down more often.,a,THE WITNESS,start_question
+129,385,15,4,Okay.  Anything else?,q,MS. KRENICKY,start_answer
+130,386,15,5,No.,a,THE WITNESS,start_question
+131,387,15,6,And why were you sitting down more often?,q,MS. KRENICKY,start_answer
+132,389,15,8,"Because I was having, like, my back was hurting a little bit.",a,THE WITNESS,start_question
+133,391,15,10,And for how long did that continue that you had to keep sitting down more at work?,q,MS. KRENICKY,start_answer
+134,394,15,13,I don't understand the question.,a,THE WITNESS,start_question
+135,396,15,15,"Sure.  I mean, is it still an ongoing thing where you have to sit down at work, or has that kind of gone away?",q,MS. KRENICKY,start_answer
+136,400,15,19,"Well, sometimes, it's gone away, it's progressively gotten better.",a,THE WITNESS,start_question
+137,402,15,21,So for how long of a period of time would you say that your back was causing you problems at work?,q,MS. KRENICKY,start_answer
+138,405,15,24,For months.,a,THE WITNESS,start_question
+139,408,16,1,"Months can mean different things, so can you give me an approximation of how many months?",q,MS. KRENICKY,start_answer
+140,411,16,4,Over four months.,a,THE WITNESS,start_question
+141,412,16,5,Did you have to ask for any accommodations at work because of this accident?,q,MS. KRENICKY,start_answer
+142,415,16,8,No.,a,THE WITNESS,start_question
+143,416,16,9,Did you tell your supervisor at work that you had been in this accident?,q,MS. KRENICKY,start_answer
+144,419,16,12,Yes.,a,THE WITNESS,start_question
+145,420,16,13,And what was the purpose of you telling your supervisor that?,q,MS. KRENICKY,start_answer
+146,422,16,15,"Well, I told her after I had, like, started therapy so I could, you know, get out sooner than what I was -- I wouldn't go over, because sometimes I stay over at work like passing my eight hour day.  But I would let her know I have somewhere to be after work, I have to go to therapy so I couldn't stay longer.",a,THE WITNESS,start_question
+147,431,16,24,And was that an issue at all?,q,MS. KRENICKY,start_answer
+148,435,17,2,"No, no.",a,THE WITNESS,start_question
+149,436,17,3,Do you have health insurance through your job?,q,MS. KRENICKY,start_answer
+150,438,17,5,Yes.,a,THE WITNESS,start_question
+151,439,17,6,Who provides that?,q,MS. KRENICKY,start_answer
+152,440,17,7,Core Source.,a,THE WITNESS,start_question
+153,441,17,8,Do you have the same insurance now as you did back in 2017?,q,MS. KRENICKY,start_answer
+154,443,17,10,Yes.,a,THE WITNESS,start_question
+155,444,17,11,Have you had the same insurance since 2017?,q,MS. KRENICKY,start_answer
+156,446,17,13,Yes.,a,THE WITNESS,start_question
+157,447,17,14,"Did any of your bills related to this accident, were they paid through Core Source?",q,MS. KRENICKY,start_answer
+158,450,17,17,I'm not sure.,a,THE WITNESS,start_question
+159,451,17,18,"I mean, did you ever give any of your doctors or providers your insurance card, your health insurance card?",q,MS. KRENICKY,start_answer
+160,455,17,22,"I did.  It was scanned, but I'm not sure.  I've never heard anything from Core Source.",a,THE WITNESS,start_question
+161,460,18,1,Okay.  Did you pay any co-pays?,q,MS. KRENICKY,start_answer
+162,462,18,3,No.,a,THE WITNESS,start_question
+163,463,18,4,Do have you a family doctor?,q,MS. KRENICKY,start_answer
+164,464,18,5,Yes.,a,THE WITNESS,start_question
+165,465,18,6,Who is that?,q,MS. KRENICKY,start_answer
+166,466,18,7,Strickler.,a,THE WITNESS,start_question
+167,467,18,8,Where are they located?,q,MS. KRENICKY,start_answer
+168,468,18,9,"In Bryn Mawr, Bryn Mawr Family Practice, Dr. Strickler.",a,THE WITNESS,start_question
+169,470,18,11,How long has Dr. Strickler been your family doctor?,q,MS. KRENICKY,start_answer
+170,472,18,13,"A year, we just switched.",a,THE WITNESS,start_question
+171,473,18,14,Who was your doctor before that?,q,MS. KRENICKY,start_answer
+172,475,18,16,"Well, I was in college, so I had a doctor in -- it was like doctor hopping pretty much.  I had my pediatrician, but then I went to college and I had a PCP in South Carolina that I didn't go to because I was healthy.  So I'm going to say she was my only primary for right now, because I didn't go to a doctor enough to really get acquainted, like I didn't really have issues to go to a primary.",a,THE WITNESS,start_question
+173,488,19,3,"Okay.  So as an adult, Dr. Strickler?",q,MS. KRENICKY,start_answer
+174,490,19,5,Dr. Strickler.,a,THE WITNESS,start_question
+175,491,19,6,"Have you been diagnosed with any chronic conditions or illnesses?  For example, high blood pressure, diabetes --",q,MS. KRENICKY,start_answer
+176,494,19,9,No.,a,THE WITNESS,start_question
+177,495,19,10,"-- seizure disorders, anything like that?  Do take any medication on a regular basis?",q,MS. KRENICKY,start_answer
+178,498,19,13,Yes.,a,THE WITNESS,start_question
+179,499,19,14,What do you take?,q,MS. KRENICKY,start_answer
+180,500,19,15,Cabergoline.,a,THE WITNESS,start_question
+181,501,19,16,What's that for?,q,MS. KRENICKY,start_answer
+182,502,19,17,I have prolactinoma.,a,THE WITNESS,start_question
+183,503,19,18,"I don't know what that is, I'm sorry.",q,MS. KRENICKY,start_answer
+184,505,19,20,So it's a benign spot on my pituitary gland.,a,THE WITNESS,start_question
+185,507,19,22,When were you diagnosed with that?,q,MS. KRENICKY,start_answer
+186,509,19,24,I want to say last year.,a,THE WITNESS,start_question
+187,512,20,1,"Okay.  What are the symptoms of that, like how did you know that you had an issue that you needed --",q,MS. KRENICKY,start_answer
+188,515,20,4,Do I have to answer that question?,a,THE WITNESS,start_question
+189,517,20,6,Yes.,q,MS. KRENICKY,start_answer
+190,518,20,7,I had breast milk coming out of my breast.,a,THE WITNESS,start_question
+191,520,20,9,"Okay.  Other that than, did you have any other symptoms related to the pituitary gland issue?",q,MS. KRENICKY,start_answer
+192,523,20,12,No.,a,THE WITNESS,start_question
+193,524,20,13,And that first occurred about a year ago?,q,MS. KRENICKY,start_answer
+194,526,20,15,Yes.,a,THE WITNESS,start_question
+195,527,20,16,"So other than that medication that you just named, any other medicines that you take on a regular basis?",q,MS. KRENICKY,start_answer
+196,531,20,20,"No.  I was on Accutane, but that's for acne.",a,THE WITNESS,start_question
+197,533,20,22,Okay.  And you stopped taking that when?,q,MS. KRENICKY,start_answer
+198,535,20,24,"I stopped taking that, like, yeah, six -- probably a year ago.  I haven't been on it.",a,THE WITNESS,start_question
+199,540,21,3,Okay.  How many car accidents have you been in in your life?,q,MS. KRENICKY,start_answer
+200,542,21,5,One.,a,THE WITNESS,start_question
+201,543,21,6,Is it this one?,q,MS. KRENICKY,start_answer
+202,544,21,7,Yes.,a,THE WITNESS,start_question
+203,545,21,8,And have you ever been injured at work?,q,MS. KRENICKY,start_answer
+204,547,21,10,No.,a,THE WITNESS,start_question
+205,548,21,11,Have you ever fallen down and hurt yourself in any way?,q,MS. KRENICKY,start_answer
+206,550,21,13,No.,a,THE WITNESS,start_question
+207,551,21,14,Have you ever had surgery?,q,MS. KRENICKY,start_answer
+208,552,21,15,Yes.,a,THE WITNESS,start_question
+209,553,21,16,For what?,q,MS. KRENICKY,start_answer
+210,554,21,17,"Knee surgery.  In 2009, I tore my ACL playing basketball.",a,THE WITNESS,start_question
+211,556,21,19,"Since 2009, have you had any therapy or treatment for that?",q,MS. KRENICKY,start_answer
+212,558,21,21,No.,a,THE WITNESS,start_question
+213,559,21,22,Any ongoing issues with your knee?,q,MS. KRENICKY,start_answer
+214,561,21,24,No.,a,THE WITNESS,start_question
+215,564,22,1,Any other sports injuries?,q,MS. KRENICKY,start_answer
+216,565,22,2,No.,a,THE WITNESS,start_question
+217,566,22,3,Did you play basketball in high school?,q,MS. KRENICKY,start_answer
+218,568,22,5,Yes.,a,THE WITNESS,start_question
+219,569,22,6,Any other sports?,q,MS. KRENICKY,start_answer
+220,570,22,7,"Track, volleyball, that's it.",a,THE WITNESS,start_question
+221,572,22,9,Did you play sports in college?,q,MS. KRENICKY,start_answer
+222,574,22,11,"I played basketball in college, I ran track in college.",a,THE WITNESS,start_question
+223,576,22,13,Was that all four years?,q,MS. KRENICKY,start_answer
+224,577,22,14,Yes.,a,THE WITNESS,start_question
+225,578,22,15,Both sports all four years?,q,MS. KRENICKY,start_answer
+226,579,22,16,Track was my senior year.,a,THE WITNESS,start_question
+227,580,22,17,"Okay.  So basketball all four, track just one?",q,MS. KRENICKY,start_answer
+228,582,22,19,Yeah.,a,THE WITNESS,start_question
+229,583,22,20,What body parts were injured in the accident of October 31st 2017?,q,MS. KRENICKY,start_answer
+230,585,22,22,My lower back.,a,THE WITNESS,start_question
+231,586,22,23,Anything else?,q,MS. KRENICKY,start_answer
+232,587,22,24,No.,a,THE WITNESS,start_question
+233,590,23,1,"Before this accident, had you ever complained of any lower back pain to any medical providers ever?",q,MS. KRENICKY,start_answer
+234,593,23,4,No.,a,THE WITNESS,start_question
+235,594,23,5,"Before this accident, had you injured your lower back in any way?",q,MS. KRENICKY,start_answer
+236,596,23,7,No.,a,THE WITNESS,start_question
+237,597,23,8,Had you ever seen a chiropractor before this accident?,q,MS. KRENICKY,start_answer
+238,599,23,10,No.,a,THE WITNESS,start_question
+239,600,23,11,"Other than for your knee, did you ever see a physical therapist before this accident?",q,MS. KRENICKY,start_answer
+240,603,23,14,No.,a,THE WITNESS,start_question
+241,604,23,15,Where did this accident happen?,q,MS. KRENICKY,start_answer
+242,606,23,17,12th and Potter.,a,THE WITNESS,start_question
+243,607,23,18,In Chester?,q,MS. KRENICKY,start_answer
+244,608,23,19,"Chester, PA, yes.",a,THE WITNESS,start_question
+245,609,23,20,Were you familiar with the intersection?,q,MS. KRENICKY,start_answer
+246,611,23,22,Yes.,a,THE WITNESS,start_question
+247,612,23,23,"Okay.  And how, how were you familiar with it, what would bring you to that area?",q,MS. KRENICKY,start_answer
+248,617,24,2,My dad lives on Potter Street.,a,THE WITNESS,start_question
+249,619,24,4,Okay.  What is his address?,q,MS. KRENICKY,start_answer
+250,620,24,5,"1119 Potter Street, Chester, PA.",a,THE WITNESS,start_question
+251,622,24,7,And this is your dad here?,q,MS. KRENICKY,start_answer
+252,623,24,8,"That is my dad, yes.",a,THE WITNESS,start_question
+253,624,24,9,What's his name?,q,MS. KRENICKY,start_answer
+254,625,24,10,"Edward Nelson, senior.",a,THE WITNESS,start_question
+255,626,24,11,And how long has your dad lived at 1119 Potter?,q,MS. KRENICKY,start_answer
+256,628,24,13,Over ten years.,a,THE WITNESS,start_question
+257,629,24,14,Had you been at your dad's house just before this accident?,q,MS. KRENICKY,start_answer
+258,631,24,16,Yes.,a,THE WITNESS,start_question
+259,632,24,17,For how long had you been there?,q,MS. KRENICKY,start_answer
+260,634,24,19,Probably an hour.,a,THE WITNESS,start_question
+261,635,24,20,Okay.  Why were you there?,q,MS. KRENICKY,start_answer
+262,636,24,21,I stop by my parent's house every day after work.,a,THE WITNESS,start_question
+263,638,24,23,Meaning your dad's house?,q,MS. KRENICKY,start_answer
+264,639,24,24,Yes.,a,THE WITNESS,start_question
+265,642,25,1,Any particular reason why?,q,MS. KRENICKY,start_answer
+266,643,25,2,Because he's my dad.,a,THE WITNESS,start_question
+267,644,25,3,Just to say hi?,q,MS. KRENICKY,start_answer
+268,645,25,4,Yeah.,a,THE WITNESS,start_question
+269,646,25,5,What time did you go to work that day?,q,MS. KRENICKY,start_answer
+270,648,25,7,7:00 a.m.,a,THE WITNESS,start_question
+271,649,25,8,And what time did you get out of work?,q,MS. KRENICKY,start_answer
+272,651,25,10,4:30.,a,THE WITNESS,start_question
+273,652,25,11,Okay.  And what time did you get to your dads?,q,MS. KRENICKY,start_answer
+274,654,25,13,I'm not sure.,a,THE WITNESS,start_question
+275,655,25,14,But you did stay about an hour?,q,MS. KRENICKY,start_answer
+276,657,25,16,Yes.,a,THE WITNESS,start_question
+277,658,25,17,And what did you do while you were there?,q,MS. KRENICKY,start_answer
+278,660,25,19,I don't know.  I was just -- I don't know.,a,THE WITNESS,start_question
+279,662,25,21,Was anyone else there besides your dad?,q,MS. KRENICKY,start_answer
+280,664,25,23,I don't remember.,a,THE WITNESS,start_question
+281,665,25,24,"So this was Halloween, right?",q,MS. KRENICKY,start_answer
+282,669,26,2,"Halloween day, that's probably why I was there.",a,THE WITNESS,start_question
+283,671,26,4,"Yeah.  I mean, were there trick or treaters already while you were there?",q,MS. KRENICKY,start_answer
+284,674,26,7,"Yes, there were trick or treaters in the neighborhood.  I'm not sure if my dad was giving out candy, I doubt it.  There was definitely kids around.",a,THE WITNESS,start_question
+285,679,26,12,So what time did this happen?,q,MS. KRENICKY,start_answer
+286,681,26,14,"Probably -- I'm not sure. It was still daylight, it was still daylight, I'm not sure of the time.",a,THE WITNESS,start_question
+287,684,26,17,Okay.  Was it starting to get dark or not quite yet?,q,MS. KRENICKY,start_answer
+288,686,26,19,I'm trying to think of daylight savings time.,a,THE WITNESS,start_question
+289,688,26,21,"From your memory, do you remember was the sun going down at all when this happened?",q,MS. KRENICKY,start_answer
+290,691,26,24,"No, it was a clear day.",a,THE WITNESS,start_question
+291,694,27,1,Were you driving your Jeep when this happened?,q,MS. KRENICKY,start_answer
+292,696,27,3,Yes.,a,THE WITNESS,start_question
+293,697,27,4,And was there any visible damage to the outside of your car before this happened?,q,MS. KRENICKY,start_answer
+294,700,27,7,No.,a,THE WITNESS,start_question
+295,701,27,8,Do you know what you were doing later that evening after leaving your dad's house?,q,MS. KRENICKY,start_chat
+296,704,27,11,What she ended up doing or what her intention was?,side_chat,MR. LINN,start_question
+297,707,27,14,What her intentions were after this accident happened.,q,MS. KRENICKY,start_answer
+298,709,27,16,I was going to my mom's house.,a,THE WITNESS,start_question
+299,711,27,18,"And once you got home, what were you going to do?",q,MS. KRENICKY,start_answer
+300,713,27,20,"Prepare myself for the next day, probably study, I'm trying to get into PA school, so most likely study.",a,THE WITNESS,start_question
+301,716,27,23,Did you have any Halloween plans?,q,MS. KRENICKY,start_answer
+302,720,28,1,No.  We don't celebrate Halloween.,a,THE WITNESS,start_question
+303,722,28,3,Meaning for religious reasons or just because you're too old to do Halloween?,q,MS. KRENICKY,start_answer
+304,725,28,6,"Well, we never celebrated Halloween, so I don't know why.  I've never participated in Halloween ever in life.",a,THE WITNESS,start_question
+305,729,28,10,Okay.  So it was of no interest of you that it happened to be Halloween?,q,MS. KRENICKY,start_answer
+306,732,28,13,No.,a,THE WITNESS,start_question
+307,733,28,14,Okay.  You said you were trying to get into PA school at the time of this accident.  Did this accident affect your plans for PA school?,q,MS. KRENICKY,start_answer
+308,737,28,18,No.,a,THE WITNESS,start_question
+309,738,28,19,Have you applied to PA school yet?,q,MS. KRENICKY,start_answer
+310,740,28,21,I'm applying this cycle.,a,THE WITNESS,start_question
+311,741,28,22,But you didn't delay applying or anything like that because of this accident?,q,MS. KRENICKY,start_answer
+312,746,29,1,"Not because of this accident, no.",a,THE WITNESS,start_question
+313,748,29,3,What street were you on when the accident happened?,q,MS. KRENICKY,start_answer
+314,750,29,5,I was on Potter Street.,a,THE WITNESS,start_question
+315,751,29,6,Where had you parked at your dad's house?,q,MS. KRENICKY,start_answer
+316,753,29,8,In front of his house.,a,THE WITNESS,start_question
+317,754,29,9,So on Potter?,q,MS. KRENICKY,start_answer
+318,755,29,10,Mhmm.,a,THE WITNESS,start_question
+319,756,29,11,Parallel parked?,q,MS. KRENICKY,start_answer
+320,757,29,12,Yes.,a,THE WITNESS,start_question
+321,758,29,13,And how many lanes is Potter?,q,MS. KRENICKY,start_answer
+322,760,29,15,It's one lane.,a,THE WITNESS,start_question
+323,761,29,16,In each direction or just --,q,MS. KRENICKY,start_answer
+324,762,29,17,It's a one-way street.,a,THE WITNESS,start_question
+325,763,29,18,Is there parking on both sides or just one side?,q,MS. KRENICKY,start_answer
+326,765,29,20,Both sides.,a,THE WITNESS,start_question
+327,766,29,21,Were you parked on the right or the left side of the street?,q,MS. KRENICKY,start_answer
+328,768,29,23,I was parked on the right side of the street.,a,THE WITNESS,start_question
+329,772,30,1,And how far from the intersection with 12th were you parked on Potter?,q,MS. KRENICKY,start_answer
+330,775,30,4,"Oh, a whole block.",a,THE WITNESS,start_question
+331,776,30,5,So were you parked at 11th and Potter?,q,MS. KRENICKY,start_answer
+332,778,30,7,Yes.,a,THE WITNESS,start_question
+333,779,30,8,"And the intersection of 12th and Potter, is that controlled by a stop sign?",q,MS. KRENICKY,start_answer
+334,782,30,11,Yes.,a,THE WITNESS,start_question
+335,783,30,12,"Okay.  And how would you describe that intersection, is it a T or is it a three-way intersection?",q,MS. KRENICKY,start_answer
+336,786,30,15,It's a three-way intersection.,a,THE WITNESS,start_question
+337,788,30,17,Okay.  Is that because the other side of Potter is closed off to traffic?,q,MS. KRENICKY,start_answer
+338,791,30,20,"It would be a three-way intersection anyway, because Potter Street is a one way.  So you have two, and then Potter Street is going up straight, that's a one way.  So regardless, it would be a three way.",a,THE WITNESS,start_question
+339,799,31,2,So what street is closed off to traffic?,q,MS. KRENICKY,start_answer
+340,801,31,4,"So Potter Street.  Potter Street once you cross the intersection going straight, that's still considered Potter Street going straight up, so the end of Potter Street like crossing the intersection is blocked off.",a,THE WITNESS,start_question
+341,807,31,10,The road's been closed for quite some time?,q,MS. KRENICKY,start_answer
+342,809,31,12,Yes.,a,THE WITNESS,start_question
+343,810,31,13,"When this accident occurred, was there anyone actively working on that street?",q,MS. KRENICKY,start_answer
+344,813,31,16,I'm not sure.,a,THE WITNESS,start_question
+345,814,31,17,Okay.  Were there any construction vehicles in the area when the accident occurred?,q,MS. KRENICKY,start_answer
+346,817,31,20,Yes.,a,THE WITNESS,start_question
+347,818,31,21,Okay.  What kind of vehicles were there?,q,MS. KRENICKY,start_answer
+348,820,31,23,"I'm not sure what kind, but it was big enough, it was definitely a construction vehicle.  I'm not sure -- it wasn't big enough to be an 18 wheeler, but it was -- I'm not sure.",a,THE WITNESS,start_question
+349,827,32,4,Okay.  Do you remember the color of the truck?,q,MS. KRENICKY,start_answer
+350,829,32,6,No.,a,THE WITNESS,start_question
+351,830,32,7,Do you remember where it was located in relation to the intersection of 12th and Potter?,q,MS. KRENICKY,start_answer
+352,833,32,10,Yes.,a,THE WITNESS,start_question
+353,834,32,11,Where was it?,q,MS. KRENICKY,start_answer
+354,835,32,12,So it was southbound of 12th Street.,a,THE WITNESS,start_question
+355,837,32,14,Was it in the travel lane?,q,MS. KRENICKY,start_answer
+356,838,32,15,No.,a,THE WITNESS,start_question
+357,839,32,16,And it's my understanding 12th Street is a two-way street?,q,MS. KRENICKY,start_answer
+358,841,32,18,Yes.,a,THE WITNESS,start_question
+359,842,32,19,With one lane in each direction?,q,MS. KRENICKY,start_answer
+360,844,32,21,Yes.,a,THE WITNESS,start_question
+361,845,32,22,And parking on both sides?,q,MS. KRENICKY,start_answer
+362,846,32,23,Yes.,a,THE WITNESS,start_question
+363,847,32,24,Was there only one construction vehicle in the area when the accident happened?,q,MS. KRENICKY,start_answer
+364,852,33,3,Yes.,a,THE WITNESS,start_question
+365,853,33,4,"Okay.  The construction vehicle that you've mentioned, was it parked in the parking lane on the southbound side of 12th Street, as you've described?",q,MS. KRENICKY,start_answer
+366,858,33,9,Yes.,a,THE WITNESS,start_question
+367,859,33,10,Were there any construction workers near that vehicle?,q,MS. KRENICKY,start_answer
+368,861,33,12,I'm not sure.,a,THE WITNESS,start_question
+369,862,33,13,"Did you see any people that looked to go with the truck, that came with the truck, or driving the truck?",q,MS. KRENICKY,start_answer
+370,865,33,16,I can't recall.,a,THE WITNESS,start_question
+371,866,33,17,"Okay.  Other than a road closed sign, were there any other construction signs in the area of this accident?",q,MS. KRENICKY,start_answer
+372,870,33,21,"There was cones, the barricade, I'm not sure if I'm saying that correctly.  It was other stuff there, but it's like construction stuff, so I don't...",a,THE WITNESS,start_question
+373,877,34,2,Okay.  And where was it?,q,MS. KRENICKY,start_answer
+374,878,34,3,"It was on the other side of, like, the street is closed off, so beyond that point is like whatever their construction stuff is.  But it was, like, cones and, like, the little barricade things and the sign and stuff like that in front of it.  But whatever was beyond that point, I'm not sure what was that.",a,THE WITNESS,start_question
+375,886,34,11,Was there anything near the parked construction vehicle?,q,MS. KRENICKY,start_answer
+376,888,34,13,"Just a cone, I believe.",a,THE WITNESS,start_question
+377,889,34,14,Okay.  Did any of the construction equipment block the travel lanes on 12th Street?,q,MS. KRENICKY,start_answer
+378,892,34,17,No.,a,THE WITNESS,start_question
+379,893,34,18,"The fact that this truck was parked there and there was cones in the area, did that have anything to do with this accident from your perspective?",q,MS. KRENICKY,start_answer
+380,897,34,22,"If the construction vehicle was not there, I could have possibly prevented it by using the shoulder. However, the car was parked, the construction vehicle was parked on the shoulder.",a,THE WITNESS,start_question
+381,905,35,4,"Okay.  So if I'm understanding you, you believe if you had been able to move into the shoulder lane, the accident would not have occurred?",q,MS. KRENICKY,start_answer
+382,909,35,8,"Yes, I could have prevented it.",a,THE WITNESS,start_question
+383,911,35,10,"In what way, by moving into the shoulder?",q,MS. KRENICKY,start_answer
+384,913,35,12,"Yeah, I would have been able to move into the shoulder.",a,THE WITNESS,start_question
+385,915,35,14,How did the accident happen?,q,MS. KRENICKY,start_answer
+386,916,35,15,"So I was leaving from my dad's house, I pulled -- I was coming to the top of 12th Street, I saw the stop sign.  As I'm approaching the stop sign, I noticed that it was shrubbery on my left-hand side and kids were trick or treating, so I slowly approached the second time.  And as I approached the second time to the stop sign, I noticed a car was five or six car lengths away from me.  And once I noticed that it was a clear way to drive, I proceeded to making my left turn. As I began to turn, I noticed the car coming closer, and probably like four or five seconds of noticing him, I noticed that he wasn't slowing down as I was turning.  So I began blowing the horn and I slammed on brakes and I noticed that he was looking down at his phone.  And by the time he looked up, he hit my car.",a,THE WITNESS,start_question
+387,940,36,13,Okay.  So I'm going to ask you a couple of things.  So you said you were stopped for the second time.  I just want to make sure I understand what you mean.  So you were coming down Potter Street?,q,MS. KRENICKY,start_answer
+388,946,36,19,Mhmm.,a,THE WITNESS,start_question
+389,947,36,20,"You see the stop sign up ahead, correct?",q,MS. KRENICKY,start_answer
+390,949,36,22,Yes.,a,THE WITNESS,start_question
+391,950,36,23,And you said you brought your car to a stop?,q,MS. KRENICKY,start_answer
+392,954,37,1,Yes.,a,THE WITNESS,start_question
+393,955,37,2,"And then when you said you did it a second time, what do you mean by that?",q,MS. KRENICKY,start_answer
+394,958,37,5,"So I stopped before the stop sign, but because coming up 11th and Potter, it's a corner house, there's shrubbery, so I noticed that I couldn't see the oncoming traffic.",a,THE WITNESS,start_chat
+395,963,37,10,Excuse me.  11th and Potter or 12th and Potter?,side_chat,MR. LINN,start_chat
+396,965,37,12,"12th and Potter, I'm sorry.  There's a bush, so I noticed I couldn't see the oncoming traffic, so I inched up more to make sure that I could see the cars going by.",side_chat,THE WITNESS,start_question
+397,972,37,19,Okay.  So you inched up about how far?,q,MS. KRENICKY,start_answer
+398,974,37,21,Like a half an inch.,a,THE WITNESS,start_question
+399,975,37,22,"Okay.  And by doing so, were you able to see down 12th Street?",q,MS. KRENICKY,start_answer
+400,977,37,24,Yes.,a,THE WITNESS,start_question
+401,980,38,1,And you looked to your left and to your right?,q,MS. KRENICKY,start_answer
+402,982,38,3,Yes.,a,THE WITNESS,start_question
+403,983,38,4,Okay.  And were there any cars coming from your right?,q,MS. KRENICKY,start_answer
+404,985,38,6,No.,a,THE WITNESS,start_question
+405,986,38,7,"And when you looked to your left, you said you saw a car five or six car lengths away from you?",q,MS. KRENICKY,start_answer
+406,989,38,10,Yes.,a,THE WITNESS,start_question
+407,990,38,11,And it was moving?,q,MS. KRENICKY,start_answer
+408,991,38,12,Yes.,a,THE WITNESS,start_question
+409,992,38,13,Do you know its speed at that point?,q,MS. KRENICKY,start_answer
+410,994,38,15,It wasn't an unusual speed.,a,THE WITNESS,start_question
+411,995,38,16,Okay.  And did it appear to be slowing down?,q,MS. KRENICKY,start_answer
+412,997,38,18,No.,a,THE WITNESS,start_question
+413,998,38,19,And were you at a complete stop at that point?,q,MS. KRENICKY,start_answer
+414,1000,38,21,At what point?,a,THE WITNESS,start_question
+415,1001,38,22,When you saw this car about five or six car lengths away.,q,MS. KRENICKY,start_answer
+416,1003,38,24,"Oh, yes, I was at a complete stop, yes.",a,THE WITNESS,start_question
+417,1007,39,2,And what kind of car was it that you saw?,q,MS. KRENICKY,start_answer
+418,1009,39,4,It was a white car.,a,THE WITNESS,start_question
+419,1010,39,5,Like a four-door sedan?,q,MS. KRENICKY,start_answer
+420,1011,39,6,Yes.,a,THE WITNESS,start_question
+421,1012,39,7,Do you know anything about the make or model of that car?,q,MS. KRENICKY,start_answer
+422,1014,39,9,No.,a,THE WITNESS,start_question
+423,1015,39,10,Did you see who was in the car at that time when it was five or six car lengths away from you?,q,MS. KRENICKY,start_answer
+424,1018,39,13,No.,a,THE WITNESS,start_question
+425,1019,39,14,How long were you stopped at the stop sign?,q,MS. KRENICKY,start_answer
+426,1021,39,16,Two seconds.,a,THE WITNESS,start_question
+427,1022,39,17,Did you have your turn signal on at that point?,q,MS. KRENICKY,start_answer
+428,1024,39,19,Yes.,a,THE WITNESS,start_question
+429,1025,39,20,Were there any other cars at the intersection at that point?,q,MS. KRENICKY,start_answer
+430,1027,39,22,No.,a,THE WITNESS,start_question
+431,1028,39,23,And had you completed your turn when the accident occurred?,q,MS. KRENICKY,start_answer
+432,1032,40,1,No.,a,THE WITNESS,start_question
+433,1033,40,2,"How much of your turn, if you're able to say percentage wise, had you completed when the accident occurred?",q,MS. KRENICKY,start_answer
+434,1036,40,5,25 percent.,a,THE WITNESS,start_question
+435,1037,40,6,Was any part of your vehicle still behind the stop sign when the accident occurred?,q,MS. KRENICKY,start_answer
+436,1040,40,9,Behind the stop sign?,a,THE WITNESS,start_question
+437,1041,40,10,Yes.,q,MS. KRENICKY,start_answer
+438,1042,40,11,No.,a,THE WITNESS,start_question
+439,1043,40,12,Okay.  So was your entire car within the intersection when the accident occurred?,q,MS. KRENICKY,start_answer
+440,1046,40,15,Yes.,a,THE WITNESS,start_question
+441,1047,40,16,Had any portion of your car made it onto 12th Street when the accident occurred?,q,MS. KRENICKY,start_answer
+442,1050,40,19,No.,a,THE WITNESS,start_question
+443,1051,40,20,Was your car on an angle when the accident occurred?,q,MS. KRENICKY,start_answer
+444,1053,40,22,Yes.,a,THE WITNESS,start_question
+445,1054,40,23,Are you good with clocks?,q,MS. KRENICKY,start_answer
+446,1055,40,24,I am.,a,THE WITNESS,start_question
+447,1058,41,1,"Are you able to say what time, what number on a clock your vehicle was facing when the accident occurred?",q,MS. KRENICKY,start_answer
+448,1061,41,4,I'm not good with clocks.,a,THE WITNESS,start_question
+449,1062,41,5,"Okay, that's fine.  So 12:00 is straight ahead, and then 11:00, 10:00, 9:00.  I'm assuming you were angled towards the left.",q,MS. KRENICKY,start_answer
+450,1066,41,9,"I was angled towards the left.  So that's probably -- I'm a visual person, so I don't want to guess.",a,THE WITNESS,start_question
+451,1069,41,12,"Well, I don't want you to guess either.  If you're unable to do it, that's okay.  But I can show you just on here, this is a clock here.",q,MS. KRENICKY,start_answer
+452,1073,41,16,"Okay, so it's probably 9:00.",a,THE WITNESS,start_question
+453,1074,41,17,"About 9:00, okay.  And was my client's vehicle on an angle when the impact occurred?",q,MS. KRENICKY,start_answer
+454,1077,41,20,No.,a,THE WITNESS,start_question
+455,1078,41,21,It was at 12:00?,q,MS. KRENICKY,start_answer
+456,1079,41,22,Yes.,a,THE WITNESS,start_question
+457,1080,41,23,Was his car stopped or moving when the accident occurred?,q,MS. KRENICKY,start_answer
+458,1084,42,1,When it occurred?,a,THE WITNESS,start_question
+459,1085,42,2,Yes.,q,MS. KRENICKY,start_answer
+460,1086,42,3,It was moving.,a,THE WITNESS,start_question
+461,1087,42,4,Okay.  Do you know the speed?,q,MS. KRENICKY,start_answer
+462,1089,42,6,No.,a,THE WITNESS,start_question
+463,1090,42,7,Do you know your speed at the time of impact?,q,MS. KRENICKY,start_answer
+464,1092,42,9,"I had just started driving, so it's under five.",a,THE WITNESS,start_question
+465,1094,42,11,"Okay.  And from the time you first saw my client's car until the time the accident happened, did you ever lose sight of him?",q,MS. KRENICKY,start_answer
+466,1098,42,15,Could you repeat it?,a,THE WITNESS,start_question
+467,1099,42,16,Sure.  So from the time you first saw him five or six car lengths away from the intersection --,q,MS. KRENICKY,start_answer
+468,1102,42,19,Yes.,a,THE WITNESS,start_question
+469,1103,42,20,"-- until the time the two vehicles came into contact with each other, did you ever lose sight of him?",q,MS. KRENICKY,start_answer
+470,1106,42,23,Yes.,a,THE WITNESS,start_question
+471,1107,42,24,Where were you looking when you didn't see him?,q,MS. KRENICKY,start_answer
+472,1111,43,2,"I was making a turn, so I was looking ahead and looking to turn.",a,THE WITNESS,start_question
+473,1113,43,4,"Okay.  But as you're turning, aren't you turning towards him?",q,MS. KRENICKY,start_answer
+474,1115,43,6,"Yes.  So as I'm coming out, you have to come out first.  So I'm looking ahead.  Because it was a brand new car, so I was being extremely careful.  So I'm looking ahead to make sure, because I know that there's construction on that side, to make sure that I make a correct turn as I'm turning.",a,THE WITNESS,start_question
+475,1124,43,15,Okay.  So for how long did you lose sight of him?,q,MS. KRENICKY,start_answer
+476,1126,43,17,Probably two seconds.,a,THE WITNESS,start_question
+477,1127,43,18,"And then the next time you saw him again, where was he?",q,MS. KRENICKY,start_answer
+478,1129,43,20,"Next time I saw him, he was probably a car length and a half away.",a,THE WITNESS,start_question
+479,1131,43,22,And was he still on 12th Street?,q,MS. KRENICKY,start_answer
+480,1133,43,24,Yes.,a,THE WITNESS,start_question
+481,1136,44,1,And how far from the stop sign was he at that point?,q,MS. KRENICKY,start_answer
+482,1138,44,3,"He wasn't far, probably two, three seconds away.",a,THE WITNESS,start_question
+483,1140,44,5,Are you able to say in feet or car lengths how far away from the stop sign he was when you saw him again?,q,MS. KRENICKY,start_answer
+484,1143,44,8,"Possibly 400, 500 feet.",a,THE WITNESS,start_question
+485,1144,44,9,400 to 500 feet?,q,MS. KRENICKY,start_answer
+486,1145,44,10,I don't know.,a,THE WITNESS,start_question
+487,1146,44,11,"Well, I don't want you to guess, remember that was my instruction.",q,MS. KRENICKY,start_chat
+488,1148,44,13,"If you have to guess, then say you don't know.",side_chat,MR. LINN,start_question
+489,1151,44,16,Okay.  Are you able to say how many car lengths from the stop sign he was when you saw him again after you lost sight of him?,q,MS. KRENICKY,start_answer
+490,1155,44,20,A car and a half.,a,THE WITNESS,start_question
+491,1156,44,21,"Okay.  And the second time you saw my client until the moment of impact, did you lose sight of him again?",q,MS. KRENICKY,start_answer
+492,1159,44,24,"The second time I saw him, no.",a,THE WITNESS,start_question
+493,1163,45,2,Okay.  And how long after you saw him again did the accident happen?,q,MS. KRENICKY,start_answer
+494,1166,45,5,"It was seconds, I believe one or two seconds.",a,THE WITNESS,start_question
+495,1168,45,7,And where was the front of his vehicle on the roadway when the accident occurred?,q,MS. KRENICKY,start_answer
+496,1171,45,10,"It was past the stop sign. So I'm, like, in the middle of the street, so the front of his vehicle is way past his stop sign.",a,THE WITNESS,start_question
+497,1175,45,14,How far past?,q,MS. KRENICKY,start_answer
+498,1176,45,15,"I'm not sure.  At that point, it was on the side of my car, so I wasn't looking.",a,THE WITNESS,start_question
+499,1179,45,18,Okay.  Did he ever come to a stop before the accident occurred?,q,MS. KRENICKY,start_answer
+500,1181,45,20,No.,a,THE WITNESS,start_question
+501,1182,45,21,At any point in the roadway?,q,MS. KRENICKY,start_answer
+502,1183,45,22,No.,a,THE WITNESS,start_question
+503,1184,45,23,Were you alone in your car?,q,MS. KRENICKY,start_answer
+504,1185,45,24,Yes.,a,THE WITNESS,start_question
+505,1188,46,1,Was he alone in his car?,q,MS. KRENICKY,start_answer
+506,1189,46,2,Yes.,a,THE WITNESS,start_question
+507,1190,46,3,And you said that you saw him on his cellphone.  For how long did you observe that?,q,MS. KRENICKY,start_answer
+508,1193,46,6,"When I noticed him on his cellphone, I began blowing my horn.  When I noticed him, I noticed I was turning, he was looking down, and his speed didn't slow down, so that's what made my slam on brakes and start blowing my horn. Because I wouldn't be able to drive on the shoulder to prevent it because there was stuff going on over there.",a,THE WITNESS,start_question
+509,1202,46,15,Okay.  But how long of a period of time was that?,q,MS. KRENICKY,start_answer
+510,1204,46,17,From what points?,a,THE WITNESS,start_question
+511,1205,46,18,How long did you see him on his cellphone?,q,MS. KRENICKY,start_answer
+512,1207,46,20,How long was he looking on his phone?,a,THE WITNESS,start_question
+513,1209,46,22,That you saw.,q,MS. KRENICKY,start_answer
+514,1210,46,23,"From the point that -- from when he got close to the stop sign, like when he was getting close to me as I'm turning, when I noticed him the second time is when I saw him on his cellphone.",a,THE WITNESS,start_question
+515,1217,47,4,Okay.  So for how long of a period of time did you see him on his cellphone?,q,MS. KRENICKY,start_answer
+516,1220,47,7,I don't know.,a,THE WITNESS,start_question
+517,1221,47,8,"Okay.  And did you see the cellphone, or did you just see him looking down?",q,MS. KRENICKY,start_answer
+518,1224,47,11,I saw the cellphone.,a,THE WITNESS,start_question
+519,1225,47,12,And what kind of cellphone was it?,q,MS. KRENICKY,start_answer
+520,1227,47,14,It was just black.,a,THE WITNESS,start_question
+521,1228,47,15,And what hand was it in?,q,MS. KRENICKY,start_answer
+522,1229,47,16,His right hand.,a,THE WITNESS,start_question
+523,1230,47,17,And describe where it was in relation to his body.,q,MS. KRENICKY,start_answer
+524,1232,47,19,"It was in his hand, in his right hand.  It was above the -- I don't know.  This is what I saw.",a,THE WITNESS,start_question
+525,1235,47,22,So she can't type that down. So you have your left hand indicating --,q,MS. KRENICKY,start_answer
+526,1237,47,24,"So his cellphone was in his right hand, his left hand was on the steering wheel, his eyes were looking down at the phone.",a,THE WITNESS,start_question
+527,1243,48,4,"And you were not onto 12th Street yet when you observed that, correct?",q,MS. KRENICKY,start_answer
+528,1246,48,7,"I was, I was turning -- well, I was in the middle of the street, I wasn't on 12th Street, no.",a,THE WITNESS,start_question
+529,1249,48,10,Would you say that he hit you or you hit him?,q,MS. KRENICKY,start_answer
+530,1251,48,12,He hit me.,a,THE WITNESS,start_question
+531,1252,48,13,Okay.  What part of your vehicle was hit?,q,MS. KRENICKY,start_answer
+532,1254,48,15,"The middle of my driver door in the beginning of my passenger door -- no, I'm sorry.  The middle of my driver door, and the beginning of my back door like on the driver side.",a,THE WITNESS,start_question
+533,1259,48,20,Would you say it was one impact or like a scraping impact?,q,MS. KRENICKY,start_answer
+534,1261,48,22,What do you mean by one impact?,a,THE WITNESS,start_question
+535,1263,48,24,Did you only feel one hit to your car?,q,MS. KRENICKY,start_answer
+536,1267,49,2,Yes.,a,THE WITNESS,start_question
+537,1268,49,3,"Okay.  Was it one hit and that was it, or was it like a dragging along a car type of impact?",q,MS. KRENICKY,start_answer
+538,1271,49,6,I'm not sure.,a,THE WITNESS,start_question
+539,1272,49,7,Okay.  What did the impact feel like to you?,q,MS. KRENICKY,start_answer
+540,1274,49,9,"It just felt like a bump, like a hit.",a,THE WITNESS,start_question
+541,1276,49,11,And what happened to your body inside the car when the accident happened?,q,MS. KRENICKY,start_answer
+542,1279,49,14,My body jerked.,a,THE WITNESS,start_question
+543,1280,49,15,Did you hit anything inside the car?,q,MS. KRENICKY,start_answer
+544,1282,49,17,Did my body?,a,THE WITNESS,start_question
+545,1283,49,18,(Nods.),q,MS. KRENICKY,start_answer
+546,1284,49,19,No.,a,THE WITNESS,start_question
+547,1285,49,20,Did you hit your head?,q,MS. KRENICKY,start_answer
+548,1286,49,21,No.,a,THE WITNESS,start_question
+549,1287,49,22,Were you wearing your seatbelt?,q,MS. KRENICKY,start_answer
+550,1289,49,24,Yes.,a,THE WITNESS,start_question
+551,1292,50,1,Was your car pushed in any direction as a result of the impact?,q,MS. KRENICKY,start_answer
+552,1294,50,3,No.,a,THE WITNESS,start_question
+553,1295,50,4,Was his car moved in any direction as a result of the impact?,q,MS. KRENICKY,start_answer
+554,1297,50,6,No.,a,THE WITNESS,start_question
+555,1298,50,7,How long were you honking your horn for?,q,MS. KRENICKY,start_answer
+556,1300,50,9,"I was honking it from the point I saw him the second time when I noticed his car wasn't slowing down up until the point that he hit me.  So like three seconds, three, four.  I was like hitting hit on back and forth, it wasn't a constant horn, it was like hitting it more than once to get his attention.",a,THE WITNESS,start_question
+557,1308,50,17,"So it was beep, beep, beep, beep?",q,MS. KRENICKY,start_answer
+558,1310,50,19,"Yeah, it was longer.",a,THE WITNESS,start_question
+559,1311,50,20,As opposed to beep.  Is that what you mean?,q,MS. KRENICKY,start_answer
+560,1313,50,22,Yeah.  It was longer beeps though than that.,a,THE WITNESS,start_question
+561,1315,50,24,Was there any debris in the roadway from the vehicles after the accident?,q,MS. KRENICKY,start_answer
+562,1320,51,3,No.,a,THE WITNESS,start_question
+563,1321,51,4,Were you bleeding at all?,q,MS. KRENICKY,start_answer
+564,1322,51,5,No.,a,THE WITNESS,start_question
+565,1323,51,6,Did you develop any bruising on your body after this accident?,q,MS. KRENICKY,start_answer
+566,1325,51,8,No.,a,THE WITNESS,start_question
+567,1326,51,9,Where on the roadway were the cars located after the accident happened?,q,MS. KRENICKY,start_answer
+568,1329,51,12,What cars?,a,THE WITNESS,start_question
+569,1330,51,13,Your car and his car.,q,MS. KRENICKY,start_answer
+570,1331,51,14,"In the middle of the intersection.  So my car is, like, turning, but it's like in the middle and we're in the middle of the street pretty much.",a,THE WITNESS,start_question
+571,1336,51,19,"Okay.  Well, how much of his vehicle was in the intersection after the accident happened?",q,MS. KRENICKY,start_answer
+572,1339,51,22,I'm not sure.,a,THE WITNESS,start_question
+573,1340,51,23,Did you take any pictures at the scene?,q,MS. KRENICKY,start_answer
+574,1344,52,1,Yes.,a,THE WITNESS,start_question
+575,1345,52,2,Do you have them?,q,MS. KRENICKY,start_answer
+576,1346,52,3,No.,a,THE WITNESS,start_question
+577,1347,52,4,What happened to them?,q,MS. KRENICKY,start_answer
+578,1348,52,5,"I took them for Service King, and then once they received them, I deleted them because my storage was full. And I felt like someone had the pictures that needed them, so if someone needed to obtain them, I could get them from somewhere.",a,THE WITNESS,start_question
+579,1355,52,12,Were the pictures showing the location of the cars or just the damage on your car?,q,MS. KRENICKY,start_answer
+580,1358,52,15,I'm not sure.,a,THE WITNESS,start_question
+581,1359,52,16,Okay.  Did you take any pictures of where the cars ended up before they were moved at the scene that day?,q,MS. KRENICKY,start_answer
+582,1363,52,20,I took multiple pictures. I'm not sure if I took a picture -- I'm not sure.,a,THE WITNESS,start_question
+583,1366,52,23,Okay.  Did you ask Service King if they still had them?,q,MS. KRENICKY,start_answer
+584,1370,53,1,No.,a,THE WITNESS,start_question
+585,1371,53,2,Are you able to ask Service King if they still have them?,q,MS. KRENICKY,start_answer
+586,1373,53,4,"If I need them I can, yes.",a,THE WITNESS,start_question
+587,1374,53,5,"The police came, correct?",q,MS. KRENICKY,start_answer
+588,1375,53,6,Yes.,a,THE WITNESS,start_question
+589,1376,53,7,"How did they get there, did you call them, did he call them?",q,MS. KRENICKY,start_answer
+590,1378,53,9,I called them.,a,THE WITNESS,start_question
+591,1379,53,10,How long did it take for them to get there?,q,MS. KRENICKY,start_answer
+592,1381,53,12,Like ten minutes.,a,THE WITNESS,start_question
+593,1382,53,13,And were the cars moved by the time the police got there?,q,MS. KRENICKY,start_answer
+594,1384,53,15,"Yes, yes, yes.  I moved my car because traffic was still, like, people were still driving, so I got my car out the middle of the street.",a,THE WITNESS,start_question
+595,1388,53,19,Where did you move your car to?,q,MS. KRENICKY,start_answer
+596,1390,53,21,"I parked it on -- I just backed up, so I backed my car up.  Where it would be facing, I was parked basically on the opposite side of the street, if that makes sense.  So what is that, coming down 12th Street?  I was parked on the left-hand side of 12th Street.",a,THE WITNESS,start_question
+597,1400,54,5,"So just so I'm understanding, was that ahead of that construction vehicle you spoke of or behind it?",q,MS. KRENICKY,start_answer
+598,1404,54,9,It was behind it.,a,THE WITNESS,start_question
+599,1405,54,10,On the same block?,q,MS. KRENICKY,start_answer
+600,1406,54,11,Yes.,a,THE WITNESS,start_question
+601,1407,54,12,So was the construction vehicle the very first car parked on the corner of 12th as you were turning?,q,MS. KRENICKY,start_answer
+602,1410,54,15,Yes.,a,THE WITNESS,start_question
+603,1411,54,16,Okay.  So where did your car fit behind it then?,q,MS. KRENICKY,start_answer
+604,1413,54,18,"Well, my car was on the left, the construction would be on the right if we're this way.",a,THE WITNESS,start_question
+605,1416,54,21,Okay.  So you were pointing the wrong direction then when you pulled over; is that accurate?,q,MS. KRENICKY,start_answer
+606,1419,54,24,"Yes, I was parked on the opposite side.",a,THE WITNESS,start_question
+607,1423,55,2,And where did my client go?,q,MS. KRENICKY,start_answer
+608,1424,55,3,"He went on Potter Street, so he turned his car and backed up on Potter Street on the right side.",a,THE WITNESS,start_question
+609,1427,55,6,On the shoulder he stopped and parked?,q,MS. KRENICKY,start_answer
+610,1429,55,8,Yes.,a,THE WITNESS,start_question
+611,1430,55,9,Did you talk to my client?,q,MS. KRENICKY,start_answer
+612,1431,55,10,No.,a,THE WITNESS,start_question
+613,1432,55,11,No conversations at all?,q,MS. KRENICKY,start_answer
+614,1433,55,12,No.,a,THE WITNESS,start_question
+615,1434,55,13,Did you exchange any information with him?,q,MS. KRENICKY,start_answer
+616,1436,55,15,"Well, I noticed that his English was broken, so he pulled out his insurance and I just informed him that I called the police so there could be a third party.",a,THE WITNESS,start_question
+617,1441,55,20,Are you aware of any witnesses to this accident?,q,MS. KRENICKY,start_answer
+618,1443,55,22,No.,a,THE WITNESS,start_question
+619,1444,55,23,Did anyone you know come to the scene?,q,MS. KRENICKY,start_answer
+620,1448,56,1,No.,a,THE WITNESS,start_question
+621,1449,56,2,Did you call your dad?,q,MS. KRENICKY,start_answer
+622,1450,56,3,I called my dad.,a,THE WITNESS,start_question
+623,1451,56,4,He didn't walk over?,q,MS. KRENICKY,start_answer
+624,1452,56,5,"No, because I think he had pulled out behind me.  I don't know where he was at the time, but I don't think he was still at the house.  I don't know where he was.",a,THE WITNESS,start_question
+625,1457,56,10,Were you in pain at the scene?,q,MS. KRENICKY,start_answer
+626,1459,56,12,No.,a,THE WITNESS,start_question
+627,1460,56,13,Did you give the police a version of the accident?,q,MS. KRENICKY,start_answer
+628,1462,56,15,Yes.,a,THE WITNESS,start_question
+629,1463,56,16,Did my client?,q,MS. KRENICKY,start_answer
+630,1464,56,17,"Well, we were interviewed separately, so...",a,THE WITNESS,start_question
+631,1466,56,19,Did you know the officer that came?,q,MS. KRENICKY,start_answer
+632,1468,56,21,No.,a,THE WITNESS,start_question
+633,1469,56,22,Did any tow trucks come?,q,MS. KRENICKY,start_answer
+634,1470,56,23,No.,a,THE WITNESS,start_question
+635,1471,56,24,Did an ambulance come?,q,MS. KRENICKY,start_answer
+636,1474,57,1,No.,a,THE WITNESS,start_question
+637,1475,57,2,Did you get a ticket?,q,MS. KRENICKY,start_answer
+638,1476,57,3,No.,a,THE WITNESS,start_question
+639,1477,57,4,Do you know if my client got a ticket?,q,MS. KRENICKY,start_answer
+640,1479,57,6,"No -- well, I don't know.",a,THE WITNESS,start_question
+641,1480,57,7,How did you leave the scene of the accident?,q,MS. KRENICKY,start_answer
+642,1482,57,9,I got back in my car.,a,THE WITNESS,start_question
+643,1483,57,10,Where did you go?,q,MS. KRENICKY,start_answer
+644,1484,57,11,I went to my mom's house.,a,THE WITNESS,start_question
+645,1485,57,12,In Wilmington?,q,MS. KRENICKY,start_answer
+646,1486,57,13,Yes.,a,THE WITNESS,start_question
+647,1487,57,14,When is the first time after the accident you felt pain?,q,MS. KRENICKY,start_answer
+648,1489,57,16,So probably like a week after.,a,THE WITNESS,start_question
+649,1491,57,18,"Okay.  And what happened when you felt pain a week after, where was it?",q,MS. KRENICKY,start_answer
+650,1494,57,21,It was on my lower back.,a,THE WITNESS,start_question
+651,1495,57,22,And were you doing something in particular and all the sudden you said my back hurts?,q,MS. KRENICKY,start_answer
+652,1500,58,1,So I workout every day.,a,THE WITNESS,start_question
+653,1501,58,2,Okay.,q,MS. KRENICKY,start_answer
+654,1502,58,3,"And I noticed that my back was hurting, and I never had back pain, so I just started icing.",a,THE WITNESS,start_question
+655,1505,58,6,What kind of workout were you doing when you noticed your back hurt?,q,MS. KRENICKY,start_answer
+656,1508,58,9,Running.,a,THE WITNESS,start_question
+657,1509,58,10,Where do you run?,q,MS. KRENICKY,start_answer
+658,1510,58,11,"The Athletic Field in Chester, sometimes Saint Joe's.",a,THE WITNESS,start_question
+659,1512,58,13,Okay.  On the track?,q,MS. KRENICKY,start_answer
+660,1513,58,14,Yes.,a,THE WITNESS,start_question
+661,1514,58,15,Do you belong to a gym?,q,MS. KRENICKY,start_answer
+662,1515,58,16,No.,a,THE WITNESS,start_question
+663,1516,58,17,Have you ever belonged to a gym?,q,MS. KRENICKY,start_answer
+664,1518,58,19,No.,a,THE WITNESS,start_question
+665,1519,58,20,"Do you run just for fun, are you in like a running club?",q,MS. KRENICKY,start_answer
+666,1521,58,22,I run to stay in shape.,a,THE WITNESS,start_question
+667,1522,58,23,What distance do you run?,q,MS. KRENICKY,start_answer
+668,1523,58,24,"It depends on how I feel. So I can run four miles sometimes, sometimes I can run two miles, five miles.",a,THE WITNESS,start_question
+669,1529,59,4,"When you were running track and field, what was your event?",q,MS. KRENICKY,start_answer
+670,1531,59,6,The high jump and a 4x8.,a,THE WITNESS,start_question
+671,1532,59,7,"Do you ever run 5Ks, half marathons, anything like that?",q,MS. KRENICKY,start_answer
+672,1534,59,9,No.,a,THE WITNESS,start_question
+673,1535,59,10,"And the day of this accident, did you run?",q,MS. KRENICKY,start_answer
+674,1537,59,12,No.,a,THE WITNESS,start_question
+675,1538,59,13,"The day after this accident, did you go running?",q,MS. KRENICKY,start_answer
+676,1540,59,15,No.,a,THE WITNESS,start_question
+677,1541,59,16,When is the first time after this accident you went running?,q,MS. KRENICKY,start_answer
+678,1543,59,18,Probably like a week after.,a,THE WITNESS,start_question
+679,1544,59,19,Was that your normal pattern or did you not run for a particular reason that week?,q,MS. KRENICKY,start_answer
+680,1547,59,22,I didn't run because I had just purchased the car for my 25th birthday and I was distraught.  I wasn't in the mood for anything but figuring out how I could get my car fixed.,a,THE WITNESS,start_question
+681,1554,60,3,Okay.  Did you report this accident to your insurance company?,q,MS. KRENICKY,start_answer
+682,1556,60,5,Yes.,a,THE WITNESS,start_question
+683,1557,60,6,And when did you do that?,q,MS. KRENICKY,start_answer
+684,1558,60,7,When it happened.,a,THE WITNESS,start_question
+685,1559,60,8,Like that very day?,q,MS. KRENICKY,start_answer
+686,1560,60,9,"I believe so, yes.",a,THE WITNESS,start_question
+687,1561,60,10,And what did they tell you?,q,MS. KRENICKY,start_answer
+688,1562,60,11,I don't remember.,a,THE WITNESS,start_question
+689,1563,60,12,"Did they ask you to bring it to Service King, did you pick Service King, how did that happen?",q,MS. KRENICKY,start_answer
+690,1566,60,15,"They picked Service King, my insurance company picked Service King.",a,THE WITNESS,start_question
+691,1568,60,17,"Which one, like where was it at, the shop that you took it to?",q,MS. KRENICKY,start_answer
+692,1570,60,19,"I don't remember.  I know it was -- was it in Delaware?  I think it was in Delaware.  I'm picturing it, but I don't remember the address.  But it was in Wilmington.",a,THE WITNESS,start_question
+693,1575,60,24,When did you take your car to Service King?,q,MS. KRENICKY,start_answer
+694,1579,61,2,I don't remember.,a,THE WITNESS,start_question
+695,1580,61,3,Was it that week?,q,MS. KRENICKY,start_answer
+696,1581,61,4,I don't remember.,a,THE WITNESS,start_question
+697,1582,61,5,Was it before you started having the back pain?,q,MS. KRENICKY,start_answer
+698,1584,61,7,Yes.,a,THE WITNESS,start_question
+699,1585,61,8,And was your car fixed at Service King?,q,MS. KRENICKY,start_answer
+700,1587,61,10,Yes.,a,THE WITNESS,start_question
+701,1588,61,11,When did you get your car back?,q,MS. KRENICKY,start_answer
+702,1590,61,13,I don't remember.,a,THE WITNESS,start_question
+703,1591,61,14,"Can you estimate, was it weeks, months?",q,MS. KRENICKY,start_answer
+704,1593,61,16,It was weeks.  I had a rental.,a,THE WITNESS,start_question
+705,1595,61,18,Did you have to pay for that rental out of your own pocket?,q,MS. KRENICKY,start_answer
+706,1597,61,20,No.,a,THE WITNESS,start_question
+707,1598,61,21,Do you still have your car?,q,MS. KRENICKY,start_answer
+708,1599,61,22,Yes.,a,THE WITNESS,start_question
+709,1600,61,23,"And it's all fixed, nothing is wrong with it from this accident?",q,MS. KRENICKY,start_answer
+710,1604,62,1,Yes.,a,THE WITNESS,start_question
+711,1605,62,2,When is the first time you sought medical attention for this accident?,q,MS. KRENICKY,start_answer
+712,1608,62,5,Probably two months after the accident.,a,THE WITNESS,start_question
+713,1610,62,7,Okay.  And why did you wait two months to go to the doctor or chiropractor?,q,MS. KRENICKY,start_answer
+714,1613,62,10,"Because like I said, I'm an athlete.  So once I noticed that I was experiencing lower back pains, I began trying home remedies, because that's what I'm used to.",a,THE WITNESS,start_question
+715,1618,62,15,Okay.  Did you call your family doctor?,q,MS. KRENICKY,start_answer
+716,1620,62,17,No.,a,THE WITNESS,start_question
+717,1621,62,18,Did you think to go to urgent care?,q,MS. KRENICKY,start_answer
+718,1623,62,20,No.,a,THE WITNESS,start_question
+719,1624,62,21,Why not?,q,MS. KRENICKY,start_answer
+720,1625,62,22,"Because I thought it was something that would blow over because I'm used to having aches and pains from sports, so I thought it was something that would heal with ice or stim or anything or something like that, Biofreeze.",a,THE WITNESS,start_question
+721,1634,63,5,And were you doing all that stuff at home?,q,MS. KRENICKY,start_answer
+722,1636,63,7,Yes.,a,THE WITNESS,start_question
+723,1637,63,8,How often?,q,MS. KRENICKY,start_answer
+724,1638,63,9,Any time I would experience the pain.,a,THE WITNESS,start_question
+725,1640,63,11,Were you continuing to run during that two-month period?,q,MS. KRENICKY,start_answer
+726,1642,63,13,Yeah.,a,THE WITNESS,start_question
+727,1643,63,14,Okay.  How often were you running in the two months between the accident and when you first started going to the chiropractor?,q,MS. KRENICKY,start_answer
+728,1647,63,18,"Well, I kind of stopped running.  Because after I would run, I would notice that my back would be hurting.  So the back pain kind of stopped -- it messed up my regimen of me going after work, if that makes any sense.",a,THE WITNESS,start_question
+729,1656,64,1,Okay.  But how often were you still going?,q,MS. KRENICKY,start_answer
+730,1658,64,3,So before I started or after I started seeing the chiropractor?,a,THE WITNESS,start_question
+731,1660,64,5,"So after the accident but before you were going to the chiropractor, how often were you going running?",q,MS. KRENICKY,start_answer
+732,1664,64,9,"So after that week of me not doing anything, every day.",a,THE WITNESS,start_question
+733,1666,64,11,Okay.  And so it was getting cold out at that point?,q,MS. KRENICKY,start_answer
+734,1668,64,13,Mhmm.,a,THE WITNESS,start_question
+735,1669,64,14,That didn't matter?,q,MS. KRENICKY,start_answer
+736,1670,64,15,"No, no.",a,THE WITNESS,start_question
+737,1671,64,16,Were you doing any other exercises besides running during that two-month period?,q,MS. KRENICKY,start_answer
+738,1674,64,19,No.,a,THE WITNESS,start_question
+739,1675,64,20,Do you ever lift weights or anything like that?,q,MS. KRENICKY,start_answer
+740,1677,64,22,"No, natural body weight.",a,THE WITNESS,start_question
+741,1678,64,23,"So from the records your attorney provided me, it looks like you saw Len Finkel, the chiropractor; is that accurate?",q,MS. KRENICKY,start_answer
+742,1684,65,3,Yes.,a,THE WITNESS,start_question
+743,1685,65,4,Had you ever been to him before?,q,MS. KRENICKY,start_answer
+744,1687,65,6,No.,a,THE WITNESS,start_question
+745,1688,65,7,How did you find Dr. Finkel?,q,MS. KRENICKY,start_answer
+746,1689,65,8,My dad.,a,THE WITNESS,start_question
+747,1690,65,9,Why does your dad know Dr. Finkel?,q,MS. KRENICKY,start_answer
+748,1692,65,11,I'm not sure.,a,THE WITNESS,start_question
+749,1693,65,12,"Did he say, ""Hey, I've been to this chiropractor before, you should go to.""",q,MS. KRENICKY,start_answer
+750,1696,65,15,"Yeah, he's definitely been to Dr. Finkel.",a,THE WITNESS,start_question
+751,1698,65,17,Where is Dr. Finkel at?,q,MS. KRENICKY,start_answer
+752,1699,65,18,"He's in Pennsylvania, but I'm not -- I think in Aston, PA.",a,THE WITNESS,start_question
+753,1701,65,20,And how often did you see Dr. Finkel?,q,MS. KRENICKY,start_answer
+754,1703,65,22,"I seen him sometimes twice a week, sometimes three times a week.",a,THE WITNESS,start_question
+755,1705,65,24,Were you going there after work?,q,MS. KRENICKY,start_answer
+756,1709,66,2,Yes.,a,THE WITNESS,start_question
+757,1710,66,3,For how long was each session?,q,MS. KRENICKY,start_answer
+758,1712,66,5,"Possibly an hour, hour and a half.",a,THE WITNESS,start_question
+759,1714,66,7,And you were driving yourself there?,q,MS. KRENICKY,start_answer
+760,1716,66,9,Yes.,a,THE WITNESS,start_question
+761,1717,66,10,It looks like you stopped going there in March of 2018.  Does that sound accurate?,q,MS. KRENICKY,start_answer
+762,1720,66,13,Yes.,a,THE WITNESS,start_question
+763,1721,66,14,Why did you stop going?,q,MS. KRENICKY,start_answer
+764,1722,66,15,"Because I needed more, I needed something a little bit more than what Dr. Finkel or a chiropractor could do.",a,THE WITNESS,start_question
+765,1726,66,19,Okay.  And did someone tell you that?,q,MS. KRENICKY,start_answer
+766,1728,66,21,"So I believe me and Dr. Finkel had a conversation about it and he wanted me to transfer somewhere else once -- yeah, Dr. Finkel I believe.",a,THE WITNESS,start_question
+767,1734,67,1,Okay.  Did Dr. Finkel send you for any tests?,q,MS. KRENICKY,start_answer
+768,1736,67,3,MRI.,a,THE WITNESS,start_question
+769,1737,67,4,And that was of your lower back?,q,MS. KRENICKY,start_answer
+770,1739,67,6,Yes.,a,THE WITNESS,start_question
+771,1740,67,7,Did he discuss the results with you?,q,MS. KRENICKY,start_answer
+772,1742,67,9,"He did, and I think that's what made him send me out to someone else to get, like, rehab.",a,THE WITNESS,start_question
+773,1745,67,12,Okay.  What did he tell you about your MRI?,q,MS. KRENICKY,start_answer
+774,1747,67,14,"From what I remember, I believe he said it was like an acute -- I don't know, I don't want to guess.",a,THE WITNESS,start_question
+775,1750,67,17,He told you there was something on your MRI?,q,MS. KRENICKY,start_answer
+776,1752,67,19,"No.  He didn't say it was anything from my MRI -- I don't know, I don't want to guess.  I mean, there's medical paperwork that we could look over to see what he said, but I don't remember.",a,THE WITNESS,start_question
+777,1760,68,1,"Okay.  I mean, so I have the report from the MRI, your attorney provided it to me.  Would it surprise you to know that it says it was normal?",q,MS. KRENICKY,start_answer
+778,1764,68,5,"No, that doesn't surprise me.",a,THE WITNESS,start_question
+779,1766,68,7,Okay.,q,MS. KRENICKY,start_answer
+780,1767,68,8,"He didn't say it was anything on the MRI, but he said I had a stress fracture or something happened with my back, but it didn't show up on my MRI.  But I don't want to use the wrong terminology is what I'm saying.",a,THE WITNESS,start_question
+781,1773,68,14,Okay.  So did he refer you somewhere else?,q,MS. KRENICKY,start_answer
+782,1775,68,16,Yes.,a,THE WITNESS,start_question
+783,1776,68,17,Where?,q,MS. KRENICKY,start_answer
+784,1777,68,18,"It was somewhere in Bryn Mawr.  It was closer to my job, I don't remember the name of the rehab.",a,THE WITNESS,start_question
+785,1780,68,21,Is it called MRCP?,q,MS. KRENICKY,start_answer
+786,1781,68,22,"Yes, MRCP.",a,THE WITNESS,start_question
+787,1782,68,23,Okay.  And it looks like you went there from April 19th of 2018 to August 2nd of 2018; does that sound right?,q,MS. KRENICKY,start_answer
+788,1788,69,3,Yes.,a,THE WITNESS,start_question
+789,1789,69,4,So why did you wait a month to go to MRCP after leaving Dr. Finkel's office?,q,MS. KRENICKY,start_answer
+790,1792,69,7,You said why did I wait a month after?,a,THE WITNESS,start_question
+791,1794,69,9,"So Dr. Finkel you stopped in March, and then you didn't go to MRCP until a month later.  Was there a reason for that delay?",q,MS. KRENICKY,start_answer
+792,1798,69,13,Work possibly.,a,THE WITNESS,start_question
+793,1799,69,14,Okay.  What was different about the treatment you received at MRCP in relation to the treatment you had with the chiropractor?,q,MS. KRENICKY,start_answer
+794,1803,69,18,"So it was just different, different things we were working on compared to what Dr. Finkel was doing, it's like different what they do.  So his chiropractic skills were focusing on the massaging and everything like that.  And the at the rehab, they were making me do different exercises and stretch different muscles, I guess.",a,THE WITNESS,start_question
+795,1814,70,3,Why did you stop going to MRCP?,q,MS. KRENICKY,start_answer
+796,1816,70,5,"Because I experienced my prolactinoma, so I had to stop.  And the doctor at MRCP said he wanted to discharge me to focus on that because that's more important.",a,THE WITNESS,start_question
+797,1821,70,10,Okay.  Have you gone back?,q,MS. KRENICKY,start_answer
+798,1822,70,11,No.,a,THE WITNESS,start_question
+799,1823,70,12,Is there a reason you haven't gone back?,q,MS. KRENICKY,start_answer
+800,1825,70,14,Because my prolactinoma was more serious than my lower back.,a,THE WITNESS,start_question
+801,1827,70,16,"Right.  But you were diagnosed with that about a year ago now, right?",q,MS. KRENICKY,start_answer
+802,1830,70,19,"Yeah.  But that's -- it's not like I was diagnosed and we just walk away.  What I'm dealing with with that was may more -- I didn't have time really, and I was feeling a little bit better afterwards.",a,THE WITNESS,start_question
+803,1838,71,1,"Well, do you still have pain in your lower back today?",q,MS. KRENICKY,start_answer
+804,1840,71,3,Little.,a,THE WITNESS,start_question
+805,1841,71,4,Very little?,q,MS. KRENICKY,start_answer
+806,1842,71,5,Yes.,a,THE WITNESS,start_question
+807,1843,71,6,How often do you have back pain?,q,MS. KRENICKY,start_answer
+808,1845,71,8,"Here and there, it's not as strenuous as it was before.",a,THE WITNESS,start_question
+809,1847,71,10,"Well, can you tell me how often you have back pain?",q,MS. KRENICKY,start_answer
+810,1849,71,12,Not often.,a,THE WITNESS,start_question
+811,1850,71,13,"Once a month, once week, once a year?",q,MS. KRENICKY,start_answer
+812,1852,71,15,Once a week.,a,THE WITNESS,start_question
+813,1853,71,16,Okay.  And are you doing something when that happens?,q,MS. KRENICKY,start_answer
+814,1855,71,18,Ice.,a,THE WITNESS,start_question
+815,1856,71,19,"I'm sorry, strike that. When you get the back pain, is it after you're exercising?",q,MS. KRENICKY,start_answer
+816,1859,71,22,Yes.  Or if I'm driving in the car for long periods of time.,a,THE WITNESS,start_question
+817,1861,71,24,When did your back get to the point where you were only having the pain once a week?,q,MS. KRENICKY,start_answer
+818,1866,72,3,"I'm not sure.  The stuff that I was doing at MRCP, I was still kind of doing at home.  So just gradually after time, I'm not sure.",a,THE WITNESS,start_question
+819,1870,72,7,Okay.  Have you seen any other doctors or medical providers for this accident that we haven't discussed?,q,MS. KRENICKY,start_answer
+820,1873,72,10,No.,a,THE WITNESS,start_question
+821,1874,72,11,Do you have any appointments to see anyone related to this accident?,q,MS. KRENICKY,start_answer
+822,1876,72,13,No.,a,THE WITNESS,start_question
+823,1877,72,14,"Did anyone ever tell you you would need pain injections, pain management injections?",q,MS. KRENICKY,start_answer
+824,1880,72,17,No.,a,THE WITNESS,start_question
+825,1881,72,18,Did anyone ever tell you you would need surgery?,q,MS. KRENICKY,start_answer
+826,1883,72,20,No.,a,THE WITNESS,start_question
+827,1884,72,21,"Is there anything that you cannot do at all as a result of your back injury, not that it hurts or causes you difficulty, but that you 100 percent cannot do it?",q,MS. KRENICKY,start_answer
+828,1891,73,2,No.,a,THE WITNESS,start_question
+829,1892,73,3,"Other than what we walked about with your job where you have to sit sometimes, are there things that cause you difficulty or pain because of your back injury?",q,MS. KRENICKY,start_answer
+830,1897,73,8,Could you repeat the question?,a,THE WITNESS,start_question
+831,1899,73,10,"Sure, I'll ask it a different way.  How has your back injury affected your life?",q,MS. KRENICKY,start_answer
+832,1902,73,13,"So as far as -- I mean, it messed up how long I can go with a workout.  I know I have limit now, before I didn't really, you know, have a limit. But now I'm aware, a little bit more aware of how hard I go because I don't want to experience any, you know, I don't want to tweak anything, I don't want to experience any pain later.  So opposed to doing four miles, I'll cut it down to a mile and a half, or I won't do as many planks or crunches.",a,THE WITNESS,start_question
+833,1916,74,1,"Okay.  Other than exercising, any other affect on your life?",q,MS. KRENICKY,start_answer
+834,1919,74,4,Driving.,a,THE WITNESS,start_question
+835,1920,74,5,Okay.  How far can you drive without issue?,q,MS. KRENICKY,start_answer
+836,1922,74,7,"So if I'm driving to the beach, we go to Ocean City.",a,THE WITNESS,start_question
+837,1924,74,9,Which one?,q,MS. KRENICKY,start_answer
+838,1925,74,10,"Maryland.  Probably after an hour I'm switching with someone.  But before, I could drive the whole way.",a,THE WITNESS,start_question
+839,1928,74,13,Okay.  So it's the act of driving.  You can sit in a car?,q,MS. KRENICKY,start_answer
+840,1930,74,15,"I can sit in a car, yeah.",a,THE WITNESS,start_question
+841,1931,74,16,Anything else affected?,q,MS. KRENICKY,start_answer
+842,1932,74,17,No.,a,THE WITNESS,start_question
+843,1933,74,18,Any personal relationships affected by your back injury?,q,MS. KRENICKY,start_answer
+844,1935,74,20,No.,a,THE WITNESS,start_question
+845,1936,74,21,"And no accidents after this one, right?",q,MS. KRENICKY,start_answer
+846,1938,74,23,No.,a,THE WITNESS,start_question
+847,1939,74,24,And do you use social media?,q,MS. KRENICKY,start_answer
+848,1942,75,1,Yes.,a,THE WITNESS,start_question
+849,1943,75,2,What do you have?,q,MS. KRENICKY,start_answer
+850,1944,75,3,Instagram.,a,THE WITNESS,start_question
+851,1945,75,4,And what's your name on Instagram?,q,MS. KRENICKY,start_answer
+852,1947,75,6,M-U-M-U-32.,a,THE WITNESS,start_question
+853,1948,75,7,Do you have Facebook or no?,q,MS. KRENICKY,start_answer
+854,1949,75,8,No.,a,THE WITNESS,start_question
+855,1950,75,9,"Oh, do you recall giving a recorded statement to Progressive after this accident?",q,MS. KRENICKY,start_answer
+856,1953,75,12,Yes.,a,THE WITNESS,start_question
+857,1954,75,13,When did you give that statement?,q,MS. KRENICKY,start_answer
+858,1956,75,15,"I don't remember, it was two years ago.",a,THE WITNESS,start_question
+859,1958,75,17,"Okay.  Do you what prompted the statement, did someone call you, did you call them?",q,MS. KRENICKY,start_answer
+860,1961,75,20,"Yeah, they definitely called me.",a,THE WITNESS,start_question
+861,1963,75,22,And did you ever give a recorded statement to USAA?,q,MS. KRENICKY,start_answer
+862,1965,75,24,I don't remember.,a,THE WITNESS,start_question
+863,1968,76,1,Did you have an opportunity to review the statement that you gave to Progressive?,q,MS. KRENICKY,start_answer
+864,1971,76,4,Yes.,a,THE WITNESS,start_question
+865,1972,76,5,Did you find any errors in that statement as far as what you recall telling them that day?,q,MS. KRENICKY,start_answer
+866,1975,76,8,No.,a,THE WITNESS,start_question
+867,1976,76,9,Have you ever had an MRI of your back other than for this accident?,q,MS. KRENICKY,start_answer
+868,1978,76,11,No.,a,THE WITNESS,start_question
+869,1979,76,12,Did you ever have any trouble bathing yourself after this accident?,q,MS. KRENICKY,start_answer
+870,1982,76,15,No.,a,THE WITNESS,start_question
+871,1983,76,16,Did you ever have any trouble getting dressed after this accident?,q,MS. KRENICKY,start_answer
+872,1986,76,19,No.,a,THE WITNESS,start_question
+873,1987,76,20,"Did you have to change your attire at all after this accident, like you know, I see you're wearing heels today for example.  Did you ever have to stop wearing heels for any period of time?",q,MS. KRENICKY,start_answer
+874,1995,77,2,No.,a,THE WITNESS,start_question
+875,1996,77,3,Did you have any trouble going to the bathroom at all after this accident?,q,MS. KRENICKY,start_answer
+876,1999,77,6,Uh-uh.,a,THE WITNESS,start_question
+877,2000,77,7,Did you have to make any changes or alterations to your house as a result of this accident?,q,MS. KRENICKY,start_answer
+878,2003,77,10,No.,a,THE WITNESS,start_chat
+879,2004,77,11,"Thank you very much, that's all I have.",side_chat,MS. KRENICKY,symbols
+880,2006,77,13,-  -  -,symbols,,is brackets
+881,2007,77,14,"(Whereupon, the Witness was excused.)",brackets,,symbols
+882,2009,77,16,-  -  -,symbols,,is brackets
+883,2010,77,17,"(Whereupon, the deposition ended at 11:44 a.m.)",brackets,,symbols
+884,2012,77,19,-  -  - CERTIFICATE I HEREBY CERTIFY that the Witness was duly sworn by me and that the deposition is a true record of the testimony given by the Witness.,symbols,,symbols
+885,2029,78,10,________________________________________ Date:  7/29/19 of this transcript does not apply to any unless under the direct control and/or LAWYER'S NOTES PAGE  LINE,symbols,,symbols
+886,2052,79,3,____  ____  ____________________________,symbols,,symbols
+887,2053,79,4,____  ____  ____________________________,symbols,,symbols
+888,2054,79,5,____  ____  ____________________________,symbols,,symbols
+889,2055,79,6,____  ____  ____________________________,symbols,,symbols
+890,2056,79,7,____  ____  ____________________________,symbols,,symbols
+891,2057,79,8,____  ____  ____________________________,symbols,,symbols
+892,2058,79,9,____  ____  ____________________________,symbols,,symbols
+893,2059,79,10,____  ____  ____________________________,symbols,,symbols
+894,2060,79,11,____  ____  ____________________________,symbols,,symbols
+895,2061,79,12,____  ____  ____________________________,symbols,,symbols
+896,2062,79,13,____  ____  ____________________________,symbols,,symbols
+897,2063,79,14,____  ____  ____________________________,symbols,,symbols
+898,2064,79,15,____  ____  ____________________________,symbols,,symbols
+899,2065,79,16,____  ____  ____________________________,symbols,,symbols
+900,2066,79,17,____  ____  ____________________________,symbols,,symbols
+901,2067,79,18,____  ____  ____________________________,symbols,,symbols
+902,2068,79,19,____  ____  ____________________________,symbols,,symbols
+903,2069,79,20,____  ____  ____________________________,symbols,,symbols
+904,2070,79,21,____  ____  ____________________________,symbols,,symbols
+905,2071,79,22,____  ____  ____________________________,symbols,,symbols
+906,2072,79,23,____  ____  ____________________________,symbols,,symbols
+907,2073,79,24,____  ____  ____________________________,symbols,,end

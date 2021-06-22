@@ -1,0 +1,316 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,190,6,14,- - - EXAMINATION,symbols,,symbols
+2,192,6,16,- - -,symbols,,start_question
+3,194,6,18,"Sir, state your full name for the record, please?",q,MR. BLUM,start_answer
+4,196,6,20,Richard M. Reiff.,a,THE WITNESS,start_question
+5,197,6,21,"Okay.  Mr. Reiff, I'm going to ask you a series of questions today about a fire that occurred at the Clemens plant back in 2016.  If at any time you don't understand my question, please let me know and I'll be happy to restate it again for you.  It's our responsibility to ask you questions that you understand.  All right? I'm going to ask you to try to keep all your responses verbal because the court reporter cannot take down nodding our head or shrugging our shoulders.",q,MR. BLUM,start_answer
+6,210,7,9,Correct.,a,THE WITNESS,start_question
+7,211,7,10,Is there anything that would prevent you from testifying accurately today?,q,MR. BLUM,start_answer
+8,213,7,12,No.,a,THE WITNESS,start_question
+9,214,7,13,"Okay.  Sir, can you tell us where you currently live?",q,MR. BLUM,start_answer
+10,216,7,15,"I currently live at the 757 East Main Street, Apartment L302.",a,THE WITNESS,start_question
+11,218,7,17,"In front of you is a document which we marked as Exhibit 1, which is a copy of the Notice of Deposition and the subpoena.  Is that a copy, sir, of the subpoena --",q,MR. BLUM,start_answer
+12,222,7,21,Yes.,a,THE WITNESS,start_question
+13,223,7,22,-- that you received?,q,MR. BLUM,start_answer
+14,224,7,23,Yes.,a,THE WITNESS,start_question
+15,225,7,24,And did you have at your house or in your possession any documents or anything that related to this fire?,q,MR. BLUM,start_answer
+16,229,8,3,No.,a,THE WITNESS,start_question
+17,230,8,4,"All right.  Sir, could you just tell us your general educational background, please?",q,MR. BLUM,start_answer
+18,233,8,7,Two years college.,a,THE WITNESS,start_question
+19,234,8,8,All right.  And where did you go to high school?,q,MR. BLUM,start_answer
+20,236,8,10,North Penn High School.,a,THE WITNESS,start_question
+21,237,8,11,And where did you go to college?,q,MR. BLUM,start_answer
+22,238,8,12,"Gwynedd Mercy University, it was Gwynedd Mercy College at the time.",a,THE WITNESS,start_question
+23,240,8,14,Okay.  And what did you study?,q,MR. BLUM,start_answer
+24,241,8,15,History major.,a,THE WITNESS,start_question
+25,242,8,16,And when did you leave Gwynedd Mercy?,q,MR. BLUM,start_answer
+26,244,8,18,"I done it in spells, I didn't go two years straight.",a,THE WITNESS,start_question
+27,246,8,20,Okay.  Then I'll start over. When did you graduate from high school?,q,MR. BLUM,start_answer
+28,249,8,23,1982.,a,THE WITNESS,start_question
+29,250,8,24,Can you just tell us from 1982 to the present what your general employment history is?,q,MR. BLUM,start_answer
+30,254,9,3,"Well, generally from 1982 I joined the service, I was in the Army, on active duty until April 1986.  And I worked at American Olean Tile after I was discharged.  And then I worked a couple places up in North Jersey, my brother, trucking company, which I don't even remember the names of.  And then I was -- excuse me, I'm sorry, it was before I went to the tile.",a,THE WITNESS,start_question
+31,263,9,12,Okay.,q,MR. BLUM,start_answer
+32,264,9,13,"And then I was employed at St. Mary Manor for ten years from '95 -- '96 through 2006.  And my current employer, which is Wissahickon Park Apartments, where I've lived since then.",a,THE WITNESS,start_question
+33,269,9,18,"I'm sorry, where do you currently work?",q,MR. BLUM,start_answer
+34,271,9,20,"Wissahickon Park Apartments, they're owned by the DePaul Management Company.",a,THE WITNESS,start_question
+35,273,9,22,And you actually do work for the apartment?,q,MR. BLUM,start_answer
+36,275,9,24,Correct.,a,THE WITNESS,start_question
+37,277,10,1,And what kind of work do you do there?,q,MR. BLUM,start_answer
+38,279,10,3,I'm the maintenance supervisor.,a,THE WITNESS,start_question
+39,280,10,4,"When you were in the United States Army, what type of specialty did you have or anything there?",q,MR. BLUM,start_answer
+40,283,10,7,"I actually had three different specialties.  My first one was avionics repair, second I was a ground surveillance radar crew, and the third I was an intelligence analyst.",a,THE WITNESS,start_question
+41,288,10,12,"And other than those two years at Gwynedd Mercy, have you had any other education or training after high school?",q,MR. BLUM,start_answer
+42,291,10,15,"Fire department related, you know.",a,THE WITNESS,start_question
+43,292,10,16,"I'm going to ask you that separately, so let's just stick with non-fire department, have you had any other kind of training or education or anything?",q,MR. BLUM,start_answer
+44,296,10,20,"I had one like control class through work, like when I was at St. Mary's, electronic controls.  But that's basically been it as far as education.",a,THE WITNESS,start_question
+45,300,10,24,"Now, you mentioned fire department. When did you first become active as a volunteer fireperson?",q,MR. BLUM,start_answer
+46,304,11,3,In December of 1988.,a,THE WITNESS,start_question
+47,305,11,4,And have you been active since then?,q,MR. BLUM,start_answer
+48,306,11,5,Yes.  I had one five-year break.,a,THE WITNESS,start_question
+49,307,11,6,Okay.  Has it always been as a volunteer or --,q,MR. BLUM,start_answer
+50,309,11,8,"Yes, it's always been 100% volunteer.",a,THE WITNESS,start_question
+51,311,11,10,So in December of 1988 which fire department --,q,MR. BLUM,start_answer
+52,313,11,12,The Fairmount Fire Company of Lansdale.,a,THE WITNESS,start_question
+53,315,11,14,"All right.  Do me one favor, and let me try and finish my question before you start to speak, because the court reporter has got to do them separately.  Okay?",q,MR. BLUM,start_answer
+54,319,11,18,(Witness shakes head.),a,THE WITNESS,start_question
+55,320,11,19,So what were the five years when you took a break from the fire department?,q,MR. BLUM,start_answer
+56,322,11,21,'96 through 2001.,a,THE WITNESS,start_question
+57,323,11,22,"And when you first went to Fairmount, did they provide you with training?",q,MR. BLUM,start_answer
+58,325,11,24,Yes.,a,THE WITNESS,start_question
+59,327,12,1,Okay.  Can you tell us basically the types of training that you recall having as a member of the Fairmount Fire Company?,q,MR. BLUM,start_answer
+60,330,12,4,"I took basic firefighting, Firefighting 1, Firefighting 2, interior structural attack, chlorine class, various hazmat classes, defined rescue.  A bunch of small things, you know, other classes.",a,THE WITNESS,start_question
+61,335,12,9,"And the Firefighting 1 and 2, where did you actually take those courses?",q,MR. BLUM,start_answer
+62,337,12,11,Montgomery County Fire Academy.,a,THE WITNESS,start_question
+63,338,12,12,And did you obtain like certificates --,q,MR. BLUM,start_answer
+64,340,12,14,Yes.,a,THE WITNESS,start_question
+65,341,12,15,-- of completion from each of those?,q,MR. BLUM,start_answer
+66,342,12,16,Yes.,a,THE WITNESS,start_question
+67,343,12,17,And at any time have you ever served as an officer of any type within the Fairmount Fire Company?,q,MR. BLUM,start_answer
+68,346,12,20,Yes.,a,THE WITNESS,start_question
+69,347,12,21,Okay.  Can you tell us when you first became an officer?,q,MR. BLUM,start_answer
+70,349,12,23,2004.,a,THE WITNESS,start_question
+71,350,12,24,And in 2004 what was the first position that you held?,q,MR. BLUM,start_answer
+72,353,13,2,As the fifth assistant chief.,a,THE WITNESS,start_question
+73,354,13,3,"Are those titles like the fifth assistant chief, is that a hierarchy so there's like the chief, a first, and then on down?",q,MR. BLUM,start_answer
+74,358,13,7,"At that time the structure was chief, first assistant, second, through the fifth.  The fifth was, you know, the lowest ranking.",a,THE WITNESS,start_question
+75,362,13,11,Okay.  And how long did you stay in that fifth position?,q,MR. BLUM,start_answer
+76,364,13,13,I was the fifth for one year.,a,THE WITNESS,start_question
+77,365,13,14,"Okay.  And after that what, if any, position did you have?",q,MR. BLUM,start_answer
+78,367,13,16,"Then in September of 2005, you know, I was moved, went up to fourth assistant chief, fill in a vacancy.",a,THE WITNESS,start_question
+79,370,13,19,And how long did you stay in that position?,q,MR. BLUM,start_answer
+80,372,13,21,"I was in that for a year -- well, the remainder of that 2005 and 2006.",a,THE WITNESS,start_question
+81,374,13,23,And what happened in 2006?,q,MR. BLUM,start_answer
+82,375,13,24,In 2006 I was voted out.,a,THE WITNESS,start_question
+83,377,14,1,Okay.  And did you then come back in --,q,MR. BLUM,start_answer
+84,379,14,3,As a fire -- I'm --,a,THE WITNESS,start_question
+85,380,14,4,Come back in in any position within the organization later?,q,MR. BLUM,start_answer
+86,382,14,6,"I'm not sure if it was that year or -- I became a trustee, there -- I'm not exactly sure of the time.",a,THE WITNESS,start_question
+87,385,14,9,What were the responsibilities of the trustees?,q,MR. BLUM,start_answer
+88,387,14,11,Trustees are responsible for the building and grounds.,a,THE WITNESS,start_question
+89,389,14,13,And how long did you remain a trustee?,q,MR. BLUM,start_answer
+90,391,14,15,Till I left the department.,a,THE WITNESS,start_question
+91,392,14,16,All right.  And when did you leave the department?,q,MR. BLUM,start_answer
+92,394,14,18,In July of 2017.,a,THE WITNESS,start_question
+93,395,14,19,And why did you leave?,q,MR. BLUM,start_answer
+94,396,14,20,Personality conflicts.,a,THE WITNESS,start_question
+95,397,14,21,"Okay.  And going back to, let's say, June of 2016, would you have been serving as any type of an officer for the fire company at that point?",q,MR. BLUM,start_answer
+96,402,15,1,Yes.  I was the first assistant chief at that time.,a,THE WITNESS,start_question
+97,404,15,3,When did you first become the first assistant chief?,q,MR. BLUM,start_answer
+98,406,15,5,"Either 2012 or 2013, that's -- I think it was 2013.",a,THE WITNESS,start_question
+99,408,15,7,Okay.  And what is the responsibility of the first assistant chief?,q,MR. BLUM,start_answer
+100,410,15,9,"As being directed underneath the chief, obviously I was the next one in line, you know, to fulfill the chief in his absence.",a,THE WITNESS,start_question
+101,413,15,12,"And if in fact there's a fire of any type, is it the responsibility of the chief to be there to direct the firefighting?",q,MR. BLUM,start_answer
+102,416,15,15,Yes.,a,THE WITNESS,start_question
+103,417,15,16,"And if in fact he was absent, does it fall to the first assistant chief?",q,MR. BLUM,start_answer
+104,419,15,18,"It falls to the first, if the first assistant chief is available.",a,THE WITNESS,start_question
+105,421,15,20,"Can you tell me, do you remember the fire here at the Clemens facility in June of 2016?",q,MR. BLUM,start_answer
+106,424,15,23,"Yes, I do.",a,THE WITNESS,start_question
+107,425,15,24,Where were you when you got the call that evening?,q,MR. BLUM,start_answer
+108,428,16,2,I was at home.,a,THE WITNESS,start_question
+109,429,16,3,And how far is your house from the location of the fire?,q,MR. BLUM,start_answer
+110,431,16,5,"A mile and three-quarters, maybe two miles, probably closer to the mile and three-quarter.",a,THE WITNESS,start_question
+111,434,16,8,"When you received that call, did you go to the firehouse or did you come to the scene?",q,MR. BLUM,start_answer
+112,437,16,11,I came to the scene.,a,THE WITNESS,start_question
+113,438,16,12,Okay.  Why did you do that?,q,MR. BLUM,start_answer
+114,439,16,13,Because I was the ranking officer at the time.,a,THE WITNESS,start_question
+115,441,16,15,And where was the chief at the time?,q,MR. BLUM,start_answer
+116,442,16,16,He was at work.,a,THE WITNESS,start_question
+117,443,16,17,"Okay.  And what time do you remember it being, approximately, when you got that call?",q,MR. BLUM,start_answer
+118,446,16,20,"About 25 after 11:00, between 20 and 25 after.",a,THE WITNESS,start_question
+119,448,16,22,"All right.  When you drove here, when you drove to the scene, which direction did you approach the building from?",q,MR. BLUM,start_answer
+120,452,17,1,"I came from off Canon onto 5th Street and I parked on the A/B corner of the building, on the opposite side of the street.",a,THE WITNESS,start_question
+121,455,17,4,"You got to remember, we just have this typed record, so we have to try to make sure we're clear. So if I was standing on 5th Street looking at the building --",q,MR. BLUM,start_answer
+122,460,17,9,That's considered the A side of the building.,a,THE WITNESS,start_question
+123,462,17,11,"Okay.  And if I was looking like that, would you come to the property from the left side?",q,MR. BLUM,start_answer
+124,465,17,14,"If you're looking at the building, I came from the right.",a,THE WITNESS,start_question
+125,467,17,16,Okay.  And where did you park your vehicle again?,q,MR. BLUM,start_answer
+126,469,17,18,I parked on the -- I passed the building and parked on the left-hand side of the road about half a block down.,a,THE WITNESS,start_question
+127,472,17,21,"And as you drove towards the building that evening, what, if anything, do you recall seeing?",q,MR. BLUM,start_answer
+128,475,17,24,At that point I saw a fair amount of smoke coming from the back of the building.,a,THE WITNESS,start_question
+129,478,18,2,Okay.  And did you drive past the front of the building?,q,MR. BLUM,start_answer
+130,480,18,4,"Yes, I did.",a,THE WITNESS,start_question
+131,481,18,5,"And as you drove past the front of the building, what, if anything, did you observe in the front?",q,MR. BLUM,start_answer
+132,484,18,8,Very minor smoke condition.,a,THE WITNESS,start_question
+133,485,18,9,Did you see any flames anywhere?,q,MR. BLUM,start_answer
+134,486,18,10,Only from the back of the building.,a,THE WITNESS,start_question
+135,487,18,11,"So as you approached, you could see flames in the back?",q,MR. BLUM,start_answer
+136,489,18,13,"Yeah, it's to the roof line at that point.",a,THE WITNESS,start_question
+137,491,18,15,"Okay.  And when you drove past and you parked your vehicle, what, if anything, did you do at that point?",q,MR. BLUM,start_answer
+138,494,18,18,"At that point I exit my vehicle, got on my turnout gear, and I did immediately start to do my 360, which is basically you circle the building to check all conditions, you know, the entire perimeter of the building. I walked up what we considered the A side of the building, because I could see the B side from where I parked when I was walking up, and I came up past through the D and around the back to the C side of the building.",a,THE WITNESS,start_question
+139,506,19,5,"Okay.  So is it accurate then that you walked, the first thing you did is walk along the 5th Street side of the building?",q,MR. BLUM,start_answer
+140,509,19,8,Correct.,a,THE WITNESS,start_question
+141,510,19,9,"And as you walked along that side of the building, there are windows and doors along there; is that correct?",q,MR. BLUM,start_answer
+142,513,19,12,Correct.,a,THE WITNESS,start_question
+143,514,19,13,"What, if anything, did you observe through those windows and doors?",q,MR. BLUM,start_answer
+144,516,19,15,At that point not much.,a,THE WITNESS,start_question
+145,517,19,16,Okay.,q,MR. BLUM,start_answer
+146,518,19,17,"I mean, like I said, there was a smoke condition inside, but that was minor smoke coming from the -- actually light smoke coming from the eaves.",a,THE WITNESS,start_question
+147,522,19,21,"But as you looked through any of those windows, did you see flames?",q,MR. BLUM,start_answer
+148,524,19,23,"You couldn't see anything at that point, you know.",a,THE WITNESS,start_question
+149,527,20,1,So you walk up 5th Street and then you made a left on Mitchell?,q,MR. BLUM,start_answer
+150,529,20,3,Correct.,a,THE WITNESS,start_question
+151,530,20,4,"Okay.  And when you walked down Mitchell Street and you looked at the building, what, if anything, did you see?",q,MR. BLUM,start_answer
+152,533,20,7,Nothing.  It was a solid wall.,a,THE WITNESS,start_question
+153,534,20,8,Okay.  And was there any visible flames there?,q,MR. BLUM,start_answer
+154,536,20,10,It was a solid wall.,a,THE WITNESS,start_question
+155,537,20,11,"Okay.  And when you got to the end of the building, you then made a left into the parking lot?",q,MR. BLUM,start_answer
+156,540,20,14,Yes.,a,THE WITNESS,start_question
+157,541,20,15,"Can you describe for us what occurred, what you observed as you walked up the parking lot?",q,MR. BLUM,start_answer
+158,544,20,18,"As I walked around the corner of the building, there's the first garage door was closed, there was nothing.  As I came around where the trailer was parked and looked to my left, looked at the building, the loading ramp, that's where the bulk of the fire was at that point.  That's where, you know, the fire was.",a,THE WITNESS,start_question
+159,553,21,2,"Okay.  So as you walked up the driveway, the first garage door was intact?",q,MR. BLUM,start_answer
+160,555,21,4,Correct.,a,THE WITNESS,start_question
+161,556,21,5,"And I think from what you said, was there a tractor, like a trailer from a tractor-trailer?",q,MR. BLUM,start_answer
+162,559,21,8,"A storage trailer, I assume it was, it was an old abandoned trailer or whatever. It was not in operable condition.",a,THE WITNESS,start_question
+163,562,21,11,But it was basically what I would call like a 45-foot trailer from a tractor-trailer?,q,MR. BLUM,start_answer
+164,565,21,14,"Yes, a semi, full trailer.",a,THE WITNESS,start_question
+165,566,21,15,"And when you walked around that trailer, you looked to your left and you saw the fire there?",q,MR. BLUM,start_answer
+166,569,21,18,"Well, when I walked, yeah, the orientation of the trailer was backed into the building, and then that building jutted out at that point and the ramp into the building ran alongside that part of the building.  That's where the fire was, up at the top of the ramp.",a,THE WITNESS,start_question
+167,575,21,24,"And when you looked at the top of that ramp, tell us specifically what you saw?",q,MR. BLUM,start_answer
+168,578,22,2,"At that point the overhead door was already failed, it was coming down.  It was totally engulfed in flames.",a,THE WITNESS,start_question
+169,581,22,5,Had it already failed or was it failing when you walked up?,q,MR. BLUM,start_answer
+170,583,22,7,"It could have been either way. I mean, there was so much flame it was hard to determine if it was completely down, but you could see it was, the structure was compromised.",a,THE WITNESS,start_question
+171,588,22,12,Okay.  And were flames like rolling out at the roof line there?,q,MR. BLUM,start_answer
+172,590,22,14,Yes.,a,THE WITNESS,start_question
+173,591,22,15,"And when you looked in below those flames, what, if anything, did you see?",q,MR. BLUM,start_answer
+174,593,22,17,It was flames from floor to ceiling.,a,THE WITNESS,start_question
+175,594,22,18,Okay.  And was there flames from left to right as well?,q,MR. BLUM,start_answer
+176,596,22,20,"To the right you could see some fire.  To the left, you know, because of the building configuration, you couldn't see anything past that point.",a,THE WITNESS,start_question
+177,600,22,24,All right.,q,MR. BLUM,start_answer
+178,602,23,1,"At least I couldn't.  You know, like I'm --",a,THE WITNESS,start_question
+179,604,23,3,"Okay.  And what actions, if any, did you take at that point as the person in charge of the fire?",q,MR. BLUM,start_answer
+180,607,23,6,"I started directing the first-in engine to come to the rear of the building, you know.  We are going to use the hydrant that's located right there at the corner of Mitchell and the driveway to the building.",a,THE WITNESS,start_question
+181,612,23,11,Okay.  And how long were you standing there by yourself before that unit arrived?,q,MR. BLUM,start_answer
+182,615,23,14,"I couldn't tell you.  I mean, in all honesty, in that situation time is not something I'm even looking at.",a,THE WITNESS,start_question
+183,618,23,17,"Sure.  And I assume that this is accurate, I just want to make sure, you were not taking any photographs at that time?",q,MR. BLUM,start_answer
+184,621,23,20,No.,a,THE WITNESS,start_question
+185,622,23,21,"And when that first unit arrived, do you remember which truck it was?",q,MR. BLUM,start_answer
+186,624,23,23,It would be Engine 14.,a,THE WITNESS,start_question
+187,625,23,24,"What, if anything, did you direct the people from Engine 14 to do?",q,MR. BLUM,start_answer
+188,628,24,2,"Had them come to the rear of the building, the driver, you know, establishes the hydrant connections with one of the drivers, and I had the rest of the crew deploy the two-and-a-half-inch line.",a,THE WITNESS,start_question
+189,633,24,7,What did you tell them to do with that line?,q,MR. BLUM,start_answer
+190,635,24,9,"Basically, you know, start knocking down the bulk of the fire they could see.",a,THE WITNESS,start_question
+191,637,24,11,And did you watch them as they attempted to do that?,q,MR. BLUM,start_answer
+192,639,24,13,"With doing other things, yes.",a,THE WITNESS,start_question
+193,640,24,14,"And what results, if any, did they obtain when they tried to knock that fire down?",q,MR. BLUM,start_answer
+194,643,24,17,"Not a great deal of results.  It was just, the fire was well -- it was beyond what one hand line was going to do at that point.",a,THE WITNESS,start_question
+195,646,24,20,"And did you instruct them to try to penetrate the building, to get inside?",q,MR. BLUM,start_answer
+196,648,24,22,"I wanted them to get as close and make a penetration if they could, which they got as far as the top of the ramp.",a,THE WITNESS,start_question
+197,652,25,1,And did that unit also try to deploy a second hose at that spot?,q,MR. BLUM,start_answer
+198,654,25,3,"Eventually there was another line, there were other lines pulled off the truck, yes, when the other -- as other apparatus got there, more crews got there.",a,THE WITNESS,start_question
+199,658,25,7,"All right.  And what, other than that unit that came to the back, what did you direct the other units to do as they arrived?",q,MR. BLUM,start_answer
+200,661,25,10,"Hatfield Station 17, you know, lay a supply line in from 5th and Valley Forge, because I knew the bulk of the fire was going to be needing a fair amount of water. Instructed the fire company was coming in, they were coming down, they came over, the first truck came in off of Camden Avenue down 5th Street, had them put the aerial in service to the front of the building.",a,THE WITNESS,start_question
+201,670,25,19,And how long did the firefight operations take that evening?,q,MR. BLUM,start_answer
+202,672,25,21,"Well, we were still here till 5 o'clock the next evening.",a,THE WITNESS,start_question
+203,674,25,23,All right.  And when --,q,MR. BLUM,start_answer
+204,675,25,24,I mean in total.,a,THE WITNESS,start_question
+205,677,26,1,When was it that the fire was under control?,q,MR. BLUM,start_answer
+206,679,26,3,I honestly don't know what time.  At that point the chief had left work and he had assumed command.,a,THE WITNESS,start_question
+207,682,26,6,And do you know approximately when it was that he assumed command?,q,MR. BLUM,start_answer
+208,684,26,8,"Like quarter after 2:00, 2:30.",a,THE WITNESS,start_question
+209,685,26,9,"And by the time that he had assumed command, can you tell me what you recall the status of the fire being, let's say, at 2:00 a.m.?",q,MR. BLUM,start_answer
+210,689,26,13,"At that point it was just contained. I mean, there was no, you know, there was no material efforts at that point.  The part of the walls were starting, appearing to start to fail.",a,THE WITNESS,start_question
+211,694,26,18,"I'm sorry, what was starting to fail?",q,MR. BLUM,start_answer
+212,696,26,20,"Some of the walls, there was cracking developing in some of the walls.  I evacuated the building.",a,THE WITNESS,start_question
+213,699,26,23,And had firefighters actually entered the building at that point?,q,MR. BLUM,start_answer
+214,702,27,1,Yes.,a,THE WITNESS,start_question
+215,703,27,2,Where had they entered from?,q,MR. BLUM,start_answer
+216,704,27,3,"Some of them had entered, the Hatfield crew had entered from two, maybe two garage doors down to the right.  And I know they had made an effort to enter from the 5th Street side.",a,THE WITNESS,start_question
+217,709,27,8,All right.  And how long did you personally remain at the scene?,q,MR. BLUM,start_answer
+218,711,27,10,I was on the scene the entire duration.,a,THE WITNESS,start_question
+219,713,27,12,All right.  So you were there until 5:00 p.m. the next day?,q,MR. BLUM,start_answer
+220,715,27,14,"Approximately.  Like I said, it's two and a half years ago, three years ago, I'm not good on time.  But, yes, I was there till we cleared.",a,THE WITNESS,start_question
+221,719,27,18,"And after the fire was brought under control, were there a series of rekindlings or hotspots that occurred inside?",q,MR. BLUM,start_answer
+222,722,27,21,Yes.,a,THE WITNESS,start_question
+223,723,27,22,"How many times did that occur, do you know?",q,MR. BLUM,start_answer
+224,725,27,24,Two that I know of.,a,THE WITNESS,start_question
+225,727,28,1,Okay.  And where were the two that you knew of?,q,MR. BLUM,start_answer
+226,729,28,3,"Right inside the garage doors to the left, due to the rolled-up carpets.",a,THE WITNESS,start_question
+227,731,28,5,"So the garage door that you first came to, okay, there was a flareup that occurred inside and to the left there?",q,MR. BLUM,start_answer
+228,734,28,8,"To the left, well into the building, but to the left side of that door.",a,THE WITNESS,start_question
+229,736,28,10,And how far approximately into the building?,q,MR. BLUM,start_answer
+230,738,28,12,"25, 30 feet, maybe.  It was, I mean, it was -- I'm trying to remember.  I wasn't paying too much attention to distances at that point.",a,THE WITNESS,start_question
+231,742,28,16,"Sure, okay.",q,MR. BLUM,start_answer
+232,743,28,17,It was wherever they had their stored rolled-up carpets.,a,THE WITNESS,start_question
+233,745,28,19,How did that come to your attention that there was a flareup or problem at that location?,q,MR. BLUM,start_answer
+234,748,28,22,"You know, we had people out on the test line call, we may have had a fire watch. I'm not even 100% sure.",a,THE WITNESS,start_question
+235,752,29,1,You said there was two locations you recalled.  What was the other location?,q,MR. BLUM,start_answer
+236,754,29,3,It was the same area.,a,THE WITNESS,start_question
+237,755,29,4,So there were two flareups that occurred at that same spot; is that correct?,q,MR. BLUM,start_answer
+238,757,29,6,At least two.  Two that I can speak to.,a,THE WITNESS,start_question
+239,759,29,8,"Okay.  And after the fire was put out, did you participate in any way in any investigation as to the --",q,MR. BLUM,start_answer
+240,762,29,11,No.,a,THE WITNESS,start_question
+241,763,29,12,"Just let me finish my question. After the fire was put out, did you participate in any investigation into the cause or the origin of that fire?",q,MR. BLUM,start_answer
+242,767,29,16,No.,a,THE WITNESS,start_question
+243,768,29,17,Did anyone ever have a discussion with you about what caused the fire?,q,MR. BLUM,start_answer
+244,770,29,19,No.,a,THE WITNESS,start_question
+245,771,29,20,Did anyone after the fact interview you about what you observed?,q,MR. BLUM,start_answer
+246,773,29,22,No.,a,THE WITNESS,start_question
+247,774,29,23,Mr. Daveler is the fire marshal; correct?,q,MR. BLUM,start_answer
+248,777,30,1,Correct.,a,THE WITNESS,start_question
+249,778,30,2,Did Mr. Daveler ever take a statement from you or interview you?,q,MR. BLUM,start_answer
+250,780,30,4,No.,a,THE WITNESS,start_question
+251,781,30,5,Did anyone from the Pennsylvania State Police ever interview you about what you had observed or what occurred?,q,MR. BLUM,start_answer
+252,784,30,8,No.,a,THE WITNESS,start_question
+253,785,30,9,At any time since then has anyone reached out to you and asked you for a statement or asked you to give a recorded statement about what occurred?,q,MR. BLUM,start_answer
+254,789,30,13,No.,a,THE WITNESS,start_chat
+255,790,30,14,I have no further questions.,side_chat,MR. BLUM,symbols
+256,792,30,16,- - - EXAMINATION,symbols,,symbols
+257,794,30,18,- - -,symbols,,start_question
+258,796,30,20,"Sir, when you approached the scene, did you hear any alarms?",q,MR. DIVIS,start_answer
+259,798,30,22,No.,a,THE WITNESS,start_chat
+260,799,30,23,That's all I have.,side_chat,MR. DIVIS,start_chat
+261,800,30,24,I don't have any questions for you.  Thanks.,side_chat,MR. ACKLEN,start_chat
+262,803,31,2,I don't have any questions.,side_chat,MR. MILLIS,start_chat
+263,805,31,4,No questions.,side_chat,MR. REICH,start_chat
+264,806,31,5,No questions.,side_chat,MR. SLATTERY,start_chat
+265,807,31,6,"One more thing. There's going to be a transcript that's going to come out of this.  You have the opportunity, if you would like, to review that transcript and make sure that it was accurately transcribed or you can waive that opportunity.  Would you like to read it?",side_chat,MR. BLUM,start_chat
+266,815,31,14,"Yes, I'd like to read it.",side_chat,THE WITNESS,start_chat
+267,817,31,16,"Okay.  So what is going to happen is the court reporter is going to mail you an official copy of the transcript, and at the back there will be a thing called an errata sheet.  Anything that you notice that's wrong, you put on the errata sheet.  You then sign the form and there will be an envelope there to mail it back.  You'll mail it back to her.",side_chat,MR. BLUM,start_chat
+268,828,32,2,Okay.,side_chat,THE WITNESS,symbols
+269,829,32,3,- - -,symbols,,is brackets
+270,830,32,4,(Witness excused.),brackets,,is brackets
+271,831,32,5,(Whereupon the deposition adjourned at 11:10 a.m.),brackets,,symbols
+272,833,32,7,"- - - CERTIFICATE I HEREBY CERTIFY that the proceedings, evidence, and objections are contained fully and accurately in the stenographic notes taken by me upon the deposition of RICHARD REIFF on August 19, 2018, and that this is a true and correct transcript of same. MADALENE FOSTER ROHDE Registered Professional Reporter",symbols,,is brackets
+273,870,33,18,"(The foregoing certification of this transcript does not apply to any reproduction of the same by any means unless under the direct control and/or supervision of the certifying reporter.) I have read the foregoing transcript of my examination given on August 19, 2019, and it is true, correct, and complete, to the best of my knowledge, recollection, and belief, except for the list of corrections, if any, attached on a separate sheet herewith. Date               RICHARD REIFF before me this     day Notary Public READ/SIGN DEPOSITION OF:  Richard Reiff",brackets,,start_chat
+274,909,35,2,Clemens v Euro Motors DO NOT WRITE ON THE DEPOSITION ITSELF Page Line  Changes or corrections and reason,side_chat,IN THE MATTER OF,symbols
+275,912,35,5,______________________________________________,symbols,,symbols
+276,913,35,6,______________________________________________,symbols,,symbols
+277,914,35,7,______________________________________________,symbols,,symbols
+278,915,35,8,______________________________________________,symbols,,symbols
+279,916,35,9,______________________________________________,symbols,,symbols
+280,917,35,10,______________________________________________,symbols,,symbols
+281,918,35,11,______________________________________________,symbols,,symbols
+282,919,35,12,______________________________________________,symbols,,symbols
+283,920,35,13,______________________________________________,symbols,,symbols
+284,921,35,14,______________________________________________,symbols,,symbols
+285,922,35,15,______________________________________________,symbols,,symbols
+286,923,35,16,______________________________________________,symbols,,symbols
+287,924,35,17,______________________________________________,symbols,,symbols
+288,925,35,18,______________________________________________,symbols,,symbols
+289,926,35,19,______________________________________________,symbols,,symbols
+290,927,35,20,______________________________________________,symbols,,symbols
+291,928,35,21,"______________________________________________ have listed all changes and corrections above, DATE:__________ SIGNATURE:____________________ LAWYER'S NOTES",symbols,,symbols
+292,936,36,2,______________________________________________,symbols,,symbols
+293,937,36,3,______________________________________________,symbols,,symbols
+294,938,36,4,______________________________________________,symbols,,symbols
+295,939,36,5,______________________________________________,symbols,,symbols
+296,940,36,6,______________________________________________,symbols,,symbols
+297,941,36,7,______________________________________________,symbols,,symbols
+298,942,36,8,______________________________________________,symbols,,symbols
+299,943,36,9,______________________________________________,symbols,,symbols
+300,944,36,10,______________________________________________,symbols,,symbols
+301,945,36,11,______________________________________________,symbols,,symbols
+302,946,36,12,______________________________________________,symbols,,symbols
+303,947,36,13,______________________________________________,symbols,,symbols
+304,948,36,14,______________________________________________,symbols,,symbols
+305,949,36,15,______________________________________________,symbols,,symbols
+306,950,36,16,______________________________________________,symbols,,symbols
+307,951,36,17,______________________________________________,symbols,,symbols
+308,952,36,18,______________________________________________,symbols,,symbols
+309,953,36,19,______________________________________________,symbols,,symbols
+310,954,36,20,______________________________________________,symbols,,symbols
+311,955,36,21,______________________________________________,symbols,,symbols
+312,956,36,22,______________________________________________,symbols,,symbols
+313,957,36,23,______________________________________________,symbols,,symbols
+314,958,36,24,______________________________________________,symbols,,end

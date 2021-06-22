@@ -1,0 +1,424 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0,,,,start_chat
+1,167,5,1,Yes.,side_chat,MS. THEBAUD,start_question
+2,170,5,4,"Hi, Miss Pomeroy.  My name is Joshua Loveall.  I'm the attorney for the plaintiff in this case.  Have you had a deposition before?",q,MR. LOVEALL,start_answer
+3,173,5,7,No.,a,THE WITNESS,start_question
+4,174,5,8,So I'd just like to go over some basic ground rules to make sure this goes as smoothly as possible.  One of the biggest aspects to keep in mind as we go on today is that everything that we say is being written down.  So if we could let each other finish our answers and questions even if we have a pretty good idea of what the other person is about to say.  That will enable us to have a clean record.  Is that okay?,q,MR. LOVEALL,start_answer
+5,183,5,17,Yes.,a,THE WITNESS,start_question
+6,184,5,18,"I also want to point out that if you need to take a break at any time, that that's perfectly acceptable, and to please just let us know.  If you don't understand a question or you can't hear me, I ask that you just point that out.  I'd be happy to restate the question or rephrase if that would be helpful.  Is that okay?",q,MR. LOVEALL,start_answer
+7,193,6,1,Yes.,a,THE WITNESS,start_question
+8,194,6,2,Can you hear me all right?,q,MR. LOVEALL,start_answer
+9,195,6,3,"I can right now, yes.",a,THE WITNESS,start_question
+10,196,6,4,Okay.  And are you under any medications or conditions that would affect your memory recall today?,q,MR. LOVEALL,start_answer
+11,199,6,7,No.,a,THE WITNESS,start_question
+12,200,6,8,What is your current job?,q,MR. LOVEALL,start_answer
+13,201,6,9,Vice president at St. Mary's Bank. Director of business analytics and project management.,a,THE WITNESS,start_question
+14,204,6,12,"And what was your job on December 1st, 2013?",q,MR. LOVEALL,start_answer
+15,206,6,14,"Principal consultant for Crankfrog Consulting Firm based out of Washington, D.C.",a,THE WITNESS,start_chat
+16,208,6,16,What was that word? Frankfrog?,side_chat,MS. THEBAUD,start_chat
+17,210,6,18,"Crankfrog, C-R-A-N-K-F-R-O-G.",side_chat,THE WITNESS,start_question
+18,213,6,21,"Thank you.  And in December 2013, where were you living?",q,MR. LOVEALL,start_answer
+19,215,6,23,"Manchester, New Hampshire.",a,THE WITNESS,start_question
+20,216,6,24,"And where were you -- were you driving on December 1st, 2013?",q,MR. LOVEALL,start_answer
+21,220,7,2,Yes.,a,THE WITNESS,start_question
+22,221,7,3,Where were you driving?,q,MR. LOVEALL,start_answer
+23,222,7,4,"From Manchester, New Hampshire to Washington, D.C.",a,THE WITNESS,start_question
+24,224,7,6,Did you have a weather report or check the weather that day before starting driving?,q,MR. LOVEALL,start_answer
+25,226,7,8,I don't remember.,a,THE WITNESS,start_question
+26,227,7,9,Do you recall what the weather was like before you started driving that day?,q,MR. LOVEALL,start_answer
+27,229,7,11,I know it was cold.  I don't remember other than that.,a,THE WITNESS,start_question
+28,231,7,13,Do you remember how cold?,q,MR. LOVEALL,start_answer
+29,232,7,14,No.,a,THE WITNESS,start_question
+30,233,7,15,Was it freezing?,q,MR. LOVEALL,start_chat
+31,234,7,16,Objection.,side_chat,MS. LOPEZ,start_answer
+32,235,7,17,I don't remember.,a,THE WITNESS,start_question
+33,236,7,18,"At some point on your drive, were you on Route 290 in Worcester?",q,MR. LOVEALL,start_answer
+34,238,7,20,Yes.,a,THE WITNESS,start_question
+35,239,7,21,I'd like to direct you to Exhibit 1.,q,MR. LOVEALL,start_answer
+36,240,7,22,Hold on one second.  Exhibit 1.  Got it.,a,THE WITNESS,start_question
+37,241,7,23,There should be two pages.  Page 1 and page 2.,q,MR. LOVEALL,start_answer
+38,245,8,1,Uh-huh.,a,THE WITNESS,start_question
+39,246,8,2,Can you tell me what the image on page 2 of 2 is?,q,MR. LOVEALL,start_answer
+40,248,8,4,"Page 2 of 2, I see a truck that says ""Penske"" on the driver's side and a bunch of cars around it.",a,THE WITNESS,start_question
+41,251,8,7,Do you recognize the road that these cars are on?,q,MR. LOVEALL,start_answer
+42,253,8,9,I assume that it's 290 because I can see my car in this picture.,a,THE WITNESS,start_question
+43,255,8,11,If we could switch to page 1 of Exhibit 1.,q,MR. LOVEALL,start_answer
+44,256,8,12,Yup.,a,THE WITNESS,start_question
+45,257,8,13,"Could you identify which vehicle, if any, belongs to you on that date by the number superimposed on these vehicles?",q,MR. LOVEALL,start_answer
+46,260,8,16,Number 5.,a,THE WITNESS,start_question
+47,261,8,17,Were you the driver of that vehicle?,q,MR. LOVEALL,start_answer
+48,262,8,18,Yes.,a,THE WITNESS,start_question
+49,263,8,19,Is this a fair and accurate depiction of your vehicle?,q,MR. LOVEALL,start_chat
+50,265,8,21,Objection.,side_chat,MR. MCLAUGHLIN,start_chat
+51,266,8,22,Objection.,side_chat,MS. LOPEZ,start_answer
+52,267,8,23,"I didn't take the picture, so I wouldn't know.",a,THE WITNESS,start_question
+53,271,9,1,Does your vehicle appear in this photograph?,q,MR. LOVEALL,start_answer
+54,273,9,3,Yes.  My vehicle is vehicle number 5 in this photograph.,a,THE WITNESS,start_question
+55,275,9,5,Did you observe any of the other vehicles in this photograph prior to the accident?,q,MR. LOVEALL,start_answer
+56,277,9,7,I have no idea.,a,THE WITNESS,start_question
+57,278,9,8,"Did you -- specifically focusing on the truck which is identified with number 3, did you see that vehicle prior to the accident?",q,MR. LOVEALL,start_answer
+58,281,9,11,"Just before my car crashed into the back of it, yes, I must have observed it.",a,THE WITNESS,start_question
+59,283,9,13,Do you recall any of those observations today?,q,MR. LOVEALL,start_answer
+60,285,9,15,I recall seeing a truck up ahead and navigating through crashed cars around me.,a,THE WITNESS,start_question
+61,287,9,17,When do you first recall seeing the truck up ahead?,q,MR. LOVEALL,start_answer
+62,289,9,19,I have no idea.,a,THE WITNESS,start_question
+63,290,9,20,What were the conditions like on the road prior to the accident?,q,MR. LOVEALL,start_answer
+64,292,9,22,"Could you be more clear on ""prior to the accident""?",a,THE WITNESS,start_question
+65,294,9,24,"Say, within the five minutes prior to the accident, could you describe the road conditions, please?",q,MR. LOVEALL,start_answer
+66,299,10,3,"At some point prior to the time that my car crashed into this truck -- I can't speak for when other cars crashed -- but five minutes prior to the time that I crashed into this truck, it was -- there was precipitation -- mixed precipitation, and the roadway was a complete sheet of ice.",a,THE WITNESS,start_question
+67,305,10,9,"When did you first notice it, the sheet of ice you're describing?",q,MR. LOVEALL,start_answer
+68,307,10,11,I don't remember how long before the accident I noticed the conditions.,a,THE WITNESS,start_question
+69,309,10,13,How did you respond once you realized there was a sheet of ice?,q,MR. LOVEALL,start_answer
+70,311,10,15,"I applied -- I was traveling under the speed limit because of the freezing rain.  I tapped my brakes and realized there was response.  I continually tried to tap my brakes, apply my brakes with force.  By that point, I was navigating through cars all around me that had crashed into each other on the side of the guardrail, and then my car eventually came to a stop.",a,THE WITNESS,start_question
+71,319,10,23,"When you say you were ""navigating through cars,"" could you tell me where you started that process and what lane you started that process in?",q,MR. LOVEALL,start_answer
+72,324,11,2,I was in the second lane from the right.,a,THE WITNESS,start_question
+73,325,11,3,How many lanes were there total?,q,MR. LOVEALL,start_answer
+74,326,11,4,I don't remember.  Three or four.,a,THE WITNESS,start_question
+75,327,11,5,What lane did you end up in after navigating through the cars?,q,MR. LOVEALL,start_answer
+76,329,11,7,I'm sorry.  That broke up for a second. Did you say what lane did I end up in?,a,THE WITNESS,start_question
+77,331,11,9,Yes.,q,MR. LOVEALL,start_answer
+78,332,11,10,The shoulder up against the guardrail partially underneath a truck.,a,THE WITNESS,start_question
+79,334,11,12,Was that a lane?,q,MR. LOVEALL,start_answer
+80,335,11,13,No.  I'm assuming there was an area between the right-hand lane and the guardrail.,a,THE WITNESS,start_question
+81,337,11,15,Could I please direct your attention to Exhibit 4?,q,MR. LOVEALL,start_answer
+82,339,11,17,Okay.,a,THE WITNESS,start_question
+83,340,11,18,Could you tell me what this is a photo of?,q,MR. LOVEALL,start_answer
+84,341,11,19,"Well, it says right on the roadway it's I-290, so I will assume it's I-290 unless that was transposed on the picture.",a,THE WITNESS,start_question
+85,344,11,22,Does this look like 290?  Do you recognize this road?,q,MR. LOVEALL,start_answer
+86,346,11,24,"Yeah.  And I see the St. Vincent's Hospital sign.  I mean, it looks like any highway to me, but since we're talking about I-290, I assume this is, in fact, I-290.",a,THE WITNESS,start_question
+87,352,12,4,Can you identify a shoulder on this photograph?,q,MR. LOVEALL,start_answer
+88,354,12,6,No.,a,THE WITNESS,start_question
+89,355,12,7,"So when you described your vehicle as stopped against the guardrail, was that stopped in a lane of travel?",q,MR. LOVEALL,start_chat
+90,358,12,10,Objection.,side_chat,MS. LOPEZ,start_answer
+91,359,12,11,I don't know.  I don't remember.,a,THE WITNESS,start_question
+92,360,12,12,"Had you driven on Route 290 prior to December 1st, 2013?",q,MR. LOVEALL,start_answer
+93,362,12,14,Yes.,a,THE WITNESS,start_question
+94,363,12,15,How many times?,q,MR. LOVEALL,start_answer
+95,364,12,16,I don't know.,a,THE WITNESS,start_question
+96,365,12,17,"When had you last driven on 290 prior to December 1st, 2013?",q,MR. LOVEALL,start_answer
+97,367,12,19,I don't remember.,a,THE WITNESS,start_question
+98,368,12,20,Is it something that you did more than once a year?,q,MR. LOVEALL,start_answer
+99,370,12,22,Yes.,a,THE WITNESS,start_question
+100,371,12,23,What was your reason for driving on Interstate 290 or Route 290?,q,MR. LOVEALL,start_answer
+101,375,13,1,"I can't recall every reason that I would have traveled on 290, but on the occasion I went to visit my family in Philadelphia and Delaware, I would occasionally travel on 290 to get there.",a,THE WITNESS,start_question
+102,379,13,5,Do you know how many lanes of traffic there are on 290?,q,MR. LOVEALL,start_answer
+103,381,13,7,"Because I'm looking at Exhibit 4 and I'm told that this is, in fact, I-290, I can count that there are four lanes of traffic.",a,THE WITNESS,start_chat
+104,384,13,10,Can we just put on the record that Attorney Lentini is here now?,side_chat,MR. MCLAUGHLIN,start_chat
+105,386,13,12,Yes.,side_chat,MR. LOVEALL,start_question
+106,388,13,14,"Prior to the accident, do you recall coming over a rise in the curve of the road?",q,MR. LOVEALL,start_answer
+107,390,13,16,"Yes.  Not a curve.  I do recall coming up a slight rise or incline, yes.",a,THE WITNESS,start_question
+108,392,13,18,Would you say that that rise was close to or immediately before the scene of the accident?,q,MR. LOVEALL,start_chat
+109,394,13,20,Objection.,side_chat,MS. LOPEZ,start_chat
+110,395,13,21,I'll rephrase.,side_chat,MR. LOVEALL,start_question
+111,397,13,23,Where was that rise in relation to the scene of the accident?,q,MR. LOVEALL,start_answer
+112,401,14,1,All I recall is it was before the accident.  I don't recall how far before the accident.,a,THE WITNESS,start_question
+113,404,14,4,"Do you recall whether, as you were driving toward and up the rise, were you able to see past the rise?",q,MR. LOVEALL,start_answer
+114,407,14,7,"I don't recall when I was able to see past the rise, no.",a,THE WITNESS,start_question
+115,409,14,9,Is it fair to say that at some point you were unable to see past the rise?,q,MR. LOVEALL,start_answer
+116,411,14,11,I can't answer that question with any confidence.  I don't recall.,a,THE WITNESS,start_question
+117,413,14,13,Was there -- did you observe ice on the rise in the road?,q,MR. LOVEALL,start_answer
+118,415,14,15,"I don't remember.  It was precipitating, and I could tell by the way it hit my windshield that it was hazardous conditions, which is why I was traveling under the speed limit.",a,THE WITNESS,start_question
+119,419,14,19,Did you have your windshield wipers on?,q,MR. LOVEALL,start_answer
+120,420,14,20,"I don't recall.  I assume I did because I always have my windshield wipers on, but I certainly don't recall six years ago when I turned those windshield wipers on, but I can assume that they were on since that's a common practice that I used when it's raining or precipitating.",a,THE WITNESS,start_question
+121,428,15,2,Were your headlights on?,q,MR. LOVEALL,start_answer
+122,429,15,3,Yes.,a,THE WITNESS,start_question
+123,430,15,4,Was it dark outside at the time of the accident?,q,MR. LOVEALL,start_answer
+124,432,15,6,I don't recall.,a,THE WITNESS,start_question
+125,433,15,7,"Were you able to stop your vehicle?  When you said you were pumping the brakes, applying the brakes, were you able to come to a stop?",q,MR. LOVEALL,start_answer
+126,436,15,10,"My vehicle did come to a stop eventually, but while I was hitting the brakes, no, my vehicle didn't even respond.",a,THE WITNESS,start_question
+127,439,15,13,What caused your vehicle to stop?,q,MR. LOVEALL,start_answer
+128,440,15,14,The tractor-trailer that was in Exhibit 1.,a,THE WITNESS,start_question
+129,441,15,15,Are you identifying the vehicle that has the number 3 over it on Exhibit 1?,q,MR. LOVEALL,start_answer
+130,443,15,17,"Hang on.  Let me go back to it.  Number 3, yes.",a,THE WITNESS,start_question
+131,445,15,19,I'll refer to that vehicle as the truck. Was the truck moving when your vehicle collided with it?,q,MR. LOVEALL,start_answer
+132,448,15,22,No.,a,THE WITNESS,start_question
+133,449,15,23,"When you collided with the truck, could you see any other vehicles in front of you?",q,MR. LOVEALL,start_answer
+134,453,16,1,No.,a,THE WITNESS,start_question
+135,454,16,2,How could you tell when the roads became icy?  You said you saw a sheet of ice.  Could you describe how you were able to discern that?,q,MR. LOVEALL,start_answer
+136,457,16,5,I'm not sure I understand the question.,a,THE WITNESS,start_question
+137,458,16,6,So at some point you became aware that the roads were icy; is that correct?,q,MR. LOVEALL,start_answer
+138,460,16,8,Yes.  Yup.,a,THE WITNESS,start_question
+139,461,16,9,And how did you become aware of that?,q,MR. LOVEALL,start_answer
+140,462,16,10,When I tapped my brakes and my car did not respond.,a,THE WITNESS,start_question
+141,464,16,12,"In that incident where you tapped your brakes, could you already see vehicles stopped ahead of you?",q,MR. LOVEALL,start_answer
+142,467,16,15,I could see brake lights going on and off in the distance ahead of me.,a,THE WITNESS,start_question
+143,469,16,17,Do you recall whether when you tapped your -- sorry.  Go ahead.,q,MR. LOVEALL,start_answer
+144,471,16,19,No.  I'm sorry.  Go ahead.,a,THE WITNESS,start_question
+145,472,16,20,"In this instance of you tapping the brakes, do you recall whether that was before the rise in the road?",q,MR. LOVEALL,start_answer
+146,475,16,23,It was after the rise.  At the top of the rise when I had visibility to anything that was ahead of me.,a,THE WITNESS,start_question
+147,480,17,2,"At the top of the rise, you were able to see brake lights?",q,MR. LOVEALL,start_answer
+148,482,17,4,"I believe it was the top of the rise.  At the point that I began to see brake lights of cars in the distance is when I tapped my brakes.  I remember that there was a rise.  I don't remember the exact elevation where I was when I noticed the brake lights.  When I noticed the brake lights, I tapped my brakes.",a,THE WITNESS,start_question
+149,489,17,11,"Prior to the rise, did you see those brake lights?",q,MR. LOVEALL,start_answer
+150,491,17,13,No.,a,THE WITNESS,start_question
+151,492,17,14,"Prior to the rise, could you see any vehicles beyond the rise?",q,MR. LOVEALL,start_answer
+152,494,17,16,I have no recollection of that.,a,THE WITNESS,start_question
+153,495,17,17,Did you ever see the truck moving?,q,MR. LOVEALL,start_answer
+154,496,17,18,No.,a,THE WITNESS,start_question
+155,497,17,19,"Immediately after your car collided with the truck, what happened?",q,MR. LOVEALL,start_answer
+156,499,17,21,"The air bags deployed.  The entire front of my car was crushed, and I immediately unbuckled my seat belt and reached into the backseat to check my son.",a,THE WITNESS,start_question
+157,505,18,1,Was your son all right?,q,MR. LOVEALL,start_answer
+158,506,18,2,Yup.  Yes.,a,THE WITNESS,start_question
+159,507,18,3,Were you all right?,q,MR. LOVEALL,start_answer
+160,508,18,4,Yes.,a,THE WITNESS,start_question
+161,509,18,5,Did you see any other collisions of vehicles?,q,MR. LOVEALL,start_answer
+162,511,18,7,"While I was reaching in the back to check my son, my car got hit on the rear driver's side.",a,THE WITNESS,start_question
+163,513,18,9,Did you witness any other collisions?,q,MR. LOVEALL,start_chat
+164,514,18,10,In any particular point in time?,side_chat,MS. LOPEZ,start_chat
+165,516,18,12,No.,side_chat,MR. LOVEALL,start_answer
+166,517,18,13,I don't recall.  I was focused on my son.,a,THE WITNESS,start_question
+167,518,18,14,If I could please direct your attention to Exhibit 2.,q,MR. LOVEALL,start_answer
+168,520,18,16,One second.,a,THE WITNESS,start_question
+169,521,18,17,Thank you.,q,MR. LOVEALL,start_answer
+170,522,18,18,Two.  Got it.,a,THE WITNESS,start_question
+171,523,18,19,Does your vehicle appear in this photograph?,q,MR. LOVEALL,start_answer
+172,525,18,21,Yes.  Number 4.,a,THE WITNESS,start_question
+173,526,18,22,Did the hood of your car come up to obstruct your vision?,q,MR. LOVEALL,start_chat
+174,528,18,24,Objection.,side_chat,MS. LOPEZ,start_question
+175,532,19,2,Or what happened to the hood of your car after the collision?,q,MR. LOVEALL,start_answer
+176,534,19,4,"As you can see in the picture, it got crushed on impact.",a,THE WITNESS,start_question
+177,536,19,6,Could you see the hood from where you were sitting inside the car after the collision?,q,MR. LOVEALL,start_answer
+178,538,19,8,I believe so.  I had an airbag in my face.,a,THE WITNESS,start_question
+179,539,19,9,So what did you see in front of your vehicle after the collision?,q,MR. LOVEALL,start_answer
+180,541,19,11,Right at the moment of collision?,a,THE WITNESS,start_question
+181,542,19,12,Yes.,q,MR. LOVEALL,start_answer
+182,543,19,13,I was focused on making sure my son was okay.,a,THE WITNESS,start_question
+183,545,19,15,So did you see anything in front of your car immediately after the collision?,q,MR. LOVEALL,start_answer
+184,547,19,17,"I assume I saw this, what we're looking at in the picture, but what I remember from that moment is immediately checking to see if my son was okay.",a,THE WITNESS,start_question
+185,550,19,20,"And afterwards, did you make any observations of anything in front of your vehicle?",q,MR. LOVEALL,start_answer
+186,552,19,22,I was focused on getting out of the car.,a,THE WITNESS,start_question
+187,553,19,23,When did you get out of the car?,q,MR. LOVEALL,start_answer
+188,554,19,24,And then after that I -- I did get out of the car.  I had to climb -- I think we had to climb out a window.  The back rear window.  The rear driver's side window.,a,THE WITNESS,start_question
+189,560,20,4,When did you get out of the car?,q,MR. LOVEALL,start_answer
+190,561,20,5,"I assume that I could, but I do not recall how long that took.",a,THE WITNESS,start_question
+191,563,20,7,Where did you go after you got out of the car?,q,MR. LOVEALL,start_answer
+192,565,20,9,"On the road right next to my car, but I remember we couldn't even stand up.  It was so -- it felt like it was -- we couldn't even stand without falling.  So a man from -- I assume from one of the other cars helped us all up, and we stood on the bed of the truck so that we wouldn't get hit if any other cars came up.",a,THE WITNESS,start_question
+193,572,20,16,I'm sorry.  Could you describe what truck you're talking about?,q,MR. LOVEALL,start_answer
+194,574,20,18,That number 6 in this picture.  The truck I hit.,a,THE WITNESS,start_question
+195,576,20,20,"What do you mean, ""the bed of the truck""?",q,MR. LOVEALL,start_answer
+196,577,20,21,The back of the truck.  The bumper on the back at the very end of the truck.,a,THE WITNESS,start_question
+197,579,20,23,You're standing on it?,q,MR. LOVEALL,start_answer
+198,580,20,24,Yes.,a,THE WITNESS,start_question
+199,583,21,1,And you said a man helped you get to the truck?,q,MR. LOVEALL,start_answer
+200,585,21,3,"Yes, and handed me my son so we could stand up there in the back of the truck until --",a,THE WITNESS,start_question
+201,587,21,5,Were you inside the truck at any point?,q,MR. LOVEALL,start_answer
+202,588,21,6,"Yes.  Well, I don't know what ""inside the truck"" means.  I wasn't in the driver's seat, but in the big back of the tractor-trailer, the door -- the back door, like, a garage door was open, and we stood right there on the end so that we could get off of the roadway in the event that other cars were going to come in and be unable to stop.",a,THE WITNESS,start_question
+203,595,21,13,How did you decide to exit your vehicle?,q,MR. LOVEALL,start_answer
+204,596,21,14,I don't understand the question.,a,THE WITNESS,start_question
+205,597,21,15,Why did you exit your vehicle?,q,MR. LOVEALL,start_answer
+206,598,21,16,I have no -- I don't recall my exact thought process during that moment.,a,THE WITNESS,start_question
+207,600,21,18,Do you recall speaking to the person who helped you into the truck?,q,MR. LOVEALL,start_answer
+208,602,21,20,Yes.,a,THE WITNESS,start_question
+209,603,21,21,Do you know which vehicle that person was driving or was in prior to the accident?,q,MR. LOVEALL,start_answer
+210,605,21,23,"I don't.  I assume it was the car that hit me after I stopped against the truck, but I can't say that for sure.  That was my assumption at the time.",a,THE WITNESS,start_question
+211,610,22,2,Did you see someone open the back gate or door of that truck?,q,MR. LOVEALL,start_answer
+212,612,22,4,No.,a,THE WITNESS,start_question
+213,613,22,5,Was it already open when you got there?,q,MR. LOVEALL,start_answer
+214,614,22,6,Yes.,a,THE WITNESS,start_question
+215,615,22,7,Was anyone else inside the truck?,q,MR. LOVEALL,start_answer
+216,616,22,8,"Yes, but I do not recall who.",a,THE WITNESS,start_question
+217,617,22,9,Do you recall how many people?,q,MR. LOVEALL,start_answer
+218,618,22,10,I don't.,a,THE WITNESS,start_question
+219,619,22,11,Do you recall meeting the driver of that truck?,q,MR. LOVEALL,start_answer
+220,621,22,13,No.,a,THE WITNESS,start_question
+221,622,22,14,"When you collided with the truck, was the back door or gate open?",q,MR. LOVEALL,start_answer
+222,624,22,16,"I don't recall.  I assume it was since there wasn't much time from the crash to when I was on top of the truck or in, and I did not see anybody come and open it, but I certainly wasn't looking at that just prior to or just after the collision.",a,THE WITNESS,start_question
+223,629,22,21,Do you recall how much time passed between the collision and when you exited the vehicle?,q,MR. LOVEALL,start_answer
+224,631,22,23,"Not specifically or not with any great clarity.  However, it seemed as if we got out of that car as quickly as possible.",a,THE WITNESS,start_question
+225,636,23,2,If I could direct your attention again to Exhibit 2.,q,MR. LOVEALL,start_answer
+226,638,23,4,Uh-huh.,a,THE WITNESS,start_question
+227,639,23,5,Did you observe the vehicle identified with the number 3 prior to the accident?,q,MR. LOVEALL,start_answer
+228,641,23,7,No.,a,THE WITNESS,start_question
+229,642,23,8,Did you observe the vehicle identified as number 3 after the accident at any point?,q,MR. LOVEALL,start_answer
+230,644,23,10,No.,a,THE WITNESS,start_question
+231,645,23,11,Did you observe the driver of vehicle 3 at any point?,q,MR. LOVEALL,start_answer
+232,647,23,13,I have no idea.  No.,a,THE WITNESS,start_question
+233,648,23,14,"Do you recall -- from where you were sitting in your vehicle, could you see the vehicle identified as number 3?",q,MR. LOVEALL,start_answer
+234,651,23,17,I certainly don't recall.,a,THE WITNESS,start_question
+235,652,23,18,"When you were in the truck, was the back door or gate open the whole time?",q,MR. LOVEALL,start_answer
+236,654,23,20,Yes.,a,THE WITNESS,start_question
+237,655,23,21,Could you see the road from where you were inside the truck?,q,MR. LOVEALL,start_answer
+238,657,23,23,Yes.,a,THE WITNESS,start_question
+239,658,23,24,What part of the road could you see from inside the truck?,q,MR. LOVEALL,start_answer
+240,662,24,2,"I don't recall.  I just remember looking at the road and thinking there's a lot of cars that have just crashed into each other because, like me, none of them were able to brake.",a,THE WITNESS,start_question
+241,666,24,6,"If I could direct your attention to Exhibit 1 again, please.  Do you recall whether the position of the truck shown in this photograph was the same position that truck was in when you got into it?",q,MR. LOVEALL,start_chat
+242,671,24,11,"Just to be clear, are you referring to truck number 6?",side_chat,MS. THEBAUD,start_chat
+243,673,24,13,"Truck number 3.  The vehicle identified as 3, which I'll call the truck.",side_chat,MR. LOVEALL,start_answer
+244,675,24,15,Okay.,a,THE WITNESS,start_question
+245,676,24,16,Is that in the same position in this photograph as it was when you got into it?,q,MR. LOVEALL,start_answer
+246,678,24,18,Yes.,a,THE WITNESS,start_chat
+247,679,24,19,"Just to clarify, earlier when you were referring to the truck that she had said she stood up in, that was truck number 6.  Is that what you were asking her about?",side_chat,MS. THEBAUD,start_chat
+248,683,24,23,No.,side_chat,MR. LOVEALL,start_question
+249,687,25,1,"If we could just restate for the record. When you were standing inside a truck, could you identify which number vehicle that was on page 1 of Exhibit 1?",q,MR. LOVEALL,start_answer
+250,691,25,5,Truck number 3.,a,THE WITNESS,start_question
+251,692,25,6,"When you say you were inside the truck, were you inside that box-looking portion or what we might call is the back of the truck?",q,MR. LOVEALL,start_answer
+252,695,25,9,Yes.,a,THE WITNESS,start_question
+253,696,25,10,And is that the part of the truck that you get into using kind of a gate or lift gate door?,q,MR. LOVEALL,start_answer
+254,698,25,12,"Correct.  The lift gate door was open, and I got some help and was standing on that back part of the truck.",a,THE WITNESS,start_question
+255,701,25,15,"And when I asked you about whether that lift gate or back door of the truck was open at the time of the collision, could you tell me again whether you recall that gate being open or closed?",q,MR. LOVEALL,start_answer
+256,705,25,19,"I assumed it was open.  However, at the time of the collision, it's certainly not something I was observing nor do I recall now.",a,THE WITNESS,start_question
+257,708,25,22,Did you have a cell phone with you while you were driving?,q,MR. LOVEALL,start_answer
+258,710,25,24,"I did, yes.",a,THE WITNESS,start_question
+259,713,26,1,Were you on the cell phone prior to the collision at any point?,q,MR. LOVEALL,start_answer
+260,715,26,3,No.,a,THE WITNESS,start_question
+261,716,26,4,Do you recall where the cell phone was in your vehicle immediately prior to the collision?,q,MR. LOVEALL,start_answer
+262,718,26,6,No.,a,THE WITNESS,start_question
+263,719,26,7,Did you encounter any ice on the roads prior to the rise on 290?,q,MR. LOVEALL,start_answer
+264,721,26,9,Not that I recall.,a,THE WITNESS,start_question
+265,722,26,10,Was there anyone else in your vehicle other than you and your son?,q,MR. LOVEALL,start_answer
+266,724,26,12,Yes.,a,THE WITNESS,start_question
+267,725,26,13,Who else was in the vehicle?,q,MR. LOVEALL,start_answer
+268,726,26,14,Heather Coonier (phonetic).,a,THE WITNESS,start_question
+269,727,26,15,And who is Heather?,q,MR. LOVEALL,start_answer
+270,728,26,16,"At the time, she was our nanny.  She helped take care of my son while I worked.",a,THE WITNESS,start_question
+271,730,26,18,Was she injured in the accident?,q,MR. LOVEALL,start_answer
+272,731,26,19,No.,a,THE WITNESS,start_question
+273,732,26,20,Was there anyone else in the vehicle?,q,MR. LOVEALL,start_answer
+274,733,26,21,No.,a,THE WITNESS,start_question
+275,734,26,22,Did Heather and your son also go into the truck that was identified as number 3 on Exhibit 1? Did they go with you into the truck?,q,MR. LOVEALL,start_answer
+276,739,27,1,Yes.,a,THE WITNESS,start_question
+277,740,27,2,"Did you all enter the truck at the same time, the three of you?",q,MR. LOVEALL,start_answer
+278,742,27,4,Yes.,a,THE WITNESS,start_question
+279,743,27,5,Do you recall whether there were people in the back of the truck in addition to the three of you?,q,MR. LOVEALL,start_answer
+280,746,27,8,Yes.,a,THE WITNESS,start_question
+281,747,27,9,Were they already there when you got into the truck?,q,MR. LOVEALL,start_answer
+282,749,27,11,I don't recall.,a,THE WITNESS,start_question
+283,750,27,12,Do you recall people entering the truck after you entered the truck?,q,MR. LOVEALL,start_answer
+284,752,27,14,I don't recall.,a,THE WITNESS,start_question
+285,753,27,15,Did you eventually leave the truck?,q,MR. LOVEALL,start_answer
+286,754,27,16,Yes.,a,THE WITNESS,start_question
+287,755,27,17,And where did you go after?,q,MR. LOVEALL,start_answer
+288,756,27,18,"We tried to see if there was anyone who needed help or if there was anything we could do, and then we waited for police to come and us to be escorted off the roadway.",a,THE WITNESS,start_question
+289,760,27,22,Where on the road did you go to see if people needed help in relation to the truck marked with the number 3 on Exhibit Number 1?,q,MR. LOVEALL,start_answer
+290,765,28,1,I don't remember.,a,THE WITNESS,start_question
+291,766,28,2,Did you speak to any police officer or state trooper at the scene of the accident?,q,MR. LOVEALL,start_answer
+292,768,28,4,"Yes, I believe that's who was there helping us to get to the bus that eventually stopped at the scene.",a,THE WITNESS,start_question
+293,771,28,7,What did you say to the police officer or trooper?,q,MR. LOVEALL,start_answer
+294,773,28,9,I don't remember.,a,THE WITNESS,start_question
+295,774,28,10,Did the trooper or officers ask you any questions?,q,MR. LOVEALL,start_answer
+296,776,28,12,I don't remember.,a,THE WITNESS,start_question
+297,777,28,13,Do you recall being interviewed by anyone about this accident?,q,MR. LOVEALL,start_answer
+298,779,28,15,No.,a,THE WITNESS,start_question
+299,780,28,16,You said you left the scene on a bus?,q,MR. LOVEALL,start_answer
+300,781,28,17,Yes.,a,THE WITNESS,start_question
+301,782,28,18,Where was the bus that picked you up in relation to the truck with the number 3 on it in Exhibit 1?,q,MR. LOVEALL,start_answer
+302,785,28,21,"The bus -- because the ice -- the roadways were so treacherous, the bus could not get to where we were.  So the bus -- we had to walk -- somehow walk, and we had folks helping us walk back up the roadway behind us.  So the opposite direction that we were traveling, the bus was way up that way, and we had to make our way up there.",a,THE WITNESS,start_question
+303,794,29,4,Is that back towards the rise in the road?,q,MR. LOVEALL,start_answer
+304,795,29,5,Sure.  Yes.,a,THE WITNESS,start_question
+305,796,29,6,Do you recall ever going in front of the truck with the number 3 on it on Exhibit 1 or further down the road?,q,MR. LOVEALL,start_answer
+306,799,29,9,Yes.,a,THE WITNESS,start_question
+307,800,29,10,When did you do that?,q,MR. LOVEALL,start_answer
+308,801,29,11,"After we got down off the back of the truck, which was when we thought it would be -- there weren't still cars coming in and crashing.  When we walked around to see if everyone was okay, everyone was okay and needed help, we went to the other side of that truck.",a,THE WITNESS,start_question
+309,807,29,17,"During that process, did you see anyone who needed help?",q,MR. LOVEALL,start_answer
+310,809,29,19,"There was nothing that I could do.  We were just -- everybody was concerned about how everybody was given the magnitude of the accident. So I saw many people and said, are you okay?  And they said, are you okay?  I did offer -- I think it was a mom -- it might have been a dad -- in the front seat of a car -- a juice box or something that I had for their toddler who was crying in the car.  I think it was a toddler.  It could have been a kid.",a,THE WITNESS,start_question
+311,820,30,4,"The people that you offered the juice box to, were they -- where were they in relation to the truck with the number 3 on it in Exhibit 1?",q,MR. LOVEALL,start_answer
+312,823,30,7,On the other side of it.,a,THE WITNESS,start_question
+313,824,30,8,You mean in front of it or behind it? What do you mean?,q,MR. LOVEALL,start_answer
+314,826,30,10,"Well, the truck, to me, looked like it's sideways across the roadway.  So if I was sitting in the driver's seat of the truck, number 3, to the right on the roadway.",a,THE WITNESS,start_question
+315,830,30,14,Would you describe that as further down 290 from where your vehicle stopped?,q,MR. LOVEALL,start_answer
+316,832,30,16,Yes.,a,THE WITNESS,start_question
+317,833,30,17,"If I could direct your attention again to Exhibit 2, please.",q,MR. LOVEALL,start_answer
+318,835,30,19,Okay.,a,THE WITNESS,start_question
+319,836,30,20,Do you recall whether your vehicle came into contact with the vehicle with the number 2 on it?,q,MR. LOVEALL,start_answer
+320,839,30,23,"To my recollection, the only thing my car came in contact with was the truck.",a,THE WITNESS,start_question
+321,843,31,1,And you were able to enter the back of that truck which here has the number 6 on it in Exhibit 2?,q,MR. LOVEALL,start_answer
+322,846,31,4,"Yes.  There was, like, a rise just at the end of that truck that we climbed up on and then was able to stand right in the end and look out on the roadway.",a,THE WITNESS,start_question
+323,850,31,8,"Is it fair to say there was space between your vehicle and this VW with the number 2 on it, enough space to access the back of the truck?",q,MR. LOVEALL,start_answer
+324,853,31,11,The -- I did not access the back of the truck anywhere near the VW.  I didn't even know there was a VW in front of me.  I accessed the truck from right outside of my car.,a,THE WITNESS,start_question
+325,857,31,15,Could you see that VW with the number 2 on it in the photo from where you were entering the truck?,q,MR. LOVEALL,start_answer
+326,860,31,18,I don't recall.,a,THE WITNESS,start_question
+327,861,31,19,Could you see that VW with the number 2 on it once you were inside the truck?,q,MR. LOVEALL,start_answer
+328,863,31,21,"I could speculate, but I certainly do not recall anything specifically that I saw right after the accident when I was standing on the edge of the truck, no.",a,THE WITNESS,start_question
+329,869,32,1,"Did you have any restrictions on your license on December 1st, 2013?",q,MR. LOVEALL,start_answer
+330,871,32,3,I wear glasses.  That's it.,a,THE WITNESS,start_question
+331,872,32,4,Were you wearing glasses while driving immediately prior to the accident?,q,MR. LOVEALL,start_answer
+332,874,32,6,"Contacts, yes.",a,THE WITNESS,start_question
+333,875,32,7,"I want to go back to when you were talking about -- you said you were navigating through cars, I believe, when you were trying to stop the vehicle. How many lanes of traffic did your car move through while you were attempting to stop the vehicle?",q,MR. LOVEALL,start_answer
+334,880,32,12,I don't recall.,a,THE WITNESS,start_question
+335,881,32,13,"If I could direct your attention, please, to Exhibit 3.",q,MR. LOVEALL,start_answer
+336,883,32,15,Okay.,a,THE WITNESS,start_question
+337,884,32,16,Can you identify the person depicted in this photograph?,q,MR. LOVEALL,start_answer
+338,886,32,18,No.,a,THE WITNESS,start_question
+339,887,32,19,Do you recall seeing this person that day?,q,MR. LOVEALL,start_answer
+340,888,32,20,No.,a,THE WITNESS,start_question
+341,889,32,21,"When you got inside the truck, which is the number 3 truck on Exhibit 1, were there -- what was in the truck other than people?",q,MR. LOVEALL,start_answer
+342,892,32,24,I don't remember.,a,THE WITNESS,start_question
+343,895,33,1,Do you remember whether there was anything other than people?,q,MR. LOVEALL,start_answer
+344,897,33,3,I do not remember.,a,THE WITNESS,start_question
+345,898,33,4,Do you recall when the last time you used your brakes prior to the accident was?,q,MR. LOVEALL,start_answer
+346,900,33,6,"No.  I used my brakes repeatedly since the first time I used them, and they did not respond, in the hopes that they would eventually respond.",a,THE WITNESS,start_question
+347,903,33,9,Do you know how long the truck which has the number 3 on it in Exhibit 1 was stopped prior to your collision with it?,q,MR. LOVEALL,start_answer
+348,906,33,12,No.,a,THE WITNESS,start_question
+349,907,33,13,And when did you first see the truck with the number 3 on it in Exhibit 1?,q,MR. LOVEALL,start_answer
+350,909,33,15,"At some point before I collided with it, but I do not know at which point.",a,THE WITNESS,start_question
+351,911,33,17,Could you see the truck with the number 3 on it in Exhibit 1 prior to the rise in the road?,q,MR. LOVEALL,start_answer
+352,913,33,19,I'm sure I could not.,a,THE WITNESS,start_question
+353,914,33,20,Why are you sure of that?,q,MR. LOVEALL,start_answer
+354,915,33,21,"Because I already testified that prior to the rise in the road, I do not have a recollection of seeing anything in particular.",a,THE WITNESS,start_chat
+355,918,33,24,That's all the questions I have.  Thank you.,side_chat,MR. LOVEALL,start_question
+356,924,34,4,"Miss Pomeroy, this is Attorney Darlene Thebaud.  I represent the defendants Harvey Radey and Stonewall Kitchen.  The Penske truck that's in Exhibit 1.  I'm just going to ask you a few follow-up questions. Can you tell me, did you have any conversations with the driver of that truck, Mr. Radey?",q,MS. THEBAUD,start_answer
+357,931,34,11,"I don't believe so.  If I did, I don't think I knew it was Mr. Radey.  I would have thanked him had I seen him.",a,THE WITNESS,start_question
+358,934,34,14,Okay.  So you did not see him at the scene?,q,MS. THEBAUD,start_chat
+359,936,34,16,Objection.,side_chat,MS. LOPEZ,start_answer
+360,937,34,17,"I saw people at the scene.  If one of them happened to be Mr. Radey, maybe, but I don't recall anyone's name of anybody that I saw at the scene.",a,THE WITNESS,start_question
+361,940,34,20,Do you recall speaking with a gentleman that had a mustache?,q,MS. THEBAUD,start_answer
+362,942,34,22,"I do not recall features of anyone that I spoke with, unfortunately.",a,THE WITNESS,start_question
+363,944,34,24,"Okay.  And the plaintiff in this case, the one that has brought this lawsuit, Miss Heather Rhodes, she was driving a Chevrolet -- no, I'm sorry -- a Chrysler 200.  Did you ever see that vehicle before your impact?",q,MS. THEBAUD,start_answer
+364,951,35,5,"No, not that I recall.",a,THE WITNESS,start_question
+365,952,35,6,"And after the accident, you have stated in your Answers to Interrogatories, answer number 27, that you suffered bruises on your arm and chest from the seatbelt as well as sore ribs; is that correct?",q,MS. THEBAUD,start_answer
+366,956,35,10,Yes.,a,THE WITNESS,start_question
+367,957,35,11,Did you receive any medical treatment for that?,q,MS. THEBAUD,start_answer
+368,959,35,13,"No.  I took my son to Saint Vincent's right after the accident, and then the day after the accident, I did go to get an x-ray to see if any ribs were cracked, but they were not.",a,THE WITNESS,start_question
+369,963,35,17,What was the last thing you said?,q,MS. THEBAUD,start_answer
+370,964,35,18,I did go have an x-ray done a day or two -- I don't recall -- after the accident.,a,THE WITNESS,start_question
+371,966,35,20,Okay.  Did you make a claim for injuries as a result of this accident?,q,MS. THEBAUD,start_answer
+372,968,35,22,With my -- I'm sorry.  I don't understand the question.  I guess I didn't.,a,THE WITNESS,start_question
+373,970,35,24,So did you make a claim for your -- for any injuries related to this accident?,q,MS. THEBAUD,start_answer
+374,974,36,2,I made a claim to my car insurance company for the accident -- in an accident.  I don't recall -- I don't think I made a specific claim for injuries.,a,THE WITNESS,start_question
+375,978,36,6,"Like, the claim that you're talking about, was that for property damage to your vehicle?",q,MS. THEBAUD,start_answer
+376,980,36,8,Yes.,a,THE WITNESS,start_question
+377,981,36,9,Okay.  And did you receive -- do you know if your insurance company was reimbursed for that?,q,MS. THEBAUD,start_answer
+378,983,36,11,For my car?,a,THE WITNESS,start_question
+379,984,36,12,Yes.,q,MS. THEBAUD,start_answer
+380,985,36,13,I just got a check from them to get a new car.  I have no idea how that all works.,a,THE WITNESS,start_question
+381,987,36,15,So you didn't get a check from any other insurance companies?,q,MS. THEBAUD,start_answer
+382,989,36,17,"I don't believe so, no.",a,THE WITNESS,start_question
+383,990,36,18,"And your insurance company is Commerce, correct?",q,MS. THEBAUD,start_answer
+384,992,36,20,State Farm.,a,THE WITNESS,start_question
+385,993,36,21,State Farm.  And was there anything that you could have done to avoid this accident?,q,MS. THEBAUD,start_chat
+386,995,36,23,Objection.,side_chat,MS. LOPEZ,start_answer
+387,996,36,24,"No.  I could have stayed home.  Other than that, no.",a,THE WITNESS,start_chat
+388,1000,37,2,Thank you.  That's all I have.  Thank you.,side_chat,MS. THEBAUD,start_chat
+389,1002,37,4,You're welcome.,side_chat,THE WITNESS,start_question
+390,1005,37,7,"Miss Pomeroy, my name is Jim McLaughlin. I represent Jessica Quist.  I think I have two questions for you.",q,MR. MCLAUGHLIN,start_answer
+391,1008,37,10,Sure.,a,THE WITNESS,start_question
+392,1009,37,11,"What is your date of birth, ma'am?",q,MR. MCLAUGHLIN,start_answer
+393,1010,37,12,10/8/72.,a,THE WITNESS,start_question
+394,1011,37,13,Thank you very much.  And how old was your son at the time of the accident?,q,MR. MCLAUGHLIN,start_answer
+395,1013,37,15,He was two years old.,a,THE WITNESS,start_question
+396,1014,37,16,Okay.  So he was in a car seat in the back?,q,MR. MCLAUGHLIN,start_answer
+397,1016,37,18,Yes.  A five-point harness car seat.,a,THE WITNESS,start_question
+398,1017,37,19,Sure.  And where was your nanny sitting in your vehicle?,q,MR. MCLAUGHLIN,start_answer
+399,1019,37,21,In the front passenger seat.,a,THE WITNESS,start_question
+400,1020,37,22,Great.,q,MR. MCLAUGHLIN,start_chat
+401,1021,37,23,I think that's all I have.  Thank you.,side_chat,MR. MCLAUGHLIN,start_chat
+402,1025,38,1,You're welcome.,side_chat,THE WITNESS,start_chat
+403,1026,38,2,"I'm all set, too.",side_chat,MR. LOVEALL,start_chat
+404,1027,38,3,"It looks like you're good to go, Melissa.  Thank you again for your time.",side_chat,MS. LOPEZ,start_chat
+405,1029,38,5,Thank you very much.,side_chat,THE WITNESS,is brackets
+406,1030,38,6,"(Whereupon, the deposition concluded at 11:56 a.m.) COMMONWEALTH OF MASSACHUSETTS Professional Reporter and Notary Public in and for that the foregoing deposition was taken before me on provided satisfactory evidence of identification as the Governor of the Commonwealth of Massachusetts time and place therein set forth, and was taken down typewriting under my direction and supervision; That said deposition is a true record of the made at the time of the examination. I further certify that I am neither counsel for way interested in the outcome thereof. IN WITNESS WHEREOF, I have subscribed my name Sandra Anne Raymond, Notary Public in and for My Commission expires:   February 22, 2024 THE FOREGOING CERTIFICATION OF THIS SAME BY ANY MEANS UNLESS UNDER THE DIRECT CONTROL",brackets,,symbols
+407,1094,40,1,---------------------------------------------------- INSTRUCTIONS TO DEPONENT,symbols,,symbols
+408,1096,40,3,"---------------------------------------------------- After reading this volume of your deposition, indicate any corrections or changes to your testimony and the reasons therefore on the Errata Sheet supplied to you, and sign it. DO NOT MAKE MARKS OR NOTATIONS ON THE TRANSCRIPT VOLUME ITSELF!",symbols,,symbols
+409,1103,40,10,---------------------------------------------------- ERRATA SHEET HANDLING/DISTRIBUTION,symbols,,symbols
+410,1105,40,12,"---------------------------------------------------- The original of the Errata Sheet has been delivered to Bridget A. Lopez, Esq.  When the Errata Sheet has been completed by the deponent and signed, a copy thereof should be delivered to each party of record and the ORIGINAL thereof delivered to Joshua M. Loveall, Esq., to whom the original deposition transcript was delivered.",symbols,,symbols
+411,1113,40,20,---------------------------------------------------- PLEASE REPLACE THIS PAGE OF THE TRANSCRIPT WITH THE COMPLETED AND SIGNED ERRATA SHEET WHEN YOU RECEIVE IT.,symbols,,symbols
+412,1117,40,24,"---------------------------------------------------- SIGNATURE-ERRATA SHEET PAGE       LINE       CORRECTION, ADDITION, OR",symbols,,symbols
+413,1123,41,3,____       ____       _______________________________,symbols,,symbols
+414,1124,41,4,____       ____       _______________________________,symbols,,symbols
+415,1125,41,5,____       ____       _______________________________,symbols,,symbols
+416,1126,41,6,____       ____       _______________________________,symbols,,symbols
+417,1127,41,7,____       ____       _______________________________,symbols,,symbols
+418,1128,41,8,____       ____       _______________________________,symbols,,symbols
+419,1129,41,9,____       ____       _______________________________,symbols,,symbols
+420,1130,41,10,____       ____       _______________________________,symbols,,symbols
+421,1131,41,11,"____       ____       _______________________________ I, MELISSA POMEROY, have read the foregoing transcript of my deposition taken on August 23, 2019. Except for any corrections or changes noted above, I hereby subscribe to the transcript as an accurate record of the statements made by me. Signed under the penalties of perjury this _____ day of _________________________, 2019.",symbols,,symbols
+422,1142,41,22,_______________________________ MELISSA POMEROY,symbols,,end

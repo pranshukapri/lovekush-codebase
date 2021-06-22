@@ -1,0 +1,936 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," having been duly sworn by the Certified Shorthand Reporter, through the interpreter, testified as follows:",,,symbols
+1,169,6,16,- - -,symbols,,start_question
+2,171,6,18,Good morning.  Can you please state your full name for the record?,q,MR. SAAD,start_answer
+3,173,6,20,"First name Yuan, last name Mao.",a,THE WITNESS,start_question
+4,174,6,21,Do you understand that you are testifying under oath with the same effect as if you were testifying in court?,q,MR. SAAD,start_answer
+5,177,6,24,Yes.,a,THE WITNESS,start_question
+6,178,6,25,Have you been deposed before?,q,MR. SAAD,start_answer
+7,180,7,1,No.,a,THE WITNESS,start_question
+8,181,7,2,"Okay.  I'm going to be asking you some questions today.  If you don't understand a question as I have asked it, please let me know and I will do my best to clarify it. Do you agree with that?",q,MR. SAAD,start_answer
+9,186,7,7,I agree.,a,THE WITNESS,start_question
+10,187,7,8,And if you answer my question it is assumed that you understood the question. Do you understand that?,q,MR. SAAD,start_answer
+11,190,7,11,I understand.,a,THE WITNESS,start_question
+12,191,7,12,If you need a break at any point please let me know and I'd just ask that if there is a question pending at the time that you provide a response to the question and then we can take a break.,q,MR. SAAD,start_answer
+13,195,7,16,Okay.,a,THE WITNESS,start_question
+14,196,7,17,I'd remind you that our conversation today is being recorded by a court reporter here.  And so that she can provide an accurate transcription of our conversation I will remind you to please provide verbal responses to all my questions and try to avoid shaking your head or nodding your head as a response.,q,MR. SAAD,start_answer
+15,203,7,24,Okay.,a,THE WITNESS,start_question
+16,204,7,25,Is there any reason that you cannot testify truthfully and accurately today?,q,MR. SAAD,start_answer
+17,207,8,2,No.,a,THE WITNESS,start_chat
+18,208,8,3,Can I get the witness to put her microphone higher? Yes.  Thank you.,side_chat,THE VIDEOGRAPHER,start_question
+19,212,8,7,Are you on any drugs or medication that may affect your testimony today?,q,MR. SAAD,start_answer
+20,214,8,9,No.,a,THE WITNESS,start_question
+21,215,8,10,Who is your employer?,q,MR. SAAD,start_answer
+22,216,8,11,AU Vista.,a,THE WITNESS,start_question
+23,217,8,12,How long have you worked for AU Vista?,q,MR. SAAD,start_answer
+24,218,8,13,I joined AU Vista in 2015.,a,THE WITNESS,start_question
+25,219,8,14,And who did you work for prior to AU Vista?,q,MR. SAAD,start_answer
+26,220,8,15,AU America. ***ASK ANNE.,a,THE WITNESS,start_question
+27,221,8,16,And how long did you work for AUO America?,q,MR. SAAD,start_answer
+28,222,8,17,I joined AUO America in 2015 until -- excuse me.  2012 until 2015.,a,THE WITNESS,start_question
+29,224,8,19,Do you also work for AU Optronics Corporation?,q,MR. SAAD,start_answer
+30,226,8,21,I don't quite understand this question.,a,THE WITNESS,start_question
+31,227,8,22,What is it about the question that you don't understand?,q,MR. SAAD,start_answer
+32,229,8,24,Because my employer is AU Vista.,a,THE WITNESS,start_question
+33,230,8,25,So is it correct that you do not work for AUO Corporation?,q,MR. SAAD,start_answer
+34,233,9,2,Correct.,a,THE WITNESS,start_question
+35,234,9,3,Have you ever worked for AUO Corporation?,q,MR. SAAD,start_answer
+36,235,9,4,No.,a,THE WITNESS,start_question
+37,236,9,5,Who did you work for prior to working for AUO America?,q,MR. SAAD,start_answer
+38,238,9,7,China Mobile.,a,THE WITNESS,start_question
+39,239,9,8,And how long did you work for China Mobile?,q,MR. SAAD,start_answer
+40,240,9,9,Around one-and-a-half year.,a,THE WITNESS,start_question
+41,241,9,10,Do you consider AUO America to be a separate company from AUO Corporation?,q,MR. SAAD,start_answer
+42,243,9,12,I do not know about that.,a,THE WITNESS,start_question
+43,244,9,13,Why don't you know?,q,MR. SAAD,start_answer
+44,245,9,14,I am only an engineer.,a,THE WITNESS,start_question
+45,246,9,15,I'm just under -- I'm just asking for your understanding of the corporate relationship between those two companies.,q,MR. SAAD,start_answer
+46,249,9,18,I do not know about that because I am only an engineer.,a,THE WITNESS,start_question
+47,251,9,20,What does AU Vista do?,q,MR. SAAD,start_answer
+48,252,9,21,My work is mainly related to R & D testing.,a,THE WITNESS,start_chat
+49,253,9,22,"Interpreter would like to clarify that rendition.  ""My work is mainly related to R & D research.""",side_chat,CHECK INTERPRETER,start_chat
+50,256,9,25,Can the interpreter check with the witness? Correction,side_chat,THE INTERPRETER,start_question
+51,261,10,4,Does AU Vista perform any other function other than R & D research?,q,MR. SAAD,start_answer
+52,263,10,6,I do not know.,a,THE WITNESS,start_question
+53,264,10,7,Does AU Vista do any manufacturing?,q,MR. SAAD,start_answer
+54,265,10,8,I don't know because my work is only for R & D research.,a,THE WITNESS,start_question
+55,267,10,10,How many employees does AU Vista have?,q,MR. SAAD,start_answer
+56,268,10,11,I know that within my team there are three.,a,THE WITNESS,start_question
+57,269,10,12,Outside of your team do you know how many employees AU Vista has?,q,MR. SAAD,start_answer
+58,271,10,14,I am not too sure because all the people that I have contacts with are my team members.,a,THE WITNESS,start_question
+59,273,10,16,Can you give me an approximate answer?,q,MR. SAAD,start_answer
+60,274,10,17,"I'm sorry, I cannot give you an estimate.",a,THE WITNESS,start_question
+61,275,10,18,Is it less than 50?,q,MR. SAAD,start_answer
+62,276,10,19,I am not sure because all the people that I have contact with are my team members.,a,THE WITNESS,start_question
+63,278,10,21,How many offices does AU Vista have?,q,MR. SAAD,start_answer
+64,279,10,22,I am at the Milpitas location.,a,THE WITNESS,start_question
+65,280,10,23,Does AU Vista have any other offices other than the Milpitas location?,q,MR. SAAD,start_answer
+66,282,10,25,Within my team members two of them are working at the Milpitas office.  The other one works from home.  I do not know about the others.,a,THE WITNESS,start_question
+67,286,11,3,How many employees are at the Milpitas location?,q,MR. SAAD,start_answer
+68,288,11,5,Currently AU Vista has two employees.,a,THE WITNESS,start_question
+69,289,11,6,Are you aware of any other AU Vista employees other than those two that you work with?,q,MR. SAAD,start_answer
+70,291,11,8,I am not sure.,a,THE WITNESS,start_question
+71,292,11,9,Why are you not sure?,q,MR. SAAD,start_answer
+72,293,11,10,Because I can only speak for the facts that I have experience with.,a,THE WITNESS,start_question
+73,295,11,12,Okay.  So you don't know if AU Vista has any other employees other than the two that you work with; is that correct?,q,MR. SAAD,start_chat
+74,298,11,15,Objection to form.,side_chat,MS. WANG,start_chat
+75,299,11,16,I do not quite understand the question.,side_chat,THE WITNESS,start_question
+76,302,11,19,Is it correct that you don't know any other AU Vista employees other than the two that you work with in Milpitas?,q,MR. SAAD,start_answer
+77,305,11,22,At the Milpitas office there were only myself and one other colleague of mine.,a,THE WITNESS,start_question
+78,307,11,24,Okay.  Is it correct that you don't know any other AU Vista employees other than the two that work in the Milpitas location and the one other that you mentioned that works from home?,q,MR. SAAD,start_answer
+79,312,12,3,Would you please repeat this question?,a,THE WITNESS,start_question
+80,313,12,4,"Is it correct that you don't know any other AU Vista employees other than the two that work in the Milpitas location, including yourself, and the other -- and the one other that you mentioned that works from home?",q,MR. SAAD,start_answer
+81,318,12,9,Not correct.,a,THE WITNESS,start_question
+82,319,12,10,Okay.  What is not correct about it?,q,MR. SAAD,start_answer
+83,320,12,11,I also know of the CEO of AUVI.  AU Vista.,a,THE WITNESS,start_question
+84,321,12,12,Who is the CEO of AU Vista?,q,MR. SAAD,start_answer
+85,322,12,13,I only know we only call this person as T.K.,a,THE WITNESS,start_question
+86,323,12,14,"Where is T.K., the CEO, located?",q,MR. SAAD,start_answer
+87,324,12,15,I am not sure.,a,THE WITNESS,start_question
+88,325,12,16,You don't know where the CEO's office is?,q,MR. SAAD,start_answer
+89,326,12,17,I do not know.,a,THE WITNESS,start_question
+90,327,12,18,Does AUO America have any employees at the Milpitas location?,q,MR. SAAD,start_answer
+91,329,12,20,Would you please clarify this question?  Are you asking me about the AU Vista Milpitas location?,a,THE WITNESS,start_question
+92,331,12,22,Yes.,q,MR. SAAD,start_answer
+93,332,12,23,Not at the moment.,a,THE WITNESS,start_question
+94,333,12,24,In the past has AUO America had employees at the Milpitas location?,q,MR. SAAD,start_answer
+95,336,13,1,"May I ask when you said ""in the past"" when were you referring to?",a,THE WITNESS,start_question
+96,338,13,3,Any time prior to now.,q,MR. SAAD,start_answer
+97,339,13,4,No.,a,THE WITNESS,start_question
+98,340,13,5,Has AUO America ever had an office in Milpitas?,q,MR. SAAD,start_answer
+99,342,13,7,Yes.,a,THE WITNESS,start_question
+100,343,13,8,Was that located at a different place than the office you are currently at in Milpitas?,q,MR. SAAD,start_answer
+101,345,13,10,Yes.,a,THE WITNESS,start_question
+102,346,13,11,Does that office still exist?,q,MR. SAAD,start_answer
+103,347,13,12,No.,a,THE WITNESS,start_question
+104,348,13,13,When was the last time that AUO America had employees at that location in Milpitas?,q,MR. SAAD,start_answer
+105,350,13,15,June of this year.,a,THE WITNESS,start_question
+106,351,13,16,And did AUO close that office in June of this year?,q,MR. SAAD,start_answer
+107,353,13,18,I am not sure.,a,THE WITNESS,start_question
+108,354,13,19,Have you ever worked at the AUO America office in Milpitas?,q,MR. SAAD,start_answer
+109,356,13,21,Yes.,a,THE WITNESS,start_question
+110,357,13,22,When did you work there?,q,MR. SAAD,start_answer
+111,358,13,23,From 2012 to 2015.,a,THE WITNESS,start_question
+112,359,13,24,Okay.  So in 2015 is it correct that you relocated to the office you're currently at in Milpitas?,q,MR. SAAD,start_answer
+113,363,14,2,No.,a,THE WITNESS,start_question
+114,364,14,3,Okay.  What is incorrect about that?,q,MR. SAAD,start_answer
+115,365,14,4,The timing for the relocation.,a,THE WITNESS,start_question
+116,366,14,5,When did the relocation occur?,q,MR. SAAD,start_answer
+117,367,14,6,June of this year.,a,THE WITNESS,start_question
+118,368,14,7,Okay.  And where did you work at prior to June of this year?,q,MR. SAAD,start_answer
+119,370,14,9,"I don't quite understand the question, so are you asking me about the location?",a,THE WITNESS,start_question
+120,372,14,11,"Yes.  I'll restate the question. The office that you moved from in June of this year, was that different -- another different office than the AUO America office?",q,MR. SAAD,start_answer
+121,376,14,15,No.,a,THE WITNESS,start_question
+122,377,14,16,Okay.  So did you work at the AUO America office prior to June of 2019?,q,MR. SAAD,start_answer
+123,379,14,18,The office location of AU Vista was there.,a,THE WITNESS,start_question
+124,380,14,19,"Okay.  And prior to -- strike that. Going back to the time you've been at AU Vista.  Since 2015 has AU Vista had any other employees that you're aware of, other than the two that you've told me about?",q,MR. SAAD,start_chat
+125,385,14,24,Objection to form.,side_chat,MS. WANG,start_chat
+126,386,14,25,No.,side_chat,THE WITNESS,start_question
+127,389,15,2,Has AUO Corporation ever had any employees located at any of the Milpitas offices that you've worked at?,q,MR. SAAD,start_answer
+128,392,15,5,I do not quite understand this question. Could you please elaborate on this?,a,THE WITNESS,start_question
+129,394,15,7,What is it that you don't understand about the question?,q,MR. SAAD,start_answer
+130,396,15,9,"So by ""employees"" do you mean we shared a office -- did you mean that we share a office or do you mean any other things?",a,THE WITNESS,start_question
+131,399,15,12,I'll rephrase the question. Are you aware of any AUO Corporation employees that have been located in Milpitas since the time of 2012 when you started working for AUO America?,q,MR. SAAD,start_chat
+132,404,15,17,"May the interpreter clarify, would the main interpreter please reinterpret the question?  I think you got the year incorrect.",side_chat,CHECK INTERPRETER,start_chat
+133,408,15,21,Okay.,side_chat,THE INTERPRETER,start_chat
+134,409,15,22,Yes.,side_chat,THE WITNESS,start_question
+135,411,15,24,How many?,q,MR. SAAD,start_answer
+136,412,15,25,I am not sure.,a,THE WITNESS,start_question
+137,414,16,1,Are you currently aware of any AUO Corporation employees that work in Milpitas?,q,MR. SAAD,start_answer
+138,416,16,3,No.,a,THE WITNESS,start_question
+139,417,16,4,When was the last time that you were aware that an AUO Corporation employee worked in Milpitas?,q,MR. SAAD,start_answer
+140,419,16,6,June of this year.,a,THE WITNESS,start_question
+141,420,16,7,What was the name of the employees that you're referring to that worked for AUO Corporation in Milpitas?,q,MR. SAAD,start_answer
+142,423,16,10,I do not recall all of their names.,a,THE WITNESS,start_question
+143,424,16,11,Can you tell me any of their names?,q,MR. SAAD,start_answer
+144,425,16,12,May I ask are you referring to the year of 2019?,a,THE WITNESS,start_question
+145,427,16,14,"Yes, so let's start with that.",q,MR. SAAD,start_answer
+146,428,16,15,"Maggie, Eric, Paul.",a,THE WITNESS,start_question
+147,429,16,16,Any others?,q,MR. SAAD,start_answer
+148,430,16,17,"I do not remember very clearly, because some of the people left.",a,THE WITNESS,start_question
+149,432,16,19,"And Maggie, Eric and Paul were all employed by AUO Corporation; is that correct?",q,MR. SAAD,start_answer
+150,434,16,21,No.,a,THE WITNESS,start_question
+151,435,16,22,Who were they employed by?,q,MR. SAAD,start_answer
+152,436,16,23,"From what I heard, Maggie and Paul probably already -- correction.  It should be Maggie and Eric. From what I have heard of Maggie and Eric probably already left the company because of the relocation.",a,THE WITNESS,start_question
+153,443,17,4,Okay.  But before they left the company who did they work for?  Which company did they work for?,q,MR. SAAD,start_answer
+154,445,17,6,I am not too sure because they are not my team members.,a,THE WITNESS,start_question
+155,447,17,8,Did they work for AU Vista?,q,MR. SAAD,start_answer
+156,448,17,9,No.,a,THE WITNESS,start_question
+157,449,17,10,Did they work for AUO America?,q,MR. SAAD,start_answer
+158,450,17,11,I am not sure.,a,THE WITNESS,start_question
+159,451,17,12,Did they work for AUO Corporation?,q,MR. SAAD,start_answer
+160,452,17,13,I am not sure.,a,THE WITNESS,start_question
+161,453,17,14,Are there any other companies that they possibly could have worked for?,q,MR. SAAD,start_answer
+162,455,17,16,I am not sure.,a,THE WITNESS,start_question
+163,456,17,17,"And what about Paul, which company did he work for?",q,MR. SAAD,start_answer
+164,458,17,19,I am not sure.,a,THE WITNESS,start_question
+165,459,17,20,Did Paul work for AU Vista?,q,MR. SAAD,start_answer
+166,460,17,21,No.,a,THE WITNESS,start_question
+167,461,17,22,And is it correct that you don't know whether Paul worked for AUO Corporation or AUO America?,q,MR. SAAD,start_answer
+168,464,17,25,I am not sure.,a,THE WITNESS,start_question
+169,466,18,1,Does Paul still work for AUO?,q,MR. SAAD,start_chat
+170,467,18,2,Objection to form.,side_chat,MS. WANG,start_chat
+171,468,18,3,I only know of his working location.,side_chat,THE WITNESS,start_question
+172,471,18,6,Where does Paul work at now?,q,MR. SAAD,start_answer
+173,472,18,7,He works at the Detroit office.,a,THE WITNESS,start_question
+174,473,18,8,Do you know what Paul's last name is?,q,MR. SAAD,start_answer
+175,474,18,9,Y-e.,a,THE WITNESS,start_question
+176,475,18,10,Why did Maggie and Eric leave the company?,q,MR. SAAD,start_answer
+177,476,18,11,I don't know.,a,THE WITNESS,start_question
+178,477,18,12,Are you aware of any other offices that have AU Vista employees other than Milpitas?,q,MR. SAAD,start_answer
+179,479,18,14,I have never been to any other office other than the Milpitas one.,a,THE WITNESS,start_question
+180,481,18,16,Are you aware of any other offices that have AU Vista employees other than Milpitas?,q,MR. SAAD,start_answer
+181,483,18,18,No.,a,THE WITNESS,start_question
+182,484,18,19,What is your title?,q,MR. SAAD,start_answer
+183,485,18,20,R & D electrical engineer.,a,THE WITNESS,start_question
+184,486,18,21,Has that always been your title at AU Vista?,q,MR. SAAD,start_answer
+185,487,18,22,Yes.,a,THE WITNESS,start_question
+186,488,18,23,What are your responsibilities as an R & D electrical engineer at AU Vista?,q,MR. SAAD,start_answer
+187,490,18,25,To develop proto -- prototype for new technologies.,a,THE WITNESS,start_question
+188,493,19,2,And is that for LCD display panels?,q,MR. SAAD,start_answer
+189,494,19,3,No.,a,THE WITNESS,start_question
+190,495,19,4,What types of products would the technology that you're working on go into?,q,MR. SAAD,start_answer
+191,497,19,6,"I am doing the development of prototype, not -- not the stages for the products.",a,THE WITNESS,start_question
+192,499,19,8,"Okay.  But what -- the technology that you're developing and the prototypes, what types of products is that being designed for?",q,MR. SAAD,start_answer
+193,502,19,11,This is the trade secrets for our company. The project that I'm currently working for was mainly for the non display application catalog wise is bio chip for medical application.,a,THE WITNESS,start_chat
+194,506,19,15,"Can the interpreter clarify one word?  ""Was mainly for the nondisplay application.""",side_chat,CHECK INTERPRETER,start_question
+195,510,19,19,Is that the technology that you worked at the entire time that you've been at AU Vista?,q,MR. SAAD,start_answer
+196,512,19,21,No.,a,THE WITNESS,start_question
+197,513,19,22,What other technologies have you done research and development on during your time at AU Vista?,q,MR. SAAD,start_answer
+198,516,19,25,I am mainly responsible for the nondisplay technology.  Prior to that it was fingerprint sensor.,a,THE WITNESS,start_question
+199,520,20,3,Have you ever worked on any display technology?,q,MR. SAAD,start_chat
+200,522,20,5,Objection to form.,side_chat,MS. WANG,start_chat
+201,523,20,6,"Would you please clarify the definition for ""display technology,"" because it is a pretty broad technology.",side_chat,THE WITNESS,start_question
+202,527,20,10,"Well, if I understand -- sorry.  If I understand your testimony correctly, you're saying that the current project you're working on is nondisplay technology. And so I'm asking if under your categorization of that term if you have ever worked on any display type technology.",q,MR. SAAD,start_answer
+203,534,20,17,"May I clarify that?  When I talk to nondisplay it was for nondisplay application, not technology.  And that display I'm talking about is not for the monitor development.",a,THE WITNESS,start_question
+204,538,20,21,Okay.  Have you ever worked on any LCD display-based technology?,q,MR. SAAD,start_answer
+205,540,20,23,No.,a,THE WITNESS,start_question
+206,541,20,24,When you worked for AUO America what was your title?,q,MR. SAAD,start_answer
+207,544,21,1,R & D Electrical Engineer.,a,THE WITNESS,start_question
+208,545,21,2,Were your responsibilities as an R & D electrical engineer with AUO America any different than your responsibilities as the same position under AU Vista?,q,MR. SAAD,start_answer
+209,549,21,6,No.,a,THE WITNESS,start_question
+210,550,21,7,"Did anything change about your job from the time you worked for AUO America to the time you started working for AU Vista, other than the company that you actually worked for?",q,MR. SAAD,start_chat
+211,554,21,11,Objection to form.,side_chat,MS. WANG,start_chat
+212,555,21,12,No.,side_chat,THE WITNESS,start_question
+213,557,21,14,Are you aware of any other business that AU Vista conducts other than research development?,q,MR. SAAD,start_answer
+214,559,21,16,No.,a,THE WITNESS,start_question
+215,560,21,17,After AU Vista was formed in 2015 did AUO America perform any other research and development?,q,MR. SAAD,start_answer
+216,562,21,19,I don't know.  I left AUO America in 2015.,a,THE WITNESS,start_question
+217,563,21,20,When you worked for AUO America how many employees were in the Milpitas office?,q,MR. SAAD,start_answer
+218,565,21,22,I do not recall that clearly.,a,THE WITNESS,start_question
+219,566,21,23,Can you give me an approximate number?,q,MR. SAAD,start_answer
+220,567,21,24,I am sorry.  I do not recall that very clearly because many people left and came.,a,THE WITNESS,start_question
+221,570,22,1,Does AUO America manufacture any products?,q,MR. SAAD,start_answer
+222,571,22,2,Would you please tell me what time line are we talking about?,a,THE WITNESS,start_question
+223,573,22,4,Currently.,q,MR. SAAD,start_answer
+224,574,22,5,I don't know.,a,THE WITNESS,start_question
+225,575,22,6,Are you aware of any time that AUO America has manufactured any products?,q,MR. SAAD,start_answer
+226,577,22,8,I don't know because I'm only a R & D engineer responding -- responsible for developing prototypes.,a,THE WITNESS,start_question
+227,580,22,11,Has your work ever involved any interactions with customers of AUO?,q,MR. SAAD,start_answer
+228,582,22,13,No.,a,THE WITNESS,start_question
+229,583,22,14,"As it relates to the United States LCD display market, what role does AUO America play as part of AUO Corporation's business?",q,MR. SAAD,start_chat
+230,586,22,17,Objection to form.,side_chat,MS. WANG,start_chat
+231,587,22,18,I don't know.,side_chat,THE WITNESS,start_question
+232,589,22,20,Are you aware of any functions that AUO America performs as part of its business?,q,MR. SAAD,start_answer
+233,591,22,22,I don't know because I am only an engineer.,a,THE WITNESS,start_question
+234,592,22,23,"When you worked for AUO America you didn't know anything else about the company that you worked for, other than the fact that you were an engineer; is that correct?",q,MR. SAAD,start_chat
+235,597,23,2,Objection to form.,side_chat,MS. WANG,start_chat
+236,598,23,3,"I only knew my office and the titles of my coworkers, nothing else.",side_chat,THE WITNESS,start_question
+237,601,23,6,Does AUO America perform any product development?,q,MR. SAAD,start_answer
+238,603,23,8,I don't know.,a,THE WITNESS,start_question
+239,604,23,9,Does AUO America provide any customer support?,q,MR. SAAD,start_answer
+240,606,23,11,I don't know.,a,THE WITNESS,start_chat
+241,607,23,12,"Counsel, we've been going for about an hour.  Would you like to take a break?",side_chat,MS. WANG,start_chat
+242,609,23,14,We can take a break.,side_chat,MR. SAAD,start_chat
+243,610,23,15,We are now going off the record.  The time is 10:28 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+244,612,23,17,(Recess taken:  10:28 a.m. until 10:39 a.m.),brackets,,is brackets
+245,613,23,18,(PLAINTIFF'S EXHIBIT 1 MARKED.),brackets,,start_chat
+246,614,23,19,We are now going back on the record.  The time is 10:39 a.m.,side_chat,THE VIDEOGRAPHER,start_question
+247,617,23,22,"Okay.  Welcome back, Ms. Mao.  I believe you have in front of you now what's been marked as Exhibit 1.  If you'll please take a look at that document. Have you seen this document before?",q,MR. SAAD,start_answer
+248,623,24,2,No.,a,THE WITNESS,start_question
+249,624,24,3,Do you have any understanding of what this document is?,q,MR. SAAD,start_answer
+250,626,24,5,No.,a,THE WITNESS,start_question
+251,627,24,6,Did you do anything to prepare for this deposition?,q,MR. SAAD,start_answer
+252,629,24,8,Yes.,a,THE WITNESS,start_question
+253,630,24,9,What did you do?,q,MR. SAAD,start_answer
+254,631,24,10,I met with my attorney.,a,THE WITNESS,start_question
+255,632,24,11,And who is that?,q,MR. SAAD,start_answer
+256,633,24,12,Wendy.,a,THE WITNESS,start_question
+257,634,24,13,And when did you meet with your attorney?,q,MR. SAAD,start_answer
+258,635,24,14,Yesterday.,a,THE WITNESS,start_question
+259,636,24,15,How long did you meet yesterday?,q,MR. SAAD,start_answer
+260,637,24,16,"I don't remember that very clearly, but I think it started around 9:30 until about 2:00 to 3:00 when I left.",a,THE WITNESS,start_question
+261,640,24,19,And where did you meet yesterday?,q,MR. SAAD,start_answer
+262,641,24,20,Here.,a,THE WITNESS,start_question
+263,642,24,21,Was anybody else in attendance of that meeting other than your attorney?,q,MR. SAAD,start_answer
+264,644,24,23,Yes.,a,THE WITNESS,start_question
+265,645,24,24,Who was that?,q,MR. SAAD,start_answer
+266,646,24,25,"I don't recall this person's name, but she is right there.",a,THE WITNESS,start_question
+267,649,25,2,Which one are you referring to?,q,MR. SAAD,start_answer
+268,650,25,3,"Yes, that young lady.",a,THE WITNESS,start_question
+269,651,25,4,Okay.,q,MR. SAAD,start_chat
+270,652,25,5,For the record the witness is pointing to Ms. Abigail Lubow.,side_chat,MS. WANG,start_question
+271,655,25,8,"Other than those two attorneys that you've identified, was anybody else present at the meeting yesterday?",q,MR. SAAD,start_answer
+272,658,25,11,Yes.,a,THE WITNESS,start_question
+273,659,25,12,Who?,q,MR. SAAD,start_answer
+274,660,25,13,I don't recall this person's name.,a,THE WITNESS,start_question
+275,661,25,14,Was it a man or a woman?,q,MR. SAAD,start_answer
+276,662,25,15,Man.,a,THE WITNESS,start_question
+277,663,25,16,And do you know if this man was an attorney?,q,MR. SAAD,start_answer
+278,664,25,17,I am not sure.,a,THE WITNESS,start_question
+279,665,25,18,Was this man in attendance for the entire meeting?,q,MR. SAAD,start_answer
+280,667,25,20,No.,a,THE WITNESS,start_question
+281,668,25,21,How long was he in attendance for?,q,MR. SAAD,start_answer
+282,669,25,22,"I don't recall that clearly, but it was around half an hour.",a,THE WITNESS,start_question
+283,671,25,24,Did you review any documents during the meeting?,q,MR. SAAD,start_answer
+284,674,26,1,Yes.,a,THE WITNESS,start_question
+285,675,26,2,What documents did you review during the meeting?,q,MR. SAAD,start_answer
+286,677,26,4,I don't recall that clearly.,a,THE WITNESS,start_question
+287,678,26,5,What types of documents were they that you reviewed?,q,MR. SAAD,start_answer
+288,680,26,7,"Because there were quite a few of them, so I don't recall that clearly.",a,THE WITNESS,start_question
+289,682,26,9,Were they AUO documents?,q,MR. SAAD,start_answer
+290,683,26,10,I am not sure.,a,THE WITNESS,start_question
+291,684,26,11,What do you remember about the documents?,q,MR. SAAD,start_answer
+292,685,26,12,My own LinkedIn account information.,a,THE WITNESS,start_question
+293,686,26,13,Okay.  Other than that document do you remember anything about any of the other documents you reviewed?,q,MR. SAAD,start_answer
+294,689,26,16,I don't recall.,a,THE WITNESS,start_question
+295,690,26,17,Did you bring any documents with you to the meeting?,q,MR. SAAD,start_answer
+296,692,26,19,No.,a,THE WITNESS,start_question
+297,693,26,20,Did you provide any documents to counsel in connection with this deposition?,q,MR. SAAD,start_answer
+298,695,26,22,No.,a,THE WITNESS,start_question
+299,696,26,23,Have you provided any information to anyone at AUO Corporation in connection with this case?,q,MR. SAAD,start_answer
+300,698,26,25,No.,a,THE WITNESS,start_question
+301,700,27,1,Other than meeting with the attorneys yesterday did you do anything else to prepare for this deposition?,q,MR. SAAD,start_answer
+302,703,27,4,No.,a,THE WITNESS,start_question
+303,704,27,5,What is your understanding of why you are here today?,q,MR. SAAD,start_answer
+304,706,27,7,I don't know.,a,THE WITNESS,start_question
+305,707,27,8,Are you aware that AUO Corporation has been sued for patent infringement?,q,MR. SAAD,start_answer
+306,709,27,10,All I know was that the counsel contacted me for the deposition.,a,THE WITNESS,start_question
+307,711,27,12,But can you answer my previous question yes or no?  Are you aware that AUO has been sued for patent infringement?,q,MR. SAAD,start_answer
+308,714,27,15,Yes.,a,THE WITNESS,start_question
+309,715,27,16,Do you know the name of the company that has sued AUO?,q,MR. SAAD,start_answer
+310,717,27,18,I don't recall the name very clearly.,a,THE WITNESS,start_question
+311,718,27,19,Do you know what patents are involved in these lawsuits?,q,MR. SAAD,start_answer
+312,720,27,21,I don't know.,a,THE WITNESS,start_question
+313,721,27,22,Have you ever seen the patents that have been asserted against AUO in these lawsuits?,q,MR. SAAD,start_answer
+314,723,27,24,No.,a,THE WITNESS,start_question
+315,724,27,25,Do you know what products are accused of infringement in this case?,q,MR. SAAD,start_answer
+316,727,28,2,I don't know.,a,THE WITNESS,start_question
+317,728,28,3,When did you first learn about this lawsuit?,q,MR. SAAD,start_answer
+318,729,28,4,"I do not recall exactly which month was that, but the attorney emailed me.",a,THE WITNESS,start_question
+319,731,28,6,"The Paul Ye that you mentioned earlier who now works in the Detroit office, do you know what his title is?",q,MR. SAAD,start_answer
+320,734,28,9,I am not sure.,a,THE WITNESS,start_question
+321,735,28,10,Do you know what types of responsibilities he has with the company?,q,MR. SAAD,start_answer
+322,737,28,12,I am not sure.,a,THE WITNESS,start_question
+323,738,28,13,Did he do research and development?,q,MR. SAAD,start_answer
+324,739,28,14,I am not sure.,a,THE WITNESS,start_question
+325,740,28,15,Do you know anything about what Paul Ye did or does for AUO?,q,MR. SAAD,start_chat
+326,742,28,17,Objection to form.,side_chat,MS. WANG,start_chat
+327,743,28,18,I only know that his title is engineer.,side_chat,THE WITNESS,start_question
+328,746,28,21,Did you ever work directly with Paul Ye?,q,MR. SAAD,start_answer
+329,747,28,22,No.,a,THE WITNESS,start_question
+330,748,28,23,How many offices does AUO America currently have?,q,MR. SAAD,start_answer
+331,750,28,25,I don't know.  I left AUO America in 2015.,a,THE WITNESS,start_question
+332,752,29,1,Which offices are you currently aware of that AUO America has in the U.S.?,q,MR. SAAD,start_answer
+333,754,29,3,I don't know.,a,THE WITNESS,start_question
+334,755,29,4,"Well, you already told me that they have a Detroit office; correct?",q,MR. SAAD,start_answer
+335,757,29,6,Yes.,a,THE WITNESS,start_question
+336,758,29,7,Okay.  Are you aware of any other offices of AUO America other than the Detroit office?,q,MR. SAAD,start_answer
+337,760,29,9,I don't know.,a,THE WITNESS,start_question
+338,761,29,10,Does AUO America have a Houston office?,q,MR. SAAD,start_answer
+339,762,29,11,I don't know.,a,THE WITNESS,start_question
+340,763,29,12,Are you aware if AUO America has ever had a Houston office?,q,MR. SAAD,start_answer
+341,765,29,14,I don't know.,a,THE WITNESS,start_question
+342,766,29,15,"When you worked for AUO America which offices, other than the Milpitas office, were you aware of that AUO America maintained?",q,MR. SAAD,start_answer
+343,769,29,18,No.,a,THE WITNESS,start_question
+344,770,29,19,When you worked for AUO America did AUO America have a Detroit office?,q,MR. SAAD,start_answer
+345,772,29,21,No.,a,THE WITNESS,start_question
+346,773,29,22,When did AUO America open the Detroit office?,q,MR. SAAD,start_answer
+347,775,29,24,I don't know.,a,THE WITNESS,start_question
+348,776,29,25,Was it before June of this year?,q,MR. SAAD,start_answer
+349,778,30,1,I don't know.,a,THE WITNESS,start_question
+350,779,30,2,Where is the headquarters of AU Vista?,q,MR. SAAD,start_answer
+351,780,30,3,I don't know.  All I know is that AU Vista currently has the office in Milpitas.,a,THE WITNESS,start_question
+352,782,30,5,Is the Detroit office the headquarters for AUO America?,q,MR. SAAD,start_answer
+353,784,30,7,I don't know.,a,THE WITNESS,start_question
+354,785,30,8,When you worked for AUO America was Milpitas the headquarters for AUO America?,q,MR. SAAD,start_answer
+355,787,30,10,I don't know.,a,THE WITNESS,start_question
+356,788,30,11,Who is the CEO of AUO America?,q,MR. SAAD,start_answer
+357,789,30,12,I don't know.,a,THE WITNESS,start_question
+358,790,30,13,Did you ever know the CEO of AUO America?,q,MR. SAAD,start_chat
+359,791,30,14,Objection to form.,side_chat,MS. WANG,start_chat
+360,792,30,15,I don't know.,side_chat,THE WITNESS,start_question
+361,794,30,17,When you worked for AUO America you didn't know the CEO of the company that you worked for?,q,MR. SAAD,start_answer
+362,796,30,19,"Correct, I did not know.",a,THE WITNESS,start_question
+363,797,30,20,Did you know any of the executives of AUO America when you worked for AUO America?,q,MR. SAAD,start_answer
+364,799,30,22,"No, I did not know.",a,THE WITNESS,start_question
+365,800,30,23,In your current role for AU Vista who do you report to?,q,MR. SAAD,start_answer
+366,802,30,25,To R & D manager Tung Tsun.,a,THE WITNESS,start_question
+367,804,31,1,Where is the R & D manager that you report to located?,q,MR. SAAD,start_answer
+368,806,31,3,In AU Vista Milpitas office.,a,THE WITNESS,start_question
+369,807,31,4,Did you say -- is it a he or a she?,q,MR. SAAD,start_answer
+370,808,31,5,A he.,a,THE WITNESS,start_question
+371,809,31,6,And did you say his name was Tung Tsun?,q,MR. SAAD,start_answer
+372,810,31,7,"Yes, Tung Tsun.",a,THE WITNESS,start_question
+373,811,31,8,Can you spell the last name?,q,MR. SAAD,start_answer
+374,812,31,9,T-u-n-g T-s-u-n.,a,THE WITNESS,start_question
+375,813,31,10,Okay.  Thank you. And who does Mr. Tsun report to?,q,MR. SAAD,start_answer
+376,815,31,12,Yu Chieh.,a,THE WITNESS,start_question
+377,816,31,13,So was that a person's name?,q,MR. SAAD,start_answer
+378,817,31,14,"Yes, a person's name.",a,THE WITNESS,start_question
+379,818,31,15,Can you spell that name?,q,MR. SAAD,start_answer
+380,819,31,16,"I am sorry, because this is related to the traditional characters and spelling used in Taiwan so I am afraid that I may not be able to spell this person's name.",a,THE WITNESS,start_question
+381,823,31,20,Can you give me your best guess in English characters how you would spell his name?,q,MR. SAAD,start_answer
+382,825,31,22,Y-u-j-i-e-h.,a,THE WITNESS,start_question
+383,826,31,23,And is this person an employee of AU Vista?,q,MR. SAAD,start_answer
+384,827,31,24,No.,a,THE WITNESS,start_question
+385,828,31,25,What company does he work for?,q,MR. SAAD,start_answer
+386,830,32,1,AUO Taiwan.,a,THE WITNESS,start_question
+387,831,32,2,Do you know that person's position?,q,MR. SAAD,start_answer
+388,832,32,3,Yes.,a,THE WITNESS,start_question
+389,833,32,4,What is the title?,q,MR. SAAD,start_answer
+390,834,32,5,Associate of the vice-president of AUO ARC.,a,THE WITNESS,start_chat
+391,835,32,6,"May the interpreter clarify?  ""Associate vice-president of AUO ARC.""",side_chat,CHECK INTERPRETER,start_question
+392,838,32,9,What does ARC stand for?,q,MR. SAAD,start_answer
+393,839,32,10,Advanced Technology Research Center.,a,THE WITNESS,start_question
+394,840,32,11,Have you ever gone to Taiwan for training?,q,MR. SAAD,start_answer
+395,841,32,12,Please clarify as of the timing of the event.,a,THE WITNESS,start_question
+396,843,32,14,While you have been an employee of AU Vista have you ever gone to Taiwan for training?,q,MR. SAAD,start_answer
+397,845,32,16,No.,a,THE WITNESS,start_question
+398,846,32,17,During your time with AU Vista have you always reported to Mr. Tsun?,q,MR. SAAD,start_answer
+399,848,32,19,Yes.,a,THE WITNESS,start_question
+400,849,32,20,When you were an employee of AUO America who did you report to?,q,MR. SAAD,start_answer
+401,851,32,22,Tung Tsun.,a,THE WITNESS,start_question
+402,852,32,23,The same person that you now report to; correct?,q,MR. SAAD,start_answer
+403,854,32,25,Yes.,a,THE WITNESS,start_question
+404,856,33,1,And while you were an employee of AUO America did Tung Tsun also report to Yu Chieh?,q,MR. SAAD,start_answer
+405,858,33,3,Yes.,a,THE WITNESS,start_question
+406,859,33,4,And that is the same person that Mr. Tsun now reports to; correct?,q,MR. SAAD,start_answer
+407,861,33,6,Yes.,a,THE WITNESS,start_question
+408,862,33,7,And during the time that you were an employee of AUO America was Yu Chieh still the associate vice-president of AUO ARC?,q,MR. SAAD,start_answer
+409,865,33,10,Yes.,a,THE WITNESS,start_question
+410,866,33,11,During the time that you were an employee of AUO America did Mr. Tung Tsun report to anybody else at AUO America?,q,MR. SAAD,start_answer
+411,869,33,14,No.,a,THE WITNESS,start_question
+412,870,33,15,And during your time as an employee at AUO America did you ever go to Taiwan for training?,q,MR. SAAD,start_answer
+413,872,33,17,Yes.,a,THE WITNESS,start_question
+414,873,33,18,What type of training did you receive in Taiwan when you were an employee of AUO America?,q,MR. SAAD,start_answer
+415,875,33,20,"Would you please clarify the question?  You asked about what type, so what type of what?",a,THE WITNESS,start_question
+416,877,33,22,In what areas or subject matter were you trained in when you went to Taiwan as an employee of AUO America?,q,MR. SAAD,start_answer
+417,880,33,25,Mainly related to AUO ARC's internal training to introduce all internal projects among ARC.,a,THE WITNESS,start_question
+418,884,34,3,Was it technical training?,q,MR. SAAD,start_answer
+419,885,34,4,How do you define what is a technical training?,a,THE WITNESS,start_question
+420,887,34,6,"Was the training that you received with regard to the technology that you would be working on, or was it more procedural in nature regarding the policies and procedures of the ARC?",q,MR. SAAD,start_chat
+421,891,34,10,Objection to form.,side_chat,MS. WANG,start_chat
+422,892,34,11,It was more towards technologies.,side_chat,THE WITNESS,start_question
+423,895,34,14,Did you receive any training in the area of LCD display technology?,q,MR. SAAD,start_answer
+424,897,34,16,May I ask did you mean during the time when I worked for AUO America?,a,THE WITNESS,start_question
+425,899,34,18,Yes.,q,MR. SAAD,start_answer
+426,900,34,19,The training I received was mainly related to nondisplay application to be used to use the TFT process to develop nondisplay products.,a,THE WITNESS,start_question
+427,903,34,22,Okay.  But as an AUO America employee you went to Taiwan and received training regarding the TFT processes that AUO employs; is that correct?,q,MR. SAAD,start_chat
+428,906,34,25,Objection to form.,side_chat,MS. WANG,start_chat
+429,908,35,1,I don't quite understand this question.  Would you please clarify?,side_chat,THE WITNESS,start_question
+430,911,35,4,"Can you explain to me what you mean by ""nondisplay applications""?",q,MR. SAAD,start_answer
+431,913,35,6,"Yes. For instance, if we have LCD plus a monitor it will be a LCD monitor.  However, when we're talking about nondisplay application just like what my current project is doing, which is a bio chip. So this project does not involve any color filter display components.",a,THE WITNESS,start_chat
+432,920,35,13,"May the interpreter clarify that? ""If you add LCD display to -- LCD to a display it becomes a monitor.  Nondisplay application means that -- which I'm working on, which is the bio chip, has no LCD or color filter components.""",side_chat,CHECK INTERPRETER,start_question
+433,928,35,21,Does the AUO ARC provide instructions to you regarding the type of work that you're going to be doing?,q,MR. SAAD,start_answer
+434,931,35,24,No.,a,THE WITNESS,start_question
+435,932,35,25,Where do you receive your instructions regarding the research that you're going to be working on?,q,MR. SAAD,start_answer
+436,936,36,3,From R & D manager Tung Tsun.,a,THE WITNESS,start_question
+437,937,36,4,And does he receive direction from somebody at the AUO ARC regarding what he communicates to you regarding the research you were doing?,q,MR. SAAD,start_chat
+438,940,36,7,Objection to form.,side_chat,MS. WANG,start_chat
+439,941,36,8,I don't know.,side_chat,THE WITNESS,start_question
+440,943,36,10,Do you work with or interact with anybody in Taiwan as part of your research?,q,MR. SAAD,start_answer
+441,945,36,12,Yes.,a,THE WITNESS,start_question
+442,946,36,13,Who in Taiwan do you interact with as part of your research?,q,MR. SAAD,start_answer
+443,948,36,15,Han Sheng.,a,THE WITNESS,start_question
+444,949,36,16,Is that the only person?,q,MR. SAAD,start_answer
+445,950,36,17,This person is the only name that I can think of at the moment.,a,THE WITNESS,start_question
+446,952,36,19,Okay.  And what type of interactions do you have with Han Sheng regarding the research?,q,MR. SAAD,start_answer
+447,954,36,21,Communication and discussion related to technical issues.,a,THE WITNESS,start_question
+448,956,36,23,Is Han Sheng working on research for similar technology in Taiwan?,q,MR. SAAD,start_answer
+449,958,36,25,Yes.,a,THE WITNESS,start_question
+450,960,37,1,And Han Sheng is an employee of AUO Corporation; correct?,q,MR. SAAD,start_answer
+451,962,37,3,Yes.,a,THE WITNESS,start_question
+452,963,37,4,Do any other AU Vista employees report directly to Tung Tsun?,q,MR. SAAD,start_chat
+453,965,37,6,Objection to form.,side_chat,MS. WANG,start_chat
+454,966,37,7,May the interpreter clarify that rendition?  I think it was Tung Tsun rather than Han Sheng.,side_chat,CHECK INTERPRETER,start_chat
+455,969,37,10,That's correct.,side_chat,MR. SAAD,start_chat
+456,970,37,11,Yes.,side_chat,THE WITNESS,start_question
+457,972,37,13,How many?,q,MR. SAAD,start_answer
+458,973,37,14,"Including me, two in total.",a,THE WITNESS,start_question
+459,974,37,15,Okay.  And the other person is the -- what is their name?,q,MR. SAAD,start_answer
+460,976,37,17,Andy Lin.,a,THE WITNESS,start_question
+461,977,37,18,And is Andy Lin the person you referred to that works from home?,q,MR. SAAD,start_answer
+462,979,37,20,Yes.,a,THE WITNESS,start_question
+463,980,37,21,And other than you and Andy Lin does anybody else report to Tung Tsun?,q,MR. SAAD,start_answer
+464,982,37,23,No.,a,THE WITNESS,start_question
+465,983,37,24,"The CEO of AU Vista, T.K. that you referred to earlier, is he located in Taiwan?",q,MR. SAAD,start_answer
+466,986,38,1,I don't know.,a,THE WITNESS,start_question
+467,987,38,2,Have you ever met T.K.?,q,MR. SAAD,start_answer
+468,988,38,3,Yes.,a,THE WITNESS,start_question
+469,989,38,4,Where did you meet him?,q,MR. SAAD,start_answer
+470,990,38,5,At the Milpitas office.,a,THE WITNESS,start_question
+471,991,38,6,Does T.K. have an office in Milpitas?,q,MR. SAAD,start_answer
+472,992,38,7,No.,a,THE WITNESS,start_question
+473,993,38,8,Does AUO ARC provide any policies or procedures to you that you must comply with?,q,MR. SAAD,start_answer
+474,995,38,10,No.,a,THE WITNESS,start_question
+475,996,38,11,Do you prepare any reports or articles regarding your research that are provided to AUO ARC?,q,MR. SAAD,start_chat
+476,999,38,14,Objection to form.,side_chat,MS. WANG,start_chat
+477,1000,38,15,No.,side_chat,THE WITNESS,start_question
+478,1002,38,17,Do you prepare any reports regarding your research in general?,q,MR. SAAD,start_answer
+479,1004,38,19,Yes.,a,THE WITNESS,start_question
+480,1005,38,20,And who do you provide those reports to?,q,MR. SAAD,start_answer
+481,1006,38,21,"My R & D manager, Tung Tsun.",a,THE WITNESS,start_question
+482,1007,38,22,And does he provide those reports to anybody in Taiwan?,q,MR. SAAD,start_answer
+483,1009,38,24,I don't know. I don't know.,a,THE WITNESS,start_question
+484,1012,39,1,Do you travel to Taiwan as part of your job responsibilities for any purpose other than the training we discussed earlier?,q,MR. SAAD,start_answer
+485,1015,39,4,"Would you please clarify regarding the term ""earlier""?  So what exactly was the time frame that you were referring to?",a,THE WITNESS,start_question
+486,1018,39,7,As an AU Vista employee have you traveled to Taiwan for any purpose as part of your job?,q,MR. SAAD,start_answer
+487,1020,39,9,No.,a,THE WITNESS,start_question
+488,1021,39,10,"As an AUO America employee did you travel to Taiwan for any purpose as part of your job, other than the training that we discussed?",q,MR. SAAD,start_answer
+489,1024,39,13,No.,a,THE WITNESS,start_question
+490,1025,39,14,Does AUO ARC have any employees in the United States?,q,MR. SAAD,start_answer
+491,1027,39,16,No.,a,THE WITNESS,start_question
+492,1028,39,17,When you were an employee of AUO America how many employees were in the research and development group?,q,MR. SAAD,start_answer
+493,1031,39,20,There are four -- there were four in my team.,a,THE WITNESS,start_question
+494,1033,39,22,"Can you name them, please?",q,MR. SAAD,start_answer
+495,1034,39,23,"Tung Tsun, myself, Chia Wei, Chien Ming.",a,THE WITNESS,start_question
+496,1035,39,24,"And the last two that you named, can you spell those names?",q,MR. SAAD,start_answer
+497,1038,40,1,I am sorry.  I do not recall the spelling clearly.,a,THE WITNESS,start_question
+498,1040,40,3,Can you give me your best guess?,q,MR. SAAD,start_answer
+499,1041,40,4,"Because their names are Taiwanese traditional characters with spellings that I am not familiar with, so I do not recall the spellings of their names very clearly.",a,THE WITNESS,start_question
+500,1045,40,8,Are either of those two people still employees of AUO?,q,MR. SAAD,start_chat
+501,1047,40,10,Objection to form.,side_chat,MS. WANG,start_chat
+502,1048,40,11,I am not sure.,side_chat,THE WITNESS,start_question
+503,1050,40,13,Do you know where they are located?,q,MR. SAAD,start_answer
+504,1051,40,14,In Taiwan.,a,THE WITNESS,start_question
+505,1052,40,15,And when did they move to Taiwan?,q,MR. SAAD,start_answer
+506,1053,40,16,I don't recall very clearly because I did not contact them after I left.,a,THE WITNESS,start_question
+507,1055,40,18,After you left where?,q,MR. SAAD,start_answer
+508,1056,40,19,AUO America.,a,THE WITNESS,start_question
+509,1057,40,20,Did they remain employees of AUO America after you left?,q,MR. SAAD,start_answer
+510,1059,40,22,No.,a,THE WITNESS,start_question
+511,1060,40,23,But they did not become employees of AU Vista when you did?,q,MR. SAAD,start_answer
+512,1062,40,25,Correct.,a,THE WITNESS,start_chat
+513,1064,41,1,We can take a break.,side_chat,MR. SAAD,start_chat
+514,1065,41,2,This now marks the end of disk labeled number one in the videotaped deposition of Regina Mao. We're now going off the record.  The time is 11:35 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+515,1070,41,7,(Recess taken:  11:35 a.m. until 11:44 a.m.),brackets,,start_chat
+516,1071,41,8,This now marks the beginning of disk labeled number two in the videotaped deposition of Regina Mao. We're now going back on the record.  The time is 11:44 a.m.,side_chat,THE VIDEOGRAPHER,start_question
+517,1077,41,14,Are you aware if there is or if there ever was a San Diego office for AUO or any of the AUO companies?,q,MR. SAAD,start_answer
+518,1080,41,17,I don't know.,a,THE WITNESS,start_question
+519,1081,41,18,Did you ever know any AUO employees that worked in San Diego?,q,MR. SAAD,start_answer
+520,1083,41,20,I don't know.,a,THE WITNESS,start_question
+521,1084,41,21,You mentioned earlier that you reviewed your LinkedIn account profile as part of the documents you reviewed yesterday; correct?,q,MR. SAAD,start_answer
+522,1087,41,24,Yes.,a,THE WITNESS,start_question
+523,1088,41,25,Are you the author of the information that is in your LinkedIn profile?,q,MR. SAAD,start_answer
+524,1091,42,2,Yes.,a,THE WITNESS,start_question
+525,1092,42,3,And do you believe that the information in your LinkedIn profile is accurate?,q,MR. SAAD,start_answer
+526,1094,42,5,No.,a,THE WITNESS,start_question
+527,1095,42,6,What is inaccurate about it?,q,MR. SAAD,start_answer
+528,1096,42,7,"The account was written when I first joined AUO America, hence some technical words in my profile was not correct.",a,THE WITNESS,start_question
+529,1099,42,10,When was the last time that you updated your LinkedIn profile?,q,MR. SAAD,start_answer
+530,1101,42,12,"I don't recall that clearly, but at least five to six years.",a,THE WITNESS,start_question
+531,1103,42,14,"As part of the description of your work in your LinkedIn profile you state that you... ""collaborate with AUO system design team and electrical engineering team and material process team to qualify and develop LCD display technology and TFT process."" Is that an accurate statement?",q,MR. SAAD,start_chat
+532,1110,42,21,Objection to form.,side_chat,MS. WANG,start_chat
+533,1111,42,22,No.,side_chat,THE WITNESS,start_question
+534,1113,42,24,Was that an accurate statement at the time that you authored it?,q,MR. SAAD,start_answer
+535,1116,43,1,No.,a,THE WITNESS,start_question
+536,1117,43,2,Who is the AUO system design team that you refer to?,q,MR. SAAD,start_answer
+537,1119,43,4,All the teams that I mentioned was referring to the ARC engineers.,a,THE WITNESS,start_question
+538,1121,43,6,And those engineers are located in Taiwan; is that correct?,q,MR. SAAD,start_answer
+539,1123,43,8,Correct.,a,THE WITNESS,start_question
+540,1124,43,9,"And when you say that part of what you did was to qualify and develop LCD display technology and TFT process, is that an accurate statement?",q,MR. SAAD,start_chat
+541,1127,43,12,Objection to form.,side_chat,MS. WANG,start_chat
+542,1128,43,13,No.,side_chat,THE WITNESS,start_question
+543,1130,43,15,What is inaccurate about it?,q,MR. SAAD,start_answer
+544,1131,43,16,"At that time I just joined the company not too long ago, and I did not distinguish the technologies that well at the time.  Actually, those technologies related to ARC technologies were all for nondisplay application.  So we should remove the term ""LCD"" in those description.",a,THE WITNESS,start_question
+545,1137,43,22,"What do you mean by the term ""qualify""?",q,MR. SAAD,start_answer
+546,1138,43,23,I can't remember clearly it was so long ago.,a,THE WITNESS,start_question
+547,1139,43,24,That's not a term that you use in your everyday work?,q,MR. SAAD,start_answer
+548,1142,44,1,I don't quite understand your question.  So what are you referring to now?,a,THE WITNESS,start_question
+549,1144,44,3,"I'm referring to the term ""qualify"" and whether that is something that is -- has ever been part of your job responsibilities.  To qualify a technology, what does that mean?",q,MR. SAAD,start_chat
+550,1148,44,7,Objection to form.,side_chat,MS. WANG,start_chat
+551,1149,44,8,I still don't quite understand the question.  Would you further clarify the question?  Because that happened so long ago I don't remember that so clearly.,side_chat,THE WITNESS,start_question
+552,1154,44,13,"Okay.  So you don't understand or have any understanding of what you meant by the term ""qualify"" in your LinkedIn profile?",q,MR. SAAD,start_answer
+553,1157,44,16,I don't recall the purpose that I stated that sentence at the time.,a,THE WITNESS,start_question
+554,1159,44,18,"Okay.  You also state as part of your job responsibilities in your LinkedIn profile that you worked as a -- as ""primary technical contact window to deliver display solution to U.S. partners and support project for final mass production need."" Is that an accurate statement about the work that you've ever done?",q,MR. SAAD,start_chat
+555,1166,44,25,Objection to form.,side_chat,MS. WANG,start_chat
+556,1168,45,1,No.,side_chat,THE WITNESS,start_question
+557,1170,45,3,Who are the U.S. partners that you refer to in that statement?,q,MR. SAAD,start_answer
+558,1172,45,5,Technical partners -- technical cooperation partners.,a,THE WITNESS,start_question
+559,1174,45,7,And who would those be in particular?,q,MR. SAAD,start_answer
+560,1175,45,8,Depending on different projects.  For different projects we have different technology cooperation partners.,a,THE WITNESS,start_question
+561,1178,45,11,Who are some of the companies that are -- that you have worked with as technology partner companies?,q,MR. SAAD,start_answer
+562,1181,45,14,May I asked you were referring to AUO America or AUO Vista?,a,THE WITNESS,start_question
+563,1183,45,16,Let's start with AU Vista.,q,MR. SAAD,start_answer
+564,1184,45,17,"The current technical cooperation partners for my current project is a company called Cytsi, C-y-t-s-i, which is a split of startup company from Stanford University.",a,THE WITNESS,start_question
+565,1188,45,21,And during your time with AUO America who were the technology partners that you worked with?,q,MR. SAAD,start_answer
+566,1190,45,23,"For instance, U.S.'s IC vendors Synaptics.",a,THE WITNESS,start_question
+567,1191,45,24,Okay.  And during either your time with AU Vista or AUO America did you ever perform any display testing and review the test results to ensure performance specifications were met?,q,MR. SAAD,start_chat
+568,1196,46,3,Objection to form.,side_chat,MS. WANG,start_chat
+569,1197,46,4,No.,side_chat,THE WITNESS,start_question
+570,1199,46,6,Did you ever conduct any testing as part of your job responsibilities?,q,MR. SAAD,start_answer
+571,1201,46,8,No.,a,THE WITNESS,start_question
+572,1202,46,9,And as an employee of AU Vista have you ever attended any conferences or trade shows?,q,MR. SAAD,start_answer
+573,1204,46,11,Yes.,a,THE WITNESS,start_question
+574,1205,46,12,Which conference or trade show have you attended as an employee of AU Vista?,q,MR. SAAD,start_answer
+575,1207,46,14,There have been many so I cannot recall all of their names.,a,THE WITNESS,start_question
+576,1209,46,16,Are those conferences in the United States or are they outside of the United States?,q,MR. SAAD,start_answer
+577,1211,46,18,In the United States.,a,THE WITNESS,start_question
+578,1212,46,19,And what is the -- what is your role or what are your responsibilities when you attend these conferences or trade shows?,q,MR. SAAD,start_chat
+579,1215,46,22,Objection to form.,side_chat,MS. WANG,start_chat
+580,1216,46,23,"Because I am a R & D engineer, so my responsibility is R & D research.",side_chat,THE WITNESS,start_question
+581,1220,47,1,Okay.  And what type of research are you performing by attending these trade shows or conferences?,q,MR. SAAD,start_answer
+582,1223,47,4,To evaluate these new technologies.,a,THE WITNESS,start_question
+583,1224,47,5,Have you ever attended these conferences or trade shows with other AUO employees from Taiwan?,q,MR. SAAD,start_answer
+584,1226,47,7,Yes.,a,THE WITNESS,start_question
+585,1227,47,8,Who have you attended a conference or trade show with from AUO Taiwan?,q,MR. SAAD,start_answer
+586,1229,47,10,Excuse me.  Would you please repeat the question again?,a,THE WITNESS,start_question
+587,1231,47,12,Who from AUO Taiwan have you attended a conference or trade show with?,q,MR. SAAD,start_answer
+588,1233,47,14,Because there have been many people I cannot recall everybody's name.,a,THE WITNESS,start_question
+589,1235,47,16,Are those AUO Taiwan employees that attend these trade shows part of the ARC?,q,MR. SAAD,start_answer
+590,1237,47,18,Yes.,a,THE WITNESS,start_question
+591,1238,47,19,Do you ever present any of the research or results of your work at any of these conferences or trade shows?,q,MR. SAAD,start_answer
+592,1241,47,22,No.,a,THE WITNESS,start_question
+593,1242,47,23,Is the work that you do for AU Vista specific to the U.S. market in any way?,q,MR. SAAD,start_chat
+594,1244,47,25,Objection to form.,side_chat,MS. WANG,start_chat
+595,1246,48,1,I don't know because I am only a R & D engineer that is responsible for developing prototypes.,side_chat,THE WITNESS,start_question
+596,1250,48,5,"Why does AUO employ people like yourself in the United States to perform research here, instead of just doing it all in Taiwan?",q,MR. SAAD,start_chat
+597,1253,48,8,Objection to form.,side_chat,MS. WANG,start_chat
+598,1254,48,9,I don't know.,side_chat,THE WITNESS,start_question
+599,1256,48,11,Who are AUO America's customers?,q,MR. SAAD,start_answer
+600,1257,48,12,I don't know.,a,THE WITNESS,start_question
+601,1258,48,13,You don't know any customer that AUO America has ever had?,q,MR. SAAD,start_answer
+602,1260,48,15,I don't know.,a,THE WITNESS,start_question
+603,1261,48,16,Can you name for me any customer that AUO America had at the time that you were an employee of AUO America?,q,MR. SAAD,start_answer
+604,1264,48,19,I don't know because I am not a sales.,a,THE WITNESS,start_question
+605,1265,48,20,Do you know anybody at AUO America who is -- who works in sales?,q,MR. SAAD,start_answer
+606,1267,48,22,John.,a,THE WITNESS,start_question
+607,1268,48,23,What is John's last name?,q,MR. SAAD,start_answer
+608,1269,48,24,(In English)  I don't remember.,a,THE WITNESS,start_question
+609,1270,48,25,Did John work in Milpitas at one point in time?,q,MR. SAAD,start_answer
+610,1273,49,2,Yes.,a,THE WITNESS,start_question
+611,1274,49,3,Do you know what John's title was?,q,MR. SAAD,start_answer
+612,1275,49,4,I don't quite remember it now because I left AUO America in 2015.,a,THE WITNESS,start_question
+613,1277,49,6,Does -- where does John now work?,q,MR. SAAD,start_answer
+614,1278,49,7,The Detroit office.,a,THE WITNESS,start_question
+615,1279,49,8,Is John's last name Cho?,q,MR. SAAD,start_answer
+616,1280,49,9,Might be but I am not sure.,a,THE WITNESS,start_question
+617,1281,49,10,Do you know anybody at AUO America that works in product development?,q,MR. SAAD,start_answer
+618,1283,49,12,No.,a,THE WITNESS,start_question
+619,1284,49,13,Have you ever known anybody at AUO America that works in product development?,q,MR. SAAD,start_answer
+620,1286,49,15,No.,a,THE WITNESS,start_question
+621,1287,49,16,Do you know how AUO America sells its products in the United States?,q,MR. SAAD,start_answer
+622,1289,49,18,I don't know.,a,THE WITNESS,start_question
+623,1290,49,19,Have you ever been to a manufacturing facility in Taiwan?,q,MR. SAAD,start_chat
+624,1292,49,21,Objection.,side_chat,MS. WANG,start_chat
+625,1293,49,22,Let me strike that.,side_chat,MR. SAAD,start_question
+626,1295,49,24,Have you ever been to any of AUO's manufacturing facilities in Taiwan?,q,MR. SAAD,start_chat
+627,1298,50,1,"Interpreter would like to clarify it's ""AUO,"" not ""AUO America.""",side_chat,CHECK INTERPRETER,start_chat
+628,1300,50,3,Yes.,side_chat,THE WITNESS,start_question
+629,1302,50,5,Which manufacturing facility have you been to in Taiwan?,q,MR. SAAD,start_answer
+630,1304,50,7,The headquarter in Hsinchu.,a,THE WITNESS,start_question
+631,1305,50,8,Do you know what types of products are manufactured there in Hsinchu?,q,MR. SAAD,start_answer
+632,1307,50,10,"They did not manufacture product there, because that was a R & D line.",a,THE WITNESS,start_question
+633,1309,50,12,So do they manufacture the prototypes there that you work on?,q,MR. SAAD,start_answer
+634,1311,50,14,I am not sure.,a,THE WITNESS,start_question
+635,1312,50,15,Where are the prototypes that you work on manufactured?,q,MR. SAAD,start_answer
+636,1314,50,17,In Taiwan.,a,THE WITNESS,start_question
+637,1315,50,18,A particular manufacturing facility in Taiwan that manufactures the prototypes?,q,MR. SAAD,start_answer
+638,1317,50,20,I don't know.,a,THE WITNESS,start_question
+639,1318,50,21,And how do you get the prototypes from Taiwan?,q,MR. SAAD,start_answer
+640,1320,50,23,The ARC engineers are responsible for that.,a,THE WITNESS,start_question
+641,1321,50,24,Do the AR -- strike that. Do the ARC engineers send the prototypes to you?,q,MR. SAAD,start_answer
+642,1325,51,2,Yes.,a,THE WITNESS,start_question
+643,1326,51,3,What happens to a prototype that is considered successful?  Does it become a product?,q,MR. SAAD,start_chat
+644,1328,51,5,Objection to the form.,side_chat,MS. WANG,start_chat
+645,1329,51,6,I don't know.  It was not up to me.,side_chat,THE WITNESS,start_question
+646,1332,51,9,Does AUO America perform any qualification of its products for customers?,q,MR. SAAD,start_chat
+647,1334,51,11,Objection to form.,side_chat,MS. WANG,start_chat
+648,1335,51,12,I don't know.,side_chat,THE WITNESS,start_question
+649,1337,51,14,Do you know if any of the engineers at AUO America perform qualification of the products as part of their responsibilities?,q,MR. SAAD,start_answer
+650,1340,51,17,I don't know.,a,THE WITNESS,start_question
+651,1341,51,18,Does AUO America perform any types of testing of display panels in the United States?,q,MR. SAAD,start_answer
+652,1343,51,20,I am not sure.,a,THE WITNESS,start_question
+653,1344,51,21,You're not aware of any testing that was conducted in a Milpitas location during your time as an employee of AUO America?,q,MR. SAAD,start_answer
+654,1347,51,24,I am not sure.,a,THE WITNESS,start_question
+655,1348,51,25,"Other than Han Sheng that you mentioned earlier that you interact with in Taiwan, do you interact with any other employees of AUO in Taiwan?",q,MR. SAAD,start_answer
+656,1352,52,3,Would you please give me a time line for this question?  Was it during AU Vista or AUO America?,a,THE WITNESS,start_question
+657,1355,52,6,We'll start with AU Vista.  During your time as an employee of AU Vista.,q,MR. SAAD,start_answer
+658,1357,52,8,Han Sheng is my major contact person at AU Vista.,a,THE WITNESS,start_question
+659,1359,52,10,What is Han Sheng's title?,q,MR. SAAD,start_answer
+660,1360,52,11,Engineer.  I am not sure of this person's title.,a,THE WITNESS,start_question
+661,1362,52,13,Are there other people other than Han Sheng that you also interact with that are in Taiwan?,q,MR. SAAD,start_answer
+662,1364,52,15,ARC engineer.,a,THE WITNESS,start_question
+663,1365,52,16,How often do you interact with the ARC engineers in Taiwan?,q,MR. SAAD,start_answer
+664,1367,52,18,(In English)  Several times every month.,a,THE WITNESS,start_question
+665,1368,52,19,And what do you discuss during these interactions with the ARC engineers?,q,MR. SAAD,start_answer
+666,1370,52,21,(In English)  Technical issues of the prototype.,a,THE WITNESS,start_question
+667,1372,52,23,Are the ARC engineers that you're working with in Taiwan also working on the same project?,q,MR. SAAD,start_answer
+668,1374,52,25,No.,a,THE WITNESS,start_question
+669,1376,53,1,Is Han Sheng working on the same project as you?,q,MR. SAAD,start_answer
+670,1378,53,3,Would you please clarify the name of this question?,a,THE WITNESS,start_question
+671,1380,53,5,"Oh, Han Sheng?",q,MR. SAAD,start_answer
+672,1381,53,6,Did you mean Tung Tsun or Han Sheng?,a,THE WITNESS,start_question
+673,1382,53,7,No.  Han Sheng in Taiwan.  So my pronunciation is not very good.,q,MR. SAAD,start_answer
+674,1384,53,9,"Not Han Sheng, no.",a,THE WITNESS,start_question
+675,1385,53,10,Okay.  And then during your time as an AUO America employee was there somebody else that was a primary contact in Taiwan that you interacted with?,q,MR. SAAD,start_answer
+676,1388,53,13,I don't remember that very clearly.,a,THE WITNESS,start_question
+677,1389,53,14,During your time as an AUO America employee did you have the same level of interaction with engineers in Taiwan where it occurred several times a month?,q,MR. SAAD,start_answer
+678,1393,53,18,I don't remember that very clearly.,a,THE WITNESS,start_question
+679,1394,53,19,During your time as an AUO America employee was there anyone in Taiwan that was also working on the same project that you were working on?,q,MR. SAAD,start_answer
+680,1397,53,22,I don't remember that very clearly.,a,THE WITNESS,start_chat
+681,1398,53,23,"Counsel, lunch is here.",side_chat,MS. WANG,start_chat
+682,1399,53,24,Yeah.  Why don't we take a break for lunch.,side_chat,MR. SAAD,start_chat
+683,1402,54,1,We are now going off the record.  The time is 12:30 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+684,1404,54,3,(Lunch recess:  12:30 p.m. until 1:19 p.m.),brackets,,start_chat
+685,1405,54,4,We are now going back on the record.  The time is 1:19 p.m.,side_chat,THE VIDEOGRAPHER,start_question
+686,1408,54,7,"Okay.  Welcome back, Ms. Mao. Do you receive work assignments from anyone in AUO Taiwan?",q,MR. SAAD,start_answer
+687,1411,54,10,No.,a,THE WITNESS,start_question
+688,1412,54,11,All of your work assignments come from your R & D manager; is that correct?,q,MR. SAAD,start_answer
+689,1414,54,13,Yes.,a,THE WITNESS,start_question
+690,1415,54,14,And you don't know where he gets his guidance from or directions from; is that correct?,q,MR. SAAD,start_answer
+691,1417,54,16,Correct.,a,THE WITNESS,start_question
+692,1418,54,17,"Okay.  What about documents, do you share any sort of documents with anybody in Taiwan?",q,MR. SAAD,start_answer
+693,1420,54,19,No.,a,THE WITNESS,start_question
+694,1421,54,20,Do you receive any sort of memos or statements of work from anybody in Taiwan?,q,MR. SAAD,start_answer
+695,1423,54,22,No.,a,THE WITNESS,start_question
+696,1424,54,23,Are there any network drives that you have access to information that you -- strike that. Do you have access to any network drives that are located in Taiwan?,q,MR. SAAD,start_answer
+697,1429,55,2,I am not sure.,a,THE WITNESS,start_question
+698,1430,55,3,Are you not sure about where the network drives are located?,q,MR. SAAD,start_answer
+699,1432,55,5,Yes.,a,THE WITNESS,start_question
+700,1433,55,6,Are you aware whether anybody in Taiwan has access to the same network drives that you do?,q,MR. SAAD,start_answer
+701,1435,55,8,I am not sure.,a,THE WITNESS,start_question
+702,1436,55,9,What types of documents are stored on your network drives?,q,MR. SAAD,start_answer
+703,1438,55,11,"Things like business trip reimbursement forms, something that nature.",a,THE WITNESS,start_question
+704,1440,55,13,And for those types of documents who do you provide those documents to?,q,MR. SAAD,start_answer
+705,1442,55,15,So I would upload the information to what we called a AU Vista review system.,a,THE WITNESS,start_question
+706,1444,55,17,And then who reviews it on the AU Vista review system?,q,MR. SAAD,start_answer
+707,1446,55,19,"My superior, Tung Tsun.",a,THE WITNESS,start_question
+708,1447,55,20,Who else uses the AU Vista review system other than yourself?,q,MR. SAAD,start_answer
+709,1449,55,22,Tung Tsun.,a,THE WITNESS,start_question
+710,1450,55,23,So why do you need a review system if it's only you and him that are using this system?  Strike that. Are you aware of anybody else other than yourself and Tung Tsun that use the AU Vista review system?,q,MR. SAAD,start_answer
+711,1457,56,4,H.R. and financial person.,a,THE WITNESS,start_question
+712,1458,56,5,Does AU Vista have its own H.R. personnel?,q,MR. SAAD,start_answer
+713,1459,56,6,Yes.,a,THE WITNESS,start_question
+714,1460,56,7,Who is the H.R. person for AU Vista?,q,MR. SAAD,start_answer
+715,1461,56,8,Tiffany.,a,THE WITNESS,start_question
+716,1462,56,9,What is Tiffany's last name?,q,MR. SAAD,start_answer
+717,1463,56,10,L-i-a-n.,a,THE WITNESS,start_question
+718,1464,56,11,And she is an employee of AU Vista; is that correct?,q,MR. SAAD,start_answer
+719,1466,56,13,I am not sure.,a,THE WITNESS,start_question
+720,1467,56,14,Who else would she be an employee of?,q,MR. SAAD,start_answer
+721,1468,56,15,Because as far as I know she works as a consultant.,a,THE WITNESS,start_question
+722,1470,56,17,Where is she located at?,q,MR. SAAD,start_answer
+723,1471,56,18,I am not sure.,a,THE WITNESS,start_question
+724,1472,56,19,Have you ever met Tiffany?,q,MR. SAAD,start_answer
+725,1473,56,20,Yes.,a,THE WITNESS,start_question
+726,1474,56,21,Where did you meet her?,q,MR. SAAD,start_answer
+727,1475,56,22,AU Vista's Milpitas office.,a,THE WITNESS,start_question
+728,1476,56,23,Does AU Vista have its own financial personnel?,q,MR. SAAD,start_answer
+729,1478,56,25,Yes.,a,THE WITNESS,start_question
+730,1480,57,1,Who are the financial employees for AU Vista that you know?,q,MR. SAAD,start_answer
+731,1482,57,3,Also Tiffany.,a,THE WITNESS,start_question
+732,1483,57,4,Anybody else?,q,MR. SAAD,start_answer
+733,1484,57,5,No.,a,THE WITNESS,start_question
+734,1485,57,6,Do you know if Tiffany holds the title of chief financial officer?,q,MR. SAAD,start_answer
+735,1487,57,8,No.,a,THE WITNESS,start_question
+736,1488,57,9,"No, you don't know or no, she does not?",q,MR. SAAD,start_answer
+737,1489,57,10,(In English)  I don't know.,a,THE WITNESS,start_question
+738,1490,57,11,Do you know the name Ming Han Liu?,q,MR. SAAD,start_answer
+739,1491,57,12,I don't know.,a,THE WITNESS,start_question
+740,1492,57,13,You've never heard that name?,q,MR. SAAD,start_answer
+741,1493,57,14,No.,a,THE WITNESS,start_question
+742,1494,57,15,Do you know the name Linh Ha?,q,MR. SAAD,start_answer
+743,1495,57,16,Yes.,a,THE WITNESS,start_question
+744,1496,57,17,Who is Linh Ha?,q,MR. SAAD,start_answer
+745,1497,57,18,This person is an attorney.,a,THE WITNESS,start_question
+746,1498,57,19,Is she an employee of AU Vista?,q,MR. SAAD,start_answer
+747,1499,57,20,I am not sure.,a,THE WITNESS,start_question
+748,1500,57,21,Have you ever met Linh Ha?,q,MR. SAAD,start_answer
+749,1501,57,22,Yes.,a,THE WITNESS,start_question
+750,1502,57,23,When have you met Linh Ha?,q,MR. SAAD,start_answer
+751,1503,57,24,At AU Vista's Milpitas office.,a,THE WITNESS,start_question
+752,1504,57,25,Is Linh Ha located in Milpitas?,q,MR. SAAD,start_answer
+753,1506,58,1,No.,a,THE WITNESS,start_question
+754,1507,58,2,Where is her office?,q,MR. SAAD,start_answer
+755,1508,58,3,I don't know.,a,THE WITNESS,start_question
+756,1509,58,4,When did you meet Linh Ha?,q,MR. SAAD,start_answer
+757,1510,58,5,"I don't quite remember the exact date, but I think it was around March or April of this year.  I am not too sure.",a,THE WITNESS,start_question
+758,1513,58,8,Prior to that you've never met Linh Ha before?,q,MR. SAAD,start_answer
+759,1515,58,10,I met with her before.,a,THE WITNESS,start_question
+760,1516,58,11,"What is the AU Vista review system used for, other than expense reports?",q,MR. SAAD,start_answer
+761,1518,58,13,Application for business travel NDA document review.,a,THE WITNESS,start_question
+762,1520,58,15,"And do you review NDAs in the AU review system, or are you providing -- are you uploading the NDAs to there for someone else to review?",q,MR. SAAD,start_chat
+763,1523,58,18,Objection to form.,side_chat,MS. WANG,start_chat
+764,1524,58,19,I upload the NDAs.,side_chat,THE WITNESS,start_question
+765,1526,58,21,Okay.  And who reviews it from there?,q,MR. SAAD,start_answer
+766,1527,58,22,"My superior, Tung Tsun.",a,THE WITNESS,start_question
+767,1528,58,23,What types of documents do you generate as part of your work on a regular basis?,q,MR. SAAD,start_answer
+768,1530,58,25,(In English)  Weekly reports and monthly reports.,a,THE WITNESS,start_question
+769,1533,59,2,And what do you do with the weekly reports and monthly reports after you've generated them?,q,MR. SAAD,start_chat
+770,1535,59,4,Objection to form.,side_chat,MS. WANG,start_chat
+771,1536,59,5,I don't quite understand this question.  Would you please further elaborate?,side_chat,THE WITNESS,start_question
+772,1539,59,8,After you have generated a weekly report do you provide it to somebody?,q,MR. SAAD,start_answer
+773,1541,59,10,Yes.,a,THE WITNESS,start_question
+774,1542,59,11,Who?,q,MR. SAAD,start_answer
+775,1543,59,12,"R & D manager, Tung Tsun.",a,THE WITNESS,start_question
+776,1544,59,13,And how do you provide that report to Tung Tsun?,q,MR. SAAD,start_answer
+777,1546,59,15,Through email.,a,THE WITNESS,start_question
+778,1547,59,16,Okay.  And is the same true of the monthly report?,q,MR. SAAD,start_answer
+779,1549,59,18,Yes.,a,THE WITNESS,start_question
+780,1550,59,19,"Do you know if anybody reviews either the weekly report or the monthly reports, other than Tung Tsun?",q,MR. SAAD,start_answer
+781,1553,59,22,I don't know.,a,THE WITNESS,start_question
+782,1554,59,23,Do you know if Tung Tsun includes the information provided to him in the weekly reports or monthly reports into any other document that he provides to someone else?,q,MR. SAAD,start_answer
+783,1559,60,2,I don't know.,a,THE WITNESS,start_question
+784,1560,60,3,Other than the weekly reports and the monthly reports are there any other reports that you generate on a regular basis as part of your job?,q,MR. SAAD,start_answer
+785,1563,60,6,No.,a,THE WITNESS,start_question
+786,1564,60,7,Do you have access to any technical documents that are related to the products that AUO makes themselves?,q,MR. SAAD,start_answer
+787,1567,60,10,No.,a,THE WITNESS,start_question
+788,1568,60,11,Do you ever request access or -- strike that. Do you ever request any documents from AUO in Taiwan?,q,MR. SAAD,start_answer
+789,1572,60,15,No.,a,THE WITNESS,start_question
+790,1573,60,16,Do you ever request any technical information from AUO in Taiwan?,q,MR. SAAD,start_chat
+791,1575,60,18,Objection to form.,side_chat,MS. WANG,start_chat
+792,1576,60,19,No.,side_chat,THE WITNESS,start_question
+793,1578,60,21,"What form does the interactions you have with the ARC engineers come in?  Sorry, strike that. The communications that you have with the ARC engineers and Han Sheng, what form of communication do those take place in?",q,MR. SAAD,start_answer
+794,1584,61,1,Telephone.,a,THE WITNESS,start_question
+795,1585,61,2,Do you exchange emails or have video conferences?,q,MR. SAAD,start_chat
+796,1587,61,4,Objection to form.,side_chat,MS. WANG,start_chat
+797,1588,61,5,Would you please clarify this question further?,side_chat,THE WITNESS,start_question
+798,1591,61,8,Do you exchange emails or have video conferences with anyone in Taiwan?,q,MR. SAAD,start_answer
+799,1593,61,10,Yes.,a,THE WITNESS,start_question
+800,1594,61,11,Is it emails or video conferences or both?,q,MR. SAAD,start_answer
+801,1595,61,12,Email.,a,THE WITNESS,start_question
+802,1596,61,13,Do you have any regular telephone conferences with AUO employees in Taiwan?,q,MR. SAAD,start_answer
+803,1598,61,15,No.,a,THE WITNESS,start_question
+804,1599,61,16,Does any AUO employees from Taiwan come to the AU Vista office to discuss the work that you were doing?,q,MR. SAAD,start_answer
+805,1602,61,19,No.,a,THE WITNESS,start_question
+806,1603,61,20,Nobody from Taiwan -- strike that. Nobody from AUO Taiwan has ever come to the AU Vista office to discuss the work that you're doing?,q,MR. SAAD,start_chat
+807,1607,61,24,Objection to form.,side_chat,MS. WANG,start_chat
+808,1608,61,25,No.,side_chat,THE WITNESS,start_question
+809,1611,62,2,Do you know how AUO America obtains the supply of products from Taiwan that it sells?,q,MR. SAAD,start_answer
+810,1613,62,4,I don't know.,a,THE WITNESS,start_chat
+811,1614,62,5,Exhibit 2.,side_chat,MR. SAAD,is brackets
+812,1615,62,6,"(PLAINTIFF'S EXHIBIT 2 MARKED, LATER WITHDRAWN.)",brackets,,start_question
+813,1618,62,9,Okay.  You've been handed Exhibit 2 --,q,MR. SAAD,start_chat
+814,1619,62,10,"Counsel, this has been designated as attorneys' eyes only.  This was produced by AUO; the witness doesn't work for AUO.  You can't show her the document.",side_chat,MS. WANG,start_chat
+815,1623,62,14,Can we go off the record and discuss?,side_chat,MR. SAAD,start_chat
+816,1625,62,16,Sure.,side_chat,MS. WANG,start_chat
+817,1626,62,17,Let's go off the record.,side_chat,MR. SAAD,start_chat
+818,1627,62,18,We are now going off the record.  The time is 1:46 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+819,1629,62,20,(Discussion off the record.),brackets,,start_chat
+820,1630,62,21,We are now going back on the record.  The time is 1:51 p.m.,side_chat,THE VIDEOGRAPHER,start_chat
+821,1632,62,23,"Just to state for the record, I have withdrawn Exhibit 2.  Counsel for the witness has stated an objection regarding providing the witness any documents marked confidential by AUO America or AUO Corp. We disagree -- I disagree with the objection and I don't feel that a proper basis has been provided for that objection, but out of respect for their objection, for purposes of today's deposition, we will comply with that objection. And I'm withdrawing the -- the document and will not provide any confidential documents to the witness today.  But we're stating that we disagree with the objection and maybe we'll take this up in regards to other upcoming depositions.",side_chat,MR. SAAD,start_chat
+822,1648,63,13,"Thank you, Counsel.",side_chat,MS. WANG,start_question
+823,1650,63,15,Have you ever received any document retention notice regarding this litigation?,q,MR. SAAD,start_chat
+824,1652,63,17,May the interpreter clarify that rendition?,side_chat,CHECK INTERPRETER,is brackets
+825,1654,63,19,(Interpreting.),brackets,,start_chat
+826,1655,63,20,No.,side_chat,THE WITNESS,start_question
+827,1657,63,22,Do you understand what I'm saying when I refer to a document retention notice?,q,MR. SAAD,start_answer
+828,1659,63,24,Would you please elaborate on this term? Did you mean that I cannot retain any relevant documents?,a,THE WITNESS,start_question
+829,1663,64,2,"Be actually the opposite.  Sometimes when litigation is instigated against a company that you work for or a company that's related to a company you work for, you may receive from your legal department a memorandum telling you to retain certain types of documents related to certain subject matter and to not delete any documents related to that. Does that help clarify what I'm referring to?",q,MR. SAAD,start_answer
+830,1673,64,12,I understand that now.,a,THE WITNESS,start_question
+831,1674,64,13,Have you ever received such a document notice from your legal counsel?,q,MR. SAAD,start_answer
+832,1676,64,15,No.,a,THE WITNESS,start_question
+833,1677,64,16,And in particular you've never received such a document retention notice from Linh Ha?,q,MR. SAAD,start_answer
+834,1679,64,18,Never received that.,a,THE WITNESS,start_question
+835,1680,64,19,Are you aware that AUO America filed a lawsuit against Vista Peak Ventures last year?,q,MR. SAAD,start_answer
+836,1682,64,21,No.,a,THE WITNESS,start_question
+837,1683,64,22,Have you ever applied for a U.S. patent for any of the work that you've done?,q,MR. SAAD,start_answer
+838,1685,64,24,May I ask the time frame?,a,THE WITNESS,start_question
+839,1686,64,25,In the work that you've done for either AU Vista or AUO America have you ever applied for a U.S. patent on any of that work you've done?,q,MR. SAAD,start_answer
+840,1690,65,3,I am not sure.,a,THE WITNESS,start_question
+841,1691,65,4,Why are you not sure?,q,MR. SAAD,start_answer
+842,1692,65,5,Because I am responsible for submitting the patent and then a patent engineer will have the final decision as of which countries to file for that patent.,a,THE WITNESS,start_question
+843,1696,65,9,And you're not aware if any of the applications that you've submitted were filed in the U.S.; is that correct?,q,MR. SAAD,start_answer
+844,1699,65,12,No.,a,THE WITNESS,start_question
+845,1700,65,13,Are you aware of any issued U.S. patents on which you are a named inventor?,q,MR. SAAD,start_answer
+846,1702,65,15,"I'm not sure whether or not it was granted, but there was my -- there was application that had my name submitted to the U.S. patent agency.",a,THE WITNESS,start_question
+847,1705,65,18,What was the technology related to on that patent application?,q,MR. SAAD,start_answer
+848,1707,65,20,(In English)  Bio chip for DNA sequencing.,a,THE WITNESS,start_question
+849,1708,65,21,"Do you know the term OLEA, O-L-E-A?",q,MR. SAAD,start_answer
+850,1709,65,22,(In English)  No.,a,THE WITNESS,start_question
+851,1710,65,23,Do you know an AUO America employee named Roger Yao?,q,MR. SAAD,start_answer
+852,1712,65,25,I know of this name.,a,THE WITNESS,start_question
+853,1714,66,1,Have you ever met him?,q,MR. SAAD,start_answer
+854,1715,66,2,(In English)  Yes.,a,THE WITNESS,start_question
+855,1716,66,3,Did he ever work in the Milpitas location?,q,MR. SAAD,start_answer
+856,1717,66,4,No.,a,THE WITNESS,start_question
+857,1718,66,5,Where have you met him?,q,MR. SAAD,start_answer
+858,1719,66,6,At the Milpitas office.,a,THE WITNESS,start_question
+859,1720,66,7,Do you know what office Mr. Yao works at?,q,MR. SAAD,start_answer
+860,1721,66,8,I don't know.,a,THE WITNESS,start_question
+861,1722,66,9,When was it that you met Mr. Yao?,q,MR. SAAD,start_answer
+862,1723,66,10,I don't remember that clearly.,a,THE WITNESS,start_question
+863,1724,66,11,Was it recently or was it many years ago?,q,MR. SAAD,start_answer
+864,1725,66,12,Many years ago.,a,THE WITNESS,start_question
+865,1726,66,13,Do you know a Kenneth Yoon?,q,MR. SAAD,start_answer
+866,1727,66,14,"No, I don't know this name.",a,THE WITNESS,start_question
+867,1728,66,15,How about Eric Ko?,q,MR. SAAD,start_answer
+868,1729,66,16,Yes.,a,THE WITNESS,start_question
+869,1730,66,17,Is that the Eric that you referred to earlier in your testimony?,q,MR. SAAD,start_chat
+870,1732,66,19,Objection to form.,side_chat,MS. WANG,start_chat
+871,1733,66,20,I don't remember clearly the Eric that I refer -- I referred to earlier with his last name.,side_chat,THE WITNESS,start_question
+872,1737,66,24,How do you know Eric Ko?,q,MR. SAAD,start_answer
+873,1738,66,25,He is at Milpitas office.,a,THE WITNESS,start_question
+874,1740,67,1,Is he currently located at the Milpitas office?,q,MR. SAAD,start_answer
+875,1742,67,3,No.,a,THE WITNESS,start_question
+876,1743,67,4,Where is he currently located?,q,MR. SAAD,start_answer
+877,1744,67,5,Irvine.,a,THE WITNESS,start_question
+878,1745,67,6,What is in Irvine?  Is there another office there?,q,MR. SAAD,start_answer
+879,1747,67,8,I don't know.,a,THE WITNESS,start_question
+880,1748,67,9,How do you know Eric Ko is in Irvine?,q,MR. SAAD,start_answer
+881,1749,67,10,Because I know his wife.,a,THE WITNESS,start_question
+882,1750,67,11,Does AUO America have an Irvine office?,q,MR. SAAD,start_answer
+883,1751,67,12,I don't know.,a,THE WITNESS,start_question
+884,1752,67,13,Do you know Jay Lin?,q,MR. SAAD,start_answer
+885,1753,67,14,No.,a,THE WITNESS,start_question
+886,1754,67,15,Do you know Omama Zugari?,q,MR. SAAD,start_answer
+887,1755,67,16,"No, I don't know this person.",a,THE WITNESS,start_question
+888,1756,67,17,Do you know Brandon Tai?,q,MR. SAAD,start_answer
+889,1757,67,18,"No, I don't.",a,THE WITNESS,start_question
+890,1758,67,19,"Do you know the term ""smart shelf""?",q,MR. SAAD,start_answer
+891,1759,67,20,"No, I don't.",a,THE WITNESS,start_question
+892,1760,67,21,Do you know Calvin Jeong?,q,MR. SAAD,start_answer
+893,1761,67,22,Yes.,a,THE WITNESS,start_question
+894,1762,67,23,How do you know Calvin?,q,MR. SAAD,start_answer
+895,1763,67,24,He was at the Milpitas office.,a,THE WITNESS,start_question
+896,1764,67,25,Do you know where Calvin is now?,q,MR. SAAD,start_answer
+897,1766,68,1,The Detroit office.,a,THE WITNESS,start_question
+898,1767,68,2,Do you know what Calvin does?,q,MR. SAAD,start_answer
+899,1768,68,3,I don't know.,a,THE WITNESS,start_question
+900,1769,68,4,Do you know Sam Kuo?,q,MR. SAAD,start_answer
+901,1770,68,5,"No, I don't.",a,THE WITNESS,start_question
+902,1771,68,6,Do you know Harper Tsai?,q,MR. SAAD,start_answer
+903,1772,68,7,I don't.,a,THE WITNESS,start_question
+904,1773,68,8,Do you know Sonia Pizzi?,q,MR. SAAD,start_answer
+905,1774,68,9,I don't.,a,THE WITNESS,start_question
+906,1775,68,10,Do you know Dennis Soggs?,q,MR. SAAD,start_answer
+907,1776,68,11,I don't.,a,THE WITNESS,start_question
+908,1777,68,12,Do you know Hugo Bernal?,q,MR. SAAD,start_answer
+909,1778,68,13,I don't.,a,THE WITNESS,start_question
+910,1779,68,14,Do you know Matt Ke?,q,MR. SAAD,start_answer
+911,1780,68,15,Yes.,a,THE WITNESS,start_question
+912,1781,68,16,How do you know Matt Ke?,q,MR. SAAD,start_answer
+913,1782,68,17,He was at the Milpitas office.,a,THE WITNESS,start_question
+914,1783,68,18,Do you know where Matt Ke is now?,q,MR. SAAD,start_answer
+915,1784,68,19,The Detroit office.,a,THE WITNESS,start_question
+916,1785,68,20,Do you know Ivan Tang.  Sorry Ivan Teng?,q,MR. SAAD,start_answer
+917,1786,68,21,I don't.,a,THE WITNESS,start_question
+918,1787,68,22,Do you know Vic Soo.,q,MR. SAAD,start_answer
+919,1788,68,23,I don't.,a,THE WITNESS,start_question
+920,1789,68,24,Do you know Kit Sing Ko?,q,MR. SAAD,start_answer
+921,1790,68,25,I don't.,a,THE WITNESS,start_chat
+922,1792,69,1,Okay.  Let's take a break.,side_chat,MR. SAAD,start_chat
+923,1793,69,2,This now marks the end of disk labeled number two in the videotaped deposition of Regina Mao. We're now going off the record.  The time is 2:14 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+924,1798,69,7,(Recess taken:  2:14 p.m. until 2:24 p.m.),brackets,,start_chat
+925,1799,69,8,This now marks the beginning of desk labeled number three in the videotaped deposition of Regina Mao. We're now going back on the record.  The time is 2:24 p.m.,side_chat,THE VIDEOGRAPHER,start_chat
+926,1804,69,13,"Ms. Mao, I have no further questions for you.  Thank you for your time today.",side_chat,MR. SAAD,start_chat
+927,1806,69,15,We would like to designate the entire transcript as attorneys' eyes only under the protective order.,side_chat,MS. WANG,start_chat
+928,1809,69,18,All right.,side_chat,MR. SAAD,start_chat
+929,1810,69,19,"Ms. Wendy, would you like a rough draft tonight?",side_chat,THE REPORTER,start_chat
+930,1812,69,21,"Yes, please.",side_chat,MS. WANG,start_chat
+931,1813,69,22,"This now concludes the videotaped deposition of Regina Mao on August 7th, 2019. We are now going off the record.  The time is 2:25 p.m.",side_chat,THE VIDEOGRAPHER,is brackets
+932,1819,70,2,"(The deposition concluded at 2:25 p.m.) DECLARATION UNDER PENALTY OF PERJURY I, REGINA (YUAN) MAO, do hereby certify under penalty of perjury that I have read the foregoing transcript of my deposition taken on August 7, 2019; that I have made such corrections as appear noted herein; that my testimony as contained herein as correct, is a true and accurate transcription of my testimony. DATED this___________day of _____________2019, at San Francisco, California.",brackets,,symbols
+933,1862,70,19,"____________________________ CORRECTION SHEET/ERRATA SHEET I, REGINA (YUAN) MAO, do hereby certify that I have read the foregoing transcript and that, to the best of my knowledge, said transcript is true and accurate (with the exception of the following changes listed below): Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ Page_____Line____      _____________________________ REGINA (YUAN) MAO UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF TEXAS VISTA PEAK VENTURES, LLC Plaintiff, vs.                     Civil Action No. 2:18-CV-276-JRG AU OPTRONICS CORP.                            2:18-CV-279-JRG Defendants. I, Joanmarie Torreano, Certified Shorthand sworn by the officer and that the transcript testimony given by the witness; That the deposition transcript was submitted on the witness for examination, signature and return to me deposition is as follows: Terry A. Saad:  (02:36) That pursuant to information given to the the following includes counsel for all parties of Wendy Wang - Attorney for Defendant I further certify that I am neither counsel for, attorneys in the action in which this proceeding was otherwise interested in the outcome of the action. Certified to by me this 16th day of August, 2019 I, JOANMARIE TORREANO, do hereby certify: That I am a licensed Certified Shorthand Reporter, duly qualified and certified as such by the State of California. That prior to being examined the witness named in the foregoing deposition was duly sworn to testify under oath. That the preceding deposition was recorded stenographically by me at the time and place herein mentioned; and that the preceding pages constitute a complete and accurate record of the testimony given by the aforementioned witness. That I am a neutral party in no way interested in the outcome of said action, and that I am not related to or otherwise connected with any of the parties involved with this matter, or their respective counsel. DATED: August 19, 2019",symbols,,symbols
+934,1987,74,22,____________________________,symbols,,end

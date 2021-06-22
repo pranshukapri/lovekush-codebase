@@ -1,0 +1,1019 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,95,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,97,4,10,-  -  -,symbols,,start_question
+3,99,4,12,"Good morning, Mrs. Brietman.",q,MS. KRENICKY,start_answer
+4,100,4,13,Good morning.,a,THE WITNESS,start_question
+5,101,4,14,"My name is Karleen Krenicky.  I represent Mr. Orner in the lawsuit you have filed against him for the car accident that happened back on May 24th of 2018.  Before get into everything, do you agree that's the date that brings us here?",q,MS. KRENICKY,start_answer
+6,106,4,19,Yes.,a,THE WITNESS,start_question
+7,107,4,20,"You just sat through his deposition.  Yours will be similar except that I have to ask you a little bit more information about your background and also the injuries that you're claiming, okay?",q,MS. KRENICKY,start_answer
+8,111,4,24,I understand.,a,THE WITNESS,start_question
+9,112,4,25,"Ian is our court reporter.  He is typing down everything everyone in the room says, so only one of us can talk at a time, and all of your answers have to be out loud. It's very important that if you don't understand something I'm asking you, that you let me know, because if you answer my questions, I will assume you heard them, you understood them, and that is what you are answering.  Is that fair?",q,MS. KRENICKY,start_answer
+10,122,5,9,Yes.,a,THE WITNESS,start_question
+11,123,5,10,"I don't want you to guess.  If you don't know something or you don't remember something, that's perfectly fine.  Just tell me.  But if you can estimate or approximate, just do your best to do so, okay?",q,MS. KRENICKY,start_answer
+12,127,5,14,Yes.,a,THE WITNESS,start_question
+13,128,5,15,Just let us know that you're giving an estimate or an approximation.,q,MS. KRENICKY,start_answer
+14,130,5,17,I understand.,a,THE WITNESS,start_question
+15,131,5,18,You took an oath to tell the truth.  Do you have that understanding?,q,MS. KRENICKY,start_answer
+16,133,5,20,Yes.,a,THE WITNESS,start_question
+17,134,5,21,"Are you under the influence of any medicine, substance, anything like that --",q,MS. KRENICKY,start_answer
+18,136,5,23,"No, I'm not.",a,THE WITNESS,start_question
+19,137,5,24,-- that would affect your ability to answer my questions here today?,q,MS. KRENICKY,start_answer
+20,140,6,1,No.,a,THE WITNESS,start_question
+21,141,6,2,Do you need any more time to speak to your attorney before we get started?,q,MS. KRENICKY,start_answer
+22,143,6,4,"No, I don't.",a,THE WITNESS,start_question
+23,144,6,5,Is it okay if we get started?,q,MS. KRENICKY,start_answer
+24,145,6,6,Yes.,a,THE WITNESS,start_question
+25,146,6,7,Wonderful.  Can you state your full name.,q,MS. KRENICKY,start_answer
+26,147,6,8,Carla Dawn Brietman.,a,THE WITNESS,start_question
+27,148,6,9,D-A-W-N?,q,MS. KRENICKY,start_answer
+28,149,6,10,D-A-W-N.,a,THE WITNESS,start_question
+29,150,6,11,"And it's my understanding Brietman's your married name, correct?",q,MS. KRENICKY,start_answer
+30,152,6,13,Yes.,a,THE WITNESS,start_question
+31,153,6,14,What was your maiden name?,q,MS. KRENICKY,start_answer
+32,154,6,15,"Kirshner, K-I-R-S-H-N-E-R.",a,THE WITNESS,start_question
+33,155,6,16,And how old are you today?,q,MS. KRENICKY,start_answer
+34,156,6,17,65.,a,THE WITNESS,start_question
+35,157,6,18,"I have to ask.  And your birthdate, I have as 6/8; is that correct?",q,MS. KRENICKY,start_answer
+36,159,6,20,"6/8/54, yes.",a,THE WITNESS,start_question
+37,160,6,21,And what is your current address?,q,MS. KRENICKY,start_answer
+38,161,6,22,"1230 Fairview Avenue, Havertown, PA 19083.",a,THE WITNESS,start_question
+39,162,6,23,How long have you lived there?,q,MS. KRENICKY,start_answer
+40,163,6,24,"Over 30 years, less than 40.",a,THE WITNESS,start_question
+41,164,6,25,Safe to say you lived there on the day of this accident?,q,MS. KRENICKY,start_answer
+42,167,7,2,"Yes, I did.",a,THE WITNESS,start_question
+43,168,7,3,And who lives there with you?,q,MS. KRENICKY,start_answer
+44,169,7,4,Frank Brietman.,a,THE WITNESS,start_question
+45,170,7,5,Does anyone else live there with you?,q,MS. KRENICKY,start_answer
+46,171,7,6,Not at this moment.,a,THE WITNESS,start_question
+47,172,7,7,Did anyone else live there with you back in May of 2018?,q,MS. KRENICKY,start_answer
+48,174,7,9,No.,a,THE WITNESS,start_question
+49,175,7,10,Do you have kids?,q,MS. KRENICKY,start_answer
+50,176,7,11,Yes.,a,THE WITNESS,start_question
+51,177,7,12,How many?,q,MS. KRENICKY,start_answer
+52,178,7,13,Three.,a,THE WITNESS,start_question
+53,179,7,14,Are they all out of the house now?,q,MS. KRENICKY,start_answer
+54,180,7,15,Yes.,a,THE WITNESS,start_question
+55,181,7,16,All right.,q,MS. KRENICKY,start_answer
+56,182,7,17,Thankfully.,a,THE WITNESS,start_question
+57,183,7,18,Any grandchildren?,q,MS. KRENICKY,start_answer
+58,184,7,19,Yes.,a,THE WITNESS,start_question
+59,185,7,20,How many?,q,MS. KRENICKY,start_answer
+60,186,7,21,One.,a,THE WITNESS,start_question
+61,187,7,22,Do you have any childcare responsibilities for your grandchild?,q,MS. KRENICKY,start_answer
+62,189,7,24,Not at the moment.,a,THE WITNESS,start_question
+63,190,7,25,Did you used to babysit?,q,MS. KRENICKY,start_answer
+64,192,8,1,Yes.,a,THE WITNESS,start_question
+65,193,8,2,"The fact that you no longer babysit your grandchild, does that have anything to do with this accident?",q,MS. KRENICKY,start_answer
+66,196,8,5,Yes.,a,THE WITNESS,start_question
+67,197,8,6,How old is your grandchild?,q,MS. KRENICKY,start_answer
+68,198,8,7,"He is -- he was born last March, so that makes him -- how old does that make him?",a,THE WITNESS,start_question
+69,200,8,9,Around 18 months?,q,MS. KRENICKY,start_answer
+70,201,8,10,"Yeah, probably, around like 17, 18 months.",a,THE WITNESS,start_question
+71,202,8,11,"And you said ""grandson""?",q,MS. KRENICKY,start_answer
+72,203,8,12,Grandson.,a,THE WITNESS,start_question
+73,204,8,13,And when did you stop watching him?,q,MS. KRENICKY,start_answer
+74,205,8,14,"I stopped watching him early June -- late May, early June.",a,THE WITNESS,start_question
+75,207,8,16,Of 2018?,q,MS. KRENICKY,start_answer
+76,208,8,17,"Of 2018, yes.",a,THE WITNESS,start_question
+77,209,8,18,And why did you stop?,q,MS. KRENICKY,start_answer
+78,210,8,19,"Because I could no longer drive.  They live in the Poconos, so I could no longer drive that distance, nor was I able to pick the baby up and to put him down.",a,THE WITNESS,start_question
+79,213,8,22,"This might seem silly, but why could you no longer drive?",q,MS. KRENICKY,start_answer
+80,215,8,24,"I could no longer drive long distances, because of pain in my hip and left side and down to my glutes and leg.",a,THE WITNESS,start_question
+81,219,9,2,And why --,q,MS. KRENICKY,start_answer
+82,220,9,3,So it was uncomfortable driving.,a,THE WITNESS,start_question
+83,221,9,4,And why could you not pick the baby up?,q,MS. KRENICKY,start_answer
+84,222,9,5,Because of the pain in my back and my glute and my -- my -- my hip.,a,THE WITNESS,start_question
+85,224,9,7,"So the baby was born in March of '18.  From March of '18 'til around June of '18, when you stopped doing it, how often were you babysitting?",q,MS. KRENICKY,start_answer
+86,227,9,10,"I tried to get there -- I'm off on Tuesdays from work, so I would try to get there as often as I could, at least every other Tuesday.  Sometimes, every Tuesday.",a,THE WITNESS,start_question
+87,230,9,13,It's my understanding that you had an accident in November of 2017.  Is that accurate?,q,MS. KRENICKY,start_answer
+88,232,9,15,Yes.,a,THE WITNESS,start_question
+89,233,9,16,"And that was an injury to your left shoulder and your neck, accurate?",q,MS. KRENICKY,start_answer
+90,235,9,18,Yes.,a,THE WITNESS,start_question
+91,236,9,19,Did -- did your left shoulder or neck injury have any impact on your ability to hold your grandchild or watch your grandchild?,q,MS. KRENICKY,start_answer
+92,239,9,22,"No.  He was just born in March, so he was not heavy.  So no, it did not.",a,THE WITNESS,start_question
+93,241,9,24,"And when you tried to watch him and babysit him, the neck and the shoulder did not bother you?",q,MS. KRENICKY,start_answer
+94,244,10,1,"They were an issue, but I was able to work around it because it was my left arm.  And, like I said, he was an infant at that time, so, obviously, he wasn't as heavy as he is now.",a,THE WITNESS,start_question
+95,248,10,5,"Let me rephrase the question.  So when you tried, after this accident, in June, let's say --",q,MS. KRENICKY,start_answer
+96,250,10,7,"Oh, okay.",a,THE WITNESS,start_question
+97,251,10,8,"-- to go back and watch him, did the neck or shoulder impact your ability to hold him?",q,MS. KRENICKY,start_answer
+98,253,10,10,"I wasn't able to go back to see him after the accident.  So it's a hard question to answer, because I didn't -- I no longer went there to babysit him.",a,THE WITNESS,start_question
+99,256,10,13,So you didn't try?,q,MS. KRENICKY,start_answer
+100,257,10,14,"I didn't even try, 'cause I couldn't drive the -- the distance to get there.",a,THE WITNESS,start_question
+101,259,10,16,Did any medical provider tell you not to drive long distances after the accident with my client?,q,MS. KRENICKY,start_answer
+102,261,10,18,No.,a,THE WITNESS,start_question
+103,262,10,19,So -- oh.  How far did you go in school?,q,MS. KRENICKY,start_answer
+104,263,10,20,I graduated college.,a,THE WITNESS,start_question
+105,264,10,21,So you have a bachelor's degree?,q,MS. KRENICKY,start_answer
+106,265,10,22,"Yes, I do.",a,THE WITNESS,start_question
+107,266,10,23,"And I believe, from your answers to interrogatories, that's from Penn?",q,MS. KRENICKY,start_answer
+108,268,10,25,"Yes, it is.",a,THE WITNESS,start_question
+109,270,11,1,And where did you go to high school?,q,MS. KRENICKY,start_answer
+110,271,11,2,"Meyers High School in Wilkes-Barre, Pennsylvania.",a,THE WITNESS,start_question
+111,272,11,3,So you moved down to this area for school -- college?,q,MS. KRENICKY,start_answer
+112,274,11,5,"Yes, I did.",a,THE WITNESS,start_question
+113,275,11,6,And you've lived in this general area since?,q,MS. KRENICKY,start_answer
+114,276,11,7,"I actually had -- after college, I went to New York for about two years, and then I moved back to this area.",a,THE WITNESS,start_question
+115,278,11,9,"And you are employed, I believe, at an art gallery. Is that accurate?",q,MS. KRENICKY,start_answer
+116,280,11,11,"Yes, Merritt Gallery.",a,THE WITNESS,start_question
+117,281,11,12,How long have you worked there?,q,MS. KRENICKY,start_answer
+118,282,11,13,Twenty years.,a,THE WITNESS,start_question
+119,283,11,14,And your job title?,q,MS. KRENICKY,start_answer
+120,284,11,15,I am the directer.,a,THE WITNESS,start_question
+121,285,11,16,What does the directer of an art gallery do?,q,MS. KRENICKY,start_answer
+122,286,11,17,"The director of the art gallery works with clients, shows artwork, takes artwork out to clients' homes, makes sure that everybody else that is working there is doing their job.  I also do a lot of framing and help hang the gallery so that it looks wonderful.  I make -- make sure everybody is just doing their job, pretty much.",a,THE WITNESS,start_question
+123,292,11,23,Did you have any trouble doing your job after the accident?,q,MS. KRENICKY,start_answer
+124,294,11,25,Yes.,a,THE WITNESS,start_question
+125,296,12,1,What trouble did you have?,q,MS. KRENICKY,start_answer
+126,297,12,2,"So after the accident, once again, there were -- we took a van out to show artwork.  It was difficult for me to drive the van.  It was difficult for me to get in and out of the van, but to drive the van was difficult. The other part of my job is:  You would, you know, greet the client, show them around the gallery. And part of what I did was show them artwork.  A lot of the artwork is hanging already on the walls, but a lot of the artwork is put away in what we call ""bins.""  They're slots.  And these pieces can be as big as 60 by 60 and as small as 10 by 10s. So we have all different sizes of artwork, most of it was on canvas.  A lot of it is framed.  And then, the paper pieces, we usually framed.  So imagine the difference in weight. So my job was to show the artwork to the clients and then get an idea of what they were looking at, spend time on my computer, finding other pieces, make an appointment with the client.  You're then bringing the artwork to the clients' homes.  That was my job.  That's pretty much in a nutshell, and also making sure everybody was doing what they're supposed to be doing.",a,THE WITNESS,start_question
+127,319,12,24,And what was hard for you?,q,MS. KRENICKY,start_answer
+128,320,12,25,"So after the accident, I was no -- I -- I couldn't pull the artwork out of the bins, because of -- every time I did, it hurt my back.  I wasn't able to pick up even the smallest pieces to show them, because it would hurt my back. I had to -- usually, I was able to go on a lot of these appointments with just me and my installer to show the artwork.  I couldn't even pick up the lightest pieces.  So I have -- now have my assistant go with me on every single appointment. On the weekends, I don't have an assistant, so I hired a part-time worker to come in on Saturdays to help pull out the artwork and show the artwork to the clients and then put it away.  So manual labor, I need help with.",a,THE WITNESS,start_question
+129,336,13,15,"A couple questions about that.  So how heavy is the heaviest piece of art, would you say?  And I understand you're not weighing it, but if you could approximate for me.",q,MS. KRENICKY,start_answer
+130,340,13,19,"Probably -- I mean we have pieces that are close to a hundred pounds, which I never lifted.",a,THE WITNESS,start_question
+131,342,13,21,What weight would you say you were comfortable lifting before May 24th of 2018?,q,MS. KRENICKY,start_answer
+132,344,13,23,"First of all, the word ""lift.""  I was pulling.",a,THE WITNESS,start_question
+133,345,13,24,I'm sorry.  Okay.,q,MS. KRENICKY,start_answer
+134,346,13,25,"Okay?  So when you're showing things in the bin, there are some things that are on top that you would have to lift down, but those were always usually the lighter pieces that weren't framed.  On the bottom are the bigger. So I could pull out large pieces 'cause you're just really just pulling them.  So I could pull out large -- large pieces.",a,THE WITNESS,start_question
+135,354,14,7,The hundred-pound pieces?,q,MS. KRENICKY,start_answer
+136,355,14,8,"No.  That, I could not pull out.  Let's say 50 and under.",a,THE WITNESS,start_question
+137,357,14,10,"And from the date of your November, 2017 accident until May of 2018, were you still pulling out the 50 pounds and under?",q,MS. KRENICKY,start_answer
+138,360,14,13,"With my -- my right arm.  I -- if I could pull it out with my right arm, I was able to do that.",a,THE WITNESS,start_question
+139,362,14,15,And when did you hire this part-time worker?,q,MS. KRENICKY,start_answer
+140,363,14,16,"I don't -- after I did a lot of complaining to the owners.  I don't remember the exact date.  I wish I could remember.  I don't remember.  I'd like to say like -- she's been working with us for six months.  I don't remember. Before her, I always have somebody working in the gallery with me on Saturdays, so I would get them to do it.  But like I said, it just didn't seem fair that I was asking somebody who's a salesperson to do my lifting.",a,THE WITNESS,start_question
+141,374,15,1,So less than a year since you've hired the assistant?,q,MS. KRENICKY,start_answer
+142,376,15,3,Yes.,a,THE WITNESS,start_question
+143,377,15,4,"I'm sorry.  I guess I should say ""part-time worker for Saturdays,"" to clarify.",q,MS. KRENICKY,start_answer
+144,379,15,6,Yeah.  She's -- she's purely part-time.,a,THE WITNESS,start_question
+145,380,15,7,And she only works Saturdays?,q,MS. KRENICKY,start_answer
+146,381,15,8,She only works Saturdays.,a,THE WITNESS,start_question
+147,382,15,9,Did any of your medical providers put a restriction on you for that pulling or lifting?  Did anyone tell you not to do it?,q,MS. KRENICKY,start_answer
+148,385,15,12,No.  I think they let me use my common sense.,a,THE WITNESS,start_question
+149,386,15,13,And I mean did you discuss that physical part of your job with your treating providers?,q,MS. KRENICKY,start_answer
+150,388,15,15,"Yes.  And one of the doctors gave me, which was helpful, this belt that you can really tighten up so that when you are doing things, it doesn't hurt as much.  It just tightens things up.  Even just walking up and down the steps, it would help me, because I would get zings. So that would help keep it all, I guess, contained so it didn't hurt as much.",a,THE WITNESS,start_question
+151,395,15,22,And which doctor gave you that belt?,q,MS. KRENICKY,start_answer
+152,396,15,23,Dr. Walsh.,a,THE WITNESS,start_question
+153,397,15,24,"That's Dr. Walsh at Premier, right?",q,MS. KRENICKY,start_answer
+154,398,15,25,Yes.,a,THE WITNESS,start_question
+155,400,16,1,And when did you get that belt?,q,MS. KRENICKY,start_answer
+156,401,16,2,"See, you're asking somebody who just doesn't remember dates.  I don't remember.",a,THE WITNESS,start_question
+157,403,16,4,"Are you able to say -- I mean I'm not looking for a specific date, but a time frame.",q,MS. KRENICKY,start_answer
+158,405,16,6,"Probably within the first three months, I would -- I would guess, I started complaining about it hurting to do things.  And she gave me the belt.  It could have been even earlier.  I don't remember.",a,THE WITNESS,start_question
+159,409,16,10,Any other problems doing your job that we haven't discussed?,q,MS. KRENICKY,start_answer
+160,411,16,12,"It's very hard for me to sit for long periods of time.  It's hard sitting here right now.  So that's an issue.  So I then got a standing desk.  So I sit part of the time.  I stand part of the time. I also get up and move as often as I can, which means walking around the block, things like that, because that helps me being able to continue working that day.  I come in later because I exercise every morning for an hour.  And by ""exercise,"" I mean stretching. I also -- when I've had enough and I just can't take it anymore, I've been leaving work early.  I'm usually supposed to be there 'til 6:00.  I am not always there 'til 6:00.",a,THE WITNESS,start_question
+161,424,16,25,Who is your boss?,q,MS. KRENICKY,start_answer
+162,426,17,1,Her name is Merritt Miller.,a,THE WITNESS,start_question
+163,427,17,2,Is she in Havertown?,q,MS. KRENICKY,start_answer
+164,428,17,3,"No, she's not.  She is in the Baltimore gallery.",a,THE WITNESS,start_question
+165,429,17,4,Have you discussed your limitations with her?,q,MS. KRENICKY,start_answer
+166,430,17,5,"She knows.  And she is -- she was the one that said, ""Let's hire another person.  Come and go as you please.  Here's your standing desk.""  I'm now fighting for a new chair.  Yeah.",a,THE WITNESS,start_question
+167,434,17,9,"Are you making -- according to your interrogatories, you're not.  Are you claiming you missed any -- or lost any money at work?",q,MS. KRENICKY,start_answer
+168,437,17,12,"I have not been doing as well as I have in the past.  So it's a -- it's a purely commissioned job.  I get a base, but most of my money is made through commission.",a,THE WITNESS,start_question
+169,440,17,15,"So in your answers to interrogatories, which were those written questions, you stated you were not making a wage loss claim.  Is that accurate?",q,MS. KRENICKY,start_answer
+170,443,17,18,"The reason why I say that is it's not definitive as -- as -- as definitive as you're making it.  If you have a bad summer, and then you're -- no one is gonna be making as much money.  It's really about -- I mean our economy is doing well, but everybody is scared to be spending money. People aren't buying artwork.  The housing market is tanking.  People aren't buying artwork.  So that's why I answer that the way it is.  I can't definitively say, ""It's because of the accident,"" but I'm not as productive because of the accident.",a,THE WITNESS,start_question
+171,455,18,4,"So are you going to be at -- if we go to court, and maybe Mr. Gallagher can clarify it --",q,MS. KRENICKY,start_chat
+172,457,18,6,Maybe you can clarify.,side_chat,THE WITNESS,start_chat
+173,458,18,7,We're not making a wage loss claim.,side_chat,MR. GALLAGHER,start_chat
+174,460,18,9,Thank you.,side_chat,MS. KRENICKY,start_chat
+175,461,18,10,Okay.  'Cause that's -- I mean yeah.,side_chat,THE WITNESS,start_question
+176,464,18,13,Okay.  That's fine.  We won't --,q,MS. KRENICKY,start_answer
+177,465,18,14,"I mean it's -- it's affecting my job, but it's --",a,THE WITNESS,start_question
+178,466,18,15,It's hard to say if it's actually affecting your wages.,q,MS. KRENICKY,start_answer
+179,468,18,17,Thank you.,a,THE WITNESS,start_question
+180,469,18,18,Understood.  Okay.  So did we cover all of your limitations at work?,q,MS. KRENICKY,start_answer
+181,471,18,20,"That I can't do my job well, yes.",a,THE WITNESS,start_question
+182,472,18,21,"Okay.  Well, no.  I just want to make sure you've had an opportunity to tell me all aspects of your job that have been affected.  So if there's anything else that we haven't --",q,MS. KRENICKY,start_answer
+183,476,18,25,"I think I've covered pretty much -- yeah, I can't do it as well, pretty much.",a,THE WITNESS,start_question
+184,479,19,2,"Got it.  Got it.  All right.  Do you -- well, strike that.  That's your only employment, correct?",q,MS. KRENICKY,start_answer
+185,481,19,4,Yes.,a,THE WITNESS,start_question
+186,482,19,5,And --,q,MS. KRENICKY,start_answer
+187,483,19,6,I'm judge of elections.  Does that count?  I don't get really paid for it.,a,THE WITNESS,start_chat
+188,485,19,8,Off the record.,side_chat,MS. KRENICKY,is brackets
+189,486,19,9,(Discussion was held off the record.),brackets,,start_question
+190,488,19,11,How long have you had that position?,q,MS. KRENICKY,start_answer
+191,489,19,12,"I have had the position -- so when did I run?  The last election.  So since then.  So when was that, two years ago?  Two years.",a,THE WITNESS,start_question
+192,492,19,15,'17?,q,MS. KRENICKY,start_answer
+193,493,19,16,Yeah.  So you start in '18.  Yeah.,a,THE WITNESS,start_question
+194,494,19,17,Okay.  And --,q,MS. KRENICKY,start_answer
+195,495,19,18,"So I -- yeah.  So I was able to do it once.  And then, the next time we had -- we had it, I --",a,THE WITNESS,start_question
+196,497,19,20,So May of 2018 -- I'm sorry.  Yeah.  It's --,q,MS. KRENICKY,start_answer
+197,498,19,21,"It was May of 2018, I was able to uphold my duties.",a,THE WITNESS,start_question
+198,499,19,22,"And then, the November, 2018 election --",q,MS. KRENICKY,start_answer
+199,500,19,23,I couldn't.,a,THE WITNESS,start_question
+200,501,19,24,"And then, what about the primary this past May?",q,MS. KRENICKY,start_answer
+201,502,19,25,I could not.,a,THE WITNESS,start_question
+202,504,20,1,"And what were the repercussions, if any, of that?",q,MS. KRENICKY,start_answer
+203,505,20,2,Repercussions?,a,THE WITNESS,start_question
+204,506,20,3,"What were the repercussions of that, the fact that you said that you couldn't do it?  What -- did someone else have to do it?  Did --",q,MS. KRENICKY,start_answer
+205,509,20,6,I had to -- I had to find people.,a,THE WITNESS,start_question
+206,510,20,7,And I mean are you planning on resigning from that position?,q,MS. KRENICKY,start_answer
+207,512,20,9,"I keep on being an optimist and hoping I will feel better.  So I just keep -- I keep on thinking:  Oh, in six weeks, I'll be fine.  It just hasn't happened.",a,THE WITNESS,start_question
+208,515,20,12,And -- and why are you unable to do it?,q,MS. KRENICKY,start_answer
+209,516,20,13,"Because it's a concrete floor, and sitting for long periods of times bothers me very much.  So then, I would start walking around, and the only thing to walk around there is on concrete floor and the parking lot. So there's really -- and there was no place for me to like lay down and do all of my stretches so that I can get through the day.  It's a long day.  There was no place to do that, and you really can't just leave for long periods of time to take a rest.  So that's why I haven't been able to do it.  It's too painful.",a,THE WITNESS,start_question
+210,526,20,23,And how long of a term is that?,q,MS. KRENICKY,start_answer
+211,527,20,24,It's four years.,a,THE WITNESS,start_question
+212,528,20,25,"So you won't be up for reelection, then, until '21?",q,MS. KRENICKY,start_answer
+213,530,21,1,"Yeah, I guess.  You do the math.  I guess.",a,THE WITNESS,start_question
+214,531,21,2,"Well, assuming you were elected in '17 --",q,MS. KRENICKY,start_answer
+215,532,21,3,Yeah.,a,THE WITNESS,start_question
+216,533,21,4,Yeah.  Okay.  Any other jobs?,q,MS. KRENICKY,start_answer
+217,534,21,5,No.,a,THE WITNESS,start_question
+218,535,21,6,And how -- who is your family doctor?,q,MS. KRENICKY,start_answer
+219,536,21,7,Dr. Walsh.,a,THE WITNESS,start_question
+220,537,21,8,At Premier?  He's your family doctor?,q,MS. KRENICKY,start_answer
+221,538,21,9,"No, not Dr. Walsh.  My god.  Dr. Haab.  And she's not -- she is with Main Line Health.",a,THE WITNESS,start_question
+222,540,21,11,How long has she been your PCP?,q,MS. KRENICKY,start_answer
+223,541,21,12,"Probably, three, four years.",a,THE WITNESS,start_question
+224,542,21,13,Who did you see before her?,q,MS. KRENICKY,start_answer
+225,543,21,14,I don't remember.,a,THE WITNESS,start_question
+226,544,21,15,Have you been diagnosed with any chronic conditions or illnesses that you see her for on a regular basis?,q,MS. KRENICKY,start_answer
+227,546,21,17,I don't see her for a chronic condition.,a,THE WITNESS,start_question
+228,547,21,18,"Do you just go to her if you have the flu or something like that, or why do you go see her?",q,MS. KRENICKY,start_answer
+229,549,21,20,I get my yearly checkups.,a,THE WITNESS,start_question
+230,550,21,21,And you have health insurance?,q,MS. KRENICKY,start_answer
+231,551,21,22,"Yes, I do, through my husband.  Oh.  No.  No.  I'm lying.  I'm sorry.  Medicare.",a,THE WITNESS,start_question
+232,553,21,24,"You have Medicare now, okay.",q,MS. KRENICKY,start_chat
+233,554,21,25,"Don't say, ""I'm lying.""",side_chat,MR. GALLAGHER,start_chat
+234,556,22,1,Okay.,side_chat,THE WITNESS,start_chat
+235,557,22,2,You're under oath.,side_chat,MR. GALLAGHER,start_chat
+236,558,22,3,I know that.,side_chat,THE WITNESS,start_chat
+237,559,22,4,You made a mistake.,side_chat,MR. GALLAGHER,start_chat
+238,560,22,5,I made a mistake.  I'm on Medicare.,side_chat,THE WITNESS,start_question
+239,563,22,8,Okay.  So as of June?,q,MS. KRENICKY,start_answer
+240,564,22,9,As of June.,a,THE WITNESS,start_question
+241,565,22,10,"Got it.  At the time of the accident, you were under your husband's --",q,MS. KRENICKY,start_answer
+242,567,22,12,Husband's insurance.,a,THE WITNESS,start_question
+243,568,22,13,"-- health insurance?  Do you know what the company was?  Was it Aetna, Blue Cross, something else?",q,MS. KRENICKY,start_answer
+244,570,22,15,"I should know this, but I don't remember.",a,THE WITNESS,start_question
+245,571,22,16,"Do you know if they paid any of your bills, that health insurance company?",q,MS. KRENICKY,start_answer
+246,573,22,18,Any of my bills for the accident or --,a,THE WITNESS,start_question
+247,574,22,19,Yes.,q,MS. KRENICKY,start_answer
+248,575,22,20,-- any of my bills -- I don't believe so.,a,THE WITNESS,start_question
+249,576,22,21,"At the time of this accident, did you have a driver's license?",q,MS. KRENICKY,start_answer
+250,578,22,23,"Yes, I did.",a,THE WITNESS,start_question
+251,579,22,24,How long have you been driving?,q,MS. KRENICKY,start_answer
+252,580,22,25,Since I've been 16.,a,THE WITNESS,start_question
+253,582,23,1,Always licensed in Pennsylvania?,q,MS. KRENICKY,start_answer
+254,583,23,2,Yes.,a,THE WITNESS,start_question
+255,584,23,3,Has your license ever been suspended or revoked?,q,MS. KRENICKY,start_answer
+256,585,23,4,Never.,a,THE WITNESS,start_question
+257,586,23,5,It's my understanding the car you were driving was insured with Liberty Mutual?,q,MS. KRENICKY,start_answer
+258,588,23,7,Yes.,a,THE WITNESS,start_question
+259,589,23,8,And you were driving what vehicle that day?,q,MS. KRENICKY,start_answer
+260,590,23,9,I was driving my Infiniti.,a,THE WITNESS,start_question
+261,591,23,10,How long have you had that car?,q,MS. KRENICKY,start_answer
+262,592,23,11,"Two years, three -- two and a half years now.",a,THE WITNESS,start_question
+263,593,23,12,Do you still own it?,q,MS. KRENICKY,start_answer
+264,594,23,13,I don't own it.  I lease it.,a,THE WITNESS,start_question
+265,595,23,14,I'm sorry.  You still have possession of it?,q,MS. KRENICKY,start_answer
+266,596,23,15,"Yes, I do.",a,THE WITNESS,start_question
+267,597,23,16,And it was repaired after this accident?,q,MS. KRENICKY,start_answer
+268,598,23,17,"Yes, it was.",a,THE WITNESS,start_question
+269,599,23,18,"Before the accident in May of 2018, was there any visible damage to the outside of your Infiniti?",q,MS. KRENICKY,start_answer
+270,601,23,20,No.,a,THE WITNESS,start_question
+271,602,23,21,And was the -- where was the damage repaired?,q,MS. KRENICKY,start_answer
+272,603,23,22,The damage was repaired at -- it's an auto body place right on Eagle Road.  I can't remember the name of it.,a,THE WITNESS,start_question
+273,606,23,25,Did you pay any money out of your own pocket related to repairing the car?,q,MS. KRENICKY,start_answer
+274,609,24,2,"No, I didn't.",a,THE WITNESS,start_question
+275,610,24,3,Did you have any expenses related to a rental car or anything like that after this accident?,q,MS. KRENICKY,start_answer
+276,612,24,5,I had no expenses.  I did have a rental car though.,a,THE WITNESS,start_question
+277,613,24,6,But it was covered?,q,MS. KRENICKY,start_answer
+278,614,24,7,"Yes, it was.",a,THE WITNESS,start_question
+279,615,24,8,What body parts are you claiming were injured in the accident with my client?,q,MS. KRENICKY,start_answer
+280,617,24,10,"My left lower back, my left hip, my left glute, and going down into my left leg.",a,THE WITNESS,start_question
+281,619,24,12,Anything else?  You have to say it.  Are you -- you're shaking your head.,q,MS. KRENICKY,start_answer
+282,621,24,14,"No.  Sorry.  Sorry.  Sorry.  No.  It was my left lower back, my left hip, my left glute, and going down into my left leg.",a,THE WITNESS,start_question
+283,624,24,17,"So just to clarify, did you aggravate anything in your neck from this accident?",q,MS. KRENICKY,start_answer
+284,626,24,19,My neck did hurt a little bit more after this accident.,a,THE WITNESS,start_question
+285,628,24,21,"So ""yes""?",q,MS. KRENICKY,start_answer
+286,629,24,22,So yes.,a,THE WITNESS,start_question
+287,630,24,23,"And your left shoulder, did you have any increased pain or aggravation in your left shoulder from this accident?",q,MS. KRENICKY,start_answer
+288,634,25,1,"Yes, a little bit.  I was being treated at a physical therapy place at the time of this accident, so I was being treated for my neck and shoulder at the time.",a,THE WITNESS,start_question
+289,637,25,4,And that was from your November of '17 accident?,q,MS. KRENICKY,start_answer
+290,638,25,5,"Yes, it was.",a,THE WITNESS,start_question
+291,639,25,6,When was the last time you had physical therapy for your neck and your shoulder before the accident with my client?,q,MS. KRENICKY,start_answer
+292,642,25,9,May I ask a question?,a,THE WITNESS,start_question
+293,643,25,10,"You can ask for clarification.  And if you have a question, you should probably ask your attorney.  But if you need --",q,MS. KRENICKY,start_answer
+294,646,25,13,What day of the week was the accident?  'Cause I -- I forget.  Was it a Thursday?  Was it a Friday?  I don't remember.,a,THE WITNESS,start_question
+295,649,25,16,So we can --,q,MS. KRENICKY,start_answer
+296,650,25,17,"'Cause I went to physical therapy three times a week.  So it happened, I had physical therapy three times a week -- Monday, Wednesdays, and Fridays -- for my neck and shoulder.",a,THE WITNESS,start_chat
+297,654,25,21,Let's put it this way.  You mind if I -- Did you have physical therapy for your neck and your left shoulder within several --,side_chat,MR. GALLAGHER,start_chat
+298,658,25,25,Yes.,side_chat,THE WITNESS,start_chat
+299,660,26,1,-- days -- hold on.,side_chat,MR. GALLAGHER,start_chat
+300,661,26,2,Oh.,side_chat,THE WITNESS,start_chat
+301,662,26,3,"-- within several days of the May 24th, 2018 accident?",side_chat,MR. GALLAGHER,start_chat
+302,664,26,5,Yes.,side_chat,THE WITNESS,start_chat
+303,665,26,6,There you go.,side_chat,MR. GALLAGHER,start_chat
+304,666,26,7,Okay.  Wonderful.,side_chat,MS. KRENICKY,start_question
+305,668,26,9,Did you return to physical therapy for your neck and your left shoulder within a week of this accident?,q,MS. KRENICKY,start_answer
+306,670,26,11,Yes.,a,THE WITNESS,start_question
+307,671,26,12,Did you report being in this accident to your therapist?,q,MS. KRENICKY,start_answer
+308,673,26,14,Yes.,a,THE WITNESS,start_question
+309,674,26,15,Where were you going to physical therapy for your neck and your shoulder?,q,MS. KRENICKY,start_answer
+310,676,26,17,"It's right next-door to Premier Ortho, so I think it's called Premier Physical Therapy.",a,THE WITNESS,start_question
+311,678,26,19,"It's my understanding, just from some of the records, you also had therapy for this accident, on the injuries you're claiming from this accident --",q,MS. KRENICKY,start_answer
+312,681,26,22,Yes.,a,THE WITNESS,start_question
+313,682,26,23,"-- there as well, correct?",q,MS. KRENICKY,start_answer
+314,683,26,24,Yes.,a,THE WITNESS,start_question
+315,684,26,25,"We'll get into it in a little bit more detail, but were you having days when you'd go to Premier that were just for your neck and shoulder and then days you were going to Premier Physical Therapy just for your lower back issues?",q,MS. KRENICKY,start_answer
+316,690,27,5,We doubled up.,a,THE WITNESS,start_question
+317,691,27,6,So it was all at the same time?,q,MS. KRENICKY,start_answer
+318,692,27,7,It was all at the same time.,a,THE WITNESS,start_question
+319,693,27,8,"Before this accident of May of 2018, did you ever have lower back pain?",q,MS. KRENICKY,start_answer
+320,695,27,10,"Nothing to really complain about.  Not in -- I mean when I used to menstruate, you get lower -- but, you know, that kind of thing.",a,THE WITNESS,start_question
+321,698,27,13,Sure.,q,MS. KRENICKY,start_answer
+322,699,27,14,"So no, not really, not -- not -- no.",a,THE WITNESS,start_question
+323,700,27,15,"So my next question was going to be:  Within a year of the accident in May of 2018, did you complain of lower back pain to any medical provider?  So this accident happened May 24th, 2018.",q,MS. KRENICKY,start_answer
+324,704,27,19,Right.,a,THE WITNESS,start_question
+325,705,27,20,"So from May 24th of 2017 until the day of the accident, did you go to any doctor, chiropractor, therapist with lower back pain complaints?",q,MS. KRENICKY,start_answer
+326,708,27,23,No.,a,THE WITNESS,start_question
+327,709,27,24,"Before this accident, did you ever injure your left hip?",q,MS. KRENICKY,start_answer
+328,712,28,1,No.,a,THE WITNESS,start_question
+329,713,28,2,"And before this accident, did you ever have any left hip pain?",q,MS. KRENICKY,start_answer
+330,715,28,4,No.,a,THE WITNESS,start_question
+331,716,28,5,"And before this accident, did you ever complain of any left hip pain --",q,MS. KRENICKY,start_answer
+332,718,28,7,No.,a,THE WITNESS,start_question
+333,719,28,8,-- to any medical provider?,q,MS. KRENICKY,start_answer
+334,720,28,9,No.,a,THE WITNESS,start_question
+335,721,28,10,"Before this accident, had you ever injured your left glute?",q,MS. KRENICKY,start_answer
+336,723,28,12,No.,a,THE WITNESS,start_question
+337,724,28,13,"Before this accident, again, May of 2018, had you ever complained of any left glute pain to any medical provider?",q,MS. KRENICKY,start_answer
+338,727,28,16,No.,a,THE WITNESS,start_question
+339,728,28,17,"Before this accident in May of 2018, did you ever have any pain going into your left leg?",q,MS. KRENICKY,start_answer
+340,730,28,19,No.,a,THE WITNESS,start_question
+341,731,28,20,"And before May of 2018, had you ever injured your left leg in any way?",q,MS. KRENICKY,start_answer
+342,733,28,22,No.,a,THE WITNESS,start_question
+343,734,28,23,"And before May of 2018, had you ever complained of any pain going into your left leg to any medical provider?",q,MS. KRENICKY,start_answer
+344,736,28,25,No.,a,THE WITNESS,start_question
+345,738,29,1,"The day before the accident with my client, your neck pain -- let's say zero is no pain at all, ten is the worst pain you've ever had in your life.  How -- what would you say your pain level was on your -- in your neck the day before the accident with my client?",q,MS. KRENICKY,start_answer
+346,743,29,6,Probably -- can you repeat the question.,a,THE WITNESS,start_question
+347,744,29,7,"Sure.  So zero is like you're totally fine. There's nothing wrong.  Ten is the worst pain you've ever had in your life.  The day before the accident with my client, are you able to articulate using that scale what level of pain your neck was in?",q,MS. KRENICKY,start_answer
+348,749,29,12,"It's a difficult question to answer.  What happened was I had -- I had limitations of motion.  So if I was just like this at that point, you know, I was fine.  It's when I would be -- I didn't have full -- you know what I'm saying?  I didn't have full range of motion with my neck. So there were certain things that you would be doing that would hurt you because, you know, you'd be looking to this side or this side, and your neck would start hurting.  So, like I said, it's a difficult question because it's -- it wasn't constant pain at that point with my neck.",a,THE WITNESS,start_question
+349,760,29,23,Had your neck pain improved since November of 2017 to May of 2018?,q,MS. KRENICKY,start_answer
+350,762,29,25,Yes.,a,THE WITNESS,start_question
+351,764,30,1,Had it gotten better?,q,MS. KRENICKY,start_answer
+352,765,30,2,Yes.,a,THE WITNESS,start_question
+353,766,30,3,Okay.,q,MS. KRENICKY,start_answer
+354,767,30,4,It had improved.  It had not gotten a hundred percent.,a,THE WITNESS,start_question
+355,769,30,6,"Understood.  And the same question for the left shoulder, had it improved since the November, 2017 accident?",q,MS. KRENICKY,start_answer
+356,772,30,9,Yes.,a,THE WITNESS,start_question
+357,773,30,10,"And then, after the accident with my client, what changed in your neck and left shoulder?",q,MS. KRENICKY,start_answer
+358,775,30,12,More with my neck just got sore.,a,THE WITNESS,start_question
+359,776,30,13,And how -- for how long after this accident would you say your neck was sore?,q,MS. KRENICKY,start_answer
+360,778,30,15,My neck is still sore.,a,THE WITNESS,start_question
+361,779,30,16,So your neck has not improved at all since the May of 2018 accident?,q,MS. KRENICKY,start_answer
+362,781,30,18,"No.  That's not -- that's not -- it -- my neck is still sore, but it's not -- I do my own stretches and stuff for it, and I can -- I can live fine.  I'm able to get through the day.  So yes, it has improved.",a,THE WITNESS,start_question
+363,785,30,22,Is your range of motion still affected in your neck?,q,MS. KRENICKY,start_answer
+364,787,30,24,"At times, yes.",a,THE WITNESS,start_question
+365,788,30,25,"And then, your shoulder, do you still have pain in the left shoulder?",q,MS. KRENICKY,start_answer
+366,791,31,2,At times.  Not as frequently.,a,THE WITNESS,start_question
+367,792,31,3,How often?,q,MS. KRENICKY,start_answer
+368,793,31,4,"I do stretches on that too, so I would say less than on my neck.  So I wish I could say -- how often?  Not that often.",a,THE WITNESS,start_question
+369,796,31,7,"I mean are we talking once a week?  Are we talking once a day?  For some people, ""not that often"" means different things, so...",q,MS. KRENICKY,start_answer
+370,799,31,10,"For me, ""not that often"" means that every once in a while, I'll do something and I'll realize:  Oh, that hurt my shoulder.  That's how -- it's not frequent.  But I can clarify that, also, I'm doing a whole lot less with my neck and shoulder now because I no longer lift anything. So it's hard to really give you a true answer, 'cause I don't use my neck and shoulder.",a,THE WITNESS,start_question
+371,806,31,17,"All right.  Let's talk about the accident itself, okay?  It's my understanding it happened at Bon Air and Grand.  Is that accurate?",q,MS. KRENICKY,start_answer
+372,809,31,20,That's accurate.,a,THE WITNESS,start_question
+373,810,31,21,How close to the -- is that to your house?,q,MS. KRENICKY,start_answer
+374,811,31,22,"Not far at all.  I -- I wish I could tell -- you go down a -- I could walk it in about two minutes, three minutes.  It's very close to my home.",a,THE WITNESS,start_question
+375,814,31,25,And you're familiar with this intersection?,q,MS. KRENICKY,start_answer
+376,816,32,1,Very.,a,THE WITNESS,start_question
+377,817,32,2,Is it controlled by stop signs?,q,MS. KRENICKY,start_answer
+378,818,32,3,"Yes, it is.",a,THE WITNESS,start_question
+379,819,32,4,And where were you going when this happened?,q,MS. KRENICKY,start_answer
+380,820,32,5,I was going home.,a,THE WITNESS,start_question
+381,821,32,6,From?,q,MS. KRENICKY,start_answer
+382,822,32,7,Work.,a,THE WITNESS,start_question
+383,823,32,8,And what time of day did this happen?,q,MS. KRENICKY,start_answer
+384,824,32,9,"In the evening.  It would be sometime like -- I was -- I was thinking it was more like 6:00 o'clock, 6:15, somewhere around that vicinity.",a,THE WITNESS,start_question
+385,827,32,12,Was it still daylight?,q,MS. KRENICKY,start_answer
+386,828,32,13,Yes.,a,THE WITNESS,start_question
+387,829,32,14,What was the weather like?,q,MS. KRENICKY,start_answer
+388,830,32,15,Clear.,a,THE WITNESS,start_question
+389,831,32,16,"Before this accident, it's my understanding -- did you drive past my client's parked truck before the accident happened?",q,MS. KRENICKY,start_answer
+390,834,32,19,Yes.,a,THE WITNESS,start_question
+391,835,32,20,And did you -- was it stopped or moving when you drove past it?,q,MS. KRENICKY,start_answer
+392,837,32,22,It was stopped.,a,THE WITNESS,start_question
+393,838,32,23,Was he in it?,q,MS. KRENICKY,start_answer
+394,839,32,24,I don't recall.,a,THE WITNESS,start_question
+395,840,32,25,Did anything draw your attention to it as you drove past it?,q,MS. KRENICKY,start_answer
+396,843,33,2,Other than it seemed like it was parked in the wrong spot.,a,THE WITNESS,start_question
+397,845,33,4,Why do you say that?,q,MS. KRENICKY,start_answer
+398,846,33,5,"Because he was parked -- you should be parking -- I always thought that you should be parking with the -- with the way traffic is going, and he was parked against traffic.",a,THE WITNESS,start_question
+399,850,33,9,Gotcha.,q,MS. KRENICKY,start_answer
+400,851,33,10,"So I -- yes, it -- I saw it.  And I thought, You're parked in the wrong spot.",a,THE WITNESS,start_question
+401,853,33,12,How did the accident happen?,q,MS. KRENICKY,start_answer
+402,854,33,13,"I was stopped at a stop sign.  I was looking in my rearview mirror, and I saw this truck coming at me.  I tensed up, you know, started beeping the horn and screaming, ""Stop.  Stop.  Stop.""  He didn't stop.",a,THE WITNESS,start_question
+403,858,33,17,Why were you looking in your rearview mirror?,q,MS. KRENICKY,start_answer
+404,859,33,18,"I always look in my rearview mirror.  I'm one of those people who looks to both sides.  When I'm at a stop sign, I'm -- I look to the right, I look to the left, I look forward, and I look in my rearview mirror every time I stop at a stop sign.  I mean I just -- that's a habit.",a,THE WITNESS,start_question
+405,864,33,23,"When you were stopped at the stop sign, were there any other cars also stopped at the stop sign?",q,MS. KRENICKY,start_answer
+406,866,33,25,"Not that I saw, no.",a,THE WITNESS,start_question
+407,868,34,1,"When you saw the truck coming at you, is there any reason why you didn't pull forward from the stop sign?",q,MS. KRENICKY,start_answer
+408,870,34,3,It was -- it was -- happened too fast.  No.  So there's no reason why I didn't pull forward.,a,THE WITNESS,start_question
+409,872,34,5,I mean there was no traffic or person or something that prevented --,q,MS. KRENICKY,start_answer
+410,874,34,7,No.  It just happened too fast.  It -- it -- it was a surprise.,a,THE WITNESS,start_question
+411,876,34,9,How long had you been at a stop when the accident happened?,q,MS. KRENICKY,start_answer
+412,878,34,11,"I want to say three or four seconds.  I usually count -- you know, you just let your car come back to a rest, and then you proceed, is what I was taught in driving school.",a,THE WITNESS,start_question
+413,882,34,15,And your vehicle was at a complete stop when the impact occurred?,q,MS. KRENICKY,start_answer
+414,884,34,17,Complete stop.,a,THE WITNESS,start_question
+415,885,34,18,Do you have any way of estimating or knowing the speed of my client's vehicle?,q,MS. KRENICKY,start_answer
+416,887,34,20,I have no way of estimating.,a,THE WITNESS,start_question
+417,888,34,21,What part of his vehicle contacted your vehicle?,q,MS. KRENICKY,start_answer
+418,889,34,22,His back smashed into my back.,a,THE WITNESS,start_question
+419,890,34,23,Back bumper?,q,MS. KRENICKY,start_answer
+420,891,34,24,Back bumper hit into the back of my car.,a,THE WITNESS,start_question
+421,892,34,25,Would you say he hit a -- was it like a corner-to-corner or was it center-to-center?  Are you able to say?,q,MS. KRENICKY,start_answer
+422,896,35,3,I'm not able to say.  I don't -- I -- I don't know.,a,THE WITNESS,start_question
+423,897,35,4,"What happened to your body inside the car when the accident happened, when the impact occurred?",q,MS. KRENICKY,start_answer
+424,899,35,6,"I went forward.  I went backward.  I had my -- my right foot, obviously, slammed on the -- the brake. 'Cause I knew what was happening.  I guess I completely just tensed up, knowing it was gonna happen.",a,THE WITNESS,start_question
+425,903,35,10,And did any part of your body hit anything inside the car?,q,MS. KRENICKY,start_answer
+426,905,35,12,"The -- it, you know, jolts forward and then hits the back of your seat.",a,THE WITNESS,start_question
+427,907,35,14,Did you hit your head?,q,MS. KRENICKY,start_answer
+428,908,35,15,No.,a,THE WITNESS,start_question
+429,909,35,16,Were you wearing your seat belt?,q,MS. KRENICKY,start_answer
+430,910,35,17,Yes.,a,THE WITNESS,start_question
+431,911,35,18,Did any airbags go off in your car?,q,MS. KRENICKY,start_answer
+432,912,35,19,No.,a,THE WITNESS,start_question
+433,913,35,20,Did the impact push your car in any direction?,q,MS. KRENICKY,start_answer
+434,914,35,21,Pushed it forward.,a,THE WITNESS,start_question
+435,915,35,22,How far?,q,MS. KRENICKY,start_answer
+436,916,35,23,Feet.  A few feet.,a,THE WITNESS,start_question
+437,917,35,24,Did you get pushed into the intersection?,q,MS. KRENICKY,start_answer
+438,918,35,25,A little bit.,a,THE WITNESS,start_question
+439,920,36,1,"After the impact occurred -- well, strike that. What did the impact feel like to you?",q,MS. KRENICKY,start_answer
+440,922,36,3,It felt like I was hit by a car.,a,THE WITNESS,start_question
+441,923,36,4,"So -- so are you able to say:  Was it a hard impact, a medium impact, a light --",q,MS. KRENICKY,start_answer
+442,925,36,6,It seemed like a very hard impact.,a,THE WITNESS,start_question
+443,926,36,7,"And the other vehicle involved, it was a pickup truck, correct?",q,MS. KRENICKY,start_answer
+444,928,36,9,"Yes, it was, red.",a,THE WITNESS,start_question
+445,929,36,10,Were you able to get out of the vehicle after the impact?,q,MS. KRENICKY,start_answer
+446,931,36,12,Yes.,a,THE WITNESS,start_question
+447,932,36,13,"At that point, what did you do?",q,MS. KRENICKY,start_answer
+448,933,36,14,I yelled.,a,THE WITNESS,start_question
+449,934,36,15,What?,q,MS. KRENICKY,start_answer
+450,935,36,16,"""Didn't you see me?"" at the top of my lungs.",a,THE WITNESS,start_question
+451,936,36,17,And where was my client when you yelled that?,q,MS. KRENICKY,start_answer
+452,937,36,18,He was sort of sauntering out of the truck like -- you know?,a,THE WITNESS,start_question
+453,939,36,20,So he was out of the truck at that point?,q,MS. KRENICKY,start_answer
+454,940,36,21,"He got out of the truck, yeah.",a,THE WITNESS,start_question
+455,941,36,22,And did he respond to you?,q,MS. KRENICKY,start_answer
+456,942,36,23,"He sort of looked at the truck.  And I was yelling at him.  And he said he didn't see me.  And then, I recall that his rearview, you know, on that side of the car, I don't think there was a mirror in there.",a,THE WITNESS,start_question
+457,947,37,2,You mean on the -- the passenger side door?,q,MS. KRENICKY,start_answer
+458,948,37,3,"Passenger side, yeah.  I don't recall seeing a mirror.  And I think I said to him, ""You don't have a mirror.  How could"" -- you know, I was just yelling him.",a,THE WITNESS,start_question
+459,951,37,6,Okay.  And --,q,MS. KRENICKY,start_answer
+460,952,37,7,And then he just looked at the cars and just walked back into his house.,a,THE WITNESS,start_question
+461,954,37,9,"At the point when you're having this back and forth with him, were the cars still touching?",q,MS. KRENICKY,start_answer
+462,956,37,11,"Yes.  Well, no.  So it -- no.  I'm -- I'm wrong. He hit me and then he pulled forward.  And that's when I got out.  So he -- he hit me, and then he pulled forward. And that's when the bumper and everything came off my car -- or parts of it -- parts of my car came off.",a,THE WITNESS,start_question
+463,961,37,16,And were you out of the car when he pulled forward?,q,MS. KRENICKY,start_answer
+464,962,37,17,I don't believe I was.,a,THE WITNESS,start_question
+465,963,37,18,You think you were still in the car?,q,MS. KRENICKY,start_answer
+466,964,37,19,I think I was still in the car.,a,THE WITNESS,start_question
+467,965,37,20,Did you have --,q,MS. KRENICKY,start_answer
+468,966,37,21,"I'm trying to remember that, because I was screaming and yelling at him.  I don't -- I have to tell you I don't remember.",a,THE WITNESS,start_question
+469,969,37,24,"If -- if he were to say that he pulled forward after the initial impact, and you were out of the car at that point, would you have any reason to disagree with him?",q,MS. KRENICKY,start_answer
+470,974,38,3,"Yes, because I didn't understand why he was pulling off my bumper.  Like he -- like he was hooked onto me, and he started going forward, and I knew he was pulling off that bumper.  I think I was still in my car.  But once again, it happened so fast, and you're in shock that you don't expect it.  I can't a hundred percent tell you.",a,THE WITNESS,start_question
+471,980,38,9,That's fine.  Were you able to observe what damage was done to your vehicle before he pulled forward?,q,MS. KRENICKY,start_answer
+472,982,38,11,No.,a,THE WITNESS,start_question
+473,983,38,12,"In looking at pictures of your vehicle, I'm -- you've seen some since, correct?",q,MS. KRENICKY,start_answer
+474,985,38,14,"Not -- yeah.  I really haven't looked too hard at my vehicle, no.  I looked very hard at my vehicle after the accident, but no, not the pictures.",a,THE WITNESS,start_question
+475,988,38,17,"So when you were looking at the vehicle, was that at that -- at the scene?",q,MS. KRENICKY,start_answer
+476,990,38,19,"It was at the scene, because what happened was:  He pulled forward -- which is why I think I was still in my car -- he pulled forward and started pulling off the back of my car.",a,THE WITNESS,start_question
+477,994,38,23,"And when you -- when the back of your car was being pulled off, was your car in park at that point?",q,MS. KRENICKY,start_answer
+478,996,38,25,"See, this is why I said, ""I don't remember,"" because it might be that I had still had my foot on the brake while he was pulling forward and taking part of the car with him.  I -- I -- I wish I could remember more clearly.  I don't.",a,THE WITNESS,start_question
+479,1002,39,5,"That's okay.  When he pulled forward and the bumper was pulled off, did anything else happen to your body inside the vehicle?",q,MS. KRENICKY,start_answer
+480,1005,39,8,Not that I know of.,a,THE WITNESS,start_question
+481,1006,39,9,I will just show you two photographs that we will mark as P-1 and P-2.,q,MS. KRENICKY,is brackets
+482,1008,39,11,(Exhibits P-1 and P-2 marked for identification.),brackets,,start_question
+483,1011,39,14,"So I'll show you two photos we marked as P-1 and P-2.  Does that show your vehicle after this accident, first of all?",q,MS. KRENICKY,start_answer
+484,1014,39,17,Uh-huh.,a,THE WITNESS,start_question
+485,1015,39,18,"""Yes""?",q,MS. KRENICKY,start_answer
+486,1016,39,19,Uh-huh.,a,THE WITNESS,start_question
+487,1017,39,20,"You have to say ""yes.""",q,MS. KRENICKY,start_answer
+488,1018,39,21,Yes.,a,THE WITNESS,start_question
+489,1019,39,22,I know.  It's okay.  Everyone does it.  And the -- it -- it appears that your rear bumper is detached.  Is that accurate?,q,MS. KRENICKY,start_answer
+490,1022,39,25,Yes.,a,THE WITNESS,start_question
+491,1024,40,1,"The detaching of the bumper, do you know:  Did that occur when he pulled forward?",q,MS. KRENICKY,start_answer
+492,1026,40,3,Yes.,a,THE WITNESS,start_question
+493,1027,40,4,And that did not occur until he pulled forward?,q,MS. KRENICKY,start_answer
+494,1028,40,5,"I don't believe so.  But I can't -- once again, I didn't -- but I think it's because he -- he got hooked onto the back of my car and pulled forward, and that's how it happened, I believe.",a,THE WITNESS,start_question
+495,1032,40,9,Did you take any pictures at the scene?,q,MS. KRENICKY,start_answer
+496,1033,40,10,"No, I don't believe I did.",a,THE WITNESS,start_question
+497,1034,40,11,Are you aware of any witnesses to this accident?,q,MS. KRENICKY,start_answer
+498,1035,40,12,"There -- to my knowledge, there were none.",a,THE WITNESS,start_question
+499,1036,40,13,Did you have your phone with you at the time?,q,MS. KRENICKY,start_answer
+500,1037,40,14,"Yes, I did.",a,THE WITNESS,start_question
+501,1038,40,15,Did you make phone calls at the scene?,q,MS. KRENICKY,start_answer
+502,1039,40,16,I called my husband and I believe I called the police.,a,THE WITNESS,start_question
+503,1041,40,18,And did the police come?,q,MS. KRENICKY,start_answer
+504,1042,40,19,"Yes, they did.",a,THE WITNESS,start_question
+505,1043,40,20,Did your husband come?,q,MS. KRENICKY,start_answer
+506,1044,40,21,"Yes, he did.",a,THE WITNESS,start_question
+507,1045,40,22,Did my -- or did your husband talk to my client?,q,MS. KRENICKY,start_answer
+508,1046,40,23,I don't know.,a,THE WITNESS,start_question
+509,1047,40,24,Did you see my client taking any photos?,q,MS. KRENICKY,start_answer
+510,1048,40,25,"No, I did not.",a,THE WITNESS,start_question
+511,1050,41,1,Did you see my client making any phone calls?,q,MS. KRENICKY,start_answer
+512,1051,41,2,"No, I did not.",a,THE WITNESS,start_question
+513,1052,41,3,How long did it take the police to get there?,q,MS. KRENICKY,start_answer
+514,1053,41,4,"Maybe five, ten minutes.",a,THE WITNESS,start_question
+515,1054,41,5,Did an ambulance come?,q,MS. KRENICKY,start_answer
+516,1055,41,6,"No, they did not.",a,THE WITNESS,start_question
+517,1056,41,7,Were you in pain at that point?,q,MS. KRENICKY,start_answer
+518,1057,41,8,"I was in shock at that point.  So I -- really, I just -- I was going on adrenaline.",a,THE WITNESS,start_question
+519,1059,41,10,Did you request medical attention?,q,MS. KRENICKY,start_answer
+520,1060,41,11,"No, I did not.",a,THE WITNESS,start_question
+521,1061,41,12,Is there a reason you did not request medical attention?,q,MS. KRENICKY,start_answer
+522,1063,41,14,"'Cause I'm a martyr.  No.  Because I just -- no.  I didn't think that there was -- it was necessary at the time.  Like I said, I was running on just anger and adrenaline.",a,THE WITNESS,start_question
+523,1067,41,18,Did you observe if there was damage to my client's truck?,q,MS. KRENICKY,start_answer
+524,1069,41,20,I didn't notice.,a,THE WITNESS,start_question
+525,1070,41,21,You did?,q,MS. KRENICKY,start_answer
+526,1071,41,22,I didn't notice if there was.,a,THE WITNESS,start_question
+527,1072,41,23,So you can't say one way or the other?,q,MS. KRENICKY,start_answer
+528,1073,41,24,I cannot say if -- one way or the other.,a,THE WITNESS,start_question
+529,1074,41,25,Was there anything in the bed of my client's truck?,q,MS. KRENICKY,start_answer
+530,1076,42,1,I don't know.,a,THE WITNESS,start_question
+531,1077,42,2,What did you tell the police?  Anything different than what we've talked --,q,MS. KRENICKY,start_answer
+532,1079,42,4,"What I already told you, he backed into me.",a,THE WITNESS,start_question
+533,1080,42,5,Did you -- are you -- do you know if anyone got a ticket?,q,MS. KRENICKY,start_answer
+534,1082,42,7,I don't know.  I know I did not.  I have no idea if he did.,a,THE WITNESS,start_question
+535,1084,42,9,How did you leave the scene?,q,MS. KRENICKY,start_answer
+536,1085,42,10,"My husband came, and he -- I had -- I drove the car down to my house, which, like I said, is yards, and dragging the bumper along with me.  Or he might have driven the car.  Like I said, I don't remember.  My husband might have driven the car down, and I sat in the passenger seat.  I don't remember.",a,THE WITNESS,start_question
+537,1091,42,16,But your car was drivable?,q,MS. KRENICKY,start_answer
+538,1092,42,17,"My car was not really drivable, because literally sparks were -- it was -- the bumper at that point was dragging on the ground, and sparks were coming -- so no, it was not -- it was not truly drivable.  We just wanted to get it to our driveway, which was not that far away.",a,THE WITNESS,start_question
+539,1097,42,22,Was it towed to the shop?,q,MS. KRENICKY,start_answer
+540,1098,42,23,Yes.,a,THE WITNESS,start_question
+541,1099,42,24,When is the first time after the accident you felt pain?,q,MS. KRENICKY,start_answer
+542,1102,43,1,"I was uncomfortable sleeping that night, and I started noticing that my back was bothering me.  I was going to PT for my neck and just mentioned it.  I think I mentioned to them my back was bothering me, is there things that I can do to make it feel better?  And it just started progressively getting worse and worse.",a,THE WITNESS,start_question
+543,1108,43,7,Do you know when you went to PT after the accident?,q,MS. KRENICKY,start_answer
+544,1109,43,8,No.,a,THE WITNESS,start_question
+545,1110,43,9,Did you ever go to the emergency room?,q,MS. KRENICKY,start_answer
+546,1111,43,10,No.,a,THE WITNESS,start_question
+547,1112,43,11,Any reason you didn't go to the ER?,q,MS. KRENICKY,start_answer
+548,1113,43,12,'Cause I'm a martyr.,a,THE WITNESS,start_question
+549,1114,43,13,Okay.  I mean did you talk to your --,q,MS. KRENICKY,start_answer
+550,1115,43,14,"No.  I really -- like I said, no, I was not.  There was nothing broken.  I wasn't bleeding.",a,THE WITNESS,start_question
+551,1117,43,16,Did you call your primary care doctor about this?,q,MS. KRENICKY,start_answer
+552,1118,43,17,"No, I did not.",a,THE WITNESS,start_question
+553,1119,43,18,Any reason why not?,q,MS. KRENICKY,start_answer
+554,1120,43,19,I didn't think it was gonna be as bad as it was.,a,THE WITNESS,start_question
+555,1121,43,20,"When you first went to PT after the accident for your neck and your shoulder, did the therapist tell you to do anything specifically for your back?",q,MS. KRENICKY,start_answer
+556,1124,43,23,They started showing me stretches and exercises for my back.  I can't tell you the time frame.  I don't remember.,a,THE WITNESS,start_question
+557,1128,44,1,Did they tell you you would need a new prescription to get treatment on a new body part?,q,MS. KRENICKY,start_answer
+558,1130,44,3,Yes.,a,THE WITNESS,start_question
+559,1131,44,4,So did you have to go somewhere and get that?,q,MS. KRENICKY,start_answer
+560,1132,44,5,"Yes.  I probably went to the same people, which was the Premier -- yeah.",a,THE WITNESS,start_question
+561,1134,44,7,Dr. Walsh?,q,MS. KRENICKY,start_answer
+562,1135,44,8,Dr. Walsh.,a,THE WITNESS,start_question
+563,1136,44,9,"Just looking at the records that I was provided, it looks like the first time you went there for your back was June the 6th.  Does that sound right to you?",q,MS. KRENICKY,start_answer
+564,1139,44,12,That sounds probably pretty close.,a,THE WITNESS,start_question
+565,1140,44,13,"When you went in June of 2018 about a week or so after this accident, did you tell Dr. Walsh that you had had back pain for several months?",q,MS. KRENICKY,start_answer
+566,1143,44,16,I don't recall.,a,THE WITNESS,start_question
+567,1144,44,17,Is it accurate that you had had back pain for several months when you first went to see him in June of 2018?,q,MS. KRENICKY,start_answer
+568,1147,44,20,I really wish I can -- I mean I know I was going him -- for him for my neck and my shoulder.  I don't recall if I was -- I don't recall.,a,THE WITNESS,start_question
+569,1150,44,23,Do you recall if you told Dr. Walsh that you might have hurt your back moving clothing?,q,MS. KRENICKY,start_answer
+570,1152,44,25,"I could have said something, I just don't remember. I mean I change clothes every season, so yeah.",a,THE WITNESS,start_question
+571,1155,45,2,Do you have a recollection in the spring of 2018 of hurting your back whilst changing out the clothing?,q,MS. KRENICKY,start_answer
+572,1157,45,4,"I don't have a -- I don't recall that, but I'm not saying it didn't happen.",a,THE WITNESS,start_question
+573,1159,45,6,"It looks like you then went back to Dr. Walsh two to three weeks later, and he gave you an injection to your back.  Is that accurate?",q,MS. KRENICKY,start_answer
+574,1162,45,9,If that's what it says.  I don't -- I don't -- I mean I don't -- I don't remember when things were done.,a,THE WITNESS,start_question
+575,1164,45,11,Did you have an injection to your back?,q,MS. KRENICKY,start_answer
+576,1165,45,12,"Yes, I've had injections to my back.",a,THE WITNESS,start_question
+577,1166,45,13,How many injections have you had to your back?,q,MS. KRENICKY,start_answer
+578,1167,45,14,A number of them.  I don't remember how many.,a,THE WITNESS,start_question
+579,1168,45,15,When is the last time you went to Dr. Walsh for your back?,q,MS. KRENICKY,start_answer
+580,1170,45,17,A few months ago.  I've switched to another doctor.,a,THE WITNESS,start_question
+581,1171,45,18,"Well, first of all, who is the other doctor?",q,MS. KRENICKY,start_answer
+582,1172,45,19,Dr. Roy Lerman.,a,THE WITNESS,start_question
+583,1173,45,20,Lerman.  And where is Dr. Lerman?,q,MS. KRENICKY,start_answer
+584,1174,45,21,He is -- the office that I go to is at 2 Bala.,a,THE WITNESS,start_question
+585,1175,45,22,And why did you change doctors?,q,MS. KRENICKY,start_answer
+586,1176,45,23,Because I wasn't getting any relief.  New eyes.,a,THE WITNESS,start_question
+587,1177,45,24,Did Dr. Lerman ever give you injections or only Dr. Walsh?,q,MS. KRENICKY,start_answer
+588,1180,46,1,I just had one in my SI joint about eight days ago.,a,THE WITNESS,start_question
+589,1181,46,2,From Lerman?,q,MS. KRENICKY,start_answer
+590,1182,46,3,From Lerman.,a,THE WITNESS,start_question
+591,1183,46,4,Do you know how many injections Walsh gave you?,q,MS. KRENICKY,start_answer
+592,1184,46,5,"So Walsh did a number of different things.  He did dry needling.  And then he sent me to a place in Havertown, another Premier place.  And there, I had two procedures, and I believe both were injections. I don't know the names of the injections, but one was done under, I think, fluoroscopy.  And then, another one was done also.  And the -- the doctor's -- it was a woman there that did it.  I can figure out the name. I don't remember her name.",a,THE WITNESS,start_question
+593,1193,46,14,But it was someone affiliated with Premier?,q,MS. KRENICKY,start_answer
+594,1194,46,15,"But it was someone affiliated with Premier, yes.",a,THE WITNESS,start_chat
+595,1195,46,16,"I don't have all those records.  I only have some Premier records, 'cause the last record I have from Premier is from August of '18.",side_chat,MS. KRENICKY,start_chat
+596,1198,46,19,"Well, we're following up with records as well.",side_chat,MR. GALLAGHER,start_chat
+597,1200,46,21,Okay.,side_chat,MS. KRENICKY,start_chat
+598,1201,46,22,And we just -- we should have by now sent authorization to Lerman.,side_chat,MR. GALLAGHER,start_chat
+599,1203,46,24,"Well, but I'm also saying I don't think I have complete Premier records either.",side_chat,MS. KRENICKY,start_chat
+600,1206,47,1,Yeah.  When I was -- We can go off the record.,side_chat,MR. GALLAGHER,is brackets
+601,1208,47,3,(Discussion was held off the record.),brackets,,start_question
+602,1210,47,5,The -- we were talking off the record.  Your attorney mentioned that you may have had epidural injections.  Does that sound familiar to you?,q,MS. KRENICKY,start_answer
+603,1213,47,8,Yes.,a,THE WITNESS,start_question
+604,1214,47,9,And those were the -- that was the procedure you were talking about under fluoroscopic guidance?,q,MS. KRENICKY,start_answer
+605,1216,47,11,"I -- like I said, I know Dr. Walsh did some things. And then I went to this woman that's also in Premier, and that was done under fluoroscopy or something.",a,THE WITNESS,start_question
+606,1219,47,14,Did those procedures help your pain at all?,q,MS. KRENICKY,start_answer
+607,1220,47,15,No.,a,THE WITNESS,start_question
+608,1221,47,16,Did they make it worse?,q,MS. KRENICKY,start_answer
+609,1222,47,17,No.,a,THE WITNESS,start_question
+610,1223,47,18,Just it was --,q,MS. KRENICKY,start_answer
+611,1224,47,19,A wash.,a,THE WITNESS,start_question
+612,1225,47,20,"-- like nothing had happened?  Okay.  The procedures, the -- the injections that you were having, did they hurt, the actually procedure?  Was that painful?",q,MS. KRENICKY,start_answer
+613,1228,47,23,Yes.,a,THE WITNESS,start_question
+614,1229,47,24,And were you able to drive yourself to and from those appointments?,q,MS. KRENICKY,start_answer
+615,1232,48,1,"Yes.  It's right in Havertown, so very close to my home.",a,THE WITNESS,start_question
+616,1234,48,3,But not -- you didn't need someone to come and bring you or --,q,MS. KRENICKY,start_answer
+617,1236,48,5,No.,a,THE WITNESS,start_question
+618,1237,48,6,-- anything like that?  Okay.  And are you still actively having physical therapy?,q,MS. KRENICKY,start_answer
+619,1239,48,8,No.,a,THE WITNESS,start_question
+620,1240,48,9,When is the last time you had physical therapy?,q,MS. KRENICKY,start_answer
+621,1241,48,10,"So I had physical therapy through, I want to say -- I want to say January, February.  I should know this, but I don't.  And then, what I did is I switched to -- because I was getting no relief.  The problem with physical therapy:  It wasn't working. So I started going to a place up in Malvern called the Barnes' Myofascial Release Treatment.  And I went there I think it was two to three times a week.  And they worked on, I guess, the myofascial part of my injuries.  And I did get some relief from that, the first thing that really gave me relief, not to the point that I'm pain-free, but made it tolerable.  And they also taught me there a lot of stretches and exercises and things to do with pressure points to be able to treat myself.",a,THE WITNESS,start_question
+622,1256,48,25,When did you first go to the Barnes' Myofascial Release place?,q,MS. KRENICKY,start_answer
+623,1259,49,2,I would like to say it was early January or February.,a,THE WITNESS,start_question
+624,1261,49,4,Of this year?,q,MS. KRENICKY,start_answer
+625,1262,49,5,Of this year.,a,THE WITNESS,start_question
+626,1263,49,6,And when is the last time you went to Barnes'?,q,MS. KRENICKY,start_answer
+627,1264,49,7,"The last time was when they stopped taking my insurance.  It's very expensive.  And so that, I think -- I think I treated there for three months.",a,THE WITNESS,start_question
+628,1267,49,10,All right.  So which insurance was paying for you to go to Barnes'?,q,MS. KRENICKY,start_answer
+629,1269,49,12,I guess my car.,a,THE WITNESS,start_question
+630,1270,49,13,Your car insurance was?,q,MS. KRENICKY,start_answer
+631,1271,49,14,Yes.,a,THE WITNESS,start_question
+632,1272,49,15,Okay.  Did you --,q,MS. KRENICKY,start_answer
+633,1273,49,16,"They do -- they do not take regular health insurance.  They, you know -- or I would have continued using them.",a,THE WITNESS,start_question
+634,1276,49,19,Did you get a letter?  Did they tell you that they wouldn't pay for it anymore?,q,MS. KRENICKY,start_answer
+635,1278,49,21,"Yeah.  I got some kind of letter that they had to do something and submit to somewhere, and that's not something that they do.  It was very odd, but -- 'cause I then went back again.  ""Well, can't you do this?""  Because it was really helping me.  And they could not.",a,THE WITNESS,start_question
+636,1284,50,1,And who referred you to Barnes'?,q,MS. KRENICKY,start_answer
+637,1285,50,2,"I found out about that place because my closest friend's sister has bad pain issues, and she ended up there.  She lives in -- she lives in like the Allentown area.  She's the one that ended up there. And I had known -- I've known -- I mean my friend Jane has been my friend since we were 18, and she kept on saying, ""You should try it.  You should try it. You should try it.  So nothing else was working.  Give it a"" -- ""give it a whirl.""",a,THE WITNESS,start_question
+638,1294,50,11,"So then, they told you they couldn't take you anymore.  Then, is that when you started seeing Dr. Lerner -- Lerman?",q,MS. KRENICKY,start_answer
+639,1297,50,14,"No.  I just started seeing Dr. Lerman just -- so I was continuing to see Walsh to see if there was anything else that could be done.  And he still gave me a couple more injections and, I think, a couple more dry needling. They don't work for me. So at that point, I had purchased Barnes' book and started doing a lot of self-help at home.  So I spend every morning of my life, about an hour to an hour and a half, doing stretches and exercises according to their philosophy.  And I also do it every single evening. During the day at work, I stop what I'm doing when I'm in pain, and I go and do that.  It does give me relief, but it doesn't last.",a,THE WITNESS,start_question
+640,1311,51,2,Is there equipment with that stretching?,q,MS. KRENICKY,start_answer
+641,1312,51,3,"Yeah, there is a -- sort of.  You use -- they have like a ball that you do things with.  They have this thing called a nolarola that gets into the myofascial to put pressure on it.  So -- so by ""equipment,"" no, but there are things. There's something that you use to -- to help with your SI joint by putting your legs up a wall. There are things that you do, and it actually does give me a little bit of relief.  But it -- like I said, it doesn't last.",a,THE WITNESS,start_question
+642,1322,51,13,So you stopped going to Barnes'.  You continued --,q,MS. KRENICKY,start_answer
+643,1323,51,14,'Cause they fired me.,a,THE WITNESS,start_question
+644,1324,51,15,You kept seeing Dr. Walsh then after --,q,MS. KRENICKY,start_answer
+645,1325,51,16,"I kept -- I continued seeing Dr. Walsh.  And like I said, I started doing more of my own in-home -- trying to -- yes.",a,THE WITNESS,start_question
+646,1328,51,19,How often were you seeing Dr. Walsh in the beginning of 2019?,q,MS. KRENICKY,start_answer
+647,1330,51,21,"I saw him fairly often, 'cause I was still going through PT there, you know, which was right next-door.  So he couldn't give me -- there was a time period between injections that he could do.  So, you know, we'd make an appointment.  I could see him again in the next whatever time, and then I'd make an appointment.  I don't know the actual time.",a,THE WITNESS,start_question
+648,1338,52,3,Was there ever a period of time greater than a month that you didn't see any doctor or medical provider in 2019?,q,MS. KRENICKY,start_answer
+649,1341,52,6,"There might have been, but there's never been a time where I haven't been addressing this.  There's not a day.",a,THE WITNESS,start_question
+650,1344,52,9,I --,q,MS. KRENICKY,start_answer
+651,1345,52,10,"But as far as a medical provider, I think with Walsh, when you give an injection, the kind that he was giving me, you have to wait maybe four, five, six weeks to get the next one.  So the answer would be yes, I would probably not go back in four weeks if I couldn't get -- have him do something.",a,THE WITNESS,start_question
+652,1351,52,16,"And then, you stopped seeing Walsh.  How much time passed from when you stopped seeing Walsh to when you started seeing Lerman?",q,MS. KRENICKY,start_answer
+653,1354,52,19,"I don't know.  I forget.  I'd have to look up my last time I, you know -- I'd have to look at records.  I have no idea.",a,THE WITNESS,start_question
+654,1357,52,22,"Besides Dr. Walsh, Dr. Lerman, the Barnes' Center, and the physical therapy you received, have you gotten treatment from any other medical provider for this accident?",q,MS. KRENICKY,start_answer
+655,1362,53,1,"Other than the place that I told you that -- the Premier place that did the fluoroscope.  That was a totally different doctor.  Even though it's the same practice, it was a totally different, you know, doctor there.",a,THE WITNESS,start_question
+656,1367,53,6,"Right.  But those are -- those are the only medical providers you've seen for this, correct?",q,MS. KRENICKY,start_answer
+657,1369,53,8,Those are -- yes.,a,THE WITNESS,start_question
+658,1370,53,9,"Did you receive any diagnostic testing after this accident?  MRIs, for example.",q,MS. KRENICKY,start_answer
+659,1372,53,11,I had an MRI.,a,THE WITNESS,start_question
+660,1373,53,12,Of what body parts?,q,MS. KRENICKY,start_answer
+661,1374,53,13,My spine.,a,THE WITNESS,start_question
+662,1375,53,14,"So just looking at the records, it looks like, in July of 2018, you had an MRI of your lower back.  Is that accurate?",q,MS. KRENICKY,start_answer
+663,1378,53,17,Yes.,a,THE WITNESS,start_question
+664,1379,53,18,"And then, you also had an MRI of your hips.  Is that accurate?",q,MS. KRENICKY,start_answer
+665,1381,53,20,I guess so.,a,THE WITNESS,start_question
+666,1382,53,21,Did anyone discuss the findings of those two studies with you?,q,MS. KRENICKY,start_answer
+667,1384,53,23,"Recently, Dr. Lerman showed me my MRI of my spine.",a,THE WITNESS,start_question
+668,1385,53,24,And what did he explain to you?,q,MS. KRENICKY,start_answer
+669,1386,53,25,"I have a couple of bulging discs, but other than that, I think he -- I don't think there's anything remarkable.",a,THE WITNESS,start_question
+670,1390,54,3,Had you ever had an MRI of your spine before this accident?,q,MS. KRENICKY,start_answer
+671,1392,54,5,I don't recall.,a,THE WITNESS,start_question
+672,1393,54,6,Did you have any --,q,MS. KRENICKY,start_chat
+673,1394,54,7,In your low back.,side_chat,MR. GALLAGHER,start_chat
+674,1395,54,8,"Sorry.  She said ""the spine,"" so I -- I was using her word.  But --",side_chat,MS. KRENICKY,start_chat
+675,1397,54,10,I don't recall.,side_chat,THE WITNESS,start_question
+676,1399,54,12,Okay.  Did you have any MRI for your 2017 accident?,q,MS. KRENICKY,start_answer
+677,1400,54,13,Good question.  I -- there's -- I don't recall.,a,THE WITNESS,start_question
+678,1401,54,14,"And how many times did you have an MRI of your spine, as you described it?",q,MS. KRENICKY,start_answer
+679,1403,54,16,I believe once.,a,THE WITNESS,start_question
+680,1404,54,17,"Just once, okay.  Do you have any upcoming MRIs? Did anyone tell you you'd need a new one?",q,MS. KRENICKY,start_answer
+681,1406,54,19,"No, no one has said that.",a,THE WITNESS,start_question
+682,1407,54,20,"Have you ever heard of the term ""EMG"" as a test? Does that sound familiar to you?",q,MS. KRENICKY,start_answer
+683,1409,54,22,I have heard of the test.,a,THE WITNESS,start_question
+684,1410,54,23,Where they put --,q,MS. KRENICKY,start_answer
+685,1411,54,24,"I think -- I think Dr. Walsh was telling me about it, something about with the nerves.  And they -- but apparently, it's very painful, and they've been -- he was avoiding doing that.",a,THE WITNESS,start_question
+686,1416,55,3,So did you ever have that test?,q,MS. KRENICKY,start_answer
+687,1417,55,4,"No, I did not, to my knowledge.  I don't remember. I would remember that, though, if it's painful, so no.",a,THE WITNESS,start_question
+688,1419,55,6,Do you still have the pain going into your left leg?,q,MS. KRENICKY,start_answer
+689,1421,55,8,"On and off, not all the time.",a,THE WITNESS,start_question
+690,1422,55,9,How often do you have it?,q,MS. KRENICKY,start_answer
+691,1423,55,10,"A moderate amount.  Like right now, I have it. Sitting here -- sitting for long periods of time, it -- it -- it's worse.",a,THE WITNESS,start_question
+692,1426,55,13,Do you need to take a break?,q,MS. KRENICKY,start_answer
+693,1427,55,14,Yes.,a,THE WITNESS,start_question
+694,1428,55,15,Okay.,q,MS. KRENICKY,start_chat
+695,1429,55,16,Let's take a break.,side_chat,MS. KRENICKY,is brackets
+696,1430,55,17,(Recess was taken from 12:04 p.m. to 12:08 p.m.),brackets,,start_question
+697,1433,55,20,When is the first time after the accident you felt the pain going into your leg?,q,MS. KRENICKY,start_answer
+698,1435,55,22,"You know, my -- my back -- my lower back, my glutes were bothering me.  It was like all intertwined with each other.  I can't separate:  Oh, it was my back first, and then it became going down my leg, and then it -- I can't say that.  It sort of was like just happening, and I was noticing:  Oh, this is bothering me and this is bothering me, that kind of thing.",a,THE WITNESS,start_question
+699,1443,56,4,"So just based on what you said before, would you say, then, it was within a day or two of the accident?",q,MS. KRENICKY,start_answer
+700,1445,56,6,"Yeah, probably.  It was -- it wasn't -- it was the kind of thing that it was bothering me, and -- and you think in your head:  Oh, that's gonna go away.  You really do.  You just think:  Oh, within a week or two, I'll be fine.",a,THE WITNESS,start_question
+701,1450,56,11,"But so then, just to clarify, I mean you can't separate the leg pain from the back pain to the glute pain, but I believe you said you started to feel pain about a day later?",q,MS. KRENICKY,start_answer
+702,1454,56,15,"Yeah, I started feeling pain, but I can't tell you it was specifically one more than the other.",a,THE WITNESS,start_question
+703,1456,56,17,Okay.,q,MS. KRENICKY,start_answer
+704,1457,56,18,Okay?,a,THE WITNESS,start_question
+705,1458,56,19,"Yup.  And as we sit here today, how often do you have the back pain?",q,MS. KRENICKY,start_answer
+706,1460,56,21,All the time.,a,THE WITNESS,start_question
+707,1461,56,22,That is constant?,q,MS. KRENICKY,start_answer
+708,1462,56,23,"By -- by ""back pain,"" I'm talking about all the pain.  I'm talking about lower back.  I'm talking about hip.  I'm talking about going into -- back in here, into -- shooting down my glute.  So I have it -- it's with me all the time.",a,THE WITNESS,start_question
+709,1468,57,3,"And how far down your leg, when you get the leg pain, does it go?",q,MS. KRENICKY,start_answer
+710,1470,57,5,"It depends on the day.  It depends on what I'm doing, but it can go all the way down into my ankle, and it can be just as little bit like right over here.",a,THE WITNESS,start_question
+711,1473,57,8,Your upper thigh?,q,MS. KRENICKY,start_answer
+712,1474,57,9,It can be up to my thigh.  It can also go all the way down my -- the back of my leg.,a,THE WITNESS,start_question
+713,1476,57,11,"Okay.  Oh.  I know.  It looks like you did go see a Corey Kirshner, a chiropractor.",q,MS. KRENICKY,start_answer
+714,1478,57,13,Yeah.  Yeah.,a,THE WITNESS,start_question
+715,1479,57,14,Is that someone you're related to?,q,MS. KRENICKY,start_answer
+716,1480,57,15,Yes.,a,THE WITNESS,start_question
+717,1481,57,16,'Cause you mentioned Kirshner was your maiden name.,q,MS. KRENICKY,start_answer
+718,1482,57,17,Yes.,a,THE WITNESS,start_question
+719,1483,57,18,Who is Corey --,q,MS. KRENICKY,start_answer
+720,1484,57,19,"So my -- so my brother Corey is a chiropractor.  So I was complaining to him about my pain.  And because chiropractors believe that they are the cure-all of all, he said, ""Come and see me,"" which it was problematic for me because it was very difficult for me to drive. But he lives in Allentown.  And I went to see him a few times, going with cruise control, to go and see him to see if he could do anything at all.  And then, I realized it was a waste of my time, so I supposed going.",a,THE WITNESS,start_question
+721,1494,58,3,It looks like you went seven times?,q,MS. KRENICKY,start_answer
+722,1495,58,4,Yeah.,a,THE WITNESS,start_question
+723,1496,58,5,All right.  And he just did some manipulations?,q,MS. KRENICKY,start_answer
+724,1497,58,6,"He did a -- manipulations.  And he's the one that gave me a TENS unit to use and did a couple of other kind of things that he does that -- you know, I made fun of him that it's hocus-pocus, you know?",a,THE WITNESS,start_question
+725,1501,58,10,Had you ever treated with your brother before this accident?,q,MS. KRENICKY,start_answer
+726,1503,58,12,No.,a,THE WITNESS,start_question
+727,1504,58,13,"And other than those seven visits, have you been back?",q,MS. KRENICKY,start_answer
+728,1506,58,15,No.,a,THE WITNESS,start_question
+729,1507,58,16,"And the TENS unit he gave you, do you use it?",q,MS. KRENICKY,start_answer
+730,1508,58,17,No.,a,THE WITNESS,start_question
+731,1509,58,18,Do you still have it?,q,MS. KRENICKY,start_answer
+732,1510,58,19,"Yeah, I do.",a,THE WITNESS,start_question
+733,1511,58,20,All right.  Did you ever use it?,q,MS. KRENICKY,start_answer
+734,1512,58,21,"Yes, I did.",a,THE WITNESS,start_question
+735,1513,58,22,For how long?,q,MS. KRENICKY,start_answer
+736,1514,58,23,Probably on and off for like three weeks.,a,THE WITNESS,start_question
+737,1515,58,24,And that would have been in the summer --,q,MS. KRENICKY,start_answer
+738,1516,58,25,Yeah.,a,THE WITNESS,start_question
+739,1518,59,1,-- fall of '18?,q,MS. KRENICKY,start_answer
+740,1519,59,2,Yeah.,a,THE WITNESS,start_question
+741,1520,59,3,All right.  The belt you mentioned --,q,MS. KRENICKY,start_answer
+742,1521,59,4,Yes.,a,THE WITNESS,start_question
+743,1522,59,5,-- how often do you use that?,q,MS. KRENICKY,start_answer
+744,1523,59,6,"I used that on a pretty regular basis.  Probably until, I want to say, that January, February, I was using it.  As I was getting pain, I would use the belt. Once I started going to the myofascial place, the -- the -- I would get the shooting pain down my -- my back.  And once I started going to the myofascial place, that shooting pain wasn't as bad.  So I didn't need to, you know -- the chiropractor, I didn't need as -- I just, you know -- it -- it was the kind of thing that they -- I -- at that myofascial place, they taught me a lot of things to do that were helpful.",a,THE WITNESS,start_question
+745,1534,59,17,So you haven't used the belt since --,q,MS. KRENICKY,start_answer
+746,1535,59,18,So --,a,THE WITNESS,start_question
+747,1536,59,19,-- you went to the myofascial place?,q,MS. KRENICKY,start_answer
+748,1537,59,20,"No.  I would use it on and off when things would get bad, but I would not use it as frequently.",a,THE WITNESS,start_question
+749,1539,59,22,How -- when is the last time you used the belt?,q,MS. KRENICKY,start_answer
+750,1540,59,23,"Probably a month or so ago.  I keep it at the gallery.  You know, when I need it, I -- I put it on.  But now that I have all the help that I have, I don't seem to need it as much.",a,THE WITNESS,start_question
+751,1545,60,2,Any other equipment or devices given to you after this accident?,q,MS. KRENICKY,start_answer
+752,1547,60,4,"My brother gave me one other thing.  I can't tell you what it was, and since it did nothing, I didn't use it.  I don't know what it was.  He did give me one other something or another.",a,THE WITNESS,start_question
+753,1551,60,8,Did anyone ever prescribe you any pain medication?,q,MS. KRENICKY,start_answer
+754,1552,60,9,"So here's the issue with pain medication:  I have Crohn's disease.  I can take nothing but Tylenol.  Tylenol does nothing. So all of the usual suspects -- so I have been given a prescription for Flexeril.  Flexeril does help a bit at night.  I don't like the way it makes me feel, and I don't like the way it -- I feel so foggy in the morning.  So I try as best as I can to use that as little at possible. I was also given a prescription for Vicodin.  I still have that.  I try to -- once again, I'll use that if I am flying somewhere or I need to be in a car for a very long period of time or it's an incredibly bad day.  I try not to -- I'm not a painkiller person.",a,THE WITNESS,start_question
+755,1566,60,23,Who prescribed the Flexeril?,q,MS. KRENICKY,start_answer
+756,1567,60,24,Flexeril was Walsh.,a,THE WITNESS,start_question
+757,1568,60,25,And what about the Vicodin?,q,MS. KRENICKY,start_answer
+758,1570,61,1,"The new doctor, Lerman.",a,THE WITNESS,start_question
+759,1571,61,2,Any other medicines prescribed?,q,MS. KRENICKY,start_answer
+760,1572,61,3,"For my back, no.  That's it.",a,THE WITNESS,start_question
+761,1573,61,4,Did you get different medicine for your neck and shoulder?,q,MS. KRENICKY,start_answer
+762,1575,61,6,"Oh, no.  No.  No.  I'm on medicines.",a,THE WITNESS,start_question
+763,1576,61,7,Oh.,q,MS. KRENICKY,start_answer
+764,1577,61,8,I'm on a bunch of other -- I have Crohn's disease --,a,THE WITNESS,start_question
+765,1579,61,10,Right.,q,MS. KRENICKY,start_answer
+766,1580,61,11,So I'm on a ton of medicine.,a,THE WITNESS,start_question
+767,1581,61,12,Who do you see for your Crohn's?,q,MS. KRENICKY,start_answer
+768,1582,61,13,"I see Kaufman, Dr. Kaufman at -- at -- at Main Line, at Lankenau.",a,THE WITNESS,start_question
+769,1584,61,15,At Lankenau.  And when were you diagnosed with that?,q,MS. KRENICKY,start_answer
+770,1586,61,17,I was 16.,a,THE WITNESS,start_question
+771,1587,61,18,"Oh, for -- you've -- pretty much lifelong?",q,MS. KRENICKY,start_answer
+772,1588,61,19,Lifelong.,a,THE WITNESS,start_question
+773,1589,61,20,What are the symptoms of your Crohn's?,q,MS. KRENICKY,start_answer
+774,1590,61,21,"Copious amount of deliria and some pain, intestinal pain.",a,THE WITNESS,start_question
+775,1592,61,23,And did you ever get back pain related to that?,q,MS. KRENICKY,start_answer
+776,1593,61,24,Never.,a,THE WITNESS,start_question
+777,1594,61,25,And as long as you eat what you need to eat --,q,MS. KRENICKY,start_answer
+778,1596,62,1,"I'm gluten-free and I'm a very clean eater, other than coffee and sugar.",a,THE WITNESS,start_question
+779,1598,62,3,Got it.  So but it's -- it's controlled by your diet?,q,MS. KRENICKY,start_answer
+780,1600,62,5,"It's -- no.  It's controlled by my medication.  And I have a -- a very strict diet, yes.  It doesn't control it.  It makes me feel better.  It makes me less sick.",a,THE WITNESS,start_question
+781,1603,62,8,Any other illnesses?,q,MS. KRENICKY,start_answer
+782,1604,62,9,No.,a,THE WITNESS,start_question
+783,1605,62,10,"As a result of this accident, is there anything that you 100 percent cannot do, not that it causes you difficulty or pain, but that you cannot do it?",q,MS. KRENICKY,start_answer
+784,1608,62,13,So you don't mean like lifting?,a,THE WITNESS,start_question
+785,1609,62,14,Well --,q,MS. KRENICKY,start_answer
+786,1610,62,15,'Cause I cannot lift.,a,THE WITNESS,start_question
+787,1611,62,16,"So we had talked earlier.  I mean you can lift some things with the belt, but you choose not to, correct?",q,MS. KRENICKY,start_answer
+788,1613,62,18,"No.  I can't -- I -- even with the belt, I was not lifting.  What it does is walking.  The -- what the belt helped me with is literally going up and down stairs and walking and being able to get through the day.  I did not help me lift.",a,THE WITNESS,start_question
+789,1618,62,23,So you cannot lift at all?,q,MS. KRENICKY,start_answer
+790,1619,62,24,I can't lift at all.,a,THE WITNESS,start_question
+791,1620,62,25,What is the -- give me an example of an item that you can carry without issue.,q,MS. KRENICKY,start_answer
+792,1623,63,2,Okay.  So I went from a big-ass -- oh.,a,THE WITNESS,start_chat
+793,1624,63,3,It's all right.,side_chat,MR. GALLAGHER,start_question
+794,1626,63,5,That's okay.,q,MS. KRENICKY,start_answer
+795,1627,63,6,A big bag --,a,THE WITNESS,start_question
+796,1628,63,7,Yeah.,q,MS. KRENICKY,start_answer
+797,1629,63,8,-- to I purchased that because I can't lift or carry for a long period of time a regular purse.,a,THE WITNESS,start_question
+798,1631,63,10,So you bought a cross-body --,q,MS. KRENICKY,start_answer
+799,1632,63,11,"I bought a cross-body, and there are many times I carry it like this.",a,THE WITNESS,start_question
+800,1634,63,13,"You're -- you're -- just 'cause the record, we have to --",q,MS. KRENICKY,start_answer
+801,1636,63,15,Okay.  I'm cradling it so that I don't have the weight.,a,THE WITNESS,start_question
+802,1638,63,17,Okay.,q,MS. KRENICKY,start_answer
+803,1639,63,18,So that -- so that's something I mean I -- repeat the question that was all of ten seconds ago.,a,THE WITNESS,start_question
+804,1641,63,20,That's okay.  So I'm just trying to get an idea of things you can --,q,MS. KRENICKY,start_answer
+805,1643,63,22,Can lift.,a,THE WITNESS,start_question
+806,1644,63,23,"I mean obviously, you're able to pick up a coffee cup.  I --",q,MS. KRENICKY,start_answer
+807,1646,63,25,"I'm able to pick up things like a coffee cup.  I'm able to kneel down in front of a washing machine and take the stuff that's from the washing machine into the dryer, little bits.  I can't take a basket of -- pick up a basket of clothes.  I've stopped actually doing laundry because of that. I'm trying to think of what can I actually -- I could pick up paper.  I --",a,THE WITNESS,start_chat
+808,1655,64,8,"No.  Let me ask you this question, if you don't mind",side_chat,MR. GALLAGHER,start_chat
+809,1659,64,12,"I haven't tried, but I would think like three pounds, four pounds.  I don't know. How -- how heavy is that bag?",side_chat,THE WITNESS,start_chat
+810,1662,64,15,I don't know.  What about a gallon of milk?  Could you pick up a gallon of milk and --,side_chat,MR. GALLAGHER,start_chat
+811,1664,64,17,I can pick up a --,side_chat,THE WITNESS,start_chat
+812,1665,64,18,-- and carry it --,side_chat,MR. GALLAGHER,start_chat
+813,1666,64,19,-- bag.,side_chat,THE WITNESS,start_chat
+814,1667,64,20,-- and walk around with it?,side_chat,MR. GALLAGHER,start_chat
+815,1668,64,21,"No, probably not.",side_chat,THE WITNESS,start_question
+816,1670,64,23,"So if you went to the grocery store, for example, and you went to the back of the store, and you got milk, could you carry it to the cash register, or would you need to put it in a cart and push it?",q,MS. KRENICKY,start_answer
+817,1675,65,2,"Not a gallon.  It would -- that would bother me. But a quart, absolutely.  I can pick up a quart.",a,THE WITNESS,start_question
+818,1677,65,4,"All right.  So other than lifting, are there any other things that you cannot do?",q,MS. KRENICKY,start_answer
+819,1679,65,6,Sleeping is very difficult.  I -- I can sleep.,a,THE WITNESS,start_chat
+820,1680,65,7,"Listen -- listen to her question, okay?",side_chat,MR. GALLAGHER,start_chat
+821,1682,65,9,Okay.  The things that --,side_chat,THE WITNESS,start_chat
+822,1683,65,10,"She's saying -- you -- obviously, you sleep or you'd be dead.",side_chat,MR. GALLAGHER,start_chat
+823,1685,65,12,Right.,side_chat,THE WITNESS,start_chat
+824,1686,65,13,"So what cannot -- what can you not do at all, you've stopped doing because you physically cannot do it?",side_chat,MR. GALLAGHER,start_chat
+825,1689,65,16,"Lifting is probably the major thing, anything that has to do with -- with anything that's gonna pull on my -- my lower back.  So I cannot lift.  I could do most other things, you know, walk, sit, things like that, yes.",side_chat,THE WITNESS,start_question
+826,1695,65,22,"Did you have any issues with lifting from your November, 2017 accident?",q,MS. KRENICKY,start_answer
+827,1697,65,24,"Yes, I did.",a,THE WITNESS,start_question
+828,1698,65,25,Did the amount of weight that you could lift change after the accident with my client?,q,MS. KRENICKY,start_answer
+829,1701,66,2,Yes.,a,THE WITNESS,start_question
+830,1702,66,3,Could you have carried a gallon of milk --,q,MS. KRENICKY,start_answer
+831,1703,66,4,Yes.,a,THE WITNESS,start_question
+832,1704,66,5,"-- after the November, 2017 accident but before the accident with my client?",q,MS. KRENICKY,start_answer
+833,1706,66,7,Yes.,a,THE WITNESS,start_question
+834,1707,66,8,"All right.  The accident in November of 2017, just generally -- like we don't need to get into the specifics like the streets or anything -- but like what happened in that accident?  Were you rear-ended?  Was it a head-on collision?  Was it a T-bone?",q,MS. KRENICKY,start_answer
+835,1712,66,13,"So what happened on that accident is we were driving.  I think it was I-95 or 76 in New Jersey.  I was in a company van, and I believe it was an 18-wheeler hit our van.",a,THE WITNESS,start_question
+836,1716,66,17,You guys got rear-ended?,q,MS. KRENICKY,start_answer
+837,1717,66,18,We got rear-ended.,a,THE WITNESS,start_question
+838,1718,66,19,All right.  And were you taken by ambulance?,q,MS. KRENICKY,start_answer
+839,1719,66,20,"No, I was not.",a,THE WITNESS,start_question
+840,1720,66,21,Did you go to the emergency room for that accident?,q,MS. KRENICKY,start_answer
+841,1721,66,22,"No, I did not.",a,THE WITNESS,start_question
+842,1722,66,23,Is -- the only place you went was Premier for that accident?,q,MS. KRENICKY,start_answer
+843,1724,66,25,And the -- and a -- a chiropractor place.,a,THE WITNESS,start_question
+844,1726,67,1,Not your brother?,q,MS. KRENICKY,start_answer
+845,1727,67,2,Not my brother.,a,THE WITNESS,start_question
+846,1728,67,3,What was the chiropractor place?,q,MS. KRENICKY,start_answer
+847,1729,67,4,I would have to get you the name.  It's on -- I think it's like 947 Haverford Road.  I mean I could tell you exactly where it is.  I just can't remember the name.,a,THE WITNESS,start_question
+848,1732,67,7,It's on Haverford Road and what?,q,MS. KRENICKY,start_answer
+849,1733,67,8,Haverford.  It's just literally on Haverford Road.,a,THE WITNESS,start_question
+850,1734,67,9,Okay.  Mid-block somewhere?,q,MS. KRENICKY,start_answer
+851,1735,67,10,"Yeah, mid-block on Haverford Road.",a,THE WITNESS,start_question
+852,1736,67,11,All right.  Was that a Workers' Compensation doctor?,q,MS. KRENICKY,start_answer
+853,1738,67,13,"Yes, it was.",a,THE WITNESS,start_question
+854,1739,67,14,"Or chiropractor, I should say.",q,MS. KRENICKY,start_answer
+855,1740,67,15,"Yeah, it was.",a,THE WITNESS,start_question
+856,1741,67,16,All right.,q,MS. KRENICKY,start_answer
+857,1742,67,17,"Can I get back to the other question also?  I've -- I -- when you said about as far as lifting and stuff from that -- this particular accident, my right side was fine. It was my left that was -- that was injured. So I was -- and I'm right-handed.  So I was able to do a fair amount because I'm right-handed, but things that I would need both was where the issue laid -- was -- was.  So, yes.  Could I pick up milk?  I'm right-handed.  Yes, I could pick up milk.",a,THE WITNESS,start_question
+858,1752,68,1,I understand.  Is your Workers' Compensation resolved?,q,MS. KRENICKY,start_answer
+859,1754,68,3,"Not that I know of, no.  No?  No, it's not.  No.",a,THE WITNESS,start_chat
+860,1755,68,4,We can go off the record.,side_chat,MR. GALLAGHER,is brackets
+861,1756,68,5,(Discussion was held off the record.),brackets,,start_question
+862,1758,68,7,"Did you give a deposition related to the November, 2017 accident?",q,MS. KRENICKY,start_answer
+863,1760,68,9,No.,a,THE WITNESS,start_question
+864,1761,68,10,Do you have one scheduled?,q,MS. KRENICKY,start_answer
+865,1762,68,11,No.,a,THE WITNESS,start_chat
+866,1763,68,12,It's not in suit.,side_chat,MR. GALLAGHER,start_chat
+867,1764,68,13,Got it.,side_chat,MS. KRENICKY,start_question
+868,1766,68,15,Any other car accidents besides this one and the one in November of 2017?,q,MS. KRENICKY,start_answer
+869,1768,68,17,No.,a,THE WITNESS,start_question
+870,1769,68,18,"In the past five years, have you been to an emergency room for any reason?",q,MS. KRENICKY,start_answer
+871,1771,68,20,Not that I can recall.,a,THE WITNESS,start_question
+872,1772,68,21,I saw something in your --,q,MS. KRENICKY,start_chat
+873,1773,68,22,What about -- hold on.,side_chat,MR. GALLAGHER,start_question
+874,1775,68,24,-- records that you fell and broke your elbow.,q,MS. KRENICKY,start_answer
+875,1776,68,25,"Oh, yeah.  I --",a,THE WITNESS,start_question
+876,1778,69,1,Did you go to the ER for that?,q,MS. KRENICKY,start_answer
+877,1779,69,2,"Yeah.  I -- I -- I absolutely did, yes.  That was in -- when we were hiking out West.  I'm trying to forget that whole thing.  Yes.  We were hiking, and I tripped and broke my elbow.",a,THE WITNESS,start_question
+878,1783,69,6,So that --,q,MS. KRENICKY,start_answer
+879,1784,69,7,"Yes.  And I went to the emergency room in Seattle, and then I came back here and went to a doctor.",a,THE WITNESS,start_question
+880,1786,69,9,Who did you treat with for the elbow?,q,MS. KRENICKY,start_answer
+881,1787,69,10,You're asking me names I don't remember.,a,THE WITNESS,start_question
+882,1788,69,11,Do you know where?,q,MS. KRENICKY,start_answer
+883,1789,69,12,"My elbow, I probably -- I don't remember.  I really, truly don't remember.",a,THE WITNESS,start_question
+884,1791,69,14,It wasn't Premier?,q,MS. KRENICKY,start_chat
+885,1792,69,15,You know the name of the facility?,side_chat,MR. GALLAGHER,start_chat
+886,1794,69,17,"I'm telling you I'm being honest.  I -- I don't know why I don't remember this.  I did break my elbow, and it -- oh.  I know exactly where it was, Rothman.  I'm sitting here like",side_chat,THE WITNESS,start_question
+887,1800,69,23,"And that happened in the summer of '17, so about a year before this --",q,MS. KRENICKY,start_answer
+888,1802,69,25,"Oh, please.  If I couldn't remember Rothman, do you really think I'd remember the date of that?  I don't remember.  I would have to go look at my pictures of when we were out in Seattle and out that -- that area, and then it would come to me.",a,THE WITNESS,start_question
+889,1808,70,5,"Any other broken bones, anything like that in your life?",q,MS. KRENICKY,start_answer
+890,1810,70,7,No.,a,THE WITNESS,start_question
+891,1811,70,8,And any other emergency room visits in the past five years?,q,MS. KRENICKY,start_answer
+892,1813,70,10,Not that I can recall.,a,THE WITNESS,start_question
+893,1814,70,11,"Going back to your limitations from this accident, so we were talking about absolutes, right? you absolutely cannot do's, and that was the lifting.",q,MS. KRENICKY,start_answer
+894,1817,70,14,Lifting.,a,THE WITNESS,start_question
+895,1818,70,15,"Now we're gonna get into the things that cause you difficulty and pain, okay?  So you started to mention sleeping.",q,MS. KRENICKY,start_answer
+896,1821,70,18,Sleeping is an issue.,a,THE WITNESS,start_question
+897,1822,70,19,Tell me about that.,q,MS. KRENICKY,start_answer
+898,1823,70,20,"Sleep -- well, first of all, I was never a back sleeper.  I can't sleep on my -- either side at this point, because it causes pain on my left side.  So I can't sleep on left side.  I have to sleep flat on my back. It's uncomfortable sleeping flat on my back, so then I went and got something to put underneath my knees and also something to put underneath my neck so that it makes it a little bit more comfortable.  I was taking the Flexeril so that I could fall asleep.  I stopped taking the Flexeril, because it makes me wonky in the morning, and I hated the way it made me feel. I do try to take Tylenol.  It doesn't work. I mean Tylenol just doesn't seem to work for me.  I stay up quite late and watch TV and read and eventually fall asleep.  And I do wake up in the middle of the night and have to get up and walk around and things like that.  And then, I go back to bed.  So my sleep is interrupted.",a,THE WITNESS,start_question
+899,1841,71,12,And have you discussed that with any doctors?,q,MS. KRENICKY,start_answer
+900,1842,71,13,No.  I just am dealing with it.,a,THE WITNESS,start_question
+901,1843,71,14,And any other activities that have been affected by this accident?,q,MS. KRENICKY,start_answer
+902,1845,71,16,"Any other activities?  Yeah.  I used to do a ton of hiking.  I can no longer hike at all.  I have not driven any but -- anywhere but local since this accident, which means that I have to wait for my husband to take me to see the baby. I have a friend who lives down the shore. I just can't drive that far.  I mean I -- I would like to be able to do that, and I haven't been able to do that yet.  So driving.",a,THE WITNESS,start_chat
+903,1854,71,25,"Well, hold on a sec.  Are these -- these are sounding like absolutes, meaning you can't do it at all.  You said, ""I can't hike anymore.  I can't"" --",side_chat,MR. GALLAGHER,start_chat
+904,1859,72,4,Okay.  So --,side_chat,THE WITNESS,start_chat
+905,1860,72,5,"-- ""drive long distances anymore.""  She asked you about absolutes.  You named one thing, lifting.  Are these absolutes or --",side_chat,MR. GALLAGHER,start_chat
+906,1863,72,8,Oh.  So --,side_chat,THE WITNESS,start_chat
+907,1864,72,9,-- you can do them but you have difficulty doing them?,side_chat,MR. GALLAGHER,start_chat
+908,1866,72,11,"I have difficulty.  So absolutes, other than lifting -- thank you for clarifying that -- other than anything that's gonna involve any back, I can't -- which is basically lifting.  I would say that's probably it.",side_chat,THE WITNESS,start_question
+909,1872,72,17,"So then, let me just clarify.  So the hiking, for example, you can do it.  It just hurts.  Or you don't do it at all?",q,MS. KRENICKY,start_answer
+910,1875,72,20,I don't do it at all.,a,THE WITNESS,start_question
+911,1876,72,21,"So that's an absolute, correct?",q,MS. KRENICKY,start_answer
+912,1877,72,22,"Okay.  Well, then I -- then, that is an absolute. Yes, I do not hike.",a,THE WITNESS,start_question
+913,1879,72,24,All right.  When is the last time you hiked?,q,MS. KRENICKY,start_answer
+914,1880,72,25,The last time I hiked was -- I think it was the same year as this accident.  We went to Patagonia.,a,THE WITNESS,start_question
+915,1883,73,2,When was that?,q,MS. KRENICKY,start_answer
+916,1884,73,3,"I'd have to look at my -- I'd have to look at my phone.  Patagonia was -- like I -- obviously, dates aren't my thing.  It wasn't last year.  It was the year before. The year before, January.",a,THE WITNESS,start_question
+917,1888,73,7,You went in January of 2018?,q,MS. KRENICKY,start_answer
+918,1889,73,8,"I believe it -- or I went in January of 2018, I believe, yeah.",a,THE WITNESS,start_question
+919,1891,73,10,So after the rear-ending by the 18-wheeler --,q,MS. KRENICKY,start_answer
+920,1892,73,11,I believe that's -- yeah.  I think that was then.,a,THE WITNESS,start_question
+921,1893,73,12,-- you went hiking in Patagonia?,q,MS. KRENICKY,start_answer
+922,1894,73,13,Yeah.,a,THE WITNESS,start_question
+923,1895,73,14,Did you have any issues hiking in Patagonia --,q,MS. KRENICKY,start_answer
+924,1896,73,15,"I wore a sling and things like that for my arm, you know?  But other than -- my legs were fine, and I used a stick.  So no, it was fine.",a,THE WITNESS,start_question
+925,1899,73,18,Did you try to hike at all since this accident?,q,MS. KRENICKY,start_answer
+926,1900,73,19,"Because it's hard for me to even get up steps, the answer is no, I have not tried to hike.",a,THE WITNESS,start_question
+927,1902,73,21,The only reason I'm asking:  There was something in your records that you were going to Canada in June of '18 --,q,MS. KRENICKY,start_answer
+928,1905,73,24,And I did go.,a,THE WITNESS,start_question
+929,1906,73,25,Okay.  So you got to Canada --,q,MS. KRENICKY,start_answer
+930,1908,74,1,And I did not go hiking.,a,THE WITNESS,start_question
+931,1909,74,2,What did you do?,q,MS. KRENICKY,start_answer
+932,1910,74,3,"I went to the spa.  They would give -- so ""hiking"" to me means going uphill.  To me, that means -- that's what it means.  So what I would do is we would go on like alternate-kinds of hikes.",a,THE WITNESS,start_question
+933,1914,74,7,So you went on --,q,MS. KRENICKY,start_answer
+934,1915,74,8,"On flat, like around --",a,THE WITNESS,start_question
+935,1916,74,9,-- flat walks?,q,MS. KRENICKY,start_answer
+936,1917,74,10,"Flat -- a flat walk, yes, things like that.",a,THE WITNESS,start_question
+937,1918,74,11,How long are the flat walks?,q,MS. KRENICKY,start_answer
+938,1919,74,12,"There weren't long, like let's say a mile.",a,THE WITNESS,start_question
+939,1920,74,13,Were you able to go on the flat walk in Canada in June or July of '18?,q,MS. KRENICKY,start_answer
+940,1922,74,15,"I was able to go on flat walks in Canada, yes.",a,THE WITNESS,start_question
+941,1923,74,16,And have you gone on any other flat walks since?,q,MS. KRENICKY,start_answer
+942,1924,74,17,"As a matter of fact, flat walking is helpful.  It's the one thing that gives me a little bit of relief.  So walking to -- walking, for me, is actually therapeutic.",a,THE WITNESS,start_question
+943,1927,74,20,How long are you able to walk without issue?,q,MS. KRENICKY,start_answer
+944,1928,74,21,I usually walk -- the longest I've walked is probably a mile.  The tops has been a mile and a half on flat ground.,a,THE WITNESS,start_question
+945,1931,74,24,"Driving long distances, you said you --",q,MS. KRENICKY,start_answer
+946,1932,74,25,"I haven't tried it, I have to tell you.  I have not driven a long distance since this has happened.",a,THE WITNESS,start_question
+947,1935,75,2,And what do you consider to be long?,q,MS. KRENICKY,start_answer
+948,1936,75,3,Anywhere further than the mall from my house and other than Havertown.,a,THE WITNESS,start_question
+949,1938,75,5,Meaning King of Prussia?,q,MS. KRENICKY,start_answer
+950,1939,75,6,"Like King of Prussia.  I just don't drive very far. Like I said, I did drive to Allentown to see my brother --",a,THE WITNESS,start_question
+951,1941,75,8,Right.,q,MS. KRENICKY,start_answer
+952,1942,75,9,"-- using cruise control, so...",a,THE WITNESS,start_question
+953,1943,75,10,Is that the furthest you got to --,q,MS. KRENICKY,start_answer
+954,1944,75,11,I think that's the furthest I've been to.,a,THE WITNESS,start_question
+955,1945,75,12,-- Allentown?  Okay.  And you're able to sit in the car.  You just don't want to drive.  Is that accurate?,q,MS. KRENICKY,start_answer
+956,1947,75,14,"I'm able to sit in the car, but even that, we take breaks.  And I like being on -- long drives are not the best.",a,THE WITNESS,start_question
+957,1950,75,17,Did any doctor tell you not to drive a long distance?,q,MS. KRENICKY,start_answer
+958,1952,75,19,"Nobody has told me not to drive a long distance. But for me to drive just from home to work, I need -- I use a back pillow in every one of my cars.  And I only have one, but Frank has a car, and -- no.  I have a company van.  So I always use a back pillow. And I have this ball that I got from -- I was like looking for a ball.  I got this ball from -- from the myofascial place, and I keep that in my car.  And sometimes if I'm having issues, I'll put the ball back in here, and it helps.  So that's what I mean that they have shown me ways to be able to do more.",a,THE WITNESS,start_question
+959,1964,76,5,Anything else that causes you difficulty?,q,MS. KRENICKY,start_answer
+960,1965,76,6,Sitting.,a,THE WITNESS,start_question
+961,1966,76,7,How long can you sit without issue?,q,MS. KRENICKY,start_answer
+962,1967,76,8,Half an hour.,a,THE WITNESS,start_question
+963,1968,76,9,Anything else?,q,MS. KRENICKY,start_answer
+964,1969,76,10,"So lifting, sitting, sleeping.  Anything else that causes me issues?  Working.",a,THE WITNESS,start_question
+965,1971,76,12,"We talked about that, yeah.",q,MS. KRENICKY,start_answer
+966,1972,76,13,Yeah.  Life.  I'm kidding.,a,THE WITNESS,start_question
+967,1973,76,14,Well --,q,MS. KRENICKY,start_answer
+968,1974,76,15,Yeah.,a,THE WITNESS,start_question
+969,1975,76,16,"-- let me ask -- let me put it to you this way: This is your time to tell me how this accident affected your life, right?  So that's why we're here.  Is --",q,MS. KRENICKY,start_answer
+970,1978,76,19,So it has --,a,THE WITNESS,start_question
+971,1979,76,20,-- is there anything else that I should know about how this affected your life?,q,MS. KRENICKY,start_answer
+972,1981,76,22,"It has -- it has affected every part of my life. My relationship with my husband, I mean we have division of labor in our home.  I have not been able to uphold my division of labor, which is, you know, go to the supermarket, take the packages into the house, doing the laundry.  He's doing all of that.  Cleaning my house, I cannot do, pushing a vacuum cleaner.  So those kinds of things are impossible. Going to a movie sometimes is problematic. I mean I have been able to go to -- I don't -- I -- but I'd have to be dying to see the movie, and I'd bring my back pillow and my ball.  And I go to a place that is a lounge, you know, those fantastic stadium seating. I'm not able to hike with him.  That's something we did every single weekend.  Now I'm not able to do that at all anymore.  He now goes hiking on Saturdays instead of Sundays.  I work Saturdays. Watching TV together.  I can't sit on the couch with him.  I lay on a yoga mat every day of my life to watch TV.  So my relationship with Frank, I'm sure he's annoyed with me. So my -- my baby, I'm not able to pick up my own grandchild.",a,THE WITNESS,start_chat
+973,2005,77,20,Let's take a minute.,side_chat,MS. KRENICKY,start_chat
+974,2006,77,21,"Every single moment of my life, I'm reminded of this.  I'm sitting here uncomfortable. Frank and I like to travel together.  We were supposed to go to Vietnam, and I kept on thinking",side_chat,THE WITNESS,start_chat
+975,2017,78,6,Do you want to take a minute?  Are you okay?,side_chat,MS. KRENICKY,start_chat
+976,2019,78,8,I'm sorry.,side_chat,THE WITNESS,start_chat
+977,2020,78,9,Let's take five minutes.,side_chat,MR. GALLAGHER,is brackets
+978,2021,78,10,(Recess was taken from 12:33 p.m. to 12:35 p.m.),brackets,,start_chat
+979,2023,78,12,"It has changed everything about my life.  I was very active.  I went to the gym all the time.  I went -- was out with my friends all -- you know, I have friends.  We would go do things. I used -- I have a friend who lives down the shore and haven't driven to the shore to see her.  And she's -- invites me all the time.  Because I can't -- I'm scared to drive that far.  I don't know if I'm gonna be able to drive that far.  I haven't -- I haven't attempted it. You know, I had, you know, a strong group of friends that we would go out to dinner all the time. After working all day, it takes so much just to get through work, I don't have a social life anymore.  So my friendships, I mean it's -- it's unfortunately has affected everything.  I want it to be over.  And I've done everything I could to fix it, and I'm just not able to.",side_chat,THE WITNESS,start_question
+980,2041,79,4,Would you say that the accident with my client was worse than the accident in November of '17?,q,MS. KRENICKY,start_answer
+981,2043,79,6,"It's -- it's an interesting question.  The -- the accident in November of '17, when I was hit by the truck, yes, my -- my neck -- and I got a frozen shoulder.  But -- but through exercises and things like that and because of the -- yes, it was my left side, but I'm right-handed -- I saw progression of -- I kept on getting better.",a,THE WITNESS,start_question
+982,2050,79,13,Right.,q,MS. KRENICKY,start_answer
+983,2051,79,14,"The -- so I think this has been a lot worse.  So instead of an acute problem -- I had an acute problem with that accident.  Yes, I still have some issues with my neck, but I was able to go through what I needed to go through to get my life back.  And because it was my left side and I'm right-handed, there were a lot of things I was able to do. I was -- if I didn't move, it didn't hurt. I'm sitting here, talking to you.  My back is killing me. By ""back,"" I mean that whole area.  I don't --",a,THE WITNESS,start_question
+984,2061,79,24,Sure.  I understand.,q,MS. KRENICKY,start_answer
+985,2062,79,25,So --,a,THE WITNESS,start_question
+986,2064,80,1,You mean the whole area.,q,MS. KRENICKY,start_answer
+987,2065,80,2,"-- instead of saying ""my glutes.""  But it's never -- I don't have a moment of I feel good.  I just don't have it anymore. So it's gone from an acute problem, which I think can be solved, to a chronic problem that I can't believe I have a chronic condition.  I deal with one with Crohn's.  I can deal with that.  I'm very good at dealing with things.  This has changed my life in every facet.",a,THE WITNESS,start_question
+988,2073,80,10,"Any other specific activities or anything that you want me to know about?  I mean I know you're saying ""everything,"" but --",q,MS. KRENICKY,start_answer
+989,2076,80,13,"Like I said, you know, sitting, going out to dinner, going to a movie, hiking, going to sleep at night.",a,THE WITNESS,start_chat
+990,2078,80,15,Other than what you've said already.,side_chat,MR. GALLAGHER,start_chat
+991,2080,80,17,"I'm trying to think.  I mean it's like -- like I said, work.  Every part of my life has been affected.  I can't say anything more specific.",side_chat,THE WITNESS,start_chat
+992,2083,80,20,"What she's getting at -- and I'm not being facetious here -- is like you said ""everything"" and ""life,"" and you got specific, but, you know, horseback riding.  You know, any --",side_chat,MR. GALLAGHER,start_chat
+993,2087,80,24,But I never -- but I never --,side_chat,THE WITNESS,start_chat
+994,2088,80,25,"I know.  I'm being -- I am being facetious, I guess.  But like she wants to know",side_chat,MR. GALLAGHER,start_chat
+995,2093,81,4,Right.,side_chat,MS. KRENICKY,start_chat
+996,2094,81,5,"Is there anything like that that you want to be specific about and let her know today before you leave here?  So I think you've covered, essentially, everything.",side_chat,MR. GALLAGHER,start_chat
+997,2098,81,9,"Specifically, I think I've named a -- a bunch of specifics.",side_chat,THE WITNESS,start_question
+998,2101,81,12,"And then, just to clarify, you do have ongoing appointments with Dr. Lerman?",q,MS. KRENICKY,start_answer
+999,2103,81,14,Yes.,a,THE WITNESS,start_question
+1000,2104,81,15,And when is your next one?,q,MS. KRENICKY,start_answer
+1001,2105,81,16,"I have a call-in to him, actually, today to let him know if the last injection worked, which, so far, it has not.",a,THE WITNESS,start_question
+1002,2108,81,19,"It has not, okay.  And do you -- okay.  That's fine.",q,MS. KRENICKY,start_answer
+1003,2110,81,21,I don't know what he's doing next.,a,THE WITNESS,start_question
+1004,2111,81,22,"Do -- and do you use social media, any Facebook, Instagram?",q,MS. KRENICKY,start_answer
+1005,2113,81,24,Not really.,a,THE WITNESS,start_question
+1006,2114,81,25,Do you have accounts?,q,MS. KRENICKY,start_answer
+1007,2116,82,1,"I look at it, but I don't never -- I'll like everything.  I'll like something but very infrequently.  No, so I do not -- I look at it.",a,THE WITNESS,start_question
+1008,2119,82,4,So you have an account?,q,MS. KRENICKY,start_answer
+1009,2120,82,5,I have an account.,a,THE WITNESS,start_question
+1010,2121,82,6,And did you post anything on there about this accident or how this has affected your life?,q,MS. KRENICKY,start_answer
+1011,2123,82,8,No.,a,THE WITNESS,start_question
+1012,2124,82,9,"And as Mr. Gallagher asked my client, I have to ask everyone.  Please don't be offended.  In the past ten years, have you been convicted of or pled guilty to any crimes involving dishonesty, for example, theft, forgery, perjury, anything like that?",q,MS. KRENICKY,start_answer
+1013,2129,82,14,No.,a,THE WITNESS,start_chat
+1014,2130,82,15,We are finished.  Thank you very much for your time.,side_chat,MS. KRENICKY,is brackets
+1015,2132,82,17,(Witness excused.),brackets,,is brackets
+1016,2133,82,18,"(Deposition ended at 12:40 p.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+1017,2158,83,18,__________________________ Ian Monahan and Notary Public,symbols,,end

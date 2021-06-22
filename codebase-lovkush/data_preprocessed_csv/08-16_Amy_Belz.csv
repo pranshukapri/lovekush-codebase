@@ -1,0 +1,269 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,95,4,8,-  -  - EXAMINATION,symbols,,symbols
+2,97,4,10,-  -  -,symbols,,start_question
+3,99,4,12,"Ms. Belz, where do you live?",q,MR. BAER,start_answer
+4,100,4,13,I live 151 Canterbury.,a,THE WITNESS,start_question
+5,101,4,14,And that's -- how long have you lived there?,q,MR. BAER,start_answer
+6,102,4,15,"Since 2003, November 2003.",a,THE WITNESS,start_question
+7,103,4,16,Are you still employed at University Otolaryngol -- I can never say it -- Associates?,q,MR. BAER,start_answer
+8,105,4,18,Yes.,a,THE WITNESS,start_question
+9,106,4,19,"Thank you very much.  We're here, of course, because of a crash that happened back on...",q,MR. BAER,start_chat
+10,108,4,21,"May 4th, 2017.",side_chat,MR. SILLI,start_chat
+11,109,4,22,Thank you very much.,side_chat,MR. BAER,start_question
+12,111,4,24,Do you remember being involved in a motor vehicle accident on that date?,q,MR. BAER,start_answer
+13,114,5,1,Yes.,a,THE WITNESS,start_question
+14,115,5,2,Where did it happen?,q,MR. BAER,start_answer
+15,116,5,3,On County Line Road.,a,THE WITNESS,start_question
+16,117,5,4,And was the -- what was the cross street?,q,MR. BAER,start_answer
+17,118,5,5,It was in between Stump and 202.,a,THE WITNESS,start_question
+18,119,5,6,"And what were you driving at the time, what type of vehicle?",q,MR. BAER,start_answer
+19,121,5,8,A Kia Sorento.,a,THE WITNESS,start_question
+20,122,5,9,Do you still own that vehicle?,q,MR. BAER,start_answer
+21,123,5,10,I do not.,a,THE WITNESS,start_question
+22,124,5,11,Did you have any passengers in the vehicle?,q,MR. BAER,start_answer
+23,125,5,12,Yes.,a,THE WITNESS,start_question
+24,126,5,13,And how many passengers -- how many passengers did you have?,q,MR. BAER,start_answer
+25,128,5,15,One.,a,THE WITNESS,start_question
+26,129,5,16,And what was the identify of that passenger?,q,MR. BAER,start_answer
+27,130,5,17,My son.,a,THE WITNESS,start_question
+28,131,5,18,And your son's name and age at the time that this crash happened?,q,MR. BAER,start_answer
+29,133,5,20,"Colin Zwislewski.  His age -- if it was May of '17, he was 8.",a,THE WITNESS,start_question
+30,135,5,22,Was Colin and the --,q,MR. BAER,start_answer
+31,136,5,23,Oh.  I'm sorry.,a,THE WITNESS,start_question
+32,137,5,24,I'm sorry?,q,MR. BAER,start_answer
+33,138,5,25,I'm sorry.  He was 9.,a,THE WITNESS,start_question
+34,140,6,1,"Nine years old at the time, okay.  And how old is he today?",q,MR. BAER,start_answer
+35,142,6,3,He is almost 12.,a,THE WITNESS,start_question
+36,143,6,4,And where were you coming from?,q,MR. BAER,start_answer
+37,144,6,5,Montgomery Elementary.,a,THE WITNESS,start_question
+38,145,6,6,What time did the crash happen?,q,MR. BAER,start_answer
+39,146,6,7,"It was -- it was -- I was picking him up after work.  I don't know the exact time.  I would say around 5:30-ish, but I don't know exactly.",a,THE WITNESS,start_question
+40,149,6,10,And where was Colin -- your -- I should be more formal.  Where was your son seated in the vehicle?,q,MR. BAER,start_answer
+41,151,6,12,He was in the passenger seat.,a,THE WITNESS,start_question
+42,152,6,13,Front passenger seat?,q,MR. BAER,start_answer
+43,153,6,14,Front passenger seat.,a,THE WITNESS,start_question
+44,154,6,15,"And based on some of the information that your attorney has already provided with me, it's my understanding that you were very familiar with this area; is that correct?",q,MR. BAER,start_answer
+45,158,6,19,Yes.,a,THE WITNESS,start_question
+46,159,6,20,That you had traveled it most -- nearly daily; is that accurate?,q,MR. BAER,start_answer
+47,161,6,22,Yes.,a,THE WITNESS,start_question
+48,162,6,23,Tell us what happened.,q,MR. BAER,start_answer
+49,163,6,24,"We were stopped at the light, and the light changed.  And we're starting to move forward, and I looked at my son.  He said something.  I looked back and hit the brake but hit her.",a,THE WITNESS,start_question
+50,168,7,3,"With respect to being stopped at the light, there's a traffic light controlling an intersection of 202, which is the road you were on; is that accurate?",q,MR. BAER,start_answer
+51,171,7,6,202 was the cross traffic.,a,THE WITNESS,start_question
+52,172,7,7,The cross traffic?,q,MR. BAER,start_answer
+53,173,7,8,Yes.  I was on County Line Road.,a,THE WITNESS,start_question
+54,174,7,9,"County Line Road.  What were the traffic conditions like on that road, at that light, at or near the time of the crash?",q,MR. BAER,start_answer
+55,177,7,12,I mean I don't -- don't recall any bad conditions. I don't think it was raining.,a,THE WITNESS,start_question
+56,179,7,14,The traffic conditions?,q,MR. BAER,start_answer
+57,180,7,15,"Oh, traffic.  I mean it was heavy traffic for that time.",a,THE WITNESS,start_question
+58,182,7,17,"With respect to the -- with respect to this intersection, if you had not been involved in the crash, you would have made a left-hand turn; is that accurate?",q,MR. BAER,start_answer
+59,185,7,20,No.,a,THE WITNESS,start_question
+60,186,7,21,You would have made a right-hand turn?,q,MR. BAER,start_answer
+61,187,7,22,No.  I would have gone straight.,a,THE WITNESS,start_question
+62,188,7,23,Gone straight.  How many lanes of travel are there for your direction at that --,q,MR. BAER,start_answer
+63,190,7,25,For going straight?,a,THE WITNESS,start_question
+64,192,8,1,-- at that intersection?  All the -- all the lanes.,q,MR. BAER,start_answer
+65,194,8,3,"It's three or four.  I know that there's a left turn lane.  I'm not positive if there's a right turn lane. Definitely three, at least.",a,THE WITNESS,start_question
+66,197,8,6,And which of the three lanes that you can recall were you in?,q,MR. BAER,start_answer
+67,199,8,8,I was in the second -- the left straight lane.  I was not in the turn lane.,a,THE WITNESS,start_question
+68,201,8,10,How long had you been stopped at that intersection before the light turned green and you observed vehicles beginning to travel forward?,q,MR. BAER,start_answer
+69,204,8,13,I don't know exactly.,a,THE WITNESS,start_question
+70,205,8,14,"With respect to traffic generally -- traffic specifically, can you remember how many cars back you were from the light when the light turned green?",q,MR. BAER,start_answer
+71,208,8,17,No.,a,THE WITNESS,start_question
+72,209,8,18,Do you remember as to whether or not you had to wait through the cycle of another traffic light before getting to where you were when the light turned green before this crash?,q,MR. BAER,start_answer
+73,213,8,22,I'm sorry.  Say that again.,a,THE WITNESS,start_question
+74,214,8,23,Were you in a line of traffic?,q,MR. BAER,start_answer
+75,215,8,24,I was in a line of traffic.,a,THE WITNESS,start_question
+76,216,8,25,How far back were you from the light?,q,MR. BAER,start_answer
+77,218,9,1,I don't recall.,a,THE WITNESS,start_question
+78,219,9,2,Was it more than three cars back from the light?,q,MR. BAER,start_answer
+79,220,9,3,I don't know.,a,THE WITNESS,start_question
+80,221,9,4,"Now, you indicated that the light turned green and cars began to go; is that correct?",q,MR. BAER,start_answer
+81,223,9,6,Yes.,a,THE WITNESS,start_question
+82,224,9,7,And you began to travel forward; is that accurate?,q,MR. BAER,start_answer
+83,225,9,8,Yes.,a,THE WITNESS,start_question
+84,226,9,9,You indicated that your said -- son said something to you; is that accurate?,q,MR. BAER,start_answer
+85,228,9,11,Yes.,a,THE WITNESS,start_question
+86,229,9,12,Do you remember what the conversation was?,q,MR. BAER,start_answer
+87,230,9,13,No.,a,THE WITNESS,start_question
+88,231,9,14,Do you remember what your son's emotional state was when he was asking you something?,q,MR. BAER,start_answer
+89,233,9,16,No.,a,THE WITNESS,start_question
+90,234,9,17,Do you know how fast you were going when your son turned your -- called your attention and you began to speak to him?,q,MR. BAER,start_answer
+91,237,9,20,No.  We had just started to move.  It was slow.,a,THE WITNESS,start_question
+92,238,9,21,"Any way of quantifying what ""slow"" means?",q,MR. BAER,start_answer
+93,239,9,22,"I mean it was -- we were just like rolling forward. When, you know, you initially start, you -- I mean it was slow.",a,THE WITNESS,start_question
+94,242,9,25,"Your Kia Sorento, was it equipped with an automatic transmission?",q,MR. BAER,start_answer
+95,245,10,2,Yes.,a,THE WITNESS,start_question
+96,246,10,3,"And was your foot on the gas, the accelerator, when -- when you began to move forward, or did it -- or did it just roll after taking your foot off the brake, or something else?",q,MR. BAER,start_answer
+97,250,10,7,"Specifically, I can't remember.  I mean, you know, at some point, I -- I don't know.",a,THE WITNESS,start_question
+98,252,10,9,Do -- can you estimate how far away the front of your vehicle was from the rear of my client's vehicle when you were first stopped at the -- at the -- at the traffic light?,q,MR. BAER,start_answer
+99,256,10,13,I don't remember.,a,THE WITNESS,start_question
+100,257,10,14,Can you estimate how far you were away from the back of my client's vehicle when you looked up and saw that my client's vehicle had stopped?,q,MR. BAER,start_answer
+101,260,10,17,"I mean I know that I was close, because I, you know, jammed on my brake, but I don't know space-wise.",a,THE WITNESS,start_question
+102,262,10,19,"Space-wise, was it more than a car length?",q,MR. BAER,start_answer
+103,263,10,20,No.,a,THE WITNESS,start_question
+104,264,10,21,Was it less than a car length?,q,MR. BAER,start_answer
+105,265,10,22,Yes.,a,THE WITNESS,start_question
+106,266,10,23,Was it less than ten feet?,q,MR. BAER,start_answer
+107,267,10,24,Yes.,a,THE WITNESS,start_question
+108,268,10,25,You just testified that you slammed on the brakes; is that accurate?,q,MR. BAER,start_answer
+109,271,11,2,Yes.,a,THE WITNESS,start_question
+110,272,11,3,Where was your foot that -- and I'm assuming that you used your right foot to slam on the brakes?,q,MR. BAER,start_answer
+111,274,11,5,Yes.,a,THE WITNESS,start_question
+112,275,11,6,Where was your right foot before you slammed on the brakes?,q,MR. BAER,start_answer
+113,277,11,8,"I mean I -- I don't remember specifically.  I remember looking back, seeing her car, and just hitting the brake.",a,THE WITNESS,start_question
+114,280,11,11,And you have no memory as to what you were -- what your foot was doing --,q,MR. BAER,start_answer
+115,282,11,13,"I mean I don't know if my foot -- no.  I don't know if my foot was like hovering over the gas.  I don't know if I was on the gas.  I -- you know, it was -- you know, it just -- everything was just sort of like easing forward.",a,THE WITNESS,start_question
+116,287,11,18,Were you able to ascertain why the vehicle in front of you had come to a stop?,q,MR. BAER,start_answer
+117,289,11,20,No.,a,THE WITNESS,start_question
+118,290,11,21,"What was the color of the traffic light in front of you, if you know, when my client's vehicle came to a stop?",q,MR. BAER,start_answer
+119,292,11,23,I believe it was still green.,a,THE WITNESS,start_question
+120,293,11,24,And do you have any way of estimating how close you were to the actual intersection when my client's vehicle came to a stop?,q,MR. BAER,start_answer
+121,297,12,2,"I do not recall, no.",a,THE WITNESS,start_question
+122,298,12,3,"Was my client's vehicle -- well, let me show you something here.",q,MR. BAER,start_chat
+123,300,12,5,I'm gonna mark this document -- I'm not gonna mark it yet.,side_chat,MR. BAER,start_question
+124,303,12,8,Did you have an opportunity to observe the type of vehicle that your vehicle came in contact with?,q,MR. BAER,start_answer
+125,305,12,10,When?,a,THE WITNESS,start_question
+126,306,12,11,After the crash.,q,MR. BAER,start_answer
+127,307,12,12,I mean I saw the car in front of me.,a,THE WITNESS,start_question
+128,308,12,13,Did you get a look at what happened to the back of that car as a result of the impact that was between your car and that car?,q,MR. BAER,start_answer
+129,311,12,16,"I mean I -- yeah, I saw what the back of the car looked like.",a,THE WITNESS,start_question
+130,313,12,18,I'm gonna show you a document.,q,MR. BAER,start_chat
+131,314,12,19,And we'll mark it as Exhibit 1 -- Belz-1.,side_chat,MR. BAER,is brackets
+132,316,12,21,(Exhibit Belz-1 marked for identification.),brackets,,start_question
+133,318,12,23,Do you recognize what I am showing you right there?,q,MR. BAER,start_answer
+134,319,12,24,Uh-huh.,a,THE WITNESS,start_question
+135,320,12,25,"That's a ""yes"" for the record?",q,MR. BAER,start_answer
+136,322,13,1,Yes.  Sorry.,a,THE WITNESS,start_question
+137,323,13,2,And what is that?,q,MR. BAER,start_answer
+138,324,13,3,It's the back of her car.,a,THE WITNESS,start_question
+139,325,13,4,Is that an accurate depiction of what her car looked like after your vehicle came in contact with the back of her vehicle?,q,MR. BAER,start_answer
+140,328,13,7,"As best I can recall, yeah.",a,THE WITNESS,start_question
+141,329,13,8,"And is this an accurate depiction as to where her vehicle was immediately following the impact between your vehicle and her vehicle, as it is like in the roadway and the like?",q,MR. BAER,start_answer
+142,333,13,12,Uh-huh.,a,THE WITNESS,start_question
+143,334,13,13,"That's a ""yes""?",q,MR. BAER,start_answer
+144,335,13,14,Yes.  Sorry.,a,THE WITNESS,start_question
+145,336,13,15,"Okay.  Now, I am not familiar with this intersection, at least not as -- as familiar as -- as you are from -- can you tell me how far these overhead traffic signs are from the actual intersection?",q,MR. BAER,start_answer
+146,340,13,19,"No, I cannot.",a,THE WITNESS,start_question
+147,341,13,20,"Is that at the corner?  Does -- does that sign and -- and -- and this -- this pole, is that situated at the corner of the intersection or back from the corner of the intersection?",q,MR. BAER,start_answer
+148,345,13,24,I would be guessing.  I don't know --,a,THE WITNESS,start_question
+149,346,13,25,All right.,q,MR. BAER,start_answer
+150,348,14,1,-- for sure.,a,THE WITNESS,start_question
+151,349,14,2,Would you agree that the -- that your -- the front of your car caused this damage?,q,MR. BAER,start_answer
+152,351,14,4,"I hit the back of her car.  I don't know if she had damage before, but I know that I hit the back of her car.",a,THE WITNESS,start_question
+153,353,14,6,Did you observe there being any damage in the back of the car that was in front of you before this crash?,q,MR. BAER,start_answer
+154,355,14,8,I did not.  I did not take any notice.,a,THE WITNESS,start_question
+155,356,14,9,All right.  Did you take any photographs of the other vehicle?,q,MR. BAER,start_answer
+156,358,14,11,Yes.,a,THE WITNESS,start_question
+157,359,14,12,Do you have those photographs?,q,MR. BAER,start_answer
+158,360,14,13,Not on me.,a,THE WITNESS,start_question
+159,361,14,14,Have you produced those photographs to your attorney?,q,MR. BAER,start_answer
+160,363,14,16,I gave them either to my attorney or to the insurance company.  I don't recall which.,a,THE WITNESS,start_chat
+161,365,14,18,Didn't you get discovery answers from us?,side_chat,MR. SILLI,start_chat
+162,367,14,20,"I got discovery answers.  I did not get documents, oddly enough.  I mean I got your -- I got responses to request production documents.  I'll be -- I'll be blunt and say that the way it reads on our -- on our file, it may have been corrupted.",side_chat,MR. BAER,start_chat
+163,372,14,25,Yeah.  We definitely gave them.,side_chat,MR. SILLI,start_chat
+164,374,15,1,Okay.  We'll follow up.,side_chat,MR. BAER,start_question
+165,376,15,3,"All right.  Number one, your -- your Kia Sorento, did it sustain any damage?",q,MR. BAER,start_answer
+166,378,15,5,No.,a,THE WITNESS,start_question
+167,379,15,6,"And the vehicle that -- that you own, this Sorento, is it an SUV?",q,MR. BAER,start_answer
+168,381,15,8,"Yeah, like a small SUV.",a,THE WITNESS,start_question
+169,382,15,9,And do you know what part of your SUV came in the -- came in contact with the -- the back of my client's car?,q,MR. BAER,start_answer
+170,385,15,12,I mean I would assume it was the bumper.,a,THE WITNESS,start_question
+171,386,15,13,All right.  Did you speak to any of the occupants of this silver car?,q,MR. BAER,start_answer
+172,388,15,15,Yes.,a,THE WITNESS,start_question
+173,389,15,16,And who did you speak to?,q,MR. BAER,start_answer
+174,390,15,17,"I spoke to Ms. Meredith, and, you know, I may have said something to her daughter.",a,THE WITNESS,start_question
+175,392,15,19,"Where there any more than two people in the car, that you can recall?",q,MR. BAER,start_answer
+176,394,15,21,No.,a,THE WITNESS,start_question
+177,395,15,22,All right.  And what did you say to Ms. Meredith?,q,MR. BAER,start_answer
+178,396,15,23,"Exactly, I don't know.  I mean, you know, ""Are you okay?""  But I don't really remember specifically.",a,THE WITNESS,start_question
+179,398,15,25,Was there any discussion as to -- any discussion as to how this accident happened?,q,MR. BAER,start_answer
+180,401,16,2,No.,a,THE WITNESS,start_question
+181,402,16,3,Did you apologize to Ms. Meredith?,q,MR. BAER,start_answer
+182,403,16,4,Uh-huh.,a,THE WITNESS,start_question
+183,404,16,5,"""Yes""?",q,MR. BAER,start_answer
+184,405,16,6,Yes.,a,THE WITNESS,start_question
+185,406,16,7,"What did Ms. Meredith say to you, if anything?",q,MR. BAER,start_answer
+186,407,16,8,I don't recall.,a,THE WITNESS,start_question
+187,408,16,9,And what was Ms. Meredith's demeanor or behavioral response to you?,q,MR. BAER,start_answer
+188,410,16,11,"I mean I remember that she responded.  It wasn't angry or -- you know, just conversation but brief.",a,THE WITNESS,start_question
+189,412,16,13,"Did the two vehicles remain where the crash happened for a period of time, or did the two of you pull off to the side?",q,MR. BAER,start_answer
+190,415,16,16,No.  We stayed there.,a,THE WITNESS,start_question
+191,416,16,17,And how long did you stay there?,q,MR. BAER,start_answer
+192,417,16,18,Until the police arrived.,a,THE WITNESS,start_question
+193,418,16,19,"Who called the police, if you know?",q,MR. BAER,start_answer
+194,419,16,20,I don't recall.  I don't know.  I may have.  More than one person may have.  I don't know.,a,THE WITNESS,start_question
+195,421,16,22,"You -- you spoke to the police officer or officers that came to the scene, correct?",q,MR. BAER,start_answer
+196,423,16,24,Yes.,a,THE WITNESS,start_question
+197,424,16,25,"Now, an official report of this accident reads that you were cited for distracted driving.  Are you aware of that?",q,MR. BAER,start_answer
+198,428,17,3,No.,a,THE WITNESS,start_question
+199,429,17,4,Did you ever get a ticket for this incident?,q,MR. BAER,start_answer
+200,430,17,5,I don't think so.,a,THE WITNESS,start_question
+201,431,17,6,Did you ask whether or not Ms. Meredith was injured?,q,MR. BAER,start_answer
+202,433,17,8,I may have.  I don't recall exactly what we discussed.,a,THE WITNESS,start_question
+203,435,17,10,"Did Ms. Meredith tell you at any point in time that she was, indeed, injured?",q,MR. BAER,start_answer
+204,437,17,12,I don't know.,a,THE WITNESS,start_question
+205,438,17,13,Did you have an opportunity to hear Ms. Meredith speak to any of the responding police officers?,q,MR. BAER,start_answer
+206,440,17,15,"Yes, or some of it.",a,THE WITNESS,start_question
+207,441,17,16,And what did you hear?,q,MR. BAER,start_answer
+208,442,17,17,"The officer was asking if everybody was okay, and then, you know, were the cars drivable, you know, and did we need an ambulance.",a,THE WITNESS,start_question
+209,445,17,20,And what was your response to those questions?,q,MR. BAER,start_answer
+210,446,17,21,"Yes, we were okay.  And no, we didn't need an ambulance.",a,THE WITNESS,start_question
+211,448,17,23,How about Ms. Meredith?,q,MR. BAER,start_answer
+212,449,17,24,"She said she was okay but she wanted an ambulance. I mean the officer said, ""Are you okay?""  She said, ""Yes."" Like he went to all four of us.",a,THE WITNESS,start_question
+213,453,18,2,"Ms. Meredith, all the same, said that she would like to have an ambulance; is that accurate?",q,MR. BAER,start_answer
+214,455,18,4,Yes.,a,THE WITNESS,start_question
+215,456,18,5,Did an ambulance come?,q,MR. BAER,start_answer
+216,457,18,6,"If it did, it was after I left.  The police dismissed me.",a,THE WITNESS,start_question
+217,459,18,8,All right.  Are you aware of there being any witnesses to this crash other than yourself and possibly your son?,q,MR. BAER,start_answer
+218,462,18,11,No.,a,THE WITNESS,start_question
+219,463,18,12,"Have you been contacted by anybody, after the fact, indicating that they were a witness to this incident?",q,MR. BAER,start_answer
+220,465,18,14,No.,a,THE WITNESS,start_question
+221,466,18,15,"Did you ever provide a recorded statement to your insurance carrier or any other insurance carrier, investigator, et cetera about how this took place?",q,MR. BAER,start_answer
+222,469,18,18,"I don't remember if I did.  I don't think so, but I don't remember.",a,THE WITNESS,start_question
+223,471,18,20,"All right.  With respect to the happening of this accident, do you have any medical restrictions with respect to your driving?",q,MR. BAER,start_answer
+224,474,18,23,No.,a,THE WITNESS,start_question
+225,475,18,24,Do you have any history of syncope or fainting or anything of that nature?,q,MR. BAER,start_answer
+226,478,19,1,No.,a,THE WITNESS,start_question
+227,479,19,2,Have you ever been involved in any other car crashes of this type in nature wherein the back of -- the front of your vehicle came into the back of another vehicle --,q,MR. BAER,start_answer
+228,483,19,6,No.,a,THE WITNESS,start_question
+229,484,19,7,-- before this crash?,q,MR. BAER,start_answer
+230,485,19,8,No.,a,THE WITNESS,start_question
+231,486,19,9,How about after?,q,MR. BAER,start_answer
+232,487,19,10,No.,a,THE WITNESS,start_question
+233,488,19,11,"And is it your testimony that you were -- well, it's not -- you were permitted to go by the officer, correct?",q,MR. BAER,start_answer
+234,491,19,14,Yes.,a,THE WITNESS,start_question
+235,492,19,15,And you were -- you don't remember being given a paper ticket or a paper citation?,q,MR. BAER,start_answer
+236,494,19,17,I don't.,a,THE WITNESS,start_question
+237,495,19,18,And you don't remember receiving one in the mail or anything like that?,q,MR. BAER,start_answer
+238,497,19,20,I don't.,a,THE WITNESS,start_question
+239,498,19,21,"All right.  If I may, was there anything about the operation of Ms. Meredith's vehicle that you think contributed to the cause of this crash?",q,MR. BAER,start_answer
+240,501,19,24,Not that I noticed.,a,THE WITNESS,start_chat
+241,502,19,25,That's all the questions I have. Thank you.,side_chat,MR. BAER,start_chat
+242,505,20,2,All right.  Thank you.  What -- did you mark that?,side_chat,MR. SILLI,start_chat
+243,507,20,4,"Yes, I did.",side_chat,MR. BAER,start_chat
+244,508,20,5,What was it?,side_chat,MR. SILLI,start_chat
+245,509,20,6,This is -- this is Belz-1.,side_chat,MR. BAER,start_chat
+246,510,20,7,"Belz-1, all right.",side_chat,MR. SILLI,start_chat
+247,511,20,8,Yeah.,side_chat,MR. BAER,start_question
+248,513,20,10,I'm gonna show you Belz-2.,q,MR. SILLI,start_answer
+249,514,20,11,Uh-huh.,a,THE WITNESS,start_question
+250,515,20,12,Is that a picture of your car?,q,MR. SILLI,start_answer
+251,516,20,13,Yes.,a,THE WITNESS,start_question
+252,517,20,14,Is that the car that was involved in the accident?,q,MR. SILLI,start_answer
+253,518,20,15,Yes.,a,THE WITNESS,start_question
+254,519,20,16,Is that how your car looked like after the accident?,q,MR. SILLI,start_answer
+255,521,20,18,Yes.,a,THE WITNESS,start_question
+256,522,20,19,It's a fair and accurate depiction of what your vehicle looked like after this accident?,q,MR. SILLI,start_answer
+257,524,20,21,Yes.,a,THE WITNESS,start_question
+258,525,20,22,Was there any damage to the front of your vehicle?,q,MR. SILLI,start_answer
+259,526,20,23,"I mean maybe a scratch on the bumper, but not -- no.",a,THE WITNESS,start_chat
+260,528,20,25,Thank you.  That's it.,side_chat,MR. SILLI,start_chat
+261,530,21,1,"Thank you.  Or you know what?  I just, really quickly -- that's all right.",side_chat,MR. BAER,start_chat
+262,532,21,3,All right.  Thanks.,side_chat,MR. SILLI,start_chat
+263,533,21,4,Thank you very much.,side_chat,MR. BAER,is brackets
+264,534,21,5,(Exhibit Belz-2 marked for identification.),brackets,,is brackets
+265,535,21,6,(Witness excused.),brackets,,is brackets
+266,536,21,7,"(Deposition ended 10:31 a.m.) C E R T I F I C A T I O N I, Ian Monahan, Court Reporter and Notary Public of the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the foregoing deposition, that the witness was first sworn by me at the time, place and on the date herein before set forth. I further certify that I am neither attorney nor counsel for, not related to nor employed by any of the parties to the action in which this deposition was taken; further, that I am not a relative or employee of any attorney or counsel employed in this case, nor am I financially interested in this action.",brackets,,symbols
+267,572,22,18,__________________________ Ian Monahan and Notary Public,symbols,,end

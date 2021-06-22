@@ -1,0 +1,234 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,159,5,11,- - - EXAMINATION,symbols,,symbols
+2,161,5,13,- - -,symbols,,start_question
+3,163,5,15,State your full name for the record?,q,MR. BLUM,start_answer
+4,164,5,16,Alex Hart.,a,THE WITNESS,start_question
+5,165,5,17,"Alex, by whom are you employed?",q,MR. BLUM,start_answer
+6,166,5,18,Millers Mutual.,a,THE WITNESS,start_question
+7,167,5,19,"Alex, my name is Joseph Blum and I represent Mercedes in a case that's been brought by your company against them in reference to a loss at the Clemens facility here in Lansdale. I'm going to ask you a series of questions today.  Any time you don't understand my question, please let me know, I'll be happy to restate it for you.  I'd ask you keep all your responses verbal because the court reporter cannot take down a nod of the head or shrug of the shoulders.  Okay?",q,MR. BLUM,start_answer
+8,180,6,7,Yep.,a,THE WITNESS,start_question
+9,181,6,8,"If at any time today you want a break or anything like that, please let me know.  The other thing that I would ask you to do, if you could, is to let me finish my question before you start to speak because, again, the court reporter has to take everything down.  All right?",q,MR. BLUM,start_answer
+10,188,6,15,Okay.,a,THE WITNESS,start_question
+11,189,6,16,"Alex, how long have you worked for Millers?",q,MR. BLUM,start_answer
+12,191,6,18,About four years.,a,THE WITNESS,start_question
+13,192,6,19,In what capacity are you employed there?,q,MR. BLUM,start_answer
+14,194,6,21,I'm a property claim adjuster.,a,THE WITNESS,start_question
+15,195,6,22,And has that been consistent through the whole four years you have been there?,q,MR. BLUM,start_answer
+16,197,6,24,"Yes, it has.",a,THE WITNESS,start_question
+17,199,7,1,Are there any particular type of property claims that you handle?,q,MR. BLUM,start_answer
+18,201,7,3,"I mean, anything under -- basically anything that we write under commercial property, or, you know, business owner's policy, builder's risk, subro marine, basically anything that we write.",a,THE WITNESS,start_question
+19,206,7,8,So it's basically commercial property versus residential?,q,MR. BLUM,start_answer
+20,208,7,10,Correct.,a,THE WITNESS,start_question
+21,209,7,11,Okay.  And could you tell us basically what your educational background is?,q,MR. BLUM,start_answer
+22,211,7,13,"I've a Bachelor's degree from University of Pittsburgh, and that's the highest level.",a,THE WITNESS,start_question
+23,214,7,16,Okay.  And when did you graduate from University of Pittsburgh?,q,MR. BLUM,start_answer
+24,216,7,18,In 2010.,a,THE WITNESS,start_question
+25,217,7,19,"I won't hold that against you, by the way, that you went to school there. And what is your degree in from University of Pittsburgh?",q,MR. BLUM,start_answer
+26,221,7,23,It was social sciences.,a,THE WITNESS,start_question
+27,222,7,24,"And after you left University of Pittsburgh, can you tell us what your employment history was up until the time you went to Millers?",q,MR. BLUM,start_answer
+28,227,8,4,Yeah.  After college I worked for a trucking company doing operations management and managing drivers and logistics and things like that.,a,THE WITNESS,start_question
+29,231,8,8,How long did you work there?,q,MR. BLUM,start_answer
+30,232,8,9,"I guess almost five or six years, something like that.",a,THE WITNESS,start_question
+31,234,8,11,Is that the only other job you had --,q,MR. BLUM,start_answer
+32,236,8,13,Right.,a,THE WITNESS,start_question
+33,237,8,14,-- other than Millers?,q,MR. BLUM,start_answer
+34,238,8,15,Correct.,a,THE WITNESS,start_question
+35,239,8,16,"So when you got to Millers, did they provide you with any type of training about how to be a property adjuster?",q,MR. BLUM,start_answer
+36,242,8,19,"Yeah.  I mean, we did, you know, seminars, training classes or seminars or something through The Institutes, which is like how you get accreditations and things like that.",a,THE WITNESS,start_question
+37,247,8,24,And have you received any kind of certificates or anything --,q,MR. BLUM,start_answer
+38,250,9,2,"I haven't completed the AIC yet, but I have completed some of that, so.",a,THE WITNESS,start_question
+39,252,9,4,"Okay.  What, if anything, did you do to prepare for your deposition today other than speak to your attorney?",q,MR. BLUM,start_answer
+40,255,9,7,I reviewed some items in the file and the file notes and some pictures of the damage and things like that.,a,THE WITNESS,start_question
+41,258,9,10,All right.  And what was in the file other than the file notes that you looked at?,q,MR. BLUM,start_answer
+42,260,9,12,"Various reports from our independent adjuster, a lot of invoices and -- I'm trying to think what else -- photographs, engineer reports.  I don't know, there's a lot in there.",a,THE WITNESS,start_question
+43,265,9,17,Okay.  And when was the first time that you had anything to do with this loss at the Clemens facility?,q,MR. BLUM,start_answer
+44,268,9,20,"It was assigned to me originally, so basically when we got the loss report, which I think was the day after the fire, it was in my name, and it was in my name the whole time, I think, so.",a,THE WITNESS,start_question
+45,274,10,1,And who was the insured that Millers had on that property?,q,MR. BLUM,start_answer
+46,276,10,3,"I believe it was P.R. Clemens Family, LP.",a,THE WITNESS,start_question
+47,278,10,5,"And is it your understanding that your insured owned the physical plant there, the building?",q,MR. BLUM,start_answer
+48,281,10,8,Yes.,a,THE WITNESS,start_question
+49,282,10,9,"Okay.  And what was the insurance, basically what was the insurance coverage that Millers provided to P.R. Family Partnership?",q,MR. BLUM,start_answer
+50,285,10,12,"It was for building coverage and with that business income, which was rental income from I think Clemens Uniform or Clemens Cleaning, something like that.  So the businesses that ran in the building.  But our coverage applied to the building.",a,THE WITNESS,start_question
+51,291,10,18,"Okay.  And after this loss was received or you got notice of it, did you personally go there to the scene?",q,MR. BLUM,start_answer
+52,294,10,21,"Yes.  I think it was within -- I think it was the day after we received the report of the claim, so within 48 hours of the loss.",a,THE WITNESS,start_question
+53,299,11,1,And what was the purpose of going there?,q,MR. BLUM,start_answer
+54,301,11,3,"Just overall site inspection and kind of, I don't know, scope it out, I guess, and meeting with, I believe the fire marshal was still onsite, emergency services contractors were there, our independent adjuster, Dave Bennett, was there.  And I think there may have been a few other people, I can't remember.  But basically just to kind of get eyes on it, see the extent of the damage and what the building looked like.",a,THE WITNESS,start_question
+55,311,11,13,"You mentioned that there was an independent adjuster, David Bennett, who was there.  When was Mr. Bennett retained?",q,MR. BLUM,start_answer
+56,314,11,16,"Would have been the same day we received the loss.  Just knowing the size, I think there was news coverage of it, we just kind of knew with the limit and the video and what the news was reporting, it was a large loss.  And he's usually who we use for losses of that size.",a,THE WITNESS,start_question
+57,321,11,23,Okay.  And what was he retained to do?,q,MR. BLUM,start_answer
+58,324,12,1,To adjust the claim and basically quantify the damages.,a,THE WITNESS,start_question
+59,326,12,3,"And when you say adjust the claim and quantify the damages, can you be more specific in terms of what was his real assignment, what was he supposed to do?",q,MR. BLUM,start_answer
+60,330,12,7,"Sure.  Basically to write a repair estimate or determine the value of the building, if it's a full replacement or, you know, answer questions regarding the policy or apply the appropriate coverages to, you know, items they may run into that may not fall under the typical building coverage but might be added on as extensions or enhancements or things like that.  So basically to apply the coverage as it appears on the policy.",a,THE WITNESS,start_question
+61,340,12,17,Okay.,q,MR. BLUM,start_chat
+62,341,12,18,I'm going to mark this as Exhibit 1 if we could.,side_chat,MR. BLUM,symbols
+63,343,12,20,- - -,symbols,,is brackets
+64,344,12,21,"(Plaintiff's Answers to Interrogatories of Defendant Mercedes-Benz USA, LLC, marked Hart Exhibit 1.)",brackets,,symbols
+65,349,13,1,- - -,symbols,,start_question
+66,351,13,3,"Alex, have you ever seen this document before?",q,MR. BLUM,start_answer
+67,353,13,5,"It's possible, but I don't recall.",a,THE WITNESS,start_question
+68,354,13,6,"I'm going to direct your attention, if we could, to Interrogatory No. 85, and I apologize, there's no page numbers on here.",q,MR. BLUM,start_answer
+69,357,13,9,"85, you said?",a,THE WITNESS,start_question
+70,358,13,10,Yes.,q,MR. BLUM,start_answer
+71,359,13,11,Okay.,a,THE WITNESS,start_question
+72,360,13,12,"And if you could, could you take a moment and review, just in your head, the question 85 and the answer that's there.",q,MR. BLUM,start_answer
+73,363,13,15,Yes.,a,THE WITNESS,start_question
+74,364,13,16,Have you had an opportunity to review that?,q,MR. BLUM,start_answer
+75,366,13,18,Yes.,a,THE WITNESS,start_question
+76,367,13,19,And is that an accurate answer in terms of the total amount that was paid by Millers Capital Insurance to or on behalf of the Clemens Family Partnership?,q,MR. BLUM,start_answer
+77,371,13,23,"I believe it is, yes.",a,THE WITNESS,start_question
+78,372,13,24,"Okay.  So there really, as you said, there are two things that were paid.  First there was $2,401,763.52 paid for building damage; correct?",q,MR. BLUM,start_answer
+79,377,14,4,Correct.,a,THE WITNESS,start_question
+80,378,14,5,"And then there was $187,560.52 for business income?",q,MR. BLUM,start_answer
+81,380,14,7,Correct.,a,THE WITNESS,start_question
+82,381,14,8,"And we'll get into it more, but that business income is actually a loss of rental income; correct?",q,MR. BLUM,start_answer
+83,384,14,11,Correct.,a,THE WITNESS,start_question
+84,385,14,12,"So let's talk about the building damage, that $2.4 million.  What does that number represent?  Is it a number for the repair of the building or is that a number for what the building was worth before the fire?",q,MR. BLUM,start_answer
+85,390,14,17,"That was basically our policy limit was $2.3 million.  Then there was, I think there's an automatic 4% increase every year, so I think Dave Bennett calculated it as our limit would have been like $2.365, or something like that, so that would be for the repair or replacement of the damage up to that amount. And then there was various enhancements or extensions of things that are added on.  I know debris removal is one of them.  I think some landscaping we can cover, fire department charges.  Certain things are added on to increase the limit other than what's stated on the property schedule.",a,THE WITNESS,start_question
+86,406,15,8,Okay.  And is it your understanding that that $2.4 million that was paid was like the max limit that was available?,q,MR. BLUM,start_answer
+87,409,15,11,"Yes, I believe it was.",a,THE WITNESS,start_question
+88,410,15,12,Okay.  And was there a determination made by you or anyone acting on behalf of Millers of what the value of the building was the day before the fire?,q,MR. BLUM,start_answer
+89,414,15,16,"Yeah, I believe Dave Bennett would have done that with, I think he used a program, Marshall Swift, that you can type in the square footage of a building, the occupancy, the construction, everything.  I mean, you can lay in as many details as you know and it should give you an accurate amount of what it would cost to tear it down and rebuild it.",a,THE WITNESS,start_question
+90,424,16,1,"Okay.  That's not my question. Okay?  That's a question of, like, like you said, tearing it down and rebuilding it.  But did anyone make a determination of what was the value of that building the day before the fire?",q,MR. BLUM,start_answer
+91,430,16,7,"Yeah, I believe I did answer that Dave Bennett would have done that as part of the initial investigation that he was doing, is determine that.",a,THE WITNESS,start_question
+92,434,16,11,"And did you ever, did Mr. Bennett ever verbally or in writing convey to you what that number was?",q,MR. BLUM,start_answer
+93,437,16,14,I don't remember.,a,THE WITNESS,start_question
+94,438,16,15,Okay.,q,MR. BLUM,start_answer
+95,439,16,16,"He may have, but I don't recall.",a,THE WITNESS,start_question
+96,440,16,17,All right.,q,MR. BLUM,start_chat
+97,441,16,18,"I'll mark this as Exhibit 2, if I could, please.",side_chat,MR. BLUM,symbols
+98,443,16,20,- - -,symbols,,is brackets
+99,444,16,21,"(Letter, 7/1/16, to Bennett from Timbie, with attachments, marked Hart Exhibit 2.)",brackets,,symbols
+100,447,16,24,- - -,symbols,,start_question
+101,450,17,2,"Alex, if you can take a moment and look at this document and tell me if you have ever seen it before?",q,MR. BLUM,start_answer
+102,453,17,5,"Yes, I have.",a,THE WITNESS,start_question
+103,454,17,6,And who was C.N. Timbie Engineers retained by?,q,MR. BLUM,start_answer
+104,456,17,8,He was retained by Millers to do structural evaluation of the building.,a,THE WITNESS,start_question
+105,458,17,10,"Okay.  And why was that done, why did Millers hire him to do that?",q,MR. BLUM,start_answer
+106,460,17,12,"I believe the borough or the fire marshal wanted to tear the building down.  And we, I know we knew many people would want to be in there and looking around and, you know, determining their own cause and origin investigation.  And also to determine if the building needed to be torn down, as they said.",a,THE WITNESS,start_question
+107,467,17,19,All right.  And what was your understanding of what Mr. Timbie's recommendations were in terms of whether or not the building needed to be torn down?,q,MR. BLUM,start_answer
+108,471,17,23,"I believe he said part of it could remain, which would have been, I don't remember the direction, but basically the far end of the building away from where the fire started, I think he said it could remain.",a,THE WITNESS,start_question
+109,477,18,4,"And who made the decision, if you know or if you have been told, who made the decision that the building would be torn down in its entirety?",q,MR. BLUM,start_answer
+110,481,18,8,"I believe the insured made that decision, but I don't know for sure.",a,THE WITNESS,start_question
+111,483,18,10,"And when the insured made that decision, did that impact in any way the value of what Millers was willing to pay in terms of like the rebuilding or restoring the property?",q,MR. BLUM,start_chat
+112,487,18,14,Object to form. You can answer.,side_chat,MR. SLATTERY,start_chat
+113,489,18,16,"Actually, you know what, would you read that back?",side_chat,MR. BLUM,symbols
+114,491,18,18,- - -,symbols,,is brackets
+115,492,18,19,"(The court reporter read the record as follows:  ""And when the insured made that decision, did that impact in any way the value of what Millers was willing to pay in terms of like the rebuilding or restoring the property?"")",brackets,,symbols
+116,499,19,1,- - -,symbols,,start_question
+117,501,19,3,"Okay, you can go ahead and answer.",q,MR. BLUM,start_answer
+118,502,19,4,"To my recollection, Dave Bennett had already prepared his estimate for the repairs and it was in excess of our policy limit, so we had already quantified the damages and it was going to be over our limit.  So we wouldn't have been making that determination or letting it affect our, how much we were going to be paying.",a,THE WITNESS,start_chat
+119,510,19,12,"Could we mark this as Exhibit 3, please.",side_chat,MR. BLUM,symbols
+120,512,19,14,- - -,symbols,,is brackets
+121,513,19,15,"(Email, 7/20/16, to Randy Clemens from Bennett, with attachments, marked Hart Exhibit 3.)",brackets,,symbols
+122,516,19,18,- - -,symbols,,start_question
+123,518,19,20,"Alex, could you identify for us what Hart Exhibit 3 is?",q,MR. BLUM,start_answer
+124,520,19,22,It looks like it's an email from Dave Bennett to Randy from Clemens Uniforms.,a,THE WITNESS,start_question
+125,522,19,24,And have you ever seen this before?,q,MR. BLUM,start_answer
+126,524,20,1,"Well, I was copied on it, so I assume I did see it at some point.",a,THE WITNESS,start_question
+127,526,20,3,And is it accurate that by July 20th of 2016 you had at least a preliminary estimate from Mr. Bennett on the cost of rebuilding the structures?,q,MR. BLUM,start_answer
+128,530,20,7,"That appears accurate, yes.",a,THE WITNESS,start_question
+129,531,20,8,"Okay.  And when you received the estimate which is attached, did you review it?",q,MR. BLUM,start_answer
+130,533,20,10,"Yeah, I would have reviewed the attachments, yes.",a,THE WITNESS,start_question
+131,535,20,12,"Okay.  If we could look at Page 1 of the estimate itself, it's numbered in the bottom right corner.",q,MR. BLUM,start_answer
+132,538,20,15,Uh-huh.,a,THE WITNESS,start_question
+133,539,20,16,"When you received this, if you look on the actual estimate portion, there are five columns there, the first of which is Description.",q,MR. BLUM,start_answer
+134,543,20,20,Yes.,a,THE WITNESS,start_question
+135,544,20,21,Then there's a Unit Cost.  Did you have an understanding of what that unit cost was?,q,MR. BLUM,start_answer
+136,547,20,24,I'm going to -- what do you mean by did I understand the unit cost?,a,THE WITNESS,start_question
+137,550,21,2,"What did you understand that to mean, what did you understand that to represent?",q,MR. BLUM,start_answer
+138,553,21,5,"Well, that would be the cost for a contractor to do that work.",a,THE WITNESS,start_question
+139,555,21,7,"Okay.  And then as you go across, there's three columns there, RCV, DEP, and ACV.  Can you tell me what your understanding of those were?",q,MR. BLUM,start_answer
+140,559,21,11,"So the replacement cost value, and the RCV would have been the total amount based on square footage.  And the unit cost depreciation is DEP, and that's the, basically due to the age and condition of the descriptive item, you know, basically how it is, loses value or its life expectancy at the time.  And then you subtract that off of the RCV number to arrive at the ACV number, which is the actual cash value.",a,THE WITNESS,start_question
+141,569,21,21,"And if we go all the way to the end, there is a summary at the very back page. Which of these numbers, if any, that appear there are what Millers agreed to pay?",q,MR. BLUM,start_answer
+142,574,22,1,"Well, at this point it would have been the ACV number, $1,998,047.70.",a,THE WITNESS,start_question
+143,576,22,3,"Okay.  And as we sit here today, then, can you tell us what the difference is between the 1.998 and the 2.4 million that was paid?",q,MR. BLUM,start_answer
+144,580,22,7,Are you asking the dollar amount?,a,THE WITNESS,start_question
+145,581,22,8,"No.  I'm asking what it was for, and I apologize that was not clear. So, in other words, if you paid 1.998 for the ACV on the building, what else did you pay that went from the 1.998 up to the 2.4 million?",q,MR. BLUM,start_answer
+146,587,22,14,"I guess I'm still not understanding your question.  I mean, the ACV is issued as, you know, up front.  And then they have to provide the invoices and receipts and proof of payments for -- to show that they incurred the $2.483 million loss for us to pay additional dollars.",a,THE WITNESS,start_question
+147,594,22,21,"Okay, I think I understand.  So what you're saying is that if in fact the insured spent more than the 1.998 rebuilding it, you would have paid them up to the policy limit for the replacement?",q,MR. BLUM,start_answer
+148,600,23,2,Correct.,a,THE WITNESS,start_question
+149,601,23,3,"Okay.  So if we went back to the answer to Interrogatory No. 85, the 2.4 million there is an amount that was paid because the insured rebuilt the building and provided the invoices?",q,MR. BLUM,start_answer
+150,606,23,8,Correct.,a,THE WITNESS,start_question
+151,607,23,9,Okay.  And was it Mr. Bennett or you or someone else who put together the information to verify that all those funds were spent on the building?,q,MR. BLUM,start_answer
+152,611,23,13,"Yes, Mr. Bennett met with Randy from Clemens I think a few times and gathered invoices, receipts, canceled checks, and all kinds of documentation and put it together to prove that the money was incurred and spent and the building was repaired and was back in a useful state.",a,THE WITNESS,start_question
+153,618,23,20,"Okay.  You can put that aside. To the best of your knowledge, did you ever see another estimate from Mr. Bennett?",q,MR. BLUM,start_answer
+154,622,23,24,"I don't recall.  He may have had -- he may have shared another one before sending that one.  I don't know.  I mean, sometimes there are preliminary estimates and they are revised.  I don't know.",a,THE WITNESS,start_question
+155,628,24,5,"That one was the preliminary one, that's the earliest one that I saw.  But did you ever see a later one that was dated beyond July 20th of 2016?",q,MR. BLUM,start_answer
+156,632,24,9,I don't remember.,a,THE WITNESS,start_question
+157,633,24,10,"I'm going to switch for a moment, if we could, to the income loss.  Okay?  Who was responsible for verifying or determining what amount would be paid for the income loss?",q,MR. BLUM,start_answer
+158,637,24,14,That was also Dave Bennett's responsibility.,a,THE WITNESS,start_question
+159,639,24,16,And did Mr. Bennett ever provide you with any kind of a written report or any information off of which you could base the amount of the income loss that was paid?,q,MR. BLUM,start_answer
+160,643,24,20,"Yes.  I believe he -- he had sent me things over the course of the claim's life.  I don't remember exactly what they were, but he gathered either leases or income statements or something from Randy to show what was being paid to, I guess, Clemens Family, LP, as or in consideration of rent.",a,THE WITNESS,start_question
+161,651,25,3,And is it the policy or did this policy of insurance cover the total amount of the rent that was lost or was it the loss of actual income that they would have had from the rental property?,q,MR. BLUM,start_answer
+162,656,25,8,"Well, the language of the policy has been the income for rental properties, it's typically that is the rent, there's not usually, you know, profit and loss statement or something where there's a balancing of actual profit and expenses and things like that, so it's usually just rent.",a,THE WITNESS,start_question
+163,663,25,15,"So it is the position of Millers that, you know, if the rent is 10,000 a month, you reimburse the actual 10,000, not what the income would have been for the landlord?",q,MR. BLUM,start_answer
+164,667,25,19,Correct.,a,THE WITNESS,start_question
+165,668,25,20,And do you know what period of time was covered under the policy for that rental loss?,q,MR. BLUM,start_answer
+166,671,25,23,"Yeah.  The policy states it's 12 months.  Typically the policy has a 72-hour waiting period before it begins, though we have an enhancement on our policy that it deletes that 72-hour waiting period.  And I believe it adds up to maybe 60 days for additional loss of income, I don't remember the exact language at this time.  But we did make a consideration for those additional 60 days and paid an additional figure, I can't remember the exact amount, past 12 months to kind of help things conclude in claims.",a,THE WITNESS,start_question
+167,684,26,11,"Is it accurate -- I don't want to put words in your mouth -- what Millers would have done, what Millers did do is essentially pay 14 months of rental income?",q,MR. BLUM,start_answer
+168,688,26,15,I don't think that's completely accurate.  I believe we paid a portion for the 13th and 14th month.,a,THE WITNESS,start_question
+169,691,26,18,Okay.,q,MR. BLUM,start_answer
+170,692,26,19,"I can't remember the exact dollar amounts or anything, but I believe the building was mostly back to the way it was prior to the claim within 12 months or at the end of that period, and we didn't pay the full monthly rent for those additional two months, from what I recall.  So if he had -- if the rent was 10,000 a month, there was I think three or four different spaces in there, so if three of them were back to normal and one was still being worked on, we wouldn't pay the full 10,000, we would pay only the portion that was still uninhabitable or unoccupied or still under construction.",a,THE WITNESS,start_question
+171,707,27,9,And who made that decision about like the percentage that would be paid once there was a portion of the building?,q,MR. BLUM,start_answer
+172,710,27,12,"Dave Bennett calculated that with Randy to iron that out, because I think the -- I can't remember the specifics, but he worked that out and had it laid out so Randy would understand it as well what we were paying for.",a,THE WITNESS,start_question
+173,715,27,17,And did you receive any kind of a report from him or something in writing which told you what the amount you should pay is?,q,MR. BLUM,start_answer
+174,718,27,20,"Yeah, I think there either would have been a report or just an email saying, this is what we agreed was going to be paid.",a,THE WITNESS,start_question
+175,721,27,23,Okay.  And was the Clemens Family Partnership also reimbursed for lost rent from a company called S-Bond Technologies?,q,MR. BLUM,start_answer
+176,725,28,2,I have never heard the name so I'm not sure.  Is that one of the tenants of the building?,a,THE WITNESS,start_question
+177,728,28,5,"It was a tenant, yes.",q,MR. BLUM,start_answer
+178,729,28,6,"Okay.  Then, yeah, that would have been factored in to the rent calculation.",a,THE WITNESS,start_question
+179,731,28,8,"And, again, Mr. Bennett would be the person who put those figures together or calculated them?",q,MR. BLUM,start_answer
+180,734,28,11,Yes.  I believe he gathered the leases or whatever agreements or income statements to show what was being paid.,a,THE WITNESS,start_question
+181,737,28,14,"Okay.  And what, if any, participation did you have in the investigation of the cause and origin of the fire that occurred at this location?",q,MR. BLUM,start_answer
+182,741,28,18,"We retained Schriver, I think it's, Fire and Explosion Investigations, so Brad Schriver, he was out there with I believe maybe one or two other cause and origin investigators to, you know, examine the scene and try to pinpoint exactly where the fire started and why.",a,THE WITNESS,start_question
+183,749,29,1,"And other than retaining that outside expert, did you personally have any involvement in that investigation?",q,MR. BLUM,start_answer
+184,752,29,4,"I was not there when they were doing the investigation, no.",a,THE WITNESS,start_question
+185,754,29,6,And were you present during any examinations of the vehicle?,q,MR. BLUM,start_answer
+186,756,29,8,I was not.,a,THE WITNESS,start_question
+187,757,29,9,Have you participated in any meetings with any of the other insurance companies regarding the loss that occurred at the Clemens facility?,q,MR. BLUM,start_answer
+188,761,29,13,I have not.,a,THE WITNESS,start_question
+189,762,29,14,Did anyone else acting on behalf of Millers?,q,MR. BLUM,start_answer
+190,764,29,16,"I don't know.  I know, I mean, we've had a subrogation counsel.",a,THE WITNESS,start_question
+191,766,29,18,I mean actually somebody from Millers?,q,MR. BLUM,start_answer
+192,768,29,20,"From Millers, that I don't know.  I don't believe so.",a,THE WITNESS,start_question
+193,770,29,22,And have you personally had any discussions ever with anyone from Mercedes or Mercedes-Benz Vans regarding this claim?,q,MR. BLUM,start_answer
+194,774,30,1,Not that I recall.,a,THE WITNESS,start_chat
+195,775,30,2,I have no further questions.,side_chat,MR. BLUM,symbols
+196,777,30,4,- - - EXAMINATION,symbols,,symbols
+197,779,30,6,- - -,symbols,,start_question
+198,781,30,8,"Just briefly, did you have any conversations with anyone from Bergey's Truck Leasing or anything like that in regards to this claim?",q,MR. GARBARINO,start_answer
+199,785,30,12,"Not that I recall.  I don't think they were there when I was on the scene, and that was really my main, you know, involvement of, you know, any discussions or anything, was really that day.  I don't know that Dave Bennett would have, but I don't know for sure.",a,THE WITNESS,start_question
+200,791,30,18,"And does Dave Bennett have a specific company that he works for, is he independent?",q,MR. GARBARINO,start_answer
+201,794,30,21,"Yeah, so he works for Elliott Claims Group or just Elliott Claims.",a,THE WITNESS,start_chat
+202,796,30,23,That's all the questions I have.  Thank you.,side_chat,MR. GARBARINO,start_chat
+203,799,31,1,No questions.,side_chat,MR. SLATTERY,start_chat
+204,800,31,2,You're free to run.,side_chat,MR. GOGINENI,symbols
+205,802,31,4,- - -,symbols,,is brackets
+206,803,31,5,(Witness excused.),brackets,,is brackets
+207,804,31,6,(Whereupon the deposition adjourned at 10:28 a.m.),brackets,,symbols
+208,806,31,8,"- - - CERTIFICATE I HEREBY CERTIFY that the proceedings, evidence, and objections are contained fully and accurately in the stenographic notes taken by me upon the deposition of ALEX HART taken on August 29, 2019, and that this is a true and correct transcript of same. MADALENE FOSTER ROHDE Registered Professional Reporter",symbols,,is brackets
+209,842,32,18,(The foregoing certification of this transcript does not apply to any reproduction of the same by any means unless under the direct control and/or supervision of the certifying reporter.) LAWYER'S NOTES,brackets,,symbols
+210,851,33,2,______________________________________________,symbols,,symbols
+211,852,33,3,______________________________________________,symbols,,symbols
+212,853,33,4,______________________________________________,symbols,,symbols
+213,854,33,5,______________________________________________,symbols,,symbols
+214,855,33,6,______________________________________________,symbols,,symbols
+215,856,33,7,______________________________________________,symbols,,symbols
+216,857,33,8,______________________________________________,symbols,,symbols
+217,858,33,9,______________________________________________,symbols,,symbols
+218,859,33,10,______________________________________________,symbols,,symbols
+219,860,33,11,______________________________________________,symbols,,symbols
+220,861,33,12,______________________________________________,symbols,,symbols
+221,862,33,13,______________________________________________,symbols,,symbols
+222,863,33,14,______________________________________________,symbols,,symbols
+223,864,33,15,______________________________________________,symbols,,symbols
+224,865,33,16,______________________________________________,symbols,,symbols
+225,866,33,17,______________________________________________,symbols,,symbols
+226,867,33,18,______________________________________________,symbols,,symbols
+227,868,33,19,______________________________________________,symbols,,symbols
+228,869,33,20,______________________________________________,symbols,,symbols
+229,870,33,21,______________________________________________,symbols,,symbols
+230,871,33,22,______________________________________________,symbols,,symbols
+231,872,33,23,______________________________________________,symbols,,symbols
+232,873,33,24,______________________________________________,symbols,,end

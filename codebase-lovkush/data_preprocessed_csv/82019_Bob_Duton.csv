@@ -1,0 +1,697 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,138,5,12,- - - EXAMINATION,symbols,,symbols
+2,140,5,14,- - -,symbols,,start_question
+3,142,5,16,"Good morning.  My name is Kyle Nocho.  I represent the plaintiff in this case, the Estate of Taj'anae Siler.  Today I'm just going to ask you some questions about your job at Catholic Community Services, and then also some of the work that you did on Ms. Siler's case.  Okay?",q,MR. NOCHO,start_answer
+4,149,5,23,Yes.,a,THE WITNESS,start_question
+5,150,5,24,Have you ever been to a deposition before?,q,MR. NOCHO,start_answer
+6,153,6,1,"If I did, it was years.  It had to be 30, 40 years ago.  It was related to a car accident.  That's it.",a,THE WITNESS,start_question
+7,156,6,4,Okay.  I just want to give you some instructions so we're on the same page --,q,MR. NOCHO,start_answer
+8,158,6,6,Sure.,a,THE WITNESS,start_question
+9,159,6,7,"-- of how everything goes today. I'm going to ask you questions.  I would ask that you try to wait until I finish the question until you respond.  That way, the court reporter here can take down everything being said.  Otherwise, it may be tough to follow.",q,MR. NOCHO,start_answer
+10,166,6,14,Uh-uh.,a,THE WITNESS,start_question
+11,167,6,15,"Then another point also with the court reporter being here, if you want to say yes or no to a question, make sure you verbalize yes or no because I understand what you're saying today when you say uh-uh or uh-uh, but it's not captured on the transcript. Okay?",q,MR. NOCHO,start_answer
+12,174,6,22,Uh-uh.,a,THE WITNESS,start_question
+13,175,6,23,You mean yes?,q,MR. NOCHO,start_answer
+14,176,6,24,Yes.,a,THE WITNESS,start_question
+15,177,6,25,"And if at any time you want to take a break, use the restroom, just let me know and we can pause the deposition.  Okay?",q,MR. NOCHO,start_answer
+16,181,7,3,Yes.,a,THE WITNESS,start_question
+17,182,7,4,Okay.  Are you on any medications today affecting your ability to testify?,q,MR. NOCHO,start_answer
+18,185,7,7,No.,a,THE WITNESS,start_question
+19,186,7,8,"And also as part of the instructions, if there is any questions that you don't know, I would prefer that you answer saying that you don't know or if you are estimating that you say that you're estimating just so we're on the same page understanding, you know, your response to the question.  Okay?",q,MR. NOCHO,start_answer
+20,193,7,15,Yes.,a,THE WITNESS,start_question
+21,194,7,16,Okay.  Could you state your full name.,q,MR. NOCHO,start_answer
+22,196,7,18,Robert Lee Dutton.,a,THE WITNESS,start_question
+23,197,7,19,And who is your current employer?,q,MR. NOCHO,start_answer
+24,199,7,21,Catholic Community Services.,a,THE WITNESS,start_question
+25,200,7,22,What is your current job title?,q,MR. NOCHO,start_answer
+26,201,7,23,Case Management Supervisor.,a,THE WITNESS,start_question
+27,202,7,24,Have you ever testified in a court before?,q,MR. NOCHO,start_answer
+28,205,8,1,Yes.,a,THE WITNESS,start_question
+29,206,8,2,Under what circumstances were you testifying in a court?,q,MR. NOCHO,start_answer
+30,208,8,4,Dependency Court for our clients.,a,THE WITNESS,start_question
+31,210,8,6,"And when you say our clients, you mean your clients at Catholic Community Services?",q,MR. NOCHO,start_answer
+32,213,8,9,Yes.,a,THE WITNESS,start_question
+33,214,8,10,So that would be Dependency Court here in Philadelphia?,q,MR. NOCHO,start_answer
+34,216,8,12,Yes.,a,THE WITNESS,start_question
+35,217,8,13,"In preparation for today's deposition, did you review any documents?",q,MR. NOCHO,start_answer
+36,219,8,15,Yes.,a,THE WITNESS,start_question
+37,220,8,16,What types of documents did you review?,q,MR. NOCHO,start_answer
+38,222,8,18,Mostly e-mails.,a,THE WITNESS,start_question
+39,223,8,19,These were e-mails that you sent as part of your job at Catholic Community Services?,q,MR. NOCHO,start_answer
+40,226,8,22,Yes.,a,THE WITNESS,start_question
+41,227,8,23,Were these e-mails relating to Taj'anae Siler?,q,MR. NOCHO,start_answer
+42,229,8,25,Yes.,a,THE WITNESS,start_question
+43,231,9,1,What do you remember about these e-mails?,q,MR. NOCHO,start_answer
+44,233,9,3,That they were related to my getting involved with the case when the Case Management Supervisor and the Case Manager were not at the agency.,a,THE WITNESS,start_question
+45,237,9,7,"When you say not at the agency, do you mean that they were not working that day or they were no longer working at Catholic --",q,MR. NOCHO,start_answer
+46,240,9,10,They were not working that day.,a,THE WITNESS,start_question
+47,241,9,11,Who were the Case Management Supervisor and the Case Manager that you are referencing?,q,MR. NOCHO,start_answer
+48,244,9,14,The Case Manager was Selara Harris and the Case Management Supervisor was Theresa Hamlett.,a,THE WITNESS,start_question
+49,247,9,17,Is there typically only one supervisor assigned to a case?,q,MR. NOCHO,start_answer
+50,249,9,19,Yes.,a,THE WITNESS,start_question
+51,250,9,20,"Other than your attorney, did you discuss Taj'anae Siler for preparation for your deposition with anyone else?",q,MR. NOCHO,start_answer
+52,253,9,23,No.,a,THE WITNESS,start_question
+53,254,9,24,I just want to ask you some questions about your background.  Did you go to college?,q,MR. NOCHO,start_answer
+54,258,10,2,Yes.,a,THE WITNESS,start_question
+55,259,10,3,Which college?,q,MR. NOCHO,start_answer
+56,260,10,4,Westleyan University.,a,THE WITNESS,start_question
+57,261,10,5,Westleyan?,q,MR. NOCHO,start_answer
+58,262,10,6,Wesleyan in Connecticut.,a,THE WITNESS,start_question
+59,263,10,7,Did you obtain a degree?,q,MR. NOCHO,start_answer
+60,264,10,8,Yes.,a,THE WITNESS,start_question
+61,265,10,9,Which degree?,q,MR. NOCHO,start_answer
+62,266,10,10,It was in government.,a,THE WITNESS,start_question
+63,267,10,11,Did you go on to any postgraduate --,q,MR. NOCHO,start_answer
+64,269,10,13,Yes.,a,THE WITNESS,start_question
+65,270,10,14,Which --,q,MR. NOCHO,start_answer
+66,271,10,15,"University of Pennsylvania. MSW, master's in social work.",a,THE WITNESS,start_question
+67,273,10,17,Did you have any other postgraduate degrees?,q,MR. NOCHO,start_answer
+68,275,10,19,No.,a,THE WITNESS,start_question
+69,276,10,20,Did you obtain any certifications or licensing in anything?,q,MR. NOCHO,start_answer
+70,278,10,22,I was a licensed social worker through NASW for many years.  I am no longer.,a,THE WITNESS,start_question
+71,280,10,24,What is NASW?,q,MR. NOCHO,start_answer
+72,281,10,25,National Association of Social Workers.,a,THE WITNESS,start_question
+73,284,11,2,You said you were no longer licensed.  Why are you no longer licensed?,q,MR. NOCHO,start_answer
+74,286,11,4,I don't need it for my job.,a,THE WITNESS,start_question
+75,287,11,5,"Did it expire, your license?",q,MR. NOCHO,start_answer
+76,288,11,6,"Yeah.  Probably -- I didn't renew it.  Probably, like, within a year plus. Whenever it ran out, I just didn't renew it.",a,THE WITNESS,start_question
+77,291,11,9,Did you it need for a previous job that you had?,q,MR. NOCHO,start_answer
+78,293,11,11,"I didn't need it, but it was helpful on a previous job, yes.",a,THE WITNESS,start_question
+79,295,11,13,"Before you started working at Catholic Community Services, did you work any other human services or child welfare jobs?",q,MR. NOCHO,start_answer
+80,298,11,16,Yes.,a,THE WITNESS,start_question
+81,299,11,17,Which jobs?,q,MR. NOCHO,start_answer
+82,300,11,18,"I worked at Children's Aid Society when it was open.  I then went to Carson Valley School, Northern Homes for Children, Saint Francis, Saint Joseph's Homes For Children, and then finally at Catholic Community Services.",a,THE WITNESS,start_question
+83,306,11,24,"Let's start at Saint Francis Home for Children.  What was your role there, your job responsibilities?",q,MR. NOCHO,start_answer
+84,310,12,2,"I had three positions there.  I started as the Director of Social Service.  I then became the Assistant Executive Director, which I did for many years, and then my last two years there were as the Executive Director.",a,THE WITNESS,start_question
+85,315,12,7,What was your role as the Executive Director?,q,MR. NOCHO,start_answer
+86,317,12,9,I was the administrator for the program.,a,THE WITNESS,start_question
+87,319,12,11,What type of program was Saint Francis?,q,MR. NOCHO,start_answer
+88,321,12,13,It's a residential group home program for adolescent males.,a,THE WITNESS,start_question
+89,323,12,15,"How would the children end up at the facility, at the home?  Would they be contracted through DHS, for example, or something like that?",q,MR. NOCHO,start_answer
+90,327,12,19,"There were two primary sources. One would be a contractor with DHS, and the other was when we had an RTF Program.  It would have been referrals from CBH, Community Behavorial Health.",a,THE WITNESS,start_question
+91,332,12,24,Were you involved in the management of the RTF Program?,q,MR. NOCHO,start_answer
+92,335,13,1,Yes.,a,THE WITNESS,start_question
+93,336,13,2,"When you were the Assistant Executive Director, was your role any different from when you were the Executive Director?",q,MR. NOCHO,start_answer
+94,339,13,5,Yes.,a,THE WITNESS,start_question
+95,340,13,6,How did it differ?,q,MR. NOCHO,start_answer
+96,341,13,7,"Well, I mean, there's a difference in the authority of the position. One was the administrator and the other one was the assistant.",a,THE WITNESS,start_question
+97,345,13,11,Could you give some examples of some different responsibilities that you had as the Executive Director versus the Assistant Executive Director?,q,MR. NOCHO,start_answer
+98,349,13,15,"As the administrator, you're responsible for the overall operation of the agency so that all the departments would report to me.  When I was the assistant, I focused more on working with the social service clinical components of the program.  For example, I wouldn't have been involved with personnel decisions across the board as I would as the Executive Director as an example.",a,THE WITNESS,start_question
+99,358,13,24,Were there multiple Assistant Executive Directors?,q,MR. NOCHO,start_answer
+100,361,14,1,No.  There was just myself.,a,THE WITNESS,start_question
+101,362,14,2,Then what were some of your responsibilities as the Director of Social Services?,q,MR. NOCHO,start_answer
+102,365,14,5,"Well, that was a long time ago. Basically, to supervise the social service, the social workers that were working with the boys and their families.  It was more focused on the social service piece of it.",a,THE WITNESS,start_question
+103,370,14,10,Were the social workers people that worked in the home or would they make visits to families?,q,MR. NOCHO,start_answer
+104,373,14,13,"All of the above.  They were assigned to the boys in the home and worked with the families, be the liaison with DHS, or at that time that was just DHS.",a,THE WITNESS,start_question
+105,377,14,17,"Would it have been DPW at that time, Department of Public Welfare?",q,MR. NOCHO,start_answer
+106,379,14,19,"Wow.  I don't know when it changed, but it could have been.",a,THE WITNESS,start_question
+107,381,14,21,Okay.,q,MR. NOCHO,start_answer
+108,382,14,22,I don't know when that changed.,a,THE WITNESS,start_question
+109,383,14,23,That's fine.  What were some of your job titles when you worked at Northern Homes for Children?,q,MR. NOCHO,start_answer
+110,387,15,1,I was the Director of Social Service.,a,THE WITNESS,start_question
+111,389,15,3,Was it a similar role as when you were Director of Social Service at Saint Francis?,q,MR. NOCHO,start_answer
+112,392,15,6,Yes.,a,THE WITNESS,start_question
+113,393,15,7,About how long did you serve in that position?,q,MR. NOCHO,start_answer
+114,395,15,9,Northern Homes was less than two years.  Maybe a year and a half.,a,THE WITNESS,start_question
+115,397,15,11,About how long did you work at Saint Francis total in time?,q,MR. NOCHO,start_answer
+116,399,15,13,Little over 30 years.,a,THE WITNESS,start_question
+117,400,15,14,Why did you decide to leave Northern Homes to go to Saint Francis?,q,MR. NOCHO,start_answer
+118,402,15,16,I thought it was -- it had the potential for better upward mobility.,a,THE WITNESS,start_question
+119,404,15,18,There wasn't as much opportunity for advancement at Northern Homes?,q,MR. NOCHO,start_answer
+120,406,15,20,Correct.,a,THE WITNESS,start_question
+121,407,15,21,Then before Northern Homes you mentioned working at Carson Valley School?,q,MR. NOCHO,start_answer
+122,409,15,23,Yes.,a,THE WITNESS,start_question
+123,410,15,24,What was your job title when you were at Carson Valley School?,q,MR. NOCHO,start_answer
+124,413,16,1,"Basically, I was a supervisor of the diagnostic programs.  Carson Valley is a residential program and two of the units were diagnostic programs.  So I was responsible for that.  I did both the residential and the social service components, oversaw the residential and social service components of that program.",a,THE WITNESS,start_question
+125,421,16,9,What is a diagnostic program?,q,MR. NOCHO,start_answer
+126,422,16,10,"At that time, children would come to us through the contract with DHS.  It wasn't clear whether or not they needed to be in -- it was to do a workup on the children and then make recommendations back to DHS.",a,THE WITNESS,start_question
+127,427,16,15,"So would that workup involve, like, a clinical evaluation?",q,MR. NOCHO,start_answer
+128,429,16,17,"Yes.  Psychiatric, psychological, social service assessment of the family, their progress in therapy, how they were doing in the program residentially.  Sort of a comprehensive report.",a,THE WITNESS,start_question
+129,434,16,22,About how long were you working at Carson Valley?,q,MR. NOCHO,start_answer
+130,436,16,24,About six and a half years.,a,THE WITNESS,start_question
+131,437,16,25,You also mentioned previously working at Children's Aid; is that correct?,q,MR. NOCHO,start_answer
+132,440,17,2,Yes.,a,THE WITNESS,start_question
+133,441,17,3,What type of job did you have at Children's Aid?,q,MR. NOCHO,start_answer
+134,443,17,5,"I was a social worker, residential social worker.",a,THE WITNESS,start_question
+135,445,17,7,Was Children's Aid a residential program?,q,MR. NOCHO,start_answer
+136,447,17,9,"Yes, it was.  Well, the program I was in was residential.  It was a large foster care program with a residential component.",a,THE WITNESS,start_question
+137,451,17,13,"So would it have workers going out to place children in foster homes, for example, and then also have a residential program where children could live?",q,MR. NOCHO,start_answer
+138,455,17,17,Yes.,a,THE WITNESS,start_question
+139,456,17,18,"As a social worker, did you do home visits?",q,MR. NOCHO,start_answer
+140,458,17,20,Yes.,a,THE WITNESS,start_question
+141,459,17,21,"What were you -- what was, like, the purpose of the home visit?",q,MR. NOCHO,start_answer
+142,461,17,23,"Well, you assess the families just in terms of the family dynamics.  You would want to know whether or not the family would provide, like, a safe visitation resource so that if the children needed visits, they could visit.  Also, to be part of making a recommendation as to whether or not the child could be reunified with the family.",a,THE WITNESS,start_question
+143,470,18,6,Did you also evaluate the child or family for any services that they needed?,q,MR. NOCHO,start_answer
+144,472,18,8,Yes.,a,THE WITNESS,start_question
+145,473,18,9,"When you started working at Catholic Community Services, did you work as a supervisor?",q,MR. NOCHO,start_answer
+146,476,18,12,Yes.  I was hired as a supervisor.,a,THE WITNESS,start_question
+147,478,18,14,About when did you start working at Catholic Community Services?,q,MR. NOCHO,start_answer
+148,480,18,16,"I think it was June 21, 2014.",a,THE WITNESS,start_question
+149,481,18,17,"Who did you report to at that time as, like, a supervisor?",q,MR. NOCHO,start_answer
+150,483,18,19,Alan Speed.,a,THE WITNESS,start_question
+151,484,18,20,Has your supervisor changed over time?,q,MR. NOCHO,start_answer
+152,486,18,22,Yes.,a,THE WITNESS,start_question
+153,487,18,23,Have you had -- who are some of the other supervisors?,q,MR. NOCHO,start_answer
+154,489,18,25,"Just one other, Margaret Andrews.",a,THE WITNESS,start_question
+155,492,19,2,About when did your supervisor change to Margaret Andrews?,q,MR. NOCHO,start_answer
+156,494,19,4,"I don't -- end of 2016, maybe beginning of 2017.  I don't know for sure.",a,THE WITNESS,start_question
+157,496,19,6,"So Mr. Speed and Ms. Andrews, were they Case Management Directors?",q,MR. NOCHO,start_answer
+158,498,19,8,Yes.,a,THE WITNESS,start_question
+159,499,19,9,What are some of the job responsibilities of a Case Management Director?,q,MR. NOCHO,start_answer
+160,501,19,11,"They are responsible for supervising the work of their units.  So at our agency we have two sites.  They each are responsible for one of the sites.  As far as case manage -- so their job is Case Management. So there are other people in the organization, but under the chain of Case Management, it's the Case Management Director and the four or five Case Management Supervisors that they are responsible for.  Then on each team, there are four or five case managers and support staff. So they are responsible for that operation.",a,THE WITNESS,start_question
+161,513,19,23,You mentioned there being two different sites?,q,MR. NOCHO,start_answer
+162,515,19,25,Yes.,a,THE WITNESS,start_question
+163,517,20,1,Where are the sites located?,q,MR. NOCHO,start_answer
+164,518,20,2,The site that I'm at is on Verree Road.  Do you need the address?,a,THE WITNESS,start_question
+165,520,20,4,If you know it.,q,MR. NOCHO,start_answer
+166,521,20,5,"10125 Verree Road.  Then the other is CORA Services, and I don't know that address.  It's three miles down the road.",a,THE WITNESS,start_question
+167,524,20,8,"So both sites, they both have workers providing case management services?",q,MR. NOCHO,start_answer
+168,526,20,10,Yes.,a,THE WITNESS,start_question
+169,527,20,11,"And that would include Community Umbrella Agency Services, so CUA Services?",q,MR. NOCHO,start_answer
+170,529,20,13,Yes.,a,THE WITNESS,start_question
+171,530,20,14,Are you currently still a supervisor?,q,MR. NOCHO,start_answer
+172,532,20,16,Yes.,a,THE WITNESS,start_question
+173,533,20,17,Okay.  About how many Case Managers do you currently supervise?,q,MR. NOCHO,start_answer
+174,535,20,19,Five.,a,THE WITNESS,start_question
+175,536,20,20,Has that number changed over time?,q,MR. NOCHO,start_answer
+176,538,20,22,"I think briefly I might have had four, but no.  It's been five.  Occasionally, it was six, but generally I would say over the time, five.",a,THE WITNESS,start_question
+177,543,21,1,And then you mentioned each Case Manager would have a certain number of cases; is that correct?,q,MR. NOCHO,start_answer
+178,546,21,4,Yes.,a,THE WITNESS,start_question
+179,547,21,5,About how many cases would the Case Manager have?,q,MR. NOCHO,start_answer
+180,549,21,7,"Well, right now on my team it's about ten per worker.  It's varied over time. I mean, it's improved.",a,THE WITNESS,start_question
+181,552,21,10,"When you say improved, what do you mean?",q,MR. NOCHO,start_answer
+182,554,21,12,"I mean that when -- well, the CUA started about a little after before I got there.  So it's a brand new agency.  So, you know, we would have case loads -- my workers might have 13, 14, 15, 16 cases, but that -- the agency, DHS, everyone has worked to reduce that caseload to what seems a fairly manageable number at this point.",a,THE WITNESS,start_question
+183,562,21,20,"And each case, that could have multiple children?",q,MR. NOCHO,start_answer
+184,564,21,22,Yes.,a,THE WITNESS,start_question
+185,565,21,23,"So the case is really, like, the family?",q,MR. NOCHO,start_answer
+186,567,21,25,"It's by the family, yes.",a,THE WITNESS,start_question
+187,569,22,1,"While Mr. Alan Speed was your Direct Supervisor, I guess, in the year 2016, who are some of the Case Managers that reported to you?",q,MR. NOCHO,start_answer
+188,573,22,5,"Wow.  Well, I know Eileen Gork was one.  You want their names?",a,THE WITNESS,start_question
+189,575,22,7,If you know it.  You can say you don't know if you don't know.,q,MR. NOCHO,start_answer
+190,577,22,9,"I think Ruth Hennessy was one, might have been.  I would have to look because there has been a number of them.  I don't know when my worker Walt Burwell came back.  I'm not sure.  He joined my team.",a,THE WITNESS,start_question
+191,582,22,14,"Is there a lot of turnover in that position, the Case Management position?",q,MR. NOCHO,start_answer
+192,584,22,16,"I don't know how to define a lot.  Social work has changed, you know, positions change in social work.  I haven't felt that my team had excessive turnover.",a,THE WITNESS,start_question
+193,588,22,20,"Do Case Managers typically stay on a job for more than one year, more than two years?",q,MR. NOCHO,start_answer
+194,591,22,23,"Probably on average would be, like, two to three years, on average. Although, my one worker Eileen is in her -- she's starting her sixth year.  I had a staff member that just left, and she wasn't always on my team, but she worked for us for five years. There is some good longevity with some staff.",a,THE WITNESS,start_question
+195,599,23,5,"Did you ever have a Case Manager you mentioned before, Selara Harris, on your team?",q,MR. NOCHO,start_answer
+196,602,23,8,No.,a,THE WITNESS,start_question
+197,603,23,9,What is the Case Manager Supervisor's role in providing the CUA Services?,q,MR. NOCHO,start_answer
+198,606,23,12,The supervisor's role?,a,THE WITNESS,start_question
+199,607,23,13,Yeah.,q,MR. NOCHO,start_answer
+200,608,23,14,"Well, you're responsible for overseeing how the case is progressing.  We have our focus which is on, you know, safety and permanency and the child's wellbeing. Those are the core values.  Our work is focused on supporting that.  I mean, your responsible to manage them in terms of their personnel, in terms of their job, how they are doing on their job, evaluating that.",a,THE WITNESS,start_question
+201,617,23,23,"When you say them, who do you mean?",q,MR. NOCHO,start_answer
+202,619,23,25,"I mean Case Managers.  There is also support staff so that there would be -- on our team, we'll have an outcome specialists, we have a Case Aide.  Sometimes we have aftercare workers.  Those are all support staff.  Their role is to support the Case Managers.  In a way, everything supports the Case Managers.  We have to look at quality.  We have to look at compliance.  All of those issues that go in terms of Case Management.",a,THE WITNESS,start_question
+203,630,24,10,"And when you say compliance, compliance with what?",q,MR. NOCHO,start_answer
+204,632,24,12,"Compliance with the agency's and DHS's expectations of what needs to be done for good practice, meeting the timelines for some of the documentation that needs to be done on a case, the quality of the work that's being done, making sure you keep an eye, you're overseeing these cases.",a,THE WITNESS,start_question
+205,639,24,19,Would that be following the CUA Practice Guidelines?,q,MR. NOCHO,start_answer
+206,641,24,21,Yes.,a,THE WITNESS,start_question
+207,642,24,22,You mentioned an Outcome Specialist.  What role does the Outcome Specialist play?,q,MR. NOCHO,start_answer
+208,645,24,25,"It's a support role.  They do things that are in support to the Case Manager. They may supervise a visit.  They may be get documents.  They may take things to the parents.  They may provide transportation for children or families.  They put documents into records.  Things that, you know, just tasks that will support and help Case Management.",a,THE WITNESS,start_question
+209,654,25,8,"And we say supervised visits, do you mean visits between the children and the parent?",q,MR. NOCHO,start_answer
+210,657,25,11,"Parent and child, yes.",a,THE WITNESS,start_question
+211,658,25,12,Would they accompany the Case Manager on home visits or placement visits?,q,MR. NOCHO,start_answer
+212,660,25,14,"They could, but it's not a main part of their job.  If two staff were needed, sure they would, yes.",a,THE WITNESS,start_question
+213,663,25,17,What are some examples of when two staff would be needed?,q,MR. NOCHO,start_answer
+214,665,25,19,"If you were trying to transport a child or multiple children or if a child was demonstrating behavorial problems.  If there was a support person that could speak different languages, you might do that for interpretation, those kinds of things.  But it's not a main part of the -- accompanying the Case Manager is not a major part of the job.",a,THE WITNESS,start_question
+215,674,26,2,You also mentioned aftercare staff.  What does aftercare staff --,q,MR. NOCHO,start_answer
+216,676,26,4,"Aftercare is a voluntary service that felt it would be, instead of just closing the case, that you could offer service, you know, just sort of follow-up services.  So you ask a family when their case is ready to be closed whether or not they would like to have a staff touch base with them, check in with them, follow up to make sure things are going okay with school, is there any problem with therapy, whatever the focus of the case was.  If they say they would like those services, then we would visit them on a prescribed basis, whatever was agreed upon, and it's a voluntary service for the families and children.",a,THE WITNESS,start_question
+217,690,26,18,Would the Case Aide have a similar role as the Outcome Specialist?,q,MR. NOCHO,start_answer
+218,692,26,20,"Yes.  We talk about it a lot.  A lot of it overlaps.  There are certain other sort of distinct things that they do.  For example, an Outcome Specialist doesn't request the birth certificates or the social security cards.  So things like that that are just for the Case Aide to do.  But in many other areas there are overlaps.  They put records in the files, they can go out and supervise visits. They can do a number of similar things to the Outcome Specialist.",a,THE WITNESS,start_question
+219,704,27,6,Do you remember working with any of these support staffs on Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+220,707,27,9,I did not.,a,THE WITNESS,start_question
+221,708,27,10,"As a supervisor, did you have regular meetings with your Case Managers or do you have regular meetings with your Case Managers?",q,MR. NOCHO,start_answer
+222,712,27,14,"Well, I meet with them individually and then we have some team -- we also meet for team meetings.",a,THE WITNESS,start_question
+223,715,27,17,What's the difference between an individual meeting and team meetings in terms of what's discussed?,q,MR. NOCHO,start_answer
+224,718,27,20,"The individual meetings would be much more focused on the case, on the individualized cases.  That's where you would really work with the Case Managers on their cases.  A team meeting is going to be more general.  It will get at policies and procedures.  It's going to get at team work issues or scheduling issues, general practice issues, those kinds of things.  We really wouldn't be doing individual look at cases in a group.",a,THE WITNESS,start_question
+225,730,28,6,"When you do an individual look at cases, what are you looking for as the supervisor?",q,MR. NOCHO,start_answer
+226,733,28,9,"Well, I'm looking for the quality of the work.  I want to see that they are doing the work that they are supposed to be doing.  I'm looking at the relationship they have with the family.  I'm looking at compliance, you know.  Have they seen the child, have they assessed for safety, do they know the services that the child is involved with and are they following up, did they get their assessments done in the prescribed timeframes?  All of those things go in to --",a,THE WITNESS,start_question
+227,744,28,20,And then I'm guessing you would make recommendations based on where they were meeting those guidelines or not meeting those guidelines?,q,MR. NOCHO,start_answer
+228,748,28,24,"Yeah.  We would talk about the direction moving forward.  These are the things that need to get done, this is the direction that we're going.  You're always -- I mean, as I said in the beginning, you're always looking at the safety issues, is this child safe? You're always looking at where we are going in terms of permanency because you're dealing with the law.  The law says that the child needs a permanent -- there needs to be movement towards permanency.  So we're working on permanency all the time.  So depending on the case, where are we in terms of establishing some kind of permanent situation for that child.",a,THE WITNESS,start_question
+229,763,29,13,"And as a supervisor, to make that determination about permanency, what are you relying on?  Documents, conversations?",q,MR. NOCHO,start_answer
+230,766,29,16,"Yeah.  I mean, you're relying on the conversation, you're relying on the, say, the family's compliance with things.  You have court oversight so that you've got the tools. The tools of the work have to do with the court and what the court is asking, say, of the family and of the CUA or of anybody that's working towards the permanency for this case. Plus, you also have a Single Case Plan.  That's to be developed for each family, and it's generally every six months that you have that plan.  That's supposed to be for everybody to be on the same page as to where this case is moving forward.",a,THE WITNESS,start_question
+231,781,30,5,So the Single Case Plan would have the goals for the family?,q,MR. NOCHO,start_answer
+232,783,30,7,"Yeah.  The goals, objectives to work on, yes, and the child if they are over 14.",a,THE WITNESS,start_question
+233,786,30,10,"So the child, parents or caretakers of the --",q,MR. NOCHO,start_answer
+234,788,30,12,"They are invited to this meeting, yes.",a,THE WITNESS,start_question
+235,790,30,14,So there is a meeting to develop this Single Case Plan?,q,MR. NOCHO,start_answer
+236,792,30,16,Yes.,a,THE WITNESS,start_question
+237,793,30,17,"And you said that's updated every six months, is that what you said?",q,MR. NOCHO,start_answer
+238,795,30,19,"Yes.  Back in 2016, we were having those conferences every three months. That's changed to every six months.  The expectation is that the Single Case Plan had to be done every six months.  It could be done at that three month time if there was a significant change, but generally it would be every six months.",a,THE WITNESS,start_question
+239,804,31,2,How soon after a case was assigned to the CUA would a Single Case Plan be developed?,q,MR. NOCHO,start_answer
+240,807,31,5,"It doesn't happen -- it was a little slow at times as we were trying to figure it out.  The permanency teaming meetings are run by DHS so they schedule them.  In general, I would say within three to four weeks it would happen, plus or minus.",a,THE WITNESS,start_question
+241,813,31,11,"When you say it, do you mean the teaming meeting or the plan?",q,MR. NOCHO,start_answer
+242,815,31,13,The teaming meeting to develop the goals and objectives for the plan.  Then the Case Manager and the Case Management Supervisor have ten days to put that into writing for the Single Case Plan.,a,THE WITNESS,start_question
+243,820,31,18,"So within a month of receiving the case, usually there would be a Single Case Plan?",q,MR. NOCHO,start_answer
+244,823,31,21,In general.,a,THE WITNESS,start_question
+245,824,31,22,Was this set by any requirements by DHS or the agency's policies?,q,MR. NOCHO,start_answer
+246,826,31,24,"My understanding is that they're supposed to have it within about three weeks. In practice, it is when it is and then we have ten days, CUA has ten days, to get it in place.",a,THE WITNESS,start_question
+247,831,32,3,So would it affect your ability to provide CUA Services if you didn't have the Single Case Plan?,q,MR. NOCHO,start_answer
+248,834,32,6,"Not really.  You develop a tentative plan the day you get the case.  In terms of reading the case, you would want to know what you think is going on.  You're already getting information in the referral that comes through DHS.  They are in a way prescribing some things that look like we're going to move forward with, and then we're making contact with the child, we're trying to make contact with the parent.  So you're already gathering information that you're really going to bring to the Single Case Plan teaming meeting.  You're already working the case.",a,THE WITNESS,start_question
+249,848,32,20,"And when you say you, do you mean the Case Manager?",q,MR. NOCHO,start_answer
+250,850,32,22,Yeah.  Under direction of the Case Manager and supervisor.,a,THE WITNESS,start_question
+251,852,32,24,Just to go back a second.  You talked about individual and team meetings with the Case Managers; is that right?,q,MR. NOCHO,start_answer
+252,856,33,2,In terms of the teaming meetings?,a,THE WITNESS,start_question
+253,858,33,4,"Correct.  Oh, no, no.  Just supervision meetings.",q,MR. NOCHO,start_answer
+254,860,33,6,"Oh, supervision.  Yes.",a,THE WITNESS,start_question
+255,861,33,7,About how often would you have the individual supervision meetings?,q,MR. NOCHO,start_answer
+256,863,33,9,"You try to do it weekly.  You probably average, you know -- I don't mean weekly.  You try to do it a little bit more often, but it's probably monthly.",a,THE WITNESS,start_question
+257,867,33,13,"The group meetings with the Case Managers, about how often would they happen?",q,MR. NOCHO,start_answer
+258,869,33,15,"The agency would like them to happen every month.  My team, we average probably every other month.  It's very difficult.  Our staff are all over in the field.",a,THE WITNESS,start_question
+259,874,33,20,"You mentioned talking about different, like, policies or practice pointers in those meetings.  What is an example of one of those?",q,MR. NOCHO,start_answer
+260,878,33,24,"Say there is a new guideline that comes down from DHS, we would review that. If there is an internal policy change with Catholic Community Services, we would look at that.  We are tracked by DHS.  So there is what they call a scorecard.  We're always looking at scorecard issues because that's sort of a barometer of how we're doing. If we get a high score, that's a way to say thank you to the staff.  If we get a lower score, it's, like, all right, how are we going to address this and how are you thinking about this?  How can we do this as a team, how do we correct something along?",a,THE WITNESS,start_question
+261,893,34,13,So the scorecard is developed by DHS?,q,MR. NOCHO,start_answer
+262,895,34,15,Yes.,a,THE WITNESS,start_question
+263,896,34,16,Does the scorecard measure compliance with DHS requirements?,q,MR. NOCHO,start_answer
+264,898,34,18,Yes.,a,THE WITNESS,start_question
+265,899,34,19,"Is it, like, an A to F scale?",q,MR. NOCHO,start_answer
+266,900,34,20,"It's a 0, 1, or 2 scale.",a,THE WITNESS,start_question
+267,901,34,21,What does one represent on the scale?,q,MR. NOCHO,start_answer
+268,903,34,23,Partial compliance.,a,THE WITNESS,start_question
+269,904,34,24,So I guess --,q,MR. NOCHO,start_answer
+270,905,34,25,"For example, Single Case Plan is developed, one point.  Single Case Plan is done within the ten day timeframe, two points. Single Case Plan isn't done within the ten day timeframe, then you're going to get a one.  If there is no Single Case Plan, zero.",a,THE WITNESS,start_question
+271,912,35,6,So the different areas of where the CUA is graded is on this scorecard?,q,MR. NOCHO,start_answer
+272,914,35,8,"Many areas, yes.",a,THE WITNESS,start_question
+273,915,35,9,You talked about the Single Case Plan has one type of document that you would review as a Case Manager.  Are there any other types of documents the Case Managers would create that you would review as a supervisor?,q,MR. NOCHO,start_answer
+274,920,35,14,"Yeah.  Many documents.  You have the Single Case Plan, every note that they enter in -- it's an electronic record -- every note that they enter into the record has to be reviewed and approved by the Case Management Supervisor.  Their assessments, there is a risk assessment, safety assessment.  There is a FAST.  There is a CANS.  There are four main assessment tools that have to be reviewed. If there is a safety plan that's needed, that also has to be signed off by the Case Management Supervisor.  There is a number of referable actions that we take that have to be -- that can't move forward without approval by the Case Management Supervisor.  It could be prevention services for a placement.  All of those referrals need Case Management Supervisor approval.",a,THE WITNESS,start_question
+275,939,36,7,"And all these documents, you said they were electronic?",q,MR. NOCHO,start_answer
+276,941,36,9,"No.  The Single Case Plan, the structure progress notes, which are the notes that the workers put in about their contacts with any client or if they get collateral information, like, an e-mail or something that's relevant to the case, they are going to put that in there.  The risk assessment, the safety assessment, they are all -- CANS and the FAST, they are all documents that are in there. The CUA provider referral is in there, referrals for prevention services. There are some referables for, like, in adoption cases.  The SWAN Referral is a paper. It's a paper referral that a case management supervisor signs off on and then is forwarded. Then that gets uploaded as a document into the file.  But some of them are, you know, the forms.  The only way you can address the forms is on the electronic record.  For example, if a worker goes out and sees a child in a foster home, they come back and they have to write a note about that contact.  It's a structured note.  It's the same note for every entry. They finish that off and then it sits in a queue for me or for the Case Management Supervisor to approve.  It sits there until a Case Management Supervisor approves it and puts it into the record.",a,THE WITNESS,start_question
+277,970,37,12,"When the Case Managers do these visits, they also have to complete notes for seeing children in a placement facility?",q,MR. NOCHO,start_answer
+278,973,37,15,"Yes, they do.",a,THE WITNESS,start_question
+279,974,37,16,"So you mentioned foster homes, placement facilities, I guess, also if they went to the parent's home to visit the child?",q,MR. NOCHO,start_answer
+280,977,37,19,"Yes.  For in-home cases, yes.",a,THE WITNESS,start_question
+281,978,37,20,About how long after they make the visit do they need to complete the note?,q,MR. NOCHO,start_answer
+282,980,37,22,"Well, they say within six days. Sometimes it happens, sometimes it doesn't.",a,THE WITNESS,start_question
+283,982,37,24,What affects whether it happens or it does not happen?,q,MR. NOCHO,start_answer
+284,985,38,1,"The workers dedication to the job.  Their organization, their schedule, what interferes with getting it done, a variety of things.",a,THE WITNESS,start_question
+285,989,38,5,Did you ever review any documents or notes created by Selara Harris when she was working with the agency?,q,MR. NOCHO,start_answer
+286,992,38,8,No.,a,THE WITNESS,start_question
+287,993,38,9,"These documents clear on the case, they are typically uploaded to the Electronic Case Management System?",q,MR. NOCHO,start_answer
+288,996,38,12,"Yeah.  I mean, like, some of the documents are in the system and when you approve them they're approved within the system.",a,THE WITNESS,start_question
+289,1000,38,16,Would you as a supervisor make home visits or placement visits?,q,MR. NOCHO,start_answer
+290,1002,38,18,Yes.,a,THE WITNESS,start_question
+291,1003,38,19,When would you make those kinds of visits?,q,MR. NOCHO,start_answer
+292,1005,38,21,"I would do it to -- if I had a worker that was out and I needed to cover.  So someone calls up sick and they had an appointment and it needed to be done, you would go into a situation like that.  You would go when a worker said, I'm having a difficult time with this family.  I want another person with me when I go.  Very occasionally, it would be for, like, a safety concern if someone was concerned.  It might be that it's a complicated case or sensitive issue that needs to addressed with the family and they want some additional support.  You know, if as an agency we felt like we needed an extra pair of eyes on a family situation, we would do that.  It's not a regular part of the job, but it certainly can happen.  Sometimes it's just to meet the families.",a,THE WITNESS,start_question
+293,1024,39,14,Did you ever complete any home or placement visits on Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+294,1026,39,16,No.,a,THE WITNESS,start_question
+295,1027,39,17,Do you ever attend Dependency Court for the case children as a supervisor?,q,MR. NOCHO,start_answer
+296,1029,39,19,Yes.,a,THE WITNESS,start_question
+297,1030,39,20,What would your role be in attending court as a supervisor?,q,MR. NOCHO,start_answer
+298,1032,39,22,"Well, it could be various.  One would be to cover the case.  If I had a worker that's out or if, say, a worker changed, if I had been working a case with a worker for over a year and then that person resigned and took another job and then I have a brand new Case Manager who has only been on that case for a month, I would go to court and I would testify. I would go out to see that family and the child or that child because that's the safety -- I would see the child so I could testify to safety. Then I would go and present the case for our agency in court.  I would go to support, like, a new staff person that's just learning the ropes in court.  We're going to prep for court.  Then I'm going to go with him or her to support them in court.  My role in that situation could be to supplement what the Case Manager is saying because I have continuity with the case.",a,THE WITNESS,start_question
+299,1054,40,18,Were you ever ordered by the court to appear as a supervisor along with the Case Manager in a case?,q,MR. NOCHO,start_answer
+300,1057,40,21,Yes.  Once.,a,THE WITNESS,start_question
+301,1058,40,22,What was the circumstances of that instance?,q,MR. NOCHO,start_answer
+302,1060,40,24,"Well, the judge didn't like an answer that the Case Manager gave.  He felt like she didn't know the answer and was upset. He asked that I attend the next hearing.  I attended the next hearing and nothing about it came up.",a,THE WITNESS,start_question
+303,1067,41,5,Did you ever attend any court hearings for Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+304,1069,41,7,No.,a,THE WITNESS,start_question
+305,1070,41,8,Before you mentioned having two different Case Management Directors that you reported to.  Would you similarly kind of regularly meet with them like you had with your Case Managers?,q,MR. NOCHO,start_answer
+306,1075,41,13,Yes.,a,THE WITNESS,start_question
+307,1076,41,14,How often would you meet with their Case Manager Directors?,q,MR. NOCHO,start_answer
+308,1078,41,16,"Once a month.  Like, for a formal meeting.  I would talk to them all the time, but for a formal meeting, once a month.",a,THE WITNESS,start_question
+309,1081,41,19,What would you discuss at those formal meetings?,q,MR. NOCHO,start_answer
+310,1083,41,21,"Personnel.  You know, what's going on with the staff on the team, any issues that I might have, how they are doing positively and negatively.  You would talk about anything that's new related to policies and procedures, and you would, depending on what we're -- so there could be problematic cases that needed to be reviewed.  Although, often times those get reviewed in between. Those situations don't wait.  Often it's to really focus, give you time to sit back and think on, like, the permanency issue.  Like, which cases are headed towards adoption, which cases are working to be reunified with their families, are there systemic things that are going on here that we need to address to move this process along.",a,THE WITNESS,start_question
+311,1101,42,13,Would you create any notes based on that meeting or would the Case Manager Director make any notes based on that meeting?,q,MR. NOCHO,start_answer
+312,1104,42,16,"Alan Speed would create notes sometimes.  I would keep handwritten notes for myself, but there is no documentation.  There is no formal documentation process for those meetings.",a,THE WITNESS,start_question
+313,1109,42,21,Is there a formal documentation process for the supervisor and Case Manager meetings?,q,MR. NOCHO,start_answer
+314,1112,42,24,"Yes.  Because in the electronic record, each case has to be discussed with the worker monthly so that there is a supervisory note in the electronic record monthly about the case.",a,THE WITNESS,start_question
+315,1118,43,4,But there isn't something similar for the supervisor director meetings?,q,MR. NOCHO,start_answer
+316,1120,43,6,No.,a,THE WITNESS,start_question
+317,1121,43,7,Do you ever recall discussing Taj'anae Siler's case with either Mr. Speed or Ms. Andrews?,q,MR. NOCHO,start_answer
+318,1124,43,10,"I did not, no.",a,THE WITNESS,start_question
+319,1125,43,11,I'm referring to those regular meetings.,q,MR. NOCHO,start_answer
+320,1127,43,13,No.,a,THE WITNESS,start_question
+321,1128,43,14,"Did you ever have an individual meeting with Selara Harris about Ms. Siler's case, a supervision meeting?",q,MR. NOCHO,start_answer
+322,1131,43,17,No.,a,THE WITNESS,start_question
+323,1132,43,18,How did you first start working on Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+324,1134,43,20,"I think I touched that case twice.  The first time I got a call from -- I never quite know his role, but, like, a person that would sort of problem solve for DHS and CBH.  I got a call one day just from him because when I was at Saint Francis and we had a lot of dealings with CBH.  This is an employee for that system that has been around a long time, knows me, and knew I was at Catholic Community Services.  He called me because he wanted to know, like, who was the contact at our agency for the case.  I think there was a situation.  You know, they were trying to deal with her situation.",a,THE WITNESS,start_question
+325,1149,44,9,"When you say her, who do you mean?",q,MR. NOCHO,start_answer
+326,1151,44,11,"Taj'anae.  They were trying to work on that case.  I mean, that's how I got involved with that case.  My role in that was, I'm just an alternate supervisor at that time. The supervisor and the worker were not in the agency.  I fielded that call.  I don't recall exactly what I did, but what I would have done was inform them who the supervisor is, who the worker is, what the status is about those things so that the system knew, you know, they were reaching out to our agency to get some contact.  I would pass that information on to him.",a,THE WITNESS,start_question
+327,1164,44,24,Do you recall the name of the person at CBH?,q,MR. NOCHO,start_answer
+328,1167,45,1,Yeah.  Tom Zechiel.,a,THE WITNESS,start_question
+329,1168,45,2,Would it be Tim?,q,MR. NOCHO,start_answer
+330,1169,45,3,Tim.  Thank you.,a,THE WITNESS,start_question
+331,1170,45,4,You said you previously dealt with him through your work at Saint Francis?,q,MR. NOCHO,start_answer
+332,1172,45,6,Yes.,a,THE WITNESS,start_question
+333,1173,45,7,Was this your work for the RTF Program?,q,MR. NOCHO,start_answer
+334,1175,45,9,"Generally would have been in RTF, yes.",a,THE WITNESS,start_question
+335,1177,45,11,How was Mr. Zechiel involved in the RTF Program?,q,MR. NOCHO,start_answer
+336,1179,45,13,"I think he was just a problem solver.  If there was something going on that was creating some difficulty, he was a problem solver.",a,THE WITNESS,start_question
+337,1183,45,17,What are some examples of problems that would arise with the RTF that CBH would get involved?,q,MR. NOCHO,start_answer
+338,1186,45,20,"They could be any number of things.  One could be clarity about where we are with evaluations, what somebody is recommending, what's happening with the authorization process because services with CBH have to be prior authorized.  Sometimes negotiating those issues, like, where is it in the system.  He could problem solve those things.  Sometimes you have to have somebody outside the system to dig in a little bit to find out, like, what's going on procedurally.",a,THE WITNESS,start_question
+339,1198,46,6,What's involved in the authorization process that you mentioned?,q,MR. NOCHO,start_answer
+340,1200,46,8,For RTF?,a,THE WITNESS,start_question
+341,1201,46,9,Yes.,q,MR. NOCHO,start_answer
+342,1202,46,10,"Well, RTF is a specialized program and it requires medical necessity.  So for a young person to receive RTF Services, there has to be a psychiatric evaluation indicating the medical necessity for RTF Services.  That means that a psychiatrist has to be located, assessment has to take place, the documentation has to be written, and if it recommends medical necessity for RTF Services, then that's the document that then has to go to CBH.  CBH then has to approve that. I believe the CBH process is that two doctors have to approve it. Basically, you're going to have the referring doctor and the medical director looking at that and making a decision as to whether or not RTF Services are going to be in place.",a,THE WITNESS,start_question
+343,1220,47,2,"When you say medical director, who employees this medical director?",q,MR. NOCHO,start_answer
+344,1222,47,4,CBH.,a,THE WITNESS,start_question
+345,1223,47,5,What role did you play in the process as the Director at Saint Francis?,q,MR. NOCHO,start_answer
+346,1225,47,7,For RTF?,a,THE WITNESS,start_question
+347,1226,47,8,Yeah.,q,MR. NOCHO,start_answer
+348,1227,47,9,"Ensuring that the evaluations were done in the timeframes so that if you were looking for continued RTF Services, that the evaluation was done within the timeframes, the evaluation met the standards, and that medical necessity was indicated.  Then that document and all supporting paperwork would go to CBH.",a,THE WITNESS,start_question
+349,1234,47,16,"After medical necessity was found and CBH also approved, what would be the next step in the process?",q,MR. NOCHO,start_answer
+350,1237,47,19,CBH would locate an RTF placement.,a,THE WITNESS,start_question
+351,1239,47,21,"When you say RTF, would that be a Residential Treatment Facility?",q,MR. NOCHO,start_answer
+352,1241,47,23,Yes.,a,THE WITNESS,start_question
+353,1242,47,24,"How would that facility differ from, for instance, the residential program you had under your supervision at Saint Francis?",q,MR. NOCHO,start_answer
+354,1246,48,2,"Well, the easiest way is to say there is more support.  The support is more clinical support.  The therapist is going to -- an example would be, in the residential program you might have an outpatient therapist, and the child would go to see the outpatient therapist. In an RTF Program, that therapist would meet with the child more than once.  Outpatient would be once a week. In RTF, a child might see the therapist two to three times a week.  The therapist would be part of the team and go to the team meetings.  The therapist would have a relationship with the staff, a close relationship with the staff, so that there is a much more intense team work approach in RTF. It's designed to be therapeutic.  It's designed to support the child with the needs as identified by the psychiatric evaluation. It was determined that they need, like, the clinical services.  They need the support of mill youth therapy that goes with an RTF.  The psychiatric oversight is more intense in terms of medication and regular contact with the psychiatrist.  For example, if it was in the residential program, the child might only see the psychiatrist every six months.  In a residential program, that child is going to see the psychiatrist every month. Those are examples.",a,THE WITNESS,start_question
+355,1277,49,7,"And then just to go back to the phone call that you mentioned from Mr. Zechiel, is it?",q,MR. NOCHO,start_answer
+356,1280,49,10,Zechiel.,a,THE WITNESS,start_question
+357,1281,49,11,"Other than trying to figure out the contact person at the agency for Ms. Siler, did you discuss anything else with him?",q,MR. NOCHO,start_answer
+358,1284,49,14,"I don't recall except that I can imagine that he said that there was some issue that was being discussed.  You know, that someone, probably the Bridge, had called him with their concerns.",a,THE WITNESS,start_question
+359,1289,49,19,"Before this phone call, had you previously dealt with the Bridge on other cases?",q,MR. NOCHO,start_answer
+360,1292,49,22,"Not while I was at the CUA.  I'm sure over the years I had dealings, but the Bridge program has changed over the years.  I had contact with the Bridge, but not recently. I mean, I have had contact since, but from when I started as a CUA Supervisor until this incident with the situation which Tim called me, I had no contact with the Bridge.",a,THE WITNESS,start_question
+361,1301,50,5,You said the regular Case Manager and supervisor were not at the agency that day?,q,MR. NOCHO,start_answer
+362,1304,50,8,That's what I recall.,a,THE WITNESS,start_question
+363,1305,50,9,Do you know if they were on vacation or were they just out of the office?,q,MR. NOCHO,start_answer
+364,1307,50,11,"I don't know for sure.  I think somebody was on vacation and someone was out of the office, but I really don't know.",a,THE WITNESS,start_question
+365,1310,50,14,"So the regular Case Manager, that was Selara Harris?",q,MR. NOCHO,start_answer
+366,1312,50,16,Yes.,a,THE WITNESS,start_question
+367,1313,50,17,"And the regular supervisor, that was Theresa Hamlett?",q,MR. NOCHO,start_answer
+368,1315,50,19,Yes.,a,THE WITNESS,start_question
+369,1316,50,20,Did you ever have any discussions or phone calls with Theresa Hamlett about this contact with Mr. Zechiel?,q,MR. NOCHO,start_answer
+370,1319,50,23,"I don't think so unless it was in passing, but, no.  I don't think so.  I think I sent an e-mail to update her.",a,THE WITNESS,start_question
+371,1323,51,1,"Did you have any conversations with your director, Alan Speed, about this contact?",q,MR. NOCHO,start_answer
+372,1326,51,4,I don't know.  I don't think so. I think my communication on this was e-mail.,a,THE WITNESS,start_question
+373,1328,51,6,You mentioned touching the case at another instance as well.  What do you recall about that?,q,MR. NOCHO,start_answer
+374,1331,51,9,"Well, what I recall about that was Theresa Hamlett came to me when the medical examiners office had called her when they had located Taj'anae or they figured out -- they had Taj'anae.  They just couldn't figure out what the connection was.  They made the connection to Theresa and she hadn't been in the position a long time.  I don't know how long she had been in the position. She was also -- this was a totally new situation for her and she recently had a death, something in her family. Emotionally it was hard for her so she came to me and I helped her.  I supported her in terms of what needed to be done in that situation.  I just know that -- I mean, I knew what needed to be done in terms of notification.  I made sure that we notified our chain of command, the DHS chain of command, so that everybody was up-to-date. I made sure that we were documenting everything that was happening, worked with her to setup the time for the medical examiners office to come talk to her so that there could be some identification confirmation.  Then it continued in terms of support.  We went to the family with the medical examiner out to the mom's house.  Then Theresa and I went to Taj'anae's funeral. That's the basic outline of what I did in that situation.",a,THE WITNESS,start_question
+375,1363,52,15,Who was involved in the agency's chain of command that you mentioned?,q,MR. NOCHO,start_answer
+376,1365,52,17,"That would have been Alan Speed and Theresa Thompson, our administrator, James Black, who is the CSS Administrator that oversees our program, and I'm sure I put James Amado on there.  He is head of -- I don't know his exact title, he's CSS.  He's over Jim Black.  He's the top person for us in terms of social services at Catholic Social Services.",a,THE WITNESS,start_question
+377,1373,52,25,So Catholic Social Services oversees the work of Catholic Community Services.  Is that what you're saying?,q,MR. NOCHO,start_answer
+378,1377,53,3,Yes.,a,THE WITNESS,start_question
+379,1378,53,4,Who was involved in the DHS chain of command that you contacted?,q,MR. NOCHO,start_answer
+380,1380,53,6,"I'm just going to -- probably Kim Ali.  I know for sure I would send it to her.  It could have been Stacey Boyd, possibly. I think Shapiro and maybe Figueroa.  I'd have to look at my e-mail to know, but those are the top people that would have -- some of those people I notified.  Probably most of them.",a,THE WITNESS,start_question
+381,1387,53,13,Were you communicating with the DHS chain of command through e-mail or phone?,q,MR. NOCHO,start_answer
+382,1389,53,15,"Yes, e-mail.  I can't recall if I called Kim Ali or not.  I've known her for a long time so I might of.  I probably did, but I really can't recall that.",a,THE WITNESS,start_question
+383,1393,53,19,"Then the agency's chain of command, was that mainly through e-mail or through phone as well?",q,MR. NOCHO,start_answer
+384,1396,53,22,"I'm going to say e-mail.  I mean, I don't recall.  I'm sure I talked about it with Alan and Theresa, but I don't fully recall that.",a,THE WITNESS,start_question
+385,1401,54,1,"When you say talked, you mean, like, in person, e-mail, or by phone?",q,MR. NOCHO,start_answer
+386,1403,54,3,"Well, I mean, I communicated by e-mail for sure.  I'm sure I talked -- I mean, I know how I would work.  I would talk to Alan. Theresa probably said something to me.",a,THE WITNESS,start_question
+387,1407,54,7,What was your e-mail address during that time?,q,MR. NOCHO,start_answer
+388,1409,54,9,BDutton@CHS-adphila.org,a,THE WITNESS,start_question
+389,1410,54,10,And that's your work e-mail?,q,MR. NOCHO,start_answer
+390,1411,54,11,"Yes, it is.",a,THE WITNESS,start_question
+391,1412,54,12,"During the time you were responding to the death of Taj'anae Siler, did you speak with the medical examiner or anyone from the medical examiner's office?",q,MR. NOCHO,start_answer
+392,1416,54,16,"Yes.  I don't know what his role -- just the staff member that was assigned to the case.  Maybe it's the investigator.  I guess that's what it would be.  The investigator came to the agency.  Theresa and I met with him as he showed -- I mean, I just went to support her.  He showed her pictures, which she -- and I think Selara was there and they confirmed that that was Taj'anae.",a,THE WITNESS,start_question
+393,1425,54,25,Did you also see the pictures?,q,MR. NOCHO,start_answer
+394,1427,55,1,I didn't see the pictures.,a,THE WITNESS,start_question
+395,1428,55,2,Did the staff member or someone else from the medical examiner's office tell you the cause of death?,q,MR. NOCHO,start_answer
+396,1431,55,5,I vaguely remember it was drug related.,a,THE WITNESS,start_question
+397,1433,55,7,"Do you remember hearing anything about it being related to any trauma, physical trauma?",q,MR. NOCHO,start_answer
+398,1436,55,10,No.,a,THE WITNESS,start_question
+399,1437,55,11,Did either Theresa or Selara mention seeing any bruising or burning on Taj'anse's body?,q,MR. NOCHO,start_answer
+400,1440,55,14,I don't recall.,a,THE WITNESS,start_chat
+401,1441,55,15,Let's take a brief five minute break.,side_chat,MR. NOCHO,symbols
+402,1443,55,17,- - -,symbols,,is brackets
+403,1444,55,18,"(Whereupon, a brief recess was taken.)",brackets,,symbols
+404,1446,55,20,- - -,symbols,,start_question
+405,1448,55,22,"Mr. Dutton, I just want to ask you some questions about some documents that we had received from your counsel.",q,MR. NOCHO,start_answer
+406,1451,55,25,Sure.,a,THE WITNESS,start_chat
+407,1453,56,1,I'll mark the first one as Exhibit-1.,side_chat,MR. NOCHO,symbols
+408,1455,56,3,- - -,symbols,,is brackets
+409,1456,56,4,"(Whereupon, Exhibit-1 was marked for identification.)",brackets,,symbols
+410,1458,56,6,- - -,symbols,,start_question
+411,1460,56,8,"Just take a look and read through this, and I'm going to ask you some questions about it.",q,MR. NOCHO,start_answer
+412,1463,56,11,Okay.,a,THE WITNESS,start_question
+413,1464,56,12,If I can direct you to the very first e-mail on the chain.  It's on the second to last page with the number CSS000672 in the corner.  Do you see that one?,q,MR. NOCHO,start_answer
+414,1468,56,16,Uh-uh.,a,THE WITNESS,start_question
+415,1469,56,17,That e-mail is from Hilary Sees?,q,MR. NOCHO,start_answer
+416,1470,56,18,Yes.,a,THE WITNESS,start_question
+417,1471,56,19,"Before receiving this e-mail from Ms. Sees, had you ever dealt with her at the Bridge?",q,MR. NOCHO,start_answer
+418,1474,56,22,No.,a,THE WITNESS,start_question
+419,1475,56,23,Had you dealt with anyone else at the Bridge before?,q,MR. NOCHO,start_answer
+420,1477,56,25,No.,a,THE WITNESS,start_question
+421,1479,57,1,So you see Tim is copied on this e-mail as well and he's the person you mentioned before?,q,MR. NOCHO,start_answer
+422,1482,57,4,Yes.,a,THE WITNESS,start_question
+423,1483,57,5,Right next to his name you see Jenny Midence?,q,MR. NOCHO,start_answer
+424,1485,57,7,Yes.,a,THE WITNESS,start_question
+425,1486,57,8,Had you ever dealt with her before?,q,MR. NOCHO,start_answer
+426,1488,57,10,No.,a,THE WITNESS,start_question
+427,1489,57,11,"After this point, did you ever have any conversations with Ms. Midence?",q,MR. NOCHO,start_answer
+428,1491,57,13,Not that I'm aware of.,a,THE WITNESS,start_question
+429,1492,57,14,And then next to Mr. Zechiel's name you see jcbruch@yahoo.com.,q,MR. NOCHO,start_answer
+430,1494,57,16,"That's a child advocate attorney, I believe.  I mean, he's one of the attorneys in the system.",a,THE WITNESS,start_question
+431,1497,57,19,"Have you dealt with, I guess, Mr. Bruch before?",q,MR. NOCHO,start_answer
+432,1499,57,21,"Yes.  Because he's been on cases that I have, yes.",a,THE WITNESS,start_question
+433,1501,57,23,Okay.  Did you speak to him at all about Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+434,1503,57,25,No.,a,THE WITNESS,start_question
+435,1505,58,1,"And then I see in the to line, two different people that appear to work at the CUA.  There is you, Ms. Harris, and then Constance Gilmore; is that correct?",q,MR. NOCHO,start_answer
+436,1509,58,5,Yes.  Constance was not there at the time.  That's why I took her off in the e-mail above.,a,THE WITNESS,start_question
+437,1512,58,8,"When you say she wasn't there at the time, was she working at the agency --",q,MR. NOCHO,start_answer
+438,1514,58,10,"No, she wasn't.  I believe she was not.",a,THE WITNESS,start_question
+439,1516,58,12,Okay.,q,MR. NOCHO,start_answer
+440,1517,58,13,"I don't know when she left, but I wouldn't take her off if she was...",a,THE WITNESS,start_question
+441,1519,58,15,"Still working at the agency, is that what you meant to say?",q,MR. NOCHO,start_answer
+442,1521,58,17,"I don't know.  I can't answer that.  At some point, she left the agency whether she was there or not.  This would have been at the Verree office and Constance was at the CORA office.",a,THE WITNESS,start_question
+443,1526,58,22,What was Constance's position at the agency?,q,MR. NOCHO,start_answer
+444,1528,58,24,Case Management Director.  She was a comparable position to Alan Speed just at a different office.,a,THE WITNESS,start_question
+445,1532,59,2,"If you look at the second paragraph in that e-mail, could you read that paragraph.",q,MR. NOCHO,start_answer
+446,1535,59,5,There have been several meetings?,a,THE WITNESS,start_question
+447,1537,59,7,Yes.,q,MR. NOCHO,start_answer
+448,1538,59,8,"Sure.  There have been several meetings at this point, which Fairmount has tried to setup including all parties to attempt to come up with a plan for T.S.  Not only have multiple meetings occurred now for T.S., that included the CBH, the Bridge, parents, and Fairmount, but multiple meetings have been attempted to be setup as well.  Phone conferences occurred on 7/5, 7/6, and 7/7.  As CUA was not present in any of these meetings, an e-mail was sent to CUA worker, Ms. Harris on 7/7, which asked for CUA participation in a meeting on 7/11.  There was a read receipt on e-mail, but no response or attendance to the meeting.  To this date, we have not heard back from CUA regarding this client.  As was previously expressed, we had some concerns regarding this child and our inability to reach/have support from CUA makes it even more concerning.",a,THE WITNESS,start_question
+449,1559,60,3,"Where it reads we had some concerns regarding this child, do you know what concerns Ms. Sees is mentioning?",q,MR. NOCHO,start_answer
+450,1562,60,6,No.,a,THE WITNESS,start_question
+451,1563,60,7,"Do you know if the Bridge or Ms. Sees contacted also the regular supervisor on the case, Theresa Hamlett?",q,MR. NOCHO,start_answer
+452,1566,60,10,I don't know.,a,THE WITNESS,start_question
+453,1567,60,11,"After seeing this e-mail, did you reach out to Selara Harris?",q,MR. NOCHO,start_answer
+454,1569,60,13,No.  She was on vacation so I sent this e-mail to include her.,a,THE WITNESS,start_question
+455,1571,60,15,"So the next e-mail on the chain, that's what you're referring to?",q,MR. NOCHO,start_answer
+456,1573,60,17,"Yes.  I mean, I was documenting that she was involved.  When I got involved, so like, my e-mail would include the worker and the supervisor and the Director.  I mean, I was communicating to them.  But, I mean, I didn't speak to Selara because she wasn't -- she was on vacation.",a,THE WITNESS,start_question
+457,1580,60,24,How do you know that she was on vacation at that time?,q,MR. NOCHO,start_answer
+458,1583,61,1,"I probably, when I got the call, went running around the office and asked, you know, is Selara here and someone was able to tell me she was on vacation.",a,THE WITNESS,start_question
+459,1587,61,5,"So she was on vacation at the time you sent this e-mail, I guess, that would be July 14, 2016?",q,MR. NOCHO,start_answer
+460,1590,61,8,I believe so.,a,THE WITNESS,start_question
+461,1591,61,9,Do you know if she was also on vacation the week before during 7/5 --,q,MR. NOCHO,start_answer
+462,1593,61,11,I don't know.,a,THE WITNESS,start_question
+463,1594,61,12,I'm sorry.  Could you wait to answer until I finish.,q,MR. NOCHO,start_answer
+464,1596,61,14,Yes.,a,THE WITNESS,start_question
+465,1597,61,15,"Do you know if Selara Harris was also on vacation 7/5, 7/6, or 7/7?",q,MR. NOCHO,start_answer
+466,1599,61,17,My understanding was she was on vacation the week that we were involved with -- that's what I wrote in my e-mail so I assume that was the week.  I don't know what those dates are.  I would have to look.,a,THE WITNESS,start_question
+467,1604,61,22,So she was on vacation both at the time that you sent the e-mail and the week before?  Is that what you're saying?  I'm just trying to understand.,q,MR. NOCHO,start_answer
+468,1609,62,1,"When I sent the e-mail, I don't know what day of the week it was.  Say it was a Tuesday.  That week it was a Tuesday, she was on vacation.",a,THE WITNESS,start_question
+469,1613,62,5,But you don't know if she was on vacation also the previous week?,q,MR. NOCHO,start_answer
+470,1615,62,7,I don't know.,a,THE WITNESS,start_question
+471,1616,62,8,Okay.  Do you know if Theresa Hamlett was also on vacation the previous week?,q,MR. NOCHO,start_answer
+472,1618,62,10,I don't know.,a,THE WITNESS,start_question
+473,1619,62,11,Did you ever supervise Ms. Harris on any of her cases?,q,MR. NOCHO,start_answer
+474,1621,62,13,Never.,a,THE WITNESS,start_question
+475,1622,62,14,Did you have a discussion with Theresa Hamlett about Selara Harris' work as a Case Manager on any cases?,q,MR. NOCHO,start_answer
+476,1625,62,17,No.,a,THE WITNESS,start_question
+477,1626,62,18,"Were you involved in any, for instance, job performance evaluations for Ms. Harris?",q,MR. NOCHO,start_answer
+478,1629,62,21,No.,a,THE WITNESS,start_question
+479,1630,62,22,"So in that e-mail that you sent that you pointed to on that same page, there is a line that says, I will attempt to open lines of communication.  Do you see that?",q,MR. NOCHO,start_answer
+480,1635,63,1,"Oh, yes.",a,THE WITNESS,start_question
+481,1636,63,2,Okay.  What did you mean when you said you would attempt to open lines of communication?,q,MR. NOCHO,start_answer
+482,1639,63,5,"That I was going to do what I did, which is to notify everybody.",a,THE WITNESS,start_question
+483,1641,63,7,And when you say everybody --,q,MR. NOCHO,start_answer
+484,1642,63,8,"That I was going to notify the Case Manager, the Case Management Supervisor, the Case Management Director.",a,THE WITNESS,start_question
+485,1645,63,11,Did you have a phone call after this e-mail with personnel at the Bridge?  So for instance --,q,MR. NOCHO,start_answer
+486,1648,63,14,I did not.,a,THE WITNESS,start_question
+487,1649,63,15,Are you aware of any other instances where people at the Bridge were having trouble reaching Ms. Harris?,q,MR. NOCHO,start_answer
+488,1652,63,18,No.,a,THE WITNESS,start_question
+489,1653,63,19,If you turn the page to the previous page --,q,MR. NOCHO,start_answer
+490,1655,63,21,What number is at the bottom?,a,THE WITNESS,start_question
+491,1656,63,22,671.,q,MR. NOCHO,start_answer
+492,1657,63,23,Okay.,a,THE WITNESS,start_question
+493,1658,63,24,"There is an e-mail that you sent on July 15, 2016.  Do you see that?",q,MR. NOCHO,start_answer
+494,1661,64,1,Yes.,a,THE WITNESS,start_question
+495,1662,64,2,Okay.  It just talks about how you're covering the case for today?,q,MR. NOCHO,start_answer
+496,1664,64,4,Yes.,a,THE WITNESS,start_question
+497,1665,64,5,"The next paragraph it reads, my understanding is that she is returning to the Bridge on Monday, July 18th, and being transported with 2-1 coverage back to the Bridge where she will have additional coverage for 1-1 for 16 hours a day that has been approved for seven days.  How did you gain that understanding?",q,MR. NOCHO,start_answer
+498,1673,64,13,I don't know.,a,THE WITNESS,start_question
+499,1674,64,14,Do you recall reviewing any documents on the case?,q,MR. NOCHO,start_answer
+500,1676,64,16,I don't recall.,a,THE WITNESS,start_question
+501,1677,64,17,"Do you recall speaking to anyone, for example, Mr. Zechiel?",q,MR. NOCHO,start_answer
+502,1679,64,19,I know I talked to him originally.  I don't know if I had another conversation with him.,a,THE WITNESS,start_question
+503,1682,64,22,"Then if you go to the very first page of this e-mail chain, the bottom e-mail is from Nicole Kwatny?",q,MR. NOCHO,start_answer
+504,1685,64,25,Yes.,a,THE WITNESS,start_question
+505,1687,65,1,You reached out to Ms. Kwatny?,q,MR. NOCHO,start_answer
+506,1688,65,2,Yes.  She is our CBH liaison.,a,THE WITNESS,start_question
+507,1689,65,3,What role does she play in the process?,q,MR. NOCHO,start_answer
+508,1691,65,5,"Our agency is assigned to her as a liaison.  She's there to support, problem solve.",a,THE WITNESS,start_question
+509,1694,65,8,"And when you say the agency assigned to her, that's the Catholic Community Services?",q,MR. NOCHO,start_answer
+510,1697,65,11,I said -- is that what I said?,a,THE WITNESS,start_question
+511,1698,65,12,Yes.,q,MR. NOCHO,start_answer
+512,1699,65,13,"Yes.  Catholic Community Services, yes.",a,THE WITNESS,start_question
+513,1701,65,15,Then that e-mail she talks about how Taj'anae was approved for 1-1 for seven days.  That's CBH giving approval for that?,q,MR. NOCHO,start_answer
+514,1704,65,18,I believe so.  That would be my understanding.,a,THE WITNESS,start_question
+515,1706,65,20,"In response to that e-mail, you sent an e-mail also on July 16, 2016, you asked for a copy of the evaluation.  Which evaluation were you referring to?",q,MR. NOCHO,start_answer
+516,1710,65,24,From Fairmount.,a,THE WITNESS,start_question
+517,1711,65,25,I'm guessing that would be a psychiatric eval?,q,MR. NOCHO,start_answer
+518,1714,66,2,"Psychiatric eval, yes.  I mean, I was looking for recommendations to see if the placement, you know, if what they were recommending what resulting in that placement.",a,THE WITNESS,start_question
+519,1718,66,6,"When you say they, the person who did the evaluation at Fairmount?",q,MR. NOCHO,start_answer
+520,1720,66,8,Yes.  Is the Fairmount recommendation supporting this plan that they are putting in place.,a,THE WITNESS,start_question
+521,1723,66,11,Do you know if the Fairmount evaluation did support the plan that they put in place?,q,MR. NOCHO,start_answer
+522,1726,66,14,I have no idea.  I don't think I ever saw it.,a,THE WITNESS,start_question
+523,1728,66,16,In the next sentence you asked Ms. Kwanty to confirm CBH will make referrals to CHOR and CHOY.  Do you see that?,q,MR. NOCHO,start_answer
+524,1731,66,19,Yes.,a,THE WITNESS,start_question
+525,1732,66,20,What does CHOR stand for?,q,MR. NOCHO,start_answer
+526,1733,66,21,Children's Home of Reading.,a,THE WITNESS,start_question
+527,1734,66,22,And what does CHOY stand for?,q,MR. NOCHO,start_answer
+528,1735,66,23,Children's Home of York.,a,THE WITNESS,start_question
+529,1736,66,24,Are those two residential facilities?,q,MR. NOCHO,start_answer
+530,1739,67,1,Yes.  They would be RTF Programs.,a,THE WITNESS,start_question
+531,1741,67,3,Did you know them from your previous work experience?,q,MR. NOCHO,start_answer
+532,1743,67,5,Yes.,a,THE WITNESS,start_question
+533,1744,67,6,Do you know if any referables were made to Children's Home of Reading or Children's Home of York?,q,MR. NOCHO,start_answer
+534,1747,67,9,"No.  I'm a little -- I mean, I don't fully understand my e-mail on this one because there was not -- unless I was just trying to determine whether or not if it came back there wasn't going to be a recommendation for RTF whether or not that's possible to consider them.  My understanding was they had programs for children with sexual issues.  I can't recall exactly why I wrote that.",a,THE WITNESS,start_question
+535,1756,67,18,Do you know if Taj'anae Siler had a history of sexual abuse?,q,MR. NOCHO,start_answer
+536,1758,67,20,"Only what was in this e-mail right here below.  When CBH talked about it. There might have been some discussion -- when I talked to Tim Zechiel, he said something that those things that there were concerns about her sexual behaviors and drug use.  He could have said that.  I just don't recall.",a,THE WITNESS,start_question
+537,1766,68,2,"Did you suggest Children's Home of Reading, Children's Home of York based on your understanding of a sexual abuse history?",q,MR. NOCHO,start_chat
+538,1769,68,5,Objection to form. Just to the extent that he suggested anything.,side_chat,MR. LUCCA,start_chat
+539,1772,68,8,"I'm not clear why I said that, but the logic for me would be that based on those things, like, where could she best be helped.  But I don't know the case.  I'm just gathering this from e-mails.  I mean, I've seen a lot of cases.  So, you know, when you see certain things, it triggers thinking about the system and where she could best be helped.",side_chat,THE WITNESS,start_question
+540,1783,68,19,Did you ever talk to either Selara Harris or Theresa Hamlett about referral to send Taj'anae to Children's Home of Reading or Children's Home of York?,q,MR. NOCHO,start_answer
+541,1787,68,23,No.,a,THE WITNESS,start_question
+542,1788,68,24,I just want to show you another document.,q,MR. NOCHO,symbols
+543,1791,69,1,- - -,symbols,,is brackets
+544,1792,69,2,"(Whereupon, Exhibit-2 was marked for identification.)",brackets,,symbols
+545,1794,69,4,- - -,symbols,,start_question
+546,1796,69,6,"Just take a moment to read through this one, and I'll ask you questions again.",q,MR. NOCHO,start_answer
+547,1799,69,9,Okay.,a,THE WITNESS,start_question
+548,1800,69,10,"In this e-mail that was sent by you on July 15, 2016, sent to Theresa Hamlett and copying Alan Speed, was this an e-mail that you were following up based on the e-mail you received from Hilary?",q,MR. NOCHO,start_answer
+549,1805,69,15,"It was to make sure that she -- I mean, I'm communicating to her and to Alan Speed that I had involvement with this case and that there are notes in the system and I needed them to read them to know what was going on. It was mostly just to tell her I was involved while you were out, please pay attention to this and what the ongoing issues were, what I thought she would want to address when she got the e-mail.",a,THE WITNESS,start_question
+550,1815,69,25,Is there a reason you did not include Selara Harris on this e-mail?,q,MR. NOCHO,start_answer
+551,1818,70,2,Because this was just supervisor-to-supervisor communication about my coverage.,a,THE WITNESS,start_question
+552,1821,70,5,"You talked about in this e-mail putting three notes with various e-mails from the past two days into ECMS.  When you say ECMS, is that Electronic Case Management System?",q,MR. NOCHO,start_answer
+553,1826,70,10,Yes.,a,THE WITNESS,start_question
+554,1827,70,11,Would you typically put e-mails into the ECMS?,q,MR. NOCHO,start_answer
+555,1829,70,13,"Yes.  Important ones, yes.  If I'm covering something, yes.",a,THE WITNESS,start_question
+556,1831,70,15,What about Case Managers?  Would Case Managers typically put e-mails into the ECMS?,q,MR. NOCHO,start_answer
+557,1834,70,18,"If there is content in it that's helpful to the case, yes.",a,THE WITNESS,start_question
+558,1836,70,20,Do you know if Selara Harris ever uploaded any e-mails into the ECMS?,q,MR. NOCHO,start_answer
+559,1838,70,22,I have no idea.,a,THE WITNESS,start_question
+560,1839,70,23,Were you contacted at all when the agency terminated Ms. Harris' employment?,q,MR. NOCHO,start_answer
+561,1841,70,25,No.,a,THE WITNESS,start_question
+562,1843,71,1,How did you found out about Ms. Harris being terminated?,q,MR. NOCHO,start_answer
+563,1845,71,3,"I don't recall knowing.  I mean, the way it often happens, you know.  Someone says something about it.  I mean, no one communicated to me directly, you know, Selara is no longer here.  It just would have come up in incidental conversation.",a,THE WITNESS,start_question
+564,1851,71,9,So incidental conversation with other people at the agency?,q,MR. NOCHO,start_answer
+565,1853,71,11,"Yes.  I mean, I don't recall it as something in my head about her leaving.",a,THE WITNESS,start_question
+566,1855,71,13,"When you did hear, incidentally hear, about Ms. Harris being terminated, did that person give you a reason why that Ms. Harris was terminated?",q,MR. NOCHO,start_answer
+567,1859,71,17,No.,a,THE WITNESS,start_question
+568,1860,71,18,Did you hear from someone else the reason why Ms. Harris was terminated?,q,MR. NOCHO,start_answer
+569,1862,71,20,No.  And I don't ask.,a,THE WITNESS,start_question
+570,1863,71,21,"In this e-mail, in the second paragraph, you talk about how Hilary Sees asked for the subcontractor referral and the Single Case Plan?",q,MR. NOCHO,start_answer
+571,1867,71,25,Yes.,a,THE WITNESS,start_question
+572,1869,72,1,What is a subcontractor referral?,q,MR. NOCHO,start_answer
+573,1871,72,3,"Subcontractor referral, the subcontractor in this case is the Bridge so that, you know, the payment for services goes from basically DHS/CUA to the Bridge.  So the subcontractor referral is our communication tool about the case to the subcontractor.  In this case, the Bridge.  It's a standard form in the system, which the Case Manager would fill out or Case Management Supervisor would fill out, whoever.  That's a referral that gets approved in our system, Case Manager, Case Management Supervisor, Case Management Director, then that gets sent down to the DHS CRU.  They would make the connection to the Bridge.  Once it's approved and accessible to us, to the CUA, we might be able to send it to the Bridge, but it's not our -- it's really the DHS responsibility in the referral process to get that to the Bridge or the placement agency.",a,THE WITNESS,start_question
+574,1890,72,22,Does the CUA typically send the referral to the placement agency or does DHS?,q,MR. NOCHO,start_answer
+575,1892,72,24,It's DHS that sends the referable.,a,THE WITNESS,start_question
+576,1895,73,1,"So the CUA completes the form, sends it to DHS, then DHS would send it to the placement facility?",q,MR. NOCHO,start_answer
+577,1898,73,4,Yes.,a,THE WITNESS,start_question
+578,1899,73,5,Typically how long does it take for the placement referral or the subcontractor referral to be completed?,q,MR. NOCHO,start_answer
+579,1902,73,8,"Anywhere from an hour to a day. When these situations happen, there is time pressures and it gets done.",a,THE WITNESS,start_question
+580,1905,73,11,Would it be unusual for it to take two or three months for a subcontractor referral to be completed?,q,MR. NOCHO,start_answer
+581,1908,73,14,Yes.,a,THE WITNESS,start_question
+582,1909,73,15,What is the purpose on the side of the facility of having the subcontract referral?  How does that help them?,q,MR. NOCHO,start_answer
+583,1912,73,18,"It provides demographic information about the client, the client's family, information about court, information about attorneys.  It explains basically the origin of the case.  Then there is a history. There is ways to explain the child's circumstances, what's going on, what needs to be addressed, what restrictions there are, all of those situations.  In that case, the Bridge would understand that, you know, a little bit about our placement history, about what's been going on with the case, what the current situation is.",a,THE WITNESS,start_question
+584,1926,74,6,So the Bridge would be lacking that information if they did not have access to the referral?,q,MR. NOCHO,start_answer
+585,1929,74,9,Yes.,a,THE WITNESS,start_question
+586,1930,74,10,Would it be a similar situation for the Single Case Plan?,q,MR. NOCHO,start_answer
+587,1932,74,12,"The Single Case Plan would be helpful to the case because that outlines the objectives for the family, for the child, and for the CUA.",a,THE WITNESS,start_question
+588,1936,74,16,"So for instance, in this case, the Bridge wouldn't have access to those goals without having the Single Case Plan?",q,MR. NOCHO,start_answer
+589,1939,74,19,"Unless someone talked to them about it, but no.",a,THE WITNESS,start_question
+590,1941,74,21,"Then the next sentence reads, they were not done so I said that Case Manager had to get them to her.  As you have seen, I did send the DRO.  What does DRO stand for?",q,MR. NOCHO,start_answer
+591,1945,74,25,"It stands for Dependency Review Order, which no longer exist.  They still call it that.  It's the Permanency Review Order from family court.  Whenever there is a court case and court hearing, the DRO is the document that you're given at the end of the court hearing.",a,THE WITNESS,start_question
+592,1952,75,6,I'm guessing this lists court orders for certain child or family?,q,MR. NOCHO,start_answer
+593,1954,75,8,"It explains what the -- it addresses permanency.  The most important thing for that is what the court is expecting from the child, the agency, or the family.",a,THE WITNESS,start_question
+594,1958,75,12,"You mentioned how the Case Manager would have to send those documents. Other than the DRO to the Bridge, is the Case Manager the usual point of contact for document request from a facility?",q,MR. NOCHO,start_answer
+595,1963,75,17,Yes.,a,THE WITNESS,start_question
+596,1964,75,18,Do you know why those forms were not completed at that time?,q,MR. NOCHO,start_answer
+597,1966,75,20,No.,a,THE WITNESS,start_question
+598,1967,75,21,Was Selara Harris the employee assigned to complete those forms?,q,MR. NOCHO,start_answer
+599,1969,75,23,Yes.,a,THE WITNESS,start_question
+600,1970,75,24,Were those forms supposed to have been completed before this point?,q,MR. NOCHO,start_answer
+601,1973,76,1,I'm going to assume yes since I wrote it this way.  The subcontractor referral would get done as her discharge from the hospital was imminent.  So it could have been right around the time that it was happening. That could have been a problem because she was on vacation.  It might have been something that had to have been done while she was vacation. I don't know.  I don't know the timing.,a,THE WITNESS,start_question
+602,1982,76,10,"Is there, like, a normal process or procedure for covering Case Managers cases when they are on vacation?",q,MR. NOCHO,start_answer
+603,1985,76,13,"I would say there is no formal procedure for that.  Mostly, in general, I think it tends to fall to the Case Management Supervisor.",a,THE WITNESS,start_question
+604,1989,76,17,So the supervisor would be the person responsible for making sure the tasks are being completed on the cases?,q,MR. NOCHO,start_answer
+605,1992,76,20,Yes.,a,THE WITNESS,start_question
+606,1993,76,21,"Did Ms. Hamlett, Theresa Hamlett, reach out to you before Selara Harris went on vacation to ask with your help covering cases?",q,MR. NOCHO,start_answer
+607,1997,76,25,"No.  Let me modify that.  We have a general -- we try to support each other in terms of the Case Management Supervisors. If Theresa was out on vacation, she would of let us know that she was out and let her staff know that they need to go to alternate Case Management Supervisors.  I don't know in this situation.  I don't know what the circumstances were in terms of staff being out.",a,THE WITNESS,start_question
+608,2007,77,9,"Then in the next paragraph you write, my recommendation would be for Selara to get to the Bridge next week to see Taj'anae in preparation for court on 7/25/16.  How did you develop that recommendation?",q,MR. NOCHO,start_answer
+609,2012,77,14,"Well, I don't know where this is, but Taj'anae was going to the Bridge.  So when that placement takes place, it's our responsibility as a Case Manager to get out and see her in her new placement even though she had been there before.  In addition, because I had some involvement with the case, I noticed that the next court date was 7/25.  It's really important that the worker sees the child in the placement to be able to testify to safety in court.  I was just trying to be supportive to Theresa in terms of something that came to mind when I was covering, you know.  I picked up on this case to help out.",a,THE WITNESS,start_question
+610,2027,78,3,One of the purposes of doing the visits to the placement would be to assess the child's safety?,q,MR. NOCHO,start_answer
+611,2030,78,6,Yes.,a,THE WITNESS,start_question
+612,2031,78,7,About how often would visits to children in placement facilities be done?,q,MR. NOCHO,start_answer
+613,2033,78,9,It needs to be done once a month.,a,THE WITNESS,start_question
+614,2035,78,11,Do you know if it was done once a month for Taj'anae Siler's case?,q,MR. NOCHO,start_answer
+615,2037,78,13,I don't know.,a,THE WITNESS,start_question
+616,2038,78,14,Are there instances where visits are made more than once a month to see children in placement facilities?,q,MR. NOCHO,start_answer
+617,2041,78,17,"It can happen, yes.",a,THE WITNESS,start_question
+618,2042,78,18,What are some examples of those cases?,q,MR. NOCHO,start_answer
+619,2044,78,20,"It could be that there is, like, a visit that needs to be supervised by the Case Manager or a staff person and they would go to a facility to do that.  If there was a planning meeting scheduled that the Case Manager could get to, they might go to the facility and see the child when they are there.  It could be that there is a crisis and you would want to go there to support your child or to support the staff.  You know, just good case management decisions.  I mean, if a child needs extra support, you might go.",a,THE WITNESS,start_question
+620,2057,79,7,"When you talked about supervised visits at the facility, between the parents and the child?",q,MR. NOCHO,start_answer
+621,2060,79,10,Yes.  That could happen.  It could be in a foster home.  It could be the child lives with the maternal grandmother and you don't want to move the child.  You say the visit can take place in the home with a CUA worker there.,a,THE WITNESS,start_question
+622,2066,79,16,You also mentioned if there is a crisis.  What are some examples of a crisis when you say that?,q,MR. NOCHO,start_answer
+623,2069,79,19,"Like, for the Bridge, if the client was unsettled and disruptive and the staff were calling you and you felt like it could be a support, you might go to the facility to see the client or the staff.",a,THE WITNESS,start_question
+624,2074,79,24,Would that include self-harming or threats of --,q,MR. NOCHO,start_answer
+625,2077,80,1,"It could.  That becomes, like, a case management decision.  Case Manager, Case Management Supervisor, or it gets discussed at the agency.",a,THE WITNESS,start_question
+626,2081,80,5,So that type of decision would be left up to Selara Harris in this case?,q,MR. NOCHO,start_answer
+627,2083,80,7,"It could be and it could be that the supervisor gets involved by talking to the worker, seeing the e-mail, or knowing what's going on with the case, worker coming in and talking about the case with her.  It can come in different directions.  There is no set procedure for that.",a,THE WITNESS,start_question
+628,2090,80,14,But it would be someone from the CUA agency?,q,MR. NOCHO,start_answer
+629,2092,80,16,"It depends on what's going on in the case.  Everything is, like, individualized. You have to try to figure out what's the best support.  Maybe the support would be call her mother and have her mother call over there.  I don't -- each case is different.",a,THE WITNESS,start_question
+630,2098,80,22,Those would be just case management decisions.  That's what you mean to say?,q,MR. NOCHO,start_answer
+631,2101,80,25,Yeah.,a,THE WITNESS,start_question
+632,2103,81,1,I just want to ask you about one additional document.,q,MR. NOCHO,symbols
+633,2105,81,3,- - -,symbols,,is brackets
+634,2106,81,4,"(Whereupon, Exhbit-3 was marked for identification.)",brackets,,symbols
+635,2108,81,6,- - -,symbols,,start_question
+636,2110,81,8,Just take a look at this one and I'll ask you some questions about it.,q,MR. NOCHO,start_answer
+637,2112,81,10,Okay.,a,THE WITNESS,start_question
+638,2113,81,11,"So the bottom e-mail that's from Andrea Bowen at the Bridge and it was dated August 15, 2016.  Had you previously dealt with Andrea Bowen?",q,MR. NOCHO,start_answer
+639,2117,81,15,"I mean, unrelated to this case?",a,THE WITNESS,start_question
+640,2118,81,16,Relate or unrelated?,q,MR. NOCHO,start_answer
+641,2119,81,17,I would have to look at these e-mails to see if she's on there.,a,THE WITNESS,start_question
+642,2121,81,19,But you don't recall one way or the other?,q,MR. NOCHO,start_answer
+643,2123,81,21,I don't know if she's on those e-mails.,a,THE WITNESS,start_chat
+644,2125,81,23,"If you don't know, you don't know.",side_chat,MR. LUCCA,start_chat
+645,2127,81,25,I don't know.,side_chat,THE WITNESS,start_question
+646,2130,82,2,"I was just wondering, for instance, if you dealt with her like you dealt with Mr. Zechiel before.",q,MR. NOCHO,start_answer
+647,2133,82,5,"Oh, no.",a,THE WITNESS,start_question
+648,2134,82,6,In that e-mail she is asking for a copy of the Single Case Plan?,q,MR. NOCHO,start_answer
+649,2136,82,8,Yes.,a,THE WITNESS,start_question
+650,2137,82,9,Did she also reach out to you by phone around that time?,q,MR. NOCHO,start_answer
+651,2139,82,11,I don't recall that.,a,THE WITNESS,start_question
+652,2140,82,12,Do you know if she had been trying to reach Selara Harris?,q,MR. NOCHO,start_answer
+653,2142,82,14,I don't know.,a,THE WITNESS,start_question
+654,2143,82,15,"In response to receiving this e-mail, did you call Selara Harris?",q,MR. NOCHO,start_answer
+655,2145,82,17,No.,a,THE WITNESS,start_question
+656,2146,82,18,The next e-mail has you forwarding the e-mail to Theresa Hamlett.  Why did you decide to forward it to Theresa Hamlett?,q,MR. NOCHO,start_answer
+657,2150,82,22,"She's the supervisor of the case, and it's something that was happening with her worker.",a,THE WITNESS,start_question
+658,2153,82,25,Did you also forward this to Ms. Harris?,q,MR. NOCHO,start_answer
+659,2156,83,2,No.,a,THE WITNESS,start_question
+660,2157,83,3,Would Ms. Harris be the one who was responsible for sending the case plan to the Bridge?,q,MR. NOCHO,start_answer
+661,2160,83,6,If her worker didn't.,a,THE WITNESS,start_question
+662,2161,83,7,"When you say her worker in reference to Ms. Harris, who do you mean?",q,MR. NOCHO,start_answer
+663,2163,83,9,"All right.  So Selara Harris is responsible for developing the Single Case Plan.  She could send it to the Bridge.  If she doesn't send it to the Bridge, then it would then bump up to the Case Management Supervisor and make sure that it gets done.  She could ask someone to send it.  She could send it herself.",a,THE WITNESS,start_question
+664,2170,83,16,Do you know if the Single Case Plan was completed at this point?,q,MR. NOCHO,start_answer
+665,2172,83,18,I don't know.,a,THE WITNESS,start_question
+666,2173,83,19,Did anyone else from the Bridge reach out about getting the Single Case Plan?,q,MR. NOCHO,start_answer
+667,2175,83,21,"Not that I recall, no.",a,THE WITNESS,start_chat
+668,2176,83,22,"I don't have any more questions for you, but the attorneys over here might have some questions for you.",side_chat,MR. NOCHO,start_question
+669,2182,84,2,"Good afternoon, Mr. Dutton.  I just have a couple follow up questions.",q,MR. HILL,start_chat
+670,2184,84,4,We can mark this Exhibit-4.,side_chat,MR. HILL,symbols
+671,2186,84,6,- - -,symbols,,is brackets
+672,2187,84,7,"(Whereupon, Exhibit-4 was marked for identification.)",brackets,,symbols
+673,2189,84,9,- - -,symbols,,start_question
+674,2191,84,11,"It's essentially the same as Exhibit-1, except it has Ms. Kwanty's response to your e-mail regarding the evaluation to CHOY and CHOR.",q,MR. HILL,start_answer
+675,2195,84,15,Yes.,a,THE WITNESS,start_question
+676,2196,84,16,"So it's an e-mail dated July 18, 2016, from Ms. Kwanty to you.  It says, Leona was denied by CHOY.  They will send to CHOR. They aren't sending any right now, don't know why.  She was also denied by Carson Valley.  Do you know who Leona is?",q,MR. HILL,start_answer
+677,2202,84,22,Yup.,a,THE WITNESS,start_question
+678,2203,84,23,Who?,q,MR. HILL,start_answer
+679,2204,84,24,"My best guess about this, and I can't answer the question, is that at the same time there was things going on with Taj'anae, there were things going on with another client on my caseload, Leona.  She was looking for -- they were looking for an RTF Program for her. I can't tell you that this is related to Taj'anae.  This could fully be related to Leona.  It could have just been crossed.  Just a mix up in terms of communication about cases.",a,THE WITNESS,start_question
+680,2215,85,9,Was Leona --,q,MR. HILL,start_answer
+681,2216,85,10,"There is something that's not correct about this.  It's either Leona was wrongly put in there and that meant Taj'anae, but I don't believe that that's the case.  Then it helps clarify things about CHOR and the Children's Home of York.  I think that may have been more related to Leona.  If you understand. You know what I'm saying?",a,THE WITNESS,start_chat
+682,2224,85,18,Just try to answer what he's asking.,side_chat,MR. LUCCA,start_question
+683,2227,85,21,Was Leona a client on your caseload at the time?,q,MR. HILL,start_answer
+684,2229,85,23,Yes.,a,THE WITNESS,start_question
+685,2230,85,24,"Now, do you believe that the previous e-mail sent at 3:39 to Nikki regarding the evaluation in CHOR and CHOY, do you believe you were referring to Leona or Taj'anae?",q,MR. HILL,start_answer
+686,2235,86,3,"My best guess, Leona, but I'm not sure.  It makes more logical sense to me.",a,THE WITNESS,start_question
+687,2237,86,5,"And Carson Valley, is Carson Valley an RTF?",q,MR. HILL,start_answer
+688,2239,86,7,"It has an RTF Program, yes.",a,THE WITNESS,start_question
+689,2240,86,8,So it has an RTF component and it also has a residential component?,q,MR. HILL,start_answer
+690,2242,86,10,Yes.,a,THE WITNESS,start_chat
+691,2243,86,11,I have no additional questions.,side_chat,MR. HILL,start_chat
+692,2245,86,13,I have no more questions.,side_chat,MR. NOCHO,start_chat
+693,2247,86,15,Nothing.,side_chat,MR. LUCCA,is brackets
+694,2248,86,16,(Witness excused.),brackets,,is brackets
+695,2249,86,17,"(Deposition ended at 12:01 p.m.) C E R T I F I C A T E I do hereby certify that I am a Notary Public in good standing, that the aforesaid testimony was taken before me, pursuant to notice, at the time and place indicated; that said deponent was by me duly sworn to tell the truth, the whole truth, and nothing but the truth; that the testimony of said deponent was correctly recorded in machine shorthand by me, to the best of my ability, and thereafter transcribed under my supervision with computer-aided transcription; that the deposition is a true and correct record of the testimony given by the witness; and that I am neither of counsel nor kin to any party in said action, nor interested in the outcome thereof. WITNESS my hand and official seal this 26th day of August, 2019. <%signature%>",brackets,,end

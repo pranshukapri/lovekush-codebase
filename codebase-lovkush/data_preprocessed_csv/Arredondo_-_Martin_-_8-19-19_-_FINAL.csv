@@ -1,0 +1,1786 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," MARTIN ARREDONDO, having been first duly sworn, testified through the duly sworn interpreter as follows: EXAMINATION",,,start_question
+1,128,4,21,"Good afternoon, sir.",q,MR. NEWTON,start_answer
+2,129,4,22,Good afternoon sir.,a,THE WITNESS,start_question
+3,130,4,23,"Would you state your complete name for the record, please.",q,MR. NEWTON,start_answer
+4,132,4,25,Martin Arredondo.,a,THE WITNESS,start_question
+5,134,5,1,Do you have a middle name?,q,MR. NEWTON,start_answer
+6,135,5,2,I have it.  I don't use it.  I only use middle initial.,a,THE WITNESS,start_question
+7,137,5,4,And what is that initial?,q,MR. NEWTON,start_answer
+8,138,5,5,H.,a,THE WITNESS,start_question
+9,139,5,6,"H. And what does H stand for, sir?",q,MR. NEWTON,start_answer
+10,141,5,8,It's my grandfather's name.  The name would be Hermegenildo.,a,THE WITNESS,start_question
+11,143,5,10,"Can you spell that for me, please.",q,MR. NEWTON,start_chat
+12,144,5,11,"Yes, sir.  Let me write it first.  Here it is, sir.  H-E-R-M-E-G-E-N-I-L-D-O.",side_chat,THE INTERPRETER,start_question
+13,146,5,13,(BY MR. NEWTON)  I can see why you go by the letter H.,q,MR. NEWTON,start_chat
+14,148,5,15,Me too.,side_chat,MR. BICKHAM,start_question
+15,149,5,16,(BY MR. NEWTON)  Okay.  Are you known by any other name besides Martin?,q,MR. NEWTON,start_answer
+16,151,5,18,Just Martin.,a,THE WITNESS,start_question
+17,152,5,19,Okay.  Do you have any nicknames or anything like that?,q,MR. NEWTON,start_answer
+18,154,5,21,No.  Not that I know of.,a,THE WITNESS,start_question
+19,155,5,22,"Mr. Arredondo, my name is Frank Newton, and I represent the defendant in this case.  And I'm opposite you in this matter. Do you understand that, sir?",q,MR. NEWTON,start_chat
+20,160,6,1,So sorry.,side_chat,MR. BICKHAM,start_chat
+21,161,6,2,Yes.,side_chat,THE WITNESS,start_chat
+22,162,6,3,Thank you.  Sorry about that.,side_chat,MR. BICKHAM,start_chat
+23,163,6,4,No problem at all.,side_chat,MR. NEWTON,start_chat
+24,164,6,5,Promise I'm not trying to disrupt you.,side_chat,MR. BICKHAM,start_chat
+25,166,6,7,At least you didn't get it on the keys there.,side_chat,MR. NEWTON,start_chat
+26,168,6,9,That's why I had to throw away my old bottles.,side_chat,MR. BICKHAM,start_chat
+27,170,6,11,Court reporter freak out.,side_chat,MR. NEWTON,start_chat
+28,171,6,12,All right.  Sorry about that.,side_chat,MR. BICKHAM,start_chat
+29,172,6,13,Okay.  No problem at all.,side_chat,MR. NEWTON,start_question
+30,173,6,14,"(BY MR. NEWTON)  Okay.  Sir, you had a chance to sit in during your brother's deposition, Juan, correct?",q,MR. NEWTON,start_answer
+31,176,6,17,Correct.,a,THE WITNESS,start_question
+32,177,6,18,"So you had a chance to hear some of the questions that would be asked him and some of the answers he gave, right?",q,MR. NEWTON,start_answer
+33,180,6,21,That's right.,a,THE WITNESS,start_question
+34,181,6,22,"And you were sitting next to your attorney, Mr. Bickham here, during the deposition, correct?",q,MR. NEWTON,start_answer
+35,183,6,24,Correct.,a,THE WITNESS,start_question
+36,184,6,25,"Now before the deposition of your brother that you sat in with this morning and early afternoon, had you attended any other deposition?",q,MR. NEWTON,start_answer
+37,188,7,3,No.,a,THE WITNESS,start_question
+38,189,7,4,Have you ever given testimony in trial?,q,MR. NEWTON,start_answer
+39,190,7,5,No.,a,THE WITNESS,start_question
+40,191,7,6,Have you ever given testimony in any kind of tribunal or hearing?,q,MR. NEWTON,start_answer
+41,193,7,8,No.,a,THE WITNESS,start_question
+42,194,7,9,"Okay.  So since this is your first time to give sworn testimony, let me cover a few ground rules with you.  You understand, sir, you've just been placed under oath by the court reporter?",q,MR. NEWTON,start_answer
+43,198,7,13,I understand.,a,THE WITNESS,start_question
+44,199,7,14,"And do you understand, sir, that it requires you to tell the truth, the whole truth, and nothing but the truth?",q,MR. NEWTON,start_answer
+45,202,7,17,I understand.,a,THE WITNESS,start_question
+46,203,7,18,"Do you understand that it carries with it, this oath that you took, the same pains and penalties for perjury as if you were testifying in open court?",q,MR. NEWTON,start_answer
+47,206,7,21,I understand.,a,THE WITNESS,start_question
+48,207,7,22,"Also, sir, just like I said to your brother earlier, when we started this morning, it's important that you let me finish my question before you begin your answer.  Okay?  And if you remember also to give an oral response, say yes, no, I don't know, or give your responses in verbal speak as opposed to shrugging your shoulders or nodding your head or something of that sort.  Okay?",q,MR. NEWTON,start_answer
+49,216,8,5,I understand.,a,THE WITNESS,start_question
+50,217,8,6,"Okay.  Because if you don't do that, we're not going to have your intended clear testimony on the record.  And that's what we're trying to do today.",q,MR. NEWTON,start_answer
+51,220,8,9,I understand.,a,THE WITNESS,start_question
+52,221,8,10,"And we have an interpreter here to your right who, like with your brother Juan, will be translating for you and will assist you in this process.  Okay?",q,MR. NEWTON,start_answer
+53,224,8,13,I understand.,a,THE WITNESS,start_question
+54,225,8,14,Do you speak any English?,q,MR. NEWTON,start_answer
+55,226,8,15,Yes.,a,THE WITNESS,start_question
+56,227,8,16,Are you able to give this deposition without the benefit of an interpreter?,q,MR. NEWTON,start_answer
+57,229,8,18,No.,a,THE WITNESS,start_question
+58,230,8,19,Do you read English?,q,MR. NEWTON,start_answer
+59,231,8,20,Some.,a,THE WITNESS,start_question
+60,232,8,21,How old are you?,q,MR. NEWTON,start_answer
+61,233,8,22,I'll be 60 in November.,a,THE WITNESS,start_question
+62,234,8,23,"So November, 2019, you'll be 60 years old?",q,MR. NEWTON,start_answer
+63,235,8,24,That is correct.,a,THE WITNESS,start_question
+64,236,8,25,"What's your date of birth, please.",q,MR. NEWTON,start_answer
+65,238,9,1,11/21/59.,a,THE WITNESS,start_question
+66,239,9,2,And where were you born?,q,MR. NEWTON,start_answer
+67,240,9,3,"In Salamanca, Guanajuato, Mexico.",a,THE WITNESS,start_question
+68,241,9,4,And when did you come to the United States?,q,MR. NEWTON,start_answer
+69,242,9,5,In 1977.,a,THE WITNESS,start_question
+70,243,9,6,Are you a US citizen?,q,MR. NEWTON,start_answer
+71,244,9,7,Yes.,a,THE WITNESS,start_question
+72,245,9,8,When did you become a US citizen?,q,MR. NEWTON,start_answer
+73,246,9,9,"I don't know the exact date, but it's about -- been around 20 years.",a,THE WITNESS,start_question
+74,248,9,11,About 20 years ago?,q,MR. NEWTON,start_answer
+75,249,9,12,Give or take a few.,a,THE WITNESS,start_question
+76,250,9,13,Okay.  Do you have a Texas driver's license?,q,MR. NEWTON,start_chat
+77,251,9,14,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+78,252,9,15,"(BY MR. NEWTON)  May I see it, please.",q,MR. NEWTON,start_chat
+79,253,9,16,"Thank you, sir. Let the record reflect the witness has handed me his Texas driver's license.",side_chat,MR. NEWTON,start_question
+80,256,9,19,"(BY MR. NEWTON)  Can you give me your current address, please.",q,MR. NEWTON,start_answer
+81,258,9,21,"(Via Interpreter) 8323 Glencrest, Houston, Texas 77061.",a,THE WITNESS,start_chat
+82,260,9,23,"Okay.  And that is the address that is on the license of Martin Arredondo, the witness's license, that he's handed me.  And it is a driver's license number 11195010.",side_chat,MR. NEWTON,start_chat
+83,265,10,2,That is correct.,side_chat,THE WITNESS,start_question
+84,266,10,3,(BY MR. NEWTON)  Have you ever had your license suspended or revoked?,q,MR. NEWTON,start_answer
+85,268,10,5,Once.,a,THE WITNESS,start_question
+86,269,10,6,And was it suspended or revoked or both?,q,MR. NEWTON,start_answer
+87,270,10,7,It was suspended for one year.,a,THE WITNESS,start_question
+88,271,10,8,And why was it suspended?,q,MR. NEWTON,start_answer
+89,272,10,9,I had a DWI in August 2000 -- in 1984.  I was --,a,THE WITNESS,start_chat
+90,274,10,11,You said 1984?,side_chat,MR. NEWTON,start_chat
+91,275,10,12,1984.,side_chat,THE INTERPRETER,start_chat
+92,276,10,13,I was on probation for one year without a driver's license.,side_chat,THE WITNESS,start_question
+93,278,10,15,"(BY MR. NEWTON)  Hand that back.  Thank you. Now before -- other than the DWI arrest in August of 1984, have you ever been arrested for any other criminal offense?",q,MR. NEWTON,start_answer
+94,282,10,19,No.,a,THE WITNESS,start_question
+95,283,10,20,What states have you lived in besides the state of Texas in the United States?,q,MR. NEWTON,start_answer
+96,285,10,22,Only in Texas.,a,THE WITNESS,start_question
+97,286,10,23,What countries have you lived in besides the United States and Mexico?,q,MR. NEWTON,start_answer
+98,288,10,25,Just United States.,a,THE WITNESS,start_question
+99,290,11,1,Do you go back to Mexico on occasion?,q,MR. NEWTON,start_answer
+100,291,11,2,Yes.,a,THE WITNESS,start_question
+101,292,11,3,How often do you go back to Mexico?,q,MR. NEWTON,start_answer
+102,293,11,4,Sometimes do it twice a year.  Sometimes three times.  Sometimes once.,a,THE WITNESS,start_question
+103,295,11,6,Do you have family there?,q,MR. NEWTON,start_answer
+104,296,11,7,"I still have siblings there, one brother and one sister.",a,THE WITNESS,start_question
+105,298,11,9,"The address on Glencrest, who do you live there with?",q,MR. NEWTON,start_answer
+106,300,11,11,"With my wife, my son, and my daughter.",a,THE WITNESS,start_question
+107,301,11,12,What's your wife's name?,q,MR. NEWTON,start_answer
+108,302,11,13,Rosa Maria Arredondo.,a,THE WITNESS,start_question
+109,303,11,14,How old is she?,q,MR. NEWTON,start_answer
+110,304,11,15,60.,a,THE WITNESS,start_question
+111,305,11,16,And what's your son's name?,q,MR. NEWTON,start_chat
+112,306,11,17,"I'm going -- the name is Cristomar, but I'm going to spell that out for you.",side_chat,THE INTERPRETER,start_chat
+113,308,11,19,Okay.,side_chat,MR. NEWTON,start_chat
+114,309,11,20,"C-R-I-S-T-O-M-A-R, Arredondo.",side_chat,THE INTERPRETER,start_question
+115,311,11,22,(BY MR. NEWTON)  Okay.  How old is he?,q,MR. NEWTON,start_answer
+116,312,11,23,"Born '93, so I'm guessing 26.",a,THE WITNESS,start_question
+117,313,11,24,And your daughter's name?,q,MR. NEWTON,start_answer
+118,314,11,25,Martiniza.,a,THE WITNESS,start_chat
+119,316,12,1,I'm going to spell it out for you.  M-A-R-T-I-N-I-Z-A.,side_chat,THE INTERPRETER,start_question
+120,318,12,3,(BY MR. NEWTON)  And how old is she?,q,MR. NEWTON,start_answer
+121,319,12,4,27.,a,THE WITNESS,start_question
+122,320,12,5,Does your wife work outside the home?,q,MR. NEWTON,start_answer
+123,321,12,6,No.  She works inside.,a,THE WITNESS,start_question
+124,322,12,7,Has she ever?,q,MR. NEWTON,start_answer
+125,323,12,8,No.,a,THE WITNESS,start_question
+126,324,12,9,Does your son work outside the home?,q,MR. NEWTON,start_answer
+127,325,12,10,He has a part-time.,a,THE WITNESS,start_question
+128,326,12,11,And what does he do part-time?,q,MR. NEWTON,start_answer
+129,327,12,12,He works at a shop at Galleria.,a,THE WITNESS,start_question
+130,328,12,13,A store?,q,MR. NEWTON,start_answer
+131,329,12,14,Yes.  And he goes to school.,a,THE WITNESS,start_question
+132,330,12,15,And where does he go to school?,q,MR. NEWTON,start_answer
+133,331,12,16,"He's at the University of Houston.  He hasn't started yet, but he's about to.",a,THE WITNESS,start_question
+134,333,12,18,"And your daughter, does she work outside the home?",q,MR. NEWTON,start_answer
+135,335,12,20,"My daughter has today, her first day at work as a teacher at the Pasadena School District.",a,THE WITNESS,start_question
+136,337,12,22,What grade?,q,MR. NEWTON,start_answer
+137,338,12,23,First grade.,a,THE WITNESS,start_question
+138,339,12,24,"Before becoming a teacher, what did she do?",q,MR. NEWTON,start_answer
+139,340,12,25,Studying all the time since kindergarten until she finished.,a,THE WITNESS,start_question
+140,343,13,2,How far did she go in school?,q,MR. NEWTON,start_answer
+141,344,13,3,She finished high school.  She went to college for six years.,a,THE WITNESS,start_question
+142,346,13,5,Where did she go to college?,q,MR. NEWTON,start_answer
+143,347,13,6,Downtown university.  Houston Community College.,a,THE WITNESS,start_question
+144,349,13,8,"How far did you go in school, sir?",q,MR. NEWTON,start_answer
+145,350,13,9,I finished until 6th grade in Mexico.,a,THE WITNESS,start_question
+146,351,13,10,You didn't go to high school?,q,MR. NEWTON,start_answer
+147,352,13,11,No.,a,THE WITNESS,start_question
+148,353,13,12,Why did you drop out of school?,q,MR. NEWTON,start_answer
+149,354,13,13,I didn't have the possibilities.,a,THE WITNESS,start_question
+150,355,13,14,Have you been to any kind of school or training or education here in the United States?,q,MR. NEWTON,start_answer
+151,357,13,16,Yes.,a,THE WITNESS,start_question
+152,358,13,17,What kind of school or training have you had here in the United States?,q,MR. NEWTON,start_answer
+153,360,13,19,I went to welder college.,a,THE WITNESS,start_question
+154,361,13,20,I'm sorry.  What?,q,MR. NEWTON,start_chat
+155,362,13,21,Welding college.,side_chat,THE INTERPRETER,start_chat
+156,363,13,22,Welding college.,side_chat,MR. NEWTON,start_question
+157,364,13,23,(BY MR. NEWTON)  And where was that?  What's the name of that?,q,MR. NEWTON,start_answer
+158,366,13,25,Houston Community College.,a,THE WITNESS,start_question
+159,368,14,1,Learned to be a welder?,q,MR. NEWTON,start_answer
+160,369,14,2,Yes.,a,THE WITNESS,start_question
+161,370,14,3,Did you need a high school diploma or GED for that?,q,MR. NEWTON,start_answer
+162,372,14,5,"No.  No, I didn't.  I couldn't finish there; so I went to a school full-time.",a,THE WITNESS,start_question
+163,374,14,7,And where did you go for that?,q,MR. NEWTON,start_chat
+164,375,14,8,(In English) Fluor Daniels.,side_chat,THE WITNESS,start_question
+165,376,14,9,(BY MR. NEWTON)  Fluor Daniels?,q,MR. NEWTON,start_answer
+166,377,14,10,(Via Interpreter) Fluor Daniels.  Fluor Daniels school.,a,THE WITNESS,start_question
+167,379,14,12,Same place you heard your brother Juan say he went?,q,MR. NEWTON,start_answer
+168,381,14,14,Yes.  The same.,a,THE WITNESS,start_question
+169,382,14,15,Did you go to welding training at Fluor Daniel the same time as your brother?,q,MR. NEWTON,start_answer
+170,384,14,17,I went there first.,a,THE WITNESS,start_question
+171,385,14,18,Are you a certified welder?,q,MR. NEWTON,start_answer
+172,386,14,19,Yes.,a,THE WITNESS,start_question
+173,387,14,20,And how long have you been a certified welder?,q,MR. NEWTON,start_answer
+174,388,14,21,Since 1990 up to the date for pipe welder.,a,THE WITNESS,start_question
+175,389,14,22,"Besides going to welding school, have you gone to any kind of training or school, trade school, anything of that sort in the United States?",q,MR. NEWTON,start_answer
+176,392,14,25,No.  I went to high school for a few semesters to catch some English.,a,THE WITNESS,start_question
+177,395,15,2,High school here in this country?,q,MR. NEWTON,start_answer
+178,396,15,3,Yes.  Here in Houston.,a,THE WITNESS,start_question
+179,397,15,4,Which school?,q,MR. NEWTON,start_answer
+180,398,15,5,Milby High School.,a,THE WITNESS,start_question
+181,399,15,6,How long did you stay at Milby?,q,MR. NEWTON,start_answer
+182,400,15,7,Two semesters.  That's all.,a,THE WITNESS,start_question
+183,401,15,8,"So besides your couple of semesters at Milby High School and your training as a welder, have you received any other kind of formal education or training of any sort?",q,MR. NEWTON,start_answer
+184,405,15,12,Nothing else.,a,THE WITNESS,start_question
+185,406,15,13,Do you have a cell phone?,q,MR. NEWTON,start_answer
+186,407,15,14,Yes.,a,THE WITNESS,start_question
+187,408,15,15,What's your cell phone number?,q,MR. NEWTON,start_answer
+188,409,15,16,(713) 858-4021.,a,THE WITNESS,start_question
+189,410,15,17,How long has that been your cell phone number?,q,MR. NEWTON,start_answer
+190,411,15,18,"With this company, it's been over a year.",a,THE WITNESS,start_question
+191,412,15,19,And what's the name of the company that you have this number with?,q,MR. NEWTON,start_answer
+192,414,15,21,PCS by Metro.,a,THE WITNESS,start_chat
+193,415,15,22,What's the name again?  The company.,side_chat,MR. NEWTON,start_chat
+194,417,15,24,"The correct term -- if I have to do it verbatim, it's wrong.  I'll say it verbatim.",side_chat,THE INTERPRETER,start_chat
+195,421,16,2,Okay.,side_chat,MR. NEWTON,start_chat
+196,422,16,3,PC- -- he said PCS by Metro.,side_chat,THE INTERPRETER,start_chat
+197,424,16,5,PCS by Metro.,side_chat,MR. NEWTON,start_chat
+198,425,16,6,Yeah.  It's Metro PCS by T-Mobile.,side_chat,THE INTERPRETER,start_question
+199,427,16,8,(BY MR. NEWTON)  Okay.  Metro PCS by T-Mobile. Does that sound right?,q,MR. NEWTON,start_answer
+200,429,16,10,"That's correct, sir.",a,THE WITNESS,start_question
+201,430,16,11,"Okay.  Before that, who was your cell phone carrier, the company?",q,MR. NEWTON,start_answer
+202,432,16,13,AT&T.,a,THE WITNESS,start_question
+203,433,16,14,Why did you leave AT&T?,q,MR. NEWTON,start_answer
+204,434,16,15,It was a better offer for them.,a,THE WITNESS,start_question
+205,435,16,16,Did you have a different number with AT&T?,q,MR. NEWTON,start_answer
+206,436,16,17,No.  Same number.,a,THE WITNESS,start_question
+207,437,16,18,"Same number.  Okay. So you've had the same number, (713) 858-4021, for how long?",q,MR. NEWTON,start_answer
+208,440,16,21,I would say about 15 years.,a,THE WITNESS,start_question
+209,441,16,22,How long have you had the phone that you have now?,q,MR. NEWTON,start_answer
+210,443,16,24,"Since my birthday, November 21st, of last year to the date.",a,THE WITNESS,start_question
+211,446,17,1,Okay.  Tell me again when was that?,q,MR. NEWTON,start_chat
+212,447,17,2,November 21st of last year.,side_chat,THE INTERPRETER,start_question
+213,449,17,4,(BY MR. NEWTON)  What happened to your phone that you had to replace it?,q,MR. NEWTON,start_answer
+214,451,17,6,My son replaced it for me because it was old.,a,THE WITNESS,start_question
+215,452,17,7,What kind of phone did you have until November of last year?,q,MR. NEWTON,start_answer
+216,454,17,9,It was an iPhone.,a,THE WITNESS,start_question
+217,455,17,10,You still have that iPhone?,q,MR. NEWTON,start_answer
+218,456,17,11,It's possibly at the house somewhere.  I'm not quite sure.,a,THE WITNESS,start_question
+219,458,17,13,Do you remember the day of the accident that we're here about today?,q,MR. NEWTON,start_answer
+220,460,17,15,"It was May the 18th or May the 28th.  I heard it, but I think I forgot it.",a,THE WITNESS,start_question
+221,462,17,17,So you think it was either May the 18th or May the 28th of what year?,q,MR. NEWTON,start_answer
+222,464,17,19,Of the year 2018.,a,THE WITNESS,start_question
+223,465,17,20,"On the day of the accident, where were you working?",q,MR. NEWTON,start_answer
+224,467,17,22,At an area called fab shop.,a,THE WITNESS,start_chat
+225,468,17,23,What shop?,side_chat,MR. NEWTON,start_chat
+226,469,17,24,Fab shop.,side_chat,THE INTERPRETER,start_chat
+227,470,17,25,Fab shop?  F-A-B?,side_chat,MR. NEWTON,start_chat
+228,472,18,1,(In English) Uh-huh.,side_chat,THE WITNESS,start_question
+229,473,18,2,(BY MR. NEWTON)  Is that a yes?  Fab shop?,q,MR. NEWTON,start_answer
+230,474,18,3,(Via Interpreter) It is a yes.  Fab shop.  Yes.,a,THE WITNESS,start_question
+231,475,18,4,You were working for Force Corporation?,q,MR. NEWTON,start_answer
+232,476,18,5,That is correct.,a,THE WITNESS,start_question
+233,477,18,6,Where is the fab shop that you were working at the time of the accident that we're here about today?,q,MR. NEWTON,start_answer
+234,479,18,8,I was working at the fab shop next to the flare.,a,THE WITNESS,start_question
+235,481,18,10,Was that at the plant?,q,MR. NEWTON,start_answer
+236,482,18,11,Okay.  Flare is the name of the unit where the gases are burned.,a,THE WITNESS,start_question
+237,484,18,13,What was the name of the company that owned the unit where the gases are burned?,q,MR. NEWTON,start_answer
+238,486,18,15,The gases are burned by the plant itself.  I don't know the name of the company.,a,THE WITNESS,start_question
+239,488,18,17,Okay.  Where was this where you were working? Where in town?,q,MR. NEWTON,start_answer
+240,490,18,19,The day of the accident?,a,THE WITNESS,start_question
+241,491,18,20,"Yes.  Right.  But where is that?  Where is that in town?  Is that in Houston, or is that somewhere out --",q,MR. NEWTON,start_answer
+242,494,18,23,In La Porte.  Okay.  In the Bay Area street.,a,THE WITNESS,start_question
+243,495,18,24,Do you remember the name of the plant owner where you were working that day?,q,MR. NEWTON,start_answer
+244,498,19,1,Are you talking about the owner or the name of the plant?,a,THE WITNESS,start_question
+245,500,19,3,The owner of the plant.,q,MR. NEWTON,start_answer
+246,501,19,4,"I never met him, the owner of the plant.",a,THE WITNESS,start_question
+247,502,19,5,The company.  Do you know the name of the company that owned the plant where you were working at the day of the accident?,q,MR. NEWTON,start_answer
+248,505,19,8,Kuraray.,a,THE WITNESS,start_question
+249,506,19,9,Do you remember the name of the street that Kuraray -- the Kuraray plant was on on the day of the accident?,q,MR. NEWTON,start_answer
+250,509,19,12,Bay Area.  Bay Area Boulevard.  I do not know the number.,a,THE WITNESS,start_question
+251,511,19,14,"And your testimony, the fab shop was actually at the Kuraray plant, or was it actually somewhere else?",q,MR. NEWTON,start_answer
+252,513,19,16,Inside of Kuraray.,a,THE WITNESS,start_question
+253,514,19,17,How long had you worked at the fab shop before the accident occurred?,q,MR. NEWTON,start_answer
+254,516,19,19,"The exact dates, I do not know them because I would work there, and we were moved around to different units.",a,THE WITNESS,start_question
+255,519,19,22,"At the time of the accident, how long had you worked at the Kuraray plant?",q,MR. NEWTON,start_answer
+256,521,19,24,From March to June.,a,THE WITNESS,start_question
+257,522,19,25,From March of what year?,q,MR. NEWTON,start_answer
+258,524,20,1,2018.,a,THE WITNESS,start_question
+259,525,20,2,And were you working for Force?,q,MR. NEWTON,start_answer
+260,526,20,3,Correct.,a,THE WITNESS,start_question
+261,527,20,4,When did you first start working for Force?,q,MR. NEWTON,start_answer
+262,528,20,5,"In March, 2018.",a,THE WITNESS,start_question
+263,529,20,6,That's the first time you've ever worked for Force?,q,MR. NEWTON,start_answer
+264,531,20,8,Correct.,a,THE WITNESS,start_question
+265,532,20,9,What was your job with Force?,q,MR. NEWTON,start_answer
+266,533,20,10,I'm a pipe welder.  I weld pipes.,a,THE WITNESS,start_question
+267,534,20,11,So your first job for Force was at the Kuraray plant?,q,MR. NEWTON,start_answer
+268,536,20,13,First time.,a,THE WITNESS,start_question
+269,537,20,14,Have you ever worked for anybody at the Kuraray plant besides for Force?,q,MR. NEWTON,start_answer
+270,539,20,16,No.  Never before.,a,THE WITNESS,start_question
+271,540,20,17,"Now when you would work for Force at Kuraray, did you take your instructions and directions on what to do from someone with Force?",q,MR. NEWTON,start_answer
+272,543,20,20,Yes.  That's how it is.,a,THE WITNESS,start_question
+273,544,20,21,And who did you take your instructions and directions from at Force?,q,MR. NEWTON,start_answer
+274,546,20,23,"We would do the safety meetings in the morning, and the safety man would give out information, representing Force.",a,THE WITNESS,start_question
+275,550,21,1,Who did -- what's the name of the person you took your directions from as far as what to do from day to day?  Did you have a supervisor?,q,MR. NEWTON,start_answer
+276,553,21,4,My supervisor's Herman Martin.,a,THE WITNESS,start_question
+277,554,21,5,And what was his position with Force?,q,MR. NEWTON,start_answer
+278,555,21,6,General foreman.,a,THE WITNESS,start_question
+279,556,21,7,General foreman?,q,MR. NEWTON,start_answer
+280,557,21,8,General foreman.,a,THE WITNESS,start_question
+281,558,21,9,Okay.  Did you take directions from any -- anybody else besides Herman Martin at Force?,q,MR. NEWTON,start_answer
+282,560,21,11,"Elio, the foreman.",a,THE WITNESS,start_question
+283,561,21,12,Anyone else at Force?,q,MR. NEWTON,start_answer
+284,562,21,13,Sometimes we were lent to other areas; so we were under other foremens.,a,THE WITNESS,start_question
+285,564,21,15,But with Force each time?,q,MR. NEWTON,start_answer
+286,565,21,16,Correct.,a,THE WITNESS,start_question
+287,566,21,17,"So any time that you worked at the Kuraray plant, you always took your directions on what to do and how to do it from someone with Force; is that correct?",q,MR. NEWTON,start_answer
+288,569,21,20,That's how it is.,a,THE WITNESS,start_question
+289,570,21,21,"From day to day, you would get your instructions on what to do and where to do it from someone with Force; is that correct?",q,MR. NEWTON,start_answer
+290,573,21,24,Correct.,a,THE WITNESS,start_question
+291,574,21,25,"Did you ever get any instructions or directions from anybody with Kuraray, or was it always from someone with Force?",q,MR. NEWTON,start_answer
+292,578,22,3,There is occasions where certain areas there was supervision done by Kuraray where they would put a barricade in order to prevent us from going through there because there was danger.,a,THE WITNESS,start_question
+293,582,22,7,But would you actually take your directions and instructions on what to do from Force employees?,q,MR. NEWTON,start_answer
+294,584,22,9,Yes.,a,THE WITNESS,start_question
+295,585,22,10,You never took directions on what to do from anybody with Kuraray; is that correct?,q,MR. NEWTON,start_answer
+296,587,22,12,Correct.,a,THE WITNESS,start_question
+297,588,22,13,How long have you worked as a welder?,q,MR. NEWTON,start_answer
+298,589,22,14,Altogether -- altogether since the year 1979 up to now.,a,THE WITNESS,start_question
+299,591,22,16,Full-time?,q,MR. NEWTON,start_answer
+300,592,22,17,Yes.,a,THE WITNESS,start_question
+301,593,22,18,Do any other kind of work in industry or plants or construction besides a welder?,q,MR. NEWTON,start_answer
+302,595,22,20,No.  I've -- I've always been a welder.,a,THE WITNESS,start_question
+303,596,22,21,"You've been to a number of safety meetings, safety training, Houston Area Safety Council, things like that?",q,MR. NEWTON,start_answer
+304,599,22,24,I've been there several times.,a,THE WITNESS,start_question
+305,600,22,25,And did you also take safety training site specific to Kuraray before you started working there?,q,MR. NEWTON,start_answer
+306,603,23,2,It was a rule that I had to do it.,a,THE WITNESS,start_question
+307,604,23,3,"And you did it, and you had to take a test and pass it, right?",q,MR. NEWTON,start_answer
+308,606,23,5,That is correct.,a,THE WITNESS,start_question
+309,607,23,6,"And you learned in that safety training that if you saw any unsafe condition anywhere where you were working, you had the authority to stop the job, right?",q,MR. NEWTON,start_answer
+310,610,23,9,That's correct.,a,THE WITNESS,start_question
+311,611,23,10,"Did you ever stop work, stop a job anywhere at Kuraray?",q,MR. NEWTON,start_answer
+312,613,23,12,No.,a,THE WITNESS,start_question
+313,614,23,13,Have you ever stopped work because of an unsafe condition anywhere else you've worked in your career?,q,MR. NEWTON,start_answer
+314,616,23,15,Yes.  I have stopped.,a,THE WITNESS,start_question
+315,617,23,16,And where was that?,q,MR. NEWTON,start_answer
+316,618,23,17,"Different companies throughout time.  I don't recall the names of the companies.  For example, when they're welding and there's sparks apply flying out and there is a can of paint, I stop them until I move to a safer place the can of paint.",a,THE WITNESS,start_question
+317,623,23,22,"Because you recognize that to be a possible safety hazard, right?",q,MR. NEWTON,start_answer
+318,625,23,24,Correct.  That is what I learn at the training school where I go to.,a,THE WITNESS,start_question
+319,628,24,1,"Okay.  Also, in safety training you learned if there was an emergency where you were working how you should go to the muster point, right?",q,MR. NEWTON,start_answer
+320,631,24,4,Yeah.  They explain that constantly to us.,a,THE WITNESS,start_question
+321,632,24,5,"Okay.  And that would be for every specific place you've worked they would tell you where your muster point was, right?",q,MR. NEWTON,start_answer
+322,635,24,8,"Yes.  Because sometimes we move from area for different areas, and they tell us specifically where to go to.",a,THE WITNESS,start_question
+323,638,24,11,"But different plants, too, for every specific plant you worked at, they would give you a different muster point, right?",q,MR. NEWTON,start_answer
+324,641,24,14,That is correct.,a,THE WITNESS,start_question
+325,642,24,15,"And they would tell you that if there's an emergency, you should walk to your muster point, correct?",q,MR. NEWTON,start_answer
+326,645,24,18,Correct.,a,THE WITNESS,start_question
+327,646,24,19,"And you would do that any time there was an emergency anywhere you were working, right?",q,MR. NEWTON,start_answer
+328,648,24,21,Correct.,a,THE WITNESS,start_question
+329,649,24,22,Have you ever been disciplined or punished in any way or for any kind regarding any kind of safety violation or safety rule that you didn't follow?,q,MR. NEWTON,start_answer
+330,652,24,25,"Honestly, yes.  When I'm not wearing any ear plugs, they remind me to put them on.",a,THE WITNESS,start_question
+331,655,25,2,And where was this where you got in trouble for not wearing your ear plugs?,q,MR. NEWTON,start_answer
+332,657,25,4,"I don't remember the name of the company, but it's an example of what has happened.",a,THE WITNESS,start_question
+333,659,25,6,Okay.  Any other examples you can think of where you've been written up or disciplined for some kind of safety violation?,q,MR. NEWTON,start_answer
+334,662,25,9,Not that I can recall right now -- for now.,a,THE WITNESS,start_question
+335,663,25,10,The house where you live on -- what you did say?  Glencrest?  Do you own that house?,q,MR. NEWTON,start_answer
+336,665,25,12,I'm the owner.,a,THE WITNESS,start_question
+337,666,25,13,So you don't have a mortgage?,q,MR. NEWTON,start_answer
+338,667,25,14,"No.  I'm sorry.  I have a home equity on my house, and I pay a monthly fee for that.",a,THE WITNESS,start_question
+339,669,25,16,Okay.  And when did you take out a home equity loan on your house?,q,MR. NEWTON,start_answer
+340,671,25,18,"April, 2018.",a,THE WITNESS,start_question
+341,672,25,19,And why did you take out a home equity loan on your house?,q,MR. NEWTON,start_answer
+342,674,25,21,Because I purchased a new home.,a,THE WITNESS,start_question
+343,675,25,22,All right.  How long have you lived at the Glencrest address?,q,MR. NEWTON,start_answer
+344,677,25,24,Around 14 years.,a,THE WITNESS,start_question
+345,678,25,25,And you say you bought a new home about a year ago?,q,MR. NEWTON,start_answer
+346,681,26,2,No.  It's new.  I bought it one year ago.,a,THE WITNESS,start_question
+347,682,26,3,And where is that house?,q,MR. NEWTON,start_answer
+348,683,26,4,7927 Glencrest.  I'm not sure about the number; so I hope there's no problem with that.,a,THE WITNESS,start_question
+349,685,26,6,Where is that in relationship to your house?,q,MR. NEWTON,start_answer
+350,686,26,7,On the same street that I live on.,a,THE WITNESS,start_question
+351,687,26,8,"Who lives at the 7927 Glencrest house, the one you bought a year ago?",q,MR. NEWTON,start_answer
+352,689,26,10,Nobody.  I'm going to fix it up.,a,THE WITNESS,start_question
+353,690,26,11,Is it going to be a rent house?,q,MR. NEWTON,start_answer
+354,691,26,12,Probably give it away to my son.,a,THE WITNESS,start_question
+355,692,26,13,So you took out a home equity line of credit or home equity loan on your current house to fix up the new house you just bought?,q,MR. NEWTON,start_answer
+356,695,26,16,I took out the loan to purchase the home -- the house.,a,THE WITNESS,start_question
+357,697,26,18,How much is the amount of the loan that you took out?,q,MR. NEWTON,start_answer
+358,699,26,20,"$50,000.",a,THE WITNESS,start_question
+359,700,26,21,How much do you pay a month on it?,q,MR. NEWTON,start_answer
+360,701,26,22,Around $900.  I don't know the exact figure.,a,THE WITNESS,start_question
+361,702,26,23,You used the home equity loan on your current house to buy the new house down the street; is that right?,q,MR. NEWTON,start_answer
+362,706,27,1,That is correct.,a,THE WITNESS,start_question
+363,707,27,2,But you hadn't started work on it yet?,q,MR. NEWTON,start_answer
+364,708,27,3,I don't have the money yet.  I'm working for that.,a,THE WITNESS,start_question
+365,710,27,5,"What did you do with the 50,000?",q,MR. NEWTON,start_answer
+366,711,27,6,I bought the house that we're talking about.,a,THE WITNESS,start_question
+367,712,27,7,Okay.  What was the total price of the house that you bought?,q,MR. NEWTON,start_answer
+368,714,27,9,"$100,000.",a,THE WITNESS,start_question
+369,715,27,10,"So what -- how did you get the other 50,000?",q,MR. NEWTON,start_answer
+370,716,27,11,Okay.  I was working a lot of shutdowns in order to obtain that money.,a,THE WITNESS,start_question
+371,718,27,13,"So the house cost $100,000, right?",q,MR. NEWTON,start_answer
+372,719,27,14,Yes.,a,THE WITNESS,start_question
+373,720,27,15,"And you paid 50,000 with money you'd saved?",q,MR. NEWTON,start_answer
+374,721,27,16,That is correct.,a,THE WITNESS,start_question
+375,722,27,17,And the other 50- you borrowed as a home equity loan against your current house?,q,MR. NEWTON,start_answer
+376,724,27,19,Correct.,a,THE WITNESS,start_question
+377,725,27,20,"By ""current house,"" I mean where you live with your family.",q,MR. NEWTON,start_answer
+378,727,27,22,Yes.  Where I'm living now.  Yes.,a,THE WITNESS,start_question
+379,728,27,23,"Has anybody ever lived at the new house, the one you bought back in April of last year, since you've owned it?",q,MR. NEWTON,start_answer
+380,732,28,1,Nobody.  Nobody has lived there.,a,THE WITNESS,start_question
+381,733,28,2,What kind of vehicles do you drive?,q,MR. NEWTON,start_answer
+382,734,28,3,I have a 2019 Jetta that I bought for my daughter that she drives to work.,a,THE WITNESS,start_question
+383,736,28,5,Did you buy it new?,q,MR. NEWTON,start_answer
+384,737,28,6,Yes.,a,THE WITNESS,start_question
+385,738,28,7,What other vehicles do you own?,q,MR. NEWTON,start_answer
+386,739,28,8,I also have a 2015 Jetta for my son.  And I have a 2006 Jetta for me.  I have a 2006 Dodge Ram that I use for work where I have my welding rig.,a,THE WITNESS,start_question
+387,742,28,11,"So sometimes you use the Dodge Ram when you're working, and sometimes you use the Jetta when you're not; is that right?",q,MR. NEWTON,start_answer
+388,745,28,14,That is correct.,a,THE WITNESS,start_question
+389,746,28,15,Any other vehicles that you own?,q,MR. NEWTON,start_answer
+390,747,28,16,"I only own the Dodge, the 2006 Jetta.  The other two cars I am paying for them.",a,THE WITNESS,start_question
+391,749,28,18,"How much do you pay a month for the other two cars, the 2015 Jetta and the 2019 Jetta?",q,MR. NEWTON,start_answer
+392,751,28,20,"I pay $160 for the 2015 Jetta and not -- I don't know exactly, but I think I pay $355 a month for the 2019 Jetta.",a,THE WITNESS,start_question
+393,754,28,23,"Besides the car notes that you have and the home equity loan that you're paying on, do you have any other regular expenses other than just utilities and for food?",q,MR. NEWTON,start_answer
+394,759,29,2,Are you asking me also for insurance and taxes?,a,THE WITNESS,start_question
+395,760,29,3,"Other than that.  Do you have any regular expenses besides the car notes that you pay and the real estate property taxes or insurance you may pay on your house, either house that you own?",q,MR. NEWTON,start_answer
+396,764,29,7,"I have a house in Mexico, and I have to pay maintenance on it.  And I also have some bills to pay over there.",a,THE WITNESS,start_question
+397,767,29,10,Okay.  Tell me about the house in Mexico. Where in Mexico do you own a house?,q,MR. NEWTON,start_answer
+398,769,29,12,"Where I was born, Salamanca, Guanajuato, next to it.",a,THE WITNESS,start_question
+399,771,29,14,How much do you pay on that place?,q,MR. NEWTON,start_answer
+400,772,29,15,"Including insurance, it's around $300 a month.",a,THE WITNESS,start_question
+401,773,29,16,$300 a month?,q,MR. NEWTON,start_chat
+402,774,29,17,Yes.,side_chat,THE INTERPRETER,start_question
+403,775,29,18,(BY MR. NEWTON)  And that's for taxes and insurance?,q,MR. NEWTON,start_answer
+404,777,29,20,"Insurance -- this includes insurance that I have over the house, and this also covers a person that I have there that takes care and gives maintenance to the house.",a,THE WITNESS,start_question
+405,781,29,24,Is that a relative or a friend?,q,MR. NEWTON,start_answer
+406,782,29,25,It's a relative.,a,THE WITNESS,start_question
+407,784,30,1,And who is that relative?,q,MR. NEWTON,start_answer
+408,785,30,2,Her name is Maria del Carmen Arredondo.,a,THE WITNESS,start_question
+409,786,30,3,And how is she related to you?,q,MR. NEWTON,start_answer
+410,787,30,4,She's my niece.,a,THE WITNESS,start_question
+411,788,30,5,So she lives at the house?,q,MR. NEWTON,start_answer
+412,789,30,6,No.,a,THE WITNESS,start_question
+413,790,30,7,But she takes care of the house?,q,MR. NEWTON,start_answer
+414,791,30,8,Yes.,a,THE WITNESS,start_question
+415,792,30,9,Is this a rent house in Mexico?,q,MR. NEWTON,start_answer
+416,793,30,10,No.,a,THE WITNESS,start_question
+417,794,30,11,Who lives in the house in Mexico that you pay taxes and insurance on?,q,MR. NEWTON,start_answer
+418,796,30,13,"There I do not pay taxes, and nobody lives there except for the time I go there.",a,THE WITNESS,start_question
+419,798,30,15,How often do you go and stay there?,q,MR. NEWTON,start_answer
+420,799,30,16,"So I've been there in different terms, in different times, and I stay there for different periods of time.",a,THE WITNESS,start_question
+421,802,30,19,How long have you owned this house in Mexico?,q,MR. NEWTON,start_answer
+422,803,30,20,My father inherited it to me.,a,THE WITNESS,start_question
+423,804,30,21,So your father left it to you?,q,MR. NEWTON,start_answer
+424,805,30,22,Yes.,a,THE WITNESS,start_question
+425,806,30,23,When was that?,q,MR. NEWTON,start_answer
+426,807,30,24,I've always had it.  I don't have a specific date.,a,THE WITNESS,start_question
+427,810,31,1,Was it five years ago or less than five?,q,MR. NEWTON,start_answer
+428,811,31,2,Over five.,a,THE WITNESS,start_question
+429,812,31,3,Is your father still alive?,q,MR. NEWTON,start_answer
+430,813,31,4,He died.  He passed.,a,THE WITNESS,start_question
+431,814,31,5,And what -- when did he pass?,q,MR. NEWTON,start_answer
+432,815,31,6,Not quite sure.  I believe it's 2013.,a,THE WITNESS,start_question
+433,816,31,7,And what did he die of?,q,MR. NEWTON,start_answer
+434,817,31,8,I suppose it was age related.  He was 93.,a,THE WITNESS,start_question
+435,818,31,9,Is your mother still alive?,q,MR. NEWTON,start_answer
+436,819,31,10,My mother died when I was 17.,a,THE WITNESS,start_question
+437,820,31,11,What did she die of?,q,MR. NEWTON,start_answer
+438,821,31,12,"She had gone under several surgeries, but I didn't have the ability or the experience to be able to ask.",a,THE WITNESS,start_question
+439,824,31,15,Is Juan your full brother?,q,MR. NEWTON,start_answer
+440,825,31,16,That is correct.,a,THE WITNESS,start_question
+441,826,31,17,You have the same mother and father?,q,MR. NEWTON,start_answer
+442,827,31,18,Yes.,a,THE WITNESS,start_question
+443,828,31,19,Do you know of any health conditions or problems that Juan has?,q,MR. NEWTON,start_answer
+444,830,31,21,No.,a,THE WITNESS,start_question
+445,831,31,22,Know of any diseases he's ever been diagnosed with?,q,MR. NEWTON,start_answer
+446,833,31,24,Not that I'm aware of.,a,THE WITNESS,start_question
+447,834,31,25,Know of any accidents he's been involved in?,q,MR. NEWTON,start_answer
+448,836,32,1,The only thing that I know is what occurred to him at Kuraray.,a,THE WITNESS,start_question
+449,838,32,3,"Other than that, any accidents that you've heard about that he was involved in?",q,MR. NEWTON,start_answer
+450,840,32,5,No.,a,THE WITNESS,start_question
+451,841,32,6,"What about you, sir?  Have you ever been diagnosed with any kind of disease or condition?",q,MR. NEWTON,start_answer
+452,843,32,8,"I had an operation in my left eye, surgery on my left eye three years ago.",a,THE WITNESS,start_question
+453,845,32,10,And why was that?,q,MR. NEWTON,start_answer
+454,846,32,11,Cataract.,a,THE WITNESS,start_question
+455,847,32,12,Just your left eye?,q,MR. NEWTON,start_answer
+456,848,32,13,Yes.,a,THE WITNESS,start_question
+457,849,32,14,Any other surgery on your body besides to your left eye?,q,MR. NEWTON,start_answer
+458,851,32,16,My left knee.,a,THE WITNESS,start_question
+459,852,32,17,Left knee?,q,MR. NEWTON,start_chat
+460,853,32,18,Left knee.,side_chat,THE INTERPRETER,start_question
+461,854,32,19,(BY MR. NEWTON)  And when did you get your left knee operated on?,q,MR. NEWTON,start_answer
+462,856,32,21,"I'm not quite sure, but it was either 1990 or 1991.",a,THE WITNESS,start_question
+463,858,32,23,And what was wrong with your left knee?,q,MR. NEWTON,start_answer
+464,859,32,24,I had a meniscus damaged.,a,THE WITNESS,start_question
+465,860,32,25,How did you hurt your knee?,q,MR. NEWTON,start_answer
+466,862,33,1,I hurt myself on a scaffold in a company.,a,THE WITNESS,start_question
+467,863,33,2,Did you fall off a scaffold?,q,MR. NEWTON,start_answer
+468,864,33,3,"I put a roller table, and it got twisted.",a,THE WITNESS,start_question
+469,865,33,4,You twisted your knee working on a scaffolding?,q,MR. NEWTON,start_answer
+470,866,33,5,That is correct.,a,THE WITNESS,start_question
+471,867,33,6,"Other than that, have you ever been hurt on the job before?",q,MR. NEWTON,start_answer
+472,869,33,8,No.,a,THE WITNESS,start_question
+473,870,33,9,Have you ever been diagnosed with any kind of disease or conditions besides the cataract and your twisted knee back in '90 or '91?,q,MR. NEWTON,start_answer
+474,873,33,12,No.,a,THE WITNESS,start_question
+475,874,33,13,Ever file a Workers' Compensation claim?,q,MR. NEWTON,start_answer
+476,875,33,14,"I'm not familiar with that, but it's probable that when I had the event with my knee, I probably had some of that.",a,THE WITNESS,start_question
+477,878,33,17,"Other than the possible Workers' Compensation claim back in 1990 or '91 with your knee, have you ever filed a Workers' Compensation claim before that you can recall?",q,MR. NEWTON,start_answer
+478,882,33,21,"I had an accident.  I had an explosion of an argon tank.  A gauge blew up.  And if I didn't mention it privately, I didn't have time to answer that.  The question didn't -- didn't arise.",a,THE WITNESS,start_question
+479,886,33,25,Okay.  A gauge blew up in an explosion?,q,MR. NEWTON,start_answer
+480,888,34,1,Yes.,a,THE WITNESS,start_question
+481,889,34,2,And when was that?,q,MR. NEWTON,start_answer
+482,890,34,3,"I'm not quite sure, but it's between 2000, 2004.",a,THE WITNESS,start_question
+483,892,34,5,And where did that take place?,q,MR. NEWTON,start_answer
+484,893,34,6,"Valero, in Texas City.",a,THE WITNESS,start_question
+485,894,34,7,Valero plant in Texas City?,q,MR. NEWTON,start_answer
+486,895,34,8,That is correct.,a,THE WITNESS,start_question
+487,896,34,9,And how were you injured?  How were you hurt?,q,MR. NEWTON,start_answer
+488,897,34,10,Blew up near my face.  It affected my hearing because I hear a buzz.,a,THE WITNESS,start_question
+489,899,34,12,Have you heard a buzz in your years ever since then?,q,MR. NEWTON,start_answer
+490,901,34,14,Most of the time.  Yes.,a,THE WITNESS,start_question
+491,902,34,15,Were you wearing your ear plugs at the time of the explosion in Texas City?,q,MR. NEWTON,start_answer
+492,904,34,17,"Yes.  I was wearing everything.  My glasses, my helmet, and my ear plugs.",a,THE WITNESS,start_question
+493,906,34,19,"Okay.  Besides hurting your ears, what other part of your body was hurt when the gauge blew up?",q,MR. NEWTON,start_answer
+494,908,34,21,Not -- no other parts.,a,THE WITNESS,start_question
+495,909,34,22,Just your hearing?,q,MR. NEWTON,start_answer
+496,910,34,23,Yes.,a,THE WITNESS,start_question
+497,911,34,24,Were you cut any place on your face?,q,MR. NEWTON,start_answer
+498,912,34,25,It cut me here one piece -- a piece of the gauge when it exploded.,a,THE WITNESS,start_question
+499,915,35,2,Glass cut you on the left cheek?,q,MR. NEWTON,start_answer
+500,916,35,3,The gauges have a plastic part and --,a,THE WITNESS,start_question
+501,917,35,4,Which plastic part?,q,MR. NEWTON,start_answer
+502,918,35,5,-- that plastic part flew and hit me like that.,a,THE WITNESS,start_question
+503,919,35,6,Okay.  Did you have to have stitches?,q,MR. NEWTON,start_answer
+504,920,35,7,It wasn't needed.,a,THE WITNESS,start_question
+505,921,35,8,"Okay.  Besides a cut to your left cheek of your face and affecting your hearing, any other injuries when that gauge exploded?",q,MR. NEWTON,start_answer
+506,924,35,11,No.,a,THE WITNESS,start_question
+507,925,35,12,And you think you may have filed a Workers' Compensation claim for that?,q,MR. NEWTON,start_answer
+508,927,35,14,I didn't.,a,THE WITNESS,start_question
+509,928,35,15,No Workers' Compensation claim for that?,q,MR. NEWTON,start_answer
+510,929,35,16,Are you talking about money checks to help me out?,a,THE WITNESS,start_question
+511,931,35,18,Right.  A Workers' Compensation claim that you filed as a result of an on-the-job injury.  Like you said you thought -- you probably did back in '90 or '91 when you hurt your left knee.,q,MR. NEWTON,start_answer
+512,935,35,22,No.  I didn't get any money for anything.,a,THE WITNESS,start_question
+513,936,35,23,"Did you file a lawsuit as a result of the gauge blowing up in your face back at Texas City, Valero?",q,MR. NEWTON,start_answer
+514,938,35,25,No.,a,THE WITNESS,start_question
+515,940,36,1,Did you get any money because of what happened to you?,q,MR. NEWTON,start_answer
+516,942,36,3,No.,a,THE WITNESS,start_question
+517,943,36,4,"Okay.  Why didn't you file suit?  It affected your hearing where you have a buzz that you hear to today, and you got a cut on your face.  Why didn't you file a lawsuit?",q,MR. NEWTON,start_answer
+518,947,36,8,"That's what I ask myself today, but it's too late now.  I didn't do it.",a,THE WITNESS,start_question
+519,949,36,10,Okay.  And you didn't file a Workers' Compensation claim either; is that right?,q,MR. NEWTON,start_answer
+520,951,36,12,No.,a,THE WITNESS,start_question
+521,952,36,13,"No, you did not file a Workers' Compensation?",q,MR. NEWTON,start_answer
+522,953,36,14,No.  I did not.,a,THE WITNESS,start_question
+523,954,36,15,Anybody offered you any money or pay you any money as a result of your injuries from the gauge blowing up?,q,MR. NEWTON,start_answer
+524,957,36,18,Nobody offered me anything.,a,THE WITNESS,start_question
+525,958,36,19,And you didn't receive any money either?,q,MR. NEWTON,start_answer
+526,959,36,20,Nope.,a,THE WITNESS,start_question
+527,960,36,21,Did you lose any time from work as a result of that accident?,q,MR. NEWTON,start_answer
+528,962,36,23,"I took off days, weeks.  I even taken months to just be better.",a,THE WITNESS,start_question
+529,964,36,25,After the gauge blew up in your face?,q,MR. NEWTON,start_answer
+530,966,37,1,Yes.  I've rested more when I see -- during my jobs.,a,THE WITNESS,start_question
+531,968,37,3,"Okay.  Besides hurting your knee in '90, '91 and the gauge blowing up in 2000 to 2004, have you ever been hurt on the job before?  Or is that all you can remember?",q,MR. NEWTON,start_answer
+532,972,37,7,Those are the only two.,a,THE WITNESS,start_question
+533,973,37,8,Okay.  Ever been in a car accident?,q,MR. NEWTON,start_answer
+534,974,37,9,Yes.,a,THE WITNESS,start_question
+535,975,37,10,How many accidents -- car accidents have you been in?,q,MR. NEWTON,start_answer
+536,977,37,12,One.  No more.,a,THE WITNESS,start_question
+537,978,37,13,When was that?,q,MR. NEWTON,start_answer
+538,979,37,14,I think it was in 1999 or 2000.,a,THE WITNESS,start_question
+539,980,37,15,Tell me about the accident.,q,MR. NEWTON,start_answer
+540,981,37,16,It was in Mexico.  It was during a vacation time.  I went there with my wife and my kids.,a,THE WITNESS,start_question
+541,983,37,18,Okay.  And what happened?  What kind of accident was it?,q,MR. NEWTON,start_answer
+542,985,37,20,"I was doing about 70 miles per hour.  Well, oncoming traffic was a passenger bus.  And that passenger bus evaded a pothole, and it evaded my lane. And that made me lose the highway, and that gave me a lot of problems.",a,THE WITNESS,start_question
+543,990,37,25,"Okay.  So a bus came into your lane, and you had to leave the highway?",q,MR. NEWTON,start_answer
+544,993,38,2,Yeah.  I couldn't collide with him.,a,THE WITNESS,start_question
+545,994,38,3,Right.  So what happened after you left the roadway?,q,MR. NEWTON,start_answer
+546,996,38,5,"I went downward, downhill about 40 feet between trees, and my car -- my truck stopped at a tree.",a,THE WITNESS,start_question
+547,998,38,7,Did you hit the tree?,q,MR. NEWTON,start_answer
+548,999,38,8,Yes.,a,THE WITNESS,start_question
+549,1000,38,9,How much damage to your car?,q,MR. NEWTON,start_answer
+550,1001,38,10,About 50 percent.,a,THE WITNESS,start_question
+551,1002,38,11,"Was it drivable after that, or did you have to get a new car?",q,MR. NEWTON,start_answer
+552,1004,38,13,"The insurance took it out, took it to the dealer, fixed it up.  So the days of being there ended, and I had to come back.",a,THE WITNESS,start_question
+553,1007,38,16,Okay.  Were you hurt in that accident?,q,MR. NEWTON,start_answer
+554,1008,38,17,No.,a,THE WITNESS,start_question
+555,1009,38,18,Anybody else in your car hurt in that accident?,q,MR. NEWTON,start_answer
+556,1010,38,19,"My wife, her right hand a little bit.",a,THE WITNESS,start_question
+557,1011,38,20,Anybody else in the car with you besides you and your wife?,q,MR. NEWTON,start_answer
+558,1013,38,22,"Me, brother-in-law, my son, and my daughter were in the car.",a,THE WITNESS,start_question
+559,1015,38,24,Were they hurt?,q,MR. NEWTON,start_answer
+560,1016,38,25,"A little bit, but nothing serious.",a,THE WITNESS,start_question
+561,1018,39,1,Did they have to go to the hospital?,q,MR. NEWTON,start_answer
+562,1019,39,2,No.,a,THE WITNESS,start_question
+563,1020,39,3,Did you go to the hospital?,q,MR. NEWTON,start_answer
+564,1021,39,4,No.,a,THE WITNESS,start_question
+565,1022,39,5,Any other car accidents besides that?,q,MR. NEWTON,start_answer
+566,1023,39,6,That's all.,a,THE WITNESS,start_question
+567,1024,39,7,"Any other accidents, any falls where, like, you've fallen off a bicycle or down any stairs, anything like that?",q,MR. NEWTON,start_answer
+568,1027,39,10,Nothing of the sort.,a,THE WITNESS,start_question
+569,1028,39,11,Ever spend a night in the hospital?,q,MR. NEWTON,start_answer
+570,1029,39,12,Once a long time ago.,a,THE WITNESS,start_question
+571,1030,39,13,Was that for your knee surgery or for something else?,q,MR. NEWTON,start_answer
+572,1032,39,15,I had a problem in my throat.,a,THE WITNESS,start_question
+573,1033,39,16,What was the problem you had in your throat?,q,MR. NEWTON,start_answer
+574,1034,39,17,"It's a tonsillitis.  I had to spend the night there.  They had to drain it, and I spent the night there.",a,THE WITNESS,start_question
+575,1037,39,20,"Besides overnight for tonsillitis, anything else?",q,MR. NEWTON,start_answer
+576,1039,39,22,No.  That's it.,a,THE WITNESS,start_question
+577,1040,39,23,"When you had your knee operated on, was that day surgery or did you spend the night for that?",q,MR. NEWTON,start_answer
+578,1042,39,25,I went to -- in the morning and left the same day.,a,THE WITNESS,start_question
+579,1045,40,2,When was the last time you were at an emergency room?,q,MR. NEWTON,start_answer
+580,1047,40,4,I never been there except for that time for my throat.,a,THE WITNESS,start_question
+581,1049,40,6,When was that?,q,MR. NEWTON,start_answer
+582,1050,40,7,"A long time, ago probably '86.",a,THE WITNESS,start_question
+583,1051,40,8,Was that in the United States or Mexico?,q,MR. NEWTON,start_answer
+584,1052,40,9,It was here.,a,THE WITNESS,start_question
+585,1053,40,10,"Do you have a family doctor, doctor that you and your family see if you need to?",q,MR. NEWTON,start_answer
+586,1055,40,12,No.,a,THE WITNESS,start_question
+587,1056,40,13,Do you have a clinic that your family goes to if they need to see a doctor?,q,MR. NEWTON,start_answer
+588,1058,40,15,No.,a,THE WITNESS,start_question
+589,1059,40,16,Do you have a place where you get prescriptions filled?,q,MR. NEWTON,start_answer
+590,1061,40,18,I usually go to Walgreens.,a,THE WITNESS,start_question
+591,1062,40,19,And which Walgreens is that?,q,MR. NEWTON,start_answer
+592,1063,40,20,It's in my neighborhood Broadway and Bellfort.,a,THE WITNESS,start_question
+593,1064,40,21,When's the last time you had a prescription filled there?,q,MR. NEWTON,start_answer
+594,1066,40,23,Maybe last year because of the problem I have in my neck and my low back.,a,THE WITNESS,start_question
+595,1068,40,25,"And what kind of medicine did you get filled there, prescription?",q,MR. NEWTON,start_answer
+596,1071,41,2,I do not know.,a,THE WITNESS,start_question
+597,1072,41,3,When's the last time you took medicine of any kind?,q,MR. NEWTON,start_answer
+598,1074,41,5,It could have been when they did surgery on my eye.,a,THE WITNESS,start_question
+599,1076,41,7,Okay.  Can you recall any other time?,q,MR. NEWTON,start_answer
+600,1077,41,8,"Maybe three years ago that I took medicine for that, but I don't recall another time.",a,THE WITNESS,start_question
+601,1079,41,10,"Did you take just one kind of medicine, or was it more than one for your neck and your low back?",q,MR. NEWTON,start_answer
+602,1081,41,12,Just one.,a,THE WITNESS,start_question
+603,1082,41,13,And do you know what it's for?  Was it for pain or inflammation or what?,q,MR. NEWTON,start_answer
+604,1084,41,15,He told me -- he told me that he wanted to try first to see if this medication would bring down the swelling.,a,THE WITNESS,start_question
+605,1087,41,18,Swelling where?,q,MR. NEWTON,start_answer
+606,1088,41,19,Part of my neck and my low back where it hurts.,a,THE WITNESS,start_question
+607,1089,41,20,And what was the doctor that gave you that medicine prescription?,q,MR. NEWTON,start_answer
+608,1091,41,22,Tomaszek.  I can't pronounce it directly.,a,THE WITNESS,start_question
+609,1092,41,23,How many times have you seen Dr. Tomaszek?,q,MR. NEWTON,start_answer
+610,1093,41,24,If I'm not missing anyone -- any -- I think it's four.,a,THE WITNESS,start_question
+611,1096,42,1,When's the last time you saw Dr. Tomaszek?,q,MR. NEWTON,start_answer
+612,1097,42,2,"I'm not quite sure, but I believe it's March of this year.",a,THE WITNESS,start_question
+613,1099,42,4,Do you have any doctors' appointments now scheduled?,q,MR. NEWTON,start_answer
+614,1101,42,6,None.,a,THE WITNESS,start_question
+615,1102,42,7,Do you have any medical procedures planned or scheduled?,q,MR. NEWTON,start_answer
+616,1104,42,9,I told him we talked about the process of what they did to me and how I felt.,a,THE WITNESS,start_chat
+617,1106,42,11,Object as nonresponsive.,side_chat,MR. NEWTON,start_question
+618,1107,42,12,(BY MR. NEWTON)  Do you have any medical procedures planned for the future?,q,MR. NEWTON,start_answer
+619,1109,42,14,The doctor has not concluded what's going to occur to me yet.,a,THE WITNESS,start_question
+620,1111,42,16,So nothing is on the schedule or calendar for any medical procedures; is that right?,q,MR. NEWTON,start_answer
+621,1113,42,18,Not yet.,a,THE WITNESS,start_question
+622,1114,42,19,What kind of medical procedures have you had?,q,MR. NEWTON,start_answer
+623,1115,42,20,They give me three injections.,a,THE WITNESS,start_question
+624,1116,42,21,What part of your body did they give you injections to?,q,MR. NEWTON,start_answer
+625,1118,42,23,In my neck.,a,THE WITNESS,start_question
+626,1119,42,24,And who did those?,q,MR. NEWTON,start_answer
+627,1120,42,25,Dr. Tomaszek.,a,THE WITNESS,start_question
+628,1122,43,1,And did you get sent to Dr. Tomaszek by your lawyers?,q,MR. NEWTON,start_answer
+629,1124,43,3,The doctor for my therapy sent me there.  I don't know how it is.,a,THE WITNESS,start_question
+630,1126,43,5,And what doctor are you talking about that you saw for therapy?,q,MR. NEWTON,start_answer
+631,1128,43,7,Zicterman.,a,THE WITNESS,start_question
+632,1129,43,8,Was that somebody at Texas Rehab?,q,MR. NEWTON,start_answer
+633,1130,43,9,That is correct.,a,THE WITNESS,start_chat
+634,1131,43,10,"Mr. Court Reporter, do you have that exhibit, the exhibits from the last deposition?  Can you pull those for us, please?  I just need the one from Texas Rehab.  Got it.",side_chat,MR. NEWTON,start_question
+635,1135,43,14,"(BY MR. NEWTON)  Mr. Arredondo, let me show you what's been marked as Exhibit No. 1016 to your brother Juan's deposition.  You were in here when I showed this to him, but would you confirm this is the Texas Rehab facility where you first saw a doctor after Kuraray?",q,MR. NEWTON,start_answer
+636,1140,43,19,Yes.,a,THE WITNESS,start_question
+637,1141,43,20,"And you were sent there by your lawyer, right?",q,MR. NEWTON,start_answer
+638,1142,43,21,Yes.,a,THE WITNESS,start_question
+639,1143,43,22,When do you recall first going there?,q,MR. NEWTON,start_answer
+640,1144,43,23,"I don't want to give out dates, but it's probably the last week of May.",a,THE WITNESS,start_question
+641,1146,43,25,"Okay.  How long after the accident was that, the accident at the Kuraray plant?",q,MR. NEWTON,start_answer
+642,1149,44,2,That I went to therapy?,a,THE WITNESS,start_question
+643,1150,44,3,Yeah.  When's the first time you went to Texas Rehab after the accident?,q,MR. NEWTON,start_answer
+644,1152,44,5,Approximately two weeks after that.,a,THE WITNESS,start_question
+645,1153,44,6,"Okay.  If your records show it was May 29, 2018, does that sound right?",q,MR. NEWTON,start_answer
+646,1155,44,8,Yes.,a,THE WITNESS,start_question
+647,1156,44,9,Did you go there with your brother Juan?,q,MR. NEWTON,start_answer
+648,1157,44,10,That is correct.,a,THE WITNESS,start_question
+649,1158,44,11,"Each time you went to therapy there at Texas Rehab, did you go there with Juan?",q,MR. NEWTON,start_answer
+650,1160,44,13,Not always.,a,THE WITNESS,start_question
+651,1161,44,14,Most of the time?,q,MR. NEWTON,start_answer
+652,1162,44,15,No.,a,THE WITNESS,start_question
+653,1163,44,16,Sometimes?,q,MR. NEWTON,start_answer
+654,1164,44,17,Some.,a,THE WITNESS,start_question
+655,1165,44,18,How many times have you been to Texas Rehab?,q,MR. NEWTON,start_answer
+656,1166,44,19,"The same as he, around 10 times -- 10 months.",a,THE WITNESS,start_question
+657,1167,44,20,"When you say ""same as he,"" you mean who?",q,MR. NEWTON,start_answer
+658,1168,44,21,My brother Juan.,a,THE WITNESS,start_question
+659,1169,44,22,And what did you have done at Texas Rehab?,q,MR. NEWTON,start_answer
+660,1170,44,23,Different things.,a,THE WITNESS,start_question
+661,1171,44,24,Tell me about it.,q,MR. NEWTON,start_answer
+662,1172,44,25,"They would put patches on my knee, pads on my knees, on my low back, and on my neck.  And regarding my shoulder, I would rotate my shoulder using a wheel and with other parts that they have there.",a,THE WITNESS,start_question
+663,1177,45,4,Which shoulder?,q,MR. NEWTON,start_answer
+664,1178,45,5,The right.,a,THE WITNESS,start_question
+665,1179,45,6,And how long would you stay each time you went to Texas Rehab?,q,MR. NEWTON,start_answer
+666,1181,45,8,Sometimes 20 minutes; sometimes 40 minutes.,a,THE WITNESS,start_question
+667,1182,45,9,Usually how long was it that you would stay? Was it closer to 20 or closer to 40?,q,MR. NEWTON,start_answer
+668,1184,45,11,The first times it was closer to 40.  And then the -- the other times were closer to 20.,a,THE WITNESS,start_question
+669,1186,45,13,Would you go there before or after work?,q,MR. NEWTON,start_answer
+670,1187,45,14,Most of the times it was after work.,a,THE WITNESS,start_question
+671,1188,45,15,Sometimes it would be before work?,q,MR. NEWTON,start_answer
+672,1189,45,16,"If I was not working, then yes.",a,THE WITNESS,start_question
+673,1190,45,17,Sometimes you would go to Texas Rehab when you weren't working; is that right?,q,MR. NEWTON,start_answer
+674,1192,45,19,"Because we had a rain out, so we wouldn't work. So I would take that day, and I would go there.",a,THE WITNESS,start_question
+675,1194,45,21,Okay.  Like a rain out or something like that?,q,MR. NEWTON,start_chat
+676,1195,45,22,Rain out.  Yes.,side_chat,THE INTERPRETER,start_question
+677,1196,45,23,"(BY MR. NEWTON)  But you never miss work to go to Texas Rehab, right?",q,MR. NEWTON,start_answer
+678,1198,45,25,I would always request an early out in order to arrive promptly at the therapy.,a,THE WITNESS,start_question
+679,1201,46,2,"So how much time would you lose from work, if any, to go to therapy?",q,MR. NEWTON,start_answer
+680,1203,46,4,I would lose about five or six hours of work when I had to go twice to therapy per week.,a,THE WITNESS,start_question
+681,1205,46,6,"If you went twice in a week, you'd lose five to six hours that week.  Is that what you're saying?",q,MR. NEWTON,start_answer
+682,1207,46,8,Approximately.,a,THE WITNESS,start_question
+683,1208,46,9,Are there some weeks where you didn't miss any time from work at all?,q,MR. NEWTON,start_answer
+684,1210,46,11,"Through the ten-month period at the beginning, I would lose hours for two days in the first months. But afterwards, I would just lose one hour because I had to be going constantly to the therapies.",a,THE WITNESS,start_question
+685,1214,46,15,"So for the first month, you lost five to six hours a week if you had to go twice a week; is that right?",q,MR. NEWTON,start_answer
+686,1217,46,18,No.,a,THE WITNESS,start_question
+687,1218,46,19,All right.  I'm confused.  You said for the first month you would lose five or six hours a week if you had to go to therapy two times a week; is that correct?,q,MR. NEWTON,start_answer
+688,1222,46,23,I said the first months.,a,THE WITNESS,start_question
+689,1223,46,24,First month.  That's right?,q,MR. NEWTON,start_answer
+690,1224,46,25,Not one month.  It was more than one month.,a,THE WITNESS,start_question
+691,1226,47,1,"Okay.  Well, you said ""first month.""  You meant first months?",q,MR. NEWTON,start_chat
+692,1228,47,3,First months.,side_chat,THE INTERPRETER,start_chat
+693,1229,47,4,(In English) Months.,side_chat,THE WITNESS,start_question
+694,1230,47,5,(BY MR. NEWTON)  For how many months?,q,MR. NEWTON,start_answer
+695,1231,47,6,"(Via Interpreter) I don't have exact figure, but the first months --",a,THE WITNESS,start_question
+696,1233,47,8,One or two --,q,MR. NEWTON,start_answer
+697,1234,47,9,Twice.,a,THE WITNESS,start_question
+698,1235,47,10,Two or three?,q,MR. NEWTON,start_answer
+699,1236,47,11,"Two, three.",a,THE WITNESS,start_question
+700,1237,47,12,"Okay.  Two to three months you'd lose five to six hours a week if you had to go two times a week, right?",q,MR. NEWTON,start_answer
+701,1240,47,15,That is correct.,a,THE WITNESS,start_question
+702,1241,47,16,"Now some weeks you'd only go once a week, right?",q,MR. NEWTON,start_answer
+703,1243,47,18,Once.,a,THE WITNESS,start_question
+704,1244,47,19,Okay.  And then the following months you said you'd lose about an hour a week?,q,MR. NEWTON,start_answer
+705,1246,47,21,"No.  It was more.  It was actually -- because I had to drive from where I worked to the location, so it was close to two hours.",a,THE WITNESS,start_question
+706,1249,47,24,Okay.,q,MR. NEWTON,start_chat
+707,1250,47,25,Let's take a break.  Going for a while.,side_chat,MR. NEWTON,start_chat
+708,1253,48,2,Going off the record at 3:26 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+709,1255,48,4,(Break taken from 3:26 p.m. to 3:39 p.m.),brackets,,start_chat
+710,1256,48,5,We are back on the record at 3:39 p.m.,side_chat,THE VIDEOGRAPHER,start_question
+711,1258,48,7,"(BY MR. NEWTON)  Mr. Arredondo, we had a chance to take a break.  Are you ready to proceed?",q,MR. NEWTON,start_answer
+712,1260,48,9,Yes.  I'm ready.,a,THE WITNESS,start_question
+713,1261,48,10,"You understand, sir, you're under oath still? You understand that?",q,MR. NEWTON,start_answer
+714,1263,48,12,I understand.,a,THE WITNESS,start_question
+715,1264,48,13,Okay.  Let's talk about the day of the accident.,q,MR. NEWTON,start_answer
+716,1266,48,15,Okay.,a,THE WITNESS,start_question
+717,1267,48,16,What time did you get to work that day?,q,MR. NEWTON,start_answer
+718,1268,48,17,Before 7:00.,a,THE WITNESS,start_question
+719,1269,48,18,Is that typical for you to get there before 7:00?,q,MR. NEWTON,start_answer
+720,1271,48,20,Usually between 20 or 15 prior to 7:00.,a,THE WITNESS,start_question
+721,1272,48,21,Okay.  So you at least -- 6:45 to -- 6:40 to 6:45 is when you'd arrive at work there at Kuraray; is that right?,q,MR. NEWTON,start_answer
+722,1275,48,24,Correct.,a,THE WITNESS,start_question
+723,1276,48,25,And did you have a badge that you had to use to get in?,q,MR. NEWTON,start_answer
+724,1279,49,2,Yes.,a,THE WITNESS,start_question
+725,1280,49,3,And what gate did you come through that morning?,q,MR. NEWTON,start_answer
+726,1282,49,5,"I do not recall the number, but where the guard was posted checking the badge.",a,THE WITNESS,start_question
+727,1284,49,7,Where a guard was posted checking the badge?,q,MR. NEWTON,start_answer
+728,1285,49,8,Every day.,a,THE WITNESS,start_question
+729,1286,49,9,So it was by a guard shack or something?,q,MR. NEWTON,start_answer
+730,1287,49,10,Yes.,a,THE WITNESS,start_question
+731,1288,49,11,Okay.  Now where would you park your truck and welding rig?,q,MR. NEWTON,start_answer
+732,1290,49,13,"After I crossed the guard shack, there was a parking lot to the left side.  We'd park it there, and then I would walk where we would hold a meeting.",a,THE WITNESS,start_question
+733,1293,49,16,"So you parked where you were assigned to park, right?",q,MR. NEWTON,start_answer
+734,1295,49,18,That is correct.,a,THE WITNESS,start_question
+735,1296,49,19,"And when you got there that day, what did you do?  What's the first thing you did?",q,MR. NEWTON,start_answer
+736,1298,49,21,I walked into -- listened to the safety meeting we received every morning.,a,THE WITNESS,start_question
+737,1300,49,23,Was this at the lunch tent?,q,MR. NEWTON,start_answer
+738,1301,49,24,That is correct.,a,THE WITNESS,start_question
+739,1302,49,25,"And this safety meeting was conducted by Force employees, right?",q,MR. NEWTON,start_answer
+740,1305,50,2,"Safety meetings of Force, yes.",a,THE WITNESS,start_question
+741,1306,50,3,"And do you recall what the topic of the safety meeting was that day, the day of accident?",q,MR. NEWTON,start_answer
+742,1308,50,5,Not really.,a,THE WITNESS,start_question
+743,1309,50,6,How long would these safety meetings last each day?,q,MR. NEWTON,start_answer
+744,1311,50,8,From 20 to 25 minutes.,a,THE WITNESS,start_question
+745,1312,50,9,Had them every day that you worked?,q,MR. NEWTON,start_answer
+746,1313,50,10,Every day in the morning.,a,THE WITNESS,start_question
+747,1314,50,11,"And they would remind you of safety tips, things to do, things not to do, stuff like that, right?",q,MR. NEWTON,start_answer
+748,1316,50,13,That is correct.,a,THE WITNESS,start_question
+749,1317,50,14,Now where did you work that day?,q,MR. NEWTON,start_answer
+750,1318,50,15,At the fab shop.,a,THE WITNESS,start_question
+751,1319,50,16,And what unit was the fab shop next to?  Do you remember?,q,MR. NEWTON,start_answer
+752,1321,50,18,The fab shop is outside of all the units.,a,THE WITNESS,is brackets
+753,1322,50,19,(Exhibits 1018 and 1019 marked.),brackets,,start_question
+754,1323,50,20,(BY MR. NEWTON)  And how long had you worked there at the Kuraray plant at the time of the accident?,q,MR. NEWTON,start_answer
+755,1325,50,22,Since March up to the date of the accident.,a,THE WITNESS,start_question
+756,1326,50,23,Couple of months then?,q,MR. NEWTON,start_answer
+757,1327,50,24,Between two or three months.,a,THE WITNESS,start_question
+758,1328,50,25,"Okay.  Just like I did with your brother Juan, I'm going to show you a couple of maps.  And these are Exhibits 1018 and 1019.  And I want you to take a look at them.  Take your time.  Kind of orient yourself.",q,MR. NEWTON,start_answer
+759,1333,51,4,(Untranslated response.),a,THE WITNESS,start_question
+760,1334,51,5,"Okay.  Can you find on the map -- don't mark anything yet, but can you find on the map where you were working that day?",q,MR. NEWTON,start_answer
+761,1337,51,8,"I hope I'm not wrong, but the flare was here. Then it was next to it.  I am guiding myself because of the location of the flare.",a,THE WITNESS,start_question
+762,1340,51,11,"Okay.  That's fine.  I want you to take a pen if you have one handy, and I want you to write a W where you were working the day of the accident. Little bit bigger than that.  Yeah. Okay.  Now were you working at that same location when the accident occurred?",q,MR. NEWTON,start_answer
+763,1346,51,17,Yes.,a,THE WITNESS,start_question
+764,1347,51,18,"Okay.  Then I want you to write right next to the W, I want you to write the letter I. Okay.  Now what were you doing at the time of the accident?",q,MR. NEWTON,start_answer
+765,1351,51,22,I was welding.,a,THE WITNESS,start_question
+766,1352,51,23,And what were you welding on?,q,MR. NEWTON,start_answer
+767,1353,51,24,"I'm quite sure it was a 6-inch diameter pipe tube.  I want to be sure, but I'm sure it was a pipe, 6 diameters -- 6-inch diameter.",a,THE WITNESS,start_question
+768,1357,52,2,"Okay.  And this is in the fab shop, right?",q,MR. NEWTON,start_answer
+769,1358,52,3,Yes.,a,THE WITNESS,start_question
+770,1359,52,4,"Now I've never been to the fab shop, so is it like inside with an opening on each end, or is it covered like a canopy or a roof or something?",q,MR. NEWTON,start_answer
+771,1362,52,7,"They call it a fab shop, but it's actually a structure built from scaffolds covered and surrounded by plastic to prevent the wind from coming in.  And we make pieces to be taken into the workplaces.",a,THE WITNESS,start_question
+772,1366,52,11,"Okay.  Is it covered like by some kind of canopy or some kind of building, some kind of roof or something?",q,MR. NEWTON,start_answer
+773,1369,52,14,"It's hooked up with metal parts, and then the upper layer of the roof is covered with a plastic that falls down and surrounds us in order to prevent the air from coming in.",a,THE WITNESS,start_question
+774,1373,52,18,"Okay.  I mean, does it keep you out of the weather if it's raining or something?",q,MR. NEWTON,start_answer
+775,1375,52,20,They do things for different purposes.  We work with argon.,a,THE WITNESS,start_question
+776,1377,52,22,With what?,q,MR. NEWTON,start_answer
+777,1378,52,23,Argon.  Argon.,a,THE WITNESS,start_question
+778,1379,52,24,Argon?,q,MR. NEWTON,start_answer
+779,1380,52,25,"Argon.  If argon is mixed up with air, what we're doing is left to spoil, it's unusable anymore.  So it protects the air from coming in and mixing with the argon, and it also protects us against water.",a,THE WITNESS,start_question
+780,1385,53,4,Okay.  Were you working with anyone at the time of the accident?,q,MR. NEWTON,start_answer
+781,1387,53,6,There were about three or four of us at the time of the accident.  I don't remember how many were there.,a,THE WITNESS,start_question
+782,1390,53,9,Do you remember their names?,q,MR. NEWTON,start_answer
+783,1391,53,10,Of none.  Just one.,a,THE WITNESS,start_question
+784,1392,53,11,And who is that?,q,MR. NEWTON,start_answer
+785,1393,53,12,Antonio.,a,THE WITNESS,start_question
+786,1394,53,13,"Remember his last name?  Don't guess, but if you remember, just tell me.",q,MR. NEWTON,start_answer
+787,1396,53,15,Arroyo.,a,THE WITNESS,start_question
+788,1397,53,16,Arroyo?,q,MR. NEWTON,start_chat
+789,1398,53,17,Arroyo.,side_chat,THE INTERPRETER,start_question
+790,1399,53,18,(BY MR. NEWTON)  And what was Antonio Arroyo doing while you were working there in the fab shop?,q,MR. NEWTON,start_answer
+791,1401,53,20,He's also a wel- -- a welder like me.,a,THE WITNESS,start_question
+792,1402,53,21,"Was he welding on the same pipe you were, or was he welding on his own pipe?",q,MR. NEWTON,start_answer
+793,1404,53,23,There -- nothing was prepared for him at that time.,a,THE WITNESS,start_question
+794,1406,53,25,So what was he doing?,q,MR. NEWTON,start_answer
+795,1408,54,1,Waiting for something to be handed to him in order to start welding.,a,THE WITNESS,start_question
+796,1410,54,3,"Okay.  Where was he in relationship to you? Was he standing next to you, or was he a couple of feet away?  Or how would you describe it?",q,MR. NEWTON,start_answer
+797,1413,54,6,He was about 6 to 8 feet away from me.,a,THE WITNESS,start_question
+798,1414,54,7,Okay.  Now when's the first time you realized something was wrong?,q,MR. NEWTON,start_answer
+799,1416,54,9,I never realized something was wrong until I heard the explosion.,a,THE WITNESS,start_question
+800,1418,54,11,Did you actually hear an explosion?,q,MR. NEWTON,start_answer
+801,1419,54,12,I did.,a,THE WITNESS,start_question
+802,1420,54,13,Describe how it sounded.,q,MR. NEWTON,start_answer
+803,1421,54,14,Would you like me describe it through a sound?,a,THE WITNESS,start_question
+804,1422,54,15,Yes.,q,MR. NEWTON,start_answer
+805,1423,54,16,"It was a sound that he produced from an RV.  An RV is a release valve, but a very big release valve.  It sounded like this, and then the flame came out with black smoke.",a,THE WITNESS,start_question
+806,1427,54,20,Did you actually see the flame?,q,MR. NEWTON,start_answer
+807,1428,54,21,"From where I was standing, you could see everything.",a,THE WITNESS,start_question
+808,1430,54,23,How far away from you was the flame?,q,MR. NEWTON,start_answer
+809,1431,54,24,How can I say it?,a,THE WITNESS,start_question
+810,1432,54,25,How many blocks?,q,MR. NEWTON,start_answer
+811,1434,55,1,Between two and three.,a,THE WITNESS,start_question
+812,1435,55,2,Between two and three blocks away?,q,MR. NEWTON,start_answer
+813,1436,55,3,Yes.,a,THE WITNESS,start_question
+814,1437,55,4,"Okay.  So you heard a loud noise like a release of air from a pressure valve, like a release valve, something like that?",q,MR. NEWTON,start_answer
+815,1440,55,7,That is when I -- that is what I believe it was.  That is what I am assuming.  I actually do not know what it was.,a,THE WITNESS,start_question
+816,1443,55,10,"Okay.  But you heard this noise, right?  And describe it for us.  Make that noise again, if you can what did it sound like?",q,MR. NEWTON,start_answer
+817,1446,55,13,It was very strong.  It was loud.,a,THE WITNESS,start_question
+818,1447,55,14,How long did it last?,q,MR. NEWTON,start_answer
+819,1448,55,15,A second.  The sound lasted for seconds and was followed by the explosion.,a,THE WITNESS,start_question
+820,1450,55,17,What did the explosion sound like?,q,MR. NEWTON,start_answer
+821,1451,55,18,Like that.  Very strong.  Very loud.,a,THE WITNESS,start_question
+822,1452,55,19,"And from where you were working, you could look out and see the fire?",q,MR. NEWTON,start_answer
+823,1454,55,21,Yes.,a,THE WITNESS,start_question
+824,1455,55,22,Then what did you do?  What did you do next?,q,MR. NEWTON,start_answer
+825,1456,55,23,"On my side I ran.  I ran because I got scared because near where that explosion occurred was my brother, and I was scared that there could be an event that would crawl or walk or move towards him.",a,THE WITNESS,start_question
+826,1461,56,2,Where was your brother working?,q,MR. NEWTON,start_answer
+827,1462,56,3,He was working nearby where it sounded like that.,a,THE WITNESS,start_question
+828,1464,56,5,Where would you say your brother was working on the plant or at the plant at the time of the event?,q,MR. NEWTON,start_answer
+829,1466,56,7,"From my standpoint to where the event occurred, it's very hard for me to pinpoint a place.",a,THE WITNESS,start_question
+830,1468,56,9,How did you know where your brother was working that day?,q,MR. NEWTON,start_answer
+831,1470,56,11,Because -- because he'd been working at the same spot for over a day.,a,THE WITNESS,start_question
+832,1472,56,13,Now did you guys ride to work together?,q,MR. NEWTON,start_answer
+833,1473,56,14,"No.  He drives his own rig, and I drive mine.",a,THE WITNESS,start_question
+834,1474,56,15,Okay.  Did you see him that day before the fire?,q,MR. NEWTON,start_answer
+835,1476,56,17,"That day when it occurred, I ran.  And while I was running, I saw him.  That is when I fell because I was running to him instead of running to the other side.",a,THE WITNESS,start_chat
+836,1479,56,20,Okay.  Objection; nonresponsive.,side_chat,MR. NEWTON,start_question
+837,1481,56,22,(BY MR. NEWTON)  When is the first time you saw your brother that day?,q,MR. NEWTON,start_answer
+838,1483,56,24,At the safety meeting.,a,THE WITNESS,start_question
+839,1484,56,25,"Okay.  So you went over to the fab shop, and he went to wherever he was working, right?",q,MR. NEWTON,start_answer
+840,1487,57,2,That is correct.,a,THE WITNESS,start_question
+841,1488,57,3,Okay.  Do you know where in the plant he was working?,q,MR. NEWTON,start_answer
+842,1490,57,5,"Yes.  I would know where he was working.  He would -- he could probably move from one place to another, but he was in the same area.",a,THE WITNESS,start_question
+843,1493,57,8,"Okay.  There on that map that you marked your location, Exhibit No. 1019, can you identify where you believe your brother was working at the time of the accident?  Don't guess.  Just tell me where you believe him to be working at the time of the accident.  If you don't know, that's okay, too.",q,MR. NEWTON,start_answer
+844,1499,57,14,"Somewhere here, but I'm not quite sure.",a,THE WITNESS,start_question
+845,1500,57,15,"Now after the fire when you heard the boom, what did you go -- or where did you go next?",q,MR. NEWTON,start_answer
+846,1502,57,17,"First, when I fell, when I was looking for him, I was walk -- running towards the people that were running from the unit.  I started asking about him to the coworkers.  Some were not able to tell me what had happened until I asked the person who used the radio. And they didn't know where they were until I saw him coming along with the crowd.",a,THE WITNESS,start_question
+847,1509,57,24,Okay.  But I want to know where you went after you heard the boom.,q,MR. NEWTON,start_answer
+848,1512,58,1,I ran to the part where I thought that my brother was at.,a,THE WITNESS,start_question
+849,1514,58,3,"Now were -- where was that in relationship to the muster point, the place you knew to go in the event of an emergency?",q,MR. NEWTON,start_answer
+850,1517,58,6,"When the emergency occurred, we must know where to go.  It's based on the direction of the air.  Safety unit from the plant or the safety unit from the company directs us.",a,THE WITNESS,start_question
+851,1521,58,10,Right.  But I'm asking about that day.  Did you run toward the muster point or away from the muster point when you were trying to get to your brother?,q,MR. NEWTON,start_answer
+852,1524,58,13,I was going near the muster point.,a,THE WITNESS,start_question
+853,1525,58,14,But not directly to it?,q,MR. NEWTON,start_answer
+854,1526,58,15,No.  Because I was scared and wanted to know my brother's whereabouts before I went there.,a,THE WITNESS,start_question
+855,1528,58,17,Where was the muster point that you were supposed to go to?,q,MR. NEWTON,start_answer
+856,1530,58,19,(Untranslated response.),a,THE WITNESS,start_question
+857,1531,58,20,"Okay.  I want you to look on the map and use the letter M, capital M, and put the muster point where you were supposed to go to.",q,MR. NEWTON,start_answer
+858,1534,58,23,Nobody knew where to head.  We didn't know by then.,a,THE WITNESS,start_question
+859,1536,58,25,"Okay.  You told me earlier, Mr. Arredondo, that you knew that there was a muster point you were supposed to go to at the plant in the event of an emergency, right?  So where was that muster point that you were supposed to go to in the event of an emergency at the Kuraray plant?  You're pointing to it with your finger. I want you to mark it.  Put a letter -- capital letter M.",q,MR. NEWTON,start_answer
+860,1545,59,8,"Before I do this, I would like to tell you that we were -- we were put out in the parking lot here --",a,THE WITNESS,start_question
+861,1547,59,10,Okay.  I don't want to know that.  I want to know where the muster point was.  Where were you supposed to go in the event of an emergency at the Kuraray plant?  You worked there for two or three months.  So where was your muster point?,q,MR. NEWTON,start_answer
+862,1552,59,15,When we came here -- our safety did not know where the muster point was going to be located until they sent us here.,a,THE WITNESS,start_question
+863,1555,59,18,"Okay.  Let me get this straight.  For two or three months, you worked at the Kuraray plant before the accident occurred?",q,MR. NEWTON,start_chat
+864,1558,59,21,Objection; form.,side_chat,MR. BICKHAM,start_chat
+865,1559,59,22,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+866,1560,59,23,(BY MR. NEWTON)  Did you know where your muster point was supposed to be?,q,MR. NEWTON,start_answer
+867,1562,59,25,"There's more than one, and there was more than one.",a,THE WITNESS,start_question
+868,1565,60,2,"Right.  But when you were working at the fab shop, how long had you worked at the fab shop before the day of the accident?",q,MR. NEWTON,start_answer
+869,1568,60,5,There was some days that I worked at the fab shop and sometimes -- some days you were sent to the unit.,a,THE WITNESS,start_question
+870,1571,60,8,Right.  But how many days had you been working at the fab shop at the time of the explosion -- or at the time of the event?,q,MR. NEWTON,start_answer
+871,1574,60,11,"I don't remember the exact number of days, but I was there for several days -- some days.",a,THE WITNESS,start_question
+872,1576,60,13,"Okay.  When you were working at the fab shop, where did you believe your muster point to be?",q,MR. NEWTON,start_answer
+873,1578,60,15,"Maybe you're not -- I'm not -- you don't understand me.  When you work at the fab shop, you depend on the -- where the air drift is going to.  So sometimes it's going to be here, or it's going to be here.  The people that are working here can be sent here or can be sent there.",a,THE WITNESS,start_question
+874,1584,60,21,Okay.  And how do you determine which direction the wind's blowing?,q,MR. NEWTON,start_answer
+875,1586,60,23,"They have some wind socks.  You can look at the steam, also, the direction of the steam.  And they also have ways to decide where the direction of the wind is going.",a,THE WITNESS,start_question
+876,1591,61,2,Okay.  I want you to mark for me on that map with a letter M the places where the muster points would be when you were working at the fab shop.  Sounds like there was more than one depending on which direction the wind was blowing.  Is that right?,q,MR. NEWTON,start_answer
+877,1596,61,7,That is correct.,a,THE WITNESS,start_question
+878,1597,61,8,Okay.  So you've marked one place?,q,MR. NEWTON,start_chat
+879,1598,61,9,Hold on.  He wasn't done. Finish your answer.,side_chat,MR. BICKHAM,start_chat
+880,1600,61,11,I felt strange that we were being sent there because the direction of the wind was going that way.,side_chat,THE WITNESS,start_chat
+881,1603,61,14,Okay.  Objection; nonresponsive.,side_chat,MR. NEWTON,start_question
+882,1605,61,16,"(BY MR. NEWTON)  Tell me where else you believed the muster point would be depending on which direction the wind was blowing when you were working at the fab shop.  You've already marked one muster point, and you've already pointed on the map to another muster point.  I just want you to mark it on the map so that we'll have clear what your recollection is.",q,MR. NEWTON,start_answer
+883,1612,61,23,I cannot mark it because it could be here or here or here.  I know if the air direction is coming this way that it must be one of these places.,a,THE WITNESS,start_question
+884,1616,62,1,"Okay.  Well, mark another muster point that you believe to exist if the wind was blowing some other direction. Okay.  Have you done that?",q,MR. NEWTON,start_answer
+885,1620,62,5,Yes.,a,THE WITNESS,start_question
+886,1621,62,6,"Okay.  Now you said that when you heard the boom, you didn't run toward the muster point, but you ran toward where you thought your brother was working. Is that right?",q,MR. NEWTON,start_answer
+887,1625,62,10,"That is correct.  I would like to add something.  When I ran, they change -- at the time I did not know what shelter I was supposed to go to.  At that time our superiors were supposed to tell us where to move to.",a,THE WITNESS,start_question
+888,1630,62,15,Did you ask anybody before you started running?,q,MR. NEWTON,start_answer
+889,1631,62,16,"We asked among ourselves, but everybody ran to different places.",a,THE WITNESS,start_question
+890,1633,62,18,"Where did the guy you were working with in the fab shop, where did he run?  Antonio Arroyo.  Where did he run?",q,MR. NEWTON,start_answer
+891,1636,62,21,To the opposite side.,a,THE WITNESS,start_question
+892,1637,62,22,Why did he run there?,q,MR. NEWTON,start_answer
+893,1638,62,23,I do not know the motive.  Probably because of fear.,a,THE WITNESS,start_question
+894,1640,62,25,Did he run to the muster point where he should have run to?,q,MR. NEWTON,start_answer
+895,1643,63,2,I don't know.  We -- I found him later there.,a,THE WITNESS,start_question
+896,1644,63,3,At a muster point?,q,MR. NEWTON,start_answer
+897,1645,63,4,That is correct.,a,THE WITNESS,start_question
+898,1646,63,5,Okay.  And was that the muster point he should have run to depending on the wind direction?,q,MR. NEWTON,start_answer
+899,1648,63,7,I do not know what knowledge he had.  It's possible.,a,THE WITNESS,start_question
+900,1650,63,9,Did you talk to him and found out -- find out where he ran and why he ran over to where he did?,q,MR. NEWTON,start_answer
+901,1652,63,11,"We spoke among each other, and most of us ran out of fear.  And then we spoke later on when everything was calm down.",a,THE WITNESS,start_question
+902,1655,63,14,"Okay.  What I need to know from you, though, is, did you talk to Mr. Arroyo, Antonio, and find out where he went to after the boom was heard.",q,MR. NEWTON,start_answer
+903,1658,63,17,I do not know where exactly where he ran to.,a,THE WITNESS,start_question
+904,1659,63,18,All right.  I want you to mark on the map where you saw Antonio when you found him later.  Draw an A. A. Okay.  And that's where you found Antonio --,q,MR. NEWTON,start_answer
+905,1664,63,23,That's correct.,a,THE WITNESS,start_question
+906,1665,63,24,-- sometime after you heard the boom?,q,MR. NEWTON,start_answer
+907,1666,63,25,Yes.,a,THE WITNESS,start_question
+908,1668,64,1,Okay.  Now on the map can you show which direction you ran after you heard the boom?,q,MR. NEWTON,start_answer
+909,1670,64,3,What should I put?,a,THE WITNESS,start_question
+910,1671,64,4,"An arrow.  From the fab shop, draw an arrow where -- what direction you ran. Okay.  So on that map you've drawn an arrow showing the direction you ran after you heard the boom, right?",q,MR. NEWTON,start_answer
+911,1676,64,9,Correct.,a,THE WITNESS,start_question
+912,1677,64,10,"Let me look at the map, see if I understand what your markings are. Okay.  After you heard the boom, when is the first time you saw your brother?",q,MR. NEWTON,start_answer
+913,1681,64,14,"When I ran towards where I signaled with the hour -- the arrow.  It's when I saw him coming with the crowd, and that is the first time that I saw him.",a,THE WITNESS,start_question
+914,1684,64,17,And what was he doing?,q,MR. NEWTON,start_answer
+915,1685,64,18,"He was running with the rest of the people, frightened.",a,THE WITNESS,start_question
+916,1687,64,20,Was he running in your direction?,q,MR. NEWTON,start_answer
+917,1688,64,21,Not exactly towards me because he didn't see me.  He was running out of the unit.,a,THE WITNESS,start_question
+918,1690,64,23,Okay.  How long after you took off running did you see Juan running with others?,q,MR. NEWTON,start_answer
+919,1692,64,25,"Around two minutes, maybe less.",a,THE WITNESS,start_question
+920,1694,65,1,When is the first time you talked to Juan after you heard the boom?,q,MR. NEWTON,start_answer
+921,1696,65,3,When he was coming with the rest of the people. I asked him if he was okay.,a,THE WITNESS,start_question
+922,1698,65,5,And what did he tell you?,q,MR. NEWTON,start_answer
+923,1699,65,6,That he had fallen.,a,THE WITNESS,start_question
+924,1700,65,7,Did he tell you where he'd fallen?,q,MR. NEWTON,start_answer
+925,1701,65,8,No.  He didn't go into details.,a,THE WITNESS,start_question
+926,1702,65,9,He just said he had fallen?,q,MR. NEWTON,start_answer
+927,1703,65,10,Yes.,a,THE WITNESS,start_question
+928,1704,65,11,Did he say if any part of his body was hurting?,q,MR. NEWTON,start_answer
+929,1705,65,12,"At that time, being we didn't speak of anything else, because he was sitting somewhere else.",a,THE WITNESS,start_question
+930,1707,65,14,"Okay.  But you said that you ran into him when he was running with other people.  You asked if he was okay.  He said he had fallen, but he didn't say he was hurt in any particular place.  Is that correct?",q,MR. NEWTON,start_answer
+931,1711,65,18,Correct.,a,THE WITNESS,start_question
+932,1712,65,19,"Okay.  Now did you end up at the same muster point as he did, or were you some other place?",q,MR. NEWTON,start_answer
+933,1714,65,21,We were in the same one but separate areas.,a,THE WITNESS,start_question
+934,1715,65,22,Was it inside or outside a building?,q,MR. NEWTON,start_answer
+935,1716,65,23,"We were sometimes out in the parking lot, and then they put us to the building in the plant.",a,THE WITNESS,start_question
+936,1718,65,25,Okay.  Now you said you were running and you fell.,q,MR. NEWTON,start_answer
+937,1721,66,2,Yes.,a,THE WITNESS,start_question
+938,1722,66,3,Was that before or after you saw your brother Juan?,q,MR. NEWTON,start_answer
+939,1724,66,5,Before I saw him.,a,THE WITNESS,start_question
+940,1725,66,6,Did anybody see you fall?,q,MR. NEWTON,start_answer
+941,1726,66,7,No.,a,THE WITNESS,start_question
+942,1727,66,8,Tell me how you fell.,q,MR. NEWTON,start_answer
+943,1728,66,9,"There's a small creek where the water goes when it rains.  I tried to jump over it, but I was not able to.  And when I landed, I twisted my foot and I fell. And that's when I hurt my back.",a,THE WITNESS,start_question
+944,1732,66,13,Did the -- is this like a ditch?  Or was it like a creek?,q,MR. NEWTON,start_answer
+945,1734,66,15,A creek.  It's like a creek that has water when it rains.,a,THE WITNESS,start_question
+946,1736,66,17,Was there any water in this area that you tried to jump over?,q,MR. NEWTON,start_answer
+947,1738,66,19,Just for a little water.  Just humid.,a,THE WITNESS,start_question
+948,1739,66,20,"Okay.  So there was no water you were trying to jump over, right?",q,MR. NEWTON,start_answer
+949,1741,66,22,There was a lot of mud.  That's why I jumped.,a,THE WITNESS,start_question
+950,1742,66,23,Okay.  So you jumped.  And how long -- how wide was this area where it was muddy?,q,MR. NEWTON,start_answer
+951,1744,66,25,"I'm not very good with measuring.  I would say 3 feet, more or less.  I don't remember very well.",a,THE WITNESS,start_question
+952,1747,67,2,"Okay.  So you jumped -- tried to jump over about a 3-foot area, and you say you landed funny.  And that's when you hurt your back?",q,MR. NEWTON,start_answer
+953,1750,67,5,Yes.,a,THE WITNESS,start_question
+954,1751,67,6,Now tell me about that.  Did you land on both feet or one foot?  Or what do you remember?,q,MR. NEWTON,start_answer
+955,1753,67,8,"I land on my right foot, but it slipped.  So I had to put body weight on my left one.  I just kind of don't remember because it occurred very quickly, very fastly.",a,THE WITNESS,start_question
+956,1757,67,12,Okay.  So you landed on your right foot.  Your right foot slipped.  And then you put weight on your left foot?,q,MR. NEWTON,start_answer
+957,1760,67,15,Yes.  When I fell.  Yes.,a,THE WITNESS,start_question
+958,1761,67,16,Did you fall all the way to the ground?,q,MR. NEWTON,start_answer
+959,1762,67,17,Yes.,a,THE WITNESS,start_question
+960,1763,67,18,What part of your body hit the ground when you fell?,q,MR. NEWTON,start_answer
+961,1765,67,20,"First my right shoulder, and then I fell backwards.",a,THE WITNESS,start_question
+962,1767,67,22,"So you say you first fell forward, or did you fall to the side when you fell?",q,MR. NEWTON,start_answer
+963,1769,67,24,"First I fell on my side, but then I went backwards.",a,THE WITNESS,start_question
+964,1772,68,1,"All right.  As I understand it, you jumped over this muddy area, landed on your right foot.  It slipped. You landed -- you put your left foot down, and then you said you fell to your right side, landing on your shoulder.  Is that right?",q,MR. NEWTON,start_answer
+965,1777,68,6,"No.  I jumped.  Put my right foot -- that's when I slipped.  And that's when I hit -- and that is when I hit, and I supported myself with the right shoulder.  And then I put on the left foot, and that is when I went backwards.",a,THE WITNESS,start_question
+966,1782,68,11,"Okay.  So what you're saying now is you tried to jump over this muddy area.  You landed on your right foot.  It slipped.  You fell on your right shoulder. Did you fall forward, Mr. Arredondo, or did you fall to the side?",q,MR. NEWTON,start_answer
+967,1787,68,16,"The first time -- yes.  I -- first I jumped the muddy area, landed with my right foot.  It slipped, and I landed with my right shoulder.",a,THE WITNESS,start_question
+968,1790,68,19,On the ground?,q,MR. NEWTON,start_answer
+969,1791,68,20,"Yes.  The right shoulder hit the part of the stream.  So I tried to regain balance with my left foot, and that is when I fell backwards.",a,THE WITNESS,start_question
+970,1794,68,23,How did that happen if you're laying on your right shoulder?  I don't -- I don't understand what you're describing for me.  You said you fell to the right side and landed on your right shoulder.  So how did your left foot get involved?,q,MR. NEWTON,start_chat
+971,1800,69,3,"Can I -- can I -- can the interpreter ask a question on the record just to clarify the surface area?  Because we are interpreting -- we are thinking that this is a flat surface, and I think he has meant the ditch.",side_chat,THE INTERPRETER,start_chat
+972,1805,69,8,Okay.  He talked about jumping over an Arroyo [sic] or a ditch --,side_chat,MR. NEWTON,start_chat
+973,1807,69,10,Yeah.,side_chat,THE INTERPRETER,start_chat
+974,1808,69,11,-- or a creek or something that was a muddy area.  He told us that.,side_chat,MR. NEWTON,start_chat
+975,1810,69,13,He's -- he's describing with his hands a V shape.,side_chat,THE INTERPRETER,start_chat
+976,1812,69,15,Okay.  But I'm still getting from him that he landed on his right shoulder.,side_chat,MR. NEWTON,start_chat
+977,1814,69,17,He -- yes.,side_chat,THE INTERPRETER,start_chat
+978,1815,69,18,Okay.,side_chat,MR. NEWTON,start_chat
+979,1816,69,19,But it -- the only explanation that would give me that he had to compensate with his left body parts is that it was a V shape.,side_chat,THE INTERPRETER,start_chat
+980,1819,69,22,I don't want you to interpret anything other than what he's saying.,side_chat,MR. NEWTON,start_chat
+981,1821,69,24,I know.  I know.  I know that.,side_chat,THE INTERPRETER,start_chat
+982,1824,70,1,Okay.,side_chat,MR. NEWTON,start_chat
+983,1825,70,2,But that's the only way that we're going to -- I just -- I want to ask him --,side_chat,THE INTERPRETER,start_chat
+984,1828,70,5,I don't want you to help him as far as --,side_chat,MR. NEWTON,start_chat
+985,1830,70,7,Okay.,side_chat,THE INTERPRETER,start_chat
+986,1831,70,8,-- the direction of his body.,side_chat,MR. NEWTON,start_chat
+987,1832,70,9,I won't.,side_chat,THE INTERPRETER,start_chat
+988,1833,70,10,Okay?,side_chat,MR. NEWTON,start_chat
+989,1834,70,11,Okay.,side_chat,THE INTERPRETER,start_chat
+990,1835,70,12,"I know you're a doctor, and that's --",side_chat,MR. NEWTON,start_chat
+991,1837,70,14,"No, it's not that.",side_chat,THE INTERPRETER,start_chat
+992,1838,70,15,I know.  But what I'm saying is I don't want you to fill in the blanks because --,side_chat,MR. NEWTON,start_chat
+993,1840,70,17,I won't.,side_chat,THE INTERPRETER,start_chat
+994,1841,70,18,-- you know about mechanism of injury.  This is the hard part.,side_chat,MR. NEWTON,start_chat
+995,1843,70,20,Yes.,side_chat,THE INTERPRETER,start_chat
+996,1844,70,21,All I want you to do is to tell us what he's saying --,side_chat,MR. NEWTON,start_chat
+997,1846,70,23,Okay.,side_chat,THE INTERPRETER,start_chat
+998,1847,70,24,-- and translate that into --,side_chat,MR. NEWTON,start_chat
+999,1848,70,25,I will.,side_chat,THE INTERPRETER,start_chat
+1000,1850,71,1,-- English.,side_chat,MR. NEWTON,start_chat
+1001,1851,71,2,Okay.,side_chat,THE INTERPRETER,start_chat
+1002,1852,71,3,That's it.  Don't fill in any blanks.,side_chat,MR. NEWTON,start_chat
+1003,1854,71,5,I will not.,side_chat,THE INTERPRETER,start_chat
+1004,1855,71,6,Because I want his testimony.,side_chat,MR. NEWTON,start_chat
+1005,1856,71,7,I understand.,side_chat,THE INTERPRETER,start_chat
+1006,1857,71,8,Right?  And that's what we have to do.  I know it's tricky.,side_chat,MR. NEWTON,start_chat
+1007,1859,71,10,No.  It's --,side_chat,THE INTERPRETER,start_chat
+1008,1860,71,11,"So -- and if I don't understand, I don't understand.",side_chat,MR. NEWTON,start_chat
+1009,1862,71,13,Okay.,side_chat,THE INTERPRETER,start_chat
+1010,1863,71,14,I'm just trying to get his best description --,side_chat,MR. NEWTON,start_chat
+1011,1865,71,16,Okay.,side_chat,THE INTERPRETER,start_chat
+1012,1866,71,17,-- as to what happened.,side_chat,MR. NEWTON,start_chat
+1013,1867,71,18,Perfect.,side_chat,THE INTERPRETER,start_question
+1014,1868,71,19,"(BY MR. NEWTON)  Okay.  Mr. Arredondo, after you hit your right shoulder, then what part of your body hit the ground next?",q,MR. NEWTON,start_answer
+1015,1871,71,22,"My left foot.  It made me fall back, my left foot.",a,THE WITNESS,start_question
+1016,1873,71,24,And then what part of your body hit the ground?,q,MR. NEWTON,start_answer
+1017,1874,71,25,My shoulders.  I fell backwards.,a,THE WITNESS,start_question
+1018,1876,72,1,You fell flat on your back?,q,MR. NEWTON,start_answer
+1019,1877,72,2,Yes.  That's correct.,a,THE WITNESS,start_question
+1020,1878,72,3,"And you hit your ground with -- hit the ground, rather, with both shoulders or with the complete side of your back -- or the back -- the whole back, in other words?",q,MR. NEWTON,start_answer
+1021,1882,72,7,Yes.  That is correct.,a,THE WITNESS,start_question
+1022,1883,72,8,"Okay.  So when you fell back, you fell backwards.  And you fell flat on your back.  Is that -- is that what you mean to say?",q,MR. NEWTON,start_answer
+1023,1886,72,11,Yes.,a,THE WITNESS,start_question
+1024,1887,72,12,"When you fell back on your back, flat on your back, where were your legs?",q,MR. NEWTON,start_answer
+1025,1889,72,14,(Untranslated response.),a,THE WITNESS,start_question
+1026,1890,72,15,"When you fell flat on your back on the ground, where were your legs?",q,MR. NEWTON,start_answer
+1027,1892,72,17,One leg was extended out --,a,THE WITNESS,start_question
+1028,1893,72,18,Which leg?,q,MR. NEWTON,start_chat
+1029,1894,72,19,"Wait a minute.  Let him finish his answer, please, before you ask the next question.",side_chat,MR. BICKHAM,start_chat
+1030,1897,72,22,Okay.  He said one leg.  I'm trying to get specifically which leg is what I'm asking.,side_chat,MR. NEWTON,start_chat
+1031,1899,72,24,One leg was extended.  The other one was bent.,side_chat,THE WITNESS,start_question
+1032,1902,73,1,(BY MR. NEWTON)  Which leg was extended?,q,MR. NEWTON,start_answer
+1033,1903,73,2,The right leg.,a,THE WITNESS,start_question
+1034,1904,73,3,Right leg was extended.  Where was it extended?,q,MR. NEWTON,start_answer
+1035,1905,73,4,Towards the front.,a,THE WITNESS,start_question
+1036,1906,73,5,All right.  Straight out in front of you?,q,MR. NEWTON,start_answer
+1037,1907,73,6,Yes.,a,THE WITNESS,start_question
+1038,1908,73,7,And where was your left leg?,q,MR. NEWTON,start_answer
+1039,1909,73,8,That was the one that was bent when I was lying down.,a,THE WITNESS,start_question
+1040,1911,73,10,And how was it bent?  Was it bent under you?,q,MR. NEWTON,start_answer
+1041,1912,73,11,Under the other one a little bit.,a,THE WITNESS,start_question
+1042,1913,73,12,Under your body or under your other leg?,q,MR. NEWTON,start_answer
+1043,1914,73,13,Under the other leg.,a,THE WITNESS,start_question
+1044,1915,73,14,Under your right leg?,q,MR. NEWTON,start_answer
+1045,1916,73,15,Correct.,a,THE WITNESS,start_question
+1046,1917,73,16,"Okay.  Then you got up, right?",q,MR. NEWTON,start_chat
+1047,1918,73,17,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+1048,1919,73,18,(BY MR. NEWTON)  And what did you do next?,q,MR. NEWTON,start_answer
+1049,1920,73,19,(Via Interpreter) It's when I went to look for my brother that I ran.,a,THE WITNESS,start_question
+1050,1922,73,21,Okay.  So you fell before you saw Juan?,q,MR. NEWTON,start_answer
+1051,1923,73,22,Correct.,a,THE WITNESS,start_question
+1052,1924,73,23,"Did anybody help you up off the ground, or were you able to get up on your own?",q,MR. NEWTON,start_answer
+1053,1926,73,25,I was able to get up by myself.,a,THE WITNESS,start_question
+1054,1928,74,1,Did anybody tell you they saw you fall?,q,MR. NEWTON,start_answer
+1055,1929,74,2,No.  Nobody saw me.,a,THE WITNESS,start_question
+1056,1930,74,3,"Now when you saw your brother Juan and he told you that he had fallen, did he ask how you were?",q,MR. NEWTON,start_answer
+1057,1932,74,5,There was not a chance for those type of questions because there are a lot of people there.  So there was no -- any conversation.,a,THE WITNESS,start_question
+1058,1935,74,8,"Well, you said you asked how he was.  Remember telling me that a minute ago?",q,MR. NEWTON,start_answer
+1059,1937,74,10,Yes.  I did.  But he didn't ask me back.,a,THE WITNESS,start_question
+1060,1938,74,11,"Okay.  That's all I'm asking.  You asked how he was, and he said he'd fallen.",q,MR. NEWTON,start_answer
+1061,1940,74,13,Correct.,a,THE WITNESS,start_question
+1062,1941,74,14,But he didn't ask how you were?,q,MR. NEWTON,start_answer
+1063,1942,74,15,No.,a,THE WITNESS,start_question
+1064,1943,74,16,"And you didn't tell him that you had fallen when you saw him, right?",q,MR. NEWTON,start_answer
+1065,1945,74,18,Afterwards I did tell him that I had fallen.,a,THE WITNESS,start_question
+1066,1946,74,19,I'm talking about when you first saw him.  You didn't tell him that you fell.,q,MR. NEWTON,start_answer
+1067,1948,74,21,No.,a,THE WITNESS,start_question
+1068,1949,74,22,When's the first time you told Juan you had fallen?,q,MR. NEWTON,start_answer
+1069,1951,74,24,After I was put into the building.,a,THE WITNESS,start_question
+1070,1952,74,25,So how long after you fell did you tell that to Juan?,q,MR. NEWTON,start_answer
+1071,1955,75,2,I can't remember very well.,a,THE WITNESS,start_question
+1072,1956,75,3,Did you have any mud on your clothes?,q,MR. NEWTON,start_answer
+1073,1957,75,4,"On my boot -- boot, on my hand, but I washed my hands, and also here on my elbow.",a,THE WITNESS,start_question
+1074,1959,75,6,Is the only place where you had mud was on your boot and your hand?,q,MR. NEWTON,start_answer
+1075,1961,75,8,And the shirt.,a,THE WITNESS,start_question
+1076,1962,75,9,And your shirt. What part of your shirt?,q,MR. NEWTON,start_answer
+1077,1964,75,11,On my shoulder.,a,THE WITNESS,start_question
+1078,1965,75,12,What shoulder?,q,MR. NEWTON,start_answer
+1079,1966,75,13,On the right.  And this part of the shirt.,a,THE WITNESS,start_question
+1080,1967,75,14,What part are you pointing to?,q,MR. NEWTON,start_answer
+1081,1968,75,15,(Untranslated response.),a,THE WITNESS,start_question
+1082,1969,75,16,Your lower back on the right side?,q,MR. NEWTON,start_chat
+1083,1970,75,17,(In English) On the left side.,side_chat,THE WITNESS,start_question
+1084,1972,75,19,(BY MR. NEWTON)  Left side.,q,MR. NEWTON,start_chat
+1085,1973,75,20,Left side.,side_chat,THE INTERPRETER,start_question
+1086,1974,75,21,"(BY MR. NEWTON)  You had mud there, too?",q,MR. NEWTON,start_answer
+1087,1975,75,22,(Via Interpreter) Yes.  On the bottom part of my shirt.,a,THE WITNESS,start_question
+1088,1977,75,24,Okay.  Did anybody take a picture of you before you washed your clothes?,q,MR. NEWTON,start_answer
+1089,1980,76,1,That didn't occur because cell phones are not allowed there.,a,THE WITNESS,start_chat
+1090,1982,76,3,Objection; nonresponsive.,side_chat,MR. NEWTON,start_question
+1091,1983,76,4,"(BY MR. NEWTON)  Did anybody take a picture of you, Mr. Arredondo, before you took off your clothes and washed them?",q,MR. NEWTON,start_answer
+1092,1986,76,7,No.,a,THE WITNESS,start_question
+1093,1987,76,8,"When you got home that night, did you wash your clothes?",q,MR. NEWTON,start_answer
+1094,1989,76,10,My wife probably did it the following day.  I don't remember.,a,THE WITNESS,start_question
+1095,1991,76,12,How many FRCs do you have or did you have back then?,q,MR. NEWTON,start_answer
+1096,1993,76,14,"I do not wear FRCs.  I wear pants, and I have around 10 pairs.",a,THE WITNESS,start_question
+1097,1995,76,16,Are they fire-retardant?,q,MR. NEWTON,start_answer
+1098,1996,76,17,That is correct.,a,THE WITNESS,start_question
+1099,1997,76,18,"Okay.  And then are your shirts fire-retardant as well, or were they back then?",q,MR. NEWTON,start_answer
+1100,1999,76,20,That is correct.,a,THE WITNESS,start_question
+1101,2000,76,21,"And how many shirts did you have back then, 2018, May?",q,MR. NEWTON,start_answer
+1102,2002,76,23,"I don't remember, perhaps around 10.",a,THE WITNESS,start_question
+1103,2003,76,24,Okay.  Would you wear clean clothes every day to work?,q,MR. NEWTON,start_answer
+1104,2006,77,1,Yes.,a,THE WITNESS,start_question
+1105,2007,77,2,"Okay.  So what would you do when you get home each day from work?  Would you take off those clothes and your wife would wash them, or would you put them in a dirty clothes hamper or something?",q,MR. NEWTON,start_answer
+1106,2011,77,6,There's a hamper where I put my dirty clothes.,a,THE WITNESS,start_question
+1107,2012,77,7,"And then when it was necessary, your wife would wash -- wash them for you?",q,MR. NEWTON,start_answer
+1108,2014,77,9,"Yes.  When I'm running out of clean clothes, she washes --",a,THE WITNESS,start_question
+1109,2016,77,11,Okay.,q,MR. NEWTON,start_answer
+1110,2017,77,12,-- clothes.,a,THE WITNESS,start_question
+1111,2018,77,13,"Now after you got to the building and then the parking lot, how long did you stay at the plant before you went home?",q,MR. NEWTON,start_answer
+1112,2021,77,16,That I can remember was between three and four hours.,a,THE WITNESS,start_question
+1113,2023,77,18,And then they told you to go home?,q,MR. NEWTON,start_answer
+1114,2024,77,19,Correct.,a,THE WITNESS,start_question
+1115,2025,77,20,Were you able to go over to the fab shop and get your truck and welding rig?,q,MR. NEWTON,start_answer
+1116,2027,77,22,I was not allowed to go back by myself.  I was escorted to go pick it up.,a,THE WITNESS,start_question
+1117,2029,77,24,"Right.  But you were allowed to go back in there and get your truck and rig and drive home in it, right?",q,MR. NEWTON,start_answer
+1118,2033,78,2,Yes.,a,THE WITNESS,start_question
+1119,2034,78,3,Okay.  What did you do the next day?,q,MR. NEWTON,start_answer
+1120,2035,78,4,It was a Sunday.  I stayed at home.  I was feeling scared.  I don't remember very much more.  It was a long time ago.,a,THE WITNESS,start_chat
+1121,2038,78,7,Okay.  Objection; nonresponsive.,side_chat,MR. NEWTON,start_question
+1122,2040,78,9,(BY MR. NEWTON)  The day of the accident was on what day?  What day of the week?,q,MR. NEWTON,start_answer
+1123,2042,78,11,Was on a Saturday.,a,THE WITNESS,start_question
+1124,2043,78,12,"Okay.  Now back in those days, how many hours a day would you typically work?  These are the days -- weeks leading up to the accident.",q,MR. NEWTON,start_answer
+1125,2046,78,15,"We were working Monday through Saturday, 10 hours sometimes 10-and-a-half hours per day.",a,THE WITNESS,start_question
+1126,2048,78,17,"If they asked you to work on Sunday, would you do so?",q,MR. NEWTON,start_answer
+1127,2050,78,19,I usually do not work on Sundays.,a,THE WITNESS,start_question
+1128,2051,78,20,"But if you could get overtime, you would work if they needed you to?",q,MR. NEWTON,start_answer
+1129,2053,78,22,No.,a,THE WITNESS,start_question
+1130,2054,78,23,You never worked on a Sunday?,q,MR. NEWTON,start_answer
+1131,2055,78,24,"I worked some, but I decided not to work anymore.",a,THE WITNESS,start_question
+1132,2058,79,1,"Okay.  Now the next day was Sunday; so it was your normal day off anyway, right?",q,MR. NEWTON,start_answer
+1133,2060,79,3,Correct.,a,THE WITNESS,start_question
+1134,2061,79,4,Okay.  When's the next day you went to the plant?,q,MR. NEWTON,start_answer
+1135,2063,79,6,"On Monday, the next Monday.",a,THE WITNESS,start_question
+1136,2064,79,7,Regular work time?,q,MR. NEWTON,start_answer
+1137,2065,79,8,Yes.  Same -- our time.,a,THE WITNESS,start_question
+1138,2066,79,9,And how'd you get there?  Did you drive your truck?,q,MR. NEWTON,start_answer
+1139,2068,79,11,That is correct.,a,THE WITNESS,start_question
+1140,2069,79,12,Parked in the usual spot?,q,MR. NEWTON,start_answer
+1141,2070,79,13,The same.,a,THE WITNESS,start_question
+1142,2071,79,14,"And when you got inside the plant, did you go over to the lunch tent for the safety meeting?",q,MR. NEWTON,start_answer
+1143,2073,79,16,That is correct.,a,THE WITNESS,start_question
+1144,2074,79,17,And did you work that day?,q,MR. NEWTON,start_answer
+1145,2075,79,18,We were not allowed to work.,a,THE WITNESS,start_question
+1146,2076,79,19,So how long did you stay at the plant?,q,MR. NEWTON,start_answer
+1147,2077,79,20,About an hour.  We held a meeting.  They let us know that we were not going to be able to work that day.,a,THE WITNESS,start_question
+1148,2079,79,22,Okay.  And they told everybody at Force that?,q,MR. NEWTON,start_answer
+1149,2080,79,23,"Everybody that was -- meeting here at the tent, yes.",a,THE WITNESS,start_question
+1150,2082,79,25,Okay.  And so they told you to go home?,q,MR. NEWTON,start_answer
+1151,2084,80,1,Correct.,a,THE WITNESS,start_question
+1152,2085,80,2,And you did so?,q,MR. NEWTON,start_answer
+1153,2086,80,3,Yes.,a,THE WITNESS,start_question
+1154,2087,80,4,"Okay.  That would be on a Monday, right?",q,MR. NEWTON,start_chat
+1155,2088,80,5,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+1156,2089,80,6,(BY MR. NEWTON)  Did you go back to the plant on Tuesday?,q,MR. NEWTON,start_answer
+1157,2091,80,8,Yes.,a,THE WITNESS,start_question
+1158,2092,80,9,Did you work that day?,q,MR. NEWTON,start_answer
+1159,2093,80,10,They didn't allow -- allow us.,a,THE WITNESS,start_question
+1160,2094,80,11,How long did you stay at the plant before you went home?,q,MR. NEWTON,start_answer
+1161,2096,80,13,I don't remember very well.  I think it's about an hour.,a,THE WITNESS,start_question
+1162,2098,80,15,Okay.  Did you come back to the plant on Wednesday?,q,MR. NEWTON,start_answer
+1163,2100,80,17,Yes.,a,THE WITNESS,start_question
+1164,2101,80,18,Regular time?,q,MR. NEWTON,start_answer
+1165,2102,80,19,Yes.,a,THE WITNESS,start_question
+1166,2103,80,20,"6:40, 6:45?",q,MR. NEWTON,start_answer
+1167,2104,80,21,Yes.,a,THE WITNESS,start_question
+1168,2105,80,22,Park in the usual spot?,q,MR. NEWTON,start_answer
+1169,2106,80,23,Yes.,a,THE WITNESS,start_question
+1170,2107,80,24,Go through the same gate?,q,MR. NEWTON,start_answer
+1171,2108,80,25,Yes.,a,THE WITNESS,start_question
+1172,2110,81,1,Went over to the lunch tent?,q,MR. NEWTON,start_answer
+1173,2111,81,2,Yes.,a,THE WITNESS,start_question
+1174,2112,81,3,Had the safety meeting?,q,MR. NEWTON,start_answer
+1175,2113,81,4,Yes.,a,THE WITNESS,start_question
+1176,2114,81,5,And then you went to work?,q,MR. NEWTON,start_answer
+1177,2115,81,6,I don't remember if it was Wednesday or Thursday.,a,THE WITNESS,start_question
+1178,2117,81,8,Okay.  Let's say it was Wednesday or Thursday. Where did you work that day in the plant?,q,MR. NEWTON,start_answer
+1179,2119,81,10,Went back to the shop.,a,THE WITNESS,start_question
+1180,2120,81,11,Fab shop?,q,MR. NEWTON,start_answer
+1181,2121,81,12,Yes.,a,THE WITNESS,start_question
+1182,2122,81,13,And did you work 10 hours that day?,q,MR. NEWTON,start_answer
+1183,2123,81,14,Yes.,a,THE WITNESS,start_question
+1184,2124,81,15,"And the day after that, did you work 10 hours?",q,MR. NEWTON,start_answer
+1185,2125,81,16,"Sometimes I told you it was 10, sometimes 10-and-a-half hours.  I don't remember.",a,THE WITNESS,start_question
+1186,2127,81,18,"All right.  But you worked a full shift, right?",q,MR. NEWTON,start_answer
+1187,2128,81,19,Yes.,a,THE WITNESS,start_question
+1188,2129,81,20,"Okay.  And then the day after that, same thing?",q,MR. NEWTON,start_answer
+1189,2130,81,21,Same.,a,THE WITNESS,start_question
+1190,2131,81,22,"And then the day after that, the same?",q,MR. NEWTON,start_answer
+1191,2132,81,23,Same.,a,THE WITNESS,start_question
+1192,2133,81,24,Did you work that Sunday after returning to work?,q,MR. NEWTON,start_answer
+1193,2136,82,1,No.,a,THE WITNESS,start_question
+1194,2137,82,2,How many days after you went back to work did you continue to work at the fab shop?,q,MR. NEWTON,start_answer
+1195,2139,82,4,I don't remember anymore.,a,THE WITNESS,start_question
+1196,2140,82,5,You recall working anywhere else at the Kuraray plant besides the fab shop?,q,MR. NEWTON,start_answer
+1197,2142,82,7,"Somewhere inside the units, but I don't recall exactly where.",a,THE WITNESS,start_question
+1198,2144,82,9,Is it -- would it be a fair statement that you worked most of the time at the fab shop?,q,MR. NEWTON,start_answer
+1199,2146,82,11,"The first two or three months, yes. Afterwards, we moved to the units.",a,THE WITNESS,start_question
+1200,2148,82,13,Where in the unit did you work after you left the fab shop?  You remember?,q,MR. NEWTON,start_answer
+1201,2150,82,15,I don't remember.,a,THE WITNESS,start_question
+1202,2151,82,16,And then you worked there full-time every day until you were laid off; is that right?,q,MR. NEWTON,start_answer
+1203,2153,82,18,Correct.,a,THE WITNESS,start_question
+1204,2154,82,19,And when were you laid off?,q,MR. NEWTON,start_answer
+1205,2155,82,20,"I don't remember very well, but I believe it was the first week of June.",a,THE WITNESS,start_question
+1206,2157,82,22,"And that was June, 2018?",q,MR. NEWTON,start_answer
+1207,2158,82,23,That's right.,a,THE WITNESS,start_question
+1208,2159,82,24,Okay.  Where's the next place you worked after that?,q,MR. NEWTON,start_answer
+1209,2162,83,1,I worked again with Force.,a,THE WITNESS,start_question
+1210,2163,83,2,And where?,q,MR. NEWTON,start_answer
+1211,2164,83,3,At the shop they have at La Porte.,a,THE WITNESS,start_question
+1212,2165,83,4,So these were the Force shops?,q,MR. NEWTON,start_answer
+1213,2166,83,5,Yes.,a,THE WITNESS,start_question
+1214,2167,83,6,And how long did you work there?,q,MR. NEWTON,start_answer
+1215,2168,83,7,Two days.,a,THE WITNESS,start_question
+1216,2169,83,8,Okay.  How long were you off work after you were laid off in June of 2018?  How many days were you off work?,q,MR. NEWTON,start_answer
+1217,2172,83,11,"I don't remember the dates, but several weeks.",a,THE WITNESS,start_question
+1218,2173,83,12,"If you had been called by Force to go back to work, would you have done so?",q,MR. NEWTON,start_answer
+1219,2175,83,14,I -- I looked for another job.  That's why I left.,a,THE WITNESS,start_question
+1220,2177,83,16,"Okay.  Did you leave because you were laid off, or did you leave because you were looking for another job?",q,MR. NEWTON,start_answer
+1221,2180,83,19,I got a job that paid me better.,a,THE WITNESS,start_question
+1222,2181,83,20,And where was that?,q,MR. NEWTON,start_answer
+1223,2182,83,21,Was a shutdown at Lyondell in Pasadena.,a,THE WITNESS,start_question
+1224,2183,83,22,When did you start working at Lyondell in Pasadena?,q,MR. NEWTON,start_answer
+1225,2185,83,24,Mid September.,a,THE WITNESS,start_question
+1226,2186,83,25,Of 2018?,q,MR. NEWTON,start_chat
+1227,2188,84,1,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+1228,2189,84,2,(BY MR. NEWTON)  And what were you making an hour?  You said it paid better.,q,MR. NEWTON,start_answer
+1229,2191,84,4,Paid $38 an hour and double time.,a,THE WITNESS,start_question
+1230,2192,84,5,Double time for what?  Overtime?,q,MR. NEWTON,start_answer
+1231,2193,84,6,"After the 40 hours, then they would double the hourly wage from 38 to 76.",a,THE WITNESS,start_question
+1232,2195,84,8,Okay.  So you would get double time after you got your 40 hours?,q,MR. NEWTON,start_answer
+1233,2197,84,10,Yes.  That's how it is.,a,THE WITNESS,start_question
+1234,2198,84,11,Okay.  And how long did you work at Lyondell in Pasadena?,q,MR. NEWTON,start_answer
+1235,2200,84,13,"I don't have the exact dates, but it was from mid September to mid October.",a,THE WITNESS,start_question
+1236,2202,84,15,And why did you stop working at Lyondell?,q,MR. NEWTON,start_answer
+1237,2203,84,16,I was laid off.,a,THE WITNESS,start_question
+1238,2204,84,17,Then where did you work?,q,MR. NEWTON,start_answer
+1239,2205,84,18,"For the remaining part of 2018, I didn't work anymore -- 2018, I didn't work anymore until this year.",a,THE WITNESS,start_question
+1240,2207,84,20,Did you look for work during that time?,q,MR. NEWTON,start_answer
+1241,2208,84,21,"I did find, but it -- I did look, but was not able to find.",a,THE WITNESS,start_question
+1242,2210,84,23,"If you could have found work, would you have gone to work after October, 2018, and for the rest of that year?",q,MR. NEWTON,start_answer
+1243,2214,85,1,Yes.,a,THE WITNESS,start_question
+1244,2215,85,2,Did you take unemployment?,q,MR. NEWTON,start_answer
+1245,2216,85,3,Yes.,a,THE WITNESS,start_question
+1246,2217,85,4,"Is that typically what you do, you'll take unemployment between layoffs?",q,MR. NEWTON,start_answer
+1247,2219,85,6,Yes.,a,THE WITNESS,start_question
+1248,2220,85,7,"Now where did you look for work between mid October, 2018, and the end of the year?  Where did you look for work?",q,MR. NEWTON,start_answer
+1249,2223,85,10,I tried to look for work at Force through some people I know.,a,THE WITNESS,start_question
+1250,2225,85,12,Okay.  Where else?,q,MR. NEWTON,start_answer
+1251,2226,85,13,I didn't -- I stopped searching because I got hired.,a,THE WITNESS,start_question
+1252,2228,85,15,"I'm talking about the rest of 2018.  October, November, December.  Besides Force, where did you look for work?",q,MR. NEWTON,start_answer
+1253,2231,85,18,"With the same company, Universal Plan Service.",a,THE WITNESS,start_question
+1254,2232,85,19,Where else?,q,MR. NEWTON,start_answer
+1255,2233,85,20,With performance.  Northstar.  S&B.  Lexicas (phonetic).  They're the ones my -- my brother said.,a,THE WITNESS,start_question
+1256,2235,85,22,Lexapro [sic]?,q,MR. NEWTON,start_answer
+1257,2236,85,23,And also with Red cam (phonetic).,a,THE WITNESS,start_question
+1258,2237,85,24,With who?,q,MR. NEWTON,start_chat
+1259,2238,85,25,Red cam.,side_chat,THE INTERPRETER,start_chat
+1260,2240,86,1,(Via Interpreter) Red cam.,side_chat,THE WITNESS,start_question
+1261,2241,86,2,(BY MR. NEWTON)  Reffkin?,q,MR. NEWTON,start_chat
+1262,2242,86,3,Yes.  Reffkin.,side_chat,THE INTERPRETER,start_question
+1263,2243,86,4,(BY MR. NEWTON)  Okay.  And they weren't hiring.  None of those places were hiring?,q,MR. NEWTON,start_answer
+1264,2245,86,6,No.,a,THE WITNESS,start_question
+1265,2246,86,7,Had you worked for any of those places before?,q,MR. NEWTON,start_answer
+1266,2247,86,8,I had worked for Reffkin.  I worked for S&B.  I worked for North- -- Northstar and for Universal Plan Service.,a,THE WITNESS,start_question
+1267,2250,86,11,Okay.  But none of those places were hiring for the rest of 2018?,q,MR. NEWTON,start_answer
+1268,2252,86,13,Not at that time.,a,THE WITNESS,start_question
+1269,2253,86,14,Okay.  Now in 2019 who did you go to work for?,q,MR. NEWTON,start_answer
+1270,2254,86,15,"I started working with Force on January 22nd, I believe.",a,THE WITNESS,start_question
+1271,2256,86,17,Where at?,q,MR. NEWTON,start_answer
+1272,2257,86,18,"Houston Field [sic] Oil, HFO.",a,THE WITNESS,start_question
+1273,2258,86,19,Okay.  And what were you doing there?  As a welder?,q,MR. NEWTON,start_answer
+1274,2260,86,21,As a welder.,a,THE WITNESS,start_question
+1275,2261,86,22,"How long did you work there, Houston Fuel Oil?",q,MR. NEWTON,start_answer
+1276,2262,86,23,Between four and five months.  I'm not quite sure.,a,THE WITNESS,start_question
+1277,2264,86,25,Okay.  Did you work 10 hours a day or more?,q,MR. NEWTON,start_answer
+1278,2266,87,1,Usually 10 hours.,a,THE WITNESS,start_question
+1279,2267,87,2,Did you work six days a week?,q,MR. NEWTON,start_answer
+1280,2268,87,3,"Some weeks, yes.  Some others 50.",a,THE WITNESS,start_question
+1281,2269,87,4,Some days only five days a week -- or some weeks only five days a week?,q,MR. NEWTON,start_answer
+1282,2271,87,6,And some six.,a,THE WITNESS,start_question
+1283,2272,87,7,Okay.  Depending on what they needed and the way it worked?,q,MR. NEWTON,start_answer
+1284,2274,87,9,That is correct.,a,THE WITNESS,start_question
+1285,2275,87,10,"If they needed you to work more days, you worked more days.  If they didn't, you didn't?",q,MR. NEWTON,start_answer
+1286,2277,87,12,"That is correct.  But as I said previously, I don't work on Sundays.",a,THE WITNESS,start_question
+1287,2279,87,14,And you don't work on Sundays because you want to spend time with your family?,q,MR. NEWTON,start_answer
+1288,2281,87,16,"I want to spend time with the family, go to church sometimes.",a,THE WITNESS,start_question
+1289,2283,87,18,"And when you're not working, Mr. Arredondo, what do you like to do for fun?",q,MR. NEWTON,start_answer
+1290,2285,87,20,I like to go to the gym.  I like to go to the mall.  To be at home with my family.,a,THE WITNESS,start_question
+1291,2287,87,22,What do you do at the gym?,q,MR. NEWTON,start_answer
+1292,2288,87,23,I do a lot of cardio.  I run.,a,THE WITNESS,start_question
+1293,2289,87,24,Treadmill?,q,MR. NEWTON,start_answer
+1294,2290,87,25,Yes.,a,THE WITNESS,start_question
+1295,2292,88,1,What gym do you go to?,q,MR. NEWTON,start_answer
+1296,2293,88,2,Fitness 24.,a,THE WITNESS,start_question
+1297,2294,88,3,24 Hour Fitness?,q,MR. NEWTON,start_chat
+1298,2295,88,4,(In Spanish) Si.,side_chat,THE WITNESS,start_question
+1299,2296,88,5,(BY MR. NEWTON)  How long have you belonged there?,q,MR. NEWTON,start_answer
+1300,2298,88,7,"I don't have exact date, but between 13 and 15 years.",a,THE WITNESS,start_question
+1301,2300,88,9,How many days a week do you usually work out there?,q,MR. NEWTON,start_answer
+1302,2302,88,11,Three to four week -- days.,a,THE WITNESS,start_question
+1303,2303,88,12,"Besides cardio on the treadmill, what do you do?  Do you lift weights?",q,MR. NEWTON,start_answer
+1304,2305,88,14,No.  I do not lift weights.,a,THE WITNESS,start_question
+1305,2306,88,15,Okay.,q,MR. NEWTON,start_answer
+1306,2307,88,16,"If I lift, it's something light.",a,THE WITNESS,start_question
+1307,2308,88,17,"Okay.  So besides running on the treadmill, what do you do for cardio?",q,MR. NEWTON,start_answer
+1308,2310,88,19,Steps.,a,THE WITNESS,start_question
+1309,2311,88,20,Stair stepper?,q,MR. NEWTON,start_answer
+1310,2312,88,21,Stair stepper.,a,THE WITNESS,start_question
+1311,2313,88,22,"So treadmill, stair stepper.  That'll do the cardio all right. What else?",q,MR. NEWTON,start_answer
+1312,2316,88,25,And bicycle.,a,THE WITNESS,start_question
+1313,2318,89,1,Bicycle?  Is it a stationary bike?,q,MR. NEWTON,start_answer
+1314,2319,89,2,Yes.,a,THE WITNESS,start_question
+1315,2320,89,3,"Okay.  Anything else besides treadmill, stair stepper, and stationary bike?",q,MR. NEWTON,start_answer
+1316,2322,89,5,Something light for my legs.,a,THE WITNESS,start_question
+1317,2323,89,6,Okay.  When's the last time you went to the gym?,q,MR. NEWTON,start_answer
+1318,2325,89,8,Yesterday.  Sunday.,a,THE WITNESS,start_question
+1319,2326,89,9,And did you do cardio?,q,MR. NEWTON,start_answer
+1320,2327,89,10,Yes.,a,THE WITNESS,start_question
+1321,2328,89,11,Did you run on the treadmill?,q,MR. NEWTON,start_answer
+1322,2329,89,12,Yes.,a,THE WITNESS,start_question
+1323,2330,89,13,Did you do the stair stepper?,q,MR. NEWTON,start_answer
+1324,2331,89,14,Yes.,a,THE WITNESS,start_question
+1325,2332,89,15,Did you get on the stationary bike?,q,MR. NEWTON,start_answer
+1326,2333,89,16,Yes.,a,THE WITNESS,start_question
+1327,2334,89,17,And you've done that for like three or four days a week for 13 or 15 years?,q,MR. NEWTON,start_answer
+1328,2336,89,19,Correct.,a,THE WITNESS,start_question
+1329,2337,89,20,"You're making me feel bad, Mr. Arredondo.  I need to spend more time at the gym.",q,MR. NEWTON,start_answer
+1330,2339,89,22,I'm sorry.,a,THE WITNESS,start_question
+1331,2340,89,23,No.  I'm just kidding. Now when's the first time you went to a doctor after the day of the accident?,q,MR. NEWTON,start_answer
+1332,2344,90,1,I don't remember when I went to therapy.,a,THE WITNESS,start_question
+1333,2345,90,2,Did you go there with Juan?,q,MR. NEWTON,start_answer
+1334,2346,90,3,Yes.,a,THE WITNESS,start_question
+1335,2347,90,4,"And that was Texas Rehab, right?",q,MR. NEWTON,start_answer
+1336,2348,90,5,Yes.,a,THE WITNESS,start_question
+1337,2349,90,6,Okay.  How often would you go there with Juan?,q,MR. NEWTON,start_answer
+1338,2350,90,7,Not many times.  I don't remember.,a,THE WITNESS,start_question
+1339,2351,90,8,What'd they do for you there at Texas Rehab?,q,MR. NEWTON,start_answer
+1340,2352,90,9,"They gave me therapy on my shoulder, my left knee, my low back, and my neck.",a,THE WITNESS,start_question
+1341,2354,90,11,"Okay.  That's a chiropractor there, right?",q,MR. NEWTON,start_answer
+1342,2355,90,12,Yes.,a,THE WITNESS,start_question
+1343,2356,90,13,And was that the same doctor Juan was seeing?,q,MR. NEWTON,start_answer
+1344,2357,90,14,Yes.,a,THE WITNESS,start_question
+1345,2358,90,15,"Some of the times you went to Texas Rehab was during your layoff period, right?",q,MR. NEWTON,start_answer
+1346,2360,90,17,Correct.,a,THE WITNESS,start_question
+1347,2361,90,18,When's the first time you took any medicine for anything you relate to what happened to you at the day of the accident?,q,MR. NEWTON,start_answer
+1348,2364,90,21,It was last year.  I don't recall the exact date.  I don't remember.,a,THE WITNESS,start_question
+1349,2366,90,23,And that was -- Dr. Tomaszek gave you that medicine?,q,MR. NEWTON,start_answer
+1350,2368,90,25,Dr. Tomaszek.,a,THE WITNESS,start_question
+1351,2370,91,1,Okay.  When's the last time you recall taking any medicine of any kind?,q,MR. NEWTON,start_answer
+1352,2372,91,3,When I got surgery in my eye.,a,THE WITNESS,start_question
+1353,2373,91,4,When was that?,q,MR. NEWTON,start_answer
+1354,2374,91,5,"I'm not quite sure.  I don't remember very well, but I think it's about three years ago.",a,THE WITNESS,start_question
+1355,2376,91,7,"But for your back or for your neck or anything like that, did you ever take any medicine?",q,MR. NEWTON,start_answer
+1356,2378,91,9,My wife would put -- apply some Ben-Gay there and would give me some massages.,a,THE WITNESS,start_question
+1357,2380,91,11,"Otherwise, no medicine?",q,MR. NEWTON,start_answer
+1358,2381,91,12,No.,a,THE WITNESS,start_question
+1359,2382,91,13,Did you ever have an MRI?,q,MR. NEWTON,start_answer
+1360,2383,91,14,Yes.,a,THE WITNESS,start_question
+1361,2384,91,15,And was -- where was that at?,q,MR. NEWTON,start_answer
+1362,2385,91,16,First time it was when I had knee surgery.,a,THE WITNESS,start_question
+1363,2386,91,17,Okay.  I'm talking about after the accident at Kuraray.  Did you have an MRI on any part of your body?,q,MR. NEWTON,start_answer
+1364,2388,91,19,I had an MRI at Opus center.,a,THE WITNESS,start_question
+1365,2389,91,20,Okay.,q,MR. NEWTON,start_answer
+1366,2390,91,21,MRI center.  Something like that.,a,THE WITNESS,start_question
+1367,2391,91,22,You're sent there by your lawyer?,q,MR. NEWTON,start_answer
+1368,2392,91,23,"My -- the therapists where I was doing therapy was the one that sent me there, at least that's what they told me, to go there.",a,THE WITNESS,start_question
+1369,2396,92,1,Okay.  And what part of your body did you have an MRI on?,q,MR. NEWTON,start_answer
+1370,2398,92,3,"Part of my neck, the shoulder, my knee.",a,THE WITNESS,start_question
+1371,2399,92,4,Which knee?,q,MR. NEWTON,start_answer
+1372,2400,92,5,"My left knee.  And my right shoulder, my back. Here at the back.",a,THE WITNESS,start_question
+1373,2402,92,7,What part of your back?,q,MR. NEWTON,start_answer
+1374,2403,92,8,Lower back.,a,THE WITNESS,start_question
+1375,2404,92,9,And where else?,q,MR. NEWTON,start_answer
+1376,2405,92,10,That's as far as I know.  That's all.,a,THE WITNESS,start_question
+1377,2406,92,11,"Okay.  And the left knee was the same knee that you had surgery on before, right?",q,MR. NEWTON,start_answer
+1378,2408,92,13,Correct.,a,THE WITNESS,start_question
+1379,2409,92,14,Did they ever tell you the results of your MRIs on any part of your body?,q,MR. NEWTON,start_answer
+1380,2411,92,16,They showed it to me.  Yes.,a,THE WITNESS,start_question
+1381,2412,92,17,What did they tell you?,q,MR. NEWTON,start_answer
+1382,2413,92,18,"There's something wrong in my neck and in my back, and that's why they put the injections on me.",a,THE WITNESS,start_question
+1383,2415,92,20,Who told you you had problems in your neck and your back?,q,MR. NEWTON,start_answer
+1384,2417,92,22,The therapist doctor where they look at the MRI.,a,THE WITNESS,start_question
+1385,2419,92,24,Was that at Texas Rehab or somewhere else?,q,MR. NEWTON,start_answer
+1386,2420,92,25,In Texas Rehab.,a,THE WITNESS,start_question
+1387,2422,93,1,"Okay.  Now when you were going to the chiropractor and having your therapy sessions, did it make you feel better?",q,MR. NEWTON,start_answer
+1388,2425,93,4,"It made me feel better for my -- for my shoulder and my left knee.  And it helped some in my neck and lower back, but it resolved completely.",a,THE WITNESS,start_question
+1389,2428,93,7,Did you tell them that you would have pain in your neck and your back occasionally?,q,MR. NEWTON,start_answer
+1390,2430,93,9,Yes.,a,THE WITNESS,start_question
+1391,2431,93,10,In effect -- sorry.,q,MR. NEWTON,start_answer
+1392,2432,93,11,"I'd like to add something.  Did you say ""occasionally""?",a,THE WITNESS,start_question
+1393,2434,93,13,Yes.,q,MR. NEWTON,start_answer
+1394,2435,93,14,It doesn't hurt -- it doesn't hurt occasionally.  The pain is there.,a,THE WITNESS,start_question
+1395,2437,93,16,Okay.  Let me ask it again. Did you -- you recall telling the doctors at Texas Rehab that you had symptoms in your neck and your back occasionally?,q,MR. NEWTON,start_answer
+1396,2441,93,20,"Yes, I did tell them that.",a,THE WITNESS,start_question
+1397,2442,93,21,Okay.,q,MR. NEWTON,start_answer
+1398,2443,93,22,"I probably was not clear on my answer with him, but I did tell him.",a,THE WITNESS,start_question
+1399,2445,93,24,And did they ask you to rate your pain from 1 to 10 with 10 being the worst?,q,MR. NEWTON,start_answer
+1400,2448,94,1,Yes.  They told me.  But I cannot recall what exact number I gave.,a,THE WITNESS,start_question
+1401,2450,94,3,"If it says that you told them before you had therapy it was a 5 and after you had therapy it was a 4, does that sound right?",q,MR. NEWTON,start_answer
+1402,2453,94,6,It's possible.,a,THE WITNESS,start_question
+1403,2454,94,7,You wouldn't disagree with that?,q,MR. NEWTON,start_answer
+1404,2455,94,8,I wouldn't disagree with that.,a,THE WITNESS,start_question
+1405,2456,94,9,Okay.  And remember being told that after the MRI of your left knee that they diagnosed you with a low-grade sprain?  It was a Dr. Porter.  Remember being told that?,q,MR. NEWTON,start_answer
+1406,2460,94,13,No.  I don't remember.,a,THE WITNESS,start_question
+1407,2461,94,14,"If it says that in your medical records, would you disagree with that?",q,MR. NEWTON,start_answer
+1408,2463,94,16,Yes.  Because I don't recall being told that.,a,THE WITNESS,start_question
+1409,2464,94,17,"But you don't dispute being told that?  You don't say you were not told that or you were told something different.  You're not say that, are you?",q,MR. NEWTON,start_answer
+1410,2467,94,20,I don't recall him saying that.,a,THE WITNESS,start_question
+1411,2468,94,21,Okay.  But you're not saying he told you something different.  You just don't remember either way?,q,MR. NEWTON,start_answer
+1412,2471,94,24,I don't recall.,a,THE WITNESS,start_question
+1413,2472,94,25,"If it says in your medical records from Opus MRI that Dr. -- Dr. Chad Porter told you that you had a low-grade sprain of your ACL without evidence of a tear, would you disagree with that?",q,MR. NEWTON,start_chat
+1414,2477,95,4,Objection; form.,side_chat,MR. BICKHAM,start_question
+1415,2478,95,5,(BY MR. NEWTON)  Or you just don't remember either way?,q,MR. NEWTON,start_answer
+1416,2480,95,7,I just simply don't remember.,a,THE WITNESS,start_question
+1417,2481,95,8,Okay.  Do you recall being told that you had a moderate-sized cyst in your knee?,q,MR. NEWTON,start_answer
+1418,2483,95,10,Nobody told me anything about that.,a,THE WITNESS,start_question
+1419,2484,95,11,"If it says it in your medical records, would they have been wrong?  Or would you know either way?",q,MR. NEWTON,start_answer
+1420,2486,95,13,I don't remember that.,a,THE WITNESS,start_question
+1421,2487,95,14,"So if they found it in your knee, it's not something you were told about?",q,MR. NEWTON,start_answer
+1422,2489,95,16,Exactly.,a,THE WITNESS,start_question
+1423,2490,95,17,"Okay.  Now eventually you had several injections in your neck, right?",q,MR. NEWTON,start_answer
+1424,2492,95,19,Correct.,a,THE WITNESS,start_question
+1425,2493,95,20,And did they help your neck pain?,q,MR. NEWTON,start_answer
+1426,2494,95,21,"The pain subsides for first couple of months, let's say two months.  And then the pain comes back.  It returns.",a,THE WITNESS,start_question
+1427,2497,95,24,"When it comes back, is it bad as it was before, or is it a little bit less?",q,MR. NEWTON,start_answer
+1428,2500,96,1,Okay.  The pain is least of my worries.  I can tolerate pain.  What worries me the most is the numbness that I get in both of my hands.,a,THE WITNESS,start_question
+1429,2503,96,4,How long has that been going on?,q,MR. NEWTON,start_answer
+1430,2504,96,5,"I don't have exact date -- or exact months, but this all happened coming from the accident.",a,THE WITNESS,start_question
+1431,2506,96,7,So you're telling us that you've had numbness in both hands.  It started sometime after May of 2019. Is that correct?,q,MR. NEWTON,start_answer
+1432,2509,96,10,"Was not on that day exactly, but it was after that day that the prob- -- problem showed up.",a,THE WITNESS,start_question
+1433,2511,96,12,"Okay.  How long after the accident on May 19, 2018, at the Kuraray plant do you first recall having numbness in your hands?",q,MR. NEWTON,start_answer
+1434,2514,96,15,"I don't remember very well, but around two months afterwards.  That's when I started having some symptoms.",a,THE WITNESS,start_question
+1435,2517,96,18,Did you tell a doctor about it?,q,MR. NEWTON,start_answer
+1436,2518,96,19,The first times I didn't because I didn't see it as a consequence of this.,a,THE WITNESS,start_question
+1437,2520,96,21,Has any doctor told you that the numbness in your hands are because of what happened at the Kuraray plant?,q,MR. NEWTON,start_answer
+1438,2523,96,24,"The PA from Dr. Thomas [sic], the physician's assistant from Dr. Thomas, whose name is Rosa Mar, I asked her some questions.  And she did comment that there was -- this was a consequence because of that.",a,THE WITNESS,start_question
+1439,2528,97,3,This was a physician's assistant?,q,MR. NEWTON,start_answer
+1440,2529,97,4,Yes.,a,THE WITNESS,start_question
+1441,2530,97,5,Who worked for who?,q,MR. NEWTON,start_answer
+1442,2531,97,6,Tomaszek.,a,THE WITNESS,start_question
+1443,2532,97,7,Okay.  But Dr. Tomaszek never told you that?,q,MR. NEWTON,start_answer
+1444,2533,97,8,I didn't have much time to ask about it.  I only saw him for a brief time the first time.,a,THE WITNESS,start_question
+1445,2535,97,10,Okay.  At any time did Dr. Tomaszek tell you that the numbness you were feeling in your hands was due to the accident at the Kuraray plant?  Did he ever say that?,q,MR. NEWTON,start_answer
+1446,2539,97,14,No.  I haven't spoken with him.,a,THE WITNESS,start_question
+1447,2540,97,15,"How many times have you seen Dr. Tomaszek?  At least three times, right?",q,MR. NEWTON,start_answer
+1448,2542,97,17,Three times.,a,THE WITNESS,start_question
+1449,2543,97,18,"And these were when he would give you your neck injections, right?",q,MR. NEWTON,start_answer
+1450,2545,97,20,Correct.,a,THE WITNESS,start_question
+1451,2546,97,21,And so what you're telling us is the only person who told you that the numbness in your hands might be due to the accident at the Kuraray plant was someone who worked for Tomaszek; is that correct?,q,MR. NEWTON,start_answer
+1452,2550,97,25,Correct.,a,THE WITNESS,start_question
+1453,2552,98,1,And this was someone named who?,q,MR. NEWTON,start_answer
+1454,2553,98,2,Rosa Mar.,a,THE WITNESS,start_question
+1455,2554,98,3,Rosa Mar.,q,MR. NEWTON,start_chat
+1456,2555,98,4,Uh-huh.,side_chat,THE INTERPRETER,start_question
+1457,2556,98,5,"(BY MR. NEWTON)  Is that a ""yes""?",q,MR. NEWTON,start_answer
+1458,2557,98,6,Yes.,a,THE WITNESS,start_question
+1459,2558,98,7,"And what does she do for the doctor, if you know?",q,MR. NEWTON,start_answer
+1460,2560,98,9,I do not know.,a,THE WITNESS,start_question
+1461,2561,98,10,And did she say that it could be due to the accident or that it was due to the accident?,q,MR. NEWTON,start_answer
+1462,2563,98,12,"She told me it was a consequence of what I had, but we did not mention the accident.",a,THE WITNESS,start_question
+1463,2565,98,14,So what did she relate it to?  She said the numbness in your hands was due to what?,q,MR. NEWTON,start_answer
+1464,2567,98,16,She told me that it's a consequence of what they were able to see at -- in the MRI.,a,THE WITNESS,start_question
+1465,2569,98,18,In your neck?,q,MR. NEWTON,start_answer
+1466,2570,98,19,In my neck and also in my waist.,a,THE WITNESS,start_question
+1467,2571,98,20,So Rosa Mar said that the problems with numbness in your hands were due to what they found on the MRI in your neck and your lower back?,q,MR. NEWTON,start_answer
+1468,2574,98,23,That's how I understood it.  I'm sorry.  No. We didn't speak about the lower back.,a,THE WITNESS,start_question
+1469,2576,98,25,"Okay.  Well, you just mentioned it.  That's why I -- I asked -- so what do you remember Rosa Mar telling you, as far as the numbness in your hands, she said to do what?",q,MR. NEWTON,start_answer
+1470,2581,99,4,I don't remember the conversations right now very well.,a,THE WITNESS,start_question
+1471,2583,99,6,So no doctor has told you what the cause of numbness in your hands is; is that correct?,q,MR. NEWTON,start_answer
+1472,2585,99,8,Correct.,a,THE WITNESS,start_question
+1473,2586,99,9,How long have you had numbness in your hands? Or how often I should say.  Is it every day? every other day? once a week?,q,MR. NEWTON,start_answer
+1474,2589,99,12,"Every day.  Some days stronger than others, mainly during the night when I'm lying down.",a,THE WITNESS,start_question
+1475,2591,99,14,How long has it been that way?,q,MR. NEWTON,start_answer
+1476,2592,99,15,I don't have an exact date.  It's -- it's around two months after the accident.  It could be more. It could be less.,a,THE WITNESS,start_question
+1477,2595,99,18,Do you recall telling any doctor about that?,q,MR. NEWTON,start_answer
+1478,2596,99,19,No.,a,THE WITNESS,start_question
+1479,2597,99,20,Do you recall getting steroids from Dr. Tomaszek?,q,MR. NEWTON,start_answer
+1480,2599,99,22,I do not know the chemical composition of what is applied to me.,a,THE WITNESS,start_question
+1481,2601,99,24,Do you recall him giving you what's called a Medrol Dosepak in August of 2018?,q,MR. NEWTON,start_answer
+1482,2604,100,1,"He gave me something, but I can't affirm it was that.  I just don't remember.",a,THE WITNESS,start_question
+1483,2606,100,3,"Do you remember a little foil pack he gave you where it had so many tablets you take a day, and then it was a little less the next day and a little less the day after that?",q,MR. NEWTON,start_answer
+1484,2610,100,7,"I do remember a package that had a lot of pills next to each other, but I don't remember the details.",a,THE WITNESS,start_question
+1485,2612,100,9,Right.  Did you take those?,q,MR. NEWTON,start_answer
+1486,2613,100,10,Yes.,a,THE WITNESS,start_question
+1487,2614,100,11,Did they help you?,q,MR. NEWTON,start_answer
+1488,2615,100,12,I'd say no.,a,THE WITNESS,start_question
+1489,2616,100,13,"Okay.  Did you ever tell the doctor that the steroids that you took or the medicine that he gave you -- ""he"" being Dr. Tomaszek -- gave you temporary relief?",q,MR. NEWTON,start_answer
+1490,2620,100,17,Correct.,a,THE WITNESS,start_question
+1491,2621,100,18,Has any doctor recommended surgery on your knee?,q,MR. NEWTON,start_answer
+1492,2623,100,20,None.,a,THE WITNESS,start_question
+1493,2624,100,21,Has any doctor recommended surgery on your neck?,q,MR. NEWTON,start_answer
+1494,2626,100,23,"The assistant called me, told me that I had to get three injections per year.",a,THE WITNESS,start_question
+1495,2628,100,25,Who -- what assistant was this?  What doctor was he or she the assistant to?,q,MR. NEWTON,start_answer
+1496,2631,101,2,From Dr. Tomaszek's.,a,THE WITNESS,start_question
+1497,2632,101,3,Okay.  This is someone who worked for Dr. Tomaszek?,q,MR. NEWTON,start_answer
+1498,2634,101,5,Yes.,a,THE WITNESS,start_question
+1499,2635,101,6,Rosa Mar or someone else?,q,MR. NEWTON,start_answer
+1500,2636,101,7,Rosa Mar is there because she speaks Spanish and is able to communicate to us.,a,THE WITNESS,start_question
+1501,2638,101,9,So is she the one who told you that you needed to get three injections a year on your neck?,q,MR. NEWTON,start_answer
+1502,2640,101,11,She didn't told me that I needed it.  She told me it was the maximum I could get.,a,THE WITNESS,start_question
+1503,2642,101,13,Okay.  So that was the most you could get was three injections a year.  Okay.,q,MR. NEWTON,start_answer
+1504,2644,101,15,And that's what she told me; that if it didn't go away that I would need surgery.,a,THE WITNESS,start_question
+1505,2646,101,17,Right.  But did any doctor tell you that you need surgery on your neck?  Has any doctor ever told you that?,q,MR. NEWTON,start_answer
+1506,2649,101,20,No.  Nobody.,a,THE WITNESS,start_question
+1507,2650,101,21,When's the last time you had injection on your neck or to your neck?,q,MR. NEWTON,start_answer
+1508,2652,101,23,"I'm not quite sure, but I believe it was March.",a,THE WITNESS,start_question
+1509,2653,101,24,Of this year?,q,MR. NEWTON,start_answer
+1510,2654,101,25,Of this year.  Yes.,a,THE WITNESS,start_question
+1511,2656,102,1,"The pain in your neck hasn't kept you from working, right?",q,MR. NEWTON,start_answer
+1512,2658,102,3,That is correct.  But I have to use different methods in order to do my job now.,a,THE WITNESS,start_chat
+1513,2660,102,5,Objection; nonresponsive.,side_chat,MR. NEWTON,start_question
+1514,2661,102,6,"(BY MR. NEWTON)  The pain in your neck has not prevented you from working, correct, Mr. Arredondo?",q,MR. NEWTON,start_answer
+1515,2663,102,8,Correct.,a,THE WITNESS,start_question
+1516,2664,102,9,"Any numbness you have in your hands has not prevented you from working, correct?",q,MR. NEWTON,start_answer
+1517,2666,102,11,Correct.,a,THE WITNESS,start_question
+1518,2667,102,12,Are you working currently?,q,MR. NEWTON,start_answer
+1519,2668,102,13,Yes.,a,THE WITNESS,start_question
+1520,2669,102,14,Where are you working?,q,MR. NEWTON,start_answer
+1521,2670,102,15,I work at the shop of Force at La Porte.,a,THE WITNESS,start_question
+1522,2671,102,16,You do welding there?,q,MR. NEWTON,start_answer
+1523,2672,102,17,Yes.,a,THE WITNESS,start_question
+1524,2673,102,18,And how long have you been working there this time?,q,MR. NEWTON,start_answer
+1525,2675,102,20,"Where I am right now, I've been working there for three months.  I do not know the exact date.",a,THE WITNESS,start_question
+1526,2677,102,22,Six days a week?,q,MR. NEWTON,start_answer
+1527,2678,102,23,Five.,a,THE WITNESS,start_question
+1528,2679,102,24,"If you had -- were asked to work six, would you do so?",q,MR. NEWTON,start_answer
+1529,2682,103,1,No.,a,THE WITNESS,start_question
+1530,2683,103,2,Why not?,q,MR. NEWTON,start_answer
+1531,2684,103,3,Because I get tired too much.,a,THE WITNESS,start_question
+1532,2685,103,4,"Okay.  So you work five days a week, 10 hours a day?",q,MR. NEWTON,start_answer
+1533,2687,103,6,Yes.,a,THE WITNESS,start_question
+1534,2688,103,7,Has any doctor told you that you can't work six days a week?,q,MR. NEWTON,start_answer
+1535,2690,103,9,No.,a,THE WITNESS,start_question
+1536,2691,103,10,Has any doctor ever told you that you can't work seven days a week?,q,MR. NEWTON,start_answer
+1537,2693,103,12,No.,a,THE WITNESS,start_question
+1538,2694,103,13,Has any doctor taken you off work for any period of time?,q,MR. NEWTON,start_answer
+1539,2696,103,15,No.,a,THE WITNESS,start_question
+1540,2697,103,16,Has any doctor put you on restrictions for work?,q,MR. NEWTON,start_answer
+1541,2699,103,18,No.,a,THE WITNESS,start_question
+1542,2700,103,19,Has anybody told you that you -- strike that. Any doctor told you that you need surgery on your back?,q,MR. NEWTON,start_answer
+1543,2703,103,22,No.,a,THE WITNESS,start_question
+1544,2704,103,23,Remember telling Dr. Tomaszek or someone in his office in March of 2019 that the numbness in your hands comes and goes?,q,MR. NEWTON,start_answer
+1545,2708,104,1,Probably did.,a,THE WITNESS,start_question
+1546,2709,104,2,"So if it says in your medical records of March 28, 2019, that you followed up with Dr. Tomaszek's office by phone, does that sound correct to you?",q,MR. NEWTON,start_answer
+1547,2712,104,5,"I'm sure it is, but I just don't remember very well.",a,THE WITNESS,start_question
+1548,2714,104,7,"Okay.  So if your medical records say that on March 28th, 2019, you told someone in Dr. Tomaszek's office that the numbness in your hands comes and goes and it happens a couple of times every few days, would that be correct?",q,MR. NEWTON,start_answer
+1549,2719,104,12,I don't remember if I did it.,a,THE WITNESS,start_question
+1550,2720,104,13,You're not saying that it's incorrect.  You're just saying you don't remember saying that?,q,MR. NEWTON,start_answer
+1551,2722,104,15,That is correct.,a,THE WITNESS,start_question
+1552,2723,104,16,"When you talked to Dr. Tomaszek's office, you're talking to a medical translator or someone who speaks Spanish, right?",q,MR. NEWTON,start_answer
+1553,2726,104,19,Correct.,a,THE WITNESS,start_question
+1554,2727,104,20,"Do you remember telling Dr. Tomaszek in June of 2019 or someone in his office that when you have injections, you have gotten significant relief of pain?",q,MR. NEWTON,start_answer
+1555,2730,104,23,I don't remember.,a,THE WITNESS,start_question
+1556,2731,104,24,"Now your medical records say the last time you got an injection in your neck was in June, June 13 of 2019.  That would be a couple of months ago.  Does that sound right to you?",q,MR. NEWTON,start_answer
+1557,2736,105,3,No.  It doesn't -- that doesn't sound right.,a,THE WITNESS,start_question
+1558,2737,105,4,"Well, if your medical records say that, do you think that's wrong?",q,MR. NEWTON,start_answer
+1559,2739,105,6,Yes.  There's a mistake there.,a,THE WITNESS,start_question
+1560,2740,105,7,"So you have any explanation for why it says in Dr. Tomaszek's records for you of June 13, 2019, that you underwent an injection in your neck that day?",q,MR. NEWTON,start_chat
+1561,2743,105,10,Object to the form.,side_chat,MR. BICKHAM,start_chat
+1562,2744,105,11,No.  I was -- nothing was put on me.,side_chat,THE WITNESS,start_question
+1563,2746,105,13,"(BY MR. NEWTON)  Okay.  So my question, though, is, do you have any explanation for why it says on June 13, 2019, Dr. Tomaszek gave you an injection in your neck on that day?  Do you think that is incorrect?",q,MR. NEWTON,start_chat
+1564,2750,105,17,Object to the form.,side_chat,MR. BICKHAM,start_chat
+1565,2751,105,18,That is not correct because that was not the date.,side_chat,THE WITNESS,start_question
+1566,2753,105,20,(BY MR. NEWTON)  When do you recall having your last neck injection?,q,MR. NEWTON,start_answer
+1567,2755,105,22,"If I'm not mistaken, it was March.  Some day of March.",a,THE WITNESS,start_question
+1568,2757,105,24,Remember the last time you saw Dr. Tomaszek being told that you have no progressive neurologic deficits and no issues which would mandate surgery?,q,MR. NEWTON,start_answer
+1569,2761,106,2,I don't remember that.,a,THE WITNESS,start_question
+1570,2762,106,3,"When you have these neck injections by Dr. Tomaszek, where would you have them done?",q,MR. NEWTON,start_answer
+1571,2764,106,5,VIP Surgery [sic] Center.,a,THE WITNESS,start_question
+1572,2765,106,6,And where is that located?,q,MR. NEWTON,start_answer
+1573,2766,106,7,In Conroe.,a,THE WITNESS,start_question
+1574,2767,106,8,"In Conroe, Texas?",q,MR. NEWTON,start_answer
+1575,2768,106,9,Yes.,a,THE WITNESS,start_question
+1576,2769,106,10,"Is that the same place where Dr. Tomaszek has his office, or is that a different place?",q,MR. NEWTON,start_answer
+1577,2771,106,12,It's a different place.,a,THE WITNESS,start_chat
+1578,2772,106,13,Can I request a two-minute break?,side_chat,THE INTERPRETER,start_chat
+1579,2774,106,15,You bet.  Almost done.,side_chat,MR. NEWTON,start_chat
+1580,2775,106,16,Going off the record at 5:31 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+1581,2777,106,18,(Break taken from 5:31 p.m. to 5:38 p.m.),brackets,,start_chat
+1582,2778,106,19,Back on the record at 5:38 p.m.,side_chat,THE VIDEOGRAPHER,start_question
+1583,2780,106,21,"(BY MR. NEWTON)  Okay.  Mr. Arredondo, we've had a chance to take a break.  Are you ready to proceed?",q,MR. NEWTON,start_answer
+1584,2782,106,23,Yes.,a,THE WITNESS,start_question
+1585,2783,106,24,"Okay.  During the break I showed the records from Dr. Tomaszek to your attorney, and it does show that on June 13, 2019, you did undergo your most recent injection to your neck.  So I didn't want you to think I just made that up.  Okay?",q,MR. NEWTON,start_answer
+1586,2789,107,4,Okay.  I didn't have an injection on that date.,a,THE WITNESS,start_question
+1587,2790,107,5,Okay.,q,MR. NEWTON,start_chat
+1588,2791,107,6,Just wait for the next question.,side_chat,MR. BICKHAM,start_chat
+1589,2793,107,8,That's right.  Let's just go to the next -- next exhibit.  Clear it up.,side_chat,MR. NEWTON,is brackets
+1590,2795,107,10,(Exhibit 1020 marked.),brackets,,start_question
+1591,2796,107,11,(BY MR. NEWTON)  Let me show you what's been marked as Exhibit No. 1020 to your deposition.  And these are records from Tomaszek Neurosurgical Associates.  Flip through there if you will.  Just kind of flip through and let me know when you're ready.  I'll ask you a question. Ready to go forward?,q,MR. NEWTON,start_answer
+1592,2803,107,18,Yes.,a,THE WITNESS,start_question
+1593,2804,107,19,"Okay.  I'm going to turn to, in your records from Dr. Tomaszek, page 15 and page 16.  And I want you to look at page 15.  And this is an operative report where it talks about you undergoing an injection in your neck on June 13, 2019.  Will you confirm for me that that's what it says there on that page? Do you see where it has your name there, Martin Arredondo?",q,MR. NEWTON,start_answer
+1594,2813,108,2,Yes.  Here it is.,a,THE WITNESS,start_question
+1595,2814,108,3,"And you see it says June 13, 2019?",q,MR. NEWTON,start_answer
+1596,2815,108,4,I'm looking at it.,a,THE WITNESS,start_question
+1597,2816,108,5,"Okay.  And it says:  ""Procedure bilateral foraminal root block C6"" -- I don't expect you to understand what that means.  I'll submit to you, sir, that that is an injection in your neck.  And it shows that it was given to you on June 13, 2019, at the VIP Surgical Center. Now that you have a chance to look at that, does that refresh your recollection about having your most recent injection to your neck in June of this year?",q,MR. NEWTON,start_answer
+1598,2825,108,14,I don't remember.,a,THE WITNESS,start_question
+1599,2826,108,15,Okay.  Do you still maintain that that's incorrect that the last injection you had to your neck was March of 2019 and you did not have an injection to your neck in June of 2019?  Is that still your testimony?,q,MR. NEWTON,start_answer
+1600,2831,108,20,Yes.,a,THE WITNESS,start_question
+1601,2832,108,21,So you think this is a mistake in your records?,q,MR. NEWTON,start_answer
+1602,2833,108,22,I believe so.,a,THE WITNESS,start_question
+1603,2834,108,23,"Okay.  That's fine.  Okay.  You can just leave that on the table.  Now if we flip the page to page 17, we see your name again at the top, and it shows that you underwent an injection to your neck on March 28, 2019. Do you see that sir?",q,MR. NEWTON,start_answer
+1604,2840,109,3,Yes.  I can see it.,a,THE WITNESS,start_question
+1605,2841,109,4,Okay.  Is that the one you remember being the last time you had an injection to your neck?,q,MR. NEWTON,start_answer
+1606,2843,109,6,Yes.  This is possible.  Yes.,a,THE WITNESS,start_question
+1607,2844,109,7,"So you think that -- you still maintain that the last injection you had to your neck was on March 28, 2019; is that right?",q,MR. NEWTON,start_chat
+1608,2847,109,10,Object to the form.,side_chat,MR. BICKHAM,start_chat
+1609,2848,109,11,Correct.,side_chat,THE WITNESS,start_question
+1610,2849,109,12,(BY MR. NEWTON)  Have you talked to anybody at OSHA or the Chemical Safety Board or the EPA about the accident at Kuraray?,q,MR. NEWTON,start_answer
+1611,2852,109,15,No.,a,THE WITNESS,start_question
+1612,2853,109,16,"If your records at the Texas Rehab Institute dated May 29th, 2018, say that -- I'm reading now from page 4 of 5, that date.  ""Patient's symptoms appear to have come on as a result of a motor vehicle accident consistent with the one described in this report."" Do you recall telling anybody at Texas Rehab Institute that you had been in a car accident?",q,MR. NEWTON,start_answer
+1613,2860,109,23,No.,a,THE WITNESS,start_question
+1614,2861,109,24,So you think that would be another mistake in your medical records?,q,MR. NEWTON,start_answer
+1615,2864,110,1,Yes.,a,THE WITNESS,start_question
+1616,2865,110,2,"Do you know the total amount of your medical expenses, sir?",q,MR. NEWTON,start_answer
+1617,2867,110,4,I have no idea.,a,THE WITNESS,start_question
+1618,2868,110,5,Have you paid any medical expenses out of your own pocket?,q,MR. NEWTON,start_answer
+1619,2870,110,7,No.,a,THE WITNESS,start_question
+1620,2871,110,8,Do you know who has paid your medical expenses?,q,MR. NEWTON,start_answer
+1621,2872,110,9,No.,a,THE WITNESS,start_question
+1622,2873,110,10,Do you know if your attorney has guaranteed payment of your medical expenses out of any recovery from your lawsuit?,q,MR. NEWTON,start_answer
+1623,2876,110,13,No.  I do not know.,a,THE WITNESS,start_question
+1624,2877,110,14,Have you received any money from your attorneys in this case?,q,MR. NEWTON,start_answer
+1625,2879,110,16,No.,a,THE WITNESS,start_question
+1626,2880,110,17,"I'm looking at your records from Force Corporation, sir, and it says that you underwent training, the Basic Plus course and also the Kuraray EVAL course, on March 9, 2018.",q,MR. NEWTON,start_answer
+1627,2884,110,21,Correct.,a,THE WITNESS,start_question
+1628,2885,110,22,Does that sound right to you?,q,MR. NEWTON,start_answer
+1629,2886,110,23,Yes.,a,THE WITNESS,start_question
+1630,2887,110,24,"But you've received other safety training before that, correct?",q,MR. NEWTON,start_answer
+1631,2890,111,1,Correct.,a,THE WITNESS,is brackets
+1632,2891,111,2,(Exhibit 1021 marked.),brackets,,start_question
+1633,2892,111,3,"(BY MR. NEWTON)  Let me show you what's been marked as Exhibit No. 1021 to your deposition.  And I'll submit to you that these are your answers to defendant's first master set of interrogatories.  Flip through this document, please, sir, if you will, and tell me if you've ever seen that document before?",q,MR. NEWTON,start_answer
+1634,2898,111,9,I don't remember.  It's possible.,a,THE WITNESS,start_question
+1635,2899,111,10,"Okay.  Look at the last page of that document, please.  Do you recognize your signature on that page?",q,MR. NEWTON,start_answer
+1636,2901,111,12,Yes.  I remember now.,a,THE WITNESS,start_question
+1637,2902,111,13,Okay.  And so now do you remember signing this particular page for this document which are answers to questions in your lawsuit?,q,MR. NEWTON,start_answer
+1638,2905,111,16,Yes.,a,THE WITNESS,start_question
+1639,2906,111,17,You remember working with your attorneys or someone that works for your attorneys to come up with answers to these questions?,q,MR. NEWTON,start_answer
+1640,2909,111,20,Yes.,a,THE WITNESS,start_question
+1641,2910,111,21,"And do you recall signing this document on June 10, 2019, as it says on page 6 of this exhibit?",q,MR. NEWTON,start_answer
+1642,2912,111,23,That's correct.,a,THE WITNESS,start_question
+1643,2913,111,24,And did you do that in this office where we are today?,q,MR. NEWTON,start_answer
+1644,2916,112,1,Correct.,a,THE WITNESS,start_question
+1645,2917,112,2,"Mr. Arredondo, have you ever seen a psychiatrist or a psychologist for any reason?",q,MR. NEWTON,start_answer
+1646,2919,112,4,No.,a,THE WITNESS,start_question
+1647,2920,112,5,Have you ever been treated for any mental or emotional condition?,q,MR. NEWTON,start_answer
+1648,2922,112,7,No.,a,THE WITNESS,start_question
+1649,2923,112,8,Have you ever seen a doctor for depression or anxiety of any kind?,q,MR. NEWTON,start_answer
+1650,2925,112,10,No.,a,THE WITNESS,start_question
+1651,2926,112,11,Have you ever been given medicines for depression or anxiety?,q,MR. NEWTON,start_answer
+1652,2928,112,13,No.,a,THE WITNESS,start_question
+1653,2929,112,14,Ever been diagnosed with PTSD?,q,MR. NEWTON,start_answer
+1654,2930,112,15,No.,a,THE WITNESS,start_question
+1655,2931,112,16,Have you ever seen a therapist or a counselor for any mental or emotional condition?,q,MR. NEWTON,start_answer
+1656,2933,112,18,No.,a,THE WITNESS,start_question
+1657,2934,112,19,"Now look down at interrogatory number 15 at the bottom of page 6, please, sir.  And interrogatory number 15.  That's just a fancy lawyer word for question.  Now I'm going to read -- read along with me, if you will. Number 15 says:  ""For each instance in which you worked at the Kuraray EVAL plant prior to the May 19 incident, state the date you worked at the Kuraray EVAL plant and what your job was."" And read along what your answer is right here that you swore to as being true and correct.  It says:  ""I started as a welder at the Kuraray EVAL plant on May 19, 2019."" You see those words there on the page as an answer to interrogatory number 15?",q,MR. NEWTON,start_answer
+1658,2950,113,9,Yes.,a,THE WITNESS,start_question
+1659,2951,113,10,"But that's not correct, is it?  Or is it correct?",q,MR. NEWTON,start_answer
+1660,2953,113,12,It is incorrect.,a,THE WITNESS,start_question
+1661,2954,113,13,So do you have any idea how they happen to put that down there?  Someone did?,q,MR. NEWTON,start_chat
+1662,2956,113,15,Objection; form.,side_chat,MR. BICKHAM,start_chat
+1663,2957,113,16,I have no idea.,side_chat,THE WITNESS,start_question
+1664,2958,113,17,(BY MR. NEWTON)  Did you look at these interrogatories before you signed the last page to them?,q,MR. NEWTON,start_answer
+1665,2960,113,19,"I don't remember.  And, besides, I can't -- I have difficulty reading in English.",a,THE WITNESS,start_question
+1666,2962,113,21,"Well, did someone in Mr. Bickham's office here at Bickham Law, they speak Spanish, right?  Mr. Bickham does.  Do other people speak Spanish here, as far as you know?",q,MR. NEWTON,start_answer
+1667,2966,113,25,It's possibly a mistake.  I just don't remember.,a,THE WITNESS,start_question
+1668,2969,114,2,"Okay.  Do you recall meeting with Mr. Bickham when you signed these interrogatories on June 10, 2019, or was it someone else?",q,MR. NEWTON,start_chat
+1669,2972,114,5,Don't answer those questions. Who he met with and who -- who he met with about the interrogatories --,side_chat,MR. BICKHAM,start_chat
+1670,2975,114,8,That's not -- that's not privileged.,side_chat,MR. NEWTON,start_chat
+1671,2977,114,10,"-- is not -- well, I think it is.",side_chat,MR. BICKHAM,start_chat
+1672,2979,114,12,Who he met with?,side_chat,MR. NEWTON,start_chat
+1673,2980,114,13,What you're trying to do is you're trying to embarrass me.,side_chat,MR. BICKHAM,start_chat
+1674,2982,114,15,"No, I'm not.",side_chat,MR. NEWTON,start_chat
+1675,2983,114,16,Because someone in my office made a mistake.,side_chat,MR. BICKHAM,start_chat
+1676,2985,114,18,"No, I'm not.",side_chat,MR. NEWTON,start_chat
+1677,2986,114,19,"You've already covered when he started working at the Kuraray plant, so, yes, we obviously made a mistake.  Please move on.",side_chat,MR. BICKHAM,start_chat
+1678,2989,114,22,"Just let him -- let him -- let him -- if that's correct, let him say that.  But he swore to these being correct.  So I'm just doing my thing.",side_chat,MR. NEWTON,start_chat
+1679,2994,115,1,"Oh, come on.",side_chat,MR. BICKHAM,start_question
+1680,2995,115,2,"(BY MR. NEWTON)  Mr. Arredondo, did you read these answers to interrogatories before you signed the page saying that they were true and correct?",q,MR. NEWTON,start_chat
+1681,2998,115,5,Objection to the form.,side_chat,MR. BICKHAM,start_chat
+1682,2999,115,6,I must have.,side_chat,THE WITNESS,start_question
+1683,3000,115,7,"(BY MR. NEWTON)  Do you recall when you signed this page where your signature appears on page 6 of this exhibit, do you recall sitting down with someone in Mr. Bickham's office and having them explain these to you?  Not just a lawyer but someone who worked for him? And I don't want to get in to what they told you.  All I want to know is do you recall someone explaining to you or reading these answers to you so that you could say they were true and correct?",q,MR. NEWTON,start_answer
+1684,3009,115,16,Yes.,a,THE WITNESS,start_question
+1685,3010,115,17,"Okay.  Now at interrogatory number 16, if you'll look at the bottom of page 6, it says:  ""For each instance in which you were at the Kuraray EVAL plant or any reason after the May 19th incident, state the purpose and the date of each instance."" And turn the page, if you will, and at the top of page 7 is the answer to number 16.  And it says: ""I never went back to the plant."" Do you see that?",q,MR. NEWTON,start_answer
+1686,3020,116,1,I could have -- I could not have answered that.,a,THE WITNESS,start_question
+1687,3021,116,2,Okay.  So you think it's incorrect then?,q,MR. NEWTON,start_answer
+1688,3022,116,3,That's incorrect.,a,THE WITNESS,start_question
+1689,3023,116,4,Okay.  All right.  I just wanted to get that from you.  Okay. Do you know Fernando Javier Aguilar?,q,MR. NEWTON,start_answer
+1690,3026,116,7,I saw him once or twice.  I don't remember very well.,a,THE WITNESS,start_question
+1691,3028,116,9,Do you know where he works?,q,MR. NEWTON,start_answer
+1692,3029,116,10,No.,a,THE WITNESS,start_question
+1693,3030,116,11,Did you ever work with him at Force?,q,MR. NEWTON,start_answer
+1694,3031,116,12,"When I saw him, he did not work for Force when I saw him.",a,THE WITNESS,start_question
+1695,3033,116,14,Okay.  Did you ever know him to work at the Kuraray plant?,q,MR. NEWTON,start_answer
+1696,3035,116,16,Now?,a,THE WITNESS,start_question
+1697,3036,116,17,At any time.,q,MR. NEWTON,start_answer
+1698,3037,116,18,No.  I don't know anything about him.,a,THE WITNESS,start_question
+1699,3038,116,19,"Okay.  So you don't know if he worked at the Kuraray plant on May 19, 2018, or not?",q,MR. NEWTON,start_answer
+1700,3040,116,21,"That's where I saw him, but I do not know with which company he was working with.  He was not working with Force.",a,THE WITNESS,start_question
+1701,3043,116,24,Okay.  But did you see him at the Kuraray plant?,q,MR. NEWTON,start_answer
+1702,3046,117,1,Once or twice perhaps.  I don't remember.,a,THE WITNESS,start_question
+1703,3047,117,2,"Did you see him at the Kuraray plant on the day of the accident, or do you remember?",q,MR. NEWTON,start_answer
+1704,3049,117,4,I don't remember.,a,THE WITNESS,start_question
+1705,3050,117,5,Do you know who Straughn Scott Frier is?,q,MR. NEWTON,start_answer
+1706,3051,117,6,No.,a,THE WITNESS,start_question
+1707,3052,117,7,Almost done.,q,MR. NEWTON,start_chat
+1708,3053,117,8,Fire drill?,side_chat,MR. NEWTON,start_chat
+1709,3054,117,9,Yeah.  We have a fire drill at 6:00 o'clock.  I didn't think we'd still be here; so I didn't say anything about it.,side_chat,MR. BICKHAM,start_chat
+1710,3057,117,12,That's all right.  We're almost done.  Look through my notes here.  Lucky it's a fire drill and not a real fire.,side_chat,MR. NEWTON,start_chat
+1711,3060,117,15,No.  It's a drill.,side_chat,MR. BICKHAM,start_chat
+1712,3061,117,16,We try to plan around our fire drills.,side_chat,MR. NEWTON,is brackets
+1713,3063,117,18,(Discussion off the written record.),brackets,,start_chat
+1714,3064,117,19,"Look through my notes, and we're just about done, sir.",side_chat,MR. NEWTON,start_question
+1715,3066,117,21,"(BY MR. NEWTON)  Do you know what a wind block is, sir, that you would use as a welder?",q,MR. NEWTON,start_answer
+1716,3068,117,23,Sometimes.,a,THE WITNESS,start_question
+1717,3069,117,24,What is a wind block that you're supposed to use as a welder?,q,MR. NEWTON,start_answer
+1718,3072,118,1,"We use it in different processes.  For example, if we're sitting in a place like this one, I would put like a shield in order to prevent me from seeing the light.",a,THE WITNESS,start_question
+1719,3076,118,5,It's also to prevent the wind from taking sparks from the welding and taking it out into the plant?,q,MR. NEWTON,start_answer
+1720,3079,118,8,Correct.,a,THE WITNESS,start_question
+1721,3080,118,9,Do you recall working for a company called Performance Contractors?,q,MR. NEWTON,start_answer
+1722,3082,118,11,Yes.,a,THE WITNESS,start_question
+1723,3083,118,12,When's the last time you worked for them?,q,MR. NEWTON,start_answer
+1724,3084,118,13,"I don't remember probably -- it could have been 2013, but I don't remember.",a,THE WITNESS,start_question
+1725,3086,118,15,That's the last time you remember working for them?,q,MR. NEWTON,start_answer
+1726,3088,118,17,Yes.,a,THE WITNESS,start_question
+1727,3089,118,18,You remember receiving a verbal warning for violation of the company policy regarding use of a wind block?,q,MR. NEWTON,start_answer
+1728,3092,118,21,I don't remember.,a,THE WITNESS,start_question
+1729,3093,118,22,"If it says that in your employment records, would you have any reason to dispute it?",q,MR. NEWTON,start_answer
+1730,3095,118,24,I don't know.,a,THE WITNESS,start_question
+1731,3096,118,25,"Can you recall any other time when you were reprimanded for received any kind of warning, verbal or written, for any safety procedure or safety violation?",q,MR. NEWTON,start_answer
+1732,3100,119,3,I don't remember.,a,THE WITNESS,start_question
+1733,3101,119,4,"When you would undergo safety training -- did we talk about this earlier, that you knew that you were authorized to stop work if you saw an unsafe condition? Did you tell me that earlier?",q,MR. NEWTON,start_answer
+1734,3105,119,8,Correct.,a,THE WITNESS,start_question
+1735,3106,119,9,"Okay.  And so you knew you had the authority to do that, and you know that as part of your safety training, right?",q,MR. NEWTON,start_answer
+1736,3109,119,12,Correct.,a,THE WITNESS,start_question
+1737,3110,119,13,"When's the first time you recall being told that, that you had the authority to stop work if you see an unsafe condition anywhere?  When's the first time you recall being told that?",q,MR. NEWTON,start_answer
+1738,3114,119,17,I don't remember.,a,THE WITNESS,start_question
+1739,3115,119,18,Do you recall being given a stop-work card as part of your safety training?,q,MR. NEWTON,start_answer
+1740,3117,119,20,No.  I don't remember.,a,THE WITNESS,start_question
+1741,3118,119,21,Is it possible you got one from Houston Area Safety Council and just don't remember?,q,MR. NEWTON,start_answer
+1742,3120,119,23,No.  I never received any cards.  Not that I can recall.,a,THE WITNESS,start_question
+1743,3122,119,25,Did you ever have occasion to stop work at any facility where you worked?,q,MR. NEWTON,start_answer
+1744,3125,120,2,Yes.  I stopped somebody from grinding during the welding process because there was a bucket of paint nearby.  And I stopped in order to move -- remove the bucket of paint -- the can of paint.,a,THE WITNESS,start_question
+1745,3129,120,6,"Okay.  And I see it in my notes.  You did receive authorization or information about the authorization to stop work if you saw something unsafe. And I recall -- I'm seeing in the notes here that you did that when you saw a can of paint near someone who was doing some welding, but actually you think it was someone grinding; is that right?",q,MR. NEWTON,start_answer
+1746,3136,120,13,Was grinding.,a,THE WITNESS,start_question
+1747,3137,120,14,Was grinding.  Okay.  Wasn't welding.  It was grinding?,q,MR. NEWTON,start_chat
+1748,3139,120,16,It was grinding.,side_chat,THE INTERPRETER,start_question
+1749,3140,120,17,"(BY MR. NEWTON)  That was not at Kuraray, was it?",q,MR. NEWTON,start_answer
+1750,3142,120,19,No.,a,THE WITNESS,start_question
+1751,3143,120,20,"Okay.  No, it was not, right?",q,MR. NEWTON,start_answer
+1752,3144,120,21,No.,a,THE WITNESS,start_chat
+1753,3145,120,22,"Okay.  Thank you, sir. I pass the witness.",side_chat,MR. NEWTON,start_chat
+1754,3147,120,24,Reserve our questions till the time of trial.,side_chat,MR. BICKHAM,start_chat
+1755,3150,121,1,This concludes today's deposition.  The time is 6:11 p.m.  We are off the record.,side_chat,THE VIDEOGRAPHER,is brackets
+1756,3153,121,4,(Proceedings concluded at 6:11 p.m.) CHANGES AND SIGNATURE,brackets,,start_chat
+1757,3177,122,2,MARTIN ARREDONDO        DATE,side_chat,WITNESS NAME,symbols
+1758,3179,122,4,________________________________________________________,symbols,,symbols
+1759,3180,122,5,________________________________________________________,symbols,,symbols
+1760,3181,122,6,________________________________________________________,symbols,,symbols
+1761,3182,122,7,________________________________________________________,symbols,,symbols
+1762,3183,122,8,________________________________________________________,symbols,,symbols
+1763,3184,122,9,________________________________________________________,symbols,,symbols
+1764,3185,122,10,________________________________________________________,symbols,,symbols
+1765,3186,122,11,________________________________________________________,symbols,,symbols
+1766,3187,122,12,________________________________________________________,symbols,,symbols
+1767,3188,122,13,________________________________________________________,symbols,,symbols
+1768,3189,122,14,________________________________________________________,symbols,,symbols
+1769,3190,122,15,________________________________________________________,symbols,,symbols
+1770,3191,122,16,________________________________________________________,symbols,,symbols
+1771,3192,122,17,________________________________________________________,symbols,,symbols
+1772,3193,122,18,________________________________________________________,symbols,,symbols
+1773,3194,122,19,________________________________________________________,symbols,,symbols
+1774,3195,122,20,________________________________________________________,symbols,,symbols
+1775,3196,122,21,________________________________________________________,symbols,,symbols
+1776,3197,122,22,________________________________________________________,symbols,,symbols
+1777,3198,122,23,________________________________________________________,symbols,,symbols
+1778,3199,122,24,________________________________________________________,symbols,,symbols
+1779,3200,122,25,"________________________________________________________ I, MARTIN ARREDONDO, have read the foregoing deposition and hereby affix my signature that same is true and correct, except as noted above.",symbols,,symbols
+1780,3205,123,4,"_________________________________ THE STATE OF _____________) COUNTY OF_________________) Before me, _________________________, on this day personally appeared MARTIN ARREDONDO, known to me",symbols,,is brackets
+1781,3214,123,12,"(or proved to me under oath or through ________________)(description of identity card or other document) to be the person whose name is subscribed to the foregoing instrument and acknowledged to me that they executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office this ______day of__________________________, 2019. NOTARY PUBLIC IN AND FOR Commission Expires:______________ CAUSE NO. 2018-62973 IN RE:                     )  IN THE DISTRICT COURT OF KURARAY AMERICA, INC.      )  HARRIS COUNTY, TEXAS",brackets,,symbols
+1782,3237,124,5,") all cases                  )  333RD JUDICIAL DISTRICT REPORTER'S CERTIFICATE August 19, 2019 I, Keith McCabe, Certified Shorthand Reporter in and for the State of Texas, hereby certify to the following: That the witness, MARTIN ARREDONDO, was duly sworn by the officer and that the transcript of the oral deposition is a true record of the testimony given by the witness; That the deposition transcript was submitted on _________________________ to the witness or to the attorney for the witness for examination, signature and return to me by _______________________________, 2019; That the amount of time used by each party at the deposition is as follows: Mr. Thomas F. Bickham, Jr. - 00 HRS:00 MIN That pursuant to information given to the deposition officer at the time said testimony was taken, the following includes counsel for all parties of record: Mr. Thomas F. Bickham, Jr., Attorney for Mr. Frank H. Newton, Attorney for Defendant I further certify that I am neither counsel for, related to, nor employed by any of the parties or attorneys in the action in which this proceeding was taken, and further that I am not financially or otherwise interested in the outcome of the action. Further certification requirements pursuant to Rule 203 of TRCP will be certified to after they have occurred. Certified to by me this ________________ day of ____________________________, 2019.",symbols,,symbols
+1783,3284,125,22,"_________________________________ Expiration Date: 12/31/2019 13101 Northwest Freeway, Suite 210 Phone:  281.469.5580 FURTHER CERTIFICATION UNDER RULE 203 TRCP The original deposition was/was not returned to the deposition officer on _________________________; If returned, the attached Changes and Signature page contains any changes and the reasons therefor; If returned, the original deposition was delivered to Mr. Frank H. Newton, Custodial Attorney; That $_________________ is the deposition officer's charges to the Defendant for preparing the original deposition transcript and any copies of exhibits; That the deposition was delivered in accordance with Rule 203.3, and that a copy of this certificate was served on all parties shown herein on ________________, and filed with the Clerk. Certified to by me this _________________ day of ____________________________, 2019.",symbols,,symbols
+1784,3313,126,22,"_________________________________ Expiration Date: 12/31/2019 13101 Northwest Freeway, Suite 210 Phone:  281.469.5580",symbols,,end

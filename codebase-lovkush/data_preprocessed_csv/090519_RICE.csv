@@ -1,0 +1,670 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,135,5,12,- - - EXAMINATION,symbols,,symbols
+2,137,5,14,- - -,symbols,,start_question
+3,139,5,16,"Good morning, Ms. Rice.  My name is Devon Sereda.  I am one of the attorneys representing the defendants in this matter. Have you ever had your deposition taken before?",q,MS. SEREDA,start_answer
+4,144,5,21,No.,a,THE WITNESS,start_question
+5,145,5,22,"I'm going to give you a few instructions to make today go smoothly, okay? We have a court reporter sitting between us. She is taking down everything that you and I say.  For that reason, it's important that all your responses be verbal. It's easy in everyday conversation to nod, shrug your shoulders, say uh-uh or uh-huh, but that won't make a clear record. If you do that I'm going to give you a quick reminder that we need a verbal response, okay?",q,MS. SEREDA,start_answer
+6,158,6,10,Okay.,a,THE WITNESS,start_question
+7,159,6,11,"It's easy in everyday conversation to anticipate where my question is going and start to answer before my question is done, but that makes her job harder.  Try to let me finish my question before you start your answer.  If for any reason I cut off your answer and started my next question, let me know, so I can make sure we get your full answer on the record.",q,MS. SEREDA,start_answer
+8,168,6,20,Okay.,a,THE WITNESS,start_question
+9,169,6,21,"I'm sure your attorney has advised you of this, but we want to make sure you don't guess at any answers today.  If I ask you a question and you don't know the answer or you don't remember the answer, those are perfectly acceptable responses, as long as that's the truth, okay?",q,MS. SEREDA,start_answer
+10,177,7,4,Okay.,a,THE WITNESS,start_question
+11,178,7,5,"There may be questions that I ask you to estimate time or distance.  Once again, I don't want you to guess, but if you feel like you're able to make an estimate, go ahead and do so.  Just let me know you're making an estimate, okay? I'm pretty quick at taking depositions, but if at any time you need to take a break, use the restroom, speak with your attorney, whatever it may be, I'm happy to give you that time.  I just ask, if there is a question pending, that you answer that question before we take our break, okay?",q,MS. SEREDA,start_answer
+12,191,7,18,Okay.,a,THE WITNESS,start_question
+13,192,7,19,"If I ask a question and you don't understand it, be sure to let me know, because if you answer the question, I'm going to assume you understood it.  If any part of my question seems unclear, just let me know. I'll be happy to rephrase it so it is clear, okay?",q,MS. SEREDA,start_answer
+14,200,8,2,Okay.,a,THE WITNESS,start_question
+15,201,8,3,Do you have any questions about those instructions?,q,MS. SEREDA,start_answer
+16,203,8,5,No.,a,THE WITNESS,start_question
+17,204,8,6,"Are you under the influence of anything; drugs, alcohol, medication, lack of sleep, anything that would prevent you from being able to understand and answer my questions truthfully and accurately here today?",q,MS. SEREDA,start_answer
+18,210,8,12,No.,a,THE WITNESS,start_question
+19,211,8,13,Are you ready to begin?,q,MS. SEREDA,start_answer
+20,212,8,14,I'm ready.,a,THE WITNESS,start_question
+21,213,8,15,Can you give us your full name?,q,MS. SEREDA,start_answer
+22,214,8,16,"Jaquaya Rice, J-A-Q-U-A-Y-A, R-I-C-E.",a,THE WITNESS,start_question
+23,215,8,17,What's your date of birth?,q,MS. SEREDA,start_answer
+24,216,8,18,1/28/1987.,a,THE WITNESS,start_question
+25,217,8,19,What is your current address?,q,MS. SEREDA,start_answer
+26,218,8,20,"4529 Aldine Street, A-L-D-I-N-E, Philadelphia, Pennsylvania 19136.",a,THE WITNESS,start_question
+27,220,8,22,How long have you lived at that address?,q,MS. SEREDA,start_answer
+28,222,8,24,"About a year and seven months, eight months approximately.",a,THE WITNESS,start_question
+29,225,9,2,Is that where you were living at the time of this accident?,q,MS. SEREDA,start_answer
+30,227,9,4,No.,a,THE WITNESS,start_question
+31,228,9,5,Where were you living at the time of this accident?,q,MS. SEREDA,start_answer
+32,230,9,7,"I was living with my mother at 4337 Malta Street, M-A-L-T-A, Philadelphia, Pennsylvania 19124.",a,THE WITNESS,start_question
+33,233,9,10,How long did you live with your mom?,q,MS. SEREDA,start_answer
+34,234,9,11,About 15 years.,a,THE WITNESS,start_question
+35,235,9,12,Did anyone else live with you on the date of the accident?,q,MS. SEREDA,start_answer
+36,237,9,14,"My mom, sister, nephew, two daughters.",a,THE WITNESS,start_question
+37,238,9,15,How old is your sister?,q,MS. SEREDA,start_answer
+38,239,9,16,28.,a,THE WITNESS,start_question
+39,240,9,17,How old is your nephew?,q,MS. SEREDA,start_answer
+40,241,9,18,My nephew is 6.,a,THE WITNESS,start_question
+41,242,9,19,How old are your daughters?,q,MS. SEREDA,start_answer
+42,243,9,20,"At the time of the accident, she was 13.  My daughter now is 10; my youngest daughter is 10.",a,THE WITNESS,start_question
+43,246,9,23,Do you have any other children other than your two daughters?,q,MS. SEREDA,start_answer
+44,249,10,1,No.,a,THE WITNESS,start_question
+45,250,10,2,What is your current marital status?,q,MS. SEREDA,start_answer
+46,251,10,3,"Married, in the process of a divorce.",a,THE WITNESS,start_question
+47,252,10,4,Are you legally separated?,q,MS. SEREDA,start_answer
+48,253,10,5,No.,a,THE WITNESS,start_question
+49,254,10,6,What's your husband's name?,q,MS. SEREDA,start_answer
+50,255,10,7,"Alwayne Luke Whyte, W-H-Y-T-E.",a,THE WITNESS,start_question
+51,256,10,8,How long have you been married?,q,MS. SEREDA,start_answer
+52,257,10,9,"Three-and-a-half years -- no, four years.",a,THE WITNESS,start_question
+53,259,10,11,What is your highest level of education completed?,q,MS. SEREDA,start_answer
+54,261,10,13,I completed high school and three-and-a-half years of college.,a,THE WITNESS,start_question
+55,263,10,15,When did you do those three-and-a-half years of college?,q,MS. SEREDA,start_answer
+56,265,10,17,Strayer University 2008 to approximately 2011 or '12.,a,THE WITNESS,start_question
+57,267,10,19,What were you studying there?,q,MS. SEREDA,start_answer
+58,268,10,20,"Business administration, but I minored in legal.  It was like legal studies/human resources.",a,THE WITNESS,start_question
+59,271,10,23,We're going to go off the record for this.,q,MS. SEREDA,symbols
+60,274,11,1,- - -,symbols,,is brackets
+61,275,11,2,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+62,277,11,4,- - -,symbols,,start_question
+63,279,11,6,You've just given me your Social off the record; last four digits 0774; is that correct?,q,MS. SEREDA,start_answer
+64,282,11,9,Correct.,a,THE WITNESS,start_question
+65,283,11,10,Are you currently employed?,q,MS. SEREDA,start_answer
+66,284,11,11,Yes.,a,THE WITNESS,start_question
+67,285,11,12,Where do you work?,q,MS. SEREDA,start_answer
+68,286,11,13,Social Security Administration.,a,THE WITNESS,start_question
+69,287,11,14,How long have you worked for the Social Security Administration?,q,MS. SEREDA,start_answer
+70,289,11,16,Two-and-a-half years.,a,THE WITNESS,start_question
+71,290,11,17,What do you do for them?,q,MS. SEREDA,start_answer
+72,291,11,18,I'm a senior case technician.,a,THE WITNESS,start_question
+73,292,11,19,What are your duties as a senior case technician?,q,MS. SEREDA,start_answer
+74,294,11,21,"I oversee disability cases, meaning I review Social Security cases for people that want to be on title to a Title 16 Disability. I get the cases ready for the judge or the arbitrator or the underwriter for them to determine whether the person or persons are deemed acceptable to be on Social Security benefits.",a,THE WITNESS,start_question
+75,303,12,5,Were you working there at the time of the accident?,q,MS. SEREDA,start_answer
+76,305,12,7,I was actually working in a different unit in debt management in the DMS unit.,a,THE WITNESS,start_question
+77,307,12,9,"Still for the SSA, but in a different unit?",q,MS. SEREDA,start_answer
+78,309,12,11,Correct.,a,THE WITNESS,start_question
+79,310,12,12,What did you do at the time of the accident?  What was your job then?,q,MS. SEREDA,start_answer
+80,312,12,14,The description?,a,THE WITNESS,start_question
+81,313,12,15,Yeah.,q,MS. SEREDA,start_answer
+82,314,12,16,"I was a remittence clerk.  A remittence clerk is actually a person who retrieves and checks for people that have overpayments or for people who made fraudulent transactions, such as they stole people's Social Security checks or had wage garnishment.  I would process those checks, call district court to make sure if the person was incarcerated to try to get certain information and correspondence.",a,THE WITNESS,start_question
+83,325,13,2,Did you miss any time from your job at SSA for the accident?,q,MS. SEREDA,start_answer
+84,327,13,4,The day of the accident.,a,THE WITNESS,start_question
+85,328,13,5,Were you paid salary or hourly?,q,MS. SEREDA,start_answer
+86,329,13,6,I am hourly paid.,a,THE WITNESS,start_question
+87,330,13,7,Do you remember what your hourly rate was at the time of the accident?,q,MS. SEREDA,start_answer
+88,332,13,9,It was approximately $15.94 an hour.,a,THE WITNESS,start_question
+89,333,13,10,How many hours were you scheduled to work on the date of the accident?,q,MS. SEREDA,start_answer
+90,335,13,12,"I work flextime.  It's depending on what time you get there depends on the time you leave, but it's an eight-hour workday not including overtime or credit hours.",a,THE WITNESS,start_question
+91,339,13,16,How often would you typically work overtime?,q,MS. SEREDA,start_answer
+92,341,13,18,I would typically work overtime as much as I wanted or depending on if I felt like I wanted to work overtime.,a,THE WITNESS,start_question
+93,344,13,21,Were you intending to work overtime on the date of the accident?,q,MS. SEREDA,start_answer
+94,346,13,23,I can't remember that.,a,THE WITNESS,start_question
+95,347,13,24,Did you tell your employer about the accident?,q,MS. SEREDA,start_answer
+96,350,14,2,My daughter called my employer.,a,THE WITNESS,start_question
+97,351,14,3,Were you required to provide any sort of medical documentation to your employer?,q,MS. SEREDA,start_answer
+98,353,14,5,Yes.,a,THE WITNESS,start_question
+99,354,14,6,What did you provide them?,q,MS. SEREDA,start_answer
+100,355,14,7,I gave them the emergency room records.,a,THE WITNESS,start_question
+101,357,14,9,"Do you use any social media accounts; Facebook, Instagram, Twitter?",q,MS. SEREDA,start_answer
+102,359,14,11,"No Facebook, just Instagram.",a,THE WITNESS,start_question
+103,360,14,12,What's your name on Instagram?  Is it your actual name?,q,MS. SEREDA,start_answer
+104,362,14,14,"No, Zaraysuccess.",a,THE WITNESS,start_question
+105,363,14,15,Can you spell that?,q,MS. SEREDA,start_answer
+106,364,14,16,Z-A-R-A-Y-S-U-C-C-E-S-S.,a,THE WITNESS,start_question
+107,365,14,17,I ask this of everyone.  Don't be offended. Have you ever been convicted of or pled guilty to a crime involving fraud or dishonesty in the last ten years?,q,MS. SEREDA,start_chat
+108,370,14,22,Do I answer that?,side_chat,THE WITNESS,start_chat
+109,371,14,23,You can answer that.,side_chat,MR. MCCANDLESS,start_chat
+110,374,15,1,"In 2007, I was arrested.",side_chat,THE WITNESS,start_chat
+111,376,15,3,But it wasn't for --,side_chat,MR. MCCANDLESS,start_chat
+112,378,15,5,"No, it wasn't for fraud or anything.",side_chat,THE WITNESS,start_chat
+113,380,15,7,That's it.,side_chat,MR. MCCANDLESS,start_chat
+114,381,15,8,I don't need to know any more.,side_chat,MS. SEREDA,start_chat
+115,383,15,10,"The question was very specific to the type, and the answer to that is no.",side_chat,MR. MCCANDLESS,start_question
+116,387,15,14,Do you have private health insurance?,q,MS. SEREDA,start_answer
+117,388,15,15,Yes.,a,THE WITNESS,start_question
+118,389,15,16,Who is that with?,q,MS. SEREDA,start_answer
+119,390,15,17,Blue Cross Blue Shield FEP.,a,THE WITNESS,start_question
+120,391,15,18,Did you also have that at the time of the accident?,q,MS. SEREDA,start_answer
+121,393,15,20,Yes.,a,THE WITNESS,start_question
+122,394,15,21,Was there any point in time since the accident that that health insurance has lapsed or you've been uninsured?,q,MS. SEREDA,start_answer
+123,397,15,24,No.,a,THE WITNESS,start_question
+124,399,16,1,"Do you have a primary care doctor that you treat with, a family doctor?",q,MS. SEREDA,start_answer
+125,401,16,3,"Yes, but they're in the process of closing, so I have to find a new one.",a,THE WITNESS,start_question
+126,403,16,5,Who was your primary care doctor?,q,MS. SEREDA,start_answer
+127,404,16,6,Drexel Family Medicine.,a,THE WITNESS,start_question
+128,405,16,7,At Hahnemann?,q,MS. SEREDA,start_answer
+129,406,16,8,Yes.,a,THE WITNESS,start_question
+130,407,16,9,Did you see a particular doctor there?,q,MS. SEREDA,start_answer
+131,408,16,10,Dr. Bakshi.,a,THE WITNESS,start_question
+132,409,16,11,How do I spell that?,q,MS. SEREDA,start_answer
+133,410,16,12,"Oh, I don't have no idea.",a,THE WITNESS,start_question
+134,411,16,13,Would you see him at Hahnemann or her?,q,MS. SEREDA,start_answer
+135,412,16,14,"No, it was across the street; 219 South Broad Street.",a,THE WITNESS,start_question
+136,414,16,16,How long did you go to that practice? More than five years?,q,MS. SEREDA,start_answer
+137,416,16,18,"No, because I used to go to Jefferson Family Medicine.  It was like in 2015, 2016, approximately.",a,THE WITNESS,start_question
+138,419,16,21,"Now, I'm going to turn to the date of the accident. Do you recall what date this accident occurred on?",q,MS. SEREDA,start_answer
+139,424,17,1,"January 17, 2018.",a,THE WITNESS,start_question
+140,425,17,2,Do you recall what time that it occurred?,q,MS. SEREDA,start_answer
+141,427,17,4,"Approximately, like 6:30, 7:00 in the morning.",a,THE WITNESS,start_question
+142,429,17,6,What was the weather like that morning?,q,MS. SEREDA,start_answer
+143,431,17,8,"It was rainy, cold, misty, a little foggy.",a,THE WITNESS,start_question
+144,433,17,10,"When the incident occurred, was it dark out, getting light out, light out? How would you describe the lighting conditions?",q,MS. SEREDA,start_answer
+145,437,17,14,It was seeable but a little foggy.,a,THE WITNESS,start_question
+146,438,17,15,Like overcast?,q,MS. SEREDA,start_answer
+147,439,17,16,"In between of night and morning, changing to daylight.  It was still raining, so it was early morning raining weather.",a,THE WITNESS,start_question
+148,442,17,19,Do you remember what you were wearing that day?,q,MS. SEREDA,start_answer
+149,444,17,21,"I had on a cream-colored North Face jacket, work clothes, some clogs.",a,THE WITNESS,start_question
+150,446,17,23,Did you say clogs?,q,MS. SEREDA,start_answer
+151,447,17,24,"Right, like nursing clogs.",a,THE WITNESS,start_question
+152,449,18,1,"When you say work clothes, is that like a skirt, pants?",q,MS. SEREDA,start_answer
+153,451,18,3,"Like a pair of pants and a shirt, sweater because it was cold.",a,THE WITNESS,start_question
+154,453,18,5,Do you wear eyeglasses at all?,q,MS. SEREDA,start_answer
+155,454,18,6,Only for work purposes.,a,THE WITNESS,start_question
+156,455,18,7,"Do you need them for seeing far away, seeing near?",q,MS. SEREDA,start_answer
+157,457,18,9,I just need them for using the computer.  That's it.,a,THE WITNESS,start_question
+158,459,18,11,My understanding is you were a pedestrian when this incident occurred; is that right?,q,MS. SEREDA,start_answer
+159,462,18,14,Yes.,a,THE WITNESS,start_question
+160,463,18,15,Can you just tell me where you were walking from prior to the incident coming?,q,MS. SEREDA,start_answer
+161,465,18,17,I was walking from my mom's house coming down I Street with my daughter.  She was on her way to school.  The light was green with the pedestrian walk sign for me to walk across the street to the 89 bus stop.,a,THE WITNESS,start_question
+162,470,18,22,Where was the 89 bus stop located?,q,MS. SEREDA,start_answer
+163,471,18,23,It's located on I Street but across the street on I and Hunting Park but on I.,a,THE WITNESS,start_question
+164,474,19,1,Is it at the intersection of Hunting Park and I?,q,MS. SEREDA,start_answer
+165,476,19,3,At the intersection.,a,THE WITNESS,start_question
+166,477,19,4,But across the street from where the accident occurred?,q,MS. SEREDA,start_answer
+167,479,19,6,Correct.,a,THE WITNESS,start_question
+168,480,19,7,Would you say you're familiar with the area where the accident occurred?,q,MS. SEREDA,start_answer
+169,482,19,9,"Yes, I lived around there for 15 years.",a,THE WITNESS,start_question
+170,484,19,11,Was this your regular route that you would take to the bus stop?,q,MS. SEREDA,start_answer
+171,486,19,13,It's my regular routine.,a,THE WITNESS,start_question
+172,487,19,14,What was the route that you took from your mom's house to where the incident occurred?,q,MS. SEREDA,start_answer
+173,490,19,17,What do you mean?,a,THE WITNESS,start_question
+174,491,19,18,Take me through you come out of the doorway --,q,MS. SEREDA,start_answer
+175,493,19,20,"I came out of my mom's house, walked down the street on Malta.  I would turn onto Bristol Street, walk down Bristol Street until I get to the corner of I and Bristol. Then I would make a right onto I Street, walk down that street to the corner of I and Hunting Park.  The corner is I and Hunting Park.  The main street is Hunting Park. The light is facing towards me at the corner.  I will walk across the street of Hunting Park, and then the bus stop is right there on the corner of Hunting Park.",a,THE WITNESS,start_question
+176,506,20,8,You would cross the street to go to the bus stop?,q,MS. SEREDA,start_answer
+177,508,20,10,Correct.,a,THE WITNESS,start_question
+178,509,20,11,"If the incident had not occurred, was it your intention to cross I Street to the other side and then cross Hunting Park from there?",q,MS. SEREDA,start_answer
+179,513,20,15,What do you mean?,a,THE WITNESS,start_question
+180,514,20,16,"From my understanding, you were crossing I Street when the incident occurred?",q,MS. SEREDA,start_chat
+181,516,20,18,"No, she was crossing Hunting Park.",side_chat,MR. MCCANDLESS,start_question
+182,519,20,21,But walking along from I Street?,q,MS. SEREDA,start_answer
+183,520,20,22,Correct.,a,THE WITNESS,start_question
+184,521,20,23,"If the incident hadn't occurred, you would have crossed to that other corner and then crossed the street?",q,MS. SEREDA,start_answer
+185,525,21,2,"No, I would have -- this is the corner.  I would have crossed the street. The bus stop is right here, the 89 stop.",a,THE WITNESS,start_question
+186,528,21,5,You're actually crossing the street when the incident occurred?,q,MS. SEREDA,start_answer
+187,530,21,7,Correct.,a,THE WITNESS,start_question
+188,531,21,8,Can you tell me how the accident occurred?,q,MS. SEREDA,start_answer
+189,533,21,10,"On the corner of I Street, you have the cars that can go both ways.  Cars can go straight down I Street, going towards I and Eerie.  Then you have cars that can go down the opposite direction, going towards I and Bristol.  Cars can go this way, and cars can go that way. Cars that's in the middle of, I guess you can say, I Street coming from Eerie can turn onto Hunting Park going towards G and Hunting Park.  My light had the pedestrian walk sign.  So the number signs never came up at the time I was crossing the street when he turned that white van going onto Hunting Park going towards G and Hunting Park.  At the time I got hit, it was literally in the middle of the street.",a,THE WITNESS,start_question
+190,551,22,3,You said you were walking your daughter?,q,MS. SEREDA,start_answer
+191,553,22,5,My daughter was walking with me.,a,THE WITNESS,start_question
+192,554,22,6,"Was your daughter walking next to you, behind you, in front of you?",q,MS. SEREDA,start_answer
+193,556,22,8,She was walking next to me but a couple feet behind me a little bit.,a,THE WITNESS,start_question
+194,558,22,10,"When you say next to you, was that closer to the van or farther from the van?",q,MS. SEREDA,start_answer
+195,560,22,12,It was farther from the van because it hit me first and then she jumped back.,a,THE WITNESS,start_question
+196,562,22,14,"Prior to the impact, did you see the white van?",q,MS. SEREDA,start_answer
+197,564,22,16,"I seen it in the process about to turn.  But common sense, if I'm in the middle of the street, why would you turn?",a,THE WITNESS,start_question
+198,567,22,19,Did you see it stop at all prior to the impact?,q,MS. SEREDA,start_answer
+199,569,22,21,He stopped as soon as he went boom.,a,THE WITNESS,start_question
+200,570,22,22,"After the impact, he stopped?",q,MS. SEREDA,start_answer
+201,571,22,23,Right.,a,THE WITNESS,start_question
+202,572,22,24,"But prior to that, did you see him making the left-hand turn, or did you see him stop before to check for traffic or anything of that nature?",q,MS. SEREDA,start_answer
+203,577,23,4,"No, he was the first car.  He was just in the process of turning onto Hunting Park going towards G Street.",a,THE WITNESS,start_question
+204,580,23,7,What was your daughter's name that was walking with you?,q,MS. SEREDA,start_answer
+205,582,23,9,"Rayana R-A-Y-A-N-A, Purefoey, P-U-R-E-F-O-E-Y.",a,THE WITNESS,start_question
+206,584,23,11,You said she was 13 at the time?,q,MS. SEREDA,start_answer
+207,585,23,12,She was like 12.,a,THE WITNESS,start_question
+208,586,23,13,You said that it happened in the middle of the intersection. Was it completely in the middle of Hunting Park where you're crossing?,q,MS. SEREDA,start_answer
+209,590,23,17,"There are two double-yellow lines for cars to come down Hunting Park going towards G and Hunting Park.  On the other side, you have where the 89 is going down towards M and Hunting Park to make a turn onto Castor Avenue, that bus route. The cars are going both ways in the intersection.  The barrier is the two double-yellow lines for cars to go both ways down Hunting Park.",a,THE WITNESS,start_question
+210,601,24,3,Did it happen directly in the middle of the two lanes there?,q,MS. SEREDA,start_answer
+211,603,24,5,"There are two lanes in between the double lines.  Two cars can go down Hunting Park going towards G Street, and on the opposite side there is two cars that can go towards Castor Avenue from Hunting Park. When the car turned from I Street on the opposite direction, he has to make a wider turn onto Hunting Park to get towards G and Hunting Park.  You have to look between ongoing traffic because you have cars going down I Street going towards I and Eerie. Then the cars coming from the opposite way on I Street can go towards I and Bristol going towards I and Cayuga where those cars can make a right or left turn. It's a park right in front of the street.  You have to be mindful of the oncoming traffic because cars are going this way and this way.",a,THE WITNESS,start_question
+212,622,24,24,"He's making a left-hand turn, correct?",q,MS. SEREDA,start_answer
+213,624,25,1,The car is coming down I Street.,a,THE WITNESS,start_question
+214,625,25,2,You're doing a lot of gesturing.,q,MS. SEREDA,start_answer
+215,626,25,3,"The car is coming down I Street, and then it's making a --",a,THE WITNESS,start_chat
+216,628,25,5,It's a left.,side_chat,MR. MCCANDLESS,start_chat
+217,629,25,6,It's a left turn onto Hunting Park.,side_chat,THE WITNESS,start_question
+218,632,25,9,What I'm trying to get at is -- and you're doing a good job.  I understand it's a complicated intersection -- but what I want to find out is where the actual impact occurred on Hunting Park?,q,MS. SEREDA,start_answer
+219,637,25,14,"I'm on the corner, walking across the street.",a,THE WITNESS,start_chat
+220,639,25,16,Did you get to the double-yellow lines before you got hit?,side_chat,MR. MCCANDLESS,start_chat
+221,641,25,18,"No, I did not get to the double yellow.",side_chat,THE WITNESS,start_question
+222,644,25,21,That's what I was trying to find out.,q,MS. SEREDA,start_answer
+223,645,25,22,"I'm in the middle of the street where the white lines are, the barrier for the white lines, before you get to the double yellow --",a,THE WITNESS,start_question
+224,650,26,2,That divides Hunting Park?,q,MS. SEREDA,start_answer
+225,651,26,3,"Right, where the two cars can come down Hunting Park going towards G street, I'm in the middle of them white lanes where the two cars can come down Hunting Park. Mr. Torres' car is in the middle of the street.  The cars had to go around him. When he got out of the car, he dragged me from the white lines back to the side where I came from on the corner of I and Hunting Park.",a,THE WITNESS,start_question
+226,661,26,13,"When you say he dragged you, explain to me how that happened.",q,MS. SEREDA,start_answer
+227,663,26,15,"As he's turning real quick, I turn around.  I'm like, what the fuck, and I fall on my knees.  I break my fall with my hands. I tilted over.  He rushes out the car, drags me from the street back to the corner where I initially came from.  I'm on the ground, and he says, I'm sorry, I'm sorry.",a,THE WITNESS,start_question
+228,670,26,22,"When you say he dragged you, it wasn't with the car; it was with his person?",q,MS. SEREDA,start_answer
+229,672,26,24,"Right, took me by the cuff of my underarms and dragged me to the sidewalk.",a,THE WITNESS,start_question
+230,675,27,2,Did you actually have any contact with the van?,q,MS. SEREDA,start_answer
+231,677,27,4,"Yes, the bumper of the van hit me on my knees, both of my knees.  Because when I turned around and actually seen the car, I couldn't do nothing.",a,THE WITNESS,start_question
+232,681,27,8,You said it hit both your knees. Were you basically facing the front of the van when the impact occurred?,q,MS. SEREDA,start_answer
+233,684,27,11,"When the car turned and I'm walking across the street, I'm just like, what the fuck?  It happened so fast.  To explain it more in depth, I really can't because it was just like I turned around and it's like boom.",a,THE WITNESS,start_question
+234,689,27,16,You said you broke the fall with your hands and fell onto your knees?,q,MS. SEREDA,start_answer
+235,691,27,18,This parts of my hand.,a,THE WITNESS,start_question
+236,692,27,19,You're indicating the palms of your hand?,q,MS. SEREDA,start_chat
+237,694,27,21,I think we call that the heel.,side_chat,MR. MCCANDLESS,start_chat
+238,696,27,23,Heel of your hand.,side_chat,MS. SEREDA,start_question
+239,700,28,2,"You said he got out of the van, grabbed you under the underarms and dragged you back to the corner from where you had come from?",q,MS. SEREDA,start_answer
+240,704,28,6,Correct.,a,THE WITNESS,start_question
+241,705,28,7,And said he was sorry?,q,MS. SEREDA,start_answer
+242,706,28,8,Correct.,a,THE WITNESS,start_question
+243,707,28,9,What happened from there?,q,MS. SEREDA,start_answer
+244,708,28,10,"The other two guys that were in the car with him -- there was a person in the passenger seat -- they got out of the car. My daughter was like, you hit my mom.  He said I'm sorry, I'm sorry, I'm sorry.",a,THE WITNESS,start_question
+245,713,28,15,Who is he?,q,MS. SEREDA,start_answer
+246,714,28,16,"Mr. Torres said that he was sorry. I'm like, you really hurt my knees really bad.  How couldn't you see me?  The other person that was in the car in the passenger side was just shaking his head the whole time and was translating for Mr. Torres. At the time, Mr. Torres got on the phone with, I guess, his boss, Jeffrey or whatever his name is.  I can't recall.  We tried to wait for the police, but they didn't come at all. I asked for his name.  He told me Hector Torres.  He told me whom he worked for.  He didn't give me other information, but it was a language barrier, so there was not too much that we both could do.",a,THE WITNESS,start_question
+247,731,29,8,You said there were two other guys in the vehicle?,q,MS. SEREDA,start_answer
+248,733,29,10,Yes.,a,THE WITNESS,start_question
+249,734,29,11,But only one --,q,MS. SEREDA,start_answer
+250,735,29,12,Was translating.  It was a skinny guy.,a,THE WITNESS,start_question
+251,736,29,13,What did the other person look like?,q,MS. SEREDA,start_chat
+252,737,29,14,Which other?,side_chat,MR. MCCANDLESS,start_chat
+253,738,29,15,"The skinny guy, other than being skinny.",side_chat,MS. SEREDA,start_chat
+254,740,29,17,"The guy that was in the passenger side was about my height with spiky hair, had on boots, Hispanic.",side_chat,THE WITNESS,start_question
+255,744,29,21,How about the third passenger?,q,MS. SEREDA,start_answer
+256,745,29,22,"The third passenger was the same size as Mr. Torres, little huskier.  I really don't remember hair or anything, but he could not speak any English at all.",a,THE WITNESS,start_chat
+257,750,30,2,I have two questions for her before you move on to a different topic.  I think it will be more confusing if we go back; is that okay?,side_chat,MS. GARBER,start_chat
+258,754,30,6,That's fine.  Go ahead.,side_chat,MS. SEREDA,symbols
+259,756,30,8,- - - EXAMINATION,symbols,,symbols
+260,758,30,10,- - -,symbols,,start_question
+261,760,30,12,"Ms. Rice, my name is Cheryl Garber. I'm with Garber Law.  I'm personal counsel for Pro-Coat Painters. Good morning.",q,MS. GARBER,start_answer
+262,764,30,16,Good morning.,a,THE WITNESS,start_question
+263,765,30,17,"While on the topic, I have a couple questions for you. When you said Mr. Torres said I'm sorry, I'm sorry, was he speaking in English or Spanish?",q,MS. GARBER,start_answer
+264,770,30,22,"He said, I sorry, I sorry, I sorry, just like that.",a,THE WITNESS,start_question
+265,772,30,24,"When you say that he grabbed you under your arms and dragged you to the corner, can you describe that for me a little bit more. Can you tell me were your feet on the ground?  Were your knees on the ground? What was the lower portion of your body doing when he assisted you to the corner?",q,MS. GARBER,start_answer
+266,781,31,8,"When I fell on my knees, I tilted over a little bit, and Mr. Torres got out of the car.  He rushed because he was in a panic, you could tell; eyes bulging open.  I was in a panic because I was scared. He grabbed me under the cuff of my underarms and dragged me on the sidewalk of which I first initially came from when I was trying to walk across the street.",a,THE WITNESS,start_question
+267,790,31,17,"Is it fair to say your feet were sort of on the ground being drug along? You weren't being drug on your knees; it wasn't ruining your clothes, right?",q,MS. GARBER,start_answer
+268,794,31,21,"I got drug from my back.  The back of the heels of my shoes, my clogs, were dragging.  My jacket was a three-quarter length.  It came to my knees basically.  The bottom part of my jacket was dragging on the ground.",a,THE WITNESS,start_question
+269,801,32,3,You mentioned your clogs.  Can you tell me a little more. What did they look like?  Did they have a wedge heel?  Did they have a heel heel?,q,MS. GARBER,start_answer
+270,806,32,8,"They're pink clogs, like nursing clogs for support for my feet.",a,THE WITNESS,start_question
+271,808,32,10,What does the heel look like?,q,MS. GARBER,start_answer
+272,809,32,11,They're just a brown clog heel.,a,THE WITNESS,start_question
+273,810,32,12,Is there a separation in between the heel and the middle of the shoe on the bottom or is it all one piece?,q,MS. GARBER,start_answer
+274,813,32,15,"No, it's all one piece.",a,THE WITNESS,start_chat
+275,814,32,16,"Thank you, ma'am.",side_chat,MS. GARBER,symbols
+276,815,32,17,- - - EXAMINATION,symbols,,symbols
+277,817,32,19,- - -,symbols,,start_question
+278,819,32,21,You indicated that it was raining out. Was the roadway wet?,q,MS. SEREDA,start_answer
+279,821,32,23,"Yes, it was wet.",a,THE WITNESS,start_question
+280,822,32,24,I know this happened in January. Was there any snow on the ground or ice?,q,MS. SEREDA,start_answer
+281,826,33,3,"It was slushy.  The night before was that temperature where it was icy.  That morning when it was raining, the rain broke some of the ice, so it made it slushy.",a,THE WITNESS,start_question
+282,830,33,7,"You said that he takes you to the sidewalk. Are you standing at this point, sitting?",q,MS. SEREDA,start_answer
+283,834,33,11,I'm sitting down on the ground.,a,THE WITNESS,start_question
+284,835,33,12,How are you sitting?  Are you sitting Indian style?  Are you sitting off the curb? How are you sitting?,q,MS. SEREDA,start_answer
+285,838,33,15,"With my back towards the pole, and I'm sitting on the ground on my butt.  There is a pole right there on the corner of I Street.",a,THE WITNESS,start_question
+286,841,33,18,"Are you aware of any witnesses to the accident other than the three people that were in the other vehicle and your daughter; anybody that came up to you and said, hey, I saw this happen?",q,MS. SEREDA,start_answer
+287,846,33,23,"Nobody came up.  They just was looking.  Everybody gave their two cents, but it was early in the morning.  Everybody was trying to get to work.  People trying to get their kids to school.",a,THE WITNESS,start_question
+288,852,34,4,"Did the vehicle actually push you to the ground, or did you fall from the surprise?",q,MS. SEREDA,start_answer
+289,855,34,7,"No, it pushed me to the ground because he was trying to stop.",a,THE WITNESS,start_question
+290,857,34,9,How do you know he was trying to stop?,q,MS. SEREDA,start_answer
+291,858,34,10,"Because you heard the skrrt, that part.",a,THE WITNESS,start_question
+292,860,34,12,You heard the screech of brakes?,q,MS. SEREDA,start_answer
+293,861,34,13,Right.,a,THE WITNESS,start_question
+294,862,34,14,"You said you said what the fuck and were surprised. How much time passed between when you saw something was about to happen and the impact actually occurring?  Was it instantaneous, or was there a few seconds that went by?",q,MS. SEREDA,start_answer
+295,869,34,21,"I didn't even have a few seconds because when I'm walking across the street and he's turning and it starts to count 23, 22 seconds and before I even reach that double-yellow line, before I knew it, the car just said boom.  I turned around, and it's right when I'm on my knees.  I'm like, what the fuck?",a,THE WITNESS,start_question
+296,878,35,5,"Prior to you starting to cross the street when you were still on the corner, did you see his vehicle at that point?",q,MS. SEREDA,start_answer
+297,881,35,8,"I really wasn't paying attention because the little pedestrian walk thing was up, and the light was green.  My recollection is I can walk across the street.  I'm not going to cross the street on a red or yellow light.",a,THE WITNESS,start_question
+298,887,35,14,How would you describe the force of the impact from the vehicle?,q,MS. SEREDA,start_answer
+299,889,35,16,"It was hard to the point where my daughter was crying, so it was hard enough.",a,THE WITNESS,start_question
+300,891,35,18,"Just to be clear, your daughter was not hit by the vehicle, correct?",q,MS. SEREDA,start_answer
+301,893,35,20,Correct.,a,THE WITNESS,start_question
+302,894,35,21,You said that the police did not come to the scene. Did you call the police?,q,MS. SEREDA,start_answer
+303,897,35,24,Yes.,a,THE WITNESS,start_question
+304,899,36,1,Did you have a cell phone on you at the time?,q,MS. SEREDA,start_answer
+305,901,36,3,Yes.,a,THE WITNESS,start_question
+306,902,36,4,Were you carrying anything at the time when the incident occurred?,q,MS. SEREDA,start_answer
+307,904,36,6,Just a pocketbook.,a,THE WITNESS,start_question
+308,905,36,7,What kind of pocketbook was it?,q,MS. SEREDA,start_answer
+309,906,36,8,Just a shoulder bag.,a,THE WITNESS,start_question
+310,907,36,9,Did anybody else come to the scene?,q,MS. SEREDA,start_answer
+311,908,36,10,My sister came.,a,THE WITNESS,start_question
+312,909,36,11,What's your sister's name?,q,MS. SEREDA,start_answer
+313,910,36,12,"Jasma, J-A-S-M-A.  Same last name, Rice.",a,THE WITNESS,start_question
+314,912,36,14,How soon after the accident did she come to the scene?,q,MS. SEREDA,start_answer
+315,914,36,16,"Right after, like five, ten minutes. She had to walk from my mom's house to I Street.",a,THE WITNESS,start_question
+316,917,36,19,Is that the only person that you knew that came to the scene of the accident?,q,MS. SEREDA,start_answer
+317,919,36,21,Yes.,a,THE WITNESS,start_question
+318,920,36,22,Did any ambulance personnel come to the scene?,q,MS. SEREDA,start_answer
+319,922,36,24,"Yes.  Hold on.  They came, but they came about 15, 20 minutes later.  Clothes was drenched wet.",a,THE WITNESS,start_question
+320,926,37,3,Your clothes?,q,MS. SEREDA,start_answer
+321,927,37,4,"Yes, pants and jacket was wet.",a,THE WITNESS,start_question
+322,928,37,5,What did you tell the EMS personnel when they came?,q,MS. SEREDA,start_answer
+323,930,37,7,"My daughter was hysterical.  I've never been hit by a car before.  She's like, Mom, Mom, can we get to the hospital a different way.  I was like I'm not going to get in the ambulance right now.  They were like, are you sure?  You look a little disoriented.  I was like I'm okay, I'm okay. They started talking to Mr. Torres, but there was a language barrier.  The skinny guy was trying to translate.  After that, I went back to my mom's house, changed my clothes because I was wet and didn't want to go to the hospital wet, and I went to the ER.",a,THE WITNESS,start_question
+324,943,37,20,You said your pants and your jacket were wet?,q,MS. SEREDA,start_answer
+325,945,37,22,My pants were wet.  My jacket was wet.,a,THE WITNESS,start_question
+326,946,37,23,"You said it was wet. Was it wet in the back, in the front, the entire jacket?",q,MS. SEREDA,start_answer
+327,950,38,2,"The back of my jacket was wet, but after laying on the ground, my whole jacket was wet.  It had black spots on it and everything.  It was a cream-colored jacket.",a,THE WITNESS,start_question
+328,954,38,6,Was your daughter still crying and upset when the EMS personnel got there?,q,MS. SEREDA,start_answer
+329,956,38,8,"I just told her to relax before they even got there.  I'm like, relax, call Titi, which is my sister.  I'm okay, I'm okay.  I'm fine.  She didn't go to school that day.",a,THE WITNESS,start_question
+330,960,38,12,Was she still crying when the ambulance personnel came?,q,MS. SEREDA,start_answer
+331,962,38,14,"No, she was just breathing heavy, shocked.",a,THE WITNESS,start_question
+332,964,38,16,Did you have any other conversation with anybody else at the scene?,q,MS. SEREDA,start_answer
+333,966,38,18,No.,a,THE WITNESS,start_question
+334,967,38,19,Any more attempts at conversation with Mr. Torres?,q,MS. SEREDA,start_answer
+335,969,38,21,"No, he was just like, I'm sorry, I'm sorry, I'm sorry.  The other guy was translating.  I was like you really hurt my knees.  How did you not see me?  He kept saying, I sorry, I sorry. Then when I was like how did you hit me, he kept saying no se, no se, no se.  Then the skinny guy was translating to him what I said.  Then Mr. Torres spoke back to him in Spanish, and I just asked what is you saying. Mr. Torres called, I guess, his supervisor at Pro-Coat, and the skinny guy gave me the information of Pro-Coat, the name of the company, his name and the boss' name and that's it.",a,THE WITNESS,start_question
+336,985,39,12,How long would you say you were actually at the scene for?,q,MS. SEREDA,start_answer
+337,987,39,14,"I was there for a long time.  Police never came.  I wound up going to the 24th/25th District to make a report.  The information that Mr. Torres gave me that day, I filed a report with that information.",a,THE WITNESS,start_question
+338,992,39,19,When did you go to the district?,q,MS. SEREDA,start_answer
+339,993,39,20,That same day.,a,THE WITNESS,start_question
+340,994,39,21,After the emergency room?,q,MS. SEREDA,start_answer
+341,995,39,22,"No, no, before I went to the emergency room.",a,THE WITNESS,start_question
+342,997,39,24,"Did you go home first, change your clothes, and then go to the police office?",q,MS. SEREDA,start_answer
+343,1000,40,2,"No, I went to the police station first, made the report.  They gave me the report number.  I went home, just threw on some sweatpants and went to the emergency room.",a,THE WITNESS,start_question
+344,1005,40,7,Which ER did you go to?,q,MS. SEREDA,start_answer
+345,1006,40,8,Elkins Park.,a,THE WITNESS,start_question
+346,1007,40,9,Did you tell the EMS personnel what was bothering you?,q,MS. SEREDA,start_answer
+347,1009,40,11,"I told them my knees hurt, and I said I'm just in pain.  But at that time that day, when I tried to break my fall with the cuff of my hands, those were hurting me.  I had a little bruise because I'm light, so I had a bruise there.",a,THE WITNESS,start_question
+348,1015,40,17,Did you tell the EMS personnel about your hands or just your knees?,q,MS. SEREDA,start_answer
+349,1017,40,19,"Well, they could see it because I was showing them.  They were like, are you okay? Are you sure you're okay?  The short EMS lady thought I was a little disoriented and was like, are you sure you're okay?  I said I'm okay.  I just want to make sure my daughter is okay.",a,THE WITNESS,start_question
+350,1025,41,2,Did you see any damage to the van from the impact?,q,MS. SEREDA,start_answer
+351,1027,41,4,"To tell you the truth, I didn't look.",a,THE WITNESS,start_question
+352,1028,41,5,You went to Elkins Park for the ER. Is that Aria?,q,MS. SEREDA,start_answer
+353,1030,41,7,Einstein.,a,THE WITNESS,start_question
+354,1031,41,8,What did you tell them your complaints were when you went to Einstein?,q,MS. SEREDA,start_answer
+355,1033,41,10,"When you initially go through admissions, they asked me what's the reason I was here.  I said I was hit by a vehicle, gave the information that Mr. Torres gave me. After that, they said what's going on.  I showed them my hands and my knees.  I got an x-ray. At the time, they asked for my insurance information.  I waited, and they were like you have some swelling in your knees but it's nothing we can do.  Try to put an ice pack on it.  They put an ice pack on my hands.  They were like, by tomorrow, you may feel soreness and things like that.",a,THE WITNESS,start_question
+356,1047,41,24,You said swelling. Was the swelling in both knees?,q,MS. SEREDA,start_answer
+357,1050,42,2,Yes.,a,THE WITNESS,start_question
+358,1051,42,3,What did they take x-rays of?,q,MS. SEREDA,start_answer
+359,1052,42,4,They took x-rays of my knees and my back.,a,THE WITNESS,start_question
+360,1054,42,6,Why your back?,q,MS. SEREDA,start_answer
+361,1055,42,7,Because I told them it was hurting.,a,THE WITNESS,start_question
+362,1056,42,8,"You didn't mention that before, so that's why I'm asking that. You told them your hands were hurting, your back, and knees?",q,MS. SEREDA,start_answer
+363,1060,42,12,Right.,a,THE WITNESS,start_question
+364,1061,42,13,"Was it your upper back, middle back, lower back, whole back?",q,MS. SEREDA,start_answer
+365,1063,42,15,Lower back.,a,THE WITNESS,start_question
+366,1064,42,16,When did that start hurting you?,q,MS. SEREDA,start_answer
+367,1065,42,17,"It was just a sharp pain.  I was just like, what the hell?",a,THE WITNESS,start_question
+368,1067,42,19,"Was that immediately after the accident, or did it develop?",q,MS. SEREDA,start_answer
+369,1069,42,21,"No, it happened maybe an hour or two after.  It was just like a soreness, I guess, from just the dragging and just the shock or whatever.",a,THE WITNESS,start_question
+370,1074,43,1,Did they discuss the results of the x-rays with you?,q,MS. SEREDA,start_answer
+371,1076,43,3,They said they couldn't find anything. My knees showed swelling or whatnot but that was about it.,a,THE WITNESS,start_question
+372,1079,43,6,I think you said you had bruising on your hands?,q,MS. SEREDA,start_answer
+373,1081,43,8,"Yeah, I had bruising on my hands, right here at the bottom.",a,THE WITNESS,start_question
+374,1083,43,10,Indicating the heel of your hand?,q,MS. SEREDA,start_answer
+375,1084,43,11,Correct.,a,THE WITNESS,start_question
+376,1085,43,12,Did you take any photographs of the bruising?,q,MS. SEREDA,start_answer
+377,1087,43,14,"No, I wasn't thinking about that -- hold on.  I did on my daughter's phone, but she switched phones.  I couldn't find those pictures.  My daughter had took a picture of the license plate of the van.  When she accompanied me at the ER before I went in the x-ray, she did take a picture of the palms of my hands.",a,THE WITNESS,start_question
+378,1095,43,22,You no longer have those?,q,MS. SEREDA,start_answer
+379,1096,43,23,"I just can't find them because through Google photographs and this is a new phone that she received, so we just couldn't locate the pictures.",a,THE WITNESS,start_question
+380,1101,44,3,How long were you at the hospital for?,q,MS. SEREDA,start_answer
+381,1102,44,4,"Hours.  From 10:30 -- hold on.  I got to think.  Probably approximately 9:30, and I didn't get discharged until about 2:00 or 3:00.",a,THE WITNESS,start_question
+382,1106,44,8,You said they told you to put ice on both your hands and knees?,q,MS. SEREDA,start_answer
+383,1108,44,10,Yes.,a,THE WITNESS,start_question
+384,1109,44,11,Did they give you any other discharge instructions?,q,MS. SEREDA,start_answer
+385,1111,44,13,"They just said follow up with my primary physician, follow up with physical therapy, if needed.",a,THE WITNESS,start_question
+386,1114,44,16,When is the next time you sought medical treatment?,q,MS. SEREDA,start_answer
+387,1116,44,18,"Approximately, the end of January, the beginning of February.",a,THE WITNESS,start_question
+388,1118,44,20,Where did you go?,q,MS. SEREDA,start_answer
+389,1119,44,21,Philly Spine Center on North Broad Street.  Then I went to Philly Spine Center on Cottman Avenue.,a,THE WITNESS,start_question
+390,1122,44,24,Why the gap in treatment?,q,MS. SEREDA,start_answer
+391,1124,45,1,"Because I don't have no more time left at work.  I have two children.  I have to be a mom, as well.  You have to deal with the pain and just go on with life.",a,THE WITNESS,start_question
+392,1128,45,5,"When you first went to Philly Spine Center, were your complaints the same; your hands, low back, and knees?",q,MS. SEREDA,start_answer
+393,1131,45,8,"When I went to North Broad Street, my knees were very agitated and hurting. Basically, I was always an active person.  I did ballet for 18 years.  I never had any type of knee pain, back pain, or anything like that.",a,THE WITNESS,start_question
+394,1137,45,14,It was just your knees?,q,MS. SEREDA,start_answer
+395,1138,45,15,"It was knee pain, back pain.  I just did at-home exercises.",a,THE WITNESS,start_question
+396,1140,45,17,Prior to going there?,q,MS. SEREDA,start_answer
+397,1141,45,18,"Prior; take baths with Epsom salt, doctor Teal's Epsom Salt.",a,THE WITNESS,start_question
+398,1143,45,20,How did you come about treating with Philly Spine?  How did you find the facility?,q,MS. SEREDA,start_answer
+399,1145,45,22,"I spoke to an attorney in regard to the accident.  After that, I was referred to Philly Spine Center.",a,THE WITNESS,start_question
+400,1149,46,1,What did they do for you there at Philly Spine?  What kind of treatment?,q,MS. SEREDA,start_answer
+401,1151,46,3,"Just physical therapy treatment, like back treatment, knee treatment.",a,THE WITNESS,start_question
+402,1153,46,5,What specifically?,q,MS. SEREDA,start_answer
+403,1154,46,6,"Just exercise of the back, vibration, hands on, a vibrating massage thing, walking exercises, exercises with my knees.  They gave me a paper of what I can do at home to try to take down the pressure of knee pain and things like that.  I told them what I was doing at home before I even got to them.",a,THE WITNESS,start_question
+404,1161,46,13,How often were you going for treatment?,q,MS. SEREDA,start_answer
+405,1163,46,15,Two to three times a week.,a,THE WITNESS,start_question
+406,1164,46,16,How long would each visit last?,q,MS. SEREDA,start_answer
+407,1165,46,17,Probably like a half-hour.,a,THE WITNESS,start_question
+408,1166,46,18,How many months did you treat with Philly Spine?,q,MS. SEREDA,start_answer
+409,1168,46,20,"February 2018 to -- I don't remember. I think in 2019.  The one on Cottman Avenue released me, I think, in March or April 2019. I don't really remember off hand, but approximately around that time.",a,THE WITNESS,start_question
+410,1174,47,1,Your recollection is you were treating up until this past spring?,q,MS. SEREDA,start_answer
+411,1176,47,3,Yeah.,a,THE WITNESS,start_question
+412,1177,47,4,Was there any break in that treatment at Philly Spine?,q,MS. SEREDA,start_answer
+413,1179,47,6,"Of course, I would miss some days because I have children, so most likely I have to miss days.",a,THE WITNESS,start_question
+414,1182,47,9,Any large gaps between the end of January beginning of February 2018?,q,MS. SEREDA,start_answer
+415,1184,47,11,"It wasn't too big of a gap, but, yes, I would miss some days out of the week. Sometimes I would go one day out of the week, sometimes I would go two.  I have to do homework.  I have to cook.  I have to work. I have to pay bills.  I have to be a mom.",a,THE WITNESS,start_question
+416,1190,47,17,Did they send you out for any diagnostic testing?,q,MS. SEREDA,start_answer
+417,1192,47,19,I went to MRI Diagnostics.,a,THE WITNESS,start_question
+418,1193,47,20,You had an MRI done?,q,MS. SEREDA,start_answer
+419,1194,47,21,Yeah.,a,THE WITNESS,start_chat
+420,1195,47,22,You had an EMG. Didn't somebody come to Cottman Avenue and do an EMG?,side_chat,MR. MCCANDLESS,start_chat
+421,1199,48,1,"I had an EMG, but I had an MRI done on Roosevelt Boulevard, that diagnostic place where I sit in the chair and they did an MRI.",side_chat,THE WITNESS,start_question
+422,1204,48,6,Of what body parts?,q,MS. SEREDA,start_answer
+423,1205,48,7,"They did it of my lumbar spine, cervical.",a,THE WITNESS,start_question
+424,1207,48,9,Why your cervical?,q,MS. SEREDA,start_answer
+425,1208,48,10,That's just what the doctor ordered.,a,THE WITNESS,start_question
+426,1209,48,11,Did you have any neck complaints?,q,MS. SEREDA,start_answer
+427,1210,48,12,"Sometimes I had neck complaints, but that's what he ordered.  When I went, I was like, Doc, I felt like it was a shooting nerve pain, and I never had this before.  To be honest, I didn't have it the day of the accident, but maybe a week or two later I started having this sharp pain in my neck shooting up and down my neck.",a,THE WITNESS,start_question
+428,1218,48,20,"Your lumbar spine, your cervical spine. Any other body parts they did an MRI of?",q,MS. SEREDA,start_answer
+429,1222,48,24,"If they did, I don't know.",a,THE WITNESS,start_question
+430,1224,49,1,Nothing of your knees?,q,MS. SEREDA,start_answer
+431,1225,49,2,I don't remember.,a,THE WITNESS,start_question
+432,1226,49,3,You said an EMG was done at Philly Spine?,q,MS. SEREDA,start_answer
+433,1228,49,5,"Yes, on Cottman Avenue.",a,THE WITNESS,start_question
+434,1229,49,6,Was there a doctor that came in the facility to do the EMG?,q,MS. SEREDA,start_answer
+435,1231,49,8,Yes.,a,THE WITNESS,start_question
+436,1232,49,9,Was it a male or female doctor?,q,MS. SEREDA,start_answer
+437,1233,49,10,A male.,a,THE WITNESS,start_question
+438,1234,49,11,Did they discuss the results of the EMG with you?,q,MS. SEREDA,start_answer
+439,1236,49,13,"No, he told me that the doctor was going to discuss that with me.",a,THE WITNESS,start_question
+440,1238,49,15,Did he ever?,q,MS. SEREDA,start_answer
+441,1239,49,16,Yes.,a,THE WITNESS,start_question
+442,1240,49,17,What did he tell you?,q,MS. SEREDA,start_answer
+443,1241,49,18,"Oh, I don't remember.  I don't remember.",a,THE WITNESS,start_question
+444,1243,49,20,"How about the MRI, did anyone discuss the results of the MRI with you?",q,MS. SEREDA,start_answer
+445,1245,49,22,Yes.,a,THE WITNESS,start_question
+446,1246,49,23,What did they tell you?,q,MS. SEREDA,start_answer
+447,1247,49,24,"They said I had a disc bulge in my back of my L5, L6 or something like that.",a,THE WITNESS,start_question
+448,1250,50,2,Anything else they told you about the MRIs?,q,MS. SEREDA,start_answer
+449,1252,50,4,They said it was swelling around the tissue in my back.  It showed an aggravated nerve.,a,THE WITNESS,start_question
+450,1255,50,7,"When you stopped going to Philly Spine, were you discharged, or did you voluntarily stop going?",q,MS. SEREDA,start_answer
+451,1258,50,10,"No, the doctor discharged me.",a,THE WITNESS,start_question
+452,1259,50,11,Did you see any other doctors after you were discharged from Philly Spine?,q,MS. SEREDA,start_answer
+453,1261,50,13,I went to MRCP.,a,THE WITNESS,start_question
+454,1262,50,14,When did you go to MRCP?,q,MS. SEREDA,start_answer
+455,1263,50,15,When did I go to MRCP?,a,THE WITNESS,start_question
+456,1264,50,16,You can't ask him.  I just want to know what your memory is.,q,MS. SEREDA,start_answer
+457,1266,50,18,I don't remember.,a,THE WITNESS,start_question
+458,1267,50,19,But it was after Philly Spine?,q,MS. SEREDA,start_answer
+459,1268,50,20,It was after Philly Spine.,a,THE WITNESS,start_question
+460,1269,50,21,Was it fairly recently?,q,MS. SEREDA,start_answer
+461,1270,50,22,"No, it wasn't recently.  It was a couple months ago.",a,THE WITNESS,start_question
+462,1272,50,24,How long did you go to MRCP for?,q,MS. SEREDA,start_answer
+463,1274,51,1,I went to the one downtown.  I went to the one up the boulevard.  I went to MRCP downtown maybe about two or three times. Then I was referred to the one on Roosevelt Boulevard.  I went there about twice.  Then after that I didn't have time to go back.,a,THE WITNESS,start_question
+464,1280,51,7,Who referred you there?,q,MS. SEREDA,start_answer
+465,1281,51,8,"MRCP downtown, Dr. Yang.",a,THE WITNESS,start_question
+466,1282,51,9,Who is Dr. Yang?,q,MS. SEREDA,start_answer
+467,1283,51,10,She's the doctor at MRCP.,a,THE WITNESS,start_question
+468,1284,51,11,Who referred you to MRCP?,q,MS. SEREDA,start_answer
+469,1285,51,12,My attorney.,a,THE WITNESS,start_question
+470,1286,51,13,What kind of treatment were you getting at MRCP?,q,MS. SEREDA,start_answer
+471,1288,51,15,"Just therapy treatment, exercises to exercise my knee and my back, because they asked me what was my complaints.  I told them that off and on periodically my knees pain me, and I never had those issues before.",a,THE WITNESS,start_question
+472,1293,51,20,Did the physical therapy that you received at Philly Spine improve your pain at all?,q,MS. SEREDA,start_answer
+473,1296,51,23,"After a couple months, it improved a little because I wasn't having consistent pain in my knees.  It's seven days out of the week.  My knees were paining me more so four to five days out of the week where I was taking Epsom salt baths to help me and Motrin to help me.",a,THE WITNESS,start_question
+474,1304,52,6,"When you were discharged from treatment at Philly Spine, were you still having back and knee pain?",q,MS. SEREDA,start_answer
+475,1307,52,9,Yes.,a,THE WITNESS,start_question
+476,1308,52,10,Neck pain?,q,MS. SEREDA,start_answer
+477,1309,52,11,Yes.,a,THE WITNESS,start_question
+478,1310,52,12,Had it improved from when you first went to Philly Spine?,q,MS. SEREDA,start_answer
+479,1312,52,14,A little.,a,THE WITNESS,start_question
+480,1313,52,15,"How about the treatment you received at MRCP, did that help with your pain at all?",q,MS. SEREDA,start_answer
+481,1315,52,17,"A little.  Like I told them, it just happens periodically.",a,THE WITNESS,start_question
+482,1317,52,19,When is the last time that you can remember going to MRCP?,q,MS. SEREDA,start_answer
+483,1319,52,21,I think I went in June or July.,a,THE WITNESS,start_question
+484,1320,52,22,Just recently?,q,MS. SEREDA,start_answer
+485,1321,52,23,June or July.,a,THE WITNESS,start_question
+486,1322,52,24,Do you have plans to go back to treat with them?,q,MS. SEREDA,start_answer
+487,1325,53,2,Hold on.  May Or June.,a,THE WITNESS,start_question
+488,1326,53,3,Are you planning on seeking further treatment with them?,q,MS. SEREDA,start_answer
+489,1328,53,5,Yes.,a,THE WITNESS,start_question
+490,1329,53,6,Do you have any current appointments scheduled?,q,MS. SEREDA,start_answer
+491,1331,53,8,Not yet because I don't have any more time right now at work.,a,THE WITNESS,start_question
+492,1333,53,10,"Other than the physical therapy, did you have any other type of treatment at MRCP?",q,MS. SEREDA,start_answer
+493,1335,53,12,No.,a,THE WITNESS,start_question
+494,1336,53,13,"When were you typically going to these visits for physical therapy at Philly Spine and MRCP?  Was it during your workday, after work?",q,MS. SEREDA,start_answer
+495,1340,53,17,"No, I was getting transportation, so it was after work.",a,THE WITNESS,start_question
+496,1342,53,19,Both facilities?,q,MS. SEREDA,start_answer
+497,1343,53,20,"MRCP, I believe, I went one time when I was off of work.  Yeah, about two or three times I went when I was off of work when I had other appointments.  Then it was another time, I think, on the weekend or maybe after work hours, I believe.",a,THE WITNESS,start_question
+498,1350,54,2,Philly Spine was providing you transportation.  MRCP you were getting there on your own?,q,MS. SEREDA,start_answer
+499,1353,54,5,I was getting there on my own.,a,THE WITNESS,start_question
+500,1354,54,6,"Did MRCP send you out for any diagnostic testing; x-ray, MRI, anything of that?",q,MS. SEREDA,start_answer
+501,1357,54,9,Yes.,a,THE WITNESS,start_question
+502,1358,54,10,What did they send you for?,q,MS. SEREDA,start_answer
+503,1359,54,11,They sent me for an MRI of my knees.,a,THE WITNESS,start_question
+504,1360,54,12,Did they discuss the results of the MRI?,q,MS. SEREDA,start_answer
+505,1362,54,14,I never went.,a,THE WITNESS,start_question
+506,1363,54,15,Why did you not go?,q,MS. SEREDA,start_answer
+507,1364,54,16,"Because during the time of the accident, my job had sent me a form in reference to when I had went to go get some diagnostic tests done.  I had gave the MRI center my health insurance. I received something back from my job that said, as a result, we cannot pay for this billing because you were in a car accident at the time.  You need to forward this information to your attorney's office, and you need to discuss with the attorney's office ways to pay this because it wasn't being paid for under my insurance.",a,THE WITNESS,start_question
+508,1378,55,5,You got a denial letter for your prior MRIs from your health insurance?,q,MS. SEREDA,start_answer
+509,1380,55,7,One denial letter.  That was at the time I was being represented by Simon & Simon.,a,THE WITNESS,start_question
+510,1383,55,10,You didn't go to get another MRI because they had denied payment?,q,MS. SEREDA,start_answer
+511,1385,55,12,I didn't want the same issue to happen again.,a,THE WITNESS,start_question
+512,1387,55,14,"Any other treatment that we're missing that you've had in relation to the accident. We have the ER, Philly Spine, the EMG with a male doctor, the MRIs, MRCP.  Anywhere else that we're missing?",q,MS. SEREDA,start_answer
+513,1392,55,19,But the EMG was done at Philly Spine Center.,a,THE WITNESS,start_question
+514,1394,55,21,But you said a male doctor came in and did that?,q,MS. SEREDA,start_answer
+515,1396,55,23,Correct.,a,THE WITNESS,start_question
+516,1397,55,24,Any other health providers or treatment providers I'm missing?,q,MS. SEREDA,start_answer
+517,1400,56,2,No.,a,THE WITNESS,start_question
+518,1401,56,3,Ever see your primary care doctor in relation to this?,q,MS. SEREDA,start_answer
+519,1403,56,5,I seen him once in reference to this. He told me to treat my pain with Motrin and to go see a physical therapist or a chiropractor.,a,THE WITNESS,start_question
+520,1407,56,9,When was this that you saw your primary care?,q,MS. SEREDA,start_answer
+521,1409,56,11,I seen him about a week or two after the accident.,a,THE WITNESS,start_question
+522,1411,56,13,"Let's talk about how you're currently feeling.  I don't mean as you're sitting in the chair today, but let's just talk about in the last 30 days. Are you still getting low back pain?",q,MS. SEREDA,start_answer
+523,1416,56,18,Yes.,a,THE WITNESS,start_question
+524,1417,56,19,How often?,q,MS. SEREDA,start_answer
+525,1418,56,20,"It's seven days out of a week, so maybe three or four days out of the week.  If it's seven days, it happens about four days out of the week.",a,THE WITNESS,start_question
+526,1422,56,24,Four days out of the week. How long does it last when you typically get it?,q,MS. SEREDA,start_answer
+527,1426,57,3,"Sometimes it lasts for an hour or two. Sometimes it lasts for minutes.  If I take medication, meaning ibuprofen or Advil, it lasts for no more than a half-hour.",a,THE WITNESS,start_question
+528,1430,57,7,"What would you say your pain is like in your low back when you get it on a 0 to 10 scale, 0 being no pain, 10 being the worst pain you can imagine?",q,MS. SEREDA,start_answer
+529,1434,57,11,It's about an 8 or 9.,a,THE WITNESS,start_question
+530,1435,57,12,"How about neck pain, are you still getting that shooting pain in your neck?",q,MS. SEREDA,start_answer
+531,1437,57,14,I get it periodically.,a,THE WITNESS,start_question
+532,1438,57,15,How often?,q,MS. SEREDA,start_answer
+533,1439,57,16,"Probably about three, four days out of the week.",a,THE WITNESS,start_question
+534,1441,57,18,What's the pain level in your neck when you get it?,q,MS. SEREDA,start_answer
+535,1443,57,20,About an 8 or 9.,a,THE WITNESS,start_question
+536,1444,57,21,Are you still getting knee pain?,q,MS. SEREDA,start_answer
+537,1445,57,22,Yes.,a,THE WITNESS,start_question
+538,1446,57,23,How often?,q,MS. SEREDA,start_answer
+539,1447,57,24,About four or five days out of the week.,a,THE WITNESS,start_question
+540,1450,58,2,Is the pain level the same in both your knees or is one worse?,q,MS. SEREDA,start_answer
+541,1452,58,4,Both of them is the same.,a,THE WITNESS,start_question
+542,1453,58,5,What's the pain level like in your knees?,q,MS. SEREDA,start_answer
+543,1455,58,7,Between 1 and 10?,a,THE WITNESS,start_question
+544,1456,58,8,Yes.,q,MS. SEREDA,start_answer
+545,1457,58,9,Like a 10.,a,THE WITNESS,start_question
+546,1458,58,10,"How about your hands, are you still getting hand pain?",q,MS. SEREDA,start_answer
+547,1460,58,12,No.,a,THE WITNESS,start_question
+548,1461,58,13,How long did that take to resolve after the accident?,q,MS. SEREDA,start_answer
+549,1463,58,15,"Probably about seven, eight months after with the exercise.",a,THE WITNESS,start_question
+550,1465,58,17,How long did the bruising last after the accident?,q,MS. SEREDA,start_answer
+551,1467,58,19,"I'm pretty light, so it lasted for about a week or two.",a,THE WITNESS,start_question
+552,1469,58,21,Did anyone ever prescribe you any medication in relation to the accident?,q,MS. SEREDA,start_answer
+553,1471,58,23,"No, I just took ibuprofen.",a,THE WITNESS,start_question
+554,1472,58,24,Did anyone give you any sort of medical equipment to use at home?,q,MS. SEREDA,start_answer
+555,1475,59,2,I received a paper of medical equipment that I can buy.,a,THE WITNESS,start_question
+556,1477,59,4,"But nobody gave you anything, like a pillow or brace or anything like that?",q,MS. SEREDA,start_answer
+557,1479,59,6,No.  They gave me a list of things that I can buy that I bought myself.,a,THE WITNESS,start_question
+558,1481,59,8,What did you buy?,q,MS. SEREDA,start_answer
+559,1482,59,9,"I bought some knee brace.  When it's cold or rainy, that's when the pain really aggravates me more.  I went to Rite Aid or Walmart and bought knee braces, things like that.  Ice packs to bring down the pain, make it easier.",a,THE WITNESS,start_question
+560,1488,59,15,Do you still get any swelling in your knees?,q,MS. SEREDA,start_answer
+561,1490,59,17,I get swelling in my left knee.,a,THE WITNESS,start_question
+562,1491,59,18,How often does that happen?,q,MS. SEREDA,start_answer
+563,1492,59,19,"When it rains, if I walk too long.",a,THE WITNESS,start_question
+564,1493,59,20,"Let's talk about how these injuries have affected your life.  I'm going to break that down into two different categories. First, I want to know about any activities that you were doing before this accident that you have not returned to at all since this accident. Then I'm going to ask you about activities that you still do, but you do them with some sort of pain or limitation, different from how you did them prior to the accident, okay? When I say activities, it's a very broad term.  I want you to tell me anything you do on a daily basis; grooming, chores, hobbies, social activities, relationship with your family, work, anything on a daily basis, okay?",q,MS. SEREDA,start_answer
+565,1512,60,14,Okay.,a,THE WITNESS,start_question
+566,1513,60,15,"First, are there any activities that you completely stopped doing?",q,MS. SEREDA,start_chat
+567,1515,60,17,Can we take a break?,side_chat,THE WITNESS,symbols
+568,1517,60,19,- - -,symbols,,is brackets
+569,1518,60,20,"(Whereupon, a break was taken at this time.)",brackets,,symbols
+570,1520,60,22,- - -,symbols,,start_question
+571,1522,60,24,"I was starting to ask you about your limitations.  I think my last question was, are there any activities you were doing before the accident that you haven't returned to at all since the accident?",q,MS. SEREDA,start_answer
+572,1528,61,5,"Well, I have two children.  I have a 13 and a 10-year-old.  Things I used to do with them before I don't do as much with them now.  I do it, but I don't do it as often as I used to.",a,THE WITNESS,start_question
+573,1533,61,10,Are there any activities that you can't do at all?,q,MS. SEREDA,start_answer
+574,1535,61,12,"No, there's no activities I can't do at all.",a,THE WITNESS,start_question
+575,1537,61,14,Let's talk about activities you do less frequently or you do them in a different way because of your injuries?,q,MS. SEREDA,start_answer
+576,1540,61,17,"I don't clean my house as frequently as I used to.  I catch SEPTA transportation, so waiting by the bus stop and things like that.  I'd rather just stay in the house or sit outside than to walk to the bus stop and walk to my mom's house and go to the mall. Me and my kids used to go out to eat and things like that, but I don't do it as often as I want to.  It's limited.  I still do it, but it's just limited.",a,THE WITNESS,start_question
+577,1551,62,3,"How about any specific chores at home or grooming, anything like that?",q,MS. SEREDA,start_answer
+578,1553,62,5,"Cleaning the bathroom.  I usually go to the hairdresser every two weeks.  It's about every three weeks now.  To sit in the chair and sit underneath the dryer in that cramped space, I can't do that every two weeks.  I go when I feel up to it or basically when I can.",a,THE WITNESS,start_question
+579,1560,62,12,"How about work, anything different with work?",q,MS. SEREDA,start_answer
+580,1562,62,14,"At work, they accommodate me a lot.  I have a chair with a pillow that sits behind me.  I can stand and sit frequently or at my leisure.  I have a step stool that my legs can rest on.  I can go to the nurse and get ice packs when I need them.  My job is really accommodating me.",a,THE WITNESS,start_question
+581,1569,62,21,Anything else that you can think of that's been changed or altered or done less frequently as a result of your injuries?,q,MS. SEREDA,start_answer
+582,1572,62,24,"Just going out and interacting with my family.  I don't go as often as I would before.  That's life.  I mean, I go, but it's not all the time.",a,THE WITNESS,start_question
+583,1577,63,4,You mean social events with your family?,q,MS. SEREDA,start_answer
+584,1579,63,6,"Yeah, like social events.  I can't wear heels that long.  I got to take them off and come down.  I used to wear heels for hours at a time.  Now, with these knees, I only can keep them on for about 15, 20 minutes.  After that, I got to come down to some flats or some sneakers.",a,THE WITNESS,start_question
+585,1586,63,13,Anything else you can think of?,q,MS. SEREDA,start_answer
+586,1587,63,14,"No, that's it.",a,THE WITNESS,start_question
+587,1588,63,15,"If you think of anything else as we're going along, just let me know.",q,MS. SEREDA,start_answer
+588,1590,63,17,That's it.  Trust me.,a,THE WITNESS,start_question
+589,1591,63,18,"Any other outstanding medical bills that you may have, which we'll work out with your counsel? Are there any moneys you can think of that you have paid out of pocket for in relation to the accident that you haven't been reimbursed for?",q,MS. SEREDA,start_answer
+590,1599,64,1,"Only stuff that I buy -- not buy -- have bought for my knees to help when I have to go to work or maybe I'm at an event by the pool, a knee brace and things like that.",a,THE WITNESS,start_question
+591,1603,64,5,The knee braces that you bought?,q,MS. SEREDA,start_answer
+592,1604,64,6,"Yeah, that's it, and the heating pad. That's about it.",a,THE WITNESS,start_question
+593,1606,64,8,"Prior to this incident, had you ever been in a motor vehicle accident before?",q,MS. SEREDA,start_answer
+594,1608,64,10,Yes.,a,THE WITNESS,start_question
+595,1609,64,11,When?,q,MS. SEREDA,start_answer
+596,1610,64,12,"This was, I believe, in 2005.",a,THE WITNESS,start_question
+597,1611,64,13,Were you in a motor vehicle?,q,MS. SEREDA,start_answer
+598,1612,64,14,I was in a car.,a,THE WITNESS,start_question
+599,1613,64,15,Were you the driver?,q,MS. SEREDA,start_answer
+600,1614,64,16,I was driving my grandmother's car.,a,THE WITNESS,start_question
+601,1615,64,17,Were you injured in that accident?,q,MS. SEREDA,start_answer
+602,1616,64,18,No.,a,THE WITNESS,start_question
+603,1617,64,19,Any other prior motor vehicle accidents?,q,MS. SEREDA,start_answer
+604,1619,64,21,2009.,a,THE WITNESS,start_question
+605,1620,64,22,Were you driving?,q,MS. SEREDA,start_answer
+606,1621,64,23,I was driving.,a,THE WITNESS,start_question
+607,1622,64,24,Were you injured in that accident?,q,MS. SEREDA,start_answer
+608,1624,65,1,I was not injured.,a,THE WITNESS,start_question
+609,1625,65,2,Any other prior?,q,MS. SEREDA,start_answer
+610,1626,65,3,No.,a,THE WITNESS,start_question
+611,1627,65,4,"How about since this accident, have you been in any motor vehicle accidents?",q,MS. SEREDA,start_answer
+612,1629,65,6,No.,a,THE WITNESS,start_question
+613,1630,65,7,"When I say motor vehicle accidents, it includes if you were a passenger or a pedestrian hit by a car, anything like that.",q,MS. SEREDA,start_answer
+614,1633,65,10,Nothing.,a,THE WITNESS,start_question
+615,1634,65,11,"Ever had a slip-and-fall, trip-and-fall where you injured yourself prior to the accident?",q,MS. SEREDA,start_answer
+616,1637,65,14,No.,a,THE WITNESS,start_question
+617,1638,65,15,How about since this accident?,q,MS. SEREDA,start_answer
+618,1639,65,16,No.,a,THE WITNESS,start_question
+619,1640,65,17,Ever been injured at work or filed a Workers' Compensation claim?,q,MS. SEREDA,start_answer
+620,1642,65,19,No.,a,THE WITNESS,start_question
+621,1643,65,20,"Prior to this motor vehicle accident, had you ever injured your right knee before?",q,MS. SEREDA,start_answer
+622,1645,65,22,No.,a,THE WITNESS,start_question
+623,1646,65,23,"Prior to this motor vehicle accident, had you ever injured your left knee before?",q,MS. SEREDA,start_answer
+624,1649,66,1,No.,a,THE WITNESS,start_question
+625,1650,66,2,"Prior to this motor vehicle accident, had you ever injured your low back before?",q,MS. SEREDA,start_answer
+626,1652,66,4,No.,a,THE WITNESS,start_question
+627,1653,66,5,"Prior to this motor vehicle accident, had you ever injured your hands before?",q,MS. SEREDA,start_answer
+628,1655,66,7,No.,a,THE WITNESS,start_question
+629,1656,66,8,"Prior to this motor vehicle accident, had you ever injured your neck before?",q,MS. SEREDA,start_answer
+630,1658,66,10,No.,a,THE WITNESS,start_question
+631,1659,66,11,"How about since this motor vehicle accident, have you had any additional injuries to your knees?",q,MS. SEREDA,start_answer
+632,1662,66,14,No.,a,THE WITNESS,start_question
+633,1663,66,15,Any additional injuries to your low back?,q,MS. SEREDA,start_answer
+634,1665,66,17,No.,a,THE WITNESS,start_question
+635,1666,66,18,Any additional injuries to your hands?,q,MS. SEREDA,start_answer
+636,1667,66,19,No.,a,THE WITNESS,start_question
+637,1668,66,20,Any additional injuries to your neck?,q,MS. SEREDA,start_answer
+638,1669,66,21,No.,a,THE WITNESS,start_question
+639,1670,66,22,Anyone ever discuss injections with you or recommend that you get injections in relation to this accident?,q,MS. SEREDA,start_answer
+640,1674,67,1,No.,a,THE WITNESS,start_question
+641,1675,67,2,Anybody ever discuss surgery with you or want to send you for a surgical consult?,q,MS. SEREDA,start_answer
+642,1677,67,4,No.,a,THE WITNESS,start_question
+643,1678,67,5,"If somebody were to recommend injections, would you get them?",q,MS. SEREDA,start_answer
+644,1680,67,7,No.,a,THE WITNESS,start_question
+645,1681,67,8,"If someone were to recommend surgery, would you get it?",q,MS. SEREDA,start_answer
+646,1683,67,10,No.,a,THE WITNESS,start_chat
+647,1684,67,11,"I believe that I am done. Cheryl, do you have any questions for plaintiff?",side_chat,MS. SEREDA,start_chat
+648,1688,67,15,"I do have a few, Ms. Rice.",side_chat,MS. GARBER,symbols
+649,1690,67,17,- - - EXAMINATION,symbols,,symbols
+650,1692,67,19,- - -,symbols,,start_question
+651,1694,67,21,Do you remember the date of the EMG?,q,MS. GARBER,start_answer
+652,1695,67,22,"No, I do not, I'm sorry.",a,THE WITNESS,start_question
+653,1696,67,23,"Did you ever object to Hector Torres helping you to the curb or, as you said, dragging?",q,MS. GARBER,start_answer
+654,1700,68,2,No.,a,THE WITNESS,start_question
+655,1701,68,3,"You never said don't help me, don't touch me, nothing to that effect?",q,MS. GARBER,start_answer
+656,1703,68,5,"No, I never said that.",a,THE WITNESS,start_question
+657,1704,68,6,"At the time of the accident that morning, were you under the influence of any medication or any alcohol or any drugs?",q,MS. GARBER,start_answer
+658,1707,68,9,No.,a,THE WITNESS,start_question
+659,1708,68,10,"At the time of the accident, did you own a car?",q,MS. GARBER,start_answer
+660,1710,68,12,No.,a,THE WITNESS,start_question
+661,1711,68,13,You didn't have any car insurance at the time?,q,MS. GARBER,start_answer
+662,1713,68,15,"No, I did not.  I did not own a vehicle.",a,THE WITNESS,start_question
+663,1715,68,17,Did anybody in the home that you were living at?  I believe you said you lived with your mom. Did anyone in that home own a vehicle at the time?,q,MS. GARBER,start_answer
+664,1720,68,22,"My mom had a car, but she didn't have car insurance, so she wasn't driving it.",a,THE WITNESS,start_chat
+665,1722,68,24,"That's all I have. Thank you, Ms. Rice.",side_chat,MS. GARBER,symbols
+666,1725,69,2,- - -,symbols,,is brackets
+667,1726,69,3,"(Whereupon, the deposition concluded at 11:25 p.m.)",brackets,,symbols
+668,1728,69,5,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 5, 2019, and that this is a correct transcription of same.",symbols,,end

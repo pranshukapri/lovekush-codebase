@@ -1,0 +1,845 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows:,,,symbols
+1,153,5,11,- - - EXAMINATION,symbols,,symbols
+2,155,5,13,- - -,symbols,,start_question
+3,157,5,15,"Good morning, Mr. Smith.",q,MR. BLUM,start_answer
+4,158,5,16,Good morning.,a,THE WITNESS,start_question
+5,159,5,17,"My name is Joseph Blum and I represent Mercedes-Benz in a case which has been brought by Capitol Indemnity Insurance. I'm going to ask you some questions today.  Any time you don't understand my question, please let me know, I'll be happy to restate it for you.  It's my responsibility to ask you a question you understand.",q,MR. BLUM,start_answer
+6,168,6,1,"Okay, sure.",a,THE WITNESS,start_question
+7,169,6,2,"We ask that you keep all your responses verbal, because the court reporter cannot take down nods of our head, shrugs of our shoulders and such.  So just please keep all of your responses verbal. The other thing I would ask you to do is to try and let me finish my question before you start to speak.  In normal conversation we kind of try to anticipate where everything is going, but it is hard for the court reporter to take down more than one of us at a time.  Do you understand that?",q,MR. BLUM,start_answer
+8,181,6,14,Sure.,a,THE WITNESS,start_question
+9,182,6,15,And is there anything which would prevent you from testifying accurately here this morning?,q,MR. BLUM,start_answer
+10,185,6,18,No.,a,THE WITNESS,start_question
+11,186,6,19,"Okay.  Can you tell us, sir --",q,MR. BLUM,start_chat
+12,187,6,20,"Joe, just before you start, one instruction I'm going to tell you, at some point I may object. Unless I say I'm objecting and I'm instructing you not to answer the question, you can ignore me objecting and you can answer the question.",side_chat,MR. GOGINENI,start_chat
+13,195,7,3,Okay.,side_chat,THE WITNESS,start_chat
+14,196,7,4,We'll work that out as we go.  Hopefully there won't be any problems.,side_chat,MR. BLUM,start_chat
+15,199,7,7,We always get into those awkward pauses that I like to avoid.,side_chat,MR. GOGINENI,start_chat
+16,202,7,10,Not a problem.,side_chat,MR. BLUM,start_question
+17,204,7,12,"Mr. Smith, can you tell us your educational background, please?",q,MR. BLUM,start_answer
+18,206,7,14,I have a Ph.D. in material science from Drexel.,a,THE WITNESS,start_question
+19,208,7,16,And before that?,q,MR. BLUM,start_answer
+20,209,7,17,Master's degree in mechanical engineering from Northeastern.,a,THE WITNESS,start_question
+21,211,7,19,All right.  And your Bachelor degree?,q,MR. BLUM,start_answer
+22,213,7,21,From Northeastern as well.,a,THE WITNESS,start_question
+23,214,7,22,Mechanical engineering?,q,MR. BLUM,start_answer
+24,215,7,23,Yes.,a,THE WITNESS,start_question
+25,216,7,24,Okay.  And when did you receive your Ph.D.?,q,MR. BLUM,start_answer
+26,219,8,2,1985.,a,THE WITNESS,start_question
+27,220,8,3,And are you the owner and/or operator of a company S-Bond Technologies?,q,MR. BLUM,start_answer
+28,222,8,5,Yes.,a,THE WITNESS,start_question
+29,223,8,6,Okay.  Can you tell us like when you formed that company?,q,MR. BLUM,start_answer
+30,225,8,8,2000.,a,THE WITNESS,start_question
+31,226,8,9,"So between the time when you got out of school and 2000, could you tell us just very briefly what your work history was?",q,MR. BLUM,start_answer
+32,229,8,12,Sure.  I was an engineer at GE for ten years and then I was a Drexel faculty for ten years.,a,THE WITNESS,start_question
+33,232,8,15,Okay.,q,MR. BLUM,start_answer
+34,233,8,16,And then started my own company.,a,THE WITNESS,start_question
+35,234,8,17,"All right.  And when you were an engineer at GE, what kind of things did you work on?",q,MR. BLUM,start_answer
+36,237,8,20,"Gas turbines, jet engines, materials.",a,THE WITNESS,start_question
+37,239,8,22,"And when you taught at Drexel, in general, that were the things you taught?",q,MR. BLUM,start_answer
+38,241,8,24,"Material science, engineering.",a,THE WITNESS,start_question
+39,243,9,1,"Okay.  And when you formed S-Bond in 2000, was that the original name or did it operate under another name?",q,MR. BLUM,start_answer
+40,246,9,4,"We had two companies at the same time, Material Resources International and then S-Bond Technologies formed kind of out of that, and then eventually we closed Material Resources International.",a,THE WITNESS,start_question
+41,251,9,9,Approximately when did Material Resources close?,q,MR. BLUM,start_answer
+42,253,9,11,"I was a faculty at Drexel, so I think -- well, when it closed, when it closed it was probably maybe 2006 or 7.",a,THE WITNESS,start_question
+43,256,9,14,"Okay.  And so after that, the company that you were operating operated under the S-Bond name?",q,MR. BLUM,start_answer
+44,259,9,17,"Only, yes.",a,THE WITNESS,start_question
+45,260,9,18,Are you the sole owner of S-Bond?,q,MR. BLUM,start_answer
+46,261,9,19,Yes.,a,THE WITNESS,start_question
+47,262,9,20,Is it a corporation?,q,MR. BLUM,start_answer
+48,263,9,21,"Yes, LLC.",a,THE WITNESS,start_question
+49,264,9,22,An LLC formed in Pennsylvania?,q,MR. BLUM,start_answer
+50,265,9,23,Yes.,a,THE WITNESS,start_question
+51,266,9,24,"Okay.  And could you tell us just very briefly, what is the business of S-Bond?",q,MR. BLUM,start_answer
+52,269,10,2,"We do joining of dissimilar materials using special deformulations of solders that we have patented, and so we use that as selling the material and we also sell some joining services.",a,THE WITNESS,start_question
+53,274,10,7,All right.  And has that basically been the business the entire time that you have operated?,q,MR. BLUM,start_answer
+54,277,10,10,Yes.,a,THE WITNESS,start_question
+55,278,10,11,"At some point did you come to operate in a building, did S-Bond come to operate in a building on West 5th Street in Lansdale?",q,MR. BLUM,start_answer
+56,282,10,15,Yes.,a,THE WITNESS,start_question
+57,283,10,16,About when did you move in there?,q,MR. BLUM,start_answer
+58,284,10,17,Around 2000.,a,THE WITNESS,start_question
+59,285,10,18,Okay.  So like right around the time of the formation?,q,MR. BLUM,start_answer
+60,287,10,20,"Yeah, it was very close to that.",a,THE WITNESS,start_question
+61,288,10,21,"Okay.  And when you moved into there, my recollection is there's like six kind of condo units in that building, were you in one of those units?",q,MR. BLUM,start_answer
+62,293,11,1,We were in one of them.,a,THE WITNESS,symbols
+63,294,11,2,- - -,symbols,,is brackets
+64,295,11,3,(Floor plan marked Smith Exhibit 1.),brackets,,symbols
+65,297,11,5,- - -,symbols,,start_question
+66,299,11,7,I'm going to mark as Exhibit 1 to your deposition a floor plan actually for that building.  Okay.  If you can just take a moment and look at that for me.,q,MR. BLUM,start_answer
+67,303,11,11,Uh-huh.,a,THE WITNESS,start_question
+68,304,11,12,Do you recognize that in general?,q,MR. BLUM,start_answer
+69,305,11,13,Yes.,a,THE WITNESS,start_question
+70,306,11,14,"Okay.  And can you tell me, as you sit there, do you recognize that the bottom of that diagram is basically standing on West 5th Street; is that correct?",q,MR. BLUM,start_answer
+71,310,11,18,Yes.,a,THE WITNESS,start_question
+72,311,11,19,"Okay.  If we were standing on West 5th Street looking at the building, which unit would be the one that S-Bond Technologies moved into?",q,MR. BLUM,start_answer
+73,315,11,23,"This one here, I forget the number, what unit it was.",a,THE WITNESS,start_question
+74,318,12,1,"Doesn't matter, okay.  Is it the one, it almost likes like it has ""MRI"" written on it?",q,MR. BLUM,start_answer
+75,321,12,4,"Material Resources International, when we first took it.",a,THE WITNESS,start_question
+76,323,12,6,"When you moved in there, who was the landlord?",q,MR. BLUM,start_answer
+77,325,12,8,Clemens Uniforms.,a,THE WITNESS,start_question
+78,326,12,9,"And from the time that you were there until the time that it ended, was Clemens your --",q,MR. BLUM,start_answer
+79,329,12,12,Landlord.,a,THE WITNESS,start_question
+80,330,12,13,-- landlord?,q,MR. BLUM,start_answer
+81,331,12,14,Uh-huh.,a,THE WITNESS,start_question
+82,332,12,15,"I want to just talk physically about the space for a minute.  When you moved in there in 2000, did you do anything to like change the physical layout?",q,MR. BLUM,start_answer
+83,336,12,19,No.,a,THE WITNESS,start_question
+84,337,12,20,"Is it accurate that when you first walked in off of 5th Street, there were some offices there?",q,MR. BLUM,start_answer
+85,340,12,23,Yes.,a,THE WITNESS,start_question
+86,341,12,24,Okay.  And did that remain the case until the fire occurred in 2016?,q,MR. BLUM,start_answer
+87,344,13,2,Yes.,a,THE WITNESS,start_question
+88,345,13,3,"Okay.  And when you walked into those offices, if you went through the office, would it be accurate that there would be what I would call warehouse space behind the office?",q,MR. BLUM,start_answer
+89,350,13,8,Yes.,a,THE WITNESS,start_question
+90,351,13,9,And did you have a garage door or some type of opening onto the back parking lot?,q,MR. BLUM,start_answer
+91,354,13,12,"Yeah, there was a loading dock and then a ground level garage door.",a,THE WITNESS,start_question
+92,356,13,14,Okay.  And was there also a man door there or just the garage door?,q,MR. BLUM,start_answer
+93,358,13,16,Man door as well.,a,THE WITNESS,start_question
+94,359,13,17,"Okay.  And if we were standing in the warehouse looking at the office space, is it accurate that that kind of only went up one floor and there was like open space above the office?",q,MR. BLUM,start_answer
+95,364,13,22,Yes.,a,THE WITNESS,start_question
+96,365,13,23,"Okay.  And if we were in your space, the, what I'll call the side walls of the space, what were they constructed of, if you know?",q,MR. BLUM,start_answer
+97,370,14,3,"To the left there was a concrete wall, if you're looking into the space from the back.  And to the right, it wasn't the same wall, it wasn't a firewall.  The other wall was a firewall, what they call a firewall.",a,THE WITNESS,start_question
+98,376,14,9,"So just to make sure I understood you correctly, if we're at the back at the loading dock when you're looking in, the wall on your left was cinder --",q,MR. BLUM,start_answer
+99,380,14,13,"Concrete, cinderblock wall.",a,THE WITNESS,start_question
+100,381,14,14,"Cinderblock, okay.  Were there any openings between your space where that cinderblock wall was and the neighbor next door?",q,MR. BLUM,start_answer
+101,385,14,18,There might have been at one time but it was closed off.,a,THE WITNESS,start_question
+102,387,14,20,"When you say it was closed off, was it closed off by like concrete or closed off by like a door?",q,MR. BLUM,start_answer
+103,390,14,23,I don't recall.,a,THE WITNESS,start_question
+104,391,14,24,"Okay.  And how about your, if we were standing at the back again and to the right of your space, was there any openings between your space and the neighbor to the right?",q,MR. BLUM,start_answer
+105,397,15,5,None that I recall.,a,THE WITNESS,start_question
+106,398,15,6,"And going back to, let's say, the day before the fire occurred, had you had any discussions with Clemens up until that point about them asking you to change the unit that you were in?",q,MR. BLUM,start_answer
+107,403,15,11,There was some discussions about that eventually happening.,a,THE WITNESS,start_question
+108,405,15,13,Okay.  And when did those discussions start?,q,MR. BLUM,start_answer
+109,407,15,15,I don't recall.,a,THE WITNESS,start_question
+110,408,15,16,"And just in general in terms of before the fire, weeks, months?",q,MR. BLUM,start_answer
+111,410,15,18,Months.,a,THE WITNESS,start_question
+112,411,15,19,And what do you recall the substance of those discussions being?,q,MR. BLUM,start_answer
+113,413,15,21,"If I recall, it was probably he was looking to grow and use that space and was asking me to take the end unit.",a,THE WITNESS,start_question
+114,416,15,24,"I'm sorry, take the --",q,MR. BLUM,start_answer
+115,418,16,1,This unit here.,a,THE WITNESS,start_question
+116,419,16,2,"The end unit, is that what you said?",q,MR. BLUM,start_answer
+117,420,16,3,"Yes, end unit.",a,THE WITNESS,start_question
+118,421,16,4,Had you discussed any timeline to do that?,q,MR. BLUM,start_answer
+119,423,16,6,No.,a,THE WITNESS,start_question
+120,424,16,7,"And at the time before the fire, did you have a written lease with Clemens?",q,MR. BLUM,start_answer
+121,426,16,9,"We were on a, I think the lease is officially expired but we were on a year to year.",a,THE WITNESS,start_question
+122,429,16,12,"Okay.  And if you recall, what were you paying in rent at the time of the fire?",q,MR. BLUM,start_answer
+123,431,16,14,"I'd say nearly $3,000 a month, something like that.",a,THE WITNESS,start_question
+124,433,16,16,"Going back, let's say, the day before the fire occurred, how many employees did S-Bond Technologies have?",q,MR. BLUM,start_answer
+125,436,16,19,"Approximately, because I don't recall the exact number --",a,THE WITNESS,start_question
+126,438,16,21,Sure.,q,MR. BLUM,start_answer
+127,439,16,22,-- probably eight.,a,THE WITNESS,start_question
+128,440,16,23,"Okay.  And were you actually at that point in time, in like the early summer of 2016, doing like real work in the warehouse in the back, were you actually producing material back there?",q,MR. BLUM,start_answer
+129,446,17,4,Yes.,a,THE WITNESS,start_question
+130,447,17,5,Okay.  And during that time frame did you have any flammable material stored in your space?,q,MR. BLUM,start_answer
+131,450,17,8,We had solvents and we had a flammable cabinet that we stored solvents in.,a,THE WITNESS,start_question
+132,452,17,10,Okay.  And did you store any material anywhere in this building or any related buildings other than in your individual space?,q,MR. BLUM,start_answer
+133,456,17,14,No.,a,THE WITNESS,start_question
+134,457,17,15,How did you learn that the fire had occurred at the property?,q,MR. BLUM,start_answer
+135,459,17,17,Woken up by my wife.,a,THE WITNESS,start_question
+136,460,17,18,Okay.  And how did she learn of it?,q,MR. BLUM,start_answer
+137,461,17,19,The alarm company finally called her because I was ignoring the call from a 1-800 service number at 11 o'clock or 11:30 at night.,a,THE WITNESS,start_question
+138,465,17,23,Okay.  So did you have alarms of some type in your space?,q,MR. BLUM,start_answer
+139,468,18,1,"Smoke, fire, and burglar alarm system.",a,THE WITNESS,start_question
+140,470,18,3,Okay.  And what was the name of that company?,q,MR. BLUM,start_answer
+141,472,18,5,Czarstar is the folks who installed it.  I'm trying to remember the name of the company that was actually monitoring it.,a,THE WITNESS,start_question
+142,475,18,8,Okay.  Do you know at what point in time you got the first call from them?,q,MR. BLUM,start_answer
+143,477,18,10,Around 11:30 in the evening.,a,THE WITNESS,start_question
+144,478,18,11,And what type of fire detection equipment was inside your space?,q,MR. BLUM,start_answer
+145,480,18,13,When you say what type?,a,THE WITNESS,start_question
+146,481,18,14,Was it a smoke detector?,q,MR. BLUM,start_answer
+147,482,18,15,"Smoke, fire, burglar.",a,THE WITNESS,start_question
+148,483,18,16,And what type of fire detection was in there?,q,MR. BLUM,start_answer
+149,485,18,18,I don't know.  It's part of the package.,a,THE WITNESS,start_question
+150,487,18,20,And it did have some type of central station monitoring?,q,MR. BLUM,start_answer
+151,489,18,22,Yes.,a,THE WITNESS,start_question
+152,490,18,23,"And do you, you have no recollection as you sit here today who the central station monitoring company was?",q,MR. BLUM,start_answer
+153,494,19,2,"Not at the moment, no.",a,THE WITNESS,start_question
+154,495,19,3,Okay.  Could you find that somewhere?,q,MR. BLUM,start_answer
+155,497,19,5,I can on bills.,a,THE WITNESS,start_question
+156,498,19,6,Okay.,q,MR. BLUM,start_answer
+157,499,19,7,But I'd have to find out.,a,THE WITNESS,start_question
+158,500,19,8,"All right.  I would, if you could find that for us, we would like to know who that was because I'd like to know the time when they received the first call, the first signal?",q,MR. BLUM,start_answer
+159,505,19,13,"The first signal was smoke, I do recall that.  And then later, I'm standing in the fire and they're still calling me.",a,THE WITNESS,start_question
+160,508,19,16,"So your wife awoke you, like did they call the house or --",q,MR. BLUM,start_answer
+161,510,19,18,She was in California.,a,THE WITNESS,start_question
+162,511,19,19,"So did she have like, is she one of the alternative people for them to call?",q,MR. BLUM,start_answer
+163,513,19,21,Yeah.,a,THE WITNESS,start_question
+164,514,19,22,What did she tell you?,q,MR. BLUM,start_answer
+165,515,19,23,That the alarm company is calling and I think she mentioned the smoke alarm was running.,a,THE WITNESS,start_question
+166,519,20,2,Okay.,q,MR. BLUM,start_answer
+167,520,20,3,And then shortly thereafter my coworker notified me because his dad is an avid listener to the fire station calls and said there was a fire at our address.,a,THE WITNESS,start_question
+168,524,20,7,And did you drive there immediately?,q,MR. BLUM,start_answer
+169,525,20,8,Yes.,a,THE WITNESS,start_question
+170,526,20,9,And where do you live?,q,MR. BLUM,start_answer
+171,527,20,10,I live in Blue Bell.,a,THE WITNESS,start_question
+172,528,20,11,Okay.  And what did you observe when you got there?,q,MR. BLUM,start_answer
+173,530,20,13,"Smoke, orange sky as I approached, and a lot of fire hoses.",a,THE WITNESS,start_question
+174,532,20,15,"And did you like walk, were you able to park locally and walk up to the scene?",q,MR. BLUM,start_answer
+175,534,20,17,"I parked a block or two away and then walked to the scene, yes.",a,THE WITNESS,start_question
+176,536,20,19,"And when you walked to the scene, which side of the building did you approach from?",q,MR. BLUM,start_answer
+177,539,20,22,"Whatever this side is, I forget the name of that side.",a,THE WITNESS,start_question
+178,541,20,24,Mitchell Street?,q,MR. BLUM,start_answer
+179,543,21,1,Yes.,a,THE WITNESS,start_question
+180,544,21,2,And were you walking down 5th Street or down Mitchell?,q,MR. BLUM,start_answer
+181,546,21,4,Mitchell.,a,THE WITNESS,start_question
+182,547,21,5,"As you walked down Mitchell, tell me what you saw as you got towards the building?",q,MR. BLUM,start_answer
+183,549,21,7,"Fire engines, ladders over the roof.",a,THE WITNESS,start_question
+184,550,21,8,Okay.,q,MR. BLUM,start_answer
+185,551,21,9,"Water being poured onto the fire, end of the building, which was really this half, those two-thirds.",a,THE WITNESS,start_question
+186,554,21,12,"And when you say this half or two-thirds, you're indicating the half or two-thirds towards Mitchell Street?",q,MR. BLUM,start_answer
+187,557,21,15,Correct.,a,THE WITNESS,start_question
+188,558,21,16,And did you stay in front of the building or did you walk around to the back?,q,MR. BLUM,start_answer
+189,560,21,18,Eventually walked to the back.,a,THE WITNESS,start_question
+190,561,21,19,"When you first got there, though, did you walk down the front?",q,MR. BLUM,start_answer
+191,563,21,21,Yes.,a,THE WITNESS,start_question
+192,564,21,22,And tell me what you observed when you walked down the front of the building?,q,MR. BLUM,start_answer
+193,566,21,24,"Firemen all over the place, ladders on the back side dumping water, cutting holes in the roof, and breaking windows to get in.",a,THE WITNESS,start_question
+194,570,22,3,"And as you walked down 5th Street, there are a series of windows across the front of that building; is that correct?",q,MR. BLUM,start_answer
+195,573,22,6,Correct.,a,THE WITNESS,start_question
+196,574,22,7,"Were you able or do you recall, did you see any actual fire through those windows?",q,MR. BLUM,start_answer
+197,576,22,9,Yes.,a,THE WITNESS,start_question
+198,577,22,10,Do you recall approximately what time it was when you arrived at the scene?,q,MR. BLUM,start_answer
+199,579,22,12,12:30 time frame.,a,THE WITNESS,start_question
+200,580,22,13,Okay.,q,MR. BLUM,start_answer
+201,581,22,14,A.m.,a,THE WITNESS,start_question
+202,582,22,15,"Yes.  And as you walked down towards the S-Bond unit, can you tell me what conditions you saw around your unit?",q,MR. BLUM,start_answer
+203,585,22,18,"Quiet, there hadn't been any fire in that unit yet.  They were dumping water over that unit into the hot side of the unit.",a,THE WITNESS,start_question
+204,588,22,21,Okay.  And then did you walk around to the rear of the building at some point?,q,MR. BLUM,start_answer
+205,590,22,23,Yes.,a,THE WITNESS,start_question
+206,591,22,24,And tell me what you observed at the rear of the building?,q,MR. BLUM,start_answer
+207,594,23,2,"They were trying to get some doors open.  Again, I saw the opposite side of the ladders that were dumping water, I think some firemen were on the roof cutting holes.",a,THE WITNESS,start_question
+208,598,23,6,Were any of the doors at the rear open when you walked back there?,q,MR. BLUM,start_answer
+209,600,23,8,"When I walked back, no, but while I was there, they got them open.  They opened my unit and the one adjacent to it.",a,THE WITNESS,start_question
+210,603,23,11,"All right.  And when they opened your unit, were you are able to see inside?",q,MR. BLUM,start_answer
+211,605,23,13,Yes.,a,THE WITNESS,start_question
+212,606,23,14,And what did you observe?,q,MR. BLUM,start_answer
+213,607,23,15,A very expensive piece of equipment that belonged to my customer in a safe condition.  It was just smoke.  There was no fire involved.,a,THE WITNESS,start_question
+214,611,23,19,Okay.  And when was the first time that you were ever able to walk back into your unit?,q,MR. BLUM,start_answer
+215,614,23,22,"Went home that night at around 5:00, 4:00 a.m., came back around 9:30, and probably about lunchtime the following day, the fire marshal escorted us through.",a,THE WITNESS,start_question
+216,619,24,2,And do you remember who the fire marshal was?,q,MR. BLUM,start_answer
+217,621,24,4,I forget his name.,a,THE WITNESS,start_question
+218,622,24,5,"Jay Daveler, does that ring a bell?",q,MR. BLUM,start_answer
+219,623,24,6,Might be.,a,THE WITNESS,start_question
+220,624,24,7,"Okay.  And when you say he escorted you through, who was with you?",q,MR. BLUM,start_answer
+221,626,24,9,"The gentleman who was the, I think EDS -- no, emergency -- EDS person was there at the scene.  They were disaster service.",a,THE WITNESS,start_question
+222,629,24,12,Right.,q,MR. BLUM,start_answer
+223,630,24,13,"So I had just called my insurance company, asked them what I should do.  They said do whatever you have to do, if you need to hire that person, go ahead.  So I went up to him and so he escorted -- he was escorted with me and my coworker through the unit just to see what had to get removed quickly.",a,THE WITNESS,start_question
+224,637,24,20,And tell me what you observed when you walked through the unit at that time?,q,MR. BLUM,start_answer
+225,639,24,22,"Dark, dank, wet, smoky, black everywhere, water about an inch on the floor everywhere, some water dripping through some of the ceiling tiles.  That's what I recall.",a,THE WITNESS,start_question
+226,644,25,2,Okay.  And was there any evidence to you or indication to you that there had been any fire in the unit itself?,q,MR. BLUM,start_answer
+227,647,25,5,"When we went up to the upper mezzanine, which is the upper level, some fire had entered the very corner of that upper mezzanine.  Otherwise there was no fire in the unit.",a,THE WITNESS,start_question
+228,652,25,10,Tell me what you mean by the upper mezzanine?,q,MR. BLUM,start_answer
+229,654,25,12,"Sorry for pointing, but it's this upper corner because that evening prior we had seen the firemen breaking into that area because that was a hotspot they were trying to get water on.",a,THE WITNESS,start_question
+230,659,25,17,"When you say the upper area, is that the area above the offices?",q,MR. BLUM,start_answer
+231,661,25,19,"Above that office, yes.",a,THE WITNESS,start_question
+232,662,25,20,"And what kind of space was up there above the office, was it space that you could walk on or --",q,MR. BLUM,start_answer
+233,665,25,23,"Yes.  It was probably 8 foot high to the beams, steel beams, and then there was a steel roof above that.",a,THE WITNESS,start_question
+234,669,26,2,And did your company use that for any purpose?,q,MR. BLUM,start_answer
+235,671,26,4,We used it for storage.,a,THE WITNESS,start_question
+236,672,26,5,Okay.  And what type of things were stored up there?,q,MR. BLUM,start_answer
+237,674,26,7,"Solder materials, old files, tooling, stuff that you use temporarily, metal.",a,THE WITNESS,start_question
+238,677,26,10,"And after you walked through the property that first day after the fire, tell me what occurred next?",q,MR. BLUM,start_answer
+239,680,26,13,"The fire marshal mentioned that there was a good chance that they would be tearing the building down, and he gave us six hours to get all our stuff out.",a,THE WITNESS,start_question
+240,684,26,17,Okay.  So --,q,MR. BLUM,start_answer
+241,685,26,18,"So we immediately started dragging stuff out the back doors, and the EDS company was pulling up all kinds of trucks, we were loading stuff on trucks just to get as much salvage equipment and office things out of there.  And then the computers were picked up, and all that stuff, and given to another company who had responsibility for making sure those computers remained operational.",a,THE WITNESS,start_question
+242,695,27,3,And do you remember who that company was?,q,MR. BLUM,start_answer
+243,697,27,5,"I forget the -- well, EDS was the contractor, so they had a subcontractor --",a,THE WITNESS,start_question
+244,699,27,7,Okay.,q,MR. BLUM,start_answer
+245,700,27,8,-- who handles electronic equipment. I forget the name of that company.,a,THE WITNESS,start_question
+246,702,27,10,"Okay.  And so at the end of that six hours, had you removed everything that you thought was salvageable?",q,MR. BLUM,start_answer
+247,705,27,13,Yes.,a,THE WITNESS,start_question
+248,706,27,14,And what did EDS do with that material?,q,MR. BLUM,start_answer
+249,708,27,16,Stored it in a unit that they owned maybe six miles away.,a,THE WITNESS,start_question
+250,710,27,18,"And what did you do, if anything, to then get your business back in operation?",q,MR. BLUM,start_answer
+251,712,27,20,Went out and rented a space.,a,THE WITNESS,start_question
+252,713,27,21,Okay.,q,MR. BLUM,start_answer
+253,714,27,22,Within a week.,a,THE WITNESS,start_question
+254,715,27,23,And where did you rent that space out?,q,MR. BLUM,start_answer
+255,718,28,1,2299 Amber Drive in Hatfield.,a,THE WITNESS,start_question
+256,719,28,2,"And in your space at the Clemens facility, how many square feet did you have there?",q,MR. BLUM,start_answer
+257,722,28,5,"About 4,600 on the floor level and probably another 1,000 feet at the mezzanine.",a,THE WITNESS,start_question
+258,724,28,7,"And when you got to your spot in Hatfield, how much space did you have available to you?",q,MR. BLUM,start_answer
+259,727,28,10,"The space that was available was 15,000, and then we checked with the insurance company if we could co-locate with another company that I had a relationship with and share the space.  And we did, and Cap approved that in terms of us making that deal to get into that space to get operational.",a,THE WITNESS,start_question
+260,734,28,17,"And what was the rental, the total rental, on that new space?",q,MR. BLUM,start_answer
+261,736,28,19,"Roughly 10,000.",a,THE WITNESS,start_question
+262,737,28,20,And how much of that was your company responsible for?,q,MR. BLUM,start_answer
+263,739,28,22,"When the first year was decided, it was, we were responsible for 10 and the other company was responsible for 5 thousand square feet.",a,THE WITNESS,start_question
+264,744,29,2,Okay.  And what was the amount of rent that you paid and the other company paid?,q,MR. BLUM,start_answer
+265,746,29,4,"I don't recall exactly, but maybe it was 7,000 for us and 3,000 for them or 6,500/3,500, something in that order.",a,THE WITNESS,start_question
+266,749,29,7,"All right.  I'm going to show you a document which we marked at another deposition, so the exhibit number on it is going to be Farr 1.  I'm going to ask you if you can just take a look at that for a moment, please.",q,MR. BLUM,start_answer
+267,755,29,13,"Uh-huh.  When you day document, all the pages?",a,THE WITNESS,start_question
+268,757,29,15,"Yes, just flip through it once, and the first question I'm going to ask you is have you ever seen that in that format before?",q,MR. BLUM,start_answer
+269,760,29,18,"I think I provided them some of the photos, but I don't recall seeing the format.",a,THE WITNESS,start_question
+270,762,29,20,"In the beginning there are a whole series of photographs of the outside of the building and the truck, which I'm going to skip, so if you go to Page 15, do you know, is that a photograph that you took?",q,MR. BLUM,start_answer
+271,768,30,1,I don't recall if I took this one.,a,THE WITNESS,start_question
+272,769,30,2,All right.  So do you recognize what is shown in the photograph that's on Page 15 of Farr Exhibit 1?,q,MR. BLUM,start_answer
+273,772,30,5,Yes.,a,THE WITNESS,start_question
+274,773,30,6,Can you just tell us briefly what that is?,q,MR. BLUM,start_answer
+275,775,30,8,"That's our shop area, the warehouse space in behind the office area.",a,THE WITNESS,start_question
+276,777,30,10,And can you tell me like which direction and how we're looking at it?  It appears that there's some doors to the right-hand side?,q,MR. BLUM,start_answer
+277,781,30,14,"This is coming in the man door in the back and looking into the shop, so those two doors -- well, you don't see two, the first door is what you call the loading dock door and on the other side of the steel beam is the drive-up door.",a,THE WITNESS,start_question
+278,787,30,20,Okay.  And where would the offices be?,q,MR. BLUM,start_answer
+279,789,30,22,To the left.,a,THE WITNESS,start_question
+280,790,30,23,"Okay.  And is this photograph, to the best of your knowledge, taken immediately after the fire and before anything was removed?",q,MR. BLUM,start_answer
+281,795,31,3,Yes.,a,THE WITNESS,start_question
+282,796,31,4,Okay.,q,MR. BLUM,start_answer
+283,797,31,5,"No, wait a minute.  It was taken -- there's something that's not there anymore, so something has been removed.",a,THE WITNESS,start_question
+284,800,31,8,Do you know what it was that was removed?,q,MR. BLUM,start_answer
+285,802,31,10,"Our hot plate system that we had here that had some very expensive equipment on it, so.",a,THE WITNESS,start_question
+286,805,31,13,And removed as part of the cleanout that you talked about earlier?,q,MR. BLUM,start_answer
+287,807,31,15,"I believe so, from what I'm seeing here.",a,THE WITNESS,start_question
+288,809,31,17,"Okay.  And can you tell me, there appears to be on the left side of the photograph some equipment there.  What is that equipment?",q,MR. BLUM,start_answer
+289,813,31,21,I can't tell from this angle.,a,THE WITNESS,start_question
+290,814,31,22,"Okay.  If you could look at the next page, which is Page 16, can you tell me, is this another photograph of the interior of your space?",q,MR. BLUM,start_answer
+291,819,32,2,Yes.,a,THE WITNESS,start_question
+292,820,32,3,And can you tell me in what direction we're looking?,q,MR. BLUM,start_answer
+293,822,32,5,It's looking to that cement wall that's on the left of the space as you walk in the back.,a,THE WITNESS,start_question
+294,825,32,8,Okay.  And where would the offices be if we were --,q,MR. BLUM,start_answer
+295,827,32,10,To the right.,a,THE WITNESS,start_question
+296,828,32,11,Okay.  And in fact to the right there's a door that's standing open there.,q,MR. BLUM,start_answer
+297,830,32,13,Right.,a,THE WITNESS,start_question
+298,831,32,14,Is that the office space?,q,MR. BLUM,start_answer
+299,832,32,15,Yes.,a,THE WITNESS,start_question
+300,833,32,16,And to the best of your knowledge is this the way the space looked before the cleanout or after the cleanout?,q,MR. BLUM,start_answer
+301,836,32,19,"In the middle of it, from what I'm seeing here.",a,THE WITNESS,start_question
+302,838,32,21,"Okay.  Let's take a look at Pages 16 and 17, are those photographs of some of your equipment that was in the space?",q,MR. BLUM,start_answer
+303,841,32,24,Yes.,a,THE WITNESS,start_question
+304,843,33,1,"The drill press that's on Page-- I should ask, is that a drill press on Page 18?",q,MR. BLUM,start_answer
+305,845,33,3,Yes.,a,THE WITNESS,start_question
+306,846,33,4,"Was that saved or not, do you know?",q,MR. BLUM,start_answer
+307,847,33,5,"Yes, it was saved, it had to get cleaned.",a,THE WITNESS,start_question
+308,849,33,7,"And if you take a look at Pages 19 and 20, do you recognize that as equipment that was inside your space?",q,MR. BLUM,start_answer
+309,852,33,10,Yes.,a,THE WITNESS,start_question
+310,853,33,11,"And it's tougher, but can you tell me what it is?",q,MR. BLUM,start_answer
+311,855,33,13,19 is a grinding unit and 20 is a belt sander.,a,THE WITNESS,start_question
+312,857,33,15,And do you know whether or not those two pieces of equipment were saved?,q,MR. BLUM,start_answer
+313,859,33,17,I believe they were replaced.,a,THE WITNESS,start_question
+314,860,33,18,"So as far as you know, when you walked out at the end of that six-hour period, was that left behind?",q,MR. BLUM,start_answer
+315,863,33,21,I'm not sure it was left behind. But later as we were cleaning certain things were inoperable.,a,THE WITNESS,start_question
+316,866,33,24,Okay.,q,MR. BLUM,start_answer
+317,868,34,1,I don't recall.,a,THE WITNESS,start_question
+318,869,34,2,"If you could take a look at Page 21 for me, please.",q,MR. BLUM,start_answer
+319,871,34,4,Uh-huh.,a,THE WITNESS,start_question
+320,872,34,5,Do you know what that is depicted on --,q,MR. BLUM,start_answer
+321,874,34,7,It's a benchtop lathe.,a,THE WITNESS,start_question
+322,875,34,8,Do you know whether or not that was saved?,q,MR. BLUM,start_answer
+323,877,34,10,That was replaced.,a,THE WITNESS,start_question
+324,878,34,11,"Okay.  Let's skip ahead, if we could, to Page 25.  Can you tell us what the equipment is that appears on Page 25?",q,MR. BLUM,start_answer
+325,881,34,14,Grit blasting equipment.,a,THE WITNESS,start_question
+326,882,34,15,And was this equipment saved?,q,MR. BLUM,start_answer
+327,883,34,16,No.,a,THE WITNESS,start_question
+328,884,34,17,Was there any attempt to remove it or was it just left behind?,q,MR. BLUM,start_answer
+329,886,34,19,I believe these were left behind.,a,THE WITNESS,start_question
+330,887,34,20,"If you could skip ahead to Page 42 for me, please.",q,MR. BLUM,start_answer
+331,889,34,22,Uh-huh.,a,THE WITNESS,start_question
+332,890,34,23,Can you tell me what the equipment is that's depicted in 42?,q,MR. BLUM,start_answer
+333,893,35,1,"This is a small blasting unit, grit blasting unit.",a,THE WITNESS,start_question
+334,895,35,3,And do you know whether or not that was salvaged in the --,q,MR. BLUM,start_answer
+335,897,35,5,That was replaced.,a,THE WITNESS,start_question
+336,898,35,6,"And now if you skip ahead to Page 48, is that a picture of what I would call the front door off of 5th Street?",q,MR. BLUM,start_answer
+337,901,35,9,Yes.,a,THE WITNESS,start_question
+338,902,35,10,And that would have been taken like from in the office space?,q,MR. BLUM,start_answer
+339,904,35,12,Yes.,a,THE WITNESS,start_question
+340,905,35,13,"And if you look at Page 49, like 49 and 50, are those pictures of the office space after the fire?",q,MR. BLUM,start_answer
+341,908,35,16,"After the fire, but there's been some things removed, so this was probably in the process of us emptying it.",a,THE WITNESS,start_question
+342,911,35,19,And like is the computer equipment is already out of here?,q,MR. BLUM,start_answer
+343,913,35,21,Yes.  That was the first thing we got out of there.,a,THE WITNESS,start_question
+344,915,35,23,"Okay.  If you can skip ahead to Page 68, can you tell me what that equipment is that's depicted on Page 68?",q,MR. BLUM,start_answer
+345,919,36,2,That's the ultrasonic C-scan tank and unit.,a,THE WITNESS,start_question
+346,921,36,4,And what is that used for?,q,MR. BLUM,start_answer
+347,922,36,5,It's used for using ultrasound to detect defects in material.,a,THE WITNESS,start_question
+348,924,36,7,All right.  And was that unit operable before the fire occurred?,q,MR. BLUM,start_answer
+349,926,36,9,Yes.,a,THE WITNESS,start_question
+350,927,36,10,"And after the fire occurred, tell me what, to the best of your knowledge, happened with that piece of equipment?",q,MR. BLUM,start_answer
+351,930,36,13,"We sent the whole unit to this electronic cleaning company, cleaned up a lot of the equipment, tried to get it operational.",a,THE WITNESS,start_question
+352,933,36,16,And was it ever made operational again?,q,MR. BLUM,start_answer
+353,935,36,18,"Eventually, yes.",a,THE WITNESS,start_question
+354,936,36,19,"All right.  If you could, let's turn to Page 69.  Is that the same piece of equipment?",q,MR. BLUM,start_answer
+355,939,36,22,Yes.,a,THE WITNESS,start_question
+356,940,36,23,Okay.  And is that also true of Page 70?,q,MR. BLUM,start_answer
+357,943,37,1,Yes.,a,THE WITNESS,start_question
+358,944,37,2,"Page 71, could you tell us what that is?",q,MR. BLUM,start_answer
+359,946,37,4,No.,a,THE WITNESS,start_question
+360,947,37,5,"Okay.  Page 72, any idea what that picture is?",q,MR. BLUM,start_answer
+361,949,37,7,Yes.  That would have been a support structure for hot plates.,a,THE WITNESS,start_question
+362,951,37,9,And was that support structure saved or was it --,q,MR. BLUM,start_answer
+363,953,37,11,It was salvaged.,a,THE WITNESS,start_question
+364,954,37,12,"Okay.  And on Page 73, do you know what that is?",q,MR. BLUM,start_answer
+365,956,37,14,Those are hot plates.,a,THE WITNESS,start_question
+366,957,37,15,"And when you say hot plates, tell us a little bit more specifically what kind of hot plates?",q,MR. BLUM,start_answer
+367,960,37,18,They are aluminum cast plates that have heaters in them that we use to heat material up.,a,THE WITNESS,start_question
+368,963,37,21,And were those salvaged?,q,MR. BLUM,start_answer
+369,964,37,22,Yes.,a,THE WITNESS,start_question
+370,965,37,23,"Page 74, can you tell me what that is?",q,MR. BLUM,start_answer
+371,968,38,1,"We did have to replace the controllers, but not the hot plates, on Page 73.",a,THE WITNESS,start_question
+372,971,38,4,"Okay.  And when you say controllers, you mean like the electronic controllers?",q,MR. BLUM,start_answer
+373,973,38,6,Some electronic controllers were shot by dust and smoke probably.,a,THE WITNESS,start_question
+374,975,38,8,Okay.  And Page 74?,q,MR. BLUM,start_answer
+375,976,38,9,"Same hot plates, just picture of the connection end.",a,THE WITNESS,start_question
+376,978,38,11,All right.  And Page 75?,q,MR. BLUM,start_answer
+377,979,38,12,Stuff.,a,THE WITNESS,start_question
+378,980,38,13,None of it appears to be anything what I would call like specific valuable equipment for the company?,q,MR. BLUM,start_answer
+379,983,38,16,"The only thing would have been the lift that's in the picture, probably, and there's another lift that you can't see, but we had to replace the pallet jack.  Other than that not specifically, drawers from some of the units.",a,THE WITNESS,start_question
+380,989,38,22,"And pallet jack, it was like a hand-operated pallet jack?",q,MR. BLUM,start_answer
+381,991,38,24,Yes.,a,THE WITNESS,start_question
+382,993,39,1,"In fact, if you look at Page 76, does that depict --",q,MR. BLUM,start_answer
+383,995,39,3,Yes.,a,THE WITNESS,start_question
+384,996,39,4,"-- a pallet jack, okay. If you look at Page 77 for me, please, can you tell me what that is?",q,MR. BLUM,start_answer
+385,999,39,7,"There's some rolling equipment in the right foreground for rolling foil.  On the left, that's thrown away, so I forget what this was, to be honest.",a,THE WITNESS,start_question
+386,1003,39,11,Do you know whether or not that equipment survived the fire?,q,MR. BLUM,start_answer
+387,1005,39,13,"The one on the left, no.  The one on the right, yes.",a,THE WITNESS,start_question
+388,1007,39,15,"And on Page 78, can you tell me what that is?",q,MR. BLUM,start_answer
+389,1009,39,17,Pallets of stuff.,a,THE WITNESS,start_question
+390,1010,39,18,"Okay.  But in the middle there, that appears to be some kind of a piece of equipment?",q,MR. BLUM,start_answer
+391,1013,39,21,I can't tell from this photo.,a,THE WITNESS,start_question
+392,1014,39,22,"Can I see it -- you know, I'm looking at a different page.  You're on 79, go back to Page 78.",q,MR. BLUM,start_answer
+393,1018,40,1,All right.  Sorry.,a,THE WITNESS,start_question
+394,1019,40,2,That's all right.,q,MR. BLUM,start_answer
+395,1020,40,3,That was our customer's very expensive piece of equipment and the box for it.,a,THE WITNESS,start_question
+396,1023,40,6,Okay.  And was that piece of equipment salvaged or what happened to it?,q,MR. BLUM,start_answer
+397,1025,40,8,"Yes, it was salvaged and shipped back to the customer.",a,THE WITNESS,start_question
+398,1027,40,10,And were you responsible for any damage to that equipment?,q,MR. BLUM,start_answer
+399,1029,40,12,"Thank heavens, no.",a,THE WITNESS,start_question
+400,1030,40,13,What kind of piece of equipment was it?,q,MR. BLUM,start_answer
+401,1032,40,15,It was a silicon carbine mirror for laser processing.,a,THE WITNESS,start_question
+402,1034,40,17,And why did you have it in your unit?,q,MR. BLUM,start_answer
+403,1036,40,19,"We were soldering stainless components to it or cooling components.  That was our job, one of our bonding jobs.",a,THE WITNESS,start_question
+404,1039,40,22,Okay.  And had you already completed the work?,q,MR. BLUM,start_answer
+405,1041,40,24,No.,a,THE WITNESS,start_question
+406,1043,41,1,Did you ever complete that work?,q,MR. BLUM,start_answer
+407,1044,41,2,It was completed at the customer's location.,a,THE WITNESS,start_question
+408,1046,41,4,"Skip ahead to Page 82, if you could, for me, please.  Can you identify what that piece of equipment is?",q,MR. BLUM,start_answer
+409,1049,41,7,It's a press.,a,THE WITNESS,start_question
+410,1050,41,8,And was that press saved?,q,MR. BLUM,start_answer
+411,1051,41,9,The press was.  We had to replace the control unit.,a,THE WITNESS,start_question
+412,1053,41,11,And Page 84?,q,MR. BLUM,start_answer
+413,1054,41,12,"That's a scale for measuring sensitive weights, that we had to replace that scale.",a,THE WITNESS,start_question
+414,1057,41,15,Page 85?,q,MR. BLUM,start_answer
+415,1058,41,16,That's a tabletop smaller wood lathe.,a,THE WITNESS,start_question
+416,1060,41,18,And was that saved or not?,q,MR. BLUM,start_answer
+417,1061,41,19,No.,a,THE WITNESS,start_question
+418,1062,41,20,"And on Page 86, can you tell us like in the left corner there, there appears to be a piece of equipment?",q,MR. BLUM,start_answer
+419,1065,41,23,"Well, the left corner with the yellow base is a hot plate.",a,THE WITNESS,start_question
+420,1068,42,1,How about in the center of that picture?,q,MR. BLUM,start_answer
+421,1070,42,3,"The center of that is an oven, convex heating oven.",a,THE WITNESS,start_question
+422,1072,42,5,What was that used for?,q,MR. BLUM,start_answer
+423,1073,42,6,"Curing epoxy, heating, drying materials.",a,THE WITNESS,start_question
+424,1075,42,8,Was that piece saved?,q,MR. BLUM,start_answer
+425,1076,42,9,"Saved, but we had to replace the electronics, controller.",a,THE WITNESS,start_question
+426,1078,42,11,And on Page 87?,q,MR. BLUM,start_answer
+427,1079,42,12,A hot plate.,a,THE WITNESS,start_question
+428,1080,42,13,All right.  Was that hot plate saved?,q,MR. BLUM,start_answer
+429,1082,42,15,"I don't know if this specific one was because we did throw away some, so I'm not sure whether this specific one was.  And behind it is an ultrasonic soldering part that's been salvaged.",a,THE WITNESS,start_question
+430,1087,42,20,"Okay.  You could put that aside now. Can you tell me in terms of the payments that you received from the insurance company, I just want to verify, you were paid for equipment, like business personal property; correct?",q,MR. BLUM,start_answer
+431,1094,43,2,Uh-huh.  Yes.,a,THE WITNESS,start_question
+432,1095,43,3,I missed that.  You were also paid for what I'll call extra expenses that you had as a result of the move --,q,MR. BLUM,start_answer
+433,1098,43,6,Yes.,a,THE WITNESS,start_question
+434,1099,43,7,-- for that interruption. And you were also paid some extra lease expense that you had; is that correct?,q,MR. BLUM,start_answer
+435,1102,43,10,That's correct.,a,THE WITNESS,start_question
+436,1103,43,11,Were there any other categories of damages that you were being paid for by the insurance company?,q,MR. BLUM,start_answer
+437,1106,43,14,"If you mentioned it, I wasn't quite sure, but business loss.",a,THE WITNESS,start_question
+438,1108,43,16,Yes.,q,MR. BLUM,start_answer
+439,1109,43,17,Yes.,a,THE WITNESS,start_question
+440,1110,43,18,So to me the business loss and the extra expense I think run together.,q,MR. BLUM,start_answer
+441,1112,43,20,"Yes, okay.",a,THE WITNESS,start_question
+442,1113,43,21,"So I want to talk for a minute now, if we could, just about what you were paid and how you were paid for the equipment that was lost.  Okay?",q,MR. BLUM,start_answer
+443,1118,44,1,Uh-huh.,a,THE WITNESS,start_question
+444,1119,44,2,"I'm going to show you a document which we marked the other day as Farr Exhibit No. 2.  And the first thing I want to ask you to do is, can you identify what appears to be a spreadsheet which is on the front of that document?",q,MR. BLUM,start_answer
+445,1125,44,8,When you say identify --,a,THE WITNESS,start_question
+446,1126,44,9,Do you recognize it?,q,MR. BLUM,start_answer
+447,1127,44,10,Yes.,a,THE WITNESS,start_question
+448,1128,44,11,What is that spreadsheet?,q,MR. BLUM,start_answer
+449,1129,44,12,It's a list of items that we replaced.,a,THE WITNESS,start_question
+450,1131,44,14,Okay.  And who is the author of that spreadsheet?,q,MR. BLUM,start_answer
+451,1133,44,16,Myself.,a,THE WITNESS,start_question
+452,1134,44,17,Okay.  And how did you go about putting that together?,q,MR. BLUM,start_answer
+453,1136,44,19,"Taking the various items, receipts, collating them and putting them in a spreadsheet for submission to Cap Specialties.",a,THE WITNESS,start_question
+454,1139,44,22,"And when you did this, had you already gotten, like you said, all of your equipment went to a temporary space.  Did the equipment like come to your new space and then you worked on it or when did you work on it just in terms of not the date, but in terms of logistics of what was happening?",q,MR. BLUM,start_answer
+455,1147,45,5,"Most of the stuff sat in EDS's warehouse for about a week until we had the space available.  And then we palletized everything, brought it over to the new space, and then over the next two to three months emptied the pallets, cleaned things off.  We didn't hire EDS to do that.  We did that ourselves.",a,THE WITNESS,start_question
+456,1155,45,13,And was this spreadsheet that's marked as Farr Exhibit 2 put together as the things came off the pallets?,q,MR. BLUM,start_answer
+457,1158,45,16,"A combination of things.  Immediate replacement, so I don't know the date of this one, but as we went into finding which was operable, which wasn't, then we replaced certain items.  So it's probably some combination.",a,THE WITNESS,start_question
+458,1164,45,22,"If you look at the top of this, it's dated July 15th to August 15th; okay?",q,MR. BLUM,start_answer
+459,1166,45,24,Yes.,a,THE WITNESS,start_question
+460,1168,46,1,So to the best of your knowledge is this the first of these spreadsheets that you put together?,q,MR. BLUM,start_answer
+461,1171,46,4,"I believe so, the time frame would suggest that.",a,THE WITNESS,start_question
+462,1173,46,6,"Okay.  And if we could, I just want to identify what each of the columns are for. The first --",q,MR. BLUM,start_answer
+463,1176,46,9,Where it was -- these were the locations codes that I gave to Farr to identify where they were so that he could like tie them to pictures if he needed to.,a,THE WITNESS,start_question
+464,1180,46,13,"So the first column says ""Location,"" and just tell us what each of those initials means as you go down, if you remember.",q,MR. BLUM,start_answer
+465,1183,46,16,I don't recall.,a,THE WITNESS,start_question
+466,1184,46,17,Okay.  But those initials would have stood for locations where they were in the original space?,q,MR. BLUM,start_answer
+467,1187,46,20,Yes.,a,THE WITNESS,start_question
+468,1188,46,21,"The next column over says ""Item"" and there are some codes there.",q,MR. BLUM,start_answer
+469,1190,46,23,"For example, some of them would be like office equipment or shop equipment, so I don't know all the codes now that I'm looking at them, but that's kind of what those codes stood for in terms of the classification of the kind of equipment that was being replaced.",a,THE WITNESS,start_question
+470,1197,47,5,"Okay.  And then as we go across, the next thing it appears there's something filled in is ""Replacement Cost.""  Do you see that?",q,MR. BLUM,start_answer
+471,1200,47,8,Yes.,a,THE WITNESS,start_question
+472,1201,47,9,Did you put those replacement cost numbers in there?,q,MR. BLUM,start_answer
+473,1203,47,11,Yes.,a,THE WITNESS,start_question
+474,1204,47,12,And are they the actual cost that you spent to replace those items?,q,MR. BLUM,start_answer
+475,1206,47,14,"I think they were guesstimates at the time and the actual cost is the cost in the ""Cost"" column.",a,THE WITNESS,start_question
+476,1209,47,17,"Okay.  So then there's another, after replacement cost there's, I think it's ""Status"" column?",q,MR. BLUM,start_answer
+477,1212,47,20,Uh-huh.,a,THE WITNESS,start_question
+478,1213,47,21,Can you tell us what the codes mean in there?,q,MR. BLUM,start_answer
+479,1215,47,23,I don't recall.,a,THE WITNESS,start_question
+480,1216,47,24,"RP, replace?",q,MR. BLUM,start_answer
+481,1218,48,1,"Replace, probably, yes.",a,THE WITNESS,start_question
+482,1219,48,2,"Then there's a column that says ""Cost.""",q,MR. BLUM,start_answer
+483,1221,48,4,Uh-huh.,a,THE WITNESS,start_question
+484,1222,48,5,Is that the actual cost of what you spent?,q,MR. BLUM,start_answer
+485,1224,48,7,"Yes, I would believe so, yes, because they're very specific.",a,THE WITNESS,start_question
+486,1226,48,9,"Then there's a space for ""Vendor."" Is that the vendor that you went to to replace it?",q,MR. BLUM,start_answer
+487,1229,48,12,Yes.,a,THE WITNESS,start_question
+488,1230,48,13,"""Receipt"" and there's a number.  Is that like a number of a receipt?",q,MR. BLUM,start_answer
+489,1232,48,15,"We wrote numbers on receipts, yes.",a,THE WITNESS,start_question
+490,1233,48,16,"And then it says, ""Submit Date.""",q,MR. BLUM,start_answer
+491,1234,48,17,"This is, what I would do is accumulate something and submit, so that would be that column.",a,THE WITNESS,start_question
+492,1237,48,20,Okay.  So what this appears to be then is the receipts and the spreadsheet you put together for the period July 15th to August 15th that you then submitted to the insurance company?,q,MR. BLUM,start_answer
+493,1243,49,1,Yes.,a,THE WITNESS,start_question
+494,1244,49,2,Okay.  And is it accurate that the insurance company paid you the replacement value of the things that you replaced?,q,MR. BLUM,start_answer
+495,1247,49,5,Yes.,a,THE WITNESS,start_question
+496,1248,49,6,"So, in other words, what they didn't do is say to you, ""You had a used piece of equipment, we're just going to pay you the used value""?",q,MR. BLUM,start_answer
+497,1252,49,10,"I don't recall that discussion.  But I submitted our expenses to get operational, yes.",a,THE WITNESS,start_question
+498,1255,49,13,"And to the best of your knowledge, did you get reimbursed for all the items that were listed on Farr Exhibit 2?",q,MR. BLUM,start_answer
+499,1258,49,16,"I don't recall if it was exactly every one, but substantially, yes.",a,THE WITNESS,start_question
+500,1260,49,18,"Okay.  I want to move ahead, if we could now, to Farr Exhibit 3 for a minute, and ask you if you recognize this spreadsheet?",q,MR. BLUM,start_answer
+501,1263,49,21,Yes.,a,THE WITNESS,start_question
+502,1264,49,22,And is this another group of items that you submitted to the insurance company?,q,MR. BLUM,start_answer
+503,1266,49,24,"I would assume so, but, it looks like it, yes.",a,THE WITNESS,start_question
+504,1269,50,2,"And, again, the same, the columns are all the same on that and they appear to have the same kind of information as on the first spreadsheet we looked at?",q,MR. BLUM,start_answer
+505,1273,50,6,Yes.,a,THE WITNESS,start_question
+506,1274,50,7,"Okay.  And as we sit here today, do you know whether or not you were reimbursed the replacement cost for all those items?",q,MR. BLUM,start_answer
+507,1277,50,10,I believe so.,a,THE WITNESS,start_question
+508,1278,50,11,"Okay.  Moving ahead, if we could now, to Farr Exhibit No. 4, again, I'm going to ask you if you can identify that spreadsheet?",q,MR. BLUM,start_answer
+509,1282,50,15,Yes.,a,THE WITNESS,start_question
+510,1283,50,16,"And this one actually has a date at the top now, it says August 16th through September 3rd?",q,MR. BLUM,start_answer
+511,1286,50,19,30th.,a,THE WITNESS,start_question
+512,1287,50,20,"30th, I'm sorry, reading upside down.  And is that, again, a spreadsheet of replaced items that you put together?",q,MR. BLUM,start_answer
+513,1290,50,23,Yes.,a,THE WITNESS,start_question
+514,1291,50,24,And were you reimbursed for those items?,q,MR. BLUM,start_answer
+515,1294,51,2,"Substantially, yes.",a,THE WITNESS,start_question
+516,1295,51,3,Okay.  I'm going to show you a document which was marked previously as Farr Exhibit No. 6 and ask you if you know what that document is?,q,MR. BLUM,start_answer
+517,1299,51,7,"It's items that we threw away, didn't specifically replace, probably.",a,THE WITNESS,start_question
+518,1301,51,9,"Okay.  When you say items we threw away, are they items that essentially were left at the old facility?",q,MR. BLUM,start_answer
+519,1304,51,12,"It might be a combination, but there was a salvage done of what was remaining that we didn't pull out of the building, due to time and just not worth the effort.  So the answer is maybe these were most of the things that were left but not necessarily all of them.",a,THE WITNESS,start_question
+520,1311,51,19,So some of them might have come out and were scrapped?,q,MR. BLUM,start_answer
+521,1313,51,21,"Were scrapped, sitting in the back that we couldn't do anything with, because then we had time to assess their utility.",a,THE WITNESS,start_question
+522,1316,51,24,"Sure.  Now, in terms of the columns on this one, ""Location"" and ""Item"" are the same?",q,MR. BLUM,start_answer
+523,1320,52,3,Yes.,a,THE WITNESS,start_question
+524,1321,52,4,"""Description"" is the same thing, right?",q,MR. BLUM,start_answer
+525,1323,52,6,Uh-huh.,a,THE WITNESS,start_question
+526,1324,52,7,"Now column here, ""Original Cost."" Okay?",q,MR. BLUM,start_answer
+527,1326,52,9,Uh-huh.,a,THE WITNESS,start_question
+528,1327,52,10,Did you personally put in that original cost item?,q,MR. BLUM,start_answer
+529,1329,52,12,"They were guesstimates that I made, yes.",a,THE WITNESS,start_question
+530,1331,52,14,And did you do any research when you put those numbers together?,q,MR. BLUM,start_answer
+531,1333,52,16,"We had done some but not directly, just knowing what things generally cost.",a,THE WITNESS,start_question
+532,1335,52,18,Okay.  So it wasn't like you sat down and you went on the Internet and you looked up the cost of those particular items?,q,MR. BLUM,start_answer
+533,1338,52,21,No.,a,THE WITNESS,start_question
+534,1339,52,22,And did you have any like business records that you used in order to look for the original cost of those items?,q,MR. BLUM,start_answer
+535,1343,53,1,"If they were, they were lost, but the answer is no.",a,THE WITNESS,start_question
+536,1345,53,3,"Then there's a column for ""Age,"" I believe?",q,MR. BLUM,start_answer
+537,1347,53,5,Yes.,a,THE WITNESS,start_question
+538,1348,53,6,And is that an age in years that you assigned to each of those things?,q,MR. BLUM,start_answer
+539,1350,53,8,Yes.,a,THE WITNESS,start_question
+540,1351,53,9,"And, again, was that based upon your personal recollection of how old those items were?",q,MR. BLUM,start_answer
+541,1354,53,12,Yes.,a,THE WITNESS,start_question
+542,1355,53,13,"All right.  Then there's a column that says ""Scrap Value,"" I think it says ""Estimated at 20%.""  Do you see that?",q,MR. BLUM,start_answer
+543,1358,53,16,Yes.,a,THE WITNESS,start_question
+544,1359,53,17,What does that column represent?,q,MR. BLUM,start_answer
+545,1360,53,18,"Just kind of a guess at what the value could be if you, what do you call it, depreciated it.",a,THE WITNESS,start_question
+546,1363,53,21,"And the amount, the 20%, what, if anything, did you do to arrive at that number?",q,MR. BLUM,start_answer
+547,1365,53,23,Guess.,a,THE WITNESS,start_question
+548,1366,53,24,Okay.  Was it based on any discussion you had with anyone from the insurance company?,q,MR. BLUM,start_answer
+549,1370,54,3,No.,a,THE WITNESS,start_question
+550,1371,54,4,"And the replacement cost that's listed there, right here in this column, did you personally determine those replacement costs or how did that come about?",q,MR. BLUM,start_answer
+551,1375,54,8,"On some, probably.  On others they were estimates.",a,THE WITNESS,start_question
+552,1377,54,10,Okay.  And do you know what amount did the insurance company pay you on these items that were on the scrapped list?,q,MR. BLUM,start_answer
+553,1380,54,13,I don't recall that number.,a,THE WITNESS,start_question
+554,1381,54,14,Okay.  Were any of these items subject to negotiation where you and the insurance company went back and forth on any particular item?,q,MR. BLUM,start_answer
+555,1385,54,18,"Not on a line by line, no.",a,THE WITNESS,start_question
+556,1386,54,19,Okay.  Was there any discussion on a general basis of what you would be paid on the scrapped items?,q,MR. BLUM,start_answer
+557,1389,54,22,I don't recall.,a,THE WITNESS,start_question
+558,1390,54,23,"Okay, all right.  I'm going to show you a document which was marked as Farr Exhibit 5, and I'm just going to ask you really about the first page of this.  Do you recall being billed for some portion of the demolition?",q,MR. BLUM,start_answer
+559,1397,55,5,Yes.,a,THE WITNESS,start_question
+560,1398,55,6,"Okay.  What was it that you recall that you were paying for, what were they doing?",q,MR. BLUM,start_answer
+561,1401,55,9,The removal of stuff that was left in the building.,a,THE WITNESS,start_question
+562,1403,55,11,"So it really wasn't so much demolition, as it was what I'll call like cleanout --",q,MR. BLUM,start_answer
+563,1406,55,14,Yes.,a,THE WITNESS,start_question
+564,1407,55,15,-- of the remnants of what you had left there?,q,MR. BLUM,start_answer
+565,1409,55,17,Yes.,a,THE WITNESS,start_question
+566,1410,55,18,Okay.  So it had nothing to do with them like knocking down a particular portion of the building?,q,MR. BLUM,start_answer
+567,1413,55,21,No.,a,THE WITNESS,start_chat
+568,1414,55,22,Let's take a break for five minutes.,side_chat,MR. BLUM,symbols
+569,1416,55,24,- - -,symbols,,is brackets
+570,1418,56,1,(Short recess.),brackets,,symbols
+571,1419,56,2,- - -,symbols,,start_question
+572,1421,56,4,"Mr. Smith, I'm going to show you a document which was marked as Farr Exhibit No. 10 in a prior deposition.  I'm just going to ask you if you can tell me, if you can identify what that document is?",q,MR. BLUM,start_answer
+573,1426,56,9,It's a payroll report.,a,THE WITNESS,start_question
+574,1427,56,10,And is it a payroll report from the books and records of S-Bond Technologies?,q,MR. BLUM,start_answer
+575,1429,56,12,"Yes, it is.",a,THE WITNESS,start_question
+576,1430,56,13,And is it a specific report for something that you ran?,q,MR. BLUM,start_answer
+577,1432,56,15,Yes.,a,THE WITNESS,start_question
+578,1433,56,16,Okay.  Tell us why you ran that specific report?,q,MR. BLUM,start_answer
+579,1435,56,18,"It was -- because we had opted to do our cleaning ourselves, so we submitted our personal expenses and our labor for getting, for the recovery.",a,THE WITNESS,start_question
+580,1439,56,22,And does Farr Exhibit 10 document the amount of labor that your company expended doing that cleaning?,q,MR. BLUM,start_answer
+581,1443,57,1,"Not in its entirety, but for this pay period, yes.",a,THE WITNESS,start_question
+582,1445,57,3,"Okay.  And can you look at the other pages behind, it's a multipage document there.",q,MR. BLUM,start_answer
+583,1447,57,5,Yes.,a,THE WITNESS,start_question
+584,1448,57,6,And are those also further reports documenting time that was spent cleaning equipment?,q,MR. BLUM,start_answer
+585,1451,57,9,"For different pay periods, yeah.  We pay twice a month.",a,THE WITNESS,start_question
+586,1453,57,11,"And can you tell me from what, what's the total time period this covered in that exhibit for --",q,MR. BLUM,start_answer
+587,1456,57,14,For all pages?,a,THE WITNESS,start_question
+588,1457,57,15,"For all pages, yes.",q,MR. BLUM,start_answer
+589,1458,57,16,"So June 16, 2016, until November 30th.",a,THE WITNESS,start_question
+590,1460,57,18,"Again, November 30th of 2016?",q,MR. BLUM,start_answer
+591,1461,57,19,Yes.,a,THE WITNESS,start_question
+592,1462,57,20,And is it accurate that by November 30th of 2016 all of the cleaning had been completed by your employees?,q,MR. BLUM,start_answer
+593,1465,57,23,"As I recall, yes.",a,THE WITNESS,start_question
+594,1466,57,24,Okay.  And did you submit to the insurance company a request for payment for those hours that people spent cleaning?,q,MR. BLUM,start_answer
+595,1470,58,3,Yes.,a,THE WITNESS,start_question
+596,1471,58,4,And were you paid for those hours?,q,MR. BLUM,start_answer
+597,1472,58,5,"I believe so.  I don't know if in its entirety, but generally, yes.",a,THE WITNESS,start_question
+598,1474,58,7,All right.  I'm going to show you a document which was previously marked as Farr Exhibit No. 8.  And I'm going to ask you if you have ever seen this document in its entirety before?,q,MR. BLUM,start_answer
+599,1479,58,12,Yes.,a,THE WITNESS,start_question
+600,1480,58,13,Okay.  And have you read the cover letter that comes from Johns Eastern that's on the front of that document?,q,MR. BLUM,start_answer
+601,1483,58,16,I believe I have.,a,THE WITNESS,start_question
+602,1484,58,17,And does it accurately summarize all of the payments that were made to your company as a result of the fire?,q,MR. BLUM,start_answer
+603,1487,58,20,"Yes, I believe so.",a,THE WITNESS,start_question
+604,1488,58,21,"Okay.  If you look at the last page, there is what's called a Sworn Statement in Proof of Loss.  Do you see that?",q,MR. BLUM,start_answer
+605,1491,58,24,Yes.,a,THE WITNESS,start_question
+606,1493,59,1,Does your signature appear at the bottom there?,q,MR. BLUM,start_answer
+607,1495,59,3,Yes.,a,THE WITNESS,start_question
+608,1496,59,4,And what was your understanding of what that Sworn Statement in Proof of Loss was?,q,MR. BLUM,start_answer
+609,1499,59,7,"If I recall at the time, it was like a closing of our claim period for the fire loss.",a,THE WITNESS,start_question
+610,1502,59,10,"Okay.  And it was closing the claim period, in other words, in terms of it was documenting everything that had been paid to you as a result of the loss?",q,MR. BLUM,start_answer
+611,1506,59,14,"Yes, I believe so.",a,THE WITNESS,start_question
+612,1507,59,15,All right.  And what is the date of that letter on the front?,q,MR. BLUM,start_answer
+613,1509,59,17,"May 31, 2017.",a,THE WITNESS,start_question
+614,1510,59,18,Okay.  And is it accurate that then by May 31st of 2017 like all of the claims had been submitted by you and paid for?,q,MR. BLUM,start_answer
+615,1513,59,21,Yes.,a,THE WITNESS,start_question
+616,1514,59,22,Okay.  Do you recall how was it that you made the claim for extra expense and loss of profit to the insurance company?,q,MR. BLUM,start_answer
+617,1518,60,1,I compared it to our previous period the year prior and also in the quarters prior to the fire.,a,THE WITNESS,start_question
+618,1521,60,4,"Okay.  And when you say ""it,"" tell me what it was that you compared?",q,MR. BLUM,start_answer
+619,1523,60,6,"The, I guess the net income of the business.",a,THE WITNESS,start_question
+620,1525,60,8,"Okay.  And I'm going to show you a document, I received this from the insurance company, I don't know that you have ever seen this before.",q,MR. BLUM,start_chat
+621,1529,60,12,I'm going to mark this as Exhibit Smith 2.,side_chat,MR. BLUM,symbols
+622,1531,60,14,- - -,symbols,,is brackets
+623,1532,60,15,"(Business Income & Extra Expense Summary, Bates numbers CIC000651 through 652, marked Smith Exhibit 2.)",brackets,,symbols
+624,1535,60,18,- - -,symbols,,start_question
+625,1537,60,20,"Mr. Smith, I'm showing you a document which we marked as Exhibit No. 2 to your deposition.  My first question is, have you ever seen this before?",q,MR. BLUM,start_answer
+626,1541,60,24,"I don't recall, but I believe so.",a,THE WITNESS,start_question
+627,1543,61,1,"Okay.  So when you submitted your claim for the extra expense, do you recall who it was you spoke to or how you submitted it?",q,MR. BLUM,start_answer
+628,1546,61,4,I submitted it to this forensic accounting firm.,a,THE WITNESS,start_question
+629,1548,61,6,Okay.  And who was it you were dealing with this?,q,MR. BLUM,start_answer
+630,1550,61,8,I forget the gentleman's name.,a,THE WITNESS,start_question
+631,1551,61,9,All right.  But did you deal with a particular person throughout the handling of that claim?,q,MR. BLUM,start_answer
+632,1554,61,12,Yes.,a,THE WITNESS,start_question
+633,1555,61,13,"Okay.  And when you submitted the information, did they at times request additional information from you, the insurance company?",q,MR. BLUM,start_answer
+634,1559,61,17,I believe so.,a,THE WITNESS,start_question
+635,1560,61,18,Okay.  So this appears to be a claim for extra or loss of income for the period from I think July 2016; is that correct?,q,MR. BLUM,start_answer
+636,1563,61,21,"It appears that way, yes.",a,THE WITNESS,start_question
+637,1564,61,22,Okay.  And it also is covering extra expenses at the bottom.  Do you see that?,q,MR. BLUM,start_answer
+638,1566,61,24,"Yes, I do.",a,THE WITNESS,start_question
+639,1568,62,1,And there's a company there called Power ER.  Do you recognize who that is?,q,MR. BLUM,start_answer
+640,1570,62,3,Yes.  They were the people who cleaned up the electronic equipment and also reinstalled our networking systems in the company.,a,THE WITNESS,start_question
+641,1574,62,7,And were they the subcontractor?,q,MR. BLUM,start_answer
+642,1575,62,8,Subcontractor to EDS.,a,THE WITNESS,start_question
+643,1576,62,9,"All right.  And then it's Bergey's Electrical, electrical install, is that the install at your new facility?",q,MR. BLUM,start_answer
+644,1579,62,12,Yes.,a,THE WITNESS,start_question
+645,1580,62,13,"Okay.  And the July excess rent, is that the amount that you were claiming above your original rent expense?",q,MR. BLUM,start_answer
+646,1583,62,16,Yes.,a,THE WITNESS,start_question
+647,1584,62,17,"If you look at the next page -- I'm sorry, it appears to just be a copy of the same thing. What was your typical business income in a month in the 2016 period?",q,MR. BLUM,start_answer
+648,1589,62,22,I don't recall.,a,THE WITNESS,start_question
+649,1590,62,23,"Okay.  There is a number listed here, it says ""Business income through July $29,206.""  Do you see that?",q,MR. BLUM,start_answer
+650,1594,63,2,Yes.,a,THE WITNESS,start_question
+651,1595,63,3,Does that sound about accurate of what your business income would have been?,q,MR. BLUM,start_answer
+652,1597,63,5,For the month of July?,a,THE WITNESS,start_question
+653,1598,63,6,Yes.,q,MR. BLUM,start_answer
+654,1599,63,7,I'm just trying to see --,a,THE WITNESS,start_question
+655,1600,63,8,Right.,q,MR. BLUM,start_answer
+656,1601,63,9,"The answer would be close, yes.",a,THE WITNESS,start_question
+657,1602,63,10,"Okay, all right.",q,MR. BLUM,start_chat
+658,1603,63,11,I'm going to show you another document which we will mark as Exhibit 3.,side_chat,MR. BLUM,symbols
+659,1606,63,14,- - -,symbols,,is brackets
+660,1607,63,15,"(Business Income & Extra Expense Summary, Bates number CIC000660, marked Smith Exhibit 3.)",brackets,,symbols
+661,1610,63,18,- - -,symbols,,start_question
+662,1612,63,20,"Again, this is another document that came from Insight Forensic Accountants.  My first question is, have you ever seen this before?",q,MR. BLUM,start_answer
+663,1616,63,24,I believe so.,a,THE WITNESS,start_question
+664,1618,64,1,"And now on this document it shows advance payments that were made to you, advances number 1 through 4.  Do you see that?",q,MR. BLUM,start_answer
+665,1621,64,4,"Yes, I do.",a,THE WITNESS,start_question
+666,1622,64,5,And do you recall having received those payments?,q,MR. BLUM,start_answer
+667,1624,64,7,"Yes, I do recall.",a,THE WITNESS,start_question
+668,1625,64,8,"And it says ""Business income"" at the top, ""Business income through September $51,000.""  Do you know, is that documenting the amount of business income that you were claiming?",q,MR. BLUM,start_answer
+669,1630,64,13,"I guess from June through September, I would believe so.",a,THE WITNESS,start_question
+670,1632,64,15,"Okay.  And it lists here, it schedule Schedule 2.  Have you ever seen that Schedule 2?  It's not attached, I have not found it.",q,MR. BLUM,start_answer
+671,1636,64,19,I don't recall.,a,THE WITNESS,start_chat
+672,1637,64,20,I'm going to show you a document we'll mark as Exhibit 4.,side_chat,MR. BLUM,symbols
+673,1639,64,22,- - -,symbols,,is brackets
+674,1640,64,23,"(Business Income Summary, Bates number CIC000290, marked Smith Exhibit 4.)",brackets,,symbols
+675,1644,65,2,- - -,symbols,,start_question
+676,1646,65,4,I'll ask you if you have ever seen this document before?  Again it's from Insight Accountants.,q,MR. BLUM,start_answer
+677,1649,65,7,I would believe I have.,a,THE WITNESS,start_question
+678,1650,65,8,"This appears to be a Schedule 2, although it doesn't match in dating to the one before it.  If you look at this one, it has a row for sales shortfall.  Do you see that?",q,MR. BLUM,start_answer
+679,1654,65,12,Yes.,a,THE WITNESS,start_question
+680,1655,65,13,"And do you know, did you have a sales shortfall in June of 2016 of approximately $32,000?",q,MR. BLUM,start_answer
+681,1658,65,16,"I believe that was the number, yes.",a,THE WITNESS,start_question
+682,1659,65,17,"And did you have a sales shortfall in July of 2016 of $16,000?",q,MR. BLUM,start_answer
+683,1661,65,19,"Yes, I believe so.",a,THE WITNESS,start_question
+684,1662,65,20,"And when, if ever, do you know, did your sales go back to their normal amount?",q,MR. BLUM,start_answer
+685,1664,65,22,I would say about October things had been settled in.,a,THE WITNESS,start_question
+686,1666,65,24,"There is in a box below that, that it says, ""Saved Expenses.""  Do you see that?",q,MR. BLUM,start_answer
+687,1669,66,2,Yes.,a,THE WITNESS,start_question
+688,1670,66,3,Were those numbers that you provided or was that something that was provided by Insight Forensic?,q,MR. BLUM,start_answer
+689,1673,66,6,I don't recall.,a,THE WITNESS,start_question
+690,1674,66,7,Okay.,q,MR. BLUM,start_chat
+691,1675,66,8,I'm going to show you a document which we're marking as Exhibit No. 5.,side_chat,MR. BLUM,symbols
+692,1678,66,11,- - -,symbols,,is brackets
+693,1679,66,12,"(Business Income Summary, Bates number CIC000661, marked Smith Exhibit 5.)",brackets,,symbols
+694,1682,66,15,- - -,symbols,,start_question
+695,1684,66,17,"Mr. Smith, do you recognize Exhibit No. 5?",q,MR. BLUM,start_answer
+696,1686,66,19,"Generally, yes.",a,THE WITNESS,start_question
+697,1687,66,20,"Okay.  And, again, is this, it's an Insight Forensic document and it now appears to document the sales shortfall through August of 2016?",q,MR. BLUM,start_answer
+698,1691,66,24,Correct.,a,THE WITNESS,start_question
+699,1693,67,1,"It appears that there's a column for $19,000 of lost sales in August of 2016; is that correct?",q,MR. BLUM,start_answer
+700,1696,67,4,Yes.,a,THE WITNESS,start_question
+701,1697,67,5,"All right.  And would that be based upon information that you, again, had provided to Insight Forensics?",q,MR. BLUM,start_answer
+702,1700,67,8,Yes.,a,THE WITNESS,start_question
+703,1701,67,9,"So tell me why did your company, why would you have lost sales in August?",q,MR. BLUM,start_answer
+704,1703,67,11,We were still cleaning up. Everything wasn't installed yet.  Labor was being diverted for cleaning things.,a,THE WITNESS,start_question
+705,1706,67,14,Okay.  When would you say was the date that all of your equipment was operational in the new facility?,q,MR. BLUM,start_answer
+706,1709,67,17,Some time between October and November.,a,THE WITNESS,start_question
+707,1711,67,19,And that would have been of 2016?,q,MR. BLUM,start_answer
+708,1712,67,20,"2016, yes.",a,THE WITNESS,start_question
+709,1713,67,21,"And do you recall when it was that was the last time that you were reimbursed anything from the insurance company for a business income loss, like when was the last month?",q,MR. BLUM,start_answer
+710,1719,68,2,I don't recall at the moment.,a,THE WITNESS,start_question
+711,1720,68,3,Okay.,q,MR. BLUM,start_chat
+712,1721,68,4,"I'm going to mark, if we could, another document as Exhibit No. 6.",side_chat,MR. BLUM,is brackets
+713,1724,68,7,"(Email chain with attachments, Bates numbers CIC000134 through 144, marked Smith Exhibit 6.)",brackets,,symbols
+714,1727,68,10,- - -,symbols,,start_question
+715,1729,68,12,This is a document that was produced by the insurance company and it all came through in this format together.  My question to you is actually going to be about the last three pages of this document.,q,MR. BLUM,start_answer
+716,1734,68,17,Okay.,a,THE WITNESS,start_question
+717,1735,68,18,"So there's a Schedule 2 here.  It appears to me there's a typo on this where it's June, July, August, and it should be September and it says August again?",q,MR. BLUM,start_answer
+718,1739,68,22,Probably is.,a,THE WITNESS,start_question
+719,1740,68,23,"And here it appears that there were sales shortfalls of $17,987 in September of 2016?",q,MR. BLUM,start_answer
+720,1744,69,2,Yes.,a,THE WITNESS,start_question
+721,1745,69,3,"Okay.  And would that, again, have been because of the company was not fully operational at that point?",q,MR. BLUM,start_answer
+722,1748,69,6,Yes.,a,THE WITNESS,start_question
+723,1749,69,7,"All right.  If you can take a look at the next page, which is a Schedule 3, this says Historical Sales Data.  Did you personally put this schedule together?",q,MR. BLUM,start_answer
+724,1753,69,11,"This schedule may have been prepared by the accountant, I just don't recall, obviously off of data we gave him.",a,THE WITNESS,start_question
+725,1756,69,14,"So here it shows that for the 12 months ended 12/31/14, it appears that your total year annual sales are $906,000, approximately?",q,MR. BLUM,start_answer
+726,1760,69,18,Correct.,a,THE WITNESS,start_question
+727,1761,69,19,Does that sound accurate to you?,q,MR. BLUM,start_answer
+728,1762,69,20,"Fairly accurate, yes.",a,THE WITNESS,start_question
+729,1763,69,21,"Okay.  And for the 12-month period ending on 12/3/15 it looks like your 12-month sales would have been $862,000.  Does that sound accurate?",q,MR. BLUM,start_answer
+730,1768,70,1,"Yes, approximately.",a,THE WITNESS,start_question
+731,1769,70,2,"Okay.  And for the five months ended on 5/31/16 it was $342,000 and change.  Does that sound correct?",q,MR. BLUM,start_answer
+732,1772,70,5,"Yes, I would say, yes.",a,THE WITNESS,start_question
+733,1773,70,6,Were the sales of the business going down slowly from 12/31/14 through the first half of 2016?,q,MR. BLUM,start_answer
+734,1776,70,9,"Based on this data, yes.",a,THE WITNESS,start_question
+735,1777,70,10,Okay.  Do you have any reason to dispute that data?,q,MR. BLUM,start_answer
+736,1779,70,12,No.,a,THE WITNESS,start_question
+737,1780,70,13,"And it appears that the average that they used over that period was about $70,890 in sales per month?",q,MR. BLUM,start_answer
+738,1783,70,16,Correct.,a,THE WITNESS,start_chat
+739,1784,70,17,Let's go off the record for one minute.,side_chat,MR. BLUM,symbols
+740,1786,70,19,- - -,symbols,,is brackets
+741,1787,70,20,(Discussion off the record.),brackets,,symbols
+742,1788,70,21,- - -,symbols,,start_question
+743,1790,70,23,"I just have some followup questions real quick.  After the fire occurred, were you interviewed in any way by the fire marshal at the fire scene about, you know, what occurred?",q,MR. BLUM,start_answer
+744,1795,71,3,No.,a,THE WITNESS,start_question
+745,1796,71,4,Was there anyone from the Pennsylvania State Police who interviewed you?,q,MR. BLUM,start_answer
+746,1798,71,6,No.,a,THE WITNESS,start_question
+747,1799,71,7,"Anybody from any of the insurance companies ever take what I'll call a sworn statement from you, like a written statement?",q,MR. BLUM,start_answer
+748,1802,71,10,No.,a,THE WITNESS,start_question
+749,1803,71,11,Okay.  Anyone ever take a recorded statement from you?,q,MR. BLUM,start_answer
+750,1805,71,13,No.,a,THE WITNESS,start_question
+751,1806,71,14,"And did anyone ever ask you to provide any information from your alarm company about, other than me, about the alarm and when it went off?",q,MR. BLUM,start_answer
+752,1810,71,18,No.,a,THE WITNESS,start_question
+753,1811,71,19,"The alarm system that was in your unit, was S-Bond the people who put that alarm system in?",q,MR. BLUM,start_answer
+754,1814,71,22,No.,a,THE WITNESS,start_question
+755,1815,71,23,I don't mean -- was S-Bond the people who --,q,MR. BLUM,start_answer
+756,1818,72,1,We contracted for it.,a,THE WITNESS,start_question
+757,1819,72,2,"Versus it wasn't the landlord who put it in, it was you?",q,MR. BLUM,start_answer
+758,1821,72,4,"Correct, yes.",a,THE WITNESS,start_question
+759,1822,72,5,Was there ever any discussion about putting sprinkler systems in your unit at all?,q,MR. BLUM,start_answer
+760,1824,72,7,No.,a,THE WITNESS,start_question
+761,1825,72,8,"And I apologize, I might have asked you this, do you recall when it was that you had that alarm put in?",q,MR. BLUM,start_answer
+762,1828,72,11,"No.  I mean, I would guess three, four years prior.",a,THE WITNESS,start_question
+763,1830,72,13,"Okay.  And after the fire occurred, did you have any discussions with anyone about what caused the fire?",q,MR. BLUM,start_answer
+764,1833,72,16,"Discussions, no.",a,THE WITNESS,start_question
+765,1834,72,17,Okay.  Did anyone ever tell you what caused the fire?,q,MR. BLUM,start_answer
+766,1836,72,19,I overheard discussions.,a,THE WITNESS,start_question
+767,1837,72,20,Okay.  Tell me what you overheard?,q,MR. BLUM,start_answer
+768,1838,72,21,"That the source of the fire, because the fire marshal, everyone is kind of around, had indicated that it had come, that the source of the fire was in a vehicle parked in the unit adjacent to mine.",a,THE WITNESS,start_question
+769,1844,73,2,All right.  And was that actually on like the day after the fire occurred?,q,MR. BLUM,start_answer
+770,1846,73,4,"The day that we were in there, yes, right after the fire.",a,THE WITNESS,start_question
+771,1848,73,6,Okay.  So it's like the night into that next day?,q,MR. BLUM,start_answer
+772,1850,73,8,Correct.,a,THE WITNESS,start_question
+773,1851,73,9,Is when you heard that from the fire marshal?,q,MR. BLUM,start_answer
+774,1853,73,11,"Not discussions with me, but in a general discussion.",a,THE WITNESS,start_question
+775,1855,73,13,Okay.  And has anyone ever told you anything else about what caused the fire?,q,MR. BLUM,start_answer
+776,1857,73,15,No.,a,THE WITNESS,start_question
+777,1858,73,16,Has your company at some point moved back to the Clemens facility there?,q,MR. BLUM,start_answer
+778,1860,73,18,No.,a,THE WITNESS,start_question
+779,1861,73,19,"Do you have any relationship with anything, with Clemens there at this point?",q,MR. BLUM,start_answer
+780,1863,73,21,No.,a,THE WITNESS,start_question
+781,1864,73,22,Have you had any discussions with any other investigators who are investigating the cause or the origin of the fire?,q,MR. BLUM,start_answer
+782,1868,74,1,No.,a,THE WITNESS,start_chat
+783,1869,74,2,"I have no further questions.  But I really would like you to search for that alarm information for me, if you could.",side_chat,MR. BLUM,start_chat
+784,1873,74,6,"Yeah, I will.  I know the guy who installed it, but he owns a separate company.",side_chat,THE WITNESS,start_chat
+785,1876,74,9,"Right, okay.",side_chat,MR. BLUM,start_chat
+786,1877,74,10,"It's the people that do the monitoring, that's who you want; right?",side_chat,THE WITNESS,start_chat
+787,1880,74,13,"I would like to know from them if they have information about when they received, when they first received the signal from the building.",side_chat,MR. BLUM,start_chat
+788,1884,74,17,"Okay, sure.",side_chat,THE WITNESS,start_chat
+789,1885,74,18,Great.  I have no further questions.,side_chat,MR. BLUM,start_chat
+790,1887,74,20,How long would they normally have records for?,side_chat,THE WITNESS,start_chat
+791,1889,74,22,"I have no idea.  I mean, they could easily tell us --",side_chat,MR. BLUM,start_chat
+792,1891,74,24,"They could say I don't have that record, but I'll give you the name of the company.",side_chat,THE WITNESS,start_chat
+793,1895,75,3,Sure.,side_chat,MR. BLUM,start_chat
+794,1896,75,4,"So just quickly, at the conclusion of the deposition, the court reporter is going to create a transcript.  What I will do or Gus will do is send you a copy of that transcript so that you can review it.  You'll also get something called an errata sheet.  So if the court reporter transcribed anything incorrectly, like say it was John Smith but she put John Goth or something, you can then change that name to the correct name that it is, sign that errata sheet, send it back to us.  If you don't see there's any errors, then you can just email one of us and tell us there's no errors, no errata sheet is necessary.",side_chat,MR. GOGINENI,start_chat
+795,1913,75,21,"Just a question, to whom should I report the alarm company?",side_chat,THE WITNESS,start_chat
+796,1916,75,24,You should definitely give that to Gus.,side_chat,MR. BLUM,start_chat
+797,1919,76,2,Give it to Gus or me.,side_chat,MR. GOGINENI,symbols
+798,1921,76,4,- - -,symbols,,is brackets
+799,1922,76,5,(Witness excused.),brackets,,is brackets
+800,1923,76,6,(Whereupon the deposition adjourned at 10:07 a.m.),brackets,,symbols
+801,1925,76,8,"- - - CERTIFICATE I HEREBY CERTIFY that the proceedings, evidence, and objections are contained fully and accurately in the stenographic notes taken by me upon the deposition of RONALD SMITH taken on August 28, 2019, and that this is a true and correct transcript of same. MADALENE FOSTER ROHDE Registered Professional Reporter",symbols,,is brackets
+802,1961,77,18,"(The foregoing certification of this transcript does not apply to any reproduction of the same by any means unless under the direct control and/or supervision of the certifying reporter.) I have read the foregoing transcript of my examination given on August 28, 2019, and it is true, correct, and complete, to the best of my knowledge, recollection, and belief, except for the list of corrections, if any, attached on a separate sheet herewith. Date               RONALD SMITH before me this     day Notary Public READ/SIGN DEPOSITION OF:  Ronald Smith",brackets,,start_chat
+803,2000,79,2,Clemens v Euromotors DO NOT WRITE ON THE DEPOSITION ITSELF Page Line  Changes or corrections and reason,side_chat,IN THE MATTER OF,symbols
+804,2003,79,5,______________________________________________,symbols,,symbols
+805,2004,79,6,______________________________________________,symbols,,symbols
+806,2005,79,7,______________________________________________,symbols,,symbols
+807,2006,79,8,______________________________________________,symbols,,symbols
+808,2007,79,9,______________________________________________,symbols,,symbols
+809,2008,79,10,______________________________________________,symbols,,symbols
+810,2009,79,11,______________________________________________,symbols,,symbols
+811,2010,79,12,______________________________________________,symbols,,symbols
+812,2011,79,13,______________________________________________,symbols,,symbols
+813,2012,79,14,______________________________________________,symbols,,symbols
+814,2013,79,15,______________________________________________,symbols,,symbols
+815,2014,79,16,______________________________________________,symbols,,symbols
+816,2015,79,17,______________________________________________,symbols,,symbols
+817,2016,79,18,______________________________________________,symbols,,symbols
+818,2017,79,19,______________________________________________,symbols,,symbols
+819,2018,79,20,______________________________________________,symbols,,symbols
+820,2019,79,21,"______________________________________________ have listed all changes and corrections above, DATE:__________ SIGNATURE:____________________ LAWYER'S NOTES",symbols,,symbols
+821,2027,80,2,______________________________________________,symbols,,symbols
+822,2028,80,3,______________________________________________,symbols,,symbols
+823,2029,80,4,______________________________________________,symbols,,symbols
+824,2030,80,5,______________________________________________,symbols,,symbols
+825,2031,80,6,______________________________________________,symbols,,symbols
+826,2032,80,7,______________________________________________,symbols,,symbols
+827,2033,80,8,______________________________________________,symbols,,symbols
+828,2034,80,9,______________________________________________,symbols,,symbols
+829,2035,80,10,______________________________________________,symbols,,symbols
+830,2036,80,11,______________________________________________,symbols,,symbols
+831,2037,80,12,______________________________________________,symbols,,symbols
+832,2038,80,13,______________________________________________,symbols,,symbols
+833,2039,80,14,______________________________________________,symbols,,symbols
+834,2040,80,15,______________________________________________,symbols,,symbols
+835,2041,80,16,______________________________________________,symbols,,symbols
+836,2042,80,17,______________________________________________,symbols,,symbols
+837,2043,80,18,______________________________________________,symbols,,symbols
+838,2044,80,19,______________________________________________,symbols,,symbols
+839,2045,80,20,______________________________________________,symbols,,symbols
+840,2046,80,21,______________________________________________,symbols,,symbols
+841,2047,80,22,______________________________________________,symbols,,symbols
+842,2048,80,23,______________________________________________,symbols,,symbols
+843,2049,80,24,______________________________________________,symbols,,end

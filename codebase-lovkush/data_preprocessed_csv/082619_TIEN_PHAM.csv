@@ -1,0 +1,592 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,136,5,12,- - - EXAMINATION,symbols,,symbols
+2,138,5,14,- - -,symbols,,start_question
+3,140,5,16,"Good afternoon, Mr. Pham.  My name is Therese Schweikert.  I already gave instructions to you as well as the other two parties here before all the depositions began. Do you recall those?",q,MS. SCHWEIKERT,start_answer
+4,146,5,22,Yes.,a,THE WITNESS,start_question
+5,147,5,23,You speak English; is that correct?,q,MS. SCHWEIKERT,start_answer
+6,148,5,24,I do.,a,THE WITNESS,start_question
+7,150,6,1,Do you have any problems understanding the English language?,q,MS. SCHWEIKERT,start_answer
+8,152,6,3,No.,a,THE WITNESS,start_question
+9,153,6,4,Do you have any problems communicating in English?,q,MS. SCHWEIKERT,start_answer
+10,155,6,6,No.,a,THE WITNESS,start_question
+11,156,6,7,Do you feel as though you need an interpreter in order to complete the deposition?,q,MS. SCHWEIKERT,start_answer
+12,159,6,10,No.,a,THE WITNESS,start_chat
+13,160,6,11,"If everybody else is okay, based on his answer, I can let the interpreter go.",side_chat,MS. SCHWEIKERT,start_chat
+14,163,6,14,That's fine with me.,side_chat,MS. KATHOPOULIS,start_chat
+15,165,6,16,Okay.,side_chat,MR. KELLY,start_chat
+16,166,6,17,"Actually, before you go.",side_chat,MS. SCHWEIKERT,start_question
+17,169,6,20,"Sir, do you understand that, if we go back and use this deposition transcript, you can't at that point say that you didn't understand English and that you needed an interpreter?",q,MS. SCHWEIKERT,start_answer
+18,175,7,1,Understand.,a,THE WITNESS,start_question
+19,176,7,2,"Before coming into to today's deposition, did you review any documents, look at any paperwork?",q,MS. SCHWEIKERT,start_answer
+20,179,7,5,"No, I did not read paper.",a,THE WITNESS,start_question
+21,180,7,6,"As you sit here today, do you take any medication on a regular basis?",q,MS. SCHWEIKERT,start_answer
+22,182,7,8,"Right now I'm taking high blood pressure, high cholesterol and something like fish oil for my eyes, some kind of fish oil.",a,THE WITNESS,start_question
+23,185,7,11,Like a vitamin-type thing?,q,MS. SCHWEIKERT,start_answer
+24,186,7,12,"Something like fish oil, but the name is different.",a,THE WITNESS,start_question
+25,188,7,14,Is it prescription?,q,MS. SCHWEIKERT,start_answer
+26,189,7,15,It's prescription.,a,THE WITNESS,start_question
+27,190,7,16,What's wrong with your eyes that you need that?,q,MS. SCHWEIKERT,start_answer
+28,192,7,18,"My eyes weak, and sometimes I see two pictures, double vision.",a,THE WITNESS,start_question
+29,194,7,20,How long has that been going on?,q,MS. SCHWEIKERT,start_answer
+30,195,7,21,It happened just about a year-and-a-half ago.,a,THE WITNESS,start_question
+31,197,7,23,After this accident?,q,MS. SCHWEIKERT,start_answer
+32,198,7,24,Yes.,a,THE WITNESS,start_question
+33,200,8,1,"Other than this instance, have you ever had to hire a lawyer for any other injury before?",q,MS. SCHWEIKERT,start_answer
+34,203,8,4,"Before, I have an accident before this accident.  I have the other accidents.",a,THE WITNESS,start_question
+35,205,8,6,How many accidents have you been in before this accident?,q,MS. SCHWEIKERT,start_answer
+36,207,8,8,Only one.,a,THE WITNESS,start_question
+37,208,8,9,When was that?,q,MS. SCHWEIKERT,start_answer
+38,209,8,10,"I don't remember.  It's a long time ago.  2006, 2007, somewhere around there.",a,THE WITNESS,start_question
+39,211,8,12,"That's when the accident happened, 2006 or so?",q,MS. SCHWEIKERT,start_answer
+40,213,8,14,"At that time, I have an accident in Upper Darby.",a,THE WITNESS,start_question
+41,215,8,16,Were you injured in that accident?,q,MS. SCHWEIKERT,start_answer
+42,216,8,17,Yes.,a,THE WITNESS,start_question
+43,217,8,18,What parts of your body were injured?,q,MS. SCHWEIKERT,start_answer
+44,218,8,19,"The shoulder and the back, the lower back, yeah.  Then after that, I go to treatment.",a,THE WITNESS,start_question
+45,221,8,22,Which shoulder?,q,MS. SCHWEIKERT,start_answer
+46,222,8,23,Both shoulders.,a,THE WITNESS,start_question
+47,223,8,24,Anything with your neck?,q,MS. SCHWEIKERT,start_answer
+48,225,9,1,Yes.,a,THE WITNESS,start_question
+49,226,9,2,You said you went to treatment?,q,MS. SCHWEIKERT,start_answer
+50,227,9,3,"Yes, at that time.",a,THE WITNESS,start_question
+51,228,9,4,How long did you go to treatment for?,q,MS. SCHWEIKERT,start_answer
+52,229,9,5,"About a year, over a year.",a,THE WITNESS,start_question
+53,230,9,6,Who did you go to treatment with?,q,MS. SCHWEIKERT,start_answer
+54,231,9,7,Dr. Brady.,a,THE WITNESS,start_question
+55,232,9,8,Is that the same doctor you treated with for this accident?,q,MS. SCHWEIKERT,start_answer
+56,234,9,10,"Yes, the same.",a,THE WITNESS,start_question
+57,235,9,11,"When you were treating with Dr. Brady in 2006, did you receive any kind of MRI or testing?",q,MS. SCHWEIKERT,start_answer
+58,238,9,14,"Yes, I did.",a,THE WITNESS,start_question
+59,239,9,15,Do you haven an understanding of what that MRI showed?,q,MS. SCHWEIKERT,start_answer
+60,241,9,17,"No, I don't understand.",a,THE WITNESS,start_question
+61,242,9,18,"Was it your neck, low back, shoulders, or all of them?",q,MS. SCHWEIKERT,start_answer
+62,244,9,20,They put me into the room and then they lift me up and that's it.,a,THE WITNESS,start_question
+63,246,9,22,Did they ever tell you anything about the MRI?,q,MS. SCHWEIKERT,start_answer
+64,248,9,24,"No, they did not tell me anything.",a,THE WITNESS,start_question
+65,250,10,1,"How about an EMG, did you get any kind of nerve test when you were treating with Dr. Brady back in 2006?",q,MS. SCHWEIKERT,start_answer
+66,253,10,4,"EMG, I don't think I have it.",a,THE WITNESS,start_question
+67,254,10,5,"After you were finished treatment with Dr. Brady after that year and some months, did you have any lasting effects from that accident?",q,MS. SCHWEIKERT,start_answer
+68,258,10,9,"No, it was gone.",a,THE WITNESS,start_question
+69,259,10,10,Back to 100 percent?,q,MS. SCHWEIKERT,start_answer
+70,260,10,11,Yes.,a,THE WITNESS,start_question
+71,261,10,12,"What is your full name, sir?",q,MS. SCHWEIKERT,start_answer
+72,262,10,13,"T-I-E-N is my first name.  P-H-A-M is my last name, and N-G-O-C is my middle name.",a,THE WITNESS,start_question
+73,264,10,15,Have you ever been known by any other name?,q,MS. SCHWEIKERT,start_answer
+74,266,10,17,No.,a,THE WITNESS,start_question
+75,267,10,18,What is your current address?,q,MS. SCHWEIKERT,start_answer
+76,268,10,19,5806 North 4th Street in Philadelphia.,a,THE WITNESS,start_question
+77,269,10,20,What's the zip code there?,q,MS. SCHWEIKERT,start_answer
+78,270,10,21,19120.,a,THE WITNESS,start_question
+79,271,10,22,What is your date of birth?,q,MS. SCHWEIKERT,start_answer
+80,272,10,23,"November 15, 1961.",a,THE WITNESS,start_chat
+81,273,10,24,Off the record.,side_chat,MS. SCHWEIKERT,symbols
+82,275,11,1,- - -,symbols,,is brackets
+83,276,11,2,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+84,278,11,4,- - -,symbols,,start_question
+85,280,11,6,I'm just going to confirm the last four digits of the Social Security number you gave me off the record was 0247; is that correct?,q,MS. SCHWEIKERT,start_answer
+86,284,11,10,Correct.,a,THE WITNESS,start_question
+87,285,11,11,"Where were you born, sir?",q,MS. SCHWEIKERT,start_answer
+88,286,11,12,In Vietnam.,a,THE WITNESS,start_question
+89,287,11,13,How old were you when you came to the US?,q,MS. SCHWEIKERT,start_answer
+90,289,11,15,"I came to the US in 1980, so somewhere around '80.",a,THE WITNESS,start_question
+91,291,11,17,You came here in 1980?,q,MS. SCHWEIKERT,start_answer
+92,292,11,18,Yes.,a,THE WITNESS,start_question
+93,293,11,19,Have you been in the United States ever since 1980?,q,MS. SCHWEIKERT,start_answer
+94,295,11,21,Excuse me?,a,THE WITNESS,start_question
+95,296,11,22,Have you been a resident of the United States since 1980?,q,MS. SCHWEIKERT,start_answer
+96,298,11,24,Yes.,a,THE WITNESS,start_question
+97,300,12,1,"When you came to the US in 1980, did you come to the Philadelphia area?",q,MS. SCHWEIKERT,start_answer
+98,302,12,3,I came to New Jersey.,a,THE WITNESS,start_question
+99,303,12,4,When did you leave New Jersey?,q,MS. SCHWEIKERT,start_answer
+100,304,12,5,1997.,a,THE WITNESS,start_question
+101,305,12,6,Where did you go in 1997?,q,MS. SCHWEIKERT,start_answer
+102,306,12,7,I go to Philadelphia.,a,THE WITNESS,start_question
+103,307,12,8,Have you been in Philadelphia since 1997?,q,MS. SCHWEIKERT,start_answer
+104,309,12,10,Yes.,a,THE WITNESS,start_question
+105,310,12,11,How far did you go in school?,q,MS. SCHWEIKERT,start_answer
+106,311,12,12,I got to grade 12.,a,THE WITNESS,start_question
+107,312,12,13,Was that back in Vietnam or here?,q,MS. SCHWEIKERT,start_answer
+108,313,12,14,Over here.,a,THE WITNESS,start_question
+109,314,12,15,Was it your GED or something like that that you got here?,q,MS. SCHWEIKERT,start_answer
+110,316,12,17,"No, high school diploma.",a,THE WITNESS,start_question
+111,317,12,18,Did you get a GED?,q,MS. SCHWEIKERT,start_answer
+112,318,12,19,No.,a,THE WITNESS,start_question
+113,319,12,20,You went through high school in Philadelphia?,q,MS. SCHWEIKERT,start_answer
+114,321,12,22,In New Jersey.,a,THE WITNESS,start_question
+115,322,12,23,Any other training or education beyond high school?,q,MS. SCHWEIKERT,start_answer
+116,325,13,1,No.,a,THE WITNESS,start_question
+117,326,13,2,Are you married or single?,q,MS. SCHWEIKERT,start_answer
+118,327,13,3,I divorced.,a,THE WITNESS,start_question
+119,328,13,4,When were you divorced?,q,MS. SCHWEIKERT,start_answer
+120,329,13,5,2010.,a,THE WITNESS,start_question
+121,330,13,6,Do you have any children?,q,MS. SCHWEIKERT,start_answer
+122,331,13,7,"Yes, I have three.",a,THE WITNESS,start_question
+123,332,13,8,How old are they?,q,MS. SCHWEIKERT,start_answer
+124,333,13,9,"Right now one is 18.  He was born in 2001.  One is 16, 2003.  And 2007 is 12.",a,THE WITNESS,start_question
+125,335,13,11,Do any of those children live with you?,q,MS. SCHWEIKERT,start_answer
+126,337,13,13,No.,a,THE WITNESS,start_question
+127,338,13,14,Have you ever been convicted of a crime?,q,MS. SCHWEIKERT,start_answer
+128,340,13,16,No.,a,THE WITNESS,start_question
+129,341,13,17,Have you ever pled guilty to a crime?,q,MS. SCHWEIKERT,start_answer
+130,342,13,18,No.,a,THE WITNESS,start_question
+131,343,13,19,"We are here for an accident that happened December of 2016. At that time, who lived with you?",q,MS. SCHWEIKERT,start_answer
+132,346,13,22,2016?,a,THE WITNESS,start_question
+133,347,13,23,Yes.,q,MS. SCHWEIKERT,start_answer
+134,348,13,24,I live by myself with Minh.,a,THE WITNESS,start_question
+135,350,14,1,"So you lived by yourself, or did you live with Mr. Nguyen?",q,MS. SCHWEIKERT,start_answer
+136,352,14,3,"Yes, because that's my house, so he come and live with me and his wife.",a,THE WITNESS,start_question
+137,354,14,5,What's his wife's name?,q,MS. SCHWEIKERT,start_answer
+138,355,14,6,Linh My Long.,a,THE WITNESS,start_question
+139,356,14,7,"On the date of this accident in December of 2016, did you have a valid Pennsylvania driver's license?",q,MS. SCHWEIKERT,start_answer
+140,359,14,10,I do.,a,THE WITNESS,start_question
+141,360,14,11,Has it ever been suspended or revoked?,q,MS. SCHWEIKERT,start_answer
+142,361,14,12,No.,a,THE WITNESS,start_question
+143,362,14,13,Do you wear glasses or contacts?,q,MS. SCHWEIKERT,start_answer
+144,363,14,14,I wear my...,a,THE WITNESS,start_question
+145,364,14,15,Reading glasses?,q,MS. SCHWEIKERT,start_answer
+146,365,14,16,Yes.,a,THE WITNESS,start_question
+147,366,14,17,Are you required to wear glasses to see far away?,q,MS. SCHWEIKERT,start_answer
+148,368,14,19,No.,a,THE WITNESS,start_question
+149,369,14,20,Have you received surgery on your eyes?,q,MS. SCHWEIKERT,start_answer
+150,371,14,22,No.,a,THE WITNESS,start_question
+151,372,14,23,"At the time of the accident, did you own a car?",q,MS. SCHWEIKERT,start_answer
+152,375,15,1,Yes.,a,THE WITNESS,start_question
+153,376,15,2,Did you have insurance on that car?,q,MS. SCHWEIKERT,start_answer
+154,377,15,3,Yes.,a,THE WITNESS,start_question
+155,378,15,4,Limited tort?,q,MS. SCHWEIKERT,start_answer
+156,379,15,5,"I think full tort.  My insurance, not his.  His insurance, no.",a,THE WITNESS,start_question
+157,381,15,7,What do you mean his insurance?,q,MS. SCHWEIKERT,start_answer
+158,382,15,8,We got in an accident in his car.,a,THE WITNESS,start_question
+159,383,15,9,"I understand, but I'm talking about your car.",q,MS. SCHWEIKERT,start_answer
+160,385,15,11,My car is full tort.,a,THE WITNESS,start_question
+161,386,15,12,You're known as Tien Pham?,q,MS. SCHWEIKERT,start_answer
+162,387,15,13,Yes.,a,THE WITNESS,start_question
+163,388,15,14,I see that you're looking at a document with your attorney. Is that the limited tort insurance policy where you're signed for limited tort? Do you see that there?,q,MS. SCHWEIKERT,start_answer
+164,393,15,19,These guys mess me up.  I told him already.  I told him I want full tort.,a,THE WITNESS,start_question
+165,395,15,21,Is that your signature on the limited tort policy?,q,MS. SCHWEIKERT,start_answer
+166,397,15,23,"Now, I see that.  I see that now. Now, I have to go back there again.  Too bad. Yeah, okay, I understand.",a,THE WITNESS,start_question
+167,401,16,2,"Within the 24-hour period before this accident, did you have any drugs, alcohol, or medication?",q,MS. SCHWEIKERT,start_answer
+168,404,16,5,No.,a,THE WITNESS,start_question
+169,405,16,6,Were you employed on the day of the accident?,q,MS. SCHWEIKERT,start_answer
+170,407,16,8,No.,a,THE WITNESS,start_question
+171,408,16,9,Have you ever been employed?,q,MS. SCHWEIKERT,start_answer
+172,409,16,10,Long time ago.,a,THE WITNESS,start_question
+173,410,16,11,What did you do?,q,MS. SCHWEIKERT,start_answer
+174,411,16,12,I was a machine operator.,a,THE WITNESS,start_question
+175,412,16,13,How long ago were you a machine operator?,q,MS. SCHWEIKERT,start_answer
+176,414,16,15,How long ago?,a,THE WITNESS,start_question
+177,415,16,16,Yeah.,q,MS. SCHWEIKERT,start_answer
+178,416,16,17,"I got an accident in 1995, so I stopped work right from there.",a,THE WITNESS,start_question
+179,418,16,19,What happened in the 1995 accident?,q,MS. SCHWEIKERT,start_answer
+180,419,16,20,I have an accident because my hand was lost.,a,THE WITNESS,start_question
+181,421,16,22,Was that in a machine?,q,MS. SCHWEIKERT,start_answer
+182,422,16,23,"Machine, yes.",a,THE WITNESS,start_question
+183,423,16,24,That's your right hand?,q,MS. SCHWEIKERT,start_answer
+184,425,17,1,Yes.,a,THE WITNESS,start_chat
+185,426,17,2,"Counsel, I'm assuming no lost wage claim, no loss of earning capacity?",side_chat,MS. SCHWEIKERT,start_chat
+186,429,17,5,Right.,side_chat,MR. KELLY,start_question
+187,431,17,7,Did you have health insurance through any provider at the time of this accident?,q,MS. SCHWEIKERT,start_answer
+188,433,17,9,Yes.,a,THE WITNESS,start_question
+189,434,17,10,Who did you have?,q,MS. SCHWEIKERT,start_answer
+190,435,17,11,My provider?,a,THE WITNESS,start_question
+191,436,17,12,Yes.,q,MS. SCHWEIKERT,start_answer
+192,437,17,13,"Dr. Trihn Phuong.  P-H-U-O-N-G, that's the last name.  First name is T-R-I-N-H.",a,THE WITNESS,start_question
+193,439,17,15,That's who your family doctor is?,q,MS. SCHWEIKERT,start_answer
+194,440,17,16,Yes.,a,THE WITNESS,start_question
+195,441,17,17,"Did you have health insurance, though? Did you have a card?",q,MS. SCHWEIKERT,start_answer
+196,443,17,19,"Yes, I do.",a,THE WITNESS,start_question
+197,444,17,20,Who is that through?  Who is the insurance policy?,q,MS. SCHWEIKERT,start_answer
+198,446,17,22,Insurance policy?,a,THE WITNESS,start_question
+199,447,17,23,Who is the card with?  Is it Aetna?,q,MS. SCHWEIKERT,start_answer
+200,448,17,24,"Yeah, right now I have Health Partner.",a,THE WITNESS,start_question
+201,450,18,1,Through the state?,q,MS. SCHWEIKERT,start_answer
+202,451,18,2,Yeah.,a,THE WITNESS,start_question
+203,452,18,3,Do you have Medicare or Medicaid?,q,MS. SCHWEIKERT,start_answer
+204,453,18,4,I do.,a,THE WITNESS,start_question
+205,454,18,5,Both?,q,MS. SCHWEIKERT,start_answer
+206,455,18,6,I think so.,a,THE WITNESS,start_question
+207,456,18,7,Do you have both or one or the other? Do you know which one you have? Show your lawyer first.,q,MS. SCHWEIKERT,start_answer
+208,459,18,10,(Witness complies with request.),a,THE WITNESS,start_chat
+209,460,18,11,I've been provided with Health Partners Medicare.  ID number is 5250379.  The doctor on here is what he indicated.  The PCP phone number is (215)455-5403.,side_chat,MS. SCHWEIKERT,start_question
+210,466,18,17,"Sir, do you remember this accident?",q,MS. SCHWEIKERT,start_answer
+211,467,18,18,"Oh, yes.",a,THE WITNESS,start_question
+212,468,18,19,Where were you coming from?,q,MS. SCHWEIKERT,start_answer
+213,469,18,20,"We coming from Philadelphia, northeast Philadelphia, from 5th Street, I believe.",a,THE WITNESS,start_question
+214,471,18,22,What was up at 5th that you were coming from?,q,MS. SCHWEIKERT,start_answer
+215,473,18,24,We came from my house first.,a,THE WITNESS,start_question
+216,475,19,1,Then where did you go?,q,MS. SCHWEIKERT,start_answer
+217,476,19,2,"We go straight onto 5th Street because my house is 4th Street.  We were going 5th, and then we go straight down to Roosevelt Boulevard.  Then you make a right over there. Then we keep on the left lane of the boulevard so that we can get to the ramp and then we get into the expressway.",a,THE WITNESS,start_question
+218,483,19,9,"When you got on the expressway, which lane did you get in?",q,MS. SCHWEIKERT,start_answer
+219,485,19,11,"For the first time, it's the right lane.  Because when we get off from the ramp, we have to get on the right lane first for a while, for about two minutes or three minutes later.  Then I told him to shift on the left because we have to go straight.",a,THE WITNESS,start_question
+220,491,19,17,"When you shifted to the left, did you get into the middle lane or the far-left lane?",q,MS. SCHWEIKERT,start_answer
+221,494,19,20,"Actually, over there is two lanes. The left is the far lane, but when we go further it became three lanes.",a,THE WITNESS,start_question
+222,497,19,23,Okay.,q,MS. SCHWEIKERT,start_answer
+223,498,19,24,It divides to three lanes.,a,THE WITNESS,start_question
+224,500,20,1,"When it divided into three lanes, which lane did you guys get into?",q,MS. SCHWEIKERT,start_answer
+225,502,20,3,The left lane.,a,THE WITNESS,start_question
+226,503,20,4,What then happened?,q,MS. SCHWEIKERT,start_answer
+227,504,20,5,"Then when we were driving down there, I saw the van on my whole far right.  Plus, the bridge on Fox Street get jammed over there, traffic over there.  The van come up on my right and then he shift over into the middle.  As he shift, he switch into our lane.  That's how the accident happened.",a,THE WITNESS,start_question
+228,511,20,12,Did you say anything to Mr. Nguyen when you saw this happening?,q,MS. SCHWEIKERT,start_answer
+229,513,20,14,What did I say to him?,a,THE WITNESS,start_question
+230,514,20,15,"Yeah, did you say anything?",q,MS. SCHWEIKERT,start_answer
+231,515,20,16,"Yeah, I told him.  I said exactly like that.",a,THE WITNESS,start_question
+232,517,20,18,"No.  When the accident was happening, when you're driving and you happen to see this van shift over to the middle lane, did you say anything to Mr. Nguyen?",q,MS. SCHWEIKERT,start_answer
+233,521,20,22,I said watch out.  That's it.,a,THE WITNESS,start_question
+234,522,20,23,"When you saw the van switching from the right to the left lane, that's when you said watch out?",q,MS. SCHWEIKERT,start_answer
+235,526,21,2,Into the middle lane first.,a,THE WITNESS,start_question
+236,527,21,3,"When you saw it switch from the far-right lane to the middle lane, you told Mr. Nguyen to watch out?",q,MS. SCHWEIKERT,start_answer
+237,530,21,6,Not yet.,a,THE WITNESS,start_question
+238,531,21,7,How long was Mr. Nguyen in the middle lane before it switched to the left lane?,q,MS. SCHWEIKERT,start_answer
+239,533,21,9,"Very fast, like five seconds, very fast.",a,THE WITNESS,start_question
+240,535,21,11,Did you say anything to Mr. Nguyen?,q,MS. SCHWEIKERT,start_answer
+241,536,21,12,"When the van is moving over, I said watch out, and then the accident happened.",a,THE WITNESS,start_question
+242,538,21,14,Did you feel the brakes of the car hit before any impact?,q,MS. SCHWEIKERT,start_answer
+243,540,21,16,Did I feel the brake?,a,THE WITNESS,start_question
+244,541,21,17,"Yeah, did you feel Mr. Nguyen hit the brakes?",q,MS. SCHWEIKERT,start_answer
+245,543,21,19,"Yeah, sure.  I heard it, and Mr. Nguyen's car pushed over into the middle, the stone in the middle.  How do you call it?",a,THE WITNESS,start_question
+246,546,21,22,The guardrail?,q,MS. SCHWEIKERT,start_answer
+247,547,21,23,"The guardrail, yeah.  He smashed over there, and Mr. Nguyen tried to switch back into the street so we don't hit the guardrail.",a,THE WITNESS,start_question
+248,552,22,3,Did you hit the guardrail or no?,q,MS. SCHWEIKERT,start_answer
+249,553,22,4,"Yeah, we scratched on it.",a,THE WITNESS,start_question
+250,554,22,5,Did you take any pictures?,q,MS. SCHWEIKERT,start_answer
+251,555,22,6,I think Mr. Nguyen did.  My phone is bad.  I can't take picture.,a,THE WITNESS,start_question
+252,557,22,8,Do you know if Mr. Nguyen gave those photographs to anybody?,q,MS. SCHWEIKERT,start_answer
+253,559,22,10,"I don't know, but I saw he take his car picture and the other car picture.  Plus, I can hear the other van glass broken, boom, like that.",a,THE WITNESS,start_question
+254,563,22,14,What glass broke?,q,MS. SCHWEIKERT,start_answer
+255,564,22,15,"The side glass of the van, the glass into the front door and the big glass behind that.",a,THE WITNESS,start_question
+256,567,22,18,How fast were you guys going before the impact happened?,q,MS. SCHWEIKERT,start_answer
+257,569,22,20,"I think about 35, 40.  I said slow down because the traffic get jammed.",a,THE WITNESS,start_question
+258,571,22,22,You told Mr. Nguyen to slow down?,q,MS. SCHWEIKERT,start_answer
+259,572,22,23,Yes.,a,THE WITNESS,start_question
+260,573,22,24,When did you tell Mr. Nguyen to slow down?,q,MS. SCHWEIKERT,start_answer
+261,576,23,2,"When I seen the traffic.  I said traffic is jammed over there so cool down a little bit.  Then we keep driving, and Mr. Nguyen he keep driving.  I see the van switch very fast.",a,THE WITNESS,start_question
+262,581,23,7,"When you told Mr. Nguyen to slow down because of the traffic, how long was that before the impact happened?",q,MS. SCHWEIKERT,start_answer
+263,584,23,10,How long?,a,THE WITNESS,start_question
+264,585,23,11,Yeah.,q,MS. SCHWEIKERT,start_answer
+265,586,23,12,I think about ten or seven minutes before that.,a,THE WITNESS,start_question
+266,588,23,14,Ten minutes before this car accident you told Mr. Nguyen to slow down?,q,MS. SCHWEIKERT,start_answer
+267,590,23,16,"Yeah, because I saw the traffic.",a,THE WITNESS,start_question
+268,591,23,17,Do you understand how long 10 minutes are?,q,MS. SCHWEIKERT,start_answer
+269,593,23,19,"Maybe five minutes, but he got time. He slowed down.  I told him he got time.  He slowed down.",a,THE WITNESS,start_question
+270,596,23,22,How far ahead of you was the traffic when the accident happened?,q,MS. SCHWEIKERT,start_answer
+271,598,23,24,How far?,a,THE WITNESS,start_question
+272,600,24,1,Yeah.,q,MS. SCHWEIKERT,start_answer
+273,601,24,2,I have to say somewhere around half-mile.  He's about like two minutes.,a,THE WITNESS,start_question
+274,603,24,4,"You see traffic about a half-mile in front of you, and it was about two minutes, not 10 minutes?",q,MS. SCHWEIKERT,start_answer
+275,606,24,7,Yeah.,a,THE WITNESS,start_question
+276,607,24,8,You told Mr. Nguyen to slow down?,q,MS. SCHWEIKERT,start_answer
+277,608,24,9,Yes.,a,THE WITNESS,start_question
+278,609,24,10,"Then two minutes later, that's when the impact happens?",q,MS. SCHWEIKERT,start_answer
+279,611,24,12,Yes.,a,THE WITNESS,start_question
+280,612,24,13,"When the impact happens, how close is the traffic at that point?",q,MS. SCHWEIKERT,start_answer
+281,614,24,15,"Right on it, like on the right side it's traffic right there.  Into the middle side, it's traffic, also.  I don't know what happened to it. Then we are on the left side, but at that time it's traffic, so everybody got to cool down a little bit.",a,THE WITNESS,start_question
+282,621,24,22,Do you know what the speed limit is on the boulevard there?,q,MS. SCHWEIKERT,start_answer
+283,623,24,24,"I think 45 or something, 50, somewhere around there.",a,THE WITNESS,start_question
+284,626,25,2,"After the accident, do you talk to the other driver?",q,MS. SCHWEIKERT,start_answer
+285,628,25,4,"Yes, I did.",a,THE WITNESS,start_question
+286,629,25,5,What's the conversation that you had?,q,MS. SCHWEIKERT,start_answer
+287,630,25,6,"I said, my, man, you shift lanes. It's not right.  He said, yeah, yeah, yeah. I didn't see you guys.  He told me about that.  I said maybe your van is too tall, that's why you cannot see us.",a,THE WITNESS,start_question
+288,635,25,11,"Did you see anything happen in front of the van before this happened, like a car cut in?",q,MS. SCHWEIKERT,start_answer
+289,638,25,14,Yes.,a,THE WITNESS,start_question
+290,639,25,15,You saw the car cut in front of my client before the accident happened?,q,MS. SCHWEIKERT,start_answer
+291,641,25,17,"Yeah, because at that time stopped traffic, and the guy switch over into the middle lane and then some car crossed by.",a,THE WITNESS,start_question
+292,644,25,20,And crossed in front of him?,q,MS. SCHWEIKERT,start_answer
+293,645,25,21,"That's why he crossed onto us, because he's late for work or something.  I think he's late for work or something.",a,THE WITNESS,start_question
+294,648,25,24,Do you know what time the interview was with immigration?,q,MS. SCHWEIKERT,start_answer
+295,651,26,2,"I don't remember, but I know in the morning.  I think about 11:00 or 12:00.",a,THE WITNESS,start_question
+296,653,26,4,What time did you guys leave the house?,q,MS. SCHWEIKERT,start_answer
+297,655,26,6,We have to leave early.,a,THE WITNESS,start_question
+298,656,26,7,What time did you leave?,q,MS. SCHWEIKERT,start_answer
+299,657,26,8,8:00 or 9:00.  We had to leave early.,a,THE WITNESS,start_question
+300,658,26,9,I understand from Mr. Nguyen you were following GPS?,q,MS. SCHWEIKERT,start_answer
+301,660,26,11,Yes.,a,THE WITNESS,start_question
+302,661,26,12,Do you remember how long the GPS said it was going to take you to get from Philly to Delaware?,q,MS. SCHWEIKERT,start_answer
+303,664,26,15,"I don't remember, but from my estimate it's somewhere around two-hour-and-a-half, so we have to go early.",a,THE WITNESS,start_question
+304,667,26,18,Do you know what would happen if you didn't make that appointment?,q,MS. SCHWEIKERT,start_answer
+305,669,26,20,What's going to happen?,a,THE WITNESS,start_question
+306,670,26,21,Yeah.,q,MS. SCHWEIKERT,start_answer
+307,671,26,22,Mr. Minh going to be in trouble because his green card expired.  He need the stamp to extend his green card for one more year so he can go and visit his family.,a,THE WITNESS,start_question
+308,676,27,2,"After the accident, what happens next? Where did you guys wind up?",q,MS. SCHWEIKERT,start_answer
+309,678,27,4,"We stopped into the left lane, but the traffic backed up.  I asked the guy, why don't we move to the right because there is no shoulder over there.  So we are slowly moving down to the right, and the police came.  Some guy called the police. The police came, and I talked to him for a while and then the ambulance came.  The man asked me, do you need an ambulance?  I said maybe my friend Mr. Vu need it, because he was seated in the back and he was so nervous.",a,THE WITNESS,start_question
+310,690,27,16,Then what happened?,q,MS. SCHWEIKERT,start_answer
+311,691,27,17,Then the ambulance came and pick him up.,a,THE WITNESS,start_question
+312,693,27,19,Where did you guys go then?,q,MS. SCHWEIKERT,start_answer
+313,694,27,20,We have to stay there and make a police report.,a,THE WITNESS,start_question
+314,696,27,22,Did you have to call down to the immigration department and tell them you were going to be late?,q,MS. SCHWEIKERT,start_answer
+315,700,28,1,"No, we tried to make it.",a,THE WITNESS,start_question
+316,701,28,2,Did you make it?,q,MS. SCHWEIKERT,start_answer
+317,702,28,3,"Yes.  At that time, yes, we did.",a,THE WITNESS,start_question
+318,703,28,4,You didn't call to let them know you were in a car accident or anything like that?,q,MS. SCHWEIKERT,start_answer
+319,705,28,6,"I plan to, but I told him just try it first, just try to go first.  We have an appointment at 12:00 or 1:00.  Right now it's still early, so why do we have to call them. If it's close by then, I have to call them.",a,THE WITNESS,start_question
+320,710,28,11,Who drove from the accident location down to Delaware then?,q,MS. SCHWEIKERT,start_answer
+321,712,28,13,Who drove?,a,THE WITNESS,start_question
+322,713,28,14,Yes.,q,MS. SCHWEIKERT,start_answer
+323,714,28,15,Mr. Nguyen.,a,THE WITNESS,start_question
+324,715,28,16,Mr. Nguyen drove?,q,MS. SCHWEIKERT,start_answer
+325,716,28,17,Yes.,a,THE WITNESS,start_question
+326,717,28,18,Were you all wearing your seatbelts at the time of the accident?,q,MS. SCHWEIKERT,start_answer
+327,719,28,20,Yes.,a,THE WITNESS,start_question
+328,720,28,21,"Immediately after the impact while you guys were still on the scene, did you feel pain on any part of your body?",q,MS. SCHWEIKERT,start_answer
+329,723,28,24,No.  We were so nervous.,a,THE WITNESS,start_question
+330,725,29,1,"When the accident happened, did any part of your body hit anything else inside the car?",q,MS. SCHWEIKERT,start_answer
+331,728,29,4,"Yes, because my head hit over the dash board because I go down like that.",a,THE WITNESS,start_question
+332,730,29,6,Your head hit the what?,q,MS. SCHWEIKERT,start_answer
+333,731,29,7,Over the glove.,a,THE WITNESS,start_question
+334,732,29,8,The glove compartment?,q,MS. SCHWEIKERT,start_answer
+335,733,29,9,Yes.,a,THE WITNESS,start_question
+336,734,29,10,The dashboard?,q,MS. SCHWEIKERT,start_answer
+337,735,29,11,Yes.,a,THE WITNESS,start_question
+338,736,29,12,How did your head hit the dashboard?,q,MS. SCHWEIKERT,start_answer
+339,737,29,13,"I go down like that I said watch out, and boom like that.  It's only a boom, that's it.  After that, I feel pain for only about one to two days.  Then it's gone.",a,THE WITNESS,start_question
+340,741,29,17,Were you bleeding at all?,q,MS. SCHWEIKERT,start_answer
+341,742,29,18,No.,a,THE WITNESS,start_question
+342,743,29,19,"At any time after the accident, did you ever notice any bruises on any part of your body?",q,MS. SCHWEIKERT,start_answer
+343,746,29,22,Any bruise?,a,THE WITNESS,start_question
+344,747,29,23,Yeah.,q,MS. SCHWEIKERT,start_answer
+345,748,29,24,No.,a,THE WITNESS,start_question
+346,750,30,1,Any swelling anywhere?,q,MS. SCHWEIKERT,start_answer
+347,751,30,2,No.,a,THE WITNESS,start_question
+348,752,30,3,"At some point, did you start feeling pain on some part of your body?",q,MS. SCHWEIKERT,start_answer
+349,754,30,5,"I feel pain on the neck and shoulder, lower back.  Then I went to talk to Louis, the attorney, and then he asked me to go to Dr. Brady.  I said okay.",a,THE WITNESS,start_question
+350,758,30,9,"When you started feeling pain in your neck, when did you start feeling that?",q,MS. SCHWEIKERT,start_answer
+351,760,30,11,"The day after that, the day after that.",a,THE WITNESS,start_question
+352,762,30,13,"On a scale of 1 to 10 with 0 being nothing and 10 being the most excruciating pain you can imagine, where would you put your pain the next day?",q,MS. SCHWEIKERT,start_answer
+353,766,30,17,"At that time, a 7.",a,THE WITNESS,start_question
+354,767,30,18,"When you say your shoulder, which shoulder, right or left?",q,MS. SCHWEIKERT,start_answer
+355,769,30,20,Both.,a,THE WITNESS,start_question
+356,770,30,21,When did you start feeling pain in your shoulders?,q,MS. SCHWEIKERT,start_answer
+357,772,30,23,The same.,a,THE WITNESS,start_question
+358,773,30,24,The next day?,q,MS. SCHWEIKERT,start_answer
+359,775,31,1,Yes.,a,THE WITNESS,start_question
+360,776,31,2,"On that same scale of 0 to 10, where would you put your pain level in your shoulders?",q,MS. SCHWEIKERT,start_answer
+361,779,31,5,Somewhere around 5.,a,THE WITNESS,start_question
+362,780,31,6,When did you start feeling pain in your low back?,q,MS. SCHWEIKERT,start_answer
+363,782,31,8,"Like I said, the day after that my back is in bad pain.",a,THE WITNESS,start_question
+364,784,31,10,Where would you put your pain 0 to 10 in your lower back?,q,MS. SCHWEIKERT,start_answer
+365,786,31,12,7.,a,THE WITNESS,start_question
+366,787,31,13,When did you see the lawyer?,q,MS. SCHWEIKERT,start_answer
+367,788,31,14,After the accident.,a,THE WITNESS,start_question
+368,789,31,15,Same day?,q,MS. SCHWEIKERT,start_answer
+369,790,31,16,I called.  I don't remember same day or not.  I don't remember.,a,THE WITNESS,start_question
+370,792,31,18,"Well, it looks like you started therapy the very next day, so does that help refresh your recollection?",q,MS. SCHWEIKERT,start_answer
+371,795,31,21,I remember I called him over to my house.,a,THE WITNESS,start_question
+372,797,31,23,You called the lawyer. Who set up the appointment for you guys?,q,MS. SCHWEIKERT,start_answer
+373,801,32,2,Who set up the appointment for Brady?,a,THE WITNESS,start_question
+374,802,32,3,Yeah.,q,MS. SCHWEIKERT,start_answer
+375,803,32,4,"I don't remember because I meet over there before, so I don't remember, either Louis or me did.",a,THE WITNESS,start_question
+376,806,32,7,"Did you set up the appointment -- or whoever, did they set the appointment for all three of you at the same time?",q,MS. SCHWEIKERT,start_answer
+377,809,32,10,"Yes, because only one people can drive, and this time it's got to be me.",a,THE WITNESS,start_question
+378,811,32,12,You drove to the appointments back and forth?,q,MS. SCHWEIKERT,start_answer
+379,813,32,14,"Yeah, I don't trust no one.",a,THE WITNESS,start_question
+380,814,32,15,"Other than the accident you told me in 2006, had you ever had any pain, problem, or discomfort in your shoulders before?",q,MS. SCHWEIKERT,start_answer
+381,817,32,18,Back in 2006?,a,THE WITNESS,start_question
+382,818,32,19,"Other than 2006, other than that.",q,MS. SCHWEIKERT,start_answer
+383,819,32,20,No.,a,THE WITNESS,start_question
+384,820,32,21,"How about any pain, problem, or discomfort in your neck other than in 2006?",q,MS. SCHWEIKERT,start_answer
+385,822,32,23,No.,a,THE WITNESS,start_question
+386,823,32,24,"Any pain, problem, or discomfort in your low back other than 2006?",q,MS. SCHWEIKERT,start_answer
+387,826,33,2,No.,a,THE WITNESS,start_question
+388,827,33,3,"Other than the accident in 2006, any other accidents before this one car accident?",q,MS. SCHWEIKERT,start_answer
+389,829,33,5,No.,a,THE WITNESS,start_question
+390,830,33,6,"Other than your injury in 95, any other work-related accidents?",q,MS. SCHWEIKERT,start_answer
+391,832,33,8,In '95?,a,THE WITNESS,start_question
+392,833,33,9,Did you say '95 is when you had your hand accident?,q,MS. SCHWEIKERT,start_answer
+393,835,33,11,Yeah.,a,THE WITNESS,start_question
+394,836,33,12,"Other than that, any other accidents?",q,MS. SCHWEIKERT,start_answer
+395,837,33,13,No.,a,THE WITNESS,start_question
+396,838,33,14,Any slip-and-falls before this accident?,q,MS. SCHWEIKERT,start_answer
+397,840,33,16,No.,a,THE WITNESS,start_question
+398,841,33,17,"Since this accident, have you been involved in any other car accidents?",q,MS. SCHWEIKERT,start_answer
+399,843,33,19,"Since this accident, no.",a,THE WITNESS,start_question
+400,844,33,20,"Since this accident, any kind of slip-and-fall?",q,MS. SCHWEIKERT,start_answer
+401,846,33,22,No.,a,THE WITNESS,start_question
+402,847,33,23,Ever reinjure yourself in any way?,q,MS. SCHWEIKERT,start_answer
+403,848,33,24,"Reinjure myself, no.  I have to be careful, slow down, take it easy.",a,THE WITNESS,start_question
+404,851,34,2,Have you ever seen your family doctor for any reason after this accident?,q,MS. SCHWEIKERT,start_answer
+405,853,34,4,"Yes, I ask her for pain medication.",a,THE WITNESS,start_question
+406,854,34,5,Did she give it to you?,q,MS. SCHWEIKERT,start_answer
+407,855,34,6,Yes.,a,THE WITNESS,start_question
+408,856,34,7,Did she do an exam on you before that?,q,MS. SCHWEIKERT,start_answer
+409,857,34,8,"No, I just ask her and she give me pain medication because I ask her almost every year because for my right hand.",a,THE WITNESS,start_question
+410,860,34,11,You take pain medication for your right hand?,q,MS. SCHWEIKERT,start_answer
+411,862,34,13,I take both.,a,THE WITNESS,start_question
+412,863,34,14,"Before this accident happened, were you taking pain medication for your hand?",q,MS. SCHWEIKERT,start_answer
+413,865,34,16,"Before the accident happened, no, no.",a,THE WITNESS,start_question
+414,866,34,17,"After the accident, you said you were taking pain medication for your hand?",q,MS. SCHWEIKERT,start_answer
+415,868,34,19,Only for a while.,a,THE WITNESS,start_question
+416,869,34,20,When did you start taking medication for that?,q,MS. SCHWEIKERT,start_answer
+417,871,34,22,Only for about a couple months.,a,THE WITNESS,start_question
+418,872,34,23,When?,q,MS. SCHWEIKERT,start_answer
+419,873,34,24,Somewhere around 2017 or '18 somewhere.,a,THE WITNESS,start_question
+420,876,35,2,"No relation to this accident, though, right?",q,MS. SCHWEIKERT,start_answer
+421,878,35,4,"No, just shaky, just nervous.  Because it's nervous, it shakes.",a,THE WITNESS,start_question
+422,880,35,6,Is that why you get medication?  It was for your hand?,q,MS. SCHWEIKERT,start_answer
+423,882,35,8,Yeah.,a,THE WITNESS,start_question
+424,883,35,9,Did you ever tell your family doctor about the accident?,q,MS. SCHWEIKERT,start_answer
+425,885,35,11,Yes.,a,THE WITNESS,start_question
+426,886,35,12,Did she ever give you any recommendations of any doctors or anything to do for it?,q,MS. SCHWEIKERT,start_answer
+427,889,35,15,"I asked her, but she say just wait, just wait.",a,THE WITNESS,start_question
+428,891,35,17,When was the first time you saw her after this accident?,q,MS. SCHWEIKERT,start_answer
+429,893,35,19,"First time I saw her about one month after that, one month after that.",a,THE WITNESS,start_question
+430,895,35,21,That's when she told you just wait?,q,MS. SCHWEIKERT,start_answer
+431,896,35,22,"Yeah, because right now I'm taking other medication.",a,THE WITNESS,start_question
+432,898,35,24,Did you ever go back to her?,q,MS. SCHWEIKERT,start_answer
+433,900,36,1,Yes.,a,THE WITNESS,start_question
+434,901,36,2,Did you ever talk to her about any injuries from this accident?,q,MS. SCHWEIKERT,start_answer
+435,903,36,4,"Since the accident, no.  I just talk to her one time.  That's it.",a,THE WITNESS,start_question
+436,905,36,6,"After the accident, did you go to the emergency room at all?",q,MS. SCHWEIKERT,start_answer
+437,907,36,8,No.,a,THE WITNESS,start_question
+438,908,36,9,Have you been to the emergency room in the five years before this accident?,q,MS. SCHWEIKERT,start_answer
+439,910,36,11,No.,a,THE WITNESS,start_question
+440,911,36,12,Have you been to the emergency room since the accident for any reason?,q,MS. SCHWEIKERT,start_answer
+441,913,36,14,No.,a,THE WITNESS,start_question
+442,914,36,15,"As you sit here today, are you seeking any or have appointments for any additional treatment for this accident?",q,MS. SCHWEIKERT,start_answer
+443,917,36,18,We just stopped about -- can you say that again?,a,THE WITNESS,start_question
+444,919,36,20,"At this point, do you have any intentions to get any appointments for any injuries from this accident?",q,MS. SCHWEIKERT,start_answer
+445,922,36,23,At this point?,a,THE WITNESS,start_question
+446,923,36,24,Yes.,q,MS. SCHWEIKERT,start_answer
+447,925,37,1,No.,a,THE WITNESS,start_question
+448,926,37,2,"My records indicate that you went to treatment beginning on December 8th, the next day after the accident; is that right?",q,MS. SCHWEIKERT,start_answer
+449,929,37,5,Yeah.,a,THE WITNESS,start_question
+450,930,37,6,"It looks like the last treatment you went to was on January 16, 2018. Does that sound about right to you?",q,MS. SCHWEIKERT,start_answer
+451,933,37,9,"Sounds right, yes.",a,THE WITNESS,start_question
+452,934,37,10,"Each time that you went to therapy, it's my understanding that Mr. Vu and Mr. Nguyen went with you each and every time, right?",q,MS. SCHWEIKERT,start_answer
+453,938,37,14,"Yes, and also I got some injections in the back.",a,THE WITNESS,start_chat
+454,940,37,16,Do you have those records?,side_chat,MS. SCHWEIKERT,start_chat
+455,942,37,18,I just found out about them this morning when I was talking to him.,side_chat,MR. KELLY,start_question
+456,946,37,22,When did you get those injections?,q,MS. SCHWEIKERT,start_answer
+457,947,37,23,"Dr. Brady asked us to go over there, but next time I can give you the address.",a,THE WITNESS,start_question
+458,950,38,1,That's not my job.  You have to give that to your attorney.,q,MS. SCHWEIKERT,start_answer
+459,952,38,3,Okay.,a,THE WITNESS,start_question
+460,953,38,4,Did everybody get injections?,q,MS. SCHWEIKERT,start_answer
+461,954,38,5,Only me and Mr. Vu.,a,THE WITNESS,start_question
+462,955,38,6,Where did you get your injections at?,q,MS. SCHWEIKERT,start_answer
+463,956,38,7,My back.,a,THE WITNESS,start_question
+464,957,38,8,Low back?,q,MS. SCHWEIKERT,start_answer
+465,958,38,9,Yeah.,a,THE WITNESS,start_question
+466,959,38,10,How many injections did you get?,q,MS. SCHWEIKERT,start_answer
+467,960,38,11,Two.  That's it.,a,THE WITNESS,start_question
+468,961,38,12,When was that?,q,MS. SCHWEIKERT,start_answer
+469,962,38,13,I don't remember the time.,a,THE WITNESS,start_question
+470,963,38,14,Was it in 2017?  Was it after you got discharged?  Any idea?,q,MS. SCHWEIKERT,start_answer
+471,965,38,16,Somewhere around eight months after the accident.,a,THE WITNESS,start_question
+472,967,38,18,Eight months after the accident?,q,MS. SCHWEIKERT,start_answer
+473,968,38,19,Yeah.,a,THE WITNESS,start_question
+474,969,38,20,"It's my understanding you also got MRIs, right?",q,MS. SCHWEIKERT,start_answer
+475,971,38,22,Yes.,a,THE WITNESS,start_question
+476,972,38,23,Was the injection before or after you got the MRI?,q,MS. SCHWEIKERT,start_answer
+477,975,39,1,"The injection I got before the MRI. Yes, before.",a,THE WITNESS,start_question
+478,977,39,3,Before the MRI?,q,MS. SCHWEIKERT,start_answer
+479,978,39,4,"I think so, before the MRI.",a,THE WITNESS,start_question
+480,979,39,5,Did the injections for you and Mr. Vu happen on the same day?,q,MS. SCHWEIKERT,start_answer
+481,981,39,7,Yes.,a,THE WITNESS,start_question
+482,982,39,8,"You only got two, and he only got two?",q,MS. SCHWEIKERT,start_answer
+483,983,39,9,He got three.,a,THE WITNESS,start_question
+484,984,39,10,How many did you get?,q,MS. SCHWEIKERT,start_answer
+485,985,39,11,Three.,a,THE WITNESS,start_question
+486,986,39,12,Did you go with him on the third one?,q,MS. SCHWEIKERT,start_answer
+487,987,39,13,"Yeah, I pick him up.",a,THE WITNESS,start_question
+488,988,39,14,"At therapy, did any of them speak English?",q,MS. SCHWEIKERT,start_answer
+489,990,39,16,At therapy?,a,THE WITNESS,start_question
+490,991,39,17,Yes.,q,MS. SCHWEIKERT,start_answer
+491,992,39,18,"No, only me.",a,THE WITNESS,start_question
+492,993,39,19,Did you translate for everybody?,q,MS. SCHWEIKERT,start_answer
+493,994,39,20,Yeah.,a,THE WITNESS,start_question
+494,995,39,21,"You were telling the therapist where they were feeling pain, that kind of thing?",q,MS. SCHWEIKERT,start_answer
+495,997,39,23,Yes.,a,THE WITNESS,start_question
+496,998,39,24,"After this accident, was there anything that you were able to do before that you could not do, meaning you could not no matter how hard you tried just absolutely could not do? Is there anything you couldn't do after the accident?",q,MS. SCHWEIKERT,start_answer
+497,1006,40,7,"I could not do after the accident? No, not really, because if it would be hard work, I take it easy, slow down.",a,THE WITNESS,start_question
+498,1009,40,10,Is there anything you were able to do without pain before the accident that you still could do after but with pain?,q,MS. SCHWEIKERT,start_answer
+499,1012,40,13,Without pain before the accident?,a,THE WITNESS,start_question
+500,1013,40,14,No.  Were there activities that you were able to do before the accident without pain that you now could still do but with pain after the accident?,q,MS. SCHWEIKERT,start_answer
+501,1017,40,18,"Right now I take everything easy, so I don't have any problem with that.",a,THE WITNESS,start_question
+502,1019,40,20,"Were you still able to take a shower, wash yourself, do all the normal things, day-to-day living after the accident?",q,MS. SCHWEIKERT,start_answer
+503,1022,40,23,"Yes, I still can do it, but take it easy, slow, slow.",a,THE WITNESS,start_question
+504,1025,41,1,You can still do everything; it just takes you a little longer to do it?,q,MS. SCHWEIKERT,start_answer
+505,1027,41,3,Yes.,a,THE WITNESS,start_question
+506,1028,41,4,Did you have MRIs after the accident?,q,MS. SCHWEIKERT,start_answer
+507,1029,41,5,Yeah.,a,THE WITNESS,start_question
+508,1030,41,6,Did they tell you what the results of that were?,q,MS. SCHWEIKERT,start_answer
+509,1032,41,8,Did they tell me about that?,a,THE WITNESS,start_question
+510,1033,41,9,Yes.,q,MS. SCHWEIKERT,start_answer
+511,1034,41,10,No.,a,THE WITNESS,start_question
+512,1035,41,11,Did anything about your therapy change after the MRI? Did you start doing anything different at therapy after the MRI?,q,MS. SCHWEIKERT,start_answer
+513,1039,41,15,"Yes, I was doing it at home by myself.",a,THE WITNESS,start_question
+514,1040,41,16,"But at therapy, were you doing any kind of different activities at therapy after the MRI that you weren't doing before the MRI?",q,MS. SCHWEIKERT,start_answer
+515,1044,41,20,"No, nothing else.",a,THE WITNESS,start_question
+516,1045,41,21,Everything was the same?,q,MS. SCHWEIKERT,start_answer
+517,1046,41,22,"The same, yes.",a,THE WITNESS,start_chat
+518,1047,41,23,That's all I have.,side_chat,MS. SCHWEIKERT,symbols
+519,1050,42,1,- - - EXAMINATION,symbols,,symbols
+520,1052,42,3,- - -,symbols,,start_question
+521,1054,42,5,"Just a couple more questions from me, as well. Immediately prior to the accident, were there any visibility issues?",q,MS. KATHOPOULIS,start_answer
+522,1058,42,9,After the accident?,a,THE WITNESS,start_question
+523,1059,42,10,Before the accident.,q,MS. KATHOPOULIS,start_answer
+524,1060,42,11,"No, nothing at all.",a,THE WITNESS,start_question
+525,1061,42,12,Can you describe what the van was doing immediately before the accident?,q,MS. KATHOPOULIS,start_answer
+526,1063,42,14,Immediately before the accident?,a,THE WITNESS,start_question
+527,1064,42,15,Yeah.,q,MS. KATHOPOULIS,start_answer
+528,1065,42,16,Shift lane very fast.,a,THE WITNESS,start_question
+529,1066,42,17,What lane was that van in when you first saw it?,q,MS. KATHOPOULIS,start_answer
+530,1068,42,19,"Like I said, for the first time, he was in the far lane and then he shift into the middle lane and then he shift into our lane very fast.",a,THE WITNESS,start_question
+531,1072,42,23,You said the first time that you saw the van was on the far-right lane?,q,MS. KATHOPOULIS,start_answer
+532,1075,43,1,"Yeah, the right lane.",a,THE WITNESS,start_question
+533,1076,43,2,Then that van shifted to the middle?,q,MS. KATHOPOULIS,start_answer
+534,1077,43,3,Yes.,a,THE WITNESS,start_question
+535,1078,43,4,Do you know why that van shifted to the middle?,q,MS. KATHOPOULIS,start_answer
+536,1080,43,6,I think because the traffic blocking. That's why he needed to change lanes.,a,THE WITNESS,start_question
+537,1082,43,8,How long was that van in the middle lane before it shifted to the left lane?,q,MS. KATHOPOULIS,start_answer
+538,1084,43,10,Very fast.  I think about five seconds.  He shift right away.,a,THE WITNESS,start_question
+539,1086,43,12,Do you know why that van shifted from the middle lane to the left lane?,q,MS. KATHOPOULIS,start_answer
+540,1088,43,14,"Yes, because some car cut in front of him.",a,THE WITNESS,start_question
+541,1090,43,16,What color was that car?,q,MS. KATHOPOULIS,start_answer
+542,1091,43,17,I don't remember.,a,THE WITNESS,start_question
+543,1092,43,18,"Was it a sedan or SUV, if you remember?",q,MS. KATHOPOULIS,start_answer
+544,1094,43,20,I don't remember because all I pay attention was our car and his car.,a,THE WITNESS,start_question
+545,1096,43,22,"The road in that area, is it flat, uphill, downhill?",q,MS. KATHOPOULIS,start_answer
+546,1098,43,24,"It tilts downhill a little bit, but it tilt, though.",a,THE WITNESS,start_question
+547,1101,44,2,A little bit?,q,MS. KATHOPOULIS,start_answer
+548,1102,44,3,A little bit.,a,THE WITNESS,start_question
+549,1103,44,4,How many times have you been in a vehicle with Mr. Nguyen prior to this accident?,q,MS. KATHOPOULIS,start_answer
+550,1106,44,7,How many time have I been?,a,THE WITNESS,start_question
+551,1107,44,8,How many times has Mr. Nguyen driven you before the accident happened?,q,MS. KATHOPOULIS,start_answer
+552,1109,44,10,Before the accident?,a,THE WITNESS,start_question
+553,1110,44,11,Yes.,q,MS. KATHOPOULIS,start_answer
+554,1111,44,12,I think about twice.,a,THE WITNESS,start_question
+555,1112,44,13,Two times?,q,MS. KATHOPOULIS,start_answer
+556,1113,44,14,"Yes, two times.  That's it.",a,THE WITNESS,start_question
+557,1114,44,15,Did Mr. Nguyen ever get into an accident those two times he was driving you before the accident?,q,MS. KATHOPOULIS,start_answer
+558,1117,44,18,No.,a,THE WITNESS,start_question
+559,1118,44,19,"When you told Mr. Nguyen to slow down, did Mr. Nguyen slow down?",q,MS. KATHOPOULIS,start_answer
+560,1120,44,21,I think so.,a,THE WITNESS,start_question
+561,1121,44,22,How long before the accident did you tell Mr. Nguyen to slow down?,q,MS. KATHOPOULIS,start_answer
+562,1123,44,24,"Lake I said, somewhere around two minutes, one or two minutes.  It's very close by, though.",a,THE WITNESS,start_question
+563,1127,45,3,Mr. Nguyen slowed down about two minutes before the accident?,q,MS. KATHOPOULIS,start_answer
+564,1129,45,5,"Two minutes, yes.",a,THE WITNESS,start_question
+565,1130,45,6,Did you talk to any witnesses after the accident?,q,MS. KATHOPOULIS,start_answer
+566,1132,45,8,Any witness?,a,THE WITNESS,start_question
+567,1133,45,9,Yes.,q,MS. KATHOPOULIS,start_answer
+568,1134,45,10,"No, I talked to the police.  That's it.",a,THE WITNESS,start_question
+569,1136,45,12,What other conversation did you have with the other driver of the car after the accident?,q,MS. KATHOPOULIS,start_answer
+570,1139,45,15,"We talk about the accident, and I told him you switched lanes too fast.  He said, yeah, I'm sorry, but I didn't see you guys.",a,THE WITNESS,start_question
+571,1142,45,18,Did you have any other conversations with him?,q,MS. KATHOPOULIS,start_answer
+572,1144,45,20,"Yes, we talk about it.  We talked about something like how are you doing and are you okay and how is your van, how is your car.  He take pictures, and the drivers exchange with each other.",a,THE WITNESS,start_question
+573,1150,46,1,Was the car you were in drivable after the accident?,q,MS. KATHOPOULIS,start_answer
+574,1152,46,3,"Yes.  We have to get to an appointment for Mr. Nguyen.  For the first time, he said. He cannot drive.  I said you have to drive it because we tried to make an appointment, and you would be in trouble.",a,THE WITNESS,start_question
+575,1157,46,8,Do you recall what time the accident happened?,q,MS. KATHOPOULIS,start_answer
+576,1159,46,10,I think early in the morning somewhere around 8:30 or 9:00.  We went really early.,a,THE WITNESS,start_question
+577,1161,46,12,You said the appointment was around 12:00 or 1:00?,q,MS. KATHOPOULIS,start_answer
+578,1163,46,14,"Yeah, late, very late.  Yes, late, that's why we have to go down there.",a,THE WITNESS,start_question
+579,1165,46,16,You left extremely early.  You said it took about two-and-a-half hours from Philadelphia to?,q,MS. KATHOPOULIS,start_answer
+580,1168,46,19,"Delaware.  Plus, we don't want to miss an appointment.  That's why we have to go early.",a,THE WITNESS,start_question
+581,1171,46,22,Have you had any surgery as a result of this accident?,q,MS. KATHOPOULIS,start_answer
+582,1173,46,24,No.,a,THE WITNESS,start_question
+583,1175,47,1,Have you paid any co-pays as a result of this accident?,q,MS. KATHOPOULIS,start_answer
+584,1177,47,3,No.,a,THE WITNESS,start_chat
+585,1178,47,4,"Counsel, we already confirmed no wage loss, no claim for past or future earnings?",side_chat,MS. KATHOPOULIS,start_chat
+586,1181,47,7,Correct.,side_chat,MR. KELLY,start_chat
+587,1182,47,8,I am finished. Thank you.,side_chat,MS. KATHOPOULIS,symbols
+588,1184,47,10,- - -,symbols,,is brackets
+589,1185,47,11,"(Whereupon, the deposition concluded at 4:32 p.m.)",brackets,,symbols
+590,1187,47,13,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on August 26, 2019, and that this is a correct transcription of same.",symbols,,end

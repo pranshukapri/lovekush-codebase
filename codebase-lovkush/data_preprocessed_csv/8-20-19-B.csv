@@ -1,0 +1,258 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," after having been first duly sworn, was deposed and says as follows: EXAMINATION",,,start_question
+1,158,7,11,"Mr. Burns, the oath you have taken is the same oath you would be given in a court of law and comes with the same penalties of perjury.  Do you understand that?",q,MR. ELLERBE,start_answer
+2,162,7,15,Yes.,a,THE WITNESS,start_question
+3,163,7,16,"The court reporter is taking down every spoken word, so nods or head shakes cannot be transcribed by the court reporter.  Also, the court reporter can only take down what is being said by one person at a time.  I, therefore, ask that you wait until I finish my question before you give your answer, and I will try to provide the same courtesy to you.  Understood?",q,MR. ELLERBE,start_answer
+4,172,7,25,Yes.,a,THE WITNESS,start_question
+5,174,8,1,"Okay.  If you don't understand a question, please let me know.  If you do answer my question, I will assume you understood and answered the question I asked.  Please do not guess in response to my questions.  However, I am entitled to your best estimate. Do you understand the difference between a guess and an estimate?",q,MR. ELLERBE,start_answer
+6,182,8,9,Yes.,a,THE WITNESS,start_question
+7,183,8,10,Is there any reason you cannot go forward today with providing your best testimony?,q,MR. ELLERBE,start_answer
+8,185,8,12,No.,a,THE WITNESS,start_question
+9,186,8,13,Is there any reason you cannot testify fully and truthfully today?,q,MR. ELLERBE,start_answer
+10,188,8,15,No.,a,THE WITNESS,start_question
+11,189,8,16,"Are you under the influence of any drugs, alcohol or medications that may affect your ability to respond to my questions fully and truthfully?",q,MR. ELLERBE,start_answer
+12,193,8,20,No.,a,THE WITNESS,start_question
+13,194,8,21,"Okay.  If you need to take a break, just feel free to let me know, okay?",q,MR. ELLERBE,start_answer
+14,196,8,23,I will.,a,THE WITNESS,start_question
+15,197,8,24,Okay.  Do you have any questions about the deposition process before we start?,q,MR. ELLERBE,start_answer
+16,200,9,1,I don't.,a,THE WITNESS,start_question
+17,201,9,2,Have you ever been deposed before?,q,MR. ELLERBE,start_answer
+18,202,9,3,"I have, yes.",a,THE WITNESS,start_question
+19,203,9,4,"Okay.  So you know then that your counsel may make objections during the deposition, and the purpose of that objection is for the judge to review the objection later.  So an objection is not instruction to not answer. Unless you are instructed not to answer the question by your counsel, please answer the question. Do you understand?",q,MR. ELLERBE,start_answer
+20,212,9,13,I understand.,a,THE WITNESS,start_question
+21,213,9,14,Okay.  How many times have you been deposed before?,q,MR. ELLERBE,start_answer
+22,215,9,16,"Six maybe, seven.",a,THE WITNESS,start_question
+23,216,9,17,Okay.  And are you currently a Boston Scientific employee?,q,MR. ELLERBE,start_answer
+24,218,9,19,Yes.,a,THE WITNESS,start_question
+25,219,9,20,Okay.  And were all of those other depositions related to your job as a Boston Scientific employee?,q,MR. ELLERBE,start_answer
+26,222,9,23,All of my depositions have been except for one.,a,THE WITNESS,start_question
+27,224,9,25,Okay.  What was that one?,q,MR. ELLERBE,start_answer
+28,226,10,1,"From a previous job in college, an accident at a bar that I was working at.",a,THE WITNESS,start_question
+29,228,10,3,"Okay.  And the depositions that took place while you were at Boston Scientific, did any of them relate to the Cognis and Teligen devices?",q,MR. ELLERBE,start_answer
+30,232,10,7,"I don't believe so, no.",a,THE WITNESS,start_question
+31,233,10,8,Okay.  Have you ever testified at trial?,q,MR. ELLERBE,start_answer
+32,234,10,9,"I have not, no.",a,THE WITNESS,start_question
+33,235,10,10,"Okay.  Are you here -- are you appearing here at this deposition as a corporate representative of Boston Scientific on the topic of Boston Scientific's policies, procedures and practices as they existed from 2007 to 2009 for maintaining information regarding adverse events including the operation of the Lighthouse database?",q,MR. ELLERBE,start_answer
+34,243,10,18,Yes.,a,THE WITNESS,start_question
+35,244,10,19,"Okay.  So the events in this case focus on the 2007 to 2009 time frame.  So absent me saying specifically otherwise, my questions relate to that time period. Do you understand?",q,MR. ELLERBE,start_answer
+36,249,10,24,"I do understand, yes.",a,THE WITNESS,start_question
+37,250,10,25,Okay.  What is your current position at Boston Scientific?,q,MR. ELLERBE,start_answer
+38,253,11,2,My current position is senior e-discovery manager.,a,THE WITNESS,start_question
+39,255,11,4,Okay.  And what does that position entail?,q,MR. ELLERBE,start_answer
+40,256,11,5,"I manage the preservation, collection and processing of data for Boston Scientific.",a,THE WITNESS,start_question
+41,258,11,7,Okay.  And do you work here in the Minneapolis/St. Paul area?,q,MR. ELLERBE,start_answer
+42,260,11,9,"I do, yes, out of our Arden Hills office.",a,THE WITNESS,start_question
+43,261,11,10,Okay.  And what was your position from 2007 to 2009?,q,MR. ELLERBE,start_answer
+44,263,11,12,"To 2007 to 2009, I would have been a systems analyst on our e-discovery team.",a,THE WITNESS,start_question
+45,265,11,14,At Boston Scientific?,q,MR. ELLERBE,start_answer
+46,266,11,15,Yes.,a,THE WITNESS,start_question
+47,267,11,16,Okay.  How long have you been at Boston Scientific?,q,MR. ELLERBE,start_answer
+48,269,11,18,"Since October 24th, 2005, full-time.  I was a contractor for six months prior to that as well.",a,THE WITNESS,start_question
+49,272,11,21,"Okay.  So when you were originally hired by the company, was it actually Guidant?",q,MR. ELLERBE,start_answer
+50,274,11,23,"It was, correct.",a,THE WITNESS,start_question
+51,275,11,24,"Okay.  And when you were a systems analyst on the e-discovery team, what does -- what were your job functions?",q,MR. ELLERBE,start_answer
+52,279,12,2,My job functions would have been to collect data for cases that we were in litigation for.,a,THE WITNESS,start_question
+53,282,12,5,So are you part of the legal department?,q,MR. ELLERBE,start_answer
+54,283,12,6,During the 2007 to 2009 time frame we were part of the IT department.,a,THE WITNESS,start_question
+55,285,12,8,"Okay.  So if you can start just from a very big picture, generally speaking, how did Boston Scientific, during this time period, maintain information about adverse events that happened with its devices?",q,MR. ELLERBE,start_answer
+56,290,12,13,So my understanding is that Boston Scientific leveraged either the RET system or the Lighthouse system to manage and summarize adverse events.,a,THE WITNESS,start_question
+57,294,12,17,Okay.  And what was the RET system?,q,MR. ELLERBE,start_answer
+58,295,12,18,"The RET system was a quality system that ran, I think from '96 was the start date of it through 2008, October of 2008, and that system contained all of the event summaries and also all of the MDR medical device reports, the 3500A data as well.",a,THE WITNESS,start_question
+59,301,12,24,"Do you know, why did Boston Scientific transfer over from the RET system to the Lighthouse system?",q,MR. ELLERBE,start_chat
+60,305,13,2,Objection to scope. You can answer that question.,side_chat,MR. ROBINSON,start_chat
+61,307,13,4,I don't have an understanding specifically why they moved from one system to the other.,side_chat,THE WITNESS,start_question
+62,311,13,8,Did Lighthouse have the same function as the RET system?,q,MR. ELLERBE,start_answer
+63,313,13,10,My understanding is it has very similar functionality.,a,THE WITNESS,start_question
+64,315,13,12,Did it also contain the event summaries of adverse events and the Form 3500As?,q,MR. ELLERBE,start_answer
+65,317,13,14,Yes.,a,THE WITNESS,start_question
+66,318,13,15,Okay.  How would information get into the -- either RET system or the Lighthouse system?,q,MR. ELLERBE,start_answer
+67,320,13,17,My understanding is that people in the quality team would enter that data into those systems.,a,THE WITNESS,start_question
+68,323,13,20,Okay.  And where would that information originate from?,q,MR. ELLERBE,start_answer
+69,325,13,22,"You know, I'm not a hundred percent sure on that, when it comes to the business side of that transaction, just that data would be ingested into that system.",a,THE WITNESS,start_question
+70,330,14,1,Okay.  So there's a kind of a document called a Product Experience Report; is that right?,q,MR. ELLERBE,start_answer
+71,332,14,3,Product Experience Report?,a,THE WITNESS,start_question
+72,333,14,4,Does that term mean anything to you?,q,MR. ELLERBE,start_answer
+73,334,14,5,"I've not heard of that term, no.",a,THE WITNESS,start_question
+74,335,14,6,"Okay.  What about technical services, does that term mean anything to you?",q,MR. ELLERBE,start_answer
+75,337,14,8,Technical services is a department at formerly Guidant and now Boston Scientific.,a,THE WITNESS,start_question
+76,339,14,10,Okay.  And would technical services take in information about adverse events?,q,MR. ELLERBE,start_answer
+77,341,14,12,I can't say with a hundred percent confidence that that's the case.  I -- I can't say with confidence that's the case.,a,THE WITNESS,start_question
+78,344,14,15,"Okay.  Do you know if a practicing physician experienced an adverse event and wanted to report it to Boston Scientific, what were the avenues by which that physician could do that?",q,MR. ELLERBE,start_chat
+79,349,14,20,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+80,350,14,21,"You know, I didn't -- I didn't prepare myself for that type of business questioning, so I don't -- I don't have an answer for that workflow of how a doctor would submit those types of events.",side_chat,THE WITNESS,start_chat
+81,356,15,1,Okay.,side_chat,MR. ELLERBE,start_question
+82,358,15,3,"When an adverse event happened and it was input into either the RET system or the Lighthouse system, would there be a PI number associated with that adverse event?",q,MR. ELLERBE,start_answer
+83,362,15,7,"I have heard of a PI number, yes.",a,THE WITNESS,start_question
+84,363,15,8,Okay.  So I'm trying to understand what information would be associated with each adverse event and would it be associated with a PI number.  Those are two different questions.  Why don't we start with the -- I guess the first one about the PI number. Maybe the answer -- I'll just reask the question and you can answer. Was there a certain PI number associated with each adverse event in either the RET system or the Lighthouse system?,q,MR. ELLERBE,start_answer
+85,374,15,19,"You know, I can't say with a hundred percent confidence on that if that's the case.",a,THE WITNESS,start_question
+86,376,15,21,"Okay.  And do you know outside of the event summaries and the Form 3500As what information, other information about every adverse event was housed in those two systems?",q,MR. ELLERBE,start_answer
+87,382,16,1,Can you repeat that question?,a,THE WITNESS,start_question
+88,383,16,2,"Sure.  Outside of the event summaries and the Form 3500As, what information was associated with each adverse event in either the RET system of the Lighthouse system?",q,MR. ELLERBE,start_chat
+89,387,16,6,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+90,388,16,7,"I don't have a specific data dictionary, if you will, of all the different fields or data points that were captured.",side_chat,THE WITNESS,start_chat
+91,392,16,11,Okay.,side_chat,MR. ELLERBE,start_chat
+92,393,16,12,So I don't think I would know outside of those two things all of the different data points that would have been captured.,side_chat,THE WITNESS,start_chat
+93,397,16,16,Okay.,side_chat,MR. ELLERBE,start_question
+94,399,16,18,"So if a call was placed to Boston Scientific to technical services, do you know whether that call would be recorded?",q,MR. ELLERBE,start_chat
+95,402,16,21,Objection to form.,side_chat,MR. ROBINSON,start_chat
+96,403,16,22,"My understanding is that the calls would have been recorded, so, yes.",side_chat,THE WITNESS,start_chat
+97,406,16,25,Okay.,side_chat,MR. ELLERBE,start_question
+98,409,17,2,"And do you, know would those calls then -- the -- strike that. Would those recordings then be associated with that adverse event in the RET system or the Lighthouse system?",q,MR. ELLERBE,start_answer
+99,414,17,7,My understanding is those calls would be transcribed and associated back with those events.,a,THE WITNESS,start_question
+100,417,17,10,So would the recording of the call be associated with the event or not?,q,MR. ELLERBE,start_answer
+101,419,17,12,You're saying the actual audio of that?,a,THE WITNESS,start_question
+102,420,17,13,Yes.,q,MR. ELLERBE,start_answer
+103,421,17,14,My understanding is just the transcribed data would be associated with it.,a,THE WITNESS,start_question
+104,423,17,16,So the recording existed in some other database?,q,MR. ELLERBE,start_answer
+105,425,17,18,The recording would have existed in the Merlin system for a period of time --,a,THE WITNESS,start_question
+106,427,17,20,Okay.,q,MR. ELLERBE,start_answer
+107,428,17,21,-- and then it would have dropped off.,a,THE WITNESS,start_question
+108,429,17,22,Do you know how long it would have existed in the Merlin system?,q,MR. ELLERBE,start_answer
+109,431,17,24,"So it depends on the time frame, but it's either a 90-day or a 2-year retention, but both of which -- well, I'll leave it at that. It's either a 90-day or a 2-year retention.",a,THE WITNESS,start_question
+110,436,18,3,"Okay.  And so in the 2007 to 2009 time frame, were there some events -- strike that. Were there some calls that were recorded on a 90-day basis and some recorded on a 2-year basis?",q,MR. ELLERBE,start_answer
+111,441,18,8,"My understanding is that some of them, during that time frame, would have been held for the 2 years and some would have been held for 90 days based off of the policy.",a,THE WITNESS,start_question
+112,445,18,12,Do you know what the policy is?,q,MR. ELLERBE,start_answer
+113,446,18,13,It would have been the disaster recovery policy.,a,THE WITNESS,start_question
+114,448,18,15,Okay.  Do you know what -- strike that. Do you happen to know the number of that policy?,q,MR. ELLERBE,start_answer
+115,451,18,18,"I do not, no.",a,THE WITNESS,start_question
+116,452,18,19,Okay.  Do you know why some call recordings were kept for 2 years and some kept for 90 days?,q,MR. ELLERBE,start_answer
+117,455,18,22,I -- I -- I do not.,a,THE WITNESS,start_question
+118,456,18,23,Okay.  Was it possible to have kept those calls from the Merlin database for longer than those time periods if someone had wanted to keep them for longer?,q,MR. ELLERBE,start_chat
+119,461,19,2,Objection to form.,side_chat,MR. ROBINSON,start_chat
+120,462,19,3,Can you describe a little bit more what you're looking for there?,side_chat,THE WITNESS,start_chat
+121,465,19,6,"Well, sure.",side_chat,MR. ELLERBE,start_question
+122,467,19,8,"Let's say that there was a patient who had a device implanted and there's an adverse event in which the patient died or had a serious injury, and before the call was deleted the patient, you know, had sued Boston Scientific.  Would it have been possible to keep that call recording if a litigation hold had been put into effect before the record was deleted?",q,MR. ELLERBE,start_answer
+123,476,19,17,"So are you asking if it would have been possible to retain that tape, that -- that would have resided on for a longer period of time?",a,THE WITNESS,start_question
+124,480,19,21,"Yeah.  Well, no, I'm not asking specifically about the tape.  I'm asking about the information, the recorded audio.",q,MR. ELLERBE,start_answer
+125,483,19,24,"I mean, my understanding is that the -- the actual text from the calls was what was kept as the record as opposed to the audio, so I -- I'm not sure, I mean, I'd be speculating if I were to -- to guess on anything on that.",a,THE WITNESS,start_question
+126,489,20,4,So you don't know whether or not it was possible to keep the recorded audio information?,q,MR. ELLERBE,start_answer
+127,492,20,7,Correct.,a,THE WITNESS,start_question
+128,493,20,8,Okay.  Do you know who transcribed the calls?,q,MR. ELLERBE,start_answer
+129,494,20,9,"I do not know whose function that was, no.",a,THE WITNESS,start_question
+130,495,20,10,Do you know whether it ever took longer than 90 days to transcribe the calls?,q,MR. ELLERBE,start_chat
+131,497,20,12,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+132,498,20,13,"I -- I don't know of any that -- that had, no.",side_chat,THE WITNESS,start_question
+133,501,20,16,Do you know whether there was any sort of quality control process to make sure that the transcribed transcriptions accurately reflected the audio recordings?,q,MR. ELLERBE,start_chat
+134,505,20,20,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+135,506,20,21,"I do not, no.",side_chat,THE WITNESS,start_question
+136,508,20,23,So did these transcriptions from technical services calls become part of the event summary for an adverse event?,q,MR. ELLERBE,start_answer
+137,512,21,1,"Yeah, that's my understanding.  Yes.",a,THE WITNESS,start_question
+138,513,21,2,Do you know what other information was in the event summary?,q,MR. ELLERBE,start_answer
+139,515,21,4,"You know, I don't have a list of the fields or an intimate understanding of that business process.",a,THE WITNESS,start_question
+140,518,21,7,Okay.  How long does the event summary information stay in the Lighthouse database?,q,MR. ELLERBE,start_answer
+141,520,21,9,So the Lighthouse database is set without any auto purging.,a,THE WITNESS,start_question
+142,522,21,11,Okay.,q,MR. ELLERBE,start_answer
+143,523,21,12,"However, those records are -- supposedly have a lifetime of 75 years.  So at some point in 75 years they could be deleted.",a,THE WITNESS,start_question
+144,526,21,15,Okay.  Do you know why the recorded audio information had a shorter retention time frame than the event summary information?,q,MR. ELLERBE,start_answer
+145,529,21,18,"Again, my understanding is that the transcription of -- of that was the record as opposed to the audio portion of it.",a,THE WITNESS,start_question
+146,532,21,21,"So I'm going to move to strike that answer, because that wasn't responsive to my question. I'm asking if you know the reason why the audio recording wasn't kept longer than the event summary information?",q,MR. ELLERBE,start_answer
+147,539,22,2,I -- I do not.,a,THE WITNESS,start_question
+148,540,22,3,Okay.  Are the -- strike that. What is the time period during which the Form 3500As are kept?,q,MR. ELLERBE,start_chat
+149,543,22,6,Objection to form.,side_chat,MR. ROBINSON,start_chat
+150,544,22,7,"When you say, ""Time period,"" are you referring to how long they're retained or are you --",side_chat,THE WITNESS,start_chat
+151,547,22,10,"Yes, I am referring to how long were they retained.",side_chat,MR. ELLERBE,start_chat
+152,549,22,12,And so could we back up just -- when you say -- are you talking about the data associated with the Form 3500A or are you talking about the specific Form 3500A.,side_chat,THE WITNESS,start_chat
+153,554,22,17,I would like to know about both.,side_chat,MR. ELLERBE,start_chat
+154,556,22,19,Okay.,side_chat,THE WITNESS,start_question
+155,558,22,21,"So let's -- why don't we start, do you understand the process by which the Form 3500As were filled out?",q,MR. ELLERBE,start_chat
+156,561,22,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+157,562,22,25,"So my understanding is that data that is populated into that Form 3500A comes from the Lighthouse system, comes from that database, and those data points that are in there would follow that retention schedule of no purging and potentially a 75-year retention schedule.",side_chat,THE WITNESS,start_chat
+158,570,23,7,Okay.,side_chat,MR. ELLERBE,start_question
+159,572,23,9,Does that process happen automatically or does somebody pull up the information in Lighthouse and then fill out a form either by hand or on the computer?,q,MR. ELLERBE,start_answer
+160,576,23,13,So you're saying in order to create that --,a,THE WITNESS,start_question
+161,577,23,14,Right.,q,MR. ELLERBE,start_answer
+162,578,23,15,-- 3500A form?,a,THE WITNESS,start_question
+163,579,23,16,I'm asking the way the data is populated that you referred to just now.,q,MR. ELLERBE,start_chat
+164,581,23,18,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+165,582,23,19,So my understanding with the Lighthouse system is that you can manually create that 3500 form individually where you can bring up a record and generate that specific form.,side_chat,THE WITNESS,start_chat
+166,587,23,24,Okay.,side_chat,MR. ELLERBE,start_question
+167,590,24,1,And then do you know what happens to that form once the data is populated?,q,MR. ELLERBE,start_answer
+168,592,24,3,"Well, it -- it creates it, it takes about five to ten minutes for that PDF to be created per record.  It's individual, so you go through and you create it and then that is available for printing.",a,THE WITNESS,start_question
+169,597,24,8,Okay.  Do you know whether copies of those PDFs were retained?,q,MR. ELLERBE,start_answer
+170,599,24,10,My understanding is that they were not retained.,a,THE WITNESS,start_question
+171,601,24,12,Okay.  Do you know the process by which the Form 3500As were submitted to the FDA?,q,MR. ELLERBE,start_answer
+172,603,24,14,My understanding is that those forms were batched together and sent through the Lighthouse system to the FDA.,a,THE WITNESS,start_question
+173,606,24,17,Do you know whether any sort of copy of the batch was retained?,q,MR. ELLERBE,start_answer
+174,608,24,19,"I do not.  My -- my understanding would be no, because we don't -- we don't have any of the PDFs that were associated with them.",a,THE WITNESS,start_question
+175,611,24,22,Okay.  Do you know how the information -- or strike that. Was the information from the RET system migrated to the Lighthouse system?,q,MR. ELLERBE,start_answer
+176,616,25,1,Yes.,a,THE WITNESS,start_question
+177,617,25,2,Do you know how that process happened?,q,MR. ELLERBE,start_answer
+178,618,25,3,"So can you describe, when you say how it happened, are -- what are you looking for?",a,THE WITNESS,start_question
+179,620,25,5,I'm just looking for a general description.,q,MR. ELLERBE,start_answer
+180,621,25,6,"So my understanding is a project team was pulled together to manage that data migration and that, you know, ultimately they came up with a plan to migrate data fields from RET into Lighthouse.  And I -- my understanding is that there was -- were some differences in the way that Lighthouse handled the product issue tab, and so the product issues from RET, back then it was called an event summary, that that was brought across a little differently in the form of a text file, as there was not a like for like fields to bring across.",a,THE WITNESS,start_question
+181,634,25,19,Do you know how long the process took to migrate from RET to Lighthouse?,q,MR. ELLERBE,start_answer
+182,636,25,21,You're talking -- are you asking about the entire project or just the actual data migration?,a,THE WITNESS,start_question
+183,639,25,24,The entire project.,q,MR. ELLERBE,start_answer
+184,640,25,25,I'm not a hundred percent sure.  I know it's months at least.,a,THE WITNESS,start_question
+185,643,26,2,"Okay.  Do you know, were there any difficulties in migrating over the data from RET to Lighthouse?",q,MR. ELLERBE,start_chat
+186,646,26,5,Objection to form.,side_chat,MR. ROBINSON,start_chat
+187,647,26,6,I do not know of any.,side_chat,THE WITNESS,start_chat
+188,649,26,8,Okay.,side_chat,MR. ELLERBE,start_question
+189,651,26,10,Were you involved in that process?,q,MR. ELLERBE,start_answer
+190,652,26,11,"I was not, no.",a,THE WITNESS,start_question
+191,653,26,12,Okay.  Do you know whether there are any regulations that govern the retention of information about adverse events?,q,MR. ELLERBE,start_chat
+192,656,26,15,Objection to scope.,side_chat,MR. ROBINSON,start_chat
+193,657,26,16,"I do not personally know of any, no.",side_chat,THE WITNESS,start_chat
+194,659,26,18,Okay.,side_chat,MR. ELLERBE,start_question
+195,661,26,20,Do you know of any other of Boston Scientific's policies that governed the data that was kept about the adverse event policy -- the adverse events?,q,MR. ELLERBE,start_chat
+196,665,26,24,Objection to form.,side_chat,MR. ROBINSON,start_chat
+197,666,26,25,"Can you say that one more time, please?",side_chat,THE WITNESS,start_question
+198,670,27,3,Do you know any other policies that Boston Scientific had that governed the retention of data about adverse events?,q,MR. ELLERBE,start_answer
+199,673,27,6,Outside of which policies?,a,THE WITNESS,start_question
+200,674,27,7,You mentioned the one about the disaster --,q,MR. ELLERBE,start_answer
+201,675,27,8,"Disaster recovery tapes?  Well, there would be a records retention policy that would govern records.",a,THE WITNESS,start_question
+202,678,27,11,"Is that the title of that policy, record retention policy?",q,MR. ELLERBE,start_answer
+203,680,27,13,It's pretty close to that.  It might be global records retention or something very similar.,a,THE WITNESS,start_question
+204,683,27,16,Okay.  Any other policies that you can think of at all?,q,MR. ELLERBE,start_answer
+205,685,27,18,"Not that I can think of, no.",a,THE WITNESS,start_question
+206,686,27,19,Okay.,q,MR. ELLERBE,start_chat
+207,687,27,20,And I have no further questions.,side_chat,MR. ELLERBE,start_chat
+208,689,27,22,Let me just -- I just want to clarify something. EXAMINATION,side_chat,MR. ROBINSON,start_question
+209,696,28,3,"When you talked about the batch submission of MDR information to the FDA, did that take the form of -- of, let's say, like a hundred 3500A PDFs or was it just the data fields that were batched together and sent to the FDA?",q,MR. ROBINSON,start_answer
+210,702,28,9,My understanding was that was data fields that were sent over.,a,THE WITNESS,start_chat
+211,704,28,11,That's --,side_chat,MR. ROBINSON,start_chat
+212,705,28,12,Can I just ask -- are you --,side_chat,MR. ELLERBE,start_chat
+213,707,28,14,"I'm done, yeah.",side_chat,MR. ROBINSON,start_chat
+214,708,28,15,Okay.  Just one follow-up there. FURTHER EXAMINATION,side_chat,MR. ELLERBE,start_question
+215,713,28,20,"So when you were describing to me earlier that a PDF would be printed out and submitted as part of the batch process, is that different from what you just told Mr. Robinson?",q,MR. ELLERBE,start_chat
+216,718,28,25,Objection to form.,side_chat,MR. ROBINSON,start_chat
+217,720,29,1,"Yes, it -- so backing up, yeah, you can print out -- so I can go into Lighthouse, post that 2008 time frame, and I can print out a PDF of that individually for an MDR record.",side_chat,THE WITNESS,start_question
+218,726,29,7,And is that what happened when a Form 3500A was submitted to the FDA?,q,MR. ELLERBE,start_answer
+219,728,29,9,My understanding is that that would be set electronically in a batch file with a whole slew of fields that would represent that data to the FDA.,a,THE WITNESS,start_question
+220,732,29,13,"So do you know what this -- strike that. I'm just -- let me explain my question.  I'm trying to understand what this would look like from the FDA's perspective receiving this. Would it be, you know, an e-mail with a hundred PDFs or would it be some sort of other file format?",q,MR. ELLERBE,start_answer
+221,740,29,21,"My understanding is it's a batch file so, you know, similar to maybe a CSB file or an Excel spreadsheet that would have all the fields in there and then they would take that data and review that data.",a,THE WITNESS,start_question
+222,746,30,1,Okay.,q,MR. ELLERBE,start_chat
+223,747,30,2,All right.  No further questions. FURTHER EXAMINATION,side_chat,MR. ELLERBE,start_question
+224,752,30,7,"So to be clear, your understanding is we did not submit individual 3500A forms to the FDA?",q,MR. ROBINSON,start_answer
+225,754,30,9,Correct.,a,THE WITNESS,start_question
+226,755,30,10,"But if you want to go into the system and recreate one on a one-by-one basis, you're able to do that?",q,MR. ROBINSON,start_answer
+227,758,30,13,"For the post-2008 data, correct.",a,THE WITNESS,start_question
+228,759,30,14,Okay.,q,MR. ROBINSON,start_chat
+229,760,30,15,Okay.,side_chat,MR. ROBINSON,start_chat
+230,761,30,16,Okay.,side_chat,MR. ELLERBE,start_chat
+231,762,30,17,Thank you.,side_chat,MR. ROBINSON,start_chat
+232,763,30,18,We are going off the record at 1:31 p.m.,side_chat,THE VIDEOGRAPHER,is brackets
+233,765,30,20,"(Deposition concluded at 1:31 p.m.) DEPOSITION CORRECTION SHEET TITLE:  United States of America, et al. vs. WITNESS:  Mark L. Burns PAGE  LINE   DESIRED CHANGE",brackets,,symbols
+234,777,31,5,____  ____  _____________________________________,symbols,,symbols
+235,778,31,6,____  ____  _____________________________________,symbols,,symbols
+236,779,31,7,____  ____  _____________________________________,symbols,,symbols
+237,780,31,8,____  ____  _____________________________________,symbols,,symbols
+238,781,31,9,____  ____  _____________________________________,symbols,,symbols
+239,782,31,10,____  ____  _____________________________________,symbols,,symbols
+240,783,31,11,____  ____  _____________________________________,symbols,,symbols
+241,784,31,12,____  ____  _____________________________________,symbols,,symbols
+242,785,31,13,____  ____  _____________________________________,symbols,,symbols
+243,786,31,14,____  ____  _____________________________________,symbols,,symbols
+244,787,31,15,____  ____  _____________________________________,symbols,,symbols
+245,788,31,16,____  ____  _____________________________________,symbols,,symbols
+246,789,31,17,____  ____  _____________________________________,symbols,,symbols
+247,790,31,18,____  ____  _____________________________________,symbols,,symbols
+248,791,31,19,____  ____  _____________________________________,symbols,,symbols
+249,792,31,20,____  ____  _____________________________________,symbols,,symbols
+250,793,31,21,____  ____  _____________________________________,symbols,,symbols
+251,794,31,22,____  ____  _____________________________________,symbols,,symbols
+252,795,31,23,____  ____  _____________________________________,symbols,,symbols
+253,796,31,24,____  ____  _____________________________________,symbols,,symbols
+254,797,31,25,"____  ____  _____________________________________ I, Mark L. Burns, have read this deposition transcript and acknowledge herein its accuracy except as noted:",symbols,,symbols
+255,805,32,7,"________________________ STATE OF MINNESOTA  ) COUNTY OF ANOKA     ) deposition of Mark L. Burns, on August 20, 2019, in and for the County of Anoka, State of Minnesota, to administer an oath; That the witness was by me first duly nothing but the truth relative to said cause; That the foregoing transcript is a true said matter; That the witness reserved the right to parties hereto, nor interested in the outcome of August, 2019.",symbols,,symbols
+256,854,33,18,______________________________ My Commission Expires 01/31/20,symbols,,end

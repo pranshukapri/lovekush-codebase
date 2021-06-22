@@ -1,0 +1,516 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,132,5,12,- - - EXAMINATION,symbols,,symbols
+2,134,5,14,- - -,symbols,,start_question
+3,136,5,16,"Good morning, sir.",q,MR. ARNER,start_answer
+4,137,5,17,Good morning.,a,THE WITNESS,start_question
+5,138,5,18,Can I have you state your full name for the record.,q,MR. ARNER,start_answer
+6,140,5,20,My name is Khaaliq Branch.,a,THE WITNESS,start_question
+7,141,5,21,Have you ever given a deposition before?,q,MR. ARNER,start_answer
+8,143,5,23,No.,a,THE WITNESS,start_question
+9,144,5,24,"I'm going to go through and give you some instructions on how this process is going to work, okay?",q,MR. ARNER,start_answer
+10,148,6,3,All right.,a,THE WITNESS,start_question
+11,149,6,4,"We're here for a question-and-answer session.  I'm going to be asking you questions.  You're going to be responding to them.  There is a court reporter seated to your left.  She's taking down all those questions, your answers, and anything your attorney might want to add to this proceeding, okay?",q,MR. ARNER,start_answer
+12,157,6,12,Okay.,a,THE WITNESS,start_question
+13,158,6,13,"I'm going to ask that you verbalize your responses and you keep your voice up so that everybody in the room can hear you, okay?",q,MR. ARNER,start_answer
+14,162,6,17,Okay.,a,THE WITNESS,start_question
+15,163,6,18,"If I ask you a question that you don't understand, please don't answer it.  Just let me know; say I don't understand what you're asking me.  I'll try to rephrase it so that you do understand it and can provide me an answer, okay?",q,MR. ARNER,start_answer
+16,169,6,24,Yes.,a,THE WITNESS,start_question
+17,171,7,1,"I'm not here to trick you today.  I'm trying to gather information about this accident.  If you don't know the answer to my question, it's okay to tell me I don't know as long as that's the truthful response. It's also okay to tell me you don't recall because this may have happened some time ago and you don't remember what happened or you don't remember the answer to a particular question I have. If I ask you for something like speed, distance, or time and you don't exactly know but you can provide us with a reasonable estimation or approximation, I ask that you do that, but let us know.  Let us know that you are approximating or estimating.  I'm sure your lawyer doesn't want you guessing at things today.  I don't want you guessing at things today.  I want as accurate information as you can, all right?",q,MR. ARNER,start_answer
+18,191,7,21,Yes.,a,THE WITNESS,start_question
+19,192,7,22,"If you need to take a break here at any point, please just ask me, and I will accommodate you.  I just ask, if I have a question pending, you answer it and then we'll take a break, okay?",q,MR. ARNER,start_answer
+20,198,8,3,Yes.,a,THE WITNESS,start_question
+21,199,8,4,"I don't expect to be here too long with you today, but there are some areas I have to cover. Do you understand those instructions?",q,MR. ARNER,start_answer
+22,203,8,8,Yes.,a,THE WITNESS,start_question
+23,204,8,9,"Also, just for her sake, if I ask you a question and I haven't finished my question, allow me to get the whole question out and I'll give you time to answer.  That way you and I aren't speaking over one another, okay?",q,MR. ARNER,start_answer
+24,210,8,15,Yes.,a,THE WITNESS,start_question
+25,211,8,16,Let me have your date of birth.,q,MR. ARNER,start_answer
+26,212,8,17,8/2/92.,a,THE WITNESS,start_question
+27,213,8,18,"I'm going to show you what's been marked as Branch-1.  These are your answers to interrogatories.  I'm going to show you the last page there. My question is, is that your signature?",q,MR. ARNER,start_answer
+28,219,8,24,Yes.,a,THE WITNESS,start_question
+29,221,9,1,"Looking at the first page here, just so this isn't on the record, I'm going to point to question 1, is that your Social Security number?",q,MR. ARNER,start_answer
+30,225,9,5,Yes.,a,THE WITNESS,start_question
+31,226,9,6,Where do you presently live?,q,MR. ARNER,start_answer
+32,227,9,7,1810 Dickinson Street.,a,THE WITNESS,start_question
+33,228,9,8,How long have you lived there?,q,MR. ARNER,start_answer
+34,229,9,9,My whole life.,a,THE WITNESS,start_question
+35,230,9,10,Who do you live there presently with?,q,MR. ARNER,start_answer
+36,231,9,11,My mom.,a,THE WITNESS,start_question
+37,232,9,12,What's your mom's name?,q,MR. ARNER,start_answer
+38,233,9,13,Shawn Goldsmith.,a,THE WITNESS,start_question
+39,234,9,14,How do you spell Shawn?,q,MR. ARNER,start_answer
+40,235,9,15,S-H-A-W-N.,a,THE WITNESS,start_question
+41,236,9,16,Do you live with anybody else presently?,q,MR. ARNER,start_answer
+42,238,9,18,No.,a,THE WITNESS,start_question
+43,239,9,19,Was anybody else living with you at the time of the accident?,q,MR. ARNER,start_answer
+44,241,9,21,Yes.,a,THE WITNESS,start_question
+45,242,9,22,Who?,q,MR. ARNER,start_answer
+46,243,9,23,My little sister.  Her name is Khadirah Goldsmith.,a,THE WITNESS,start_question
+47,246,10,1,Anybody else?,q,MR. ARNER,start_answer
+48,247,10,2,That was it.,a,THE WITNESS,start_question
+49,248,10,3,How old is your sister?,q,MR. ARNER,start_answer
+50,249,10,4,My sister is 22.,a,THE WITNESS,start_question
+51,250,10,5,Are you married?,q,MR. ARNER,start_answer
+52,251,10,6,No.,a,THE WITNESS,start_question
+53,252,10,7,Have you ever been married?,q,MR. ARNER,start_answer
+54,253,10,8,No.,a,THE WITNESS,start_question
+55,254,10,9,Have any children?,q,MR. ARNER,start_answer
+56,255,10,10,Yes.,a,THE WITNESS,start_question
+57,256,10,11,How many children do you got?,q,MR. ARNER,start_answer
+58,257,10,12,Three.,a,THE WITNESS,start_question
+59,258,10,13,What are their names and ages?,q,MR. ARNER,start_answer
+60,259,10,14,Khaaliq and Kya.  They're three.,a,THE WITNESS,start_question
+61,260,10,15,Are they twins?,q,MR. ARNER,start_answer
+62,261,10,16,Yes.,a,THE WITNESS,start_question
+63,262,10,17,And?,q,MR. ARNER,start_answer
+64,263,10,18,Kali.,a,THE WITNESS,start_question
+65,264,10,19,How do you spell that?,q,MR. ARNER,start_answer
+66,265,10,20,K-A-L-I.,a,THE WITNESS,start_question
+67,266,10,21,How old is she?,q,MR. ARNER,start_answer
+68,267,10,22,She's one.,a,THE WITNESS,start_question
+69,268,10,23,What's your highest level of education?,q,MR. ARNER,start_answer
+70,271,11,1,Graduated high school.,a,THE WITNESS,start_question
+71,272,11,2,Where did you go?,q,MR. ARNER,start_answer
+72,273,11,3,I went to DeSalle Vocational in Bensalem.,a,THE WITNESS,start_question
+73,275,11,5,When did you graduate?,q,MR. ARNER,start_answer
+74,276,11,6,I graduated in 2010.,a,THE WITNESS,start_question
+75,277,11,7,You ever serve in the military?,q,MR. ARNER,start_answer
+76,278,11,8,No.,a,THE WITNESS,start_question
+77,279,11,9,Are you presently employed?,q,MR. ARNER,start_answer
+78,280,11,10,No.,a,THE WITNESS,start_question
+79,281,11,11,When is the last time you held employment?,q,MR. ARNER,start_answer
+80,283,11,13,2016.,a,THE WITNESS,start_question
+81,284,11,14,Were you employed at the time of this accident?,q,MR. ARNER,start_answer
+82,286,11,16,Yes.,a,THE WITNESS,start_question
+83,287,11,17,Who were you employed with?,q,MR. ARNER,start_answer
+84,288,11,18,I was working with Steven Kempf.,a,THE WITNESS,start_question
+85,289,11,19,K-E-M-P-F?,q,MR. ARNER,start_answer
+86,290,11,20,Yes.,a,THE WITNESS,start_question
+87,291,11,21,What is Steven Kempf?,q,MR. ARNER,start_answer
+88,292,11,22,It's a material handling company.,a,THE WITNESS,start_question
+89,293,11,23,What was your job?,q,MR. ARNER,start_answer
+90,294,11,24,Laborer.,a,THE WITNESS,start_question
+91,296,12,1,What type of labor did you do?,q,MR. ARNER,start_answer
+92,297,12,2,"Unload the trucks, take the sheetrock up to the site.",a,THE WITNESS,start_question
+93,299,12,4,Is this a construction company?,q,MR. ARNER,start_answer
+94,300,12,5,Yes.,a,THE WITNESS,start_question
+95,301,12,6,"Do they do residential, commercial?",q,MR. ARNER,start_answer
+96,302,12,7,Both.,a,THE WITNESS,start_question
+97,303,12,8,Why did you stop working at Steven Kempf Building Material Company?,q,MR. ARNER,start_answer
+98,305,12,10,I couldn't work no more.,a,THE WITNESS,start_question
+99,306,12,11,Is it as a result of your injuries from this accident?,q,MR. ARNER,start_answer
+100,308,12,13,Yes.,a,THE WITNESS,start_chat
+101,309,12,14,"I assume there's a wage loss claim then, Scott?",side_chat,MR. ARNER,start_chat
+102,311,12,16,Yeah.,side_chat,MR. GALLANT,start_chat
+103,312,12,17,"It was that and court problems, me going through custody battles with the twins.",side_chat,THE WITNESS,start_question
+104,316,12,21,This accident happened in December of 2016. When is the last time you worked for Steven Kempf?,q,MR. ARNER,start_answer
+105,321,13,1,"The last time I worked, I believe, was that week.  I think it was the 7th I called out.  It was the 6th.",a,THE WITNESS,start_question
+106,324,13,4,"From the date of this accident, you never went back to Steven Kempf?",q,MR. ARNER,start_answer
+107,326,13,6,No.,a,THE WITNESS,start_question
+108,327,13,7,Your answers to interrogatories indicate that you only missed a few days due to therapy treatments; is that accurate or inaccurate?,q,MR. ARNER,start_answer
+109,331,13,11,It's inaccurate.,a,THE WITNESS,start_question
+110,332,13,12,"Question 44 asks:  Did you lose time from work as a result of -- did you lose time from work as a result of the alleged accident. Answer A through E says:  Various time taken off for treatment, and plaintiff reserves the right to supplement this answer in a timely manner?",q,MR. ARNER,start_chat
+111,340,13,20,The old catchall at the end.,side_chat,MR. GALLANT,start_question
+112,343,13,23,You actually never went back to work?,q,MR. ARNER,start_answer
+113,344,13,24,I never went back.,a,THE WITNESS,start_question
+114,346,14,1,"At the time of your last day at Steven Kempf, how much were you making?",q,MR. ARNER,start_answer
+115,348,14,3,"I can't recall because I was only working three days out of the week.  It wasn't a lot.  I think, after taxes, I probably was bringing home $258 the most.",a,THE WITNESS,start_question
+116,352,14,7,A week?,q,MR. ARNER,start_answer
+117,353,14,8,Yes.,a,THE WITNESS,start_question
+118,354,14,9,Did you have any other employment other than Steven Kempf?,q,MR. ARNER,start_answer
+119,356,14,11,No.,a,THE WITNESS,start_question
+120,357,14,12,You were working three days a week at that time?,q,MR. ARNER,start_answer
+121,359,14,14,"Yeah, the most.",a,THE WITNESS,start_question
+122,360,14,15,Did you file taxes in the year 2016?,q,MR. ARNER,start_answer
+123,361,14,16,I believe so.,a,THE WITNESS,start_question
+124,362,14,17,Did you file taxes in 2017?,q,MR. ARNER,start_answer
+125,363,14,18,I don't recall.,a,THE WITNESS,start_question
+126,364,14,19,How about 2018?,q,MR. ARNER,start_answer
+127,365,14,20,No.,a,THE WITNESS,start_chat
+128,366,14,21,Did you ask him if he was being paid under the table?,side_chat,MR. GALLANT,start_question
+129,369,14,24,Were you paid under the table?,q,MR. ARNER,start_answer
+130,371,15,1,No.,a,THE WITNESS,start_chat
+131,372,15,2,You were paid by check?,side_chat,MR. GALLANT,start_chat
+132,374,15,4,"I was paid by check with Steven Kempf, yes.",side_chat,THE WITNESS,start_question
+133,377,15,7,"I'm going to ask that you get your tax returns for the last five years, and send them to your lawyer.",q,MR. ARNER,start_answer
+134,380,15,10,All right.,a,THE WITNESS,start_question
+135,381,15,11,We're going to need something to justify any type of wage loss claim.,q,MR. ARNER,start_chat
+136,383,15,13,His word is not good enough?,side_chat,MR. GALLANT,start_chat
+137,385,15,15,"His word is always good enough, but I need exact numbers.",side_chat,MR. ARNER,start_question
+138,388,15,18,Did any doctor put you out of work?,q,MR. ARNER,start_answer
+139,389,15,19,No.,a,THE WITNESS,start_question
+140,390,15,20,Is it just your choice not to go back?,q,MR. ARNER,start_answer
+141,391,15,21,"Well, I was in pain.  The doctor said certain stuff, as far as lifting, I needed to lay off.  That sheetrock was a lot.  The reason why Steven Kempf was because I took days off from the custody battle with my kids' mother, too.  So they just said they're laying me off anyway.  So that's why I couldn't go back anyway.",a,THE WITNESS,start_question
+142,400,16,5,Did they lay you off for your inability -- did they lay you off because of job performance from your injuries or because of your custody battle?,q,MR. ARNER,start_answer
+143,404,16,9,Custody.,a,THE WITNESS,start_question
+144,405,16,10,Do you have a family physician?,q,MR. ARNER,start_answer
+145,406,16,11,No.,a,THE WITNESS,start_question
+146,407,16,12,Have you ever had a family physician?,q,MR. ARNER,start_answer
+147,408,16,13,"Yes, I did.",a,THE WITNESS,start_question
+148,409,16,14,Who?,q,MR. ARNER,start_answer
+149,410,16,15,His name was E. Daniels.,a,THE WITNESS,start_question
+150,411,16,16,Where was he located?,q,MR. ARNER,start_answer
+151,412,16,17,On Broad and Race.,a,THE WITNESS,start_question
+152,413,16,18,Is he part of a practice?,q,MR. ARNER,start_answer
+153,414,16,19,Yes.,a,THE WITNESS,start_question
+154,415,16,20,What's the name of the practice?,q,MR. ARNER,start_answer
+155,416,16,21,I don't know.  This was when I was young.  That's the last time I had a family physician.,a,THE WITNESS,start_question
+156,419,16,24,Did you treat with Dr. Daniels for your injuries from this accident at all?,q,MR. ARNER,start_answer
+157,422,17,2,No.,a,THE WITNESS,start_question
+158,423,17,3,"Before this accident of December 7, 2016, have you been involved in any other motor vehicle accidents?",q,MR. ARNER,start_answer
+159,426,17,6,I was in an accident 2015.,a,THE WITNESS,start_question
+160,427,17,7,What happened in that?,q,MR. ARNER,start_answer
+161,428,17,8,I got rear ended.,a,THE WITNESS,start_question
+162,429,17,9,Were you the driver?,q,MR. ARNER,start_answer
+163,430,17,10,"No, my mom was.",a,THE WITNESS,start_question
+164,431,17,11,Were you a passenger in her car?,q,MR. ARNER,start_answer
+165,432,17,12,I was a passenger.,a,THE WITNESS,start_question
+166,433,17,13,Was that the only other accident you've been involved in?,q,MR. ARNER,start_answer
+167,435,17,15,Yes.,a,THE WITNESS,start_question
+168,436,17,16,"I have information that says that that accident occurred on June 8, 2016. Do you know if that was 2015 or 2016?",q,MR. ARNER,start_answer
+169,439,17,19,"It was 2016, I'm sorry.",a,THE WITNESS,start_question
+170,440,17,20,Where I got it from are your answers to interrogatories.,q,MR. ARNER,start_answer
+171,442,17,22,It's been a while.,a,THE WITNESS,start_question
+172,443,17,23,No worries.,q,MR. ARNER,start_chat
+173,444,17,24,You're not going to lose the case because of that.,side_chat,MR. GALLANT,start_question
+174,448,18,3,It says you were involved in an MV on 6/8/16.,q,MR. ARNER,start_chat
+175,450,18,5,Off the record.,side_chat,MR. GALLANT,symbols
+176,451,18,6,- - -,symbols,,is brackets
+177,452,18,7,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+178,454,18,9,- - -,symbols,,start_question
+179,456,18,11,"I got you in an accident on June 8, 2016?",q,MR. ARNER,start_answer
+180,458,18,13,Yes.,a,THE WITNESS,start_question
+181,459,18,14,You were a passenger?,q,MR. ARNER,start_answer
+182,460,18,15,Yes.,a,THE WITNESS,start_question
+183,461,18,16,"Your mom was driving, I think you said?",q,MR. ARNER,start_answer
+184,463,18,18,Yes.,a,THE WITNESS,start_question
+185,464,18,19,Were you injured as a result of that?,q,MR. ARNER,start_answer
+186,465,18,20,Yes.,a,THE WITNESS,start_question
+187,466,18,21,What area or areas of your body did you injure in that June 2016 accident?,q,MR. ARNER,start_answer
+188,468,18,23,It was my back and my neck.,a,THE WITNESS,start_question
+189,469,18,24,Did you go to the ER after that accident?,q,MR. ARNER,start_answer
+190,472,19,2,Yes.,a,THE WITNESS,start_question
+191,473,19,3,What ER did you go to?,q,MR. ARNER,start_answer
+192,474,19,4,"I went to Jefferson on Broad and Wolf, I would like to say.",a,THE WITNESS,start_question
+193,476,19,6,"Was that Graduate at that time, Graduate Hospital?",q,MR. ARNER,start_answer
+194,478,19,8,It was Methodist.,a,THE WITNESS,start_question
+195,479,19,9,What did they do for you at the ER?,q,MR. ARNER,start_answer
+196,480,19,10,They gave me this Motrin and sent me on my way.,a,THE WITNESS,start_question
+197,482,19,12,Did you treat with any other doctor after the ER?,q,MR. ARNER,start_answer
+198,484,19,14,"No, just therapy.",a,THE WITNESS,start_question
+199,485,19,15,You had therapy.  Who did you have therapy with?,q,MR. ARNER,start_answer
+200,487,19,17,"Bowden, located on Broad and Arch.",a,THE WITNESS,start_question
+201,488,19,18,How long did you treat with Bowden?,q,MR. ARNER,start_answer
+202,489,19,19,I believe that went on for a year.,a,THE WITNESS,start_question
+203,490,19,20,Were you treating with him at the time when this accident happened?,q,MR. ARNER,start_answer
+204,492,19,22,No.,a,THE WITNESS,start_question
+205,493,19,23,Had you stopped just before this accident?  When did you stop?,q,MR. ARNER,start_answer
+206,496,20,1,"I stopped just before, I believe.",a,THE WITNESS,start_question
+207,497,20,2,I think I saw from his records your last treatment was November 17th. Does that sound about right?,q,MR. ARNER,start_answer
+208,500,20,5,"Yes, it do.",a,THE WITNESS,start_question
+209,501,20,6,Did you have any testing done related to that accident?,q,MR. ARNER,start_answer
+210,503,20,8,"Yes, I had an MRI.",a,THE WITNESS,start_question
+211,504,20,9,Did you have an MRI of your back and neck?,q,MR. ARNER,start_answer
+212,506,20,11,"I can get it, yes.",a,THE WITNESS,start_question
+213,507,20,12,Did you have it?,q,MR. ARNER,start_answer
+214,508,20,13,Yes.,a,THE WITNESS,start_question
+215,509,20,14,I have copies of it.  I have that you went for an MRI on your back and neck nine days before this accident. Does that sound right?,q,MR. ARNER,start_answer
+216,513,20,18,Yes.,a,THE WITNESS,start_question
+217,514,20,19,Did you have any other treatment in association with the June 2016 accident?,q,MR. ARNER,start_answer
+218,516,20,21,No.,a,THE WITNESS,start_question
+219,517,20,22,We talked about everybody?,q,MR. ARNER,start_answer
+220,518,20,23,Yes.,a,THE WITNESS,start_question
+221,519,20,24,Did you have any injections or surgery related to the June 2016 accident?,q,MR. ARNER,start_answer
+222,522,21,2,No.,a,THE WITNESS,start_question
+223,523,21,3,Did you have a lawyer?,q,MR. ARNER,start_answer
+224,524,21,4,Yes.,a,THE WITNESS,start_question
+225,525,21,5,Who?  Same lawyer?,q,MR. ARNER,start_answer
+226,526,21,6,Yes.,a,THE WITNESS,start_question
+227,527,21,7,Did you file a claim? Did you make a claim?,q,MR. ARNER,start_answer
+228,529,21,9,I believe so.,a,THE WITNESS,start_question
+229,530,21,10,Did you have to put it in court?,q,MR. ARNER,start_answer
+230,531,21,11,No.,a,THE WITNESS,start_question
+231,532,21,12,Did it settle before?,q,MR. ARNER,start_answer
+232,533,21,13,Settled.,a,THE WITNESS,start_question
+233,534,21,14,Do you remember this accident that we're here for?,q,MR. ARNER,start_answer
+234,536,21,16,Yes.,a,THE WITNESS,start_question
+235,537,21,17,"December 7th, right?",q,MR. ARNER,start_answer
+236,538,21,18,Yes.,a,THE WITNESS,start_question
+237,539,21,19,What time of day?,q,MR. ARNER,start_answer
+238,540,21,20,I can't recall the time.,a,THE WITNESS,start_question
+239,541,21,21,"If the police report indicates it was in the morning around 3:00, does that sound about right?",q,MR. ARNER,start_answer
+240,544,21,24,Yes.,a,THE WITNESS,start_question
+241,546,22,1,Where were you coming from?,q,MR. ARNER,start_answer
+242,547,22,2,I was coming from my kids' mother's house.,a,THE WITNESS,start_question
+243,549,22,4,Where is that located?,q,MR. ARNER,start_answer
+244,550,22,5,"It's on Fox Street, a little block right off Fox.",a,THE WITNESS,start_question
+245,552,22,7,Where were you going?,q,MR. ARNER,start_answer
+246,553,22,8,I was on my way back to south Philadelphia.,a,THE WITNESS,start_question
+247,555,22,10,Is that where you lived?,q,MR. ARNER,start_answer
+248,556,22,11,"No, my kids' mom and the twins, they stayed at her mom's house on 21st Street.  I had to go home, get the car seats and go there.  That's where I was on my way to.",a,THE WITNESS,start_question
+249,560,22,15,Where did this accident happen?,q,MR. ARNER,start_answer
+250,561,22,16,The accident happened on the ramp soon as you merge onto Wissahickon.,a,THE WITNESS,start_question
+251,563,22,18,Is it the Fox Street ramp?,q,MR. ARNER,start_answer
+252,564,22,19,Yes.,a,THE WITNESS,start_question
+253,565,22,20,Did it actually happen on the ramp?,q,MR. ARNER,start_answer
+254,566,22,21,It happened on the ramp as soon as you get on the bottom to merge on.,a,THE WITNESS,start_question
+255,568,22,23,You hadn't merged onto 1 yet?,q,MR. ARNER,start_answer
+256,569,22,24,No.,a,THE WITNESS,start_question
+257,571,23,1,"At the area where the accident happened, describe the roadway for me.  Is it one way?  Is it two lanes?",q,MR. ARNER,start_answer
+258,574,23,4,"Coming to merge on, I believe, it's three lanes.",a,THE WITNESS,start_question
+259,576,23,6,The onramp has three lanes?,q,MR. ARNER,start_answer
+260,577,23,7,The onramp has one lane to merge into the traffic.,a,THE WITNESS,start_question
+261,579,23,9,The onramp has one lane?,q,MR. ARNER,start_answer
+262,580,23,10,Yes.,a,THE WITNESS,start_question
+263,581,23,11,Am I right that it's on a downward slope?,q,MR. ARNER,start_answer
+264,583,23,13,Yes.,a,THE WITNESS,start_question
+265,584,23,14,How was the weather that day?,q,MR. ARNER,start_answer
+266,585,23,15,"It was early.  It wasn't raining or anything.  I believe it started raining afterwards, though.",a,THE WITNESS,start_question
+267,588,23,18,Do you know if the roadways were slick at the time of the accident?,q,MR. ARNER,start_answer
+268,590,23,20,"No, it wasn't.",a,THE WITNESS,start_question
+269,591,23,21,Why don't you tell me what happened.,q,MR. ARNER,start_answer
+270,592,23,22,"When I turned to come down the ramp to merge onto the southbound to go towards south Philadelphia, there was a car in front of me. I had to slow down.  When I slowed down, I probably was doing about 15 miles.  It's not that long until you get to where you're at. When I slowed down, there was a car in front of me waiting to get on.  When I slowed down, three seconds later an impact came behind me.",a,THE WITNESS,start_question
+271,603,24,8,Were you moving or stopped?,q,MR. ARNER,start_answer
+272,604,24,9,"No, I was stopped.  I was at a complete stop.",a,THE WITNESS,start_question
+273,606,24,11,How long were you stopped for before the impact occurred?,q,MR. ARNER,start_answer
+274,608,24,13,"About two to three seconds, tops.",a,THE WITNESS,start_question
+275,609,24,14,"How would you classify the impact itself?  Was it light, medium, hard, somethings else?",q,MR. ARNER,start_answer
+276,612,24,17,It was hard.  It was a nice impact.,a,THE WITNESS,start_question
+277,613,24,18,What was the first thing that you did after the impact?,q,MR. ARNER,start_answer
+278,615,24,20,"I was stuck for a little, like a split second or two.  I was stuck, and when I looked back, I seen the guy that hit me.  He was in the Acura.  When I got out of the car, I was startled a little bit.  I was like, what's going on?  You're coming fast down the ramp.  He said I'm sorry, I didn't mean it. I said, I understand that.  At first, I forgot that I just put the car seats in there.  So I'm thinking I'm just happy that my kids wasn't in there because it was a nice impact.  It was that. We called the cops.  They said, being as though there wasn't nobody hurt for real, no deaths or anything, no major injuries, just go to the side of the road or pull off and pull the cars by wherever Main Street at. That's what happened.",a,THE WITNESS,start_question
+279,634,25,14,"Now, whose car were you driving on the date of the accident?",q,MR. ARNER,start_answer
+280,636,25,16,I was driving my kids' mother's car. Her name is Andrea Sheard.,a,THE WITNESS,start_question
+281,638,25,18,"Is Andrea the owner of the vehicle, or is that your kids' mom?",q,MR. ARNER,start_answer
+282,640,25,20,She's the owner of the vehicle.,a,THE WITNESS,start_question
+283,641,25,21,Who's Genevede Sheard?,q,MR. ARNER,start_answer
+284,642,25,22,That's her mother.,a,THE WITNESS,start_question
+285,643,25,23,"Is she the owner of the car, do you know?",q,MR. ARNER,start_answer
+286,646,26,1,I thought that Andrea was the owner of the car.  I just thought that Genevede co-signed for her.,a,THE WITNESS,start_question
+287,649,26,4,Andrea is your kids' mother?,q,MR. ARNER,start_answer
+288,650,26,5,Yes.,a,THE WITNESS,start_question
+289,651,26,6,What kind of car was it?,q,MR. ARNER,start_answer
+290,652,26,7,It was a Chevy Malibu.,a,THE WITNESS,start_question
+291,653,26,8,"At any point after the accident, did you have an opportunity to look at the damage to the Malibu?",q,MR. ARNER,start_answer
+292,656,26,11,"Yes, I had walked around the car, took pictures of his car.",a,THE WITNESS,start_question
+293,658,26,13,"What did you see, if anything, to the back of Ms. Sheard's car?",q,MR. ARNER,start_answer
+294,660,26,15,"It was dented in a little, and I think the trunk was up a little bit.",a,THE WITNESS,start_question
+295,662,26,17,Did you see any other damage?,q,MR. ARNER,start_answer
+296,663,26,18,"No, I just seen the back damage.",a,THE WITNESS,start_question
+297,664,26,19,"I got two photographs here of what I believe to be the back of the car.  They're marked as Branch-2 and Branch-3.  Take a look at them real quick. Is that the car, first of all?",q,MR. ARNER,start_answer
+298,669,26,24,This is the car.,a,THE WITNESS,start_question
+299,671,27,1,"Looking at both photographs, does it show the damage that you can see?",q,MR. ARNER,start_answer
+300,673,27,3,Yes.,a,THE WITNESS,start_question
+301,674,27,4,"In particular, you pointed to Branch-3, and I think you pointed out how the fender is kind of pulled apart or pulled out?",q,MR. ARNER,start_answer
+302,677,27,7,Yes.,a,THE WITNESS,start_question
+303,678,27,8,Did you see any other damage to the vehicle as you were walking around?,q,MR. ARNER,start_answer
+304,680,27,10,"That's about it, just those damages.",a,THE WITNESS,start_question
+305,681,27,11,"Other than what you already told me, did you have any further conversation with the guy who struck you?",q,MR. ARNER,start_answer
+306,684,27,14,No.,a,THE WITNESS,start_question
+307,685,27,15,Was that car equipped with airbags?,q,MR. ARNER,start_answer
+308,686,27,16,Andrea's car?,a,THE WITNESS,start_question
+309,687,27,17,Yes.,q,MR. ARNER,start_answer
+310,688,27,18,Yes.,a,THE WITNESS,start_question
+311,689,27,19,Did they go off?,q,MR. ARNER,start_answer
+312,690,27,20,They didn't go off.,a,THE WITNESS,start_question
+313,691,27,21,Did you or any part of your body strike anything inside the vehicle?,q,MR. ARNER,start_answer
+314,693,27,23,"I don't believe.  I know I was back and forward.  It was a long time, but I don't believe so.",a,THE WITNESS,start_question
+315,697,28,2,"Now, did the police eventually come?",q,MR. ARNER,start_answer
+316,698,28,3,"Yes, they're the ones that helped us on the side on the shoulder.",a,THE WITNESS,start_question
+317,700,28,5,Did you speak to the police officer?,q,MR. ARNER,start_answer
+318,701,28,6,Yes.,a,THE WITNESS,start_question
+319,702,28,7,Tell me about the conversation you had with the officer.,q,MR. ARNER,start_answer
+320,704,28,9,"I just told him what happened, and he asked the guy, how was you saying that you were going 15 miles per hour.  He was getting on him about how you're coming dawn the ramp that fast because his car was totaled, and he wrote down the incident report.",a,THE WITNESS,start_question
+321,710,28,15,Did he ask you if you were injured?,q,MR. ARNER,start_answer
+322,711,28,16,Yes.,a,THE WITNESS,start_question
+323,712,28,17,Did you respond to that?,q,MR. ARNER,start_answer
+324,713,28,18,"I told him that I was hurting, my back and my neck, but it was more so my neck.",a,THE WITNESS,start_question
+325,715,28,20,Did he call an ambulance for you?,q,MR. ARNER,start_answer
+326,716,28,21,"No, he told me I should just go to the hospital.",a,THE WITNESS,start_question
+327,718,28,23,Did you go to the hospital?,q,MR. ARNER,start_answer
+328,719,28,24,"Yes, I did.",a,THE WITNESS,start_question
+329,721,29,1,When did you go to the hospital?,q,MR. ARNER,start_answer
+330,722,29,2,I believe I went to the hospital either that day or the next day.  I can't recall.  I believe it was the next day.,a,THE WITNESS,start_question
+331,725,29,5,How long were you at the accident scene for in total?,q,MR. ARNER,start_answer
+332,727,29,7,I was at the accident scene probably for like twenty minutes.,a,THE WITNESS,start_question
+333,729,29,9,Where did you go when you left the scene?,q,MR. ARNER,start_answer
+334,731,29,11,"I had to get the car to the next exit. I can't tell you what the next exit is.  It's by Main Street, though.  It was a gas station.  I had to get the car towed.",a,THE WITNESS,start_question
+335,735,29,15,The car was towed to the gas station?,q,MR. ARNER,start_answer
+336,736,29,16,"No.  I was able to still drive the car, just the back was messed up.  I was still able to operate the car and drove to the gas station, but I got it towed because she called about the accident.",a,THE WITNESS,start_question
+337,741,29,21,Who?  Ms. Sheard?,q,MR. ARNER,start_answer
+338,742,29,22,Yes.,a,THE WITNESS,start_question
+339,743,29,23,Was it your kids' mother or her mother?,q,MR. ARNER,start_answer
+340,746,30,1,I believe it was her that called.,a,THE WITNESS,start_question
+341,747,30,2,"When you say her, is that Andrea?",q,MR. ARNER,start_answer
+342,748,30,3,Andrea.  I believe it was Andrea Sheard.  I never really got a chance to talk to her about it because she was pissed off.,a,THE WITNESS,start_question
+343,751,30,6,Where did you go when you left the gas station?,q,MR. ARNER,start_answer
+344,753,30,8,"After that, I called my brother.  He had a car.  He had a vehicle.  He came and got me.",a,THE WITNESS,start_question
+345,756,30,11,Where did he take you?,q,MR. ARNER,start_answer
+346,757,30,12,He took me to my mom's house.  I was exhausted being as though I was getting up early.,a,THE WITNESS,start_question
+347,760,30,15,You went home?,q,MR. ARNER,start_answer
+348,761,30,16,"I went home, laid down for a while.",a,THE WITNESS,start_question
+349,762,30,17,The next day you ended up going to the hospital?,q,MR. ARNER,start_answer
+350,764,30,19,I believe so.,a,THE WITNESS,start_question
+351,765,30,20,That's what I think I saw. Where did you go?,q,MR. ARNER,start_answer
+352,767,30,22,I went to Methodist.,a,THE WITNESS,start_question
+353,768,30,23,Same hospital that you went before?,q,MR. ARNER,start_answer
+354,769,30,24,Yes.,a,THE WITNESS,start_question
+355,771,31,1,What did they do for you at Methodist?,q,MR. ARNER,start_answer
+356,772,31,2,The same thing.,a,THE WITNESS,start_question
+357,773,31,3,What area or areas did you injure in this accident?,q,MR. ARNER,start_answer
+358,775,31,5,My back and my neck.,a,THE WITNESS,start_question
+359,776,31,6,Anything else?,q,MR. ARNER,start_answer
+360,777,31,7,That's about it.,a,THE WITNESS,start_question
+361,778,31,8,When did you first start to feel neck pain?,q,MR. ARNER,start_answer
+362,780,31,10,I believe later on that night.,a,THE WITNESS,start_question
+363,781,31,11,Did you do anything for your neck pain that night?,q,MR. ARNER,start_answer
+364,783,31,13,I don't think so.,a,THE WITNESS,start_question
+365,784,31,14,When did you first feel the back pain?,q,MR. ARNER,start_answer
+366,785,31,15,It came probably a few days afterwards.  It was like my back go in and out.  It's really my neck.  My neck is the one that gave me the problem the most.,a,THE WITNESS,start_question
+367,789,31,19,"When you ended up going to the hospital at Methodist, when you got there, on a scale of 0 to 10, 0 being no pain, 10 being the most excruciating pain you can imagine, how would you rate your neck pain when you went to the hospital the next day?",q,MR. ARNER,start_answer
+368,796,32,1,Probably a 7 or 8.,a,THE WITNESS,start_question
+369,797,32,2,How about your back pain at that point?,q,MR. ARNER,start_answer
+370,799,32,4,I believe probably was the same.,a,THE WITNESS,start_question
+371,800,32,5,"Now, at some point, you ended up treating with Dr. Bowden again?",q,MR. ARNER,start_answer
+372,802,32,7,Yes.,a,THE WITNESS,start_question
+373,803,32,8,Do you know when you started with him?,q,MR. ARNER,start_answer
+374,804,32,9,I can't recall that.  I don't know.,a,THE WITNESS,start_question
+375,805,32,10,I have December 12th. Does that sound about right?,q,MR. ARNER,start_answer
+376,807,32,12,Probably.  It's been a while since I've been there.,a,THE WITNESS,start_question
+377,809,32,14,How long did you end up treating with him?,q,MR. ARNER,start_answer
+378,811,32,16,I believe that went on for about six or seven months.,a,THE WITNESS,start_question
+379,813,32,18,"I have up to about October 2nd, does that sound right, of 2017?",q,MR. ARNER,start_answer
+380,815,32,20,Yes.,a,THE WITNESS,start_question
+381,816,32,21,"I have that you went about 43 times, does that sound about right?",q,MR. ARNER,start_answer
+382,818,32,23,Yes.,a,THE WITNESS,start_question
+383,819,32,24,Did you have any testing done?,q,MR. ARNER,start_answer
+384,821,33,1,I had got an MRI.,a,THE WITNESS,start_question
+385,822,33,2,You had an MRI of your neck and back again?,q,MR. ARNER,start_answer
+386,824,33,4,Yes.,a,THE WITNESS,start_question
+387,825,33,5,Anything else?,q,MR. ARNER,start_answer
+388,826,33,6,That's about it.,a,THE WITNESS,start_question
+389,827,33,7,Did you have an EMG?  Do you know what an EMG is?,q,MR. ARNER,start_answer
+390,829,33,9,No.,a,THE WITNESS,start_question
+391,830,33,10,That's a test where they stick you with needles and send the electricity through?,q,MR. ARNER,start_answer
+392,833,33,13,"Yes, I did.",a,THE WITNESS,start_question
+393,834,33,14,"Who did that, do you know?",q,MR. ARNER,start_answer
+394,835,33,15,I had that done at Bowden's.,a,THE WITNESS,start_question
+395,836,33,16,In his office?,q,MR. ARNER,start_answer
+396,837,33,17,Yes.,a,THE WITNESS,start_question
+397,838,33,18,Another doctor came in?,q,MR. ARNER,start_answer
+398,839,33,19,Yes.,a,THE WITNESS,start_question
+399,840,33,20,"Dr. Levinstein, is that who it was?",q,MR. ARNER,start_answer
+400,841,33,21,Yes.,a,THE WITNESS,start_question
+401,842,33,22,Did anybody talk to you about the results from the MRI?,q,MR. ARNER,start_answer
+402,844,33,24,Yes.,a,THE WITNESS,start_question
+403,846,34,1,Who?,q,MR. ARNER,start_answer
+404,847,34,2,I believe it was at Bowden's when they got the scripts back.  I believe it was at Bowden's.,a,THE WITNESS,start_question
+405,850,34,5,What did they tell you?,q,MR. ARNER,start_answer
+406,851,34,6,They said they did detect something was wrong with my neck.,a,THE WITNESS,start_question
+407,853,34,8,Did they tell you what it was?,q,MR. ARNER,start_answer
+408,854,34,9,"No, they just told me they detect.",a,THE WITNESS,start_question
+409,855,34,10,Did anyone talk to you about the results from the EMG?,q,MR. ARNER,start_answer
+410,857,34,12,No.,a,THE WITNESS,start_question
+411,858,34,13,Did you have any injections related to your injuries from this accident?,q,MR. ARNER,start_answer
+412,860,34,15,No.,a,THE WITNESS,start_question
+413,861,34,16,How about any surgeries?,q,MR. ARNER,start_answer
+414,862,34,17,No.,a,THE WITNESS,start_question
+415,863,34,18,Who is the last doctor you saw for treatment in association with this December 2016 accident?,q,MR. ARNER,start_answer
+416,866,34,21,"It was at Bowden's, just therapy.",a,THE WITNESS,start_question
+417,867,34,22,"When you stopped treating at Bowden's, you didn't see another doctor?",q,MR. ARNER,start_answer
+418,869,34,24,No.,a,THE WITNESS,start_question
+419,871,35,1,The last time you would have seen a doctor was October of 2017?,q,MR. ARNER,start_answer
+420,873,35,3,Yes.,a,THE WITNESS,start_question
+421,874,35,4,Do you have any appointments with any doctor scheduled now?,q,MR. ARNER,start_answer
+422,876,35,6,No.,a,THE WITNESS,start_question
+423,877,35,7,Do you have any plans on scheduling any doctors appointments?,q,MR. ARNER,start_answer
+424,879,35,9,"I do.  I just recently got insurance. Now, I'm looking for a physician.",a,THE WITNESS,start_question
+425,881,35,11,Are you going to go back to Dr. Bowden?,q,MR. ARNER,start_answer
+426,883,35,13,Yes.,a,THE WITNESS,start_question
+427,884,35,14,Have you made plans to go back to see Dr. Bowden?,q,MR. ARNER,start_answer
+428,886,35,16,Not yet.,a,THE WITNESS,start_question
+429,887,35,17,"At the time when you stopped treating at Dr. Bowden, how was your neck feeling on that scale of 0 to 10?",q,MR. ARNER,start_answer
+430,890,35,20,"I still was hurting, still am, but I couldn't go back because I didn't have insurance.  I would have been paying out of pocket, which I can't do.",a,THE WITNESS,start_question
+431,894,35,24,"At the time when you stopped treating at Dr. Bowden's, on that scale of 0 to 10, how was your neck feeling at the time when you stopped treating with him?",q,MR. ARNER,start_answer
+432,899,36,4,Probably about a 7.,a,THE WITNESS,start_question
+433,900,36,5,So it hadn't changed much?,q,MR. ARNER,start_answer
+434,901,36,6,It hasn't changed much.,a,THE WITNESS,start_question
+435,902,36,7,"How about your back, how was it feeling at the time of discharge on that 0 to 10 scale?",q,MR. ARNER,start_answer
+436,905,36,10,About a 5.,a,THE WITNESS,start_question
+437,906,36,11,Did the treatment help you at all?,q,MR. ARNER,start_answer
+438,907,36,12,Not really.,a,THE WITNESS,start_question
+439,908,36,13,"As a result of your injuries, did it affect your daily life in any way?",q,MR. ARNER,start_answer
+440,910,36,15,"No, not really, certain things.",a,THE WITNESS,start_question
+441,911,36,16,What certain things?,q,MR. ARNER,start_answer
+442,912,36,17,Like me working out.  I really can't work out.  I like to go to the gym.,a,THE WITNESS,start_chat
+443,914,36,19,"He's not talking about now.  He's talking about, say, six months after the accident.",side_chat,MR. GALLANT,start_chat
+444,917,36,22,We can do that.,side_chat,MR. ARNER,start_question
+445,919,36,24,"While you were in treatment, was your daily life affected from your injuries?",q,MR. ARNER,start_answer
+446,922,37,2,No.,a,THE WITNESS,start_question
+447,923,37,3,"How about after you stopped treating, was your daily life affected in any way?",q,MR. ARNER,start_answer
+448,925,37,5,Yes.,a,THE WITNESS,start_question
+449,926,37,6,Tell me how.,q,MR. ARNER,start_answer
+450,927,37,7,Because I wasn't getting no treatment.,a,THE WITNESS,start_question
+451,928,37,8,Then you said exercising was difficult for you?,q,MR. ARNER,start_answer
+452,930,37,10,Yes.,a,THE WITNESS,start_question
+453,931,37,11,What about exercising was causing you problems?,q,MR. ARNER,start_answer
+454,933,37,13,When I lift certain stuff.  That's about it.,a,THE WITNESS,start_question
+455,935,37,15,Anything else?,q,MR. ARNER,start_answer
+456,936,37,16,That's about it.,a,THE WITNESS,start_question
+457,937,37,17,"Did it hurt your neck, back or both?",q,MR. ARNER,start_answer
+458,938,37,18,My back but more so my neck.,a,THE WITNESS,start_question
+459,939,37,19,Any other aspect of your life that was affected?,q,MR. ARNER,start_answer
+460,941,37,21,No.,a,THE WITNESS,start_question
+461,942,37,22,"How about now, is your life affected in any way now?",q,MR. ARNER,start_answer
+462,944,37,24,It's the same.,a,THE WITNESS,start_question
+463,946,38,1,You have problems exercising?,q,MR. ARNER,start_answer
+464,947,38,2,Yes.,a,THE WITNESS,start_question
+465,948,38,3,Any problems with anything else that we haven't discussed?,q,MR. ARNER,start_answer
+466,950,38,5,No.,a,THE WITNESS,start_question
+467,951,38,6,"At the time of this accident, did you have a valid driver's license?",q,MR. ARNER,start_answer
+468,953,38,8,Yes.,a,THE WITNESS,start_question
+469,954,38,9,When did you get a driver's license? Age 16?,q,MR. ARNER,start_answer
+470,956,38,11,"No, I want to say 23.",a,THE WITNESS,start_question
+471,957,38,12,"Ever been suspended or revoked, your license?",q,MR. ARNER,start_answer
+472,959,38,14,"Yes, it was suspended.",a,THE WITNESS,start_question
+473,960,38,15,When?,q,MR. ARNER,start_answer
+474,961,38,16,For driving without a license.,a,THE WITNESS,start_question
+475,962,38,17,Do you know from when to when?,q,MR. ARNER,start_answer
+476,963,38,18,I was young.  It was a long time ago.,a,THE WITNESS,start_question
+477,964,38,19,Was it suspended up until you got a license at 23?,q,MR. ARNER,start_answer
+478,966,38,21,Yes.,a,THE WITNESS,start_question
+479,967,38,22,Have you ever been convicted of any crimes?,q,MR. ARNER,start_answer
+480,969,38,24,Yes.,a,THE WITNESS,start_question
+481,971,39,1,What?,q,MR. ARNER,start_answer
+482,972,39,2,Aggravated assault.,a,THE WITNESS,start_question
+483,973,39,3,Anything else?,q,MR. ARNER,start_answer
+484,974,39,4,Narcotics.,a,THE WITNESS,start_question
+485,975,39,5,When was the aggravated assault?,q,MR. ARNER,start_answer
+486,976,39,6,"2009, I believe.",a,THE WITNESS,start_question
+487,977,39,7,Did you do any time for it?,q,MR. ARNER,start_answer
+488,978,39,8,Yes.,a,THE WITNESS,start_question
+489,979,39,9,How much?,q,MR. ARNER,start_answer
+490,980,39,10,Six years.,a,THE WITNESS,start_question
+491,981,39,11,Where at?,q,MR. ARNER,start_answer
+492,982,39,12,Pine Grove SCI.,a,THE WITNESS,start_question
+493,983,39,13,When were you released?,q,MR. ARNER,start_answer
+494,984,39,14,November 16th of 2015.,a,THE WITNESS,start_question
+495,985,39,15,Were you on probation?,q,MR. ARNER,start_answer
+496,986,39,16,"Yes, parole.",a,THE WITNESS,start_question
+497,987,39,17,Are you still on?,q,MR. ARNER,start_answer
+498,988,39,18,I get off in seven months.,a,THE WITNESS,start_question
+499,989,39,19,"How about the narcotics, when was that?",q,MR. ARNER,start_answer
+500,991,39,21,It was the same time.,a,THE WITNESS,start_question
+501,992,39,22,"Was that in April of '11, the narcotics?",q,MR. ARNER,start_answer
+502,994,39,24,Yes.,a,THE WITNESS,start_question
+503,996,40,1,Did you do any time for that?,q,MR. ARNER,start_answer
+504,997,40,2,"Yes, it ran concurrent, so I did them both at the same time.",a,THE WITNESS,start_question
+505,999,40,4,"How much time did they give you for that, even though you ran concurrent?",q,MR. ARNER,start_answer
+506,1001,40,6,One to two years.,a,THE WITNESS,start_question
+507,1002,40,7,Any other convictions?,q,MR. ARNER,start_answer
+508,1003,40,8,No.,a,THE WITNESS,start_question
+509,1004,40,9,"At the time of the accident, were you by yourself?",q,MR. ARNER,start_answer
+510,1006,40,11,"Yes, I was alone.",a,THE WITNESS,start_chat
+511,1007,40,12,That's all I got for you.,side_chat,MR. ARNER,symbols
+512,1009,40,14,- - -,symbols,,is brackets
+513,1010,40,15,"(Whereupon, the deposition concluded at 10:46 a.m.)",brackets,,symbols
+514,1012,40,17,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 3, 2019, and that this is a correct transcription of same.",symbols,,end

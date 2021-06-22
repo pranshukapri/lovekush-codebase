@@ -1,0 +1,786 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," DELLA YOUNG, called as a witness herein, having been first duly sworn, was examined and testified as follows: EXAMINATION",,,start_question
+1,100,4,10,Could you please state and spell your first and last name for the record?,q,MS. HASKELL,start_answer
+2,102,4,12,"My name is Della Young, D-E-L-L-A, Y-O-U-N-G.",a,THE WITNESS,start_chat
+3,103,4,13,"Let the record reflect that this is the discovery deposition of Della Young taken pursuant to notice by agreement of the parties and witness and pursuant to all Illinois Rules of Civil Procedure, Illinois Supreme Court Rules, and local rules.",side_chat,MS. HASKELL,start_question
+4,109,4,19,"Good morning, Ms. Young.",q,MS. HASKELL,start_answer
+5,110,4,20,Good morning.,a,THE WITNESS,start_question
+6,111,4,21,Have you ever given a deposition before?,q,MS. HASKELL,start_answer
+7,112,4,22,Yes.,a,THE WITNESS,start_question
+8,113,4,23,How long ago?,q,MS. HASKELL,start_answer
+9,114,4,24,"About three years ago.  Three, four years ago.",a,THE WITNESS,start_question
+10,116,5,1,Only one deposition?,q,MS. HASKELL,start_answer
+11,117,5,2,Yes.,a,THE WITNESS,start_question
+12,118,5,3,Was that in a case where you were a party or were you a witness?,q,MS. HASKELL,start_answer
+13,120,5,5,I was a witness.,a,THE WITNESS,start_question
+14,121,5,6,What type of case was that?,q,MS. HASKELL,start_answer
+15,122,5,7,It was a medical malpractice.,a,THE WITNESS,start_question
+16,123,5,8,Was it in Cook County?,q,MS. HASKELL,start_answer
+17,124,5,9,Yes.,a,THE WITNESS,start_question
+18,125,5,10,Did you have to testify at trial?,q,MS. HASKELL,start_answer
+19,126,5,11,Yes.,a,THE WITNESS,start_question
+20,127,5,12,"You may remember from that experience, and I am sure your attorney went over with you about what to expect today.  I am just going to run through some of the standard ground rules today so that we are all on the same page. As you can see we have a court reporter here taking down everything that we say.  For that reason all your answers need to be out loud.  Feel free to shake your head, nod your head, shrug your shoulders, as long as you also give an out loud response.",q,MS. HASKELL,start_answer
+21,137,5,22,Okay.,a,THE WITNESS,start_question
+22,138,5,23,"Similarly, uh-huh and uh-uh look exactly the same in writing.  So if the court reporter, me, or your attorney says is that a yes or a no, it is not because we don't know what you mean.  We are just making sure the record is clear.",q,MS. HASKELL,start_answer
+23,144,6,4,Right.,a,THE WITNESS,start_question
+24,145,6,5,"If at any point you need to take a break, need something to drink, use the restroom, speak to your attorney, perfectly fine.  Just let me know, so long as there is no question pending.  If any of my questions don't make sense to you or you would like me to rephrase them in some way, please let me know and I am happy to do that.  If you answer the question, I am going to assume that you understood it.",q,MS. HASKELL,start_answer
+25,153,6,13,Okay.,a,THE WITNESS,start_question
+26,154,6,14,"Sometimes people think they know what they are answering and then we get a few questions down the road and realize we are talking about two separate things. So if you have any questions about what I am asking about, feel free to let me know.",q,MS. HASKELL,start_answer
+27,159,6,19,Okay.,a,THE WITNESS,start_question
+28,160,6,20,"Your attorney may object to some of my questions.  I may object to some of his.  We don't have a judge here to rule on those objections.  So unless your attorney instructs you not to answer, and you choose to take that instruction, you need to answer that question. And then one last thing, in casual conversation I know we talk over each other a lot.  You probably will know where I am going with some of these questions, but for the sake of the court reporter wait until I am done with my question until you answer; and likewise, I will wait until you finish your answer before I ask the next question.",q,MS. HASKELL,start_answer
+29,174,7,9,Okay.,a,THE WITNESS,start_question
+30,175,7,10,What is your date of birth?,q,MS. HASKELL,start_answer
+31,176,7,11,"July 30, 1965.",a,THE WITNESS,start_question
+32,177,7,12,Happy recent birthday to you.,q,MS. HASKELL,start_answer
+33,178,7,13,Thank you.,a,THE WITNESS,start_question
+34,179,7,14,And what are the last four digits of your social?,q,MS. HASKELL,start_answer
+35,181,7,16,5763.,a,THE WITNESS,start_question
+36,182,7,17,What is your current address?,q,MS. HASKELL,start_answer
+37,183,7,18,6402 South Long Avenue.,a,THE WITNESS,start_question
+38,184,7,19,Long?,q,MS. HASKELL,start_answer
+39,185,7,20,"Long, L-O-N-G, and that's in Chicago 60638.",a,THE WITNESS,start_question
+40,186,7,21,And who do you live there with?,q,MS. HASKELL,start_answer
+41,187,7,22,My husband and my son and my recent daughter-in-law.,a,THE WITNESS,start_question
+42,189,7,24,What is your husband's name?,q,MS. HASKELL,start_answer
+43,191,8,1,Ronald Marciniak.,a,THE WITNESS,start_question
+44,192,8,2,And spell that last name?,q,MS. HASKELL,start_answer
+45,193,8,3,M-A-R-C-I-N-I-A-K.  We have been together for 36 years.  We just decided to get married in April.,a,THE WITNESS,start_question
+46,195,8,5,"Oh wow, congratulations.",q,MS. HASKELL,start_answer
+47,196,8,6,"Thank you.  Even the judge was you are holding the record for me.  And everybody is why did you wait so long?  Well, I didn't know if I wanted to kick him to the curb or not.",a,THE WITNESS,start_question
+48,200,8,10,36 years convinced you it's worth sticking around.,q,MS. HASKELL,start_answer
+49,202,8,12,He was playing hard to get.,a,THE WITNESS,start_question
+50,203,8,13,And what is your son's name?,q,MS. HASKELL,start_answer
+51,204,8,14,Ronald Marciniak.,a,THE WITNESS,start_question
+52,205,8,15,And how old is your son?,q,MS. HASKELL,start_answer
+53,206,8,16,Ronald is 29.,a,THE WITNESS,start_question
+54,207,8,17,And you said your daughter-in-law is with you as well?,q,MS. HASKELL,start_answer
+55,209,8,19,Yes.,a,THE WITNESS,start_question
+56,210,8,20,And what is her name?,q,MS. HASKELL,start_answer
+57,211,8,21,"Lauren McGurn, M-C-G-U-R-N.",a,THE WITNESS,start_question
+58,212,8,22,How long have you all lived at the address on Long Avenue?,q,MS. HASKELL,start_answer
+59,214,8,24,15 years.,a,THE WITNESS,start_question
+60,216,9,1,And any plans to move in the near future?,q,MS. HASKELL,start_answer
+61,217,9,2,I hope so.,a,THE WITNESS,start_question
+62,218,9,3,You are looking to move?,q,MS. HASKELL,start_answer
+63,219,9,4,"Yes.  Actually, we are going to Florida next month.  We usually go every year because we do a big family trip, but my husband wasn't doing too well, and so we decided to wait.  We are going in September and we are driving.",a,THE WITNESS,start_question
+64,224,9,9,Do you have a place down there?,q,MS. HASKELL,start_answer
+65,225,9,10,"No.  We are actually going to stay at Treasure Island, and we are going to bring our dog with us, hundred pound German Shepherd.  He is a police dog.",a,THE WITNESS,start_question
+66,228,9,13,"Okay.  Long drive, though, right?",q,MS. HASKELL,start_answer
+67,229,9,14,"Oh, yeah.",a,THE WITNESS,start_question
+68,230,9,15,Let's see.  Do you have any other children other than Ronald?,q,MS. HASKELL,start_answer
+69,232,9,17,Yes.,a,THE WITNESS,start_question
+70,233,9,18,What are your other children?,q,MS. HASKELL,start_answer
+71,234,9,19,I have Heather.,a,THE WITNESS,start_question
+72,235,9,20,How old is Heather?,q,MS. HASKELL,start_answer
+73,236,9,21,Heather is 36.,a,THE WITNESS,start_question
+74,237,9,22,And anyone else?,q,MS. HASKELL,start_answer
+75,238,9,23,Walter.,a,THE WITNESS,start_question
+76,239,9,24,And how old is Walter?,q,MS. HASKELL,start_answer
+77,241,10,1,Walter is 28.,a,THE WITNESS,start_question
+78,242,10,2,And any others?,q,MS. HASKELL,start_answer
+79,243,10,3,"Veronica, she is 27.",a,THE WITNESS,start_question
+80,244,10,4,And any others?,q,MS. HASKELL,start_answer
+81,245,10,5,Monica who is 26.,a,THE WITNESS,start_question
+82,246,10,6,"Oh, my goodness.  They are so close in age.",q,MS. HASKELL,start_answer
+83,247,10,7,Amanda is 25.,a,THE WITNESS,start_question
+84,248,10,8,"Oh, my gosh.",q,MS. HASKELL,start_answer
+85,249,10,9,Do we need to keep going?,a,THE WITNESS,start_question
+86,250,10,10,Do you have more?,q,MS. HASKELL,start_answer
+87,251,10,11,Let's see.  Amanda.,a,THE WITNESS,start_chat
+88,252,10,12,Amanda is 25. BY THE WITNESS:,side_chat,MR. MALATESTA,start_answer
+89,254,10,14,"Monica, Veronica, Amanda.  Who is next?  You put me on the spot.",a,THE WITNESS,start_question
+90,256,10,16,How many total children?,q,MS. HASKELL,start_answer
+91,257,10,17,11.,a,THE WITNESS,start_question
+92,258,10,18,Oh wow.  And how old is your youngest?,q,MS. HASKELL,start_answer
+93,259,10,19,Max is ten.,a,THE WITNESS,start_question
+94,260,10,20,Where does Max lives?,q,MS. HASKELL,start_answer
+95,261,10,21,"Max lives with his adoptive parents.  Max is ten years old.  He was born on Christmas Eve, emergency, of course.  I had a -- I can't think of the name -- with the blood.  I had to have an emergency C-section.",a,THE WITNESS,start_question
+96,266,11,1,Okay.,q,MS. HASKELL,start_answer
+97,267,11,2,"Because my blood pressure was, like, 200 over 70.  So I don't know what you called that.",a,THE WITNESS,start_question
+98,269,11,4,Preeclampsia?,q,MS. HASKELL,start_answer
+99,270,11,5,"Yes, I had preeclampsia.",a,THE WITNESS,start_question
+100,271,11,6,Do all of your children live in Illinois?,q,MS. HASKELL,start_answer
+101,272,11,7,Yes.,a,THE WITNESS,start_question
+102,273,11,8,Are you originally from Illinois?,q,MS. HASKELL,start_answer
+103,274,11,9,Yes.,a,THE WITNESS,start_question
+104,275,11,10,And have you lived around the Chicago area since?,q,MS. HASKELL,start_answer
+105,277,11,12,All my life.,a,THE WITNESS,start_question
+106,278,11,13,What is your highest level of education?,q,MS. HASKELL,start_answer
+107,279,11,14,9th grade.,a,THE WITNESS,start_question
+108,280,11,15,And where did you attend 9th grade?,q,MS. HASKELL,start_answer
+109,281,11,16,Lourdes.,a,THE WITNESS,start_question
+110,282,11,17,"And that's in Chicago, correct?",q,MS. HASKELL,start_answer
+111,283,11,18,Yes.  It is now Hancock.  It is now called Hancock.,a,THE WITNESS,start_question
+112,285,11,20,Since 9th grade have you completed any kind of certificate or degree programs of any type?,q,MS. HASKELL,start_answer
+113,287,11,22,No.,a,THE WITNESS,start_question
+114,288,11,23,Are you currently employed?,q,MS. HASKELL,start_answer
+115,289,11,24,No.,a,THE WITNESS,start_question
+116,291,12,1,When is the last time that you were employed?,q,MS. HASKELL,start_answer
+117,292,12,2,Three years ago.,a,THE WITNESS,start_question
+118,293,12,3,2016?,q,MS. HASKELL,start_answer
+119,294,12,4,Yes.,a,THE WITNESS,start_question
+120,295,12,5,And was that with the dental office?,q,MS. HASKELL,start_answer
+121,296,12,6,Yes.,a,THE WITNESS,start_question
+122,297,12,7,Khouri Dental?,q,MS. HASKELL,start_answer
+123,298,12,8,"Dr. Khouri, yes.",a,THE WITNESS,start_question
+124,299,12,9,"And that's, for the record, K-H-O-U-R-I?",q,MS. HASKELL,start_answer
+125,300,12,10,Yes.,a,THE WITNESS,start_question
+126,301,12,11,How long did you work for Dr. Khouri?,q,MS. HASKELL,start_answer
+127,302,12,12,Eight years.,a,THE WITNESS,start_question
+128,303,12,13,And what was your position?,q,MS. HASKELL,start_answer
+129,304,12,14,I was office manager and dental assistant.,a,THE WITNESS,start_question
+130,305,12,15,Where is Dr. Khouri's office located?,q,MS. HASKELL,start_answer
+131,306,12,16,87th and Harlem.  7257 West 87th Street.,a,THE WITNESS,start_question
+132,307,12,17,"And based on the records we received from your lawyer, it said that you stopped working there in around September of 2016; is that correct?",q,MS. HASKELL,start_answer
+133,310,12,20,Correct.,a,THE WITNESS,start_question
+134,311,12,21,What was the circumstances that led to you stop working?,q,MS. HASKELL,start_answer
+135,313,12,23,"When I originally had my accident, I went back, and I went from 40 hours to 30 hours because our office dealt with mentally and physically handicapped patients, and I couldn't handle my workload because of my accident.  So I was cut down to 30 hours and then cut down again to 12 hours, and then terminated.",a,THE WITNESS,start_question
+136,320,13,5,To 12 hours?,q,MS. HASKELL,start_answer
+137,321,13,6,"Yeah, it went down to 12 hours a week and then I was terminated.",a,THE WITNESS,start_question
+138,323,13,8,And that was in a span of about a month?,q,MS. HASKELL,start_answer
+139,324,13,9,No.  That's --,a,THE WITNESS,start_question
+140,325,13,10,Because your accident was in August.,q,MS. HASKELL,start_answer
+141,326,13,11,"August, correct.  It was August 7th.",a,THE WITNESS,start_question
+142,327,13,12,And at some point in September you were let go?,q,MS. HASKELL,start_answer
+143,329,13,14,No.  It was the week before Christmas.  It was the one week exactly before Christmas.,a,THE WITNESS,start_question
+144,331,13,16,Did you request that your hours be reduced or did the office?,q,MS. HASKELL,start_answer
+145,333,13,18,The doctor because I couldn't move patients. I couldn't do anything.,a,THE WITNESS,start_question
+146,335,13,20,What were your general job duties as the office manager at that location?,q,MS. HASKELL,start_answer
+147,337,13,22,I arranged transportation for patients.  I made appointments.  I assisted the doctor.  I cleaned the office.  I sterilized all the instruments.  I took X-rays.  I did impressions for dentures.  I have done almost everything except pull a tooth.,a,THE WITNESS,start_question
+148,343,14,3,How many other staff members were working there?,q,MS. HASKELL,start_answer
+149,345,14,5,"There was -- when I first started there was six of us, and then we went down to four, and then we went down to the four of us, it was me, the doctor, the doctor's -- and the doctor's sister.  So we went down to three.",a,THE WITNESS,start_question
+150,350,14,10,At the time of your accident at Wal-Mart was it down to three?,q,MS. HASKELL,start_answer
+151,352,14,12,"It was four, yeah.  Me and the other three.",a,THE WITNESS,start_question
+152,353,14,13,"When your hours were reduced, do you know who was taking on those responsibilities?",q,MS. HASKELL,start_answer
+153,355,14,15,"Angie was terminated, and then it was the doctor, the doctor's sister, and I.  Actually, I got terminated, and then, you know, the doctor and her sister were always fighting so she has fired her a hundred times.  So I don't know what happened.",a,THE WITNESS,start_question
+154,360,14,20,So Angie was another staff member?,q,MS. HASKELL,start_answer
+155,361,14,21,Yes.,a,THE WITNESS,start_question
+156,362,14,22,Was she terminated before or after your accident?,q,MS. HASKELL,start_answer
+157,364,14,24,"Before.  It was a year before.  She was an older lady, you know.",a,THE WITNESS,start_question
+158,367,15,2,"Then since being terminated from Dr. Khouri's office, have you sought out employment elsewhere?",q,MS. HASKELL,start_answer
+159,369,15,4,"Yes, several times.",a,THE WITNESS,start_question
+160,370,15,5,And have you started working anywhere else?,q,MS. HASKELL,start_answer
+161,371,15,6,No.,a,THE WITNESS,start_question
+162,372,15,7,Are you looking for a similar type job?,q,MS. HASKELL,start_answer
+163,373,15,8,"I wish I could, but I don't have no degree.  I was trained hands on which was another blessing for me and nowadays you have to have a degree.  So to lose that job was like, whew.",a,THE WITNESS,start_question
+164,377,15,12,Before the accident at Wal-Mart you said you were working 40 hours a week?,q,MS. HASKELL,start_answer
+165,379,15,14,Yes.,a,THE WITNESS,start_question
+166,380,15,15,What was your rate of pay?,q,MS. HASKELL,start_answer
+167,381,15,16,"When I started out, I started at $8 an hour.",a,THE WITNESS,start_question
+168,382,15,17,Okay.,q,MS. HASKELL,start_answer
+169,383,15,18,And when I left I was at 14.,a,THE WITNESS,start_question
+170,384,15,19,Were you making $14 an hour at the time of your accident at Wal-Mart?,q,MS. HASKELL,start_answer
+171,386,15,21,Yes.,a,THE WITNESS,start_question
+172,387,15,22,Have you ever filed a workers' comp. claim?,q,MS. HASKELL,start_answer
+173,388,15,23,No.,a,THE WITNESS,start_question
+174,389,15,24,Have you ever filed for bankruptcy?,q,MS. HASKELL,start_answer
+175,391,16,1,No.,a,THE WITNESS,start_question
+176,392,16,2,Have you ever filed or been a party to any other personal injury claim?,q,MS. HASKELL,start_answer
+177,394,16,4,No.,a,THE WITNESS,start_question
+178,395,16,5,Was that medical malpractice you gave a deposition for related to your work with Dr. Khouri?,q,MS. HASKELL,start_answer
+179,397,16,7,"Well, I was the assistant that did the procedure on the patient so I had to testify to what actually happened.",a,THE WITNESS,start_question
+180,400,16,10,But you became involved through your job?,q,MS. HASKELL,start_answer
+181,401,16,11,Yes.,a,THE WITNESS,start_question
+182,402,16,12,Do you have a primary care physician?,q,MS. HASKELL,start_answer
+183,403,16,13,Yes.,a,THE WITNESS,start_question
+184,404,16,14,And what is his or her name?,q,MS. HASKELL,start_answer
+185,405,16,15,Dr. Danica Milenkovich and I cannot spell that.,a,THE WITNESS,start_question
+186,407,16,17,I think I have it.  M-I-L-E-N-K-O-V-I-C-H.,q,MS. HASKELL,start_answer
+187,408,16,18,Sounds correct.,a,THE WITNESS,start_question
+188,409,16,19,How long have you been a patient of hers?,q,MS. HASKELL,start_answer
+189,410,16,20,My husband and I have both been a patient of hers I want to say for 11 years.,a,THE WITNESS,start_question
+190,412,16,22,And she is through Mercy Medical Center?,q,MS. HASKELL,start_answer
+191,413,16,23,Correct.,a,THE WITNESS,start_question
+192,414,16,24,"Prior to your accident at Wal-Mart, so just talking all the times before then, and then we will talk about medical after in a little bit.  But before your fall at Wal-Mart, had you ever injured either of your knees?",q,MS. HASKELL,start_answer
+193,420,17,5,No.,a,THE WITNESS,start_question
+194,421,17,6,Have you ever sought any kind of treatment for either knee?,q,MS. HASKELL,start_answer
+195,423,17,8,No.,a,THE WITNESS,start_question
+196,424,17,9,Have you ever had any kind of chronic pain or anything like that in your knees?,q,MS. HASKELL,start_answer
+197,426,17,11,No.,a,THE WITNESS,start_question
+198,427,17,12,Before your fall at Wal-Mart had you ever injured either shoulder?,q,MS. HASKELL,start_answer
+199,429,17,14,No.,a,THE WITNESS,start_question
+200,430,17,15,"Same questions, have you ever sought treatment for either shoulder?",q,MS. HASKELL,start_answer
+201,432,17,17,No.,a,THE WITNESS,start_question
+202,433,17,18,And have you ever seen an orthopedic surgeon before you fell at Wal-Mart?,q,MS. HASKELL,start_answer
+203,435,17,20,Yes.  Once when I was 13.  I broke my arm. And then probably about 13 years ago I broke the same arm in the same place.,a,THE WITNESS,start_question
+204,438,17,23,Do you remember the name of the doctor you saw?,q,MS. HASKELL,start_answer
+205,441,18,1,I don't remember.,a,THE WITNESS,start_question
+206,442,18,2,Do you remember what hospital system he was in?,q,MS. HASKELL,start_answer
+207,444,18,4,"MacNeal.  I think it was MacNeal because I walked around for three months with a broken arm thinking it will get better, but when I had to start moving it manually, I knew something was wrong.",a,THE WITNESS,start_question
+208,448,18,8,And that's your right arm?,q,MS. HASKELL,start_answer
+209,449,18,9,Yes.  It was my forearm.,a,THE WITNESS,start_question
+210,450,18,10,Did you have to have any surgery for that?,q,MS. HASKELL,start_answer
+211,451,18,11,"No.  Actually, it broke in the exact same place that I broke it the first time, and it started to heal the same way.  So they just put it in a cast.",a,THE WITNESS,start_question
+212,454,18,14,How long were you in a cast?,q,MS. HASKELL,start_answer
+213,455,18,15,Probably about six weeks.,a,THE WITNESS,start_question
+214,456,18,16,Did you have to go to physical therapy at all?,q,MS. HASKELL,start_answer
+215,457,18,17,No.,a,THE WITNESS,start_question
+216,458,18,18,"Okay.  So I want to turn to the day of your fall at Wal-Mart, and as you stated before, that was August 7, 2016, right?",q,MS. HASKELL,start_answer
+217,461,18,21,Correct.,a,THE WITNESS,start_question
+218,462,18,22,"So if I refer to the fall or the accident, that's the date I am talking about, okay?",q,MS. HASKELL,start_answer
+219,464,18,24,Okay.,a,THE WITNESS,start_question
+220,466,19,1,And this was the Bedford Park store; is that right?,q,MS. HASKELL,start_answer
+221,468,19,3,Correct.,a,THE WITNESS,start_question
+222,469,19,4,Had you ever been to the Bedford Park store before?,q,MS. HASKELL,start_answer
+223,471,19,6,Every other Sunday of the month.,a,THE WITNESS,start_question
+224,472,19,7,Is that where you do your typical shopping?,q,MS. HASKELL,start_answer
+225,473,19,8,"I used to, yes.",a,THE WITNESS,start_question
+226,474,19,9,How far is that store from where you were living at the time?,q,MS. HASKELL,start_answer
+227,476,19,11,"Probably two miles, three miles.",a,THE WITNESS,start_question
+228,477,19,12,"On the day of the your fall, were you coming from your house to go there?",q,MS. HASKELL,start_answer
+229,479,19,14,Yes.,a,THE WITNESS,start_question
+230,480,19,15,And did you drive?,q,MS. HASKELL,start_answer
+231,481,19,16,No.  My husband drove.,a,THE WITNESS,start_question
+232,482,19,17,Did anyone else go with you?,q,MS. HASKELL,start_answer
+233,483,19,18,No.  It was just us.  Our Sunday out.,a,THE WITNESS,start_question
+234,484,19,19,Was there anything in particular that you were going there to get?,q,MS. HASKELL,start_answer
+235,486,19,21,"Yes, our normal things.  We get dog food, cat food, cat litter, soda, shampoo, conditioner. Everything that you would need on a weekly basis.",a,THE WITNESS,start_question
+236,489,19,24,Do you remember about what time of day you went to the store?,q,MS. HASKELL,start_answer
+237,492,20,2,"It was in the afternoon.  I think it was about 2.  Maybe, between 12 and 2.",a,THE WITNESS,start_question
+238,494,20,4,"What had you done earlier that day, if you remember?",q,MS. HASKELL,start_answer
+239,496,20,6,"Woke up.  Did my morning thing.  Let my dogs out.  We went for breakfast, like we do every Sunday. We went to church and then we went to Wal-Mart.  Well, I stopped home, changed my clothes, and then we went to Wal-Mart.",a,THE WITNESS,start_question
+240,501,20,11,"When you arrived at the store, were you in pain in any area of your body?",q,MS. HASKELL,start_answer
+241,503,20,13,No.  I was happy to go shopping.,a,THE WITNESS,start_question
+242,504,20,14,Were you on any medications that day?,q,MS. HASKELL,start_answer
+243,505,20,15,No.,a,THE WITNESS,start_question
+244,506,20,16,In the 24 hours before going to the store had you had any alcohol or any other kind of medication?,q,MS. HASKELL,start_answer
+245,508,20,18,"I don't drink, no.",a,THE WITNESS,start_question
+246,509,20,19,Do you remember what kind of shoes you were wearing?,q,MS. HASKELL,start_answer
+247,511,20,21,I had Sketchers on.  That's all I wear because I wear them for work.,a,THE WITNESS,start_question
+248,513,20,23,Sketchers sneakers?,q,MS. HASKELL,start_answer
+249,514,20,24,Yes.,a,THE WITNESS,start_question
+250,516,21,1,Do you still have those?,q,MS. HASKELL,start_answer
+251,517,21,2,"Yes, I do.  That's all I buy is Sketchers.",a,THE WITNESS,start_question
+252,518,21,3,Brand loyalty there.,q,MS. HASKELL,start_answer
+253,519,21,4,"Yes.  I buy Bob's, two pair at a time.  The whole family shops there.  So I was able to go and get a brand new pair of gym shoes just on my Sketcher points, $70.00.  So it was kind of cool.",a,THE WITNESS,start_question
+254,523,21,8,It doesn't look like you are wearing glasses today.  Do you normally wear glasses or contacts?,q,MS. HASKELL,start_answer
+255,525,21,10,"No.  Well, I wear glasses for reading and I am going to have an eye exam because I do think I need them now.",a,THE WITNESS,start_question
+256,528,21,13,But in 2016 you didn't have to wear them for driving or anything?,q,MS. HASKELL,start_answer
+257,530,21,15,No.,a,THE WITNESS,start_question
+258,531,21,16,So you get to the store with your husband sometime between 12 and 2.  Can you describe for me once you arrived at the store what you did?,q,MS. HASKELL,start_answer
+259,534,21,19,"We just walked through and did our shopping, picked up our things here and there.  And then we checked out, and I got outside and I went, I forgot the dog food and that's what I came for. So I was, like, oh, my God.  So I walked through, and I walked through the self-checkout, and the next thing I knew I was on the floor.  And I had two people pick me up. And I was, like, you know, what happened?  And then I was sticky like a jam kind of slimy, wet, sticky all over me.  And the two people that had picked me up --",a,THE WITNESS,start_chat
+260,547,22,7,"Della, just listen to her question and answer her question.  She is going to ask you --",side_chat,MR. MALATESTA,start_chat
+261,549,22,9,We are going to break it down.,side_chat,MS. HASKELL,start_chat
+262,550,22,10,She will break all that stuff down. Just listen to her question and answer the question. BY THE WITNESS:,side_chat,MR. MALATESTA,start_answer
+263,553,22,13,I just fell.  I slipped and down I went.,a,THE WITNESS,start_question
+264,554,22,14,So you and your husband go to the store and you did all of your shopping.  You said you checked out. Did you check out at the self registers or did you check out at the regular registers?,q,MS. HASKELL,start_answer
+265,558,22,18,I checked out at the regular registers.,a,THE WITNESS,start_question
+266,559,22,19,Okay.  And you left the store and went to your car?,q,MS. HASKELL,start_answer
+267,561,22,21,No.  We walked outside and I looked at the cart and realized that I had forgot the dog food which was the main reason I went there.,a,THE WITNESS,start_question
+268,564,22,24,Did your husband go back inside with you or did you go back in alone?,q,MS. HASKELL,start_answer
+269,567,23,2,"No, no.  I went back in alone and he loaded the car.",a,THE WITNESS,start_question
+270,569,23,4,"Where in the store, since it sounds like you are pretty familiar with this location, is the dog food located?",q,MS. HASKELL,start_answer
+271,572,23,7,All the way in the back.,a,THE WITNESS,start_question
+272,573,23,8,And on that day do you remember what entrance you went in and out of?  Was it the main entrance or near the pharmacy?  Usually there is two entrances?,q,MS. HASKELL,start_answer
+273,576,23,11,"It was near the -- I would say near the, like, the grocery side.",a,THE WITNESS,start_question
+274,578,23,13,Have you seen the video of your fall?,q,MS. HASKELL,start_answer
+275,579,23,14,I just seen it today.,a,THE WITNESS,start_question
+276,580,23,15,Did you recognize yourself on it?,q,MS. HASKELL,start_answer
+277,581,23,16,Yes.,a,THE WITNESS,start_question
+278,582,23,17,And did you see yourself fall on that video?,q,MS. HASKELL,start_answer
+279,583,23,18,Yes.,a,THE WITNESS,start_question
+280,584,23,19,And just for --,q,MS. HASKELL,start_answer
+281,585,23,20,"It looked more fun than it actually was.  It was, like, I posed or something.",a,THE WITNESS,start_question
+282,587,23,22,"Oh, no, that's okay.  So you -- did you get all the way outside the store before you realized that you forgot the dog food or were you in that vestibule area?",q,MS. HASKELL,start_answer
+283,592,24,2,"I walked out the doors and we were right in front of the store and I looked at my husband and said I forgot the dog food.  And I said, okay.  I am going to go back in.  He said he was going to load the car.  I walked in and I walked through and I went down.",a,THE WITNESS,start_question
+284,597,24,7,"So when you reentered the store you walked by the self-checkout area, correct.",q,MS. HASKELL,start_answer
+285,599,24,9,"Yes.  I walked through it.  I shouldn't have, but I did.  It was a shortcut.",a,THE WITNESS,start_question
+286,601,24,11,What caused you to fall?,q,MS. HASKELL,start_answer
+287,602,24,12,From my understanding some fruity substance on the floor.,a,THE WITNESS,start_question
+288,604,24,14,"Now, when you say from my understanding, did you see the fruit on the floor?",q,MS. HASKELL,start_answer
+289,606,24,16,Yes.,a,THE WITNESS,start_question
+290,607,24,17,Did you see it before you fell?,q,MS. HASKELL,start_answer
+291,608,24,18,No.,a,THE WITNESS,start_question
+292,609,24,19,You saw it after you fell?,q,MS. HASKELL,start_answer
+293,610,24,20,Yes.,a,THE WITNESS,start_question
+294,611,24,21,Do you know what fruit was on the floor?,q,MS. HASKELL,start_answer
+295,612,24,22,Supposedly it was grapes.,a,THE WITNESS,start_question
+296,613,24,23,Did someone tell you they were grapes?,q,MS. HASKELL,start_answer
+297,614,24,24,Yes.,a,THE WITNESS,start_question
+298,616,25,1,Who told you that?,q,MS. HASKELL,start_answer
+299,617,25,2,Two other people that were in line.,a,THE WITNESS,start_question
+300,618,25,3,Customers?,q,MS. HASKELL,start_answer
+301,619,25,4,Yes.,a,THE WITNESS,start_question
+302,620,25,5,Do you remember what those customers looked like at all?,q,MS. HASKELL,start_answer
+303,622,25,7,"They were African-American ladies, and there was two woman and one gentleman.",a,THE WITNESS,start_question
+304,624,25,9,And what did they say to you?,q,MS. HASKELL,start_answer
+305,625,25,10,"After I went down, they were picking me up from the back, and they were, like, oh, my God, she fell on those grapes.  And then I was, like, I looked and it was just all over me.",a,THE WITNESS,start_question
+306,629,25,14,All over you where?,q,MS. HASKELL,start_answer
+307,630,25,15,All over my leg; all over my hands.,a,THE WITNESS,start_question
+308,631,25,16,What color grapes were they?,q,MS. HASKELL,start_answer
+309,632,25,17,"I think they were the grape ones, the purple colored ones because the guts were purple.",a,THE WITNESS,start_question
+310,634,25,19,Okay.  And can you describe for me what they looked like on the ground when you first saw them?,q,MS. HASKELL,start_answer
+311,636,25,21,"They were trampled.  They obviously had been there because they were trampled when I fell.  Because it wasn't, like, they were whole.  It was, like, they were on the ground, and went like that.",a,THE WITNESS,start_question
+312,641,26,1,Do you know if it was your foot that caused them to be smashed or if they were smashed before?,q,MS. HASKELL,start_answer
+313,643,26,3,They were smashed before.,a,THE WITNESS,start_question
+314,644,26,4,And how do you know that?,q,MS. HASKELL,start_answer
+315,645,26,5,"Because they weren't freshly smashed.  They were kind of sticky, like, they had been there and they had been stepped in a couple of times.",a,THE WITNESS,start_question
+316,648,26,8,Did anyone tell you what those grapes looked like before you fell?,q,MS. HASKELL,start_answer
+317,650,26,10,No.,a,THE WITNESS,start_question
+318,651,26,11,"And you didn't see the grapes before you fell, right?",q,MS. HASKELL,start_answer
+319,653,26,13,No.,a,THE WITNESS,start_question
+320,654,26,14,Were there any employees nearby?,q,MS. HASKELL,start_answer
+321,655,26,15,Yes.  There was a self-checkout helper.,a,THE WITNESS,start_question
+322,656,26,16,Female or male?,q,MS. HASKELL,start_answer
+323,657,26,17,Female.,a,THE WITNESS,start_question
+324,658,26,18,Did she come over after you fell?,q,MS. HASKELL,start_answer
+325,659,26,19,No.,a,THE WITNESS,start_question
+326,660,26,20,After you fell did any employees come over to you?,q,MS. HASKELL,start_answer
+327,662,26,22,No.,a,THE WITNESS,start_question
+328,663,26,23,Did you come to speak to any employees after you fell?,q,MS. HASKELL,start_answer
+329,666,27,1,Yes.,a,THE WITNESS,start_question
+330,667,27,2,And how did that happen?,q,MS. HASKELL,start_answer
+331,668,27,3,"After I had fallen, I called my husband because I couldn't move, and I asked him -- I told him I fell.  And he said you are kidding me.  And he came in and picked me up off the floor. He walked me over to the Subway which had two security guards; told me that I had fallen.  They had then notified the store manager. She came over; said what happened?  I told her I fell.  She asked what hurt.  I said my knee because the immediate pain I felt, it felt like under my kneecap was bleeding.  That's how painful it was.",a,THE WITNESS,start_question
+332,679,27,14,And which knee?,q,MS. HASKELL,start_answer
+333,680,27,15,My left knee.,a,THE WITNESS,start_question
+334,681,27,16,Okay.,q,MS. HASKELL,start_answer
+335,682,27,17,"And then she came and brought me some ice packs and then she -- I am not sure if I signed anything, but then that was it.  She walked away and we were done.",a,THE WITNESS,start_question
+336,686,27,21,"Do you know what her name was, that manager that you spoke to?",q,MS. HASKELL,start_answer
+337,688,27,23,"You know what, it was an unusual name.",a,THE WITNESS,start_question
+338,689,27,24,That's okay if you don't remember.  Do you remember what she looked like?,q,MS. HASKELL,start_answer
+339,692,28,2,"She was Hispanic, tall, thin, mid-length hair.",a,THE WITNESS,start_question
+340,693,28,3,"Other than her, did you speak to any other employees in the store?",q,MS. HASKELL,start_answer
+341,695,28,5,No.,a,THE WITNESS,start_question
+342,696,28,6,Did they ask you if you needed an ambulance?,q,MS. HASKELL,start_answer
+343,697,28,7,No.,a,THE WITNESS,start_question
+344,698,28,8,Did you request an ambulance?,q,MS. HASKELL,start_answer
+345,699,28,9,"No.  By this time I was just, like, a nervous wreck?",a,THE WITNESS,start_question
+346,701,28,11,"Between the time you fell and the time that you eventually left the store, how much time passed?",q,MS. HASKELL,start_answer
+347,703,28,13,Probably about 20 minutes.,a,THE WITNESS,start_question
+348,704,28,14,Okay.  Do you know how the grapes came to be on the floor?,q,MS. HASKELL,start_answer
+349,706,28,16,No.,a,THE WITNESS,start_question
+350,707,28,17,Did you see anybody drop any grapes before you fell?,q,MS. HASKELL,start_answer
+351,709,28,19,No.,a,THE WITNESS,start_question
+352,710,28,20,Did anybody tell you how those grapes got to be on the floor?,q,MS. HASKELL,start_answer
+353,712,28,22,No.,a,THE WITNESS,start_question
+354,713,28,23,Do you know how long they were on the floor before the fall?,q,MS. HASKELL,start_answer
+355,716,29,1,No.,a,THE WITNESS,start_question
+356,717,29,2,Do you know whether any Wal-Mart employees knew about those grapes before you fell?,q,MS. HASKELL,start_answer
+357,719,29,4,No.,a,THE WITNESS,start_question
+358,720,29,5,"You described for me feeling some knee pain. Can you describe how your body landed when you fell, if you remember?",q,MS. HASKELL,start_answer
+359,723,29,8,"It was kind of funny.  It was kind of like one of those, oops, I meant to do that.  When it happened, I came down on my left knee, bounced back on my right arm, and then landed on my ass.",a,THE WITNESS,start_question
+360,727,29,12,Did you hit your head at all?,q,MS. HASKELL,start_answer
+361,728,29,13,No.  It was just mostly the knee and the shoulder that took the brunt of it.,a,THE WITNESS,start_question
+362,730,29,15,"When you fell, were you holding anything in your hand?",q,MS. HASKELL,start_answer
+363,732,29,17,Just my purse.,a,THE WITNESS,start_question
+364,733,29,18,Was anything blocking your view of the floor when you were walking through that self-checkout area?,q,MS. HASKELL,start_answer
+365,735,29,20,It was pretty crowded.  There was some people in line.,a,THE WITNESS,start_question
+366,737,29,22,Were you able to see where you were going though?,q,MS. HASKELL,start_answer
+367,739,29,24,Yes.,a,THE WITNESS,start_question
+368,741,30,1,And were you distracted by anything?,q,MS. HASKELL,start_answer
+369,742,30,2,No.  I was focused on getting the dog food.,a,THE WITNESS,start_question
+370,743,30,3,Okay.  I just want to go through a couple documents.  This is what we have marked as Exhibit 1. Do you recognize this document?,q,MS. HASKELL,start_answer
+371,746,30,6,Yes.,a,THE WITNESS,start_question
+372,747,30,7,"And for the record, this is a document labeled customer statement, correct?",q,MS. HASKELL,start_answer
+373,749,30,9,Um-hum.,a,THE WITNESS,start_chat
+374,750,30,10,Is that a yes?,side_chat,MR. MALATESTA,start_chat
+375,751,30,11,Yes.  I'm sorry.,side_chat,THE WITNESS,start_chat
+376,752,30,12,That's okay.  Everyone does it.,side_chat,MR. MALATESTA,start_question
+377,754,30,14,Is this written in your handwriting?,q,MS. HASKELL,start_answer
+378,755,30,15,"No.  Actually, my husband wrote this.",a,THE WITNESS,start_question
+379,756,30,16,"And I don't know if I said that, but we have marked this as Exhibit 1.",q,MS. HASKELL,start_answer
+380,758,30,18,Right.,a,THE WITNESS,start_question
+381,759,30,19,Were you with your husband when he filled this out?,q,MS. HASKELL,start_answer
+382,761,30,21,Yes.,a,THE WITNESS,start_question
+383,762,30,22,And did he fill this out in that subway area where you were sitting?,q,MS. HASKELL,start_answer
+384,764,30,24,Yes.,a,THE WITNESS,start_question
+385,766,31,1,"So if you see towards the top half of the page, the portion that says ""describe in your own words the event leading up to the incident.""",q,MS. HASKELL,start_answer
+386,769,31,4,Right.,a,THE WITNESS,start_question
+387,770,31,5,Can you just read into t he record what he has written there?,q,MS. HASKELL,start_answer
+388,772,31,7,Walking by self-checkout.  There were grapes on the floor I did not see and then fell.,a,THE WITNESS,start_question
+389,774,31,9,And that is what you recall as how your fall happened as well?,q,MS. HASKELL,start_answer
+390,776,31,11,Yes.,a,THE WITNESS,start_question
+391,777,31,12,Down here next to name of associate you reported the incident to is written Lupe?,q,MS. HASKELL,start_answer
+392,779,31,14,Lupe.,a,THE WITNESS,start_question
+393,780,31,15,Is that the woman you believe you spoke to?,q,MS. HASKELL,start_answer
+394,781,31,16,Yes.,a,THE WITNESS,start_question
+395,782,31,17,"And next to customer signature, is that your signature?",q,MS. HASKELL,start_answer
+396,784,31,19,"Yes, it is.",a,THE WITNESS,start_question
+397,785,31,20,"I am going to skip to Exhibit 3 next. Ms. Young, I have marked as Exhibit 3 a still shot from the video footage and it is time stamped 4:42:30. Do you see yourself in this picture?",q,MS. HASKELL,start_answer
+398,789,31,24,Yes.,a,THE WITNESS,start_question
+399,791,32,1,"And can you describe where you are in the picture, for the record?",q,MS. HASKELL,start_answer
+400,793,32,3,I am walking through the self-checkout.,a,THE WITNESS,start_question
+401,794,32,4,Is this you with the shirt and the pink bag?,q,MS. HASKELL,start_answer
+402,795,32,5,"The pink purse, yeah.",a,THE WITNESS,start_question
+403,796,32,6,"And for purposes of the record, your fall happened where in this photograph?",q,MS. HASKELL,start_answer
+404,798,32,8,Right over here (pointing).,a,THE WITNESS,start_question
+405,799,32,9,"And you are pointing to what, the entrance to the self-checkout?",q,MS. HASKELL,start_answer
+406,801,32,11,"Yes.  This is the entrance because this is where I came in.  I came in this way, and then as I was walking, that's where I fell.  Because these people right here, they are the ones that picked me up and told me about the grapes.",a,THE WITNESS,start_question
+407,806,32,16,Okay.  So I am just going to walk you through that so when we are reading this back later we know what we are talking about. So you walked through this area towards this entrance to the self-checkout where we see some merchandise on either side?,q,MS. HASKELL,start_answer
+408,812,32,22,Yes.,a,THE WITNESS,start_question
+409,813,32,23,And you pointed to these people at that first self-checkout register on the right-hand side?,q,MS. HASKELL,start_answer
+410,816,33,1,Yes.,a,THE WITNESS,start_question
+411,817,33,2,And they are the customers that helped you up?,q,MS. HASKELL,start_answer
+412,818,33,3,Yes.,a,THE WITNESS,start_question
+413,819,33,4,"A couple months after your fall, did you receive a phone call from somebody at Wal-Mart to talk about what had happened?",q,MS. HASKELL,start_answer
+414,822,33,7,Yes.,a,THE WITNESS,start_question
+415,823,33,8,And do you remember giving an interview to them?,q,MS. HASKELL,start_answer
+416,825,33,10,I didn't speak with them.  I was told not to speak with them.,a,THE WITNESS,start_question
+417,827,33,12,"Okay.  I want to show you what we have as a transcription of an interview from December 7, 2016, that we have marked as Exhibit 2.  And feel free to take a minute and look through that.",q,MS. HASKELL,is brackets
+418,831,33,16,(Witness looking through document.),brackets,,start_question
+419,833,33,18,Does looking at this refresh your memory?,q,MS. HASKELL,start_answer
+420,834,33,19,Yes.  This is when I had talked to Mark.,a,THE WITNESS,start_question
+421,835,33,20,"So I want you to just kind of look through this, feel free to flip through it, and let me know if everything in here looks correct and accurate to the best of your memory.",q,MS. HASKELL,start_answer
+422,839,33,24,Okay.,a,THE WITNESS,is brackets
+423,841,34,1,(Witness looking through document.),brackets,,start_question
+424,843,34,3,Okay.  You had an opportunity to flip through this?,q,MS. HASKELL,start_answer
+425,845,34,5,Yes.,a,THE WITNESS,start_question
+426,846,34,6,Did everything in there look accurate to the best of your memory?,q,MS. HASKELL,start_answer
+427,848,34,8,Yes.,a,THE WITNESS,start_question
+428,849,34,9,"And based on the interview that you gave to Wal-Mart and that we just looked through, it looked like you described the grapes as being about one foot by one foot in size?",q,MS. HASKELL,start_answer
+429,853,34,13,"Yeah, like one pile.  They were inside the --",a,THE WITNESS,start_question
+430,854,34,14,"After you fell, did you show any Wal-Mart employees the area where you fell?",q,MS. HASKELL,start_answer
+431,856,34,16,Yes.,a,THE WITNESS,start_question
+432,857,34,17,And was that Lupe or someone else?,q,MS. HASKELL,start_answer
+433,858,34,18,That was Lupe.,a,THE WITNESS,start_question
+434,859,34,19,And was that before or after you completed the statement?,q,MS. HASKELL,start_answer
+435,861,34,21,Before.,a,THE WITNESS,start_question
+436,862,34,22,Were you --,q,MS. HASKELL,start_answer
+437,863,34,23,"Because as I was talking to her and she was giving me the ice, I even looked over and I said they didn't even clean that up yet.",a,THE WITNESS,start_question
+438,867,35,2,Could you see the area where you fell from the Subway?,q,MS. HASKELL,start_answer
+439,869,35,4,Yes.,a,THE WITNESS,start_question
+440,870,35,5,And you did not see any employees clean it up?,q,MS. HASKELL,start_answer
+441,871,35,6,No.,a,THE WITNESS,start_question
+442,872,35,7,"When you watched the video with your attorney, did you watch after your fall as well?",q,MS. HASKELL,start_answer
+443,874,35,9,They only showed up until when I fell.  That was it.,a,THE WITNESS,start_chat
+444,876,35,11,"That's the only clip I have, I think.  My clip has right after her fall.",side_chat,MR. MALATESTA,start_chat
+445,878,35,13,Off the record.,side_chat,MS. HASKELL,is brackets
+446,879,35,14,(Discussion off the record.),brackets,,start_chat
+447,880,35,15,We can go back on the record.,side_chat,MS. HASKELL,start_question
+448,882,35,17,"So just to confirm, your memory of the incident is that while you were in the Subway area you could see the self-checkout area where you fell and you did you not see any employees cleaning up the area?",q,MS. HASKELL,start_answer
+449,886,35,21,"No, because the way I was positioned, the self-checkout is here, and they had me sitting this way, and they had my knee up with the ice pack and I was looking at the self-checkout.  I was waiting to see if anyone was going to clean it.",a,THE WITNESS,start_question
+450,892,36,2,"So for the purposes of the record, the self-checkout area was on your left-hand side and you could look over and see it?",q,MS. HASKELL,start_answer
+451,895,36,5,Correct.,a,THE WITNESS,start_question
+452,896,36,6,And you were looking over to see whether it was going to be cleaned up?,q,MS. HASKELL,start_answer
+453,898,36,8,I was just looking because that's the way they had me positioned.,a,THE WITNESS,start_question
+454,900,36,10,When is the first time that you sought medical care for your injuries after your fall.,q,MS. HASKELL,start_answer
+455,902,36,12,On the 9th.,a,THE WITNESS,start_question
+456,903,36,13,And where did you go?,q,MS. HASKELL,start_answer
+457,904,36,14,"I went to the -- it is Harlem Medical.  It is two doors away from where I worked.  Because that happened on a Sunday.  Monday morning I did not go to work because I couldn't walk. And then Tuesday I limped into work.  I tried to work.  I went to see the doctor.  The doctor sent me for an MRI, and then that's when everything started happening.",a,THE WITNESS,start_question
+458,912,36,22,So on Tuesday you tried to go into work.  You were experiencing pain so you went to Harlem Medical at that point?,q,MS. HASKELL,start_answer
+459,916,37,1,On Wednesday which was the 9th.,a,THE WITNESS,start_question
+460,917,37,2,"Oh, okay.  What doctor sent you for an MRI?",q,MS. HASKELL,start_answer
+461,918,37,3,Dr. Rashan.,a,THE WITNESS,start_question
+462,919,37,4,Had you seen Dr. Rashan before?,q,MS. HASKELL,start_answer
+463,920,37,5,Yes.,a,THE WITNESS,start_question
+464,921,37,6,And do you know what kind of doctor Dr. Rashan is?,q,MS. HASKELL,start_answer
+465,923,37,8,He is just a general M.D.,a,THE WITNESS,start_question
+466,924,37,9,And did you tell him about your fall at Wal-Mart?,q,MS. HASKELL,start_answer
+467,926,37,11,Yes.,a,THE WITNESS,start_question
+468,927,37,12,What parts of your body were you experiencing pain in when you went to see Dr. Rashan?,q,MS. HASKELL,start_answer
+469,929,37,14,My knee and my shoulder.,a,THE WITNESS,start_question
+470,930,37,15,And that is your right knee?,q,MS. HASKELL,start_answer
+471,931,37,16,"My left knee and my right shoulder, yes.",a,THE WITNESS,start_question
+472,932,37,17,"And right shoulder.  Other than your left knee and right shoulder, did you injure any other parts of your body during your fall?",q,MS. HASKELL,start_answer
+473,935,37,20,My butt was sore.,a,THE WITNESS,start_question
+474,936,37,21,Anything else?,q,MS. HASKELL,start_answer
+475,937,37,22,No.,a,THE WITNESS,start_question
+476,938,37,23,Where did you go for the MRI?,q,MS. HASKELL,start_answer
+477,939,37,24,"I went to pre -- this is crazy that I remember this.  I went to Premier Medical, and it is on 95th and Central.",a,THE WITNESS,start_question
+478,943,38,3,Did you go that same day?,q,MS. HASKELL,start_answer
+479,944,38,4,I'm really not sure.,a,THE WITNESS,start_question
+480,945,38,5,Okay.,q,MS. HASKELL,start_answer
+481,946,38,6,"If I didn't go that day, I think I went the next day.",a,THE WITNESS,start_question
+482,948,38,8,At some point you went to see an orthopedic surgeon named Dr. Silver; is that right?,q,MS. HASKELL,start_answer
+483,950,38,10,Um-hum.,a,THE WITNESS,start_question
+484,951,38,11,Had you seen Dr. Rashan more than once before going to see Dr. Silver?,q,MS. HASKELL,start_answer
+485,953,38,13,"No.  I see Dr. Rashan, and then I went to see Dr. Silver.",a,THE WITNESS,start_question
+486,955,38,15,Did Dr. Rashan refer you to Dr. Silver?,q,MS. HASKELL,start_answer
+487,956,38,16,I think so.,a,THE WITNESS,start_question
+488,957,38,17,"And we received some of your medical records from your attorney, and those medical records show that you went to Dr. Silver on August 31st.  Does that sound right?",q,MS. HASKELL,start_answer
+489,961,38,21,Yes.,a,THE WITNESS,start_question
+490,962,38,22,Had you ever seen Dr. Silver before?,q,MS. HASKELL,start_answer
+491,963,38,23,No.,a,THE WITNESS,start_question
+492,964,38,24,Did you tell him about your fall at Wal-Mart?,q,MS. HASKELL,start_answer
+493,966,39,1,Yes.,a,THE WITNESS,start_question
+494,967,39,2,"What did he recommend?  And, again, I know you are not a physician so I don't expect you to know all the terms.",q,MS. HASKELL,start_answer
+495,970,39,5,He recommended to have a scope done on my knee and rotator cuff repair.,a,THE WITNESS,start_question
+496,972,39,7,Did he prescribe you any pain medication?,q,MS. HASKELL,start_answer
+497,973,39,8,"Yes, he did.",a,THE WITNESS,start_question
+498,974,39,9,Do you remember what that was?,q,MS. HASKELL,start_answer
+499,975,39,10,"He gave me Tramadol and then the Tramadol, I had a bad reaction to it.  So he gave me the Hydrocodone, five milligrams, and that was it.",a,THE WITNESS,start_question
+500,978,39,13,How often did you have to take the Hydrocodone?,q,MS. HASKELL,start_answer
+501,980,39,15,Before the surgery three to four times a day.,a,THE WITNESS,start_question
+502,981,39,16,"He gave you an injection for your shoulder, correct?",q,MS. HASKELL,start_answer
+503,983,39,18,Yes.  That was cortisone.,a,THE WITNESS,start_question
+504,984,39,19,Did you have just one injection?,q,MS. HASKELL,start_answer
+505,985,39,20,"He did the injection, and it lasted probably about two months, and then I seen another orthopedic surgeon, Brian Amerson, and he just repeated everything that Dr. Silver did, but when he gave me the second injection in my shoulder, if felt like my arm was going to blow up.",a,THE WITNESS,start_question
+506,992,40,2,You were in more pain after the injection?,q,MS. HASKELL,start_answer
+507,993,40,3,"Yes, yes.",a,THE WITNESS,start_question
+508,994,40,4,Was Dr. Brian Amerson at the same practice as Dr. Silver?,q,MS. HASKELL,start_answer
+509,996,40,6,No.  Dr. Silver stopped taking my -- he didn't take my insurance so I had to find an orthopedic surgeon that did and that was Dr. Amerson?,a,THE WITNESS,start_question
+510,999,40,9,Okay.  The records show that you kept seeing Dr. Silver through about June of 2017.  Does that sound about right?,q,MS. HASKELL,start_answer
+511,1002,40,12,Yes.,a,THE WITNESS,start_question
+512,1003,40,13,Was it at that point that you switched doctors?,q,MS. HASKELL,start_answer
+513,1005,40,15,Yeah.  He was a wonderful doctor.,a,THE WITNESS,start_question
+514,1006,40,16,Dr. Silver?,q,MS. HASKELL,start_answer
+515,1007,40,17,Yes.,a,THE WITNESS,start_question
+516,1008,40,18,"And Dr. Silver recommended you undergo physical therapy too, right?",q,MS. HASKELL,start_answer
+517,1010,40,20,Yes.,a,THE WITNESS,start_question
+518,1011,40,21,"When you were treating with Dr. Silver, where did you go to physical therapy?",q,MS. HASKELL,start_answer
+519,1013,40,23,Athletic.,a,THE WITNESS,start_question
+520,1014,40,24,Athletico?,q,MS. HASKELL,start_answer
+521,1016,41,1,Yeah.,a,THE WITNESS,start_question
+522,1017,41,2,And what location?,q,MS. HASKELL,start_answer
+523,1018,41,3,First it was one on Pulaski.  I think it is at 42nd and Pulaski.  And then I went to Archer and around Narragansett.,a,THE WITNESS,start_question
+524,1021,41,6,Okay.,q,MS. HASKELL,start_answer
+525,1022,41,7,And then from there I started doing it at Mercy Hospital.,a,THE WITNESS,start_question
+526,1024,41,9,Okay.  Was that when you switched doctors or before then?,q,MS. HASKELL,start_answer
+527,1026,41,11,After I had my surgery --,a,THE WITNESS,start_question
+528,1027,41,12,Okay.,q,MS. HASKELL,start_answer
+529,1028,41,13,-- I started doing physical therapy at Mercy.,a,THE WITNESS,start_question
+530,1029,41,14,"Okay.  Had you talk to Dr. Silver about which surgery he was recommending first, your knee or your shoulder?",q,MS. HASKELL,start_answer
+531,1032,41,17,"I wanted to scope my knee first, and then he was going to do the shoulder.",a,THE WITNESS,start_question
+532,1034,41,19,The records also show that he prescribed Norco for your pain.  Do you remember taking that?,q,MS. HASKELL,start_answer
+533,1036,41,21,Yes.  Isn't that Hydrocodone?,a,THE WITNESS,start_question
+534,1037,41,22,And it looks like you took that throughout most of 2017?,q,MS. HASKELL,start_answer
+535,1039,41,24,Yes.,a,THE WITNESS,start_question
+536,1041,42,1,Earlier you talked about having to take that three to four times a day before surgery.  Was that consistent throughout the time he prescribed it?,q,MS. HASKELL,start_answer
+537,1044,42,4,"Yes.  I mean, some days it was two to three times.  Some days it was just one.  It depended.",a,THE WITNESS,start_question
+538,1046,42,6,"Okay.  And in February of 2018, you had shoulder surgery?",q,MS. HASKELL,start_answer
+539,1048,42,8,"February 1st, correct.",a,THE WITNESS,start_question
+540,1049,42,9,And the records show that was performed by a Dr. John Miller.  Does that sound right?,q,MS. HASKELL,start_answer
+541,1051,42,11,Yes.  He is amazing.,a,THE WITNESS,start_question
+542,1052,42,12,Had you met him before your surgery?,q,MS. HASKELL,start_answer
+543,1053,42,13,"Actually, I went to go see my primary doctor, and she told me they just got an orthopedic surgeon at Mercy.  I have been going to Mercy for 37 years now.  So when I heard that I was excited and I went to see Dr. Miller.  And he did another MRI and he did X-rays and he scheduled me for surgery exactly a month later.",a,THE WITNESS,start_question
+544,1059,42,19,So your primary doc had referred you to him?,q,MS. HASKELL,start_answer
+545,1060,42,20,Yes.,a,THE WITNESS,start_question
+546,1061,42,21,And you had that shoulder surgery at Mercy?,q,MS. HASKELL,start_answer
+547,1062,42,22,"Yes, in the outpatient center.",a,THE WITNESS,start_question
+548,1063,42,23,"And you were under anesthesia during that surgery, right?",q,MS. HASKELL,start_answer
+549,1066,43,1,Correct.,a,THE WITNESS,start_question
+550,1067,43,2,So you couldn't feel any pain and --,q,MS. HASKELL,is brackets
+551,1068,43,3,"(Whereupon, there was a knock on the door.)",brackets,,start_chat
+552,1070,43,5,Off the record.,side_chat,MS. HASKELL,is brackets
+553,1071,43,6,(Brief interruption.),brackets,,start_chat
+554,1072,43,7,We can go back on the record.,side_chat,MS. HASKELL,start_question
+555,1074,43,9,"Okay.  After your right shoulder surgery with Dr. Miller, you continued to follow up with him; is that right?",q,MS. HASKELL,start_answer
+556,1077,43,12,"Yes, until he advised me that he was no longer accepting my insurance and that he was leaving Mercy Hospital.",a,THE WITNESS,start_question
+557,1080,43,15,When did that happen?,q,MS. HASKELL,start_answer
+558,1081,43,16,"Right after I started seeing him.  Right after my surgery.  Like, I seen him, like, three times after my surgery, and he just recommended that I go to physical therapy, which I did.  I did it at Mercy.  I did it at one of Mercy's little clinics.  Then I went to UIC.  I seen another orthopedic surgeon that also recommended me for therapy, and now I am registered to do therapy at Mercy Medical on 55th and Pulaski.",a,THE WITNESS,start_question
+559,1089,43,24,"All right.  Let's back up a little bit and go through that. So you had a few visits with Dr. Miller after your shoulder surgery, right?",q,MS. HASKELL,start_answer
+560,1094,44,4,Yes.,a,THE WITNESS,start_question
+561,1095,44,5,And it looks like he recommended you wear a sling on your arm?,q,MS. HASKELL,start_answer
+562,1097,44,7,I was in it for six months.,a,THE WITNESS,start_question
+563,1098,44,8,Were you told to wear that all the time?,q,MS. HASKELL,start_answer
+564,1099,44,9,24/7.  The only time I could take it off was to shower.,a,THE WITNESS,start_question
+565,1101,44,11,And did you wear it all the time?,q,MS. HASKELL,start_answer
+566,1102,44,12,"Oh, yeah.",a,THE WITNESS,start_question
+567,1103,44,13,"He has a note following your surgery from a February visit that said that you had reported to him that you were not wearing the sling and were trying to move your arm on your own. Does that sound right, or no?",q,MS. HASKELL,start_answer
+568,1108,44,18,"No.  Actually, when I did go see him, and after that visit, and he asked me to take my sling off and I did.  And he showed me -- he asked me to move my arm, and I did.  That's the only time I took the sling off.",a,THE WITNESS,start_question
+569,1113,44,23,At his office?,q,MS. HASKELL,start_answer
+570,1114,44,24,Yes.,a,THE WITNESS,start_question
+571,1116,45,1,So you would disagree with his notes that say you weren't being compliant with the activity restrictions?,q,MS. HASKELL,start_answer
+572,1119,45,4,"No.  I mean, it is hard not to.  It is a very, very painful surgery.  It is very painful.",a,THE WITNESS,start_question
+573,1121,45,6,And how long after your surgery did you start physical therapy; do you remember?,q,MS. HASKELL,start_answer
+574,1123,45,8,Um --,a,THE WITNESS,start_question
+575,1124,45,9,"And, again, I don't mean to make this soul like a memory quiz.",q,MS. HASKELL,start_answer
+576,1126,45,11,"Probably six months, after I came out of the sling.",a,THE WITNESS,start_question
+577,1128,45,13,You mentioned earlier that you saw an orthopedic surgeon at UIC?,q,MS. HASKELL,start_answer
+578,1130,45,15,Yes.,a,THE WITNESS,start_question
+579,1131,45,16,Do you know the name of that doctor?,q,MS. HASKELL,start_answer
+580,1132,45,17,I seen him one time.  He told me to do physical therapy and then see him in six weeks.,a,THE WITNESS,start_question
+581,1134,45,19,And you have only seen him once?,q,MS. HASKELL,start_answer
+582,1135,45,20,"I have only seen him once.  I went to do my registration for my physical therapy and they couldn't get the dates straight, and they were going to call me back.  So then I just went to my primary and she told me just do the physical therapy at Mercy.",a,THE WITNESS,start_question
+583,1141,46,1,"Okay.  So in terms of orthopedic doctors, you have seen Dr. Silver, right?",q,MS. HASKELL,start_answer
+584,1143,46,3,Um-hum.,a,THE WITNESS,start_question
+585,1144,46,4,Dr. Brian --,q,MS. HASKELL,start_answer
+586,1145,46,5,Amerson.,a,THE WITNESS,start_question
+587,1146,46,6,"-- Amerson, Dr. Miller, and this doctor at UIC?",q,MS. HASKELL,start_answer
+588,1148,46,8,Yeah.  I only seen him one time at UIC.  I don't plan on going back to him.,a,THE WITNESS,start_question
+589,1150,46,10,Do you have another orthopedic doctor that you plan to follow up with?,q,MS. HASKELL,start_answer
+590,1152,46,12,Dr. Miller.,a,THE WITNESS,start_question
+591,1153,46,13,And he is no longer taking your insurance though?,q,MS. HASKELL,start_answer
+592,1155,46,15,"Well, now I have different insurance so he does accept it, and he is in Orland Park now.  I tracked him down.",a,THE WITNESS,start_question
+593,1158,46,18,Okay.  Do you have an upcoming appointment scheduled with him?,q,MS. HASKELL,start_answer
+594,1160,46,20,No.,a,THE WITNESS,start_question
+595,1161,46,21,Have you visited with Dr. Miller yet?,q,MS. HASKELL,start_answer
+596,1162,46,22,No.,a,THE WITNESS,start_question
+597,1163,46,23,"And I mean yet, since that time in 2018?",q,MS. HASKELL,start_answer
+598,1164,46,24,No.,a,THE WITNESS,start_question
+599,1166,47,1,Are you currently in physical therapy?,q,MS. HASKELL,start_answer
+600,1167,47,2,"Yes.  Oh, no, I'm sorry.  No, I am not.",a,THE WITNESS,start_question
+601,1168,47,3,When is the last time you were in physical therapy?,q,MS. HASKELL,start_answer
+602,1170,47,5,"The last time I went for my evaluation, they have a reevaluation, it was probably a month ago.",a,THE WITNESS,start_question
+603,1172,47,7,Okay.  Was that at Mercy?,q,MS. HASKELL,start_answer
+604,1173,47,8,No.  That was at UIC.  They were trying to do different -- because I have other issues besides this for physical therapy.  They were trying to get all the dates together.  They just had a lack of communication. So that's when I went to my primary and she said just to finish it at Mercy.,a,THE WITNESS,start_question
+605,1179,47,14,So you are getting physical therapy for other issues other than your shoulder and your knee?,q,MS. HASKELL,start_answer
+606,1181,47,16,Yes.,a,THE WITNESS,start_question
+607,1182,47,17,What other issues?,q,MS. HASKELL,start_answer
+608,1183,47,18,"Well, since this one was torn, I overextended this one.  So now I have this one is torn.  I have fractures in my left hand, and I have fractures in my right hand.",a,THE WITNESS,start_question
+609,1187,47,22,"And just for the record so we know what we are talking about later when we read this, you said you initially tore the left?",q,MS. HASKELL,start_answer
+610,1191,48,1,The right in the accident.,a,THE WITNESS,start_question
+611,1192,48,2,Okay.,q,MS. HASKELL,start_answer
+612,1193,48,3,"And from not having the use of my right arm, I had to use my left arm, which I overextended my left arm and now this one is torn.",a,THE WITNESS,start_chat
+613,1196,48,6,And when you were saying this one is overextended --,side_chat,MR. MALATESTA,start_chat
+614,1198,48,8,"My left one, correct.",side_chat,THE WITNESS,start_question
+615,1200,48,10,Has any doctor told you that your left shoulder injury is related to your fall at Wal-Mart?,q,MS. HASKELL,start_answer
+616,1202,48,12,No.,a,THE WITNESS,start_question
+617,1203,48,13,Have you had any --,q,MS. HASKELL,start_answer
+618,1204,48,14,"I'm sorry.  Dr. Miller did tell me that from having this one, this one was overextended, over something.",a,THE WITNESS,start_question
+619,1207,48,17,"Okay.  So Dr. Miller told you from having your right shoulder injured, you overdone your --",q,MS. HASKELL,start_answer
+620,1209,48,19,"Extended my left one, correct.",a,THE WITNESS,start_question
+621,1210,48,20,Has Dr. Miller or any other doctor diagnosed you with any condition relating to your left shoulder?,q,MS. HASKELL,start_answer
+622,1212,48,22,I do have a torn rotator cuff.,a,THE WITNESS,start_question
+623,1213,48,23,And that was Dr. Miller that told you that?,q,MS. HASKELL,start_answer
+624,1214,48,24,That was the orthopedic surgeon from UIC.,a,THE WITNESS,start_question
+625,1216,49,1,"Do you remember the month, year that you saw the UIC doctor?",q,MS. HASKELL,start_answer
+626,1218,49,3,I just seen him this year.,a,THE WITNESS,start_question
+627,1219,49,4,So 2019?,q,MS. HASKELL,start_answer
+628,1220,49,5,Yes.,a,THE WITNESS,start_question
+629,1221,49,6,Do you know what month you saw him?,q,MS. HASKELL,start_answer
+630,1222,49,7,Probably about three months ago for the first time.,a,THE WITNESS,start_question
+631,1224,49,9,So maybe around May?,q,MS. HASKELL,start_answer
+632,1225,49,10,Um-hum.,a,THE WITNESS,start_chat
+633,1226,49,11,Is that a yes?,side_chat,MR. MALATESTA,start_chat
+634,1227,49,12,Yes.  I'm sorry.,side_chat,THE WITNESS,start_chat
+635,1228,49,13,That's okay.,side_chat,MR. MALATESTA,start_question
+636,1230,49,15,Have you had any pain or issue with your right knee?  We talked about the injury to your left knee.,q,MS. HASKELL,start_answer
+637,1232,49,17,"Now, with my right knee, no.",a,THE WITNESS,start_question
+638,1233,49,18,Has any doctor scheduled you for surgery of your left knee?,q,MS. HASKELL,start_answer
+639,1235,49,20,No.,a,THE WITNESS,start_question
+640,1236,49,21,Has any doctor told you that your left shoulder will need surgery?,q,MS. HASKELL,start_answer
+641,1238,49,23,Yes.  That was the orthopedic surgeon from UIC.  He wants to try the therapy first.,a,THE WITNESS,start_question
+642,1241,50,1,Okay.  Are you on any prescription medications relating to your shoulder or knee pain now?,q,MS. HASKELL,start_answer
+643,1243,50,3,Yes.,a,THE WITNESS,start_question
+644,1244,50,4,And what are you on now?,q,MS. HASKELL,start_answer
+645,1245,50,5,I am on antidepressants.  I am on anxiety medication.  I am on pain medication.,a,THE WITNESS,start_question
+646,1247,50,7,Okay.  I want to start with just the pain medication.  What pain medication are you on?,q,MS. HASKELL,start_answer
+647,1249,50,9,The Hydrocodone.,a,THE WITNESS,start_question
+648,1250,50,10,Is it the same frequency?,q,MS. HASKELL,start_answer
+649,1251,50,11,Yes.  I only -- it is five milligrams.  I only take it probably at night because that's when it hurts the most.,a,THE WITNESS,start_question
+650,1254,50,14,"And when you say ""it"" hurts the most, are you referring to your knee, shoulder or both?",q,MS. HASKELL,start_answer
+651,1256,50,16,My shoulders.,a,THE WITNESS,start_question
+652,1257,50,17,Shoulders?,q,MS. HASKELL,start_answer
+653,1258,50,18,Yes.,a,THE WITNESS,start_question
+654,1259,50,19,Are you still experiencing pain in your knee?,q,MS. HASKELL,start_answer
+655,1260,50,20,Yes.,a,THE WITNESS,start_question
+656,1261,50,21,"Do you have to use anything to help you walk, like, a cane, a walker anything like that?",q,MS. HASKELL,start_answer
+657,1263,50,23,No.,a,THE WITNESS,start_question
+658,1264,50,24,You talked about taking antidepressants and anxiety medication.  Do you believe that is related to your accident at Wal-Mart?,q,MS. HASKELL,start_answer
+659,1268,51,3,Yes.,a,THE WITNESS,start_question
+660,1269,51,4,And how so?,q,MS. HASKELL,start_answer
+661,1270,51,5,"After I fell, it destroyed my life.  I lost my job.  I lost everything.  I had to go see a psychologist and a psychiatrist because everything was falling apart.",a,THE WITNESS,start_question
+662,1273,51,8,Who referred you to the psychologist and psychiatrist?,q,MS. HASKELL,start_answer
+663,1275,51,10,My primary.,a,THE WITNESS,start_question
+664,1276,51,11,"And what is the name of -- is it one person is a psychologist or psychiatrist, or is it two separate people?",q,MS. HASKELL,start_answer
+665,1279,51,14,Two separate people.,a,THE WITNESS,start_question
+666,1280,51,15,And what are their names?,q,MS. HASKELL,start_answer
+667,1281,51,16,The psychiatrist is Dr. K.,a,THE WITNESS,start_question
+668,1282,51,17,K-A-Y?,q,MS. HASKELL,start_answer
+669,1283,51,18,"Just K.  It' really long.  He is at Mercy, at the mental health center.",a,THE WITNESS,start_question
+670,1285,51,20,And what about the psychologist?,q,MS. HASKELL,start_answer
+671,1286,51,21,"I just -- I was just seeing Dr. K for kind of both, but he said that he is going to recommend me to somebody but there is a waiting list right now.  They are really backed up, so...",a,THE WITNESS,start_question
+672,1291,52,1,How often do you see Dr. K?,q,MS. HASKELL,start_answer
+673,1292,52,2,I see him every two to three months.,a,THE WITNESS,start_question
+674,1293,52,3,"When did you start seeing Dr. K or how long after your accident, whichever is easier?",q,MS. HASKELL,start_answer
+675,1295,52,5,I have been seeing Dr. K probably for two years now.,a,THE WITNESS,start_question
+676,1297,52,7,Okay.  And what medications has Dr. K prescribed for you?,q,MS. HASKELL,start_answer
+677,1299,52,9,"I am on I think Lexapro, and there is another one that he has got me on.  I don't know what --",a,THE WITNESS,start_question
+678,1301,52,11,Another anxiety medication?,q,MS. HASKELL,start_answer
+679,1302,52,12,Yes.,a,THE WITNESS,start_question
+680,1303,52,13,Is that a medication that you take daily --,q,MS. HASKELL,start_answer
+681,1304,52,14,Yes.,a,THE WITNESS,start_question
+682,1305,52,15,-- or when you feel flare-ups?,q,MS. HASKELL,start_answer
+683,1306,52,16,No.  I take daily.,a,THE WITNESS,start_chat
+684,1307,52,17,Off the record.,side_chat,MS. HASKELL,is brackets
+685,1308,52,18,(Discussion off the record.),brackets,,start_chat
+686,1309,52,19,Back on the record.,side_chat,MS. HASKELL,start_question
+687,1311,52,21,When is the last time you saw your primary doctor?,q,MS. HASKELL,start_answer
+688,1313,52,23,I see my primary once a month.,a,THE WITNESS,start_question
+689,1314,52,24,Once a month?,q,MS. HASKELL,start_answer
+690,1316,53,1,"And I just seen her last week, yes.",a,THE WITNESS,start_question
+691,1317,53,2,And does she have you on any prescription medication right now?,q,MS. HASKELL,start_answer
+692,1319,53,4,"I am on blood pressure, cholesterol, Lyrica. She has me on Lyrica.  I am not sure what else.",a,THE WITNESS,start_question
+693,1321,53,6,Lyrica for pain?,q,MS. HASKELL,start_answer
+694,1322,53,7,Yes.,a,THE WITNESS,start_question
+695,1323,53,8,And what pain is she prescribing the Lyrica for?,q,MS. HASKELL,start_answer
+696,1325,53,10,All through here (indicating).,a,THE WITNESS,start_question
+697,1326,53,11,And that is your shoulder?,q,MS. HASKELL,start_answer
+698,1327,53,12,"Yes.  Not only that, when Dr. Miller did my surgery, he was telling me that when he did it, there was going to be a twitch in my arm because he had to cut some muscle and do something.  Well, ever since he did this, I have this twitch now to where my neck twitches all the time.  It is kind of weird because I don't know if anybody can see it.",a,THE WITNESS,start_question
+699,1334,53,19,And have you been telling your primary doctor about that?,q,MS. HASKELL,start_answer
+700,1336,53,21,"Oh, yeah.",a,THE WITNESS,start_question
+701,1337,53,22,"The Norco that you were prescribed, who is -- that you are continuing to take, who is the keeper of that prescription?",q,MS. HASKELL,start_answer
+702,1341,54,1,Dr. Milenkovich.,a,THE WITNESS,start_question
+703,1342,54,2,So that prescription is now through her as well?,q,MS. HASKELL,start_answer
+704,1344,54,4,Yes.,a,THE WITNESS,start_question
+705,1345,54,5,Where do you frequently fill your prescriptions?,q,MS. HASKELL,start_answer
+706,1347,54,7,Walgreens and Crescent Pharmacy.  It is on 87th too.  It is right next to Dr. Rashan.,a,THE WITNESS,start_question
+707,1349,54,9,You said you don't have an upcoming appointment with Dr. Miller?,q,MS. HASKELL,start_answer
+708,1351,54,11,No.,a,THE WITNESS,start_question
+709,1352,54,12,"We talked about this a little bit before, but I want to go back to it. What activities could you do before your fall at Wal-Mart that you can no longer do now?  We will start with just physical activities.",q,MS. HASKELL,start_answer
+710,1357,54,17,Okay.  I was able to lift my arms over my head.,a,THE WITNESS,start_question
+711,1359,54,19,Okay.,q,MS. HASKELL,start_answer
+712,1360,54,20,"Now, this is as far as I can go.",a,THE WITNESS,start_question
+713,1361,54,21,"And for the record, your arms are just below parallel to --",q,MS. HASKELL,start_answer
+714,1363,54,23,Yes.  I can't lift them any higher or else my muscles snap.  I can't fold clothes.  I can't do dishes. I can't wash my hair.  I can't make a bed.,a,THE WITNESS,start_question
+715,1367,55,2,Who does the household chores around the house now?,q,MS. HASKELL,start_answer
+716,1369,55,4,My husband and my son and my daughter-in-law that just recently moved in.,a,THE WITNESS,start_question
+717,1371,55,6,And you mentioned that you have trouble washing your hair.  Do you go somewhere now to have your hair washed or who helps you with that?,q,MS. HASKELL,start_answer
+718,1374,55,9,No.  I just put my head over the sink and my husband does it.  After 36 years he better do something.,a,THE WITNESS,start_question
+719,1376,55,11,Any other activities around the house that you no longer can do?,q,MS. HASKELL,start_answer
+720,1378,55,13,"You know, I can't even play with my grandkids.",a,THE WITNESS,start_question
+721,1379,55,14,How many grand children do you have?,q,MS. HASKELL,start_answer
+722,1380,55,15,Nine.,a,THE WITNESS,start_question
+723,1381,55,16,And what is the range of ages with the grandkids?,q,MS. HASKELL,start_answer
+724,1383,55,18,Ten down to two.,a,THE WITNESS,start_question
+725,1384,55,19,What types of activities did you do with your grandkids before your injury?,q,MS. HASKELL,start_answer
+726,1386,55,21,"I used to be able to take them to the park, go on the swings, go down the slide, swing them around, pick them up.  I can't do any of that anymore.",a,THE WITNESS,start_question
+727,1389,55,24,Are there any hobbies or things outside the house that you can't do now that you could do before your fall?,q,MS. HASKELL,start_answer
+728,1393,56,3,I can't go bowling.  That's for sure.,a,THE WITNESS,start_question
+729,1394,56,4,How often did you used to go bowling?,q,MS. HASKELL,start_answer
+730,1395,56,5,"We used to bowl, like, once every two months.",a,THE WITNESS,start_question
+731,1396,56,6,Did you have a location that you always went to the same one or where did you go?,q,MS. HASKELL,start_answer
+732,1398,56,8,No.  It just depended on where everyone wanted to go.,a,THE WITNESS,start_question
+733,1400,56,10,Were you in a league or anything like that?,q,MS. HASKELL,start_answer
+734,1401,56,11,"No.  It was just for fun.  It was just a bunch of adults trying to get out, get away from kids, grandkids.",a,THE WITNESS,start_question
+735,1404,56,14,Any other activities?,q,MS. HASKELL,start_answer
+736,1405,56,15,"I can't swim.  I swam my whole life.  I was a lifeguard, you know, and I can't swim properly because of the pain.",a,THE WITNESS,start_question
+737,1408,56,18,And what pool did you used to go swimming at?,q,MS. HASKELL,start_answer
+738,1409,56,19,McKinley Park.  I go on vacation; I can't swim.  I stand in the water.  I have a pool in my backyard for my grandkids.  All I can do is float.,a,THE WITNESS,start_question
+739,1412,56,22,Any other activities?,q,MS. HASKELL,start_answer
+740,1413,56,23,Not that I can think of.  The kids is the biggest one.,a,THE WITNESS,start_question
+741,1416,57,1,Have you sought out any temp agencies or anything like that to help you find jobs?,q,MS. HASKELL,start_answer
+742,1418,57,3,Yes.  I am on Medicare now.  I am on disability.,a,THE WITNESS,start_question
+743,1420,57,5,"The disability payments that you are receiving now, are those related to your shoulder and knee injury?",q,MS. HASKELL,start_answer
+744,1422,57,7,"Just the whole thing, the mental, just everything.",a,THE WITNESS,start_question
+745,1424,57,9,How long have you been on disability?,q,MS. HASKELL,start_answer
+746,1425,57,10,I just started receiving it in the last two months.,a,THE WITNESS,start_question
+747,1427,57,12,Okay.  Any other ways that the fall impacted your life that we have not touched on yet?,q,MS. HASKELL,start_answer
+748,1429,57,14,No.,a,THE WITNESS,start_question
+749,1430,57,15,Have you been back to the Bedford Park store since your fall?,q,MS. HASKELL,start_answer
+750,1432,57,17,No.,a,THE WITNESS,start_question
+751,1433,57,18,Have you been back to any Wal-Mart stores since your fall?,q,MS. HASKELL,start_answer
+752,1435,57,20,Yes.  I love Wal-Mart.,a,THE WITNESS,start_question
+753,1436,57,21,What stores have you been to?,q,MS. HASKELL,start_answer
+754,1437,57,22,I go to the one in Countryside.  I go to the one on 103rd and Harlem.  I don't know what the address is.  And the one in Romeoville.  So I travel to go to these other Wal-Mart's.,a,THE WITNESS,start_question
+755,1442,58,2,"At any of these other locations, have you talked to any of the employees there about your fall at Bedford Park?",q,MS. HASKELL,start_answer
+756,1445,58,5,No.,a,THE WITNESS,start_question
+757,1446,58,6,"Since your fall, have you had anymore communications with those two customers that were standing there?",q,MS. HASKELL,start_answer
+758,1449,58,9,No.,a,THE WITNESS,start_chat
+759,1450,58,10,Those are all the questions that I have.,side_chat,MS. HASKELL,start_chat
+760,1452,58,12,I just have a couple of brief ones. EXAMINATION,side_chat,MR. MALATESTA,start_question
+761,1455,58,15,"The grapes that you stepped in, when you observed them after the fall, they appeared to be trampled; is that correct?",q,MR. MALATESTA,start_answer
+762,1458,58,18,Yes.,a,THE WITNESS,start_question
+763,1459,58,19,And you made the observation that you had come in contact with them with your foot; is that true?,q,MR. MALATESTA,start_answer
+764,1461,58,21,"Actually, it was all over my leg and my hand.",a,THE WITNESS,start_question
+765,1462,58,22,"Right, but my question is, you had first come in contact with them with your foot; is that true?",q,MR. MALATESTA,start_answer
+766,1464,58,24,Correct.,a,THE WITNESS,start_question
+767,1466,59,1,And then you had some on your pants leg; is that correct?,q,MR. MALATESTA,start_answer
+768,1468,59,3,Yes.,a,THE WITNESS,start_question
+769,1469,59,4,And what you observed afterwards is they appeared to be -- you used the word trampled or smashed?,q,MR. MALATESTA,start_answer
+770,1471,59,6,Right.,a,THE WITNESS,start_question
+771,1472,59,7,"And we saw your fall on the video, correct?",q,MR. MALATESTA,start_answer
+772,1473,59,8,Um-hum.,a,THE WITNESS,start_question
+773,1474,59,9,Yes?,q,MR. MALATESTA,start_answer
+774,1475,59,10,Yes.,a,THE WITNESS,start_question
+775,1476,59,11,And it was your observation that they didn't appear to be just smashed from the time that you had fallen; is that true?,q,MR. MALATESTA,start_answer
+776,1479,59,14,True.,a,THE WITNESS,start_question
+777,1480,59,15,And what gave you that impression in terms of your observations?,q,MR. MALATESTA,start_answer
+778,1482,59,17,"Because after I fell, when I got up, it wasn't freshly wet.  It was like they were stepped in, they were sticky, and it was just an icky feeling, you know, sticky and --",a,THE WITNESS,start_question
+779,1486,59,21,And that stickiness ended up on your pants true?,q,MR. MALATESTA,start_answer
+780,1488,59,23,Yes.,a,THE WITNESS,start_chat
+781,1489,59,24,That's all I have.,side_chat,MR. MALATESTA,start_chat
+782,1491,60,1,I have nothing further.  Signature?,side_chat,MS. HASKELL,start_chat
+783,1492,60,2,Signature is waived.,side_chat,MR. MALATESTA,is brackets
+784,1493,60,3,"(AND FURTHER DEPONENT SAITH NAUGHT) STATE OF ILLINOIS  ) COUNTY OF C O O K  ) I, Sharon A. Jerndt, Certified Shorthand Reporter and Registered Professional Reporter, do hereby certify that on the 13th day of August, A.D., 2019, the deposition of the witness, DELLA YOUNG, called by the Defendant, was taken before me, reported stenographically, and was thereafter reduced to typewriting under my direction. The said deposition was taken at the law offices of O'Hagan Meyer, LLC, One East Wacker Drive, Suite 3400, Chicago, Illinois, and there were present counsel as previously set forth. The witness, DELLA YOUNG, was first duly sworn to tell the truth, the whole truth, and nothing but the truth, and was then examined upon oral interrogatories. I further certify that the foregoing is a true, accurate, and complete record of the questions asked of and answers made by the said witness, DELLA YOUNG, at the time and place hereinabove referred to. The signature of the witness, DELLA YOUNG, was waived by agreement of counsel and the deponent. The undersigned is not interested in the within case, nor of kin or counsel to any of the parties. Witness my official signature on this 27th day of August, A.D., 2019. SHARON A. JERNDT, CSR, RPR North LaSalle Street Suite 2800 Phone:  (312) 236-6936",brackets,,end

@@ -1,0 +1,500 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,129,5,13,- - - EXAMINATION,symbols,,symbols
+2,131,5,15,- - -,symbols,,start_question
+3,133,5,17,Could you state your full name for the record.,q,MR. DALY,start_answer
+4,135,5,19,Jimmy Hunter.,a,THE WITNESS,start_question
+5,136,5,20,"Do you remember being in a car accident on June 10, 2018?",q,MR. DALY,start_answer
+6,138,5,22,"Yes, sir.",a,THE WITNESS,start_question
+7,139,5,23,What kind of car were you driving?,q,MR. DALY,start_answer
+8,140,5,24,I was driving a truck.,a,THE WITNESS,start_question
+9,142,6,1,What kind of truck?,q,MR. DALY,start_answer
+10,143,6,2,Ford.,a,THE WITNESS,start_question
+11,144,6,3,Ford what?,q,MR. DALY,start_answer
+12,145,6,4,F-150 Flareside.,a,THE WITNESS,start_question
+13,146,6,5,What year?,q,MR. DALY,start_answer
+14,147,6,6,1994.,a,THE WITNESS,start_question
+15,148,6,7,About what time of day was it?,q,MR. DALY,start_answer
+16,149,6,8,"I don't know.  It wasn't day.  It was night.  Between 6:00 and 7:00, somewhere like that.  I can't remember.",a,THE WITNESS,start_question
+17,152,6,11,Do you remember what road you were on?,q,MR. DALY,start_answer
+18,153,6,12,"Yeah, on Broad Street, 5800 North Broad.",a,THE WITNESS,start_question
+19,155,6,14,Where were you heading?,q,MR. DALY,start_answer
+20,156,6,15,"Going home.  I was going to the Sunoco service station at that time, but I was on my way home.",a,THE WITNESS,start_question
+21,159,6,18,You were going to the Sunoco service station?,q,MR. DALY,start_answer
+22,161,6,20,Yeah.,a,THE WITNESS,start_question
+23,162,6,21,Where is that?,q,MR. DALY,start_answer
+24,163,6,22,5800 North Broad Street.,a,THE WITNESS,start_question
+25,164,6,23,Where were you coming from?,q,MR. DALY,start_answer
+26,165,6,24,Can't remember exactly where I was coming from.  I went to a couple places.,a,THE WITNESS,start_question
+27,168,7,2,Had you drank any alcohol in the 24 hours prior to the accident?,q,MR. DALY,start_answer
+28,170,7,4,Say what?,a,THE WITNESS,start_question
+29,171,7,5,Had you drank any alcohol in the 24 hours prior to this accident?,q,MR. DALY,start_answer
+30,173,7,7,"Yeah, I drank a beer around 12:00, two beers around noontime.  We had a meeting to hook up a fishing trip.",a,THE WITNESS,start_question
+31,176,7,10,You were drinking before you got behind the wheel of your car?,q,MR. DALY,start_answer
+32,178,7,12,"No, not behind the wheel of the car. About noontime, we had a meeting to set up a fishing trip to Massachusetts, and that was around noon.",a,THE WITNESS,start_question
+33,182,7,16,What time was the first beer that you drank that day?,q,MR. DALY,start_answer
+34,184,7,18,"I guess around 12:00, around noon.",a,THE WITNESS,start_question
+35,185,7,19,What time was the last beer?,q,MR. DALY,start_answer
+36,186,7,20,"All around the same time, between 12:00 and 1:00 p.m.",a,THE WITNESS,start_question
+37,188,7,22,About how many beers did you drink?,q,MR. DALY,start_answer
+38,189,7,23,Two.,a,THE WITNESS,start_question
+39,190,7,24,Two beers?,q,MR. DALY,start_answer
+40,192,8,1,Yeah.,a,THE WITNESS,start_question
+41,193,8,2,About two?,q,MR. DALY,start_answer
+42,194,8,3,Two.,a,THE WITNESS,start_question
+43,195,8,4,Exactly two?,q,MR. DALY,start_answer
+44,196,8,5,Yes.,a,THE WITNESS,start_question
+45,197,8,6,What kind of beer?,q,MR. DALY,start_answer
+46,198,8,7,Coors Light.,a,THE WITNESS,start_question
+47,199,8,8,About what time did you first get behind the wheel of your car after having those two beers?,q,MR. DALY,start_answer
+48,202,8,11,"I guess about two or three hours, I guess.  We had a meeting about a fishing trip, me and three other fellows.",a,THE WITNESS,start_question
+49,205,8,14,Did you take any other drugs that day?,q,MR. DALY,start_answer
+50,206,8,15,Huh?,a,THE WITNESS,start_question
+51,207,8,16,Did you take any other drugs that day?,q,MR. DALY,start_answer
+52,208,8,17,"No, I don't take drugs period.  I take high blood pressure medicine.",a,THE WITNESS,start_question
+53,210,8,19,Did you take that medication today?,q,MR. DALY,start_answer
+54,211,8,20,Which one?,a,THE WITNESS,start_question
+55,212,8,21,The high blood pressure.,q,MR. DALY,start_answer
+56,213,8,22,"Yeah, I take it every day, Lisinopril",a,THE WITNESS,start_question
+57,214,8,23,Have you ever gone by any other names?,q,MR. DALY,start_answer
+58,215,8,24,"Gone by another name, no.",a,THE WITNESS,start_question
+59,217,9,1,What's your current address?,q,MR. DALY,start_answer
+60,218,9,2,7021 Stenton Avenue.,a,THE WITNESS,start_question
+61,219,9,3,Can you say that again slower for me.,q,MR. DALY,start_answer
+62,220,9,4,7021 Stenton.,a,THE WITNESS,start_question
+63,221,9,5,How long have you lived there?,q,MR. DALY,start_answer
+64,222,9,6,Moved there in 1976.,a,THE WITNESS,start_question
+65,223,9,7,What do you do for work?,q,MR. DALY,start_answer
+66,224,9,8,I don't work.,a,THE WITNESS,start_question
+67,225,9,9,Have you ever worked?,q,MR. DALY,start_answer
+68,226,9,10,"Yes, sir.",a,THE WITNESS,start_question
+69,227,9,11,When is the last time you worked?,q,MR. DALY,start_answer
+70,228,9,12,2017 is the last time I worked.,a,THE WITNESS,start_question
+71,229,9,13,What kind of work was that?,q,MR. DALY,start_answer
+72,230,9,14,I was driving a school bus for Springfield Township School Board.,a,THE WITNESS,start_question
+73,232,9,16,How long did you do that for?,q,MR. DALY,start_chat
+74,233,9,17,You can approximate.,side_chat,MS. FRASCELLA,start_chat
+75,235,9,19,Between eight to eight-and-a-half years something.,side_chat,THE WITNESS,start_question
+76,238,9,22,Did you have a valid driver's license at the time of this accident?,q,MR. DALY,start_answer
+77,240,9,24,Yes.,a,THE WITNESS,start_question
+78,242,10,1,Do you have it with you?,q,MR. DALY,start_answer
+79,243,10,2,"Yes, sir.",a,THE WITNESS,start_question
+80,244,10,3,"Could you show it to your attorney and then show it to me, please.",q,MR. DALY,start_answer
+81,246,10,5,(Witness complies with request.),a,THE WITNESS,start_question
+82,247,10,6,"Thank you, Mr. Hunter. Have you ever had your license suspended or revoked?",q,MR. DALY,start_answer
+83,250,10,9,Yes.,a,THE WITNESS,start_question
+84,251,10,10,When?,q,MR. DALY,start_answer
+85,252,10,11,2016 or 2017.  I can't remember.,a,THE WITNESS,start_question
+86,253,10,12,Why?,q,MR. DALY,start_answer
+87,254,10,13,I got charged with a DUI.,a,THE WITNESS,start_question
+88,255,10,14,How long was it suspended for?,q,MR. DALY,start_answer
+89,256,10,15,One year.,a,THE WITNESS,start_question
+90,257,10,16,How many DUIs have you had?,q,MR. DALY,start_answer
+91,258,10,17,That was the only one.  We'll get to more about this.  You know why I got a DUI?,a,THE WITNESS,start_chat
+92,260,10,19,Back up for a minute.  Can you go back to your last question.,side_chat,MS. FRASCELLA,start_chat
+93,263,10,22,I can't tell him that?,side_chat,THE WITNESS,start_chat
+94,265,10,24,"If he asks. Let's go down that path, if we need to.",side_chat,MS. FRASCELLA,start_question
+95,269,11,3,How many DUIs have you had?,q,MR. DALY,start_answer
+96,270,11,4,"That was it, sir.",a,THE WITNESS,start_question
+97,271,11,5,Just one DUI ever?,q,MR. DALY,start_answer
+98,272,11,6,Yeah.,a,THE WITNESS,start_chat
+99,273,11,7,Can I explain to him what happened?,side_chat,THE WITNESS,start_chat
+100,275,11,9,"I mean, it's really not relevant.",side_chat,MS. FRASCELLA,start_chat
+101,277,11,11,"Because the guy who did it was a die-hard racist.  I did some more investigating about that, and they told me.  I wasn't even driving.",side_chat,THE WITNESS,start_question
+102,282,11,16,Have you ever been pulled over for speeding or anything like that?,q,MR. DALY,start_answer
+103,284,11,18,No.,a,THE WITNESS,start_question
+104,285,11,19,You've never gotten a speeding ticket in your entire life?,q,MR. DALY,start_answer
+105,287,11,21,"No, not in my life.",a,THE WITNESS,start_question
+106,288,11,22,Did you enter into what's called ARD after you got the DUI?,q,MR. DALY,start_answer
+107,290,11,24,"Yeah, I did all that, yes.",a,THE WITNESS,start_question
+108,292,12,1,Your license is now fully reinstated?,q,MR. DALY,start_answer
+109,293,12,2,"Yeah, it's been reinstated.",a,THE WITNESS,start_question
+110,294,12,3,When was it reinstated?,q,MR. DALY,start_answer
+111,295,12,4,"Good Lord, I can't remember.  2017, I guess, 2016, 2017.",a,THE WITNESS,start_question
+112,297,12,6,Was your license valid at the time of this accident?,q,MR. DALY,start_answer
+113,299,12,8,"Yes, sir, it's valid.  Yeah, a valid license.",a,THE WITNESS,start_question
+114,301,12,10,Did the police give you a field sobriety test at the scene of the accident?,q,MR. DALY,start_answer
+115,303,12,12,No.,a,THE WITNESS,start_question
+116,304,12,13,Did they breathalyze you at the scene of the accident?,q,MR. DALY,start_answer
+117,306,12,15,No.,a,THE WITNESS,start_question
+118,307,12,16,Did they ask you if you had been drinking at the scene of the accident?,q,MR. DALY,start_answer
+119,309,12,18,I can't remember.  I don't think they did.,a,THE WITNESS,start_question
+120,311,12,20,What?,q,MR. DALY,start_answer
+121,312,12,21,"No, they just called for a sergeant.",a,THE WITNESS,start_question
+122,313,12,22,Why?,q,MR. DALY,start_answer
+123,314,12,23,Because that's what you're supposed to do when you got a situation like that.,a,THE WITNESS,start_question
+124,317,13,1,When there is an accident?,q,MR. DALY,start_answer
+125,318,13,2,"No, sir, I wasn't even driving, I'm telling you.",a,THE WITNESS,start_chat
+126,320,13,4,"No, he's talking about on this accident.",side_chat,MS. FRASCELLA,start_chat
+127,322,13,6,"Oh, this accident. No, no.",side_chat,THE WITNESS,start_chat
+128,324,13,8,"On this day of this accident, were you given any field sobriety tests?",side_chat,MS. FRASCELLA,start_chat
+129,327,13,11,"No, I wasn't even drinking.",side_chat,THE WITNESS,start_chat
+130,329,13,13,"On the day of this accident, did the police officer ask you if you had been drinking following this accident?",side_chat,MS. FRASCELLA,start_chat
+131,333,13,17,"No, ma'am.",side_chat,THE WITNESS,start_question
+132,335,13,19,Have you ever been in a car accident before this accident?,q,MR. DALY,start_answer
+133,337,13,21,Yes.,a,THE WITNESS,start_question
+134,338,13,22,When?,q,MR. DALY,start_answer
+135,339,13,23,"2016 and 2017, I think.",a,THE WITNESS,start_question
+136,340,13,24,Were either of those accidents the accident that precipitated you getting a DUI?,q,MR. DALY,start_answer
+137,343,14,2,No.,a,THE WITNESS,start_question
+138,344,14,3,Was that 2016 and 2017?,q,MR. DALY,start_answer
+139,345,14,4,"Yeah, I think 2016 and '15.  I can't remember.",a,THE WITNESS,start_question
+140,347,14,6,That's okay.,q,MR. DALY,start_answer
+141,348,14,7,Want me to explain it to you?,a,THE WITNESS,start_question
+142,349,14,8,"It's okay.  Now, let's talk about the first of those two accidents.",q,MR. DALY,start_answer
+143,351,14,10,Okay.  I was at the school crossing on Stenton Avenue and Tulpehocken.  It's a charter school there.  The school crossing guard had us stopped.  A young male was driving an SUV or something.  I can't remember what it was.  He was on his phone and ran into the back of my truck.,a,THE WITNESS,start_question
+144,358,14,17,What about the other accident?,q,MR. DALY,start_answer
+145,359,14,18,"Two police officers ran into me, the side of my truck.",a,THE WITNESS,start_question
+146,361,14,20,At the same time?,q,MR. DALY,start_answer
+147,362,14,21,That was the next year.,a,THE WITNESS,start_question
+148,363,14,22,Are you under any medical restrictions by your doctor?,q,MR. DALY,start_answer
+149,365,14,24,"No, sir.",a,THE WITNESS,start_question
+150,367,15,1,"Have you ever been convicted of a crime of falsity, fraud, burglary, or anything like that in the past ten years?",q,MR. DALY,start_answer
+151,370,15,4,Say that again.,a,THE WITNESS,start_question
+152,371,15,5,"In the past ten years, have you ever been convicted of a crime of falsity?",q,MR. DALY,start_answer
+153,373,15,7,Falsity?,a,THE WITNESS,start_question
+154,374,15,8,Like fraud.,q,MR. DALY,start_chat
+155,375,15,9,"Things like fraud, theft, shoplifting, forgery.",side_chat,MS. FRASCELLA,start_chat
+156,377,15,11,No.,side_chat,THE WITNESS,start_question
+157,379,15,13,Only the DUI?,q,MR. DALY,start_answer
+158,380,15,14,I got charged with a gun violation.,a,THE WITNESS,start_question
+159,381,15,15,How long ago was that?,q,MR. DALY,start_answer
+160,382,15,16,That was the same time they got me with the DUI.,a,THE WITNESS,start_question
+161,384,15,18,You had a gun in the car with you when you got the DUI?,q,MR. DALY,start_answer
+162,386,15,20,"Yeah, I had a gun that the city gave me.",a,THE WITNESS,start_question
+163,388,15,22,The city gave you a gun?,q,MR. DALY,start_answer
+164,389,15,23,"Yes, sir.",a,THE WITNESS,start_question
+165,390,15,24,Why?,q,MR. DALY,start_answer
+166,392,16,1,Because I was a police officer.,a,THE WITNESS,start_question
+167,393,16,2,That was before you were a bus driver?,q,MR. DALY,start_answer
+168,394,16,3,"Yes, sir.",a,THE WITNESS,start_question
+169,395,16,4,What year was the DUI?  You said around 2015?,q,MR. DALY,start_answer
+170,397,16,6,"2015.  March 2015, I think.",a,THE WITNESS,start_question
+171,398,16,7,Were you licensed to have that gun?,q,MR. DALY,start_chat
+172,399,16,8,Objection.  Don't answer that.  It's not relevant.  Don't answer it.,side_chat,MS. FRASCELLA,start_question
+173,403,16,12,Have you ever been charged with any firearms violations besides that one?,q,MR. DALY,start_answer
+174,405,16,14,"No, sir.",a,THE WITNESS,start_question
+175,406,16,15,Did you own the car you were driving?,q,MR. DALY,start_answer
+176,407,16,16,"Yes, sir.",a,THE WITNESS,start_question
+177,408,16,17,You had insurance on that vehicle?,q,MR. DALY,start_answer
+178,409,16,18,Yes.,a,THE WITNESS,start_question
+179,410,16,19,Who was your insurer?,q,MR. DALY,start_answer
+180,411,16,20,Allstate.,a,THE WITNESS,start_question
+181,412,16,21,"Now, the general area where this accident happened, were you familiar with that area?",q,MR. DALY,start_answer
+182,415,16,24,Where this accident happened at?,a,THE WITNESS,start_question
+183,417,17,1,Yes.,q,MR. DALY,start_answer
+184,418,17,2,"Yes, I'm familiar.  That's where I get my gas from all the time.  I use Sunoco gas.",a,THE WITNESS,start_question
+185,420,17,4,About how often do you go through that area?,q,MR. DALY,start_answer
+186,422,17,6,"I buy my lottery tickets from there, too.",a,THE WITNESS,start_question
+187,424,17,8,How often do you go through that area on a weekly basis?,q,MR. DALY,start_answer
+188,426,17,10,"Maybe once a week or something like that, sometimes twice a week.",a,THE WITNESS,start_question
+189,428,17,12,Wait until I finish my question before you start to answer.,q,MR. DALY,start_answer
+190,430,17,14,"I thought you had finished, I'm sorry.",a,THE WITNESS,start_question
+191,431,17,15,"The day of this accident you're heading to the Sunoco, right?",q,MR. DALY,start_answer
+192,433,17,17,Yes.,a,THE WITNESS,start_question
+193,434,17,18,"Now, you're heading in which direction on Broad Street?  Were you heading north or south?",q,MR. DALY,start_answer
+194,437,17,21,North.,a,THE WITNESS,start_question
+195,438,17,22,"Again, I'm going to ask you wait until I finish asking the question and then answer, okay? You're heading north on Broad Street, correct?",q,MR. DALY,start_answer
+196,444,18,3,Yes.,a,THE WITNESS,start_question
+197,445,18,4,Did you see my client's vehicle before this accident happened?,q,MR. DALY,start_answer
+198,447,18,6,I didn't see no vehicle.,a,THE WITNESS,start_question
+199,448,18,7,You didn't see any vehicles?,q,MR. DALY,start_answer
+200,449,18,8,"I told the police I didn't see no lights, nothing.",a,THE WITNESS,start_question
+201,451,18,10,You didn't see any lights; you didn't see any vehicles?,q,MR. DALY,start_answer
+202,453,18,12,No.,a,THE WITNESS,start_question
+203,454,18,13,Can you see traffic lights in front of you when you're driving?,q,MR. DALY,start_answer
+204,456,18,15,"Yes, sir.",a,THE WITNESS,start_question
+205,457,18,16,Why didn't you see any that day?,q,MR. DALY,start_chat
+206,458,18,17,Objection.  That wasn't what he meant. Why don't you follow up?  You're assuming no lights.  He means on your client's car.  That's what he's talking about.  Your client didn't have any lights on.  That's what he's saying.,side_chat,MS. FRASCELLA,start_question
+207,467,19,1,Did you see my client's car before this accident?,q,MR. DALY,start_answer
+208,469,19,3,No.,a,THE WITNESS,start_question
+209,470,19,4,Did you see it right when the accident happened?,q,MR. DALY,start_answer
+210,472,19,6,"That's when I saw it, when it happened.",a,THE WITNESS,start_question
+211,474,19,8,You didn't see her car at all before this accident happened?  Yes or no?,q,MR. DALY,start_answer
+212,476,19,10,No.,a,THE WITNESS,start_chat
+213,477,19,11,"He already answered that question about three times, Kane.",side_chat,MS. FRASCELLA,start_chat
+214,480,19,14,I understand.,side_chat,MR. DALY,start_question
+215,482,19,16,"When this accident happened, that's the first time you noticed her vehicle?",q,MR. DALY,start_answer
+216,484,19,18,Repeat that again.,a,THE WITNESS,start_question
+217,485,19,19,"When the accident happened, was that the first time you noticed her vehicle?",q,MR. DALY,start_answer
+218,487,19,21,Yes.,a,THE WITNESS,start_question
+219,488,19,22,Were you paying attention right before this accident happened?,q,MR. DALY,start_answer
+220,490,19,24,"Yes, sir.",a,THE WITNESS,start_question
+221,492,20,1,But you didn't see her vehicle?,q,MR. DALY,start_answer
+222,493,20,2,It was night.  I didn't see no lights on the vehicle.,a,THE WITNESS,start_chat
+223,495,20,4,"Maybe if you asked him how the accident happened, you'd understand why he didn't see.",side_chat,MS. FRASCELLA,start_chat
+224,498,20,7,I'm getting there.,side_chat,MR. DALY,start_chat
+225,499,20,8,"Well, let's get there, or I'm going to start objecting and not letting him answer.",side_chat,MS. FRASCELLA,start_question
+226,503,20,12,How many lanes of travel were in that direction?,q,MR. DALY,start_answer
+227,505,20,14,Say that again.,a,THE WITNESS,start_question
+228,506,20,15,How many lanes of travel were in the direction that you were heading?,q,MR. DALY,start_answer
+229,508,20,17,I was heading north on 5800 block.,a,THE WITNESS,start_question
+230,509,20,18,You're going north on Broad Street. How many lanes are on that side of Broad Street?,q,MR. DALY,start_answer
+231,512,20,21,Two lanes.,a,THE WITNESS,start_question
+232,513,20,22,Is there two lanes going southbound?,q,MR. DALY,start_answer
+233,514,20,23,"Two going southbound, two lanes northbound.",a,THE WITNESS,start_question
+234,517,21,1,Were you doing anything immediately before the accident happened?  Were you distracted or anything?,q,MR. DALY,start_answer
+235,520,21,4,"No, I wasn't distracted or nothing.",a,THE WITNESS,start_question
+236,521,21,5,Did you have your lights on?,q,MR. DALY,start_answer
+237,522,21,6,"Yes, sir.",a,THE WITNESS,start_question
+238,523,21,7,"In your own words, explain how this accident happened, okay?  Go ahead.",q,MR. DALY,start_answer
+239,525,21,9,"Right at the Sunoco station there I was making a left turn because there was a flatbed truck, a big flatbed, on this side of the service station on the pumps.",a,THE WITNESS,start_question
+240,529,21,13,Slow down.  You want to take a left into where?,q,MR. DALY,start_answer
+241,531,21,15,How would you describe that?  I don't understand.,a,THE WITNESS,start_question
+242,533,21,17,"You have to answer yourself, all right?",q,MR. DALY,start_answer
+243,535,21,19,I am.  We went over that earlier about that left.,a,THE WITNESS,start_chat
+244,537,21,21,Off the record for a minute.,side_chat,MS. FRASCELLA,symbols
+245,539,21,23,- - -,symbols,,is brackets
+246,540,21,24,"(Whereupon, a discussion was held off the record.)",brackets,,symbols
+247,543,22,2,- - -,symbols,,start_question
+248,545,22,4,"In your own words, let's try this again, describe how this accident happened.",q,MR. DALY,start_answer
+249,547,22,6,"I'm in the inside lane northbound. There is two lanes south, two lanes north. I'm on the inside lane northbound.  I'm making a left turn.  I see no headlights, no anything. After I get into the outside lane, my truck is struck from this vehicle that's on the inside lane going south.",a,THE WITNESS,start_question
+250,555,22,14,"Now, did you have a stop sign or anything?",q,MR. DALY,start_answer
+251,557,22,16,"No, nothing.",a,THE WITNESS,start_question
+252,558,22,17,Did she have a stop sign or anything?,q,MR. DALY,start_answer
+253,559,22,18,No.,a,THE WITNESS,start_question
+254,560,22,19,Did you use a turning signal?,q,MR. DALY,start_answer
+255,561,22,20,Yes.,a,THE WITNESS,start_question
+256,562,22,21,"When the accident happened, had your car crossed over that center lane yet?",q,MR. DALY,start_answer
+257,564,22,23,"Yes, I was in the outside lane going southbound when my truck was struck.  I had the outer lane southbound when I made the turn.",a,THE WITNESS,start_question
+258,569,23,3,Did you hear anybody beeping their horn right before the accident happened?,q,MR. DALY,start_answer
+259,571,23,5,"No, nothing.",a,THE WITNESS,start_question
+260,572,23,6,Did you hear any screeching of tires?,q,MR. DALY,start_answer
+261,573,23,7,"No, nothing.",a,THE WITNESS,start_question
+262,574,23,8,Did you see any debris left on the road after the accident happened?,q,MR. DALY,start_answer
+263,576,23,10,No.,a,THE WITNESS,start_question
+264,577,23,11,Did you do anything to avoid this accident?,q,MR. DALY,start_answer
+265,579,23,13,"Well, I didn't know there was going to be an accident.  Like I said, I didn't see nothing, no one coming.  It was night.",a,THE WITNESS,start_question
+266,582,23,16,Did you see any other cars on the road?,q,MR. DALY,start_answer
+267,584,23,18,"Well, it was no cars behind this vehicle here.  I know that for a fact because I didn't see no lights.",a,THE WITNESS,start_question
+268,587,23,21,It's your testimony it was dark out?,q,MR. DALY,start_answer
+269,588,23,22,Say that again.,a,THE WITNESS,start_question
+270,589,23,23,"You said it was dark out, right?",q,MR. DALY,start_answer
+271,590,23,24,"Yeah, dark, around 6:30, 7:00, something like that.  Around 7:00, I think, close to 7:00.",a,THE WITNESS,start_question
+272,594,24,3,"This happened June 10, 2018, right?",q,MR. DALY,start_answer
+273,595,24,4,Say that again.,a,THE WITNESS,start_question
+274,596,24,5,"This happened on June 10, 2018?",q,MR. DALY,start_answer
+275,597,24,6,"June 10th, yes.",a,THE WITNESS,start_question
+276,598,24,7,"Now, I have in the police report that the police arrived at the scene at 4:55 p.m. Do you have any reason to disagree with that?",q,MR. DALY,start_answer
+277,602,24,11,It was dark.  It was dark. They got it at 4:55?,a,THE WITNESS,start_question
+278,604,24,13,"That's according to the police report, yes. You do disagree with that?",q,MR. DALY,start_answer
+279,607,24,16,"Yeah, I think I disagree with that, yes, sir.",a,THE WITNESS,start_question
+280,609,24,18,Did you have your headlights on?,q,MR. DALY,start_answer
+281,610,24,19,Yes.,a,THE WITNESS,start_question
+282,611,24,20,Did you notice if my client had her headlights on?,q,MR. DALY,start_answer
+283,613,24,22,"Like I said, I didn't see no headlights.",a,THE WITNESS,start_question
+284,615,24,24,Did you have any passengers?,q,MR. DALY,start_answer
+285,617,25,1,"No, I was by myself.",a,THE WITNESS,start_question
+286,618,25,2,Did you speak to my client after the accident happened?,q,MR. DALY,start_answer
+287,620,25,4,"No, it was a male and a female that got out of that vehicle.  They got out and stood right outside the passenger side door.",a,THE WITNESS,start_question
+288,623,25,7,Of the white Explorer?,q,MR. DALY,start_answer
+289,624,25,8,"Yes, sir.",a,THE WITNESS,start_question
+290,625,25,9,Did they say anything to you?,q,MR. DALY,start_answer
+291,626,25,10,"No, they were standing on their phones, talking.",a,THE WITNESS,start_question
+292,628,25,12,You didn't say anything to them?,q,MR. DALY,start_answer
+293,629,25,13,"No, I just waited until the police got there.",a,THE WITNESS,start_question
+294,631,25,15,Is that a yes or no?,q,MR. DALY,start_answer
+295,632,25,16,"No, I didn't say nothing to them at all.",a,THE WITNESS,start_question
+296,634,25,18,Did you talk to the police at the scene?,q,MR. DALY,start_answer
+297,636,25,20,Yes.,a,THE WITNESS,start_question
+298,637,25,21,What did you tell them?,q,MR. DALY,start_answer
+299,638,25,22,I told them I didn't see no lights or nothing.,a,THE WITNESS,start_question
+300,640,25,24,Did you apologize to my client?,q,MR. DALY,start_answer
+301,642,26,1,I didn't even speak to them.,a,THE WITNESS,start_question
+302,643,26,2,What did the police ask you?,q,MR. DALY,start_answer
+303,644,26,3,"Just asked me the basic things; insurance papers, driver's license.",a,THE WITNESS,start_question
+304,646,26,5,They asked to see your insurance?,q,MR. DALY,start_answer
+305,647,26,6,"What happened, like the accident, I explained it to them.",a,THE WITNESS,start_question
+306,649,26,8,"I'm not trying to be mean here, but I want you to slow down and wait for me to finish my question, pause for a second, then start.",q,MR. DALY,start_answer
+307,653,26,12,Let me know when you're finished. Then I'll say something.  Thank you.  I don't know when you're finished.,a,THE WITNESS,start_question
+308,656,26,15,The police asked you for your insurance papers?,q,MR. DALY,start_answer
+309,658,26,17,Yes.,a,THE WITNESS,start_question
+310,659,26,18,Did the police ask you to do anything else for them?,q,MR. DALY,start_answer
+311,661,26,20,No.,a,THE WITNESS,start_question
+312,662,26,21,Was it raining on the day of the accident?,q,MR. DALY,start_answer
+313,664,26,23,No.,a,THE WITNESS,start_question
+314,665,26,24,Were the roads dry?,q,MR. DALY,start_answer
+315,667,27,1,You said were they dry?,a,THE WITNESS,start_question
+316,668,27,2,Yes.,q,MR. DALY,start_answer
+317,669,27,3,"Yes, sir, it was dry.",a,THE WITNESS,start_question
+318,670,27,4,"How much traffic was there; light, medium, heavy?",q,MR. DALY,start_answer
+319,672,27,6,Light.  There was not a lot of traffic.,a,THE WITNESS,start_question
+320,674,27,8,Did you talk to anybody else at the scene of the accident?,q,MR. DALY,start_answer
+321,676,27,10,"Nobody, only the officer that was talking to me.  That was it.",a,THE WITNESS,start_question
+322,678,27,12,Only the officer?,q,MR. DALY,start_answer
+323,679,27,13,"Yes, that was it.",a,THE WITNESS,start_question
+324,680,27,14,Did you talk to any tow truck drivers?,q,MR. DALY,start_answer
+325,681,27,15,I didn't see no tow truck driver.,a,THE WITNESS,start_question
+326,682,27,16,Was your car towed from the scene?,q,MR. DALY,start_answer
+327,683,27,17,No.,a,THE WITNESS,start_question
+328,684,27,18,You drove home?,q,MR. DALY,start_answer
+329,685,27,19,"Yes, sir.",a,THE WITNESS,start_question
+330,686,27,20,Were you issued a ticket in relation to this accident?,q,MR. DALY,start_answer
+331,688,27,22,No.,a,THE WITNESS,start_question
+332,689,27,23,Was anybody issued a ticket in relation to this accident?,q,MR. DALY,start_answer
+333,692,28,1,I don't think the officer gave them a ticket.,a,THE WITNESS,start_question
+334,694,28,3,"In the moment that the two vehicles came into contact, where were your eyes looking?",q,MR. DALY,start_answer
+335,697,28,6,Say that again.,a,THE WITNESS,start_question
+336,698,28,7,"The moment the two vehicles came into contact, where were your eyes looking?",q,MR. DALY,start_answer
+337,700,28,9,"Well, I already turned.",a,THE WITNESS,start_question
+338,701,28,10,So where were your eyes looking?,q,MR. DALY,start_answer
+339,702,28,11,On Old York Road.  It runs just like that.,a,THE WITNESS,start_question
+340,704,28,13,Your eyes were looking on Old York Road?,q,MR. DALY,start_answer
+341,706,28,15,"Yes, at the time that it hit me.",a,THE WITNESS,start_question
+342,707,28,16,Were you using your GPS?,q,MR. DALY,start_answer
+343,708,28,17,Say that again.,a,THE WITNESS,start_question
+344,709,28,18,Were you using a GPS?,q,MR. DALY,start_answer
+345,710,28,19,"No, that's not in my truck.",a,THE WITNESS,start_question
+346,711,28,20,I didn't think so. Do you have a cell phone?,q,MR. DALY,start_answer
+347,713,28,22,"Yes, sir.",a,THE WITNESS,start_question
+348,714,28,23,Were you using it at the time of the accident?,q,MR. DALY,start_answer
+349,717,29,1,"No, I don't do it and drive.",a,THE WITNESS,start_question
+350,718,29,2,Were you listening to the radio?,q,MR. DALY,start_answer
+351,719,29,3,"No radio either.  Matter fact, the radio -- I didn't have a radio in my truck. Somebody broke in it and took the radio out.",a,THE WITNESS,start_question
+352,722,29,6,How fast were you going?,q,MR. DALY,start_answer
+353,723,29,7,"I'll estimate about, when I made the turn, I was doing less than 15 miles an hour.",a,THE WITNESS,start_question
+354,725,29,9,You were going less than 15 miles an hour?,q,MR. DALY,start_answer
+355,727,29,11,"When I made the turn, yes, sir.",a,THE WITNESS,start_question
+356,728,29,12,That's 15?,q,MR. DALY,start_answer
+357,729,29,13,"I said less than 15.  Somewhere between 12 and 15 miles an hour, I would say.",a,THE WITNESS,start_question
+358,731,29,15,What part of your vehicle came into contact with my client's vehicle?,q,MR. DALY,start_answer
+359,733,29,17,You said what part of my vehicle?  Say that again.,a,THE WITNESS,start_question
+360,735,29,19,"What part of your vehicle came into contact with my client's vehicle, the other vehicle involved in the accident?",q,MR. DALY,start_answer
+361,738,29,22,"The backside of the truck, the bed area behind the door.  I have a two-door truck.",a,THE WITNESS,start_question
+362,742,30,1,What part of her vehicle was impacted?,q,MR. DALY,start_answer
+363,743,30,2,"The front bumper, that area.",a,THE WITNESS,start_question
+364,744,30,3,Did you ever get your truck repaired?,q,MR. DALY,start_answer
+365,745,30,4,No.  It was 24 years old.  I ain't going to repair that.,a,THE WITNESS,start_question
+366,747,30,6,Were you wearing glasses at the time of the accident?,q,MR. DALY,start_answer
+367,749,30,8,"Yes, sir.",a,THE WITNESS,start_question
+368,750,30,9,Did you look in your rear-view mirror before this accident?,q,MR. DALY,start_answer
+369,752,30,11,Say that again.,a,THE WITNESS,start_question
+370,753,30,12,Did you look in your rear-view mirror before the accident happened?,q,MR. DALY,start_answer
+371,755,30,14,"No, I looked ahead.",a,THE WITNESS,start_question
+372,756,30,15,"Before you took the left turn there, did you look in front of you to make sure no cars were coming?",q,MR. DALY,start_answer
+373,759,30,18,I saw no nothing.,a,THE WITNESS,start_question
+374,760,30,19,You think her car came out of nowhere?,q,MR. DALY,start_answer
+375,761,30,20,"Like I said, it was dark, and I didn't see it.  I didn't see no headlights.",a,THE WITNESS,start_question
+376,763,30,22,Do you think it fell from the sky?,q,MR. DALY,start_chat
+377,764,30,23,Objection. Don't answer that.,side_chat,MS. FRASCELLA,start_question
+378,768,31,2,Which direction was my client heading?,q,MR. DALY,start_answer
+379,769,31,3,South.,a,THE WITNESS,start_question
+380,770,31,4,Which direction were you heading?,q,MR. DALY,start_answer
+381,771,31,5,North.,a,THE WITNESS,start_question
+382,772,31,6,How far down Broad Street were you able to see in front of you?,q,MR. DALY,start_answer
+383,774,31,8,"You can see three four, blocks, more than likely, if you got lights on or something like that.",a,THE WITNESS,start_question
+384,777,31,11,Did you come to a complete stop before making the left-hand turn?,q,MR. DALY,start_answer
+385,779,31,13,No.,a,THE WITNESS,start_question
+386,780,31,14,You didn't?,q,MR. DALY,start_answer
+387,781,31,15,I didn't come to a complete stop.,a,THE WITNESS,start_question
+388,782,31,16,Where do you think her car came from?,q,MR. DALY,start_chat
+389,783,31,17,Objection. You don't have to answer that.,side_chat,MS. FRASCELLA,start_chat
+390,785,31,19,I didn't see no headlights.,side_chat,THE WITNESS,start_question
+391,788,31,22,You don't know?,q,MR. DALY,start_answer
+392,789,31,23,"No, I don't know where they came from really.",a,THE WITNESS,start_question
+393,792,32,1,Was there anything blocking your view at all?,q,MR. DALY,start_answer
+394,794,32,3,No.,a,THE WITNESS,start_question
+395,795,32,4,Describe the damage to your vehicle.,q,MR. DALY,start_answer
+396,796,32,5,"The bed area, my truck bed, right quarter panel and all that.",a,THE WITNESS,start_question
+397,798,32,7,Was it dented?,q,MR. DALY,start_answer
+398,799,32,8,"Yeah, my truck had fenders called a flareside.",a,THE WITNESS,start_question
+399,801,32,10,Do you know of any witnesses to this accident?,q,MR. DALY,start_answer
+400,803,32,12,"No, wasn't nobody out there.",a,THE WITNESS,start_question
+401,804,32,13,Did you review any documents in preparation for this deposition?,q,MR. DALY,start_answer
+402,806,32,15,Repeat that.,a,THE WITNESS,start_question
+403,807,32,16,Did you review any documents in preparation for this deposition?,q,MR. DALY,start_answer
+404,809,32,18,"No, sir.",a,THE WITNESS,start_question
+405,810,32,19,What?,q,MR. DALY,start_answer
+406,811,32,20,You said did I review any documents?,a,THE WITNESS,start_question
+407,812,32,21,Yeah.,q,MR. DALY,start_answer
+408,813,32,22,Only thing we looked at was where the accident happened at on the computer.,a,THE WITNESS,start_chat
+409,815,32,24,The Google map.,side_chat,MS. FRASCELLA,start_question
+410,818,33,2,You looked at a Google map?,q,MR. DALY,start_answer
+411,819,33,3,I just looked at it on the computer.,a,THE WITNESS,start_chat
+412,820,33,4,"Not a paper, on the computer.  That's what he's trying to clarify for you.",side_chat,MS. FRASCELLA,start_question
+413,824,33,8,Did your vehicle leave any skid marks on the road?,q,MR. DALY,start_answer
+414,826,33,10,No.,a,THE WITNESS,start_question
+415,827,33,11,"How about the other car, did that leave any skid marks?",q,MR. DALY,start_answer
+416,829,33,13,"Like I said, I didn't look and see if it made any skid marks.",a,THE WITNESS,start_question
+417,831,33,15,How far did your vehicle push that white Explorer after the accident happened?,q,MR. DALY,start_chat
+418,833,33,17,Objection. Don't answer that. His car didn't push anything. She pushed him.  She hit him.  You know it. I know it.  Knock it off.,side_chat,MS. FRASCELLA,start_question
+419,839,33,23,"Now, after this accident happened, how did the white Explorer react?",q,MR. DALY,start_answer
+420,842,34,1,Repeat that again.,a,THE WITNESS,start_question
+421,843,34,2,"After this accident happened, how did the white Explorer react?",q,MR. DALY,start_answer
+422,845,34,4,It just was sitting there.  I guess they turned the engine off.  That was it.,a,THE WITNESS,start_question
+423,847,34,6,How did your vehicle react?,q,MR. DALY,start_answer
+424,848,34,7,My engine was still running.  I just turned it off.  Then the police came.,a,THE WITNESS,start_question
+425,850,34,9,Was your vehicle pushed in any direction at all?,q,MR. DALY,start_answer
+426,852,34,11,"No, because I already made the turn, and I was about, I guess, about 20, 25 feet from where they hit me at where I stopped, maybe 25, 30 feet.",a,THE WITNESS,start_question
+427,856,34,15,Do you have a CDL?,q,MR. DALY,start_answer
+428,857,34,16,"Yes, sir.",a,THE WITNESS,start_question
+429,858,34,17,Is that still active?,q,MR. DALY,start_answer
+430,859,34,18,"Yes, sir.",a,THE WITNESS,start_question
+431,860,34,19,I'm going to show you the police report that was generated in relation to the accident.  I'm going to mark this as Hunter-1. Have you ever seen this document before?,q,MR. DALY,start_answer
+432,867,35,1,No.,a,THE WITNESS,start_question
+433,868,35,2,"Now, this little box with an arrow on the end is supposed to represent your vehicle.",q,MR. DALY,start_answer
+434,871,35,5,Number 2.,a,THE WITNESS,start_chat
+435,872,35,6,"Do you agree with that, Ms. Frascella?",side_chat,MR. DALY,start_chat
+436,874,35,8,Do I agree with what?,side_chat,MS. FRASCELLA,start_chat
+437,876,35,10,Number 2 is supposed to represent --,side_chat,MR. DALY,start_chat
+438,878,35,12,I agree that his vehicle is identified as vehicle 2 on the police report.,side_chat,MS. FRASCELLA,start_question
+439,882,35,16,Do you disagree with the positioning of the vehicle --,q,MR. DALY,start_answer
+440,884,35,18,I was in this lane when it hit me.,a,THE WITNESS,start_question
+441,885,35,19,This is the northbound lane here.,q,MR. DALY,start_answer
+442,886,35,20,"Northbound lane, yeah.  This is southbound lane, right?",a,THE WITNESS,start_question
+443,888,35,22,Yeah.,q,MR. DALY,start_answer
+444,889,35,23,"There is two lanes, you know.",a,THE WITNESS,start_chat
+445,890,35,24,"Right.  It doesn't look designated.  There's dots here, but up here they didn't put the dots.",side_chat,MS. FRASCELLA,start_chat
+446,894,36,3,I think when I hit that vehicle there I was in this lane.,side_chat,THE WITNESS,start_question
+447,897,36,6,You think she was in the northbound lane heading south?,q,MR. DALY,start_answer
+448,899,36,8,"No, no, no.  It was on the inside southbound lane.",a,THE WITNESS,start_question
+449,901,36,10,"I'm going to take this back from you, all right?",q,MR. DALY,start_answer
+450,903,36,12,That lane there.,a,THE WITNESS,start_question
+451,904,36,13,"I'm going to clear this up for you. This is supposed to represent the northbound lane, okay?",q,MR. DALY,start_answer
+452,907,36,16,That's the northbound lane there.,a,THE WITNESS,start_question
+453,908,36,17,That's all northbound.,q,MR. DALY,start_answer
+454,909,36,18,"Okay.  Well, they were in this lane here.",a,THE WITNESS,start_chat
+455,911,36,20,There is two lanes coming southbound. Was she in the right lane or the left lane of southbound traffic?,side_chat,MS. FRASCELLA,start_chat
+456,915,36,24,The inside lane.,side_chat,THE WITNESS,start_chat
+457,917,37,1,"To you, is the inside lane the left lane or the right lane? Is the inside closer to the yellow line or closer to the shoulder?",side_chat,MS. FRASCELLA,start_chat
+458,921,37,5,The outside lane is the shoulder.  The inside lane is where the line is at.,side_chat,THE WITNESS,start_chat
+459,924,37,8,So she's in the inside lane?,side_chat,MS. FRASCELLA,start_chat
+460,926,37,10,Inside lane.,side_chat,THE WITNESS,start_question
+461,928,37,12,"Let's say this is the inside lane. This is the line that separates the two lanes going southbound, okay?",q,MR. DALY,start_answer
+462,931,37,15,Uh-huh.,a,THE WITNESS,start_question
+463,932,37,16,"Now, do you disagree with how the police officers drew up this accident?",q,MR. DALY,start_answer
+464,934,37,18,Which lane is this in?,a,THE WITNESS,start_question
+465,935,37,19,What?,q,MR. DALY,start_answer
+466,936,37,20,What lane would that be in right there?,a,THE WITNESS,start_question
+467,938,37,22,The inside lane of the southbound.,q,MR. DALY,start_answer
+468,939,37,23,The inside lane?,a,THE WITNESS,start_question
+469,940,37,24,Yes.,q,MR. DALY,start_answer
+470,942,38,1,"Okay, yeah.",a,THE WITNESS,start_question
+471,943,38,2,You agree with the characterization of the accident per the police report diagram?,q,MR. DALY,start_answer
+472,945,38,4,My truck was further here than when I got hit.,a,THE WITNESS,start_question
+473,947,38,6,Further which way?,q,MR. DALY,start_answer
+474,948,38,7,This way.,a,THE WITNESS,start_question
+475,949,38,8,Closer to Old York Street?,q,MR. DALY,start_answer
+476,950,38,9,Yes.,a,THE WITNESS,start_question
+477,951,38,10,How much further?,q,MR. DALY,start_answer
+478,952,38,11,"I really can't say that.  It was here, this lane here.  I had twisted in this lane right here when I got hit.  You got a pen? I'll show you.",a,THE WITNESS,start_question
+479,956,38,15,Yeah.,q,MR. DALY,start_answer
+480,957,38,16,I was in this lane here.  My door was hit around this area here.,a,THE WITNESS,start_question
+481,959,38,18,"I don't know what you're saying, but I want you to mark on this number 2 where the point of impact was.",q,MR. DALY,start_answer
+482,962,38,21,(Witness complies with request.) Right here.,a,THE WITNESS,start_chat
+483,964,38,23,"He wants to know where your vehicle was, not where the cars hit.",side_chat,MS. FRASCELLA,start_question
+484,969,39,3,I want to know where the car was hit.,q,MR. DALY,start_answer
+485,970,39,4,You want to know where the car was at? I was here in here.,a,THE WITNESS,start_chat
+486,972,39,6,"Just for the record, he's indicating his car was farther up on Conlyn Street than indicated on the police report.",side_chat,MS. FRASCELLA,start_question
+487,977,39,11,"Now, was your vehicle on Broad Street or Conlyn Street when the accident happened?",q,MR. DALY,start_answer
+488,979,39,13,"One part was on Conlyn Street and one part was on Broad Street, if you want to call that Conlyn Street.",a,THE WITNESS,start_question
+489,982,39,16,"Yeah, I do. You hadn't completed your turn yet at that point?",q,MR. DALY,start_answer
+490,985,39,19,Say again.,a,THE WITNESS,start_question
+491,986,39,20,You didn't complete your turn yet at that point?,q,MR. DALY,start_answer
+492,988,39,22,I turned because they hit me behind my door.  I got a two-door truck.  They hit me behind my door.  My passenger side door and my fender.,a,THE WITNESS,start_chat
+493,993,40,2,I don't have any other questions. Anything you want to put on the record?,side_chat,MR. DALY,start_chat
+494,997,40,6,No.,side_chat,MS. FRASCELLA,start_chat
+495,998,40,7,"Thanks, Mr. Hunter.",side_chat,MR. DALY,symbols
+496,999,40,8,- - -,symbols,,is brackets
+497,1000,40,9,"(Whereupon, the deposition concluded at 2:48 p.m.)",brackets,,symbols
+498,1002,40,11,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 3, 2019, and that this is a correct transcription of same.",symbols,,end

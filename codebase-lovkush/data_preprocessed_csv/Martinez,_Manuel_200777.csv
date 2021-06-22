@@ -1,0 +1,1943 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," MANUEL MARTINEZ, called as a witness herein, having been first duly sworn, was examined and testified as follows: EXAMINATION",,,start_question
+1,96,4,8,Could you please state your name for the record.,q,MR. SUN,start_answer
+2,98,4,10,Manuel Martinez.,a,THE WITNESS,start_chat
+3,99,4,11,All right.  Let the record reflect that this is the deposition of Manuel Martinez taken pursuant to all applicable local federal rules and the Federal Rules of Civil Procedure.,side_chat,MR. SUN,start_question
+4,104,4,16,"Mr. Martinez, have you ever given a deposition before?",q,MR. SUN,start_answer
+5,106,4,18,No.,a,THE WITNESS,start_question
+6,107,4,19,Okay.,q,MR. SUN,start_answer
+7,108,4,20,"As far as I know, no.",a,THE WITNESS,start_question
+8,109,4,21,"Okay.  Have you ever been in a room with lawyers like this, talking with a court reporter, anything like that?",q,MR. SUN,start_answer
+9,112,4,24,I -- I believe so.  I believe so.,a,THE WITNESS,start_question
+10,114,5,1,Okay.  And I just assume you have been because I think there was mention of some litigation in your discovery.  I don't know... But were those in the course of lawsuits?,q,MR. SUN,start_answer
+11,118,5,5,With Home Depot there was a mediator involved.,a,THE WITNESS,start_question
+12,119,5,6,Okay.  And how long ago was that?,q,MR. SUN,start_answer
+13,120,5,7,I would like to say 2016 I believe.,a,THE WITNESS,start_question
+14,121,5,8,"Okay.  And in that, you mentioned it was a mediator involved.  There was something with Home Depot, correct?",q,MR. SUN,start_answer
+15,124,5,11,That's correct.,a,THE WITNESS,start_question
+16,125,5,12,Okay.  Were you suing Home Depot?,q,MR. SUN,start_answer
+17,126,5,13,I -- well -- they -- I -- I'm not quite sure if I should say yes on that because they -- they settled out of court.  So I don't know if it actually was a lawsuit or not.,a,THE WITNESS,start_question
+18,130,5,17,"I see.  Okay. And in that particular incident, I guess, what was the nature of the dispute?",q,MR. SUN,start_answer
+19,133,5,20,I hit a 12-by-12 brick on the -- on the floor of the store.  It was placed as a door prop.,a,THE WITNESS,start_question
+20,135,5,22,"Okay.  And aside from that Home Depot dispute, have you ever sat in a room with lawyers/court reporter like this before?",q,MR. SUN,start_answer
+21,139,6,1,No.,a,THE WITNESS,start_question
+22,140,6,2,Okay.  So this might be your first deposition. So I'm going to go over some basic rules for a deposition --,q,MR. SUN,start_answer
+23,143,6,5,Uh-huh.,a,THE WITNESS,start_question
+24,144,6,6,"-- just to help it go a little quicker and a little more smoothly.  I'm sure your attorney's probably talked to you about it before. The first thing is all of your answers today are going to have to be verbal, like ""yes"" or ""no."" We're going to try to stay away from nods of the head, shakes of the head, saying words like ""uh-huh,"" ""uh-uh,"" and that's just because when the court reporter types it in, it shows up as ""U H U H.""  And so when we're reading it later on, we have no idea if that's a yes or a no.",q,MR. SUN,start_answer
+25,154,6,16,Correct.,a,THE WITNESS,start_question
+26,155,6,17,"Okay.  The second part is there's going to be a lot of times probably where you're going to know where I'm going to go with the question and you're going to want to answer it before I finish my question.  You just have to let me finish the question before you give your answer and that's, again, so we can keep the transcript clean so the court reporter doesn't have to type in, you know, half a question, your answer, and then the other half of my question.  Okay?",q,MR. SUN,start_answer
+27,165,7,2,I understand.,a,THE WITNESS,start_question
+28,166,7,3,"All right.  I know we talked about this before the deposition, but I don't anticipate being here too long.  But if at any point you need to take a break, just let us know and you're free to take a break whenever you want.  I just ask that if I have a question that's pending, like if I ask a question, that you answer that question before you go take your break.",q,MR. SUN,start_answer
+29,173,7,10,I understand.,a,THE WITNESS,start_question
+30,174,7,11,"Okay.  And then the last thing is if I ask a bad question or I ask something that's really confusing, you don't understand it, just let me know and I will rephrase my question.  I'm not here to try to trick you. Just let me know.",q,MR. SUN,start_answer
+31,179,7,16,I understand.,a,THE WITNESS,start_question
+32,180,7,17,"All right.  Mr. Martinez, what is your date of birth?",q,MR. SUN,start_answer
+33,182,7,19,12/26/1959.,a,THE WITNESS,start_question
+34,183,7,20,And where were you born?,q,MR. SUN,start_answer
+35,184,7,21,"Gary, Indiana.",a,THE WITNESS,start_question
+36,185,7,22,Okay.  What's your highest degree of education?,q,MR. SUN,start_answer
+37,187,7,24,12th.,a,THE WITNESS,start_question
+38,189,8,1,So that's senior in high school?,q,MR. SUN,start_answer
+39,190,8,2,That's correct.,a,THE WITNESS,start_question
+40,191,8,3,Did you finish 12th grade?,q,MR. SUN,start_answer
+41,192,8,4,"Yes, I -- I did.",a,THE WITNESS,start_question
+42,193,8,5,Okay.  So you have a high school degree?,q,MR. SUN,start_answer
+43,194,8,6,Diploma.,a,THE WITNESS,start_question
+44,195,8,7,Diploma.,q,MR. SUN,start_answer
+45,196,8,8,Right.,a,THE WITNESS,start_question
+46,197,8,9,Okay.  And where did you attend high school?,q,MR. SUN,start_answer
+47,198,8,10,"Charlton High School, Plainfield, Indiana.",a,THE WITNESS,start_question
+48,199,8,11,"Aside from your high school degree, did you accomplish any other degrees?",q,MR. SUN,start_answer
+49,201,8,13,Certified at United States Steel Corporation through an apprenticeship program.,a,THE WITNESS,start_question
+50,203,8,15,"And you mentioned it's certified.  Is that like a -- Like, is there a specialty that you're certified in?",q,MR. SUN,start_answer
+51,206,8,18,Yes.,a,THE WITNESS,start_question
+52,207,8,19,And what is that?,q,MR. SUN,start_answer
+53,208,8,20,Maintenance.,a,THE WITNESS,start_question
+54,209,8,21,"Is there a specialty, specifically like what are you maintain --",q,MR. SUN,start_answer
+55,211,8,23,Hydraulics.,a,THE WITNESS,start_question
+56,212,8,24,Okay.  So it's hydraulics maintenance?,q,MR. SUN,start_answer
+57,214,9,1,"Oh, yes.",a,THE WITNESS,start_question
+58,215,9,2,Okay.  And what did that entail to get that certification?,q,MR. SUN,start_answer
+59,217,9,4,Classes.,a,THE WITNESS,start_question
+60,218,9,5,Approximately how many classes are we talking about?,q,MR. SUN,start_answer
+61,220,9,7,"I don't recall.  This is back in '79, '80.  I don't recall.  It's --",a,THE WITNESS,start_question
+62,222,9,9,Was it --,q,MR. SUN,start_answer
+63,223,9,10,-- numerous classes.  I can say there were numerous classes.,a,THE WITNESS,start_question
+64,225,9,12,Okay.  Was it --,q,MR. SUN,start_answer
+65,226,9,13,Over --,a,THE WITNESS,start_question
+66,227,9,14,-- over the course of a year?,q,MR. SUN,start_answer
+67,228,9,15,"A year, yes.",a,THE WITNESS,start_question
+68,229,9,16,Okay.  So classes throughout one year?,q,MR. SUN,start_answer
+69,230,9,17,Correct.,a,THE WITNESS,start_question
+70,231,9,18,And then at the end you had to take a test?,q,MR. SUN,start_answer
+71,232,9,19,Yes.,a,THE WITNESS,start_question
+72,233,9,20,And you had to pass the test?,q,MR. SUN,start_answer
+73,234,9,21,Yes.,a,THE WITNESS,start_question
+74,235,9,22,Then you got certified?,q,MR. SUN,start_answer
+75,236,9,23,Yes.,a,THE WITNESS,start_question
+76,237,9,24,"Okay.  As a part of that hydraulics maintenance certification, do you have to take any type of ongoing continuing education type things?",q,MR. SUN,start_answer
+77,241,10,3,No.  That's -- That would be on you if you would want to.,a,THE WITNESS,start_question
+78,243,10,5,Okay.  But --,q,MR. SUN,start_answer
+79,244,10,6,"If you want to continue, right.  It was not mandatory.",a,THE WITNESS,start_question
+80,246,10,8,Okay.  So you can continue being certified even though you're not taking any classes?,q,MR. SUN,start_answer
+81,248,10,10,Right.  You can -- Yes.,a,THE WITNESS,start_question
+82,249,10,11,"Okay.  Aside from that certification, do you hold any other types of certifications?",q,MR. SUN,start_answer
+83,251,10,13,No.,a,THE WITNESS,start_question
+84,252,10,14,Okay.  Do you have a driver's license?,q,MR. SUN,start_answer
+85,253,10,15,"No, I don't.",a,THE WITNESS,start_question
+86,254,10,16,Okay.  Have you ever had a driver's license?,q,MR. SUN,start_answer
+87,255,10,17,"Yes.  Yes, I've had.",a,THE WITNESS,start_question
+88,256,10,18,Okay.  And when did you lose your driver's license?,q,MR. SUN,start_answer
+89,258,10,20,I want to say ten -- ten years ago.,a,THE WITNESS,start_question
+90,259,10,21,Okay.  Can you describe to me why -- how that happened.,q,MR. SUN,start_answer
+91,261,10,23,I was involved in a car accident.,a,THE WITNESS,start_question
+92,262,10,24,"And then in terms of your current status of not having a driver's license, is it because you can't get one or you're legally not allowed to have one?",q,MR. SUN,start_answer
+93,266,11,3,No.  I -- I can apply for one.,a,THE WITNESS,start_question
+94,267,11,4,Okay.,q,MR. SUN,start_answer
+95,268,11,5,"Yes.  I can legally have one, yes.",a,THE WITNESS,start_question
+96,269,11,6,Okay.  You just haven't done it?,q,MR. SUN,start_answer
+97,270,11,7,"Right, correct.",a,THE WITNESS,start_question
+98,271,11,8,Gotcha. How do you get around?,q,MR. SUN,start_answer
+99,273,11,10,"I'm chauffeured, Uber or friends.",a,THE WITNESS,start_question
+100,274,11,11,"Okay.  And then along with these questions, have you ever been convicted of a felony?",q,MR. SUN,start_answer
+101,276,11,13,"No, sir.",a,THE WITNESS,start_question
+102,277,11,14,Okay.  And don't be offended.  I have to ask this of every --,q,MR. SUN,start_answer
+103,279,11,16,I understand.,a,THE WITNESS,start_question
+104,280,11,17,-- deponent. Have you ever been convicted of a crime involving dishonesty or fraud?,q,MR. SUN,start_answer
+105,283,11,20,Yes.,a,THE WITNESS,start_question
+106,284,11,21,Okay.  And when was that?,q,MR. SUN,start_answer
+107,285,11,22,I took an item from a store.,a,THE WITNESS,start_question
+108,286,11,23,And when was -- When was it?,q,MR. SUN,start_answer
+109,287,11,24,I don't recall.  It's been -- It's been quite some time.,a,THE WITNESS,start_question
+110,290,12,2,Okay.  Can you give me an approximation of like a decade -- which decade it was in?,q,MR. SUN,start_answer
+111,292,12,4,Maybe a decade ago.,a,THE WITNESS,start_question
+112,293,12,5,Approximately like ten years ago?,q,MR. SUN,start_answer
+113,294,12,6,Yes.,a,THE WITNESS,start_question
+114,295,12,7,So in the 2000s?,q,MR. SUN,start_answer
+115,296,12,8,"Yes, yes.",a,THE WITNESS,start_question
+116,297,12,9,And which store did this involve?,q,MR. SUN,start_answer
+117,298,12,10,I believe it was a Lowe's store.,a,THE WITNESS,start_question
+118,299,12,11,Okay.  And what were you accused of stealing?,q,MR. SUN,start_answer
+119,300,12,12,Let's see.  A propane tank I believe.,a,THE WITNESS,start_question
+120,301,12,13,"Okay.  And was this -- I guess, were you arrested as a result of this?",q,MR. SUN,start_answer
+121,303,12,15,I -- I was.,a,THE WITNESS,start_question
+122,304,12,16,Okay.,q,MR. SUN,start_answer
+123,305,12,17,I was.,a,THE WITNESS,start_question
+124,306,12,18,And was this -- Did it go through the criminal courts then?,q,MR. SUN,start_answer
+125,308,12,20,"Yes.  Yes, it did.",a,THE WITNESS,start_question
+126,309,12,21,Okay.  And was it finally resolved --,q,MR. SUN,start_answer
+127,310,12,22,Yes --,a,THE WITNESS,start_question
+128,311,12,23,-- in criminal court?,q,MR. SUN,start_answer
+129,312,12,24,"Yes, it -- Yes, it was.",a,THE WITNESS,start_question
+130,314,13,1,Okay.  Were you sent to jail for it or anything like that?,q,MR. SUN,start_answer
+131,316,13,3,"No.  No, no, no.",a,THE WITNESS,start_question
+132,317,13,4,Okay.  Do you recall what the punishment was?,q,MR. SUN,start_answer
+133,318,13,5,Probation.,a,THE WITNESS,start_question
+134,319,13,6,Okay.,q,MR. SUN,start_answer
+135,320,13,7,And that was the extent.,a,THE WITNESS,start_question
+136,321,13,8,"And do you recall which criminal court, like what city it was in?  Was it Chicago, was it...",q,MR. SUN,start_answer
+137,323,13,10,"No.  Hammond, Indiana.",a,THE WITNESS,start_question
+138,324,13,11,Okay.  Where do you currently reside?,q,MR. SUN,start_answer
+139,325,13,12,"4548 South Troy Street, Chicago, Illinois.",a,THE WITNESS,start_question
+140,326,13,13,And --,q,MR. SUN,start_answer
+141,327,13,14,60632.,a,THE WITNESS,start_question
+142,328,13,15,Thank you. Is that a house or apartment?,q,MR. SUN,start_answer
+143,330,13,17,"Apartment, correct.",a,THE WITNESS,start_question
+144,331,13,18,Okay.  Are you renting or do you own?,q,MR. SUN,start_answer
+145,332,13,19,Rent.,a,THE WITNESS,start_question
+146,333,13,20,Okay.  Are there any other individuals who live at that address with you?,q,MR. SUN,start_answer
+147,335,13,22,Yes.,a,THE WITNESS,start_question
+148,336,13,23,And who are those people?,q,MR. SUN,start_answer
+149,337,13,24,Maribel Guzman.,a,THE WITNESS,start_question
+150,339,14,1,And who is Maribel Guzman?,q,MR. SUN,start_answer
+151,340,14,2,My girlfriend.,a,THE WITNESS,start_question
+152,341,14,3,Okay.  Anybody else?,q,MR. SUN,start_answer
+153,342,14,4,No.,a,THE WITNESS,start_question
+154,343,14,5,Okay.  How long have you been dating Maribel Guzman for?,q,MR. SUN,start_answer
+155,345,14,7,Seven and a half years.,a,THE WITNESS,start_question
+156,346,14,8,Okay.  So she would have been your girlfriend around the time of this accident that we're here for today?,q,MR. SUN,start_answer
+157,349,14,11,"Yes, sir.",a,THE WITNESS,start_question
+158,350,14,12,Okay.  Have you ever been married?,q,MR. SUN,start_answer
+159,351,14,13,"No, sir.",a,THE WITNESS,start_question
+160,352,14,14,Okay.  Do you have any children?,q,MR. SUN,start_answer
+161,353,14,15,"Yes, sir.",a,THE WITNESS,start_question
+162,354,14,16,All right.  How many children do you have?,q,MR. SUN,start_answer
+163,355,14,17,Two.,a,THE WITNESS,start_question
+164,356,14,18,And what are their names?,q,MR. SUN,start_answer
+165,357,14,19,Candice Martinez (phonetic).,a,THE WITNESS,start_question
+166,358,14,20,How old is Candice?,q,MR. SUN,start_answer
+167,359,14,21,"42, I believe.",a,THE WITNESS,start_question
+168,360,14,22,And the other child?,q,MR. SUN,start_answer
+169,361,14,23,Allison.  She is 29.,a,THE WITNESS,start_question
+170,362,14,24,"Okay.  Aside from the present lawsuit that we're here for today involving Walmart -- and I believe the circumstance of the accident was that you were struck by a pallet jack, correct?",q,MR. SUN,start_answer
+171,367,15,4,That's correct.,a,THE WITNESS,start_question
+172,368,15,5,"Okay.  Aside from this lawsuit that we're here for today, have you personally or through your attorneys filed any other lawsuits before?",q,MR. SUN,start_answer
+173,371,15,8,"Other than the Home Depot that we spoke of, I had an accident in New Orleans, Louisiana, but I'm not sure.  Again, that was settled out of court.  It was a car accident, a car hit -- hit our car.  I don't -- I don't know if there was a lawsuit filed on that.  All I know is that they settled out of court.",a,THE WITNESS,start_question
+174,377,15,14,Okay.  Have you ever applied for Social Security --,q,MR. SUN,start_answer
+175,379,15,16,Oh.,a,THE WITNESS,start_question
+176,380,15,17,"-- Disability bene- -- Oh, I'm sorry.",q,MR. SUN,start_answer
+177,382,15,19,One -- One more incident in San Diego.  We were hit by a car and that was also settled out of court.,a,THE WITNESS,start_question
+178,385,15,22,Okay.  Have you ever applied for Social Security Disability benefits?,q,MR. SUN,start_answer
+179,387,15,24,"No, sir.",a,THE WITNESS,start_question
+180,389,16,1,Okay.  Have you ever filed for bankruptcy?,q,MR. SUN,start_answer
+181,390,16,2,"No, sir.",a,THE WITNESS,start_question
+182,391,16,3,Do you currently have health insurance?,q,MR. SUN,start_answer
+183,392,16,4,"Yes, sir.",a,THE WITNESS,start_question
+184,393,16,5,And what is your health insurance through?,q,MR. SUN,start_answer
+185,394,16,6,IlliniCare.,a,THE WITNESS,start_question
+186,395,16,7,Is IlliniCare a form of Medicare or Medicaid?,q,MR. SUN,start_answer
+187,396,16,8,"Yes.  Yes, sir.",a,THE WITNESS,start_question
+188,397,16,9,Medicaid?,q,MR. SUN,start_answer
+189,398,16,10,"Yes, sir.",a,THE WITNESS,start_question
+190,399,16,11,Okay.  Are you currently employed?,q,MR. SUN,start_answer
+191,400,16,12,"Yes, I am.",a,THE WITNESS,start_question
+192,401,16,13,Okay.  And who employs you?,q,MR. SUN,start_answer
+193,402,16,14,I'm self-employed.,a,THE WITNESS,start_question
+194,403,16,15,"Okay.  In terms of that self-employment, are -- do you have your own company?",q,MR. SUN,start_answer
+195,405,16,17,I -- I do.,a,THE WITNESS,start_question
+196,406,16,18,Okay.  And what is your company's name?,q,MR. SUN,start_answer
+197,407,16,19,Maintenance Professional.,a,THE WITNESS,start_question
+198,408,16,20,And in terms of Maintenance -- I'm sorry.  The name is Maintenance Professionals?,q,MR. SUN,start_answer
+199,410,16,22,"Yes, correct.",a,THE WITNESS,start_question
+200,411,16,23,"Okay.  Is it -- Is it incorporated, is it an LLC?",q,MR. SUN,start_answer
+201,414,17,1,No.  It's a sole proprietorship.,a,THE WITNESS,start_question
+202,415,17,2,"Like a S corp, or...",q,MR. SUN,start_answer
+203,416,17,3,"Self-proprietorship, but...",a,THE WITNESS,start_question
+204,417,17,4,Okay.  Is it registered with the state?,q,MR. SUN,start_answer
+205,418,17,5,No.  I file taxes on it every year.  I -- Self-proprietorship.,a,THE WITNESS,start_question
+206,420,17,7,Oh.  So you file taxes on behalf of Maintenance Professionals --,q,MR. SUN,start_answer
+207,422,17,9,Yes.,a,THE WITNESS,start_question
+208,423,17,10,-- as well as on behalf of yourself?,q,MR. SUN,start_answer
+209,424,17,11,Yes.  Correct.  Self-proprietorship that's...,a,THE WITNESS,start_question
+210,425,17,12,"Okay.  In terms of Maintenance Professionals, when was it formed?",q,MR. SUN,start_answer
+211,427,17,14,2015.  In the middle of 2015.,a,THE WITNESS,start_question
+212,428,17,15,And what is your role at Maintenance Professionals?,q,MR. SUN,start_answer
+213,430,17,17,"I am a multi-craft mechanic, which means that I am skilled in the welding, machinery repair, installation, pipe fitting, as well as a machinist.  I repair restaurant equipment and install restaurant equipment and service restaurant equipment in the Chicagoland area.",a,THE WITNESS,start_question
+214,436,17,23,Okay.  Do you have any employees for this company?,q,MR. SUN,start_answer
+215,439,18,1,"At the time I -- As of now, no.  At various times, I've had part-time employees.",a,THE WITNESS,start_question
+216,441,18,3,"So, I guess, my question then for -- For this company that you run basically, how do you run this company without a driver's license?",q,MR. SUN,start_answer
+217,444,18,6,Usually I have my friends take me to areas of service and I pay them -- I pay them to take me there. If they're readily available for them to take me to wherever I need to go.,a,THE WITNESS,start_question
+218,448,18,10,Okay.,q,MR. SUN,start_answer
+219,449,18,11,And that's -- That's on call.  So they make extra money by doing so.,a,THE WITNESS,start_question
+220,451,18,13,So that -- those people are not employees --,q,MR. SUN,start_answer
+221,452,18,14,Pardon me?,a,THE WITNESS,start_question
+222,453,18,15,-- of your company? Those people --,q,MR. SUN,start_answer
+223,455,18,17,No.,a,THE WITNESS,start_question
+224,456,18,18,-- who are driving you --,q,MR. SUN,start_answer
+225,457,18,19,No.,a,THE WITNESS,start_question
+226,458,18,20,-- are not employees --,q,MR. SUN,start_answer
+227,459,18,21,"No.  They just -- Something just like an Uber, if you will.  Maribel Guzman also takes me to wherever I need to go.",a,THE WITNESS,start_question
+228,462,18,24,"Okay.  In terms of Maintenance Professionals, you mentioned you file taxes for them, correct?",q,MR. SUN,start_answer
+229,465,19,2,Correct.,a,THE WITNESS,start_question
+230,466,19,3,So what year -- Have you filed taxes for them in all the years that they've been in existence?,q,MR. SUN,start_answer
+231,468,19,5,"Yes, sir.",a,THE WITNESS,start_question
+232,469,19,6,"Okay.  And these taxes are separate from the individual taxes that you file for yourself, correct?",q,MR. SUN,start_answer
+233,471,19,8,Can you repeat that question.,a,THE WITNESS,start_question
+234,472,19,9,"The taxes that you file for Maintenance Professionals are separate from the ones that you file for yourself, correct?",q,MR. SUN,start_answer
+235,475,19,12,"I file them jointly, if that's what you --",a,THE WITNESS,start_question
+236,476,19,13,You file them at the same time --,q,MR. SUN,start_answer
+237,477,19,14,Correct.,a,THE WITNESS,start_question
+238,478,19,15,-- but they're on separate forms and everything?,q,MR. SUN,start_answer
+239,480,19,17,"Yes.  Yes, I -- Yes, I believe so.  That's -- My accountant, I turn everything over to her --",a,THE WITNESS,start_question
+240,482,19,19,Okay.,q,MR. SUN,start_answer
+241,483,19,20,-- and she files them.,a,THE WITNESS,start_question
+242,484,19,21,You mentioned that the company was formed in the middle-ish of 2015?,q,MR. SUN,start_answer
+243,486,19,23,Right.,a,THE WITNESS,start_question
+244,487,19,24,"Before the middle of 2015 when you formed this company, were you employed at all?",q,MR. SUN,start_answer
+245,490,20,2,"Yes, I was.",a,THE WITNESS,start_question
+246,491,20,3,And who were you employed by?,q,MR. SUN,start_answer
+247,492,20,4,Pac-Moore.,a,THE WITNESS,start_question
+248,493,20,5,And how do you spell that?,q,MR. SUN,start_answer
+249,494,20,6,"P A C, dash, M O O R E.",a,THE WITNESS,start_question
+250,495,20,7,And what does Pac-Moore do?,q,MR. SUN,start_answer
+251,496,20,8,It's a packaging company.,a,THE WITNESS,start_question
+252,497,20,9,And what did you do for them?,q,MR. SUN,start_answer
+253,498,20,10,I was a level-three maintenance mechanic.,a,THE WITNESS,start_question
+254,499,20,11,And what did you do as a level-three maintenance mechanic?,q,MR. SUN,start_answer
+255,501,20,13,"I repaired and installed machinery for the company.  Anything to do with the electrical, mechanical, hydraulic, welding, machining, pipe fitting, those various skills that I answered in a previous question is -- I applied to that company.",a,THE WITNESS,start_question
+256,506,20,18,Okay.  How long did you work for Pac-Moore?,q,MR. SUN,start_answer
+257,507,20,19,A little over a couple years.,a,THE WITNESS,start_question
+258,508,20,20,"And then when you say ""a couple years,"" how -- like, are we talking five years, ten years?",q,MR. SUN,start_answer
+259,510,20,22,Two years.,a,THE WITNESS,start_question
+260,511,20,23,Okay.  So approximately 2013 to 2015?,q,MR. SUN,start_answer
+261,512,20,24,"Yeah, somewhere in that area.  Yeah.  Let me see.  2012, '13, '14.  Yeah.",a,THE WITNESS,start_question
+262,515,21,2,"Okay.  And before Pac-Moore, were you employed?",q,MR. SUN,start_answer
+263,517,21,4,"Yes, I was.  I was employed.",a,THE WITNESS,start_question
+264,518,21,5,And where were you employed?,q,MR. SUN,start_answer
+265,519,21,6,I worked for F & F Foods.,a,THE WITNESS,start_question
+266,520,21,7,And what did you do for F & F Foods?,q,MR. SUN,start_answer
+267,521,21,8,I was a maintenance mechanic.,a,THE WITNESS,start_question
+268,522,21,9,Is it the same type of work that you did for Pac-Moore?,q,MR. SUN,start_answer
+269,524,21,11,Exactly.,a,THE WITNESS,start_question
+270,525,21,12,Okay.  And how long did you work for F & F Foods for?,q,MR. SUN,start_answer
+271,527,21,14,I've worked there twice.  I was laid off once and was recalled back and that was the extent of that.,a,THE WITNESS,start_question
+272,529,21,16,And what years did that span?,q,MR. SUN,start_answer
+273,530,21,17,20- -- 2012.  Wait.  Wait a minute.  I'm sorry.  I'm sorry. I don't recall.  I don't recall the years.,a,THE WITNESS,start_question
+274,533,21,20,Was it -- Did it start in the 2000s or was it '90s?,q,MR. SUN,start_answer
+275,535,21,22,"Yes, in 2000s.",a,THE WITNESS,start_question
+276,536,21,23,Okay.,q,MR. SUN,start_answer
+277,537,21,24,I do have paperwork that provides the -- the dates for that.,a,THE WITNESS,start_question
+278,540,22,2,"Gotcha. Okay.  So working from there, in terms of your employment at Pac-Moore and F & F Foods, were you paid on an hourly or salary basis?",q,MR. SUN,start_answer
+279,544,22,6,Hourly.,a,THE WITNESS,start_question
+280,545,22,7,Okay.  And what was your rate of pay at F & F Foods?,q,MR. SUN,start_answer
+281,547,22,9,I believe it's 20- -- $20 an hour.,a,THE WITNESS,start_question
+282,548,22,10,Okay.  And how many hours did you work a week?,q,MR. SUN,start_answer
+283,549,22,11,40 plus.,a,THE WITNESS,start_question
+284,550,22,12,Okay.  And that was the case for an entire -- the entire time?,q,MR. SUN,start_answer
+285,552,22,14,Yes.  Yes.,a,THE WITNESS,start_question
+286,553,22,15,"Okay.  And then going to Pac-Moore, what was your wages or salary at Pac-Moore?",q,MR. SUN,start_answer
+287,555,22,17,28.50 an hour.,a,THE WITNESS,start_question
+288,556,22,18,40 hours a week?,q,MR. SUN,start_answer
+289,557,22,19,Plus.  Yes.,a,THE WITNESS,start_question
+290,558,22,20,40 plus. And that was the case for the whole year?,q,MR. SUN,start_answer
+291,560,22,22,Yes.,a,THE WITNESS,start_question
+292,561,22,23,"Okay.  And in terms of your current position at Maintenance Professionals, what are your hours?",q,MR. SUN,start_answer
+293,564,23,1,"They're -- They vary.  I'm on call.  Whenever a client needs something repaired, I'll -- I'll go and repair it.",a,THE WITNESS,start_question
+294,567,23,4,Okay.,q,MR. SUN,start_answer
+295,568,23,5,So there's no set hours for this.,a,THE WITNESS,start_question
+296,569,23,6,"Okay.  In terms of your pay or salary or wages for Maintenance Professionals, even though it's your own company, is there a structure for how you're paid?",q,MR. SUN,start_answer
+297,572,23,9,Yes.  I'm paid 100 to $150 an hour.,a,THE WITNESS,start_question
+298,573,23,10,That's quite the raise.,q,MR. SUN,start_answer
+299,574,23,11,"Yes.  It -- Again, I'm a very skilled person at this field.  There's not too many of us around that are multi-craft maintenance mechanics.",a,THE WITNESS,start_question
+300,577,23,14,Okay.  Show you what we can mark as --,q,MR. SUN,start_chat
+301,578,23,15,"I'm going to just do these together, Robert, because the supplemental and plus the...",side_chat,MR. SUN,start_chat
+302,580,23,17,Okay.,side_chat,MR. ADELMAN,start_chat
+303,581,23,18,So it's probably --,side_chat,MR. SUN,start_chat
+304,582,23,19,Number 1?,side_chat,MR. ADELMAN,start_chat
+305,583,23,20,-- easier. Yeah.,side_chat,MR. SUN,start_question
+306,586,23,23,(Continuing.) -- as Group Exhibit 1.,q,MR. SUN,is brackets
+307,587,23,24,(Discussion off the record.),brackets,,is brackets
+308,589,24,1,(Group Exhibit No. 1 marked as requested.),brackets,,start_question
+309,592,24,4,"All right.  Mr. Martinez, I'm going to show you what we can mark as Group -- what we have marked as Group Exhibit 1.",q,MR. SUN,start_answer
+310,595,24,7,Okay.,a,THE WITNESS,start_question
+311,596,24,8,"So in any lawsuit that's filed, basically the parties will exchange these formal questions to each other and they're called interrogatories.",q,MR. SUN,start_answer
+312,599,24,11,Uh-huh.,a,THE WITNESS,start_question
+313,600,24,12,These were questions and you can see the answers as well.,q,MR. SUN,start_answer
+314,602,24,14,Yes.,a,THE WITNESS,start_question
+315,603,24,15,We ask these questions of you through your attorneys and then these are the answers that were provided.  I just want to show you this document.  It's two-parted because there was some supplementation going on.  But I wanted to show you -- Let's see what page we're on.  First -- In terms of signature on the supplemental one -- that's like page 4 -- 3 -- 4.  It might be on the --,q,MR. SUN,start_answer
+316,611,24,23,Could it be this one?,a,THE WITNESS,start_question
+317,612,24,24,-- supplemental one? Yeah.  Is that your signature?,q,MR. SUN,start_answer
+318,615,25,2,This is correct.,a,THE WITNESS,start_question
+319,616,25,3,"Okay.  I just wanted you to take a look through these two documents just this -- read through it, see the answers and questions, let me know if everything's still accurate.  I just ask this because it's happened before, I'm not blaming your attorneys or anything like that, but it's happened in other cases --",q,MR. SUN,start_answer
+320,622,25,9,Okay.,a,THE WITNESS,start_question
+321,623,25,10,"-- where when the client sits down and they take a look at it, they see something that's completely off.",q,MR. SUN,start_answer
+322,626,25,13,Gotcha.,a,THE WITNESS,start_question
+323,627,25,14,"So this is my only chance to talk to you, so...",q,MR. SUN,start_answer
+324,629,25,16,Sure.,a,THE WITNESS,start_question
+325,630,25,17,Take your time.  Let us know when you're done.,q,MR. SUN,start_answer
+326,631,25,18,All righty.,a,THE WITNESS,start_chat
+327,632,25,19,"You've looked through the first one. Do you want to just tell him, was there anything in the original interrogatories that you believe needs to be changed, amended, corrected?",side_chat,MR. ADELMAN,start_chat
+328,636,25,23,Cost of the surgery.,side_chat,THE WITNESS,start_chat
+329,637,25,24,Don't talk to me.,side_chat,MR. ADELMAN,start_chat
+330,639,26,1,Oh.,side_chat,THE WITNESS,start_chat
+331,640,26,2,Talk to Mr. Sun. BY THE WITNESS:,side_chat,MR. ADELMAN,start_answer
+332,642,26,4,I believe there's -- Underneath the -- the amount --,a,THE WITNESS,start_question
+333,644,26,6,Which one are you looking at right now?,q,MR. SUN,start_answer
+334,645,26,7,Question... Let me see this.,a,THE WITNESS,start_chat
+335,647,26,9,"Here, hold on.",side_chat,MR. ADELMAN,start_question
+336,649,26,11,Okay.  Page 7 -- or question 7?,q,MR. SUN,start_answer
+337,650,26,12,"Yes, 7.",a,THE WITNESS,start_chat
+338,651,26,13,Question 7. BY THE WITNESS:,side_chat,MR. ADELMAN,start_answer
+339,653,26,15,Question 7.,a,THE WITNESS,start_question
+340,654,26,16,Okay.,q,MR. SUN,start_answer
+341,655,26,17,I believe there -- what's absent here may be the cost of the surgery.  I don't see it on this here. I don't --,a,THE WITNESS,start_question
+342,658,26,20,When did you have the surgery?,q,MR. SUN,start_answer
+343,659,26,21,November 28th.,a,THE WITNESS,start_question
+344,660,26,22,2017?,q,MR. SUN,start_answer
+345,661,26,23,2017. It does -- It does say St. Anthony's Health and Rehab on Kedzie Avenue.,a,THE WITNESS,start_question
+346,665,27,2,Uh-huh.,q,MR. SUN,start_answer
+347,666,27,3,"Which is $44,227, but that's therapy and I don't -- I don't see the cost of the surgery on this.",a,THE WITNESS,start_question
+348,668,27,5,Okay.,q,MR. SUN,start_answer
+349,669,27,6,Other than that...,a,THE WITNESS,start_question
+350,670,27,7,"And in terms of that surgery, was this the surgery that was performed by Dr. Goldflies?",q,MR. SUN,start_answer
+351,672,27,9,"Yes, Goldflies.  Correct.",a,THE WITNESS,start_question
+352,673,27,10,Okay.  And where was he with?,q,MR. SUN,start_answer
+353,674,27,11,Pardon me?,a,THE WITNESS,start_question
+354,675,27,12,And what hospital was he with?,q,MR. SUN,start_answer
+355,676,27,13,Saint Anthony's.,a,THE WITNESS,start_question
+356,677,27,14,Okay.,q,MR. SUN,start_answer
+357,678,27,15,"That's where the surgery occurred, at Saint Anthony's Hospital.",a,THE WITNESS,start_question
+358,680,27,17,"Okay.  So it -- Could it possibly be that that amount was there, but the date is wrong?",q,MR. SUN,start_answer
+359,682,27,19,"Well, it -- it states 4455 South Kedzie Avenue.",a,THE WITNESS,start_question
+360,684,27,21,Okay.,q,MR. SUN,start_answer
+361,685,27,22,You see. And Saint Anthony's Hospital is not at 4455 South Kedzie Avenue.,a,THE WITNESS,start_question
+362,689,28,1,Okay.  I think occasionally those addresses are -- are filled in based on where --,q,MR. SUN,start_answer
+363,691,28,3,Okay.,a,THE WITNESS,start_question
+364,692,28,4,-- the hospital either is --,q,MR. SUN,start_answer
+365,693,28,5,Okay.,a,THE WITNESS,start_question
+366,694,28,6,-- headquartered or --,q,MR. SUN,start_answer
+367,695,28,7,I see.,a,THE WITNESS,start_question
+368,696,28,8,So --,q,MR. SUN,start_answer
+369,697,28,9,That -- Then basically it may be inside that --,a,THE WITNESS,start_question
+370,699,28,11,"It could be, but I -- we will make a note of that --",q,MR. SUN,start_answer
+371,701,28,13,Okay.,a,THE WITNESS,start_question
+372,702,28,14,-- that you -- you believe it's not. I will -- I'll talk to your attorneys later on --,q,MR. SUN,start_answer
+373,705,28,17,Sure.,a,THE WITNESS,start_question
+374,706,28,18,-- and we can --,q,MR. SUN,start_answer
+375,707,28,19,Okay.,a,THE WITNESS,start_question
+376,708,28,20,-- sort that part out.,q,MR. SUN,start_answer
+377,709,28,21,"Other than not [sic], that's the only...",a,THE WITNESS,start_question
+378,710,28,22,Okay.  That works.,q,MR. SUN,start_answer
+379,711,28,23,Yeah.,a,THE WITNESS,start_chat
+380,712,28,24,"And in my defense, it does say ""partial itemization"" leaving open the possibility that there was additional itemization.",side_chat,MR. ADELMAN,start_chat
+381,716,29,3,I gotcha.  I gotcha.,side_chat,MR. SUN,start_chat
+382,717,29,4,Okay.,side_chat,MR. ADELMAN,start_chat
+383,718,29,5,"Yeah, it's just...",side_chat,MR. SUN,start_chat
+384,719,29,6,Anything else from --,side_chat,MR. ADELMAN,start_chat
+385,720,29,7,Let's see.,side_chat,THE WITNESS,start_chat
+386,721,29,8,-- the interrogatories. BY THE WITNESS:,side_chat,MR. ADELMAN,start_answer
+387,723,29,10,"I... The wage losses, will we be going over this or was this already covered?",a,THE WITNESS,start_question
+388,726,29,13,No.  I -- I will go into those --,q,MR. SUN,start_answer
+389,727,29,14,Okay.,a,THE WITNESS,start_question
+390,728,29,15,"-- numbers in depth. But is it wrong, that you see it?",q,MR. SUN,start_answer
+391,730,29,17,"No -- As far as I can see, no --",a,THE WITNESS,start_question
+392,731,29,18,"Well, there's also a supplemental one that I think --",q,MR. SUN,start_answer
+393,733,29,20,Yes.,a,THE WITNESS,start_question
+394,734,29,21,-- clarifies --,q,MR. SUN,start_answer
+395,735,29,22,Okay.  I got just --,a,THE WITNESS,start_question
+396,736,29,23,-- some more.,q,MR. SUN,start_answer
+397,737,29,24,-- question here. I -- I think it's fine.,a,THE WITNESS,start_question
+398,740,30,2,"Okay.  What about that second -- that other one, the other part of Group Exhibit 1?",q,MR. SUN,is brackets
+399,742,30,4,(Discussion off the record.) BY THE WITNESS:,brackets,,start_answer
+400,744,30,6,I'm fine with what I see here.,a,THE WITNESS,start_question
+401,745,30,7,"Okay.  Just going through that, the first one that you looked at -- or actually -- I'm sorry.  I guess it's both of them.  So if I show you question 10 -- I just wanted to touch base on that first -- where it states:  State any and all other expenses or losses you claim --",q,MR. SUN,start_answer
+402,751,30,13,Okay.,a,THE WITNESS,start_question
+403,752,30,14,-- as a result of the occurrence; you see that?,q,MR. SUN,start_answer
+404,754,30,16,Yes.,a,THE WITNESS,start_question
+405,755,30,17,And the answer says:  Plaintiff sold his 2007 Jeep...,q,MR. SUN,start_answer
+406,757,30,19,Uh-huh.,a,THE WITNESS,start_question
+407,758,30,20,To pay for outstanding bills and purchased a recliner to keep his leg elevated.  Investigation in discovery continued; do you see that?,q,MR. SUN,start_answer
+408,761,30,23,"Yes.  Yes, I do.",a,THE WITNESS,start_question
+409,762,30,24,"Okay.  And then in the other document, I believe on the page right behind your signature is a receipt...",q,MR. SUN,start_answer
+410,766,31,3,Uh-huh.,a,THE WITNESS,start_question
+411,767,31,4,For what appears to be a 2007 Jeep Wrangler?,q,MR. SUN,start_answer
+412,768,31,5,That's correct.,a,THE WITNESS,start_question
+413,769,31,6,Is this the same Jeep?,q,MR. SUN,start_answer
+414,770,31,7,"Oh, yes.  Yes, it is, sir.",a,THE WITNESS,start_question
+415,771,31,8,"Okay.  So on this -- the second document, where we see the receipt...",q,MR. SUN,start_answer
+416,773,31,10,Correct.,a,THE WITNESS,start_question
+417,774,31,11,"It looks like you -- you sold a 2007 Jeep Wrangler for 24,400?",q,MR. SUN,start_answer
+418,776,31,13,That's correct.,a,THE WITNESS,start_question
+419,777,31,14,So you made a killing on that sale?,q,MR. SUN,start_answer
+420,778,31,15,"Well, this Jeep only had 60,000 miles on it. And if you look at the prices of this particular Jeep -- again, this is going back to 2018 -- they're -- they're selling anywhere between 20- and 25,000.",a,THE WITNESS,start_question
+421,782,31,19,Okay.  Was this Jeep in like mint condition?,q,MR. SUN,start_answer
+422,783,31,20,"Yes.  Pristine.  60,000 miles was all it -- it had on this Jeep.",a,THE WITNESS,start_question
+423,785,31,22,Okay.  And who was Angel Guzman (phonetic)?,q,MR. SUN,start_answer
+424,786,31,23,A friend.  I sold it to a friend of mine.  He was always asking me about the Jeep and I said maybe perhaps someday and it was an opportune time to sell it.,a,THE WITNESS,start_question
+425,790,32,2,Okay.  And it mentioned in interrogatory 10 that you sold this Jeep to pay for outstanding bills?,q,MR. SUN,start_answer
+426,792,32,4,Correct.,a,THE WITNESS,start_question
+427,793,32,5,And what outstanding billings did you owe at that -- Were they medical bills related to this case or were they unrelated bills?,q,MR. SUN,start_answer
+428,796,32,8,"Well, rent, bills for the business, parts, various -- various things, some medicals bills, yes, that were -- that were involved.",a,THE WITNESS,start_question
+429,799,32,11,Which medical bills did you pay from selling the Jeep?,q,MR. SUN,start_answer
+430,801,32,13,"I don't recall at this moment.  I would have to look into it.  There were -- There were some, not -- not all.",a,THE WITNESS,start_question
+431,804,32,16,"Okay.  When you say ""some,"" can you give me a ballpark figure of what amount from this (indicating) was used to pay medical bills?",q,MR. SUN,start_answer
+432,807,32,19,"They were prescriptions.  Again, I purchased a recliner, I paid the rent, and other things along the way.  I can't recall, but -- but the money was needed. So that's why I sold it.",a,THE WITNESS,start_question
+433,811,32,23,"Okay.  And at that time you sold it in 2018, you did not have your driver's license, correct?",q,MR. SUN,start_answer
+434,814,33,1,That's correct.,a,THE WITNESS,start_question
+435,815,33,2,Okay.,q,MR. SUN,start_answer
+436,816,33,3,"In fact, it sat.  That's why it had low miles, because it sat for a very long time because I could not drive it.",a,THE WITNESS,start_question
+437,819,33,6,"Gotcha.  I think you and I have different definitions of ""low miles,"" but...",q,MR. SUN,start_answer
+438,821,33,8,"Yeah.  But 60,000 is low miles.",a,THE WITNESS,start_question
+439,822,33,9,"For -- For me, I mean, 60-, I -- I don't know if I'd buy a used car for 60-.  I bought it -- I bought mine used, but it had like 6,000, so...",q,MR. SUN,start_answer
+440,825,33,12,Oh.,a,THE WITNESS,start_question
+441,826,33,13,"That mileage was, like, low mileage to me --",q,MR. SUN,start_answer
+442,827,33,14,Yeah.,a,THE WITNESS,start_question
+443,828,33,15,"-- but... In your answer to interrogatory 14, you mentioned also you had a slip-and-fall accident when you exited an airplane and that you suffered a low back injury and was in pain for two months.",q,MR. SUN,start_answer
+444,833,33,20,"Yes.  Yes, I did.",a,THE WITNESS,start_question
+445,834,33,21,Did you ever file a lawsuit as a result of that?,q,MR. SUN,start_answer
+446,836,33,23,"Oh, no.  No.",a,THE WITNESS,start_question
+447,837,33,24,Did you ever make a claim or anything --,q,MR. SUN,start_answer
+448,839,34,1,No.,a,THE WITNESS,start_question
+449,840,34,2,-- as a result of that?,q,MR. SUN,start_answer
+450,841,34,3,No.,a,THE WITNESS,start_question
+451,842,34,4,"Okay.  In terms of your answer to interrogatory 16, you -- it makes reference to an individual named Jef, J E F, and I'm assuming that's what was obtained from some of our documentation.  But in terms of this accident -- again, and when I say ""this accident,"" I'm referring to the November 24th, 2016 incident at the Cicero Walmart where you were struck by the pallet jack --",q,MR. SUN,start_answer
+452,850,34,12,Uh-huh.,a,THE WITNESS,start_question
+453,851,34,13,"-- that you claim. The individual that you claim was operating the pallet jack that struck you, what -- what did he look like?",q,MR. SUN,start_answer
+454,855,34,17,Young white male.,a,THE WITNESS,start_question
+455,856,34,18,"And aside from ""young white male,"" like what color hair did he have?",q,MR. SUN,start_answer
+456,858,34,20,Brown.,a,THE WITNESS,start_question
+457,859,34,21,Okay.  How tall was he?,q,MR. SUN,start_answer
+458,860,34,22,"Five, five maybe.",a,THE WITNESS,start_question
+459,861,34,23,Okay.  So kind of short?,q,MR. SUN,start_answer
+460,862,34,24,Yeah.,a,THE WITNESS,start_question
+461,864,35,1,Okay.,q,MR. SUN,start_answer
+462,865,35,2,Somewhere in that area.,a,THE WITNESS,start_question
+463,866,35,3,"When you say ""young,"" how young are we talking?",q,MR. SUN,start_answer
+464,868,35,5,20s.,a,THE WITNESS,start_question
+465,869,35,6,"Okay.  What was he wearing that day, the date of your incident?",q,MR. SUN,start_answer
+466,871,35,8,"I don't recall what he was wearing.  T-shirt, I believe.",a,THE WITNESS,start_question
+467,873,35,10,Do you remember the color of the T-shirt?,q,MR. SUN,start_answer
+468,874,35,11,I don't.,a,THE WITNESS,start_question
+469,875,35,12,Do you remember the type of pants he was wearing?,q,MR. SUN,start_answer
+470,877,35,14,Jeans.,a,THE WITNESS,start_question
+471,878,35,15,Did you speak to this individual at all?,q,MR. SUN,start_answer
+472,879,35,16,No.,a,THE WITNESS,start_question
+473,880,35,17,How do you know that he was an employee of Walmart?,q,MR. SUN,start_answer
+474,882,35,19,He was pulling a pallet jack in the store.,a,THE WITNESS,start_question
+475,883,35,20,So based on that alone you believe that he's an employee?,q,MR. SUN,start_answer
+476,885,35,22,I -- Yes.,a,THE WITNESS,start_question
+477,886,35,23,"Okay.  In terms of this accident, before being hit with the pallet jack, did you hear any -- any beeps, any honking, anybody yelling, Get out of my way?",q,MR. SUN,start_answer
+478,890,36,2,No.,a,THE WITNESS,start_question
+479,891,36,3,Anything like that?,q,MR. SUN,start_answer
+480,892,36,4,No.,a,THE WITNESS,start_question
+481,893,36,5,You didn't hear anything?,q,MR. SUN,start_answer
+482,894,36,6,"No, sir.",a,THE WITNESS,start_question
+483,895,36,7,Okay.  Where were you in the store that day when you were hit?,q,MR. SUN,start_answer
+484,897,36,9,I believe I was in aisle 15 talking to a Walmart employee.,a,THE WITNESS,start_question
+485,899,36,11,And what were you talking to the Walmart employee about?,q,MR. SUN,start_answer
+486,901,36,13,Items in the store.,a,THE WITNESS,start_question
+487,902,36,14,Was that Walmart employee the Toledo --,q,MR. SUN,start_answer
+488,903,36,15,Yes.,a,THE WITNESS,start_question
+489,904,36,16,-- person?,q,MR. SUN,start_answer
+490,905,36,17,Yes.,a,THE WITNESS,start_question
+491,906,36,18,Okay.  So would she have seen this person hit you?,q,MR. SUN,start_answer
+492,908,36,20,No.  She had her back turned.,a,THE WITNESS,start_question
+493,909,36,21,"Okay.  So when you were talking to her, she had her back turned towards you?",q,MR. SUN,start_answer
+494,911,36,23,She was facing me.,a,THE WITNESS,start_question
+495,912,36,24,Okay.,q,MR. SUN,start_answer
+496,914,37,1,"And when it occurred, at that moment I -- it -- it happened so fast, he hit me and Maribel Guzman told him to be careful.",a,THE WITNESS,start_question
+497,917,37,4,"Okay.  So just going back, because I'm -- my question to you originally was:  When this -- When you were hit by the pallet --",q,MR. SUN,start_answer
+498,920,37,7,Uh-huh.,a,THE WITNESS,start_question
+499,921,37,8,-- were you talking to the Walmart employee?,q,MR. SUN,start_answer
+500,922,37,9,"Yes, I was.",a,THE WITNESS,start_question
+501,923,37,10,Okay.  And you guys were engaged in conversation --,q,MR. SUN,start_answer
+502,925,37,12,Correct.,a,THE WITNESS,start_question
+503,926,37,13,-- as you got struck by the pallet?,q,MR. SUN,start_answer
+504,927,37,14,Correct.,a,THE WITNESS,start_question
+505,928,37,15,"But at that moment that you were stuck, the person you were talking to had her back toward you?",q,MR. SUN,start_answer
+506,930,37,17,No.  She had -- She was facing me.  She was facing me.,a,THE WITNESS,start_question
+507,932,37,19,Okay.  So Ms. Toledo was facing you?,q,MR. SUN,start_answer
+508,933,37,20,"Yes, that's correct.  She had her back -- He was coming from behind her, that's what I meant by that.",a,THE WITNESS,start_question
+509,935,37,22,Okay.,q,MR. SUN,start_answer
+510,936,37,23,Yeah.,a,THE WITNESS,start_question
+511,937,37,24,But she was looking at you?,q,MR. SUN,start_answer
+512,939,38,1,Yes.,a,THE WITNESS,start_question
+513,940,38,2,At the time that you were struck --,q,MR. SUN,start_answer
+514,941,38,3,Yes.,a,THE WITNESS,start_question
+515,942,38,4,-- she was looking at you?,q,MR. SUN,start_answer
+516,943,38,5,Yes.,a,THE WITNESS,start_question
+517,944,38,6,Okay.  You mentioned Maribel was present as well?,q,MR. SUN,start_answer
+518,946,38,8,That's correct.,a,THE WITNESS,start_question
+519,947,38,9,And that's your girlfriend?,q,MR. SUN,start_answer
+520,948,38,10,That's correct.,a,THE WITNESS,start_question
+521,949,38,11,Okay.  Did she see this pallet hit you?,q,MR. SUN,start_answer
+522,950,38,12,Yes.,a,THE WITNESS,start_question
+523,951,38,13,Approximately how far were you and Ms. Toledo standing apart?,q,MR. SUN,start_answer
+524,953,38,15,"A couple feet, two feet.",a,THE WITNESS,start_question
+525,954,38,16,Okay.  Just like two people --,q,MR. SUN,start_answer
+526,955,38,17,"Speaking distance, yes.",a,THE WITNESS,start_question
+527,956,38,18,"Okay.  Prior to the date of the incident, which is November 24th, 2016 -- I'm just going to call that the date of the incident --",q,MR. SUN,start_answer
+528,959,38,21,That's correct.,a,THE WITNESS,start_question
+529,960,38,22,-- just to save us time from me saying all -- all the time. But before that date had you ever been to this Walmart store before?,q,MR. SUN,start_answer
+530,965,39,2,Yes.,a,THE WITNESS,start_question
+531,966,39,3,Okay.  Was it -- Have you been to the store at least once a week --,q,MR. SUN,start_answer
+532,968,39,5,No.,a,THE WITNESS,start_question
+533,969,39,6,-- or is it like your main place of shopping?,q,MR. SUN,start_answer
+534,970,39,7,I shop there of- -- not often.  Not every week.  I'll put it to you like that.,a,THE WITNESS,start_question
+535,972,39,9,You've probably been to the store more than ten times at least before that date?,q,MR. SUN,start_answer
+536,974,39,11,Maybe.,a,THE WITNESS,start_question
+537,975,39,12,Okay.,q,MR. SUN,start_answer
+538,976,39,13,Maybe.,a,THE WITNESS,start_question
+539,977,39,14,"Okay.  In the times before the date of the accident, had you ever seen that -- the young white male who was operating that pallet jack?",q,MR. SUN,start_answer
+540,980,39,17,No.,a,THE WITNESS,start_question
+541,981,39,18,You ever see that person before?,q,MR. SUN,start_answer
+542,982,39,19,"No, sir.",a,THE WITNESS,start_question
+543,983,39,20,"Okay.  On the date of the incident, how did you get to the store on that day?",q,MR. SUN,start_answer
+544,985,39,22,Maribel drove.,a,THE WITNESS,start_question
+545,986,39,23,Okay.  And why were you two going to the store that day?,q,MR. SUN,start_answer
+546,989,40,1,To purchase a -- There was sales.  There -- There were specials at the store and purchased a TV.,a,THE WITNESS,start_question
+547,991,40,3,It was around almost kind of like Black Friday?,q,MR. SUN,start_answer
+548,993,40,5,Yeah.  They're -- Yes.,a,THE WITNESS,start_question
+549,994,40,6,Okay.  Did you buy a TV on the date of this accident?,q,MR. SUN,start_answer
+550,996,40,8,"Yes.  Yes, we did.",a,THE WITNESS,start_question
+551,997,40,9,Okay.  How long had you been in the store before you got hit?,q,MR. SUN,start_answer
+552,999,40,11,20 minutes or so.,a,THE WITNESS,start_question
+553,1000,40,12,"In those 20 minutes, had you ever seen that young white male who was operating that --",q,MR. SUN,start_answer
+554,1002,40,14,"No, sir.",a,THE WITNESS,start_question
+555,1003,40,15,-- pallet jack --,q,MR. SUN,start_answer
+556,1004,40,16,"No, sir.",a,THE WITNESS,start_question
+557,1005,40,17,-- before?,q,MR. SUN,start_answer
+558,1006,40,18,"No, sir.",a,THE WITNESS,start_question
+559,1007,40,19,"So you're talking to Ms. Toledo, you guys are standing -- both standing, correct?",q,MR. SUN,start_answer
+560,1009,40,21,Correct.,a,THE WITNESS,start_question
+561,1010,40,22,Okay.  She's standing maybe two feet in front of you?,q,MR. SUN,start_answer
+562,1012,40,24,Uh-huh.,a,THE WITNESS,start_question
+563,1014,41,1,Right?,q,MR. SUN,start_answer
+564,1015,41,2,"Yes, sir.",a,THE WITNESS,start_question
+565,1016,41,3,Okay.  And you mentioned that the pallet jack was coming from behind her?,q,MR. SUN,start_answer
+566,1018,41,5,Correct.,a,THE WITNESS,start_question
+567,1019,41,6,Okay.  So you could see the pallet jack coming though?,q,MR. SUN,start_answer
+568,1021,41,8,I wasn't focusing.  I didn't see the pallet jack coming to me.,a,THE WITNESS,start_question
+569,1023,41,10,Okay.  Did Ms. Toledo have to move out of the way for the pallet jack to come through?,q,MR. SUN,start_answer
+570,1025,41,12,"No, sir.",a,THE WITNESS,start_question
+571,1026,41,13,"Okay.  How close was it, the pallet jack, as it's passing by to Ms. Toledo?",q,MR. SUN,start_answer
+572,1028,41,15,Very close.,a,THE WITNESS,start_question
+573,1029,41,16,Do -- Was that the very first time then that you saw the pallet jack was when it was close to her?,q,MR. SUN,start_answer
+574,1031,41,18,No.  That's when it -- when it struck me.,a,THE WITNESS,start_question
+575,1032,41,19,It struck you when it was close to her?,q,MR. SUN,start_answer
+576,1033,41,20,We were parallel.  We were parallel.,a,THE WITNESS,start_question
+577,1034,41,21,"Okay.  But if you guys -- So here's like my hands (indicating), right?  So if this is you talking (indicating) --",q,MR. SUN,start_answer
+578,1037,41,24,Uh-huh.,a,THE WITNESS,start_question
+579,1039,42,1,-- and this is Ms. Toledo (indicating) --,q,MR. SUN,start_answer
+580,1040,42,2,Right.,a,THE WITNESS,start_question
+581,1041,42,3,-- right?,q,MR. SUN,start_answer
+582,1042,42,4,Right.,a,THE WITNESS,start_question
+583,1043,42,5,And you said pallet jack is coming this way --,q,MR. SUN,start_answer
+584,1044,42,6,Yes.,a,THE WITNESS,start_question
+585,1045,42,7,-- right?,q,MR. SUN,start_answer
+586,1046,42,8,Yes.,a,THE WITNESS,start_question
+587,1047,42,9,From behind Ms. Toledo?,q,MR. SUN,start_answer
+588,1048,42,10,Uh-huh.,a,THE WITNESS,start_question
+589,1049,42,11,"So it has to pass Ms. Toledo before it gets to you, correct?",q,MR. SUN,start_answer
+590,1051,42,13,Correct.,a,THE WITNESS,start_question
+591,1052,42,14,"Okay.  So I'm just saying, when -- when it first was passing by Ms. Toledo, you said you saw it being very close to her?",q,MR. SUN,start_answer
+592,1055,42,17,"When it -- When it struck me, that's -- Well, what I meant was when it finally struck me, it was -- it was there.  I had my -- I -- I trained my eyes on Ms. Toledo's eyes because we were talking.  So I didn't see until it hit me.",a,THE WITNESS,start_question
+593,1060,42,22,"Okay.  And you mentioned that it hit you -- or I'm sorry -- you didn't mention this.  But it hit you, I'm assuming, in the left foot?",q,MR. SUN,start_answer
+594,1064,43,1,That's correct.,a,THE WITNESS,start_question
+595,1065,43,2,"Okay.  And -- So I guess then if you're standing there talking to Ms. Toledo and it hits you in your left foot as you're standing there, it hit you on the outside of your left foot, correct?",q,MR. SUN,start_answer
+596,1069,43,6,Yes.,a,THE WITNESS,start_question
+597,1070,43,7,Because it's impossible for it to hit you on the inside of your left foot?,q,MR. SUN,start_answer
+598,1072,43,9,Ri- -- Yes.,a,THE WITNESS,start_question
+599,1073,43,10,Okay.  And approximately where on the outside of your left foot was -- were you struck?,q,MR. SUN,start_answer
+600,1075,43,12,"The back and the side because I -- I turned -- when it hit me -- I turned very, very quickly when it hit me.  And the back and the side of it.",a,THE WITNESS,start_question
+601,1078,43,15,Okay.  How did it strike you in the back? Because -- In the back of the foot I mean.,q,MR. SUN,start_answer
+602,1080,43,17,"Well, he was making a turn.",a,THE WITNESS,start_question
+603,1081,43,18,So he was turning around you?,q,MR. SUN,start_answer
+604,1082,43,19,"Yeah.  We're standing here (indicating) and he was turning.  While he was turning it, it caught me.  Do you follow? Maribel was standing... She was standing in front of me, Ms. Toledo, I was standing in front of her.  Like you said, we were like this (indicating), and Maribel was standing to -- behind me to the right because there was a -- there was a turn -- there was a corner.",a,THE WITNESS,start_question
+605,1092,44,4,Okay.,q,MR. SUN,start_answer
+606,1093,44,5,You -- Okay.,a,THE WITNESS,start_chat
+607,1094,44,6,Do you have a blank piece of paper that I can have him try to diagram this?  It's always easier --,side_chat,MR. SUN,start_chat
+608,1096,44,8,The problem is all I have is --,side_chat,MR. ADELMAN,start_chat
+609,1097,44,9,The docs?  Yeah.,side_chat,MR. SUN,start_chat
+610,1098,44,10,Yeah.  Like scratch stuff --,side_chat,MR. ADELMAN,start_chat
+611,1099,44,11,All right.  Let me -- Hold on one second. Let me just try to get a piece of paper out of here.,side_chat,MR. SUN,start_chat
+612,1101,44,13,Sure.,side_chat,MR. ADELMAN,is brackets
+613,1102,44,14,(Discussion off the record.),brackets,,start_question
+614,1104,44,16,"Mr. Martinez, I'm just going to give a white piece of paper --",q,MR. SUN,start_answer
+615,1106,44,18,Sure.,a,THE WITNESS,start_question
+616,1107,44,19,-- with a pen.,q,MR. SUN,start_answer
+617,1108,44,20,Okay.,a,THE WITNESS,start_question
+618,1109,44,21,"If you want to just kind of diagram -- you know, you can just draw the people -- I don't need an artist's work.",q,MR. SUN,start_answer
+619,1112,44,24,Stick --,a,THE WITNESS,start_question
+620,1114,45,1,Stick --,q,MR. SUN,start_answer
+621,1115,45,2,Stick people.,a,THE WITNESS,start_question
+622,1116,45,3,Or just like an overview.,q,MR. SUN,start_answer
+623,1117,45,4,I --,a,THE WITNESS,start_question
+624,1118,45,5,You --,q,MR. SUN,start_answer
+625,1119,45,6,I follow.,a,THE WITNESS,start_question
+626,1120,45,7,-- don't have to do it from --,q,MR. SUN,start_answer
+627,1121,45,8,Right.  I follow.,a,THE WITNESS,start_question
+628,1122,45,9,"-- you know show the stick figures, you can draw like a circle as a person --",q,MR. SUN,start_answer
+629,1124,45,11,Gotcha.,a,THE WITNESS,start_question
+630,1125,45,12,"You know how you like draw a play in football, like a...",q,MR. SUN,start_answer
+631,1127,45,14,Gotcha.,a,THE WITNESS,start_question
+632,1128,45,15,"Okay.  So just so we're clear, so what is this square that you drew?",q,MR. SUN,start_answer
+633,1130,45,17,The -- Products.,a,THE WITNESS,start_question
+634,1131,45,18,Okay.  Like a display?,q,MR. SUN,start_answer
+635,1132,45,19,A display.,a,THE WITNESS,start_question
+636,1133,45,20,A shelf --,q,MR. SUN,start_answer
+637,1134,45,21,Right.,a,THE WITNESS,start_question
+638,1135,45,22,-- of some kind?,q,MR. SUN,start_answer
+639,1136,45,23,"Exactly, exactly.",a,THE WITNESS,start_question
+640,1137,45,24,Okay.  And then you drove?,q,MR. SUN,start_answer
+641,1139,46,1,That's correct.,a,THE WITNESS,start_question
+642,1140,46,2,"I'm assuming the circles represent you, Ms. Toledo, and Maribel?",q,MR. SUN,start_answer
+643,1142,46,4,That's correct.,a,THE WITNESS,start_question
+644,1143,46,5,Okay.  It'll -- Can you color in the circle that's you.,q,MR. SUN,start_answer
+645,1145,46,7,"I'll put my initials, how's that, M, Toledo, and Maribel.",a,THE WITNESS,start_question
+646,1147,46,9,"Well, that's two M's so that'll be confusing.",q,MR. SUN,start_answer
+647,1148,46,10,That's -- Oh.  I'm sorry.  Yeah.,a,THE WITNESS,start_question
+648,1149,46,11,There you go.  Okay.,q,MR. SUN,start_answer
+649,1150,46,12,There we go.,a,THE WITNESS,start_question
+650,1151,46,13,"So you have ""T"" for the top circle, that's Ms. Toledo?",q,MR. SUN,start_answer
+651,1153,46,15,That's correct.,a,THE WITNESS,start_question
+652,1154,46,16,"The middle one you wrote ""M"" next to it, that's you?",q,MR. SUN,start_answer
+653,1156,46,18,That's correct.,a,THE WITNESS,start_question
+654,1157,46,19,"And then the bottom ""O"" you wrote Maribel next to it, that's --",q,MR. SUN,start_answer
+655,1159,46,21,That's correct.,a,THE WITNESS,start_question
+656,1160,46,22,-- your girlfriend?,q,MR. SUN,start_answer
+657,1161,46,23,Right.,a,THE WITNESS,start_question
+658,1162,46,24,Okay.  So this is how you guys were standing around a shelf?,q,MR. SUN,start_answer
+659,1165,47,2,Yes.,a,THE WITNESS,start_question
+660,1166,47,3,Okay.  And then you drew this arrow that goes around these people.  That is the -- I'm assuming the path of the pallet jack.,q,MR. SUN,start_answer
+661,1169,47,6,That's correct.,a,THE WITNESS,start_question
+662,1170,47,7,"Okay.  And that's how when it was passing by you, you were struck?",q,MR. SUN,start_answer
+663,1172,47,9,That's correct.,a,THE WITNESS,start_question
+664,1173,47,10,Okay.,q,MR. SUN,start_answer
+665,1174,47,11,"He was making a turn and, bam.",a,THE WITNESS,start_question
+666,1175,47,12,Gotcha.,q,MR. SUN,start_chat
+667,1176,47,13,Okay.  We can mark this as Exhibit 2. Yeah.,side_chat,MR. SUN,start_question
+668,1179,47,16,And then just -- Can I just get you to sign this --,q,MR. SUN,start_answer
+669,1181,47,18,Yes.,a,THE WITNESS,start_question
+670,1182,47,19,-- so that later on --,q,MR. SUN,start_answer
+671,1183,47,20,Yes.  I'm --,a,THE WITNESS,start_question
+672,1184,47,21,-- we know that you -- you were the one who wrote it. All right.  Thank you.,q,MR. SUN,is brackets
+673,1189,48,1,(Exhibit No. 2 marked as requested.),brackets,,start_question
+674,1191,48,3,"Okay.  After getting hit -- or immediately after getting hit, did the individual who operated the pallet jack stop?",q,MR. SUN,start_answer
+675,1194,48,6,Yes.,a,THE WITNESS,start_question
+676,1195,48,7,Okay.  Did he stop and speak to anyone?,q,MR. SUN,start_answer
+677,1196,48,8,Maribel told him to be careful.  She told him to be careful.,a,THE WITNESS,start_question
+678,1198,48,10,Okay.,q,MR. SUN,start_answer
+679,1199,48,11,And he apologized and said he was sorry.,a,THE WITNESS,start_question
+680,1200,48,12,Okay.,q,MR. SUN,start_answer
+681,1201,48,13,And then he took off.,a,THE WITNESS,start_question
+682,1202,48,14,And that was between Maribel and the gentleman?,q,MR. SUN,start_answer
+683,1204,48,16,Correct.,a,THE WITNESS,start_question
+684,1205,48,17,Okay.  Did you speak to him at all?,q,MR. SUN,start_answer
+685,1206,48,18,"No, sir.",a,THE WITNESS,start_question
+686,1207,48,19,Okay.  Did you overhear that gentleman talking to anyone else other than Maribel?,q,MR. SUN,start_answer
+687,1209,48,21,No.  Just Maribel.,a,THE WITNESS,start_question
+688,1210,48,22,Okay.  Did Ms. Toledo make any comment at that time?,q,MR. SUN,start_answer
+689,1212,48,24,None whatsoever.,a,THE WITNESS,start_question
+690,1214,49,1,"Okay.  After this incident occurred, did you -- were you continuing to speak to Ms. Toledo?",q,MR. SUN,start_answer
+691,1216,49,3,At that point the -- we said a word or two and that was the extent of that.,a,THE WITNESS,start_question
+692,1218,49,5,"Okay.  What was the word or two about?  Was it about getting hit, or...",q,MR. SUN,start_answer
+693,1220,49,7,No.,a,THE WITNESS,start_question
+694,1221,49,8,Okay.,q,MR. SUN,start_answer
+695,1222,49,9,No.  It -- it was something -- I don't recall what it was.,a,THE WITNESS,start_question
+696,1224,49,11,Okay.  And when was the first time you reported to someone at the store that you were hit?,q,MR. SUN,start_answer
+697,1226,49,13,I -- I followed her.  I followed Ms. Toledo and I asked her for her name and she provided me with her name.,a,THE WITNESS,start_question
+698,1229,49,16,"Okay.  Aside from Ms. Toledo, did you talk to anybody else?",q,MR. SUN,start_answer
+699,1231,49,18,"No, sir.",a,THE WITNESS,start_question
+700,1232,49,19,Okay.  Did you finish your shopping that day?,q,MR. SUN,start_answer
+701,1233,49,20,"Yes.  Yes, we did.",a,THE WITNESS,start_question
+702,1234,49,21,"Okay.  So on the date of the incident, the only person that you spoke to was Ms. Toledo from the store?",q,MR. SUN,start_answer
+703,1237,49,24,"I -- I believe -- Now that you bring that up, I believe there was a store manager.  And -- Yeah, I called for a store manager, that I could recollect, and we were in a hurry that day.  And he said you can come back and fill an accident report.",a,THE WITNESS,start_question
+704,1243,50,5,"This manager that you talked to, do you remember his name?",q,MR. SUN,start_answer
+705,1245,50,7,"I -- I do not, sir.",a,THE WITNESS,start_question
+706,1246,50,8,Okay.  Do you remember what he looked like?,q,MR. SUN,start_answer
+707,1247,50,9,He was an elderly black male.,a,THE WITNESS,start_question
+708,1248,50,10,How tall?,q,MR. SUN,start_answer
+709,1249,50,11,Maybe six.,a,THE WITNESS,start_question
+710,1250,50,12,Was he wearing the Walmart vest; do you remember?,q,MR. SUN,start_answer
+711,1252,50,14,"Yes, I believe so.",a,THE WITNESS,start_question
+712,1253,50,15,And he mentioned you could come back to the store and fill out --,q,MR. SUN,start_answer
+713,1255,50,17,Yeah.,a,THE WITNESS,start_question
+714,1256,50,18,-- something?,q,MR. SUN,start_answer
+715,1257,50,19,"He said -- He said, If you don't -- If you don't have time, you can come back, and I told him I would.",a,THE WITNESS,start_question
+716,1260,50,22,Okay.  Because you were in a hurry?,q,MR. SUN,start_answer
+717,1261,50,23,"Well -- Yes, we were.  We were in a hurry.",a,THE WITNESS,start_question
+718,1262,50,24,Okay.  And then you finished your shopping and checked out?,q,MR. SUN,start_answer
+719,1265,51,2,Yes.,a,THE WITNESS,start_question
+720,1266,51,3,Okay.  Immediately as you were hit by the car -- going back to when you're standing there talking -- right when the guy tries to go around you --,q,MR. SUN,start_answer
+721,1269,51,6,Uh-huh.,a,THE WITNESS,start_question
+722,1270,51,7,"-- then hits you, did you have any pain in your foot?",q,MR. SUN,start_answer
+723,1272,51,9,I -- Yes.,a,THE WITNESS,start_question
+724,1273,51,10,Okay.  And what was the level of pain in your foot at that time?,q,MR. SUN,start_answer
+725,1275,51,12,It was a -- It was a --,a,THE WITNESS,start_question
+726,1276,51,13,"From a one to a ten, with ten being the worst.",q,MR. SUN,start_answer
+727,1277,51,14,It was a six.,a,THE WITNESS,start_question
+728,1278,51,15,Okay.  Was it sharp?  Was it dull?,q,MR. SUN,start_answer
+729,1279,51,16,"It was sharp, yes.",a,THE WITNESS,start_question
+730,1280,51,17,And where exactly in your foot did you experience this pain?,q,MR. SUN,start_answer
+731,1282,51,19,Left ankle.,a,THE WITNESS,start_question
+732,1283,51,20,So it was on the ankle as opposed to the foot?,q,MR. SUN,start_answer
+733,1284,51,21,Ankle.,a,THE WITNESS,start_question
+734,1285,51,22,Okay.,q,MR. SUN,start_answer
+735,1286,51,23,"Yeah.  Well, the -- the -- well, the foot where -- The foot.",a,THE WITNESS,start_question
+736,1289,52,1,So it was --,q,MR. SUN,start_answer
+737,1290,52,2,"When I -- When I meant ""ankle,"" I should -- the -- The foot area.",a,THE WITNESS,start_question
+738,1292,52,4,So the foot and ankle?,q,MR. SUN,start_answer
+739,1293,52,5,"Foot and ankle, yes.",a,THE WITNESS,start_question
+740,1294,52,6,"Okay.  Prior to the date of the accident, had you ever had any pain in your left foot or ankle for any reason?",q,MR. SUN,start_answer
+741,1297,52,9,"No, sir.",a,THE WITNESS,start_question
+742,1298,52,10,"Okay.  Prior to the accident -- Or prior to the date of the accident, had you ever seen a doctor for your left foot or your left ankle for any reason?",q,MR. SUN,start_answer
+743,1301,52,13,"No, sir.",a,THE WITNESS,start_question
+744,1302,52,14,"Prior to the accident, had you ever received any type of medical imaging studies -- meaning MRIs, X-rays, or CT scans -- of your left foot or your left ankle for any reason?",q,MR. SUN,start_answer
+745,1306,52,18,"No, sir.",a,THE WITNESS,start_question
+746,1307,52,19,"Okay.  And just so that I'm clear, as a result of being hit with this pallet jack, you're only claiming that your left foot and ankle were injured, correct?",q,MR. SUN,start_answer
+747,1310,52,22,Correct.,a,THE WITNESS,start_question
+748,1311,52,23,"Okay.  Not like back, not neck, not anything else?",q,MR. SUN,start_answer
+749,1314,53,1,Left ankle and foot.,a,THE WITNESS,start_question
+750,1315,53,2,Okay.  Did the older gentleman who was the manager ask you if you needed medical attention?,q,MR. SUN,start_answer
+751,1317,53,4,"No, sir.",a,THE WITNESS,start_question
+752,1318,53,5,"Did you tell the older gentleman, the manager that you spoke with, did you tell him that you were in pain?",q,MR. SUN,start_answer
+753,1321,53,8,Yes.,a,THE WITNESS,start_question
+754,1322,53,9,Okay.  And you left the store that night.  Did the pain get any better that night?,q,MR. SUN,start_answer
+755,1324,53,11,It was the same.,a,THE WITNESS,start_question
+756,1325,53,12,"Did you try to do anything for it, like ice it --",q,MR. SUN,start_answer
+757,1327,53,14,"Ice, yes.  That's exactly what I did.",a,THE WITNESS,start_question
+758,1328,53,15,Did the icing help it?,q,MR. SUN,start_answer
+759,1329,53,16,"Yes.  Yes, actually it helped.",a,THE WITNESS,start_question
+760,1330,53,17,"Okay.  So the day after, it would have been November 25th, how was the pain in your left foot/ankle?",q,MR. SUN,start_answer
+761,1332,53,19,"It -- It subsided.  It subsided to, I would say, five.",a,THE WITNESS,start_question
+762,1334,53,21,Okay.  So just a little bit?,q,MR. SUN,start_answer
+763,1335,53,22,"Yeah, a little bit.",a,THE WITNESS,start_question
+764,1336,53,23,Okay.  And it looks like at some -- you decided to return to the store two days later?,q,MR. SUN,start_answer
+765,1339,54,1,"I -- Which I did, yes.",a,THE WITNESS,start_question
+766,1340,54,2,Okay.,q,MR. SUN,start_chat
+767,1341,54,3,We could mark this as Exhibit 3.,side_chat,MR. SUN,is brackets
+768,1342,54,4,(Exhibit No. 3 marked as requested.),brackets,,start_question
+769,1344,54,6,I'll show you what we marked as Exhibit 3.,q,MR. SUN,start_answer
+770,1345,54,7,Okay.,a,THE WITNESS,start_question
+771,1346,54,8,"This is the customer incident report from our file.  If we look at the bottom there, under ""customer,"" slash, ""member signature"" --",q,MR. SUN,start_answer
+772,1349,54,11,Uh-huh.,a,THE WITNESS,start_question
+773,1350,54,12,-- is that your signature?,q,MR. SUN,start_answer
+774,1351,54,13,It is.,a,THE WITNESS,start_question
+775,1352,54,14,"Okay.  And it looks like you dated it November 26th, 2016?",q,MR. SUN,start_answer
+776,1354,54,16,Correct.,a,THE WITNESS,start_question
+777,1355,54,17,"Okay.  In looking at this document, is this handwriting, in terms of describe-in-your-own-words portion, is that yours -- your handwriting?",q,MR. SUN,start_answer
+778,1358,54,20,Yes.,a,THE WITNESS,start_question
+779,1359,54,21,Okay.  Can you just read that into the record for us.,q,MR. SUN,start_answer
+780,1361,54,23,"Standing near aisle, talking to Walmart employee Zuleka Toledo when another employee, white male, slammed a pallet jack into my left ankle causing injury.",a,THE WITNESS,start_question
+781,1366,55,3,"Okay.  And you -- you -- Is this your handwriting too (indicating), the list names and addresses --",q,MR. SUN,start_answer
+782,1369,55,6,Correct.,a,THE WITNESS,start_question
+783,1370,55,7,-- of the witnesses? Okay.  And you listed Ms. Toledo as well as your girlfriend Maribel?,q,MR. SUN,start_answer
+784,1373,55,10,That's correct.,a,THE WITNESS,start_question
+785,1374,55,11,And then you -- you mentioned -- Is this your handwriting in terms of the co-manager Patrick?,q,MR. SUN,start_answer
+786,1376,55,13,"That's that gentleman, yes.",a,THE WITNESS,start_question
+787,1377,55,14,Okay.,q,MR. SUN,start_answer
+788,1378,55,15,That's I...,a,THE WITNESS,start_question
+789,1379,55,16,So this would -- This co-manager Patrick would have been the -- the black male.,q,MR. SUN,start_answer
+790,1381,55,18,"The black male, yes.",a,THE WITNESS,start_question
+791,1382,55,19,Okay.,q,MR. SUN,start_answer
+792,1383,55,20,Yes.,a,THE WITNESS,start_question
+793,1384,55,21,Okay.  So we've identified basically everybody but the person who was operating the pallet jack?,q,MR. SUN,start_answer
+794,1386,55,23,Yes.,a,THE WITNESS,start_question
+795,1387,55,24,Okay.,q,MR. SUN,start_answer
+796,1389,56,1,Okay.,a,THE WITNESS,start_question
+797,1390,56,2,"And you completed this document two days following your date of the accident, correct?",q,MR. SUN,start_answer
+798,1392,56,4,"Yes, that's correct.",a,THE WITNESS,start_question
+799,1393,56,5,"Okay.  When you went back to complete this -- this document, do you know who you talked to?",q,MR. SUN,start_answer
+800,1395,56,7,"I spoke with Katen, the...",a,THE WITNESS,start_question
+801,1396,56,8,The person who signed it?,q,MR. SUN,start_answer
+802,1397,56,9,This black -- Yes.  Black female --,a,THE WITNESS,start_question
+803,1398,56,10,Okay.,q,MR. SUN,start_answer
+804,1399,56,11,"-- who -- Yes, I spoke with her.",a,THE WITNESS,start_question
+805,1400,56,12,Okay.  Was she the only person that you talked with on that day when you went back?,q,MR. SUN,start_answer
+806,1402,56,14,"As far as I recall, yes.",a,THE WITNESS,start_question
+807,1403,56,15,"Okay.  So you -- You would have found her, I guess, at the customer service?",q,MR. SUN,start_answer
+808,1405,56,17,I asked for -- I went to -- I asked for a supervisor and -- and they brought her to my attention.,a,THE WITNESS,start_question
+809,1407,56,19,Okay.  And she brought out the paperwork?,q,MR. SUN,start_answer
+810,1408,56,20,Correct.,a,THE WITNESS,start_question
+811,1409,56,21,"Okay.  When you went back to the store, were you still in pain at that time?",q,MR. SUN,start_answer
+812,1411,56,23,Yes.,a,THE WITNESS,start_question
+813,1412,56,24,And what was the level of pain in your left foot and ankle?,q,MR. SUN,start_answer
+814,1415,57,2,Five.,a,THE WITNESS,start_question
+815,1416,57,3,Okay.  It was still around --,q,MR. SUN,start_answer
+816,1417,57,4,Yeah.,a,THE WITNESS,start_question
+817,1418,57,5,"-- the same. Okay.  When was the first time after this accident that you sought real medical treatment, like from a doctor?",q,MR. SUN,start_answer
+818,1422,57,9,Three weeks after --,a,THE WITNESS,start_question
+819,1423,57,10,Okay.,q,MR. SUN,start_answer
+820,1424,57,11,-- this incident.,a,THE WITNESS,start_question
+821,1425,57,12,Okay.  So was that approximately December 19th of 2016?  I'm just going off your answer here.,q,MR. SUN,start_answer
+822,1427,57,14,"Yeah.  Maybe, yes.",a,THE WITNESS,start_question
+823,1428,57,15,"Okay.  During those three weeks, did you do any type of self-treatment?",q,MR. SUN,start_answer
+824,1430,57,17,"Yes, yes.  Ice -- I iced it down, stayed -- stayed off of it as much as I can, and -- I just -- it was bruised.  Not -- That's all I thought it was, was a bruise.",a,THE WITNESS,start_question
+825,1434,57,21,Okay.  How long did the -- Was it visibly bruised?,q,MR. SUN,start_answer
+826,1436,57,23,Pardon me?,a,THE WITNESS,start_question
+827,1437,57,24,Was it visibly bruised?,q,MR. SUN,start_answer
+828,1439,58,1,"Yes, it was visibly bruised.",a,THE WITNESS,start_question
+829,1440,58,2,"Okay.  And how bruised was -- In terms of the depth of color, are we talking like light -- was it lightly bruised, was it like a dark purple?  What was the color of the bruising?",q,MR. SUN,start_answer
+830,1444,58,6,"It was -- It was purple.  I wouldn't say it was dark, dark purple, but it was purple.",a,THE WITNESS,start_question
+831,1446,58,8,"And how large was this bruise, initially?",q,MR. SUN,start_answer
+832,1447,58,9,About that (indicating).  About that (indicating).  Two --,a,THE WITNESS,start_question
+833,1449,58,11,Can I --,q,MR. SUN,start_answer
+834,1450,58,12,Two-inch radius maybe.,a,THE WITNESS,start_question
+835,1451,58,13,Okay.  Like a toilet roll size -- toilet paper roll size paper?,q,MR. SUN,start_answer
+836,1453,58,15,"Yeah, yeah.",a,THE WITNESS,start_question
+837,1454,58,16,Okay.,q,MR. SUN,start_answer
+838,1455,58,17,"Okay, that's fair --",a,THE WITNESS,start_question
+839,1456,58,18,All right.,q,MR. SUN,start_answer
+840,1457,58,19,-- to say.,a,THE WITNESS,start_question
+841,1458,58,20,And we're talking about the circular part of the toilet roll --,q,MR. SUN,start_answer
+842,1460,58,22,Uh-huh.,a,THE WITNESS,start_question
+843,1461,58,23,-- not the...,q,MR. SUN,start_answer
+844,1462,58,24,Right.,a,THE WITNESS,start_question
+845,1464,59,1,Did you take any pictures of this bruising at that time?,q,MR. SUN,start_answer
+846,1466,59,3,"The -- I did.  They were in my camera. However, my camera malfunctioned and I purchased a new phone.  When I tried to retrieve them, the camera would not -- the phone itself would not work.  So --",a,THE WITNESS,start_question
+847,1470,59,7,Okay.,q,MR. SUN,start_answer
+848,1471,59,8,-- I was not able to obtain them.,a,THE WITNESS,start_question
+849,1472,59,9,Did you ever show this bruise to any Walmart employee?,q,MR. SUN,start_answer
+850,1474,59,11,No.,a,THE WITNESS,start_question
+851,1475,59,12,Okay.  Sorry to jump around on you.  But when you went back to do the paperwork and you talked to Katen --,q,MR. SUN,start_answer
+852,1478,59,15,Uh-huh.,a,THE WITNESS,start_question
+853,1479,59,16,"-- what -- what did you discuss with her about?  I guess, what was the topic of that conversation?  Just about the accident or is there any --",q,MR. SUN,start_answer
+854,1483,59,20,Just about filling out the paperwork.,a,THE WITNESS,start_question
+855,1484,59,21,Okay.,q,MR. SUN,start_answer
+856,1485,59,22,About filling out the paperwork.,a,THE WITNESS,start_question
+857,1486,59,23,Did she talk to you about anything else outside of this accident?,q,MR. SUN,start_answer
+858,1489,60,1,No.,a,THE WITNESS,start_question
+859,1490,60,2,Okay.  Did she talk to you about who the individual was that was pulling the pallet jack?,q,MR. SUN,start_answer
+860,1492,60,4,No.,a,THE WITNESS,start_question
+861,1493,60,5,"Okay.  Did she say like, Oh, we've disciplined that person, or anything like that?",q,MR. SUN,start_answer
+862,1495,60,7,No.,a,THE WITNESS,start_question
+863,1496,60,8,"Okay.  In terms of seeking medical treatment, it looks like the first doctor you saw was Dr. Ursula...",q,MR. SUN,start_answer
+864,1498,60,10,Gierlachowski.,a,THE WITNESS,start_question
+865,1499,60,11,"I was going to say, I'm not going to try that. Was she your primary care physician?",q,MR. SUN,start_answer
+866,1501,60,13,"Yes.  Yes, sir.",a,THE WITNESS,start_question
+867,1502,60,14,Okay.  Is she still your primary care physician?,q,MR. SUN,start_answer
+868,1504,60,16,"No, she's not.",a,THE WITNESS,start_question
+869,1505,60,17,Okay.  How long has she been your primary care physician for up until that point?,q,MR. SUN,start_answer
+870,1507,60,19,Two years I believe.,a,THE WITNESS,start_question
+871,1508,60,20,"Okay.  And before Dr. Gierlachowski, did you have a primary care physician?",q,MR. SUN,start_answer
+872,1510,60,22,"No, no.",a,THE WITNESS,start_question
+873,1511,60,23,"Okay.  So when you went to Dr. Gierlachowski, what did she do for you?",q,MR. SUN,start_answer
+874,1514,61,1,Told me to see a podiatrist.,a,THE WITNESS,start_question
+875,1515,61,2,Okay.  Did she give you a referral for that?,q,MR. SUN,start_answer
+876,1516,61,3,"Yes, sir.",a,THE WITNESS,start_question
+877,1517,61,4,Okay.  And did you follow up with that podiatrist?,q,MR. SUN,start_answer
+878,1519,61,6,I did.,a,THE WITNESS,start_question
+879,1520,61,7,Okay.  And sorry.  But did Dr. Gierlachowski ever perform any X-rays on you?,q,MR. SUN,start_answer
+880,1522,61,9,"No.  She -- No, she did not.  She visibly looked at my ankle.  She looked at my ankle and referred me to Dr. Betman.  That's all she did.",a,THE WITNESS,start_question
+881,1525,61,12,"Okay.  And was Dr. Betman with Podiatry, Physician & Spine?",q,MR. SUN,start_answer
+882,1527,61,14,Yes.,a,THE WITNESS,start_question
+883,1528,61,15,Okay.  Did Dr. Gierlachowski refer you to any physical therapy?,q,MR. SUN,start_answer
+884,1530,61,17,No.,a,THE WITNESS,start_question
+885,1531,61,18,"Okay.  In terms of seeing Dr. Betman or following up on that referral, how long did it take you to follow up on Dr. Gierlachowski's referral?",q,MR. SUN,start_answer
+886,1534,61,21,"Well, I -- Well, you have to make an appointment.  And as soon as I called to make an appointment I -- I went.  I'm not sure how many -- what span it was.  I'm not -- I don't recall that.  But it -- The first opportunity that came up, I went to go see him.",a,THE WITNESS,start_question
+887,1541,62,3,"Okay.  Because based on my review of the records, it seemed like it -- it took almost three months; does that sound about right?",q,MR. SUN,start_answer
+888,1544,62,6,To see Dr. --,a,THE WITNESS,start_question
+889,1545,62,7,Betman.,q,MR. SUN,start_answer
+890,1546,62,8,"Dr. Betman?  Oh, no.",a,THE WITNESS,start_question
+891,1547,62,9,So you think it was shorter than three months?,q,MR. SUN,start_answer
+892,1548,62,10,Abs- -- Absolutely.,a,THE WITNESS,start_question
+893,1549,62,11,"Okay.  When you went to see Dr. Betman, what did he do for you on your initial visit?",q,MR. SUN,start_answer
+894,1551,62,13,"Examined my ankle, gave me some medication, and told me to come in -- I think it was -- in a couple weeks or so.",a,THE WITNESS,start_question
+895,1554,62,16,Did he perform any X-rays?,q,MR. SUN,start_answer
+896,1555,62,17,I believe he did.  I believe he did.,a,THE WITNESS,start_question
+897,1556,62,18,Do you remember the results of those X-rays?,q,MR. SUN,start_answer
+898,1557,62,19,"No.  No, I don't.  No.  No, I don't.  But he did do an X-ray.  I'm almost sure he did.",a,THE WITNESS,start_question
+899,1559,62,21,You mentioned he gave you some medication?,q,MR. SUN,start_answer
+900,1560,62,22,Yes.,a,THE WITNESS,start_question
+901,1561,62,23,And what was that medication?,q,MR. SUN,start_answer
+902,1562,62,24,Pain medication.,a,THE WITNESS,start_question
+903,1564,63,1,"In terms of that medication, do you remember what it was specifically?  Was it -- You know, are we talking about ibuprofen or are we talking about Vicodin?",q,MR. SUN,start_answer
+904,1567,63,4,No.  It was hydrocodone.,a,THE WITNESS,start_question
+905,1568,63,5,Okay.  Did he recommend any physical therapy to you?,q,MR. SUN,start_answer
+906,1570,63,7,"Yes, yes.",a,THE WITNESS,start_question
+907,1571,63,8,Okay.  And was that physical therapy at Saint Anthony's or was that somewhere else?,q,MR. SUN,start_answer
+908,1573,63,10,Saint Anthony's on Kedzie Avenue.,a,THE WITNESS,start_question
+909,1574,63,11,"Okay.  So again, based on -- just going off your discovery here, it looks like you started that physical therapy sometime in May of 2017; is that correct?",q,MR. SUN,start_answer
+910,1578,63,15,"I -- I don't recall the date on that, sir.",a,THE WITNESS,start_question
+911,1579,63,16,Okay.  Approximately how long of a gap was there between the first time you saw Dr. Betman and when you started therapy?,q,MR. SUN,start_answer
+912,1582,63,19,"I -- I'm not sure how long of a gap there was. I don't think there was a very, very long gap.",a,THE WITNESS,start_chat
+913,1584,63,21,"A very, very long what?",side_chat,THE COURT REPORTER,start_chat
+914,1585,63,22,Long gap.  I don't think there was a long gap.,side_chat,THE WITNESS,start_question
+915,1590,64,2,"Okay.  In terms of the physical therapy that he referred you to, how many days a week was it?",q,MR. SUN,start_answer
+916,1592,64,4,Can we go back to the last question you asked me?  Is it permissible?,a,THE WITNESS,start_question
+917,1594,64,6,Sure.  I don't remember what was -- specifically the last question.,q,MR. SUN,start_answer
+918,1596,64,8,You asked me how long of a gap.,a,THE WITNESS,start_question
+919,1597,64,9,"Oh, okay.  Yeah.",q,MR. SUN,start_answer
+920,1598,64,10,Before you're able to go see a doctor --,a,THE WITNESS,start_question
+921,1599,64,11,Uh-huh.,q,MR. SUN,start_answer
+922,1600,64,12,"-- I have to have permission from my insurance company.  In other words, I have to have permissions that they'll OK that.  And I think the reason why there was a gap is because the therapist said, We don't have the OK for us to do the therapy unless we get OK from your -- from your insurance company.  You know, if they -- If they approve it, then we can start.  So I think that's where the gap is, if there is a gap that I recall because I went in and I had to wait until my insurance company approved it.",a,THE WITNESS,start_question
+923,1610,64,22,Gotcha.,q,MR. SUN,start_answer
+924,1611,64,23,Okay.  So that's where that's at.,a,THE WITNESS,start_question
+925,1612,64,24,Gotcha.  Sorry.  One sec.  Okay. Okay.  But eventually you did start physical therapy?,q,MR. SUN,start_answer
+926,1616,65,3,Yes.,a,THE WITNESS,start_question
+927,1617,65,4,As recommended by Dr. Betman?,q,MR. SUN,start_answer
+928,1618,65,5,"Yes, yes.",a,THE WITNESS,start_question
+929,1619,65,6,And how many days a week was it?,q,MR. SUN,start_answer
+930,1620,65,7,It was -- I believe it was two days the first week and then we went to three days.  Was it three -- I think it was three days the first week and then gradually went down to two days.,a,THE WITNESS,start_question
+931,1624,65,11,Okay.  And how many --,q,MR. SUN,start_answer
+932,1625,65,12,Every -- Every week.,a,THE WITNESS,start_question
+933,1626,65,13,Okay.  And how many weeks was it?,q,MR. SUN,start_answer
+934,1627,65,14,I believe it was over two months.,a,THE WITNESS,start_question
+935,1628,65,15,"Okay.  And in terms of the physical therapy itself, what types of activities did they do for you?",q,MR. SUN,start_answer
+936,1630,65,17,"A lot of step stepping at certain variable degree -- certain angles.  There were ice packs put on. There were -- There was movement of my ankle to certain areas, stretching it, things of that nature.",a,THE WITNESS,start_question
+937,1634,65,21,Did therapy help you with the pain in your left foot?,q,MR. SUN,start_answer
+938,1636,65,23,No.,a,THE WITNESS,start_question
+939,1637,65,24,Okay.,q,MR. SUN,start_answer
+940,1639,66,1,"No.  No, it didn't.",a,THE WITNESS,start_question
+941,1640,66,2,"And I forgot to ask this, but I guess, when you went to see Dr. Betman, how was your foot doing? What was the level of pain when you first went to see Dr. Betman?",q,MR. SUN,start_answer
+942,1644,66,6,Five.,a,THE WITNESS,start_question
+943,1645,66,7,"Okay.  So -- Okay.  And then when you went -- When you first started physical therapy, what was the level of pain in your foot?",q,MR. SUN,start_answer
+944,1648,66,10,Five.,a,THE WITNESS,start_question
+945,1649,66,11,"So that's almost May of 2017.  So between the date of your accident in late November of 2016 to May of 2017, it was just a five throughout that time frame?",q,MR. SUN,start_answer
+946,1652,66,14,"Yes.  I was insisting that there was something wrong.  I -- I kept telling Dr. Betman, There's something more to it.  There's -- Even when I first saw him, I said, You know, the bruise is good.  There's something more to it here.",a,THE WITNESS,start_question
+947,1657,66,19,You mentioned that the bruise was gone.  How long did it take for the bruise to disappear?,q,MR. SUN,start_answer
+948,1659,66,21,Three -- Three days.  Three -- three -- Yeah. About three days.,a,THE WITNESS,start_question
+949,1661,66,23,"Okay.  During that time frame, again, that six months -- it's from November of 2016 to approximately May when you started therapy and you had that five-out-of-ten pain -- were you able to work during that time frame?",q,MR. SUN,start_answer
+950,1667,67,4,Yes.,a,THE WITNESS,start_question
+951,1668,67,5,Okay.,q,MR. SUN,start_answer
+952,1669,67,6,"Periodically, yes.",a,THE WITNESS,start_question
+953,1670,67,7,Okay.  Were you able to do other things during that time frame like play tennis?,q,MR. SUN,start_answer
+954,1672,67,9,"No, no.",a,THE WITNESS,start_question
+955,1673,67,10,Okay.,q,MR. SUN,start_answer
+956,1674,67,11,"No, not during that time.",a,THE WITNESS,start_question
+957,1675,67,12,"Okay.  During that time frame, you never played tennis or any -- and did any --",q,MR. SUN,start_answer
+958,1677,67,14,I -- I had -- There was --,a,THE WITNESS,start_question
+959,1678,67,15,-- physical activities?,q,MR. SUN,start_answer
+960,1679,67,16,"I attempted a couple times to -- for -- for rehab purposes, but it didn't go far.",a,THE WITNESS,start_question
+961,1681,67,18,Okay.,q,MR. SUN,start_answer
+962,1682,67,19,"So, yeah.",a,THE WITNESS,start_question
+963,1683,67,20,Are you -- Are you good at tennis?,q,MR. SUN,start_answer
+964,1684,67,21,Yes.  I -- I like tennis.,a,THE WITNESS,start_question
+965,1685,67,22,What's your serve speed?,q,MR. SUN,start_answer
+966,1686,67,23,"70.  At that -- Back then, about 70.",a,THE WITNESS,start_question
+967,1687,67,24,"Okay.  No, I'm just curious --",q,MR. SUN,start_answer
+968,1689,68,1,Yeah.,a,THE WITNESS,start_question
+969,1690,68,2,-- because I --,q,MR. SUN,start_answer
+970,1691,68,3,I -- I like -- I just --,a,THE WITNESS,start_question
+971,1692,68,4,"-- I tried to walk on at college, but --",q,MR. SUN,start_answer
+972,1693,68,5,Oh.  I -- I like tennis.,a,THE WITNESS,start_question
+973,1694,68,6,-- it didn't go so hot.,q,MR. SUN,start_answer
+974,1695,68,7,"I like tennis.  I like jogging.  Tennis, jogging, and bicycling.  You know, I -- I don't smoke cigarettes.  So I -- I enjoy that.  I enjoy that.  You know, I used to own a bicycle shop.  So I --",a,THE WITNESS,start_question
+975,1699,68,11,"Oh, nice.",q,MR. SUN,start_answer
+976,1700,68,12,"I enjoy bicycling, you know --",a,THE WITNESS,start_question
+977,1701,68,13,"Hey, we'd --",q,MR. SUN,start_answer
+978,1702,68,14,-- be outdoors.,a,THE WITNESS,start_question
+979,1703,68,15,We'd get along.  I like doing...,q,MR. SUN,start_answer
+980,1704,68,16,"Yeah.  You know, it's -- I don't drink.  I don't smoke.  You know, so I just enjoy the outdoor activities and that's all I can tell you now, sir.",a,THE WITNESS,start_question
+981,1707,68,19,"Gotcha. So we went up to the point of the physical therapy in approximately May of 2017, still out of five, you start the therapy.  You mentioned it goes for approximately two months.  During those two months you mentioned that the physical therapy did not help you.",q,MR. SUN,start_answer
+982,1714,69,1,That's right.,a,THE WITNESS,start_question
+983,1715,69,2,"So at the end of therapy, was your pain still a five out of ten?",q,MR. SUN,start_answer
+984,1717,69,4,Yes.,a,THE WITNESS,start_question
+985,1718,69,5,"Okay.  And throughout therapy, did you tell your doctors or your -- not doctors, but your therapists --",q,MR. SUN,start_answer
+986,1721,69,8,"I told my therapist.  Anybody who cared to listen to, I told.  I said --",a,THE WITNESS,start_question
+987,1723,69,10,That your pain was still there?,q,MR. SUN,start_answer
+988,1724,69,11,"Yes.  I said, There's something more to this than just a bruise.  There's something more to it.  And then finally one of the doctors said, We need to look into this more, and they did.",a,THE WITNESS,start_question
+989,1728,69,15,Which doctor was that?,q,MR. SUN,start_answer
+990,1729,69,16,"Dr. Rodriguez, the -- he works with Dr. Goldflies.",a,THE WITNESS,start_question
+991,1731,69,18,Okay.,q,MR. SUN,start_answer
+992,1732,69,19,Yeah.,a,THE WITNESS,start_question
+993,1733,69,20,And which hospital is Dr. Goldflies with?,q,MR. SUN,start_answer
+994,1734,69,21,Saint Anthony's.,a,THE WITNESS,start_question
+995,1735,69,22,Did Dr. Betman give you a referral to see Dr. Goldflies?,q,MR. SUN,start_answer
+996,1737,69,24,That would have been Gierlachowski.,a,THE WITNESS,start_question
+997,1739,70,1,"Oh, okay.  So Gierla- --",q,MR. SUN,start_answer
+998,1740,70,2,"Well, you know, yes, he -- I believe, yes, he did.  Dr. Betman, yes, he did recommend that I go see Dr. Goldflies.  But it still had to come from...",a,THE WITNESS,start_question
+999,1743,70,5,Your PCP?,q,MR. SUN,start_answer
+1000,1744,70,6,Yes.,a,THE WITNESS,start_question
+1001,1745,70,7,Because of the insurance and how --,q,MR. SUN,start_answer
+1002,1746,70,8,Correct.,a,THE WITNESS,start_question
+1003,1747,70,9,-- it's set up.,q,MR. SUN,start_answer
+1004,1748,70,10,Yes.  Yeah.,a,THE WITNESS,start_question
+1005,1749,70,11,That makes sense.,q,MR. SUN,start_answer
+1006,1750,70,12,It's -- it's all in -- It's sometimes --,a,THE WITNESS,start_question
+1007,1751,70,13,"So I guess was it one of those scenarios where Dr. Betman said, kind of, you know, There's nothing more I can do for you.  If you want to go see someone else, get another referral?",q,MR. SUN,start_answer
+1008,1755,70,17,"Yes, yes.  And -- and I kept -- I kept complaining to him.  I said, you know, Dr. Betman -- to my therapist -- I go, There's something more to this, Something more to this, you know, There's something more to this and finally someone listened to me and they discovered what they discovered.",a,THE WITNESS,start_question
+1009,1761,70,23,We'll get -- we'll get -- We'll get there.,q,MR. SUN,start_answer
+1010,1762,70,24,"Yeah, sure.",a,THE WITNESS,start_question
+1011,1764,71,1,"But -- So Dr. Betman's involvement in this was just really overseeing the physical therapy, or did he provide other specific treatment to you?",q,MR. SUN,start_answer
+1012,1767,71,4,I -- I saw him maybe three or four times.,a,THE WITNESS,start_question
+1013,1768,71,5,Okay.,q,MR. SUN,start_answer
+1014,1769,71,6,Because he put me in a boot.,a,THE WITNESS,start_question
+1015,1770,71,7,Okay.,q,MR. SUN,start_answer
+1016,1771,71,8,He put me in a boot.  And I was in a boot for a good while.,a,THE WITNESS,start_question
+1017,1773,71,10,Did that help?,q,MR. SUN,start_answer
+1018,1774,71,11,No.,a,THE WITNESS,start_question
+1019,1775,71,12,"Okay.  Aside from putting you in the boot and giving you the medication and prescribing the therapy, did he do anything else?",q,MR. SUN,start_answer
+1020,1778,71,15,"No, no.",a,THE WITNESS,start_question
+1021,1779,71,16,Okay.  And then you got your referral from Dr. Gierlachowski to go see Dr. Goldflies?,q,MR. SUN,start_answer
+1022,1781,71,18,Correct.,a,THE WITNESS,start_question
+1023,1782,71,19,"Okay.  How did you find out about Dr. Goldflies?  Like, was that something that you brought to her, like, I want this?",q,MR. SUN,start_answer
+1024,1785,71,22,Through the network -- through the insurance -- Through the network.,a,THE WITNESS,start_question
+1025,1787,71,24,Okay.,q,MR. SUN,start_answer
+1026,1789,72,1,"They advise you of who's available and what have you.  You just have to follow a chain of command. You can't -- You can't really do anything unless they approve it, you know, so...",a,THE WITNESS,start_question
+1027,1793,72,5,I -- I understand how insurance works.,q,MR. SUN,start_answer
+1028,1794,72,6,"Yeah, so...",a,THE WITNESS,start_question
+1029,1795,72,7,So when was the first time you saw Dr. Goldflies?,q,MR. SUN,start_answer
+1030,1797,72,9,"I don't recall that date, sir.  I -- I don't recall it.  But it was soon -- it was in that area. Soon after the therapy.",a,THE WITNESS,start_question
+1031,1800,72,12,So approximately in the late summer or fall of 2017?,q,MR. SUN,start_answer
+1032,1802,72,14,Late summer.  I would say late summer maybe.,a,THE WITNESS,start_question
+1033,1803,72,15,"Okay.  When you first went to see Dr. Goldflies, did he perform any type of X-rays, MRIs?",q,MR. SUN,start_answer
+1034,1805,72,17,"I think it was the second -- second visit, I believe, that they -- I want to say the second or third visit, there was an intern there, Dr. Matthews, and I -- I kept insisting Dr. Matthews from day one, since this happened, that there is something there and that no one had done an MRI.  I kept complaining that no one had done an MRI.  Finally they did an MRI and then he told Dr. Goldflies and it went from there.",a,THE WITNESS,start_question
+1035,1814,73,1,Okay.  I'm assuming Dr. Goldflies ordered that MRI?,q,MR. SUN,start_answer
+1036,1816,73,3,Yes.,a,THE WITNESS,start_question
+1037,1817,73,4,Okay.  Did he -- Did Dr. Goldflies prescribe you any medication?,q,MR. SUN,start_answer
+1038,1819,73,6,Yes.,a,THE WITNESS,start_question
+1039,1820,73,7,And what -- Do you remember what it was?,q,MR. SUN,start_answer
+1040,1821,73,8,"It was for pain, I believe there was -- I believe it was hydrocodone.",a,THE WITNESS,start_question
+1041,1823,73,10,Okay.,q,MR. SUN,start_answer
+1042,1824,73,11,So it --,a,THE WITNESS,start_chat
+1043,1825,73,12,"Counsel, isn't hydrocodone Vicodin?",side_chat,MR. SUN,start_chat
+1044,1826,73,13,Yes.,side_chat,THE WITNESS,start_chat
+1045,1827,73,14,Isn't it the same thing?,side_chat,MR. SUN,start_chat
+1046,1828,73,15,Yes.,side_chat,THE WITNESS,start_chat
+1047,1829,73,16,Okay.  That's what I thought.  Okay.,side_chat,MR. SUN,start_chat
+1048,1830,73,17,I just go by that name because that's what...,side_chat,THE WITNESS,start_chat
+1049,1832,73,19,Gotcha.,side_chat,MR. SUN,start_question
+1050,1834,73,21,"Did he do anything else aside from the -- Initially he -- aside from the medication and ordering the MRI, did he --",q,MR. SUN,start_answer
+1051,1837,73,24,They -- They took X-rays over there.,a,THE WITNESS,start_question
+1052,1839,74,1,Okay.,q,MR. SUN,start_answer
+1053,1840,74,2,Yeah.  I remember they did take X-rays.,a,THE WITNESS,start_question
+1054,1841,74,3,Did he try to give you more physical therapy?,q,MR. SUN,start_answer
+1055,1842,74,4,"No.  No, not that I recall.",a,THE WITNESS,start_question
+1056,1843,74,5,"Okay.  Eventually, though, you -- or a few months later, it looks like Dr. Goldflies performed that surgery on your left foot, correct?",q,MR. SUN,start_answer
+1057,1846,74,8,Yes.,a,THE WITNESS,start_question
+1058,1847,74,9,"Okay.  And I think yesterday or today I just received the pictures of your scars I think that you sent to your attorney.  And those are -- I'm assuming, were taken immediately after the surgery, correct?",q,MR. SUN,start_answer
+1059,1851,74,13,Yes.,a,THE WITNESS,start_question
+1060,1852,74,14,Because I saw the stitches --,q,MR. SUN,start_answer
+1061,1853,74,15,Yes.,a,THE WITNESS,start_question
+1062,1854,74,16,-- and everything like that?,q,MR. SUN,start_answer
+1063,1855,74,17,Yes.,a,THE WITNESS,start_question
+1064,1856,74,18,"Okay.  In terms of that surgery, was it a one-day surgery?",q,MR. SUN,start_answer
+1065,1858,74,20,"Yes, it was.",a,THE WITNESS,start_question
+1066,1859,74,21,"Okay.  So you showed up the day, you left the same day?",q,MR. SUN,start_answer
+1067,1861,74,23,Yes.,a,THE WITNESS,start_question
+1068,1862,74,24,"Was it general or local anesthesia?  In other words, were you out or was it --",q,MR. SUN,start_answer
+1069,1865,75,2,I was out.,a,THE WITNESS,start_question
+1070,1866,75,3,-- just --,q,MR. SUN,start_answer
+1071,1867,75,4,I was out.,a,THE WITNESS,start_question
+1072,1868,75,5,Okay.  So general anesthesia. Do you recall how long the procedure was?,q,MR. SUN,start_answer
+1073,1870,75,7,"No, I don't.",a,THE WITNESS,start_question
+1074,1871,75,8,Okay.,q,MR. SUN,start_answer
+1075,1872,75,9,"No, I don't.",a,THE WITNESS,start_question
+1076,1873,75,10,Do you recall what the procedure was for -- like what they were going to do to your left foot?,q,MR. SUN,start_answer
+1077,1875,75,12,"Repair a tear.  I'm not versed well with medical terminology, but something to do with a torn tendon, something of that nature.",a,THE WITNESS,start_question
+1078,1878,75,15,"Okay.  Were you working -- Up until the date of the surgery, were you working at all?",q,MR. SUN,start_answer
+1079,1880,75,17,"Yes, yes.  Off and on I was working, yes.",a,THE WITNESS,start_question
+1080,1881,75,18,"Okay.  And when you say ""off and on,"" I guess during that time you were still -- you're operating your own company --",q,MR. SUN,start_answer
+1081,1884,75,21,Yes.,a,THE WITNESS,start_question
+1082,1885,75,22,-- at that point --,q,MR. SUN,start_answer
+1083,1886,75,23,Yes.,a,THE WITNESS,start_question
+1084,1887,75,24,-- correct?,q,MR. SUN,start_answer
+1085,1889,76,1,"Yes, I am.",a,THE WITNESS,start_question
+1086,1890,76,2,"Okay.  So you don't necessarily have set hours, but you're on call for these companies that you service?",q,MR. SUN,start_answer
+1087,1893,76,5,That's correct.,a,THE WITNESS,start_question
+1088,1894,76,6,"Okay.  So when you saying you're working off and on, are you saying that there are some service calls that you're not able to go to or are you saying that you're working off and on because the service calls are off and on?",q,MR. SUN,start_answer
+1089,1899,76,11,"There's service calls that, because of my ankle, that I could not -- I could not perform, there were others that I could perform, and others that I couldn't.",a,THE WITNESS,start_question
+1090,1903,76,15,Okay.  Could you give me an example of one that you could perform.,q,MR. SUN,start_answer
+1091,1905,76,17,One working with my hands and -- One working with my hands.  One working with my hands so as long as I don't have to stand for a long period of time.,a,THE WITNESS,start_question
+1092,1908,76,20,"Okay.  So what would be one that you could not perform, a service call?",q,MR. SUN,start_answer
+1093,1910,76,22,One that -- where I would have to stand for long periods of time.  During the winter -- It was very difficult for me during the winter to -- to work because of the -- the cold.  It had an adverse effect on my ankle.,a,THE WITNESS,start_question
+1094,1916,77,3,"Okay.  When you mentioned that there are certain jobs you couldn't do because you had to stand for a long period of time, what's a long period of time?",q,MR. SUN,start_answer
+1095,1919,77,6,"Four, four hours.",a,THE WITNESS,start_question
+1096,1920,77,7,Okay.  So a task that would involve standing for less than four hours you could do?,q,MR. SUN,start_answer
+1097,1922,77,9,Yes.,a,THE WITNESS,start_question
+1098,1923,77,10,"Okay.  After the surgery with Dr. Goldflies, did he give you any type of post-surgery recommendations, like you can't stand on your feet or like that?",q,MR. SUN,start_answer
+1099,1927,77,14,"Yes, yes.  Yes, he did.  He told me to stay off it as much as possible, told me to move it slightly -- move it slightly.  Just start to move your -- Start the rehab slowly.  From then -- He goes, just to start to move it, just start to move it a little bit.",a,THE WITNESS,start_question
+1100,1933,77,20,Okay.,q,MR. SUN,start_answer
+1101,1934,77,21,Yeah.,a,THE WITNESS,start_question
+1102,1935,77,22,Were you placed in a cast or a boot?,q,MR. SUN,start_answer
+1103,1936,77,23,It was a soft cast.,a,THE WITNESS,start_question
+1104,1937,77,24,Okay.  Was the soft cast permanent?,q,MR. SUN,start_answer
+1105,1939,78,1,Well --,a,THE WITNESS,start_question
+1106,1940,78,2,"Like -- I mean in terms of everyday life, are you --",q,MR. SUN,start_answer
+1107,1942,78,4,"Yeah.  Oh, yeah.",a,THE WITNESS,start_question
+1108,1943,78,5,-- keeping it on --,q,MR. SUN,start_answer
+1109,1944,78,6,Yeah.,a,THE WITNESS,start_question
+1110,1945,78,7,-- all 24 hours --,q,MR. SUN,start_answer
+1111,1946,78,8,"Oh, yeah.",a,THE WITNESS,start_question
+1112,1947,78,9,-- a day?,q,MR. SUN,start_answer
+1113,1948,78,10,Yes.,a,THE WITNESS,start_question
+1114,1949,78,11,Okay.,q,MR. SUN,start_answer
+1115,1950,78,12,Yes.,a,THE WITNESS,start_question
+1116,1951,78,13,Were you going around in crutches then?,q,MR. SUN,start_answer
+1117,1952,78,14,Yes.,a,THE WITNESS,start_question
+1118,1953,78,15,"Okay.  During that recovery time, did you do any calls for your company?",q,MR. SUN,start_answer
+1119,1955,78,17,"Yes.  Yes, I did.",a,THE WITNESS,start_question
+1120,1956,78,18,Okay.  And some of those calls still would have involved you standing?,q,MR. SUN,start_answer
+1121,1958,78,20,Yes.,a,THE WITNESS,start_question
+1122,1959,78,21,Okay.,q,MR. SUN,start_answer
+1123,1960,78,22,It was a matter of losing my business or doing it.,a,THE WITNESS,start_question
+1124,1962,78,24,Okay.  So you still performed some of the service calls?,q,MR. SUN,start_answer
+1125,1965,79,2,Some.,a,THE WITNESS,start_question
+1126,1966,79,3,Okay.  During the -- In the month after your surgery?,q,MR. SUN,start_answer
+1127,1968,79,5,Yes.,a,THE WITNESS,start_question
+1128,1969,79,6,"Okay.  And when you had to stand, I guess, for -- For example, one of the service calls, let's say in that month right after the surgery where you still have the soft cost on and let's say it involves standing, what would you do?",q,MR. SUN,start_answer
+1129,1974,79,11,"Well, Maribel -- Like I told you, since I can't drive, those who would take me, I would -- I would tell them what to do.  I -- Unfortunately, they're not skilled, but I was trying my best.  I didn't want to lose my clients.",a,THE WITNESS,start_question
+1130,1979,79,16,I understand.,q,MR. SUN,start_answer
+1131,1980,79,17,I did not want to lose my clients and I already lost clients to this.  So I tried my best.,a,THE WITNESS,start_question
+1132,1982,79,19,Okay.  So --,q,MR. SUN,start_answer
+1133,1983,79,20,And...,a,THE WITNESS,start_question
+1134,1984,79,21,"For -- Let's just say, for example, there's a job, they call you in -- in that month while you're recovering.  You bring Maribel along.",q,MR. SUN,start_answer
+1135,1987,79,24,Yeah.,a,THE WITNESS,start_question
+1136,1989,80,1,"And if it involved the maintenance or doing something, you would just have her do it, correct?",q,MR. SUN,start_answer
+1137,1991,80,3,Yeah.,a,THE WITNESS,start_question
+1138,1992,80,4,And you would kind of stand to the side and --,q,MR. SUN,start_answer
+1139,1993,80,5,I would --,a,THE WITNESS,start_question
+1140,1994,80,6,-- tell her --,q,MR. SUN,start_answer
+1141,1995,80,7,"Yeah, I would be sitting to the side.",a,THE WITNESS,start_question
+1142,1996,80,8,Okay. (Continuing.) -- you'd be sitting to the side and you would be telling her how to do what you would be doing?,q,MR. SUN,start_answer
+1143,2000,80,12,Yeah.,a,THE WITNESS,start_question
+1144,2001,80,13,Okay.,q,MR. SUN,start_answer
+1145,2002,80,14,"It was not easy, but...",a,THE WITNESS,start_question
+1146,2003,80,15,"Okay.  In terms of that maintenance was -- I mean, was there welding, was there things of that nature --",q,MR. SUN,start_answer
+1147,2006,80,18,No.,a,THE WITNESS,start_question
+1148,2007,80,19,-- going on?,q,MR. SUN,start_answer
+1149,2008,80,20,"No, that -- any -- any welding to do was -- there's just -- she's not -- She's not a welder.",a,THE WITNESS,start_question
+1150,2010,80,22,Right.,q,MR. SUN,start_answer
+1151,2011,80,23,So anything that -- that I felt that she could do under -- under my tutelage that -- she can do it.,a,THE WITNESS,start_question
+1152,2014,81,1,Okay.  Could you just give me an example of something that -- let's -- Can you give me an example of just a call that she could handle while you're kind of sitting there.,q,MR. SUN,start_answer
+1153,2018,81,5,"Okay.  Putting in a thermostat in an oven.  At times I would have some of the employees there pick it up for us.  I would -- I would -- Some of the employees that were there, I would ask them to help and they were very kind because they saw what I was going through.",a,THE WITNESS,start_question
+1154,2023,81,10,Okay.  And we'll get to the wage loss after this.,q,MR. SUN,start_answer
+1155,2025,81,12,Sure.  Sure.,a,THE WITNESS,start_question
+1156,2026,81,13,I'm just getting through the medical first.,q,MR. SUN,start_answer
+1157,2027,81,14,I'm fine.,a,THE WITNESS,start_question
+1158,2028,81,15,Do you need to take a break or anything?,q,MR. SUN,start_answer
+1159,2029,81,16,"No, no, no.",a,THE WITNESS,start_question
+1160,2030,81,17,Okay.,q,MR. SUN,start_answer
+1161,2031,81,18,I'm fine.  I'm fine.,a,THE WITNESS,start_question
+1162,2032,81,19,Okay.  When did you start therapy after the surgery?,q,MR. SUN,start_answer
+1163,2034,81,21,"Well, there was an issue with the insurance company again --",a,THE WITNESS,start_question
+1164,2036,81,23,Okay.,q,MR. SUN,start_answer
+1165,2037,81,24,"-- which prolonged it.  They said, Well, you can't come in until we approve it.  I said, Well, when is this going to happen?  They said, We'll let you know.",a,THE WITNESS,start_question
+1166,2041,82,3,Of course.  That's --,q,MR. SUN,start_answer
+1167,2042,82,4,That's --,a,THE WITNESS,start_question
+1168,2043,82,5,That's how insurance works nowadays.,q,MR. SUN,start_answer
+1169,2044,82,6,"Yeah.  I -- I didn't have too much say so. And I found it to be that in most of these cases here, with me going to see Betman and all, everything has to be approved.  You -- It's, I'll tell you, you don't call me, and... You know, so it was a waiting game.",a,THE WITNESS,start_question
+1170,2050,82,12,"Understood. Before you started physical therapy, though, after the surgery, during that time, did the pain in your foot get any better?",q,MR. SUN,start_answer
+1171,2054,82,16,"Well -- No.  It was pretty painful.  It I guess because of the opening of the wound or whatever, it was -- it was painful.",a,THE WITNESS,start_question
+1172,2057,82,19,Okay.,q,MR. SUN,start_answer
+1173,2058,82,20,It was painful.,a,THE WITNESS,start_question
+1174,2059,82,21,Was the pain from the surgery or pain from the original accident or are there both?,q,MR. SUN,start_answer
+1175,2061,82,23,Both.,a,THE WITNESS,start_question
+1176,2062,82,24,Okay.,q,MR. SUN,start_answer
+1177,2064,83,1,Both.,a,THE WITNESS,start_question
+1178,2065,83,2,Okay.,q,MR. SUN,start_answer
+1179,2066,83,3,Fair to say from both.,a,THE WITNESS,start_question
+1180,2067,83,4,"But at some point you did start therapy, correct --",q,MR. SUN,start_answer
+1181,2069,83,6,"Oh, yes.",a,THE WITNESS,start_question
+1182,2070,83,7,-- after the surgery?,q,MR. SUN,start_answer
+1183,2071,83,8,Yes.  Absolutely.,a,THE WITNESS,start_question
+1184,2072,83,9,Okay.,q,MR. SUN,start_answer
+1185,2073,83,10,Absolutely.,a,THE WITNESS,start_question
+1186,2074,83,11,"And in terms of that therapy, was it largely kind of the same as the first bout it in therapy that you had gone through?",q,MR. SUN,start_answer
+1187,2077,83,14,"No, no.  Actually --",a,THE WITNESS,start_question
+1188,2078,83,15,It was different?,q,MR. SUN,start_answer
+1189,2079,83,16,-- it -- it was -- this was a lot different.,a,THE WITNESS,start_question
+1190,2080,83,17,Okay.,q,MR. SUN,start_answer
+1191,2081,83,18,"This was a lot, lot different.",a,THE WITNESS,start_question
+1192,2082,83,19,And how was it different?,q,MR. SUN,start_answer
+1193,2083,83,20,"Well, she controlled my ankle, whereas before I was able to move it on my own.  This time she was hands on with it.",a,THE WITNESS,start_question
+1194,2086,83,23,Okay.,q,MR. SUN,start_answer
+1195,2087,83,24,"Yeah.  Adjusting it with her hands.  And whenever she -- She told me, If -- If you feel pain, stop me.  And of course, you know...",a,THE WITNESS,start_question
+1196,2091,84,3,Okay.,q,MR. SUN,start_answer
+1197,2092,84,4,Yeah.  That's how that went until we gradually went on about therapy.,a,THE WITNESS,start_question
+1198,2094,84,6,Did that therapy help you with the pain in your left foot and ankle?,q,MR. SUN,start_answer
+1199,2096,84,8,"Yes.  Yes, to a degree.  To a degree it did.",a,THE WITNESS,start_question
+1200,2097,84,9,"Okay.  In terms of the dates that we have from this chart, it -- it looks to me as if the last date of your treatment was in April of 2018; does that sound right?",q,MR. SUN,start_answer
+1201,2101,84,13,"Yes.  Yes, that sounds about right.",a,THE WITNESS,start_question
+1202,2102,84,14,"That was the last date of your therapy, your -- any follow-ups with Dr. Goldflies?",q,MR. SUN,start_answer
+1203,2104,84,16,"Yes.  Yes, I did.",a,THE WITNESS,start_question
+1204,2105,84,17,"Okay.  As of that date, did you ever report to your therapist that you had zero-out-of-ten pain?",q,MR. SUN,start_answer
+1205,2107,84,19,"Yes, I -- I do believe I -- Yes.  It was -- I believe at the time I said it was six.",a,THE WITNESS,start_question
+1206,2109,84,21,"Did you ever tell him ""zero"" though?",q,MR. SUN,start_answer
+1207,2110,84,22,No.  I've never told him it was zero.,a,THE WITNESS,start_question
+1208,2111,84,23,Okay.,q,MR. SUN,start_answer
+1209,2112,84,24,That I -- That I recall.,a,THE WITNESS,start_question
+1210,2114,85,1,Okay.  Did -- Were you able at that point to jog without any issues?,q,MR. SUN,start_answer
+1211,2116,85,3,No.,a,THE WITNESS,start_question
+1212,2117,85,4,Okay.,q,MR. SUN,start_answer
+1213,2118,85,5,No.,a,THE WITNESS,start_question
+1214,2119,85,6,Do you currently have any doctor appointments scheduled for your left ankle or left foot?,q,MR. SUN,start_answer
+1215,2121,85,8,"No, sir.",a,THE WITNESS,start_question
+1216,2122,85,9,"Okay.  Has any doctor, in your past treatment, ever told you that you will need future -- not the one by Dr. Goldflies, but additional surgery for your left foot or ankle?",q,MR. SUN,start_answer
+1217,2126,85,13,No.,a,THE WITNESS,start_question
+1218,2127,85,14,"Okay.  In terms of -- Again, I saw the photos that you sent to your attorney right after the surgery. Do you have any residual scarring on your foot?",q,MR. SUN,start_answer
+1219,2130,85,17,I do.,a,THE WITNESS,start_chat
+1220,2131,85,18,"Counsel, may I see that?",side_chat,MR. SUN,start_chat
+1221,2132,85,19,"Yeah, of course.",side_chat,MR. ADELMAN,start_chat
+1222,2133,85,20,Just so -- If I can have --,side_chat,MR. SUN,start_chat
+1223,2134,85,21,Just pull back --,side_chat,MR. ADELMAN,start_chat
+1224,2135,85,22,-- for my records --,side_chat,MR. SUN,start_chat
+1225,2136,85,23,Just pull up your -- You want to take a picture of it?,side_chat,MR. ADELMAN,start_chat
+1226,2139,86,1,"Yeah, just so I can have it.",side_chat,MR. SUN,start_chat
+1227,2140,86,2,He's going to take a picture of the scar on your left...,side_chat,MR. ADELMAN,start_chat
+1228,2142,86,4,"Because what I have to do is I have to send it to the client.  So this is actually my evidence, more or less. Okay.  Thank you.",side_chat,MR. SUN,start_chat
+1229,2146,86,8,Sure.,side_chat,MR. ADELMAN,start_question
+1230,2148,86,10,"In terms of life activities that this left foot/ankle injury prevented you from doing, I guess, what -- what could you do before this accident that you can no longer do now?",q,MR. SUN,start_answer
+1231,2152,86,14,"Tennis, cycling, jogging.",a,THE WITNESS,start_question
+1232,2153,86,15,In terms of -- All right.  So let's just start with tennis.  So you -- You don't play tennis at all?,q,MR. SUN,start_answer
+1233,2155,86,17,"Not -- I -- I attempted to play tennis here actually about three weeks ago with Maribel and I bought two gym shoes thinking maybe it's just a gym shoe at first.  So I went to another gym shoe and, I mean, we played.  We played for a couple hours and she goes, You okay?  Just slow down a little bit.  And I just -- just couldn't -- just couldn't do it like I used to.",a,THE WITNESS,start_question
+1234,2162,86,24,But you played for a few hours?,q,MR. SUN,start_answer
+1235,2164,87,1,"Oh, yeah.",a,THE WITNESS,start_question
+1236,2165,87,2,"I mean, that's like a full -- full game.",q,MR. SUN,start_answer
+1237,2166,87,3,"Well, yeah.",a,THE WITNESS,start_question
+1238,2167,87,4,Okay.,q,MR. SUN,start_answer
+1239,2168,87,5,"I -- I -- Hey, man, this is the sport I enjoy.",a,THE WITNESS,start_question
+1240,2169,87,6,"Okay.  So you can -- You can still play it, just not to the extent that you could before?",q,MR. SUN,start_answer
+1241,2171,87,8,I -- I played it forcefully.  I played it forcefully.  I was uncomfortable playing it.,a,THE WITNESS,start_question
+1242,2173,87,10,"Okay.  But you were able to do it, just with some discomfort?",q,MR. SUN,start_answer
+1243,2175,87,12,"Well, it was -- I was uncomfortable playing it.  I forced myself simply to get out there and exercise.",a,THE WITNESS,start_question
+1244,2178,87,15,Okay.,q,MR. SUN,start_answer
+1245,2179,87,16,Simply to play it.  Okay?,a,THE WITNESS,start_question
+1246,2180,87,17,Okay.,q,MR. SUN,start_answer
+1247,2181,87,18,"Now, if you ask me if I can go out there and play it again for a couple hours, I'd probably say no because it felt terrible doing it when I did, so...",a,THE WITNESS,start_question
+1248,2184,87,21,Okay.  And you mentioned that you and Maribel tried to play tennis.  Was it -- You only tried that one time or was there other times that you tried it?,q,MR. SUN,start_answer
+1249,2187,87,24,"No, it was -- No.  We tried it several times.",a,THE WITNESS,start_question
+1250,2189,88,1,Okay.,q,MR. SUN,start_answer
+1251,2190,88,2,And the other times I didn't even last -- I didn't -- we didn't even last a full game.  I pretty well much hung my racket there.,a,THE WITNESS,start_question
+1252,2193,88,5,Gotcha. You mentioned jogging.  Do you still go jogging at all?,q,MR. SUN,start_answer
+1253,2196,88,8,We tried that.  We jog at McKinley Park.,a,THE WITNESS,start_question
+1254,2197,88,9,Yeah.,q,MR. SUN,start_answer
+1255,2198,88,10,"Which is Archer and Western.  A full -- a full lap -- A full lap around the entire park, I -- I was -- I was hurting.  It was uncomfortable.  Midway, midway it was uncomfortable for me.",a,THE WITNESS,start_question
+1256,2202,88,14,It's uncomfortable for me to run around a park.,q,MR. SUN,start_answer
+1257,2204,88,16,Right.,a,THE WITNESS,start_question
+1258,2205,88,17,But it's my lungs.,q,MR. SUN,start_answer
+1259,2206,88,18,"Yeah.  Well, I try to run on -- I used to run on concrete so I tried it on grass then --",a,THE WITNESS,start_question
+1260,2208,88,20,Yeah.,q,MR. SUN,start_answer
+1261,2209,88,21,"-- you know, soften, and it's not like it used to be.",a,THE WITNESS,start_question
+1262,2211,88,23,"Gotcha. So you can jog, just, again, it's very discomfortable?",q,MR. SUN,start_answer
+1263,2215,89,2,"Very, very.",a,THE WITNESS,start_question
+1264,2216,89,3,Okay.,q,MR. SUN,start_answer
+1265,2217,89,4,Very discomfortable.  And there's --,a,THE WITNESS,start_question
+1266,2218,89,5,And what was the third one that you mentioned?,q,MR. SUN,start_answer
+1267,2219,89,6,Cycling.,a,THE WITNESS,start_question
+1268,2220,89,7,Okay.,q,MR. SUN,start_answer
+1269,2221,89,8,Yeah.,a,THE WITNESS,start_question
+1270,2222,89,9,And have you tried cycling?,q,MR. SUN,start_answer
+1271,2223,89,10,A couple times and it's the movement of my leg --,a,THE WITNESS,start_question
+1272,2225,89,12,Okay.,q,MR. SUN,start_answer
+1273,2226,89,13,-- my ankle going up and down --,a,THE WITNESS,start_question
+1274,2227,89,14,Are you using --,q,MR. SUN,start_answer
+1275,2228,89,15,-- is uncomfortable.,a,THE WITNESS,start_question
+1276,2229,89,16,Okay.,q,MR. SUN,start_answer
+1277,2230,89,17,And I have -- I use snaps-on just --,a,THE WITNESS,start_question
+1278,2231,89,18,"I was -- That was my next question.  I was like, Are you --",q,MR. SUN,start_answer
+1279,2233,89,20,I use snaps-on.,a,THE WITNESS,start_question
+1280,2234,89,21,-- actually snapping in or are you --,q,MR. SUN,start_answer
+1281,2235,89,22,I snap -- snap it in and --,a,THE WITNESS,start_question
+1282,2236,89,23,Okay.,q,MR. SUN,start_answer
+1283,2237,89,24,-- and I was terrified --,a,THE WITNESS,start_question
+1284,2239,90,1,"Oh, yeah because you have to --",q,MR. SUN,start_answer
+1285,2240,90,2,I was terrified.  It just -- I --,a,THE WITNESS,start_question
+1286,2241,90,3,Because if you stop --,q,MR. SUN,start_answer
+1287,2242,90,4,Yeah.,a,THE WITNESS,start_question
+1288,2243,90,5,-- and you can't get out --,q,MR. SUN,start_answer
+1289,2244,90,6,Exactly.,a,THE WITNESS,start_question
+1290,2245,90,7,-- you're -- you're all set.,q,MR. SUN,start_answer
+1291,2246,90,8,I was terrified --,a,THE WITNESS,start_question
+1292,2247,90,9,Right.,q,MR. SUN,start_answer
+1293,2248,90,10,"-- because subconsciously it's like, you know, My ankle, my ankle.  Next day I go out, I'm all gung-ho because this is what I enjoy to do and then -- then when I snap on, it is a fear factor, you know what I mean?",a,THE WITNESS,start_question
+1294,2252,90,14,Yes.,q,MR. SUN,start_answer
+1295,2253,90,15,"And then -- then -- Then I could feel it.  I go, Man, this is uncomfortable.  Then I just coast it somewhere and not just immediately --",a,THE WITNESS,start_question
+1296,2256,90,18,Right.,q,MR. SUN,start_answer
+1297,2257,90,19,-- snap off and hurt myself. I'm afraid that I'm going to reinjure my ankle.,a,THE WITNESS,start_question
+1298,2260,90,22,Okay.,q,MR. SUN,start_answer
+1299,2261,90,23,That's what it boils down to.,a,THE WITNESS,start_question
+1300,2262,90,24,Okay.,q,MR. SUN,start_answer
+1301,2264,91,1,I don't want to reinjure this ankle.,a,THE WITNESS,start_question
+1302,2265,91,2,Okay.,q,MR. SUN,start_answer
+1303,2266,91,3,So preventing -- preventing that is my number one priority.,a,THE WITNESS,start_question
+1304,2268,91,5,"Gotcha. Aside from the tennis, the jogging, the biking, any other activities that you have trouble doing or cannot do now as a result of this accident that you could do before?",q,MR. SUN,start_answer
+1305,2273,91,10,Those are -- those were my three favorite hob- -- Those are my three favorite sports.,a,THE WITNESS,start_question
+1306,2275,91,12,Okay.,q,MR. SUN,start_answer
+1307,2276,91,13,"During the winter, the cold, it -- it plays havoc on my foot/ankle and -- very uncomfortable for me during those months.",a,THE WITNESS,start_question
+1308,2279,91,16,Are you currently back to working normal -- your normal hours?,q,MR. SUN,start_answer
+1309,2281,91,18,"Yes.  Yes, I am.",a,THE WITNESS,start_question
+1310,2282,91,19,"Okay.  And, I guess, when was the first time you went back to working your normal hours?",q,MR. SUN,start_answer
+1311,2284,91,21,Last -- last week -- Last week I had a call for Naansense.,a,THE WITNESS,start_question
+1312,2286,91,23,The restaurant.,q,MR. SUN,start_answer
+1313,2287,91,24,Yeah.,a,THE WITNESS,start_question
+1314,2289,92,1,Not nonsense like the word.,q,MR. SUN,start_answer
+1315,2290,92,2,Yeah.,a,THE WITNESS,start_question
+1316,2291,92,3,Like double A.,q,MR. SUN,start_answer
+1317,2292,92,4,That's one of my clients. Right.  Exactly.,a,THE WITNESS,start_question
+1318,2294,92,6,Yeah.,q,MR. SUN,start_answer
+1319,2295,92,7,Good food too.,a,THE WITNESS,start_question
+1320,2296,92,8,And that was the first time you went back to full-time work?,q,MR. SUN,start_answer
+1321,2298,92,10,"No.  I mean, before that I've gone back, but... Are you saying gone back right after my -- When are you asking...",a,THE WITNESS,start_question
+1322,2302,92,14,I'm asking when was the first time --,q,MR. SUN,start_answer
+1323,2303,92,15,Okay.,a,THE WITNESS,start_question
+1324,2304,92,16,"-- after the accident.  Because I know after the accident, you're saying that there's been times where you couldn't -- you couldn't make certain --",q,MR. SUN,start_answer
+1325,2307,92,19,Oh.,a,THE WITNESS,start_question
+1326,2308,92,20,-- service calls.,q,MR. SUN,start_answer
+1327,2309,92,21,Right.,a,THE WITNESS,start_question
+1328,2310,92,22,Right?,q,MR. SUN,start_answer
+1329,2311,92,23,Right.,a,THE WITNESS,start_question
+1330,2312,92,24,"And then you get the therapy, you get the surgery, you still can't make certain --",q,MR. SUN,start_answer
+1331,2315,93,2,Right.,a,THE WITNESS,start_question
+1332,2316,93,3,-- service calls.,q,MR. SUN,start_answer
+1333,2317,93,4,Right.,a,THE WITNESS,start_question
+1334,2318,93,5,When was the first time that you could make all your service calls?,q,MR. SUN,start_answer
+1335,2320,93,7,"When was the first time?  Let's see.  Surgery. Well, I was doing it sporadically.  But to -- to start picking up steam, I'm not sure of dates, but I remember -- I had no choice.  I really had no choice. It was either that or drown in bills, you know what I mean?  It was either that or drown in bills. So I started taking them all with Fuentes -- Fuentes Restaurant, Naansense, Naf Naf, one of my clients, Carson's Ribs were one of my clients.  I mean all those...",a,THE WITNESS,start_question
+1336,2330,93,17,I'll go through those.,q,MR. SUN,start_answer
+1337,2331,93,18,Yeah.,a,THE WITNESS,start_question
+1338,2332,93,19,"But in terms of -- I'm just trying to figure out a ballpark figure -- a ballpark range of when you -- back to working again, back to working --",q,MR. SUN,start_answer
+1339,2335,93,22,"Well, I'd say about --",a,THE WITNESS,start_question
+1340,2336,93,23,-- full time?,q,MR. SUN,start_answer
+1341,2337,93,24,"After -- Maybe a couple months after that, a month after.  After April --",a,THE WITNESS,start_question
+1342,2340,94,2,"When you say ""after that,"" you're --",q,MR. SUN,start_answer
+1343,2341,94,3,After April.,a,THE WITNESS,start_question
+1344,2342,94,4,-- referring to...,q,MR. SUN,start_answer
+1345,2343,94,5,"My rehab, correct.",a,THE WITNESS,start_question
+1346,2344,94,6,Okay.  After April of which year?,q,MR. SUN,start_answer
+1347,2345,94,7,"2017, I mean.",a,THE WITNESS,start_question
+1348,2346,94,8,20- --,q,MR. SUN,start_answer
+1349,2347,94,9,I'm sorry.  2018.,a,THE WITNESS,start_question
+1350,2348,94,10,Okay.,q,MR. SUN,start_answer
+1351,2349,94,11,Or -- What year are you speaking of?  2018.,a,THE WITNESS,start_question
+1352,2350,94,12,"Well, I'm asking you.",q,MR. SUN,start_answer
+1353,2351,94,13,Okay.  2018.,a,THE WITNESS,start_question
+1354,2352,94,14,Okay.,q,MR. SUN,start_answer
+1355,2353,94,15,2018 because my surgery was in 2017.,a,THE WITNESS,start_question
+1356,2354,94,16,Right.,q,MR. SUN,start_answer
+1357,2355,94,17,"Okay? So after the rehab in April of 2018, then from there on I just took off.",a,THE WITNESS,start_question
+1358,2358,94,20,You're back to full time?,q,MR. SUN,start_answer
+1359,2359,94,21,"Yeah, yeah.  Yes.",a,THE WITNESS,start_question
+1360,2360,94,22,"You're good to go, not missing out on contracts, not missing out on service calls?",q,MR. SUN,start_answer
+1361,2362,94,24,"Well, no.  There was -- Because of this, there were some contracts that I lost at the beginning -- At the end of 2017 and the beginning of 2018 I lost contracts.",a,THE WITNESS,start_question
+1362,2367,95,4,Right.  I'll -- I'll get to those --,q,MR. SUN,start_answer
+1363,2368,95,5,Okay.,a,THE WITNESS,start_question
+1364,2369,95,6,-- because those are during the time that you could not work --,q,MR. SUN,start_answer
+1365,2371,95,8,Right.,a,THE WITNESS,start_question
+1366,2372,95,9,-- full time.,q,MR. SUN,start_answer
+1367,2373,95,10,Right.,a,THE WITNESS,start_question
+1368,2374,95,11,Right.,q,MR. SUN,start_answer
+1369,2375,95,12,Exactly.  Okay.,a,THE WITNESS,start_question
+1370,2376,95,13,I'm just saying that you said a few --,q,MR. SUN,start_answer
+1371,2377,95,14,I was able to --,a,THE WITNESS,start_question
+1372,2378,95,15,After that April date --,q,MR. SUN,start_answer
+1373,2379,95,16,I was able.,a,THE WITNESS,start_question
+1374,2380,95,17,-- you were able to go full time?,q,MR. SUN,start_answer
+1375,2381,95,18,"Yes, yes.",a,THE WITNESS,start_question
+1376,2382,95,19,Okay.  Because what I have to figure out is what --,q,MR. SUN,start_answer
+1377,2384,95,21,Gotcha.,a,THE WITNESS,start_question
+1378,2385,95,22,-- window of work --,q,MR. SUN,start_answer
+1379,2386,95,23,Gotcha.,a,THE WITNESS,start_question
+1380,2387,95,24,-- you're really missing.,q,MR. SUN,start_answer
+1381,2389,96,1,I see.,a,THE WITNESS,start_question
+1382,2390,96,2,So I can at least mark my end point at that April time --,q,MR. SUN,start_answer
+1383,2392,96,4,I see.  I see.,a,THE WITNESS,start_question
+1384,2393,96,5,-- right?,q,MR. SUN,start_answer
+1385,2394,96,6,"Right, right.",a,THE WITNESS,start_question
+1386,2395,96,7,Okay.,q,MR. SUN,start_answer
+1387,2396,96,8,Okay.,a,THE WITNESS,start_question
+1388,2397,96,9,"All right.  So now we can dive on into this wage loss.  I'm still on schedule. The wage loss that you mentioned, I believe, was in your answer to interrogatory number 9.  It's on the first page of this document (indicating).  It's on this -- that one (indicating).",q,MR. SUN,start_answer
+1389,2403,96,15,Yes.,a,THE WITNESS,start_question
+1390,2404,96,16,The other.  Or you can look at that one (indicating).  That one (indicating) might be better because it was --,q,MR. SUN,start_answer
+1391,2407,96,19,Okay.,a,THE WITNESS,start_question
+1392,2408,96,20,-- more recent.,q,MR. SUN,start_answer
+1393,2409,96,21,More recent.,a,THE WITNESS,start_question
+1394,2410,96,22,"You mentioned wage loss is undetermined.  I guess I should read the whole answer:  Plaintiff was self-employed as a maintenance technician with a specialty for the creation of pita ovens along -- among many other physical skilled labor abilities.  And it says, Wage loss is undetermined.  Plaintiff was unable to fill -- to fulfill a contract with Naf Naf that would have been a two-year contract for $236,800 per year to service 16 restaurants.  There was also a contract for 35 pita ovens. And then it mentions the opportunities that you missed out on.  So we're going to go through this piece by piece.  So the first thing that you mention is that you were unable to fulfill a contract with Naf Naf that would have been a two-year contract for $236,800 per year to service 16 restaurants.  That 200-thousand-dollar figure, that's for all the 16 restaurants?",q,MR. SUN,start_answer
+1395,2429,97,16,Actually that figure is wrong.,a,THE WITNESS,start_question
+1396,2430,97,17,Okay.  And what's wrong about it?,q,MR. SUN,start_chat
+1397,2431,97,18,Is there any way I can pull that...,side_chat,THE WITNESS,start_chat
+1398,2432,97,19,"Reference the document.  If you want to reference the exhibits you have, yes.",side_chat,MR. ADELMAN,start_chat
+1399,2434,97,21,Okay.,side_chat,THE WITNESS,start_question
+1400,2436,97,23,Yeah.  There's documents at the back of this that...,q,MR. SUN,start_answer
+1401,2439,98,1,"Let's see.  Okay.  Yeah.  There we go. Well, that -- that particular one, I don't see it in here.",a,THE WITNESS,start_question
+1402,2442,98,4,"The 286,000 or --",q,MR. SUN,start_answer
+1403,2443,98,5,Yeah.,a,THE WITNESS,start_question
+1404,2444,98,6,"-- 236,000 one?",q,MR. SUN,start_answer
+1405,2445,98,7,Right.,a,THE WITNESS,start_question
+1406,2446,98,8,Okay.,q,MR. SUN,start_answer
+1407,2447,98,9,"I don't see it in here.  I could reference off of that, but I don't see it in here.",a,THE WITNESS,start_question
+1408,2449,98,11,Okay.  So when you say that that number's wrong --,q,MR. SUN,start_answer
+1409,2451,98,13,Yeah.,a,THE WITNESS,start_question
+1410,2452,98,14,"-- are you saying it just doesn't exist at all, or...",q,MR. SUN,start_answer
+1411,2454,98,16,"Well, what I'm saying is it was -- it was $925 per store -- I want to say it was a total of 16 stores to be paid every month.  So I believe that came to $14,800.  You multiply that by 12.  I believe that figure comes to $177,000 and it was a two-year contract. So 177,000 multiplied by that -- by 2, it's $355,000. That was one that I lost.",a,THE WITNESS,start_question
+1412,2461,98,23,Okay.,q,MR. SUN,start_answer
+1413,2462,98,24,"So that figure that -- The 236,000 is incorrect.",a,THE WITNESS,start_question
+1414,2465,99,2,"Okay.  In terms of this contract that you lost, did you have that contract in place at the time of your accident?",q,MR. SUN,start_answer
+1415,2468,99,5,Yes.  It was -- It was provided to me.  I sent in the contract and unfortunately I -- I was not able to obtain it due to my surgery.  And they wrote a letter stating why I -- why I lost the contract because I could not perform -- I could not perform my work.,a,THE WITNESS,start_question
+1416,2473,99,10,"Okay.  I'm just curious.  In terms of getting this business, right, from Non- -- this is Naf Naf?",q,MR. SUN,start_answer
+1417,2475,99,12,"Yes, that's correct.",a,THE WITNESS,start_question
+1418,2476,99,13,"Okay.  In terms of getting this business from Naf Naf, were you required to submit like a bid sheet?",q,MR. SUN,start_answer
+1419,2478,99,15,"No.  No, actually I -- I was not.  I -- They purchased an oven from me.  They purchased an oven from me and they were very delighted with my oven.  It was -- very happy with this oven, and... Which one are we talking about?",a,THE WITNESS,start_question
+1420,2483,99,20,Just still on the first part.,q,MR. SUN,start_answer
+1421,2484,99,21,Okay.,a,THE WITNESS,start_question
+1422,2485,99,22,"Just the 236,800.",q,MR. SUN,start_answer
+1423,2486,99,23,"Yeah.  No, I was not required because I've already provided services for him.",a,THE WITNESS,start_question
+1424,2489,100,1,Okay.  So there was never a bid sheet or a proposal detailing $925 per store for 16 stores --,q,MR. SUN,start_answer
+1425,2491,100,3,No.,a,THE WITNESS,start_question
+1426,2492,100,4,"-- per month, there -- this was not in writing?",q,MR. SUN,start_answer
+1427,2494,100,6,I have a contract that I submitted with that.,a,THE WITNESS,start_question
+1428,2495,100,7,All right.  Do you have a copy of that contract still?,q,MR. SUN,start_answer
+1429,2497,100,9,I do.,a,THE WITNESS,start_question
+1430,2498,100,10,"Okay.  Can you provide that to your attorneys, please.",q,MR. SUN,start_chat
+1431,2500,100,12,We sent that.  That was --,side_chat,MR. ADELMAN,start_chat
+1432,2501,100,13,A copy --,side_chat,MR. SUN,start_chat
+1433,2502,100,14,-- in the documents I sent you --,side_chat,MR. ADELMAN,start_chat
+1434,2503,100,15,I saw a letter.  I didn't see the contract.,side_chat,MR. SUN,start_chat
+1435,2505,100,17,There's a contract.,side_chat,THE WITNESS,start_chat
+1436,2506,100,18,That's what he's calling a contract.,side_chat,MR. ADELMAN,start_chat
+1437,2507,100,19,"Oh, just the letter?",side_chat,MR. SUN,start_chat
+1438,2508,100,20,Yeah.  Do you have those there?  You want to mark them as exhibits?,side_chat,MR. ADELMAN,start_chat
+1439,2510,100,22,I don't think I have them right here.  I have -- I saw the letter from Naf Naf.,side_chat,MR. SUN,start_chat
+1440,2512,100,24,Yeah.  Those are what he's considering the contract.,side_chat,MR. ADELMAN,start_chat
+1441,2515,101,2,"Well, there's -- There's a contract involved.",side_chat,THE WITNESS,start_question
+1442,2518,101,5,"Okay.  Okay.  But either way, that -- it would have been whatever you already gave to your attorneys?",q,MR. SUN,start_answer
+1443,2520,101,7,Yeah.  I -- the -- we -- There's a contract involved.,a,THE WITNESS,start_chat
+1444,2522,101,9,Because I -- I was like that document I think that you guys gave me was like 430 pages.  So didn't --,side_chat,MR. SUN,start_chat
+1445,2525,101,12,"No, that's the original.  That was the 26 --",side_chat,MR. ADELMAN,start_chat
+1446,2527,101,14,"Oh, this is -- This is the entirety of the supplemental.",side_chat,MR. SUN,start_chat
+1447,2529,101,16,"Yeah, but not the discovery.  So remember -- it might have been two -- What's today? Monday night I sent you a supplemental...",side_chat,MR. ADELMAN,start_chat
+1448,2532,101,19,"Oh, that -- Oh.  It might be.  Hold on.",side_chat,MR. SUN,start_chat
+1449,2533,101,20,Some records.,side_chat,MR. ADELMAN,start_chat
+1450,2534,101,21,Let me try to pull it up.,side_chat,MR. SUN,start_chat
+1451,2535,101,22,There it is.,side_chat,THE WITNESS,start_chat
+1452,2536,101,23,Do you have them?  Is that the letter thing?,side_chat,MR. SUN,start_chat
+1453,2539,102,1,These are the -- Yes.  These are the three --,side_chat,MR. ADELMAN,start_chat
+1454,2541,102,3,Can I just see those?  Sorry.,side_chat,MR. SUN,start_chat
+1455,2542,102,4,-- letters that we sent. These are what he's --,side_chat,MR. ADELMAN,start_chat
+1456,2544,102,6,Gotcha.,side_chat,MR. SUN,start_chat
+1457,2545,102,7,-- referencing as the contract. BY THE WITNESS:,side_chat,MR. ADELMAN,start_answer
+1458,2547,102,9,"Well, this is the contract there (indicating). That's the contract.",a,THE WITNESS,start_question
+1459,2549,102,11,Okay.  So --,q,MR. SUN,start_answer
+1460,2550,102,12,That is the contract there.,a,THE WITNESS,start_question
+1461,2551,102,13,This document here (indicating) is?,q,MR. SUN,start_answer
+1462,2552,102,14,Yes.,a,THE WITNESS,start_question
+1463,2553,102,15,Okay.  Do you have a signed version of this?,q,MR. SUN,start_answer
+1464,2554,102,16,"No.  Again, he did not sign that because I could not perform the work.  So he -- The letter explains why he didn't sign it.",a,THE WITNESS,start_question
+1465,2557,102,19,Okay.  This letter?,q,MR. SUN,start_answer
+1466,2558,102,20,Yes.,a,THE WITNESS,start_question
+1467,2559,102,21,Okay.,q,MR. SUN,start_answer
+1468,2560,102,22,Just one of them that's -- refers to that contract right there.,a,THE WITNESS,start_question
+1469,2562,102,24,And it looks like -- Is this the letter from Mr. Burger?,q,MR. SUN,start_answer
+1470,2565,103,2,Yes.  He's the vice president of facilities --,a,THE WITNESS,start_question
+1471,2566,103,3,Okay.,q,MR. SUN,start_answer
+1472,2567,103,4,-- in charge of that.,a,THE WITNESS,start_question
+1473,2568,103,5,And so the servicing of the Naf Naf Grill equipment was different from the purchasing of the pita grills?,q,MR. SUN,start_answer
+1474,2571,103,8,That's correct.,a,THE WITNESS,start_question
+1475,2572,103,9,Okay.  Those are --,q,MR. SUN,start_answer
+1476,2573,103,10,Two -- two separate -- Two separate deals.,a,THE WITNESS,start_question
+1477,2574,103,11,"Okay.  So in terms of Maintenance Professionals, are you also manufacturing ovens?",q,MR. SUN,start_answer
+1478,2576,103,13,Yes.,a,THE WITNESS,start_question
+1479,2577,103,14,Okay.,q,MR. SUN,start_answer
+1480,2578,103,15,"So I had said earlier as a -- I'm highly skilled.  I'm very, very highly skilled at what I do.  I designed and built an oven, stainless steel oven, beautiful oven.  He bought one.  He liked it.",a,THE WITNESS,start_question
+1481,2582,103,19,It looks --,q,MR. SUN,start_answer
+1482,2583,103,20,"He said, My goodness, I had no idea that you were able to do this.  I go, Yes.",a,THE WITNESS,start_question
+1483,2585,103,22,Okay.  And it looks like you did deliver 10 out of the -- a purchase of 35?,q,MR. SUN,start_answer
+1484,2587,103,24,"I was supposed to.  I couldn't deliver that ten.  If you read, I was to deliver ten by January the 10th I believe.",a,THE WITNESS,start_question
+1485,2591,104,3,Uh-huh.,q,MR. SUN,start_answer
+1486,2592,104,4,And I -- I didn't -- I didn't get them all built like I wanted to.,a,THE WITNESS,start_question
+1487,2594,104,6,Okay.  So in terms of -- Now moving to ovens. In terms of these 35 ovens --,q,MR. SUN,start_answer
+1488,2596,104,8,Right.,a,THE WITNESS,start_question
+1489,2597,104,9,-- did you deliver any of them to Naf Naf?,q,MR. SUN,start_answer
+1490,2598,104,10,No.,a,THE WITNESS,start_question
+1491,2599,104,11,Zero?,q,MR. SUN,start_answer
+1492,2600,104,12,Zero.,a,THE WITNESS,start_question
+1493,2601,104,13,Okay.  And you're -- You're claiming for purposes of this lawsuit that that was because of your injury?,q,MR. SUN,start_answer
+1494,2604,104,16,That's correct.,a,THE WITNESS,start_question
+1495,2605,104,17,Okay.  To manufacture these ovens?,q,MR. SUN,start_answer
+1496,2606,104,18,That's correct.,a,THE WITNESS,start_question
+1497,2607,104,19,And you were manufacturing these ovens by hand?,q,MR. SUN,start_answer
+1498,2609,104,21,"Yes.  With brakes, unique brakes.  They're hydraulic presses that bends the metal.  You form it --",a,THE WITNESS,start_question
+1499,2611,104,23,Okay.,q,MR. SUN,start_answer
+1500,2612,104,24,-- and you put it together.,a,THE WITNESS,start_question
+1501,2614,105,1,Okay.,q,MR. SUN,start_answer
+1502,2615,105,2,Then they wound up purchasing ovens from somebody else.,a,THE WITNESS,start_question
+1503,2617,105,4,"Understood. And each oven cost 14,000 --",q,MR. SUN,start_answer
+1504,2619,105,6,Yes.,a,THE WITNESS,start_question
+1505,2620,105,7,-- 800 is what you were charging for?,q,MR. SUN,start_answer
+1506,2621,105,8,"They -- They come with a five-year warranty and nobody gives you that.  But because I -- Because I put my name behind these ovens, I guarantee that.",a,THE WITNESS,start_question
+1507,2624,105,11,"How much does it cost you to make one of these ovens?  I know you're charging 14,8- --",q,MR. SUN,start_answer
+1508,2626,105,13,Right.,a,THE WITNESS,start_question
+1509,2627,105,14,-- but how much does it cost you to make them?,q,MR. SUN,start_answer
+1510,2628,105,15,"Probably $11,000.",a,THE WITNESS,start_question
+1511,2629,105,16,"Okay.  So you're clearing approximately 3- to 4,000?",q,MR. SUN,start_answer
+1512,2631,105,18,Yes.,a,THE WITNESS,start_question
+1513,2632,105,19,On -- Per oven?,q,MR. SUN,start_answer
+1514,2633,105,20,Yes.,a,THE WITNESS,start_question
+1515,2634,105,21,"Okay.  Aside from Naf Naf, did you -- were you selling ovens to anybody else?",q,MR. SUN,start_answer
+1516,2636,105,23,Pardon me?,a,THE WITNESS,start_question
+1517,2637,105,24,Were you selling --,q,MR. SUN,start_answer
+1518,2639,106,1,"I never -- Well, I never had the opportunity to do that because of my -- this incident.  I had to -- I had to stop -- stop dead in my tracks.",a,THE WITNESS,start_question
+1519,2642,106,4,"Okay.  In terms of this February 25th, 2018 letter from Mr. Burger, it lists a view invoice -- invoices?",q,MR. SUN,start_answer
+1520,2645,106,7,Yes.,a,THE WITNESS,start_question
+1521,2646,106,8,I'll show it to you.,q,MR. SUN,start_answer
+1522,2647,106,9,Yeah.  These were the --,a,THE WITNESS,start_question
+1523,2648,106,10,These were jobs that you did do?,q,MR. SUN,start_answer
+1524,2649,106,11,These were the -- This is how it all started. These were ovens that they bought from New York.,a,THE WITNESS,start_question
+1525,2651,106,13,Uh-huh.,q,MR. SUN,start_answer
+1526,2652,106,14,Ovens that --,a,THE WITNESS,start_question
+1527,2653,106,15,That --,q,MR. SUN,start_answer
+1528,2654,106,16,Brand-new ovens that --,a,THE WITNESS,start_question
+1529,2655,106,17,That sucked.,q,MR. SUN,start_answer
+1530,2656,106,18,"Yeah, that sucked.  Exactly.",a,THE WITNESS,start_question
+1531,2657,106,19,Right.,q,MR. SUN,start_answer
+1532,2658,106,20,"So here he is, he's paying me this money to prepare a brand-new oven.  He goes, Why am I paying you this money for a brand-new oven?  I go, Well, you're going to have to take that up with the manufacturer.",a,THE WITNESS,start_question
+1533,2662,106,24,Right.  Okay.,q,MR. SUN,start_answer
+1534,2664,107,1,And --,a,THE WITNESS,start_question
+1535,2665,107,2,"But those dates of service, you --",q,MR. SUN,start_answer
+1536,2666,107,3,Yes.,a,THE WITNESS,start_question
+1537,2667,107,4,-- you did those?,q,MR. SUN,start_answer
+1538,2668,107,5,"Yes, yes.",a,THE WITNESS,start_question
+1539,2669,107,6,Okay.,q,MR. SUN,start_answer
+1540,2670,107,7,I did --,a,THE WITNESS,start_question
+1541,2671,107,8,So you worked on --,q,MR. SUN,start_answer
+1542,2672,107,9,-- those. Right.,a,THE WITNESS,start_question
+1543,2674,107,11,-- all of those?,q,MR. SUN,start_answer
+1544,2675,107,12,Exactly.,a,THE WITNESS,start_question
+1545,2676,107,13,Okay.,q,MR. SUN,start_answer
+1546,2677,107,14,You know what I mean?,a,THE WITNESS,start_question
+1547,2678,107,15,These weren't dates that Maribel did them --,q,MR. SUN,start_answer
+1548,2679,107,16,Right.,a,THE WITNESS,start_question
+1549,2680,107,17,-- and you charged -- or you --,q,MR. SUN,start_answer
+1550,2681,107,18,"Well, no.  She was with me.",a,THE WITNESS,start_question
+1551,2682,107,19,Okay.,q,MR. SUN,start_answer
+1552,2683,107,20,She was -- She was with me.,a,THE WITNESS,start_question
+1553,2684,107,21,Okay.,q,MR. SUN,start_answer
+1554,2685,107,22,"And that could be verified by the employees when they saw me with my crutches and Maribel there. They just -- I had -- I had to do it.  You know, I wanted that contract so bad.  You know what I mean? If -- If I don't go out and do this, they're...",a,THE WITNESS,start_question
+1555,2691,108,3,"So some of these are just replacing, it looks like, certain parts of the oven?",q,MR. SUN,start_answer
+1556,2693,108,5,Yeah.  But this is a -- This is a brand-new oven.  It's not even a month old.  Not -- Not a month old.,a,THE WITNESS,start_question
+1557,2696,108,8,All right.  I understand.,q,MR. SUN,start_answer
+1558,2697,108,9,"And when I told Elan, he says, Can you -- Can you believe this?  I got a brand-new oven that I paid it's not functioning?  And he said, Manny, he says, Can you do something for me?  I said, Oh, yeah.  I can repair it, but I'm -- I want to inform you that this -- this is a poorly designed oven.  And then he -- Then he said, Well, who do you know -- I said, I can make one for you.  And then when -- He looked at me, he goes, Are you kidding me?  I go, No.  I can build one.  I can design and build one for you.  And when I did, he was just -- he was astonished.  He had no idea that I possessed these skills.",a,THE WITNESS,start_question
+1559,2709,108,21,Okay.  Okay.  And so this was the proposal that was the -- no longer considered for the proposal?,q,MR. SUN,start_answer
+1560,2711,108,23,(Nodding.),a,THE WITNESS,start_question
+1561,2712,108,24,Okay.,q,MR. SUN,start_answer
+1562,2714,109,1,Right.,a,THE WITNESS,start_question
+1563,2715,109,2,Okay.  So that -- That is the 236 -- which is the wrong number --,q,MR. SUN,start_answer
+1564,2717,109,4,That's correct.,a,THE WITNESS,start_question
+1565,2718,109,5,-- for that first part?,q,MR. SUN,start_answer
+1566,2719,109,6,Yeah.,a,THE WITNESS,start_question
+1567,2720,109,7,"Okay.  And in the second sentence is, There was also a contract for 35 pita ovens, and we covered that as well?",q,MR. SUN,start_answer
+1568,2723,109,10,Yes.  We just covered that as well.,a,THE WITNESS,start_question
+1569,2724,109,11,"Okay.  Then the third part says, Plaintiff also missed out on other opportunities with -- and it lists Blackfinn Ameripub Restaurant?",q,MR. SUN,start_answer
+1570,2727,109,14,Correct.,a,THE WITNESS,start_question
+1571,2728,109,15,And what opportunities did you miss out on with Blackfinn?,q,MR. SUN,start_answer
+1572,2730,109,17,"Well, continue business with them.",a,THE WITNESS,start_question
+1573,2731,109,18,Did you have this type of a proposal sheet for them as well?,q,MR. SUN,start_answer
+1574,2733,109,20,"Oh, I have -- I had one contract with them, but it didn't -- it didn't go that far.  So I'm not -- I'm just saying I just lost service work.  I didn't go that far with that.",a,THE WITNESS,start_question
+1575,2737,109,24,Okay.  Is there a quantity or a dollar figure that you're your claiming --,q,MR. SUN,is brackets
+1576,2740,110,2,(Electronic notifier interruption.),brackets,,is brackets
+1577,2741,110,3,(Discussion off the record.),brackets,,start_question
+1578,2743,110,5,"So for Blackfinn Ameripub, I guess, what -- what are we looking at dollar-wise that you're claiming that you lost as a result of this incident?",q,MR. SUN,start_answer
+1579,2746,110,8,That -- that's -- I can't provide that because -- I can't provide that figure because it didn't -- I just lost the opportunities to -- to provide more service work for them had if I had been healthy.,a,THE WITNESS,start_question
+1580,2750,110,12,Okay.,q,MR. SUN,start_answer
+1581,2751,110,13,I -- we -- I would have had a long-standing relationship had if I have not been -- not healthy.,a,THE WITNESS,start_question
+1582,2753,110,15,"Okay.  Carson's Ribs of Deerfield, is that the same type of situation?",q,MR. SUN,start_answer
+1583,2755,110,17,Same -- Same type of situation.,a,THE WITNESS,start_question
+1584,2756,110,18,We don't have like the contracts for that or anything?,q,MR. SUN,start_answer
+1585,2758,110,20,"No.  We did -- Again, I -- I did have contracts for them, but I had to stop, I had to stop because I -- I just couldn't continue.  You know, I'm not going to say, Hey, you know, I --",a,THE WITNESS,start_question
+1586,2762,110,24,"So was -- I guess -- So was your contract fulfilled, like for example with the contract for Carson's Ribs, you would have had some sort of servicing maintenance contract with them, correct?",q,MR. SUN,start_answer
+1587,2767,111,4,"Yes.  Yeah, I would have.",a,THE WITNESS,start_question
+1588,2768,111,5,So you would have fulfilled that contract or not?,q,MR. SUN,start_answer
+1589,2770,111,7,"I -- with -- With the -- hiring Ernie (phonetic), I did have a part-time worker.  I -- I would have gone over there -- No matter what it would have taken, I would have gone over there, crutches and all.  I would have made sure the work got done because that's what I did.  That's what I was doing.",a,THE WITNESS,start_question
+1590,2776,111,13,Okay.,q,MR. SUN,start_answer
+1591,2777,111,14,"But had if I had been healthy, the sky was the limit for this, you know -- the sky's the limit for this business I had.  This was -- This is a really, really good business that I had going.",a,THE WITNESS,start_question
+1592,2781,111,18,"Okay.  So I guess, you know, I don't want to sound rude to you.",q,MR. SUN,start_answer
+1593,2783,111,20,Sure.,a,THE WITNESS,start_question
+1594,2784,111,21,"But I'm just trying to understand if -- if you had this contract with Carson's Ribs and you get a guy -- a helper person and you fulfill your contract, what -- what opportunity are you missing out on? Because if you fulfilled the contract, per the terms of contract, and you did it all and everything's done correctly, what are you -- you know, you see what I'm trying to get at?",q,MR. SUN,start_answer
+1595,2793,112,5,"Right, right.  Well, first of all, I -- I have to find someone with my -- my talents to do this.",a,THE WITNESS,start_question
+1596,2795,112,7,Okay.,q,MR. SUN,start_answer
+1597,2796,112,8,Okay?  And was not able to find someone with those skills that I possess to move forward with that.,a,THE WITNESS,start_question
+1598,2798,112,10,Okay.,q,MR. SUN,start_answer
+1599,2799,112,11,"So, therefore, I couldn't -- I couldn't move forward with -- I couldn't move forward with it because I wasn't in the best of health.",a,THE WITNESS,start_question
+1600,2802,112,14,Okay.  So you just didn't submit like a future maintenance contract basically?,q,MR. SUN,start_answer
+1601,2804,112,16,"No.  I mean I -- I did have one, but it was futile.  It was a futile effort.  Why am I going to try to force something and, you know what I mean?  And knowing that I can't do this job here with Carson's --",a,THE WITNESS,start_question
+1602,2808,112,20,Okay.,q,MR. SUN,start_answer
+1603,2809,112,21,"-- you know, just...",a,THE WITNESS,start_question
+1604,2810,112,22,"So -- And is that the same kind with Blackfinn is that once the contract is up, you just didn't submit a new bid for it?",q,MR. SUN,start_answer
+1605,2814,113,1,No.  I might as well have the -- How can I say this? Might as well work with the ones I have.  I can't cover the entire field.,a,THE WITNESS,start_question
+1606,2818,113,5,Okay.,q,MR. SUN,start_answer
+1607,2819,113,6,That was my attitude.,a,THE WITNESS,start_question
+1608,2820,113,7,So you voluntarily kind of limited the scope --,q,MR. SUN,start_answer
+1609,2822,113,9,Yes.,a,THE WITNESS,start_question
+1610,2823,113,10,-- of your business based on your --,q,MR. SUN,start_answer
+1611,2824,113,11,With Carson's --,a,THE WITNESS,start_question
+1612,2825,113,12,-- physical issues?,q,MR. SUN,start_answer
+1613,2826,113,13,Yeah.  I -- I had no choice.  I had no choice.,a,THE WITNESS,start_question
+1614,2827,113,14,"Okay.  And is that also the case with Taco Bell, KFC, and Naansense?",q,MR. SUN,start_answer
+1615,2829,113,16,"Basically, yes.",a,THE WITNESS,start_question
+1616,2830,113,17,"Okay.  So for those three, again, Taco Bell, KFC, and Naansense, did you have any -- did you have any contracts or written --",q,MR. SUN,start_answer
+1617,2833,113,20,No.,a,THE WITNESS,start_question
+1618,2834,113,21,-- agreements?,q,MR. SUN,start_answer
+1619,2835,113,22,"No, I didn't.",a,THE WITNESS,start_question
+1620,2836,113,23,Okay.,q,MR. SUN,start_answer
+1621,2837,113,24,"It could have gone farther.  Again, my health did not allow me to go farther than what I would have loved to go.",a,THE WITNESS,start_question
+1622,2841,114,3,"Okay.  You mentioned you missed out on 89,000 in income from City Reflections Tavern?",q,MR. SUN,start_answer
+1623,2843,114,5,That's correct.,a,THE WITNESS,start_question
+1624,2844,114,6,Okay.  And this was the e-mail from Christine Nelson that --,q,MR. SUN,start_answer
+1625,2846,114,8,Mason.  Yes.,a,THE WITNESS,start_question
+1626,2847,114,9,"Mason, right. And so that was her calculation for you --",q,MR. SUN,start_answer
+1627,2849,114,11,Yes --,a,THE WITNESS,start_question
+1628,2850,114,12,-- is seems like --,q,MR. SUN,start_answer
+1629,2851,114,13,"-- that's correct.  Based on the work that she provided me, who, in turn, she had to hire other people to -- to do that type of work.",a,THE WITNESS,start_question
+1630,2854,114,16,"Okay.  In terms of -- Oh, wait.  Here we go. You submitted some letters from recommendation from F & F, your previous, it looks like, employers.",q,MR. SUN,start_answer
+1631,2857,114,19,Yes.,a,THE WITNESS,start_question
+1632,2858,114,20,"Just to say that you were -- what you did and the hours that you worked, right?",q,MR. SUN,start_answer
+1633,2860,114,22,Correct.,a,THE WITNESS,start_question
+1634,2861,114,23,"Okay.  Aside from that, is there another purpose of submitting this?",q,MR. SUN,start_answer
+1635,2864,115,1,Just to show you that I've have the mechanical ability that --,a,THE WITNESS,start_question
+1636,2866,115,3,Okay.,q,MR. SUN,start_answer
+1637,2867,115,4,-- that I'm a mechanic.  That's what I do.,a,THE WITNESS,start_question
+1638,2868,115,5,Gotcha.,q,MR. SUN,start_answer
+1639,2869,115,6,That's what I do.,a,THE WITNESS,start_question
+1640,2870,115,7,"So in terms of how your business is set up -- let's say when -- I guess when you're entering into these contracts, you're entering into those contracts as Maintenance Professionals, correct?",q,MR. SUN,start_answer
+1641,2874,115,11,Yes.,a,THE WITNESS,start_question
+1642,2875,115,12,Not as Manny Martinez?,q,MR. SUN,start_answer
+1643,2876,115,13,"Well, it's a self-proprietorship.  So I am the same person as this entity.",a,THE WITNESS,start_question
+1644,2878,115,15,Okay.,q,MR. SUN,start_answer
+1645,2879,115,16,Same person.,a,THE WITNESS,start_question
+1646,2880,115,17,"Is the -- Is the flow through of money 100 percent?  So let's say you have a contract for, you know, 89,000, you fulfill that contract, you are -- you are getting the entire 89,000 or are there expenses, other things --",q,MR. SUN,start_answer
+1647,2885,115,22,"Well, there --",a,THE WITNESS,start_question
+1648,2886,115,23,-- for operating the company?,q,MR. SUN,start_answer
+1649,2887,115,24,"There's always expenses.  You got to buy parts.  You got to buy parts.  And once the parts are paid for, well, then you subtract that part and I -- I use the -- my receipts, the invoices that I paid for that part and turn it in at the end of the year for tax purposes and that's -- that's how it's -- that's how it's done.  Turn in all my receipts.  Everything affiliated with Maintenance Professionals, I turn them in.",a,THE WITNESS,start_question
+1650,2897,116,9,"Gotcha. So I want to show you, I guess we can mark these as Group Exhibit -- I don't even know what we're on at this point, 3?",q,MR. SUN,start_chat
+1651,2901,116,13,We're on 4.,side_chat,THE COURT REPORTER,start_chat
+1652,2902,116,14,4.  Okay.,side_chat,MR. SUN,is brackets
+1653,2903,116,15,(Group Exhibit No. 4 marked as requested.),brackets,,is brackets
+1654,2905,116,17,(Discussion off the record.),brackets,,start_question
+1655,2907,116,19,"All right.  Mr. Martinez, I'm going to show you what we marked as --",q,MR. SUN,start_answer
+1656,2909,116,21,Sure.,a,THE WITNESS,start_question
+1657,2910,116,22,-- Group Exhibit 4.  These are tax returns --,q,MR. SUN,start_answer
+1658,2911,116,23,Okay.,a,THE WITNESS,start_question
+1659,2912,116,24,-- that --,q,MR. SUN,start_answer
+1660,2914,117,1,You need this?,a,THE WITNESS,start_question
+1661,2915,117,2,She can -- She'll eventually be taking them.,q,MR. SUN,start_answer
+1662,2916,117,3,Okay.,a,THE WITNESS,start_question
+1663,2917,117,4,"So Group Exhibit 4 consists of tax returns for the years 2014, 2015, 2016, and 2017?",q,MR. SUN,start_answer
+1664,2919,117,6,Okay.,a,THE WITNESS,start_question
+1665,2920,117,7,Or at least --,q,MR. SUN,start_answer
+1666,2921,117,8,Sure.,a,THE WITNESS,start_question
+1667,2922,117,9,-- parts of --,q,MR. SUN,start_answer
+1668,2923,117,10,Okay.,a,THE WITNESS,start_question
+1669,2924,117,11,"-- '16 and '17. So I just wanted to -- to confirm that because some of them say -- I don't think it actually says your legal name of Manuel Martinez, they say Manny Martinez I think on a few of them.",q,MR. SUN,start_answer
+1670,2929,117,16,"Well, yeah.  Everyone calls me --",a,THE WITNESS,start_question
+1671,2930,117,17,Okay.,q,MR. SUN,start_answer
+1672,2931,117,18,-- Manny.,a,THE WITNESS,start_question
+1673,2932,117,19,Okay.,q,MR. SUN,start_answer
+1674,2933,117,20,Manny's for Manuel.,a,THE WITNESS,start_question
+1675,2934,117,21,No.  That -- That makes sense.,q,MR. SUN,start_answer
+1676,2935,117,22,Okay.,a,THE WITNESS,start_question
+1677,2936,117,23,"But I just wanted to make sure in terms of looking at, you know, for example this 2014 one, in terms of looking at the numbers --",q,MR. SUN,start_answer
+1678,2940,118,2,Okay.,a,THE WITNESS,start_question
+1679,2941,118,3,"-- for wages or income, it says, you know, 44,539 --",q,MR. SUN,start_answer
+1680,2943,118,5,Yeah.,a,THE WITNESS,start_question
+1681,2944,118,6,"-- like, that's -- that's accurate, correct?",q,MR. SUN,start_answer
+1682,2945,118,7,"Yes.  To the best of my knowledge, it's accurate.",a,THE WITNESS,start_question
+1683,2947,118,9,"Okay.  And then for 2015, for the total income line, I guess, it -- it states 9,168 --",q,MR. SUN,start_answer
+1684,2949,118,11,"Yes.  Yes, that's --",a,THE WITNESS,start_question
+1685,2950,118,12,-- and that's correct?,q,MR. SUN,start_answer
+1686,2951,118,13,That's correct.,a,THE WITNESS,start_question
+1687,2952,118,14,"Okay.  And then 2016, it shows, again, for the --",q,MR. SUN,start_answer
+1688,2954,118,16,Yes.,a,THE WITNESS,start_question
+1689,2955,118,17,"-- wages you have the 40,000?",q,MR. SUN,start_answer
+1690,2956,118,18,That's correct.,a,THE WITNESS,start_question
+1691,2957,118,19,Flat?,q,MR. SUN,start_answer
+1692,2958,118,20,Right.,a,THE WITNESS,start_question
+1693,2959,118,21,"Okay.  And then in 2017, it looks like it drops down to the 6,200?",q,MR. SUN,start_answer
+1694,2961,118,23,Yeah.,a,THE WITNESS,start_question
+1695,2962,118,24,And that was when you were injured?,q,MR. SUN,start_answer
+1696,2964,119,1,"Right, correct.",a,THE WITNESS,start_question
+1697,2965,119,2,Okay.,q,MR. SUN,start_answer
+1698,2966,119,3,Okay.,a,THE WITNESS,start_question
+1699,2967,119,4,"All right.  I'm not going to make you go through each page because, trust me, I hated tax law.  I hated everything about accounting. Okay.  And then just -- just for reference, I'm just going to refer to these.  You know what?  Let's mark it.  We might as well.  We'll mark these as a group exhibit, 5 --",q,MR. SUN,start_answer
+1700,2974,119,11,Thank you.,a,THE WITNESS,start_question
+1701,2975,119,12,-- for -- for the letters from Naf Naf.,q,MR. SUN,start_answer
+1702,2976,119,13,Yes.,a,THE WITNESS,start_question
+1703,2977,119,14,"And I'll just state in the record, it's the December 26th, 2017 maintenance proposal --",q,MR. SUN,start_answer
+1704,2979,119,16,Uh-huh.,a,THE WITNESS,start_question
+1705,2980,119,17,"-- the February 25th, 2018 invoice letter --",q,MR. SUN,start_answer
+1706,2981,119,18,(Nodding.),a,THE WITNESS,start_question
+1707,2982,119,19,"And the January 12th -- January 12th, 2018 letter from doctor -- or from Mr. Burger --",q,MR. SUN,start_answer
+1708,2984,119,21,That's correct.,a,THE WITNESS,start_question
+1709,2985,119,22,-- saying you're no longer a consideration?,q,MR. SUN,start_answer
+1710,2986,119,23,Yeah.,a,THE WITNESS,start_question
+1711,2987,119,24,"And the February 26, 2018 letter regarding the 35 pita ovens?",q,MR. SUN,start_answer
+1712,2990,120,2,Yeah.,a,THE WITNESS,start_question
+1713,2991,120,3,Okay.,q,MR. SUN,is brackets
+1714,2992,120,4,(Discussion off the record.),brackets,,is brackets
+1715,2993,120,5,(Group Exhibit No. 5 marked as requested.),brackets,,start_question
+1716,2996,120,8,"I believe we've covered your wage lost now, correct?",q,MR. SUN,start_answer
+1717,2998,120,10,Yes.,a,THE WITNESS,start_question
+1718,2999,120,11,"All right.  Is there anything else about your wage loss that I have not talked to you about today, to this point?",q,MR. SUN,start_answer
+1719,3002,120,14,"Yeah, I think you -- we basically covered -- covered everything then, that you brought -- brought to my attention.",a,THE WITNESS,start_question
+1720,3005,120,17,"Okay.  And in terms of that wage loss, because, again, like I told you, I'm trying to get --",q,MR. SUN,start_answer
+1721,3007,120,19,Right.,a,THE WITNESS,start_question
+1722,3008,120,20,What my job is to try to get a start point and an endpoint --,q,MR. SUN,start_answer
+1723,3010,120,22,Sure.,a,THE WITNESS,start_question
+1724,3011,120,23,-- for when the wage loss begins versus when it ends.,q,MR. SUN,start_answer
+1725,3014,121,1,I understand.,a,THE WITNESS,start_question
+1726,3015,121,2,So when was the first time that you had to reject a service call after this accident?,q,MR. SUN,start_answer
+1727,3017,121,4,"Right after my -- after my surgery.  Even -- Well, before my surgery.  Before my surgery, I -- I -- I try -- I tried to do some service calls, knowing that I was in pain.  I couldn't -- I couldn't do it prior to my surgery.  And then after my surgery, there were many -- many calls that I took and a lot -- a lot more that I couldn't take.",a,THE WITNESS,start_question
+1728,3024,121,11,Okay.,q,MR. SUN,start_answer
+1729,3025,121,12,You know...,a,THE WITNESS,start_question
+1730,3026,121,13,"In terms of you running your company with service calls, with invoices, that type of thing, if a service call comes in or one of your restaurants calls you, says, Hey, we need you to come over, is there a document that's created to reflect that?",q,MR. SUN,start_answer
+1731,3031,121,18,And it's called an invoice.,a,THE WITNESS,start_question
+1732,3032,121,19,Okay.,q,MR. SUN,start_answer
+1733,3033,121,20,"Yeah.  They sign off on it, you know.  I described the work I did and it shows the cost.",a,THE WITNESS,start_question
+1734,3035,121,22,Okay.  And --,q,MR. SUN,start_answer
+1735,3036,121,23,And that's -- that's all -- That's all turned in at the end of the year for tax purposes.,a,THE WITNESS,start_question
+1736,3039,122,1,It would be like the February 25th --,q,MR. SUN,start_answer
+1737,3040,122,2,Yeah.,a,THE WITNESS,start_question
+1738,3041,122,3,-- 2018 letter in --,q,MR. SUN,start_answer
+1739,3042,122,4,All those --,a,THE WITNESS,start_question
+1740,3043,122,5,-- Group Exhibit 5?,q,MR. SUN,start_answer
+1741,3044,122,6,All those -- All those are on invoices. That's turned into the company.,a,THE WITNESS,start_question
+1742,3046,122,8,Okay.,q,MR. SUN,start_answer
+1743,3047,122,9,"Oh, yeah.",a,THE WITNESS,start_question
+1744,3048,122,10,Okay.,q,MR. SUN,start_answer
+1745,3049,122,11,That's all turned in.,a,THE WITNESS,start_question
+1746,3050,122,12,Do you have copies of all of your invoices for the periods that you're claiming --,q,MR. SUN,start_answer
+1747,3052,122,14,I have -- I --,a,THE WITNESS,start_question
+1748,3053,122,15,-- wage loss for?,q,MR. SUN,start_answer
+1749,3054,122,16,"Well, I -- I turned those in to the -- I might have -- I still might have those in my possession. Some -- Some are taken on my phone and then I scan them later, you know, but I have to have those for tax purposes.",a,THE WITNESS,start_question
+1750,3059,122,21,Could we get a copy of those?,q,MR. SUN,start_answer
+1751,3060,122,22,I --,a,THE WITNESS,start_question
+1752,3061,122,23,"Or could you send one to your attorney, or a copy of -- to your attorney and then -- for production?",q,MR. SUN,start_answer
+1753,3064,123,1,Which ones do you want?  I mean...,a,THE WITNESS,start_question
+1754,3065,123,2,It would be from 2016 -- or -- Let's just say from 2015 -- from when you started the company until April of 2018.,q,MR. SUN,start_answer
+1755,3068,123,5,I can -- Let me dig -- dig in.,a,THE WITNESS,start_question
+1756,3069,123,6,"Because it'll have to reflect, kind of -- it'll go along -- Because your tax returns are for those years?",q,MR. SUN,start_answer
+1757,3072,123,9,Yeah.,a,THE WITNESS,start_question
+1758,3073,123,10,And I know that you started your business --,q,MR. SUN,start_answer
+1759,3074,123,11,"Oh, yeah.",a,THE WITNESS,start_question
+1760,3075,123,12,And just to give you kind of a background --,q,MR. SUN,start_answer
+1761,3076,123,13,Sure.,a,THE WITNESS,start_question
+1762,3077,123,14,-- of what we do is --,q,MR. SUN,start_answer
+1763,3078,123,15,Yeah.  Okay.,a,THE WITNESS,start_question
+1764,3079,123,16,"-- you know, I have to look at what you're --",q,MR. SUN,start_answer
+1765,3080,123,17,"Yeah, you --",a,THE WITNESS,start_question
+1766,3081,123,18,-- how much you're doing before the injury --,q,MR. SUN,start_answer
+1767,3082,123,19,"Right, right.",a,THE WITNESS,start_question
+1768,3083,123,20,-- versus how much you're doing after the injury.,q,MR. SUN,start_answer
+1769,3085,123,22,Exactly.,a,THE WITNESS,start_question
+1770,3086,123,23,So...,q,MR. SUN,start_answer
+1771,3087,123,24,"Yeah, I understand what you're saying.  I -- I just -- Yes.  Let me look into it.  Again, I -- I don't throw anything away.  So I should be able to provide that.",a,THE WITNESS,start_question
+1772,3092,124,4,Okay.  Perfect.,q,MR. SUN,start_answer
+1773,3093,124,5,Now --,a,THE WITNESS,start_question
+1774,3094,124,6,Yes.,q,MR. SUN,start_answer
+1775,3095,124,7,-- I did have an old iPhone that I scanned.  I took a lot of photos.,a,THE WITNESS,start_question
+1776,3097,124,9,Okay.,q,MR. SUN,start_answer
+1777,3098,124,10,Because they want their copy and I got to have my copy.  So that iPhone no longer functions.,a,THE WITNESS,start_question
+1778,3100,124,12,Okay.,q,MR. SUN,start_answer
+1779,3101,124,13,And I don't know if I can be able to provide those to you.,a,THE WITNESS,start_question
+1780,3103,124,15,Okay.  So some might be missing?,q,MR. SUN,start_answer
+1781,3104,124,16,Because of this iPhone.,a,THE WITNESS,start_question
+1782,3105,124,17,Okay.,q,MR. SUN,start_answer
+1783,3106,124,18,But...,a,THE WITNESS,start_question
+1784,3107,124,19,But you should have some -- like a lot of other ones still?,q,MR. SUN,start_answer
+1785,3109,124,21,"Oh, yes.",a,THE WITNESS,start_question
+1786,3110,124,22,Okay.,q,MR. SUN,start_answer
+1787,3111,124,23,Absolutely.,a,THE WITNESS,start_question
+1788,3112,124,24,Okay.  See I'm -- I'm just concerned with whatever you can -- you can give me.,q,MR. SUN,start_answer
+1789,3115,125,2,Exactly.,a,THE WITNESS,start_question
+1790,3116,125,3,Okay?,q,MR. SUN,start_answer
+1791,3117,125,4,Exactly.  Exactly.,a,THE WITNESS,start_question
+1792,3118,125,5,So I'm just going to ask --,q,MR. SUN,start_answer
+1793,3119,125,6,"Well, that's the only -- That's the only way I can file taxes.  I got to have that.",a,THE WITNESS,start_question
+1794,3121,125,8,Right.,q,MR. SUN,start_answer
+1795,3122,125,9,"I also have copies of parts and in- -- you know, you got to have that.  It's, you know...",a,THE WITNESS,start_question
+1796,3124,125,11,"Good.  Okay.  No, no, that's good because --",q,MR. SUN,start_answer
+1797,3125,125,12,Okay.,a,THE WITNESS,start_question
+1798,3126,125,13,-- that's -- because I -- I obviously have to see those to --,q,MR. SUN,start_answer
+1799,3128,125,15,Yeah.  I understand.,a,THE WITNESS,start_question
+1800,3129,125,16,-- understand what your wage loss --,q,MR. SUN,start_answer
+1801,3130,125,17,"Sure, sure.",a,THE WITNESS,start_question
+1802,3131,125,18,-- really is.,q,MR. SUN,start_answer
+1803,3132,125,19,I understand.,a,THE WITNESS,start_question
+1804,3133,125,20,"So aside from the opportunities that you missed out that we discussed, any other opportunities that you missed out for -- workwise?",q,MR. SUN,start_answer
+1805,3136,125,23,"No.  That's -- That's all that -- that we covered and I covered, it sums it up.",a,THE WITNESS,start_question
+1806,3139,126,1,Okay.  I just -- Because this is the only time that I get to talk to you directly.,q,MR. SUN,start_answer
+1807,3141,126,3,I -- Right.  I -- That's --,a,THE WITNESS,start_question
+1808,3142,126,4,You know...,q,MR. SUN,start_answer
+1809,3143,126,5,That's -- That's all that's relevant --,a,THE WITNESS,start_question
+1810,3144,126,6,Speak-now --,q,MR. SUN,start_answer
+1811,3145,126,7,-- that's relevant.  Right.,a,THE WITNESS,start_question
+1812,3146,126,8,-- or-forever-hold-your-peace type thing.,q,MR. SUN,start_chat
+1813,3147,126,9,Let him finish --,side_chat,MR. ADELMAN,start_chat
+1814,3148,126,10,I'm sorry.,side_chat,THE WITNESS,start_chat
+1815,3149,126,11,-- then you talk.  One at a time.,side_chat,MR. ADELMAN,start_question
+1816,3151,126,13,"You know, but that's the -- the end, these that we've gone over, that's it?  There's no other restaurants that you dealt business with that you're claiming you lost out on?",q,MR. SUN,start_answer
+1817,3155,126,17,No.  That's -- That's all.,a,THE WITNESS,start_question
+1818,3156,126,18,Okay.,q,MR. SUN,start_answer
+1819,3157,126,19,That's all.,a,THE WITNESS,start_question
+1820,3158,126,20,"And, again, just to give you a background --",q,MR. SUN,start_answer
+1821,3159,126,21,No.,a,THE WITNESS,start_question
+1822,3160,126,22,-- the only reason I ask that is I just don't want us to go to trial or go to somewhere else later on --,q,MR. SUN,start_answer
+1823,3164,127,1,Sure.,a,THE WITNESS,start_question
+1824,3165,127,2,-- and then you throw out a new restaurant name --,q,MR. SUN,start_answer
+1825,3167,127,4,Well --,a,THE WITNESS,start_question
+1826,3168,127,5,-- that we didn't know about.,q,MR. SUN,start_answer
+1827,3169,127,6,"-- I mean, you know, like these invoices, I had so many clients.  It's hard to -- There's so many clients involved.  You know what I mean?  It -- You have a lot of mom-and-pop restaurants and they all play a vital part to my income, so...",a,THE WITNESS,start_question
+1828,3174,127,11,"Just to go back to that pallet jack that hit you, do you remember what was on that pallet jack?",q,MR. SUN,start_answer
+1829,3176,127,13,There was nothing on that pallet jack.,a,THE WITNESS,start_question
+1830,3177,127,14,It was empty?,q,MR. SUN,start_answer
+1831,3178,127,15,It was empty.,a,THE WITNESS,start_question
+1832,3179,127,16,Was it one of those two-pronged pallet jacks?,q,MR. SUN,start_answer
+1833,3180,127,17,That's correct.,a,THE WITNESS,start_question
+1834,3181,127,18,"Okay.  Where it has, like, on the handlebar like that little --",q,MR. SUN,start_answer
+1835,3183,127,20,"Yeah, I believe.",a,THE WITNESS,start_question
+1836,3184,127,21,-- hydraulic --,q,MR. SUN,start_answer
+1837,3185,127,22,That's --,a,THE WITNESS,start_question
+1838,3186,127,23,-- press thing?,q,MR. SUN,start_answer
+1839,3187,127,24,That's what he had.,a,THE WITNESS,start_question
+1840,3189,128,1,Okay.  Was the gentleman pushing or pulling the pallet jack?,q,MR. SUN,start_answer
+1841,3191,128,3,Pulling.,a,THE WITNESS,start_question
+1842,3192,128,4,Okay.,q,MR. SUN,start_chat
+1843,3193,128,5,I think that's all I've got.,side_chat,MR. SUN,start_chat
+1844,3194,128,6,Okay.  I just have a few questions for you. EXAMINATION,side_chat,MR. ADELMAN,start_question
+1845,3198,128,10,"Was the gentlemen that was pulling the pallet jack, was he wearing an item of clothing that identified him as being a Walmart employee as well?",q,MR. ADELMAN,start_answer
+1846,3201,128,13,I -- I don't remember that.  I -- I can't -- I can't recall that.  I can't recall that.,a,THE WITNESS,start_question
+1847,3203,128,15,"How would you describe the level of impact between light, medium, or heavy with the pallet jack in your left leg?",q,MR. ADELMAN,start_chat
+1848,3206,128,18,Sorry.  Left foot.,side_chat,MR. SUN,start_chat
+1849,3207,128,19,"Left foot, yeah. BY THE WITNESS:",side_chat,MR. ADELMAN,start_answer
+1850,3209,128,21,I'd say heavy.,a,THE WITNESS,start_question
+1851,3210,128,22,"As a result of the pallet jack coming into your foot, was your body moved at all?  I mean, was it with enough force that it caused your body to move?",q,MR. ADELMAN,start_answer
+1852,3214,129,1,Yes.,a,THE WITNESS,start_question
+1853,3215,129,2,Did you say anything out loud when you were hit with the pallet jack?,q,MR. ADELMAN,start_answer
+1854,3217,129,4,Ouch.,a,THE WITNESS,start_question
+1855,3218,129,5,And do you recall if this individual apologized to you?,q,MR. ADELMAN,start_answer
+1856,3220,129,7,Yes.,a,THE WITNESS,start_question
+1857,3221,129,8,"Okay.  Now, did this appear to be a store pallet jack?  I mean, this wasn't something that someone would have been able to bring from home to the store?",q,MR. ADELMAN,start_answer
+1858,3224,129,11,No.  This is a store pallet jack.,a,THE WITNESS,start_question
+1859,3225,129,12,"When you went to the store two days later, did you see the woman that you were talking to at the time of the accident?",q,MR. ADELMAN,start_answer
+1860,3228,129,15,"No, I did not.",a,THE WITNESS,start_question
+1861,3229,129,16,"When you explained the incident that took place to -- that's in Exhibit 3 -- did the supervisor appear to be familiar, recall this incident that took place?  Did the supervisor say, Oh, yeah.  I recall speaking to Ms. Toledo.  She told me about that?",q,MR. ADELMAN,start_answer
+1862,3234,129,21,"She did hear something of that nature, but nothing else was discussed.",a,THE WITNESS,start_question
+1863,3236,129,23,"As you've said today, you believe that you have a specialized knowledge in creating these pita ovens and these type of oven systems?",q,MR. ADELMAN,start_answer
+1864,3240,130,2,"Yes, I do.",a,THE WITNESS,start_question
+1865,3241,130,3,Okay.  Do you know how many other people in the Chicagoland area have your level of knowledge and expertise?,q,MR. ADELMAN,start_answer
+1866,3244,130,6,Not very many.  There are -- There are people but not very many with the skills that I possess.,a,THE WITNESS,start_question
+1867,3246,130,8,And what was it about building these -- these machines that was difficult for you to do when you had this left foot injury?,q,MR. ADELMAN,start_answer
+1868,3249,130,11,Standing for long periods of time and applying my foot to -- to the metal that was bent in order to shape it.,a,THE WITNESS,start_question
+1869,3252,130,14,Could you have hired employees to do the building and you could have supervised this work?,q,MR. ADELMAN,start_answer
+1870,3254,130,16,No.  It takes a -- it takes a level -- It takes a special kind of person with this -- possess type of skill to -- to perform.  Not anyone can just do this type of work.,a,THE WITNESS,start_chat
+1871,3258,130,20,I don't have any further questions.,side_chat,MR. ADELMAN,start_chat
+1872,3259,130,21,"Sorry.  Can I just get the question and answer before the expertise question, if that makes sense.",side_chat,MR. SUN,start_chat
+1873,3262,130,24,Okay.,side_chat,THE COURT REPORTER,start_chat
+1874,3264,131,1,Because I think missed part of it.  It was something about Ms. Toledo.,side_chat,MR. SUN,is brackets
+1875,3266,131,3,(Record read as requested.) FURTHER EXAMINATION,brackets,,start_question
+1876,3269,131,6,"So I'm going to ask you about that. When you're talking to the manager, was that the manager that you talked to the two days after the accident or is this the black gentleman?",q,MR. SUN,start_answer
+1877,3273,131,10,No.  It's the lady I spoke -- spoke with after that.,a,THE WITNESS,start_question
+1878,3275,131,12,So it was the...,q,MR. SUN,start_answer
+1879,3276,131,13,Katen.,a,THE WITNESS,start_question
+1880,3277,131,14,Katen.,q,MR. SUN,start_answer
+1881,3278,131,15,Yeah.,a,THE WITNESS,start_question
+1882,3279,131,16,Okay.  And Katen had mentioned that she had talked to Ms. Toledo about the accident?,q,MR. SUN,start_answer
+1883,3281,131,18,"She heard something -- she was -- She was aware, but the conversation didn't go any further than that.",a,THE WITNESS,start_question
+1884,3284,131,21,Okay.  And -- Okay.  In terms of -- I think Counsel asked you about the gentleman pulling the pallet jack.,q,MR. SUN,start_answer
+1885,3287,131,24,Correct.,a,THE WITNESS,start_question
+1886,3289,132,1,You mentioned that he apologized to you. Earlier I thought you had said that she -- he had apologized to Maribel.  I just want to make sure --,q,MR. SUN,start_answer
+1887,3292,132,4,Well --,a,THE WITNESS,start_question
+1888,3293,132,5,-- he --,q,MR. SUN,start_answer
+1889,3294,132,6,"He -- He apologized to Maribel.  That -- We were both standing there, but Maribel -- Maribel told him to be careful and he apologized.  So he was looking at her.  So --",a,THE WITNESS,start_question
+1890,3298,132,10,Okay.,q,MR. SUN,start_answer
+1891,3299,132,11,-- I can say it was -- it was her.,a,THE WITNESS,start_question
+1892,3300,132,12,"Okay.  In terms of using that machine to build the ovens, you mentioned there's something that, like, bends the metal?",q,MR. SUN,start_answer
+1893,3303,132,15,It's called the brake.,a,THE WITNESS,start_question
+1894,3304,132,16,Okay.  And how does that brake operate specifically?,q,MR. SUN,start_answer
+1895,3306,132,18,"It's -- It's a vertical machine and you put a sheet of metal, a 4-by-12 sheet, it's -- it's heavy, put it in.  You've already designated your measuring points where you want it to be bent, or in this case where it needs, it needs to be broke -- terminology -- slide it in there, press the button or a manual if -- if you don't want to be automated.  And then you pull it down and it takes the metal and it bends.",a,THE WITNESS,start_question
+1896,3315,133,2,Okay.  So does using this machine require the use of your foot?,q,MR. SUN,start_answer
+1897,3317,133,4,Yes.,a,THE WITNESS,start_question
+1898,3318,133,5,And how does it require the use of your foot?,q,MR. SUN,start_answer
+1899,3319,133,6,"Well, when I reach up, I have to, at times, stand on my tip -- tiptoes.  I have -- You know, I have to stand on my toes and move it around, constantly move -- move my -- my feet around in and position it. It's just not, you're standing in one direction.  You're constantly moving --",a,THE WITNESS,start_question
+1900,3325,133,12,Okay.,q,MR. SUN,start_answer
+1901,3326,133,13,"-- and going up and down with it as you see (indicating).  Because when it bends up, you got to reach up and then with one hand grab it and move it over.  Mind you, this is a very sharp metal that'll cut you.  So you've got to be extremely careful with this.",a,THE WITNESS,start_question
+1902,3331,133,18,How long does it take you to build one of these ovens?,q,MR. SUN,start_answer
+1903,3333,133,20,"It'd take me 4 to 5 days if I'm working 10 -- 10, 12 hours a day on it.",a,THE WITNESS,start_question
+1904,3335,133,22,"Okay.  Okay.  I think that's all I have. Well, actually -- sorry -- one more. In terms of the -- the ovens, so you're creating the exterior of the oven.  Are you creating the interior of it, everything as well, like the heating elements?",q,MR. SUN,start_answer
+1905,3342,134,4,Yes.,a,THE WITNESS,start_question
+1906,3343,134,5,That's all --,q,MR. SUN,start_answer
+1907,3344,134,6,Heating -- Yes.  Everything is built in-house.,a,THE WITNESS,start_question
+1908,3345,134,7,Okay.,q,MR. SUN,start_answer
+1909,3346,134,8,Everything is built in-house.,a,THE WITNESS,start_question
+1910,3347,134,9,"And are these electrical or propane, gas?",q,MR. SUN,start_answer
+1911,3348,134,10,"No.  These are gas, natural gas.  Natural gas ovens.  The only things that we -- I source out is the ceramic tiling, wheels, everything that is -- everything that's built in-house.  And -- And the valves, those were purchased outside too.",a,THE WITNESS,start_question
+1912,3353,134,15,Okay.,q,MR. SUN,start_answer
+1913,3354,134,16,Yeah.,a,THE WITNESS,start_question
+1914,3355,134,17,But in terms of getting the gas to circulate properly --,q,MR. SUN,start_answer
+1915,3357,134,19,Everything's (indecipherable) --,a,THE WITNESS,start_question
+1916,3358,134,20,-- that's all you?,q,MR. SUN,start_answer
+1917,3359,134,21,That's all us.,a,THE WITNESS,start_question
+1918,3360,134,22,Okay.  And is that a part of your certification for the -- that steel certification --,q,MR. SUN,start_answer
+1919,3362,134,24,Well -- No.,a,THE WITNESS,start_question
+1920,3364,135,1,-- or the hydraulic certification?,q,MR. SUN,start_answer
+1921,3365,135,2,No.  That's something that -- I also went to Ivy Tech.  I also went to Ivy Tech and had some schooling there as well.,a,THE WITNESS,start_question
+1922,3368,135,5,Okay.  So -- Because we had asked about that before --,q,MR. SUN,start_answer
+1923,3370,135,7,Oh.,a,THE WITNESS,start_question
+1924,3371,135,8,-- but I don't think that was mentioned.,q,MR. SUN,start_answer
+1925,3372,135,9,No.,a,THE WITNESS,start_question
+1926,3373,135,10,The -- You said Ivy Tech?,q,MR. SUN,start_answer
+1927,3374,135,11,Yes.  I -- I went to Ivy Tech.,a,THE WITNESS,start_question
+1928,3375,135,12,And where is Ivy Tech?,q,MR. SUN,start_answer
+1929,3376,135,13,"Well, this one was in Evansville, Indiana. Evansville, Indiana.",a,THE WITNESS,start_question
+1930,3378,135,15,Did you receive a certification for it?,q,MR. SUN,start_answer
+1931,3379,135,16,No.  It was a course.  It was -- It was a course I took and I -- that's all I needed for that particular course and it was --,a,THE WITNESS,start_question
+1932,3382,135,19,It was like an oven building course?,q,MR. SUN,start_answer
+1933,3383,135,20,"No.  It was a design and building course because you got to have -- you got to have design.  You got to know how to fabricate.  So you -- you need -- You need that to help you -- guide you.  You got to understand the -- the numbers involved shapes and sizes, so...",a,THE WITNESS,start_question
+1934,3390,136,2,Okay.,q,MR. SUN,start_answer
+1935,3391,136,3,But I took that and that -- I took that course.,a,THE WITNESS,start_question
+1936,3393,136,5,That makes sense.,q,MR. SUN,start_chat
+1937,3394,136,6,All right.  I think that's all I have at this time.,side_chat,MR. SUN,start_chat
+1938,3396,136,8,"Okay.  Great.  It's federal court. So I can't reserve.  So, I mean.  It's automatic signature. Okay.  Thank you very much.",side_chat,MR. ADELMAN,start_chat
+1939,3400,136,12,And I will order a copy.,side_chat,MR. SUN,start_chat
+1940,3401,136,13,"Yes, me as well.",side_chat,MR. ADELMAN,is brackets
+1941,3402,136,14,"(Witness excused.) NORTHERN DISTRICT OF ILLINOIS   ) STATE OF ILLINOIS               ) I, Mary D. Vermejan, Certified Shorthand Reporter and Registered Professional Reporter, do hereby certify that MANUEL MARTINEZ was first duly sworn by me to testify to the whole truth and that the above deposition was reported stenographically by me and reduced to typewriting under my personal direction. I further certify that the said deposition was taken at the time and place specified and that the taking of said deposition commenced on the 14th day of August, 2019, at 1:04 p.m. I further certify that I am not a relative or employee or attorney or counsel of any of the parties, nor a relative or employee of such attorney or counsel, nor financially interested directly or indirectly in this action. In witness whereof, I have hereunto set my hand and affixed my seal of office at Chicago, Illinois, this 26th day of August, 2019. MARY D. VERMEJAN, CSR, RPR North LaSalle Street Suite 2800 Phone:  (312) 236-6936",brackets,,end

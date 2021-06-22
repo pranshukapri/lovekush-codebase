@@ -1,0 +1,1451 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," of questions, be reserved until the time of trial.)",,,symbols
+1,132,5,14,- - - EXAMINATION,symbols,,symbols
+2,134,5,16,- - -,symbols,,start_question
+3,136,5,18,"So Mr. Cappello, is there any reason --",q,MR. FROEHLICH,start_answer
+4,137,5,19,Cappello.,a,THE WITNESS,start_question
+5,138,5,20,"Cappello, I apologize, Cappello. Mr. Cappello, is there any reason that you would have any problems listening to my questions and responding truthfully this morning?",q,MR. FROEHLICH,start_answer
+6,142,5,24,"No, sir.",a,THE WITNESS,start_question
+7,144,6,1,Got it. Have you ever been deposed before?,q,MR. FROEHLICH,start_answer
+8,146,6,3,"No, sir.",a,THE WITNESS,start_question
+9,147,6,4,"Okay. Since this is your first time I'll just give you a little bit of sort of the parameters although I'm sure your attorneys have mentioned this to you.  If you don't understand any question that I ask please tell me and I'll rephrase it or explain it.  If you don't hear me please tell me you can't hear me and I'll speak up at a little bit.  If you need to take a break at any time let us know that as well.  If you respond to a question I'll assume that you heard it and that you understand it and that you're responding truthfully, okay?",q,MR. FROEHLICH,start_answer
+10,159,6,16,Okay.,a,THE WITNESS,start_question
+11,160,6,17,"Now, your represented in this matter by the law firm of Liss and Katz; is that correct?",q,MR. FROEHLICH,start_answer
+12,162,6,19,Correct.,a,THE WITNESS,start_question
+13,163,6,20,Okay. Do they -- to your knowledge do they also represent the Philadelphia -- the Philly Cash Buyer Lands Trust as well?,q,MR. FROEHLICH,start_answer
+14,167,6,24,Yes.,a,THE WITNESS,start_question
+15,169,7,1,Okay. And do they also represent Timothy Stover in this case?,q,MR. FROEHLICH,start_answer
+16,172,7,4,Yes.,a,THE WITNESS,start_question
+17,173,7,5,All right. Do you have any other -- outside of the Liss and Katz law firm do you have any other lawyers that are representing you in this matter?,q,MR. FROEHLICH,start_answer
+18,177,7,9,No.,a,THE WITNESS,start_question
+19,178,7,10,How did you prepare for the deposition today?,q,MR. FROEHLICH,start_answer
+20,179,7,11,I didn't.,a,THE WITNESS,start_question
+21,180,7,12,Did you talk with anybody about it?,q,MR. FROEHLICH,start_chat
+22,181,7,13,Outside of Counsel?,side_chat,MR. BARSKY,start_chat
+23,182,7,14,"Briefly for 5 minutes before but there was no like going over anything really.  Just what you're doing, kind of how this is going to go.",side_chat,THE WITNESS,start_question
+24,187,7,19,I should have also mentioned in the instructions before Michelle is taking down the transcript of the deposition so any response has to be oral instead of shaking your head.,q,MR. FROEHLICH,start_answer
+25,191,7,23,"Got you, yeah.",a,THE WITNESS,start_question
+26,192,7,24,Did you talk with Timothy Stover about today's deposition?,q,MR. FROEHLICH,start_answer
+27,195,8,2,"Yes, briefly.",a,THE WITNESS,start_question
+28,196,8,3,Okay. When did you talk with him?,q,MR. FROEHLICH,start_answer
+29,198,8,5,Yesterday when he got out.,a,THE WITNESS,start_question
+30,199,8,6,Okay. And what did he say about the deposition?,q,MR. FROEHLICH,start_answer
+31,202,8,9,He said it was hilarious.,a,THE WITNESS,start_question
+32,203,8,10,"Uh-huh, did he say anything else other than it was hilarious?",q,MR. FROEHLICH,start_answer
+33,205,8,12,"No, just kind of like what happened, how long it took, you know.",a,THE WITNESS,start_question
+34,207,8,14,Uh-huh.,q,MR. FROEHLICH,start_answer
+35,208,8,15,That kind of stuff.,a,THE WITNESS,start_question
+36,209,8,16,Did he tell you what type of questions that he was asked?,q,MR. FROEHLICH,start_answer
+37,211,8,18,"Not really -- yeah, I mean, there was a couple but we didn't get into that too much.",a,THE WITNESS,start_question
+38,213,8,20,Okay. Approximately how long was your conversation with Timothy Stover yesterday?,q,MR. FROEHLICH,start_answer
+39,216,8,23,2 minutes over text message.,a,THE WITNESS,start_question
+40,217,8,24,I see. And prior to that text message exchange had you spoken with Timothy Stover about this deposition?,q,MR. FROEHLICH,start_answer
+41,222,9,4,"No, I didn't know I had a deposition until a couple days before today.",a,THE WITNESS,start_question
+42,224,9,6,Okay.,q,MR. FROEHLICH,start_answer
+43,225,9,7,"I mean, I knew it was something that was probably going to happen but we didn't really talk about anything about that.",a,THE WITNESS,start_question
+44,228,9,10,Okay. Did you talk with George Beatty about today's deposition?,q,MR. FROEHLICH,start_answer
+45,231,9,13,No.,a,THE WITNESS,start_question
+46,232,9,14,Did you talk to anybody else at Problem Property Pals about today's deposition?,q,MR. FROEHLICH,start_answer
+47,234,9,16,Nope.,a,THE WITNESS,start_question
+48,235,9,17,Did you review any documents in preparation for today's deposition?,q,MR. FROEHLICH,start_answer
+49,237,9,19,No.,a,THE WITNESS,start_question
+50,238,9,20,Did you review the Complaint that was filed against Mr. Weary?,q,MR. FROEHLICH,start_answer
+51,240,9,22,Nope.,a,THE WITNESS,start_question
+52,241,9,23,Did you review Mr. Weary's PODIO record?,q,MR. FROEHLICH,start_answer
+53,242,9,24,"Of course, I was part of it.",a,THE WITNESS,start_question
+54,244,10,1,Okay. So when I said did you review any documents --,q,MR. FROEHLICH,start_answer
+55,247,10,4,"Yeah, but I didn't review -- you're asking before I came here so no, but when this all took place, yes.",a,THE WITNESS,start_question
+56,250,10,7,I see. When was the last time that you reviewed Mr. Weary's PODIO record?,q,MR. FROEHLICH,start_answer
+57,253,10,10,"When this happened probably in -- I don't know when it was November, December, whenever this took place.",a,THE WITNESS,start_question
+58,256,10,13,Okay. We talked over each other a little bit there so let me ask the question again to make a clear record. When was the last time that you reviewed Mr. Weary's PODIO record?,q,MR. FROEHLICH,start_answer
+59,262,10,19,When the initial situation took place.,a,THE WITNESS,start_question
+60,263,10,20,I see.  And in what month --,q,MR. FROEHLICH,start_answer
+61,264,10,21,That I do not recall.  It was cold.  It was sometime towards the end of the year but I don't know an exact day and date.,a,THE WITNESS,start_question
+62,267,10,24,Okay. Where do you currently live?,q,MR. FROEHLICH,start_answer
+63,270,11,2,"Sewell, New Jersey.",a,THE WITNESS,start_question
+64,271,11,3,Okay. And what is the street address?,q,MR. FROEHLICH,start_answer
+65,273,11,5,"1575 Tanyard Road, Sewell, New Jersey.",a,THE WITNESS,start_question
+66,274,11,6,How long have you lived there?,q,MR. FROEHLICH,start_answer
+67,275,11,7,5 years.,a,THE WITNESS,start_question
+68,276,11,8,And do you own or rent that?,q,MR. FROEHLICH,start_answer
+69,277,11,9,I own.,a,THE WITNESS,start_question
+70,278,11,10,Okay. Do you own any other properties?,q,MR. FROEHLICH,start_answer
+71,280,11,12,I do.,a,THE WITNESS,start_question
+72,281,11,13,And do you own them as -- the other properties that you own who is listed as the record owner?,q,MR. FROEHLICH,start_answer
+73,283,11,15,My LLC.,a,THE WITNESS,start_question
+74,284,11,16,Okay. And what is the name of your LLC?,q,MR. FROEHLICH,start_answer
+75,286,11,18,Capp Investments.,a,THE WITNESS,start_question
+76,287,11,19,Can you spell Capp?,q,MR. FROEHLICH,start_answer
+77,288,11,20,C-A-P-P Investments.,a,THE WITNESS,start_question
+78,289,11,21,"And is Capp Investments, LLC incorporated?",q,MR. FROEHLICH,start_answer
+79,290,11,22,"No -- I mean, if it's an LLC wouldn't it have to be?",a,THE WITNESS,start_question
+80,292,11,24,Did you --,q,MR. FROEHLICH,start_answer
+81,294,12,1,It's a Limited Liability Company but it's not an S Corp or anything like that.,a,THE WITNESS,start_question
+82,296,12,3,"Uh-huh. When did you form Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+83,299,12,6,Last June.,a,THE WITNESS,start_question
+84,300,12,7,"That's June of 2018, correct?",q,MR. FROEHLICH,start_answer
+85,301,12,8,Yes.,a,THE WITNESS,start_question
+86,302,12,9,Okay. Did you form it in Pennsylvania?,q,MR. FROEHLICH,start_answer
+87,304,12,11,Yes.,a,THE WITNESS,start_question
+88,305,12,12,"Do you have a Federal Tax ID number for Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+89,307,12,14,Yes.,a,THE WITNESS,start_question
+90,308,12,15,Do you have a Philadelphia Commercial Activities license?,q,MR. FROEHLICH,start_answer
+91,310,12,17,Yes.,a,THE WITNESS,start_question
+92,311,12,18,"Other than the property in which you're living in now and the properties that are owned by Capp Investments, LLC do you own any other properties?",q,MR. FROEHLICH,start_answer
+93,314,12,21,No.,a,THE WITNESS,start_question
+94,315,12,22,Do you own any properties in your own name?,q,MR. FROEHLICH,start_answer
+95,316,12,23,No.,a,THE WITNESS,start_question
+96,317,12,24,And are all of the properties owned by Capp Investments in Philadelphia County?,q,MR. FROEHLICH,start_answer
+97,320,13,2,Yes.,a,THE WITNESS,start_question
+98,321,13,3,What is your birth date?,q,MR. FROEHLICH,start_answer
+99,322,13,4,12/27/78.,a,THE WITNESS,start_question
+100,323,13,5,And were you born in New Jersey?,q,MR. FROEHLICH,start_answer
+101,324,13,6,Nope.,a,THE WITNESS,start_question
+102,325,13,7,In what state --,q,MR. FROEHLICH,start_answer
+103,326,13,8,Born and raised in South Philadelphia.,a,THE WITNESS,start_question
+104,327,13,9,All right. Did you graduate from high school?,q,MR. FROEHLICH,start_answer
+105,329,13,11,I did.,a,THE WITNESS,start_question
+106,330,13,12,And which high school?,q,MR. FROEHLICH,start_answer
+107,331,13,13,Newman.,a,THE WITNESS,start_question
+108,332,13,14,Did you attend any schooling after high school?,q,MR. FROEHLICH,start_answer
+109,334,13,16,No.,a,THE WITNESS,start_question
+110,335,13,17,Are you a licensed real estate salesperson?,q,MR. FROEHLICH,start_answer
+111,336,13,18,"In the State of New Jersey, yes.",a,THE WITNESS,start_question
+112,337,13,19,Okay. And where -- for how long have you been a licensed real estate salesperson in the State of New Jersey?,q,MR. FROEHLICH,start_answer
+113,341,13,23,Don't hold me to this but I want to say maybe May of 2017 or May of 2016.  I'm not a hundred percent sure of the year.,a,THE WITNESS,start_question
+114,345,14,2,"The real estate commission in New Jersey has your date first licensed as July 29, 2016?",q,MR. FROEHLICH,start_answer
+115,347,14,4,"Okay, well, I took the test in May.",a,THE WITNESS,start_question
+116,348,14,5,Okay.,q,MR. FROEHLICH,start_chat
+117,349,14,6,"Michael, if you don't mind, I'm just going to amend your instructions.  When you're asked a question do your best not to guess. You're allowed to approximate but if you do have to guess the record will reflect that is your honest belief of the answer to the question.  So if a guess is being offered just make sure that you either say this is a guess or I don't know.",side_chat,MR. BARSKY,start_chat
+118,357,14,14,Okay.,side_chat,THE WITNESS,start_chat
+119,358,14,15,That's good advice.,side_chat,MR. FROEHLICH,start_question
+120,360,14,17,Are you associated with a license real estate broker?,q,MR. FROEHLICH,start_answer
+121,362,14,19,I am.,a,THE WITNESS,start_question
+122,363,14,20,And which license real estate broker are you associated with?,q,MR. FROEHLICH,start_answer
+123,365,14,22,Keller Williams.,a,THE WITNESS,start_question
+124,366,14,23,Is that a Keller Williams office in New Jersey?,q,MR. FROEHLICH,start_answer
+125,369,15,1,Yes.,a,THE WITNESS,start_question
+126,370,15,2,"Are you familiar with Washington Realty Partners, LLC in Sewell, New Jersey?",q,MR. FROEHLICH,start_answer
+127,372,15,4,"Yeah, I believe that might be the office of that, that's a guess.",a,THE WITNESS,start_question
+128,374,15,6,Okay. Have you ever been associated with any other licensed real estate broker?,q,MR. FROEHLICH,start_answer
+129,377,15,9,I was briefly when I first got my license but they were like a small time thing and I think they might have even went out of business so I had to change my license over.,a,THE WITNESS,start_question
+130,381,15,13,Okay. Have you kept your real estate salesperson license active since July of 2016?,q,MR. FROEHLICH,start_answer
+131,384,15,16,Yes.,a,THE WITNESS,start_question
+132,385,15,17,Prior to obtaining your real estate salesperson license did you take any real estate classes?,q,MR. FROEHLICH,start_answer
+133,388,15,20,Of course.,a,THE WITNESS,start_question
+134,389,15,21,And these were classes -- were these classes that were required in order to get your real estate salesperson license in New Jersey?,q,MR. FROEHLICH,start_answer
+135,392,15,24,Yes.,a,THE WITNESS,start_question
+136,394,16,1,Since you become a licensed real estate salesperson have you kept up with your annual education requirements?,q,MR. FROEHLICH,start_answer
+137,397,16,4,Yes.,a,THE WITNESS,start_question
+138,398,16,5,Other than holding a real estate salesperson license in New Jersey do you hold any other state licenses in any other states?,q,MR. FROEHLICH,start_answer
+139,401,16,8,No.,a,THE WITNESS,start_question
+140,402,16,9,Have you ever faced any investigations or disciplinary actions by the New Jersey Real Estate Commission?,q,MR. FROEHLICH,start_answer
+141,405,16,12,No.,a,THE WITNESS,start_question
+142,406,16,13,So typically at this part of the deposition I ask the deponent where they work and they respond and it's a very simple question.  It sounds like this might be a little bit more complicated because am I correct in saying that you have income from several different sources?,q,MR. FROEHLICH,start_answer
+143,412,16,19,"No, I mean other than my rental properties I don't -- I mean, that's my only other income.",a,THE WITNESS,start_question
+144,414,16,21,Okay. So we're going to do the different sources step by step.,q,MR. FROEHLICH,start_answer
+145,417,16,24,Okay.,a,THE WITNESS,start_question
+146,419,17,1,You mentioned rental properties.  How many rental properties do you own?,q,MR. FROEHLICH,start_answer
+147,421,17,3,5.,a,THE WITNESS,start_question
+148,422,17,4,"Okay. And are all of the rental properties in the name of Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+149,425,17,7,Yes.,a,THE WITNESS,start_question
+150,426,17,8,And all of those properties are in Philadelphia County?,q,MR. FROEHLICH,start_answer
+151,428,17,10,Yes.,a,THE WITNESS,start_question
+152,429,17,11,Do you receive any other income other than the income from your rental properties?,q,MR. FROEHLICH,start_answer
+153,431,17,13,Do you mean do I make any other income?,a,THE WITNESS,start_question
+154,432,17,14,Yes.,q,MR. FROEHLICH,start_answer
+155,433,17,15,Sure.,a,THE WITNESS,start_question
+156,434,17,16,And what is the source of that other income?,q,MR. FROEHLICH,start_answer
+157,435,17,17,Wholesaling.,a,THE WITNESS,start_question
+158,436,17,18,Okay. When you say wholesaling what do you mean by that?,q,MR. FROEHLICH,start_answer
+159,439,17,21,"In wholesaling real estate it's typically getting properties a little below market value and either, you know, buying them to rent, fix up or flip or wholesaling to another investor.",a,THE WITNESS,start_question
+160,444,18,1,Okay. Is wholesaling different than flipping a property in your understanding?,q,MR. FROEHLICH,start_answer
+161,447,18,4,No.,a,THE WITNESS,start_question
+162,448,18,5,"Okay. So when you say wholesaling you also mean somebody who -- well, correct me if I'm wrong, when I think of flipping I think of somebody who purchases a property, they have a record or equitable ownership in it, they do something to it, they sell it?",q,MR. FROEHLICH,start_answer
+163,454,18,11,Right.,a,THE WITNESS,start_question
+164,455,18,12,Can we agree that that's the general definition of flipping?,q,MR. FROEHLICH,start_answer
+165,457,18,14,Sure.,a,THE WITNESS,start_question
+166,458,18,15,Okay. So when I use the word -- when I say flipping in this deposition that's what I'm referring to.,q,MR. FROEHLICH,start_answer
+167,462,18,19,Yes.,a,THE WITNESS,start_question
+168,463,18,20,Okay. And when I think of wholesaling I think of somebody who purchases the right to buy that property but then sells or assigns that right to a third party but never actually becomes the record owner?,q,MR. FROEHLICH,start_answer
+169,470,19,2,Correct.,a,THE WITNESS,start_question
+170,471,19,3,Okay. Can we agree that that's -- so when I say wholesaling that's going to be what I refer to?,q,MR. FROEHLICH,start_answer
+171,474,19,6,Yes.,a,THE WITNESS,start_question
+172,475,19,7,So do you make income from both wholesaling and flipping as I've defined those terms?,q,MR. FROEHLICH,start_answer
+173,477,19,9,Yes.,a,THE WITNESS,start_question
+174,478,19,10,Okay. Are you associated with any business or organization as a wholesaler or flipper?,q,MR. FROEHLICH,start_answer
+175,481,19,13,I don't understand the question.,a,THE WITNESS,start_question
+176,482,19,14,Are you aware of Problem Property Pals?,q,MR. FROEHLICH,start_answer
+177,483,19,15,Yes.,a,THE WITNESS,start_question
+178,484,19,16,What is Problem Property Pals?,q,MR. FROEHLICH,start_answer
+179,485,19,17,It's a company that helps motivate its sellers that are in a position that need to sell their property.,a,THE WITNESS,start_question
+180,488,19,20,Okay. And do you work with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+181,491,19,23,Yes.,a,THE WITNESS,start_question
+182,492,19,24,And in what capacity do you work with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+183,495,20,2,An acquisition manager.,a,THE WITNESS,start_question
+184,496,20,3,Okay. And what are your job responsibilities as the acquisition manager with Problem Property Pals -- PPP?,q,MR. FROEHLICH,start_answer
+185,500,20,7,"To meet sellers at their property, discuss kind of what their goals and their outcomes are and to come to an agreement based on their goals and their outcomes and get a property under contract and then move forward there.",a,THE WITNESS,start_question
+186,505,20,12,Okay. Do you perform that type of work with any other organization other than Problem Property Pals?,q,MR. FROEHLICH,start_answer
+187,509,20,16,No.,a,THE WITNESS,start_question
+188,510,20,17,And let's -- to keep the deposition flowing can we agree that when I refer to PPP I'll be referring to Problem Property Pals?,q,MR. FROEHLICH,start_answer
+189,513,20,20,"It's hard to say, go ahead.",a,THE WITNESS,start_question
+190,514,20,21,Are you employed by PA Off Market?,q,MR. FROEHLICH,start_answer
+191,515,20,22,Nope.,a,THE WITNESS,start_question
+192,516,20,23,Are you an agent of PA Off Market?,q,MR. FROEHLICH,start_answer
+193,517,20,24,No.,a,THE WITNESS,start_question
+194,519,21,1,Are you employed by the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+195,521,21,3,No.,a,THE WITNESS,start_question
+196,522,21,4,Are you an agent of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+197,524,21,6,No.,a,THE WITNESS,start_question
+198,525,21,7,Do you have the -- have you been authorized to sign legal documents on behalf of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+199,528,21,10,Yes.,a,THE WITNESS,start_question
+200,529,21,11,How would you define your relationship with the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+201,531,21,13,I don't understand the question.,a,THE WITNESS,start_question
+202,532,21,14,Other than -- are you aware of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+203,534,21,16,I am.,a,THE WITNESS,start_question
+204,535,21,17,What is the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+205,536,21,18,I don't know.  It was something that was setup organizationally that I don't -- I'm not privy to.,a,THE WITNESS,start_question
+206,538,21,20,Okay. How are you aware of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+207,541,21,23,Because it says it in our agreement.,a,THE WITNESS,start_question
+208,542,21,24,What agreement are you referring to?,q,MR. FROEHLICH,start_answer
+209,544,22,1,The Agreement of Sale that Mr. Weary signed.,a,THE WITNESS,start_question
+210,545,22,2,Okay. Has anybody every explained to you what the Philly Cash Buyer Land Trust is?,q,MR. FROEHLICH,start_answer
+211,548,22,5,"No, sir.",a,THE WITNESS,start_question
+212,549,22,6,How many agreements of sale have you signed that list the Philly Cash Buyer Land Trust as the buyer?,q,MR. FROEHLICH,start_answer
+213,552,22,9,I don't know.,a,THE WITNESS,start_question
+214,553,22,10,Is it more than 100?,q,MR. FROEHLICH,start_answer
+215,554,22,11,No.,a,THE WITNESS,start_question
+216,555,22,12,Is it more than 50?,q,MR. FROEHLICH,start_answer
+217,556,22,13,"Could be, that's a guess.",a,THE WITNESS,start_question
+218,557,22,14,All right. When you facilitate the transaction and people sign the agreements of sale are you acting as -- are you acting on behalf of PPP or are you acting on behalf of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+219,562,22,19,That I'm not sure of.  I would believe that it would be the Philly Cash Buyer Land Trust.  PPP is set up the way it's set up like I don't have any -- like I'm not aware of like how that structure is or anything like that.,a,THE WITNESS,start_question
+220,567,22,24,Okay. To your knowledge does PPP have an agreement with the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+221,571,23,3,That I don't know.,a,THE WITNESS,start_question
+222,572,23,4,To your knowledge is there anything in writing regarding an agreement between PPP and the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+223,575,23,7,You just asked me that.,a,THE WITNESS,start_question
+224,576,23,8,So your answer is --,q,MR. FROEHLICH,start_answer
+225,577,23,9,I don't know.,a,THE WITNESS,start_question
+226,578,23,10,Okay. Other than your rental properties and the income that you receive as a wholesaler with Problem Property Pals is there -- do you have any other source of income?,q,MR. FROEHLICH,start_answer
+227,583,23,15,No.,a,THE WITNESS,start_question
+228,584,23,16,"And let me be more specific, in 2018 and in 2019, other than your rental income and the income from Problem Property Pals do you have any other income?",q,MR. FROEHLICH,start_answer
+229,587,23,19,Me personally?,a,THE WITNESS,start_question
+230,588,23,20,Yes.,q,MR. FROEHLICH,start_answer
+231,589,23,21,No.,a,THE WITNESS,start_question
+232,590,23,22,How about your LLC?,q,MR. FROEHLICH,start_answer
+233,591,23,23,No.,a,THE WITNESS,start_question
+234,592,23,24,Okay.,q,MR. FROEHLICH,start_answer
+235,594,24,1,"I mean, other than the rental properties.",a,THE WITNESS,start_question
+236,595,24,2,"Right. Do you have any -- do you have any employment relationship with Philly Cash Buyer, LLC?",q,MR. FROEHLICH,start_answer
+237,598,24,5,No.,a,THE WITNESS,start_question
+238,599,24,6,"Are you aware of an organization called Philly Cash Buyer, LLC?",q,MR. FROEHLICH,start_answer
+239,601,24,8,I'm aware of it because it's on our agreement of sale.,a,THE WITNESS,start_question
+240,603,24,10,So I'm -- let me show you -- I'm going to show you what for identification purposes labelled D-1.,q,MR. FROEHLICH,symbols
+241,605,24,12,- - -,symbols,,is brackets
+242,606,24,13,"(Whereupon, D-1 was marked for identification.)",brackets,,symbols
+243,608,24,15,- - -,symbols,,start_question
+244,610,24,17,"So for identification purposes and for the record I'll note that D-1 is the Complaint that was filed by the Philly Cash Buyer Land Trust against Mr. Weary. Mr. Cappello, if you can flip to the back Exhibit A the page that starts with this.  Are you familiar with this document that's titled Standard Agreement to Sell Real Estate?",q,MR. FROEHLICH,start_answer
+245,619,25,1,Yes.,a,THE WITNESS,start_question
+246,620,25,2,And what is this document?,q,MR. FROEHLICH,start_answer
+247,621,25,3,It's an Agreement of Sale.,a,THE WITNESS,start_question
+248,622,25,4,"And a moment ago I asked you whether you were familiar with an entity called Philly Cash Buyer, LLC and your answer was that name is on the Standard Agreement to Sell Real estate?",q,MR. FROEHLICH,start_answer
+249,626,25,8,Okay.,a,THE WITNESS,start_question
+250,627,25,9,Am I correct that the name listed as the buyer on this Agreement of Sale is the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+251,630,25,12,Yes.,a,THE WITNESS,start_question
+252,631,25,13,"Is Philly Cash Buyer, LLC listed on the Agreement of Sale?",q,MR. FROEHLICH,start_answer
+253,633,25,15,"I don't see it, no.",a,THE WITNESS,start_question
+254,634,25,16,"Are you aware of any relationship between the Philly Cash Buyer Land Trust and Philly Cash Buyer, LLC?",q,MR. FROEHLICH,start_answer
+255,637,25,19,"I don't know anything related to how the corporate or company structure is.  I'm not privy to any of that.  I don't -- like I said, I'm just an acquisition guy.",a,THE WITNESS,start_question
+256,641,25,23,"Okay. Are you familiar with an entity called Building an Empire Realty and Investment Services, LLC?",q,MR. FROEHLICH,start_answer
+257,645,26,2,"I'm familiar with it, yes.",a,THE WITNESS,start_question
+258,646,26,3,What is Building an Empire Realty and Investment Services --,q,MR. FROEHLICH,start_answer
+259,648,26,5,I believe it's a real estate brokerage.,a,THE WITNESS,start_question
+260,649,26,6,"Sorry, I'll go as quickly as I can but you need to wait until I'm done with my question.",q,MR. FROEHLICH,start_answer
+261,651,26,8,I'm sorry.,a,THE WITNESS,start_question
+262,652,26,9,"And I'm sorry, it's a -- what is Building an Empire Realty Investment Services?",q,MR. FROEHLICH,start_answer
+263,654,26,11,It's a real estate brokerage.,a,THE WITNESS,start_question
+264,655,26,12,"Okay. Do you have any business relationship with Building an Empire Realty and Investment Services, LLC?",q,MR. FROEHLICH,start_answer
+265,659,26,16,No.,a,THE WITNESS,start_question
+266,660,26,17,Okay. Are you familiar with an entity called Legacy Capital?,q,MR. FROEHLICH,start_answer
+267,663,26,20,No.,a,THE WITNESS,start_question
+268,664,26,21,"Okay. Are you familiar with an entity called Construction Rehab, LLC?",q,MR. FROEHLICH,start_answer
+269,667,26,24,Yes.,a,THE WITNESS,start_question
+270,669,27,1,"What is Construction Rehab, LLC?",q,MR. FROEHLICH,start_answer
+271,670,27,2,That's the entity that pays me.,a,THE WITNESS,start_question
+272,671,27,3,"What does Construction Rehab, LLC pay you for?",q,MR. FROEHLICH,start_answer
+273,672,27,4,Acquisition of property.,a,THE WITNESS,start_question
+274,673,27,5,"Does Construction Rehab, LLC pay you for acquisition of property that is done in your capacity working for PPP?",q,MR. FROEHLICH,start_answer
+275,676,27,8,I believe so.,a,THE WITNESS,start_question
+276,677,27,9,Does PPP pay you?,q,MR. FROEHLICH,start_answer
+277,678,27,10,No.,a,THE WITNESS,start_question
+278,679,27,11,So you --,q,MR. FROEHLICH,start_answer
+279,680,27,12,I believe that PPP is the marketing umbrella that markets for sellers that are interested in selling.,a,THE WITNESS,start_question
+280,683,27,15,"Okay. So you work for PPP but you get paid by Construction Rehab, LLC; is that correct?",q,MR. FROEHLICH,start_answer
+281,686,27,18,Yes.,a,THE WITNESS,start_question
+282,687,27,19,"Okay. How does Construction Rehab, LLC pay you?",q,MR. FROEHLICH,start_answer
+283,690,27,22,Direct deposit.,a,THE WITNESS,start_question
+284,691,27,23,Okay. Do they pay you as an employee or as an independent contractor?,q,MR. FROEHLICH,start_answer
+285,695,28,2,Independent contractor.,a,THE WITNESS,start_question
+286,696,28,3,In 2018 did they issue you a 1099?,q,MR. FROEHLICH,start_answer
+287,697,28,4,They did.,a,THE WITNESS,start_question
+288,698,28,5,"And does Construction Rehab, LLC pay your LLC or do they pay you Anthony Cappello as an individual?",q,MR. FROEHLICH,start_answer
+289,700,28,7,My LLC.,a,THE WITNESS,start_question
+290,701,28,8,"Does Construction Rehab, LLC and Capp Investment, LLC have a written contract memorializing this payment agreement?",q,MR. FROEHLICH,start_answer
+291,704,28,11,No.,a,THE WITNESS,start_question
+292,705,28,12,Okay. Are you familiar with the term assignment fee?,q,MR. FROEHLICH,start_answer
+293,708,28,15,I am.,a,THE WITNESS,start_question
+294,709,28,16,What does assignment fee mean to you?,q,MR. FROEHLICH,start_answer
+295,710,28,17,Assignment fee is like a -- so it's the spread between the contract price and what the investor -- the end investor is paying.,a,THE WITNESS,start_question
+296,713,28,20,And when you say contract price are you referring to the price that's reflected on the Agreement of Sale to a seller?,q,MR. FROEHLICH,start_answer
+297,716,28,23,Yes.,a,THE WITNESS,start_question
+298,717,28,24,And when you refer to the price paid by the investor are you referring to the final price that the buyer pays at closing?,q,MR. FROEHLICH,start_answer
+299,721,29,3,Yes.,a,THE WITNESS,start_question
+300,722,29,4,Okay. Is your compensation based on the amount of the assignment fee?,q,MR. FROEHLICH,start_answer
+301,725,29,7,Yes.,a,THE WITNESS,start_question
+302,726,29,8,Is your compensation a percentage of the assignment fee?,q,MR. FROEHLICH,start_answer
+303,728,29,10,Yes.,a,THE WITNESS,start_question
+304,729,29,11,How is that percentage determined?,q,MR. FROEHLICH,start_answer
+305,730,29,12,I get so much for anything under a certain amount and I get so much for anything over a certain amount.,a,THE WITNESS,start_question
+306,733,29,15,Okay. And how much -- so I'm going to ask you questions to get at this.,q,MR. FROEHLICH,start_answer
+307,736,29,18,Sure.,a,THE WITNESS,start_question
+308,737,29,19,What is the lowest percentage that you could get?,q,MR. FROEHLICH,start_answer
+309,739,29,21,15 percent.,a,THE WITNESS,start_question
+310,740,29,22,And what is the highest percentage that you can get?,q,MR. FROEHLICH,start_answer
+311,742,29,24,25.,a,THE WITNESS,start_question
+312,744,30,1,Okay. And for what properties would you get -- for what assignment fees would you get --,q,MR. FROEHLICH,start_answer
+313,747,30,4,"So anything under $20,000 I get 15 percent, anything over $20,000 I get 25 percent.",a,THE WITNESS,start_question
+314,749,30,6,Can you repeat that again?,q,MR. FROEHLICH,start_answer
+315,750,30,7,"Anything under $20,000 I get 15 percent, anything over $20,000 I get 25 percent.",a,THE WITNESS,start_question
+316,752,30,9,"Sorry, I thought I misheard you earlier. Does Keller Williams have an insurance policy that covers the acts of its associated real estate salespeople?",q,MR. FROEHLICH,start_answer
+317,756,30,13,Yes.,a,THE WITNESS,start_question
+318,757,30,14,Have you advised Keller Williams of today's deposition?,q,MR. FROEHLICH,start_answer
+319,759,30,16,I did not.,a,THE WITNESS,start_question
+320,760,30,17,Have you advised Keller Williams of this litigation?,q,MR. FROEHLICH,start_answer
+321,762,30,19,I did not.,a,THE WITNESS,start_question
+322,763,30,20,Does Keller Williams know that you are working with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+323,765,30,22,No.,a,THE WITNESS,start_question
+324,766,30,23,"Does Keller Williams know that you have Capp Investments, LLC?",q,MR. FROEHLICH,start_chat
+325,769,31,1,"Objection to the form, you can answer.",side_chat,MR. BARSKY,start_chat
+326,771,31,3,"Hold on, sir --",side_chat,MR. FROEHLICH,start_chat
+327,772,31,4,"You're asking him to speculate as to what another company knows and that's not fair, that's my objection.",side_chat,MR. BARSKY,start_chat
+328,775,31,7,"Okay, my question is are you going to be making objections?",side_chat,MR. FROEHLICH,start_chat
+329,777,31,9,As of right now it looks like I am.,side_chat,MR. BARSKY,start_chat
+330,779,31,11,"Perfect, that's fine.",side_chat,MR. FROEHLICH,start_question
+331,781,31,13,"Let me rephrase the question. Did you tell Keller Williams that you have Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+332,784,31,16,Why would I need to do that?  Why would I need to do that?  I don't understand like your question. I'm an independent contractor with them.,a,THE WITNESS,start_question
+333,787,31,19,Okay. So the answer is yes you have told them?,q,MR. FROEHLICH,start_answer
+334,790,31,22,"No, why would I need to do that, no.",a,THE WITNESS,start_question
+335,791,31,23,"No, okay. Do you have a written agreement with Keller Williams?",q,MR. FROEHLICH,start_answer
+336,795,32,2,"Yes, that hangs my license there.  But I conventionally do no real estate through Keller Williams.  I have not sold a conventional piece of real estate ever.",a,THE WITNESS,start_question
+337,799,32,6,Okay. In the agreement that you have with Keller Williams does it require you to inform them of your involvement in other businesses?,q,MR. FROEHLICH,start_answer
+338,803,32,10,That I don't know.,a,THE WITNESS,start_question
+339,804,32,11,Okay.,q,MR. FROEHLICH,start_answer
+340,805,32,12,"I don't have the agreement in front of me, I don't know.",a,THE WITNESS,start_question
+341,807,32,14,Okay. How did you learn how to be a wholesaler?,q,MR. FROEHLICH,start_answer
+342,810,32,17,"How did I learn how to be a wholesaler, just Internet, books, seminars, that kind of stuff.",a,THE WITNESS,start_question
+343,812,32,19,Okay. What seminars have you attended to learn how to be a wholesaler?,q,MR. FROEHLICH,start_answer
+344,815,32,22,Fortune Builders was one.,a,THE WITNESS,start_question
+345,816,32,23,Okay.,q,MR. FROEHLICH,start_answer
+346,817,32,24,"Your regular old like real estate groups like REIA groups, stuff like that.",a,THE WITNESS,start_question
+347,820,33,2,REIA --,q,MR. FROEHLICH,start_answer
+348,821,33,3,REIA groups like South Jersey Real Estate groups.  I believe the one -- I forget the one in Philadelphia but just personal -- private meet ups like real estate investors.,a,THE WITNESS,start_question
+349,825,33,7,Okay. How long have you been associated with PPP?,q,MR. FROEHLICH,start_answer
+350,828,33,10,"2 years, a little over 2 years.",a,THE WITNESS,start_question
+351,829,33,11,Okay. Prior to being associated with PPP were you associated with anybody else as a wholesaler?,q,MR. FROEHLICH,start_answer
+352,832,33,14,No.,a,THE WITNESS,start_question
+353,833,33,15,Would it be accurate to say that your work as a wholesaler began when you joined with PPP?,q,MR. FROEHLICH,start_answer
+354,835,33,17,No.,a,THE WITNESS,start_question
+355,836,33,18,Why is that inaccurate?,q,MR. FROEHLICH,start_answer
+356,837,33,19,Because I was doing it on my own.,a,THE WITNESS,start_question
+357,838,33,20,I see.,q,MR. FROEHLICH,start_answer
+358,839,33,21,But wasn't affiliated with anybody.,a,THE WITNESS,start_question
+359,840,33,22,I understand.  I should have been more specific in my question. Prior to joining PPP for how long were you acting as a wholesaler on your own?,q,MR. FROEHLICH,start_answer
+360,845,34,2,6 months maybe.,a,THE WITNESS,start_question
+361,846,34,3,"When did you incorporate Capp -- so earlier you stated that you incorporated Capp Investments, LLC, so if I'm doing my math right that means that prior to your association with PPP Capp Investments did not exist; is that correct?",q,MR. FROEHLICH,start_answer
+362,851,34,8,"No, the two are unrelated though.",a,THE WITNESS,start_question
+363,852,34,9,"What I was getting at is when you were acting as a wholesaler prior to your association with PPP were you doing it in association with Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+364,855,34,12,"No, no, let me be clear, I was doing it on my own for 6 months without any success, so to speak.",a,THE WITNESS,start_question
+365,857,34,14,Okay. Are you familiar with George Beatty?,q,MR. FROEHLICH,start_answer
+366,859,34,16,Yes.,a,THE WITNESS,start_question
+367,860,34,17,Who is George Beatty?,q,MR. FROEHLICH,start_answer
+368,861,34,18,He's the owner of Problem Property Pals.,a,THE WITNESS,start_question
+369,862,34,19,To your knowledge does George Beatty own any other -- let me restate the question. To your knowledge does George Beatty own any other LLC's?,q,MR. FROEHLICH,start_answer
+370,866,34,23,Yes.,a,THE WITNESS,start_question
+371,867,34,24,And what other LLC's does George Beatty own?,q,MR. FROEHLICH,start_answer
+372,869,35,1,Construction Rehab.,a,THE WITNESS,start_question
+373,870,35,2,Does George Beatty own -- to your knowledge does George Beatty own the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+374,873,35,5,I don't know what that corporate structure is.,a,THE WITNESS,start_question
+375,874,35,6,"Okay. Does George Beatty -- to your knowledge does George Beatty own any other LLC's other than PPP and Construction Rehab, LLC?",q,MR. FROEHLICH,start_answer
+376,878,35,10,I don't know.,a,THE WITNESS,start_question
+377,879,35,11,"How do you know that George Beatty owns Construction Rehab, LLC?",q,MR. FROEHLICH,start_answer
+378,881,35,13,"I guess I wouldn't -- I mean, I've never seen documents saying that he owns it but that's where my paycheck comes from.",a,THE WITNESS,start_question
+379,884,35,16,Does he sign your paycheck?,q,MR. FROEHLICH,start_answer
+380,885,35,17,It's direct deposit.,a,THE WITNESS,start_question
+381,886,35,18,Okay.,q,MR. FROEHLICH,start_answer
+382,887,35,19,It comes from his account so I got to assume that they're linked somehow.,a,THE WITNESS,start_question
+383,889,35,21,When you say it comes from his account is his name on the account?,q,MR. FROEHLICH,start_answer
+384,891,35,23,I don't know.  I don't know -- it's direct deposit from Construction Rehab that's all that shows up on my --,a,THE WITNESS,start_question
+385,895,36,2,"In your interactions with George Beatty he's represented that he owns Construction Rehab, LLC?",q,MR. FROEHLICH,start_answer
+386,897,36,4,Yes.,a,THE WITNESS,start_question
+387,898,36,5,Okay. Who hired you at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+388,900,36,7,George.,a,THE WITNESS,start_question
+389,901,36,8,Does Problem Property Pals employ anybody else?,q,MR. FROEHLICH,start_answer
+390,903,36,10,Yes.,a,THE WITNESS,start_question
+391,904,36,11,Who else is employed by Problem Property Pals?,q,MR. FROEHLICH,start_answer
+392,905,36,12,Angela White.,a,THE WITNESS,start_question
+393,906,36,13,And what is Angela White's position at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+394,908,36,15,She receives the phone calls of people calling in interested in selling their property.,a,THE WITNESS,start_question
+395,910,36,17,Does she receive a salary from --,q,MR. FROEHLICH,start_answer
+396,911,36,18,I don't know what their pay structure is.,a,THE WITNESS,start_question
+397,912,36,19,Okay. Is Angela White full-time at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+398,915,36,22,Yes.,a,THE WITNESS,start_question
+399,916,36,23,Who else is at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+400,917,36,24,Kayla Daniels.,a,THE WITNESS,start_question
+401,919,37,1,And what is Kayla Daniels' role or responsibility I should say?,q,MR. FROEHLICH,start_answer
+402,921,37,3,"She's the transaction coordinator.  She handles everything, you know, between the title company and the seller.  So she does all the conveyancing for the seller.",a,THE WITNESS,start_question
+403,925,37,7,And is Kayla Daniels full-time?,q,MR. FROEHLICH,start_answer
+404,926,37,8,Yes.,a,THE WITNESS,start_question
+405,927,37,9,And are you aware of whether Kayla Daniels is an employ or an independent contractor?,q,MR. FROEHLICH,start_answer
+406,929,37,11,I don't know what their -- if it's 1099 or W2.,a,THE WITNESS,start_question
+407,930,37,12,Okay. And who else is employed by Problem Property Pals?,q,MR. FROEHLICH,start_answer
+408,933,37,15,Tim Stover.,a,THE WITNESS,start_question
+409,934,37,16,And what is Tim Stover's role at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+410,936,37,18,So Tim Stover reaches out to investors that may be interested in buying property.,a,THE WITNESS,start_question
+411,938,37,20,And is Tim Stover full-time at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+412,940,37,22,Yes.,a,THE WITNESS,start_question
+413,941,37,23,And is -- do you know how Problem Property Pals compensates Tim Stover?,q,MR. FROEHLICH,start_answer
+414,944,38,1,I do not.,a,THE WITNESS,start_question
+415,945,38,2,Is there anybody else that works at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+416,947,38,4,"Yeah, we have a new guy Shawn.",a,THE WITNESS,start_question
+417,948,38,5,What is Shawn's last name?,q,MR. FROEHLICH,start_answer
+418,949,38,6,Mattis.  He kind of helps Tim.  He's like Tim's assistant.,a,THE WITNESS,start_question
+419,951,38,8,And when did Shawn Mattis begin working with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+420,953,38,10,I don't know the exact date.,a,THE WITNESS,start_question
+421,954,38,11,Was it within the last 6 months?,q,MR. FROEHLICH,start_answer
+422,955,38,12,Yes.,a,THE WITNESS,start_question
+423,956,38,13,And are you aware of how Shawn Mattis is compensated for his work at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+424,958,38,15,"No, sir.",a,THE WITNESS,start_question
+425,959,38,16,Does anybody else work at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+426,961,38,18,"Yes, Antwon Daniels.",a,THE WITNESS,start_question
+427,962,38,19,And what does Antwon Daniels do at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+428,964,38,21,He has the same job scope as I do.,a,THE WITNESS,start_question
+429,965,38,22,Okay. How many hours a week do you work with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+430,969,39,1,It varies depending on lead flow.,a,THE WITNESS,start_question
+431,970,39,2,Okay. And thinking back over the last 6 months what's the minimum number of hours that you worked at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+432,974,39,6,"Well, I'm going to tell you this, I work 7 days a week from 6:00 a.m. to 9:00 p.m.",a,THE WITNESS,start_question
+433,976,39,8,All for Problem Property Pals?,q,MR. FROEHLICH,start_answer
+434,977,39,9,"Sometimes, yeah.",a,THE WITNESS,start_question
+435,978,39,10,Okay.,q,MR. FROEHLICH,start_answer
+436,979,39,11,I'm saying in real estate there's no times. It's like my phone rings on a Saturday at 2:00 in the afternoon and I have to do something relating to a property I have to do it.  So there's no -- it could be 10 hours.  It could be 60 hours.  There's no set time so...,a,THE WITNESS,start_question
+437,985,39,17,Okay. And what percentage of your working time is spent with work associated with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+438,989,39,21,I don't understand the question.,a,THE WITNESS,start_question
+439,990,39,22,Would you -- is it fair to say that more than 50 percent of your working time is spent with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+440,994,40,1,I would say that's fair.,a,THE WITNESS,start_question
+441,995,40,2,Okay. Would it be fair to say that more than 75 percent of your time working with Problem -- would it be fair to say that more than 75 percent of your working time is spent with Problem Property Pals?,q,MR. FROEHLICH,start_answer
+442,1000,40,7,Yes.,a,THE WITNESS,start_question
+443,1001,40,8,"Okay. All right, so we've talked about George Beatty -- I'm sorry, what is George Beatty's position at Problem Property Pals?",q,MR. FROEHLICH,start_answer
+444,1005,40,12,He's the owner.,a,THE WITNESS,start_question
+445,1006,40,13,So we talked about George Beatty.  We talked about Antwon Daniels.  We talked about Kayla Daniels. We've talked about Tim Stover.  We've talked about Angela White.,q,MR. FROEHLICH,symbols
+446,1010,40,17,- - -,symbols,,is brackets
+447,1011,40,18,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+448,1013,40,20,- - -,symbols,,start_question
+449,1015,40,22,"We just went off the record for a brief moment so that I could apologize for the facilities. Other than the people that we've talked about, Mr. Cappello, is there anybody else that works at Problem Property Pals?",q,MR. FROEHLICH,start_answer
+450,1021,41,3,Not that I know of.,a,THE WITNESS,start_question
+451,1022,41,4,Okay. Does Jonathan Delp work at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+452,1025,41,7,Not anymore.,a,THE WITNESS,start_question
+453,1026,41,8,When did Jonathan Delp stop working at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+454,1028,41,10,A couple months ago.,a,THE WITNESS,start_question
+455,1029,41,11,And when he did work at Problem Property Pals what type of work would he do?,q,MR. FROEHLICH,start_answer
+456,1031,41,13,Same thing I did.,a,THE WITNESS,start_question
+457,1032,41,14,As an acquisition --,q,MR. FROEHLICH,start_answer
+458,1033,41,15,"Acquisition manager, yep.",a,THE WITNESS,start_question
+459,1034,41,16,Okay. On the website of Problem Property Pals it lists your title as Professional House Buyer.  And it lists Antwon Daniels' title as Acquisitions Manager. What is the difference between a Professional House Buyer and an Acquisitions Manager?,q,MR. FROEHLICH,start_answer
+460,1040,41,22,I don't know why that was said that way.,a,THE WITNESS,start_question
+461,1041,41,23,Okay.,q,MR. FROEHLICH,start_answer
+462,1042,41,24,"I mean, we're -- I have a background in construction so maybe that's why, I don't know.",a,THE WITNESS,start_question
+463,1045,42,2,Okay. Does Problem Property Pals have an office?,q,MR. FROEHLICH,start_answer
+464,1048,42,5,Yes.,a,THE WITNESS,start_question
+465,1049,42,6,And what is the office address?,q,MR. FROEHLICH,start_answer
+466,1050,42,7,"107 South 2nd Street, Second Floor.",a,THE WITNESS,start_question
+467,1051,42,8,How long has it been located at 107 South 2nd Street?,q,MR. FROEHLICH,start_answer
+468,1053,42,10,2 years.,a,THE WITNESS,start_question
+469,1054,42,11,"According to documents -- I can represent to you that according to documents with the State it was incorporated at 37 Waterford Way, Wallingford, Pennsylvania. Are you familiar with the address 37 Waterford Way, Wallingford, Pennsylvania?",q,MR. FROEHLICH,start_answer
+470,1060,42,17,No.,a,THE WITNESS,start_question
+471,1061,42,18,Do you know anybody that lives there?,q,MR. FROEHLICH,start_answer
+472,1062,42,19,No.,a,THE WITNESS,start_question
+473,1063,42,20,Okay. Is Problem Property Pals the record owner of any properties in its own name?,q,MR. FROEHLICH,start_answer
+474,1066,42,23,I wouldn't know that.,a,THE WITNESS,start_question
+475,1067,42,24,Okay. Does Problem Property Pals have a bank account?,q,MR. FROEHLICH,start_answer
+476,1071,43,3,I wouldn't know that.,a,THE WITNESS,start_question
+477,1072,43,4,Does Problem Property Pals ever pay contractors or vendors that you've seen?,q,MR. FROEHLICH,start_answer
+478,1074,43,6,I'm not privy to like the operational stuff like that.,a,THE WITNESS,start_question
+479,1076,43,8,Okay. Do you know who pays the rent for Problem Property Pals?,q,MR. FROEHLICH,start_answer
+480,1079,43,11,"I don't know, no.",a,THE WITNESS,start_question
+481,1080,43,12,Do you know who pays the utility bills and other costs of doing business?,q,MR. FROEHLICH,start_answer
+482,1082,43,14,"No, sir.",a,THE WITNESS,start_question
+483,1083,43,15,Okay. Do you know whether Problem Property Pals has been incorporated as an LLC with the State of Pennsylvania?,q,MR. FROEHLICH,start_answer
+484,1087,43,19,I don't know.,a,THE WITNESS,start_question
+485,1088,43,20,Okay. Do you know if Problem Property Pals has a Federal tax ID number?,q,MR. FROEHLICH,start_answer
+486,1091,43,23,I don't know.,a,THE WITNESS,start_question
+487,1092,43,24,Do you know if Problem Property Pals has ever paid Local or State or Federal income tax?,q,MR. FROEHLICH,start_answer
+488,1095,44,2,I'm not sure.,a,THE WITNESS,start_question
+489,1096,44,3,Can you describe for me what Problem Property Pals does on behalf of the Philadelphia Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+490,1099,44,6,"I would imagine that's it like and I'm guessing here.  I would imagine it's a marketing, like I said, umbrella marketing to motivate its sellers that need to sell their property.  That would be my guess as to what that does.",a,THE WITNESS,start_question
+491,1104,44,11,Okay. Who trained you to do the work that you do at Problem Property Pals?,q,MR. FROEHLICH,start_answer
+492,1107,44,14,I really didn't have any training.,a,THE WITNESS,start_question
+493,1108,44,15,Who told you to use this standard agreement to sell real estate?,q,MR. FROEHLICH,start_answer
+494,1110,44,17,It was the one given to me by George.,a,THE WITNESS,start_question
+495,1111,44,18,Do you know who drafted the standard agreement to sell real estate?,q,MR. FROEHLICH,start_answer
+496,1113,44,20,I don't.,a,THE WITNESS,start_question
+497,1114,44,21,Did you draft the standard agreement to sell real estate?,q,MR. FROEHLICH,start_answer
+498,1116,44,23,I did not.,a,THE WITNESS,start_question
+499,1117,44,24,On the agreement that was given to you by George did it include the Philly Cash Buyer Land Trust and/or assigns as the buyer?,q,MR. FROEHLICH,start_answer
+500,1121,45,3,Meaning was it in there already?,a,THE WITNESS,start_question
+501,1122,45,4,Yes.,q,MR. FROEHLICH,start_answer
+502,1123,45,5,Yes.,a,THE WITNESS,start_question
+503,1124,45,6,Okay. Did you ever ask George why the Philly Cash Buyer Land Trust was listed as the buyer?,q,MR. FROEHLICH,start_answer
+504,1127,45,9,No.,a,THE WITNESS,start_question
+505,1128,45,10,And what is your understanding about why the Philly Cash Buyer Land Trust is listed as the buyer?,q,MR. FROEHLICH,start_answer
+506,1130,45,12,I wouldn't know.  I'm not a lawyer.,a,THE WITNESS,start_question
+507,1131,45,13,When you go to visit the house of a potential seller are you acting on behalf of Problem Property Pals?,q,MR. FROEHLICH,start_answer
+508,1134,45,16,"Yeah, I would think so.  But again, it's the marketing umbrella.  So as far as like company structure from there I don't know.  But they're getting marketed to buy Problem Property Pals.  So essentially that's the way it may look.  But as far as corporate structure I don't know where that goes from there like how it's set up or why.",a,THE WITNESS,start_question
+509,1141,45,23,"Okay. Has Problem Property Pals ever acted as the marketing umbrella, using your term, for an entity other than the Philly Cash Buyer Land Trust?",q,MR. FROEHLICH,start_answer
+510,1146,46,3,I don't know.,a,THE WITNESS,start_question
+511,1147,46,4,Have you ever signed a standard agreement to sell real estate on behalf of somebody other than the Philly Cash Buyer Land Trust in connection with your work with PPP?,q,MR. FROEHLICH,start_answer
+512,1151,46,8,No.,a,THE WITNESS,start_question
+513,1152,46,9,When you first started at PPP 2 years ago was this the same standard agreement to sell real estate that you were using 2 years ago?,q,MR. FROEHLICH,start_answer
+514,1155,46,12,Yes.,a,THE WITNESS,start_question
+515,1156,46,13,Has the standard agreement to sell real estate ever changed in the 2 years that you were working with PPP?,q,MR. FROEHLICH,start_answer
+516,1159,46,16,No.,a,THE WITNESS,start_question
+517,1160,46,17,Does PPP ever acquire properties in its own name?,q,MR. FROEHLICH,start_chat
+518,1162,46,19,"You already asked that, Counsel.",side_chat,MR. SCATENA,start_chat
+519,1164,46,21,I don't know that.,side_chat,THE WITNESS,start_question
+520,1166,46,23,Earlier you testified or you stated that you were authorized to sign the agreement to sell real estate on behalf of the Philly Cash Buyer Land Trust. Who gave you that authorization?,q,MR. FROEHLICH,start_answer
+521,1171,47,3,George Beatty.,a,THE WITNESS,start_question
+522,1172,47,4,Okay. Has George Beatty authorized you to sign any other documents on behalf of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+523,1176,47,8,No.,a,THE WITNESS,start_question
+524,1177,47,9,How do potential sellers know about PPP?,q,MR. FROEHLICH,start_chat
+525,1178,47,10,Objection to form.,side_chat,MR. BARSKY,start_question
+526,1180,47,12,Do potential sellers call PPP?,q,MR. FROEHLICH,start_answer
+527,1181,47,13,Yes.,a,THE WITNESS,start_question
+528,1182,47,14,How do potential sellers get the phone number for PPP?,q,MR. FROEHLICH,start_answer
+529,1184,47,16,Marketing.,a,THE WITNESS,start_question
+530,1185,47,17,And what type of marketing does PPP do to potential sellers?,q,MR. FROEHLICH,start_answer
+531,1187,47,19,"Direct mail, Facebook advertising.  I'm sure Google stuff, Google ads and stuff.",a,THE WITNESS,start_question
+532,1189,47,21,Whose responsibility at PPP is it to do direct mail?,q,MR. FROEHLICH,start_answer
+533,1191,47,23,George Beatty's I'm guessing.,a,THE WITNESS,start_question
+534,1192,47,24,Okay. Do you send the direct mail from PPP?,q,MR. FROEHLICH,start_answer
+535,1195,48,2,No.,a,THE WITNESS,start_question
+536,1196,48,3,All right. Whose responsibility is it to do the Facebook advertisements?,q,MR. FROEHLICH,start_answer
+537,1199,48,6,I would guess George Beatty.,a,THE WITNESS,start_question
+538,1200,48,7,Do you do the Facebook advertisements?,q,MR. FROEHLICH,start_answer
+539,1201,48,8,No.,a,THE WITNESS,start_question
+540,1202,48,9,And whose responsibility is it to do the Google advertisements?,q,MR. FROEHLICH,start_answer
+541,1204,48,11,I would assume George Beatty I'm guessing.,a,THE WITNESS,start_question
+542,1205,48,12,Have you ever seen the direct mail that PPP sends out?,q,MR. FROEHLICH,start_answer
+543,1207,48,14,Yes.,a,THE WITNESS,symbols
+544,1208,48,15,- - -,symbols,,is brackets
+545,1209,48,16,"(Whereupon, D-2 was marked for identification.)",brackets,,symbols
+546,1211,48,18,- - -,symbols,,start_question
+547,1213,48,20,"Mr. Cappello, I'm handing you what's been marked for identification purposes as D-2.  If you can take a minute to take a look at it.",q,MR. FROEHLICH,start_answer
+548,1216,48,23,Uh-huh.,a,THE WITNESS,start_question
+549,1217,48,24,Do you recognize this document?,q,MR. FROEHLICH,start_answer
+550,1219,49,1,Yes.,a,THE WITNESS,start_question
+551,1220,49,2,And what is this document?,q,MR. FROEHLICH,start_answer
+552,1221,49,3,This is our letter that goes out to people that may be interesting in selling a property.,a,THE WITNESS,start_question
+553,1223,49,5,"Now, this letter in the upper right-hand corner is dated July 16th, 2018.  Is PPP still sending this letter to potential sellers?",q,MR. FROEHLICH,start_answer
+554,1226,49,8,I don't know if it's changed or if is the same one.,a,THE WITNESS,start_question
+555,1228,49,10,Okay. And the phone number that's listed is (267) 244-1766?,q,MR. FROEHLICH,start_answer
+556,1231,49,13,Uh-huh.,a,THE WITNESS,start_question
+557,1232,49,14,Whose phone number is that?,q,MR. FROEHLICH,start_answer
+558,1233,49,15,That I'm not sure of.  I'm not sure if it comes into our answering service.  We have some kind of answering service so...,a,THE WITNESS,start_question
+559,1236,49,18,All right. When a potential seller is interested in selling their house and they call that number what happens next?,q,MR. FROEHLICH,start_answer
+560,1240,49,22,"Well, if somebody is there it gets picked up either -- probably Angela or if it's like off hours it probably goes into some kind of answering service.",a,THE WITNESS,start_question
+561,1244,50,1,Okay. And when you say Angela you mean --,q,MR. FROEHLICH,start_answer
+562,1246,50,3,"Angela White, yes.",a,THE WITNESS,start_question
+563,1247,50,4,So does PPP have an answering service to receive phone calls after hours?,q,MR. FROEHLICH,start_answer
+564,1249,50,6,I'm not sure of that.  I don't know if it goes into like an answering machine answering service or if it's like a live person.,a,THE WITNESS,start_question
+565,1252,50,9,Okay. So after a potential seller calls Angela how are you made aware of the potential seller?,q,MR. FROEHLICH,start_answer
+566,1255,50,12,"Well, Angela what she does is she has a conversation with the seller.  She makes sure that we're a fit and that the seller is really interested in selling his property.  She goes over how the appointment is going to go exactly step by step.  What I'm going to do when I get to the appointment.  They get a confirmation text before I go to the appointment. But we don't run any appointments unless the people are absolutely a fit for us and the property is a fit.",a,THE WITNESS,start_question
+567,1264,50,21,Okay. And how do you define whether the person and the property is a fit for us?,q,MR. FROEHLICH,start_answer
+568,1267,50,24,"Well, the property being that it's typically in disrepair.  They can't put it on the market because it's in disrepair.  The person being -- they don't want to work with a realtor.  They don't want to go through the hassle of fixing anything up.  They don't want to -- they want to alleviate the realtor closing cost, that kind of stuff.  And they want an easy quick 30, 45 day settlement to qualify.",a,THE WITNESS,start_question
+569,1276,51,8,Have you ever taken one of those calls when the potential seller has called in?,q,MR. FROEHLICH,start_answer
+570,1278,51,10,"No, but I have -- not for Problem Property but I fielded calls from motivated sellers, yes.",a,THE WITNESS,start_question
+571,1280,51,12,Okay. Have you ever observed or listened in while Angela is taking one of these calls?,q,MR. FROEHLICH,start_answer
+572,1283,51,15,Yes.,a,THE WITNESS,start_question
+573,1284,51,16,Can you recall some of the specific questions that she asks the caller in order to determine whether the caller is a good fit for Problem Property Pals?,q,MR. FROEHLICH,start_answer
+574,1287,51,19,"Well, the obvious ones would be for the house, condition, any repairs made, any upgrades that have been made in the last 10 or 15 years.  Kind of why they're selling, why they aren't going with a realtor. She tells them or explains to them the difference between realtor versus selling to an investor and that kind of stuff.",a,THE WITNESS,start_question
+575,1295,52,2,What is the difference between -- how does Angela tell a caller the difference between a realtor and an investor?,q,MR. FROEHLICH,start_answer
+576,1298,52,5,"So she would probably mention something like -- and again, this isn't verbatim but something along the lines of with a realtor you may have to paint the place, you may have to clean the place out, you may have to -- you're going to pay the 6 percent commission, you're going to pay your own closing cost and transfer tax, it may take 3 to 6 months to sell it. As opposed to an investor where it's 30 to 45 days, there's no clean out, we're also going to pay your closing cost and transfer tax, it's an easy sale, we handle the transaction.  That's probably how it's explained.",a,THE WITNESS,start_question
+577,1310,52,17,Okay. If Angela determines that a local seller is a good fit how does she pass that information on to you?,q,MR. FROEHLICH,start_answer
+578,1314,52,21,It gets -- it's all put in the PODIO and then she creates an appointment in PODIO and then I get an appointment notification and so on.,a,THE WITNESS,start_question
+579,1317,52,24,"Uh-huh, typically, how much time passes between the call from the potential seller and your appointment with them?",q,MR. FROEHLICH,start_answer
+580,1321,53,3,"I'm sorry, say that again.",a,THE WITNESS,start_question
+581,1322,53,4,"Sure, typically, how much time passes between the call to Angela and the appointment that you have to go out to talk to a potential seller?",q,MR. FROEHLICH,start_answer
+582,1325,53,7,Meaning how much time passes before my appointment is scheduled.,a,THE WITNESS,start_question
+583,1327,53,9,"Like one day, two days?",q,MR. FROEHLICH,start_answer
+584,1328,53,10,"Yeah, usually it's the next day or within that week.  We try not to schedule too far out.",a,THE WITNESS,start_question
+585,1330,53,12,Okay. And does Angela make those appointments?,q,MR. FROEHLICH,start_answer
+586,1333,53,15,Yes.,a,THE WITNESS,start_question
+587,1334,53,16,What information do you receive from Angela regarding the appointment?,q,MR. FROEHLICH,start_answer
+588,1336,53,18,Everything that was talked about on the call. She footnotes the call.,a,THE WITNESS,start_question
+589,1338,53,20,Okay.,q,MR. FROEHLICH,start_answer
+590,1339,53,21,"Seller's asking price, what they're looking for, kind of what their driving force is, whether it's they need relocation, stuff like that.",a,THE WITNESS,start_question
+591,1342,53,24,Does Angela ask the caller what their asking price is on the phone?,q,MR. FROEHLICH,start_answer
+592,1345,54,2,Yes.,a,THE WITNESS,start_question
+593,1346,54,3,And Angela enters this information in PODIO?,q,MR. FROEHLICH,start_answer
+594,1347,54,4,"Yes, for the most part.  She may forget to do that but for the most part she gets a range.",a,THE WITNESS,start_question
+595,1349,54,6,Okay. Do you recall the field name in PODIO where she enters this information?,q,MR. FROEHLICH,start_answer
+596,1352,54,9,Deal notes if that's what you're looking for? I feel like you know the answers to these questions you're just trying to ask me.,a,THE WITNESS,start_question
+597,1355,54,12,I know the answer to many questions.,q,MR. FROEHLICH,start_answer
+598,1356,54,13,Deal notes is that the field name you're looking for.,a,THE WITNESS,start_question
+599,1358,54,15,I never used PODIO before.  I only learned about it yesterday?,q,MR. FROEHLICH,start_answer
+600,1360,54,17,It would be deal notes.,a,THE WITNESS,start_question
+601,1361,54,18,Okay. So we talked about direct mail.  You mentioned Facebook advertisements and Google ads.  Does PPP use any other methods of marketing?,q,MR. FROEHLICH,start_answer
+602,1365,54,22,I don't know.  They're the ones that I know of.,a,THE WITNESS,start_question
+603,1367,54,24,Does PPP use the signs on the public ways?,q,MR. FROEHLICH,start_answer
+604,1369,55,1,I don't know.,a,THE WITNESS,start_question
+605,1370,55,2,Does PPP use post-it notes on doors?,q,MR. FROEHLICH,start_chat
+606,1371,55,3,"Objection to form, you can answer.",side_chat,MR. BARSKY,start_chat
+607,1373,55,5,Let me try and restate it.,side_chat,MR. FROEHLICH,start_question
+608,1376,55,8,Are you familiar with the marketing tactic where companies such as PPP have prewritten post-its that they adhere to doors of potential houses?,q,MR. FROEHLICH,start_answer
+609,1379,55,11,Yes.,a,THE WITNESS,start_question
+610,1380,55,12,Does PPP use this type of marketing?,q,MR. FROEHLICH,start_answer
+611,1381,55,13,I don't know.,a,THE WITNESS,start_question
+612,1382,55,14,Does PPP use door hangers?,q,MR. FROEHLICH,start_answer
+613,1383,55,15,I don't know.  The ones that I stated are the ones that I know that we use.  I don't know if there's any --,a,THE WITNESS,start_question
+614,1386,55,18,Okay. I want to show you a door hanger.  But before we enter it into the record let me just say -- let me just ask you are you familiar -- this is the original -- are you familiar with this door hanger?,q,MR. FROEHLICH,start_answer
+615,1391,55,23,"No, I never seen that.",a,THE WITNESS,start_question
+616,1392,55,24,"Okay, then that's fine.",q,MR. FROEHLICH,start_answer
+617,1394,56,1,"Interesting, his name is spelled wrong but...",a,THE WITNESS,start_question
+618,1395,56,2,Are you familiar with the phone number (267) 233-6697?,q,MR. FROEHLICH,start_answer
+619,1397,56,4,"No, it might be one of our smart phone numbers or something to the answering service.",a,THE WITNESS,start_question
+620,1399,56,6,Okay. When Angela receives a phone call from a potential seller does she record that call in PODIO?,q,MR. FROEHLICH,start_answer
+621,1402,56,9,"I believe we do, yeah.",a,THE WITNESS,start_question
+622,1403,56,10,If Angela is unable for whatever reason to schedule an appointment with a seller will you receive a referral for that phone call?,q,MR. FROEHLICH,start_answer
+623,1406,56,13,"No, she'll follow-up, you know, if there's something she thinks we can connect on she'll follow up until she can get an appointment set up.",a,THE WITNESS,start_question
+624,1409,56,16,Okay. Approximately how many appointments do you get from PPP every week?,q,MR. FROEHLICH,start_answer
+625,1412,56,19,It varies.  It would be 3 one week.  It could be 6 the next week.  It varies.,a,THE WITNESS,start_question
+626,1414,56,21,Okay.,q,MR. FROEHLICH,start_answer
+627,1415,56,22,But I would say 3 to 10.,a,THE WITNESS,start_question
+628,1416,56,23,And what portion of those referrals for appointments are in Philadelphia County?,q,MR. FROEHLICH,start_answer
+629,1419,57,1,What percentage?,a,THE WITNESS,start_question
+630,1420,57,2,Right.,q,MR. FROEHLICH,start_answer
+631,1421,57,3,"We do stuff in all the counties -- surrounding counties.  So I would say it's probably split evenly, you know, 30 percent around, give or take on any given month.",a,THE WITNESS,start_question
+632,1425,57,7,Okay. And how does Angela decide who gets the appointment?,q,MR. FROEHLICH,start_answer
+633,1428,57,10,It's a round robin.  The system does it.,a,THE WITNESS,start_question
+634,1429,57,11,"Okay. Sorry, we talked over each other so I got to ask the question again, but...",q,MR. FROEHLICH,start_answer
+635,1432,57,14,Go ahead.,a,THE WITNESS,start_question
+636,1433,57,15,How does Angela decide who gets the appointment you or Antwon Daniels?,q,MR. FROEHLICH,start_answer
+637,1435,57,17,The system does it.,a,THE WITNESS,start_question
+638,1436,57,18,Okay. Does Angela schedule appointments for anybody else other than you and Antwon Daniels as of this week?,q,MR. FROEHLICH,start_answer
+639,1440,57,22,No.,a,THE WITNESS,start_question
+640,1441,57,23,When you get the referral from Angela what type of research do you do before you go to the house?,q,MR. FROEHLICH,start_answer
+641,1444,58,1,"I run comps on the property, comparable sales in the area in the condition that it's in.",a,THE WITNESS,start_question
+642,1446,58,3,What resources do you consult in order to run comps?,q,MR. FROEHLICH,start_answer
+643,1448,58,5,Bright MLS which is the multiple listing service.,a,THE WITNESS,start_question
+644,1450,58,7,Do you use any other sources to run the comps?,q,MR. FROEHLICH,start_answer
+645,1451,58,8,No.,a,THE WITNESS,start_question
+646,1452,58,9,And do you do any other research other than using Bright MLS to get the comps?,q,MR. FROEHLICH,start_answer
+647,1454,58,11,"No, you don't need to do anything else.  It's where realtors list and sell their properties.  Any comparable sale is going to be in that.",a,THE WITNESS,start_question
+648,1457,58,14,Do you do anything to confirm that the caller is the record owner of the property?,q,MR. FROEHLICH,start_answer
+649,1459,58,16,"Yes, Angela does that when she's on the phone she looks up public record to make sure.",a,THE WITNESS,start_question
+650,1461,58,18,Do you do anything to confirm whether there's a water lien on the property?,q,MR. FROEHLICH,start_answer
+651,1463,58,20,Yes.,a,THE WITNESS,start_question
+652,1464,58,21,What do you do in order to confirm that there's a water lien on the property?,q,MR. FROEHLICH,start_answer
+653,1466,58,23,"She asks them.  And then once it's inputted into the system it gets updated through -- you know, we have a VA that updates the system.  So they'll go on the County website or whether it's the tax website or whatever and they'll input tax debt and water debt.",a,THE WITNESS,start_question
+654,1472,59,4,Do you do any of that?,q,MR. FROEHLICH,start_answer
+655,1473,59,5,No.,a,THE WITNESS,start_question
+656,1474,59,6,Do you check for any mortgage liens on the property?,q,MR. FROEHLICH,start_answer
+657,1476,59,8,We try to in Trend but it's not always accurate in Bright.  We ask them.  We take their word for what they tell us.,a,THE WITNESS,start_question
+658,1479,59,11,Okay.,q,MR. FROEHLICH,start_answer
+659,1480,59,12,But you can't really tell because it's inaccurate in Bright.,a,THE WITNESS,start_question
+660,1482,59,14,At what point do you decide what price PPP is willing to offer for this property?,q,MR. FROEHLICH,start_answer
+661,1484,59,16,"Based on the comparable sales and then obviously I have to walk the property and the amount of work that it needs.  That's how the offer is made. It's dependent on the condition, area and sales in the area.",a,THE WITNESS,start_question
+662,1489,59,21,Okay. Are you authorized by George Beatty to come up with your own offer price?,q,MR. FROEHLICH,start_answer
+663,1492,59,24,Yes.,a,THE WITNESS,start_question
+664,1494,60,1,Does that authorization have limits?,q,MR. FROEHLICH,start_answer
+665,1495,60,2,No -- limits as far as what?,a,THE WITNESS,start_question
+666,1496,60,3,Could you offer to purchase the property for three times its fair market value?,q,MR. FROEHLICH,start_answer
+667,1498,60,5,"No, I have to obviously purchase the property where the comps make sense in order for us to do the rehab or an investor to do the rehab.",a,THE WITNESS,start_question
+668,1501,60,8,So has George Beatty provided you with any explicit restrictions on your authorization as to how much to offer the price?,q,MR. FROEHLICH,start_answer
+669,1504,60,11,"No, he trusts my judgement.",a,THE WITNESS,start_question
+670,1505,60,12,Okay. Once you arrive at a property and you have the conversation with the potential seller and inspect the property do you need to check with anybody to get approval before you make the offer?,q,MR. FROEHLICH,start_answer
+671,1510,60,17,"No, I do not.",a,THE WITNESS,start_question
+672,1511,60,18,Okay. Does Antwon Daniels need to get approval?,q,MR. FROEHLICH,start_answer
+673,1514,60,21,"No, he does not.",a,THE WITNESS,start_question
+674,1515,60,22,"Okay, all right. So I want to walk through the process that you take --",q,MR. FROEHLICH,start_chat
+675,1519,61,1,Can I use the bathroom.,side_chat,THE WITNESS,start_chat
+676,1520,61,2,"Of course, absolutely.",side_chat,MR. FROEHLICH,symbols
+677,1521,61,3,- - -,symbols,,is brackets
+678,1522,61,4,"(Whereupon, a brief break was taken at this time.)",brackets,,symbols
+679,1524,61,6,- - -,symbols,,start_question
+680,1526,61,8,So we're just back from a quick break. And we had been talking about how you review comps prior to going to the house.,q,MR. FROEHLICH,start_answer
+681,1529,61,11,Uh-huh.,a,THE WITNESS,start_question
+682,1530,61,12,Going into a visit do you have in mind what you want as your goal appraisal fee?,q,MR. FROEHLICH,start_answer
+683,1532,61,14,No.,a,THE WITNESS,start_question
+684,1533,61,15,"Okay. If you have determined that a house is worth say $50,000 --",q,MR. FROEHLICH,start_answer
+685,1536,61,18,Uh-huh.,a,THE WITNESS,start_question
+686,1537,61,19,"I imagine that you would not offer $50,000, correct?",q,MR. FROEHLICH,start_answer
+687,1539,61,21,No.,a,THE WITNESS,start_question
+688,1540,61,22,"Okay. Would you offer $49,000?",q,MR. FROEHLICH,start_answer
+689,1542,61,24,"If that's where I need to get a deal, yes.",a,THE WITNESS,start_question
+690,1544,62,1,So you would accept projected appraisal fees of as little as a thousand dollars?,q,MR. FROEHLICH,start_answer
+691,1546,62,3,"Not typically.  I mean, you're probably likely between 5 and 10 I would say.",a,THE WITNESS,start_question
+692,1548,62,5,"So going into the transaction your goal appraisal fee is at least $5,000?",q,MR. FROEHLICH,start_answer
+693,1550,62,7,Let me ask you something.,a,THE WITNESS,start_question
+694,1551,62,8,Sure.,q,MR. FROEHLICH,start_answer
+695,1552,62,9,"You're buying a house, right, they're listed on the market for $229,000.  Are you going in at $229,000?",a,THE WITNESS,start_question
+696,1555,62,12,Of course not.,q,MR. FROEHLICH,start_answer
+697,1556,62,13,"Same thing, it's no different.",a,THE WITNESS,start_question
+698,1557,62,14,"However, what I'm asking these questions is for sometimes -- I imagine that in wholesaling sometimes the deal is just not worth it?",q,MR. FROEHLICH,start_answer
+699,1560,62,17,Of course.,a,THE WITNESS,start_question
+700,1561,62,18,So my questions are going to this -- at what value is the deal just not worth it?,q,MR. FROEHLICH,start_answer
+701,1563,62,20,"I would say we want to be between 5 and 7 -- $5,000 to $10,000.",a,THE WITNESS,start_question
+702,1565,62,22,"Or $20,000, right?",q,MR. FROEHLICH,start_answer
+703,1566,62,23,"If it happens like that, yes.",a,THE WITNESS,start_question
+704,1567,62,24,But the goal is at least 5?,q,MR. FROEHLICH,start_answer
+705,1569,63,1,Yes.,a,THE WITNESS,start_question
+706,1570,63,2,I don't want to put words in your mouth.  But it sounds like the goal is at least --,q,MR. FROEHLICH,start_answer
+707,1572,63,4,"Yeah, I won't sign anything if we're going to make less than $5,000.  It's just the operational cost is probably too much to do that.",a,THE WITNESS,start_question
+708,1575,63,7,"So you arrive at the property at the scheduled time.  What's the -- walk me through the process, what happens?",q,MR. FROEHLICH,start_answer
+709,1578,63,10,"So we arrive, well, obviously we introduce ourselves.  I talk a little bit about like what kind of -- what his goals are, what his outcomes are.  Like how soon he's looking to settle, you know, if he's interested -- kind of just warm up with him just to kind of see where they're at and what they want to do. Because even though it's qualified there's times that I could still walk in and it still not be qualified, right.  So I want to make sure that we're a fit, the property is a fit before we have any discussion on price.",a,THE WITNESS,start_question
+710,1589,63,21,You mean qualified by Angela?,q,MR. FROEHLICH,start_answer
+711,1590,63,22,"Yes, stating she went over all of that with the person.  We get to the house I want to make sure that, you know, things are what they are.  Once that's done they take me on a tour.  I snap some photos.  I talk about kind of like what would be done in the property, kind of what's needed, that kind of stuff, kind of see what their expectations are and what their -- if they're being logical and what needs to be done and what doesn't need to be done.  And then once that happens, you know, I'll make him a non-obligational offer.",a,THE WITNESS,start_question
+712,1602,64,9,A non-obligational offer?,q,MR. FROEHLICH,start_answer
+713,1603,64,10,Uh-huh.,a,THE WITNESS,start_question
+714,1604,64,11,During that initial conversation do you tell them about your experience with construction?,q,MR. FROEHLICH,start_answer
+715,1606,64,13,I do.,a,THE WITNESS,start_question
+716,1607,64,14,Do you tell them that you're a licensed real estate salesperson in New Jersey?,q,MR. FROEHLICH,start_answer
+717,1609,64,16,I do.,a,THE WITNESS,start_question
+718,1610,64,17,Do you tell them that you're representing the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+719,1612,64,19,No.,a,THE WITNESS,start_question
+720,1613,64,20,Do you tell them you're representing Problem Property Pals?,q,MR. FROEHLICH,start_answer
+721,1615,64,22,"I don't tell them anything.  They get a confirmation text from us.  I mean, if they ask me for a card I give them a card.  I don't say that I'm -- you know, I don't walk in with a flag saying I'm from PPP.",a,THE WITNESS,start_question
+722,1620,65,2,On the confirmation text does it say that it's from PPP?,q,MR. FROEHLICH,start_answer
+723,1622,65,4,Yes.,a,THE WITNESS,start_question
+724,1623,65,5,And the card that you give them does it also say PPP?,q,MR. FROEHLICH,start_answer
+725,1625,65,7,Yes.,a,THE WITNESS,start_question
+726,1626,65,8,At what point do you talk about price during that initial visit?,q,MR. FROEHLICH,start_answer
+727,1628,65,10,"After I look at the property and ask him, hey, what are you looking to get from the property.  I'm up front with people.  I ask them what they're trying to get.  And if can do that price I'll do it.  If I can't I'm going to say here, this is where I need to be and then we'll have a conversation about it at that point.",a,THE WITNESS,start_question
+728,1634,65,16,"Obviously, price is negotiable.  Are there other terms on the agreement of sale that are negotiable?",q,MR. FROEHLICH,start_answer
+729,1637,65,19,"Typically, I'll change the -- or I'll cross out the agreement of sale because I pay their closing costs and transfer tax.",a,THE WITNESS,start_question
+730,1640,65,22,There's a part on the agreement of sale that talks about the cash deposit?,q,MR. FROEHLICH,start_answer
+731,1642,65,24,Yes.,a,THE WITNESS,start_question
+732,1644,66,1,Is that negotiable?,q,MR. FROEHLICH,start_answer
+733,1645,66,2,Sure.,a,THE WITNESS,start_question
+734,1646,66,3,"Have you ever agreed to say $5,000 per deposit?",q,MR. FROEHLICH,start_answer
+735,1648,66,5,Yes.,a,THE WITNESS,start_question
+736,1649,66,6,On the agreement of sale there's a place that says when this closing is going to happen?,q,MR. FROEHLICH,start_answer
+737,1651,66,8,Yes.,a,THE WITNESS,start_question
+738,1652,66,9,Is that time period negotiable?,q,MR. FROEHLICH,start_answer
+739,1653,66,10,Yes.,a,THE WITNESS,start_question
+740,1654,66,11,What's the farthest out that you'll go?,q,MR. FROEHLICH,start_answer
+741,1655,66,12,"Typically, you don't want to go longer than 2 months but we have in the past.  Because market can change in that amount of time, you know, longer than 5, 6 months.  But I have done it longer than two.  But typically, we don't try to go out further than two.",a,THE WITNESS,start_question
+742,1660,66,17,Okay. What's the shortest period that you'll schedule a closing?,q,MR. FROEHLICH,start_answer
+743,1663,66,20,"I try not to do anything shorter than 30 to 45 days just because in the City of Philadelphia it takes 3 weeks to get title and stuff cleared, pay-offs and that kind of stuff so...",a,THE WITNESS,start_question
+744,1667,66,24,On the Agreement of Sale there's a place where you can write in a date by which acceptance has to be made?,q,MR. FROEHLICH,start_answer
+745,1671,67,3,Yes.,a,THE WITNESS,start_question
+746,1672,67,4,Is that negotiable?,q,MR. FROEHLICH,start_answer
+747,1673,67,5,Yes.,a,THE WITNESS,start_question
+748,1674,67,6,Okay. Have you negotiated agreements of sale where the acceptance date was more than 3 days out?,q,MR. FROEHLICH,start_answer
+749,1677,67,9,No.,a,THE WITNESS,start_question
+750,1678,67,10,Under what circumstances would you --,q,MR. FROEHLICH,start_answer
+751,1679,67,11,"We want to review the paperwork or, you know, I want to have my lawyer look over it, that kind of stuff.",a,THE WITNESS,start_question
+752,1682,67,14,Okay. How often do you agree to negotiate that date?,q,MR. FROEHLICH,start_answer
+753,1685,67,17,Whenever it's asked for.,a,THE WITNESS,start_question
+754,1686,67,18,Okay. On the standard agreement to sell real estate there's also a place to indicate a title company --,q,MR. FROEHLICH,start_answer
+755,1690,67,22,Yes.,a,THE WITNESS,start_question
+756,1691,67,23,-- and if you want to look at D-1 this is Paragraph 2 (ii); is the title company negotiable?,q,MR. FROEHLICH,start_answer
+757,1694,68,1,It's buyer's right to title company so that's not negotiable.  But we do use a couple different title companies just because we do so much volume.,a,THE WITNESS,start_question
+758,1697,68,4,Okay. Other than Prosperity Abstract what other title companies have you used in the last say 3 months?,q,MR. FROEHLICH,start_answer
+759,1701,68,8,3 months it's been Prosperity Abstract mostly just because they get our stuff back the quickest.,a,THE WITNESS,start_question
+760,1703,68,10,Okay. Once you agree upon a price and then at that point do you provide them with the Agreement of Sale?,q,MR. FROEHLICH,start_answer
+761,1707,68,14,They have the Agreement of Sale right there. I go over it line for line.,a,THE WITNESS,start_question
+762,1709,68,16,"Okay. Tell me about that, when you say line for line do you read it out loud to them?",q,MR. FROEHLICH,start_answer
+763,1712,68,19,"Yes, line for line.  I hand my Agreement of Sale.  I say -- because obviously people are apprehensive when you're doing a transaction like that. I say, hey, this is just a simple Agreement of Sale. I'm going to go over it with you.  Once it's all filled out and we okay everything I'm going to scan it into my phone and you will have this copy.  And then I go line for line, this is what it says, this is what this paragraph means, yada, yada, yada.",a,THE WITNESS,start_question
+764,1722,69,4,"If you can take a look at paragraph 7, it's on Page 2 where it says assignable, buyer may assign this contract?",q,MR. FROEHLICH,start_answer
+765,1725,69,7,Yes.,a,THE WITNESS,start_question
+766,1726,69,8,How do describe this paragraph to the potential seller?,q,MR. FROEHLICH,start_answer
+767,1728,69,10,So I tell them that I'm going to sign it in my name.  It's probably going to be another LLC or another entity that actually takes ownership of the property and then I'll sign it to that LLC or owner.,a,THE WITNESS,start_question
+768,1732,69,14,Okay. Do you explain why it may be in another LLC?,q,MR. FROEHLICH,start_answer
+769,1735,69,17,Sometimes I do for liability purposes.,a,THE WITNESS,start_question
+770,1736,69,18,What does that mean liability purposes?,q,MR. FROEHLICH,start_answer
+771,1737,69,19,"I mean, if you own a rental name in your private name and somebody slips and falls my assets are liable.  So that's why stuff gets put in an LLC because you have protection from your personal assets.",a,THE WITNESS,start_question
+772,1741,69,23,"I see. Do you describe to the potential seller why -- well, other than what you just said do you say anything more about Paragraph 7, assignable?",q,MR. FROEHLICH,start_answer
+773,1746,70,3,No.,a,THE WITNESS,start_question
+774,1747,70,4,Okay. In Paragraph 9 it says evidence of title.  I'll just read this really quickly.  It says within 5 days from the date hereof buyer at buyer's sole cost and expense shall cause a title insurance company to issue and deliver an ALTA form title commitment accompanied by one company of all documents effecting the property in which constitute acceptance to the title commitment. To your knowledge does the Philly Cash Buyer Land Trust cause a title insurance company to do this within 5 days?,q,MR. FROEHLICH,start_answer
+775,1759,70,16,"So I believe this is a request that title was pulled, yes, it's done.",a,THE WITNESS,start_question
+776,1761,70,18,Okay. And who --,q,MR. FROEHLICH,start_answer
+777,1763,70,20,That paragraph states we have to pull title within 5 days.,a,THE WITNESS,start_question
+778,1765,70,22,And when you say we who pulls the title?,q,MR. FROEHLICH,start_answer
+779,1766,70,23,It would be Philly Cash Buyer Land Trust.,a,THE WITNESS,start_question
+780,1767,70,24,Okay. Do you know which individual at Philly Cash Buyer Land Trust pulls the title or requests the title report?,q,MR. FROEHLICH,start_answer
+781,1772,71,4,It would be Kayla requesting to have title pulled.,a,THE WITNESS,start_question
+782,1774,71,6,"Okay. Paragraph 11 says place of closing. Closing shall be held at buyer elected title company or 107 South 2nd Street, Third Floor, Philadelphia, Pennsylvania 19106.",q,MR. FROEHLICH,start_answer
+783,1779,71,11,Uh-huh.,a,THE WITNESS,start_question
+784,1780,71,12,Where are the closings usually held?,q,MR. FROEHLICH,start_answer
+785,1781,71,13,"It's either or.  I would say 50 percent at our office and 50 percent at the buyer.  Or if it's a seller that's too far away we kind of meet them, you know, up where they're at.",a,THE WITNESS,start_question
+786,1785,71,17,"Okay. And then on the next page, Paragraph 14, Expenses.  Earlier you stated that you typically -- I think the word you used was typically.  Typically offer to pay all closing costs and transfers.  So that's what we're looking at here?",q,MR. FROEHLICH,start_answer
+787,1791,71,23,Yes.,a,THE WITNESS,start_question
+788,1792,71,24,Okay. Are there circumstances in which you do not offer to pay closing costs and transfer?,q,MR. FROEHLICH,start_answer
+789,1796,72,3,Yes.,a,THE WITNESS,start_question
+790,1797,72,4,And under what circumstances might you not offer to pay closing costs and transfer?,q,MR. FROEHLICH,start_answer
+791,1799,72,6,If it's needed in a transaction then I'll do it.  If it's not and a seller is not really tied up about that then we'll keep it the way it is.,a,THE WITNESS,start_question
+792,1802,72,9,Okay.,q,MR. FROEHLICH,start_answer
+793,1803,72,10,But I would say 70 percent of the time I'm giving transfer and closing.,a,THE WITNESS,start_question
+794,1805,72,12,"All right. Earlier you referred to this as a non-obligational offer, what did you mean by that?",q,MR. FROEHLICH,start_answer
+795,1808,72,15,Meaning that they're obligated to say no and they're obligated -- they're non-obligated to take my offer.  Like they don't have to take it.,a,THE WITNESS,start_question
+796,1811,72,18,"I see, okay.",q,MR. FROEHLICH,start_answer
+797,1812,72,19,And Angela tells them that as well on the phone before she sets the appointment.  If everything is in agreement and the property is a fit we're going to move forward with a non-obligational offer.  And then -- so she lets them be aware of that.,a,THE WITNESS,start_question
+798,1817,72,24,"Okay. And then on Paragraph 29 this is on the last page, the second to last paragraph.  Buyer reserves the right to show property prior to settlement for reasons including contractors, estimations and funding partners?",q,MR. FROEHLICH,start_answer
+799,1824,73,6,Yes.,a,THE WITNESS,start_question
+800,1825,73,7,Do you read this to the potential sellers as well?,q,MR. FROEHLICH,start_answer
+801,1827,73,9,Absolutely.,a,THE WITNESS,start_question
+802,1828,73,10,And --,q,MR. FROEHLICH,start_answer
+803,1829,73,11,It's important.  It's one of the most important things in there.,a,THE WITNESS,start_question
+804,1831,73,13,"Right, why is it important?",q,MR. FROEHLICH,start_answer
+805,1832,73,14,For what it just says there.,a,THE WITNESS,start_question
+806,1833,73,15,"How do you describe -- other than what it says do you say anything more, do you describe that paragraph to the potential sellers?",q,MR. FROEHLICH,start_answer
+807,1836,73,18,"I do, yeah.",a,THE WITNESS,start_question
+808,1837,73,19,And what do you say to the potential sellers?,q,MR. FROEHLICH,start_answer
+809,1838,73,20,"I say so the reason for this is we want to walk through with our contractors.  We want to get a game plan.  We're not touching anything but we want to get a game plan so when we settle on the property the next day we're ready to start rocking and rolling, demo, you know, starting the construction aspect.",a,THE WITNESS,start_question
+810,1845,74,2,Okay. In what percentage of times that you go out to meet a potential seller at their house are you successful at getting an Agreement of Sale?,q,MR. FROEHLICH,start_answer
+811,1849,74,6,I don't know.,a,THE WITNESS,start_question
+812,1850,74,7,More than half?,q,MR. FROEHLICH,start_answer
+813,1851,74,8,"No, I don't think it's more than half.",a,THE WITNESS,start_question
+814,1852,74,9,Why might you not -- why have you not been successful at getting an Agreement of Sale?,q,MR. FROEHLICH,start_answer
+815,1854,74,11,"Because we're not a fit, either their asking price is too much, they're not realistic, they have a nice house that's really not anything that I can do anything with or the contractor can do anything with, they can put it on the market and get market value. We're just not a fit in short.",a,THE WITNESS,start_question
+816,1860,74,17,Okay.,q,MR. FROEHLICH,start_answer
+817,1861,74,18,People that call us like they're calling us for a reason.  They're calling us because they can't put it on the market.  Their place is run down so that's why people call us.,a,THE WITNESS,start_question
+818,1865,74,22,Okay.,q,MR. FROEHLICH,start_answer
+819,1866,74,23,Or there's something situationally with that person's life that they need to have something that moves quickly.,a,THE WITNESS,start_question
+820,1870,75,2,"I don't understand that situationally, what does that mean?",q,MR. FROEHLICH,start_answer
+821,1872,75,4,"Yeah, they inherit a property, maybe they can't afford the taxes you know for the property so they don't have the time to put the money into it or to get a realtor, you know, 3 to 6 months to sell it.  So situationally that's what I'm talking about.",a,THE WITNESS,start_question
+822,1877,75,9,I see. In the time that you've been working with PPP has the Philly Cash Buyer Land Trust ever acquired the property in its own name?,q,MR. FROEHLICH,start_answer
+823,1881,75,13,That I don't know of.,a,THE WITNESS,start_question
+824,1882,75,14,Okay.,q,MR. FROEHLICH,start_answer
+825,1883,75,15,I'm not actually at settlement so I don't know documents and paperwork.,a,THE WITNESS,start_question
+826,1885,75,17,And to your knowledge are all of these contracts assigned to other buyers?,q,MR. FROEHLICH,start_answer
+827,1887,75,19,"Not always, no.",a,THE WITNESS,start_question
+828,1888,75,20,I want to focus on the ones that are not assigned to other people --,q,MR. FROEHLICH,start_answer
+829,1890,75,22,Uh-huh.,a,THE WITNESS,start_question
+830,1891,75,23,-- if that's correct then the Philly Cash Buyer Land Trust may be the record owner in some properties?,q,MR. FROEHLICH,start_answer
+831,1895,76,2,"So okay -- so for instance like it can be something that I signed up, right.  I may buy it as a rental property.  So Capp Investments may become the owner or George may buy it but I don't know what his entity is to buy it.  I don't think Philly Cash Buyer Land Trust is taking possession of properties that I know of.",a,THE WITNESS,start_question
+832,1902,76,9,"Okay, I think I understand but let me just ask a few follow-up questions to ensure that I do. From time to time does the Philly Cash Buyer Land Trust assign the Agreement of Sale to Capp Investments, LLC?",q,MR. FROEHLICH,start_answer
+833,1907,76,14,Yes.,a,THE WITNESS,start_question
+834,1908,76,15,And from to time does the Philly Cash Buyer Land Trust assign these contracts to George Beatty affiliated LLC's?,q,MR. FROEHLICH,start_answer
+835,1911,76,18,Yes.,a,THE WITNESS,start_question
+836,1912,76,19,Okay. To your knowledge does Antwon Daniels have an LLC?,q,MR. FROEHLICH,start_answer
+837,1915,76,22,I don't know.,a,THE WITNESS,start_question
+838,1916,76,23,To your knowledge has the Philly Cash Buyer Land Trust ever assigned the contracts to Antwon Daniels or any LLC affiliated with Antwon Daniels?,q,MR. FROEHLICH,start_answer
+839,1920,77,2,I don't know that.,a,THE WITNESS,start_question
+840,1921,77,3,"Okay. How do you determine whether Capp Investments, LLC is going to be the assignee on an Agreement of Sale?",q,MR. FROEHLICH,start_answer
+841,1925,77,7,"If the deal works, you know, and I'm able to be at a purchase price where other investors are.",a,THE WITNESS,start_question
+842,1927,77,9,Okay.,q,MR. FROEHLICH,start_answer
+843,1928,77,10,"So there's -- one investor may be willing to pay $10,000 more than I'm willing to pay.  So obviously I'm not going to buy that deal because the investor is going to win out.  Same thing as a typical or conventional real estate transaction.",a,THE WITNESS,start_question
+844,1933,77,15,"Okay, I think I understand. After you have obtained an Agreement of Sale with a potential seller how do you go about finding an investor for that property?",q,MR. FROEHLICH,start_answer
+845,1937,77,19,Tim handles that.,a,THE WITNESS,start_question
+846,1938,77,20,And by Tim you mean Tim Stover?,q,MR. FROEHLICH,start_answer
+847,1939,77,21,Yes.,a,THE WITNESS,start_question
+848,1940,77,22,Are you aware of an entity PA Off Market?,q,MR. FROEHLICH,start_answer
+849,1941,77,23,I am.,a,THE WITNESS,start_question
+850,1942,77,24,And what does PA Off Market do?,q,MR. FROEHLICH,start_answer
+851,1944,78,1,I believe that's the marketing funnel for the buyers.,a,THE WITNESS,start_question
+852,1946,78,3,Okay. So what type of things does PA Off Market do to market a property?,q,MR. FROEHLICH,start_answer
+853,1949,78,6,They would --,a,THE WITNESS,start_chat
+854,1950,78,7,"Objection to form, you can answer.",side_chat,MR. SCATENA,start_chat
+855,1952,78,9,"No, no, no, I want to -- to the extent that I can address the objections I want to make sure I address them.",side_chat,MR. FROEHLICH,start_chat
+856,1955,78,12,Just redefine things.,side_chat,MR. SCATENA,start_chat
+857,1956,78,13,Sure.,side_chat,MR. FROEHLICH,start_question
+858,1958,78,15,Earlier you said that you are aware of PA Off Market?,q,MR. FROEHLICH,start_answer
+859,1960,78,17,Uh-huh.,a,THE WITNESS,start_question
+860,1961,78,18,To your knowledge what does PA Off Market specifically do?,q,MR. FROEHLICH,start_answer
+861,1963,78,20,They market the property to end buyers.,a,THE WITNESS,start_question
+862,1964,78,21,And how does PA Off Market market the property to end buyers?,q,MR. FROEHLICH,start_answer
+863,1966,78,23,"It will be listed on the multiple listing service, Facebook.",a,THE WITNESS,start_question
+864,1969,79,1,And to your knowledge does PA Off Market market the properties in any other way?,q,MR. FROEHLICH,start_answer
+865,1971,79,3,"They're the two that I know of.  I mean, we have a list of buyers, I guess, we've done business with that an email gets sent out to them.",a,THE WITNESS,start_question
+866,1974,79,6,Who sets the asking price for the properties that have an Agreement of Sale with the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+867,1977,79,9,Tim Stover.,a,THE WITNESS,start_question
+868,1978,79,10,At what point -- I imagine at some point somebody runs a title search or title report for these properties?,q,MR. FROEHLICH,start_answer
+869,1981,79,13,"It usually happens immediately, you know, once I input the contract into the system.",a,THE WITNESS,start_question
+870,1983,79,15,Okay. Why is a title report not done prior to entering an Agreement of Sale?,q,MR. FROEHLICH,start_answer
+871,1986,79,18,Because it costs money.,a,THE WITNESS,start_question
+872,1987,79,19,And --,q,MR. FROEHLICH,start_answer
+873,1988,79,20,So -- I think I kind of know what you're getting at here so...,a,THE WITNESS,start_chat
+874,1990,79,22,Let him ask his question. There isn't a question pending.,side_chat,MR. SCATENA,start_chat
+875,1992,79,24,I'll ask the question. We'll be formal about this.,side_chat,MR. FROEHLICH,start_question
+876,1996,80,3,Has it ever occurred where after you reached -- after Tim pulls the title report that the incumbrances exceed the Agreement of Sale price?,q,MR. FROEHLICH,start_answer
+877,1999,80,6,Yes.,a,THE WITNESS,start_question
+878,2000,80,7,And has it ever occurred where the Philly Cash Buyer Land Trust cancels the Agreement of Sale and does not proceed to closing?,q,MR. FROEHLICH,start_answer
+879,2003,80,10,Yes.,a,THE WITNESS,start_question
+880,2004,80,11,Okay.,q,MR. FROEHLICH,start_answer
+881,2005,80,12,Because it exceeds the sale price.,a,THE WITNESS,start_question
+882,2006,80,13,In those cases how does the buyer -- I'm sorry. In those cases how does the seller receive his or her cash deposit?,q,MR. FROEHLICH,start_answer
+883,2010,80,17,They would contact the title company and then the title company would send it out.,a,THE WITNESS,start_question
+884,2012,80,19,Okay. Does -- who pays that cash deposit to the title company?,q,MR. FROEHLICH,start_answer
+885,2015,80,22,I'm not sure exactly what entity that comes out of.,a,THE WITNESS,start_question
+886,2017,80,24,"Okay. But it's either PPP or the Philly Cash Buyer Land Trust or Construction Rehab, LLC; is that correct?",q,MR. FROEHLICH,start_answer
+887,2022,81,4,"It would be something like that, yeah, I'm not sure which one, how that structure is set up for payments like that.  I don't know if it's like operating costs for Problem Property Pals or something. I don't know how that works.",a,THE WITNESS,start_question
+888,2027,81,9,Okay. What percentage of agreements of sale would you estimate that are cancelled by the buyer?,q,MR. FROEHLICH,start_answer
+889,2030,81,12,"Not many at all, 10 percent.",a,THE WITNESS,start_question
+890,2031,81,13,Okay. Paragraph 23 of the Agreement of Sale discusses an extension option whereby the initial scheduled closing date may be postponed?,q,MR. FROEHLICH,start_answer
+891,2035,81,17,Uh-huh.,a,THE WITNESS,start_question
+892,2036,81,18,Is the initial scheduled closing date ever postponed?,q,MR. FROEHLICH,start_answer
+893,2038,81,20,"Yes, sometimes.",a,THE WITNESS,start_question
+894,2039,81,21,Under what circumstances might an initial scheduled closing date be postponed?,q,MR. FROEHLICH,start_answer
+895,2041,81,23,"Title remedies where we may be waiting for a tax payoff, a water lien payoff.  I don't know if you ever dealt with the Water Department in the City of Philadelphia but sometimes it takes two and a half weeks to get a payoff for reasons of clearing title.",a,THE WITNESS,start_question
+896,2047,82,4,Okay. How many agreements of sales has the Philly Cash Buyer Land Trust entered into so far in 2019?,q,MR. FROEHLICH,start_answer
+897,2051,82,8,I don't know that.,a,THE WITNESS,start_question
+898,2052,82,9,Who would know that?,q,MR. FROEHLICH,start_answer
+899,2053,82,10,Probably George.,a,THE WITNESS,start_question
+900,2054,82,11,Anybody else?,q,MR. FROEHLICH,start_answer
+901,2055,82,12,Maybe Tim.,a,THE WITNESS,start_question
+902,2056,82,13,And --,q,MR. FROEHLICH,start_answer
+903,2057,82,14,"I mean, I'm sure like if you go on PODIO you can figure that out in PODIO.  I've never done it though.  I never looked to see that.",a,THE WITNESS,start_question
+904,2060,82,17,And just so I can understand why that is.  You know the number of agreement of sales that you personally have entered into but you don't know the number of agreement of sales that Antwon Daniels and other --,q,MR. FROEHLICH,start_answer
+905,2065,82,22,"Well, I have -- I don't know exactly how many agreement of sales I've entered into.  But I don't know how many Antwon -- but it's all in the system.  You can see it in the system if you went and looked for it.",a,THE WITNESS,start_question
+906,2070,83,2,Got you.,q,MR. FROEHLICH,start_answer
+907,2071,83,3,Our system is very transparent.,a,THE WITNESS,start_question
+908,2072,83,4,At some point after an Agreement of Sale is executed do you put a lockbox on the door?,q,MR. FROEHLICH,start_answer
+909,2074,83,6,I put a lockbox -- assuming the seller agrees right then and there.,a,THE WITNESS,start_question
+910,2076,83,8,So are there sometimes when you do not put a lockbox on?,q,MR. FROEHLICH,start_answer
+911,2078,83,10,"Yes, when the seller disagrees.",a,THE WITNESS,start_question
+912,2079,83,11,Okay.,q,MR. FROEHLICH,start_answer
+913,2080,83,12,But then they have to meet us at the property when we need to walk through it.  So if it's vacant like this property was it's easier for both parties.,a,THE WITNESS,start_question
+914,2083,83,15,Okay. Do you ever change the locks?,q,MR. FROEHLICH,start_answer
+915,2085,83,17,We don't.,a,THE WITNESS,start_question
+916,2086,83,18,Okay.,q,MR. FROEHLICH,start_answer
+917,2087,83,19,This was a rare occasion and can I explain this process here because you're asking questions and you're not getting the whole -- you're asking questions simply on that side of the story.,a,THE WITNESS,start_chat
+918,2091,83,23,I get a chance to ask questions at the end so I'll clarify anything that doesn't get --,side_chat,MR. SCATENA,start_chat
+919,2095,84,2,"Okay, go ahead.",side_chat,THE WITNESS,start_question
+920,2097,84,4,"Sure, so in a moment I'm going to be asking you questions specifically about Mr. Weary's case.",q,MR. FROEHLICH,start_answer
+921,2099,84,6,Go ahead.,a,THE WITNESS,start_question
+922,2100,84,7,But why don't we --,q,MR. FROEHLICH,start_answer
+923,2101,84,8,"Yes, we have in the past changed locks.",a,THE WITNESS,start_question
+924,2102,84,9,Okay.,q,MR. FROEHLICH,start_answer
+925,2103,84,10,"For reasons of a lot of times there's a squatter in it that finally leaves we change the locks, things of that nature.  But this was a specific instance.",a,THE WITNESS,start_question
+926,2107,84,14,Okay. Why did you change the locks on Mr. Weary's house?,q,MR. FROEHLICH,start_answer
+927,2110,84,17,"When we agreed to put a lockbox on the door at the time we signed up the agreement he was fine with it.  We put a lockbox on it.  When we went back to the property, I'm not sure if it was the next day or a couple days after the key was missing.  So rather than us -- his property being exposed to maybe somebody going into the property we changed the locks and put the new key back into the lockbox.",a,THE WITNESS,start_question
+928,2119,85,1,The key was missing from the lockbox?,q,MR. FROEHLICH,start_answer
+929,2120,85,2,Was missing from the lockbox.  Come to find out Mr. Weary took the key from the lockbox because he was backing out of the contract.,a,THE WITNESS,start_question
+930,2123,85,5,"I understand.  Okay, we're going to get back to Mr. Weary in a minute.",q,MR. FROEHLICH,start_answer
+931,2125,85,7,So that's why we changed the locks because we thought somebody had stolen the key out of the lockbox so we changed his locks not to have his property exposed.,a,THE WITNESS,start_question
+932,2129,85,11,Got it.,q,MR. FROEHLICH,start_answer
+933,2130,85,12,But that's the first and only time I've ever done anything like that and it was because of that.,a,THE WITNESS,start_question
+934,2132,85,14,Okay. The agreement to sell real estate requires the buyer to make a $500 cash deposit to Prosperity Abstract; is that correct?,q,MR. FROEHLICH,start_answer
+935,2136,85,18,Say that again?,a,THE WITNESS,start_question
+936,2137,85,19,The agreement of sale in Mr. Weary's case requires a $500 cash deposit to be held in escrow by Prosperity Abstract?,q,MR. FROEHLICH,start_answer
+937,2140,85,22,Yes.,a,THE WITNESS,start_question
+938,2141,85,23,Did the buyer make a $500 cash deposit to Prosperity Abstract?,q,MR. FROEHLICH,start_answer
+939,2144,86,1,"I would imagine that happened but I don't -- can't tell you yes, that actually happened at this day. But I would imagine so, yes.",a,THE WITNESS,start_question
+940,2147,86,4,Why would you imagine so?,q,MR. FROEHLICH,start_answer
+941,2148,86,5,Because it's required.,a,THE WITNESS,start_question
+942,2149,86,6,"And who would make that cash deposit, which individual?",q,MR. FROEHLICH,start_answer
+943,2151,86,8,"That I'm unsure.  It could be Kayla because she has access to banking accounts and stuff like that. It could be George.  I'm not a hundred percent.  It could be Tim, too.",a,THE WITNESS,start_question
+944,2155,86,12,Okay. To your knowledge has the $500 -- if the $500 cash deposit was in fact placed in escrow to Prosperity Abstract to your knowledge has Prosperity Abstract refunded the $500?,q,MR. FROEHLICH,start_answer
+945,2160,86,17,I don't know that.,a,THE WITNESS,start_chat
+946,2161,86,18,Off the record for a second.,side_chat,MR. BARSKY,symbols
+947,2163,86,20,- - -,symbols,,is brackets
+948,2164,86,21,"(Whereupon, a brief break was taken at this time.)",brackets,,symbols
+949,2166,86,23,- - -,symbols,,start_question
+950,2169,87,1,To your knowledge did Tim Stover identify an investor or assignee for Mr. Weary's agreement?,q,MR. FROEHLICH,start_answer
+951,2171,87,3,I don't recall that.  I'm not sure.  Because I think it happened like really quickly like he tried to back out pretty quick.  So I don't know a hundred percent.,a,THE WITNESS,start_question
+952,2175,87,7,Okay. How --,q,MR. FROEHLICH,start_answer
+953,2177,87,9,I know we had interest.,a,THE WITNESS,start_question
+954,2178,87,10,Okay. How do you know that you had interest?,q,MR. FROEHLICH,start_answer
+955,2180,87,12,Because it was put into PODIO.  But I don't think we accepted anything because this happened.,a,THE WITNESS,start_question
+956,2182,87,14,So in the PODIO record --,q,MR. FROEHLICH,start_answer
+957,2183,87,15,But I'm not certain about that.,a,THE WITNESS,start_question
+958,2184,87,16,"Well, let me ask a specific question.  If I were to look at the PODIO record for William Weary would I see an expression of interest?",q,MR. FROEHLICH,start_answer
+959,2187,87,19,"You may, yes.  Like I said, I haven't looked at this file since back then.",a,THE WITNESS,start_question
+960,2189,87,21,Okay.,q,MR. FROEHLICH,start_answer
+961,2190,87,22,But I believe you have all the PODIO stuff or they have the PODIO stuff.,a,THE WITNESS,start_question
+962,2192,87,24,You provided the PODIO stuff to your attorneys?,q,MR. FROEHLICH,start_answer
+963,2195,88,2,I believe so.,a,THE WITNESS,start_question
+964,2196,88,3,To your knowledge have you ever signed an Agreement of Sale on behalf of the Philly Cash Buyer Land Trust and then Tim was unable to identify an investor?,q,MR. FROEHLICH,start_answer
+965,2200,88,7,Yes.,a,THE WITNESS,start_question
+966,2201,88,8,What happens to those properties?,q,MR. FROEHLICH,start_answer
+967,2202,88,9,They get their deposit.  They get the deposit.,a,THE WITNESS,start_question
+968,2203,88,10,Earlier I think you said that ten percent of the properties don't go to closing?,q,MR. FROEHLICH,start_answer
+969,2205,88,12,"Yeah, some of that is title issues and some of that is us not being able to sell it or some unforeseen structural problem or something.",a,THE WITNESS,start_question
+970,2208,88,15,"Okay. Do you ever obtain a Power of Attorney from a potential seller in connection with the Agreement of Sale -- and let me be very clear when I say a Power of Attorney, Power of Attorney granting the Power of Attorney to either you or PPP --",q,MR. FROEHLICH,start_answer
+971,2214,88,21,No.,a,THE WITNESS,start_question
+972,2215,88,22,-- or the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+973,2216,88,23,No.,a,THE WITNESS,start_question
+974,2217,88,24,Have you ever attended a settlement for a property where you have executed the Agreement of Sale?,q,MR. FROEHLICH,start_answer
+975,2220,89,2,Yes.,a,THE WITNESS,start_question
+976,2221,89,3,Okay. Approximately how many?,q,MR. FROEHLICH,start_answer
+977,2223,89,5,"I don't know, 5 or 10.",a,THE WITNESS,start_question
+978,2224,89,6,"And approximately how many times has Capp Investments, LLC been the assignee for an Agreement of Sale that you signed?",q,MR. FROEHLICH,start_answer
+979,2227,89,9,Twice.,a,THE WITNESS,start_question
+980,2228,89,10,At the 5 or 10 settlements that you attended what individuals were at the table?,q,MR. FROEHLICH,start_answer
+981,2230,89,12,"It's usually Kayla, somebody representing the title company, buyer, seller.",a,THE WITNESS,start_question
+982,2232,89,14,And at the settlement -- are you familiar with the document that formerly was called the HUD-1?,q,MR. FROEHLICH,start_answer
+983,2234,89,16,Sure.,a,THE WITNESS,start_question
+984,2235,89,17,And it has a new name on it but can we agree for purposes of this deposition we'll still call it the HUD-1?,q,MR. FROEHLICH,start_answer
+985,2238,89,20,Yes.,a,THE WITNESS,start_question
+986,2239,89,21,"Okay. On the HUD-1 what is listed as the sale price of the property -- in other words, is the sale -- on the HUD-1 is the sale price the price listed on the Agreement of Sale or is the sale price --",q,MR. FROEHLICH,start_answer
+987,2245,90,2,Yes.,a,THE WITNESS,start_question
+988,2246,90,3,-- the price that is paid by the assignee?,q,MR. FROEHLICH,start_answer
+989,2247,90,4,"Yes, the sale price is the Agreement of Sale price on the HUD-1.",a,THE WITNESS,start_question
+990,2249,90,6,How is the assignee fee represented on the HUD-1?,q,MR. FROEHLICH,start_answer
+991,2251,90,8,"I believe it's construction consult, something like that.",a,THE WITNESS,start_question
+992,2253,90,10,And who is the payee for the assignee?,q,MR. FROEHLICH,start_answer
+993,2254,90,11,The buyer.,a,THE WITNESS,start_question
+994,2255,90,12,So the buyer would be the payor. Who is listed as --,q,MR. FROEHLICH,start_answer
+995,2257,90,14,Construction Rehab.,a,THE WITNESS,start_question
+996,2258,90,15,I see. In your experience do the sellers learn of the final purchase price?,q,MR. FROEHLICH,start_answer
+997,2261,90,18,"I don't know.  I mean, I'm not sure.",a,THE WITNESS,start_question
+998,2262,90,19,Okay.,q,MR. FROEHLICH,start_answer
+999,2263,90,20,It's never been an issue so I don't know.,a,THE WITNESS,start_question
+1000,2264,90,21,Okay. At the closings that you attended did the sellers know the final sale price?,q,MR. FROEHLICH,start_answer
+1001,2267,90,24,I don't think so.,a,THE WITNESS,start_question
+1002,2269,91,1,"But they could figure it out if they wanted to, right?",q,MR. FROEHLICH,start_answer
+1003,2271,91,3,Sure.,a,THE WITNESS,start_question
+1004,2272,91,4,And they can figure it out by looking at the HUD-1?,q,MR. FROEHLICH,start_answer
+1005,2274,91,6,Sure.,a,THE WITNESS,start_question
+1006,2275,91,7,All right. Let's talk about William Weary?,q,MR. FROEHLICH,start_answer
+1007,2277,91,9,Okay.,a,THE WITNESS,start_question
+1008,2278,91,10,So do you recall -- how did you first become aware that William Weary had contacted PPP?,q,MR. FROEHLICH,start_answer
+1009,2280,91,12,"Like I said, an appointment gets set in to PODIO.  I have an appointment.  I go out and see Mr. Weary.",a,THE WITNESS,start_question
+1010,2283,91,15,Okay. Do you remember on what date you went out to see him?,q,MR. FROEHLICH,start_answer
+1011,2286,91,18,I don't remember exact dates.  I know it was cold because it was freezing.,a,THE WITNESS,start_question
+1012,2288,91,20,"And the Agreement of Sale is dated November -- you have signed it dated November 28th, 2018?",q,MR. FROEHLICH,start_answer
+1013,2290,91,22,Yes.,a,THE WITNESS,start_question
+1014,2291,91,23,"Do you have any reason to believe that the date that you went out to the property was not November 28th, 2018?",q,MR. FROEHLICH,start_answer
+1015,2295,92,2,"No, no, it was definitely around that time.",a,THE WITNESS,start_question
+1016,2296,92,3,Okay. Do you know how Mr. Weary became aware of the existence of PPP?,q,MR. FROEHLICH,start_answer
+1017,2299,92,6,Probably got a letter I would imagine.,a,THE WITNESS,start_question
+1018,2300,92,7,Okay.,q,MR. FROEHLICH,start_answer
+1019,2301,92,8,"I mean, I don't know if he's equipped for Facebook but probably got a marketing letter.",a,THE WITNESS,start_question
+1020,2303,92,10,All right. Do you recall who entered his information in PODIO?,q,MR. FROEHLICH,start_answer
+1021,2306,92,13,Probably Angela.,a,THE WITNESS,start_question
+1022,2307,92,14,What research did you do in advance of going to Mr. Weary's property?,q,MR. FROEHLICH,start_answer
+1023,2309,92,16,Ran comparables in the area.,a,THE WITNESS,start_question
+1024,2310,92,17,Using Bright?,q,MR. FROEHLICH,start_answer
+1025,2311,92,18,Yes.,a,THE WITNESS,start_question
+1026,2312,92,19,Do you remember how many days passed between Mr. Weary calling PPP and the scheduled appointment?,q,MR. FROEHLICH,start_answer
+1027,2314,92,21,I don't but it couldn't have been more than a week.,a,THE WITNESS,start_question
+1028,2316,92,23,Okay. So when you arrived at Mr. Weary's property he -- you had run the comparables already?,q,MR. FROEHLICH,start_answer
+1029,2320,93,2,Yes.,a,THE WITNESS,start_question
+1030,2321,93,3,Do you remember what price range you were prepared to offer?,q,MR. FROEHLICH,start_answer
+1031,2323,93,5,"I believe I saw sale prices for houses that were ""TLC"" ""fixer-upper"" type in the description.  They ranged from $40,000 to $65,000.",a,THE WITNESS,start_question
+1032,2326,93,8,Okay. Do you remember what time of day it was that you arrived at the property?,q,MR. FROEHLICH,start_answer
+1033,2329,93,11,"I think it was in the morning.  I think it was like -- and I'm guessing here.  I'm thinking it was 10:00 maybe, 10:00 a.m.",a,THE WITNESS,start_question
+1034,2332,93,14,And when you arrived at the property was Mr. Weary already there?,q,MR. FROEHLICH,start_answer
+1035,2334,93,16,"Yes, I believe he was waiting in his car.",a,THE WITNESS,start_question
+1036,2335,93,17,Okay. I'm going to show you a map.,q,MR. FROEHLICH,symbols
+1037,2337,93,19,- -  -,symbols,,is brackets
+1038,2338,93,20,"(Whereupon, D-3 was marked for identification.)",brackets,,symbols
+1039,2340,93,22,- - -,symbols,,start_question
+1040,2342,93,24,So I'll represent to you that this is a Google map photo for 1810 West Ruscomb Street which is the property that's at issue in this litigation.  And do you see there's like that red Google thing that's there?,q,MR. FROEHLICH,start_answer
+1041,2348,94,5,"Yeah, uh-huh.",a,THE WITNESS,start_question
+1042,2349,94,6,And it looks like it's on the -- counting the corner property it looks like it's the 6th one from the corner?,q,MR. FROEHLICH,start_answer
+1043,2352,94,9,Uh-huh.,a,THE WITNESS,start_question
+1044,2353,94,10,As you recall is this an accurate representation of 1810 West Ruscomb Street?,q,MR. FROEHLICH,start_answer
+1045,2355,94,12,Yes.,a,THE WITNESS,start_question
+1046,2356,94,13,Okay. Do you remember where you parked that morning?,q,MR. FROEHLICH,start_answer
+1047,2359,94,16,"Yes, I was down on the same side of the street probably down past that car a little bit.",a,THE WITNESS,start_question
+1048,2361,94,18,"All right. Well, let me give you a blue pen.  If you can write a one and circle it where you parked your car?",q,MR. FROEHLICH,start_answer
+1049,2365,94,22,(Witness complies.),a,THE WITNESS,start_question
+1050,2366,94,23,And do you remember where Mr. Weary parked his car?,q,MR. FROEHLICH,start_answer
+1051,2369,95,1,"Yeah, I believe his car is right here, this dark one.  (Indicating.)",a,THE WITNESS,start_question
+1052,2371,95,3,Can you write a 2 and then circle that?,q,MR. FROEHLICH,start_answer
+1053,2372,95,4,(Witness complies.),a,THE WITNESS,start_question
+1054,2373,95,5,"And just to be clear for the record, down below if you can write 1-dash, Anthony Cappello car and then 2, you know, William Weary car?",q,MR. FROEHLICH,start_answer
+1055,2376,95,8,(Witness complies.),a,THE WITNESS,start_question
+1056,2377,95,9,Okay. So when you got to the property I imagine -- what kind of car did you bring that day?,q,MR. FROEHLICH,start_answer
+1057,2380,95,12,Infiniti Q50.,a,THE WITNESS,start_question
+1058,2381,95,13,Four door sedan?,q,MR. FROEHLICH,start_answer
+1059,2382,95,14,Yes.,a,THE WITNESS,start_question
+1060,2383,95,15,I imagine you get out of the car and you go up to the property and Mr. Weary meets you.  Do you meet outside the property or inside the property?,q,MR. FROEHLICH,start_answer
+1061,2386,95,18,"Well, we greeted each other outside of the property.",a,THE WITNESS,start_question
+1062,2388,95,20,Okay.,q,MR. FROEHLICH,start_answer
+1063,2389,95,21,Because I usually get there early so I was waiting for whenever the appointment was.,a,THE WITNESS,start_question
+1064,2391,95,23,"Uh-huh, and then what happens next, does he let you into the house?",q,MR. FROEHLICH,start_answer
+1065,2394,96,1,"Yeah, he lets us in.  We chatted for a bit about, you know, the same thing I said, kind of get a feel for why he's selling, you know, how long he's owned the property, you know, tenants, that kind of stuff and then he showed me around.",a,THE WITNESS,start_question
+1066,2399,96,6,Did he tell you that there were any tenants there?,q,MR. FROEHLICH,start_answer
+1067,2401,96,8,There were no tenants there.  It was vacant. It was uninhabitable.,a,THE WITNESS,start_question
+1068,2403,96,10,Why was it uninhabitable?,q,MR. FROEHLICH,start_answer
+1069,2404,96,11,"It had no running water.  It had no heat and it was freezing in there.  Like that's how I remember it was so cold, my nose was running.  And the kitchen was like half there, half not.",a,THE WITNESS,start_question
+1070,2408,96,15,Okay.,q,MR. FROEHLICH,start_answer
+1071,2409,96,16,"I mean, I would consider it unhabitable, maybe something else doesn't, but...",a,THE WITNESS,start_question
+1072,2411,96,18,Did you take pictures on that day?,q,MR. FROEHLICH,start_answer
+1073,2412,96,19,I did.,a,THE WITNESS,symbols
+1074,2413,96,20,- - -,symbols,,is brackets
+1075,2414,96,21,"(Whereupon, D-4 was marked for identification.)",brackets,,symbols
+1076,2416,96,23,- - -,symbols,,start_question
+1077,2419,97,1,"Mr. Cappello, this is Plaintiff's response to Defendant's request for production of documents. This is a document that your attorney sent me in response to a request for documents regarding this case.  And if you go about halfway through the document you'll see photos starting with -- yep, you're looking at it now.",q,MR. FROEHLICH,start_answer
+1078,2426,97,8,Uh-huh.,a,THE WITNESS,start_question
+1079,2427,97,9,"If you can flip through these photos, are these pictures that you took of the house?",q,MR. FROEHLICH,start_answer
+1080,2429,97,11,Yes.,a,THE WITNESS,start_question
+1081,2430,97,12,Okay. Did you provide your attorneys all of the pictures that you took of the house?,q,MR. FROEHLICH,start_answer
+1082,2433,97,15,I didn't provide anything to the attorneys.,a,THE WITNESS,start_question
+1083,2434,97,16,What happens after you take pictures of the house?,q,MR. FROEHLICH,start_answer
+1084,2436,97,18,As far as what?,a,THE WITNESS,start_question
+1085,2437,97,19,Did you take them on your phone?,q,MR. FROEHLICH,start_answer
+1086,2438,97,20,Yeah.,a,THE WITNESS,start_question
+1087,2439,97,21,And then after you leave the house do you upload the photos to PODIO?,q,MR. FROEHLICH,start_answer
+1088,2441,97,23,"Yeah, they get uploaded into PODIO.",a,THE WITNESS,start_question
+1089,2442,97,24,Okay. So do you -- it looks like there's about a dozen pictures here.  Does this appear to be all of the pictures that you took that day?,q,MR. FROEHLICH,start_answer
+1090,2447,98,4,I don't know.,a,THE WITNESS,start_question
+1091,2448,98,5,Okay.,q,MR. FROEHLICH,start_answer
+1092,2449,98,6,"Sometimes I take 12 pictures.  Sometimes I take 20, you know, depending on what we're taking pictures of.  I don't know if this is all of them.",a,THE WITNESS,start_question
+1093,2452,98,9,"Okay, all right. So did Mr. Weary give you a tour of his property?",q,MR. FROEHLICH,start_answer
+1094,2455,98,12,Yes.,a,THE WITNESS,start_question
+1095,2456,98,13,And did you take the pictures that we just reviewed?,q,MR. FROEHLICH,start_answer
+1096,2458,98,15,I did.,a,THE WITNESS,start_question
+1097,2459,98,16,"Okay, what happened next?",q,MR. FROEHLICH,start_answer
+1098,2460,98,17,"We started to discuss like kind of what he was looking for for the property.  And he had told me and I think he might have said somewhere like between $55,000 and $60,000.",a,THE WITNESS,start_question
+1099,2464,98,21,Okay.,q,MR. FROEHLICH,start_answer
+1100,2465,98,22,"And then we had a discussion about that, a negotiation about that.  And I told him I couldn't do that.",a,THE WITNESS,start_question
+1101,2469,99,1,Okay. Did you tell him a price that you could do?,q,MR. FROEHLICH,start_answer
+1102,2472,99,4,Yes.,a,THE WITNESS,start_question
+1103,2473,99,5,And what price did you tell him that you could do?,q,MR. FROEHLICH,start_answer
+1104,2475,99,7,"Originally $35,000.",a,THE WITNESS,start_question
+1105,2476,99,8,"And did he accept $35,000?",q,MR. FROEHLICH,start_answer
+1106,2477,99,9,No.,a,THE WITNESS,start_question
+1107,2478,99,10,"And did he give you a counteroffer when you told him $35,000?",q,MR. FROEHLICH,start_answer
+1108,2480,99,12,He did not give me a counteroffer.,a,THE WITNESS,start_question
+1109,2481,99,13,"Okay. How did you -- so what happened after you offered $35,000?",q,MR. FROEHLICH,start_answer
+1110,2484,99,16,"After I offered $35,000 he said that was too low.  I said, well, where do we need to be to kind of have an agreement today.  And he started to think about it and then I started to explain the benefits, you know, I'll take care of the closing cost and transfer tax.  And then he was really not talking about price. He was basically saying, well, I got -- there's other people I may show the property to, you know, there are other appointments, I don't know if they were that day or the next day or whatever.  And I was like, well, I'm here, you know, I would love to come meet somewhere in the middle.  And then we wound up settling on $40,000.",a,THE WITNESS,start_question
+1111,2497,100,4,"Okay. Did you offer $40,000 or did he offer $40,000?",q,MR. FROEHLICH,start_answer
+1112,2500,100,7,"I offered $40,000.",a,THE WITNESS,start_question
+1113,2501,100,8,Were you still in the house at that point?,q,MR. FROEHLICH,start_answer
+1114,2502,100,9,Yes.,a,THE WITNESS,start_question
+1115,2503,100,10,What happened after you --,q,MR. FROEHLICH,start_answer
+1116,2504,100,11,We agreed on price and terms in the house.,a,THE WITNESS,start_question
+1117,2505,100,12,Okay.,q,MR. FROEHLICH,start_answer
+1118,2506,100,13,"So I said, okay, let me go get the paperwork. Ran outside, went into my truck and got the paperwork. I said let's sit in your car because there's no heat in the house.  It's freezing.  I'm not standing outside, the wind was blowing.  So we sat in his car and that's when I went over the whole Agreement of Sale, explained everything about the lockbox, told him, you know, went over line for line, this is what this is, explained to him very clearly that once you and I sign this agreement we are in agreement to buy the property.  You can't sell it to anybody else.  He signed everything. I had no inclination that anything was off at that point.  I thought we were in agreement.  He was cool. We put the lockbox on.  He didn't have any -- give me any blow back about the lockbox.  Because had he done that I would have said, fine, okay, Tim is just going to schedule a time that we can walk through and take a look.  But at that point like I asked him if he had any questions, was there any concerns, that kind of stuff and there was nothing.",a,THE WITNESS,start_question
+1119,2527,101,9,He had no questions?,q,MR. FROEHLICH,start_answer
+1120,2528,101,10,"He had no questions. When this all went array was when I guess he went back to the house and saw the locks were changed, right.  And I explained to him well, this is why the key was missing.  He didn't tell me that he was the one that took the key at that point.",a,THE WITNESS,start_question
+1121,2534,101,16,At some point did he tell you --,q,MR. FROEHLICH,start_answer
+1122,2535,101,17,Yes.,a,THE WITNESS,start_question
+1123,2536,101,18,-- that he was the one --,q,MR. FROEHLICH,start_answer
+1124,2537,101,19,"He made me feel like that I just changed the locks and was just doing something shady.  And I explained to him, I said, I don't know if it was my contractor that walked through or they lost the key, I don't know.  But because the key wasn't in there we replaced the locks so your house wasn't exposed.  And that's when he proceeded and said, well, I took the key out because I changed my mind.",a,THE WITNESS,start_question
+1125,2546,102,3,Okay.,q,MR. FROEHLICH,start_answer
+1126,2547,102,4,And that's how that conversation went so...,a,THE WITNESS,start_question
+1127,2548,102,5,Okay. That conversation was that held over the phone or in person?,q,MR. FROEHLICH,start_answer
+1128,2551,102,8,That was over the phone.,a,THE WITNESS,start_question
+1129,2552,102,9,Do you remember the date of that conversation?,q,MR. FROEHLICH,start_answer
+1130,2553,102,10,I don't.,a,THE WITNESS,start_question
+1131,2554,102,11,If I wanted to know the date of that conversation would it be reflected in PODIO?,q,MR. FROEHLICH,start_answer
+1132,2556,102,13,It would not because it wasn't linked through PODIO.  I had his number I dialled on my phone.,a,THE WITNESS,start_question
+1133,2558,102,15,In the deal notes do you track the phone calls that you have with the potential seller after --,q,MR. FROEHLICH,start_answer
+1134,2560,102,17,"Yes, yes.",a,THE WITNESS,start_question
+1135,2561,102,18,So --,q,MR. FROEHLICH,start_answer
+1136,2562,102,19,"So I probably if I went and updated PODIO I probably put something like hey, seller this is what happened, you know, explained what happened, you know, he's trying to back out, blah, blah, blah, you know.",a,THE WITNESS,start_question
+1137,2566,102,23,Okay.,q,MR. FROEHLICH,start_answer
+1138,2567,102,24,I would have updated PODIO or somewhere in the comments.,a,THE WITNESS,start_question
+1139,2570,103,2,"Right, so this lawsuit was filed on December 6th.  So we can surmise that this conversation happened --",q,MR. FROEHLICH,start_answer
+1140,2573,103,5,Between then.  It was pretty quick.  It wasn't long between from when I signed it up to when he wanted to back out.,a,THE WITNESS,start_question
+1141,2576,103,8,Okay. So I think there's only about 8 days between this agreement and the lawsuit being filed?,q,MR. FROEHLICH,start_answer
+1142,2579,103,11,Yes.,a,THE WITNESS,start_question
+1143,2580,103,12,Did George Beatty ever speak to William Weary to your knowledge?,q,MR. FROEHLICH,start_answer
+1144,2582,103,14,No.,a,THE WITNESS,start_question
+1145,2583,103,15,And did Tim Stover ever talk to William Weary?,q,MR. FROEHLICH,start_answer
+1146,2584,103,16,He may have.  I'm not sure but he may have.,a,THE WITNESS,start_question
+1147,2585,103,17,"After November 28th to your knowledge did anybody else associated with PPP or Construction rehab, LLC or the Philly Cash Buyer Land Trust ever speak to Mr. Weary?",q,MR. FROEHLICH,start_answer
+1148,2589,103,21,"Yes, he had called in a couple of times after that whether it was Angela that picked up the phone or it was Kayla.  Because after the deal was signed up Kayla is like the point of contact from that point on. So it could have been Kayla or Angela when he had called in.",a,THE WITNESS,start_question
+1149,2596,104,3,Got you. And to your knowledge does Kayla enter the record of phone calls that she has with potential sellers in PODIO?,q,MR. FROEHLICH,start_answer
+1150,2600,104,7,"She should, yes.  At least what transpired on the call.",a,THE WITNESS,start_question
+1151,2602,104,9,"Right, a moment ago you said that your contractors walked through the house?",q,MR. FROEHLICH,start_answer
+1152,2604,104,11,"Yes, meaning Tim walked my contractors through.  I wasn't sure at that point how the key got out of the lockbox.  So I told him I was unsure how that happened and this is why we did what we did and that's how it went down.  That's exactly what I said to him.  Because I wasn't sure at that point if somebody had stolen the lockbox or what.  He just said you changed my locks and I'm like well, the key was missing and I didn't know who did it.",a,THE WITNESS,start_question
+1153,2613,104,20,To your knowledge did any contractors go into the house at your direction?,q,MR. FROEHLICH,start_answer
+1154,2615,104,22,"I think Tim might have sent somebody over, yes.",a,THE WITNESS,start_question
+1155,2617,104,24,Why do you think that Tim might have sent somebody over?,q,MR. FROEHLICH,start_answer
+1156,2620,105,2,Because he is the one that handles the disposition part of the transaction.,a,THE WITNESS,start_question
+1157,2622,105,4,But did Tim tell you that he sent contractors there?,q,MR. FROEHLICH,start_answer
+1158,2624,105,6,"Yeah, there was people that went over.",a,THE WITNESS,start_question
+1159,2625,105,7,Okay.,q,MR. FROEHLICH,start_answer
+1160,2626,105,8,So I didn't know if they lost the key or if somebody stole it.,a,THE WITNESS,start_question
+1161,2628,105,10,Okay?,q,MR. FROEHLICH,start_answer
+1162,2629,105,11,So that's why I changed the locks.,a,THE WITNESS,start_question
+1163,2630,105,12,"Okay, I want to be clear, so did people go into the house after November 28th when this agreement was --",q,MR. FROEHLICH,start_answer
+1164,2633,105,15,Yes.,a,THE WITNESS,start_question
+1165,2634,105,16,Okay.,q,MR. FROEHLICH,start_answer
+1166,2635,105,17,That was understood though that that was going to happen.,a,THE WITNESS,start_question
+1167,2637,105,19,"Sure, okay. At some point did you tell Mr. Weary that Philly Cash Buyer Land Trust was considering bringing a lawsuit against him?",q,MR. FROEHLICH,start_answer
+1168,2641,105,23,Say that again?,a,THE WITNESS,start_question
+1169,2642,105,24,"Sure, when did Mr. Weary first learn that the Philly Cash Buyer Land Trust was considering bringing a lawsuit against him?",q,MR. FROEHLICH,start_chat
+1170,2646,106,3,Objection as to form but you may answer.,side_chat,MR. SCATENA,start_chat
+1171,2648,106,5,"No, no, no.  If you have an objection as to form I'll do my best to --",side_chat,MR. FROEHLICH,start_chat
+1172,2650,106,7,"Yeah, he wouldn't know when Mr. Weary first learned of something.",side_chat,MR. SCATENA,start_question
+1173,2653,106,10,Did you ever tell Mr. Weary that the Philly Cash Buyer Land Trust was considering filing a lawsuit against him?,q,MR. FROEHLICH,start_answer
+1174,2656,106,13,Yes.,a,THE WITNESS,start_question
+1175,2657,106,14,When did you first tell Mr. Weary about that?,q,MR. FROEHLICH,start_answer
+1176,2658,106,15,It was sometime in that 8 day period.  I don't know exactly when.,a,THE WITNESS,start_question
+1177,2660,106,17,All right.,q,MR. FROEHLICH,start_answer
+1178,2661,106,18,"It was when he informed me that he was no longer selling the property and he wanted to back out. It was at that point I said, well, you know, that's not how the contract works and I explained to him how a contract works.  And he had said, well, I can change my mind.  And I'm like well, that's kind of not how it works.  I've already allocated time and resources and money to this process so...",a,THE WITNESS,symbols
+1179,2670,107,2,- - -,symbols,,is brackets
+1180,2671,107,3,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+1181,2673,107,5,- - -,symbols,,is brackets
+1182,2674,107,6,"(Whereupon, a brief break was taken at this time.)",brackets,,symbols
+1183,2676,107,8,- - -,symbols,,start_question
+1184,2678,107,10,"Mr. Cappello, you said Tim and my contractors. What are the names of the contractors that went into the property?",q,MR. FROEHLICH,start_answer
+1185,2681,107,13,I don't know who he took through the property.,a,THE WITNESS,start_question
+1186,2682,107,14,Okay.,q,MR. FROEHLICH,start_answer
+1187,2683,107,15,I'm not sure who he took through.,a,THE WITNESS,start_question
+1188,2684,107,16,Okay. After you spoke to Mr. Weary about potentially filing a lawsuit what did you do next?,q,MR. FROEHLICH,start_answer
+1189,2687,107,19,"Well, I mean, first I tried to see if there was a way we can rectify it.  Like I didn't want -- that was like the last option like what do we need to kind of make this go through.  And he was just not willing to talk about it at all.",a,THE WITNESS,start_question
+1190,2692,107,24,Okay.,q,MR. FROEHLICH,start_answer
+1191,2694,108,1,So I said that and then your question was --,a,THE WITNESS,start_question
+1192,2695,108,2,"And then what did you do, did you talk to George Beatty?",q,MR. FROEHLICH,start_answer
+1193,2697,108,4,"Yeah, yeah, I talked to Tim, George, said this is what's going on kind of thing.  That's when I guess it was decided to file the lis pendens.",a,THE WITNESS,start_question
+1194,2700,108,7,And when you say file the lis pendens what does that mean or what's your understanding of what it means?,q,MR. FROEHLICH,start_answer
+1195,2703,108,10,It's some kind of judgment or something against the property that's being contested -- the property is being contested.,a,THE WITNESS,start_question
+1196,2706,108,13,And what is the -- like what's the effect of the lis pendens?,q,MR. FROEHLICH,start_answer
+1197,2708,108,15,The effect is I would imagine is get the seller to acknowledge that he's in contract.,a,THE WITNESS,start_question
+1198,2710,108,17,I know you're not a lawyer and I'm not asking for a legal opinion.  But what is your understanding about how a lis pendens works; why would it --,q,MR. FROEHLICH,start_answer
+1199,2713,108,20,My understanding would be it's like a lien I guess that's filed against the property of some sort.,a,THE WITNESS,start_question
+1200,2715,108,22,Okay. Do you remember on what day you spoke to George and Tim about this situation?,q,MR. FROEHLICH,start_answer
+1201,2719,109,1,I don't remember the exact day.,a,THE WITNESS,start_question
+1202,2720,109,2,Okay. I'm going to show you screen shots of your public Facebook page.,q,MR. FROEHLICH,symbols
+1203,2723,109,5,- - -,symbols,,is brackets
+1204,2724,109,6,"(Whereupon, D-5 was marked for identification.)",brackets,,symbols
+1205,2726,109,8,- - -,symbols,,start_question
+1206,2728,109,10,"Just laying some foundation here, do you have a Facebook page?",q,MR. FROEHLICH,start_answer
+1207,2730,109,12,I do.,a,THE WITNESS,start_question
+1208,2731,109,13,Looking at -- looking at the upper left-hand corner --,q,MR. FROEHLICH,start_answer
+1209,2733,109,15,This is true.  This is true.  (Indicating.),a,THE WITNESS,start_question
+1210,2734,109,16,"Okay. So this is a screen shot of a post that you made on December 4th.  It says, well, I have 30 days to change my mind.  Ah, no, you don't. Mr. Seller, that's not how the contract works. Is this your posting?",q,MR. FROEHLICH,start_answer
+1211,2740,109,22,That is.,a,THE WITNESS,start_question
+1212,2741,109,23,And the Mr. Seller is that William Weary?,q,MR. FROEHLICH,start_answer
+1213,2742,109,24,"I'm not a hundred percent, it could be.  This happened around the same time, could be.",a,THE WITNESS,start_question
+1214,2745,110,2,And if you look down at the comment down below you say sure you can as long as you don't mind a lis pendens filed against the property --,q,MR. FROEHLICH,start_answer
+1215,2748,110,5,Yes.,a,THE WITNESS,start_question
+1216,2749,110,6,-- is that your comment as well?,q,MR. FROEHLICH,start_answer
+1217,2750,110,7,Yes.,a,THE WITNESS,start_question
+1218,2751,110,8,"Since this is dated December 4th do you have any reason to believe that the conversation that you just described with George Beatty and Tim Stover also -- sorry, that question was confusing.  Let me restate it.",q,MR. FROEHLICH,start_answer
+1219,2756,110,13,I would imagine that this is probably the day that Mr. Weary probably wanted to cancel the agreement.,a,THE WITNESS,start_question
+1220,2758,110,15,Okay.,q,MR. FROEHLICH,start_answer
+1221,2759,110,16,That's what I would assume.,a,THE WITNESS,start_question
+1222,2760,110,17,Okay. Do you recall Mr. Weary ever telling you that he had trouble reading?,q,MR. FROEHLICH,start_answer
+1223,2763,110,20,Never.,a,THE WITNESS,start_question
+1224,2764,110,21,Earlier you said that after you left your conversation with Mr. Weary you had no inclination that he had a problem with it?,q,MR. FROEHLICH,start_answer
+1225,2767,110,24,Uh-huh.,a,THE WITNESS,start_question
+1226,2769,111,1,Have you had situations where you left thinking that there might be trouble?,q,MR. FROEHLICH,start_answer
+1227,2771,111,3,"No, I try to alleviate all their concerns there.  If there's a concern let me know because we'll address it now and I'll try to alleviate that for you.",a,THE WITNESS,start_question
+1228,2774,111,6,Okay.,q,MR. FROEHLICH,start_answer
+1229,2775,111,7,That's kind of like how we close.  I don't want to -- I want them to feel comfortable about doing business.,a,THE WITNESS,start_question
+1230,2778,111,10,Okay.,q,MR. FROEHLICH,start_answer
+1231,2779,111,11,I'm not stealing little old lady houses.,a,THE WITNESS,start_question
+1232,2780,111,12,"Okay, all right. Have agreements of sale that you signed on behalf of the Philly Cash Buyer Land Trust ever resulted in litigation prior to Mr. Weary's case?",q,MR. FROEHLICH,start_answer
+1233,2784,111,16,"No -- litigation, no.",a,THE WITNESS,start_question
+1234,2785,111,17,Okay.,q,MR. FROEHLICH,start_answer
+1235,2786,111,18,Not that I know of.,a,THE WITNESS,symbols
+1236,2787,111,19,- - -,symbols,,is brackets
+1237,2788,111,20,"(Whereupon, D-6 was marked for identification.)",brackets,,symbols
+1238,2790,111,22,- - -,symbols,,start_question
+1239,2792,111,24,"So for identification purposes I'm handing you a lawsuit that was brought by the Philly Cash Buyer Land Trust against Joan Watts, Trustee; The Meldon McLaine Revocable Living Trust in Delaware County in September of last year.  If you can flip towards the back under Exhibit A you'll see standard agreement to sell real estate. Is that your signature on Page 5?",q,MR. FROEHLICH,start_answer
+1240,2801,112,8,Yes.,a,THE WITNESS,start_question
+1241,2802,112,9,And I should say just for the record you'll see on that page it says -- has a water mark copying. That was not on the original.  That's a function of the Court system. Do you remember meeting with this potential seller regarding the sale of this property?,q,MR. FROEHLICH,start_answer
+1242,2808,112,15,Yes.,a,THE WITNESS,start_question
+1243,2809,112,16,So this is a lawsuit that Philly Cash Buyer Land Trust brought.  Were you aware that the Philly Cash Buyer Land Trust brought this lawsuit?,q,MR. FROEHLICH,start_answer
+1244,2812,112,19,"Yes, you did say litigation though. Technically, this is not -- we're not in litigation. We weren't in litigation for this.  We filed a lis pendens.",a,THE WITNESS,start_question
+1245,2816,112,23,Okay. When I say litigation what does that --,q,MR. FROEHLICH,start_answer
+1246,2819,113,1,"I misunderstood.  I'm thinking like courtroom, we're under the process of being -- yeah.",a,THE WITNESS,start_question
+1247,2821,113,3,So when I said --,q,MR. FROEHLICH,start_answer
+1248,2822,113,4,"So yes, if that question was am I aware of any other lis pendens that were filed, yes.",a,THE WITNESS,start_question
+1249,2824,113,6,Okay. What do you remember about this transaction?,q,MR. FROEHLICH,start_chat
+1250,2827,113,9,"I'm just going to object to every single one you're going to introduce moving forward just about relevance and object to form, all of the above.  This is a separate matter, separate property, different defendant, yeah, you can answer, but...",side_chat,MR. SCATENA,start_chat
+1251,2833,113,15,"Well, you said relevance which --",side_chat,MR. FROEHLICH,start_chat
+1252,2835,113,17,It's object to form.,side_chat,MR. SCATENA,start_chat
+1253,2836,113,18,You said form.  I want to make sure that I address any issues that you have about form.,side_chat,MR. FROEHLICH,start_chat
+1254,2839,113,21,"Okay, sorry, object to the document, not form.",side_chat,MR. SCATENA,start_chat
+1255,2841,113,23,Okay.,side_chat,MR. FROEHLICH,start_chat
+1256,2842,113,24,To the document and relevance in this deposition.,side_chat,MR. SCATENA,start_chat
+1257,2845,114,2,"Okay, relevance your objection is heard.  Do you have an objection to the form of the question?",side_chat,MR. FROEHLICH,start_chat
+1258,2848,114,5,"No, sorry.  I'll withdrawal the objection as to form.",side_chat,MR. SCATENA,start_chat
+1259,2850,114,7,Okay.,side_chat,MR. FROEHLICH,start_question
+1260,2852,114,9,"So Mr. Cappello, what do you remember about this transaction of this property, it looks like 26 Bailey Road in Yeadon?",q,MR. FROEHLICH,start_answer
+1261,2855,114,12,Yes.,a,THE WITNESS,start_question
+1262,2856,114,13,Did you meet with the potential seller in this case?,q,MR. FROEHLICH,start_answer
+1263,2858,114,15,I did.,a,THE WITNESS,start_question
+1264,2859,114,16,Did this case ever go to closing?,q,MR. FROEHLICH,start_answer
+1265,2860,114,17,"No, because she was up for tax sale.",a,THE WITNESS,start_question
+1266,2861,114,18,Okay. Why --,q,MR. FROEHLICH,start_answer
+1267,2863,114,20,"I got contacted by an attorney from her saying, you know, that it's up for tax sale.  They tried to fight the tax sale.  She wound up losing the house anyway.",a,THE WITNESS,start_question
+1268,2867,114,24,Okay.,q,MR. FROEHLICH,start_answer
+1269,2869,115,1,Because she backed out of the house.  Had she had sold the property she would have gotten money.  But her lawyer advised her not to and let it go to upset sale.,a,THE WITNESS,start_question
+1270,2873,115,5,Okay.,q,MR. FROEHLICH,start_answer
+1271,2874,115,6,Because there was inheritance tax and stuff like that associated with the whole file.,a,THE WITNESS,start_question
+1272,2876,115,8,Okay. This may sound like a basic question but I do want to ask it.  Did Philly Cash Buyer Land Trust bring this case to enforce the contract that Joan Watts executed?,q,MR. FROEHLICH,start_answer
+1273,2881,115,13,Yes.,a,THE WITNESS,start_question
+1274,2882,115,14,Okay. When you left your meeting with Joan Watts did you have any inclination that there would be an issue with this Agreement of Sale?,q,MR. FROEHLICH,start_answer
+1275,2886,115,18,"She was a hundred percent in agreement.  She was afraid of losing the house and not getting anything.  It wasn't until she had contacted her attorney who opened up the trust that he explained to her, well, if you're paying inheritance tax you're only going to walk about away with $7,000 or whatever the number was.  He's like you might as well just let it go to upset sale.  And that's the last -- I think it went to tax sale.  I don't know if it was ever purchased but it went to tax sale.",a,THE WITNESS,start_question
+1276,2897,116,4,Okay.,q,MR. FROEHLICH,symbols
+1277,2898,116,5,- - -,symbols,,is brackets
+1278,2899,116,6,"(Whereupon, D-7 was marked for identification.)",brackets,,symbols
+1279,2901,116,8,- - -,symbols,,start_question
+1280,2903,116,10,And if you can take a look at this and for identification purposes I can represent that D-7 is a copy of a Complaint captioned the Philly Cash Buyer Land Trust versus Theresa Depiera that was filed in Philadelphia County Court in July of 2018.  If you can flip to the back under Exhibit A did you sign this agreement to sell real estate?,q,MR. FROEHLICH,start_answer
+1281,2910,116,17,Yes.,a,THE WITNESS,start_question
+1282,2911,116,18,Do you remember meeting with Theresa Depiera?,q,MR. FROEHLICH,start_answer
+1283,2912,116,19,Yep.,a,THE WITNESS,start_question
+1284,2913,116,20,Did this transaction go to closing?,q,MR. FROEHLICH,start_answer
+1285,2914,116,21,It did.,a,THE WITNESS,start_question
+1286,2915,116,22,Okay. Why did the Philly Cash Buyer Land Trust bring a lawsuit against Ms. Theresa Depiera?,q,MR. FROEHLICH,start_chat
+1287,2919,117,1,I'm going to object as to form.  He can't speak as to why Philly Cash Buyer did something.,side_chat,MR. SCATENA,start_chat
+1288,2922,117,4,Fair enough.,side_chat,MR. FROEHLICH,start_question
+1289,2924,117,6,"Do you remember -- what, if anything, do you remember about this case?",q,MR. FROEHLICH,start_answer
+1290,2926,117,8,I remember I signed it up and they tried to back out of the agreement.,a,THE WITNESS,start_question
+1291,2928,117,10,Okay. Why did they try to back out of the agreement?,q,MR. FROEHLICH,start_answer
+1292,2931,117,13,They claimed they weren't selling anymore.,a,THE WITNESS,start_question
+1293,2932,117,14,Okay. Do you remember if they gave you a reason for not selling?,q,MR. FROEHLICH,start_answer
+1294,2935,117,17,They didn't give me a reason.  They just said they changed their mind.,a,THE WITNESS,start_question
+1295,2937,117,19,Okay. And after the Philly Cash Buyer Land Trust brought this case did they comply with the Agreement of Sale?,q,MR. FROEHLICH,start_answer
+1296,2941,117,23,"Eventually, yes.",a,THE WITNESS,start_question
+1297,2942,117,24,Okay.,q,MR. FROEHLICH,symbols
+1298,2944,118,1,- - -,symbols,,is brackets
+1299,2945,118,2,"(Whereupon, D-8 was marked for identification.)",brackets,,symbols
+1300,2947,118,4,- - -,symbols,,start_question
+1301,2949,118,6,"So what's been marked as D-8 I can tell you for identification purposes is a lawsuit brought by the Philly Cash Buyer Land Trust against Kelly Ward, representative of the Estate of Tammy Glass in the Court of Common Pleas in Philadelphia in January of 2018. Mr. Cappello, if you can flip to the back under Exhibit A you can see the standard agreement to sell real estate.",q,MR. FROEHLICH,start_chat
+1302,2958,118,15,"Just a quick objection, Counsel.  I don't have the actual -- mine just goes right to the exhibit.  Do you have the actual --",side_chat,MR. SCATENA,symbols
+1303,2961,118,18,- - -,symbols,,is brackets
+1304,2962,118,19,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+1305,2964,118,21,- - -,symbols,,is brackets
+1306,2965,118,22,"(Whereupon, D-9 was marked for identification.)",brackets,,symbols
+1307,2967,118,24,- - -,symbols,,start_question
+1308,2970,119,2,"So for identifications purposes we're looking at D-9 which is a lawsuit brought by the Philly Cash Buyer Land Trust against Susan Clifford in Delaware County, Pennsylvania and the verification was signed on November 8th, 2018.  And if you can flip to Exhibit A of this one you'll see the same standard agreement to sell real estate. Did you sign this agreement?",q,MR. FROEHLICH,start_answer
+1309,2978,119,10,Yes.,a,THE WITNESS,start_question
+1310,2979,119,11,All right. Do you recall meeting with Susan Clifford to sell this property?,q,MR. FROEHLICH,start_answer
+1311,2982,119,14,I do.,a,THE WITNESS,start_question
+1312,2983,119,15,And did this agreement go to closing?,q,MR. FROEHLICH,start_answer
+1313,2984,119,16,It did not.,a,THE WITNESS,start_question
+1314,2985,119,17,Okay. What do you remember about why it did not go to closing?,q,MR. FROEHLICH,start_answer
+1315,2988,119,20,"I don't -- well, she tried to back out.  She was -- the house was vacant.  Her husband had gotten arrested or something like that.  She was losing the house to tax sale so she wanted to sell.  We signed an agreement.  She agreed.  Everything was okay.  And then a couple of days later she said her husband wasn't in agreement or something like that.",a,THE WITNESS,start_question
+1316,2996,120,3,Okay. This did not -- did you say this did not go to closing?,q,MR. FROEHLICH,start_answer
+1317,2999,120,6,It didn't.,a,THE WITNESS,start_question
+1318,3000,120,7,Okay. Do you recall why it did not go to closing?,q,MR. FROEHLICH,start_answer
+1319,3003,120,10,I don't.  I just explained she tried to back out.,a,THE WITNESS,start_question
+1320,3005,120,12,Okay. Philly Cash Buyer --,q,MR. FROEHLICH,start_answer
+1321,3007,120,14,I don't know if it went to tax sale or -- she was up for tax sale.  I don't know if it went to tax sale or not.,a,THE WITNESS,start_question
+1322,3010,120,17,Okay. And am I correct in thinking that the Philly Cash Buyer Land Trust brought this litigation in order to have Susan Clifford comply with the terms of the Agreement of Sale?,q,MR. FROEHLICH,start_answer
+1323,3015,120,22,Yes.,a,THE WITNESS,symbols
+1324,3016,120,23,- - -,symbols,,is brackets
+1325,3017,120,24,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+1326,3020,121,2,- - -,symbols,,start_question
+1327,3022,121,4,"If you can go to the back page of D-8 and for identification purposes D-8, Philly Cash Buyer Land Trust v. Kelly Ward, Representative of the Estate of Tammy Glass. Is that your signature?",q,MR. FROEHLICH,start_answer
+1328,3027,121,9,No.,a,THE WITNESS,start_question
+1329,3028,121,10,Okay. Do you recognize whose signature that is?,q,MR. FROEHLICH,start_answer
+1330,3031,121,13,I don't.,a,THE WITNESS,start_question
+1331,3032,121,14,Okay. Do you recall this transaction?,q,MR. FROEHLICH,start_answer
+1332,3034,121,16,"I don't, no.",a,THE WITNESS,start_question
+1333,3035,121,17,Okay. And if you look at Page 3 of the agreement there's an initial JC.  KW I imagine is Kelly Ward.  But there's an initial JC.  To your knowledge has anyone with those initials worked as an acquisition manager with the initials of JC?,q,MR. FROEHLICH,start_answer
+1334,3041,121,23,"JC, we had a JD but not a JC.",a,THE WITNESS,start_question
+1335,3042,121,24,"Okay, all right.",q,MR. FROEHLICH,symbols
+1336,3044,122,1,- - -,symbols,,is brackets
+1337,3045,122,2,"(Whereupon, D-10 was marked for identification.)",brackets,,symbols
+1338,3047,122,4,- - -,symbols,,start_question
+1339,3049,122,6,"So what's in front of you has been marked as D-10 I can represent for identification purposes that this is a copy of a Complaint brought by the Philly Cash Buyer Land Trust against Timothy L. Jones in Philadelphia County Court on November 20th, 2017. Mr. Cappello, if you can skip to the back where it is Exhibit A and you can see the standard agreement to sell real estate. Is that your signature on the last page of the agreement?",q,MR. FROEHLICH,start_answer
+1340,3059,122,16,Yes.,a,THE WITNESS,start_question
+1341,3060,122,17,And do you remember this transaction with Timothy Jones of 3542 West Carlisle Street?,q,MR. FROEHLICH,start_answer
+1342,3062,122,19,Yes.,a,THE WITNESS,start_question
+1343,3063,122,20,Did this property go to closing?,q,MR. FROEHLICH,start_answer
+1344,3064,122,21,"No, it had title problems.",a,THE WITNESS,start_question
+1345,3065,122,22,Did Timothy Jones attempt to back out of this agreement?,q,MR. FROEHLICH,start_answer
+1346,3067,122,24,I don't know that he tried to back out.  I think he went MIA.  He went missing in action.  He just stopped answering our calls.,a,THE WITNESS,start_question
+1347,3071,123,3,Okay.,q,MR. FROEHLICH,start_answer
+1348,3072,123,4,And then I finally got him on the phone and we were moving forward.  It just turned out that he was like very irresponsible and just didn't call us back. Then it wound up having an IRS lien or something on it that we couldn't settle on.,a,THE WITNESS,start_question
+1349,3077,123,9,Okay. Am I correct in saying that the reason that the Philly Cash Buyer Land Trust brought this action against Timothy Jones is an attempt to have Mr. Jones comply with the standard agreement to sell real estate that he signed?,q,MR. FROEHLICH,start_answer
+1350,3083,123,15,Yes.,a,THE WITNESS,symbols
+1351,3084,123,16,- - -,symbols,,is brackets
+1352,3085,123,17,"(Whereupon, D-11 was marked for identification.)",brackets,,symbols
+1353,3087,123,19,- - -,symbols,,start_question
+1354,3089,123,21,"For identification purposes this is a lawsuit brought by the Philly Cash Buyer Land Trust against Jane Patten in Philadelphia Court on February 4th, 2019 and an interest of full disclosure.  Jane Patten is a client of ours here at Community Legal Services as well. If you can look at the last page of this. Is that your signature?",q,MR. FROEHLICH,start_answer
+1355,3099,124,6,No.,a,THE WITNESS,start_question
+1356,3100,124,7,Whose signature is that?,q,MR. FROEHLICH,start_answer
+1357,3101,124,8,I don't know.,a,THE WITNESS,start_question
+1358,3102,124,9,If you look at Page 3 of the agreement?,q,MR. FROEHLICH,start_answer
+1359,3103,124,10,I would be I would assume that it's John Delp.,a,THE WITNESS,start_question
+1360,3104,124,11,"Jonathan Delp, okay. Before we mark this next one -- let me see if you can recognize this.  What I'm showing you is a copy of lawsuit filed by Philly Cash Buyer Land Trust against the Estate of Pearl Carter, Brenda Carter, Executrix.  And for some reason it is missing the last page.  So I can't tell -- it looks like the initials are --",q,MR. FROEHLICH,start_answer
+1361,3112,124,19,"Yeah, these people tried to sell this property to three different people.",a,THE WITNESS,start_question
+1362,3114,124,21,Okay. Were you involved in this case?,q,MR. FROEHLICH,start_answer
+1363,3116,124,23,No.,a,THE WITNESS,start_question
+1364,3117,124,24,Okay. Do you know who at Philly Cash Buyer Land Trust --,q,MR. FROEHLICH,start_answer
+1365,3121,125,3,I'm not sure.  But I do remember because it was like a running joke that there was multiple people trying to buy the property.,a,THE WITNESS,start_question
+1366,3124,125,6,Okay. Do you recognize --,q,MR. FROEHLICH,start_answer
+1367,3126,125,8,They were trying to get cash deposits up front like in their hand.  They were just trying to steal money these people.,a,THE WITNESS,start_question
+1368,3129,125,11,Do you recognize these initials?,q,MR. FROEHLICH,start_answer
+1369,3130,125,12,"It could be JC, I don't know.",a,THE WITNESS,start_chat
+1370,3131,125,13,I believe we're almost completed.  If you can just give me two minutes and let me talk with Thu and we should be able to wrap this up.,side_chat,MR. FROEHLICH,symbols
+1371,3134,125,16,- - -,symbols,,is brackets
+1372,3135,125,17,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+1373,3137,125,19,- - -,symbols,,is brackets
+1374,3138,125,20,"(Whereupon, a brief break was taken at this time.)",brackets,,symbols
+1375,3140,125,22,- - -,symbols,,start_question
+1376,3142,125,24,"One last housekeeping, you said that Capp Investments, LLC owns a couple of properties in Philadelphia County.  Can you give me the addresses of them?",q,MR. FROEHLICH,start_answer
+1377,3147,126,4,2615 South 54th Street.,a,THE WITNESS,start_question
+1378,3148,126,5,Uh-huh.,q,MR. FROEHLICH,start_answer
+1379,3149,126,6,"769 North 43rd Street, 839 South 59th Street, 2776 Martha.",a,THE WITNESS,start_question
+1380,3151,126,8,Uh-huh.,q,MR. FROEHLICH,start_answer
+1381,3152,126,9,1603 West Chelten.,a,THE WITNESS,start_question
+1382,3153,126,10,Okay.,q,MR. FROEHLICH,start_answer
+1383,3154,126,11,And 2615 Sibert.,a,THE WITNESS,start_question
+1384,3155,126,12,Is that all?,q,MR. FROEHLICH,start_answer
+1385,3156,126,13,Uh-huh.,a,THE WITNESS,start_question
+1386,3157,126,14,And which of them were obtained as an assignee of the Philly Cash Buyer Land Trust?,q,MR. FROEHLICH,start_answer
+1387,3159,126,16,Chelten and Martha.,a,THE WITNESS,start_chat
+1388,3160,126,17,"Very good, those are all the questions I have, thanks.",side_chat,MR. FROEHLICH,symbols
+1389,3162,126,19,- - - EXAMINATION,symbols,,symbols
+1390,3164,126,21,- - -,symbols,,start_question
+1391,3166,126,23,"All right, for the record, CJ Scatena.  I'm just going to ask just a few follow-up questions. The day you went and met William Weary at the property do you recall his state of mind?",q,MR. SCATENA,start_answer
+1392,3171,127,3,"Yeah, it was fine.  I didn't see anything that was off or anything.",a,THE WITNESS,start_question
+1393,3173,127,5,Did he seem intoxicated or anything like that?,q,MR. SCATENA,start_answer
+1394,3174,127,6,No.,a,THE WITNESS,start_question
+1395,3175,127,7,"Did he seem like he was mentally -- in your opinion, you're dealing with a lot of people, able to comprehend what you're saying?",q,MR. SCATENA,start_answer
+1396,3178,127,10,"Yeah, he was asking questions, you know, interacting with me.",a,THE WITNESS,start_question
+1397,3180,127,12,Okay. And after you -- said you went into his car and you went over the details and he signed the agreement in the car?,q,MR. SCATENA,start_answer
+1398,3184,127,16,"He signed the agreement in the car, yes.",a,THE WITNESS,start_question
+1399,3185,127,17,Did he ask you any questions about what was going to happen after or anything to do with --,q,MR. SCATENA,start_answer
+1400,3187,127,19,I explained it to him.  This is what's going to happen.  We're going to put it on lockbox.  My partner or we would be walking through with our partners.  And he seemed totally okay with that.  He didn't put up any argument or any apprehension about it.,a,THE WITNESS,start_question
+1401,3194,128,1,Did he see you physically put the lockbox on the door?,q,MR. SCATENA,start_answer
+1402,3196,128,3,"Oh, yeah, I showed him how to work it just in case he needed to get in it.",a,THE WITNESS,start_question
+1403,3198,128,5,Okay. And he never had any issues after you put that lockbox on the door until obviously the phone call?,q,MR. SCATENA,start_answer
+1404,3202,128,9,He obviously figured out how to work it because he went in and took the key out.,a,THE WITNESS,start_question
+1405,3204,128,11,Okay. Do you know if this was Mr. Weary's primary residence?,q,MR. SCATENA,start_answer
+1406,3207,128,14,It was my belief that it wasn't.  He had told me that it was a rental property that he owned for some time.,a,THE WITNESS,start_question
+1407,3210,128,17,So it was an investment property?,q,MR. SCATENA,start_answer
+1408,3211,128,18,Yes.,a,THE WITNESS,start_question
+1409,3212,128,19,So he was renting it out prior to -- he was renting it out before but then when you went to the property it was vacant and no one was living there.,q,MR. SCATENA,start_answer
+1410,3215,128,22,"Yes, he explained to me it was recently vacant.",a,THE WITNESS,start_question
+1411,3217,128,24,Okay. And can you again describe the condition of the property when you went into it?,q,MR. SCATENA,start_answer
+1412,3221,129,3,It was in rough shape.  There was no running water.  There was no electric.  I had to use a flashlight walking around.  The kitchen floor was -- the sub floor was sinking.  It seemed uninhabitable to me.  The back door -- basement door was off the hinges. I had to slam it and squeeze it shut again so nobody can get in.,a,THE WITNESS,start_question
+1413,3228,129,10,So it looks like in your opinion that nobody had been living there?,q,MR. SCATENA,start_answer
+1414,3230,129,12,"No, yeah.",a,THE WITNESS,start_question
+1415,3231,129,13,Okay. And you said when he called you I believe it was sometime around I guess we established around December 4th or 5th in 2018.  When he indicated that he no longer wanted to sell the property did he tell you why?,q,MR. SCATENA,start_answer
+1416,3237,129,19,He just said he changed his mind.  And he said I have 30 days to change my mind.  Somebody had told him that he had 30 days to change his mind and I'm like that's not how it works.,a,THE WITNESS,start_question
+1417,3241,129,23,Okay.,q,MR. SCATENA,start_chat
+1418,3242,129,24,"That's it, no further questions.",side_chat,MR. SCATENA,start_chat
+1419,3245,130,2,"Okay, I think we're all done.",side_chat,MR. FROEHLICH,symbols
+1420,3247,130,4,- - -,symbols,,is brackets
+1421,3248,130,5,"(Whereupon, the deposition was concluded at 12:12 p.m.)",brackets,,symbols
+1422,3250,130,7,- - - C E R T I F I C A T E,symbols,,symbols
+1423,3270,131,2,"- - - STATE OF PENNSYLVANIA: :  SS COUNTY OF PHILADELPHIA: I, Michelle Palys, Court Reporter-Notary Public within and for Philadelphia County, State of Pennsylvania, do hereby certify that the foregoing testimony of ANTHONY CAPPELLO, was taken before me at Community Legal Services, 1410 W. Erie Avenue, Philadelphia, Pennsylvania on August 27, 2019; that the foregoing testimony was taken by me in shorthand by myself and reduced to typing under my direction and control, that the foregoing pages contain a true and correct transcription of all of the testimony of said witness.",symbols,,symbols
+1424,3287,131,19,"...................... Notary Public May 8, 2021 INSTRUCTIONS TO WITNESSES Read your deposition over carefully. It is your right to read your deposition and make changes in form or substance.  You should assign a reason in the appropriate column on the errata sheet for any change made.  After making any change in form or substance which has been noted on the following errata sheet along with the reason for any change, sign your name on the errata sheet and date it.  Then sign your deposition at the end of your testimony in the space provided.  You are signing it subject to the changes you have made in the errata sheet, which will be attached to the deposition before filing.  You must sign it in front of a witness.  Have the witness sign in the space provided.  The witness need not be a notary public.  Any competent adult may witness your signature.  Return the original errata sheet & transcript to deposing attorney, (attorney asking questions) promptly! Court rules require filing within 30 days after you receive the deposition.  Thank you. I have read the foregoing deposition and the answers given by me are true and correct, to the best of my knowledge and belief.",symbols,,symbols
+1425,3324,133,4,_______________________ WITNESS TO SIGNATURE,symbols,,symbols
+1426,3332,133,10,___________________________ My Commission Expires,symbols,,symbols
+1427,3337,133,14,..................... ERRATA SHEET PAGE LINE #    CHANGE             REASON THEREFORE,symbols,,symbols
+1428,3351,134,3,__________________________________________,symbols,,symbols
+1429,3352,134,4,__________________________________________,symbols,,symbols
+1430,3353,134,5,__________________________________________,symbols,,symbols
+1431,3354,134,6,__________________________________________,symbols,,symbols
+1432,3355,134,7,__________________________________________,symbols,,symbols
+1433,3356,134,8,__________________________________________,symbols,,symbols
+1434,3357,134,9,__________________________________________,symbols,,symbols
+1435,3358,134,10,__________________________________________,symbols,,symbols
+1436,3359,134,11,__________________________________________,symbols,,symbols
+1437,3360,134,12,__________________________________________,symbols,,symbols
+1438,3361,134,13,__________________________________________,symbols,,symbols
+1439,3362,134,14,__________________________________________,symbols,,symbols
+1440,3363,134,15,__________________________________________,symbols,,symbols
+1441,3364,134,16,__________________________________________,symbols,,symbols
+1442,3365,134,17,__________________________________________,symbols,,symbols
+1443,3366,134,18,__________________________________________,symbols,,symbols
+1444,3367,134,19,__________________________________________,symbols,,symbols
+1445,3368,134,20,__________________________________________,symbols,,symbols
+1446,3369,134,21,__________________________________________,symbols,,symbols
+1447,3370,134,22,__________________________________________,symbols,,symbols
+1448,3371,134,23,__________________________________________,symbols,,symbols
+1449,3372,134,24,__________________________________________,symbols,,end

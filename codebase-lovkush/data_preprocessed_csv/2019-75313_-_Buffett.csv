@@ -1,0 +1,393 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," a witness named in the notice heretofore filed, being of lawful age and having been first duly sworn, testified on his oath as follows: E X A M I N A T I O N",,,start_question
+1,202,7,15,"Good morning, Mr. Buffett.  I introduced myself before, but my name is Randy Baron.  I'm going to ask you some questions here today. I don't anticipate that we will spend much time ago.  I think I have some understanding of, you know, at least how you typically do business. I think I wanted to start off with asking you if you have an understanding as to what the lawsuit is to which you are here to testify?",q,MR. RANDY BARON,start_answer
+2,211,7,24,"In a general way, yes.",a,THE WITNESS,start_question
+3,212,7,25,What do you understand it to be?,q,MR. RANDY BARON,start_answer
+4,214,8,1,"Well, as I understand it, there are two lawsuits.  Maybe I'm incorrect.",a,THE WITNESS,start_question
+5,216,8,3,Yes.  I only have one of them.,q,MR. RANDY BARON,start_answer
+6,217,8,4,"Oh, okay. Well, your suit, I presume relates to the question of whether the directors of Precision Castparts acted properly during the sale process to Berkshire Hathaway.",a,THE WITNESS,start_question
+7,222,8,9,"So you understand that the focus of our lawsuit is conduct by the officers and directors of Precision Castparts and the company prior to its acquisition, correct?",q,MR. RANDY BARON,start_answer
+8,226,8,13,Yes.,a,THE WITNESS,start_question
+9,227,8,14,"All right. And do you understand what the basic factual contention is, what it is that we said was done wrong by the officers and directors of Precision Castparts or the corporation?",q,MR. RANDY BARON,start_answer
+10,232,8,19,"I haven't read the complaint, no.",a,THE WITNESS,start_question
+11,233,8,20,Do you have any understanding of that?,q,MR. RANDY BARON,start_answer
+12,234,8,21,"Well, I have a general understanding, but I have not -- I have not read the complaint, no.",a,THE WITNESS,start_question
+13,236,8,23,What is your general understanding?,q,MR. RANDY BARON,start_answer
+14,237,8,24,"Well, my general understanding is that the plaintiffs feel that the directors did not behave according as they should according to the state law in which it is incorporated, which I believe is Oregon.",a,THE WITNESS,start_question
+15,243,9,4,All right. Do you have any understanding as to whether or not our claims have to do with information that was set forth in the proxy statement?,q,MR. RANDY BARON,start_answer
+16,248,9,9,"Yes, I have heard that.",a,THE WITNESS,start_question
+17,249,9,10,"And do you have -- do you have any belief as to what you think a company that you are buying, to seek shareholder approval of that purchase should say or do in the proxy statement?",q,MR. RANDY BARON,start_answer
+18,253,9,14,"Well, I think generally we have bought a fair number of companies, and the directors usually get one or more advisors.  And they listen to those advisors, but they also form their own opinions as to whether the shareholders are receiving fair compensation.",a,THE WITNESS,start_question
+19,259,9,20,"You understand that the rules, at least the federal rules that companies have to go by, is that the information in the proxy statement is supposed to be a full and fair disclosure of information that is accurate -- accurate and necessary for shareholders to make a decision to vote yes or no, correct?",q,MR. RANDY BARON,start_answer
+20,267,10,2,Correct.,a,THE WITNESS,start_question
+21,268,10,3,And is it your expectation when you are buying a company that the information that the directors and officers are telling their shareholders is the truth?,q,MR. RANDY BARON,start_answer
+22,272,10,7,Correct.,a,THE WITNESS,start_question
+23,273,10,8,"All right. And you also expect, and I have read a number of things that you have said publicly, you have a strong belief, if I understand it, that you expect to get truthful answers and sort of truthful information from the companies that you are going to buy, correct?",q,MR. RANDY BARON,start_answer
+24,280,10,15,That's correct.,a,THE WITNESS,start_question
+25,281,10,16,"All right. And I think that when, you know, you talk -- you had an interview in connection with this acquisition, and I think that you said something about the fact that, you know, what you do is, you know, you look the people in the eye and you try to get a real sense as to whether they are honest and telling you the truth. Is that accurate sort of representation sort of the way that you do it?",q,MR. RANDY BARON,start_answer
+26,292,11,1,"I look at 10-Ks, 10-Qs, competitors' information, recent -- any recent transcripts of information they have conveyed to the public. But it is certainly important that whoever is going to run the company that I feel confident in the fact that they are truthful and able.",a,THE WITNESS,start_question
+27,298,11,7,Did you understand that the lawsuit that we are bringing is fundamentally of the position that the directors and officers of Precision didn't really tell their shareholders the same thing that they were telling you about the company?,q,MR. RANDY BARON,start_chat
+28,303,11,12,"Object, lacks foundation.",side_chat,MR. GARVEY,start_chat
+29,304,11,13,I --,side_chat,THE WITNESS,start_chat
+30,305,11,14,You may answer.,side_chat,MR. GARVEY,start_chat
+31,306,11,15,"Yes. I have no idea except for what I read in the proxy at the time.  I haven't read the proxy since that time, so it is not like it is fresh in my mind.  But I have no information -- I don't think I have ever met any of the directors of Precision Castparts except for Mark Donegan.",side_chat,THE WITNESS,start_question
+32,315,11,24,"And my question was really sort of, did you understand that sort of the nature of our lawsuit is that we think that what was represented to you as to what the nature of the business and the business plan was is not what was represented to shareholders?  Sort of a snapshot, where we think the company is at the time of the acquisition?",q,MR. RANDY BARON,start_chat
+33,323,12,6,Same objection. You may answer.,side_chat,MR. GARVEY,start_chat
+34,325,12,8,"Well, the only thing that was represented to me was what would be in public documents.  I think it would be the same thing that would have been presented to the public.",side_chat,THE WITNESS,start_question
+35,331,12,14,"Well, so let's talk a little bit about that, and sort of what you -- what your belief was about Precision Castparts. First, as I understand you, and I think what you have said in the past, and I can show you sort of the transcript or the -- or the article about what you said, but fundamentally what I understand is that you made your decision to go ahead and acquire Precision Castparts after about 10 or 15 minutes of meeting with Mr. Donegan, is that an accurate statement?",q,MR. RANDY BARON,start_answer
+36,342,12,25,No.  I decided based on the fact that Todd Combs had had a favorable view of the company.  But I did not decide after 10 or 15 minutes to buy the company.  I decided to find out whether they were interested or would be willing to accept a proposition that I could make if they were -- if they were willing to -- to listen to one.,a,THE WITNESS,start_question
+37,350,13,7,So you had a conversation with Todd Combs for -- a relatively extensive conversation with Mr. Combs before you met with Mr. Donegan?,q,MR. RANDY BARON,start_answer
+38,353,13,10,"I don't know about extensive.  No, I met Mr. Donegan.  Actually, he had a date with Todd -- people frequently come to see -- CEOs frequently come to see Todd.  Sometimes I drop in on those sessions and sometimes I don't. But my memory is that I dropped in at the end of the conversation, which would be the customary way I would do it.  Very seldom do I listen to the whole conversation.",a,THE WITNESS,start_question
+39,362,13,19,"Well, tell me the background that you did before you, you know, had the look in his eyes and tried to assess whether he would be interested in being acquired by Berkshire Hathaway. What was your due diligence or what efforts did you personally take?",q,MR. RANDY BARON,start_answer
+40,368,13,25,"Beforehand, there wasn't any due diligence.",a,THE WITNESS,start_question
+41,371,14,2,Okay. What did Mr. Donegan tell you about the company?  What did you understand?,q,MR. RANDY BARON,start_answer
+42,374,14,5,I just -- the only impression I came away with is that he was passionate about the company.  I could read everything else.,a,THE WITNESS,start_question
+43,377,14,8,Did you read other things before you --,q,MR. RANDY BARON,start_answer
+44,378,14,9,"Not beforehand, but later I read.",a,THE WITNESS,start_question
+45,379,14,10,We are going to have slow down because she has to take us both down and we are having a conversation.,q,MR. RANDY BARON,start_answer
+46,382,14,13,I'm sorry.,a,THE WITNESS,start_question
+47,383,14,14,"Which is fine, but we have to sort of measure our conversation.  Let me ask the questions, take a breath, answer the question.",q,MR. RANDY BARON,start_answer
+48,386,14,17,"Good enough. I shouldn't say ""good enough"" quite so soon, but good enough.",a,THE WITNESS,start_question
+49,389,14,20,Exactly. Okay.  So help me a little bit on the timing.,q,MR. RANDY BARON,start_answer
+50,392,14,23,Sure.,a,THE WITNESS,start_question
+51,393,14,24,"So the timing was you knew that Mr. Combs thought it was a good possibility of an acquisition to acquire Precision Castparts, correct?",q,MR. RANDY BARON,start_answer
+52,397,15,2,No.  That is not correct. I knew that he thought it was a good stock to own in his portfolio.,a,THE WITNESS,start_question
+53,400,15,5,"Okay.  And then how did -- then I understand, Mr. Donegan came in to speak to Mr. Combs. At that point in time, you stopped in and said hello, is that correct?",q,MR. RANDY BARON,start_answer
+54,405,15,10,"I stopped in and listened probably -- this is not a clear memory of time at all -- but I stopped in for the latter part of the conversation. I thought he was there 15 minutes, it might have been there 30 minutes.",a,THE WITNESS,start_question
+55,410,15,15,And at the time that you stopped in at that time was it contemplated that you would possibly buy Precision Castparts?  Or did you just stop in for just a general conversation?,q,MR. RANDY BARON,start_answer
+56,414,15,19,"I stopped in because it was a portfolio company of Todd's, and so -- and sometimes I did that and sometimes I didn't. This was a company I really wasn't that familiar with ahead of time, but I knew that Todd liked it.",a,THE WITNESS,start_question
+57,420,15,25,How long after -- and how long after that meeting did you consider buying Precision Castparts?,q,MR. RANDY BARON,start_answer
+58,423,16,2,"I said to Todd, afterwards, I don't remember the specific details of whether I said it that day or the next day, but I said, and I have said this with many other companies, and I have done it many times without the Todd prelude where I have met through other people. I said, Let's ask, let's ask the CEO, in this case, Mark Donegan, let's ask him whether if Berkshire would make a bid, whether that would be an act they would be fine with, or they would rather not have us do it.",a,THE WITNESS,start_question
+59,434,16,13,"So -- and at least according to my calendar, the meeting with Mr. Donegan and Combs was on July 1st.  And it was really on July 2nd that Mr. Combs then called Mr. Donegan and said that they were interested in an acquisition. So it would have been that same day or the next morning where you had that conversation, is that accurate?",q,MR. RANDY BARON,start_answer
+60,442,16,21,That would be correct.,a,THE WITNESS,start_question
+61,443,16,22,At the time what did you know about Precision Castparts?,q,MR. RANDY BARON,start_answer
+62,445,16,24,"I knew that Todd thought it was an attractive company.  He probably has 15 companies or so in his portfolio, and that means that among many hundreds of companies he thinks that those 15 are companies that he regards as -- as meeting his test in terms of valuation as a stock. And considering a whole bunch of qualitative and quantitative factors, that he thinks that they are the 15 that he likes better than the other thousands.",a,THE WITNESS,start_question
+63,456,17,9,What did he know about the company's business model?,q,MR. RANDY BARON,start_answer
+64,458,17,11,Very little.,a,THE WITNESS,start_question
+65,459,17,12,"What did you know, though?",q,MR. RANDY BARON,start_answer
+66,460,17,13,I don't know that I could say that I knew anything about the model of the company.  I knew what they did in a general.,a,THE WITNESS,start_question
+67,463,17,16,What did they do?,q,MR. RANDY BARON,start_answer
+68,464,17,17,Primarily supply aircraft parts.,a,THE WITNESS,start_question
+69,465,17,18,"Okay. And did you have some sense as to the growth profile of the company, whether it was at a steady state?  Whether it was growing?  Whether or not it was organically growing?  Whether it was growing through acquisitions?  Anything else, did you have any sense of that?",q,MR. RANDY BARON,start_answer
+70,472,17,25,"I can't speak to that specifically in that I can take myself back in time three years and say exactly what I knew when. But I had -- I certainly -- I knew Todd liked it.  I knew that he felt that the record had been good.  I think the stock did -- had been disappointing recently, and that is about what I knew, yes.",a,THE WITNESS,start_question
+71,481,18,8,You had no idea of whether or not it was a growth company at the time or at a steady state or anything to that effect?,q,MR. RANDY BARON,start_chat
+72,484,18,11,Object to form.,side_chat,MR. GARVEY,start_chat
+73,485,18,12,"Well, I knew that over time it had grown, obviously.",side_chat,THE WITNESS,start_question
+74,488,18,15,Do you know whether it was still in a growth phase?,q,MR. RANDY BARON,start_answer
+75,490,18,17,Pardon me?,a,THE WITNESS,start_question
+76,491,18,18,Was it still in a growth phase?  Was it a company that was still planning to continue growing?,q,MR. RANDY BARON,start_answer
+77,493,18,20,I wouldn't -- I wouldn't have known that back then.,a,THE WITNESS,start_question
+78,495,18,22,"At some point prior to making the offer -- now there was a offer made pretty soon thereafter on July 9th. Between that first conversation where Mr. Combs talked to Mr. Donegan and Mr. Donegan said, yes, we would be interested in entertaining an offer, did you gain any more information about Precision Castparts actual business model?",q,MR. RANDY BARON,start_answer
+79,504,19,5,"A lot more information, as much as I could get.",a,THE WITNESS,start_question
+80,506,19,7,"Okay. So prior to making the over at 235, that was the offer and you never moved off that, correct?",q,MR. RANDY BARON,start_answer
+81,509,19,10,That's -- that's correct.,a,THE WITNESS,start_question
+82,510,19,11,Who comes up with that number?,q,MR. RANDY BARON,start_answer
+83,511,19,12,I come up with it.,a,THE WITNESS,start_question
+84,512,19,13,And how do you come up with that number?,q,MR. RANDY BARON,start_answer
+85,513,19,14,"I look at the business.  I look at its history.  I think about its competition.  I think about the nature of the business.  I think like any perspective owner would think about a business, what are the prospects of this company and is there somebody there to manage it.",a,THE WITNESS,start_question
+86,519,19,20,So you look at -- and if I understand --,q,MR. RANDY BARON,start_chat
+87,520,19,21,Excuse me.  I think he was -- go ahead and continue.,side_chat,MR. GARVEY,start_question
+88,523,19,24,Go ahead.  I'm sorry.,q,MR. RANDY BARON,start_answer
+89,524,19,25,"Also relevant, but I don't need to look at it, but interest rates, the economy, and other things that are an influence.  But in terms of the specific company, I read everything I can get.  And I probably asked Todd questions after I read things, knowing that he can helpful in clarifying certain things.",a,THE WITNESS,start_question
+90,532,20,7,"Yes.  Obviously other issues like the capital markets, if you are going to want to finance it; those other issues come into play in your decision-making process?",q,MR. RANDY BARON,start_answer
+91,536,20,11,"To varying degrees.  It depends on the size of the acquisition, our own cash position and that sort of thing.",a,THE WITNESS,start_question
+92,539,20,14,"Exactly. So now, as you started to do your research before you got to that 235, at that point in time, did you get a stronger understanding of what the company did?",q,MR. RANDY BARON,start_answer
+93,544,20,19,Yes.,a,THE WITNESS,start_question
+94,545,20,20,"And so after that strong understanding, what did you understand about, again, what that company's business model was?",q,MR. RANDY BARON,start_answer
+95,548,20,23,"Well, I understood what was in the 10-Q. I understood what they talked about at investor presentations. I learned that -- I asked a lot more questions of Todd, and it is what I frequently do. I made a decision a couple of months ago on a 10 billion-dollar investment in Occidental Petroleum, and I heard that there was a possibility of it on a Friday.  And I met the people on Sunday. And an hour later, we committed $10 billion.  And in between, I thought about Occidental a lot.",a,THE WITNESS,start_question
+96,560,21,9,Some people can do that.,q,MR. RANDY BARON,start_answer
+97,561,21,10,"Well, it isn't always successful.  Believe me.",a,THE WITNESS,start_question
+98,563,21,12,"So, again, just so I understand your frame of mind, your frame of mind is what they are saying in their 10-Ks and Qs, and what they describe in their business model from your perspective is how you viewed the company?  They say that we are, you know, selling airplane parts as our primary business model. You accept that to be true.  If they tell you that oil and gas is their primary business model, for example, you would accept that?",q,MR. RANDY BARON,start_answer
+99,573,21,22,"I wouldn't use the term ""model.""  I would say activity, all right?",a,THE WITNESS,start_question
+100,575,21,24,"All right.  Well, that is a fair point. When I say the phrase ""business model,"" what do you think of when I actually use that phrase?",q,MR. RANDY BARON,start_answer
+101,580,22,3,"Well, we don't have a business model at Berkshire Hathaway, no.  We have a lot of business activities.  And day-by-day, Berkshire gets reformed.  Sometimes we go a long time in between those days.  But we don't -- we don't have a model. We have never -- we have never used the term ""business model"" at Berkshire. We say -- we have certain principles which we put in the back of the annual report about our attitude towards shareholders and time horizons and that sort of thing.  But we do not have the customary, what some people might call a business model.  It is just not a term.",a,THE WITNESS,start_question
+102,593,22,16,"And what do you think that means, the customary term ""business model""?",q,MR. RANDY BARON,start_answer
+103,595,22,18,"Well, I think the way that management consultants would use it, it would involve a long-term strategy perhaps, and it would involve a lot of jargon that we don't use.",a,THE WITNESS,start_question
+104,599,22,22,"Well, when you are acquiring a company, is that not something that you are concerned about.  I understand that Berkshire Hathaway itself, because it is a conglomerate of a bunch of different companies.",q,MR. RANDY BARON,start_answer
+105,605,23,2,Yes.,a,THE WITNESS,start_question
+106,606,23,3,"All that have sort of different goals and aspirations. But when you are acquiring a company, do you have some interest in, again, the traditional frame of a business model or what its strategies are, what its future strategies are intended to be?",q,MR. RANDY BARON,start_answer
+107,612,23,9,"I'm concerned with the business activities, and what I think competitive positions will be five or 10 years or 20 years out, and whether I have the right person to maximize whatever opportunities there may be.",a,THE WITNESS,start_question
+108,617,23,14,"And so Precision Castparts and throughout their 10-Qs and Ks, they talk about their activities in sort of fundamentally three ways; right?  They talk about their aerospace activities, their oil and gas industries, and then sort of their growth -- their growth through acquisition activities, correct?",q,MR. RANDY BARON,start_answer
+109,624,23,21,"Well, they -- they certainly for the record have the latter third.  But with every company, that there is a possibility of acquisition, some of them more active in the past, and you can assume that they may have more interest in that. But I would not want to buy any company that thought that their main purpose was to make acquisitions. Precision had a history of doing acquisitions, but I looked at their activities as being in those -- primarily in the aircraft field. But obviously turbines, and they have other activities.",a,THE WITNESS,start_question
+110,638,24,9,"Well, they represented to you and your Board of Directors, again, that acquisition was a significant part of the activity that they actually were involved in, correct?",q,MR. RANDY BARON,start_answer
+111,642,24,13,"They didn't represent that to me.  I looked at the history of the company, and seeing that they had done a number of acquisitions.  But nobody represented anything to me about future acquisitions.",a,THE WITNESS,start_question
+112,647,24,18,"But they did explain that their business model moving forward involved a very detailed plan as to looking for acquisitions, how they make the acquisitions, how the acquisitions fit in, correct?",q,MR. RANDY BARON,start_answer
+113,651,24,22,I don't remember that.,a,THE WITNESS,start_chat
+114,652,24,23,"Pardon me, Mr. Buffett. Randy, could you clarify what time frame you are asking about here?",side_chat,MR. GARVEY,start_question
+115,657,25,2,I'm talking about at any time prior to the transaction closing.,q,MR. RANDY BARON,start_answer
+116,659,25,4,"I don't -- I don't recall -- I'm not saying it is not in there, but I don't recall in the 10-K or in investor presentations.  They had a record of acquisitions, but I don't --",a,THE WITNESS,start_question
+117,663,25,8,I'm sorry.  Hold on.  I need to --,q,MR. RANDY BARON,start_answer
+118,664,25,9,"I will say this, I was not making a proposal based on the idea either that they would or would not make acquisitions.  You hope any company that you buy finds good things to do.  And some do and some don't.",a,THE WITNESS,start_question
+119,669,25,14,"Well, you understood that they actually had staff and employees whose job it was to search, continually search for acquisitions, look for a pipeline of acquisitions, try to determine whether or not where and when they could fold in a new acquisition, correct?",q,MR. RANDY BARON,start_answer
+120,675,25,20,"I don't remember that.  I'm not saying that somebody didn't say it at some time, but I have no recollection of that.",a,THE WITNESS,start_chat
+121,678,25,23,Can you mark this as Exhibit 141?,side_chat,MR. RANDY BARON,is brackets
+122,682,26,1,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 141.),brackets,,start_question
+123,686,26,5,"I'm showing you what I have marked as Exhibit 141.  And this is a presentation that Precision Castparts made to the Berkshire Hathaway Board of Directors on October 16th, which I think is -- or October 2016, which is just prior to the shareholders vote --",q,MR. RANDY BARON,start_chat
+124,692,26,11,"No, it isn't.  It is a year after the shareholders and George people?",side_chat,MR. ROBERT BARON,start_chat
+125,694,26,13,"I'm sorry. Wait.  I misspoke.  I'm sorry.  Relax, Bob.",side_chat,MR. RANDY BARON,start_chat
+126,697,26,16,I'm really relaxed. You didn't misspeak.,side_chat,MR. ROBERT BARON,start_chat
+127,699,26,18,I did misspeak.,side_chat,MR. RANDY BARON,start_chat
+128,700,26,19,Okay.  The document is dated on its face almost --,side_chat,MR. ROBERT BARON,start_chat
+129,702,26,21,I know.  Relax.,side_chat,MR. RANDY BARON,start_chat
+130,703,26,22,"Almost nine months after closing, Randy.",side_chat,MR. ROBERT BARON,start_chat
+131,705,26,24,Relax.,side_chat,MR. RANDY BARON,start_chat
+132,706,26,25,And George asked you whether your questions were directed to the period --,side_chat,MR. ROBERT BARON,start_chat
+133,710,27,3,I know.,side_chat,MR. RANDY BARON,start_chat
+134,711,27,4,"-- the time period, and you said prior to the closing.",side_chat,MR. ROBERT BARON,start_chat
+135,713,27,6,I know.  Relax.,side_chat,MR. RANDY BARON,start_question
+136,715,27,8,So I'm showing you a presentation from Precision Castparts to the Berkshire Board of Directors dated October 2016. Have you ever seen this document before?,q,MR. RANDY BARON,start_answer
+137,719,27,12,Sure.,a,THE WITNESS,start_question
+138,720,27,13,"All right. In this document, if you take a look at it, it talks in sort of a detailed analysis -- when is the last time you saw this document, by the way?",q,MR. RANDY BARON,start_answer
+139,724,27,17,"When we passed it out -- it is customary if we buy a major company, we have a once a year meeting of the board offsite.  It is the only meeting, really, that we have.  And we do it in the fall; we are doing it again this fall.  And if we have a new big acquisition, I usually invite the CEO to come to the board and describe his business.",a,THE WITNESS,start_question
+140,731,27,24,"Okay.  And what is -- describing the business, are they talking about, you know, what the business was historically, what the business is since it was acquired?  Or what is sort of the framework of that discussion?",q,MR. RANDY BARON,start_answer
+141,737,28,4,"I let them do it their own style.  I just tell them, look, we have got -- in the case now, 14 interested directors, and they don't know that much about your business and tell them about it.",a,THE WITNESS,start_question
+142,741,28,8,All right. So have you -- so do you have a recollection of having seen this document before?,q,MR. RANDY BARON,start_answer
+143,744,28,11,"Well, I accept the fact it is document that we sent out in the fall of 2016 to the directors meeting.",a,THE WITNESS,start_question
+144,747,28,14,All right. And do you actually comment on this document at all?  Or do you just take --,q,MR. RANDY BARON,start_answer
+145,750,28,17,No.,a,THE WITNESS,start_question
+146,751,28,18,-- the document that the CEO prepares and give it to the board?,q,MR. RANDY BARON,start_answer
+147,753,28,20,"Well, the CEO, we -- I can't be 100 percent sure in that particular year, but sometimes the -- the presenting CEO will send out some background figures to the directors.  Sometimes they will just present it by slide.  Well, they will send out some kind of document and they will present slides and talk through it.  And then they will answer questions.  The presentation is up to them.",a,THE WITNESS,start_question
+148,762,29,3,And did Mr. Donegan actually give this presentation -- give a presentation to the board with this document?,q,MR. RANDY BARON,start_answer
+149,765,29,6,He certainly gave a presentation.,a,THE WITNESS,start_question
+150,766,29,7,"So, if you turn to this document and sort of it goes through, and let's sort of walk through it.  There is -- it talks about a history snapshot that you see on the first page, on page 2. And then it talks about, you know, the initial -- it gives the historical numbers and it give history revenue and EBITDA numbers. Do you see that on page 4? And you said, yes, you see that. That is clearly talking about even before Berkshire Hathaway?",q,MR. RANDY BARON,start_answer
+151,777,29,18,"Yes, I know.  It is the history.",a,THE WITNESS,start_question
+152,778,29,19,"Then it identifies sort of its calendar year 2016, forecasted sales by segment.  You see it on the organization chart on page 5.",q,MR. RANDY BARON,start_chat
+153,781,29,22,Object to form.,side_chat,MR. GARVEY,start_question
+154,783,29,24,"And then you see on page 6, there is a sales by market sort of graph, it talks about its sort of overall sales and where the sales come from. Do you see that?",q,MR. RANDY BARON,start_answer
+155,788,30,3,Yes.,a,THE WITNESS,start_question
+156,789,30,4,"All right.  It talks about locations. And then on page 8, it talks about acquisition strategy.  So it is the one page before that.  The page before that, on page 8.  It just says, Acquisition Strategy, at which point literally there is a multi-page discussion of an acquisition strategy by Precision Castparts, including with a history on page 13, and then a return on investment capital on page 14. Do you see that?",q,MR. RANDY BARON,start_answer
+157,799,30,14,Yes.  Uh-huh.,a,THE WITNESS,start_question
+158,800,30,15,Did you understand that this acquisition strategy was a new strategy or an old strategy by the company?,q,MR. RANDY BARON,start_answer
+159,803,30,18,"Well, I didn't know -- what I would call a strategy.  I knew they had a history of acquisitions and that generally they had been successful.",a,THE WITNESS,start_question
+160,806,30,21,And that they were planning on continuing them?,q,MR. RANDY BARON,start_answer
+161,808,30,23,"Well, that would depend on the opportunities.",a,THE WITNESS,start_question
+162,810,30,25,But again --,q,MR. RANDY BARON,start_answer
+163,812,31,1,"We have actually -- our subsequent acquisitions that have not worked out that well, as you probably know.",a,THE WITNESS,start_question
+164,815,31,4,"I do understand that. But you understood as of a year later that there was -- they had historically made acquisitions, and at least in Mr. Donegan's view, there was a strategy to continue making those acquisitions under certain formulations, correct?",q,MR. RANDY BARON,start_answer
+165,821,31,10,There was a strategy to continue to look for acquisitions.,a,THE WITNESS,start_question
+166,823,31,12,"All right. And again, my point was, that wasn't a new strategy, that was a strategy that you understood was the strategy that the company had at the time that you acquired it, correct?",q,MR. RANDY BARON,start_answer
+167,828,31,17,"I knew that -- like many of our companies, including Berkshire itself, we are looking for acquisitions every day.  But ""strategy"" implies something beyond what we do, I will put it that way.",a,THE WITNESS,start_question
+168,832,31,21,"And all I'm looking for, Mr. Buffett, is very simply, I'm trying to get a sense as to whether, with regard to what the company was doing prior to the acquisition -- prior to the acquisition by Berkshire Hathaway, and what it wanted to do even a year later, whether there was any change or whether or not this was sort of a consistent business, you know, whether you call it strategy, an outlook, a forecast, all of those things didn't change in that year, is that correct?",q,MR. RANDY BARON,start_answer
+169,843,32,6,"No.  But the ability to successfully make acquisitions varies enormously depending on the environment in which you are in. But -- but the same situation for us, we have probably maybe 50 or 60 acquisitions, but in the last few years, we haven't made any to speak of.",a,THE WITNESS,start_question
+170,849,32,12,The market will dictate what you can do?,q,MR. RANDY BARON,start_answer
+171,850,32,13,"So the strategy can't be to make acquisitions.  It can be to -- to have an open mind about acquisitions, but we do not want any strategies that are committed to making acquisitions.",a,THE WITNESS,start_question
+172,855,32,18,"Oh, absolutely. You don't want to make bad acquisitions, you want to make good acquisitions.",q,MR. RANDY BARON,start_answer
+173,858,32,21,Yes.,a,THE WITNESS,start_question
+174,859,32,22,"And then you said they don't always work out, but you want to set up your own --",q,MR. RANDY BARON,start_answer
+175,861,32,24,You want to think -- you don't want to stretch.,a,THE WITNESS,start_question
+176,864,33,1,"But at the time -- at the time of the acquisition for Precision Castparts, you don't know -- you didn't know one way or the other whether or not the environment for acquisitions was going to be good or bad in the year, two years, or three years following, correct?",q,MR. RANDY BARON,start_answer
+177,870,33,7,That's correct.,a,THE WITNESS,start_question
+178,871,33,8,"Because if you knew that, that would make life a lot easier, if you knew in advance whether the market was good or bad.",q,MR. RANDY BARON,start_answer
+179,874,33,11,I will just take one week.,a,THE WITNESS,start_question
+180,875,33,12,"But it was, in fact, your belief, at least at the time, that not only had Precision Castparts made many acquisitions prior to the acquisition, but that you believed that they were going to make many more, at least at the time of the acquisition?",q,MR. RANDY BARON,start_answer
+181,880,33,17,"I don't believe they were initially going to make many more.  I believe that they would -- would like to make more acquisitions, and the question is whether the environment allowed it.",a,THE WITNESS,start_question
+182,884,33,21,Let me show you another document.,q,MR. RANDY BARON,start_answer
+183,885,33,22,"We encourage our companies to make good acquisitions, but sometimes we can and sometimes we can't.",a,THE WITNESS,start_chat
+184,888,33,25,"Can you mark this Exhibit 142, please.",side_chat,MR. RANDY BARON,is brackets
+185,891,34,2,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 142.),brackets,,start_question
+186,895,34,6,"I'm showing you what we got off of the Berkshire Hathaway website, which is, I think, an except of your shareholder letter. Do you recognize this?",q,MR. RANDY BARON,start_answer
+187,899,34,10,"Yes, uh-huh.",a,THE WITNESS,start_question
+188,900,34,11,"Okay.  And you can see that in focusing on the third bullet point on page 4 of the letter, there is a discussion of the acquisition of Precision Castparts. Do you see that?",q,MR. RANDY BARON,start_answer
+189,905,34,16,I see that.,a,THE WITNESS,start_question
+190,906,34,17,"And then at the bottom, it says, ""In building his business, Mark has made many acquisitions and will make more."" Do you see that?",q,MR. RANDY BARON,start_answer
+191,910,34,21,Yes.,a,THE WITNESS,start_question
+192,911,34,22,"And that was an accurate statement from your perspective, is that Mr. Donegan of Precision Castparts had made many acquisitions and you anticipated that he would make many more?",q,MR. RANDY BARON,start_answer
+193,916,35,1,I didn't think many more.,a,THE WITNESS,start_question
+194,917,35,2,And he will make more?,q,MR. RANDY BARON,start_answer
+195,918,35,3,Yes.,a,THE WITNESS,start_question
+196,919,35,4,You believed he would make more?,q,MR. RANDY BARON,start_answer
+197,920,35,5,"There may have been -- I don't know when he made acquisitions subject to our purchase, but there may have even been one in the works then.",a,THE WITNESS,start_question
+198,923,35,8,"But you believed that at least at that time you did not know the environment, you believed he would make more acquisitions, particularly hoping that the environment would be conducive to that?",q,MR. RANDY BARON,start_answer
+199,927,35,12,"Yes, I would say that Berkshire has made many acquisitions and will make more.  But that is...",a,THE WITNESS,start_question
+200,930,35,15,"Let me -- well, in addition to just sort of understanding its business -- well, actually, let me pull back. When you told the shareholders, the Berkshire shareholders that Mr. Donegan had made many acquisitions and will make more, what was your basis for that knowledge? Was that just reading the SEC filings or was that also an assurance by Mr. Donegan that he would do that?",q,MR. RANDY BARON,start_answer
+201,940,35,25,"I knew by nature that if he found good acquisitions, he would like to be able to do them. And Berkshire, not needing dividends and having a lot of capital would be available, if acquisitions made sense.  But -- but I never -- I never instructed any management to -- to make acquisitions. I like it generally when they do, but I think I have actually commented in one of the annual letters that, telling a manager to make acquisitions is little like telling your teenage son to have a normal sex life.  I mean, you really don't need that extra push.",a,THE WITNESS,start_question
+202,954,36,13,I haven't had that conversation with my teenage son.,q,MR. RANDY BARON,start_answer
+203,956,36,15,"Different sons have different appetites; it is dangerous advice to give, generally.",a,THE WITNESS,start_question
+204,958,36,17,"Was there a discussion where at least, again, I guess, you know, back to your analogy right now, a healthy sex life, prior to the -- prior to the close of the acquisition, do you recall at least through -- at least through other people encouraging Mr. Donegan to continue his acquisition strategy, a healthy acquisition strategy?",q,MR. RANDY BARON,start_answer
+205,965,36,24,"Again, I have not -- I wouldn't have encouraged him in terms of any strategy.  I would always encourage all of our managers to look for acquisitions -- even in their line own or dimensions of others, from other companies, which has had contact.  That has happened at Berkshire, they have referred other companies to us, because they have said they had a good experience being acquired by Berkshire.  So they tell friends.",a,THE WITNESS,start_chat
+206,975,37,8,"Can you mark this as Exhibit 143, please?",side_chat,MR. RANDY BARON,is brackets
+207,977,37,10,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 143.),brackets,,start_question
+208,981,37,14,"I'm showing you an email chain and sort of the way the email chain works, if you look at them, they start from the back, at the bottom?",q,MR. RANDY BARON,start_answer
+209,984,37,17,"Yes, sure.",a,THE WITNESS,start_question
+210,985,37,18,"And in the middle, and I acknowledge that this didn't come directly from you, but there is a -- if you see that there is an email from Shawn Hagel at Precision Castparts that says, ""I think we should plan on the full 1 billion given Warren's direction to Mark to 'go by faster,' exclamation, end quote. Do you see that sentence?",q,MR. RANDY BARON,start_answer
+211,994,38,1,Yes.,a,THE WITNESS,start_question
+212,995,38,2,"Do you have any recollection of telling Mr. Donegan or Mr. Combs to Mr. Donegan, yes, buy more as long as they are good?",q,MR. RANDY BARON,start_answer
+213,998,38,5,"Well, I have -- I'm almost sure I never said what is shown in quotes here.",a,THE WITNESS,start_question
+214,1000,38,7,Okay.  Why are you sure about that?,q,MR. RANDY BARON,start_answer
+215,1001,38,8,I don't think I have ever said that to any of our managers.,a,THE WITNESS,start_question
+216,1003,38,10,Did you say anything that could have been interpreted that way?,q,MR. RANDY BARON,start_answer
+217,1005,38,12,"Well, it is hard to tell, you know, what the teenage boy hears, but I don't think -- I have never said anything like that.",a,THE WITNESS,start_question
+218,1008,38,15,"Did you make it clear to Mr. Combs or Mr. Donegan directly which is, don't hold back on doing acquisitions while we are pending our transactions, continue to do what you have been doing the whole time?",q,MR. RANDY BARON,start_answer
+219,1013,38,20,"Well, I don't -- I don't think I would have given any instructions one way or the other on that.  I wasn't in a position -- I don't remember doing that with any manager, or potential manager.",a,THE WITNESS,start_question
+220,1017,38,24,"Now, immediately after the acquisition closed, or actually immediately before the acquisition closed, as I understand it, the acquisition closed on January 29th, 2016. Does that comport with your recollection?",q,MR. RANDY BARON,start_answer
+221,1023,39,4,I don't have any -- yeah.,a,THE WITNESS,start_question
+222,1024,39,5,"You recall getting, you know, from Mr. Donegan, his assurance that they were -- that Precision Castparts was committed to further expansion through acquisition under Berkshire. Do you recall receiving that?",q,MR. RANDY BARON,start_answer
+223,1029,39,10,"I don't -- I don't recall that, no.  I -- I certainly was aware he was looking at acquisitions always.  But a number of our managers are.  I'm working on acquisitions always.",a,THE WITNESS,start_chat
+224,1033,39,14,"Can you mark this as Exhibit 144, please.",side_chat,MR. RANDY BARON,is brackets
+225,1035,39,16,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 144.),brackets,,start_question
+226,1039,39,20,"I'm showing what has been marked 144, and you see on the very top there is an email from Mark Donegan to your assistant, Debbie Bosanek. And, as I understand it, you don't get emails directly.  They get sent to your assistant and she prints them out and gives them to you.  Is that how it works?",q,MR. RANDY BARON,start_answer
+227,1047,40,2,That's correct.  That's correct.,a,THE WITNESS,start_question
+228,1048,40,3,"And so you would assume that if Mr. Donegan sent something for Ms. Bosanek for you, that that would have been printed out and given to you?",q,MR. RANDY BARON,start_answer
+229,1051,40,6,"Yes, that would have been given to me.",a,THE WITNESS,start_question
+230,1052,40,7,"In this, you see that Mr. Donegan says, ""I can assure all capital, you, we are all committed to driving this organization to continue increased performance and further expansion through acquisitions, and really look forward to being a key contributor to the Berkshire family."" Do you see that?",q,MR. RANDY BARON,start_answer
+231,1059,40,14,I see that.,a,THE WITNESS,start_question
+232,1060,40,15,"Do you have some recollection, again, prior to this transaction closing, Mr. Donegan, again, committing towards further expansion through acquisition?",q,MR. RANDY BARON,start_answer
+233,1064,40,19,He was committed to looking for acquisitions.  He'd been doing it throughout his management of the company.  I'm committed to looking for acquisitions at Berkshire.,a,THE WITNESS,start_question
+234,1068,40,23,"Speaking of -- that is interesting. When you talk to your shareholders, your Berkshire shareholders, do you tell them that you are just continue to look for acquisitions, that that is sort of what you are hoping to achieve if, in fact, there are good acquisitions in the market that will allow them to happen?",q,MR. RANDY BARON,start_answer
+235,1076,41,5,"Yes.  Our intention at Berkshire would be, we are retaining 25 billions dollars or so of earnings per year, and fortunately we have two prongs.  I explain that to our shareholders, we are fortunate that we have two options that most companies, really large companies don't think of having. One is we can do it through the acquisition of part of a company, by buying stock in the company, and secondly, we can buy entire companies. And our preference is to buy entire companies, but it is a lot easier to buy marketable securities.",a,THE WITNESS,start_question
+236,1090,41,19,"But, again, you don't know whether you are going to buy any or not.  It all depends on what the opportunities are and what the market is, correct?",q,MR. RANDY BARON,start_answer
+237,1093,41,22,That is exactly true.  But I wouldn't come to the office if I wasn't hoping every day the phone would ring.,a,THE WITNESS,start_question
+238,1096,41,25,"But if you don't know whether you are going to buy them or not, why do you bother to tell your shareholders that that is what you looking to do?",q,MR. RANDY BARON,start_answer
+239,1101,42,4,"Well, they should know it.  Why we are retaining $25 billion of their money, so I should tell them what we hope to do with that 25 billion.",a,THE WITNESS,start_question
+240,1104,42,7,"And because they have invested it and those are investments decisions that they are making, so they should have full information as to what the nature of the investment decisions are being made with their money, correct?",q,MR. RANDY BARON,start_answer
+241,1109,42,12,"Well, my partner, Charlie Munger and I, look at them as their partners, basically, and we want to give them, in as simple terms as possible, what they can and can't expect from us, and what we are going to try and do with their money, which is exactly what we are doing with our own money.  In my case, I have 99 percent of my capital in Berkshire.",a,THE WITNESS,start_question
+242,1116,42,19,"So, again, the idea is, if they are going to invest their money in the company, they have -- they should have an understanding as to what the company expects to do with their investments?",q,MR. RANDY BARON,start_answer
+243,1120,42,23,"We have for 30 years a section of the annual report when we set the economic principles of Berkshire Hathaway.  These people are our partners, and we want to know their -- they are entitled to know what our own expectations of our sales are, what our limitations are, how we are going to treat their money, and so we try to lay that out.",a,THE WITNESS,start_question
+244,1128,43,5,Even if you don't know whether or not you are ever going to make another acquisition again?,q,MR. RANDY BARON,start_answer
+245,1130,43,7,"Well, I don't know how long -- I'm going to 89 in a couple days, so I may have made my last acquisition.  But every day I'm thinking about it.",a,THE WITNESS,start_question
+246,1133,43,10,"And so, again, because -- since you don't know whether you will make one or not, doesn't mean you shouldn't tell your shareholders that you will continue to try, correct?",q,MR. RANDY BARON,start_answer
+247,1137,43,14,It is what I hope to do.  But it isn't something I can in any way guarantee in them that I can do.,a,THE WITNESS,start_question
+248,1140,43,17,But why do you tell them if it is only something you hope to do?,q,MR. RANDY BARON,start_answer
+249,1142,43,19,"Again, because they are leaving $25 billion with me; they ought to know what I'm thinking about doing with it.",a,THE WITNESS,start_question
+250,1145,43,22,"I want to sort of move on to another issue.  That issue is Mr. Donegan. Did you have some understanding as to, absent an acquisition by Berkshire, what Mr. Donegan's plans were at Precision Castparts?",q,MR. RANDY BARON,start_answer
+251,1151,44,2,"I thought he was in love with his business.  And I looked -- that is what I'm hoping to find in a manager.  And he seemed to me a fellow that was much more interested in his business doing well than how he did.  And that he would bring -- I certainly had the impression that he worked extremely hard at it, and I thought he knew his business extremely well. And, you know, the one question I asked him, was, you know, do you plan to retire at 65?",a,THE WITNESS,start_question
+252,1161,44,12,And what did he tell you?,q,MR. RANDY BARON,start_answer
+253,1162,44,13,"He said he -- I don't remember precisely what he said.  But the remembrance I have in my mind is that he basically said the same thing I would say, which is I will work as long as I can.",a,THE WITNESS,start_question
+254,1166,44,17,And you are succeeding with that plan.,q,MR. RANDY BARON,start_answer
+255,1167,44,18,"And he's succeeding with the plan, too.",a,THE WITNESS,start_question
+256,1168,44,19,"Well, did you get any sense as to whether or not the idea of what you want to do with the business of Precision Castparts, you know, including its acquisition as an acquisition, options, whatever we want to call it, that doing so as a member of the Berkshire family was more in sync with his desire -- his way of running a company as opposed to a public company?",q,MR. RANDY BARON,start_answer
+257,1177,45,2,"Well, I think -- I sell this in effect to sellers that the financial resources of Berkshire are essentially unlimited.  So that, in effect, it can -- we don't need dividends from subsidiaries that, all of the time that the CEO, they don't have to worry about dealing with banks, they don't have about dealing with lawyers, usually.  They don't --",a,THE WITNESS,start_question
+258,1184,45,9,Who wouldn't want to deal with lawyers?  I don't understand.,q,MR. RANDY BARON,start_answer
+259,1186,45,11,"They can use 100 percent of their time -- if they love their business, they can spend 100 percent of their time in that love affair.",a,THE WITNESS,start_question
+260,1189,45,14,That is a great sales pitch.,q,MR. RANDY BARON,start_answer
+261,1190,45,15,"Well, I think it is true, too.",a,THE WITNESS,start_question
+262,1191,45,16,I don't disagree with that.,q,MR. RANDY BARON,start_answer
+263,1192,45,17,Yes.,a,THE WITNESS,start_question
+264,1193,45,18,"With regard to Mr. Donegan, do you have any sense of whether or not he acknowledged that benefit?  You are talking -- you don't have to deal with the same level of the analyst calls the analyst -- the same expectations of, you know, meeting your earnings numbers to the same extent, all of those things make it probably a better job to be a CEO under the Berkshire umbrella then alone in the public markets, would you agree with that?",q,MR. RANDY BARON,start_answer
+265,1203,46,2,"I think -- I think that it is a luxury I enjoy.  And I think that having unlimited resources for anything good that comes along, having -- if you are in love with your business, you are free to run your business.  And some executives are in that position and a great many aren't. And you can't change the people.  So I can't put that spark in them.  But if that is spark is there, I can make sure that we are the right place to have it.",a,THE WITNESS,start_question
+266,1213,46,12,Some managers love running business and some managers love the wheeling and dealing of being in the public equity market?,q,MR. RANDY BARON,start_answer
+267,1216,46,15,Some are looking forward to their retirement.,a,THE WITNESS,start_question
+268,1218,46,17,"And was there any sense from Mr. Donegan in particular that, you know, Precision Castparts was going to be both more successful and, you know, a more pleasant plan to run under Berkshire Hathaway?",q,MR. RANDY BARON,start_answer
+269,1223,46,22,I think -- I think every -- I think we bring ingredients that any company that are -- are almost unique.,a,THE WITNESS,start_question
+270,1226,46,25,Did you get any sense from Mr. Donegan that he recognized that?,q,MR. RANDY BARON,start_answer
+271,1229,47,2,"Well, I think he -- he liked the fact -- he wouldn't be talking to me, if he didn't think that Precision Castparts would -- would have a good future under Berkshire.  I mean, he loved the place. He wouldn't turn it over on some raider of some sort.",a,THE WITNESS,start_question
+272,1235,47,8,"Did you ever get any since that he, either directly or from Mr. Combs that, in fact, he loved the place but that he was frustrated with it as a public company as opposed to in a situation where he could focus on running the company?",q,MR. RANDY BARON,start_answer
+273,1240,47,13,"I think he ran -- I think he ran the company as a company that he loved.  I mean, we all get frustrated a little bit.  I get frustrated at times I can't find anything to buy.  But if you really like your business, if it is not just a business to you, but it is a passion, you like the idea that -- that if a 2008 or '09 period comes along, you have got bank loan that are coming due, you have got a parent that has got a lot of money.",a,THE WITNESS,start_question
+274,1249,47,22,One last document I would like to show you.,q,MR. RANDY BARON,start_chat
+275,1251,47,24,"Mark this 145 for me, please.",side_chat,MR. RANDY BARON,is brackets
+276,1254,48,1,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 145.),brackets,,start_question
+277,1258,48,5,"I'm showing you an email chain, and this is an email chain, again, between your assistant, Debbie Bosanek -- do you say Bosanek --",q,MR. RANDY BARON,start_answer
+278,1261,48,8,"Bosanek, it is from me.  You get fewer emails, if you have somebody else receive them.",a,THE WITNESS,start_question
+279,1263,48,10,I need to try that.,q,MR. RANDY BARON,start_answer
+280,1264,48,11,It works.,a,THE WITNESS,start_question
+281,1265,48,12,"And then -- and then it was Das Anupreeta from the Wall Street Journal who you are speaking with, correct?  On your email chain?",q,MR. RANDY BARON,start_chat
+282,1268,48,15,Are you working off the same one we are?  This is one with --,side_chat,MR. GARVEY,start_chat
+283,1270,48,17,Maybe I got the wrong one.,side_chat,MR. RANDY BARON,start_chat
+284,1272,48,19,With Dimon.,side_chat,THE WITNESS,start_chat
+285,1273,48,20,"Oh, I'm sorry.",side_chat,MR. RANDY BARON,start_chat
+286,1274,48,21,Would you like this one back?,side_chat,THE WITNESS,start_chat
+287,1276,48,23,It is the wrong email on that date.  I'm sorry. Can you just mark this next in order?,side_chat,MR. RANDY BARON,start_chat
+288,1280,49,1,146.,side_chat,THE REPORTER,start_chat
+289,1281,49,2,146.,side_chat,MR. RANDY BARON,is brackets
+290,1282,49,3,(The referred-to document was marked by the court reporter for Identification as Deposition Exhibit 146.),brackets,,start_question
+291,1286,49,7,"On 146, this is an email chain between, again, you and Ms. Anupreeta Das from the Wall Street Journal, correct?",q,MR. RANDY BARON,start_answer
+292,1289,49,10,Correct.,a,THE WITNESS,start_question
+293,1290,49,11,"And the question that was asked of you was, did you make it a condition of the deal that Mark Donegan stay on? And then you said, ""Not formal nor contractual, but I would not have made the deal unless I was 100 percent sure he would run the company for a very long time."" Do you see that?",q,MR. RANDY BARON,start_answer
+294,1298,49,19,That's correct.,a,THE WITNESS,start_question
+295,1299,49,20,Explain to me what you meant by -- how were you able to be 100 percent sure he was going to stay and run the company for a long time?,q,MR. RANDY BARON,start_answer
+296,1302,49,23,"It was a judgment I made after talking with him.  You know, and -- it isn't -- I did say something to the effect, are you going to retire at 65.  But it goes beyond that.  You can -- you can actually tell with a reasonable degree of assurance, I'm sure I have gotten fooled sometimes, but you can tell by how people talk about their business, and they -- their personality, their conviction, their passion for it comes through. I think it probably comes through with me about Berkshire, because it is what I think about, you know.",a,THE WITNESS,start_question
+297,1315,50,10,"How does -- and is it just because of your history and the way you have acquired companies, or do you do something to make clear to the managers that you are going to be part of the family, I'm buying this company, but I'm buying this company with you at the helm?",q,MR. RANDY BARON,start_answer
+298,1321,50,16,"With me, personally.  Or them --",a,THE WITNESS,start_question
+299,1322,50,17,"To the manager of the company.  Like, for example, Mr. Donegan, you clearly want him to stay and not retire and be there for an extended period of time.  Again, but by anybody who is going to be acquired, they want to know whether they have got a job, if you acquire them and, you know, fire them and put in a whole new management team. How do they get that assurance from you?",q,MR. RANDY BARON,start_answer
+300,1330,50,25,"Well, they can look at the record.  I mean, I can't recall a time when I've ever bought a company to fire the guy the next day. We are dependent on the management.  We don't have --",a,THE WITNESS,start_question
+301,1336,51,5,That is not yours --,q,MR. RANDY BARON,start_answer
+302,1337,51,6,"Well, we don't have a corps of people here. I mean, we have 395,000 employees, we have got 25 at headquarters.  We don't have anybody to run companies.  I can't run them.  Todd can't run them. Debbie would probably be better than -- but we don't have anybody to run the companies. And we need managers who, for reasons other than money, they have got to be paid fairly, but for reasons other than money, that is just plain -- that is what they want to do in life. Because probably three quarters of our managers are financially independent.  They don't need to do it to live well.  They have got to do it because they love doing it.  I can't put that in them.  I can mess it up, but I can't put it in them.",a,THE WITNESS,start_question
+303,1352,51,21,"In one of your interviews about this, you said, something, you know, we treat, you know, we treat them well, we treat our managers well that come in. What do you mean by that?  Is that more than just money?",q,MR. RANDY BARON,start_answer
+304,1359,52,2,"Oh, I think it is more than money.  I think --",a,THE WITNESS,start_question
+305,1361,52,4,What is it that you do that you think is treating your managers well?,q,MR. RANDY BARON,start_answer
+306,1363,52,6,"I think -- I think when they come to the annual meeting, they are heros to 40,000 people.  I think that -- I mean, they show their wares there at our meeting.  I think there is some prestige, perhaps joined -- joined with Berkshire now.  That wasn't true 40 years ago. But I think now that -- that I think -- on balance, if you run a company owned by Berkshire that it is regarded as something different, perhaps. Maybe I'm kidding myself. I think that -- I think they understand generally that they are not going to be subject to some 25-year-old MBA telling them, you know, what to have for breakfast in the morning, if you are with Berkshire.  And that culture will extend beyond me, because at my age, they don't know whether I'm going to be around tomorrow.",a,THE WITNESS,start_question
+307,1380,52,23,"So do you ever have to tell the managers, look, you know, I'm buying this company with the expectation that you are going to be around a long time, or do you just assume that they know that because it is Berkshire?",q,MR. RANDY BARON,start_answer
+308,1386,53,3,"Well, I think -- they know I wouldn't be buying -- I couldn't name -- name another person at Precision Castparts.  I'm not there.  It is one thing, I -- I count on them living a long time. That doesn't mean they will. But I had one woman who worked for me until she was 103.  I use her as an example. Because when she retired at 103, she died the next time.  I just hold that as a threat over the other members.",a,THE WITNESS,start_question
+309,1396,53,13,"Let's move back to Exhibit 145 for just a minute, and that is the email with Mr. Dimon. In there it appeared that you were indicating that you would, you know, accept some financing or you may look for some additional financing for the acquisition. Was that a business decision for diversification?  Was that a business decision for sort of keeping good relations?  Or was that some need that you guys think you had financially for the acquisition?",q,MR. RANDY BARON,start_answer
+310,1407,53,24,"Well, we always have the money to do it.",a,THE WITNESS,start_question
+311,1408,53,25,That was my point.,q,MR. RANDY BARON,start_answer
+312,1410,54,1,We don't commit unless they have got the money.  That doesn't mean I wouldn't borrow some money.  But we never --,a,THE WITNESS,start_question
+313,1413,54,4,"So in this instance, do you recall whether you ultimate ultimately took some money?",q,MR. RANDY BARON,start_answer
+314,1415,54,6,"As I look at this, I don't remember at all.",a,THE WITNESS,start_question
+315,1417,54,8,"So you don't know why you said to Mr. Dimon, sure, we might take some of your money? You have no recollection of why?",q,MR. RANDY BARON,start_answer
+316,1420,54,11,I guess he's prepared if I called.  But I have no memory whether we borrowed money on this -- on the deal.,a,THE WITNESS,start_chat
+317,1423,54,14,"We don't we -- we have been about an hour.  I think I'm probably done, unless my colleagues tell me I have a lot more questions for you and then we will come back. Can we take five minutes and decide what else we need?",side_chat,MR. RANDY BARON,start_chat
+318,1429,54,20,Sure.,side_chat,THE WITNESS,start_chat
+319,1430,54,21,Please stand by as we go off the record.  The time is approximately 10:31 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+320,1436,55,1,"(Thereupon, a recess was taken, after which the following proceedings were held:)",brackets,,start_chat
+321,1438,55,3,We are back on the record.  The time is 10:36 a.m.,side_chat,THE VIDEOGRAPHER,start_chat
+322,1440,55,5,I have no further questions.,side_chat,MR. RANDY BARON,start_chat
+323,1442,55,7,"I have a few questions, Mr. Buffett. E X A M I N A T I O N",side_chat,MR. ROBERT BARON,start_question
+324,1446,55,11,"I'm going to refer to him as plaintiff's counsel, since we have the last -- the same last name.",q,MR. ROBERT BARON,start_chat
+325,1449,55,14,I don't need it.,side_chat,MR. RANDY BARON,start_chat
+326,1450,55,15,I'm sorry.  Am I not projecting adequately?,side_chat,MR. ROBERT BARON,start_chat
+327,1452,55,17,I'm glad somebody else needs help.,side_chat,THE WITNESS,start_chat
+328,1454,55,19,Thank you. I think we are good.,side_chat,MR. ROBERT BARON,start_question
+329,1457,55,22,"So, Mr. Buffett, plaintiff's counsel asked you some questions about your understanding with respect to the future acquisitions by Precision at the time you were contemplating the purchase of Precision. And my question is, at the time you decided to make the offer and at the time that you signed up the acquisition of Precision, did you have any specific forecast or expectations about the pace of future acquisition activity by Precision?",q,MR. ROBERT BARON,start_answer
+330,1468,56,7,No.,a,THE WITNESS,start_question
+331,1469,56,8,"When you have made other acquisitions of other public companies, or private companies, when you make that acquisition, do you prepare a forecast of the expected future acquisition activity by those companies?",q,MR. ROBERT BARON,start_answer
+332,1474,56,13,No.,a,THE WITNESS,start_question
+333,1475,56,14,"Do you have, in your acquisition experience, I think you said you bought 60 companies.",q,MR. ROBERT BARON,start_answer
+334,1478,56,17,"Roughly, yes.",a,THE WITNESS,start_question
+335,1479,56,18,Have you ever had a specific forecast or set of expectations about the future acquisition activity by the target company that you are going to purchase about what level of acquisitions they were going to enter into in the next three to five years?,q,MR. ROBERT BARON,start_answer
+336,1484,56,23,Never.,a,THE WITNESS,start_question
+337,1485,56,24,"Does Berkshire, for its own use, prepare forecasts as to the level of acquisition activity that Berkshire expects to engage in over any future period, one year, three years, five years?",q,MR. ROBERT BARON,start_answer
+338,1490,57,3,We never have that.,a,THE WITNESS,start_question
+339,1491,57,4,And why don't you do that?,q,MR. ROBERT BARON,start_answer
+340,1492,57,5,"I don't know.  I know -- I know that I'm interested in doing them.  I know that there is no way to predict what will come along when -- I don't know what the competition will be.  Right now private equity, for example, is extraordinary competition. It wouldn't make any sense.  I want to be prepared.  I'm always prepared to make acquisitions. I like have a loaded gun in terms of having the cash, some fair amount of cash available and access to credit, if needed.  But we have never had a plan like that.",a,THE WITNESS,start_question
+341,1504,57,17,"If a company that you are considering purchasing were to present you with a forecast as to their future rate of acquisitions, is that something that you would rely upon in deciding whether to go ahead and try to purchase that company, or actually sign up an acquisition of that company?",q,MR. ROBERT BARON,start_answer
+342,1510,57,23,"It might -- it might worry me a little bit if they actually had numbers.  I mean, you can't forecast acquisitions.  You can -- you can have a very keen interest in a subject, and we have it at Berkshire.  And some of our subsidiaries do and some don't. There is no sense having an acquisition plan of See's Candy, but if it seems sensible to be willing to look at acquisitions at a Marmon, for example, but we have no forecast on that sort of thing.",a,THE WITNESS,start_question
+343,1522,58,9,Is it unusual for the operating companies under the Berkshire umbrella to study potential acquisition candidates on a regular basis?,q,MR. ROBERT BARON,start_answer
+344,1525,58,12,"Well, a number do and a number don't.  I mean, in the insurance business it -- it would be very, very, very unlikely that -- Geico is not going to consider an acquisition.  But it can consider expansion. But, on the other hand, let's take Shaw, a carpet company, if you take Marmon, which has acquired a number of companies over the years. Uber has always had an interest, but their record has been very poor since we bought it, in terms of acquisitions.  But they had acquired companies over the years.  And still, if something good came along, we would be interested in doing it. But there are certain industries we are in where it is -- it may make some sense, but BNSF, it is very unlikely they ever make an acquisition.",a,THE WITNESS,start_question
+345,1542,59,3,"You made some reference during your testimony in response to the questions from plaintiff's counsel to the acquisitions that Precision had made since the closing of Berkshire's acquisition. In your view, has Precision been successful in its attempts to acquire other companies since Berkshire acquired Precision, three and a half years ago now?",q,MR. ROBERT BARON,start_chat
+346,1551,59,12,"Objection, form.",side_chat,MR. RANDY BARON,start_chat
+347,1552,59,13,You may answer.,side_chat,MR. GARVEY,start_chat
+348,1553,59,14,"Oh.  Not to this point, no. It actually -- we made one that turned out very badly, and -- but that happens.  I have made some myself, not necessarily in that time period.  But I have made -- I have made enough myself that -- it can happen.  It will happen from time to time.  But we have had -- we have not had a good streak since the time we bought Precision.",side_chat,THE WITNESS,start_question
+349,1563,59,24,"You've bought 60 companies over the years, and is it fair to say some of those acquisitions have been very successful and others have been unsuccessful?",q,MR. ROBERT BARON,start_answer
+350,1568,60,3,That is very fair to say.,a,THE WITNESS,start_question
+351,1569,60,4,Is it possible for you to know at the time you enter into an agreement to acquire a company whether that acquisition is ultimately going to be accreted to Berkshire's financial performance?,q,MR. ROBERT BARON,start_answer
+352,1573,60,8,"No.  I have always been -- I have that expectation and sometimes it is realized and sometimes it is more than realized.  And other times, I'm dead wrong.",a,THE WITNESS,start_question
+353,1577,60,12,"And there have been instances where acquisitions by Berkshire have disappointed you, correct?",q,MR. ROBERT BARON,start_answer
+354,1580,60,15,A number.,a,THE WITNESS,start_question
+355,1581,60,16,"With respect to the performance, the financial performance of Precision, since Berkshire acquired it, has Precision's financial performance during the years from 2016 to the present met your expectations at the time you acquired the company or at the time you agreed to acquire the company in 2015?",q,MR. ROBERT BARON,start_answer
+356,1588,60,23,No.,a,THE WITNESS,start_question
+357,1589,60,24,And has the underperformance been due to circumstances that were within the control of the management of Precision?,q,MR. ROBERT BARON,start_answer
+358,1593,61,2,"No.  I think Mark Donegan has done a fine job and we are lucky to have him.  But it still hadn't worked out to date.  It hasn't worked out as we had hoped.  Actually, that has been commented on by certain outside analysts, including at our annual meeting.",a,THE WITNESS,start_chat
+359,1599,61,8,I have no further questions at this time.,side_chat,MR. ROBERT BARON,start_chat
+360,1601,61,10,May I have the microphone back? F U R T H E R   E X A M I N A T I O N,side_chat,MR. RANDY BARON,start_question
+361,1605,61,14,"I have a couple of follow-ups to those. Mr. Baron, the other Mr. Baron commented about forecasts on acquisitions. I believe that you sort of made comments before about long range forecasts of companies you acquired before, correct? What is your belief in trusting or relying on forecasts of any sort?",q,MR. RANDY BARON,start_answer
+362,1613,61,22,"Well, in effect, when I buy a company I'm making one myself.  It may not be precise, or -- but I'm saying overall, it is a good idea to lay out X for this company, because I expect that we will get a decent return on X over time.",a,THE WITNESS,start_question
+363,1619,62,2,"What about the internal company management's long range, five-year, 10-year forecasts, what is your view on those?",q,MR. RANDY BARON,start_answer
+364,1622,62,5,I never ask for them.,a,THE WITNESS,start_question
+365,1623,62,6,All right.  Why?  Why not?,q,MR. RANDY BARON,start_answer
+366,1624,62,7,"I don't think people know perfectly the future, and I think that -- in the end, it is my decision.  I mean, I can't -- I can't go to the Board of Directors and say, well, you know, so and so told me they were going to earn 2 X, you know, five years from now.  It is my decision.",a,THE WITNESS,start_question
+367,1630,62,13,"It is not just they don't want acquisition they are going to make, they don't know what the market is going to be, they don't know whether the oil and gas industry is going to be bad, whether or not Boeing is going to have issues with its liners, all of those things you don't know, so you don't rely on them --",q,MR. RANDY BARON,start_answer
+368,1637,62,20,"The world can't -- well, I make estimates in my own mind, obviously, of what I see in the future, both with stocks and with businesses.  But I don't rely on other people's forecasts for stocks.",a,THE WITNESS,start_question
+369,1641,62,24,For anything?,q,MR. RANDY BARON,start_answer
+370,1642,62,25,Yes.,a,THE WITNESS,start_question
+371,1644,63,1,And when -- so does -- does Berkshire do long-range forecasts?,q,MR. RANDY BARON,start_answer
+372,1646,63,3,No.,a,THE WITNESS,start_question
+373,1647,63,4,Why not?,q,MR. RANDY BARON,start_answer
+374,1648,63,5,Because we -- all we know is we are going to do our best.,a,THE WITNESS,start_question
+375,1650,63,7,"All right. And so it is not that Berkshire doesn't -- doesn't forecast out, project for acquisitions, it just doesn't forecast out its overall business model beyond, you know, what it hopes it can achieve in a very short time?",q,MR. RANDY BARON,start_answer
+376,1656,63,13,"Well, not even in the short time.  But I would say this, I do make sure that I know where the month, quarter where cash is going to be.",a,THE WITNESS,start_question
+377,1659,63,16,"Exactly. But, again, the other Mr. Baron made comments about you don't forecast out acquisitions, but you don't really forecast out anything at Berkshire, correct?",q,MR. RANDY BARON,start_answer
+378,1664,63,21,"I don't do it in the specific sense of forecast.  Obviously, when I buy a business, I'm projecting a future in my mind that I think is satisfactory in terms of the capital we are laying out.",a,THE WITNESS,start_question
+379,1670,64,1,"And what you do do, is you actually set aside a certain amount of money that is intended specifically for acquisitions, if they can be achieved in the next year or two years following, correct?",q,MR. RANDY BARON,start_answer
+380,1675,64,6,"Well, I don't set it aside.  I'm just -- I'm always in a position where I could look at things that are large, and I would even look at things where we might have to borrow money, although I would want ample liquidity after we borrowed the money. But I would never put Berkshire in any position where if the stock market closed for a month, or commercial paper couldn't be sold or anything like that that, that Berkshire would have a problem.  I'm very conservative financially.  But I also like to do big deals.",a,THE WITNESS,start_question
+381,1687,64,18,"So, again, a moment ago when we were speaking first, you were talking about you tell shareholders that you have a certain amount of capital, a certain amount of capital that you are not allocating yet, that you are holding back for potential acquisitions, correct?",q,MR. RANDY BARON,start_answer
+382,1693,64,24,"Well, we keep all of the money.  So they -- we better do something with it.  But I do tell them, currently, that we will keep always at least $20 billion in cash or US Treasury bills.",a,THE WITNESS,start_question
+383,1698,65,3,And why are you telling them that you are keeping 20 billion?,q,MR. RANDY BARON,start_answer
+384,1700,65,5,Because I don't know whether the stock market is going to be open tomorrow.,a,THE WITNESS,start_question
+385,1702,65,7,"Okay.  So you are keeping the 20 billion -- is it just to hold, if the stock goes down, or is it for the purpose of making acquisitions?",q,MR. RANDY BARON,start_answer
+386,1706,65,11,"No.  We want to have $20 billion, so if the world stops for some reason, if a missile actually hit Hawaii instead of -- we want to be in better shape than any bank is.  We do not want to count on bank lines.  We don't want to count on the openness of markets.",a,THE WITNESS,start_chat
+387,1712,65,17,I have no further questions.,side_chat,MR. RANDY BARON,start_chat
+388,1714,65,19,Nothing further here. Thank you.,side_chat,MR. ROBERT BARON,start_chat
+389,1716,65,21,Please stand by.  This ends the deposition.  The time is approximately 10:49 a.m.,side_chat,THE VIDEOGRAPHER,is brackets
+390,1719,65,24,"(Thereupon, the deposition was concluded at 10:49 a.m.) STATE OF NEBRASKA    ) COUNTY OF DOUGLAS    ) I, KELLI ANN WILLIS, a Registered Professional Reporter and Certified Realtime Reporter, do he re by certify: That the foregoing proceedings were taken before me at the time and place herein set forth; that the witnesses in the foregoing proceedings, prior to testifying, were placed under oath; that a verbatim record of the proceedings was made by me using machine shorthand which was thereafter transcribed under by direction; that the foregoing is a true recording of the testimony given. Before completion of the deposition, review of the transcript was requested. If requested, any changes made by the deponent (and provided to the reporter) during the period allowed are appended hereto. I further certify that I am not interested in the outcome of the action. WITNESS my hand this date, 16 July 2017.",brackets,,symbols
+391,1745,66,23,________________________________ Certified Shorthand Reporter License No. 11095,symbols,,end

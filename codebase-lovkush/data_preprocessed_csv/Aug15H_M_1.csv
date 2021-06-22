@@ -1,0 +1,946 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," P R O C E E D I N G S David F. MacInnis, Sworn DIRECT EXAMINATION",,,start_question
+1,181,5,5,"Mr. MacInnis, my name is Adam Benevides.  I represent Chappell Engineering in a matter called Dexter Avenue Realty Trust versus Chappell Engineering, et al. Have you ever had your deposition taken before?",q,MR. BENEVIDES,start_answer
+2,187,5,11,I have not.,a,THE WITNESS,start_question
+3,188,5,12,You have not.  So I'm going to go over a few ground rules to make things easier.,q,MR. BENEVIDES,start_answer
+4,190,5,14,Sure.,a,THE WITNESS,start_question
+5,191,5,15,"So this is essentially a question-and- answer-session.  We're going to talk about most of the documents that you reviewed in your subpoena and whatnot.  So to make things easier, when I ask questions and when you respond, we want to try to not talk over each other, let each other answer. It's also important that you give verbal responses rather than shaking your head or saying ""uh-huh,"" things of that nature. If at any time you don't understand my question or you need clarification, please ask me. If you answer a question, I'm going to assume that you understood it.  So if there's something that you need clarified, just make sure that you let us know. Okay?",q,MR. BENEVIDES,start_answer
+6,207,6,6,Okay.,a,THE WITNESS,start_question
+7,208,6,7,Are you represented here at all today?,q,MR. BENEVIDES,start_answer
+8,209,6,8,I'm not.,a,THE WITNESS,start_question
+9,210,6,9,"Okay.  If at any time you need a break or you just feel as though you need to use the bathroom, anything like that, just let me know and we'll pause the deposition.  Okay?",q,MR. BENEVIDES,start_answer
+10,214,6,13,Okay.,a,THE WITNESS,start_chat
+11,215,6,14,"Adam, since he's not represented, do you want to explain to him he has a right to review the transcript?",side_chat,MR. RAMSDELL,start_question
+12,218,6,17,"So at the end of the deposition, the court reporter is going to produce a transcript.",q,MR. BENEVIDES,start_answer
+13,220,6,19,Okay.,a,THE WITNESS,start_question
+14,221,6,20,"And then you will have the opportunity to review that transcript and take a look at your testimony and ensure that it's accurately recorded, and if it's not, there's going to be a sheet where you can write down where there may be errors, and then we will have the transcript altered accordingly.",q,MR. BENEVIDES,start_answer
+15,229,7,3,Okay.,a,THE WITNESS,start_chat
+16,230,7,4,"On that note, 30 days for signing, we'll waive notary; does everybody agree with that?",side_chat,MR. BENEVIDES,is brackets
+17,233,7,7,(All counsel agreed.),brackets,,start_chat
+18,234,7,8,"And the usual stipulations?  Objections other than the form of the question will be reserved till trial, motions to strike as well.",side_chat,MR. BENEVIDES,is brackets
+19,238,7,12,(All counsel agreed.),brackets,,start_question
+20,240,7,14,"Mr. MacInnis, I understand that you are employed by Hennessey & MacInnis?",q,MR. BENEVIDES,start_answer
+21,242,7,16,Correct.,a,THE WITNESS,start_question
+22,243,7,17,"And that is a title examination firm, correct?",q,MR. BENEVIDES,start_answer
+23,245,7,19,Yes.,a,THE WITNESS,start_question
+24,246,7,20,And you performed a title examination on property on Dexter Avenue?,q,MR. BENEVIDES,start_answer
+25,248,7,22,I did.,a,THE WITNESS,start_question
+26,249,7,23,Okay.,q,MR. BENEVIDES,start_chat
+27,250,7,24,"Can we mark this as the first exhibit, please.",side_chat,MR. BENEVIDES,is brackets
+28,253,8,2,"(Marked, Exhibit 1, Subpoena issued to Hennessey & MacInnis and attached documents.)",brackets,,start_question
+29,255,8,4,I've put in front of you what has been labeled Exhibit 1.  Do you recognize this as a subpoena that was served upon you?,q,MR. BENEVIDES,start_answer
+30,258,8,7,(Witness reviews document.) Yes.,a,THE WITNESS,start_question
+31,259,8,8,"Okay.  If we turn to the, I believe it's the fourth page of that document, you see there's a Schedule A, correct?",q,MR. BENEVIDES,start_answer
+32,262,8,11,(Witness reviews document.) Yes.,a,THE WITNESS,start_question
+33,263,8,12,And then there are documents requested of you?,q,MR. BENEVIDES,start_answer
+34,265,8,14,Yeah.,a,THE WITNESS,start_question
+35,266,8,15,"Could you quickly review, or actually, take however long it takes you to review the items in that document request and then let me know when you've finished.",q,MR. BENEVIDES,start_answer
+36,270,8,19,"(Witness reviews document.) Okay, I've furnished.",a,THE WITNESS,start_question
+37,272,8,21,Have you produced everything in your possession with respect to the documents requested in this subpoena?,q,MR. BENEVIDES,start_answer
+38,275,8,24,"I have.  Let me amend that.  I think I have.  I did check through my records.  If -- you know, if Attorney Miller gave you some other stuff, then he may have, I don't know.  I think I did.  I gave you what I had in my computer as far as the search goes.  You know?  I don't want to, you know, say I gave you everything and I didn't.",a,THE WITNESS,start_chat
+39,283,9,7,"So I'm going to mark this as Exhibit 2, please.",side_chat,MR. BENEVIDES,is brackets
+40,285,9,9,"(Marked, Exhibit 2, Email exchange between Attorney Benevides and the witness with attached documents witness produced.)",brackets,,start_question
+41,288,9,12,"So turning to Exhibit 2, this is an email between you and me, correct?",q,MR. BENEVIDES,start_answer
+42,290,9,14,(Witness reviews document.) Yes.,a,THE WITNESS,start_question
+43,291,9,15,"And attached to this email are the documents that you produced to me recently, correct?",q,MR. BENEVIDES,start_answer
+44,293,9,17,Correct.,a,THE WITNESS,start_question
+45,294,9,18,And these are all the documents that you had in your possession?,q,MR. BENEVIDES,start_answer
+46,296,9,20,"Yes, my possession, yes, in my computer.",a,THE WITNESS,start_question
+47,297,9,21,"Now, you just mentioned that you might have other documents that you received from Attorney Miller?",q,MR. BENEVIDES,start_answer
+48,300,9,24,"I don't think so.  I may have done -- I don't know if I sent him some notes on some stuff when it kind of all blew up; he had me do some other stuff, but I didn't really send him anything.  I just told him that it was -- it got kind of confusing -- not confusing, but -- when it all kind of went down, he wanted me to do some more look -- kind of poke around see if I could find some other stuff, and I really didn't.  I just did some sketches on a piece of paper that I never sent to him.  I just said, ""I'm not coming up with anything, Bruce,"" you know, type thing.",a,THE WITNESS,start_question
+49,313,10,12,"Did you produce those sketches, and did you look for those?",q,MR. BENEVIDES,start_answer
+50,315,10,14,"Yeah, I did.  I didn't have them.  I checked my emails, things like that.  It wasn't -- he essentially wanted me to figure out --",a,THE WITNESS,start_question
+51,318,10,17,Can I stop you there?  I'm sorry.,q,MR. BENEVIDES,start_answer
+52,319,10,18,Am I talking too much?,a,THE WITNESS,start_question
+53,320,10,19,"No, not at all.  I just wanted to clarify who Attorney Miller was?",q,MR. BENEVIDES,start_answer
+54,322,10,21,"Okay.  Bruce Miller, Pierce Atwood.  He's the one that contacted me about the search.",a,THE WITNESS,start_question
+55,324,10,23,Okay.  And who is he in relation to this matter?,q,MR. BENEVIDES,start_answer
+56,327,11,1,"He is the real estate -- he represented I think Natale in the real estate -- I believe real estate transactions.  I believe he's a client of his, I would say.  I mean, I wouldn't -- actually, that's not really my end of it.  He just told me, you know.",a,THE WITNESS,start_question
+57,333,11,7,Do you have a longstanding relationship with Mr. Miller?,q,MR. BENEVIDES,start_answer
+58,335,11,9,I do.,a,THE WITNESS,start_question
+59,336,11,10,Does he frequently refer you business?,q,MR. BENEVIDES,start_answer
+60,337,11,11,"Oh, absolutely, yeah.",a,THE WITNESS,start_question
+61,338,11,12,Okay.  And you were saying that Mr. Miller had asked you to do some additional research?,q,MR. BENEVIDES,start_answer
+62,340,11,14,"Yes.  It ended up being like two properties involved, and he wanted to see where I think -- this is a few years ago -- where they actually built it on the wrong lot, from what I understand.  He wanted to see -- he wanted -- could I see who owned that and the title there. So I did some poking around.  It was virtually impossible to figure out.  It was like the land time forgot.  It was really different.  And they hired a bigger firm that does -- specializes in that, so...  I don't have anything.  I just told him -- I said, ""I looked around.  It was back in the 1700s.""  And it was just a big disaster, so I said, ""I can't do it, that's not really my specialty."" They hired a big firm that did it.  I know the people that did it, so...",a,THE WITNESS,start_question
+63,357,12,6,Was this in relation to Dexter Avenue?,q,MR. BENEVIDES,start_answer
+64,358,12,7,Yes.,a,THE WITNESS,start_question
+65,359,12,8,Okay.  Did you have an understanding of the addresses of the properties that he was speaking of?,q,MR. BENEVIDES,start_answer
+66,361,12,10,I did not.,a,THE WITNESS,start_question
+67,362,12,11,"Just as a -- going back a little bit here, what is your method of keeping your records?",q,MR. BENEVIDES,start_answer
+68,364,12,13,"We write a report, we email it to the attorney, and it's stored in there.  We've done that since 2008.  So when I went back to look -- we do it by town, city and address, so I would go to Woburn, Dexter, and that's what I had, that's what I sent to you.",a,THE WITNESS,start_question
+69,370,12,19,And how do you keep these records?  Are they in a paper file or are they --,q,MR. BENEVIDES,start_answer
+70,372,12,21,"No, they're on the computer.",a,THE WITNESS,start_question
+71,373,12,22,And do you scan everything in?,q,MR. BENEVIDES,start_answer
+72,374,12,23,Yeah.,a,THE WITNESS,start_question
+73,375,12,24,Okay.  So all of your notes and --,q,MR. BENEVIDES,start_answer
+74,377,13,1,No.,a,THE WITNESS,start_question
+75,378,13,2,-- anything else would be scanned in?,q,MR. BENEVIDES,start_answer
+76,379,13,3,"No, no.",a,THE WITNESS,start_question
+77,380,13,4,No?,q,MR. BENEVIDES,start_answer
+78,381,13,5,"No, I wouldn't bother, because I just told him -- I did it -- I told him verbally.",a,THE WITNESS,start_question
+79,383,13,7,I'm speaking in general now.,q,MR. BENEVIDES,start_answer
+80,384,13,8,"Oh, in general.",a,THE WITNESS,start_question
+81,385,13,9,"Yes, in general.",q,MR. BENEVIDES,start_answer
+82,386,13,10,"No, I would only scan in finished product that would be sent to an attorney.  I wouldn't scan notes.  There wouldn't be a reason for me to do that.",a,THE WITNESS,start_question
+83,390,13,14,So what would you do with any notes or things of that nature?  Does it go in a paper file?,q,MR. BENEVIDES,start_answer
+84,392,13,16,"No, it goes in the trash.",a,THE WITNESS,start_question
+85,393,13,17,Okay.,q,MR. BENEVIDES,start_answer
+86,394,13,18,"If I deemed them nonimportant and not relevant to anything or anything I would need in the future, I just -- you know, there's no use saving scraps of paper, things like that, or scan it if I didn't think I needed it.",a,THE WITNESS,start_question
+87,399,13,23,How many years has Hennessey & MacInnis been in business?,q,MR. BENEVIDES,start_answer
+88,402,14,1,"Probably 35, 40 years.",a,THE WITNESS,start_question
+89,403,14,2,And who runs the company?,q,MR. BENEVIDES,start_answer
+90,404,14,3,Myself and my brother do.,a,THE WITNESS,start_question
+91,405,14,4,And who is your brother?,q,MR. BENEVIDES,start_answer
+92,406,14,5,"Greg, Gregory.",a,THE WITNESS,start_question
+93,407,14,6,So he's also MacInnis?,q,MR. BENEVIDES,start_answer
+94,408,14,7,He is.,a,THE WITNESS,start_question
+95,409,14,8,And where does the name Hennessey derive from?,q,MR. BENEVIDES,start_answer
+96,411,14,10,"Hennessey is my grandfather's name.  He started the business in the '40s.  And that was my mother's name.  She's been in the business until just recently.  That was her married name, so myself and my brother have this part of the company.  We have brothers in other parts of the state, too. It's kind of a family thing.",a,THE WITNESS,start_question
+97,418,14,17,"Uh-huh.  And what's your highest level of education, Mr. MacInnis?",q,MR. BENEVIDES,start_answer
+98,420,14,19,Community college.,a,THE WITNESS,start_question
+99,421,14,20,Do you have any specialized training in examining titles?,q,MR. BENEVIDES,start_answer
+100,423,14,22,I do not.,a,THE WITNESS,start_question
+101,424,14,23,Did you learn on the job?,q,MR. BENEVIDES,start_answer
+102,425,14,24,"Yeah, yes.",a,THE WITNESS,start_question
+103,427,15,1,Sort of family business?,q,MR. BENEVIDES,start_answer
+104,428,15,2,Exactly.,a,THE WITNESS,start_question
+105,429,15,3,And how long have you specifically been examining titles?,q,MR. BENEVIDES,start_answer
+106,431,15,5,Thirty-five years.,a,THE WITNESS,start_question
+107,432,15,6,How many years have you been doing business with Bruce Miller?,q,MR. BENEVIDES,start_answer
+108,434,15,8,At least 25.,a,THE WITNESS,start_question
+109,435,15,9,And how did you meet Mr. Miller?,q,MR. BENEVIDES,start_answer
+110,436,15,10,"I don't know, to be honest with you.  I would say my grandfather might have had -- done some work back in the '70s for him.  He just evolved into a client.  He was at a different firm for a long time, and now he's been with this firm for a while, too.  So I've known Attorney Miller for quite a while.",a,THE WITNESS,start_question
+111,443,15,17,So it was Attorney Miller who requested you to perform services with regard to this matter?,q,MR. BENEVIDES,start_answer
+112,445,15,19,Yes.,a,THE WITNESS,start_question
+113,446,15,20,Okay.  And were you paid through Mr. Miller's firm?,q,MR. BENEVIDES,start_answer
+114,448,15,22,Yes.,a,THE WITNESS,start_question
+115,449,15,23,Okay.  Do you have any idea who Mr. Miller's client was on this?,q,MR. BENEVIDES,start_answer
+116,452,16,1,"Yeah, it was Natale.",a,THE WITNESS,start_question
+117,453,16,2,Okay.  Do you have any understanding as to whether there was a title insurer involved?,q,MR. BENEVIDES,start_answer
+118,455,16,4,I don't.,a,THE WITNESS,start_question
+119,456,16,5,"Okay.  I'm going to look at Exhibit 2 here in the documents that you provided me.  The first document that I have here says ""Hennessey & MacInnis"" on the top here?",q,MR. BENEVIDES,start_answer
+120,460,16,9,Yes.,a,THE WITNESS,start_question
+121,461,16,10,What exactly is this?,q,MR. BENEVIDES,start_answer
+122,462,16,11,This is just a bill.,a,THE WITNESS,start_question
+123,463,16,12,It's a bill?,q,MR. BENEVIDES,start_answer
+124,464,16,13,Yes.,a,THE WITNESS,start_question
+125,465,16,14,"I notice the date says July 7, 2009.  Is that an accurate date?",q,MR. BENEVIDES,start_answer
+126,467,16,16,Yes.,a,THE WITNESS,start_question
+127,468,16,17,So when was it that you performed title examination services?,q,MR. BENEVIDES,start_answer
+128,470,16,19,"Right about then.  I see the examining date is June 6.  I usually back it off a day or so.  I don't want to put down the 7th because if something afterwards were to come in, I would be -- it would show I was the whole day, so I just go back a day on it.",a,THE WITNESS,start_question
+129,477,17,1,"Okay.  Did you have an understanding as to when -- well, strike that. What was your understanding as to the property that you were examining?  And what I mean by that is, what was the reason for you doing this title search?",q,MR. BENEVIDES,start_answer
+130,483,17,7,It was a verbal request from him.  He --,a,THE WITNESS,start_question
+131,484,17,8,From Bruce?,q,MR. BENEVIDES,start_answer
+132,485,17,9,"Bruce Miller.  He called me, he said, ""My client Natale, we've done some stuff in the past."" I said, ""Yeah.""  ""He's looking to develop some property in Woburn.  It's on Dexter Ave.  It's one of these Royal Order of the Eagles things.  They bought it the late '60s, around '70.  Can you do a title?""  ""Yes."" So I went and grantee'd, looking for the owner, and that's all I found.  The Eagles got it in 1970 and got no other property on that street, so I said, ""Well, this is it.""",a,THE WITNESS,start_question
+133,496,17,20,"Well, was this -- this was at or around the time of July 2009?",q,MR. BENEVIDES,start_answer
+134,498,17,22,"Approximately.  I don't know how busy it was, if I got to it right away.  I'm not sure.  When the -- it wouldn't -- unless he told me, you know, ""This needs to go right away, can you do it right away"" -- I'm not sure when he actually called me. It wouldn't have been -- it would have been within a month or so.",a,THE WITNESS,start_question
+135,506,18,5,Did you have an understanding as to whether the property was under an agreement or even for sale at that point?,q,MR. BENEVIDES,start_answer
+136,509,18,8,"No.  I mean, he wouldn't have me do a title if it wasn't something that was going forward on something.  Maybe I don't understand the question. He, you know -- obviously, something was going to be done with the property, so he wanted a title search.",a,THE WITNESS,start_question
+137,514,18,13,Did he indicate to you one way or the other whether the property was being sold to Mr. Natale?,q,MR. BENEVIDES,start_answer
+138,516,18,15,Yes.,a,THE WITNESS,start_question
+139,517,18,16,"So he had -- you had known that the property was under agreement, or was this just a prospective purchase?",q,MR. BENEVIDES,start_answer
+140,520,18,19,"From my best recollection he said, ""You know Natale.  We've done stuff for him in the past."" I said, ""Yeah.""  He said, ""He's looking to do some developing on this piece of property.""  That was kind of the general gist of the conversation, as I recall.",a,THE WITNESS,start_question
+141,527,19,1,Do you know Mr. Natale?,q,MR. BENEVIDES,start_answer
+142,528,19,2,I do not.,a,THE WITNESS,start_question
+143,529,19,3,Okay.  Did you have an understanding where he lived?,q,MR. BENEVIDES,start_answer
+144,531,19,5,"I don't -- no, I did not know where he lived.",a,THE WITNESS,start_question
+145,533,19,7,Okay.  Did you have an understanding at all as to where this property was located in Woburn?,q,MR. BENEVIDES,start_answer
+146,535,19,9,"No, I've never been to Woburn, to be honest with you.",a,THE WITNESS,start_question
+147,537,19,11,You had just --,q,MR. BENEVIDES,start_answer
+148,538,19,12,"Whereabouts -- where the actual -- to do the search, where the property was on the street?",a,THE WITNESS,start_question
+149,540,19,14,Yes.,q,MR. BENEVIDES,start_answer
+150,541,19,15,"No, I wouldn't have -- I would have no way of knowing.",a,THE WITNESS,start_question
+151,543,19,17,"Had you done -- well, let me ask you this: How many times did you do any research or investigation with respect to property on Dexter Avenue that was related to Mr. Natale?",q,MR. BENEVIDES,start_answer
+152,547,19,21,"On this particular -- I think just this.  I may have done more that's not in my computer, but other than, you know, doing some other stuff on there, once it kind of -- the thing got blown up, for lack of a better word for it, I -- maybe I sent him another addendum search.  I know he wanted me to go back on the tax-taking stuff on this (indicating).",a,THE WITNESS,start_question
+153,556,20,5,"Well, we'll get into that.",q,MR. BENEVIDES,start_answer
+154,557,20,6,Okay.,a,THE WITNESS,start_question
+155,558,20,7,I'm just trying to get an idea as to whether this was something that you researched before there was a transaction and then as a result of a transaction.,q,MR. BENEVIDES,start_answer
+156,562,20,11,"No.  I think -- no, I shouldn't -- I'm not sure.  It was a while ago.  I mean, I knew -- I think he bought the property, papers might have been recorded.  I'm doing ""might have beens"" here.",a,THE WITNESS,start_question
+157,566,20,15,Yeah.,q,MR. BENEVIDES,start_answer
+158,567,20,16,"I talked to -- I happened to talk to another examiner.  He said somebody was buying a condo and the description was screwed up and it was, you know.",a,THE WITNESS,start_question
+159,571,20,20,Who told you that?,q,MR. BENEVIDES,start_answer
+160,572,20,21,Let's see.  I forget his name.  He works at Blue Sky Title.  He was representing an attorney who I don't know.  The attorney was representing a buyer of one of the condos.  And he said there was some sort of -- he told me there was some sort of -- that a land surveyor did something with the condo and realized it was the wrong lot.,a,THE WITNESS,start_question
+161,580,21,4,"Exhibit 1, could you please turn to it again quickly.  You'll notice attached to Exhibit 1 is the real estate agreement, standard purchase and sale.  Have you ever seen this document before the subpoena?",q,MR. BENEVIDES,start_answer
+162,585,21,9,(Witness reviews document.) This purchase and sale?,a,THE WITNESS,start_question
+163,587,21,11,Yes.,q,MR. BENEVIDES,start_answer
+164,588,21,12,No.,a,THE WITNESS,start_question
+165,589,21,13,"And that's dated 2012, correct?",q,MR. BENEVIDES,start_answer
+166,590,21,14,Yes.,a,THE WITNESS,start_question
+167,591,21,15,Okay.  So it's your testimony that the title search that you performed was in 2009 for the property?,q,MR. BENEVIDES,start_answer
+168,594,21,18,Yes.,a,THE WITNESS,start_question
+169,595,21,19,Did you do a title search at all related to the actual -- related to the closing or was it --,q,MR. BENEVIDES,start_answer
+170,597,21,21,That would have been for the closing (indicating).,a,THE WITNESS,start_question
+171,599,21,23,This was back in 2009?,q,MR. BENEVIDES,start_answer
+172,600,21,24,"Yes.  I don't know when the closing took place or anything.  I wouldn't be privy to that.  I would -- the way it works, I would do a title.  They would produce the closing, and more often than not, unless they e-filed, I would get the package to record.  But I don't -- they come in when they come in.  I don't know -- you know, they would have a long update from then.  Whether I recorded, I'm not sure, I don't remember that part.  I wouldn't have a record of me recording the transaction.",a,THE WITNESS,start_question
+173,611,22,10,"I know we're all attorneys here, but pretend that we know nothing.  What do you mean by the ""recording""?",q,MR. BENEVIDES,start_answer
+174,614,22,13,"Actually sending the papers to the Registry of Deeds, and they put them on record for, you know, the public.",a,THE WITNESS,start_question
+175,617,22,16,Okay.,q,MR. BENEVIDES,start_answer
+176,618,22,17,"So that's essentially one of my functions, it's what I do, my job.  I do title searches, and then we record the documents.  If somebody buys a house, we put the papers on record.",a,THE WITNESS,start_question
+177,622,22,21,So the sale transaction documents?,q,MR. BENEVIDES,start_answer
+178,623,22,22,"Right, exactly.",a,THE WITNESS,start_question
+179,624,22,23,Okay.  So the second document in Exhibit 2 that you produced appears to be a title report?,q,MR. BENEVIDES,start_answer
+180,627,23,1,Yes.,a,THE WITNESS,start_question
+181,628,23,2,And it looks like you've got here -- are these your --,q,MR. BENEVIDES,start_answer
+182,630,23,4,"Yeah, that's my handwriting.",a,THE WITNESS,start_question
+183,631,23,5,Okay.  And what does the -- is that a DA in the corner?  What is that?,q,MR. BENEVIDES,start_answer
+184,633,23,7,"That's a PA, Pierce Atwood.  It's just the initials of the firm I did it for.",a,THE WITNESS,start_question
+185,635,23,9,"All right.  So this title report, is this the typical form that you use when you're running down a title?",q,MR. BENEVIDES,start_answer
+186,638,23,12,"I do until recently, we switched to, you know, typed forms, but this is the one we used for 30 years.",a,THE WITNESS,start_question
+187,641,23,15,"Okay.  And the date on this, is that accurate at the bottom?",q,MR. BENEVIDES,start_answer
+188,643,23,17,"Yes, that would have been when I did it.",a,THE WITNESS,start_question
+189,644,23,18,"And it says here -- and correct me if I'm wrong -- ""Bruce, is this what you need?  Back title big tax-taking mess, please advise""?",q,MR. BENEVIDES,start_answer
+190,647,23,21,Yes.,a,THE WITNESS,start_question
+191,648,23,22,What exactly were you trying to convey to Mr. Miller?,q,MR. BENEVIDES,start_answer
+192,650,23,24,"Did you want me to go behind the tax-taking stuff, go prior to that.",a,THE WITNESS,start_question
+193,653,24,2,And what was his answer to that?,q,MR. BENEVIDES,start_answer
+194,654,24,3,"I think he said no at the time.  It's -- that stuff gets -- can be very -- I didn't know how much he wanted me to do, so I didn't want to spend his money and waste time if he was okay with going from 1970.  Typically, a search is 50 years with a good start date; tax takings, you know, this one had all little pieces to it, so it would have been pretty involved.  So, you know, it was basically, ""Do you want me to go behind it?""",a,THE WITNESS,start_chat
+195,663,24,12,"Could you mark this as Exhibit 3, please.",side_chat,MR. BENEVIDES,is brackets
+196,665,24,14,"(Marked, Exhibit 3, Title report dated 12/13/13 with ""67"" handwritten at the top.)",brackets,,start_chat
+197,667,24,16,I'm going to mark this as Exhibit 4.,side_chat,MR. BENEVIDES,is brackets
+198,669,24,18,"(Marked, Exhibit 4, Title report dated 12/13/13.)",brackets,,start_chat
+199,671,24,20,"While we're at it, let's mark this 5.",side_chat,MR. BENEVIDES,is brackets
+200,673,24,22,"(Marked, Exhibit 5, Title report dated 10/9/15.)",brackets,,start_question
+201,675,24,24,"Okay.  I'm showing you Exhibit 3 and 4 first because it looks like they're identical except for a marking at the top of Exhibit 3, with the marking of a 6 and a 7 at the top, ""67""?",q,MR. BENEVIDES,start_answer
+202,680,25,4,(Witness reviews document.) Yes.,a,THE WITNESS,start_question
+203,681,25,5,Is that your handwriting?,q,MR. BENEVIDES,start_answer
+204,682,25,6,No.,a,THE WITNESS,start_question
+205,683,25,7,"Do you know what that means, this ""67""?",q,MR. BENEVIDES,start_answer
+206,684,25,8,I do not.,a,THE WITNESS,start_question
+207,685,25,9,Do you know whose handwriting that is?,q,MR. BENEVIDES,start_answer
+208,686,25,10,I have no idea.,a,THE WITNESS,start_question
+209,687,25,11,Okay.  So Exhibits 3 and 4 appear to be the same document as Exhibit -- that was contained in Exhibit 2 --,q,MR. BENEVIDES,start_answer
+210,690,25,14,Yes.,a,THE WITNESS,start_question
+211,691,25,15,-- correct?,q,MR. BENEVIDES,start_answer
+212,692,25,16,Yes.,a,THE WITNESS,start_question
+213,693,25,17,Except there seems to be more writing on it?,q,MR. BENEVIDES,start_answer
+214,695,25,19,Right.,a,THE WITNESS,start_question
+215,696,25,20,"Is all the handwriting on Exhibits 3 and 4 with the exception of ""67"" on 3, is that your handwriting?",q,MR. BENEVIDES,start_answer
+216,699,25,23,No.,a,THE WITNESS,start_question
+217,700,25,24,Okay.  Do you know whose handwriting --,q,MR. BENEVIDES,start_answer
+218,702,26,1,That's Pauline O'Connor's.  That's my mother.,a,THE WITNESS,start_question
+219,704,26,3,So which of this is your handwriting and which is not?,q,MR. BENEVIDES,start_answer
+220,706,26,5,"Where it's ""1"" and ""2,"" that's her handwriting, and where the date was changed, that's her handwriting.",a,THE WITNESS,start_question
+221,709,26,8,"Okay.  And you'll notice it looks like there's a 1 and 2 underneath ""big title"" or ""back title""?",q,MR. BENEVIDES,start_answer
+222,712,26,11,"Yeah, right.",a,THE WITNESS,start_question
+223,713,26,12,Is that also your mother's?,q,MR. BENEVIDES,start_answer
+224,714,26,13,Yes.,a,THE WITNESS,start_question
+225,715,26,14,Do you know what this writing is supposed to signify?,q,MR. BENEVIDES,start_answer
+226,717,26,16,"""Tax taking,"" ""Mass. Tax liens.""  She would have added that on to this title.  She would have faxed and thrown it out, discarded it, so we -- I would not have -- I wouldn't have got an actual title to scan. She was more or less in the office and doing a lot of stuff online.  So run down -- running titles forward for a short period of time or like rundowns if you're refi-ing.  She would do those in the office, on the computer, she's faxed them over and discard them, so I wouldn't have this scanned into my system.",a,THE WITNESS,start_question
+227,730,27,4,"And you'll notice the date here appears to be December 13, 2013.",q,MR. BENEVIDES,start_answer
+228,732,27,6,Yes.,a,THE WITNESS,start_question
+229,733,27,7,That's four years after it looks like your initial --,q,MR. BENEVIDES,start_answer
+230,735,27,9,Right.,a,THE WITNESS,start_question
+231,736,27,10,"-- examination. Do you know why there was a -- the date is almost, you know, than four years later?",q,MR. BENEVIDES,start_answer
+232,739,27,13,"I have no idea.  He would have asked us, Bruce Miller, to run it forward, run it up, essentially.",a,THE WITNESS,start_question
+233,742,27,16,Do you have any knowledge as to what was asked by Mr. Miller of your firm?,q,MR. BENEVIDES,start_answer
+234,744,27,18,"No.  I can surmise he was asking, ""Can you run that Dexter Avenue in Woburn, can you run that forward?""",a,THE WITNESS,start_question
+235,747,27,21,Did you speak to Mr. Miller at all about this request?,q,MR. BENEVIDES,start_answer
+236,749,27,23,"I'm not sure.  I don't know if he -- he probably called me.  I mean, I don't want to -- well, I'm kind of guessing here.",a,THE WITNESS,start_question
+237,753,28,2,"I don't want you to guess, but --",q,MR. BENEVIDES,start_answer
+238,754,28,3,"Yeah, you know, I don't recall.  Let's put it this way.  I can -- by evidence of this, you know, somebody got in contact with us and said, ""Can you run it up?""",a,THE WITNESS,start_question
+239,758,28,7,Do you keep records in your office as to phone calls or requests for --,q,MR. BENEVIDES,start_answer
+240,760,28,9,"We do not.  We're a very small firm, kind of a mom-and-pop shop.",a,THE WITNESS,start_question
+241,762,28,11,Okay.  Do you recall any conversations with anyone in your office about Mr. Miller's request at this time?,q,MR. BENEVIDES,start_answer
+242,765,28,14,No.,a,THE WITNESS,start_question
+243,766,28,15,"No?  So if you had to surmise what this was about based on the writing here, what was your inclination?",q,MR. BENEVIDES,start_chat
+244,769,28,18,Objection.,side_chat,MS. SCALISI,start_question
+245,770,28,19,You can answer.,q,MR. BENEVIDES,start_chat
+246,771,28,20,"Did you say ""objection""?",side_chat,THE WITNESS,start_chat
+247,772,28,21,Yes.  You can answer.,side_chat,MS. SCALISI,start_answer
+248,773,28,22,"Oh, I would say he called somebody in my firm, maybe me, and said, ""Dave, can you run up Dexter Road in Woburn.""",a,THE WITNESS,start_question
+249,777,29,1,Okay.,q,MR. BENEVIDES,start_answer
+250,778,29,2,"And I would have probably let my mother know because she was -- because, you know, we're busy usually doing full titles, and she was handling that stuff online.  I said, ""Here's the sheet.  Can you run this up and fax it over to him?""  She said -- I'm sure she said, ""Okay,"" and that's what she did.",a,THE WITNESS,start_question
+251,785,29,9,"Now, Exhibit 5 --",q,MR. BENEVIDES,start_answer
+252,786,29,10,Yes.,a,THE WITNESS,start_question
+253,787,29,11,-- could you please take a look at this. Is this your handwriting on this document?,q,MR. BENEVIDES,start_answer
+254,789,29,13,No.,a,THE WITNESS,start_question
+255,790,29,14,Do you know whose handwriting it is?,q,MR. BENEVIDES,start_answer
+256,791,29,15,It's Pauline O'Connor's.,a,THE WITNESS,start_question
+257,792,29,16,Okay.  And who is Pauline O'Connor?,q,MR. BENEVIDES,start_answer
+258,793,29,17,Pauline is my mother.,a,THE WITNESS,start_question
+259,794,29,18,Okay.,q,MR. BENEVIDES,start_chat
+260,795,29,19,I'm sorry.  Is it O'Connor or O'Connell?,side_chat,MS. CLOUTIER,start_chat
+261,797,29,21,O'Connor.,side_chat,THE WITNESS,start_question
+262,798,29,22,"If you look down the -- about almost halfway down the page, is that not your signature there?",q,MR. BENEVIDES,start_answer
+263,802,30,1,"That is her signing my name for insurance purposes -- actually, I shouldn't say that.  She -- I don't know why she signs my name.  Because it's Middlesex.  She actually was on -- she's on the insurance, too.",a,THE WITNESS,start_question
+264,807,30,6,Okay.,q,MR. BENEVIDES,start_answer
+265,808,30,7,She just -- that's force of habit.  She signs -- she puts my brother Greg's name because he's over at Suffolk.,a,THE WITNESS,start_question
+266,811,30,10,"Okay.  Having read this title report, could you tell us what this entailed?",q,MR. BENEVIDES,start_answer
+267,813,30,12,"Also another rundown.  That's why she would have done it.  I'm sure -- there was probably a pol -- I see policy as directed, so there was a title insurance policy that she picked it up from, and she ran the title forward and would have again faxed it over.",a,THE WITNESS,start_question
+268,819,30,18,"So you're looking at the bottom there where it says, ""2014 -- policy as directed""?",q,MR. BENEVIDES,start_answer
+269,821,30,20,Yeah.,a,THE WITNESS,start_question
+270,822,30,21,"Okay.  And what do you mean, that she would have -- can you explain that?  What do you mean by that?",q,MR. BENEVIDES,start_answer
+271,825,30,24,"Sure.  There would have been a policy from a title insurance company like, you know, First American or Republic, one of those type places. They would have insurance on a certain -- up to a date.  Bruce Miller, it appears, would have had access to that, and he would have said, ""Hey, can you run it for this policy forward?  Everything -- we have everything behind it, go forward from there.""  And we said, ""Okay.""",a,THE WITNESS,start_question
+272,835,31,9,"Okay.  Now, why would you typically have a title insurance policy involved that would require a request for an examination?",q,MR. BENEVIDES,start_answer
+273,838,31,12,"It's just easier for us.  It's -- somebody -- they don't want to reinvent the wheel if they already have a policy, back policy on something.  What's the point of going and doing the same thing, so we would just go forward.",a,THE WITNESS,start_question
+274,843,31,17,Do you have any personal knowledge about this particular search?,q,MR. BENEVIDES,start_answer
+275,845,31,19,I do not.,a,THE WITNESS,start_question
+276,846,31,20,You do not.  Do you know who performed it?,q,MR. BENEVIDES,start_answer
+277,847,31,21,Pauline O'Connor.,a,THE WITNESS,start_question
+278,848,31,22,Okay.  And did you ever have any involvement in any type of research or investigation with respect to any title insurance issues in regard to this property?,q,MR. BENEVIDES,start_answer
+279,853,32,2,I'm not sure what you mean by -- I would have gone back...,a,THE WITNESS,start_question
+280,855,32,4,"Well, was there anything that was directed in relation to the policy from either Bruce Miller or others --",q,MR. BENEVIDES,start_answer
+281,858,32,7,I don't believe so.,a,THE WITNESS,start_question
+282,859,32,8,-- that you did?  No?,q,MR. BENEVIDES,start_answer
+283,860,32,9,"No, I don't...",a,THE WITNESS,start_question
+284,861,32,10,Did you ever view the title insurance policy?,q,MR. BENEVIDES,start_answer
+285,863,32,12,I did not.,a,THE WITNESS,start_question
+286,864,32,13,And there's a second page to this document.,q,MR. BENEVIDES,start_answer
+287,865,32,14,"Yes.  That's probably -- that's, quote, the run sheet.",a,THE WITNESS,start_question
+288,867,32,16,"Okay.  And again, is this your handwriting?",q,MR. BENEVIDES,start_answer
+289,868,32,17,No.,a,THE WITNESS,start_question
+290,869,32,18,"So this would have been Pauline O'Connor's, correct?",q,MR. BENEVIDES,start_answer
+291,871,32,20,Correct.,a,THE WITNESS,start_question
+292,872,32,21,Is there any reason why she is signing your name as opposed to her own?,q,MR. BENEVIDES,start_answer
+293,874,32,23,"She just always did.  She worked in the office.  If it was Middlesex, she'd sign my name. If it was Suffolk, she'd sign Greg's name.  I don't know.  It's just what she did.  Because I run Middlesex, Greg runs Suffolk.",a,THE WITNESS,start_question
+294,880,33,4,"Okay.  I'm going to direct your attention again to Exhibit 2, the portion of the title report that I believe you prepared.",q,MR. BENEVIDES,start_answer
+295,883,33,7,Okay.,a,THE WITNESS,start_question
+296,884,33,8,There's a second sheet to that as well.,q,MR. BENEVIDES,start_answer
+297,885,33,9,Yes (indicating).,a,THE WITNESS,start_question
+298,886,33,10,Is that your handwriting?,q,MR. BENEVIDES,start_answer
+299,887,33,11,It is.,a,THE WITNESS,start_question
+300,888,33,12,Okay.  And what exactly are these notes that are here?,q,MR. BENEVIDES,start_answer
+301,890,33,14,"So this is when I ran the title, went into the grantor indexes.  ""Deed in,"" that's the book. ""Taking"" would have been either street taking, tax taking.  I determined that it was non locus.  That's what ""NL"" means.  So it -- the way the books are set up, it's '70 to '73.  Then you run the computer 1974 to whatever date you're going through. There was a tax taking that I got a photo of.  Then there was a Mass. tax lien that was released; so that's what my terrible handwriting -- I don't know if you can read it.  So that's pretty much it.  There wasn't much to this title, let's put it this way.  That was the whole thing.  This -- they didn't do much over the years, the Eagles.",a,THE WITNESS,start_question
+302,905,34,4,"What I think I'd like you to do now is I'd like you to tell me exactly what you did in order to perform your title search.  Start from the very beginning.  And before we do that, I'd like to know exactly what information you were given about the property.",q,MR. BENEVIDES,start_answer
+303,911,34,10,"Okay.  So I got a call from Bruce Miller. He said, ""Dave, can you do a title for me?  My guy, Natale, you've done some stuff for him before.  He's a developer.  He's looking to put some condos on a piece of property."" I said, ""Okay.  Where is it?""  He goes, ""Dexter, Dexter Street or Ave. in Woburn.""  I said, ""All right.  Who owns it?""  He said, ""One of these Elk-type places.  It's the Fraternal Order of the Eagles.  They got it around the late '60s, 1970.""",a,THE WITNESS,start_question
+304,921,34,20,So Bruce Miller informed you that it was owned by the Fraternal Order of Eagles?,q,MR. BENEVIDES,start_answer
+305,923,34,22,Yes.,a,THE WITNESS,start_question
+306,924,34,23,Okay.,q,MR. BENEVIDES,start_answer
+307,925,34,24,"So I went through the grantee indexes, which is the owners index, essentially, in the Registry, got in the '60s through early '70s, and this was the only entry for them on Dexter Avenue, this Eagles.  So that was it as far as I was concerned.  He said it was around 1970.  I forwarded the deed -- ran it forward, shipped it out to him and that was it.",a,THE WITNESS,start_chat
+308,934,35,8,Can we confirm that this was in or around of July of 2009 --,side_chat,MS. CLOUTIER,start_chat
+309,936,35,10,Absolutely.,side_chat,THE WITNESS,start_chat
+310,937,35,11,-- that you just testified to?,side_chat,MS. CLOUTIER,start_chat
+311,939,35,13,"It would have been around then, June, July.  I mean...",side_chat,THE WITNESS,start_chat
+312,941,35,15,But it was 2009?,side_chat,MS. CLOUTIER,start_chat
+313,942,35,16,"Absolutely, yes.",side_chat,THE WITNESS,start_chat
+314,943,35,17,Thank you.,side_chat,MS. CLOUTIER,start_question
+315,944,35,18,Did Mr. Miller tell you how he got interested in the property?,q,MR. BENEVIDES,start_answer
+316,946,35,20,No.,a,THE WITNESS,start_question
+317,947,35,21,So there was no discussion about what he was going to do with it?,q,MR. BENEVIDES,start_answer
+318,949,35,23,He said he was going to put some condos on it.,a,THE WITNESS,start_question
+319,952,36,1,Okay.,q,MR. BENEVIDES,start_answer
+320,953,36,2,"Which is really -- it doesn't really make any difference to me what they do with it, to be honest with you.  It doesn't -- he just happened to mention it.  I've known Bruce.  We have a casual kind of, you know.",a,THE WITNESS,start_question
+321,958,36,7,"At that time -- I just want to clarify.  I think you might have already testified to this, but at that time, as far as you were aware, he had not purchased the property or was not -- at the time you initially started your title?",q,MR. BENEVIDES,start_answer
+322,963,36,12,"No, he did not purchase it, because I would have -- it would have been reflected on my search. I would have seen the Eagles selling to him.  So...",a,THE WITNESS,start_question
+323,966,36,15,"Well, what I'm asking is whether or not he had already made arrangements to purchase it.",q,MR. BENEVIDES,start_answer
+324,968,36,17,I can only assume he would.  There wouldn't be any reason to do a title if somebody wasn't buying something or doing something with the property.,a,THE WITNESS,start_question
+325,972,36,21,Okay.,q,MR. BENEVIDES,start_answer
+326,973,36,22,But that's on their end.  I don't know.,a,THE WITNESS,start_question
+327,974,36,23,"In Exhibit 1 -- no, 2.  In Exhibit 2, if you look there's a deed as well that was -- that you provided.",q,MR. BENEVIDES,start_answer
+328,978,37,2,Yes.,a,THE WITNESS,start_question
+329,979,37,3,"And the book number is 11805, page 687, correct?",q,MR. BENEVIDES,start_answer
+330,981,37,5,Correct.,a,THE WITNESS,start_chat
+331,982,37,6,Can you also just identify that we're looking at Plaintiffs' 790.  Is that the document that we're looking at?,side_chat,MS. CLOUTIER,start_chat
+332,985,37,9,I'm using the one right now that he provided to me --,side_chat,MR. BENEVIDES,start_chat
+333,987,37,11,"Oh, sorry.",side_chat,MS. CLOUTIER,start_chat
+334,988,37,12,"-- which is identical, I believe, to what you're talking about.  We have multiple copies of this.",side_chat,MR. BENEVIDES,start_chat
+335,991,37,15,"No, it's not identical. Thank you for clarifying.  I wasn't sure if we were in Exhibit 1 or 2.",side_chat,MS. CLOUTIER,start_chat
+336,994,37,18,"We're in 2, I believe.",side_chat,MR. BENEVIDES,start_question
+337,995,37,19,So looking at this deed --,q,MR. BENEVIDES,start_chat
+338,996,37,20,"Just to clarify for the record, we're looking at Exhibit 2, correct?",side_chat,MS. CLOUTIER,start_chat
+339,998,37,22,Exhibit 2.,side_chat,MR. BENEVIDES,start_chat
+340,999,37,23,Thank you.,side_chat,MR. RAMSDELL,start_question
+341,1000,37,24,"So this deed, Book 11805, page 687, is this the deed that you reviewed in your search in the grantee index?",q,MR. BENEVIDES,start_answer
+342,1004,38,3,Yes.,a,THE WITNESS,start_question
+343,1005,38,4,"So getting back to the process by which you investigated the title, can you walk me through exactly what you did?",q,MR. BENEVIDES,start_answer
+344,1008,38,7,"So I went to the computers, which they have grantee and grantor in there.  I put in the name of The Fraternal Order of Eagles in the computer and this was the only thing that came up, this deed -- well, this is the only deed that came up, this deed in 1970.  There were no other deeds that were in there for the computer search. So I said, well, this must be it.  It's 1970.  He told me it was around then.  You know? Here we go.  Let's do the search.  And that was kind of -- that was the process.",a,THE WITNESS,start_question
+345,1019,38,18,Okay.,q,MR. BENEVIDES,start_answer
+346,1020,38,19,"So I would write my little sheet down there and just record everything that was against them, if there was any mortgages, liens, easements, you know, all that kind of stuff.",a,THE WITNESS,start_question
+347,1024,38,23,"So what is, in your view, the role of your title examination?",q,MR. BENEVIDES,start_answer
+348,1027,39,1,"My view is to establish a search and show anything, any liens or et cetera against this piece of property --",a,THE WITNESS,start_question
+349,1030,39,4,Okay.,q,MR. BENEVIDES,start_answer
+350,1031,39,5,"-- per the Registry indices.  I mean, you know.",a,THE WITNESS,start_question
+351,1033,39,7,Okay.,q,MR. BENEVIDES,start_answer
+352,1034,39,8,That's how I do the search.,a,THE WITNESS,start_question
+353,1035,39,9,"And you'll note that this deed references a 19 -- excuse me -- a December 10, 1888 plan.  Did you review that plan?",q,MR. BENEVIDES,start_answer
+354,1038,39,12,"Yes, I did, yeah.  59, 2, yeah.",a,THE WITNESS,start_chat
+355,1039,39,13,"Can you mark that, please.",side_chat,MR. BENEVIDES,start_answer
+356,1041,39,15,Did I not put a copy in there?  I don't know why.  I usually put plans in there.,a,THE WITNESS,is brackets
+357,1043,39,17,"(Marked, Exhibit 6, Property plan.)",brackets,,start_question
+358,1044,39,18,"So Exhibit 6, is this an accurate depiction of the plan referenced?",q,MR. BENEVIDES,start_answer
+359,1046,39,20,"Yes, it is.",a,THE WITNESS,start_question
+360,1047,39,21,"Okay.  I'm going to represent to you that I received this in plaintiffs' document production. You'll note at the very bottom corner it says ""Plaintiffs 001491.""",q,MR. BENEVIDES,start_answer
+361,1052,40,1,(Witness reviews document.) Okay.,a,THE WITNESS,start_question
+362,1053,40,2,Is this a document that originally came from your file?,q,MR. BENEVIDES,start_answer
+363,1055,40,4,"I don't know.  It should have.  I usually include plans.  Any plans I would have access to, I do include them.  I don't know.",a,THE WITNESS,start_question
+364,1058,40,7,Okay.,q,MR. BENEVIDES,start_answer
+365,1059,40,8,Let's put it this way.  I would...,a,THE WITNESS,start_question
+366,1060,40,9,Do you provide paper copies to your clients that you might not necessarily scan into your system?,q,MR. BENEVIDES,start_answer
+367,1063,40,12,"No, I would have -- when was this? (Witness reviews document.) 2009.  I would have emailed this to Bruce.  So the plan should have been in there.  I don't know if it was or not.  I would -- I'm not sure.",a,THE WITNESS,start_question
+368,1068,40,17,Okay.,q,MR. BENEVIDES,start_answer
+369,1069,40,18,I don't know why I wouldn't have gotten it. That's part of what I do.,a,THE WITNESS,start_question
+370,1071,40,20,"Do you know, by any chance, how Mr. Miller knew the Eagles owned the property that Mr. Natale was interested in?",q,MR. BENEVIDES,start_answer
+371,1074,40,23,I do not.,a,THE WITNESS,start_question
+372,1075,40,24,"Okay.  So turning back to Exhibit 6, did you investigate each and every one of the deeds referenced below in -- where it says, ""For title references to lots in Block 30""?",q,MR. BENEVIDES,start_answer
+373,1080,41,4,I did that at a later date.,a,THE WITNESS,start_question
+374,1081,41,5,So what did you do on the initial title exam?,q,MR. BENEVIDES,start_answer
+375,1083,41,7,"I just did it from 1970.  I said, ""Is this good enough?  Do you want me to go back and deal with the tax taking?""  It would have been, you know, quite a bit more work.  I think he said no.  Then at a later date, when it all kind of, you know, then I did go back and do some stuff on that.",a,THE WITNESS,start_question
+376,1089,41,13,Okay.  Do you recall when you went back and revisited the 1888 plan and the deeds referenced below?,q,MR. BENEVIDES,start_answer
+377,1092,41,16,It would have been after I was told that the project was on -- was built on the wrong lot. It would have been after that.  I wouldn't have had any reason to go do it beforehand.  You know?  So...,a,THE WITNESS,start_question
+378,1096,41,20,"Okay.  So at the time that you initially investigated this, you identified that there was a tax taking, and that was what you reported to Mr. Miller?",q,MR. BENEVIDES,start_answer
+379,1100,41,24,"It was.  There was -- well, it was coming out of tax taking -- out of the city pursuant of them taking it for taxes, so the tax takings wouldn't have been -- they wouldn't have been outstanding.  They would have been, you know, taken care of, which I think they were.  I do see this treasurer's deed.  I don't know if it was landable value or they got decrees forever -- forever fore -- preventing foreclosing of the tax takings from the person that they took it from way back went. There's decrees, there's different ways you can clear that up.",a,THE WITNESS,start_question
+380,1113,42,12,So did you render an opinion to Mr. Miller about the status of the property?,q,MR. BENEVIDES,start_answer
+381,1115,42,14,Which property?,a,THE WITNESS,start_question
+382,1116,42,15,The property you were investigating on Dexter Ave.,q,MR. BENEVIDES,start_answer
+383,1118,42,17,"No -- it would have been -- that's what my report is, my report sheet.",a,THE WITNESS,start_question
+384,1120,42,19,So essentially the title report is --,q,MR. BENEVIDES,start_answer
+385,1121,42,20,My opinion.,a,THE WITNESS,start_question
+386,1122,42,21,Okay.  And you essentially left it to Mr. Miller what to do with it?,q,MR. BENEVIDES,start_answer
+387,1124,42,23,Correct.,a,THE WITNESS,start_question
+388,1125,42,24,"Did you -- you didn't investigate any of the legalities as to whether the property had cleared -- whether title could be granted, a marketable title?",q,MR. BENEVIDES,start_answer
+389,1130,43,4,"No, that wouldn't be my end.  I just present what I find.  That's more the other end.",a,THE WITNESS,start_question
+390,1132,43,6,Okay.,q,MR. BENEVIDES,start_answer
+391,1133,43,7,"I'm more of a researcher than any -- than giving opinions on whether a title is clear or not. I point out maybe stuff that's, I think, you know, not clear.  I don't know if that makes sense.",a,THE WITNESS,start_question
+392,1137,43,11,Were you aware that there were two Dexter Avenues in Woburn?,q,MR. BENEVIDES,start_answer
+393,1139,43,13,I was not.,a,THE WITNESS,start_question
+394,1140,43,14,Was that something you later found out or found out through your research?,q,MR. BENEVIDES,start_answer
+395,1142,43,16,I later found out that the other property in question was up the street.,a,THE WITNESS,start_question
+396,1144,43,18,"But during your research you didn't identify that there was another avenue, Dexter Avenue?",q,MR. BENEVIDES,start_answer
+397,1147,43,21,"No, I wouldn't -- it wouldn't come up, because I'm just running that entity, so I wouldn't have any idea there were two Dexter Streets, 'cause there's nothing -- I'm not running it by street; I'm running it by the person that owns it, which was the Eagles.  So it said ""Dexter Street,"" so that was -- you know, I wouldn't -- no.  Let's put it that way.",a,THE WITNESS,start_question
+398,1155,44,4,And that was based on the information that was provided to you by Mr. Miller?,q,MR. BENEVIDES,start_answer
+399,1157,44,6,Yes.,a,THE WITNESS,start_question
+400,1158,44,7,Okay.  Did you look at any assessors maps?,q,MR. BENEVIDES,start_answer
+401,1159,44,8,No.,a,THE WITNESS,start_question
+402,1160,44,9,No.  And why not?,q,MR. BENEVIDES,start_answer
+403,1161,44,10,"'Cause I had a plan.  Assessors maps aren't as accurate as plans that are recorded.  In a title search I never look at assessors.  There's no need to.  In my business, if I have a plan, that's -- if there's no plan, you might get an assessors or an atlas, but the assessors aren't really -- they're not so much to look at, that I would look at.  It wouldn't be -- they're not as accurate as somebody doing a plan.  Let's put it that way.",a,THE WITNESS,start_question
+404,1170,44,19,Okay.  You wouldn't look at it just as a backup?,q,MR. BENEVIDES,start_answer
+405,1172,44,21,"There wouldn't be any purpose in doing that.  You know, I have a plan, I have an owner, a recorded deed.",a,THE WITNESS,start_question
+406,1175,44,24,You mentioned atlases.  Did you look at any atlases?,q,MR. BENEVIDES,start_answer
+407,1178,45,2,"Not on the initial search.  I may have done some more research when it (gesturing).  Atlases are -- they're hit and miss, very much so over there.  Some towns have them, some don't.  Some go back, some don't.  They're -- you know, they can help sometimes, but they're not reliable.",a,THE WITNESS,start_question
+408,1184,45,8,"Are you familiar with the term ""title abstract""?",q,MR. BENEVIDES,start_answer
+409,1186,45,10,Yes.,a,THE WITNESS,start_question
+410,1187,45,11,Do you prepare those as well?,q,MR. BENEVIDES,start_answer
+411,1188,45,12,That's what that is (indicating).,a,THE WITNESS,start_question
+412,1189,45,13,So those are interchangeable?,q,MR. BENEVIDES,start_answer
+413,1190,45,14,Yes.,a,THE WITNESS,start_chat
+414,1191,45,15,"I don't have much more, so if you'll give me just a few minutes.",side_chat,MR. BENEVIDES,is brackets
+415,1193,45,17,(Discussion off the record and recess.),brackets,,start_question
+416,1195,45,19,Just a few more questions for you.  Have you ever done any work for the law firm of Mawn & Mawn with respect to a property on Dexter Avenue?,q,MR. BENEVIDES,start_answer
+417,1198,45,22,I don't know.  We might have done a few things for them years ago.  I know the name.  I don't recall.  Maybe.  I don't know.  I've done thousands and thousands and thousands of titles everywhere in Middlesex County.  I'm not sure.,a,THE WITNESS,start_question
+418,1204,46,3,Okay.  Anything specific to this property that you were hired by Mawn & Mawn or an attorney named Sharon Russell?,q,MR. BENEVIDES,start_answer
+419,1207,46,6,That's not a familiar name to me.,a,THE WITNESS,start_question
+420,1208,46,7,Okay.  You mentioned you had done work for Mr. Natale before.  Do you know --,q,MR. BENEVIDES,start_answer
+421,1210,46,9,Yeah.,a,THE WITNESS,start_question
+422,1211,46,10,Do you recall what it entailed?,q,MR. BENEVIDES,start_answer
+423,1212,46,11,I think some developing.,a,THE WITNESS,start_question
+424,1213,46,12,Where was that?,q,MR. BENEVIDES,start_answer
+425,1214,46,13,"It was Abt, A-b-t, Ave., I think -- I'm not even sure.  It might have been Woburn, maybe, or Wakefield, maybe, years ago.  I recognized the name when he said, Bruce Miller said ""Natale.""  I said, ""Okay, yeah, I remember him.  We did some stuff over there.""  He goes, ""Yeah, same guy.""",a,THE WITNESS,start_question
+426,1220,46,19,Any other properties you did for Bruce Miller for Mr. Natale?,q,MR. BENEVIDES,start_answer
+427,1222,46,21,Not that I recall.,a,THE WITNESS,start_question
+428,1223,46,22,Okay.  You had mentioned earlier that you met somebody from Blue Sky Title that conveyed to you that there was some screw-up in the location of the property?,q,MR. BENEVIDES,start_answer
+429,1228,47,2,Yes.,a,THE WITNESS,start_question
+430,1229,47,3,"Just tell me everything that you recall from that conversation, please.",q,MR. BENEVIDES,start_answer
+431,1231,47,5,"I sort of know him a little bit.  He had come up to me, and he said he was -- he had a title search for one of the condos.  He did a title search, and somebody -- I don't know what -- I'm not sure what firm he did it for.  He said there was a mess-up, they went out to look at the property and it was incorrect, it's the wrong property.  I said, ""Oh, boy.""  Basically, that was the whole conversation.  And then I heard I think from Bruce about it.  So that was kind of the general gist of the conversation.",a,THE WITNESS,start_question
+432,1242,47,16,"Do you recall the time at which this -- you know, the time period in which this happened?",q,MR. BENEVIDES,start_answer
+433,1244,47,18,"I don't, to be honest with you.  I don't recall.  If I had to guess -- well, I shouldn't be guessing.  Typically, if he was doing a title search, then the condos would have been -- either been in the process of being built or built.  So somebody would want to buy it, so they would, you know -- a title search would be performed on it.",a,THE WITNESS,start_question
+434,1252,48,1,Throughout 2014; does that sound like somewhere around the time?,q,MR. BENEVIDES,start_answer
+435,1254,48,3,"It's not unreasonable.  Maybe.  Yeah, probably.",a,THE WITNESS,start_question
+436,1256,48,5,"In response to my subpoena, we had a couple of phone conversations, right?",q,MR. BENEVIDES,start_answer
+437,1258,48,7,Yeah.,a,THE WITNESS,start_question
+438,1259,48,8,"At one point you had mentioned to me that you thought the issue was a problem that originated with the town, correct?",q,MR. BENEVIDES,start_answer
+439,1262,48,11,Yes.,a,THE WITNESS,start_question
+440,1263,48,12,Could you explain that to me?,q,MR. BENEVIDES,start_answer
+441,1264,48,13,"Well, it looks like the wrong description was provided by the town.",a,THE WITNESS,start_question
+442,1266,48,15,What's your understanding of what happened?,q,MR. BENEVIDES,start_answer
+443,1267,48,16,"My understanding is that they put the wrong description for the Eagles originally, and so that was incorrect.",a,THE WITNESS,start_question
+444,1270,48,19,Put it where?,q,MR. BENEVIDES,start_answer
+445,1271,48,20,"On the deed.  They gave -- well, where -- my understanding, where they built it and where the deed itself represents the description, they seem different, from what I understand.  That's what I've heard.  And I don't -- I think that's when it initially started.  Then my -- I had a conversation with the -- we had a party conversation, three-way conversation, with Bruce Miller and the surveyor.  I was in on that.",a,THE WITNESS,start_question
+446,1281,49,5,Okay.  Could you tell me about that conversation?,q,MR. BENEVIDES,start_answer
+447,1283,49,7,"I think we were trying to hash it out, and I think at one point I asked, ""Did you do a survey on it, and why is it different?""  I am not an expert on surveying at all.  And he -- and I heard the gentleman -- I don't know who it was -- he said it was very complicated.",a,THE WITNESS,start_question
+448,1289,49,13,"Do you know what firm that was, the surveyor?",q,MR. BENEVIDES,start_answer
+449,1291,49,15,"No.  I think it was Chapin.  I shouldn't say that.  I don't know, I don't know.  I shouldn't guess at stuff like that.  Bruce had put me on a three-way call, Bruce Miller, and I didn't -- you know, I don't -- again, I'm not a surveyor, and I wouldn't pretend to be one, but I said, ""Did you do -- did you go to the property and do a survey?""  And he was kind of hemming and hawing, and it was very complicated, and that was about it.  I don't really have a dog in the fight, so I didn't really care too much -- not care, but not -- concerned, but not -- you know, I don't know.",a,THE WITNESS,start_question
+450,1304,50,3,What was the reason that they involved you in a conversation about it?,q,MR. BENEVIDES,start_answer
+451,1306,50,5,I think just to ascertain what happened.,a,THE WITNESS,start_question
+452,1307,50,6,Was there any resolve through that conversation as to what occurred and...,q,MR. BENEVIDES,start_answer
+453,1309,50,8,"I think I mentioned to Bruce that ""I think the description was wrong in the first place.  Then the surveyor screwed up and didn't do what he was supposed to do,"" very off-the-cuff comments, because again, I'm not a surveyor, and I don't -- I wouldn't know what they do, but I thought they'd go to the property and look at it and if it's, you know, Arrowhead and it's not written -- I mean, I don't know, so (demonstrating)...",a,THE WITNESS,start_question
+454,1318,50,17,"Getting back to what you were speaking about, the town, when you said that they put the wrong -- that the property was wrong to do with the deed.  Can you explain what you mean by what the city might have done?",q,MR. BENEVIDES,start_answer
+455,1323,50,22,"Well, the city put down -- maybe they were selling to the Eagles that property, and the Eagles thought it was a different one and they built their building on the wrong piece of property, and I think that's what happened, maybe.",a,THE WITNESS,start_question
+456,1329,51,3,"You don't know that there's a building that the Eagles built on the property, do you?",q,MR. BENEVIDES,start_answer
+457,1331,51,5,I suppose I don't.  No.  You're right.  I don't know that.,a,THE WITNESS,start_question
+458,1333,51,7,So you just --,q,MR. BENEVIDES,start_answer
+459,1334,51,8,"That's an assumption on my part, because they had a club and they probably put a building up. But you're right, I do not know that.",a,THE WITNESS,start_question
+460,1337,51,11,So do you have any other understanding of what you think the town could have not done properly?,q,MR. BENEVIDES,start_answer
+461,1340,51,14,"I don't.  I don't -- you know, 1970, I think something got messed up.",a,THE WITNESS,start_chat
+462,1342,51,16,I don't have any further questions at this time.  I'll turn it over.,side_chat,MR. BENEVIDES,start_chat
+463,1344,51,18,Nothing right now.,side_chat,MS. SCALISI,start_chat
+464,1345,51,19,Nothing.,side_chat,MS. MURPHY,start_chat
+465,1346,51,20,"I do.  I'm sorry, just give me one minute, please.",side_chat,MS. CLOUTIER,start_chat
+466,1348,51,22,Of course. CROSS-EXAMINATION,side_chat,THE WITNESS,start_question
+467,1354,52,3,"So I'm going to just -- this is going to seem a little bit kind of crazy because I'm just going to go in the order of the way he deposed you, so my questions are going to go from that time forward. Going back to counsel's inquiry about your recordkeeping and the documents that you have on this matter, have you produced -- did you search your emails for any email correspondence you might have had with Mr. Miller?",q,MS. CLOUTIER,start_answer
+468,1364,52,13,I did not.,a,THE WITNESS,start_question
+469,1365,52,14,Okay.  Did you search your emails for any email correspondence you may have had related to Dexter Avenue?,q,MS. CLOUTIER,start_answer
+470,1368,52,17,"No, just for title search purposes.",a,THE WITNESS,start_question
+471,1369,52,18,Would you have potentially emails going back to 2009 and running forward?,q,MS. CLOUTIER,start_answer
+472,1371,52,20,"I don't think so.  I think I probably erased a lot of them, I mean, like anything, you know, there would be tens of thousands of them, there would probably a lot of emails, thousands.",a,THE WITNESS,start_question
+473,1375,52,24,What is your email retention policy?,q,MS. CLOUTIER,start_answer
+474,1377,53,1,"Every now and then I get rid of them, if they get -- start clogging it, so there's no really policy.  Like I said, it's a small firm.  So I'll just delete if I think it's slowing down my computer.",a,THE WITNESS,start_question
+475,1382,53,6,Do you keep hard files of the title searches that you do?,q,MS. CLOUTIER,start_answer
+476,1384,53,8,I do not.,a,THE WITNESS,start_question
+477,1385,53,9,So everything is electronic?,q,MS. CLOUTIER,start_answer
+478,1386,53,10,Correct.,a,THE WITNESS,start_question
+479,1387,53,11,Okay.  Are you able to run searches on your email system through your emails?  Like could you put Bruce Miller's name in and run a search through your emails to see what comes up?,q,MS. CLOUTIER,start_answer
+480,1391,53,15,"Yeah, probably.",a,THE WITNESS,start_question
+481,1392,53,16,Or Natale?,q,MS. CLOUTIER,start_answer
+482,1393,53,17,"Yeah, maybe.",a,THE WITNESS,start_question
+483,1394,53,18,Or Dexter Avenue?,q,MS. CLOUTIER,start_answer
+484,1395,53,19,I suppose I could.,a,THE WITNESS,start_question
+485,1396,53,20,Okay.,q,MS. CLOUTIER,start_answer
+486,1397,53,21,"I don't know -- yeah, yes.",a,THE WITNESS,start_question
+487,1398,53,22,"I think that counsel may have asked you this, but do you know what -- in what time frame, as you put it, things blew up?",q,MS. CLOUTIER,start_answer
+488,1402,54,1,I don't.  Yeah...,a,THE WITNESS,start_question
+489,1403,54,2,Was it something that happened in the last five years?,q,MS. CLOUTIER,start_answer
+490,1405,54,4,"I believe so.  Yeah, I would say. Actually, I -- this is 2019.  I'm not sure.  That sounds about right, yeah.",a,THE WITNESS,start_question
+491,1408,54,7,Okay.  When Mr. Miller contacted you or when you learned -- let me back up.  Let me rephrase. Who informed you that things had blown up as it related to this Dexter Avenue property?,q,MS. CLOUTIER,start_answer
+492,1413,54,12,"It was either the kid that was doing the stuff with Blue Sky -- I can't recall his name -- or Bruce.  One of the two said things were, you know -- mistakes were made, or something to that effect, like they put the building on the wrong piece of property, the condos.",a,THE WITNESS,start_question
+493,1419,54,18,"And other than this three-way conversation that you discussed earlier, did you do any further investigation into the blow-up related to the Dexter Avenue property?",q,MS. CLOUTIER,start_answer
+494,1423,54,22,"I did.  I researched where the building was on, built on there.  It was -- he said, ""Well, can you do it -- can you take a look at this and see what's going on with this piece of property?""  And it was very -- like I said, it was kind of the land time forgot.  There was -- there was nothing on it, really. So I went back and just scribbled some notes and tried to get a handle on it, and I got back to like the 1700s, 1800s, and it was just -- nothing made sense.  It was just land, which is very rare.",a,THE WITNESS,start_question
+495,1436,55,10,"This other piece of property, was this other -- this other piece of property was not owned by the Eagles based upon your research?",q,MS. CLOUTIER,start_answer
+496,1439,55,13,"Correct.  They would have -- the Eagles would have owned that (indicating), but I think that -- but it showed that they -- I think they were in a different location.  I guess that's what happened. So we tried to determine who actually owned it, and it was a little beyond my scope of things I do.  I can't get bogged down with something that's going to take three or four weeks.  I just -- we do houses and refi's and, you know, pop them out, do small commercial stuff. So they retained another firm to do the research who -- I know who did that, and I spoke to him, and it took them quite a while from my understanding.  There was a big report.  I don't know if you guys have it or not, but they found --",a,THE WITNESS,start_question
+497,1455,56,4,"What -- I'm sorry, go ahead.",q,MS. CLOUTIER,start_answer
+498,1456,56,5,"Oh, Marsh Moriarty.",a,THE WITNESS,start_question
+499,1457,56,6,I'm sorry?,q,MS. CLOUTIER,start_answer
+500,1458,56,7,Marsh Moriarty is the firm that was asked to do it.  That's kind of what they do.,a,THE WITNESS,start_question
+501,1460,56,9,"When Mr. Miller asked you to take a look at this other piece of property, what information did he give you related to this piece of property that let you do your title search?",q,MS. CLOUTIER,start_answer
+502,1464,56,13,"You know?  I don't know.  I think he -- let me think about this.  How would I know who owned it or what to do on it...  You know, I'm not sure, to be honest with you, I'm not sure how we -- I got to the right -- where the buildings were built on.  I don't recall, to be honest with you.",a,THE WITNESS,start_question
+503,1470,56,19,"I mean, would he have given you an address?",q,MS. CLOUTIER,start_answer
+504,1471,56,20,"Maybe, maybe, but I don't know --",a,THE WITNESS,start_question
+505,1472,56,21,Or a deed?,q,MS. CLOUTIER,start_answer
+506,1473,56,22,"That was the problem.  There wasn't really any deeds to the -- where the property was built on. The deed -- there were -- you know, there was a family -- I think the name was Fletcher.  They owned half of Woburn in the 1700s, 1800s.  And then through probates and all that stuff, I know that's how the other firm did it, but I don't recall how I would have -- you know?  I may have gone to an atlas at that point, maybe found an old atlas to try to determine --",a,THE WITNESS,start_question
+507,1484,57,8,"Well, were you given a tax assessor's number?",q,MS. CLOUTIER,start_answer
+508,1486,57,10,I might have been.  I'm little -- not sure how I ended up with him contacting me how to do a -- some research on this particular piece of property.,a,THE WITNESS,start_question
+509,1489,57,13,"When Mr. Miller contacted you to do the research on this other piece of property, was the information that he provided to you verbal, over the phone or --",q,MS. CLOUTIER,start_answer
+510,1493,57,17,"Yeah, yeah.",a,THE WITNESS,start_question
+511,1494,57,18,"So he would not have sent you a follow-up email saying, ""I'd like for you to do a title search on"" --",q,MS. CLOUTIER,start_answer
+512,1497,57,21,"No, he would have called me -- and we have a casual -- not a casual relationship -- the day this all went -- the sky blew up:  ""Do me a favor. Can you get on this property, see who actually does own it?"" So I spent a couple days trying to figure it out, and it was not something that could be done within two days.  And it was very -- the scope of it was something I don't do.  You know what I'm saying?  So they hired -- so I know Bruce hired a firm that kind of does this stuff.  They do -- they'll do -- they do this building, as a matter of fact, and they do things like this, that firm.",a,THE WITNESS,start_question
+513,1511,58,10,"The couple of days that you spent looking at this other piece of property, what documents were you looking at?",q,MS. CLOUTIER,start_answer
+514,1514,58,13,"I was looking at old deeds, trying to chase down names, any names that are listed on that street, trying to piece stuff together with atlases and things like that.  I would have been just, you know, going through the indices, the old indices, which are handwritten.  They're very difficult to read, and the descriptions are, you know.",a,THE WITNESS,start_question
+515,1521,58,20,Do you do that in person at the Registry?,q,MS. CLOUTIER,start_answer
+516,1522,58,21,"I do, yes.  Those particular records are not on record -- or not online, the old-old stuff.",a,THE WITNESS,start_question
+517,1524,58,23,"Over the years in your work with Mr. Miller, have you ever had a title issue like this come up before?",q,MS. CLOUTIER,start_answer
+518,1528,59,2,Not that I recall.,a,THE WITNESS,start_question
+519,1529,59,3,Can you describe more fully exactly what a title exam firm does?,q,MS. CLOUTIER,start_answer
+520,1531,59,5,"Sure.  So somebody buys a house, they go to the bank, they get a mortgage.  The bank or the mortgage company would assign an attorney to represent them at closing for them to purchase the house, so a title search would be done.  It's usually through the lawyer.  Some lawyers do their own, most of them don't.  They would hire a firm like myself to do a 50-year search with a good start date, going forward.  And you would determine what's on the title -- liens, easements, you know, that kind of thing.",a,THE WITNESS,start_question
+521,1542,59,16,"And what information are you using, generally speaking, to --",q,MS. CLOUTIER,start_answer
+522,1544,59,18,The indices --,a,THE WITNESS,start_question
+523,1545,59,19,-- run a title -- sorry.,q,MS. CLOUTIER,start_answer
+524,1546,59,20,Sorry.,a,THE WITNESS,start_question
+525,1547,59,21,"Before you go through the indices, what information are you using to determine how to do your title search?  Like are you receiving an address?  Are you receiving a deed to the piece of property?",q,MS. CLOUTIER,start_answer
+526,1553,60,2,"I would normally receive the owner's name of the property, an address sometimes if they have it or, you know, general address.  Most law firms use different forms that would say, ""Full title; John and Steve -- John and Linda Smith, owners; book and page; address.""",a,THE WITNESS,start_question
+527,1559,60,8,And do you remember what information -- so this is going back to 2009 and when you were first asked to look at property owned by the Eagles on Dexter Avenue.  Do you remember what information Mr. Miller gave you?,q,MS. CLOUTIER,start_answer
+528,1564,60,13,"It was -- yes, it was just, ""Eagles.  It's like an Elks thing.  It's like Eagles.  They own some property on Dexter in Woburn.  Can you do a title search?  I think they got it around 1970.""  It was just -- it was a phone conversation.",a,THE WITNESS,start_question
+529,1569,60,18,So --,q,MS. CLOUTIER,start_answer
+530,1570,60,19,"He sometimes -- he's pretty, you know -- he orders by phone sometimes.  He sometimes will put -- his secretary will email me a formal one, but he -- he did not do it this time.  He may have been in a hurry or, you know.  We have a different -- you know, I've just known him for so long, he'd say, ""Dave, hey, can you do a title?  Eagles, Dexter, they bought around 1970.""  I said, ""Sure.""",a,THE WITNESS,start_question
+531,1579,61,3,And so he didn't send you a deed to the piece of property that he was interested in or his client was interested in?,q,MS. CLOUTIER,start_answer
+532,1582,61,6,He did not.  He did -- no.,a,THE WITNESS,start_question
+533,1583,61,7,And he didn't send you any sort of plot plan or anything like that related to the piece of property?,q,MS. CLOUTIER,start_answer
+534,1586,61,10,He did not.,a,THE WITNESS,start_question
+535,1587,61,11,And your testimony was that you did not know how he had come to conclude that the Eagles owned the piece of property that his client was interested in; is that correct?,q,MS. CLOUTIER,start_answer
+536,1591,61,15,"Yeah, he -- I think he got it from Natale. In fact, he said, ""Natale's buying the Eagles.  He wants to put some condos on the property, this Royal Order of the Eagles,"" or whatever -- I think I'm saying it wrong -- ""owns it.  Can you do a title on it?""  It was pretty -- you know, it wasn't anything out of the ordinary.",a,THE WITNESS,start_question
+537,1598,61,22,Do you typically do title searches three years before there's a purchase and sale agreement?,q,MS. CLOUTIER,start_answer
+538,1600,61,24,"I don't think so.  I don't know.  That's not really my end.  I know there's some projects, some big developments, you know, that we do titles for, and they take a while to get going, but, you know, I don't -- that would just be a kind of opinion on my side.  It's not really on my -- purchase and sales, I don't see purchase and sales, or they really have nothing to do with me.  You know?  Every now and then, somebody will send me a purchase and sale just for a reference, but most of the time it's a form.  So I wouldn't be aware of when the property's selling or not.",a,THE WITNESS,start_question
+539,1613,62,12,"Okay.  So what was conveyed to you in June/July of '09 was, ""Natale is interested, my client is interested in purchasing this piece of property to develop""?",q,MS. CLOUTIER,start_answer
+540,1617,62,16,Correct.,a,THE WITNESS,start_question
+541,1618,62,17,You mentioned that you perhaps would have needed to have gone behind some of the work that you had done --,q,MS. CLOUTIER,start_answer
+542,1621,62,20,Yes.,a,THE WITNESS,start_question
+543,1622,62,21,-- in order to get more complete information?,q,MS. CLOUTIER,start_answer
+544,1624,62,23,Well --,a,THE WITNESS,start_question
+545,1625,62,24,"Can you elaborate on that, please?",q,MS. CLOUTIER,start_answer
+546,1627,63,1,"Sure.  So typically on a sale, we typically do a 50-year search.  So this was 1970, so it was kind of close to 50.  I said to Bruce -- I said, ""Do you want me to go back and do -- this is a big tax taking.  They're all little lots.  So you have to go find the owner of the lot.  They got taken by taxes, and it goes through a whole series of stuff.""  And this was multiple.  It was just -- it would have been just a lot more work, a lot more expense.  I said, ""Do you want me to go back and do it?""  He said, ""No, you're fine, '70's, good enough.""",a,THE WITNESS,start_question
+547,1638,63,12,What would the purpose have been in terms of going further back?  What would that have shown?,q,MS. CLOUTIER,start_answer
+548,1640,63,14,"Just a 50-year search, standard -- a 50-year search is standard for a sale.  I don't think it's written in stone, but it's -- originally, 50 years was -- from my understanding, was -- a mortgage could be 50 years, but they're really only 30, so that was kind of the idea of people doing 50-year searches.  So like I do 50- -- if I get a sale, I always do a 50-year search unless it's something like this where there's a big mess behind it.  I think I ended up doing the work anyways after the whole thing kind of...",a,THE WITNESS,start_question
+549,1652,64,1,After it blew up?,q,MS. CLOUTIER,start_answer
+550,1653,64,2,Yes.,a,THE WITNESS,start_question
+551,1654,64,3,You did the work in terms of going further back on the original piece on Dexter Avenue that you had?,q,MS. CLOUTIER,start_answer
+552,1657,64,6,(Indicating) Yes.,a,THE WITNESS,start_question
+553,1658,64,7,"So this 1888 plan, was that something that you pulled in 2009 or after things blew up?",q,MS. CLOUTIER,start_answer
+554,1660,64,9,I would have pulled it then.  I would have presented the plan.  If I don't know -- for some reason it doesn't look like I sent it.  I don't know why I wouldn't.  I always include plans.  There's no reason not to.  You know?,a,THE WITNESS,start_question
+555,1665,64,14,"""Then"" being in 2009?",q,MS. CLOUTIER,start_answer
+556,1666,64,15,Correct.  That plan is in the Registry. It's just the fourth floor.,a,THE WITNESS,start_question
+557,1668,64,17,"When you send things to Mr. Miller, are you sending them by email or by --",q,MS. CLOUTIER,start_answer
+558,1670,64,19,Yes.,a,THE WITNESS,start_question
+559,1671,64,20,"And so given what you saw when you did your title search in 2009 and the fact that it was, as you say, kind of a mess and complicated --",q,MS. CLOUTIER,start_answer
+560,1674,64,23,"Well, the tax taking was complicated.  The description of lots on there was not complicated. Sometimes -- especially out by 495, you do titles that are like old farms, you know, Farmer Joe buys parcels here and there.  Then it becomes a big -- it becomes a very large title.  That's what I consider a title that's, you know, complicated and could be messy. This was just a perfunctory tax taking, going through the process, finding which lots, who owned it.  They took it, the town would take the property through tax taking, put a petition to foreclose.  Then they either withdraw it or they put a decree on barring rights forever, for redemption; in other words, your tax-taking person can come back and redeem those taxes -- they pay the taxes, they get the land back. So -- but towns particularly put a petition on saying, ""We're going to forever foreclose on you,"" so the people are out.  So that's -- so it gets a lot of, you know.  And this one was kind of pieced together, because it was two and three lots together, and not everybody was the same owner that they took it from. So it was just -- it would have been a lot more work, a lot more expense.  ""Did you want me to do that?""  He said, ""No, we're good from here."" That's what -- I don't know.  Do you know what I mean?",a,THE WITNESS,start_question
+561,1705,66,4,"Yes, I understand what you're saying.",q,MS. CLOUTIER,start_answer
+562,1706,66,5,Yeah.,a,THE WITNESS,start_question
+563,1707,66,6,Do you think it would have been prudent to have gone back further in light of what you saw?,q,MS. CLOUTIER,start_answer
+564,1709,66,8,"It wouldn't have made any difference.  The description wouldn't have changed if I went back on the tax-taking stuff, it would have been still the same description.",a,THE WITNESS,start_question
+565,1713,66,12,"In your research of the original piece of property that you were asked to look at in 2009, did the name Brussard ever come up?",q,MS. CLOUTIER,start_answer
+566,1716,66,15,"I don't recall that name, unless they were one of the trustees of the Eagles.  I think I -- my report shows that I would run those folks also.  I'm not sure on which exhibit it shows it.  That's not a name I'm familiar with.",a,THE WITNESS,start_question
+567,1721,66,20,I think you also mentioned that some things -- like NL refers to non locus?,q,MS. CLOUTIER,start_answer
+568,1723,66,22,"Non locus, yes.",a,THE WITNESS,start_question
+569,1724,66,23,What does non locus means?,q,MS. CLOUTIER,start_answer
+570,1725,66,24,"It means sometimes if I run ""Adam Benevides"" and there's more than one and there's maybe a lien or a mortgage, and it's a different piece of property, so it's NL, non locus, it's not what is privy (sic) to the search we're doing.",a,THE WITNESS,start_question
+571,1731,67,5,"In your search in 2009, did you find anything that concerned you at all --",q,MS. CLOUTIER,start_answer
+572,1733,67,7,No.,a,THE WITNESS,start_question
+573,1734,67,8,-- that was off?,q,MS. CLOUTIER,start_answer
+574,1735,67,9,"No.  I mean, there was a tax taking I think I reported.  You know, tax takings are not --",a,THE WITNESS,start_question
+575,1737,67,11,But nothing particularly unusual about this search?,q,MS. CLOUTIER,start_answer
+576,1739,67,13,"No, there was just -- no.  I don't think the whole thing probably took me an hour.",a,THE WITNESS,start_question
+577,1741,67,15,"So when you finished your search in 2009, what else, other than this 1888 plan, would you have sent to Mr. Miller?",q,MS. CLOUTIER,start_answer
+578,1744,67,18,"Nothing, nothing other than the report, the Exhibit 2, I think.  (Witness reviews documents.) Yeah, that's what I would have sent to him.  I wouldn't have sent him anything else.",a,THE WITNESS,start_question
+579,1748,67,22,"And just to be clear, it's the report --",q,MS. CLOUTIER,start_answer
+580,1749,67,23,"That one, yeah.  I would have sent the report and copies, any copies I made, deed. Typically the -- on a title there's a lot more to it, but there wasn't --",a,THE WITNESS,start_question
+581,1754,68,3,So it's the last six pages of Exhibit 2?,q,MS. CLOUTIER,start_answer
+582,1755,68,4,Yes.,a,THE WITNESS,start_question
+583,1756,68,5,Plus it should have included the 1888 plan?,q,MS. CLOUTIER,start_answer
+584,1757,68,6,"Yeah, I don't know why that did not.",a,THE WITNESS,start_question
+585,1758,68,7,"When Mr. Miller asked you in 2009 to do this title search, did he indicate that there was any confusion or any issues related to the title or the location of the property?",q,MS. CLOUTIER,start_answer
+586,1762,68,11,He did not.,a,THE WITNESS,start_question
+587,1763,68,12,"You said that it's your understanding that the deed for the Eagles piece of property was incorrectly drafted by the town; is that correct, or by the city?",q,MS. CLOUTIER,start_answer
+588,1767,68,16,"That's what it seems like.  Well, either they put the wrong description or the Eagles thought they owned property somewhere else, so...  I think it's obvious it's -- something's messed up (gesturing).",a,THE WITNESS,start_question
+589,1772,68,21,Did you look at any other city records after you learned --,q,MS. CLOUTIER,start_answer
+590,1774,68,23,No.,a,THE WITNESS,start_question
+591,1775,68,24,-- that there were issues related to the property --,q,MS. CLOUTIER,start_answer
+592,1778,69,2,No.,a,THE WITNESS,start_question
+593,1779,69,3,-- the location of the property?,q,MS. CLOUTIER,start_answer
+594,1780,69,4,"I wouldn't have access to city records unless they have them there.  I'm just in the Registry, so I wouldn't, like, go to the town hall or any of that kind of stuff.",a,THE WITNESS,start_question
+595,1784,69,8,How often have you -- or strike that. In the past ten years approximately how many times have you performed title searches in the city of Woburn?,q,MS. CLOUTIER,start_answer
+596,1788,69,12,"A couple hundred, maybe.",a,THE WITNESS,start_question
+597,1789,69,13,Have you come across similar issues where the city has incorrectly recorded information --,q,MS. CLOUTIER,start_answer
+598,1791,69,15,No.,a,THE WITNESS,start_question
+599,1792,69,16,-- in the deeds?,q,MS. CLOUTIER,start_answer
+600,1793,69,17,I have not.,a,THE WITNESS,start_question
+601,1794,69,18,Or in other city records related to pieces of property?,q,MS. CLOUTIER,start_answer
+602,1796,69,20,"No, I've never come across this.",a,THE WITNESS,start_chat
+603,1797,69,21,I don't think I have any further questions.,side_chat,MS. CLOUTIER,start_chat
+604,1799,69,23,I have a couple.  Can we change seats so he's speaking to the stenographer?,side_chat,MR. RAMSDELL,start_chat
+605,1802,70,1,Sure. CROSS-EXAMINATION,side_chat,MS. CLOUTIER,start_question
+606,1805,70,4,"Good afternoon, Mr. MacInnis.",q,MR. RAMSDELL,start_answer
+607,1806,70,5,Good afternoon.,a,THE WITNESS,start_question
+608,1807,70,6,"My name is Barry Ramsdell.  I'm an attorney, and I represent the interests of The Grand Aerie of the Fraternal Order of Eagles in this case.",q,MR. RAMSDELL,start_answer
+609,1810,70,9,Okay.,a,THE WITNESS,start_question
+610,1811,70,10,"I too have a couple questions, follow-up questions, on what Adam asked you.  And the first question I guess is, just to confirm from my notes, when you say you give a report to the attorney or client that hires you, do they all look like what we have marked here in Exhibit 2?  Is it the same form?",q,MR. RAMSDELL,start_answer
+611,1817,70,16,"Yeah, pretty much, yeah.",a,THE WITNESS,start_question
+612,1818,70,17,Okay.  And what we have marked here in Exhibit 2 is your report to Bruce Miller?,q,MR. RAMSDELL,start_answer
+613,1820,70,19,Yes.,a,THE WITNESS,start_question
+614,1821,70,20,And there were no other reports to Bruce Miller on this property?,q,MR. RAMSDELL,start_answer
+615,1823,70,22,"I think there were reports to Bruce Miller from my mother, who faxed them over.  I think there's some exhibits related to that.",a,THE WITNESS,start_question
+616,1827,71,1,"Okay, but I'm speaking again --",q,MR. RAMSDELL,start_answer
+617,1828,71,2,"Oh, in that time frame?",a,THE WITNESS,start_question
+618,1829,71,3,"Yes, yes, in 2009.",q,MR. RAMSDELL,start_answer
+619,1830,71,4,"No, that was it.",a,THE WITNESS,start_question
+620,1831,71,5,"This would have been it, okay.  And I understand from your testimony that you got involved in this case with respect to the title search from a telephone call with Bruce Miller?",q,MR. RAMSDELL,start_answer
+621,1835,71,9,Correct.,a,THE WITNESS,start_question
+622,1836,71,10,"Can you tell me how many telephone calls you had with Bruce Miller about this property prior to you learning that it had, quote-unquote, blown up?",q,MR. RAMSDELL,start_answer
+623,1840,71,14,Just the one.,a,THE WITNESS,start_question
+624,1841,71,15,Just one?,q,MR. RAMSDELL,start_answer
+625,1842,71,16,Just when he ordered the title.,a,THE WITNESS,start_question
+626,1843,71,17,"All right.  Then let me ask you this: Aside from Bruce Miller, did you have conversations with anyone else at Pierce Atwood with respect to this property?",q,MR. RAMSDELL,start_answer
+627,1847,71,21,"No, I would not.",a,THE WITNESS,start_question
+628,1848,71,22,Okay.  And did Bruce Miller send you any correspondence with respect to his request for a title search on the involved property?,q,MR. RAMSDELL,start_answer
+629,1852,72,1,"Not on this one, no.",a,THE WITNESS,start_question
+630,1853,72,2,Does he usually send you a written request?,q,MR. RAMSDELL,start_answer
+631,1854,72,3,"Sometimes.  He's casual.  Sometimes he does, sometimes, if he needs something in a hurry or if he's, you know.",a,THE WITNESS,start_question
+632,1857,72,6,Do you have any knowledge as to why he would not have sent you a written communication on this property?,q,MR. RAMSDELL,start_answer
+633,1860,72,9,I do not.,a,THE WITNESS,start_question
+634,1861,72,10,Okay.  And Mr. Miller told you that he represented Mr. Natale in this case?,q,MR. RAMSDELL,start_answer
+635,1863,72,12,"He did mention that, yeah.",a,THE WITNESS,start_question
+636,1864,72,13,"And he, Mr. Miller, Attorney Miller, told you that this involved property on Dexter Ave.?",q,MR. RAMSDELL,start_answer
+637,1866,72,15,Yes.,a,THE WITNESS,start_question
+638,1867,72,16,And how many pieces of property on Dexter Avenue did you believe the Grand Aerie owned?,q,MR. RAMSDELL,start_answer
+639,1869,72,18,One.,a,THE WITNESS,start_question
+640,1870,72,19,And how did you know that?,q,MR. RAMSDELL,start_answer
+641,1871,72,20,I grantee'd -- did a grantee search running their name.,a,THE WITNESS,start_question
+642,1873,72,22,How far back?,q,MR. RAMSDELL,start_answer
+643,1874,72,23,"Probably in the '60s, I would say.",a,THE WITNESS,start_question
+644,1875,72,24,"Okay.  So if they had acquired property on Dexter Ave. prior to the '60s, you wouldn't have known about it?",q,MR. RAMSDELL,start_answer
+645,1879,73,3,Correct.,a,THE WITNESS,start_question
+646,1880,73,4,Shouldn't you have known about it when he just said they owned property on Dexter Ave.?,q,MR. RAMSDELL,start_answer
+647,1882,73,6,"He told me the time frame, so that's what I went with.",a,THE WITNESS,start_question
+648,1884,73,8,Okay.  How did you know whether or not that was accurate?,q,MR. RAMSDELL,start_answer
+649,1886,73,10,I do not know if it was accurate or not.  I went with his word.,a,THE WITNESS,start_question
+650,1888,73,12,Okay.  And you relied upon the representation of Attorney Miller that the property would have been acquired by the Grand Aerie in 1970 or thereafter?,q,MR. RAMSDELL,start_answer
+651,1892,73,16,"He said, if I can recall, late '60s, around '70.  That's what he said, yes.",a,THE WITNESS,start_question
+652,1894,73,18,Okay.,q,MR. RAMSDELL,start_answer
+653,1895,73,19,I relied on him.,a,THE WITNESS,start_question
+654,1896,73,20,And you knew he represented Mr. Natale at that time?,q,MR. RAMSDELL,start_answer
+655,1898,73,22,I did.,a,THE WITNESS,start_question
+656,1899,73,23,Would I be correct that Attorney Miller did not send you a copy of a deed into the --,q,MR. RAMSDELL,start_answer
+657,1902,74,1,Correct.,a,THE WITNESS,start_question
+658,1903,74,2,Don't you usually get a deed into the grantee when you do your search?,q,MR. RAMSDELL,start_answer
+659,1905,74,4,Never.,a,THE WITNESS,start_question
+660,1906,74,5,Never?,q,MR. RAMSDELL,start_answer
+661,1907,74,6,"I shouldn't say never, almost never.",a,THE WITNESS,start_question
+662,1908,74,7,"Almost never.  At some point when you do your search, do you find the deed?",q,MR. RAMSDELL,start_answer
+663,1910,74,9,"I have book and page references.  90 percent of the time it's given to me.  As long as it matches the address, then I'm fine.  So somebody would order a title.  They would have the name, address, book and page, and when the deed...",a,THE WITNESS,start_question
+664,1915,74,14,Do you --,q,MR. RAMSDELL,start_answer
+665,1916,74,15,"Some people don't, but most people do. They usually get it off of, I think, from what I understand -- I didn't mean to talk over you.  From what I understand, I think they get it from the P&S.",a,THE WITNESS,start_question
+666,1920,74,19,Okay.  Do you know whether Mr. Natale had a P&S in 2009 when you did --,q,MR. RAMSDELL,start_answer
+667,1922,74,21,I would have no idea.,a,THE WITNESS,start_question
+668,1923,74,22,Okay.,q,MR. RAMSDELL,start_answer
+669,1924,74,23,That's not really my end.,a,THE WITNESS,start_question
+670,1925,74,24,Okay.  Did Attorney Miller give you a book and page?,q,MR. RAMSDELL,start_answer
+671,1928,75,2,He did not.,a,THE WITNESS,start_question
+672,1929,75,3,Okay.  So you went to the grantee index and looked for a deed into the Woburn area?,q,MR. RAMSDELL,start_answer
+673,1931,75,5,"Yeah, the Eagles, yeah, correct.",a,THE WITNESS,start_question
+674,1932,75,6,Okay.  And did you print that deed?,q,MR. RAMSDELL,start_answer
+675,1933,75,7,Yes (indicating).,a,THE WITNESS,start_question
+676,1934,75,8,Okay.  And I think your earlier testimony was you sent a copy of that deed to Attorney Miller? I think you said you emailed it; is that --,q,MR. RAMSDELL,start_answer
+677,1937,75,11,"I emailed the whole report, including the deed.",a,THE WITNESS,start_question
+678,1939,75,13,Including the deed that --,q,MR. RAMSDELL,start_answer
+679,1940,75,14,"There would have been a report, run sheet, deed, anything I find.",a,THE WITNESS,start_question
+680,1942,75,16,Okay.  But let me just finish my question.,q,MR. RAMSDELL,start_answer
+681,1943,75,17,"Oh, I'm sorry, sorry.",a,THE WITNESS,start_question
+682,1944,75,18,"That's okay.  So let's back up a little bit.  You found the deed, you printed it?",q,MR. RAMSDELL,start_answer
+683,1946,75,20,(Nodding.),a,THE WITNESS,start_question
+684,1947,75,21,You found a copy of the plan and you printed it?,q,MR. RAMSDELL,start_answer
+685,1949,75,23,"I think I did.  It doesn't seem to indicate that I sent it over at the time, if it's not on that.  I don't know why I didn't.",a,THE WITNESS,start_question
+686,1953,76,2,Okay.  I thought your earlier testimony was that you did email him -- your earlier testimony was that you reviewed the '88 plan and you emailed it to Attorney Miller in '09; is that accurate or --,q,MR. RAMSDELL,start_answer
+687,1957,76,6,I don't think I said that.,a,THE WITNESS,start_question
+688,1958,76,7,"Okay, all right.  So as you sit here today, you believe that you did not send to Attorney Miller a copy of the plan?",q,MR. RAMSDELL,start_answer
+689,1961,76,10,At '09 -- at the time --,a,THE WITNESS,start_question
+690,1962,76,11,Yes.,q,MR. RAMSDELL,start_answer
+691,1963,76,12,"-- that report was sent over, if it's not attached to that exhibit, I would say I did not send it at that particular time.  Did I send it to him later or a day later or two days later?  I don't know.",a,THE WITNESS,start_question
+692,1968,76,17,"When you say ""attached to the exhibit,"" what do you --",q,MR. RAMSDELL,start_answer
+693,1970,76,19,"Yeah, to the report, so it's --",a,THE WITNESS,start_question
+694,1971,76,20,Your report?,q,MR. RAMSDELL,start_answer
+695,1972,76,21,"It would have been Exhibit 2.  So typically what I do is, there's a bill, the report, run sheet, everything I find, and I usually put the plan on the end.",a,THE WITNESS,start_question
+696,1977,77,1,Were those all stapled together in your office?,q,MR. RAMSDELL,start_answer
+697,1979,77,3,It was electronically.,a,THE WITNESS,start_question
+698,1980,77,4,Okay.  Was a copy of the plan on your computer?,q,MR. RAMSDELL,start_answer
+699,1982,77,6,I'm not sure.,a,THE WITNESS,start_question
+700,1983,77,7,It might have been?,q,MR. RAMSDELL,start_answer
+701,1984,77,8,It may have been.  I don't know.,a,THE WITNESS,start_question
+702,1985,77,9,"And if it was, wouldn't that --",q,MR. RAMSDELL,start_answer
+703,1986,77,10,"This plan was sent to him at some point because I can see my writing on the plan (indicating), where I outlined kind of the rough outline of the lots that I was -- went back and researched for the tax-taking purposes, so...",a,THE WITNESS,start_question
+704,1991,77,15,"Okay.  And if it was on your computer, that would not indicate whether or not you sent it to Attorney Miller?",q,MR. RAMSDELL,start_answer
+705,1994,77,18,"No, I would have to look at my correspondence with Bruce to see if I had sent it a day later, ten days later, ten years later.",a,THE WITNESS,start_question
+706,1997,77,21,Would that correspondence be paper or email?,q,MR. RAMSDELL,start_answer
+707,1999,77,23,"Email.  I would have gotten a copy of it, scanned it and emailed it.",a,THE WITNESS,start_question
+708,2002,78,1,Okay.  And did you check your email to see whether you did that?,q,MR. RAMSDELL,start_answer
+709,2004,78,3,I did not.,a,THE WITNESS,start_question
+710,2005,78,4,"So you may -- without checking, you may have a copy of an email from you to Attorney Miller in '09 sending him a copy of the '88 plan; is that correct?",q,MR. RAMSDELL,start_answer
+711,2009,78,8,It's possible.,a,THE WITNESS,start_question
+712,2010,78,9,"Okay.  And if so, Attorney Miller would have known in 2009 that you were doing a title rundown on the Section A property, correct?",q,MR. RAMSDELL,start_answer
+713,2013,78,12,"Yes, he would have gathered that from my deed, the deed description.",a,THE WITNESS,start_question
+714,2015,78,14,"*Exactly.  So he knew that you -- as far back as 2009, you were not doing a title rundown on what has been referred to as 13 West Dexter Ave., correct?",q,MR. RAMSDELL,start_answer
+715,2019,78,18,Is that where the properties --,a,THE WITNESS,start_question
+716,2020,78,19,The properties are built.,q,MR. RAMSDELL,start_answer
+717,2021,78,20,"Yeah, from what I understand.  That was --",a,THE WITNESS,start_question
+718,2022,78,21,So your answer is yes to my question?,q,MR. RAMSDELL,start_answer
+719,2023,78,22,"Repeat the question, if you don't mind.",a,THE WITNESS,start_question
+720,2024,78,23,Sure.,q,MR. RAMSDELL,start_chat
+721,2025,78,24,Can you read that back to him. *(Question read.),side_chat,MR. BENEVIDES,start_chat
+722,2029,79,3,Objection.,side_chat,MS. SCALISI,start_answer
+723,2030,79,4,I couldn't speak for him.  I don't know what he knew or what he was --,a,THE WITNESS,start_question
+724,2032,79,6,No --,q,MR. RAMSDELL,start_answer
+725,2033,79,7,Oh.,a,THE WITNESS,start_question
+726,2034,79,8,-- I'm just asking you to speak to what you sent to him.,q,MR. RAMSDELL,start_answer
+727,2036,79,10,"Well,  I sent this (indicating).  When I say ""this,"" I mean the report, and as far as a description on the deed, we would refer to that plan.",a,THE WITNESS,start_question
+728,2040,79,14,Correct.,q,MR. RAMSDELL,start_answer
+729,2041,79,15,"So -- yeah, so that's what I sent him.",a,THE WITNESS,start_question
+730,2042,79,16,You sent him and he had that --,q,MR. RAMSDELL,start_answer
+731,2043,79,17,He did.,a,THE WITNESS,start_question
+732,2044,79,18,-- in 2009?,q,MR. RAMSDELL,start_answer
+733,2045,79,19,Correct.,a,THE WITNESS,start_question
+734,2046,79,20,"And you knew that he was representing the plaintiff in this case, correct?",q,MR. RAMSDELL,start_answer
+735,2048,79,22,"I did know that, yes.",a,THE WITNESS,start_question
+736,2049,79,23,"All right.  After you did your title rundown in 2009, did you have any further conversation with Attorney Miller about this property?",q,MR. RAMSDELL,start_answer
+737,2054,80,3,"Not till years later when things were messed up, there were problems.",a,THE WITNESS,start_question
+738,2056,80,5,"But at that time, it was your belief that the title run down by you was requested because Mr. Natale intended to purchase it, correct?",q,MR. RAMSDELL,start_answer
+739,2059,80,8,Correct.,a,THE WITNESS,start_question
+740,2060,80,9,Okay.  Why do you believe that the city may have placed an incorrect description on the deed that you sent to Attorney Miller?,q,MR. RAMSDELL,start_answer
+741,2063,80,12,I believe that because that's not where the Eagles ended up being located.  I think they --,a,THE WITNESS,start_question
+742,2065,80,14,Where did the Eagles end up being located?,q,MR. RAMSDELL,start_answer
+743,2066,80,15,I think it was down the street or up the street.,a,THE WITNESS,start_question
+744,2068,80,17,At 13 West Dexter?,q,MR. RAMSDELL,start_answer
+745,2069,80,18,I believe so.,a,THE WITNESS,start_question
+746,2070,80,19,What's the basis for your belief that the Eagles owned that property if you could never find the deed into the Eagles at 13 West Dexter Ave.?,q,MR. RAMSDELL,start_answer
+747,2073,80,22,Because I was told that's where they were.,a,THE WITNESS,start_question
+748,2074,80,23,Who told you that?,q,MR. RAMSDELL,start_answer
+749,2075,80,24,"I think -- I don't know.  I mean, I don't -- I think I'm getting confused here.",a,THE WITNESS,start_question
+750,2078,81,2,I think you are.  Did --,q,MR. RAMSDELL,start_answer
+751,2079,81,3,"The Eagles, as far as I know, owned the land that I did the report for.",a,THE WITNESS,start_question
+752,2081,81,5,Correct.,q,MR. RAMSDELL,start_answer
+753,2082,81,6,"And then I was told years later that they -- that the property that -- that the condos were built on was a different piece of property, that the -- that somebody thought the Eagles owned that property, and they put the condos on there. That's how -- that's what my understanding was. And so Bruce said, ""Can you see who owns the property that the -- where the condos ended up on?""  And I said, ""I'll look around, see what I can do.""  And so I wouldn't know -- I wouldn't have -- I don't go to the site, so I wouldn't know where anything is.  As far as I know, Dexter was just a general, you know.",a,THE WITNESS,start_question
+754,2095,81,19,"Well, you didn't go to the site, but you had a plan for where the property was that you were doing the title research on, right?",q,MR. RAMSDELL,start_answer
+755,2098,81,22,Correct.,a,THE WITNESS,start_question
+756,2099,81,23,Okay.  So you knew where the property was; you just had not physically gone out to view it?,q,MR. RAMSDELL,start_answer
+757,2102,82,1,"Yeah, I wouldn't.  That's not something I would do.",a,THE WITNESS,start_question
+758,2104,82,3,"All right.  So why -- to get back to the original question, why did you believe that the Eagles owned the property that the condo was -- or condos were built on?",q,MR. RAMSDELL,start_answer
+759,2108,82,7,Because --,a,THE WITNESS,start_question
+760,2109,82,8,Somebody told you that?  Is that why you believed that?,q,MR. RAMSDELL,start_answer
+761,2111,82,10,"I believed it because that's what happened, because they bought the land off of them, and they built condos on it, so...",a,THE WITNESS,start_question
+762,2114,82,13,Which land did Natale buy from the Eagles?,q,MR. RAMSDELL,start_answer
+763,2115,82,14,"He bought the one I did the report on, from what I understand.",a,THE WITNESS,start_question
+764,2117,82,16,Exactly.,q,MR. RAMSDELL,start_answer
+765,2118,82,17,Yeah.,a,THE WITNESS,start_question
+766,2119,82,18,"So he didn't buy 13 West Dexter Ave. from the Eagles, did he?",q,MR. RAMSDELL,start_answer
+767,2121,82,20,It doesn't seem like it.,a,THE WITNESS,start_question
+768,2122,82,21,Okay.  Do you recall who told you that the Eagles owned the property at 13 West Dexter Ave.?,q,MR. RAMSDELL,start_answer
+769,2124,82,23,"I don't, no.",a,THE WITNESS,start_question
+770,2125,82,24,"Okay.  But you did a title rundown for the Eagles, and you never found any deed into the Eagles for 13 West Dexter Ave.; isn't that true?",q,MR. RAMSDELL,start_answer
+771,2129,83,3,I don't know the address of the one I did it for.  I would assume -- if that's not -- if this isn't 13 Dexter Ave. (indicating) --,a,THE WITNESS,start_question
+772,2132,83,6,It is not.,q,MR. RAMSDELL,start_answer
+773,2133,83,7,Okay.  Then that's a fair assessment.,a,THE WITNESS,start_question
+774,2134,83,8,"So the answer to my question would be, yes, you never found the deed into the Eagles at 13 West Dexter Ave., correct?",q,MR. RAMSDELL,start_answer
+775,2137,83,11,"Correct.  I was never given a number for the street, so...",a,THE WITNESS,start_question
+776,2139,83,13,"Okay, all right.",q,MR. RAMSDELL,start_answer
+777,2140,83,14,Yeah.,a,THE WITNESS,start_question
+778,2141,83,15,"If you were doing the title rundown in 2009 with a belief that Mr. Natale intended to purchase the property, do you know why that purchase did not go through?",q,MR. RAMSDELL,start_answer
+779,2145,83,19,I have no idea.,a,THE WITNESS,start_question
+780,2146,83,20,Okay.  Did Attorney Miller at any time indicate to you from whom Natale intended to purchase the property in 2009?,q,MR. RAMSDELL,start_answer
+781,2149,83,23,Yes.,a,THE WITNESS,start_question
+782,2150,83,24,And who was that?,q,MR. RAMSDELL,start_answer
+783,2152,84,1,The Eagles.,a,THE WITNESS,start_question
+784,2153,84,2,"But you found no deed into the Eagles for 13 West Dexter Ave., right?",q,MR. RAMSDELL,start_answer
+785,2155,84,4,"Right now, that appears to be the case.",a,THE WITNESS,start_question
+786,2156,84,5,And it would have been the case in 2009?,q,MR. RAMSDELL,start_answer
+787,2157,84,6,"Yeah, certainly.",a,THE WITNESS,start_question
+788,2158,84,7,Did Attorney Miller tell you about any conversations he had with Mr. Natale with respect to the subject property?,q,MR. RAMSDELL,start_chat
+789,2161,84,10,Objection.  You can answer.,side_chat,MS. SCALISI,start_answer
+790,2163,84,12,He just mentioned he was going to put condos on the property.,a,THE WITNESS,start_question
+791,2165,84,14,That's all he said?,q,MR. RAMSDELL,start_answer
+792,2166,84,15,"Yeah, that's it.  It was a 30-second conversation.",a,THE WITNESS,start_question
+793,2168,84,17,All right.  Did you have any conversations with Mr. Natale about the subject property?,q,MR. RAMSDELL,start_answer
+794,2170,84,19,No.,a,THE WITNESS,start_question
+795,2171,84,20,Did you have any communications with anyone at the Woburn Aerie about any of the property on Dexter Ave.?,q,MR. RAMSDELL,start_answer
+796,2174,84,23,No.,a,THE WITNESS,start_question
+797,2175,84,24,Did you have any conversations or any communications with anyone from the Grand Aerie with respect to the property on Dexter Ave.?,q,MR. RAMSDELL,start_answer
+798,2179,85,3,No.,a,THE WITNESS,start_chat
+799,2180,85,4,"Okay, thank you.",side_chat,MR. RAMSDELL,start_chat
+800,2181,85,5,Awesome.  Thank you.,side_chat,THE WITNESS,start_chat
+801,2182,85,6,"I just have three quick follow-up questions, and I'm going to move really quickly. CROSS-EXAMINATION",side_chat,MS. SCALISI,start_question
+802,2187,85,11,"So we're just talking about two properties. We're talking about the one appearing in the 1888 plan, and we're talking about the one where the condos were built?",q,MS. SCALISI,start_answer
+803,2191,85,15,Correct.,a,THE WITNESS,start_question
+804,2192,85,16,"So you never physically visited either of those properties, right?",q,MS. SCALISI,start_answer
+805,2194,85,18,I did not.,a,THE WITNESS,start_question
+806,2195,85,19,"And as far as you know, Bruce never visited either of those properties?",q,MS. SCALISI,start_answer
+807,2197,85,21,"As far as I know, no.",a,THE WITNESS,start_question
+808,2198,85,22,"And then just to clarify, you don't know one way or another whether you actually sent this 1888 plan to Bruce, right?  You're just saying that you would have, but it doesn't appear that you did?",q,MS. SCALISI,start_answer
+809,2203,86,2,Yeah.,a,THE WITNESS,start_chat
+810,2204,86,3,"I object, but you can answer.",side_chat,MR. RAMSDELL,start_answer
+811,2206,86,5,I don't know if I did at the time.  I'm sure I would have since everything kind of -- I don't know.,a,THE WITNESS,start_question
+812,2209,86,8,Okay.,q,MS. SCALISI,start_answer
+813,2210,86,9,"I mean, I would have to really figure out my email records, and I don't know, I don't even know if I could find it.",a,THE WITNESS,start_chat
+814,2213,86,12,Okay.  That's all I have.,side_chat,MS. SCALISI,start_chat
+815,2214,86,13,I have a few.,side_chat,MS. CLOUTIER,start_chat
+816,2215,86,14,I'll follow you afterwards.,side_chat,MR. BENEVIDES,start_chat
+817,2217,86,16,Okay. FURTHER CROSS-EXAMINATION,side_chat,MS. CLOUTIER,start_question
+818,2220,86,19,Do you keep billing records?,q,MS. CLOUTIER,start_answer
+819,2221,86,20,No.,a,THE WITNESS,start_question
+820,2222,86,21,Did you ever speak to anyone who represented themselves as counsel for the Eagles?,q,MS. CLOUTIER,start_answer
+821,2224,86,23,No.,a,THE WITNESS,start_question
+822,2225,86,24,Did you ever speak to an individual by the name of Steve Braese?,q,MS. CLOUTIER,start_answer
+823,2228,87,2,No.,a,THE WITNESS,start_question
+824,2229,87,3,Did you ever speak to --,q,MS. CLOUTIER,start_answer
+825,2230,87,4,"Oh, oh, let me rephrase that.  That conversation I had with Bruce Miller and somebody, some surveyor, I don't recall his name.  So I don't want to -- if it was him, then -- you know what I'm saying?",a,THE WITNESS,start_question
+826,2235,87,9,I'll represent to you that Steve Braese is not a surveyor.,q,MS. CLOUTIER,start_answer
+827,2237,87,11,Okay.  Then I did not.,a,THE WITNESS,start_question
+828,2238,87,12,Okay.  Did you ever speak to anyone from the city of Woburn?,q,MS. CLOUTIER,start_answer
+829,2240,87,14,No.,a,THE WITNESS,start_question
+830,2241,87,15,"When you spoke to Mr. Miller in 2009, before you did the title search, do you know whether his understanding of the property being owned by the Eagles came from his own research or was that information provided to him by Natale?",q,MS. CLOUTIER,start_answer
+831,2246,87,20,I got the impression it was from Natale.,a,THE WITNESS,start_question
+832,2247,87,21,Do you know how Natale came to understand --,q,MS. CLOUTIER,start_answer
+833,2249,87,23,I wouldn't have any idea.,a,THE WITNESS,start_question
+834,2250,87,24,"The report that you did, title report that you did produce for 2009, where did you find that in your records?",q,MS. CLOUTIER,start_answer
+835,2254,88,3,"That was on my emails.  I have a file that has all my titles that I've scanned over the years, so I probably have 35,000 titles, and I put it in by the town and by the street name.",a,THE WITNESS,start_question
+836,2258,88,7,Okay.,q,MS. CLOUTIER,start_answer
+837,2259,88,8,"So I went to ""Woburn,"" ""Dexter,"" and there it was.",a,THE WITNESS,start_question
+838,2261,88,10,"Okay.  But you didn't search your emails for ""Bruce Miller,"" for ""Dexter Avenue,"" for ""Natale""?",q,MS. CLOUTIER,start_answer
+839,2264,88,13,I wouldn't have saved those.  I would not -- I might have deleted those.  That's a different -- that's a separate Middlesex title file.,a,THE WITNESS,start_question
+840,2267,88,16,"Just to confirm, though, you didn't search your emails --",q,MS. CLOUTIER,start_answer
+841,2269,88,18,"No, no.",a,THE WITNESS,start_question
+842,2270,88,19,-- your in box or out box --,q,MS. CLOUTIER,start_answer
+843,2271,88,20,"I'm sorry.  No, I did not.",a,THE WITNESS,start_question
+844,2272,88,21,-- for any of those names?,q,MS. CLOUTIER,start_answer
+845,2273,88,22,No.,a,THE WITNESS,start_question
+846,2274,88,23,"And going back to Exhibits 3 and 4, where your mother was doing some work --",q,MS. CLOUTIER,start_answer
+847,2277,89,1,Yes.,a,THE WITNESS,start_question
+848,2278,89,2,-- what -- so how did she end up doing that work that's represented in Exhibits 3 and 4?,q,MS. CLOUTIER,start_answer
+849,2280,89,4,"I would imagine that Bruce probably contacted me and said, ""Can you run these up?""  And I said -- and I would have wrote it down maybe on a piece of paper and handed it to her and said, ""Can you run these up?  These are run-ups or rundowns for the policy.""  That was kind of what she did, a lot of run-ups and rundowns, shorter versions of title searches.  That's kind of what -- they're easy to do online.  You want to do the full titles in the Registry, there's more resources.  So that was kind of her role at the time.",a,THE WITNESS,start_question
+850,2291,89,15,"Do you know why he was asking you to do that in, I believe it was the 2013 and '14 time frame, in those two exhibits?",q,MS. CLOUTIER,start_answer
+851,2294,89,18,"I don't.  I could -- I don't, actually.",a,THE WITNESS,start_question
+852,2295,89,19,Would you have sent him anything in response to what was done in Exhibits 3 and 4?,q,MS. CLOUTIER,start_answer
+853,2297,89,21,"No.  What she usually does if she does those, she just ends up faxing them from the office. We have a small office in Easton.  So she would have just shot him a fax because I -- I mean, I would have -- if I sent him those, it would have been on my -- in the Middlesex folder as far as that, and I would have, you know, checked and sent them along.",a,THE WITNESS,start_question
+854,2305,90,4,Do you keep a hard copy of faxes that you send along?,q,MS. CLOUTIER,start_answer
+855,2307,90,6,No.,a,THE WITNESS,start_question
+856,2308,90,7,"When Mr. Miller contacted you in 2009 or really at any point in time from 2009 forward, did you ever speak to anybody else other than Mr. Miller about either piece of property that was at issue on Dexter Avenue?",q,MS. CLOUTIER,start_answer
+857,2313,90,12,Just the --,a,THE WITNESS,start_question
+858,2314,90,13,The surveyor?,q,MS. CLOUTIER,start_answer
+859,2315,90,14,"The surveyor, a couple title examiners that got involved.",a,THE WITNESS,start_question
+860,2317,90,16,Anybody else that you haven't mentioned yet?,q,MS. CLOUTIER,start_answer
+861,2319,90,18,"No, no.  Nobody -- no title examiner would find this interesting.  You know what I mean?  It's all kind of boring.  So I just -- the guy, the kid that did -- was doing it for the mortgage company, and then the people Bruce hired from Marsh Moriarty, I spoke to that person a little bit about it because I was more -- I was interested in what was going on, what was the outcome and did they find anything.  I was more, you know.",a,THE WITNESS,start_chat
+862,2329,91,3,All right.  I don't have any further questions.  Thank you. REDIRECT EXAMINATION,side_chat,MS. CLOUTIER,start_question
+863,2333,91,7,"I just wanted to turn you to Exhibit 1, which is the subpoena.  I just want to point out that we did request all communications with Pierce Atwood.",q,MR. BENEVIDES,start_answer
+864,2337,91,11,Yes.,a,THE WITNESS,start_question
+865,2338,91,12,"And if you read it over, emails would be included in that.",q,MR. BENEVIDES,start_answer
+866,2340,91,14,Sure.,a,THE WITNESS,start_question
+867,2341,91,15,"So if you would be so kind, could you please run through your emails --",q,MR. BENEVIDES,start_answer
+868,2343,91,17,I certainly will.,a,THE WITNESS,start_question
+869,2344,91,18,"-- and produce us everything related to this search, related to this title --",q,MR. BENEVIDES,start_answer
+870,2346,91,20,I will.,a,THE WITNESS,start_question
+871,2347,91,21,-- related to Pierce Atwood?,q,MR. BENEVIDES,start_answer
+872,2348,91,22,"Yeah, that was my clumsiness, misunderstanding.  I just missed something.  I don't know why I thought just the title.  I don't know.",a,THE WITNESS,start_question
+873,2352,92,1,That's fine.  Do you think you could do that within a week or so?,q,MR. BENEVIDES,start_answer
+874,2354,92,3,"What's today's date?  Yeah, we're getting near the end of the month, so...",a,THE WITNESS,start_question
+875,2356,92,5,"How about by next Friday, maybe?",q,MR. BENEVIDES,start_answer
+876,2357,92,6,Yes.,a,THE WITNESS,start_question
+877,2358,92,7,That would be great.  Thank you.,q,MR. BENEVIDES,start_answer
+878,2359,92,8,"No promises, but I certainly will make every effort.",a,THE WITNESS,start_question
+879,2361,92,10,I'll remind you.,q,MR. BENEVIDES,start_answer
+880,2362,92,11,"Yeah, definitely, definitely.  As long as you don't get me near the end of the month, I'm good, because that's when it's mayhem.",a,THE WITNESS,start_question
+881,2365,92,14,"Just for clarification, when were you told the Eagles owned 13 West Dexter?",q,MR. BENEVIDES,start_answer
+882,2367,92,16,"I don't know, probably -- I think there's a rundown we did, maybe.  I'm not sure.  Years later, after everything kind of went, you know, to hell there, you know, got blown up, blew up, or whatever.",a,THE WITNESS,start_question
+883,2371,92,20,So in your initial title search you were not told at all --,q,MR. BENEVIDES,start_answer
+884,2373,92,22,"I was not given a street number, but Bruce is casual.  That's how he does things.  I mean, ""Dexter Street,"" ""Eagles,"" that was it.  I said, ""Okay.""  Well, there we go.",a,THE WITNESS,start_question
+885,2378,93,2,It wasn't unusual for him to give without a an address number?,q,MR. BENEVIDES,start_answer
+886,2380,93,4,Right.,a,THE WITNESS,start_question
+887,2381,93,5,Why didn't you ask for one?,q,MR. BENEVIDES,start_answer
+888,2382,93,6,"I didn't think I needed one.  If I found two or three different properties, deeds that they owned, then I would have said, ""Hey, what's going on here?  What do they own?  What's the address?""  But where I just found the one deed, I didn't -- it was on Dexter Street, so it was, okay, here we go.",a,THE WITNESS,start_question
+889,2388,93,12,"You don't have any written correspondence that you sent out that's not through email, correct?",q,MR. BENEVIDES,start_answer
+890,2390,93,14,Correct.,a,THE WITNESS,start_question
+891,2391,93,15,"Okay.  Just for the record, in your search, if you do find any, we also would like that as well.",q,MR. BENEVIDES,start_answer
+892,2393,93,17,Okay.,a,THE WITNESS,start_chat
+893,2394,93,18,That's all I have right now.  Thank you very much.,side_chat,MR. BENEVIDES,start_chat
+894,2396,93,20,You're welcome.,side_chat,THE WITNESS,start_chat
+895,2397,93,21,Let me just ask one question.,side_chat,MR. RAMSDELL,start_chat
+896,2399,93,23,Sure. RECROSS-EXAMINATION,side_chat,MR. BENEVIDES,start_question
+897,2404,94,3,"Just to clarify, just to make sure I didn't misunderstand, I thought he asked you about 13 West Dexter Road, and you said you did a title rundown on that and found that it was owned by the Eagles?",q,MR. RAMSDELL,start_answer
+898,2408,94,7,No.  There was -- I saw an exhibit in here that had the address as 13 --,a,THE WITNESS,start_question
+899,2410,94,9,Yeah.,q,MR. RAMSDELL,start_answer
+900,2411,94,10,-- in one of these exhibits.,a,THE WITNESS,start_question
+901,2412,94,11,Yeah.,q,MR. RAMSDELL,start_answer
+902,2413,94,12,"It looks like it was done years later (indicating), 2014.",a,THE WITNESS,start_question
+903,2415,94,14,And that shows that it was owned --,q,MR. RAMSDELL,start_answer
+904,2416,94,15,"Oh, no.  You know what?  That was owned by Natale.",a,THE WITNESS,start_question
+905,2418,94,17,"Okay, I just wanted to clarify that.",q,MR. RAMSDELL,start_answer
+906,2419,94,18,"Yeah, yeah, I'm sorry, yeah.",a,THE WITNESS,start_question
+907,2420,94,19,I just wanted to clarify that for the record.  I didn't want that --,q,MR. RAMSDELL,start_answer
+908,2422,94,21,"Yeah, yeah.",a,THE WITNESS,start_question
+909,2423,94,22,"Okay, thank you.",q,MR. RAMSDELL,start_answer
+910,2424,94,23,That looks like -- yeah.,a,THE WITNESS,start_question
+911,2425,94,24,Okay.  Thank you very much. FURTHER REDIRECT EXAMINATION,q,MR. RAMSDELL,start_question
+912,2429,95,3,One more small question.  You mentioned that this document -- I think it was Exhibit 6. Could you clarify that?  I didn't write it down.,q,MR. BENEVIDES,start_answer
+913,2432,95,6,Yeah.,a,THE WITNESS,start_question
+914,2433,95,7,You said this was your handwriting on this?,q,MR. BENEVIDES,start_answer
+915,2434,95,8,"Those little lines there, yeah.",a,THE WITNESS,start_question
+916,2435,95,9,Okay.,q,MR. BENEVIDES,start_answer
+917,2436,95,10,"I just kind of outlined where the property was and correspondence to the lots.  I did all those -- they're little lots.  They're tax takings and they were just -- so it was just me trying figure out where property was.  It's very rough, sketchy.",a,THE WITNESS,start_question
+918,2442,95,16,"In looking at Exhibit 6, it would appear that two of the lots seem missing out of the continuous parcels?",q,MR. BENEVIDES,start_answer
+919,2445,95,19,Yes.  I think I -- I think they were not included in the -- let me think. (Witness reviews document.),a,THE WITNESS,start_question
+920,2448,95,22,"Well, let me ask you this:  Is that something that you would ordinarily point to your client's attention in knowing that they were trying to develop a parcel?",q,MR. BENEVIDES,start_answer
+921,2453,96,2,"I don't know if it was in here, is what I'm saying (indicating).  As a matter of fact, you could tell it was not.  It was excluded.  It's Lots 1 to 7, then 10 to 25 inclusive, Block 30.  So it wasn't in this deed to begin with, I think.  Is this Block 30?",a,THE WITNESS,start_chat
+922,2459,96,8,Mm-hm.,side_chat,MS. SCALISI,start_question
+923,2460,96,9,"And I believe you testified that you looked into the individual lots after an initial search, right?",q,MR. BENEVIDES,start_answer
+924,2463,96,12,"Yeah, that were on here.",a,THE WITNESS,start_question
+925,2464,96,13,"And that was after things blew up, as you stated?",q,MR. BENEVIDES,start_answer
+926,2466,96,15,"Yes, yes.  He wanted me to go back and, you know, put the whole thing.",a,THE WITNESS,start_chat
+927,2468,96,17,Okay.  That's all. Thank you very much.,side_chat,MR. BENEVIDES,is brackets
+928,2470,96,19,"(Concluded at 12:11 p.m.) CERTIFICATE OF COURT REPORTER I, Joan M. Cassidy, Registered Professional Reporter and Certified Realtime Reporter, do certify that the deposition of David F. MacInnis, in the matter of Dexter Ave. Realty Trust, et al. v. Chappell Engineering Associates, LLC, et al., etc., on August 14, 2019, was stenographically recorded by me; that the witness provided satisfactory evidence of identification, as prescribed by Executive Order 455 (03-13) issued by the Governor of the Commonwealth of Massachusetts, before being sworn by me, a Notary Public in and for the Commonwealth of Massachusetts; that the transcript produced by me is a true and accurate record of the proceedings to the best of my ability; that I am neither counsel for, related to, nor employed by any of the parties to the above action; and further that I am not a relative or employee of any attorney or counsel employed by the parties thereto, nor financially or otherwise interested in the outcome of the action. Joan M. Cassidy, RPR, CRR WITNESS: David F. MacInnis Engineering Associates, LLC, et al., etc. PAGE   LINE     CHANGE OR CORRECTION AND REASON",brackets,,symbols
+929,2509,98,4,______|_______|_____________________________________,symbols,,symbols
+930,2510,98,5,______|_______|_____________________________________,symbols,,symbols
+931,2511,98,6,______|_______|_____________________________________,symbols,,symbols
+932,2512,98,7,______|_______|_____________________________________,symbols,,symbols
+933,2513,98,8,______|_______|_____________________________________,symbols,,symbols
+934,2514,98,9,______|_______|_____________________________________,symbols,,symbols
+935,2515,98,10,______|_______|_____________________________________,symbols,,symbols
+936,2516,98,11,______|_______|_____________________________________,symbols,,symbols
+937,2517,98,12,______|_______|_____________________________________,symbols,,symbols
+938,2518,98,13,______|_______|_____________________________________,symbols,,symbols
+939,2519,98,14,______|_______|_____________________________________,symbols,,symbols
+940,2520,98,15,______|_______|_____________________________________,symbols,,symbols
+941,2521,98,16,______|_______|_____________________________________,symbols,,symbols
+942,2522,98,17,______|_______|_____________________________________,symbols,,symbols
+943,2523,98,18,______|_______|_____________________________________,symbols,,symbols
+944,2524,98,19,"______|_______|_____________________________________ I have read the transcript of my deposition taken changes noted above, I hereby subscribe to the made by me. Deponent, David F. MacInnis David F. MacInnis SIGNATURE PAGE/ERRATA SHEET INFORMATION For deposition taken on: August 14, 2019 Dexter Ave. Realty Trust, et al. v. Chappell Engineering Associates, LLC, et al., etc. SIGNATURE INFORMATION FOR COUNSEL The original signature page/errata sheet has been sent to Adam C. Benevides, Esq., to obtain signature from the deponent.  A copy of any errata should be sent to each party of record present at the deposition. WITNESS INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason on the errata/signature page.  DO NOT make any notations on the transcript itself.  If necessary, continue the format on a separate page. PLEASE SIGN AND DATE the errata/signature page and return it to Attorney Benevides.",symbols,,end

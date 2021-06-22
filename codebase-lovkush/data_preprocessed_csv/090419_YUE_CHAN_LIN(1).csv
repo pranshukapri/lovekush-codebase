@@ -1,0 +1,507 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, follows...,,,symbols
+1,131,5,15,- - - EXAMINATION,symbols,,symbols
+2,133,5,17,- - -,symbols,,start_question
+3,135,5,19,"Good morning, ma'am.  My name is Steven Levy, and I represent the plaintiff in a lawsuit that they've brought against you. I'm here to take your deposition regarding a car accident. Have you ever given deposition testimony before?",q,MR. LEVY,start_answer
+4,143,6,2,No.,a,THE WITNESS,start_question
+5,144,6,3,I'm just going to go through some basic instructions.  The first one is make sure you give all of your responses verbally to the interpreter.,q,MR. LEVY,start_answer
+6,148,6,7,Yes.,a,THE WITNESS,start_question
+7,149,6,8,Do you speak or understand any English?,q,MR. LEVY,start_answer
+8,151,6,10,No.,a,THE WITNESS,start_question
+9,152,6,11,"This goes without saying, but make sure you give all of your responses in your native language.",q,MR. LEVY,start_answer
+10,155,6,14,Yes.,a,THE WITNESS,start_question
+11,156,6,15,"We're going to do our best to all speak one at a time today.  Make sure you let me get my question out, wait for the interpretation to be complete before you answer the question.",q,MR. LEVY,start_answer
+12,161,6,20,"That's fine, yes.",a,THE WITNESS,start_question
+13,162,6,21,"If you do not understand one of the questions, don't answer it.  Tell us that you didn't understand it.",q,MR. LEVY,start_answer
+14,165,6,24,Yes.,a,THE WITNESS,start_question
+15,167,7,1,"If you need a break at any point, please let us know.  You're not tied down to that chair.",q,MR. LEVY,start_answer
+16,170,7,4,Yes.,a,THE WITNESS,start_question
+17,171,7,5,"If there is a pending question, I'm going to ask that you answer that before you take the break, okay?",q,MR. LEVY,start_answer
+18,174,7,8,Yes.,a,THE WITNESS,start_question
+19,175,7,9,"We're in a somewhat informal setting here in a conference room, but do you understand you're under the same oath as if you were in court?",q,MR. LEVY,start_answer
+20,179,7,13,Yes.,a,THE WITNESS,start_question
+21,180,7,14,"Can you state your full name, please.",q,MR. LEVY,start_answer
+22,181,7,15,Yue Chan Lin.,a,THE WITNESS,start_question
+23,182,7,16,"What's your date of birth, ma'am?",q,MR. LEVY,start_answer
+24,183,7,17,"March 18, 1976.",a,THE WITNESS,start_question
+25,184,7,18,Your present marital status?,q,MR. LEVY,start_answer
+26,185,7,19,"I'm sorry, I didn't get what you're saying. Can you repeat that?",a,THE WITNESS,start_question
+27,188,7,22,Are you married?,q,MR. LEVY,start_answer
+28,189,7,23,Yes.,a,THE WITNESS,start_question
+29,190,7,24,How long have you been married?,q,MR. LEVY,start_answer
+30,192,8,1,"20 years, approximately.",a,THE WITNESS,start_question
+31,193,8,2,What is your husband's name?,q,MR. LEVY,start_answer
+32,194,8,3,It's  Ren Guan Zheng.,a,THE WITNESS,start_question
+33,195,8,4,"Can you spell it for us, please.",q,MR. LEVY,start_answer
+34,196,8,5,"R-E-N first name, G-U-A-N middle, last name is Z-H-E-N-G.",a,THE WITNESS,start_question
+35,198,8,7,Do you have any children?,q,MR. LEVY,start_answer
+36,199,8,8,Yes.,a,THE WITNESS,start_question
+37,200,8,9,How many children?,q,MR. LEVY,start_answer
+38,201,8,10,Two.,a,THE WITNESS,start_question
+39,202,8,11,What are their ages?,q,MR. LEVY,start_answer
+40,203,8,12,"My oldest one was born in 1999, and the younger one was 2005.",a,THE WITNESS,start_question
+41,205,8,14,What's your present address?,q,MR. LEVY,start_answer
+42,206,8,15,"It's 2022 West Hunting Park Avenue, Philadelphia, Pennsylvania 19140.",a,THE WITNESS,start_question
+43,208,8,17,Is that a house or an apartment?,q,MR. LEVY,start_answer
+44,209,8,18,House.,a,THE WITNESS,start_question
+45,210,8,19,How long have you lived there?,q,MR. LEVY,start_answer
+46,211,8,20,"Approximately, between four to five years.",a,THE WITNESS,start_question
+47,213,8,22,What's your highest level of education?,q,MR. LEVY,start_answer
+48,215,8,24,Elementary school.,a,THE WITNESS,start_question
+49,217,9,1,How long have you lived in the United States?,q,MR. LEVY,start_answer
+50,219,9,3,"Approximately, 21 years.",a,THE WITNESS,start_question
+51,220,9,4,Any education since being in the United States?,q,MR. LEVY,start_answer
+52,222,9,6,No.,a,THE WITNESS,start_question
+53,223,9,7,"Since moving to the United States, have you lived in the Philadelphia area the whole time?",q,MR. LEVY,start_answer
+54,226,9,10,Correct.,a,THE WITNESS,start_question
+55,227,9,11,Where did you move from?,q,MR. LEVY,start_answer
+56,228,9,12,China.,a,THE WITNESS,start_question
+57,229,9,13,Any particular reason you came to the US?,q,MR. LEVY,start_answer
+58,231,9,15,Any particular reason US?,a,THE WITNESS,start_question
+59,232,9,16,Was there any reason you came here specifically?,q,MR. LEVY,start_answer
+60,234,9,18,"Because my siblings were here, so I want to be united with them and I like here.",a,THE WITNESS,start_question
+61,236,9,20,Do you work?,q,MR. LEVY,start_answer
+62,237,9,21,Yes.,a,THE WITNESS,start_question
+63,238,9,22,What do you do?,q,MR. LEVY,start_answer
+64,239,9,23,In a restaurant.,a,THE WITNESS,start_question
+65,240,9,24,What restaurant?,q,MR. LEVY,start_answer
+66,242,10,1,Are you asking me for the name of the restaurant?,a,THE WITNESS,start_question
+67,244,10,3,Yes.,q,MR. LEVY,start_answer
+68,245,10,4,"Okay, it's Golden Fish.",a,THE WITNESS,start_question
+69,246,10,5,What is your job title?,q,MR. LEVY,start_answer
+70,247,10,6,"I'm working the front, helping out and do some part of the kitchen work, as well.",a,THE WITNESS,start_question
+71,249,10,8,How long have you worked there?,q,MR. LEVY,start_answer
+72,250,10,9,"Are you talking about that specific store, the restaurant?",a,THE WITNESS,start_question
+73,252,10,11,Yes.,q,MR. LEVY,start_answer
+74,253,10,12,"Approximately, four years.",a,THE WITNESS,start_question
+75,254,10,13,Does your husband work?,q,MR. LEVY,start_answer
+76,255,10,14,"Yes, my husband, yes.",a,THE WITNESS,start_question
+77,256,10,15,Where does he work?,q,MR. LEVY,start_answer
+78,257,10,16,Same restaurant.,a,THE WITNESS,start_question
+79,258,10,17,What does he do there?,q,MR. LEVY,start_answer
+80,259,10,18,He's a chef in the kitchen.,a,THE WITNESS,start_question
+81,260,10,19,Don't be offended by this question.  I ask it to everybody I take a deposition of. Have you been convicted of or pled guilty to any crimes in the last ten years?,q,MR. LEVY,start_answer
+82,264,10,23,No.,a,THE WITNESS,start_question
+83,265,10,24,I think you showed us a Pennsylvania driver's license earlier?,q,MR. LEVY,start_answer
+84,268,11,2,Yes.,a,THE WITNESS,start_question
+85,269,11,3,When did you first obtain that?,q,MR. LEVY,start_answer
+86,270,11,4,"It's more than ten years, long time ago.",a,THE WITNESS,start_question
+87,272,11,6,Has your license been suspended or revoked in the United States?,q,MR. LEVY,start_answer
+88,274,11,8,No.,a,THE WITNESS,start_question
+89,275,11,9,"Other than this accident we're here to talk about today, which took place on September 15th of 2017, have you been involved in any other car accidents in the last five years?",q,MR. LEVY,start_answer
+90,280,11,14,Yes.,a,THE WITNESS,start_question
+91,281,11,15,How many other car accidents?,q,MR. LEVY,start_answer
+92,282,11,16,Once.,a,THE WITNESS,start_chat
+93,283,11,17,"Do you mean one accident including the accident we're here for today, or one accident in addition to the accident we're here for today?",side_chat,MS. KOSCIELNIAK,start_chat
+94,287,11,21,Are you asking me prior to 2017 or after 2017?,side_chat,THE WITNESS,start_question
+95,290,11,24,Do you remember being involved in the car accident on September 15th of 2017?,q,MR. LEVY,start_answer
+96,293,12,2,"Originally, I did not remember this particular accident, not until I received letter from the attorney's office.  Then I refresh my memory.",a,THE WITNESS,start_question
+97,297,12,6,"Since that car accident occurred, have you been involved in any other car accidents?",q,MR. LEVY,start_answer
+98,299,12,8,"After 2017, right?",a,THE WITNESS,start_question
+99,300,12,9,"After September 15, 2017.",q,MR. LEVY,start_answer
+100,301,12,10,"Yes, once.",a,THE WITNESS,start_question
+101,302,12,11,When did that one occur?,q,MR. LEVY,start_answer
+102,303,12,12,"It's maybe seven, eight months ago.  I don't remember exactly.  Approximately, maybe within a year.",a,THE WITNESS,start_question
+103,306,12,15,"Just generally, how did that happen?",q,MR. LEVY,start_answer
+104,307,12,16,"It was at the crossroad of the traffic light, and I was turning.  Then the car for the opposing lane came over.",a,THE WITNESS,start_question
+105,310,12,19,Do you know what caused that accident?,q,MR. LEVY,start_answer
+106,311,12,20,Are you talking about the new accident or the one happened in 2017?,a,THE WITNESS,start_question
+107,313,12,22,The new one.,q,MR. LEVY,start_answer
+108,314,12,23,"I was making an attempt of turning at the traffic light, and I didn't see the upcoming vehicle.  That's how it happened.",a,THE WITNESS,start_question
+109,318,13,2,You were turning left?,q,MR. LEVY,start_answer
+110,319,13,3,Yes.,a,THE WITNESS,start_question
+111,320,13,4,"Before the September of 2017 accident, had you been in any other car accidents in the five years before that, 2012 to 2017?",q,MR. LEVY,start_answer
+112,323,13,7,Does that include other people that have contact with me?,a,THE WITNESS,start_question
+113,325,13,9,Yes.,q,MR. LEVY,start_answer
+114,326,13,10,"If you want to talk about other people that hit me, then maybe three, four times, yes.  They was other people's fault.",a,THE WITNESS,start_question
+115,329,13,13,Were those all rear-end type accidents?,q,MR. LEVY,start_answer
+116,331,13,15,Are you talking about those accidents that people hit me from behind?,a,THE WITNESS,start_question
+117,333,13,17,"Yes, that's what I'm asking.  You said three or four accidents. Were you hit from behind in all of those?",q,MR. LEVY,start_answer
+118,337,13,21,Yes.,a,THE WITNESS,start_question
+119,338,13,22,Can you read any English?,q,MR. LEVY,start_answer
+120,339,13,23,Not too much.,a,THE WITNESS,start_question
+121,340,13,24,How do you do with traffic signs?,q,MR. LEVY,start_answer
+122,342,14,1,I do know some of the driving signs.,a,THE WITNESS,start_question
+123,343,14,2,Even the ones with words on them?,q,MR. LEVY,start_chat
+124,344,14,3,"I'm just going to object to that question as being overly broad.  I mean, if you want to specify what types of signs you're referring to, but that could really mean a whole lot of things.",side_chat,MS. KOSCIELNIAK,start_question
+125,350,14,9,Do you have any trouble understanding any traffic signs that have words on them?,q,MR. LEVY,start_answer
+126,352,14,11,"No, I won't be able to read it, but I usually go by my memory of those routes that I remember and some of the signs that I can understand.",a,THE WITNESS,start_question
+127,356,14,15,I want to switch gears and talk about the 2017 accident.,q,MR. LEVY,start_answer
+128,358,14,17,Yes.,a,THE WITNESS,start_question
+129,359,14,18,"The date I have is September 15, 2017; is that correct?",q,MR. LEVY,start_answer
+130,361,14,20,Yes.,a,THE WITNESS,start_question
+131,362,14,21,What time of day did the accident occur?,q,MR. LEVY,start_answer
+132,364,14,23,It's around 10:00 in the morning.,a,THE WITNESS,start_question
+133,365,14,24,What was the weather like?,q,MR. LEVY,start_answer
+134,367,15,1,"Just a normal day, not raining.",a,THE WITNESS,start_question
+135,368,15,2,What type of vehicle were you driving?,q,MR. LEVY,start_answer
+136,369,15,3,It's an Audi Q7.,a,THE WITNESS,start_question
+137,370,15,4,Is that an SUV?,q,MR. LEVY,start_answer
+138,371,15,5,Yes.,a,THE WITNESS,start_question
+139,372,15,6,Was anyone in the car with you at the time of the accident?,q,MR. LEVY,start_answer
+140,374,15,8,No.,a,THE WITNESS,start_question
+141,375,15,9,Who was the registered owner of the Audi?,q,MR. LEVY,start_answer
+142,377,15,11,My husband.,a,THE WITNESS,start_question
+143,378,15,12,Was that the car you would typically drive?,q,MR. LEVY,start_answer
+144,380,15,14,"We share it.  We alternate.  Yes, I'm on the insurance.",a,THE WITNESS,start_question
+145,382,15,16,Was it black?,q,MR. LEVY,start_answer
+146,383,15,17,Correct.,a,THE WITNESS,start_question
+147,384,15,18,Did the vehicle have any damage to the outside before the accident happened?,q,MR. LEVY,start_answer
+148,386,15,20,No.,a,THE WITNESS,start_question
+149,387,15,21,It was insured with Progressive?,q,MR. LEVY,start_answer
+150,388,15,22,I don't know the name of the insurance company.  My husband handles all that.,a,THE WITNESS,start_question
+151,390,15,24,Was it registered in Pennsylvania?,q,MR. LEVY,start_answer
+152,392,16,1,Correct.,a,THE WITNESS,start_question
+153,393,16,2,What were you doing that morning?,q,MR. LEVY,start_answer
+154,394,16,3,I was driving back home because the location of where the accident happened that's my home.,a,THE WITNESS,start_chat
+155,397,16,6,Let's take a break for a second.,side_chat,MS. KOSCIELNIAK,symbols
+156,399,16,8,- - -,symbols,,is brackets
+157,400,16,9,"(Whereupon, a break was taken at this time.)",brackets,,symbols
+158,402,16,11,- - -,symbols,,start_chat
+159,403,16,12,"Ma'am, you were asked a question earlier about where your vehicle was registered.  You said it was registered in Pennsylvania. Where was the vehicle registered at the time of the accident?",side_chat,MS. KOSCIELNIAK,start_chat
+160,409,16,18,"Yes, I'm sorry, I forgot to mention earlier because at the time of the accident the vehicle I have was registered in the state of New Jersey. However, in 2018, I got another new vehicle, and that's registered in Pennsylvania.",side_chat,THE WITNESS,start_question
+161,418,17,2,"Thank you for clarifying.  I think I noticed right after I asked you that that the pictures I have show New Jersey license plates, correct?",q,MR. LEVY,start_answer
+162,422,17,6,Yes.,a,THE WITNESS,start_question
+163,423,17,7,"At the time of the accident, I think you mentioned you were on the way home?",q,MR. LEVY,start_answer
+164,425,17,9,Where the accident happened was right across the street from my home.,a,THE WITNESS,start_question
+165,427,17,11,"At the time of the accident, were you coming back home, or were you leaving your home?",q,MR. LEVY,start_answer
+166,430,17,14,"Yes, I was returning home and just parking my car.  Then the vehicle struck me from behind.",a,THE WITNESS,start_question
+167,433,17,17,Where were you coming from?,q,MR. LEVY,start_answer
+168,434,17,18,I was coming from US Route 1.,a,THE WITNESS,start_question
+169,435,17,19,Where had you been earlier?  Were you shopping?  Were you at the restaurant?  Were you somewhere else?,q,MR. LEVY,start_answer
+170,438,17,22,"Well, the original plan was going to shopping, but I cancelled that plan and returning back home.",a,THE WITNESS,start_question
+171,442,18,1,What time did you leave your house that morning?,q,MR. LEVY,start_answer
+172,444,18,3,Around 9:00.,a,THE WITNESS,start_question
+173,445,18,4,"After leaving your house, did you get out of your car at any point?",q,MR. LEVY,start_answer
+174,447,18,6,Are you asking me whether I got out of my car or go shopping?,a,THE WITNESS,start_question
+175,449,18,8,"Yeah, did you actually go anywhere?",q,MR. LEVY,start_answer
+176,450,18,9,"Yes, because I was planning to do some shopping, but then I got out of the car but I didn't go shopping.  I got back in the car and returned home.",a,THE WITNESS,start_question
+177,454,18,13,Where did you plan to shop?,q,MR. LEVY,start_answer
+178,455,18,14,"It's on Roosevelt Boulevard.  There is some shopping centers, so I was planning to get some groceries.",a,THE WITNESS,start_question
+179,458,18,17,Why did you cancel those plans?,q,MR. LEVY,start_answer
+180,459,18,18,Because my husband called me and told me to come back.,a,THE WITNESS,start_question
+181,461,18,20,Did he say why to come back?,q,MR. LEVY,start_answer
+182,462,18,21,"Well, he called me to come back to pick him up; he wants to go together.",a,THE WITNESS,start_question
+183,464,18,23,How many cars did you own at the time of the accident?,q,MR. LEVY,start_answer
+184,467,19,1,Two.,a,THE WITNESS,start_question
+185,468,19,2,Does your house on Hunting Park Avenue have any parking spots?,q,MR. LEVY,start_answer
+186,470,19,4,"No, it's off-street parking.",a,THE WITNESS,start_question
+187,471,19,5,"Generally, how is the parking over there?",q,MR. LEVY,start_answer
+188,473,19,7,It's pretty much all off-street parking.  There is no particular parking spot.,a,THE WITNESS,start_question
+189,476,19,10,Is it usually hard to find a parking spot?  Is there always a spot open? Are you able to give me what it's like to find a spot?,q,MR. LEVY,start_answer
+190,480,19,14,"Sometimes it's easy, but sometimes when it gets to the evening it's not so easy to find a parking spot.",a,THE WITNESS,start_question
+191,483,19,17,What day of the week was this accident?,q,MR. LEVY,start_answer
+192,485,19,19,I really don't recall.,a,THE WITNESS,start_question
+193,486,19,20,Do you know if it was a weekday versus a weekend?,q,MR. LEVY,start_answer
+194,488,19,22,I don't have a clear recollection.,a,THE WITNESS,start_question
+195,489,19,23,"Other than shopping, did you have any set plans that day?",q,MR. LEVY,start_answer
+196,492,20,1,"No, nothing else.",a,THE WITNESS,start_question
+197,493,20,2,Were either you or your husband working that day?,q,MR. LEVY,start_answer
+198,495,20,4,"Yes, I worked that day, but not until 12:00, noon.  I don't have to work until 12:00 or 1:00.",a,THE WITNESS,start_question
+199,498,20,7,How far is work from your home?,q,MR. LEVY,start_answer
+200,499,20,8,"Well, it's the same location.  The street level, the first floor, was where I work, and then we live upstairs.",a,THE WITNESS,start_question
+201,502,20,11,Where was your husband when you initially left to go shopping by yourself?,q,MR. LEVY,start_answer
+202,504,20,13,He was sleeping.,a,THE WITNESS,start_question
+203,505,20,14,How far were you from your house when you got the call from your husband?,q,MR. LEVY,start_answer
+204,507,20,16,15 minutes away from the house.,a,THE WITNESS,start_question
+205,508,20,17,"When he called you and asked you to come back, were you in any kind of rush at that point?",q,MR. LEVY,start_answer
+206,511,20,20,"No, I was just driving as I normally drive returning home.",a,THE WITNESS,start_question
+207,513,20,22,Can you tell me what happened from the time you got the call from your husband?,q,MR. LEVY,start_answer
+208,515,20,24,"Nothing else, just driving back home.",a,THE WITNESS,start_question
+209,517,21,1,Where did the accident take place?,q,MR. LEVY,start_answer
+210,518,21,2,"Well, it was outside my house because I tried to do parallel parking into the parking lot, and then when I was parking this car struck me from the rear.",a,THE WITNESS,start_question
+211,522,21,6,It happened on Hunting Park Avenue?,q,MR. LEVY,start_answer
+212,523,21,7,Yes.,a,THE WITNESS,start_question
+213,524,21,8,Which direction on Hunting Park?,q,MR. LEVY,start_answer
+214,525,21,9,I'm just going home straight this way. I'm not sure what you mean by direction.,a,THE WITNESS,start_question
+215,527,21,11,How long had you been on Hunting Park before the accident occurred?,q,MR. LEVY,start_answer
+216,529,21,13,"Well, from the shopping center and returning to my home, it took me about 15 to 20 minutes.",a,THE WITNESS,start_question
+217,532,21,16,Is most of that drive back on Hunting Park Avenue the whole time?,q,MR. LEVY,start_chat
+218,534,21,18,I'm just going to object to most of. Do you want to put a time on it or ask the question a different way?,side_chat,MS. KOSCIELNIAK,start_question
+219,539,21,23,Can you estimate in distance how long you were on Hunting Park Avenue coming back from shopping?,q,MR. LEVY,start_answer
+220,543,22,2,"I drove on Hunting Park up to my restaurant home about five-minute drive, very close.",a,THE WITNESS,start_question
+221,546,22,5,You would have been going the same direction on Hunting Park that whole time until the accident happened?,q,MR. LEVY,start_answer
+222,549,22,8,Yes.,a,THE WITNESS,start_question
+223,550,22,9,How many lanes is Hunting Park in the direction you were travelling?,q,MR. LEVY,start_answer
+224,552,22,11,"I'm sorry, can you repeat the question one more time.",a,THE WITNESS,start_question
+225,554,22,13,How many lanes of travel are there on Hunting Park the way you were going?,q,MR. LEVY,start_answer
+226,556,22,15,Two.,a,THE WITNESS,start_question
+227,557,22,16,Is it a two-way road with two lanes going each way?,q,MR. LEVY,start_answer
+228,559,22,18,"Yes, two cars can drive in the same direction.  Two car lanes, yes.",a,THE WITNESS,start_chat
+229,561,22,20,"He's asking, though, can cars travel both in your direction of travel and the opposite direction of travel on the same road?",side_chat,MS. KOSCIELNIAK,start_chat
+230,565,22,24,"Yes, correct.",side_chat,THE WITNESS,start_question
+231,568,23,2,"Generally, how were the traffic conditions that morning?",q,MR. LEVY,start_answer
+232,570,23,4,"It's not heavy.  It's just normal, light.",a,THE WITNESS,start_question
+233,572,23,6,Do you remember the last time you had to come to a stop before the accident happened?,q,MR. LEVY,start_answer
+234,575,23,9,"No, I got to my home and want to park and wait for my husband to come out.",a,THE WITNESS,start_question
+235,577,23,11,What was the last intersection you had traveled through before getting to your house area?,q,MR. LEVY,start_answer
+236,580,23,14,"I'm sorry, can you ask the question one more time.",a,THE WITNESS,start_question
+237,582,23,16,Had you recently crossed through an intersection before getting to your house?,q,MR. LEVY,start_answer
+238,584,23,18,No.,a,THE WITNESS,start_question
+239,585,23,19,What's the speed limit on Hunting Park?,q,MR. LEVY,start_answer
+240,587,23,21,"I think approximately 35, 40, approximately.  I'm not certain.",a,THE WITNESS,start_question
+241,589,23,23,"As you were approaching the area where you live, how fast were you traveling?",q,MR. LEVY,start_answer
+242,592,24,1,"I wasn't even 25, very slow.  25, 30, not even.",a,THE WITNESS,start_question
+243,594,24,3,"Let's say in that last block of travel as you're getting towards your house, were there any other cars in the immediate area going the same direction as you?",q,MR. LEVY,start_answer
+244,598,24,7,"I don't really look and think about that, no.",a,THE WITNESS,start_question
+245,600,24,9,"Before getting there, did you have a plan about how you were going to pick up your husband?",q,MR. LEVY,start_answer
+246,603,24,12,"No, I don't need a specific plan because he knows that I will be home.  I just want to get to my house, park my car, and wait for him to come out.  That's all.",a,THE WITNESS,start_question
+247,607,24,16,"Before getting there, where did you want to park your car?",q,MR. LEVY,start_answer
+248,609,24,18,Off the street.,a,THE WITNESS,start_question
+249,610,24,19,Was there any thought about which side you were going to park on?,q,MR. LEVY,start_answer
+250,612,24,21,"Well, where my restaurant was, that side.",a,THE WITNESS,start_question
+251,614,24,23,Is that the side where the accident happened?,q,MR. LEVY,start_answer
+252,617,25,1,"Yes, where I wanted to park.",a,THE WITNESS,start_question
+253,618,25,2,Did the accident happen on the same side of the road that the restaurant is on?,q,MR. LEVY,start_answer
+254,620,25,4,"No, the restaurant is across the street.  I was on the opposite side of the restaurant.",a,THE WITNESS,start_question
+255,623,25,7,Why were you on the opposite side of the restaurant?,q,MR. LEVY,start_answer
+256,625,25,9,"Because I was coming home, so that's where I was planning to wait for him.",a,THE WITNESS,start_question
+257,627,25,11,You were always planning to wait on the opposite side?,q,MR. LEVY,start_answer
+258,629,25,13,"Yes, that's correct.  I wanted to park and wait for him.",a,THE WITNESS,start_question
+259,631,25,15,Was your plan to park in an actual parking spot?,q,MR. LEVY,start_answer
+260,633,25,17,Yes.,a,THE WITNESS,start_question
+261,634,25,18,"As you were approaching the area, which lane were you in?",q,MR. LEVY,start_answer
+262,636,25,20,"Well, the inside lane where I can park.",a,THE WITNESS,start_question
+263,638,25,22,The right lane?,q,MR. LEVY,start_answer
+264,639,25,23,"Yes, because I'm on the inside lane, and that's where I wanted to park on the street.",a,THE WITNESS,start_question
+265,643,26,2,How long had you been in that lane before the accident happened?,q,MR. LEVY,start_answer
+266,645,26,4,Can you say that again?  I'm not sure.,a,THE WITNESS,start_question
+267,646,26,5,How long had you been traveling in the inside lane?,q,MR. LEVY,start_answer
+268,648,26,7,"Not long, maybe four or five minutes, if I recall correctly.",a,THE WITNESS,start_question
+269,650,26,9,"At some point, did you notice a parking spot that was empty on the right side?",q,MR. LEVY,start_answer
+270,653,26,12,"Yes, because I saw a spot, so I decided to reverse back in to park.",a,THE WITNESS,start_question
+271,655,26,14,Tell me everything that happened once you noticed the spot.,q,MR. LEVY,start_answer
+272,657,26,16,"Yes, I saw the parking.  I was in the middle of my parking, and all I can remember there was a vehicle with a high speed and struck me from behind, very strong impact, high speed.",a,THE WITNESS,start_question
+273,662,26,21,Was your vehicle moving backwards at the point of impact?,q,MR. LEVY,start_answer
+274,664,26,23,"Yes, I was in a state of reversing into the parking spot.",a,THE WITNESS,start_question
+275,667,27,1,How far backwards had you moved?,q,MR. LEVY,start_answer
+276,668,27,2,Not too long.  I just started to reverse back in a little bit in there.,a,THE WITNESS,start_question
+277,670,27,4,Can you estimate in distance how far you had moved going backwards?,q,MR. LEVY,start_chat
+278,672,27,6,Do you mean in the spot or reversing?  It's not clear if you mean reversing down the street or into the spot.,side_chat,MS. KOSCIELNIAK,start_chat
+279,676,27,10,Reversing.,side_chat,MR. LEVY,start_question
+280,678,27,12,What distance did your vehicle move while in reverse?,q,MR. LEVY,start_chat
+281,680,27,14,I think the question is clear.,side_chat,MR. LEVY,start_chat
+282,682,27,16,You can answer if you understand.,side_chat,MS. KOSCIELNIAK,start_chat
+283,684,27,18,"If she doesn't understand, she can let me know.",side_chat,MR. LEVY,start_chat
+284,686,27,20,"My vehicle was not all in the parking spot.  I was planning to reverse in.  I just started backing in, and this car viciously slam into my vehicle very hard.",side_chat,THE WITNESS,start_question
+285,693,28,2,"My question is just in terms of distance. Was it a few feet, or if it's easier in car lengths, how far did your vehicle moved backwards?",q,MR. LEVY,start_answer
+286,698,28,7,You're asking me how much I reverse in the parking?,a,THE WITNESS,start_question
+287,700,28,9,Exactly.,q,MR. LEVY,start_answer
+288,701,28,10,"I don't get into the parking spot yet, but I was in the process of that.  I was planning to reverse back in.",a,THE WITNESS,start_question
+289,704,28,13,Had you moved more or less than five feet?,q,MR. LEVY,start_answer
+290,706,28,15,Are you talking about did you move five feet into the spot?,a,THE WITNESS,start_question
+291,708,28,17,"From the very first time you put your car into the reverse gear, how far did you travel?",q,MR. LEVY,start_answer
+292,711,28,20,"Not much because I reverse slowly, and he just slammed into my car.  I was reversing, pause, reversing, like stop, pause, and reversing, that kind of state.",a,THE WITNESS,start_question
+293,715,28,24,How many times had you reversed and paused?,q,MR. LEVY,start_answer
+294,718,29,2,"Not long.  I don't remember, because during the course I tried to park, the other vehicle just slam into my vehicle.",a,THE WITNESS,start_question
+295,721,29,5,"When the impact happened, was your vehicle straight, or had you turned and actually started moving into the spot at all?",q,MR. LEVY,start_answer
+296,724,29,8,"No, I'm in the state of going like this and that, trying to park.  I don't tilt it into the spot yet.  My car wasn't tilted.",a,THE WITNESS,start_question
+297,727,29,11,It wasn't tilted at all?,q,MR. LEVY,start_answer
+298,728,29,12,But it's moving.  You can tell she probably didn't pay attention.,a,THE WITNESS,start_question
+299,730,29,14,Where was your vehicle compared to the empty spot when you first noticed the empty spot?,q,MR. LEVY,start_answer
+300,733,29,17,I was a little before the empty spot so I can back up.,a,THE WITNESS,start_question
+301,735,29,19,"When you first noticed it, that's where you were?",q,MR. LEVY,start_answer
+302,737,29,21,"Yes, because I was in the parking state position.",a,THE WITNESS,start_question
+303,739,29,23,"When you first slowed down to try to begin going towards the empty spot, were there any vehicles directly behind you?",q,MR. LEVY,start_answer
+304,743,30,2,"If I remember correctly, I didn't see any car close behind.  He was pretty far away, but he was in a high speed and slam into my car.",a,THE WITNESS,start_question
+305,747,30,6,Did you ever put on a turn signal?,q,MR. LEVY,start_answer
+306,748,30,7,"Of course, it was on, yes.",a,THE WITNESS,start_question
+307,749,30,8,What type of signal did you put on?,q,MR. LEVY,start_answer
+308,750,30,9,"My turning signal, parking.",a,THE WITNESS,start_question
+309,751,30,10,A right turn signal?  A left turn signal?  Flashers?,q,MR. LEVY,start_answer
+310,753,30,12,"Yes, on the right side.",a,THE WITNESS,start_question
+311,754,30,13,"A right turn signal, correct?",q,MR. LEVY,start_answer
+312,755,30,14,"Yes, correct, yes.",a,THE WITNESS,start_question
+313,756,30,15,When did you first put that on?,q,MR. LEVY,start_answer
+314,757,30,16,The time when I started to park I put that on.,a,THE WITNESS,start_question
+315,759,30,18,Did you put that on before you started slowing down?,q,MR. LEVY,start_answer
+316,761,30,20,"When I saw the parking spot, I start to put my signal on.",a,THE WITNESS,start_question
+317,763,30,22,When was the very first time you saw the car that hit you?,q,MR. LEVY,start_answer
+318,765,30,24,"Well, I was there in my position of parking and I don't know and he just rushed from behind.",a,THE WITNESS,start_question
+319,769,31,3,Did you ever actually see the car with your eyes before feeling an impact?,q,MR. LEVY,start_answer
+320,771,31,5,I don't see any car immediately behind.  He's far away.,a,THE WITNESS,start_question
+321,773,31,7,My question is just what type of vehicle hit your vehicle.,q,MR. LEVY,start_answer
+322,775,31,9,I don't remember what kind of car it was.  Maybe it was a cream color.  I don't remember.,a,THE WITNESS,start_question
+323,778,31,12,"Do you know if it was a sedan or a big SUV or truck, medium-sized car?",q,MR. LEVY,start_answer
+324,780,31,14,I don't recall.  I don't remember.,a,THE WITNESS,start_question
+325,781,31,15,Where were you looking when you felt the impact?,q,MR. LEVY,start_answer
+326,783,31,17,"When the impact happened, I was parking.  Then after it, I felt the impact and looked in the mirror and, oh, my God, the guy hit me.",a,THE WITNESS,start_question
+327,787,31,21,Which direction were your eyes facing right before you felt the impact?,q,MR. LEVY,start_answer
+328,789,31,23,"Well, I just tried to park.",a,THE WITNESS,start_question
+329,790,31,24,"Ma'am, that's not my question.  My question is very specific. Were where you actually looking right before the impact happened?",q,MR. LEVY,start_answer
+330,795,32,4,Looking in the front because I wanted to move back in and look in the front.  I wanted to park.,a,THE WITNESS,start_question
+331,798,32,7,Could you see the vehicle that hit you right before it hit you?,q,MR. LEVY,start_answer
+332,800,32,9,"No, because I was looking in the front, because where I was sitting in my car parked, I didn't see his car.  I didn't see there is a car behind.",a,THE WITNESS,start_question
+333,804,32,13,I thought you told me before your car was moving backwards at the time of the impact?,q,MR. LEVY,start_answer
+334,807,32,16,"Yes, because I was planning to park, and meantime I'm looking in the front at the mirror.  I didn't see any vehicle coming up.",a,THE WITNESS,start_question
+335,810,32,19,"At the actual moment where you felt the impact, was your vehicle moving backwards at that time?",q,MR. LEVY,start_answer
+336,813,32,22,"No, my car was on, but I was in a state of trying to park, like move a little bit and pause, that kind of state.",a,THE WITNESS,start_chat
+337,817,33,1,"He wants to know was your car in reverse, in drive, or were you parked or something else when the actual impact occurred.",side_chat,MS. KOSCIELNIAK,start_chat
+338,821,33,5,"Yes, it was in reverse, and then I reverse and pause, reverse and pause.",side_chat,THE WITNESS,start_question
+339,825,33,9,"When the actual impact happened, what pedal is your foot on?",q,MR. LEVY,start_answer
+340,827,33,11,"My foot was on the brake, kind of hold it a little bit.",a,THE WITNESS,start_question
+341,829,33,13,"As the impact was just about to happen, could you see in your rear-view mirror?",q,MR. LEVY,start_chat
+342,832,33,16,"Are you asking her if it was possible she was looking, or was she actually looking?",side_chat,MS. KOSCIELNIAK,start_chat
+343,835,33,19,Was she actually looking.,side_chat,MR. LEVY,start_chat
+344,837,33,21,"Yes, before that, yes.  I look in the mirror.  I didn't see any car.  Prior to the incident happen, I look in the mirror.  I didn't see any car.",side_chat,THE WITNESS,start_question
+345,843,34,2,Did you ever see the car that hit you before the impact?,q,MR. LEVY,start_answer
+346,845,34,4,"No, I did not.",a,THE WITNESS,start_question
+347,846,34,5,Do you have any idea the speed of that vehicle?,q,MR. LEVY,start_answer
+348,848,34,7,"I can tell you he's in a hard speed, very, very.  I felt that he didn't even realize my car was there and just very hard.",a,THE WITNESS,start_question
+349,851,34,10,Is that based solely on what the force of the impact felt like?,q,MR. LEVY,start_answer
+350,853,34,12,Yes.,a,THE WITNESS,start_question
+351,854,34,13,We can agree it was a very hard impact?,q,MR. LEVY,start_answer
+352,856,34,15,"Yes, he slammed into my car.",a,THE WITNESS,start_question
+353,857,34,16,What was the point of impact on your vehicle?,q,MR. LEVY,start_answer
+354,859,34,18,On the side of my rear part.,a,THE WITNESS,start_question
+355,860,34,19,Do you have any idea which lane that vehicle was in leading up to the accident?,q,MR. LEVY,start_chat
+356,862,34,21,Do you have any idea which vehicle?,side_chat,THE INTERPRETER,start_chat
+357,864,34,23,The striking vehicle.,side_chat,MR. LEVY,start_chat
+358,865,34,24,"I think that he's on the same lane where I was, and after the impact, his car was kind of just facing the other side.",side_chat,THE WITNESS,start_question
+359,871,35,5,How did your car move as a result of the impact?,q,MR. LEVY,start_answer
+360,873,35,7,"Same spot where I was, and he was hitting it towards the outside.",a,THE WITNESS,start_question
+361,875,35,9,Did your car get pushed forward at all?,q,MR. LEVY,start_answer
+362,877,35,11,"I think that maybe I'd been pushed forward just a little bit, but I was trying to park.  His car was pretty hard coming from behind.",a,THE WITNESS,start_question
+363,881,35,15,"Did you have any warning that an impact was about to occur, such as a honking horn or screeching tires?",q,MR. LEVY,start_answer
+364,884,35,18,"No, none of that stuff.",a,THE WITNESS,start_question
+365,885,35,19,How did your body move during the impact?,q,MR. LEVY,start_answer
+366,887,35,21,I shook up like that.,a,THE WITNESS,start_question
+367,888,35,22,Did you hit anything inside of the car?,q,MR. LEVY,start_answer
+368,890,35,24,"No, I didn't, no.",a,THE WITNESS,start_question
+369,892,36,1,Were you injured in this accident?,q,MR. LEVY,start_answer
+370,893,36,2,No.,a,THE WITNESS,start_question
+371,894,36,3,Did you ever go to a hospital to get checked out or anything like that?,q,MR. LEVY,start_answer
+372,896,36,5,No.,a,THE WITNESS,start_question
+373,897,36,6,Were there any witnesses to the accident?,q,MR. LEVY,start_answer
+374,899,36,8,I don't think so.  I don't think any witness.,a,THE WITNESS,start_question
+375,901,36,10,What happened right after?,q,MR. LEVY,start_answer
+376,902,36,11,I think that after the accident he called the police and the cop came over and took the report.,a,THE WITNESS,start_question
+377,905,36,14,Did your husband come out?,q,MR. LEVY,start_answer
+378,906,36,15,"Yes, he came out.",a,THE WITNESS,start_question
+379,907,36,16,Did he see the accident?,q,MR. LEVY,start_answer
+380,908,36,17,"No, he did not.",a,THE WITNESS,start_question
+381,909,36,18,Did he say whether he heard the accident?,q,MR. LEVY,start_answer
+382,911,36,20,"No, he was inside the house.",a,THE WITNESS,start_question
+383,912,36,21,How did he learn of the accident?,q,MR. LEVY,start_answer
+384,913,36,22,"Well, after the accident happened, he was ready to come out, so he saw my car outside.",a,THE WITNESS,start_question
+385,917,37,1,Did you have a phone with you in the car?,q,MR. LEVY,start_answer
+386,919,37,3,"Yes, I have phone in my car, but I did not make a phone call.",a,THE WITNESS,start_question
+387,921,37,5,"When you called your husband or when he called you rather, were you driving when you took that call?",q,MR. LEVY,start_answer
+388,924,37,8,"No.  When my husband called me, I was planning to shop.  Then he called, so I told him I will be back in about 20 minutes.",a,THE WITNESS,start_question
+389,927,37,11,Do you have any type of hands-free or bluetooth system in the car?,q,MR. LEVY,start_answer
+390,929,37,13,"No, I don't have none of that stuff.",a,THE WITNESS,start_question
+391,930,37,14,Did you call your husband to tell him you were getting close?,q,MR. LEVY,start_answer
+392,932,37,16,"No, because I know how much time it's going to take him to get ready.  So I was going to call him after I parked the car and let him know that I'm here.",a,THE WITNESS,start_question
+393,936,37,20,You hadn't done that yet when the accident took place?,q,MR. LEVY,start_answer
+394,938,37,22,"That's correct, no.",a,THE WITNESS,start_question
+395,939,37,23,Who was your phone service provider at the time of the accident?,q,MR. LEVY,start_answer
+396,942,38,1,I don't know because my husband and son took care of all that stuff.,a,THE WITNESS,start_question
+397,944,38,3,What was your phone number at the time of the accident?,q,MR. LEVY,start_answer
+398,946,38,5,(215)410-0375.,a,THE WITNESS,start_question
+399,947,38,6,Has that changed since the accident?,q,MR. LEVY,start_answer
+400,948,38,7,No.,a,THE WITNESS,start_question
+401,949,38,8,Has your phone service provider changed since the accident?,q,MR. LEVY,start_answer
+402,951,38,10,I don't know.  I'm not sure.  Probably they did.  My son took care of all that stuff.,a,THE WITNESS,start_question
+403,954,38,13,What's your son's name?,q,MR. LEVY,start_answer
+404,955,38,14,"Jason Zheng, Z-H-E-N-G.",a,THE WITNESS,start_question
+405,956,38,15,Does he live with you?,q,MR. LEVY,start_answer
+406,957,38,16,Yes.,a,THE WITNESS,start_question
+407,958,38,17,"Other than police and your husband, did anyone else come to the area where the cars were after?",q,MR. LEVY,start_answer
+408,961,38,20,"No, I don't pay attention to that.",a,THE WITNESS,start_question
+409,962,38,21,How many people were in the other car?,q,MR. LEVY,start_answer
+410,963,38,22,Two women.,a,THE WITNESS,start_question
+411,964,38,23,Did you speak to either of them?,q,MR. LEVY,start_answer
+412,965,38,24,"Well, because I don't speak English, I couldn't communicate, didn't say anything with them, no.",a,THE WITNESS,start_question
+413,969,39,3,What were they doing after the accident took place?,q,MR. LEVY,start_answer
+414,971,39,5,Can you repeat that?  I felt that after the accident they were getting out of the car and cursing.,a,THE WITNESS,start_question
+415,974,39,8,"My question is, what did you observe them doing?",q,MR. LEVY,start_answer
+416,976,39,10,"I don't understand what they were saying, but I know they were angry.  They were cursing and yelling.  As soon as we got out of the car, they were cursing and got angry.",a,THE WITNESS,start_question
+417,981,39,15,How long did it take for the police to arrive?,q,MR. LEVY,start_answer
+418,983,39,17,"Not long.  Maybe between five to ten minutes, not long.",a,THE WITNESS,start_question
+419,985,39,19,Did the police speak to you at all?,q,MR. LEVY,start_answer
+420,986,39,20,"They did.  The cop did speak to me, but I didn't understand what they say.  So all I remember is they want my insurance information, my license and all that.",a,THE WITNESS,start_question
+421,990,39,24,"At any point, did you say anything to the police officers about how the accident happened?",q,MR. LEVY,start_answer
+422,994,40,3,"Because my language barrier, I'm not sure.  I give a description to the police officer.  I just did the best I can to give the depiction, but I don't think I say that much because my language barrier.  I provided the information that they asked for.",a,THE WITNESS,start_question
+423,1000,40,9,"The police officer wrote down in the police report, referring to your vehicle, unit 2, that you stated you were parked with your hazard lights on the in the right lane?",q,MR. LEVY,start_answer
+424,1004,40,13,"No, it's not true.  It's a reverse light.  It was a turning light.",a,THE WITNESS,start_question
+425,1006,40,15,"Just to be clear, you never told that to them?",q,MR. LEVY,start_answer
+426,1008,40,17,No.,a,THE WITNESS,start_question
+427,1009,40,18,Did tow trucks come to the scene?,q,MR. LEVY,start_answer
+428,1010,40,19,"Towed their vehicle, right?",a,THE WITNESS,start_question
+429,1011,40,20,I don't know.  I'm asking you.,q,MR. LEVY,start_answer
+430,1012,40,21,"I didn't see any tow truck because I saw these two women.  They were outside, and the cop came and took the report.  I didn't think it was going to be that serious, so I didn't think too much about the other stuff.",a,THE WITNESS,start_question
+431,1018,41,2,Did you take any pictures at the scene?,q,MR. LEVY,start_answer
+432,1020,41,4,No.,a,THE WITNESS,start_question
+433,1021,41,5,"I have some pictures I want to show you.  I'm going to show your attorney first. These will be D-1, D-2, D-3.",q,MR. LEVY,start_answer
+434,1024,41,8,What do you want me to do with these?,a,THE WITNESS,start_question
+435,1025,41,9,"First, just take a look at each one, and then I'll ask you some questions.",q,MR. LEVY,start_answer
+436,1027,41,11,"Yes, that's the damage.  That's exactly what I told you earlier.  That is where my car got hit.  That's the damage for my vehicle in the rear.",a,THE WITNESS,start_chat
+437,1031,41,15,Indicating D-3.,side_chat,MS. KOSCIELNIAK,start_question
+438,1033,41,17,Do all three of these pictures show the vehicle you were driving at the time of the accident?,q,MR. LEVY,start_answer
+439,1036,41,20,I didn't take any pictures myself. Maybe my husband took them.,a,THE WITNESS,start_question
+440,1038,41,22,These may have been taken by my client.,q,MR. LEVY,start_answer
+441,1040,41,24,Okay.,a,THE WITNESS,start_question
+442,1042,42,1,But I just want to confirm that that is the car that you were operating at the time of the accident?,q,MR. LEVY,start_answer
+443,1045,42,4,Yes.,a,THE WITNESS,start_question
+444,1046,42,5,"In all three of those pictures, correct?",q,MR. LEVY,start_answer
+445,1048,42,7,"Correct, yes.",a,THE WITNESS,start_question
+446,1049,42,8,Do these accurately show your vehicle in the condition it was in right after the accident occurred?,q,MR. LEVY,start_chat
+447,1052,42,11,I'm going to object. Are you asking her whether the pictures depict the property damage sustained to the vehicle after the accident?,side_chat,MS. KOSCIELNIAK,start_chat
+448,1057,42,16,I'm just asking if these pictures show the vehicle right after the accident.,side_chat,MR. LEVY,start_chat
+449,1060,42,19,"He wants to know, in all three of these pictures, is this what your car looked like after the accident occurred?",side_chat,MS. KOSCIELNIAK,start_chat
+450,1064,42,23,"Yes, that's where I tried to park, correct.",side_chat,THE WITNESS,start_question
+451,1068,43,2,"Stick with D-1 for right now, this picture. Where your Audi is in that picture, is that where it was when you were hit?",q,MR. LEVY,start_answer
+452,1072,43,6,"I'm not sure.  I'm not sure whether -- I don't remember whether this was exactly the position my car was at at the time of the accident.  I'm not sure if it was moved forward a little bit or backwards a little bit, but I was in the state of trying to park.  That's all I can tell you.",a,THE WITNESS,start_question
+453,1079,43,13,"After the impact occurred, did you ever move your vehicle?",q,MR. LEVY,start_answer
+454,1081,43,15,I don't know.  I don't remember exactly because my foot was on the brake when it happened.  I'm not sure if my car was pushed forward or if I moved my car.  I don't remember now.,a,THE WITNESS,start_question
+455,1086,43,20,Do you remember pulling it over before the police arrived?,q,MR. LEVY,start_answer
+456,1088,43,22,"I don't think I moved too far.  Maybe just a little bit.  Anyway, it was right within the area of where the accident actually happened.  I didn't think I moved too much.",a,THE WITNESS,start_question
+457,1094,44,3,"This picture is close to where the accident happened, correct?",q,MR. LEVY,start_chat
+458,1096,44,5,I'm going to object to that question.  My client testified she does not know who took this photograph or when it was taken.,side_chat,MS. KOSCIELNIAK,start_chat
+459,1100,44,9,"Yeah, but she can see the photograph and compare.  She knows where the accident happened, and she can see in this picture where it is. I'm just asking her to compare those two.  I didn't ask where the actual person was when they took it.",side_chat,MR. LEVY,start_chat
+460,1107,44,16,Do you understand the question?,side_chat,MS. KOSCIELNIAK,start_chat
+461,1109,44,18,"Yes, I understand the question.  I think he's trying to ask me whether my car moved.  Yes, because my foot was on the brake.",side_chat,THE WITNESS,start_question
+462,1114,44,23,Did you ever have to give a statement to your insurance company after the accident that they told you would be recorded?,q,MR. LEVY,start_answer
+463,1118,45,2,"No, I don't think it was a recorded statement.  They just asked me how it happened.  I give them the description.",a,THE WITNESS,start_question
+464,1121,45,5,Did you have an interpreter for that?,q,MR. LEVY,start_answer
+465,1122,45,6,"Yes, they have interpreters.  Yes, that's what the interpreter told the insurance agent.",a,THE WITNESS,start_question
+466,1125,45,9,Was your vehicle repaired after the accident?,q,MR. LEVY,start_answer
+467,1127,45,11,Yes.,a,THE WITNESS,start_question
+468,1128,45,12,Do you know how much that cost?,q,MR. LEVY,start_answer
+469,1129,45,13,I don't know the cost because my husband took care of all that.,a,THE WITNESS,start_question
+470,1131,45,15,Do you know if there was any damage to your vehicle that we can't see in these photographs?,q,MR. LEVY,start_answer
+471,1134,45,18,"I don't think so, no.  I don't know. I don't remember all that.",a,THE WITNESS,start_question
+472,1136,45,20,Does your husband speak English?,q,MR. LEVY,start_answer
+473,1137,45,21,No.,a,THE WITNESS,start_question
+474,1138,45,22,Did any other family members of yours come out to the accident scene?,q,MR. LEVY,start_answer
+475,1140,45,24,Just my husband and me.  That's all.,a,THE WITNESS,start_question
+476,1142,46,1,Did he speak to either of the people in the other car?,q,MR. LEVY,start_answer
+477,1144,46,3,"No, he didn't talk to them.  He just give the police the identification documents to let the police handle everything.",a,THE WITNESS,start_chat
+478,1147,46,6,Can we take a break for a second.,side_chat,MS. KOSCIELNIAK,symbols
+479,1149,46,8,- - -,symbols,,is brackets
+480,1150,46,9,"(Whereupon, a break was taken at this time.)",brackets,,symbols
+481,1152,46,11,- - -,symbols,,start_chat
+482,1153,46,12,"Earlier, counsel asked you if any other family members came to the scene of the accident other than your husband. Did anyone else come to the scene?",side_chat,MS. KOSCIELNIAK,start_chat
+483,1159,46,18,"Yes, I'm sorry, it was my husband.  He probably called my son to come to the scene.",side_chat,THE WITNESS,start_question
+484,1163,46,22,Does your son speak English?,q,MR. LEVY,start_answer
+485,1164,46,23,Yes.,a,THE WITNESS,start_question
+486,1165,46,24,Did you see him speaking to anyone at the scene?,q,MR. LEVY,start_answer
+487,1168,47,2,I don't know.  I wasn't paying too much attention.  I don't know.  I'm not so certain because I think my son just looked at the damage on my car.  Maybe he spoke to the cop briefly.  I'm not sure.,a,THE WITNESS,start_question
+488,1173,47,7,Did he speak to the other driver?,q,MR. LEVY,start_answer
+489,1174,47,8,"I don't know, no.  I didn't pay attention to that.",a,THE WITNESS,start_question
+490,1176,47,10,Did you see how the other driver left the scene of the accident?,q,MR. LEVY,start_answer
+491,1178,47,12,"Like I said, I didn't pay attention. I think maybe the cop took the report, and then they just left.",a,THE WITNESS,start_question
+492,1181,47,15,Have you seen or spoken to them since the day of the accident?,q,MR. LEVY,start_answer
+493,1183,47,17,"No, I don't think so, no.  I don't remember that.  All I remember is they were very vicious, and they were cursing, yelling and very bad attitude.",a,THE WITNESS,start_question
+494,1187,47,21,Do you remember anything specific they said?,q,MR. LEVY,start_answer
+495,1189,47,23,"Well, I didn't understand the words, but I can tell from expression, the way they were acting.",a,THE WITNESS,start_question
+496,1193,48,2,"Specifically, the driver of the vehicle, how was that person moving at the scene of the accident?",q,MR. LEVY,start_answer
+497,1196,48,5,"My impression was, even if I don't understand English, I can tell they got out of the car and were cursing, yelling.  They were just very, very bad.  The whole time nonstop cursing, and they were just standing there cursing and yelling.  I didn't see any visible injury.",a,THE WITNESS,start_question
+498,1203,48,12,"It was two people, you said?",q,MR. LEVY,start_answer
+499,1204,48,13,"Yes, two women.",a,THE WITNESS,start_question
+500,1205,48,14,They were both behaving as you described?,q,MR. LEVY,start_answer
+501,1207,48,16,"Well, the impression I have was they're looking at me very mean and cursing and very not friendly at all.  I never seen any injuries visible that I can observe.",a,THE WITNESS,start_chat
+502,1211,48,20,I don't have any further questions.,side_chat,MR. LEVY,symbols
+503,1213,48,22,- - -,symbols,,is brackets
+504,1214,48,23,"(Whereupon, the deposition concluded at 12:27 p.m.)",brackets,,symbols
+505,1217,49,1,"- - - C E R T I F I C A T E I hereby certify that the proceedings, evidence and objections noted are contained fully and accurately in the notes taken by me on this hearing of the above-captioned case on September 4, 2019, and that this is a correct transcription of same.",symbols,,end

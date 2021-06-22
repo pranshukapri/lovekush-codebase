@@ -1,0 +1,300 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows ....,,,symbols
+1,69,4,14,- - - EXAMINATION,symbols,,symbols
+2,71,4,16,- - -,symbols,,start_question
+3,73,4,18,"Mr. Spohn, my name is Bruce Hess. I represent the Plaintiff in a case that he brought against you for injuries resulting from a motor vehicle accident on December 30th, 2016 on Route 309 around Quakertown.  I'm going to ask you a series of questions that pertain to this case. Have you ever testified before in court or at a deposition?",q,MR. HESS,start_answer
+4,84,5,4,No.,a,THE WITNESS,start_question
+5,85,5,5,"All right.  There's several rules I want you to follow during the course of your deposition.  I don't anticipate we'll be here long. First of all, obviously, tell the truth.  Number two, this is done on a question and answer basis, so I ask a question, you give an answer.  I ask a question, you give an answer.  Try and wait for me to finish my question before you answer, and I will try and wait for you to finish your answer before I ask another question.  In other words, the court reporter can't take down both of us talking at the same time. If you do not understand a question, please ask me to rephrase it, and I'll be happy to do that.  If you answer a question, I will assume that you understood the question.  If a question calls for a yes or no answer, say ""yes"" or say ""no."" Don't shake or nod your head. If at any time you want to take a break, talk to your lawyer, use the bathroom, whatever.  That's perfectly okay. Just let me know.  Okay?",q,MR. HESS,start_answer
+6,112,6,7,Okay.,a,THE WITNESS,start_question
+7,113,6,8,"Lastly, is there any reason that you can't testify truthfully or honestly today because of illness, medication or otherwise?",q,MR. HESS,start_answer
+8,117,6,12,No.,a,THE WITNESS,start_question
+9,118,6,13,"State your full name, please.",q,MR. HESS,start_answer
+10,119,6,14,David Matthew Spohn.,a,THE WITNESS,start_question
+11,120,6,15,And where do you live at the present time?,q,MR. HESS,start_answer
+12,122,6,17,"308 Ashford Lane in Hereford, PA.",a,THE WITNESS,start_question
+13,124,6,19,And how long have you lived there?,q,MR. HESS,start_answer
+14,126,6,21,I will be there approximately 12 years.,a,THE WITNESS,start_question
+15,128,6,23,What is your marital status?,q,MR. HESS,start_answer
+16,129,6,24,I'm married.,a,THE WITNESS,start_question
+17,131,7,1,Do you live with your wife at that address?,q,MR. HESS,start_answer
+18,133,7,3,Yes.,a,THE WITNESS,start_question
+19,134,7,4,Do you have children?,q,MR. HESS,start_answer
+20,135,7,5,"Yes, but they don't live with me. They're older.",a,THE WITNESS,start_question
+21,137,7,7,Are you employed at the present time?,q,MR. HESS,start_answer
+22,139,7,9,Yes.,a,THE WITNESS,start_question
+23,140,7,10,And what do you do for a living?,q,MR. HESS,start_answer
+24,141,7,11,I am a welder fabricator.,a,THE WITNESS,start_question
+25,142,7,12,And what's the name of your employer?,q,MR. HESS,start_answer
+26,144,7,14,J & T Technologies.,a,THE WITNESS,start_question
+27,145,7,15,And what's the location that you work at?,q,MR. HESS,start_answer
+28,147,7,17,"In Pottstown, Pennsylvania.",a,THE WITNESS,start_question
+29,148,7,18,How long have you been employed by them?,q,MR. HESS,start_answer
+30,150,7,20,A little bit more than 12-and-a-half years.  It will be 13 years in November.,a,THE WITNESS,start_question
+31,153,7,23,What's your date of birth?,q,MR. HESS,start_answer
+32,154,7,24,"September 26th, 1965.",a,THE WITNESS,start_question
+33,156,8,1,Do you have a valid driver's license?,q,MR. HESS,start_answer
+34,158,8,3,Yes.,a,THE WITNESS,start_question
+35,159,8,4,And how long have you been licensed driver in Pennsylvania?,q,MR. HESS,start_answer
+36,161,8,6,"Since the age of 17, so I'm 53. I'm trying to do the math.",a,THE WITNESS,start_question
+37,163,8,8,Are there any restrictions on your driver's license?,q,MR. HESS,start_answer
+38,165,8,10,No.,a,THE WITNESS,start_question
+39,166,8,11,Has your driver's license ever been suspended or revoked for any reason?,q,MR. HESS,start_answer
+40,168,8,13,No.,a,THE WITNESS,start_question
+41,169,8,14,Do you wear glasses to read or drive?,q,MR. HESS,start_answer
+42,171,8,16,"To read, yes.  To drive, no.",a,THE WITNESS,start_question
+43,172,8,17,Okay.  The vehicle you were operating at the time of this accident was a 2016 Dodge Dart; is that correct?,q,MR. HESS,start_answer
+44,175,8,20,Yes.,a,THE WITNESS,start_question
+45,176,8,21,And were you the owner of that vehicle?,q,MR. HESS,start_answer
+46,178,8,23,Yes.,a,THE WITNESS,start_question
+47,179,8,24,And how long had you owned that vehicle?,q,MR. HESS,start_answer
+48,182,9,2,"Actually, at that time, it was six months.",a,THE WITNESS,start_question
+49,184,9,4,"And would you agree with me that the accident involving the Plaintiff and you happened on December 30th, 2016 at about 12:56 p.m.?",q,MR. HESS,start_answer
+50,188,9,8,Yeah.  Yes.,a,THE WITNESS,start_question
+51,189,9,9,"And would you agree that the accident happened on 309 southbound just north of Station Road in Quakertown, PA?",q,MR. HESS,start_answer
+52,192,9,12,"Yes.  I'm not sure of the cross street, but yeah.",a,THE WITNESS,start_question
+53,194,9,14,Okay.  Do you recall what the weather was like at the time?,q,MR. HESS,start_answer
+54,196,9,16,"I know it was cold.  No snow, no rain.  Sunny, probably.",a,THE WITNESS,start_question
+55,198,9,18,"As I recall, this happened on a Friday; do you recall that sitting here today?",q,MR. HESS,start_answer
+56,201,9,21,"I believe it was a Friday, yes.",a,THE WITNESS,start_question
+57,202,9,22,Had you or did you work that day?,q,MR. HESS,start_answer
+58,204,9,24,I did in the morning.,a,THE WITNESS,start_question
+59,206,10,1,And what hours did you work that day?,q,MR. HESS,start_answer
+60,208,10,3,From 7:00 a.m. to 11:00 a.m.,a,THE WITNESS,start_question
+61,209,10,4,"And at 11:00 a.m., you were done working for the rest of the day?",q,MR. HESS,start_answer
+62,211,10,6,Yes.,a,THE WITNESS,start_question
+63,212,10,7,"And was that a normal shift, to work four hours?",q,MR. HESS,start_answer
+64,214,10,9,"No.  It was an early day for the holiday, the upcoming holiday.",a,THE WITNESS,start_question
+65,216,10,11,So you worked in Pottstown that morning?,q,MR. HESS,start_answer
+66,218,10,13,Yes.,a,THE WITNESS,start_question
+67,219,10,14,And what did you do from there?,q,MR. HESS,start_answer
+68,220,10,15,"I left my employer.  I went to a financial institution in Quakertown where I have a loan, and then I was heading to Telford to look for another job at the time.  I didn't realize they closed early that day, and proceeded to head back to my residence when the accident occurred.",a,THE WITNESS,start_question
+69,227,10,22,"How far did you live from the location where the accident happened, approximately, either in my miles or travel time?",q,MR. HESS,start_answer
+70,232,11,2,I don't know.,a,THE WITNESS,start_question
+71,233,11,3,"I mean, were you 10 minutes away, 15 minutes away?",q,MR. HESS,start_answer
+72,235,11,5,"If I have to make an approximation, probably 20 minutes maybe.",a,THE WITNESS,start_question
+73,237,11,7,"Okay.  So at the time of the accident, you were heading home?",q,MR. HESS,start_answer
+74,239,11,9,Yes.,a,THE WITNESS,start_question
+75,240,11,10,"Now, at the time of the accident, were you familiar with the location where the accident happened, and I mean Route 309, in that vicinity?",q,MR. HESS,start_answer
+76,244,11,14,"Not really.  I wasn't, no.",a,THE WITNESS,start_question
+77,245,11,15,"And what do you mean by ""not really?""",q,MR. HESS,start_answer
+78,247,11,17,"I traveled through that area before not knowing that -- like, I don't know it to the best of my knowledge.",a,THE WITNESS,start_question
+79,250,11,20,"I mean, had you ever proceeded southbound on 309 where this accident happened before the day of the accident?",q,MR. HESS,start_answer
+80,253,11,23,Yes.,a,THE WITNESS,start_question
+81,254,11,24,Okay.  And do you recall how many times?,q,MR. HESS,start_answer
+82,257,12,2,Not many.,a,THE WITNESS,start_question
+83,258,12,3,Do you remember the last time before the accident?,q,MR. HESS,start_answer
+84,260,12,5,"Wow.  Maybe a year or two before then, that portion of 309.",a,THE WITNESS,start_question
+85,262,12,7,"Where this accident happened with the Plaintiff, were you familiar with how many lanes there were on Route 309?",q,MR. HESS,start_answer
+86,265,12,10,"When the accident occurred, I was not familiar with the third lane where the accident happened, which was the turn lane.",a,THE WITNESS,start_question
+87,269,12,14,"Now, the intersecting road south of where the accident happened was called Station Road.  Do you know how far that was, Station Road, from where the impact of the accident happened?",q,MR. HESS,start_answer
+88,274,12,19,I don't.  I know I could see the traffic light.,a,THE WITNESS,start_question
+89,276,12,21,"Okay.  And it was controlled by traffic lights, that intersection?",q,MR. HESS,start_answer
+90,278,12,23,Yes.,a,THE WITNESS,start_question
+91,279,12,24,"Now, it's my understanding you were exiting a parking lot at the time of the accident --",q,MR. HESS,start_answer
+92,283,13,3,Yes.,a,THE WITNESS,start_question
+93,284,13,4,-- is that correct? Had you ever exited that parking lot before the date of this accident?,q,MR. HESS,start_answer
+94,287,13,7,No.,a,THE WITNESS,start_question
+95,288,13,8,And what were you doing in that parking lot?,q,MR. HESS,start_answer
+96,290,13,10,"Turning around from heading to Telford.  I realized that the place was closed, where I was going, so I turned in that parking lot to do a U-turn and come out.  And I was in the lot, and it was congested traffic, so when they had stopped me, I came across the two lanes not realizing a third lane was there when he hit me.",a,THE WITNESS,start_question
+97,299,13,19,Did you stop at a store that was in that parking lot --,q,MR. HESS,start_answer
+98,301,13,21,No.,a,THE WITNESS,start_question
+99,302,13,22,-- for any reason?,q,MR. HESS,start_answer
+100,303,13,23,No.,a,THE WITNESS,start_question
+101,304,13,24,And I understand there's a Peruzzi's in that vicinity; is that correct?,q,MR. HESS,start_answer
+102,308,14,3,I think.  It sounds familiar.,a,THE WITNESS,start_question
+103,309,14,4,And there's an adult store there.  You didn't stop at either of those stores?,q,MR. HESS,start_answer
+104,312,14,7,"No, I didn't.",a,THE WITNESS,start_question
+105,313,14,8,So you didn't get out of your car in that parking lot; you were just turning around?,q,MR. HESS,start_answer
+106,316,14,11,Yes.,a,THE WITNESS,start_question
+107,317,14,12,"And it was your intention on exiting that parking lot to cross the southbound lanes of Route 309, and turn left on northbound 309; is that correct?",q,MR. HESS,start_answer
+108,321,14,16,That's correct.  Yes.,a,THE WITNESS,start_question
+109,322,14,17,Okay.,q,MR. HESS,start_chat
+110,323,14,18,Mark these as Spohn-1 and 2.,side_chat,MR. HESS,is brackets
+111,325,14,20,(Documents were marked for identification as Deposition Exhibit Spohn No. 1 and Spohn No. 2.),brackets,,symbols
+112,329,14,24,- - -,symbols,,start_question
+113,332,15,2,"Mr. Spohn, I'm showing you two photographs -- one is an aerial photograph, and the other is a ground photograph -- and ask if you're familiar with what these photographs show?  And they're marked Spohn-1 and Spohn-2.",q,MR. HESS,start_answer
+114,338,15,8,No.  I'm not familiar with them.,a,THE WITNESS,start_question
+115,339,15,9,"On Spohn-2, there shows an Adult World sign there.  Does that refresh your memory as to what this is a photograph of?",q,MR. HESS,start_answer
+116,343,15,13,That's the parking lot I turned around in.,a,THE WITNESS,start_question
+117,345,15,15,"Okay.  Are you able, looking at either photograph, to mark where you exited from the parking lot in an effort to cross the southbound lanes?",q,MR. HESS,start_answer
+118,349,15,19,Probably right around here (indicating).,a,THE WITNESS,start_question
+119,351,15,21,Can you put an X there?,q,MR. HESS,start_answer
+120,352,15,22,(The witness complies.),a,THE WITNESS,start_chat
+121,353,15,23,"So, the Defendant has put an ""X"" on a driveway which exits the parking lot which he was exiting at the time of the accident.",side_chat,MR. HESS,start_question
+122,360,16,5,Do either of these photographs show where the impact with the Plaintiff's car occurred?,q,MR. HESS,start_answer
+123,363,16,8,In this turn lane (indicating).,a,THE WITNESS,start_question
+124,364,16,9,"Okay.  Can you, on Spohn-2, give me -- draw a line showing the path of travel of your car before impact?",q,MR. HESS,start_answer
+125,367,16,12,"Do you want me to, like, put an arrow?",a,THE WITNESS,start_question
+126,369,16,14,Yeah.  Yeah.  Just draw a line with an arrow.,q,MR. HESS,start_answer
+127,371,16,16,(The witness complies.),a,THE WITNESS,start_question
+128,372,16,17,So that line you've drawn across Spohn-2 indicates your path of travel up until the time of impact; is that correct?,q,MR. HESS,start_answer
+129,376,16,21,Yes.,a,THE WITNESS,start_question
+130,377,16,22,"Now, this photograph shows two lanes of travel, two southbound lanes that you crossed, correct?",q,MR. HESS,start_answer
+131,381,17,1,Yes.,a,THE WITNESS,start_question
+132,382,17,2,"And the impact happened in the left-hand turn lane for Route 309 south, correct?",q,MR. HESS,start_answer
+133,385,17,5,That's correct.,a,THE WITNESS,start_question
+134,386,17,6,Do you see these double lines here that separate southbound and northbound traffic?,q,MR. HESS,start_answer
+135,389,17,9,Yes.,a,THE WITNESS,start_question
+136,390,17,10,Did you see those lines before the impact that day?,q,MR. HESS,start_answer
+137,392,17,12,Can you rephrase the question?,a,THE WITNESS,start_question
+138,393,17,13,Yeah.  Sure. Would you agree with me that these two lines shown in Spohn-2 separate northbound traffic from southbound traffic?,q,MR. HESS,start_answer
+139,398,17,18,Yes.,a,THE WITNESS,start_question
+140,399,17,19,Do you recall seeing those two lines that day before the accident happened?,q,MR. HESS,start_answer
+141,402,17,22,Yes.,a,THE WITNESS,start_question
+142,403,17,23,"All right.  And when did you first see those double yellow lines?  Was is it before the impact, or was it after?",q,MR. HESS,start_answer
+143,407,18,2,It was before.,a,THE WITNESS,start_question
+144,408,18,3,And how much sooner -- how much prior to the accident did you see those -- or let me rephrase it. Where was your car when you first noticed those yellow lines?,q,MR. HESS,start_answer
+145,413,18,8,"I was here in the lot (indicating).  The traffic was congested. They had -- these two lanes of traffic had stopped, and they -- both lanes had waived me to come out that it was okay.  And when I came across this lane of traffic, I saw this yellow line proceeded into this lane in front of him.",a,THE WITNESS,start_question
+146,421,18,16,"All right.  So before you crossed the two lanes, the two through lanes, for southbound traffic, is it your testimony that you saw this double yellow line?",q,MR. HESS,start_answer
+147,425,18,20,I saw the yellow line when I cleared these two lanes of traffic and as soon as I entered into that turn lane.,a,THE WITNESS,start_question
+148,428,18,23,I'm sorry.  Maybe I'm not phrasing it right.  Where was your car the first time that you saw these double yellow lines; where was it that day?,q,MR. HESS,start_answer
+149,433,19,3,"Probably in this lane here (indicating), the two second passing lane.  Yeah, the second lane of traffic here.",a,THE WITNESS,start_question
+150,437,19,7,The second through lane?,q,MR. HESS,start_answer
+151,438,19,8,Yes.,a,THE WITNESS,start_question
+152,439,19,9,"All right.  And when you saw those double yellow lines, did that indicate to you that there was actually another turning lane for southbound traffic?",q,MR. HESS,start_answer
+153,443,19,13,No.,a,THE WITNESS,start_question
+154,444,19,14,And why not?,q,MR. HESS,start_answer
+155,445,19,15,I don't understand what you mean.,a,THE WITNESS,start_question
+156,447,19,17,"When you saw these double yellow lines, didn't that indicate to you that that separated southbound from northbound traffic?",q,MR. HESS,start_answer
+157,451,19,21,I don't -- I was unaware that there was a turn lane there when I came out.,a,THE WITNESS,start_question
+158,454,19,24,"Okay.  Before you attempted to cross the southbound lanes of Route 309, how would you describe traffic on 309 at that time?  In other words, was it light, moderate or heavy?",q,MR. HESS,start_answer
+159,460,20,5,Very congested.  Very heavy.,a,THE WITNESS,start_question
+160,461,20,6,"When did you first notice, if at all, the color of the traffic light at the intersection with Station Road?  Was that before you exited the parking lot or after?",q,MR. HESS,start_answer
+161,466,20,11,I didn't notice the color of the traffic light.,a,THE WITNESS,start_question
+162,468,20,13,"Okay.  Just before you exited the parking lot, had the traffic in front of you for southbound 309 stopped?",q,MR. HESS,start_answer
+163,471,20,16,"They had stopped and gave me an opening to come out, and when I proceeded through, I went into the turn lane where he hit me.",a,THE WITNESS,start_question
+164,475,20,20,And the opening was created by vehicles in both of the through lanes?,q,MR. HESS,start_answer
+165,477,20,22,Correct.  Yup.,a,THE WITNESS,start_question
+166,478,20,23,Did anybody wave you on to cross in front of them?,q,MR. HESS,start_answer
+167,481,21,1,Both drivers in both lanes did.,a,THE WITNESS,start_question
+168,482,21,2,With a hand gesture?,q,MR. HESS,start_answer
+169,483,21,3,Yes.,a,THE WITNESS,start_question
+170,484,21,4,Were there any vehicles stopped behind them at that time?,q,MR. HESS,start_answer
+171,486,21,6,Yes.,a,THE WITNESS,start_question
+172,487,21,7,"In what you now know as the left-hand turn lane as shown in those photos, did you see any vehicles moving in that lane before you started to cross?",q,MR. HESS,start_answer
+173,491,21,11,I didn't.,a,THE WITNESS,start_question
+174,492,21,12,It's my understanding the collision happened in the left-turn lane on southbound 309; is that correct?,q,MR. HESS,start_answer
+175,495,21,15,Yes.,a,THE WITNESS,start_question
+176,496,21,16,Do you know what your speed was at the time of impact?,q,MR. HESS,start_answer
+177,498,21,18,I don't recall.,a,THE WITNESS,start_question
+178,499,21,19,Do you know if your foot was on the gas or on the brake petal at the time of the impact?,q,MR. HESS,start_answer
+179,502,21,22,"I was on the gas, but it wasn't -- I don't know my speed.",a,THE WITNESS,start_question
+180,504,21,24,Do you know if your vehicle was accelerating at the time of the impact?,q,MR. HESS,start_answer
+181,507,22,2,I'm going to say yes.,a,THE WITNESS,start_question
+182,508,22,3,"Before you started to exit the parking lot until the time of impact, at any time did you look to your right or to your left?",q,MR. HESS,start_answer
+183,512,22,7,"I looked to my right, I looked to my left, and then I looked back to my right and proceeded out.",a,THE WITNESS,start_question
+184,515,22,10,"So you looked to your right, your left and your right before you started to exit the parking lot?",q,MR. HESS,start_answer
+185,518,22,13,"I looked to my right, I looked to my left, and I pulled out.  And I looked to my right and proceeded across the two lanes, and didn't look to my left.  And got into the lane, and he was there.",a,THE WITNESS,start_question
+186,523,22,18,Okay.  So you looked to your left once before you started to exit --,q,MR. HESS,start_answer
+187,525,22,20,Yes.,a,THE WITNESS,start_question
+188,526,22,21,"-- the parking lot; and then after you exited the parking lot, you looked to your right, but not to your left again?",q,MR. HESS,start_answer
+189,531,23,1,Correct.,a,THE WITNESS,start_question
+190,532,23,2,Did you ever see the Plaintiff's vehicle before impact?,q,MR. HESS,start_answer
+191,534,23,4,I did not.,a,THE WITNESS,start_question
+192,535,23,5,"All right.  At the time of the accident, were you aware of the speed limit for 309 at that location?",q,MR. HESS,start_answer
+193,538,23,8,Yes.,a,THE WITNESS,start_question
+194,539,23,9,And what was it?,q,MR. HESS,start_answer
+195,540,23,10,"40, I believe.  It was no more than 40, I believe.",a,THE WITNESS,start_question
+196,542,23,12,"Once you had crossed the two through lanes on 309 southbound, were you then in the process of turning left when the impact happened?",q,MR. HESS,start_answer
+197,546,23,16,"Was I in the process of turning? Uh, I think I was going more straight to turn left.",a,THE WITNESS,start_question
+198,549,23,19,"Well, once you had crossed those two through lanes, you now assumed that your vehicle was in the northbound lane, correct?",q,MR. HESS,start_answer
+199,553,23,23,I don't understand how -- can you rephrase it?,a,THE WITNESS,start_question
+200,556,24,1,"Well, you thought that there were only two lanes southbound --",q,MR. HESS,start_answer
+201,558,24,3,Correct.,a,THE WITNESS,start_question
+202,559,24,4,"-- at that location at the time of the accident, correct?",q,MR. HESS,start_answer
+203,561,24,6,Yes.,a,THE WITNESS,start_question
+204,562,24,7,"So once your vehicle entered the third lane, I assume that you thought you were now entering the northbound --",q,MR. HESS,start_answer
+205,565,24,10,Yes.,a,THE WITNESS,start_question
+206,566,24,11,Okay.  Where were you looking at the time of the accident?,q,MR. HESS,start_answer
+207,568,24,13,Straight into the northbound lane to make my turn.,a,THE WITNESS,start_question
+208,570,24,15,You were looking straight ahead?,q,MR. HESS,start_answer
+209,571,24,16,Yes.,a,THE WITNESS,start_question
+210,572,24,17,"Your headlights, were they on or off; do you recall?",q,MR. HESS,start_answer
+211,574,24,19,I don't recall.,a,THE WITNESS,start_question
+212,575,24,20,"Your vehicle, when you start it up, do the headlights just go on automatically?  Did you have it set that way?",q,MR. HESS,start_answer
+213,579,24,24,No.,a,THE WITNESS,start_question
+214,581,25,1,You did not?,q,MR. HESS,start_answer
+215,582,25,2,"No, I did not.",a,THE WITNESS,start_question
+216,583,25,3,"Okay.  When you were crossing the southbound lanes of 309 in order to turn left, did you consider that action dangerous?",q,MR. HESS,start_answer
+217,587,25,7,"Yes, I did.",a,THE WITNESS,start_question
+218,588,25,8,And why was that?,q,MR. HESS,start_answer
+219,589,25,9,Because of the heavy volume of traffic.,a,THE WITNESS,start_question
+220,591,25,11,Did you know if it was illegal to do what you were doing?,q,MR. HESS,start_answer
+221,593,25,13,"No, I did not.",a,THE WITNESS,start_question
+222,594,25,14,Okay.,q,MR. HESS,start_chat
+223,595,25,15,START mark that 3 and 4.,side_chat,MR. HESS,is brackets
+224,597,25,17,(Documents were marked for identification as Deposition Exhibit Spohn No. 3 and Spohn No. 4.),brackets,,symbols
+225,601,25,21,- - -,symbols,,start_question
+226,603,25,23,"Mr. Spohn, I'm showing you two photographs marked as Spohn-3 and Spohn-4.  They show two different vehicles. Can you identify either one of those vehicles?",q,MR. HESS,start_answer
+227,609,26,4,Yes.  Number 3 is my vehicle.,a,THE WITNESS,start_question
+228,610,26,5,And does Number 3 show the damage that was caused by the accident with the Plaintiff?,q,MR. HESS,start_answer
+229,613,26,8,"Yes, it does.",a,THE WITNESS,start_question
+230,614,26,9,"And that damage, it looks like it's confined to the driver's side front?",q,MR. HESS,start_answer
+231,616,26,11,Yes.,a,THE WITNESS,start_question
+232,617,26,12,Okay.  Can you identify what is shown in Spohn-4 at all?,q,MR. HESS,start_answer
+233,619,26,14,I believe it's the Plaintiff's vehicle.,a,THE WITNESS,start_question
+234,621,26,16,Did you have an opportunity to look at the damage to his vehicle after the accident?,q,MR. HESS,start_answer
+235,624,26,19,I did not.,a,THE WITNESS,start_question
+236,625,26,20,Did you have a cell phone with you at the time of the accident?,q,MR. HESS,start_answer
+237,627,26,22,I did.,a,THE WITNESS,start_question
+238,628,26,23,Were you using your cell phone for any purpose at the time of the accident?,q,MR. HESS,start_answer
+239,632,27,2,I was not.,a,THE WITNESS,start_question
+240,633,27,3,Where was the cell phone located in the vehicle at the time of the accident?,q,MR. HESS,start_answer
+241,636,27,6,It was in my console.,a,THE WITNESS,start_question
+242,637,27,7,Describe what happened at the scene after the accident occurred.,q,MR. HESS,start_answer
+243,639,27,9,"I had gotten out of my vehicle.  I had checked the damage on my vehicle. There was, I believe, a volunteer firefighter that had gotten there, like, right away.  He had stopped all traffic and notified the police, and then I proceeded over to the Plaintiff's vehicle and walked back to my car.",a,THE WITNESS,start_question
+244,647,27,17,And then what happened?,q,MR. HESS,start_answer
+245,648,27,18,"Then I was just waiting for the arriving of the police.  And I had made a phone call to my wife at the time letting her know that I was involved in an accident and was going to have to find a ride to get her home from work, because she doesn't have a driver's license, and waited until the police arrived.",a,THE WITNESS,start_question
+246,657,28,2,Were you injured in this accident?,q,MR. HESS,start_answer
+247,659,28,4,I was not.,a,THE WITNESS,start_question
+248,660,28,5,Did you have an opportunity to speak to the Plaintiff at the scene of the accident?,q,MR. HESS,start_answer
+249,663,28,8,"No, I didn't.",a,THE WITNESS,start_question
+250,664,28,9,Did you make any observations about him at the scene of the accident?,q,MR. HESS,start_answer
+251,666,28,11,"I didn't, no.  I did not.",a,THE WITNESS,start_question
+252,667,28,12,"Did you see him get out of the vehicle or stay in the vehicle, or --",q,MR. HESS,start_answer
+253,669,28,14,I didn't see him get out of the vehicle.,a,THE WITNESS,start_question
+254,671,28,16,Did an ambulance ever arrive at the scene?,q,MR. HESS,start_answer
+255,673,28,18,"Yes, it did.",a,THE WITNESS,start_question
+256,674,28,19,And did they take the Plaintiff?,q,MR. HESS,start_answer
+257,675,28,20,I'm assuming they did.,a,THE WITNESS,start_question
+258,676,28,21,All right.  And was your vehicle towed from the scene?,q,MR. HESS,start_answer
+259,678,28,23,Yes.,a,THE WITNESS,start_question
+260,679,28,24,And was it totaled as a result of the accident?,q,MR. HESS,start_answer
+261,682,29,2,Could you say that again?,a,THE WITNESS,start_question
+262,683,29,3,Was your vehicle totaled as a result of the accident?,q,MR. HESS,start_answer
+263,685,29,5,"No, it wasn't.",a,THE WITNESS,start_question
+264,686,29,6,Okay.  So it was repaired?,q,MR. HESS,start_answer
+265,687,29,7,Yes.,a,THE WITNESS,start_question
+266,688,29,8,"Did you talk to anybody at the scene of the accident other than, perhaps, the police?",q,MR. HESS,start_answer
+267,691,29,11,Just the volunteer firefighter that arrive shortly after the accident happened.,a,THE WITNESS,start_question
+268,694,29,14,And what did you talk to him about?,q,MR. HESS,start_answer
+269,696,29,16,"I just told him that it was my fault, and I had come out across the two lanes into the Plaintiff's path.  And then waited until the police arrived, and gave my statement to them.",a,THE WITNESS,start_question
+270,701,29,21,Okay.  Were you given any traffic ticket as a result of this accident?,q,MR. HESS,start_answer
+271,704,29,24,No.,a,THE WITNESS,start_question
+272,706,30,1,Okay.,q,MR. HESS,start_chat
+273,707,30,2,Mark this as 5.,side_chat,MR. HESS,is brackets
+274,708,30,3,(Document was marked for identification as Deposition Exhibit Spohn No. 5.),brackets,,symbols
+275,711,30,6,- - -,symbols,,start_question
+276,713,30,8,"Mr. Spohn, do you recall giving a recorded statement to your insurance company after the accident?",q,MR. HESS,start_answer
+277,716,30,11,I don't recall.,a,THE WITNESS,start_question
+278,717,30,12,"I want to show you what's been marked Spohn-5.  They have you down as David ""Stone"" because it sounded like David Stone.  But I want you to take the opportunity to read through this, and then I'll be done.",q,MR. HESS,start_answer
+279,723,30,18,(The witness complies.),a,THE WITNESS,is brackets
+280,724,30,19,(Reviewing document.),brackets,,symbols
+281,725,30,20,- - -,symbols,,start_question
+282,727,30,22,"So, Mr. Spohn, I've given you what's been marked as Spohn-5, and it is a transcribed statement given by a person identified as Dave Stone.  Do you recognize that as your statement to Progressive?",q,MR. HESS,start_answer
+283,734,31,4,Yes.,a,THE WITNESS,start_question
+284,735,31,5,"Is there anything in that statement, having read it just now, that is inaccurate or that needs to be corrected or amended?",q,MR. HESS,start_answer
+285,739,31,9,"Well, other than my last name, it has ""Colt's Auto Body.""  It was actually Kulp's Auto Body.  Other than that, everything looks like -- everything looks in order otherwise other than that.",a,THE WITNESS,start_question
+286,744,31,14,"So other than those two corrections, everything is accurate?",q,MR. HESS,start_answer
+287,746,31,16,Yes.,a,THE WITNESS,start_chat
+288,747,31,17,Thank you. That's all I have auto.,side_chat,MR. HESS,start_chat
+289,749,31,19,I have no questions.  Thank you.,side_chat,MR. LAVIN,start_chat
+290,751,31,21,Thanks for your time.,side_chat,MR. HESS,start_chat
+291,753,31,23,Thank you.,side_chat,THE WITNESS,symbols
+292,754,31,24,- - -,symbols,,is brackets
+293,756,32,1,(Witness excused.),brackets,,symbols
+294,757,32,2,- - -,symbols,,is brackets
+295,758,32,3,(Deposition concluded at 2:30 p.m.),brackets,,symbols
+296,759,32,4,"- - - C E R T I F I C A T I O N I, Maria Rousakis, hereby certify that the foregoing is a true and correct transcript of the proceedings held in this matter as transcribed from the stenographic notes taken by me on Tuesday, August 20, 2019. Maria Rousakis",symbols,,is brackets
+297,802,33,20,"(This certification does not transcript, unless under the certifying reporter.)",brackets,,symbols
+298,808,33,24,- - -,symbols,,end

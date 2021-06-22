@@ -1,0 +1,882 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,90,4,11,*  *  * EXAMINATION,symbols,,symbols
+2,92,4,13,*  *,symbols,,start_question
+3,94,4,15,Good morning.,q,MR. TROZZOLILLO,start_answer
+4,95,4,16,Hello.,a,THE WITNESS,start_question
+5,96,4,17,"My name is Anthony Trozzolillo and I represent Horace Mann in the lawsuit that your daughter's brought.  Could you state your full name, please?",q,MR. TROZZOLILLO,start_answer
+6,100,4,21,Danielle Jean Minalda.,a,THE WITNESS,start_question
+7,101,4,22,Minalda?,q,MR. TROZZOLILLO,start_answer
+8,102,4,23,Minalda.,a,THE WITNESS,start_question
+9,103,4,24,"Minalda.  I'm going to ask you some questions today about that lawsuit that's pending against -- the client I represent is Horace Mann.  Just a few guidelines before we start.  It's important that you give verbal answers to my questions.  So if you just say uh-huh or huh-uh, I'm going to follow up with, is that a yes or is that a no because the court reporter's taking everything down so that we can read it later on, okay?",q,MR. TROZZOLILLO,start_answer
+10,112,5,7,Okay.,a,THE WITNESS,start_question
+11,113,5,8,"And you and I can't speak at the same time. So you might anticipate what my question's going to be before I finish it.  Let me finish it.  And by the same token, if you haven't finished your answer, let me know so I don't cut in and cut you off before you're done, okay?",q,MR. TROZZOLILLO,start_answer
+12,119,5,14,Okay.,a,THE WITNESS,start_question
+13,120,5,15,"If you don't hear a question, I can repeat it.  If you don't understand a question, I can rephrase it.  And if you answer a question, I'm going to assume that you heard it, you understood it and you're giving me your best answer, all right?",q,MR. TROZZOLILLO,start_answer
+14,125,5,20,Okay.,a,THE WITNESS,start_question
+15,126,5,21,"And finally, if you need a break to confer with your attorney, let me know and we can accommodate that, okay?",q,MR. TROZZOLILLO,start_answer
+16,129,5,24,Okay.,a,THE WITNESS,start_question
+17,130,5,25,What is your current address?,q,MR. TROZZOLILLO,start_answer
+18,132,6,1,"884 Barnesville Drive, Barnesville, Pennsylvania, 18214.",a,THE WITNESS,start_question
+19,134,6,3,And anyone reside there with you?,q,MR. TROZZOLILLO,start_answer
+20,135,6,4,Yes.,a,THE WITNESS,start_question
+21,136,6,5,Who?,q,MR. TROZZOLILLO,start_answer
+22,137,6,6,My fiance.,a,THE WITNESS,start_question
+23,138,6,7,What's his name?,q,MR. TROZZOLILLO,start_answer
+24,139,6,8,William Fritzinger.,a,THE WITNESS,start_question
+25,140,6,9,William what?,q,MR. TROZZOLILLO,start_answer
+26,141,6,10,"Fritzinger, F-R-I-T-Z-I-N-G-E-R.  And my two daughters Destiny Fertig and Madison Minalda.",a,THE WITNESS,start_question
+27,143,6,12,Did you reside at that address back in August of 2014?,q,MR. TROZZOLILLO,start_answer
+28,145,6,14,Yes.,a,THE WITNESS,start_question
+29,146,6,15,And who resided with you back then?,q,MR. TROZZOLILLO,start_answer
+30,147,6,16,The same people listed.,a,THE WITNESS,start_question
+31,148,6,17,Same?,q,MR. TROZZOLILLO,start_answer
+32,149,6,18,Yes.,a,THE WITNESS,start_question
+33,150,6,19,"Has -- Destiny, has she always resided with you?",q,MR. TROZZOLILLO,start_answer
+34,152,6,21,Yes.,a,THE WITNESS,start_question
+35,153,6,22,And what's your age and date of birth?,q,MR. TROZZOLILLO,start_answer
+36,154,6,23,Forty.  And my date of birth is 7-8-79.,a,THE WITNESS,start_question
+37,155,6,24,What's the highest grade you completed?,q,MR. TROZZOLILLO,start_answer
+38,156,6,25,Twelfth.,a,THE WITNESS,start_question
+39,158,7,1,Twelfth.  Where at?,q,MR. TROZZOLILLO,start_answer
+40,159,7,2,North Schuylkill Junior/Senior High School.,a,THE WITNESS,start_question
+41,160,7,3,And what year?,q,MR. TROZZOLILLO,start_answer
+42,161,7,4,1997.,a,THE WITNESS,start_question
+43,162,7,5,Have you ever been married?,q,MR. TROZZOLILLO,start_answer
+44,163,7,6,Yes.,a,THE WITNESS,start_question
+45,164,7,7,Who were you married to?,q,MR. TROZZOLILLO,start_answer
+46,165,7,8,Matthew Minalda.,a,THE WITNESS,start_question
+47,166,7,9,And what period of time were you married to him?,q,MR. TROZZOLILLO,start_answer
+48,168,7,11,2003 to 2013.,a,THE WITNESS,start_question
+49,169,7,12,And you said Destiny currently resides with you?,q,MR. TROZZOLILLO,start_answer
+50,171,7,14,Yes.,a,THE WITNESS,start_question
+51,172,7,15,Did she ever reside with her father?,q,MR. TROZZOLILLO,start_answer
+52,173,7,16,Yes.,a,THE WITNESS,start_question
+53,174,7,17,Over what period of time?,q,MR. TROZZOLILLO,start_answer
+54,175,7,18,We had joint custody.,a,THE WITNESS,start_question
+55,176,7,19,Over what period of time was that?,q,MR. TROZZOLILLO,start_answer
+56,177,7,20,I'm unsure of the exact dates.,a,THE WITNESS,start_question
+57,178,7,21,Can you estimate?,q,MR. TROZZOLILLO,start_answer
+58,179,7,22,Maybe 2011 to 2014.,a,THE WITNESS,start_question
+59,180,7,23,"And when you say ""joint custody,"" you had custody a few days a week and he had custody a few days a week?",q,MR. TROZZOLILLO,start_answer
+60,184,8,1,Yes.,a,THE WITNESS,start_question
+61,185,8,2,Are you currently employed?,q,MR. TROZZOLILLO,start_answer
+62,186,8,3,Yes.,a,THE WITNESS,start_question
+63,187,8,4,Where?,q,MR. TROZZOLILLO,start_answer
+64,188,8,5,Lehigh Valley Health Network East.,a,THE WITNESS,start_question
+65,189,8,6,How long have you been there?,q,MR. TROZZOLILLO,start_answer
+66,190,8,7,Nineteen-years-five-months.,a,THE WITNESS,start_question
+67,191,8,8,And what do you do there?,q,MR. TROZZOLILLO,start_answer
+68,192,8,9,Senior laboratory technical assistant.,a,THE WITNESS,start_question
+69,193,8,10,What do you do as a senior lab technical assistant?,q,MR. TROZZOLILLO,start_answer
+70,195,8,12,Analyze medical and legal blood work for testing.,a,THE WITNESS,start_question
+71,197,8,14,"When you say ""legal blood work,"" what do you mean?",q,MR. TROZZOLILLO,start_answer
+72,199,8,16,Like DUIs.,a,THE WITNESS,start_question
+73,200,8,17,Oh.  Did you have to undergo any sort of training or certification to do this job?,q,MR. TROZZOLILLO,start_answer
+74,202,8,19,Yes.,a,THE WITNESS,start_question
+75,203,8,20,What did that entail?,q,MR. TROZZOLILLO,start_answer
+76,204,8,21,I went to Schuylkill Training & Technology.,a,THE WITNESS,start_question
+77,205,8,22,Was that part of your high school program?,q,MR. TROZZOLILLO,start_answer
+78,206,8,23,"No, it was after that.",a,THE WITNESS,start_question
+79,207,8,24,It was after high school?,q,MR. TROZZOLILLO,start_answer
+80,208,8,25,Uh-huh.,a,THE WITNESS,start_question
+81,210,9,1,Say that again.,q,MR. TROZZOLILLO,start_answer
+82,211,9,2,Schuylkill Training & Technology Center.,a,THE WITNESS,start_question
+83,212,9,3,And what years was that?,q,MR. TROZZOLILLO,start_answer
+84,213,9,4,2004.,a,THE WITNESS,start_question
+85,214,9,5,How long was that?,q,MR. TROZZOLILLO,start_answer
+86,215,9,6,One year.,a,THE WITNESS,start_question
+87,216,9,7,Do you remember when you first became an insured of Horace Mann?,q,MR. TROZZOLILLO,start_answer
+88,218,9,9,I'm not sure of the exact year.,a,THE WITNESS,start_question
+89,219,9,10,"If your application indicates September 14th of 2012, does that sound right or do you have any reason to disagree with that?",q,MR. TROZZOLILLO,start_answer
+90,222,9,13,Yes.,a,THE WITNESS,start_question
+91,223,9,14,"Yes, you --",q,MR. TROZZOLILLO,start_answer
+92,224,9,15,I have a reason to disagree with that.,a,THE WITNESS,start_question
+93,225,9,16,Okay.  Why is that?,q,MR. TROZZOLILLO,start_answer
+94,226,9,17,I had insurance previous with Horace Mann.,a,THE WITNESS,start_question
+95,227,9,18,Do you remember when?,q,MR. TROZZOLILLO,start_answer
+96,228,9,19,I'm not sure of the exact year.,a,THE WITNESS,start_question
+97,229,9,20,And where were you living at the time?,q,MR. TROZZOLILLO,start_answer
+98,230,9,21,717 West Spruce Street.,a,THE WITNESS,start_question
+99,231,9,22,In Barnesville?,q,MR. TROZZOLILLO,start_answer
+100,232,9,23,Mahanoy City.,a,THE WITNESS,start_question
+101,233,9,24,I'm sorry?,q,MR. TROZZOLILLO,start_answer
+102,234,9,25,Mahanoy City.,a,THE WITNESS,start_question
+103,236,10,1,And can you give me an estimate when you think you had Horace Mann?,q,MR. TROZZOLILLO,start_answer
+104,238,10,3,2004 would be an estimate.,a,THE WITNESS,start_question
+105,239,10,4,And did you have it continuously or did you leave and then come back to it?,q,MR. TROZZOLILLO,start_answer
+106,241,10,6,I left and came back.,a,THE WITNESS,start_question
+107,242,10,7,Do you remember approximately when you left?,q,MR. TROZZOLILLO,start_answer
+108,243,10,8,"If I had to guess, maybe 2010.",a,THE WITNESS,start_question
+109,244,10,9,"And then if the records show September 2012, would that comport to when you came back to Horace Mann?",q,MR. TROZZOLILLO,start_answer
+110,246,10,11,It may.,a,THE WITNESS,start_question
+111,247,10,12,"Back in 2004, do you remember who the agent was?",q,MR. TROZZOLILLO,start_answer
+112,249,10,14,I can't recall.,a,THE WITNESS,start_question
+113,250,10,15,"From 2004 and 2010, do you remember if you had full tort or limited tort?",q,MR. TROZZOLILLO,start_answer
+114,252,10,17,I can't recall.,a,THE WITNESS,start_question
+115,253,10,18,Why did you come back to Horace Mann in 2012?,q,MR. TROZZOLILLO,start_answer
+116,254,10,19,The insurance that I had no longer offered it at a Pennsylvania residence.,a,THE WITNESS,start_question
+117,256,10,21,Who was that?,q,MR. TROZZOLILLO,start_answer
+118,257,10,22,Liberty Mutual.,a,THE WITNESS,start_question
+119,258,10,23,"So from 2010 to 2012, you had Liberty Mutual?",q,MR. TROZZOLILLO,start_answer
+120,259,10,24,"Estimate, yes.",a,THE WITNESS,start_question
+121,260,10,25,Estimate.,q,MR. TROZZOLILLO,start_answer
+122,262,11,1,Uh-huh.,a,THE WITNESS,start_question
+123,263,11,2,And do you remember if you had full tort or limited tort over that period?,q,MR. TROZZOLILLO,start_answer
+124,265,11,4,I can't recall.,a,THE WITNESS,start_question
+125,266,11,5,"When you came back in 2012 to Horace Mann, do you recall who your agent was there?",q,MR. TROZZOLILLO,start_answer
+126,268,11,7,Al Papada.,a,THE WITNESS,start_question
+127,269,11,8,"Going back to when you first selected Horace Mann as your insurance company, why did you select Horace Mann?",q,MR. TROZZOLILLO,start_answer
+128,272,11,11,It was who my husband had.,a,THE WITNESS,start_question
+129,273,11,12,"So you were familiar with Horace Mann, that's why you would have come back to it in 2012?",q,MR. TROZZOLILLO,start_answer
+130,275,11,14,Yes.,a,THE WITNESS,start_question
+131,276,11,15,Do you remember what type of vehicle you were driving back in 2012?,q,MR. TROZZOLILLO,start_answer
+132,278,11,17,I had two vehicles back then.,a,THE WITNESS,start_question
+133,279,11,18,Do you remember what they were?,q,MR. TROZZOLILLO,start_answer
+134,280,11,19,One was a 2004 Mazda 3 and the other one was a Nissan Rogue -- but I can't remember the actual year of it -- were the two I had insured through Horace Mann.,a,THE WITNESS,start_question
+135,283,11,22,"I forgot to ask you.  Between 2004 and 2012 -- or 2010, excuse me, did you make any claims on the Horace Mann policy?  Any accidents where you made a claim?",q,MR. TROZZOLILLO,start_answer
+136,288,12,1,Not that I can recall.,a,THE WITNESS,start_question
+137,289,12,2,I may have asked you this and I apologize if I repeat myself.  But do you remember if you had limited tort or full tort with Liberty Mutual?,q,MR. TROZZOLILLO,start_answer
+138,292,12,5,I don't remember.,a,THE WITNESS,start_question
+139,293,12,6,"When you came back to Horace Mann, was Destiny of driving age at that time?",q,MR. TROZZOLILLO,start_answer
+140,295,12,8,In 2012?,a,THE WITNESS,start_question
+141,296,12,9,"Yeah.  Well, do you remember when she turned 16?",q,MR. TROZZOLILLO,start_answer
+142,298,12,11,"Well, she was born in 1996.",a,THE WITNESS,start_chat
+143,299,12,12,"If you know, answer; if you don't, just tell him you don't know.",side_chat,MR. PISANCHYN,start_chat
+144,301,12,14,"No, I don't know.",side_chat,THE WITNESS,start_question
+145,303,12,16,She was born what year?,q,MR. TROZZOLILLO,start_answer
+146,304,12,17,1996.,a,THE WITNESS,start_question
+147,305,12,18,So that would have been around 2012 if we add 16 onto 1996?,q,MR. TROZZOLILLO,start_answer
+148,307,12,20,Okay.,a,THE WITNESS,start_question
+149,308,12,21,Any reason to disagree with that?,q,MR. TROZZOLILLO,start_answer
+150,309,12,22,No.,a,THE WITNESS,start_question
+151,310,12,23,Did she drive as soon as she became 16?,q,MR. TROZZOLILLO,start_answer
+152,311,12,24,No.,a,THE WITNESS,start_question
+153,312,12,25,At what age did she start driving?,q,MR. TROZZOLILLO,start_answer
+154,314,13,1,She got her license January of 2017 -- not 2017.  I'm sorry.,a,THE WITNESS,start_question
+155,316,13,3,"I was going to say, her accident was 2014.",q,MR. TROZZOLILLO,start_answer
+156,317,13,4,"Yeah, I'm sorry.  It would have been 2013. Because it was six months after she turned 16.",a,THE WITNESS,start_question
+157,319,13,6,"When you came back to Horace Mann in 2012, did you go to Mr. Papada's office or did you do everything over the phone?",q,MR. TROZZOLILLO,start_answer
+158,322,13,9,Everything over the phone.,a,THE WITNESS,start_question
+159,323,13,10,Had you ever met him in person?,q,MR. TROZZOLILLO,start_answer
+160,324,13,11,No.,a,THE WITNESS,start_chat
+161,325,13,12,"By ""him,"" you mean Papada?",side_chat,MR. PISANCHYN,start_chat
+162,327,13,14,Mr. Papada.,side_chat,MR. TROZZOLILLO,start_question
+163,329,13,16,"Can you tell me everything you can remember when you called Mr. Papada and -- well, how did you get Mr. Papada's name?  Let me ask that first.",q,MR. TROZZOLILLO,start_answer
+164,332,13,19,I called Horace Mann to inquire about insurance and they gave me Al Papada's number.,a,THE WITNESS,start_question
+165,334,13,21,Okay.  And tell me everything you could remember about how -- what was said back and forth between you and him when you signed back up with Horace Mann.,q,MR. TROZZOLILLO,start_answer
+166,338,13,25,Could you be more specific about which car or --,a,THE WITNESS,start_question
+167,341,14,2,Did you have both cars at the time?,q,MR. TROZZOLILLO,start_answer
+168,342,14,3,No.,a,THE WITNESS,start_question
+169,343,14,4,You just had the one car?  Do you remember which one of the two you had?,q,MR. TROZZOLILLO,start_answer
+170,345,14,6,"Well, I can't remember the exact date I went back to Horace Mann or which vehicle I had before I went back to Horace Mann.",a,THE WITNESS,start_question
+171,348,14,9,"Regardless of what vehicle you had, can you tell me what was explained to you when you spoke to Mr. Papada?",q,MR. TROZZOLILLO,start_chat
+172,351,14,12,"And just so we're clear, you were talking about the first time that they would have spoke?",side_chat,MR. PISANCHYN,start_chat
+173,354,14,15,Yes.,side_chat,MR. TROZZOLILLO,start_chat
+174,355,14,16,Okay.,side_chat,MR. PISANCHYN,start_question
+175,357,14,18,When you signed back up with Horace Mann.,q,MR. TROZZOLILLO,start_answer
+176,358,14,19,I just called Al inquiring about car insurance.,a,THE WITNESS,start_question
+177,360,14,21,What did he say?,q,MR. TROZZOLILLO,start_answer
+178,361,14,22,He just explained what car insurance they offered and gave me prices on car insurance.,a,THE WITNESS,start_question
+179,363,14,24,What did he explain?,q,MR. TROZZOLILLO,start_answer
+180,364,14,25,I can't remember specifics.,a,THE WITNESS,start_question
+181,366,15,1,Do you remember if he explained to you the difference between full tort and limited tort?,q,MR. TROZZOLILLO,start_answer
+182,368,15,3,That I can't remember.,a,THE WITNESS,start_question
+183,369,15,4,How was it that you selected the coverage that you selected?  Did you go with the lowest price? Like what was your thought process when you picked a policy that he had told you they offered?,q,MR. TROZZOLILLO,start_answer
+184,373,15,8,I selected the best coverage that he told me would best benefit me and my family.,a,THE WITNESS,start_question
+185,375,15,10,Do you remember what he said?,q,MR. TROZZOLILLO,start_answer
+186,376,15,11,Not specifically.,a,THE WITNESS,start_question
+187,377,15,12,Do you remember if full tort or limited tort was discussed at all during that conversation?,q,MR. TROZZOLILLO,start_answer
+188,379,15,14,Not that I remember.,a,THE WITNESS,start_chat
+189,380,15,15,Why don't we mark this?,side_chat,MR. TROZZOLILLO,is brackets
+190,382,15,17,(Exhibit Minalda-1 was marked for identification.),brackets,,start_question
+191,384,15,19,"This at the top says The Horace Mann Company's Pennsylvania Auto Insurance Application.  And in the middle of the page it has the Mazda 3 and it's dated effective -- it says effective date 9-14-12.  Do you remember if on 9-14-12, you only had the Mazda 3 or if you still had the Nissan Rogue?",q,MR. TROZZOLILLO,start_answer
+192,390,15,25,"No, I still had the Nissan Rogue also.",a,THE WITNESS,start_question
+193,392,16,1,You still did.  Okay.,q,MR. TROZZOLILLO,start_answer
+194,393,16,2,"No, actually, I didn't.  I had another Nissan.  It wasn't a Rogue.  I stand incorrect.",a,THE WITNESS,start_question
+195,395,16,4,Do you remember what kind of Nissan it was?,q,MR. TROZZOLILLO,start_answer
+196,396,16,5,Because I traded the Nissan Rogue in September.,a,THE WITNESS,start_chat
+197,398,16,7,Do you know if you had any other cars?,side_chat,MR. PISANCHYN,start_chat
+198,400,16,9,"Yes, I had two; I had two cars.",side_chat,THE WITNESS,start_question
+199,403,16,12,"In the middle of the page here it says, tort option, limited tort.  Do you remember back in 2012 telling Mr. Papada you would go along with the limited tort selection?",q,MR. TROZZOLILLO,start_answer
+200,407,16,16,No.,a,THE WITNESS,start_question
+201,408,16,17,Do you remember if he explained the difference between full tort and limited tort to you back in 2012?,q,MR. TROZZOLILLO,start_answer
+202,411,16,20,Not that I can recall.,a,THE WITNESS,start_question
+203,412,16,21,Did he send you any forms to sign back in 2012?,q,MR. TROZZOLILLO,start_chat
+204,414,16,23,At any time in 2012?,side_chat,MR. PISANCHYN,start_chat
+205,415,16,24,Yeah.,side_chat,MR. TROZZOLILLO,start_chat
+206,416,16,25,He may have.,side_chat,THE WITNESS,start_question
+207,419,17,2,"You don't recall, though?",q,MR. TROZZOLILLO,start_answer
+208,420,17,3,No.,a,THE WITNESS,start_question
+209,421,17,4,"I take it if he sent you any forms to sign, you didn't save any copies?",q,MR. TROZZOLILLO,start_answer
+210,423,17,6,Not that I could recall.,a,THE WITNESS,start_question
+211,424,17,7,"Well, do you have any copies at home of any forms you signed in 2012?",q,MR. TROZZOLILLO,start_answer
+212,426,17,9,I'm not sure.,a,THE WITNESS,start_question
+213,427,17,10,Do you remember if in 2012 Mr. Papada explained to you underinsured and uninsured motorist coverage?,q,MR. TROZZOLILLO,start_answer
+214,430,17,13,Not that I can recall him explaining that.,a,THE WITNESS,start_question
+215,431,17,14,Do you remember in September of 2012 whether it was your intention to have limited tort or full tort?,q,MR. TROZZOLILLO,start_answer
+216,433,17,16,"If I would know the difference now, it would be full tort.",a,THE WITNESS,start_question
+217,435,17,18,"Well, I understand now.  But back in 2012 -- September 2012, do you recall if it was your intention to have full tort or limited --",q,MR. TROZZOLILLO,start_answer
+218,438,17,21,Full tort.,a,THE WITNESS,start_question
+219,439,17,22,It was your intention in 2012 for full tort?,q,MR. TROZZOLILLO,start_answer
+220,440,17,23,Yes.,a,THE WITNESS,start_question
+221,441,17,24,"Between September of 2012 and August of 2014, were any of your vehicles involved in any motor vehicle accidents?",q,MR. TROZZOLILLO,start_answer
+222,445,18,2,"Not that I can recall.  Oh, yes, from August of --",a,THE WITNESS,start_chat
+223,447,18,4,You mean in this case?,side_chat,MR. PISANCHYN,start_chat
+224,448,18,5,Yes.  Yes.,side_chat,THE WITNESS,start_question
+225,450,18,7,Yeah.  Not the one with Destiny.,q,MR. TROZZOLILLO,start_answer
+226,451,18,8,"Oh, wait.  Not in this case.",a,THE WITNESS,start_question
+227,452,18,9,"And did you have -- let me rephrase the question.  Between September 12th, 2012 when you re-signed up with Horace Mann and -- Destiny's accident was August 24, 2014 -- any time before her accident, were there any accidents that any of your vehicles were involved in?",q,MR. TROZZOLILLO,start_answer
+228,458,18,15,"No, not that I could recall.",a,THE WITNESS,start_question
+229,459,18,16,"Do you remember, if prior to Destiny's automobile accident, whether you made any claims with Horace Mann?",q,MR. TROZZOLILLO,start_answer
+230,462,18,19,Not that I could recall.,a,THE WITNESS,start_question
+231,463,18,20,If you could just look through Exhibit 1.,q,MR. TROZZOLILLO,start_chat
+232,464,18,21,"Just for clarification, I'm just going to do 1A, B, C, D, E, F and G. So it will be just one and then the pages, if that's okay.",side_chat,MR. PISANCHYN,start_chat
+233,467,18,24,Sure.,side_chat,MR. TROZZOLILLO,start_chat
+234,468,18,25,"So what we were talking about before for the clarification when you were going over would have been 1A.  So then he wants you to look through the rest of the documents, A through G.",side_chat,MR. PISANCHYN,start_question
+235,474,19,5,Have you ever seen that packet of documents before?,q,MR. TROZZOLILLO,start_answer
+236,476,19,7,Not the first page.  But I did see -- I remember seeing the last couple of pages.,a,THE WITNESS,start_question
+237,478,19,9,"From, I guess, C to the end?",q,MR. TROZZOLILLO,start_answer
+238,479,19,10,"Yes, C to G.",a,THE WITNESS,start_question
+239,480,19,11,"C to G?  The Mazda 3 that's listed on the front page, did you own that?  Was that registered in your name?",q,MR. TROZZOLILLO,start_answer
+240,483,19,14,Yes.,a,THE WITNESS,start_question
+241,484,19,15,Was there a time that you added Destiny to the Horace Mann policy?,q,MR. TROZZOLILLO,start_answer
+242,486,19,17,Yes.,a,THE WITNESS,start_question
+243,487,19,18,Do you remember when?,q,MR. TROZZOLILLO,start_answer
+244,488,19,19,"I don't know the specific date, no.",a,THE WITNESS,start_question
+245,489,19,20,Can you give me an estimate?,q,MR. TROZZOLILLO,start_answer
+246,490,19,21,I'm unsure.,a,THE WITNESS,start_question
+247,491,19,22,"If she started driving in January of 2013, would it have been around that time?",q,MR. TROZZOLILLO,start_answer
+248,493,19,24,I'm not sure.,a,THE WITNESS,start_question
+249,494,19,25,Do you know how you added Destiny to the policy?,q,MR. TROZZOLILLO,start_answer
+250,497,20,2,I remember speaking to Al about adding her to it.,a,THE WITNESS,start_question
+251,499,20,4,Do you remember what you spoke about?,q,MR. TROZZOLILLO,start_answer
+252,500,20,5,"Not specifics, no.",a,THE WITNESS,start_question
+253,501,20,6,Do you remember if you spoke to Al about adding Destiny before or after her accident?,q,MR. TROZZOLILLO,start_answer
+254,503,20,8,I'm not sure.,a,THE WITNESS,start_question
+255,504,20,9,So you could have spoken to him after the accident about adding her on the policy?,q,MR. TROZZOLILLO,start_answer
+256,506,20,11,I'm not sure.,a,THE WITNESS,start_question
+257,507,20,12,"Do you remember what, if anything, Al explained to you when you called about adding Destiny?",q,MR. TROZZOLILLO,start_answer
+258,509,20,14,"The only thing I can remember Al explaining was where her license address was at as to who she needed to be insured by, whether it was me or her father.",a,THE WITNESS,start_question
+259,513,20,18,"In other words, he asked you what house -- or who she was living with, whether she was living with you or her father?",q,MR. TROZZOLILLO,start_answer
+260,516,20,21,Correct.,a,THE WITNESS,start_question
+261,517,20,22,And how did you respond to that?,q,MR. TROZZOLILLO,start_answer
+262,518,20,23,"She lives with me, so I had to insure her.",a,THE WITNESS,start_question
+263,519,20,24,"When she had the accident on August the 24th of 2014, do you remember how you went about reporting the accident to Horace Mann?",q,MR. TROZZOLILLO,start_answer
+264,523,21,2,I believe I spoke with Al.,a,THE WITNESS,start_question
+265,524,21,3,You put the claim in through Al?,q,MR. TROZZOLILLO,start_answer
+266,525,21,4,"I think I -- I'm not really sure, but I did speak with Al about the claim.",a,THE WITNESS,start_question
+267,527,21,6,"Well, do you remember if Al gave you a number to call or if Al said, I'll put it in for you?",q,MR. TROZZOLILLO,start_answer
+268,529,21,8,I'm not sure.,a,THE WITNESS,start_question
+269,530,21,9,"To your knowledge, do you know how Destiny's accident occurred?",q,MR. TROZZOLILLO,start_answer
+270,532,21,11,"I know that she was hit head-on by another driver.  But as specifics, no, other than that.",a,THE WITNESS,start_question
+271,534,21,13,"When you called Al, do you remember what you told Al?",q,MR. TROZZOLILLO,start_answer
+272,536,21,15,That my daughter was in an accident and that I needed to file a claim.,a,THE WITNESS,start_question
+273,538,21,17,Do you remember what his response was?,q,MR. TROZZOLILLO,start_answer
+274,539,21,18,"Not specifics, no.",a,THE WITNESS,start_question
+275,540,21,19,Do you remember generally?,q,MR. TROZZOLILLO,start_answer
+276,541,21,20,"No.  Probably -- not specifics, no.",a,THE WITNESS,start_question
+277,542,21,21,Do you recall if Horace Mann opened a medical payment file to pay Destiny's medical bills out of the policy?,q,MR. TROZZOLILLO,start_answer
+278,545,21,24,Could you be more specific?,a,THE WITNESS,start_question
+279,546,21,25,Sure.  Did you or Destiny submit your medical bills to Horace Mann -- her medical bills to Horace Mann to be paid?,q,MR. TROZZOLILLO,start_answer
+280,550,22,3,"We didn't directly.  I'm not sure if the hospitals did.  But we didn't directly, no.",a,THE WITNESS,start_question
+281,552,22,5,So you think the hospital gave -- see if I could rephrase this.  That the hospital sent their bills directly to Horace Mann?,q,MR. TROZZOLILLO,start_answer
+282,555,22,8,We provided everybody with our Horace Mann claim number.,a,THE WITNESS,start_question
+283,557,22,10,Explain to me how we get from Destiny goes to the hospital and how you get a Horace Mann claim number.,q,MR. TROZZOLILLO,start_answer
+284,559,22,12,I'm not sure what you're asking me.,a,THE WITNESS,start_question
+285,560,22,13,"Well, do you have a Horace Mann claim number that you submitted the medical bills under?",q,MR. TROZZOLILLO,start_answer
+286,562,22,15,"I was provided the claim number by Horace Mann.  So then whenever I would take her for appointments or if I got a hospital bill, I would call them and give them this Horace Mann claim number.",a,THE WITNESS,start_question
+287,566,22,19,And how did you get the Horace Mann claim number?,q,MR. TROZZOLILLO,start_answer
+288,568,22,21,From my adjuster.,a,THE WITNESS,start_question
+289,569,22,22,And how did you get an adjuster?,q,MR. TROZZOLILLO,start_answer
+290,570,22,23,From -- I guess Al Papada provided me with someone to call -- or Horace Mann provided me with someone to call.,a,THE WITNESS,start_question
+291,574,23,1,"You said when you got those, you would call the medical care provider and say, submit it under this claim number?",q,MR. TROZZOLILLO,start_answer
+292,577,23,4,Correct.,a,THE WITNESS,start_question
+293,578,23,5,Do you remember if you ever spoke to a Horace Mann adjuster yourself?,q,MR. TROZZOLILLO,start_answer
+294,580,23,7,"Yes, I have.",a,THE WITNESS,start_question
+295,581,23,8,Do you remember who it was?,q,MR. TROZZOLILLO,start_answer
+296,582,23,9,I can't remember.,a,THE WITNESS,start_question
+297,583,23,10,Do you remember how many times you did?,q,MR. TROZZOLILLO,start_answer
+298,584,23,11,"No, I'm unsure about that.",a,THE WITNESS,start_question
+299,585,23,12,More than once?,q,MR. TROZZOLILLO,start_answer
+300,586,23,13,Yes.,a,THE WITNESS,start_question
+301,587,23,14,More than five?,q,MR. TROZZOLILLO,start_answer
+302,588,23,15,I'm unsure.,a,THE WITNESS,start_question
+303,589,23,16,Did you ever have any issues with Horace Mann's payment of Destiny's medical bills?,q,MR. TROZZOLILLO,start_answer
+304,591,23,18,Not that I'm aware of.,a,THE WITNESS,start_question
+305,592,23,19,"To your knowledge, they paid all of her bills that were submitted to them?",q,MR. TROZZOLILLO,start_answer
+306,594,23,21,Yes.,a,THE WITNESS,start_question
+307,595,23,22,"Did you ever have to call Horace Mann and say, hey, you haven't paid this bill or this bill's getting turned over to collection, why haven't you paid it, anything like that?",q,MR. TROZZOLILLO,start_answer
+308,600,24,1,Not that I'm aware of.,a,THE WITNESS,start_question
+309,601,24,2,Was the vehicle repaired?,q,MR. TROZZOLILLO,start_answer
+310,602,24,3,No.,a,THE WITNESS,start_question
+311,603,24,4,Was it totaled?,q,MR. TROZZOLILLO,start_answer
+312,604,24,5,Yes.,a,THE WITNESS,start_question
+313,605,24,6,Did you deal with a separate adjuster on the damage done to the vehicle?,q,MR. TROZZOLILLO,start_answer
+314,607,24,8,You mean the other driver?,a,THE WITNESS,start_question
+315,608,24,9,Is that who paid for your car?,q,MR. TROZZOLILLO,start_answer
+316,609,24,10,No.,a,THE WITNESS,start_question
+317,610,24,11,Who --,q,MR. TROZZOLILLO,start_answer
+318,611,24,12,Horace Mann paid for the car to be -- or the car.,a,THE WITNESS,start_question
+319,613,24,14,They totaled the car out?,q,MR. TROZZOLILLO,start_answer
+320,614,24,15,Yes.,a,THE WITNESS,start_question
+321,615,24,16,Did you deal with an adjuster personally on the car issue -- the property damage issue?,q,MR. TROZZOLILLO,start_answer
+322,617,24,18,Other than Horace Mann?,a,THE WITNESS,start_question
+323,618,24,19,With Horace Mann.,q,MR. TROZZOLILLO,start_answer
+324,619,24,20,Horace Mann is the only one I dealt with.,a,THE WITNESS,start_question
+325,620,24,21,I'll represent to you that there was a woman at Horace Mann that dealt with paying your daughter's medical bills and there was a man at Horace Mann that dealt with the property damage to the car.  Do you remember specifically speaking to a male Horace Mann adjuster about the property damage to the car?,q,MR. TROZZOLILLO,start_answer
+326,627,25,2,I spoke with a male.,a,THE WITNESS,start_question
+327,628,25,3,And do you know when it was or who it was?,q,MR. TROZZOLILLO,start_answer
+328,629,25,4,No.,a,THE WITNESS,start_question
+329,630,25,5,More than one time?,q,MR. TROZZOLILLO,start_answer
+330,631,25,6,Yes.,a,THE WITNESS,start_question
+331,632,25,7,And was the property damage issue resolved to your satisfaction?,q,MR. TROZZOLILLO,start_answer
+332,634,25,9,"What do you mean by ""property damage""?",a,THE WITNESS,start_question
+333,635,25,10,"Well, the car was totaled; yes?",q,MR. TROZZOLILLO,start_answer
+334,636,25,11,Yes.,a,THE WITNESS,start_question
+335,637,25,12,Horace Mann gave you money?,q,MR. TROZZOLILLO,start_answer
+336,638,25,13,For the car.,a,THE WITNESS,start_question
+337,639,25,14,Right.  Were you satisfied with the money they gave you?,q,MR. TROZZOLILLO,start_answer
+338,641,25,16,Yes.,a,THE WITNESS,start_question
+339,642,25,17,Were you satisfied with the way they processed the property damage part of the claim?,q,MR. TROZZOLILLO,start_answer
+340,644,25,19,"As you mean by ""property,"" what do you mean by ""property""?",a,THE WITNESS,start_question
+341,646,25,21,"The car, the damage to the car.",q,MR. TROZZOLILLO,start_answer
+342,647,25,22,Yes.  Yes.,a,THE WITNESS,start_question
+343,648,25,23,Did you have any issues with the way they processed the car damage?,q,MR. TROZZOLILLO,start_answer
+344,650,25,25,No.,a,THE WITNESS,start_question
+345,652,26,1,Did you have any issues with the way they processed the medical payment to medical care providers?,q,MR. TROZZOLILLO,start_answer
+346,654,26,3,No.,a,THE WITNESS,start_question
+347,655,26,4,"When you were dealing with Horace Mann on the damage done to the car, did you ever believe they were treating you unfairly?",q,MR. TROZZOLILLO,start_chat
+348,658,26,7,In regard to the --,side_chat,MR. PISANCHYN,start_question
+349,660,26,9,In regard to the property damage.,q,MR. TROZZOLILLO,start_answer
+350,661,26,10,Other than Al?,a,THE WITNESS,start_question
+351,662,26,11,I'm talking about the male adjuster that dealt with paying you for the car.,q,MR. TROZZOLILLO,start_answer
+352,664,26,13,No.,a,THE WITNESS,start_question
+353,665,26,14,Do you believe he ever dealt with you unfairly?,q,MR. TROZZOLILLO,start_answer
+354,667,26,16,No.,a,THE WITNESS,start_question
+355,668,26,17,"And the woman that was handling paying Destiny's medical bills, do you ever believe she was treating you or your daughter unfairly with getting the bills paid?",q,MR. TROZZOLILLO,start_answer
+356,672,26,21,No.,a,THE WITNESS,start_question
+357,673,26,22,"Some time after the accident, were you contacted by Mr. Papada about signing forms?",q,MR. TROZZOLILLO,start_answer
+358,675,26,24,Yes.,a,THE WITNESS,start_question
+359,676,26,25,Do you remember when?,q,MR. TROZZOLILLO,start_answer
+360,678,27,1,"September 25th, 2014.",a,THE WITNESS,start_question
+361,679,27,2,And how do you remember that date?,q,MR. TROZZOLILLO,start_answer
+362,680,27,3,Because --,a,THE WITNESS,start_chat
+363,681,27,4,Was it the 25th or the 26th?,side_chat,MR. PISANCHYN,start_chat
+364,683,27,6,She said the 25th.,side_chat,MR. TROZZOLILLO,start_chat
+365,684,27,7,It was the 25th.,side_chat,THE WITNESS,start_chat
+366,685,27,8,Okay.,side_chat,MR. PISANCHYN,start_question
+367,687,27,10,And how do you know that date?,q,MR. TROZZOLILLO,start_answer
+368,688,27,11,Because I was going in for surgery.,a,THE WITNESS,start_question
+369,689,27,12,And did you speak to him personally?,q,MR. TROZZOLILLO,start_answer
+370,690,27,13,Yes.,a,THE WITNESS,start_question
+371,691,27,14,Explain to me what happened when you spoke to him.,q,MR. TROZZOLILLO,start_answer
+372,693,27,16,He called my phone numerous times.,a,THE WITNESS,start_question
+373,694,27,17,Cellphone or home phone?,q,MR. TROZZOLILLO,start_answer
+374,695,27,18,Cellphone.  He left a voicemail for me.,a,THE WITNESS,start_question
+375,696,27,19,"Yeah, we'll talk about the voicemail in a little bit.  But did you finally spoke personally with him?",q,MR. TROZZOLILLO,start_answer
+376,699,27,22,Yes.,a,THE WITNESS,start_question
+377,700,27,23,And what did he say?,q,MR. TROZZOLILLO,start_answer
+378,701,27,24,"That somebody was requesting my file, that he needed to send me paperwork that I needed to sign and send back to him ASAP.",a,THE WITNESS,start_question
+379,705,28,2,So he called your cellphone numerous times. Did he leave a message each time or were they missed calls?,q,MR. TROZZOLILLO,start_answer
+380,708,28,5,They were missed calls.,a,THE WITNESS,start_question
+381,709,28,6,"And we have the one message that he did leave that you've provided your attorney, correct?",q,MR. TROZZOLILLO,start_answer
+382,711,28,8,Correct.,a,THE WITNESS,start_question
+383,712,28,9,"And at some point during the several calls he made, you and he actually connected, correct?",q,MR. TROZZOLILLO,start_answer
+384,714,28,11,I called him back.,a,THE WITNESS,start_question
+385,715,28,12,You called him back?,q,MR. TROZZOLILLO,start_answer
+386,716,28,13,Yes.,a,THE WITNESS,start_question
+387,717,28,14,After you got the voicemail?,q,MR. TROZZOLILLO,start_answer
+388,718,28,15,Correct.,a,THE WITNESS,start_question
+389,719,28,16,And he told you somebody was requesting your file?,q,MR. TROZZOLILLO,start_answer
+390,721,28,18,Yes.,a,THE WITNESS,start_question
+391,722,28,19,"And he said he was going to send you some paperwork, you needed to sign and return it ASAP?",q,MR. TROZZOLILLO,start_answer
+392,724,28,21,Yes.,a,THE WITNESS,start_question
+393,725,28,22,Did he say anything about dating the paperwork?,q,MR. TROZZOLILLO,start_answer
+394,727,28,24,"He said that I needed to date them from the day that I got the policy -- that he would place an X on the spots that I needed to sign, that I needed to date them from the day I got the policy because if I didn't, it would look like I didn't have any car insurance and my claim would not be paid.  And provided me with the date that needed to be put on the forms.",a,THE WITNESS,start_question
+395,735,29,6,And he provided you the date to put on the forms?,q,MR. TROZZOLILLO,start_answer
+396,737,29,8,Yes.,a,THE WITNESS,start_question
+397,738,29,9,Did you write that date down?,q,MR. TROZZOLILLO,start_answer
+398,739,29,10,Yes.,a,THE WITNESS,start_question
+399,740,29,11,Do you still have that piece of paper?,q,MR. TROZZOLILLO,start_answer
+400,741,29,12,Yes.,a,THE WITNESS,start_chat
+401,742,29,13,"Michael, do you have it?",side_chat,MR. TROZZOLILLO,start_chat
+402,744,29,15,I don't believe so.,side_chat,MR. PISANCHYN,start_question
+403,746,29,17,Could you turn that --,q,MR. TROZZOLILLO,start_answer
+404,747,29,18,"What do you mean, these papers?",a,THE WITNESS,start_question
+405,748,29,19,"Oh, no.  I'm talking about when Al -- when you and Al speak on the phone, he told you the date to put on the forms when you got the forms, correct?",q,MR. TROZZOLILLO,start_answer
+406,751,29,22,Yes.,a,THE WITNESS,start_question
+407,752,29,23,"Did you write -- when you were on the phone with him, did you write that date down?",q,MR. TROZZOLILLO,start_answer
+408,754,29,25,No.,a,THE WITNESS,start_question
+409,756,30,1,Okay.,q,MR. TROZZOLILLO,start_chat
+410,757,30,2,"And just for the record, when she was referencing your question, she put her hand out on the forms meaning the forms C through G and then that's what led you to ask the follow-up questions.",side_chat,MR. PISANCHYN,start_question
+411,762,30,7,"And then you've looked through -- what is it, C through G?  Are those the forms that you subsequently got from Al?",q,MR. TROZZOLILLO,start_chat
+412,765,30,10,"Just with the clarification, of course, these ones are already signed. So she would have gotten the blank forms.  I just want to make sure.",side_chat,MR. PISANCHYN,start_chat
+413,769,30,14,Yes.,side_chat,THE WITNESS,start_question
+414,771,30,16,"Okay.  So the C through G, you would have gotten them from Al and they were blank?",q,MR. TROZZOLILLO,start_answer
+415,773,30,18,Correct.  The forms I received from Al Papada via e-mail were blank.,a,THE WITNESS,start_question
+416,775,30,20,They came via e-mail?,q,MR. TROZZOLILLO,start_answer
+417,776,30,21,Yes.,a,THE WITNESS,start_question
+418,777,30,22,Do you still have the e-mail?,q,MR. TROZZOLILLO,start_answer
+419,778,30,23,Yes.,a,THE WITNESS,start_question
+420,779,30,24,Did the e-mail say anything other than sign the forms?,q,MR. TROZZOLILLO,start_answer
+421,782,31,1,It said he placed an X where I needed to sign and to get them back to him.,a,THE WITNESS,start_question
+422,784,31,3,"Does the e-mail say, date them back to 2012?",q,MR. TROZZOLILLO,start_answer
+423,785,31,4,I'm not sure if it says that.  I would have to re-read it.,a,THE WITNESS,start_chat
+424,787,31,6,"Michael, do you have --",side_chat,MR. TROZZOLILLO,start_chat
+425,789,31,8,"I do not.  But I'd ask that you send me the e-mail and I'll send it to them, okay?",side_chat,MR. PISANCHYN,start_question
+426,793,31,12,"Yeah, if you could send the e-mail that Al sent you to Attorney Pisanchyn.",q,MR. TROZZOLILLO,start_chat
+427,795,31,14,"Do so today if you can. And once I get it, I will e-mail it to them, okay.",side_chat,MR. PISANCHYN,start_chat
+428,797,31,16,Sure.,side_chat,THE WITNESS,start_question
+429,799,31,18,"And if we look at the forms, you dated them September 14th, 2012?",q,MR. TROZZOLILLO,start_answer
+430,801,31,20,Correct.,a,THE WITNESS,start_question
+431,802,31,21,"And if we look at Letter A -- Page Letter A, I know you hadn't seen this before, but that has an effective of 9-14-12 on it?",q,MR. TROZZOLILLO,start_answer
+432,805,31,24,Correct.,a,THE WITNESS,start_question
+433,806,31,25,"So this date of September 14, '12 is the date that Al gave you over the phone?",q,MR. TROZZOLILLO,start_answer
+434,809,32,2,Correct.,a,THE WITNESS,start_question
+435,810,32,3,"And I know you haven't given the e-mail yet to your attorney, but do you remember if the e-mail says date the forms 9-14-12 or words to that effect?",q,MR. TROZZOLILLO,start_answer
+436,813,32,6,I'm not sure.  He had just threatened on the phone that I needed to get the forms back ASAP.,a,THE WITNESS,start_question
+437,815,32,8,And you needed to date it 2012 -- 9-14-12 or it would look like you didn't have coverage?,q,MR. TROZZOLILLO,start_answer
+438,817,32,10,Correct.  Is it okay if I take a break?,a,THE WITNESS,start_chat
+439,818,32,11,"Oh, sure.",side_chat,MR. TROZZOLILLO,is brackets
+440,819,32,12,(A recess was taken from 10:52 a.m. until 11:01 a.m.),brackets,,start_question
+441,821,32,14,And then Exhibit 1C through G is what he sent you in the e-mail?,q,MR. TROZZOLILLO,start_chat
+442,823,32,16,Just look at each page and see if that's what he had sent you.,side_chat,MR. PISANCHYN,start_chat
+443,825,32,18,"Yes, it looks familiar.",side_chat,THE WITNESS,start_question
+444,827,32,20,Okay.  Did you ever have any conversations with Mr. Papada again after this conversation on September the 25th?,q,MR. TROZZOLILLO,start_answer
+445,830,32,23,Not that I can remember.,a,THE WITNESS,start_question
+446,831,32,24,"And looking at the forms on Page C, you dated it -- well, is that your signature?",q,MR. TROZZOLILLO,start_answer
+447,834,33,1,Yes.,a,THE WITNESS,start_question
+448,835,33,2,"And you dated it 9-14-12 as you indicated Mr. Papada told you to sign it, correct?",q,MR. TROZZOLILLO,start_answer
+449,837,33,4,Yes.,a,THE WITNESS,start_question
+450,838,33,5,And he signed it 9-25-14.  Do you know why he signed it as of 9-25-14 instead of 9-14-12?,q,MR. TROZZOLILLO,start_answer
+451,840,33,7,I'm not sure why he signed that date.,a,THE WITNESS,start_chat
+452,841,33,8,"And just so we know, I don't know if I'm agreeing that that's the date he signed initially.  It may be something he put after he got caught doing what he did.  But again, that's our position.",side_chat,MR. PISANCHYN,start_chat
+453,846,33,13,Yeah.  I'm going by what's on the document.,side_chat,MR. TROZZOLILLO,start_chat
+454,848,33,15,"That's why I let her answer the question before I put that there.  But of course, I don't want me to not object, meaning that I agree.  But I let her answer first to be fair to you",side_chat,MR. PISANCHYN,start_question
+455,853,33,20,"Earlier in the deposition, I asked you about what it was -- your intent back in 2012, what kind of tort option to select in 2012.  And you said your intent in 2012 was for full tort.  Do you recall that?",q,MR. TROZZOLILLO,start_answer
+456,857,33,24,Yes.,a,THE WITNESS,start_question
+457,858,33,25,"If you'd look at Page G, you signed under limited tort.  If it was your intention in 2012 to obtain full tort coverage, can you tell me why in 2014 when you signed this form you signed it for limited tort?",q,MR. TROZZOLILLO,start_answer
+458,864,34,5,Because I trusted Al to send me the correct documents that I was supposed to sign.,a,THE WITNESS,start_question
+459,866,34,7,"Well, this is not the correct document?",q,MR. TROZZOLILLO,start_answer
+460,867,34,8,"Not that I should have had, no.",a,THE WITNESS,start_question
+461,868,34,9,"Did you call Al and say you sent me the limited tort form, I told you two years ago I wanted full tort?",q,MR. TROZZOLILLO,start_answer
+462,871,34,12,"It was kind of like a threatening situation where I, kind of, had to sign the forms and get them back ASAP.",a,THE WITNESS,start_question
+463,874,34,15,"I understand you had to get them back ASAP. But if it was your intention for full tort, why did you sign a limited tort form when he sent it to you?",q,MR. TROZZOLILLO,start_answer
+464,877,34,18,I'm not sure.,a,THE WITNESS,start_chat
+465,878,34,19,"Other than what she said, she trusted him and she felt threatened.",side_chat,MR. PISANCHYN,start_question
+466,881,34,22,"When you felt threatened by Al, did you immediately retain counsel?",q,MR. TROZZOLILLO,start_chat
+467,883,34,24,Don't answer that question.  It's attorney-client privilege when she obtained counsel and the reasoning behind why she did.,side_chat,MR. PISANCHYN,start_question
+468,888,35,3,"Well, when you felt threatened by Al, what did you do?",q,MR. TROZZOLILLO,start_chat
+469,890,35,5,"Other than getting a lawyer, you can say if you did anything else.",side_chat,MR. PISANCHYN,start_chat
+470,892,35,7,"Just retained a lawyer, asked questions.",side_chat,THE WITNESS,start_question
+471,895,35,10,Did you report being threatened by Al to Horace Mann?,q,MR. TROZZOLILLO,start_answer
+472,897,35,12,"No, because at that point, I really didn't think I could trust Horace Mann Insurance Companies.",a,THE WITNESS,start_question
+473,899,35,14,"Well, what did Horace Mann do that made you believe you couldn't trust them to report Al to?",q,MR. TROZZOLILLO,start_answer
+474,901,35,16,They provided me with an agent that I couldn't trust and he was employed by Horace Mann.,a,THE WITNESS,start_question
+475,903,35,18,"Why didn't you go over his head and report him, that he threatened you?",q,MR. TROZZOLILLO,start_answer
+476,905,35,20,"Because at that point, I didn't know if I could trust anybody in the Horace Mann Company.",a,THE WITNESS,start_question
+477,907,35,22,"Well, up until the point that Al threatened you, you believed you were treated fairly with the medical bill payments and with the property damage payments, correct?",q,MR. TROZZOLILLO,start_answer
+478,912,36,1,At that point.,a,THE WITNESS,start_question
+479,913,36,2,"And Al told you -- if I'm restating your testimony, Al told you if you didn't sign the forms dated 2012 -- September 14, 2012, it would look like you didn't have insurance, correct?",q,MR. TROZZOLILLO,start_answer
+480,917,36,6,Correct.,a,THE WITNESS,start_question
+481,918,36,7,"But up until that point, Horace Mann was paying the medical bills, gave you a claim number and paid for the property damage, correct?",q,MR. TROZZOLILLO,start_answer
+482,921,36,10,"As for specific dates when all of it was paid, I'm unsure of the claim date and when bills were paid and who I spoke to.",a,THE WITNESS,start_question
+483,924,36,13,"Horace Mann, the records show, opened a claim for you on September -- I'm sorry, August 29th, 2014, which is about a month before you spoke to Al where he threatened you.  Does that sound right to you?  Any reason to disagree with that date, that they opened a claim for you early -- or the end of August?",q,MR. TROZZOLILLO,start_answer
+484,930,36,19,No.,a,THE WITNESS,start_question
+485,931,36,20,If you go to Page F.  And is that your signature on Page F?,q,MR. TROZZOLILLO,start_answer
+486,933,36,22,Yes.,a,THE WITNESS,start_question
+487,934,36,23,"And it looks like it's written 9-12-12 and then over the first 12 is a 14 and written over the second 12 is another 14.  Does that look right to you, what I just said?",q,MR. TROZZOLILLO,start_chat
+488,939,37,2,"Meaning -- I don't want her to characterize what it says.  I mean, we're looking at the same thing you're looking at and it speaks for itself.  So, I mean, if you can rephrase the question just about what exactly --",side_chat,MR. PISANCHYN,start_question
+489,945,37,8,"Sure.  Does it look like under the first 14, that there's a 12?",q,MR. TROZZOLILLO,start_chat
+490,947,37,10,If you --,side_chat,MR. PISANCHYN,start_chat
+491,948,37,11,Yeah.,side_chat,THE WITNESS,start_question
+492,950,37,13,And under the second -- under the last --,q,MR. TROZZOLILLO,start_chat
+493,951,37,14,4.,side_chat,MR. PISANCHYN,start_question
+494,953,37,16,Does it look like someone wrote 14 over the number 12?,q,MR. TROZZOLILLO,start_answer
+495,955,37,18,Yes.,a,THE WITNESS,start_question
+496,956,37,19,Did you do that?,q,MR. TROZZOLILLO,start_chat
+497,957,37,20,"Don't tell her what to say, Michael.  You're shaking your head no.",side_chat,MR. TROZZOLILLO,start_chat
+498,959,37,22,I can't say for sure.,side_chat,THE WITNESS,start_question
+499,961,37,24,"And you had no other telephone conversations with Al Papada except for that one?  And the voicemail he left you, those are the only -- I'm going to rephrase.  You had no other phone conversations with Al Papada after the 25th -- September the 25th?",q,MR. TROZZOLILLO,start_answer
+500,967,38,4,"Not that I can recall.  Looks like my handwriting underneath, then somebody's handwriting over it.",a,THE WITNESS,start_question
+501,970,38,7,Do you know if your daughter ever spoke to Al Papada?,q,MR. TROZZOLILLO,start_answer
+502,972,38,9,Not that I'm aware of.,a,THE WITNESS,start_question
+503,973,38,10,Are you aware if your daughter spoke to anyone at Horace Mann?,q,MR. TROZZOLILLO,start_answer
+504,975,38,12,Not that I'm aware of.,a,THE WITNESS,start_question
+505,976,38,13,Did you tell your daughter about the conversation you had with Papada?,q,MR. TROZZOLILLO,start_answer
+506,978,38,15,"No, that I'm aware of.",a,THE WITNESS,start_question
+507,979,38,16,You said you felt threatened by Papada?,q,MR. TROZZOLILLO,start_answer
+508,980,38,17,Yes.,a,THE WITNESS,start_question
+509,981,38,18,Did you ever feel threatened by anyone from Horace Mann who was handling your daughter's claim?,q,MR. TROZZOLILLO,start_chat
+510,983,38,20,Other than Papada.,side_chat,MR. PISANCHYN,start_question
+511,985,38,22,Yeah.,q,MR. TROZZOLILLO,start_answer
+512,986,38,23,No.,a,THE WITNESS,start_question
+513,987,38,24,"And other than reporting the accident to Papada and having to -- dealing with Papada over these signatures, you had no other dealings with him after your daughter's accident, correct?",q,MR. TROZZOLILLO,start_answer
+514,992,39,3,"What do you mean?  Like, can you rephrase that?",a,THE WITNESS,start_question
+515,994,39,5,"Sure.  You reported the accident to Papada, correct?",q,MR. TROZZOLILLO,start_answer
+516,996,39,7,Uh-huh.,a,THE WITNESS,start_question
+517,997,39,8,Yes?  You have to say yes.,q,MR. TROZZOLILLO,start_answer
+518,998,39,9,Yes.,a,THE WITNESS,start_question
+519,999,39,10,"And you talked to Papada over the signing of the forms, correct?",q,MR. TROZZOLILLO,start_answer
+520,1001,39,12,I don't recall.,a,THE WITNESS,start_question
+521,1002,39,13,"Well, you just said he threatened you.",q,MR. TROZZOLILLO,start_answer
+522,1003,39,14,"Oh, yes.",a,THE WITNESS,start_question
+523,1004,39,15,And you don't recall ever speaking to him again after that?,q,MR. TROZZOLILLO,start_answer
+524,1006,39,17,Not about the car accident.,a,THE WITNESS,start_question
+525,1007,39,18,Did you speak to him about other things?,q,MR. TROZZOLILLO,start_answer
+526,1008,39,19,"Yes, I did speak to him about other things when I needed insurance on other vehicles.",a,THE WITNESS,start_question
+527,1010,39,21,And when was that?,q,MR. TROZZOLILLO,start_answer
+528,1011,39,22,I can't remember.,a,THE WITNESS,start_question
+529,1012,39,23,"Well, let me ask you this.  When did you -- I'm assuming you left Horace Mann.  I'm assuming they don't insure you anymore.",q,MR. TROZZOLILLO,start_answer
+530,1016,40,1,No.,a,THE WITNESS,start_question
+531,1017,40,2,When did you leave Horace Mann?,q,MR. TROZZOLILLO,start_answer
+532,1018,40,3,In 2017.,a,THE WITNESS,start_question
+533,1019,40,4,Why did you leave Horace Mann?,q,MR. TROZZOLILLO,start_answer
+534,1020,40,5,Because of Al Papada.,a,THE WITNESS,start_question
+535,1021,40,6,Why didn't you leave Horace Mann in 2014 when Al threatened you?,q,MR. TROZZOLILLO,start_chat
+536,1023,40,8,I don't want her to say anything in regard to attorney-client privilege.  So anything other than what your lawyer would tell you.,side_chat,MR. PISANCHYN,start_question
+537,1027,40,12,Anything that -- any conversations you had with Mr. Pisanchyn I don't want you to talk about.,q,MR. TROZZOLILLO,start_chat
+538,1029,40,14,Or anyone at the firm including Lee or anyone -- the attorneys that represented you.,side_chat,MR. PISANCHYN,start_question
+539,1033,40,18,"But was there a reason before -- let me put it this way.  You felt threatened by Mr. Papada in 2014, correct?",q,MR. TROZZOLILLO,start_answer
+540,1036,40,21,Correct.,a,THE WITNESS,start_question
+541,1037,40,22,"You felt that you could no longer trust Horace Mann because of what Mr. Papada told you, correct?",q,MR. TROZZOLILLO,start_answer
+542,1040,40,25,Correct.,a,THE WITNESS,start_question
+543,1042,41,1,"But yet, you continued as an insured until 2017?",q,MR. TROZZOLILLO,start_answer
+544,1044,41,3,Correct.,a,THE WITNESS,start_question
+545,1045,41,4,"What knowledge, if any, do you have of your daughter's injuries?",q,MR. TROZZOLILLO,start_answer
+546,1047,41,6,What knowledge?,a,THE WITNESS,start_question
+547,1048,41,7,Yeah.,q,MR. TROZZOLILLO,start_answer
+548,1049,41,8,I know about them.,a,THE WITNESS,start_question
+549,1050,41,9,What are they?,q,MR. TROZZOLILLO,start_answer
+550,1051,41,10,Of her injuries?,a,THE WITNESS,start_question
+551,1052,41,11,Yeah.,q,MR. TROZZOLILLO,start_answer
+552,1053,41,12,"Her neck.  Ones that I recall or remember, her neck, her shoulder, her abdomen, her knee.  There may be more that I can't think of right now.",a,THE WITNESS,start_question
+553,1056,41,15,Which knee?,q,MR. TROZZOLILLO,start_answer
+554,1057,41,16,I'm not sure.,a,THE WITNESS,start_question
+555,1058,41,17,Which shoulder?,q,MR. TROZZOLILLO,start_answer
+556,1059,41,18,I'm not sure.,a,THE WITNESS,start_question
+557,1060,41,19,And she still lives with you?,q,MR. TROZZOLILLO,start_answer
+558,1061,41,20,Yes.,a,THE WITNESS,start_question
+559,1062,41,21,"When was the last time she sought medical care, to your knowledge, for any of these injuries?",q,MR. TROZZOLILLO,start_answer
+560,1064,41,23,I'm not sure.,a,THE WITNESS,start_question
+561,1065,41,24,Does she complain about her injuries?,q,MR. TROZZOLILLO,start_answer
+562,1066,41,25,Frequently.,a,THE WITNESS,start_question
+563,1068,42,1,What does she say?,q,MR. TROZZOLILLO,start_answer
+564,1069,42,2,That she's in pain?,a,THE WITNESS,start_question
+565,1070,42,3,Where?,q,MR. TROZZOLILLO,start_answer
+566,1071,42,4,"Her neck, her shoulders, her back, her knees.",a,THE WITNESS,start_question
+567,1072,42,5,And what -- do you say anything in response?,q,MR. TROZZOLILLO,start_answer
+568,1073,42,6,"Yeah, I tell her to rest, take medicine, relax.",a,THE WITNESS,start_question
+569,1075,42,8,What kind of medicine?,q,MR. TROZZOLILLO,start_answer
+570,1076,42,9,Medicine that her doctors prescribe or something over to counter to help ease the pain.,a,THE WITNESS,start_question
+571,1078,42,11,Have you referred her to any doctors?,q,MR. TROZZOLILLO,start_answer
+572,1079,42,12,"I have not, but her other physicians have.",a,THE WITNESS,start_question
+573,1080,42,13,"When she complains that she's in pain, do you say you should call the doctor?",q,MR. TROZZOLILLO,start_answer
+574,1082,42,15,"Yeah, I tell her she needs to call her doctor.",a,THE WITNESS,start_question
+575,1084,42,17,"Has the pain ever become so bad, say over the last two years, where she's gone to any emergency rooms?",q,MR. TROZZOLILLO,start_answer
+576,1086,42,19,Not that I can recall.,a,THE WITNESS,start_question
+577,1087,42,20,Is she working this summer?,q,MR. TROZZOLILLO,start_answer
+578,1088,42,21,Has she worked in the summer?  Yes.,a,THE WITNESS,start_question
+579,1089,42,22,Where is she working this summer?,q,MR. TROZZOLILLO,start_answer
+580,1090,42,23,"Cracker Barrel, Frackville, Pennsylvania.",a,THE WITNESS,start_question
+581,1091,42,24,And how many days a week is she working at Cracker Barrel?,q,MR. TROZZOLILLO,start_answer
+582,1094,43,1,One to two days a week.,a,THE WITNESS,start_question
+583,1095,43,2,And what is she doing the rest of the time? Is she still going to school in the summer?,q,MR. TROZZOLILLO,start_answer
+584,1097,43,4,No.,a,THE WITNESS,start_question
+585,1098,43,5,What does she do the rest of the week?,q,MR. TROZZOLILLO,start_answer
+586,1099,43,6,Studying for her boards.,a,THE WITNESS,start_question
+587,1100,43,7,Is she done with school?,q,MR. TROZZOLILLO,start_answer
+588,1101,43,8,Yes.,a,THE WITNESS,start_question
+589,1102,43,9,When are her boards?,q,MR. TROZZOLILLO,start_answer
+590,1103,43,10,She just took her boards in July.,a,THE WITNESS,start_question
+591,1104,43,11,And what were her boards in?,q,MR. TROZZOLILLO,start_answer
+592,1105,43,12,Registered nurse.,a,THE WITNESS,start_question
+593,1106,43,13,"Now that the boards are over, is she working any additional days or hours?",q,MR. TROZZOLILLO,start_answer
+594,1108,43,15,She has a full-time job now.,a,THE WITNESS,start_question
+595,1109,43,16,What's that?,q,MR. TROZZOLILLO,start_answer
+596,1110,43,17,She's a registered nurse.,a,THE WITNESS,start_question
+597,1111,43,18,Where at?,q,MR. TROZZOLILLO,start_answer
+598,1112,43,19,Lehigh Valley Hazleton.,a,THE WITNESS,start_question
+599,1113,43,20,Do you know what kind of nurse she is?,q,MR. TROZZOLILLO,start_answer
+600,1114,43,21,"What kind of -- like, what unit?",a,THE WITNESS,start_question
+601,1115,43,22,"Yeah, unit.",q,MR. TROZZOLILLO,start_answer
+602,1116,43,23,I'm not sure.  It's a medical unit.  I'm not sure what type of -- what specific unit she's on.,a,THE WITNESS,start_question
+603,1118,43,25,How many days a week is she working as an R.N.?,q,MR. TROZZOLILLO,start_answer
+604,1121,44,2,"She gets 40 hours biweekly -- or 75, I think -- 75 to 80, but I'm not sure what their pay is.",a,THE WITNESS,start_question
+605,1123,44,4,Seventy-five to 80 biweekly?,q,MR. TROZZOLILLO,start_answer
+606,1124,44,5,Right.,a,THE WITNESS,start_question
+607,1125,44,6,And she's still working one or two days a week at --,q,MR. TROZZOLILLO,start_answer
+608,1127,44,8,"No, she is not.",a,THE WITNESS,start_question
+609,1128,44,9,She gave up Cracker Barrel?,q,MR. TROZZOLILLO,start_answer
+610,1129,44,10,Correct.,a,THE WITNESS,start_question
+611,1130,44,11,Gave that up after she took her boards?,q,MR. TROZZOLILLO,start_answer
+612,1131,44,12,"Yes, in July.",a,THE WITNESS,start_question
+613,1132,44,13,Did she get her board results back?,q,MR. TROZZOLILLO,start_answer
+614,1133,44,14,"Yes, she passed.",a,THE WITNESS,start_question
+615,1134,44,15,"Okay.  So it was Cracker Barrel one to two days a week while she was studying for her boards. After she passed her boards, full-time job at Lehigh Valley Hazleton 75 to 80 hours biweekly?",q,MR. TROZZOLILLO,start_answer
+616,1138,44,19,Correct.,a,THE WITNESS,start_question
+617,1139,44,20,And has she gone on any trips or vacations in the last two years?,q,MR. TROZZOLILLO,start_answer
+618,1141,44,22,In the last two years?  We've been on family vacations.,a,THE WITNESS,start_question
+619,1143,44,24,Where to?,q,MR. TROZZOLILLO,start_answer
+620,1144,44,25,"Ocean City, Maryland; Punta Cana.",a,THE WITNESS,start_question
+621,1146,45,1,I'm sorry.  Punta Cana?,q,MR. TROZZOLILLO,start_answer
+622,1147,45,2,Uh-huh.,a,THE WITNESS,start_question
+623,1148,45,3,Is there any activities that she used to do before the auto accident that she can't do anymore?,q,MR. TROZZOLILLO,start_answer
+624,1150,45,5,Sure.  Yes.,a,THE WITNESS,start_question
+625,1151,45,6,Like what?,q,MR. TROZZOLILLO,start_answer
+626,1152,45,7,"Hiking.  She does them, but she suffers the next day with pain.",a,THE WITNESS,start_question
+627,1154,45,9,"So there are things that she can do, but she has pain the next day?",q,MR. TROZZOLILLO,start_answer
+628,1156,45,11,Correct.,a,THE WITNESS,start_question
+629,1157,45,12,And hiking is one of them?,q,MR. TROZZOLILLO,start_answer
+630,1158,45,13,Yes.,a,THE WITNESS,start_question
+631,1159,45,14,Anything else?,q,MR. TROZZOLILLO,start_answer
+632,1160,45,15,Not that I can think of.,a,THE WITNESS,start_question
+633,1161,45,16,Has she been to any amusement parks in the last two years?,q,MR. TROZZOLILLO,start_answer
+634,1163,45,18,Not that I can think of.,a,THE WITNESS,start_chat
+635,1164,45,19,"I think I'm done.  I'm going to look through my notes, but I'll let Mr. Cummins, if he has any questions.",side_chat,MR. TROZZOLILLO,start_chat
+636,1167,45,22,"Before we begin, can we take a break for a few seconds?",side_chat,MR. PISANCHYN,start_chat
+637,1169,45,24,"Oh, sure.",side_chat,MR. TROZZOLILLO,is brackets
+638,1170,45,25,(A recess was taken from 11:27 a.m. until 11:32 a.m.),brackets,,symbols
+639,1172,46,1,*  *  * EXAMINATION,symbols,,symbols
+640,1174,46,3,*  *  *,symbols,,start_question
+641,1176,46,5,Good morning.,q,MR. CUMMINS,start_answer
+642,1177,46,6,Hello.,a,THE WITNESS,start_question
+643,1178,46,7,"My name's Dan Cummins I represent the Kelleys, the father who owned the car and the son who was driving the car at the time.  Just some follow-up questions.  Did your daughter graduate from Alvernia?",q,MR. CUMMINS,start_answer
+644,1182,46,11,"She did, yes.",a,THE WITNESS,start_question
+645,1183,46,12,And do you know what her grade point average was?,q,MR. CUMMINS,start_answer
+646,1185,46,14,"She had good grades, but I'm not sure of the actual grade.",a,THE WITNESS,start_question
+647,1187,46,16,Do you know if she graduated with honors?,q,MR. CUMMINS,start_answer
+648,1188,46,17,"That I'm -- she wasn't on the dean's list, but she was a good student.",a,THE WITNESS,start_question
+649,1190,46,19,And did she graduate with a nursing degree?,q,MR. CUMMINS,start_answer
+650,1191,46,20,"She did, yes.",a,THE WITNESS,start_question
+651,1192,46,21,Is she still single?,q,MR. CUMMINS,start_answer
+652,1193,46,22,Yes.,a,THE WITNESS,start_question
+653,1194,46,23,Does she have any children?,q,MR. CUMMINS,start_answer
+654,1195,46,24,No.,a,THE WITNESS,start_question
+655,1196,46,25,Does she still have migraine headaches?,q,MR. CUMMINS,start_answer
+656,1198,47,1,Yes.,a,THE WITNESS,start_question
+657,1199,47,2,And does she take medication for that particular issue?,q,MR. CUMMINS,start_answer
+658,1201,47,4,Yes.,a,THE WITNESS,start_question
+659,1202,47,5,And do you know what medication she takes for that?,q,MR. CUMMINS,start_answer
+660,1204,47,7,"I'm not sure the exact medication, no.",a,THE WITNESS,start_question
+661,1205,47,8,I've seen in the record at least at one point in time she was taking Topamax.  Does that sound familiar to you?,q,MR. CUMMINS,start_answer
+662,1208,47,11,"I'm not sure if she still takes that, but she did take that at one time.  I'm not sure if she currently takes that particular medication.",a,THE WITNESS,start_question
+663,1211,47,14,Do you remember who prescribed that to her?,q,MR. CUMMINS,start_answer
+664,1212,47,15,I'm not sure.,a,THE WITNESS,start_question
+665,1213,47,16,And do you know who her current family doctor is?  I have records from Geisinger Mahanoy City.,q,MR. CUMMINS,start_answer
+666,1215,47,18,"She does go there, but she doesn't have one specific doctor there.",a,THE WITNESS,start_question
+667,1217,47,20,"If she needs a family doctor care, that's where she goes?",q,MR. CUMMINS,start_answer
+668,1219,47,22,Yes.,a,THE WITNESS,start_question
+669,1220,47,23,Up until today?,q,MR. CUMMINS,start_answer
+670,1221,47,24,Yes.,a,THE WITNESS,start_question
+671,1222,47,25,"And from the records, I know that at least at one point she was treating with a neurologist, Dr. Chawluk, C-H-A-W-L-U-K?",q,MR. CUMMINS,start_answer
+672,1226,48,3,Yes.,a,THE WITNESS,start_question
+673,1227,48,4,Do you know if she's still seeing him?,q,MR. CUMMINS,start_answer
+674,1228,48,5,"Yes, she does still see Dr. Chawluk.",a,THE WITNESS,start_question
+675,1229,48,6,I saw a reference at her deposition she mentioned that she was set to see him in January of 2019.  Do you know if that visit took place?,q,MR. CUMMINS,start_answer
+676,1232,48,9,I'm not sure.,a,THE WITNESS,start_question
+677,1233,48,10,Do you know when her last visit was with him?,q,MR. CUMMINS,start_answer
+678,1234,48,11,"She has an upcoming appointment, I know that.",a,THE WITNESS,start_question
+679,1235,48,12,And when is that?,q,MR. CUMMINS,start_answer
+680,1236,48,13,I believe it's in August.,a,THE WITNESS,start_question
+681,1237,48,14,2019?,q,MR. CUMMINS,start_answer
+682,1238,48,15,Yes.,a,THE WITNESS,start_question
+683,1239,48,16,"But to get back to my questions, do you remember or know when her last visit was with him?",q,MR. CUMMINS,start_answer
+684,1241,48,18,"I'm not sure of the exact date, no.",a,THE WITNESS,start_question
+685,1242,48,19,And there is some reference that she was going to see an orthopedic surgeon for her knee.  Do you know who that may have been?,q,MR. CUMMINS,start_answer
+686,1245,48,22,She did see Dr. Godbout for her knee.,a,THE WITNESS,start_question
+687,1246,48,23,I'm sorry?,q,MR. CUMMINS,start_answer
+688,1247,48,24,Godbout.,a,THE WITNESS,start_question
+689,1248,48,25,Do you know how to spell that?,q,MR. CUMMINS,start_answer
+690,1250,49,1,No.,a,THE WITNESS,start_question
+691,1251,49,2,Okay.  And do you know where that doctor was located?,q,MR. CUMMINS,start_answer
+692,1253,49,4,He was in Bethlehem at Coordinated Health.,a,THE WITNESS,start_question
+693,1254,49,5,"And how many times did she see him, to your knowledge?",q,MR. CUMMINS,start_answer
+694,1256,49,7,I'm not sure.,a,THE WITNESS,start_question
+695,1257,49,8,Did she ever tell you what happened at that visit or what he recommended?,q,MR. CUMMINS,start_answer
+696,1259,49,10,No.,a,THE WITNESS,start_question
+697,1260,49,11,Okay.  Did she ever have knee surgery?,q,MR. CUMMINS,start_answer
+698,1261,49,12,No.,a,THE WITNESS,start_question
+699,1262,49,13,Did she ever have knee injections?,q,MR. CUMMINS,start_answer
+700,1263,49,14,No.,a,THE WITNESS,start_question
+701,1264,49,15,To your knowledge.,q,MR. CUMMINS,start_answer
+702,1265,49,16,"Not to my knowledge, no.",a,THE WITNESS,start_question
+703,1266,49,17,"Okay.  Has she been in physical therapy, to your knowledge?",q,MR. CUMMINS,start_answer
+704,1268,49,19,Yes.,a,THE WITNESS,start_question
+705,1269,49,20,And where was that?,q,MR. CUMMINS,start_answer
+706,1270,49,21,"That was in Allentown, but I'm not sure of the name of it.",a,THE WITNESS,start_question
+707,1272,49,23,And do you know for what body part that was?,q,MR. CUMMINS,start_answer
+708,1273,49,24,For her knee.,a,THE WITNESS,start_question
+709,1274,49,25,"Has she been to a chiropractor, to your knowledge?",q,MR. CUMMINS,start_answer
+710,1277,50,2,Not to my knowledge.,a,THE WITNESS,start_question
+711,1278,50,3,Does she take over-the-counter medication on occasion?,q,MR. CUMMINS,start_answer
+712,1280,50,5,Yes.,a,THE WITNESS,start_question
+713,1281,50,6,And what does she take that you have seen?,q,MR. CUMMINS,start_answer
+714,1282,50,7,"Just over-the-counter pain medicine; Motrin, Tylenol, stuff like that.",a,THE WITNESS,start_question
+715,1284,50,9,Does she still have prescription medication?,q,MR. CUMMINS,start_answer
+716,1285,50,10,Yes.,a,THE WITNESS,start_question
+717,1286,50,11,And what kind does she have?,q,MR. CUMMINS,start_answer
+718,1287,50,12,"I'm not sure of the exact names, but she does take prescription medicine.",a,THE WITNESS,start_question
+719,1289,50,14,And for what does she take prescription medication?,q,MR. CUMMINS,start_answer
+720,1291,50,16,She takes prescription birth control and she takes prescription medicine for her migraines.,a,THE WITNESS,start_question
+721,1293,50,18,"How about prescription pain medication for her neck, back, knees or shoulders?",q,MR. CUMMINS,start_answer
+722,1295,50,20,That I'm unsure of.,a,THE WITNESS,start_question
+723,1296,50,21,Okay.  Do you see her using ice at times?,q,MR. CUMMINS,start_answer
+724,1297,50,22,Yes.,a,THE WITNESS,start_question
+725,1298,50,23,How about a heating pad?,q,MR. CUMMINS,start_answer
+726,1299,50,24,Yes.,a,THE WITNESS,start_question
+727,1300,50,25,How often do you see her doing those things?,q,MR. CUMMINS,start_answer
+728,1302,51,1,"I just seen her use it, actually, on Sunday.",a,THE WITNESS,start_question
+729,1303,51,2,"And how often nowadays on average do you see that, ice or heat?",q,MR. CUMMINS,start_answer
+730,1305,51,4,"Sometimes once a week, twice a week.",a,THE WITNESS,start_question
+731,1306,51,5,"When you saw it on Sunday, was it ice or was it heat?",q,MR. CUMMINS,start_answer
+732,1308,51,7,It was heat.,a,THE WITNESS,start_question
+733,1309,51,8,On what body part?,q,MR. CUMMINS,start_answer
+734,1310,51,9,It was on her knee.,a,THE WITNESS,start_question
+735,1311,51,10,Has your daughter had any surgery related to the accident?,q,MR. CUMMINS,start_answer
+736,1313,51,12,Not to my knowledge.,a,THE WITNESS,start_question
+737,1314,51,13,I noticed they had an MRI of her brain.  Do you know if she had had an MRI of any other body part?,q,MR. CUMMINS,start_answer
+738,1316,51,15,She had an MRI of her knee.,a,THE WITNESS,start_question
+739,1317,51,16,Do you remember when that was?,q,MR. CUMMINS,start_answer
+740,1318,51,17,"Not the exact date, no.",a,THE WITNESS,start_question
+741,1319,51,18,In the last year or so?,q,MR. CUMMINS,start_answer
+742,1320,51,19,No.  Further.,a,THE WITNESS,start_question
+743,1321,51,20,Further back in the past?,q,MR. CUMMINS,start_answer
+744,1322,51,21,Yes.,a,THE WITNESS,start_question
+745,1323,51,22,Do you remember where she had it or do you know where she had it completed?,q,MR. CUMMINS,start_answer
+746,1325,51,24,That I'm not sure.,a,THE WITNESS,start_question
+747,1326,51,25,Or who ordered it?,q,MR. CUMMINS,start_answer
+748,1328,52,1,Dr. Godbout.,a,THE WITNESS,start_question
+749,1329,52,2,Okay.,q,MR. CUMMINS,start_chat
+750,1330,52,3,Dr. Who?,side_chat,MR. TROZZOLILLO,start_chat
+751,1331,52,4,Godbout.  It's actually --,side_chat,THE WITNESS,start_chat
+752,1332,52,5,Godbout.  I'm sorry. I didn't hear you.,side_chat,MR. TROZZOLILLO,start_question
+753,1335,52,8,"Is she still treating with that particular doctor, to your knowledge?",q,MR. CUMMINS,start_answer
+754,1337,52,10,No.,a,THE WITNESS,start_question
+755,1338,52,11,She still has symptoms in her knee that she complains about?,q,MR. CUMMINS,start_answer
+756,1340,52,13,Yes.,a,THE WITNESS,start_question
+757,1341,52,14,Does she limp?,q,MR. CUMMINS,start_answer
+758,1342,52,15,Not to my knowledge.,a,THE WITNESS,start_question
+759,1343,52,16,"To your knowledge, has your daughter ever been jet skiing since this car accident?",q,MR. CUMMINS,start_answer
+760,1345,52,18,Not to my knowledge.,a,THE WITNESS,start_question
+761,1346,52,19,"Does she go out and do any lake activities, to your knowledge?",q,MR. CUMMINS,start_answer
+762,1348,52,21,"Not to my knowledge, no.",a,THE WITNESS,start_question
+763,1349,52,22,"Has she been to Six Flags Great Adventure, to your knowledge, since the accident?",q,MR. CUMMINS,start_answer
+764,1351,52,24,She may have.,a,THE WITNESS,start_question
+765,1352,52,25,"But as you sit here, you don't know one way or the other, you don't remember, or no?",q,MR. CUMMINS,start_answer
+766,1355,53,2,"MR. PISANCHYN:  Well, I'd object.  Maybe she just didn't know.  I mean, simply just ask --",a,THE WITNESS,start_chat
+767,1357,53,4,It was a bad question. I'll restate it.,side_chat,MR. CUMMINS,start_chat
+768,1359,53,6,"Her daughter's 23.  So, I mean, she may not be involved in every aspect of her life.  It's not like we're talking about a, you know, eight-year-old.  So I would just ask that -- you know.",side_chat,MR. PISANCHYN,start_question
+769,1364,53,11,Have you ever been to Six Flags with your daughter?,q,MR. CUMMINS,start_answer
+770,1366,53,13,"I have never been, no.",a,THE WITNESS,start_question
+771,1367,53,14,And has she ever told you that she was at Six Flags since the car accident?,q,MR. CUMMINS,start_answer
+772,1369,53,16,She may have.,a,THE WITNESS,start_question
+773,1370,53,17,Okay.  I saw some reference in the files she might have been to the Outer Banks at some point in time since the accident.,q,MR. CUMMINS,start_answer
+774,1373,53,20,"Yeah, we vacation there.",a,THE WITNESS,start_question
+775,1374,53,21,Was that with you?,q,MR. CUMMINS,start_answer
+776,1375,53,22,"No, that was not with me.",a,THE WITNESS,start_question
+777,1376,53,23,You did not go on that trip?,q,MR. CUMMINS,start_answer
+778,1377,53,24,"No.  Family vacations there, yes.",a,THE WITNESS,start_question
+779,1378,53,25,Okay.  Where have you been on family vacations with your daughter since the car accident?,q,MR. CUMMINS,start_answer
+780,1381,54,2,Ocean --,a,THE WITNESS,start_question
+781,1382,54,3,"You said Ocean City, Maryland.  I'm sorry.",q,MR. CUMMINS,start_answer
+782,1383,54,4,Punta Cana.,a,THE WITNESS,start_question
+783,1384,54,5,"And when was the Ocean City, Maryland trip?",q,MR. CUMMINS,start_answer
+784,1385,54,6,We tend to go there yearly.,a,THE WITNESS,start_question
+785,1386,54,7,Did you go this year?,q,MR. CUMMINS,start_answer
+786,1387,54,8,"Not yet, no.",a,THE WITNESS,start_question
+787,1388,54,9,Is it scheduled to happen?,q,MR. CUMMINS,start_answer
+788,1389,54,10,"We are not going this year, no.",a,THE WITNESS,start_question
+789,1390,54,11,No.  And is that because of your daughter's car accident or a variety of reasons?,q,MR. CUMMINS,start_answer
+790,1392,54,13,A variety of reasons.,a,THE WITNESS,start_question
+791,1393,54,14,"Did you go last year, 2018?",q,MR. CUMMINS,start_answer
+792,1394,54,15,"Yes.  I did not go, they did.",a,THE WITNESS,start_question
+793,1395,54,16,Meaning you daughter?,q,MR. CUMMINS,start_answer
+794,1396,54,17,"Family, yeah.",a,THE WITNESS,start_question
+795,1397,54,18,Including Destiny?,q,MR. CUMMINS,start_answer
+796,1398,54,19,Yes.,a,THE WITNESS,start_question
+797,1399,54,20,"To your knowledge, did Destiny go in 2017?",q,MR. CUMMINS,start_answer
+798,1400,54,21,I'm not sure if we went in 2017 because we went to Punta Cana in 2017.,a,THE WITNESS,start_question
+799,1402,54,23,Okay.  And that's when that trip was?,q,MR. CUMMINS,start_answer
+800,1403,54,24,Yes.,a,THE WITNESS,start_question
+801,1404,54,25,And did Destiny go on that trip?,q,MR. CUMMINS,start_answer
+802,1406,55,1,Yes.,a,THE WITNESS,start_question
+803,1407,55,2,And has there been any other vacations that you went on with your daughter that you can remember as you sit here today since the car accident?,q,MR. CUMMINS,start_answer
+804,1410,55,5,Not that I could recall.,a,THE WITNESS,start_question
+805,1411,55,6,"Has your daughter been to any concerts recently, to your knowledge?",q,MR. CUMMINS,start_answer
+806,1413,55,8,This year we went to Luke Bryan.,a,THE WITNESS,start_question
+807,1414,55,9,"You, yourself, went to that concert?",q,MR. CUMMINS,start_answer
+808,1415,55,10,Uh-huh.,a,THE WITNESS,start_question
+809,1416,55,11,Yes?,q,MR. CUMMINS,start_answer
+810,1417,55,12,"Yes.  Yes.  I'm sorry.  Yes,",a,THE WITNESS,start_question
+811,1418,55,13,And your daughter Destiny went with you?,q,MR. CUMMINS,start_answer
+812,1419,55,14,Yes.,a,THE WITNESS,start_question
+813,1420,55,15,Where was that concert?,q,MR. CUMMINS,start_answer
+814,1421,55,16,"Hershey, Pennsylvania.",a,THE WITNESS,start_question
+815,1422,55,17,And when was it?,q,MR. CUMMINS,start_answer
+816,1423,55,18,June of 2019.,a,THE WITNESS,start_question
+817,1424,55,19,Any other concerts?,q,MR. CUMMINS,start_answer
+818,1425,55,20,"We've been to concerts.  But as of specific dates and years, I'm not sure.",a,THE WITNESS,start_question
+819,1427,55,22,How about the artist?,q,MR. CUMMINS,start_answer
+820,1428,55,23,We've been to Luke Bryan a couple times.  I'm not sure.,a,THE WITNESS,start_question
+821,1430,55,25,"Okay.  And you mentioned that if she were to go hiking, ""she"" being your daughter, she would be in pain the next day?",q,MR. CUMMINS,start_answer
+822,1434,56,3,Yes.,a,THE WITNESS,start_question
+823,1435,56,4,How often have you known her to go hiking since the car accident?,q,MR. CUMMINS,start_answer
+824,1437,56,6,Since the car accident?,a,THE WITNESS,start_question
+825,1438,56,7,Yes.,q,MR. CUMMINS,start_answer
+826,1439,56,8,"In the -- I'd say spring/summertime, if she would go once a month, she would be lucky.",a,THE WITNESS,start_question
+827,1441,56,10,And this is since the car accident happening up until today?,q,MR. CUMMINS,start_answer
+828,1443,56,12,Yes.,a,THE WITNESS,start_question
+829,1444,56,13,"And where, to your knowledge, does she like to go hiking?",q,MR. CUMMINS,start_answer
+830,1446,56,15,I can't remember the particular area.,a,THE WITNESS,start_question
+831,1447,56,16,Is it one of the state parks?,q,MR. CUMMINS,start_answer
+832,1448,56,17,Yes.,a,THE WITNESS,start_question
+833,1449,56,18,Do you remember which state park it is?,q,MR. CUMMINS,start_answer
+834,1450,56,19,It's up by Jim Thorpe somewhere.,a,THE WITNESS,start_question
+835,1451,56,20,And how long were the hikes?,q,MR. CUMMINS,start_answer
+836,1452,56,21,That I'm unsure of.,a,THE WITNESS,start_question
+837,1453,56,22,Okay.  Do you know your daughter to have been in 5K races since the car accident?,q,MR. CUMMINS,start_answer
+838,1455,56,24,"Well, she don't run them, she walks them. But she does participate, yes.",a,THE WITNESS,start_question
+839,1458,57,1,Do you know what your daughter's salary is as a registered nurse now?,q,MR. CUMMINS,start_answer
+840,1460,57,3,"The exact salary, no.",a,THE WITNESS,start_question
+841,1461,57,4,Do you know what she's paid per hour?,q,MR. CUMMINS,start_answer
+842,1462,57,5,That I don't know.,a,THE WITNESS,start_question
+843,1463,57,6,When did she begin that job?,q,MR. CUMMINS,start_answer
+844,1464,57,7,July 15th.,a,THE WITNESS,start_question
+845,1465,57,8,"And to your knowledge, has she been injured on the job?",q,MR. CUMMINS,start_answer
+846,1467,57,10,No.,a,THE WITNESS,start_question
+847,1468,57,11,Has she been in any more recent car accidents?,q,MR. CUMMINS,start_answer
+848,1470,57,13,No.,a,THE WITNESS,start_question
+849,1471,57,14,"Has she reinjured herself in any way, to your knowledge?",q,MR. CUMMINS,start_answer
+850,1473,57,16,"Not to my knowledge, no.",a,THE WITNESS,start_question
+851,1474,57,17,Any trip-and-falls or slip-and-falls?,q,MR. CUMMINS,start_answer
+852,1475,57,18,No.,a,THE WITNESS,start_question
+853,1476,57,19,"Has she filed any other lawsuits other than this one, to your knowledge?",q,MR. CUMMINS,start_answer
+854,1478,57,21,"No, not to my knowledge.",a,THE WITNESS,start_question
+855,1479,57,22,Does she live with you now?,q,MR. CUMMINS,start_answer
+856,1480,57,23,"She does, yes.",a,THE WITNESS,start_question
+857,1481,57,24,Does she help you with the household chores?,q,MR. CUMMINS,start_answer
+858,1482,57,25,"Yes, she does.",a,THE WITNESS,start_question
+859,1484,58,1,And does she do her own laundry?,q,MR. CUMMINS,start_answer
+860,1485,58,2,"She does, yes.",a,THE WITNESS,start_question
+861,1486,58,3,Is she able to drive?,q,MR. CUMMINS,start_answer
+862,1487,58,4,Yes.,a,THE WITNESS,start_question
+863,1488,58,5,Does she have her own car?,q,MR. CUMMINS,start_answer
+864,1489,58,6,"She does, yes.",a,THE WITNESS,start_question
+865,1490,58,7,And who covers her car?,q,MR. CUMMINS,start_answer
+866,1491,58,8,She does.,a,THE WITNESS,start_question
+867,1492,58,9,In terms of what insurance company?  If you know.,q,MR. CUMMINS,start_answer
+868,1494,58,11,I'm not sure.,a,THE WITNESS,start_question
+869,1495,58,12,And how long of a commute does she have to and from work?,q,MR. CUMMINS,start_answer
+870,1497,58,14,"Oh, it's short.  It's quick.",a,THE WITNESS,start_question
+871,1498,58,15,"To your knowledge, does she have any restrictions on her in terms of her ability to work as a nurse that may have been placed upon her by one of her doctors?",q,MR. CUMMINS,start_answer
+872,1502,58,19,She cannot have any restrictions at work.,a,THE WITNESS,start_question
+873,1503,58,20,"So as far as you know, she's working full-time, full duty?",q,MR. CUMMINS,start_answer
+874,1505,58,22,Correct.,a,THE WITNESS,start_chat
+875,1506,58,23,I think that's all the questions I have.  Thank you for your time today.,side_chat,MR. CUMMINS,start_chat
+876,1508,58,25,He may have some follow-up.,side_chat,MR. PISANCHYN,start_chat
+877,1511,59,2,"No, I'm good.",side_chat,MR. TROZZOLILLO,is brackets
+878,1512,59,3,(Witness excused.),brackets,,is brackets
+879,1513,59,4,(The deposition was concluded at 11:15 a.m.),brackets,,symbols
+880,1514,59,5,"*  *  * C E R T I F I C A T E I, Pamela Pratt, Court Reporter and Notary Public in and for the Commonwealth of Pennsylvania, certify that the foregoing is a true and accurate transcript of the deposition of said witness taken by me on the date and place hereinbefore set forth. I further certify that I am neither attorney nor counsel for, nor related to or employed by, any of the parties to the action in which this deposition was taken, and further, that I am not a relative or employee of any attorney or counsel employed in this action, nor am I financially interested in this case. Pamela Pratt, Court Reporter",symbols,,end

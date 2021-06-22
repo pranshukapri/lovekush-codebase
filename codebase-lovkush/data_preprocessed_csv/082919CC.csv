@@ -1,0 +1,1230 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," of questions, be reserved until the time of trial.)",,,symbols
+1,114,4,15,- - - EXAMINATION,symbols,,symbols
+2,116,4,17,- - -,symbols,,start_question
+3,118,4,19,"Good afternoon, Ms. Callaway.",q,MR. MANARA,start_answer
+4,119,4,20,"Hi, good afternoon.",a,THE WITNESS,start_question
+5,120,4,21,My name is Michael Manara.  I represent Mr. Kelly for an accident that occurred on April 3rd of 2017; does that sound about right?,q,MR. MANARA,start_answer
+6,123,4,24,Yes.,a,THE WITNESS,start_question
+7,125,5,1,We are here today to take your deposition.,q,MR. MANARA,start_answer
+8,126,5,2,Okay.,a,THE WITNESS,start_question
+9,127,5,3,Have you ever been deposed before?,q,MR. MANARA,start_answer
+10,128,5,4,I have not.,a,THE WITNESS,start_question
+11,129,5,5,"Okay. So a couple ground rules kind of before we begin.  One, a deposition is simply a question and answer session.  It's not designed to trick or confuse you.  We're simply trying to find out what happened, okay?",q,MR. MANARA,start_answer
+12,135,5,11,Okay.,a,THE WITNESS,start_question
+13,136,5,12,"So a couple of ground rules for this deposition.  One, I need you to answer verbally because as you can see there's a court reporter here and she is typing down everything we say so she can't take down any hand gestures or head nods or anything like that; is that fair?",q,MR. MANARA,start_answer
+14,142,5,18,Yes.,a,THE WITNESS,start_question
+15,143,5,19,"All right. Second, uh-huh and uh-uh read the exact same way on the record.  So if we correct you and say is that a yes, is that a no, we're not doing it to be jerks, we're just trying to make sure the record is clear, all right?",q,MR. MANARA,start_answer
+16,150,6,1,Okay.,a,THE WITNESS,start_question
+17,151,6,2,"Third, simultaneous speaking while it's human nature you'll probably understand where I'm headed with my question, it's way too difficult for her to take down two people speaking at the same time.  So I ask that you allow me to finish my question before you answer.  I'll allow you to finish your answer before I ask my next question and we'll go back and forth in that cadence; is that fair?",q,MR. MANARA,start_answer
+18,159,6,10,Yes.,a,THE WITNESS,start_question
+19,160,6,11,"All right. Fourth, if at any time I'm speaking too fast or you do not understand the question, please let me know and I will be happy to rephrase.  Because if you answer my question I will assume two very important things, first, that you understood the question and second, that the answer is the truth; is that fair?",q,MR. MANARA,start_answer
+20,167,6,18,Yes.,a,THE WITNESS,start_question
+21,168,6,19,Do you understand that the oath that you just took is the exact same oath you would take in a courtroom?,q,MR. MANARA,start_answer
+22,171,6,22,Yes.,a,THE WITNESS,start_question
+23,172,6,23,All right. Did you understand the instructions that I have given?,q,MR. MANARA,start_answer
+24,176,7,2,Yes.,a,THE WITNESS,start_question
+25,177,7,3,"We are here today to discuss essentially three things.  One, the accident that occurred.  Two, the injuries you're claiming.  And three, any affects on your life.  Is there any reason you can't discuss those three things with me here today?",q,MR. MANARA,start_answer
+26,182,7,8,No.,a,THE WITNESS,start_question
+27,183,7,9,All right. Are you understand the influence of any medications or substance that would prevent you from understanding my questions?,q,MR. MANARA,start_answer
+28,187,7,13,No.,a,THE WITNESS,start_question
+29,188,7,14,"State your full name, please.",q,MR. MANARA,start_answer
+30,189,7,15,Connie Elbella Callaway.,a,THE WITNESS,start_question
+31,190,7,16,Ever gone by any other names?,q,MR. MANARA,start_answer
+32,191,7,17,"My maiden name, Connie Foulks, F-O-U-L-K-S.",a,THE WITNESS,start_question
+33,192,7,18,All right. Prior to your deposition did you review any documents?,q,MR. MANARA,start_answer
+34,195,7,21,Yes.,a,THE WITNESS,start_question
+35,196,7,22,What did you look at?,q,MR. MANARA,start_answer
+36,197,7,23,The answers I gave to the --,a,THE WITNESS,start_question
+37,198,7,24,Interrogatory questions?,q,MR. MANARA,start_answer
+38,200,8,1,Yes.,a,THE WITNESS,start_question
+39,201,8,2,Okay. Anything else?,q,MR. MANARA,start_answer
+40,203,8,4,No.,a,THE WITNESS,start_question
+41,204,8,5,"Any medical records, police reports, anything like that?",q,MR. MANARA,start_answer
+42,206,8,7,No.,a,THE WITNESS,start_question
+43,207,8,8,Okay. Other than your attorney did you discuss your deposition testimony with anybody else?,q,MR. MANARA,start_answer
+44,210,8,11,The secretary but I guess that's the same.,a,THE WITNESS,start_question
+45,211,8,12,Other than somebody in your attorney's office?,q,MR. MANARA,start_answer
+46,212,8,13,No.,a,THE WITNESS,symbols
+47,213,8,14,- - -,symbols,,is brackets
+48,214,8,15,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+49,216,8,17,- - -,symbols,,start_question
+50,218,8,19,"Ma'am, off the record I asked you what your Social Security number was and I read it back to you and you confirmed that it was correct; is that fair?",q,MR. MANARA,start_answer
+51,221,8,22,Yes.,a,THE WITNESS,start_question
+52,222,8,23,What's your date of birth?,q,MR. MANARA,start_answer
+53,223,8,24,"May 26th, 1983.",a,THE WITNESS,start_question
+54,225,9,1,Where were you born?,q,MR. MANARA,start_answer
+55,226,9,2,"Griffin, Georgia.",a,THE WITNESS,start_question
+56,227,9,3,When did you get to Pennsylvania?,q,MR. MANARA,start_answer
+57,228,9,4,"May, 2016.",a,THE WITNESS,start_question
+58,229,9,5,Fair to say you were living in Pennsylvania at the time of the accident?,q,MR. MANARA,start_answer
+59,231,9,7,Yes.,a,THE WITNESS,start_question
+60,232,9,8,Do you have a driver's license?,q,MR. MANARA,start_answer
+61,233,9,9,I do.,a,THE WITNESS,start_question
+62,234,9,10,Do you have it on you?,q,MR. MANARA,start_answer
+63,235,9,11,I do.,a,THE WITNESS,start_question
+64,236,9,12,"May I see it, show it to your attorneys first.",q,MR. MANARA,start_answer
+65,237,9,13,Yes.,a,THE WITNESS,is brackets
+66,238,9,14,(Witness complies.),brackets,,start_chat
+67,239,9,15,Thank you.,side_chat,MR. MANARA,start_question
+68,241,9,17,"Ma'am, I'm in receipt of your Pennsylvania driver's license with the number 32 535 907.  It was issued on October 17th, 2018.  It expires on May 27th, 2020.  It is a Class C license with no restrictions. I, however, see that you are wearing glasses today?",q,MR. MANARA,start_answer
+69,246,9,22,Yes.,a,THE WITNESS,start_question
+70,247,9,23,What do you wear glasses for?,q,MR. MANARA,start_answer
+71,248,9,24,Protection.,a,THE WITNESS,start_question
+72,250,10,1,"Oh, so are they prescription at all?",q,MR. MANARA,start_answer
+73,251,10,2,No.,a,THE WITNESS,start_question
+74,252,10,3,Okay. Have you ever had prescription glasses?,q,MR. MANARA,start_answer
+75,254,10,5,I have not.,a,THE WITNESS,start_question
+76,255,10,6,Has this Pennsylvania license ever been suspended or revoked?,q,MR. MANARA,start_answer
+77,257,10,8,No.,a,THE WITNESS,start_question
+78,258,10,9,Have you ever had any other driver's licenses other than this Pennsylvania driver's license?,q,MR. MANARA,start_answer
+79,260,10,11,I have.,a,THE WITNESS,start_question
+80,261,10,12,From where?,q,MR. MANARA,start_answer
+81,262,10,13,"South Carolina, Maryland, Nevada.  I believe that's it.",a,THE WITNESS,start_question
+82,264,10,15,"South Carolina, Maryland and Nevada, any of those licenses --",q,MR. MANARA,start_answer
+83,266,10,17,"Oh, North Carolina, sorry.",a,THE WITNESS,start_question
+84,267,10,18,"No worries. South Carolina, North Carolina, Maryland, Nevada, have any of those licenses ever been suspended or revoked?",q,MR. MANARA,start_answer
+85,271,10,22,Yes.,a,THE WITNESS,start_question
+86,272,10,23,For what and which state?,q,MR. MANARA,start_answer
+87,273,10,24,I think it was my South Carolina license.  I forgot to pay a seatbelt ticket and it was suspended for like 2 days until I paid it.,a,THE WITNESS,start_question
+88,277,11,3,When was that -- was it a long time ago?,q,MR. MANARA,start_answer
+89,278,11,4,"It was.  It was in like 2005, I believe.",a,THE WITNESS,start_question
+90,279,11,5,That suspension was lifted then?,q,MR. MANARA,start_answer
+91,280,11,6,"Oh, yes, yes.",a,THE WITNESS,start_question
+92,281,11,7,"Recognizing that this particular card that you have given me was not valid on the date of the accident, did you have a valid Pennsylvania license on the date of the accident?",q,MR. MANARA,start_answer
+93,285,11,11,So I think -- so that card is a duplicate. That wasn't the first time I got issued in Pennsylvania.,a,THE WITNESS,start_question
+94,288,11,14,Sure.,q,MR. MANARA,start_answer
+95,289,11,15,But I do believe at the time of the accident I had a Pennsylvania license.,a,THE WITNESS,start_question
+96,291,11,17,Okay.,q,MR. MANARA,start_answer
+97,292,11,18,"I do believe, yes.",a,THE WITNESS,start_question
+98,293,11,19,Fair to say valid?,q,MR. MANARA,start_answer
+99,294,11,20,"Yes, yes, sir.",a,THE WITNESS,start_question
+100,295,11,21,"I see the address on your license is 517 East Lancaster Avenue, Apartment 207 in Wayne, Pennsylvania. Is that where you currently live?",q,MR. MANARA,start_answer
+101,298,11,24,It is.,a,THE WITNESS,start_question
+102,300,12,1,How long have you lived there?,q,MR. MANARA,start_answer
+103,301,12,2,Since May of 2016.,a,THE WITNESS,start_question
+104,302,12,3,So since you came to Pennsylvania?,q,MR. MANARA,start_answer
+105,303,12,4,"Yes, sir.",a,THE WITNESS,start_question
+106,304,12,5,"And thank you, I'm going to hand your license back.",q,MR. MANARA,start_answer
+107,306,12,7,Thank you.,a,THE WITNESS,start_question
+108,307,12,8,Who else lives with you at the Lancaster address?,q,MR. MANARA,start_answer
+109,309,12,10,My two sons.,a,THE WITNESS,start_question
+110,310,12,11,Your sons what are their names?,q,MR. MANARA,start_answer
+111,311,12,12,David Callaway and Ethan Catoe.,a,THE WITNESS,start_question
+112,312,12,13,How old is David?,q,MR. MANARA,start_answer
+113,313,12,14,17.,a,THE WITNESS,start_question
+114,314,12,15,How old is Ethan?,q,MR. MANARA,start_answer
+115,315,12,16,14.,a,THE WITNESS,start_question
+116,316,12,17,Fair to say they're self sufficient?,q,MR. MANARA,start_answer
+117,317,12,18,They are.,a,THE WITNESS,start_question
+118,318,12,19,Other than your two sons and yourself did you live there with anybody else?,q,MR. MANARA,start_answer
+119,320,12,21,No.,a,THE WITNESS,start_question
+120,321,12,22,Are you married?,q,MR. MANARA,start_answer
+121,322,12,23,I have a domestic partner.,a,THE WITNESS,start_question
+122,323,12,24,"Your domestic partner, who is your domestic partner?",q,MR. MANARA,start_answer
+123,326,13,2,Darricous White.,a,THE WITNESS,start_question
+124,327,13,3,Can you spell Darricous?,q,MR. MANARA,start_answer
+125,328,13,4,D-A-R-R-I-C-O-U-S.,a,THE WITNESS,start_question
+126,329,13,5,How old is Darricous?,q,MR. MANARA,start_answer
+127,330,13,6,39.,a,THE WITNESS,start_question
+128,331,13,7,Do you live with Darricous?,q,MR. MANARA,start_answer
+129,332,13,8,So he works for the airline so yes.,a,THE WITNESS,start_question
+130,333,13,9,When did you start living with Darricous?,q,MR. MANARA,start_answer
+131,334,13,10,"Oh, my gosh, May of 2013.",a,THE WITNESS,start_question
+132,335,13,11,So at the time of the accident he was --,q,MR. MANARA,start_answer
+133,336,13,12,"Yes, so yes.",a,THE WITNESS,start_question
+134,337,13,13,"Other than Darricous, your two sons and yourself anybody else living with you --",q,MR. MANARA,start_answer
+135,339,13,15,"No, sir.",a,THE WITNESS,start_question
+136,340,13,16,-- at the Lancaster Avenue address?,q,MR. MANARA,start_answer
+137,341,13,17,"No, sir.",a,THE WITNESS,start_question
+138,342,13,18,"And Darricous you've been together since 2013, around?",q,MR. MANARA,start_answer
+139,344,13,20,Yes.,a,THE WITNESS,start_question
+140,345,13,21,Other than your two sons any other children?,q,MR. MANARA,start_answer
+141,346,13,22,No.,a,THE WITNESS,start_question
+142,347,13,23,"Discussing your education, how far did you go in school?",q,MR. MANARA,start_answer
+143,350,14,1,I'm currently in school pursuing graduate level.,a,THE WITNESS,start_question
+144,352,14,3,Where do you go?,q,MR. MANARA,start_answer
+145,353,14,4,Mitchell Hamline.,a,THE WITNESS,start_question
+146,354,14,5,For what?,q,MR. MANARA,start_answer
+147,355,14,6,To finish my law degree.,a,THE WITNESS,symbols
+148,356,14,7,- - -,symbols,,is brackets
+149,357,14,8,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+150,359,14,10,- - -,symbols,,start_question
+151,361,14,12,How far are you with your law degree?,q,MR. MANARA,start_answer
+152,362,14,13,This time I guess about a year and a half into it.,a,THE WITNESS,start_question
+153,364,14,15,When did you start?,q,MR. MANARA,start_answer
+154,365,14,16,"Sorry, August of 2018.",a,THE WITNESS,start_question
+155,366,14,17,When did you stop the first time?,q,MR. MANARA,start_answer
+156,367,14,18,"Oh, no, so I originally started -- I'm sorry. I originally started law school with Charlotte School of Law and that was in August of 2013.",a,THE WITNESS,start_question
+157,370,14,21,Why did you stop at Charlotte?,q,MR. MANARA,start_answer
+158,371,14,22,"Besides the fact that they were losing their accreditation I left and -- well, my job moved me to out West.",a,THE WITNESS,start_question
+159,375,15,1,Is it fair to say you did not stop at Charlotte Law as a result of this accident?,q,MR. MANARA,start_answer
+160,377,15,3,Correct.,a,THE WITNESS,start_question
+161,378,15,4,And you started again at Mitchell Hamline in August of 2018?,q,MR. MANARA,start_answer
+162,380,15,6,Correct.,a,THE WITNESS,start_question
+163,381,15,7,Where is Mitchell Hamline located?,q,MR. MANARA,start_answer
+164,382,15,8,"St. Paul, Minnesota.",a,THE WITNESS,start_question
+165,383,15,9,Did you miss any classes at Mitchell Hamline as a result of this accident?,q,MR. MANARA,start_answer
+166,385,15,11,No.,a,THE WITNESS,start_question
+167,386,15,12,Are you able to live in Pennsylvania and go to school in Minnesota?,q,MR. MANARA,start_answer
+168,388,15,14,Yes.,a,THE WITNESS,start_question
+169,389,15,15,Is it online?,q,MR. MANARA,start_answer
+170,390,15,16,It's hybrid so I do part online and then part in person.,a,THE WITNESS,start_question
+171,392,15,18,How often do you travel to Minnesota?,q,MR. MANARA,start_answer
+172,393,15,19,It varies but about two to three times a semester.,a,THE WITNESS,start_question
+173,395,15,21,How long do you go?,q,MR. MANARA,start_answer
+174,396,15,22,For a week at a time.,a,THE WITNESS,start_question
+175,397,15,23,And fair to say your semesters are -- are there two semesters in a year or is it quarter --,q,MR. MANARA,start_answer
+176,400,16,1,"Correct, two semesters in a year.",a,THE WITNESS,start_question
+177,401,16,2,So fall semester from like August to December --,q,MR. MANARA,start_answer
+178,403,16,4,Yes.,a,THE WITNESS,start_question
+179,404,16,5,-- and then spring semester January to May.,q,MR. MANARA,start_answer
+180,405,16,6,"Right, and then May to August for summer.",a,THE WITNESS,start_question
+181,406,16,7,And you already indicated as a result of this accident you have no missed classes at Hamline?,q,MR. MANARA,start_answer
+182,408,16,9,"Correct, I started Hamline after the accident.",a,THE WITNESS,start_question
+183,409,16,10,Did anything about this accident adversely affect your ability to go to Hamline?,q,MR. MANARA,start_answer
+184,411,16,12,"No, sir.",a,THE WITNESS,start_question
+185,412,16,13,Did you ever serve in the military?,q,MR. MANARA,start_answer
+186,413,16,14,No.,a,THE WITNESS,start_question
+187,414,16,15,You indicated that you intend to be a JAG officer?,q,MR. MANARA,start_answer
+188,416,16,17,"Yes, sir.",a,THE WITNESS,start_question
+189,417,16,18,What branch?,q,MR. MANARA,start_answer
+190,418,16,19,Army.,a,THE WITNESS,start_question
+191,419,16,20,Have you applied at all?,q,MR. MANARA,start_answer
+192,420,16,21,No.,a,THE WITNESS,start_question
+193,421,16,22,Do you believe this accident had any affect on your ability to serve in the Army as a JAG officer attorney?,q,MR. MANARA,start_answer
+194,425,17,1,No.,a,THE WITNESS,start_question
+195,426,17,2,As you sit here today are you currently employed?,q,MR. MANARA,start_answer
+196,428,17,4,Yes.,a,THE WITNESS,start_question
+197,429,17,5,Where do you work?,q,MR. MANARA,start_answer
+198,430,17,6,Johns Eastern.,a,THE WITNESS,start_question
+199,431,17,7,What is that?,q,MR. MANARA,start_answer
+200,432,17,8,It's an insurance company.,a,THE WITNESS,start_question
+201,433,17,9,How long have you been there?,q,MR. MANARA,start_answer
+202,434,17,10,So technically my start date is the 9th.,a,THE WITNESS,start_question
+203,435,17,11,Of this month?,q,MR. MANARA,start_answer
+204,436,17,12,"Yes, but I've already done my hiring paperwork with them.",a,THE WITNESS,start_question
+205,438,17,14,Okay. So you intend to start the 9th of September?,q,MR. MANARA,start_answer
+206,441,17,17,Yes.,a,THE WITNESS,start_question
+207,442,17,18,What are your duties there?,q,MR. MANARA,start_answer
+208,443,17,19,"So I will be a property adjuster and basically reviewing auto accidents, personal injury, interviewing individuals, reviewing their cases and claims.",a,THE WITNESS,start_question
+209,446,17,22,How many hours a week do you intend to work?,q,MR. MANARA,start_answer
+210,447,17,23,40.,a,THE WITNESS,start_question
+211,448,17,24,Do you have a supervisor?,q,MR. MANARA,start_answer
+212,450,18,1,Yes.,a,THE WITNESS,start_question
+213,451,18,2,Who is that?,q,MR. MANARA,start_answer
+214,452,18,3,Leah Miller.,a,THE WITNESS,start_question
+215,453,18,4,Did you inform Leah Miller that you were involved in this accident?,q,MR. MANARA,start_answer
+216,455,18,6,I did not.,a,THE WITNESS,start_question
+217,456,18,7,Before Johns Eastern when was the last time you were employed?,q,MR. MANARA,start_answer
+218,458,18,9,"So I just left the airline so that was from October, 2017 to I guess August of this year.",a,THE WITNESS,start_question
+219,460,18,11,August of 2019?,q,MR. MANARA,start_answer
+220,461,18,12,"Yes, sir.",a,THE WITNESS,start_question
+221,462,18,13,What airline was it?,q,MR. MANARA,start_answer
+222,463,18,14,Republic Airline.,a,THE WITNESS,start_question
+223,464,18,15,Who was your supervisor there?,q,MR. MANARA,start_answer
+224,465,18,16,Kristen Hall.,a,THE WITNESS,start_question
+225,466,18,17,What did you do for the airline?,q,MR. MANARA,start_answer
+226,467,18,18,Flight attendant.,a,THE WITNESS,start_question
+227,468,18,19,What were your duties as a flight attendant?,q,MR. MANARA,start_answer
+228,469,18,20,Maintain safety of the flight and serve drinks.,a,THE WITNESS,start_question
+229,471,18,22,Help out customers?,q,MR. MANARA,start_answer
+230,472,18,23,"Yes, customer service in the air.",a,THE WITNESS,start_question
+231,473,18,24,"Customer service in the air I like that, okay. As a flight attendant what were your hours like?",q,MR. MANARA,start_answer
+232,477,19,3,"Constant -- there's no consistent hours.  I can work 7 days a week, 365 a year.  The only stipulation is I can't work more than 7 days without 24 hours rest.",a,THE WITNESS,start_question
+233,481,19,7,"Did you do all domestic flights or International, both?",q,MR. MANARA,start_answer
+234,483,19,9,Both.,a,THE WITNESS,start_question
+235,484,19,10,As a result of this accident did you miss any time from work at Republic Airline?,q,MR. MANARA,start_answer
+236,486,19,12,I did not.,a,THE WITNESS,start_question
+237,487,19,13,And I believe it looks like you started at Republic Airline --,q,MR. MANARA,start_answer
+238,489,19,15,"After the accident, correct.",a,THE WITNESS,start_question
+239,490,19,16,-- about 6 months after the accident?,q,MR. MANARA,start_answer
+240,491,19,17,Correct.,a,THE WITNESS,start_question
+241,492,19,18,Did you have any difficulties at Republic Airline performing your duties as a result of this accident?,q,MR. MANARA,start_answer
+242,495,19,21,No.,a,THE WITNESS,start_question
+243,496,19,22,Okay. Prior to Republic Airline were you employed?,q,MR. MANARA,start_answer
+244,500,20,1,I was.,a,THE WITNESS,start_question
+245,501,20,2,Where were you working?,q,MR. MANARA,start_answer
+246,502,20,3,I was working for Kids and Family and Epic Developmental Services.,a,THE WITNESS,start_question
+247,504,20,5,What did you do there?,q,MR. MANARA,start_answer
+248,505,20,6,ABA therapist.,a,THE WITNESS,start_question
+249,506,20,7,And that is?,q,MR. MANARA,start_answer
+250,507,20,8,Applied Behavioral therapist.,a,THE WITNESS,start_question
+251,508,20,9,What were your duties like?,q,MR. MANARA,start_answer
+252,509,20,10,"I would work with children and assist them in reaching their goals, children who had autism and developmental delays.",a,THE WITNESS,start_question
+253,512,20,13,Any physical attributes of that job?,q,MR. MANARA,start_answer
+254,513,20,14,"Yes, it was all physical.  A lot of bending, lifting.  Pretty much what the children did I did.",a,THE WITNESS,start_question
+255,515,20,16,How many hours a week did you work?,q,MR. MANARA,start_answer
+256,516,20,17,Between the two around 45.,a,THE WITNESS,start_question
+257,517,20,18,"What do you mean -- oh, is Kids --",q,MR. MANARA,start_answer
+258,518,20,19,"Yeah, two different agencies, yes, sir.",a,THE WITNESS,start_question
+259,519,20,20,And we're talking like a 9:00 to 5:00ish or 9:00 to 6:00 or was it nighttime or you tell me?,q,MR. MANARA,start_answer
+260,521,20,22,So some of my cases were during the day and they would be from like 8:30 to 2:30.  And then I would have some in the evenings that might start at 4:00 to 7:00 or 4:00 to 8:00.,a,THE WITNESS,start_question
+261,526,21,2,"What was the time period that you worked at those two agencies, Kids and Family and Epic Developmental.",q,MR. MANARA,start_answer
+262,529,21,5,So with Kids and Family my case started at 8:30 a.m.,a,THE WITNESS,start_question
+263,531,21,7,Okay.,q,MR. MANARA,start_answer
+264,532,21,8,"Oh, I'm sorry.",a,THE WITNESS,start_question
+265,533,21,9,"Time period, meaning --",q,MR. MANARA,start_answer
+266,534,21,10,I apologize.  So for Kids and Family I started November of 2016.,a,THE WITNESS,start_question
+267,536,21,12,And Epic Developmental when did you start?,q,MR. MANARA,start_answer
+268,537,21,13,February of 2017.,a,THE WITNESS,start_question
+269,538,21,14,Kids and Family when did you stop working at Kids and Family?,q,MR. MANARA,start_answer
+270,540,21,16,So my last case with them was June of 2019 for Kids and Family.  And for Epic Developmental it was April of 2019.,a,THE WITNESS,start_question
+271,543,21,19,Why did you stop at Kids and Family?,q,MR. MANARA,start_answer
+272,544,21,20,So I was a contractor and I would just pick up cases along the way.  I most recently left my last case because it was summertime.  So the way the program works it goes during the school year and in the summer months not all kids IEP handle a summer case so...,a,THE WITNESS,start_question
+273,550,22,1,Fair to say you did not stop at Kids and Family or Epic Developmental as a result of this accident?,q,MR. MANARA,start_answer
+274,553,22,4,So the case that I actually had with Kids and Family I did leave due to the accident.,a,THE WITNESS,start_question
+275,555,22,6,What case was that?,q,MR. MANARA,start_answer
+276,556,22,7,It was the case located at 22nd and Lehigh.,a,THE WITNESS,start_question
+277,557,22,8,When did you start that case?,q,MR. MANARA,start_answer
+278,558,22,9,November of 2016.,a,THE WITNESS,start_question
+279,559,22,10,When did you stop?,q,MR. MANARA,start_answer
+280,560,22,11,I left I think around May of 2017.,a,THE WITNESS,start_question
+281,561,22,12,So about a month after the accident?,q,MR. MANARA,start_answer
+282,562,22,13,Yes.,a,THE WITNESS,start_question
+283,563,22,14,Why did you stop?,q,MR. MANARA,start_answer
+284,564,22,15,Just driving in that area I didn't want to go back over there.,a,THE WITNESS,start_question
+285,566,22,17,So it was because of driving?,q,MR. MANARA,start_answer
+286,567,22,18,Yes.,a,THE WITNESS,start_question
+287,568,22,19,"Like I said, I just want to make sure it's clear.  So you had a case with Kids and Family that was located around 22nd and Lehigh; is that fair?",q,MR. MANARA,start_answer
+288,571,22,22,Correct.,a,THE WITNESS,start_question
+289,572,22,23,And you worked with that case -- is that one child that case?,q,MR. MANARA,start_answer
+290,575,23,1,Yes.,a,THE WITNESS,start_question
+291,576,23,2,"You worked with that one child from November, 2016 to May of 2017?",q,MR. MANARA,start_answer
+292,578,23,4,Correct.,a,THE WITNESS,start_question
+293,579,23,5,And you stopped in May of 2017 about a month after this accident because you didn't like driving in that area?,q,MR. MANARA,start_answer
+294,582,23,8,Yes.,a,THE WITNESS,start_question
+295,583,23,9,Any other reason you stopped?,q,MR. MANARA,start_answer
+296,584,23,10,No.,a,THE WITNESS,start_question
+297,585,23,11,Did you stop any cases at Epic Developmental as a result of this accident?,q,MR. MANARA,start_answer
+298,587,23,13,No.,a,THE WITNESS,start_question
+299,588,23,14,And can I ask what about driving in the area that made you stop?,q,MR. MANARA,start_answer
+300,590,23,16,It was just the anxiety from going down that -- because that was the direction I would take everyday to go home and just driving down the road afterwards I just --,a,THE WITNESS,start_question
+301,594,23,20,Did you ever see anybody to treat for anxiety?,q,MR. MANARA,start_answer
+302,595,23,21,Yes.,a,THE WITNESS,start_question
+303,596,23,22,Who did you see?,q,MR. MANARA,start_answer
+304,597,23,23,Stephanie Monstone she's my -- she was my general practitioner.,a,THE WITNESS,start_question
+305,600,24,1,Can you spell Monstone?,q,MR. MANARA,start_answer
+306,601,24,2,M-O-N-S-T-O-N-E.,a,THE WITNESS,start_question
+307,602,24,3,Where is Stephanie located?,q,MR. MANARA,start_answer
+308,603,24,4,"She was at Crozer Keystone, Broomall.  She left May of this year.",a,THE WITNESS,start_question
+309,605,24,6,Is that your primary care physician?,q,MR. MANARA,start_answer
+310,606,24,7,It is.,a,THE WITNESS,start_question
+311,607,24,8,"Well, let me ask you this, my understanding is you left both Kids and Family and Epic Developmental because your contract ended and it was seasonal, right, in this year, 2019?",q,MR. MANARA,start_answer
+312,611,24,12,"Correct, so technically I guess I'm still employed with Kids and Family.  I can pick up a case when school starts back.  But with Epic Developmental I left them in April.",a,THE WITNESS,start_question
+313,615,24,16,Do you intend to pick up any cases with Kids and Family?,q,MR. MANARA,start_answer
+314,617,24,18,"I probably will do some cases, yes.",a,THE WITNESS,start_question
+315,618,24,19,Would that be on top of your job with the insurance company?,q,MR. MANARA,start_answer
+316,620,24,21,"Yes, sir.",a,THE WITNESS,start_question
+317,621,24,22,Did you have any other jobs at the time of the accident?,q,MR. MANARA,start_answer
+318,623,24,24,I did not.,a,THE WITNESS,start_question
+319,625,25,1,Did you have any other jobs before the accident that you stopped as a result of the accident?,q,MR. MANARA,start_answer
+320,627,25,3,No.,a,THE WITNESS,start_question
+321,628,25,4,Did you miss any work at Kids and Family or Epic Developmental as a result of the accident?,q,MR. MANARA,start_answer
+322,630,25,6,Yes.,a,THE WITNESS,start_question
+323,631,25,7,How much did you miss?,q,MR. MANARA,start_answer
+324,632,25,8,Just the day.,a,THE WITNESS,start_question
+325,633,25,9,From which one?,q,MR. MANARA,start_answer
+326,634,25,10,So the day of the accident I did not go to my case at Epic Developmental.  And then following I missed like a day with the case at Kids and Family.,a,THE WITNESS,start_question
+327,637,25,13,So it's your understanding it would be the day of the accident and the next day?,q,MR. MANARA,start_answer
+328,639,25,15,Yes.,a,THE WITNESS,start_question
+329,640,25,16,And those are the two days you missed?,q,MR. MANARA,start_answer
+330,641,25,17,Yes.,a,THE WITNESS,start_question
+331,642,25,18,Did any doctor put you on any work restriction?,q,MR. MANARA,start_answer
+332,644,25,20,So my chiropractor -- I wouldn't say it was a work restriction but he did give me some instructions.,a,THE WITNESS,start_question
+333,646,25,22,Were those instructions written?,q,MR. MANARA,start_answer
+334,647,25,23,He did provide me written instructions as far as things to do and things to avoid.,a,THE WITNESS,start_question
+335,650,26,1,I understand that.  But did he give you a written instruction or restrictions --,q,MR. MANARA,start_answer
+336,652,26,3,No.,a,THE WITNESS,start_question
+337,653,26,4,-- saying that you can't --,q,MR. MANARA,start_answer
+338,654,26,5,"No, sir.",a,THE WITNESS,start_question
+339,655,26,6,Were you compensated for those two days?,q,MR. MANARA,start_answer
+340,656,26,7,No.,a,THE WITNESS,start_question
+341,657,26,8,"How much money did you miss in those two days -- actually, I'll ask --",q,MR. MANARA,start_chat
+342,659,26,10,Is there a wage loss claim?,side_chat,MR. MANARA,start_chat
+343,661,26,12,Not to my knowledge.,side_chat,MR. SAVINELLI,start_question
+344,663,26,14,How much did you miss in those two days?,q,MR. MANARA,start_answer
+345,664,26,15,Approximately $180 total.,a,THE WITNESS,start_question
+346,665,26,16,Total?,q,MR. MANARA,start_answer
+347,666,26,17,Yes.,a,THE WITNESS,start_question
+348,667,26,18,Okay. How much did you make per hour?,q,MR. MANARA,start_answer
+349,669,26,20,"At Kids and Family, $25.  And $20 at Epic Developmental.",a,THE WITNESS,start_question
+350,671,26,22,8 hour days?,q,MR. MANARA,start_answer
+351,672,26,23,"Total, yes.",a,THE WITNESS,start_question
+352,673,26,24,So at most it would be around 180 bucks?,q,MR. MANARA,start_answer
+353,675,27,1,Yes.,a,THE WITNESS,start_question
+354,676,27,2,Did you feel this accident affected your ability to earn money in the future?,q,MR. MANARA,start_answer
+355,678,27,4,No.,a,THE WITNESS,start_question
+356,679,27,5,"Ma'am, have you ever been arrested, charged or convicted of a crime, misdemeanor or felony?",q,MR. MANARA,start_answer
+357,681,27,7,Yes.,a,THE WITNESS,start_question
+358,682,27,8,What?,q,MR. MANARA,start_answer
+359,683,27,9,It was -- the disposition was disorderly conduct and it was April of 2005.,a,THE WITNESS,start_question
+360,685,27,11,What state?,q,MR. MANARA,start_answer
+361,686,27,12,"Lincoln, Georgia.",a,THE WITNESS,start_question
+362,687,27,13,Georgia?,q,MR. MANARA,start_answer
+363,688,27,14,Yes.,a,THE WITNESS,start_question
+364,689,27,15,Other than that any other arrests or convictions?,q,MR. MANARA,start_answer
+365,691,27,17,No.,a,THE WITNESS,start_question
+366,692,27,18,Do you know what the lead charge of that particular case was?,q,MR. MANARA,start_answer
+367,694,27,20,It was -- I think it was family domestic violence is how it was put.,a,THE WITNESS,start_question
+368,696,27,22,Okay. Have you ever been a party to a civil lawsuit before?,q,MR. MANARA,start_answer
+369,700,28,1,No.,a,THE WITNESS,start_question
+370,701,28,2,Have you ever applied for Social Security benefits?,q,MR. MANARA,start_answer
+371,703,28,4,No.,a,THE WITNESS,start_question
+372,704,28,5,How about disability?,q,MR. MANARA,start_answer
+373,705,28,6,No.,a,THE WITNESS,start_question
+374,706,28,7,And you indicated earlier that your family physician was Stephanie Monstone?,q,MR. MANARA,start_answer
+375,708,28,9,"Yes, sir.",a,THE WITNESS,start_question
+376,709,28,10,And she is located at Crozer Keystone?,q,MR. MANARA,start_answer
+377,710,28,11,She was until May of 2019.,a,THE WITNESS,start_question
+378,711,28,12,How long has Doctor Monstone been your PCP?,q,MR. MANARA,start_answer
+379,712,28,13,Since May of 2016.,a,THE WITNESS,start_question
+380,713,28,14,How often do you see Doctor Monstone?,q,MR. MANARA,start_answer
+381,714,28,15,I would see her at least once or twice a year.,a,THE WITNESS,start_question
+382,715,28,16,And you indicated that -- did you see Doctor Monstone as a result of this accident?,q,MR. MANARA,start_answer
+383,717,28,18,Yes.,a,THE WITNESS,start_question
+384,718,28,19,How many times?,q,MR. MANARA,start_answer
+385,719,28,20,"Once, twice.",a,THE WITNESS,start_question
+386,720,28,21,Do you know when?,q,MR. MANARA,start_answer
+387,721,28,22,May of 2017.  And then I think I had a follow-up around June of the same year.,a,THE WITNESS,start_question
+388,723,28,24,June of 2017?,q,MR. MANARA,start_answer
+389,725,29,1,2017.,a,THE WITNESS,start_question
+390,726,29,2,So maybe two times?,q,MR. MANARA,start_answer
+391,727,29,3,Yes.,a,THE WITNESS,start_question
+392,728,29,4,Okay. As you sit here today do you have health insurance?,q,MR. MANARA,start_answer
+393,731,29,7,Yes.,a,THE WITNESS,start_question
+394,732,29,8,Who is that through?,q,MR. MANARA,start_answer
+395,733,29,9,United Healthcare.,a,THE WITNESS,start_question
+396,734,29,10,On the day of the accident did you have health insurance?,q,MR. MANARA,start_answer
+397,736,29,12,"Same, yes.",a,THE WITNESS,start_question
+398,737,29,13,Any lapses in coverage from the date of the accident until today?,q,MR. MANARA,start_answer
+399,739,29,15,No.,a,THE WITNESS,start_question
+400,740,29,16,Do you have any medical conditions that you suffer from before the accident?,q,MR. MANARA,start_answer
+401,742,29,18,No.,a,THE WITNESS,start_question
+402,743,29,19,When was the last time you were a patient in a hospital in the past 5 years?,q,MR. MANARA,start_answer
+403,745,29,21,Any hospital?,a,THE WITNESS,start_question
+404,746,29,22,Yes.,q,MR. MANARA,start_answer
+405,747,29,23,(No response.),a,THE WITNESS,start_question
+406,748,29,24,"Meaning, in the past 5 years did you go to the hospital for any reason?",q,MR. MANARA,start_answer
+407,751,30,2,I did.  I'm trying to think of the actual date.  So in April of 2016.,a,THE WITNESS,start_question
+408,753,30,4,So before the accident?,q,MR. MANARA,start_answer
+409,754,30,5,"Yes, prior to me moving to Pennsylvania.",a,THE WITNESS,start_question
+410,755,30,6,What was that for?,q,MR. MANARA,start_answer
+411,756,30,7,I lost my daughter.,a,THE WITNESS,start_question
+412,757,30,8,I apologize. Did you go to the hospital at all for this accident?,q,MR. MANARA,start_answer
+413,760,30,11,"For this accident -- oh, I'm sorry, I thought you were asking just in general.",a,THE WITNESS,start_question
+414,762,30,13,"I did ask in general, I'm moving on.",q,MR. MANARA,start_answer
+415,763,30,14,"Yes, well, yes, for x-rays.",a,THE WITNESS,start_question
+416,764,30,15,When did you go to the hospital for x-rays?,q,MR. MANARA,start_answer
+417,765,30,16,So I went in April.,a,THE WITNESS,start_question
+418,766,30,17,Which hospital did you go to?,q,MR. MANARA,start_answer
+419,767,30,18,"Wait a minute, I'm sorry, I apologize.",a,THE WITNESS,start_question
+420,768,30,19,"No worries, take your time.  That was one thing I forgot to tell you.  If at any time you need a break, you need to use the restroom, you need a glass of water, stop, we'll take it.  The only thing that I ask is that if there's a question pending you answer the question and then we can go about your break. Do you need some time?",q,MR. MANARA,start_answer
+421,776,31,2,"Just a moment, please.",a,THE WITNESS,start_question
+422,777,31,3,"Do you need me to step out, I can do whatever you need.",q,MR. MANARA,start_answer
+423,779,31,5,"No, no, you're fine. Okay, I'm ready.",a,THE WITNESS,start_question
+424,781,31,7,You're good.,q,MR. MANARA,start_answer
+425,782,31,8,"I'm ready, yes, I'm sorry.",a,THE WITNESS,start_question
+426,783,31,9,"It's okay.  It's just a deposition, okay. It's not that exciting.",q,MR. MANARA,start_answer
+427,785,31,11,So the question you asked me -- the last question you asked me I went for my x-rays it was April of 2017.,a,THE WITNESS,start_question
+428,788,31,14,Which hospital did you go to?,q,MR. MANARA,start_answer
+429,789,31,15,So I didn't go to the actual hospital.  I went to the Imaging Center at Crozer Keystone in Broomall.,a,THE WITNESS,start_question
+430,791,31,17,Does April 11th sound about right?,q,MR. MANARA,start_answer
+431,792,31,18,(No response.),a,THE WITNESS,start_question
+432,793,31,19,Let me rephrase the question. Did you go to the emergency room as a result of the accident?,q,MR. MANARA,start_answer
+433,796,31,22,"No, sir.",a,THE WITNESS,start_question
+434,797,31,23,"All right. So my understanding, ma'am, is this accident happened April 3rd of 2017?",q,MR. MANARA,start_answer
+435,801,32,2,Yes.,a,THE WITNESS,start_question
+436,802,32,3,I want to now ask you about any accidents you may have had prior to April of 2017.,q,MR. MANARA,start_answer
+437,804,32,5,Okay.,a,THE WITNESS,start_question
+438,805,32,6,"And by accidents I just don't mean car accidents.  I mean, a slip, a fall, a workplace incident, an altercation, anything like that, okay.",q,MR. MANARA,start_answer
+439,808,32,9,Okay.,a,THE WITNESS,start_question
+440,809,32,10,So prior to April of 2017 have you been involved in any of those accidents or incidents that we discussed?,q,MR. MANARA,start_answer
+441,812,32,13,Yes.,a,THE WITNESS,start_question
+442,813,32,14,Do you remember how many or is there more than one?,q,MR. MANARA,start_answer
+443,815,32,16,Two.,a,THE WITNESS,start_question
+444,816,32,17,"Two, okay. Were they car accidents?",q,MR. MANARA,start_answer
+445,818,32,19,"Three, two car accidents and one physical altercation.",a,THE WITNESS,start_question
+446,820,32,21,Okay. So tell me when the first car accident was?,q,MR. MANARA,start_answer
+447,823,32,24,The first car accident was in around I think June of 2004.,a,THE WITNESS,start_question
+448,826,33,2,"How about March 7th, 2004; does that sound about right?",q,MR. MANARA,start_answer
+449,828,33,4,"That's probably -- okay, sorry.  I know it was before I had my son, sorry.",a,THE WITNESS,start_question
+450,830,33,6,Was that in South Carolina?,q,MR. MANARA,start_answer
+451,831,33,7,Yes.,a,THE WITNESS,start_question
+452,832,33,8,What type of accident was that?,q,MR. MANARA,start_answer
+453,833,33,9,It was a single car accident.,a,THE WITNESS,start_question
+454,834,33,10,"Was it a rear-end accident, intersection?",q,MR. MANARA,start_answer
+455,835,33,11,"Just single car, just me.  It was due to the weather.",a,THE WITNESS,start_question
+456,837,33,13,Okay. Were you injured at all in that accident?,q,MR. MANARA,start_answer
+457,840,33,16,Yes.,a,THE WITNESS,start_question
+458,841,33,17,What did you injure?,q,MR. MANARA,start_answer
+459,842,33,18,My head.,a,THE WITNESS,start_question
+460,843,33,19,Was your car totaled?,q,MR. MANARA,start_answer
+461,844,33,20,Yes.,a,THE WITNESS,start_question
+462,845,33,21,Did you go to the ER for that?,q,MR. MANARA,start_answer
+463,846,33,22,No.,a,THE WITNESS,start_question
+464,847,33,23,That head injury did you treat at all after the ER?,q,MR. MANARA,start_answer
+465,850,34,1,I did go.,a,THE WITNESS,start_question
+466,851,34,2,Where did you go?,q,MR. MANARA,start_answer
+467,852,34,3,Maybe Palmetto Baptist or either Lexington Medical.,a,THE WITNESS,start_question
+468,854,34,5,How long did you treat?,q,MR. MANARA,start_answer
+469,855,34,6,Off and on.  I did go to a neurologist.,a,THE WITNESS,start_question
+470,856,34,7,What did you see the neurologist for?,q,MR. MANARA,start_answer
+471,857,34,8,Migraines.,a,THE WITNESS,start_question
+472,858,34,9,Migraines?,q,MR. MANARA,start_answer
+473,859,34,10,Uh-huh.,a,THE WITNESS,start_question
+474,860,34,11,Is that a yes?,q,MR. MANARA,start_answer
+475,861,34,12,Yes.,a,THE WITNESS,start_question
+476,862,34,13,After that accident did your migraines disappear or do you continue to suffer?,q,MR. MANARA,start_answer
+477,864,34,15,"After the accident they lasted for maybe about 6, 7 months and then they kind of went away.",a,THE WITNESS,start_question
+478,866,34,17,Are you claiming that you suffered any migraines as a result of this accident?,q,MR. MANARA,start_answer
+479,868,34,19,I did have some migraines afterwards.,a,THE WITNESS,start_question
+480,869,34,20,Did they resolve?,q,MR. MANARA,start_answer
+481,870,34,21,They did.,a,THE WITNESS,start_question
+482,871,34,22,How long did they take to resolve after this accident?,q,MR. MANARA,start_answer
+483,873,34,24,"Maybe like 4, 5 months.",a,THE WITNESS,start_question
+484,875,35,1,Were you involved in any other accidents?,q,MR. MANARA,start_answer
+485,876,35,2,Yes.,a,THE WITNESS,start_question
+486,877,35,3,Do you remember when that next one was?,q,MR. MANARA,start_answer
+487,878,35,4,I don't remember the actual date.,a,THE WITNESS,start_question
+488,879,35,5,"How about July 2nd, 2006?",q,MR. MANARA,start_answer
+489,880,35,6,"Probably right, Columbia, South Carolina.",a,THE WITNESS,start_question
+490,881,35,7,Charleston?,q,MR. MANARA,start_answer
+491,882,35,8,Charleston.,a,THE WITNESS,start_question
+492,883,35,9,Rollover?,q,MR. MANARA,start_answer
+493,884,35,10,"No, the rollover was in Columbia.",a,THE WITNESS,start_question
+494,885,35,11,Could be?,q,MR. MANARA,start_answer
+495,886,35,12,Yeah.,a,THE WITNESS,start_question
+496,887,35,13,Were you involved in a rollover accident in July of 2006 about?,q,MR. MANARA,start_answer
+497,889,35,15,"No, actually, no, not 2006.  Oh, no, my vehicle was, somebody had my car and she totaled it.",a,THE WITNESS,start_question
+498,891,35,17,It's fair to say you were not driving in that one?,q,MR. MANARA,start_answer
+499,893,35,19,"I was not involved, yes.",a,THE WITNESS,start_question
+500,894,35,20,"Got you. How about the next one, August 31st, 2011 in Charlotte, happened in a parking lot?",q,MR. MANARA,start_answer
+501,897,35,23,"Yes, I was parked, someone backed into me, yes.",a,THE WITNESS,start_question
+502,900,36,1,Was your car totaled at all in that accident?,q,MR. MANARA,start_answer
+503,901,36,2,It was not totaled.,a,THE WITNESS,start_question
+504,902,36,3,Damage at all?,q,MR. MANARA,start_answer
+505,903,36,4,Yes.,a,THE WITNESS,start_question
+506,904,36,5,Were you in the car at the time?,q,MR. MANARA,start_answer
+507,905,36,6,Yes.,a,THE WITNESS,start_question
+508,906,36,7,Were you injured at all?,q,MR. MANARA,start_answer
+509,907,36,8,I was not.,a,THE WITNESS,start_question
+510,908,36,9,Car drivable?,q,MR. MANARA,start_answer
+511,909,36,10,Yes.,a,THE WITNESS,start_question
+512,910,36,11,Any treatment from that accident?,q,MR. MANARA,start_answer
+513,911,36,12,To my car?,a,THE WITNESS,start_question
+514,912,36,13,To you?,q,MR. MANARA,start_answer
+515,913,36,14,No.,a,THE WITNESS,start_question
+516,914,36,15,Was there another accident you were telling me about?,q,MR. MANARA,start_answer
+517,916,36,17,It was.  I wasn't driving.  I was in the car.,a,THE WITNESS,start_question
+518,917,36,18,When was that?,q,MR. MANARA,start_answer
+519,918,36,19,"That's the one that I don't remember.  But I do know it was in Columbia, South Carolina and it was prior to 2005.  I'm sorry, I don't know the exact date.",a,THE WITNESS,start_question
+520,921,36,22,Was the car totaled?,q,MR. MANARA,start_answer
+521,922,36,23,Yes.,a,THE WITNESS,start_question
+522,923,36,24,Were you injured at all?,q,MR. MANARA,start_answer
+523,925,37,1,No.,a,THE WITNESS,start_question
+524,926,37,2,So no treatment or anything?,q,MR. MANARA,start_answer
+525,927,37,3,No.,a,THE WITNESS,start_question
+526,928,37,4,No ER?,q,MR. MANARA,start_answer
+527,929,37,5,No.,a,THE WITNESS,start_question
+528,930,37,6,Any other type of incidents or car accidents?,q,MR. MANARA,start_answer
+529,931,37,7,Just the altercation.,a,THE WITNESS,start_question
+530,932,37,8,Where was that altercation?,q,MR. MANARA,start_answer
+531,933,37,9,It was in Georgia.,a,THE WITNESS,start_question
+532,934,37,10,Were you injured at all in that altercation?,q,MR. MANARA,start_answer
+533,935,37,11,Yes.,a,THE WITNESS,start_question
+534,936,37,12,What year was that?,q,MR. MANARA,start_answer
+535,937,37,13,2005.,a,THE WITNESS,start_question
+536,938,37,14,What part of your body was injured?,q,MR. MANARA,start_answer
+537,939,37,15,"My face, arms, hand?",a,THE WITNESS,start_question
+538,940,37,16,Which hand?,q,MR. MANARA,start_answer
+539,941,37,17,My right.,a,THE WITNESS,start_question
+540,942,37,18,Anything else?,q,MR. MANARA,start_answer
+541,943,37,19,No.,a,THE WITNESS,start_question
+542,944,37,20,"Are you indicating that your face, arms and right hand were injured at all in this accident?",q,MR. MANARA,start_answer
+543,946,37,22,No.,a,THE WITNESS,start_question
+544,947,37,23,"I also see, ma'am, a slip and fall in Las Vegas, December 31st, 2015?",q,MR. MANARA,start_answer
+545,950,38,1,No.,a,THE WITNESS,start_question
+546,951,38,2,"No, you don't remember that?",q,MR. MANARA,start_answer
+547,952,38,3,No.,a,THE WITNESS,start_question
+548,953,38,4,Okay.,q,MR. MANARA,start_answer
+549,954,38,5,"Oh, that's not a slip and fall.  That was at Yard House Restaurant and it was glass that they had in their booth and it got into my hand.  That wasn't a slip and fall though.",a,THE WITNESS,start_question
+550,958,38,9,"Okay. Again, which hand?",q,MR. MANARA,start_answer
+551,960,38,11,That was my left hand.,a,THE WITNESS,start_question
+552,961,38,12,Did you injure your left hand at all in this accident?,q,MR. MANARA,start_answer
+553,963,38,14,No.,a,THE WITNESS,start_question
+554,964,38,15,"Okay. So I'm going to ask you the same question but I want to ask you the question after April of 2017, okay.  So after April of 2017 were you involved in any accidents, altercations, slips or falls or workers' compensation injuries after April of 2017?",q,MR. MANARA,start_answer
+555,970,38,21,Yes.,a,THE WITNESS,start_question
+556,971,38,22,How many?,q,MR. MANARA,start_answer
+557,972,38,23,One.,a,THE WITNESS,start_question
+558,973,38,24,When was that?,q,MR. MANARA,start_answer
+559,975,39,1,January 31st of this year.,a,THE WITNESS,start_question
+560,976,39,2,What happened?,q,MR. MANARA,start_answer
+561,977,39,3,Double engine failure on a plane and --,a,THE WITNESS,start_question
+562,978,39,4,Uh-huh.,q,MR. MANARA,start_answer
+563,979,39,5,-- I injured my right ankle and foot as the plane was kind of going down. It didn't crash.,a,THE WITNESS,start_question
+564,982,39,8,Are you claiming that you injured your right ankle or foot in this accident --,q,MR. MANARA,start_answer
+565,984,39,10,No.,a,THE WITNESS,start_question
+566,985,39,11,-- that we're here for today?,q,MR. MANARA,start_answer
+567,986,39,12,No.,a,THE WITNESS,start_question
+568,987,39,13,"I also see, ma'am, one that happened October 6th of 2017, a facial contusion?",q,MR. MANARA,start_answer
+569,989,39,15,(No response.),a,THE WITNESS,start_question
+570,990,39,16,If you don't remember it's okay.,q,MR. MANARA,start_answer
+571,991,39,17,I don't remember. You said 2017?,a,THE WITNESS,start_question
+572,993,39,19,Yes.,q,MR. MANARA,start_answer
+573,994,39,20,I don't remember.,a,THE WITNESS,start_question
+574,995,39,21,How about July 1st of 2018.  That's something at the airport; do you remember that?,q,MR. MANARA,start_answer
+575,997,39,23,It's probably the same thing with the -- July 1st of 2018 you said?,a,THE WITNESS,start_question
+576,1000,40,1,Yes.,q,MR. MANARA,start_answer
+577,1001,40,2,"2018, that was last year.  Oh, that wasn't a workers' comp claim.  I got bit by spiders and I refused to file a claim.",a,THE WITNESS,start_question
+578,1004,40,5,"Oh, okay. Ma'am, before we get into this accident do you have any social media?",q,MR. MANARA,start_answer
+579,1007,40,8,Yes.,a,THE WITNESS,start_question
+580,1008,40,9,What do you got?,q,MR. MANARA,start_answer
+581,1009,40,10,Facebook.,a,THE WITNESS,start_question
+582,1010,40,11,Anything else?,q,MR. MANARA,start_answer
+583,1011,40,12,Instagram.,a,THE WITNESS,start_question
+584,1012,40,13,Anything else?,q,MR. MANARA,start_answer
+585,1013,40,14,That's it.,a,THE WITNESS,start_question
+586,1014,40,15,What's your Facebook name?,q,MR. MANARA,start_answer
+587,1015,40,16,That's a good -- I don't use it so...it's under my name though.,a,THE WITNESS,start_question
+588,1017,40,18,How about Instagram?,q,MR. MANARA,start_answer
+589,1018,40,19,"I think it's my name underscore law.  I honestly can't tell you how to log into it, I'm sorry.",a,THE WITNESS,start_question
+590,1020,40,21,"All right. Discussing this accident, my understanding is it happened on April 3rd, 2017; does that sound about right?",q,MR. MANARA,start_answer
+591,1025,41,1,Yes.,a,THE WITNESS,start_question
+592,1026,41,2,What time approximately?,q,MR. MANARA,start_answer
+593,1027,41,3,About 2:20 in the afternoon.,a,THE WITNESS,start_question
+594,1028,41,4,Where were you coming from?,q,MR. MANARA,start_answer
+595,1029,41,5,"I was coming from 22nd and Lehigh, work.",a,THE WITNESS,start_question
+596,1030,41,6,And that's at Kids and Family?,q,MR. MANARA,start_answer
+597,1031,41,7,"There's a church there but yes, I was working with Kids and Family.",a,THE WITNESS,start_question
+598,1033,41,9,Where were you going to?,q,MR. MANARA,start_answer
+599,1034,41,10,Home.,a,THE WITNESS,start_question
+600,1035,41,11,In Wayne?,q,MR. MANARA,start_answer
+601,1036,41,12,Yes.,a,THE WITNESS,start_question
+602,1037,41,13,How was the weather that day?,q,MR. MANARA,start_answer
+603,1038,41,14,"Sunny, clear.",a,THE WITNESS,start_question
+604,1039,41,15,"Fair to say, obviously, you don't believe the weather had anything to do with this accident?",q,MR. MANARA,start_answer
+605,1041,41,17,No.,a,THE WITNESS,start_question
+606,1042,41,18,"All right. Within 24 hours any alcohol, medications or any sort of substance prior to the accident?",q,MR. MANARA,start_answer
+607,1046,41,22,No.,a,THE WITNESS,start_question
+608,1047,41,23,Where did the accident occur?,q,MR. MANARA,start_answer
+609,1048,41,24,25th and Clearfield.,a,THE WITNESS,start_question
+610,1050,42,1,All right. What street were you on?,q,MR. MANARA,start_answer
+611,1052,42,3,25th.,a,THE WITNESS,start_question
+612,1053,42,4,How many lanes are on 25th Street?,q,MR. MANARA,start_answer
+613,1054,42,5,One.,a,THE WITNESS,start_question
+614,1055,42,6,Is that a one-way street?,q,MR. MANARA,start_answer
+615,1056,42,7,It is.,a,THE WITNESS,start_question
+616,1057,42,8,Which way?,q,MR. MANARA,start_answer
+617,1058,42,9,(No response.),a,THE WITNESS,start_question
+618,1059,42,10,"Is it northbound, southbound?",q,MR. MANARA,start_answer
+619,1060,42,11,North.,a,THE WITNESS,start_question
+620,1061,42,12,Is there parking on both sides?,q,MR. MANARA,start_answer
+621,1062,42,13,It is.,a,THE WITNESS,start_question
+622,1063,42,14,Is there space for two vehicles to fit in that road?,q,MR. MANARA,start_answer
+623,1065,42,16,Can you rephrase that?,a,THE WITNESS,start_question
+624,1066,42,17,"Sure, on 25th Street is there space for two cars to fit side by side?",q,MR. MANARA,start_answer
+625,1068,42,19,If there's no cars parked on both sides I'm sure yes.,a,THE WITNESS,start_question
+626,1070,42,21,How was -- and you were headed northbound?,q,MR. MANARA,start_answer
+627,1071,42,22,Yes.,a,THE WITNESS,start_question
+628,1072,42,23,How was traffic?,q,MR. MANARA,start_answer
+629,1073,42,24,On 25th?,a,THE WITNESS,start_question
+630,1075,43,1,Yes.,q,MR. MANARA,start_answer
+631,1076,43,2,"There was none, light.",a,THE WITNESS,start_question
+632,1077,43,3,My client what street was he on?,q,MR. MANARA,start_answer
+633,1078,43,4,I'm not sure.  I only noticed him when he was behind me on 25th.,a,THE WITNESS,start_question
+634,1080,43,6,So you saw him on 25th?,q,MR. MANARA,start_answer
+635,1081,43,7,"Correct, because I turned off of Lehigh on to 25th.",a,THE WITNESS,start_question
+636,1083,43,9,What lane was he in?,q,MR. MANARA,start_answer
+637,1084,43,10,He was behind me.,a,THE WITNESS,start_question
+638,1085,43,11,I'm assuming heading northbound as well?,q,MR. MANARA,start_answer
+639,1086,43,12,Yes.,a,THE WITNESS,start_question
+640,1087,43,13,Was he the first car behind you?,q,MR. MANARA,start_answer
+641,1088,43,14,"Yes, he was the only car behind me.",a,THE WITNESS,start_question
+642,1089,43,15,Where the accident occurred is there any sort of temporary road signs or construction in that location?,q,MR. MANARA,start_answer
+643,1092,43,18,"No, not -- no.",a,THE WITNESS,start_question
+644,1093,43,19,"Where the accident occurred were there any traffic control devices, meaning, stop lights or stop signs?",q,MR. MANARA,start_answer
+645,1096,43,22,There's a stop sign.,a,THE WITNESS,start_question
+646,1097,43,23,Stop sign?,q,MR. MANARA,start_answer
+647,1098,43,24,"Yes, sir.",a,THE WITNESS,start_question
+648,1100,44,1,Did this accident occur at an intersection?,q,MR. MANARA,start_answer
+649,1101,44,2,It did.,a,THE WITNESS,start_question
+650,1102,44,3,Okay. And 25th and Clearfield?,q,MR. MANARA,start_answer
+651,1104,44,5,Yes.,a,THE WITNESS,start_question
+652,1105,44,6,Clearfield Street is that a one-way or two-way street?,q,MR. MANARA,start_answer
+653,1107,44,8,It's a one-way.,a,THE WITNESS,start_question
+654,1108,44,9,Do you know which direction that heads?,q,MR. MANARA,start_answer
+655,1109,44,10,I just know I can only make a left onto Clearfield.,a,THE WITNESS,start_question
+656,1111,44,12,So that would be westbound?,q,MR. MANARA,start_answer
+657,1112,44,13,Probably.,a,THE WITNESS,start_question
+658,1113,44,14,How fast were you going at the time of the impact?,q,MR. MANARA,start_answer
+659,1115,44,16,Maybe 10 miles an hour.  I had just stopped so I was just starting to accelerate.,a,THE WITNESS,start_question
+660,1117,44,18,So you were pulling from a stop sign?,q,MR. MANARA,start_answer
+661,1118,44,19,"Yes, sir.",a,THE WITNESS,start_question
+662,1119,44,20,Do you know how fast my client was going at the time of the impact?,q,MR. MANARA,start_answer
+663,1121,44,22,I don't.,a,THE WITNESS,start_question
+664,1122,44,23,Do you know what the speed limit is on 25th Street?,q,MR. MANARA,start_answer
+665,1125,45,1,I do not.,a,THE WITNESS,start_question
+666,1126,45,2,Were you the driver of your car?,q,MR. MANARA,start_answer
+667,1127,45,3,I was.,a,THE WITNESS,start_question
+668,1128,45,4,Anybody else in the car?,q,MR. MANARA,start_answer
+669,1129,45,5,No.,a,THE WITNESS,start_question
+670,1130,45,6,Were you wearing your seatbelt?,q,MR. MANARA,start_answer
+671,1131,45,7,Yes.,a,THE WITNESS,start_question
+672,1132,45,8,Tell me how the accident happened in your own words?,q,MR. MANARA,start_answer
+673,1134,45,10,"I was going north on 25th.  And I approached the stop sign, stopped to make a left, the gentleman that was behind me in the black Jeep -- I'm sorry. When I stopped at a stop sign there was a car on Clearfield that had the right of way and I stopped to allow them to go.  Once they went through I went to proceed to go make a left turn and the gentleman came from behind me on my left and we made impact in the intersection.",a,THE WITNESS,start_question
+674,1143,45,19,All right. Was it your intention to go straight or turn left?,q,MR. MANARA,start_answer
+675,1146,45,22,Turn left.,a,THE WITNESS,start_question
+676,1147,45,23,Did you have your turn signal on?,q,MR. MANARA,start_answer
+677,1148,45,24,I did.,a,THE WITNESS,start_question
+678,1150,46,1,Your understanding is my client's car was to the left of yours?,q,MR. MANARA,start_answer
+679,1152,46,3,When we made impact?,a,THE WITNESS,start_question
+680,1153,46,4,Yes.,q,MR. MANARA,start_answer
+681,1154,46,5,"At impact it was, prior to it he was behind me.",a,THE WITNESS,start_question
+682,1156,46,7,So there was space on the left-hand side of your car?,q,MR. MANARA,start_answer
+683,1158,46,9,"Yes, because of the fire hydrant so no parking there.  Prior to the stop sign there was cars on both sides.",a,THE WITNESS,start_question
+684,1161,46,12,Where did the impact happen in the intersection?,q,MR. MANARA,start_answer
+685,1163,46,14,In the intersection.,a,THE WITNESS,start_question
+686,1164,46,15,"Meaning, it would have happened on Clearfield Street?",q,MR. MANARA,start_answer
+687,1166,46,17,Yes.,a,THE WITNESS,start_question
+688,1167,46,18,Did you see my client's car at all to the left of you before the impact?,q,MR. MANARA,start_answer
+689,1169,46,20,No.,a,THE WITNESS,start_question
+690,1170,46,21,When was the last time you saw my client's car before the impact?,q,MR. MANARA,start_answer
+691,1172,46,23,Before I proceeded to make the left.,a,THE WITNESS,start_question
+692,1173,46,24,"So maybe it might be easier, the last time you saw my client's car you were stopped at the stop sign; is that fair?",q,MR. MANARA,start_answer
+693,1177,47,3,"Yes, sir, uh-huh.",a,THE WITNESS,start_question
+694,1178,47,4,Is that a yes?,q,MR. MANARA,start_answer
+695,1179,47,5,Yes.,a,THE WITNESS,start_question
+696,1180,47,6,And you didn't see it again until the impact?,q,MR. MANARA,start_answer
+697,1181,47,7,Correct.,a,THE WITNESS,start_question
+698,1182,47,8,And fair to say when you saw it behind you was that in your rearview mirror or were you turned around?,q,MR. MANARA,start_answer
+699,1184,47,10,My rearview.,a,THE WITNESS,start_question
+700,1185,47,11,How would you describe the severity of the impact?,q,MR. MANARA,start_answer
+701,1187,47,13,"Startling, I mean, it was a jolt, I guess.  It wasn't so much that -- I'm sorry, I don't know how to describe --",a,THE WITNESS,start_question
+702,1190,47,16,As best you can.  I was not there so I just want to know --,q,MR. MANARA,start_answer
+703,1192,47,18,"So the impact it was more of a jolt, it was startling.  But it wasn't as minor as if we both were stopped and just kind of tapped, you know.  So it was more severe than that.",a,THE WITNESS,start_question
+704,1196,47,22,More than a tap?,q,MR. MANARA,start_answer
+705,1197,47,23,"Yes, sir.",a,THE WITNESS,start_question
+706,1198,47,24,So you would describe the impact as more than a tap?,q,MR. MANARA,start_answer
+707,1201,48,2,Yes.,a,THE WITNESS,start_question
+708,1202,48,3,Who do you believe caused the accident?,q,MR. MANARA,start_answer
+709,1203,48,4,The gentleman behind me.,a,THE WITNESS,start_question
+710,1204,48,5,Do you believe you did anything wrong?,q,MR. MANARA,start_answer
+711,1205,48,6,That I did anything wrong?,a,THE WITNESS,start_question
+712,1206,48,7,Yes.,q,MR. MANARA,start_answer
+713,1207,48,8,No.,a,THE WITNESS,start_question
+714,1208,48,9,"I believe you already said this, after you saw my client's car behind you you never saw it until the time of impact?",q,MR. MANARA,start_answer
+715,1211,48,12,"Yes, sir.",a,THE WITNESS,start_question
+716,1212,48,13,When you saw my client's car was he stopped as well?,q,MR. MANARA,start_answer
+717,1214,48,15,Yes.,a,THE WITNESS,start_question
+718,1215,48,16,When you saw my client's car behind you was he stopped as well?,q,MR. MANARA,start_answer
+719,1217,48,18,Yes.,a,THE WITNESS,start_question
+720,1218,48,19,When you first say my client's car behind you was it directly behind you or more to your left or more to your right?,q,MR. MANARA,start_answer
+721,1221,48,22,He was directly behind me.,a,THE WITNESS,start_question
+722,1222,48,23,On 25th Street --,q,MR. MANARA,start_answer
+723,1223,48,24,Yes.,a,THE WITNESS,start_question
+724,1225,49,1,"-- were you more to the right, to the middle or to the left when you stopped at the stop sign?",q,MR. MANARA,start_answer
+725,1227,49,3,"So I actually moved slightly to the left to stop only because he seemed in a hurry.  That's why I noticed him because he was tailgating me.  So I slightly moved to the left so that I can make a left turn since I had my signal that way if he did want to proceed, you know, he can go to my right.  So I did stop slightly to the left.",a,THE WITNESS,start_question
+726,1234,49,10,"Now, my understanding is looking at pictures of 25th Street that four cars can actually fit across including parking cars; is that not your understanding?",q,MR. MANARA,start_answer
+727,1237,49,13,"So every time I've driven up it's also been just one car.  Again, I'm sure there's space that people could probably go around but there's always been just that one car.",a,THE WITNESS,start_question
+728,1241,49,17,At the time of the accident what were you doing at the time of the impact while you were driving?,q,MR. MANARA,start_answer
+729,1243,49,19,I'm sorry?,a,THE WITNESS,start_question
+730,1244,49,20,"Meaning, were you listening to the radio?",q,MR. MANARA,start_answer
+731,1245,49,21,Yes.,a,THE WITNESS,start_question
+732,1246,49,22,Were you on your cell phone?,q,MR. MANARA,start_answer
+733,1247,49,23,I was not.,a,THE WITNESS,start_question
+734,1248,49,24,Did you need a GPS?,q,MR. MANARA,start_answer
+735,1250,50,1,No.,a,THE WITNESS,start_question
+736,1251,50,2,What's your cell phone number?,q,MR. MANARA,start_answer
+737,1252,50,3,(704) 430-6135.,a,THE WITNESS,start_question
+738,1253,50,4,Who is your carrier?,q,MR. MANARA,start_answer
+739,1254,50,5,T-Mobile.,a,THE WITNESS,start_question
+740,1255,50,6,Did you do anything to avoid the accident?,q,MR. MANARA,start_answer
+741,1256,50,7,"No, I didn't.  It just happened so quick so no.",a,THE WITNESS,start_question
+742,1258,50,9,You indicated that you were going to say you didn't see or what were you going to say?,q,MR. MANARA,start_answer
+743,1260,50,11,"I didn't have time to do anything at that point.  Like I said, the first time I saw him as he dipped around we made impact so...",a,THE WITNESS,start_question
+744,1263,50,14,Where did the cars end up after the accident?,q,MR. MANARA,start_answer
+745,1264,50,15,We moved them across to the opposite side of 25th.,a,THE WITNESS,start_question
+746,1266,50,17,Cars drivable?,q,MR. MANARA,start_answer
+747,1267,50,18,Yes.,a,THE WITNESS,start_question
+748,1268,50,19,All right. Can you describe the area of impact to your car?,q,MR. MANARA,start_answer
+749,1271,50,22,"It was from my driver's side front bumper down the side.  The main damage was the left front or driver's side front, I'm sorry.",a,THE WITNESS,start_question
+750,1275,51,1,The main damage to your car was the driver's side front?,q,MR. MANARA,start_answer
+751,1277,51,3,"Yes, and it was just scratched along the side.",a,THE WITNESS,start_question
+752,1278,51,4,Down the driver's side?,q,MR. MANARA,start_answer
+753,1279,51,5,Yes.,a,THE WITNESS,start_question
+754,1280,51,6,Was it the driver front headlight was it in front of that or behind that; does that make sense?,q,MR. MANARA,start_answer
+755,1282,51,8,"Yes, so it started at the bumper so in front of the headlight on the side; is that what you're asking me?",a,THE WITNESS,start_question
+756,1285,51,11,Yes.,q,MR. MANARA,start_answer
+757,1286,51,12,Yes.,a,THE WITNESS,start_question
+758,1287,51,13,"Meaning, was the main crux the damage was it on your front bumper or was it on your front quarter panel?",q,MR. MANARA,start_answer
+759,1290,51,16,Front quarter panel.,a,THE WITNESS,start_question
+760,1291,51,17,You indicated earlier that your car was drivable?,q,MR. MANARA,start_answer
+761,1293,51,19,Yes.,a,THE WITNESS,start_question
+762,1294,51,20,What was the area of impact to my client's car?,q,MR. MANARA,start_answer
+763,1296,51,22,Passenger's side front.,a,THE WITNESS,start_question
+764,1297,51,23,Where in the front?,q,MR. MANARA,start_answer
+765,1298,51,24,"Honestly, I'm not sure.  I know it was on the passenger's side like front part.  I guess about like his wheel, front wheel area.",a,THE WITNESS,start_question
+766,1302,52,3,Was it in front of the front wheel or behind the front wheel?,q,MR. MANARA,start_answer
+767,1304,52,5,I don't know.,a,THE WITNESS,start_question
+768,1305,52,6,Do you remember what kind of car it was?,q,MR. MANARA,start_answer
+769,1306,52,7,"Yes, a black Jeep.",a,THE WITNESS,start_question
+770,1307,52,8,"Okay. Let me ask you this, did you take any photos?",q,MR. MANARA,start_answer
+771,1310,52,11,I took one.,a,THE WITNESS,start_question
+772,1311,52,12,Do you have those?,q,MR. MANARA,start_answer
+773,1312,52,13,It's on the phone.,a,THE WITNESS,symbols
+774,1313,52,14,- - -,symbols,,is brackets
+775,1314,52,15,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+776,1316,52,17,- - -,symbols,,start_chat
+777,1317,52,18,And this was your vehicle or...,side_chat,MR. SAVINELLI,start_chat
+778,1319,52,20,Yes.,side_chat,THE WITNESS,start_chat
+779,1320,52,21,I will certainly have her send this to us and I can send it to you.,side_chat,MR. SAVINELLI,start_question
+780,1323,52,24,"Ma'am, you're showing me a photograph of the front of your vehicle that you took?",q,MR. MANARA,start_answer
+781,1326,53,2,Yes.,a,THE WITNESS,start_question
+782,1327,53,3,This photograph that's on your phone --,q,MR. MANARA,start_chat
+783,1328,53,4,"And obviously, Counsel, I'm requesting this if you have it or you will have it.",side_chat,MR. MANARA,start_question
+784,1331,53,7,Is this picture taken from the accident?,q,MR. MANARA,start_answer
+785,1332,53,8,Yes.,a,THE WITNESS,start_question
+786,1333,53,9,Okay. Is this as a result of the accident?,q,MR. MANARA,start_answer
+787,1335,53,11,Yes.,a,THE WITNESS,start_question
+788,1336,53,12,Did any of this damage exist before the accident?,q,MR. MANARA,start_answer
+789,1338,53,14,No.,a,THE WITNESS,start_question
+790,1339,53,15,Did you take this picture on scene?,q,MR. MANARA,start_answer
+791,1340,53,16,Yes.,a,THE WITNESS,start_question
+792,1341,53,17,I'm going to hand this back.  I just ask that you pass this photo to your attorney.,q,MR. MANARA,start_answer
+793,1343,53,19,Okay.,a,THE WITNESS,symbols
+794,1344,53,20,- - -,symbols,,is brackets
+795,1345,53,21,"(Whereupon, P-1 and P-2 were marked for identification.)",brackets,,symbols
+796,1347,53,23,- - -,symbols,,start_question
+797,1350,54,1,So I am actually going to show you two photographs marked as P-1 and P-2; do you see those where I marked them at the bottom right?,q,MR. MANARA,start_answer
+798,1353,54,4,Yes.,a,THE WITNESS,start_question
+799,1354,54,5,"Okay. Those are unfortunately black and white photos, yours is in color. Are they photos of your car --",q,MR. MANARA,start_answer
+800,1358,54,9,Yes.,a,THE WITNESS,start_question
+801,1359,54,10,-- after the accident?,q,MR. MANARA,start_answer
+802,1360,54,11,Yes.,a,THE WITNESS,start_question
+803,1361,54,12,Okay.,q,MR. MANARA,symbols
+804,1362,54,13,- - -,symbols,,is brackets
+805,1363,54,14,"(Whereupon, P-3A through P-3D were marked for identification.)",brackets,,symbols
+806,1365,54,16,- - -,symbols,,start_question
+807,1367,54,18,I am showing you what's been parked as P-3A through D; do you recognize those photographs?,q,MR. MANARA,start_answer
+808,1369,54,20,Yes.,a,THE WITNESS,start_question
+809,1370,54,21,"Take a look at all of them, please.",q,MR. MANARA,start_answer
+810,1371,54,22,Okay.,a,THE WITNESS,start_question
+811,1372,54,23,Do you recognize those photographs as P-3A through D?,q,MR. MANARA,start_answer
+812,1375,55,1,Yes.,a,THE WITNESS,start_question
+813,1376,55,2,What are they photographs of?,q,MR. MANARA,start_answer
+814,1377,55,3,The other car.,a,THE WITNESS,start_question
+815,1378,55,4,Okay. Does that look like the damage that was caused as a result of the accident?,q,MR. MANARA,start_answer
+816,1381,55,7,Yes.,a,THE WITNESS,start_question
+817,1382,55,8,"I'll ask the magical question, P-3A through D, does that fairly and accurately portray that you believe to be the damage to my client's car as a result of the accident?",q,MR. MANARA,start_answer
+818,1386,55,12,Yes.,a,THE WITNESS,start_question
+819,1387,55,13,And the photograph on your phone was I belive a clearer picture; does that fairly and accurately portray the damage to your car as a result of the accident?,q,MR. MANARA,start_answer
+820,1391,55,17,Yes.,a,THE WITNESS,start_question
+821,1392,55,18,"And do you mind, I apologize, if I just take a picture of your picture.  Thank you, ma'am, I appreciate it. Ma'am, did you notice any skidmarks or debris at the scene of the accident?",q,MR. MANARA,start_answer
+822,1397,55,23,I did not.,a,THE WITNESS,start_question
+823,1398,55,24,"What did you do immediately after the impact, what happened?",q,MR. MANARA,start_answer
+824,1401,56,2,"I called my sister.  We moved to the -- well, I called -- we called the cops, I called my sister, moved to the other side of 25th and waited for the police to come.",a,THE WITNESS,start_question
+825,1405,56,6,Were you still in the car at that point or did you get out?,q,MR. MANARA,start_answer
+826,1407,56,8,I got out to look at my car.,a,THE WITNESS,start_question
+827,1408,56,9,Were you -- go ahead?,q,MR. MANARA,start_answer
+828,1409,56,10,And then I moved over or pulled up some.,a,THE WITNESS,start_question
+829,1410,56,11,Were you able to exit your own car on your own power?,q,MR. MANARA,start_answer
+830,1412,56,13,"Yes, sir.",a,THE WITNESS,start_question
+831,1413,56,14,You indicated you called the police?,q,MR. MANARA,start_answer
+832,1414,56,15,Yes.,a,THE WITNESS,start_question
+833,1415,56,16,Was that you who called the police or my client or both or do you remember?,q,MR. MANARA,start_answer
+834,1417,56,18,I'm not sure if he called.  I know I contacted the police.,a,THE WITNESS,start_question
+835,1419,56,20,You just know you did?,q,MR. MANARA,start_answer
+836,1420,56,21,"Yes, sir.",a,THE WITNESS,start_question
+837,1421,56,22,While you were outside of the car what were you doing?,q,MR. MANARA,start_answer
+838,1423,56,24,"I was actually talking -- well, I only got out to look at it.  And then I was talking to my sister through my speaker so I was in and out the car.",a,THE WITNESS,start_question
+839,1427,57,3,Sure.,q,MR. MANARA,start_answer
+840,1428,57,4,"And then I actually spoke to -- they came fairly quick, the cops did.  I spoke to the cops, spoke to two gentlemen that were sitting out on their porch, briefly spoke to the gentleman in the Jeep.  And that was it, mostly it was just waiting.",a,THE WITNESS,start_question
+841,1433,57,9,How long were you on scene before you left?,q,MR. MANARA,start_answer
+842,1434,57,10,"Oh, my, maybe 45 minutes to an hour.",a,THE WITNESS,start_question
+843,1435,57,11,After you left where did you go?,q,MR. MANARA,start_answer
+844,1436,57,12,Home.,a,THE WITNESS,start_question
+845,1437,57,13,You indicated you talked to the police?,q,MR. MANARA,start_answer
+846,1438,57,14,Yes.,a,THE WITNESS,start_question
+847,1439,57,15,What did you tell them?,q,MR. MANARA,start_answer
+848,1440,57,16,I told them what happened.  We both spoke to them.  Mr. Kelly gave me a paper with his information on it.  The cop took my information as well.  We spoke to the gentlemen that was sitting on the porch they said they didn't see anything.,a,THE WITNESS,start_question
+849,1445,57,21,Is that the two guys?,q,MR. MANARA,start_answer
+850,1446,57,22,Yes.,a,THE WITNESS,start_question
+851,1447,57,23,They said they did not see anything?,q,MR. MANARA,start_answer
+852,1448,57,24,"Yes, the police asked us if there were other witnesses, neither of us had any.  Mr. Kelly stated, you know, he apologized.  He was like he's sorry, he wasn't paying attention.  The cop talked to us then separately.  They took separate statements.  And they informed me how I could go about getting a police report if I needed one.",a,THE WITNESS,start_question
+853,1456,58,7,Did you ever speak to anybody by the name of Vilotta Joe?,q,MR. MANARA,start_answer
+854,1458,58,9,Who.,a,THE WITNESS,start_question
+855,1459,58,10,She lives --,q,MR. MANARA,start_answer
+856,1460,58,11,"No, sir.",a,THE WITNESS,start_question
+857,1461,58,12,It's a female that would have been stopped on the car?,q,MR. MANARA,start_answer
+858,1463,58,14,"Nobody was -- no, sir, nobody was there.  Like I said, the cops asked us about nobody else was there because they -- we looked around and spoke to the only two gentlemen that were sitting on the porch.",a,THE WITNESS,start_question
+859,1467,58,18,The other two gentlemen do you know who they were?,q,MR. MANARA,start_answer
+860,1469,58,20,"I guess they lived there.  They were on one of the property porches that was across Clearfield on 25th, so the area we pulled to.",a,THE WITNESS,start_question
+861,1472,58,23,But they said they didn't see anything?,q,MR. MANARA,start_answer
+862,1473,58,24,They said they didn't so no.,a,THE WITNESS,start_question
+863,1475,59,1,Was anybody given any tickets or anything?,q,MR. MANARA,start_answer
+864,1476,59,2,No.,a,THE WITNESS,start_question
+865,1477,59,3,Did you ever give a recorded statement to anybody as a result of this accident?,q,MR. MANARA,start_answer
+866,1479,59,5,The insurance company.,a,THE WITNESS,start_question
+867,1480,59,6,What insurance company?,q,MR. MANARA,start_answer
+868,1481,59,7,Allstate and possibly Progressive.  I'm not sure if Allstate gave it to them or they did their own.,a,THE WITNESS,start_question
+869,1483,59,9,Is your insurance company Allstate?,q,MR. MANARA,start_answer
+870,1484,59,10,"It was Allstate, yes, sir.",a,THE WITNESS,start_question
+871,1485,59,11,When the police arrived did they ask if anybody was hurt?,q,MR. MANARA,start_answer
+872,1487,59,13,Yes.,a,THE WITNESS,start_question
+873,1488,59,14,"Specifically, did the police ask you if you were hurt?",q,MR. MANARA,start_answer
+874,1490,59,16,Yes.,a,THE WITNESS,start_question
+875,1491,59,17,What did you tell them when the police asked you if you were hurt?,q,MR. MANARA,start_answer
+876,1493,59,19,I told them I was fine.,a,THE WITNESS,start_question
+877,1494,59,20,Was an ambulance called?,q,MR. MANARA,start_answer
+878,1495,59,21,No.,a,THE WITNESS,start_question
+879,1496,59,22,Did you ask for an ambulance at all?,q,MR. MANARA,start_answer
+880,1497,59,23,No.,a,THE WITNESS,start_question
+881,1498,59,24,Is there a reason why not?,q,MR. MANARA,start_answer
+882,1500,60,1,No.,a,THE WITNESS,start_question
+883,1501,60,2,Did any parts of your body strike anything inside the car?,q,MR. MANARA,start_answer
+884,1503,60,4,My leg hit the door -- my knee hit the door.,a,THE WITNESS,start_question
+885,1504,60,5,Which knee?,q,MR. MANARA,start_answer
+886,1505,60,6,My left knee.,a,THE WITNESS,start_question
+887,1506,60,7,As result of this accident what parts of your body are you claiming injury to?,q,MR. MANARA,start_answer
+888,1508,60,9,"So after the accident I started having pain in my like left shoulder, neck.  They basically said it was probably just the way I was turned.  My head was turned to the left looking left turning and my left knee was bothering me.",a,THE WITNESS,start_question
+889,1513,60,14,"Oh, actually, that reminds me, while you were turning what direction were you looking?",q,MR. MANARA,start_answer
+890,1515,60,16,Left.,a,THE WITNESS,start_question
+891,1516,60,17,And while you're looking left to make your left turn you didn't see my client's car until the time of the impact?,q,MR. MANARA,start_answer
+892,1519,60,20,"Yes, sir.",a,THE WITNESS,start_question
+893,1520,60,21,"And you indicated to me you're claiming injury to your neck, your left shoulder area and your left knee?",q,MR. MANARA,start_answer
+894,1523,60,24,Yes.,a,THE WITNESS,start_question
+895,1525,61,1,Are there any other parts of your body that you injured as a result of this accident?,q,MR. MANARA,start_answer
+896,1527,61,3,No.,a,THE WITNESS,start_question
+897,1528,61,4,"Have you ever injured your left shoulder, left knee or neck before?",q,MR. MANARA,start_answer
+898,1530,61,6,"No -- well, my head when I hit my head in the previous accident but no.",a,THE WITNESS,start_question
+899,1532,61,8,"Prior to the impact were you feeling any pain in your left shoulder, left knee or neck?",q,MR. MANARA,start_answer
+900,1534,61,10,"No, sir.",a,THE WITNESS,start_question
+901,1535,61,11,When did you first begin to feel pain?,q,MR. MANARA,start_answer
+902,1536,61,12,That evening.,a,THE WITNESS,start_question
+903,1537,61,13,As a result of this accident did you have any broken bones or fractures?,q,MR. MANARA,start_answer
+904,1539,61,15,"No, sir.",a,THE WITNESS,start_question
+905,1540,61,16,Any cuts or bleeding?,q,MR. MANARA,start_answer
+906,1541,61,17,"No, sir.",a,THE WITNESS,start_question
+907,1542,61,18,"Meaning, no stitches or scars?",q,MR. MANARA,start_answer
+908,1543,61,19,No.,a,THE WITNESS,start_question
+909,1544,61,20,Did you lose consciousness at all?,q,MR. MANARA,start_answer
+910,1545,61,21,No.,a,THE WITNESS,start_question
+911,1546,61,22,When was the first time you sought treatment?,q,MR. MANARA,start_answer
+912,1547,61,23,Like 2 days after the accident.,a,THE WITNESS,start_question
+913,1548,61,24,Where was that?,q,MR. MANARA,start_answer
+914,1550,62,1,Marini Chiropractic.,a,THE WITNESS,start_question
+915,1551,62,2,How did you find out about Marini Chiropractice?,q,MR. MANARA,start_answer
+916,1553,62,4,They were close to my area.  I had actually looked them up prior to --,a,THE WITNESS,start_question
+917,1555,62,6,Prior to what?,q,MR. MANARA,start_answer
+918,1556,62,7,Prior to this incident I had already seen them prior to.,a,THE WITNESS,start_question
+919,1558,62,9,"Oh, okay. What were you seeing Marini Chiropractic for?",q,MR. MANARA,start_answer
+920,1561,62,12,Just regular health like -- regular health chiropractic visits.,a,THE WITNESS,start_question
+921,1563,62,14,How long were you seeing Marini Chiropractic before the accident or let me rephrase.  When did you start seeing Marini Chiropractic?,q,MR. MANARA,start_answer
+922,1566,62,17,When?,a,THE WITNESS,start_question
+923,1567,62,18,Yes.,q,MR. MANARA,start_answer
+924,1568,62,19,"Maybe about 2 months after I moved.  So maybe around July of 2016, maybe.",a,THE WITNESS,start_question
+925,1570,62,21,Okay. So July of 2016 what were you seeing Marini Chiropractic for?,q,MR. MANARA,start_answer
+926,1573,62,24,So I would regularly go to chiropractors just because I had heard it was good health practice.  So even before I moved I had a membership with Joint and other similar facilities just to get regular adjustments.,a,THE WITNESS,start_question
+927,1579,63,5,So how long have you been seeing a chiropractor?,q,MR. MANARA,start_answer
+928,1581,63,7,Off and on probably -- regularly maybe 5 years off and on regularly.,a,THE WITNESS,start_question
+929,1583,63,9,So when you started at Marini in July of 2016 how often were you going?,q,MR. MANARA,start_answer
+930,1585,63,11,"Maybe once a month just for regular checkups, maybe once every 2 months.",a,THE WITNESS,start_question
+931,1587,63,13,Did you have any complaints?,q,MR. MANARA,start_answer
+932,1588,63,14,"No, I would just go to get regular adjustments, just the usual.",a,THE WITNESS,start_question
+933,1590,63,16,"I don't know what's the usual, you tell me?",q,MR. MANARA,start_answer
+934,1591,63,17,I guess usual -- like the usual chiropractic adjustments.  It wasn't for any like specific area.  It was just regular adjustments.,a,THE WITNESS,start_question
+935,1594,63,20,Those adjustments what parts of your body were you getting them?,q,MR. MANARA,start_answer
+936,1596,63,22,"They adjust your back, your neck, anything related to the spine they adjust.",a,THE WITNESS,start_question
+937,1598,63,24,So full back --,q,MR. MANARA,start_answer
+938,1600,64,1,"Yes, yes.",a,THE WITNESS,start_question
+939,1601,64,2,-- from neck to low back?,q,MR. MANARA,start_answer
+940,1602,64,3,Correct.,a,THE WITNESS,start_question
+941,1603,64,4,"And that was about one time per month before the accident, maybe two?",q,MR. MANARA,start_answer
+942,1605,64,6,"Maybe once every month or once every 2 months, yes.",a,THE WITNESS,start_question
+943,1607,64,8,Did that help?,q,MR. MANARA,start_answer
+944,1608,64,9,"I think it did, you know.",a,THE WITNESS,start_question
+945,1609,64,10,And that's located near you?,q,MR. MANARA,start_answer
+946,1610,64,11,It is in King of Prussia.,a,THE WITNESS,start_question
+947,1611,64,12,When you got to Marini two days after the accident what were your complaints?,q,MR. MANARA,start_answer
+948,1613,64,14,So my main complaints were my -- stiffness in my neck and my shoulder and then my knee.,a,THE WITNESS,start_question
+949,1615,64,16,That's your left shoulder?,q,MR. MANARA,start_answer
+950,1616,64,17,"My left knee.  Yes, I'm sorry, my left shoulder area.",a,THE WITNESS,start_question
+951,1618,64,19,And left knee?,q,MR. MANARA,start_answer
+952,1619,64,20,And left knee.,a,THE WITNESS,start_question
+953,1620,64,21,Okay. What type of treatment did they do for you?,q,MR. MANARA,start_answer
+954,1623,64,24,He did adjustments.  He sent me out for imaging and he did heating and ice.,a,THE WITNESS,start_question
+955,1626,65,2,"I have adjustments, heat, ice, anything else, any other treatment?",q,MR. MANARA,start_answer
+956,1628,65,4,No.,a,THE WITNESS,start_question
+957,1629,65,5,My records --,q,MR. MANARA,start_answer
+958,1630,65,6,"Massage, I'm sorry, he did do massage.",a,THE WITNESS,start_question
+959,1631,65,7,Was it the same type of treatment that you were receiving before the accident?,q,MR. MANARA,start_answer
+960,1633,65,9,"Not as in depth, no.",a,THE WITNESS,start_question
+961,1634,65,10,Not as in depth?,q,MR. MANARA,start_answer
+962,1635,65,11,No.,a,THE WITNESS,start_question
+963,1636,65,12,"Meaning, you had less treatment after -- you tell me.",q,MR. MANARA,start_answer
+964,1638,65,14,"No, meaning, the treatment I was receiving before was not as in depth.",a,THE WITNESS,start_question
+965,1640,65,16,"Got you, okay. So they added the heat, the ice, the massage?",q,MR. MANARA,start_answer
+966,1643,65,19,And the more localized adjustments.,a,THE WITNESS,start_question
+967,1644,65,20,Got you.,q,MR. MANARA,start_answer
+968,1645,65,21,Afterwards I couldn't get regular adjustments because of the pain I was having so he couldn't do certain adjustments.,a,THE WITNESS,start_question
+969,1648,65,24,Okay. My records indicate for this accident you treated from about April 5th of 2017 to May 25th?,q,MR. MANARA,start_answer
+970,1652,66,3,Yes.,a,THE WITNESS,start_question
+971,1653,66,4,Does that sound about right?,q,MR. MANARA,start_answer
+972,1654,66,5,Yes.,a,THE WITNESS,start_question
+973,1655,66,6,Is that when your treatment stopped for this accident?,q,MR. MANARA,start_answer
+974,1657,66,8,Yes.,a,THE WITNESS,start_question
+975,1658,66,9,It looks like you went about 16 times; does that sound about right?,q,MR. MANARA,start_answer
+976,1660,66,11,Yes.,a,THE WITNESS,start_question
+977,1661,66,12,Do you think there's more than that?,q,MR. MANARA,start_answer
+978,1662,66,13,I'm sorry?,a,THE WITNESS,start_question
+979,1663,66,14,More than 16 times do you think there's more than that?,q,MR. MANARA,start_answer
+980,1665,66,16,During that time?,a,THE WITNESS,start_question
+981,1666,66,17,Yes.,q,MR. MANARA,start_answer
+982,1667,66,18,"That's about right, yeah.",a,THE WITNESS,start_question
+983,1668,66,19,Okay. How many times a week were you going?,q,MR. MANARA,start_answer
+984,1670,66,21,"About three, four times a week.",a,THE WITNESS,start_question
+985,1671,66,22,Did you miss any treatments?,q,MR. MANARA,start_answer
+986,1672,66,23,"Yes, I had to reschedule some.",a,THE WITNESS,start_question
+987,1673,66,24,Okay. How long were your treatments?,q,MR. MANARA,start_answer
+988,1676,67,2,I would say probably for about an hour a visit including waiting.,a,THE WITNESS,start_question
+989,1678,67,4,"You indicate you had some diagnostic testing, some imaging?",q,MR. MANARA,start_answer
+990,1680,67,6,"Yes, sir.",a,THE WITNESS,start_question
+991,1681,67,7,Do you know when that was -- was that that scan at Broomall?,q,MR. MANARA,start_answer
+992,1683,67,9,"Yes, sir.",a,THE WITNESS,start_question
+993,1684,67,10,"My records indicate that was April 11th, 2017?",q,MR. MANARA,start_answer
+994,1685,67,11,Yes.,a,THE WITNESS,start_question
+995,1686,67,12,Do you know what part of your body that was to?,q,MR. MANARA,start_answer
+996,1688,67,14,"I think they did my back, my neck and possibly my knee as well.",a,THE WITNESS,start_question
+997,1690,67,16,The only records I have are of your neck?,q,MR. MANARA,start_answer
+998,1691,67,17,I had imaging done of my knee as well.,a,THE WITNESS,start_chat
+999,1692,67,18,Do you have it?,side_chat,MR. MANARA,start_chat
+1000,1693,67,19,I don't so I'll have to look into that.,side_chat,MR. SAVINELLI,start_question
+1001,1696,67,22,Are you aware of the results of that imaging?,q,MR. MANARA,start_answer
+1002,1697,67,23,Just what he went over with me.,a,THE WITNESS,start_question
+1003,1698,67,24,What did he tell you?,q,MR. MANARA,start_answer
+1004,1700,68,1,"Basically, like I had inflammation in the area.",a,THE WITNESS,start_question
+1005,1702,68,3,In what area?,q,MR. MANARA,start_answer
+1006,1703,68,4,"My neck, shoulder area.  And he more so went over the treatment procedure versus like the imaging. So basically I got your results and this is what we're going to do.",a,THE WITNESS,start_question
+1007,1707,68,8,So did your treatment change at all after that scan?,q,MR. MANARA,start_answer
+1008,1709,68,10,Slightly.,a,THE WITNESS,start_question
+1009,1710,68,11,How did it change?,q,MR. MANARA,start_answer
+1010,1711,68,12,He just focused more on adjustments for my upper back and my neck area.,a,THE WITNESS,start_question
+1011,1713,68,14,"Okay. Do you know what type of scan it was, was it a CT, MRI?",q,MR. MANARA,start_answer
+1012,1716,68,17,"I don't, I'm sorry, I don't know.",a,THE WITNESS,start_question
+1013,1717,68,18,Do you know what he diagnosed you with at Marini Chiropractic?,q,MR. MANARA,start_answer
+1014,1719,68,20,"No, sir.",a,THE WITNESS,start_question
+1015,1720,68,21,Did anybody at Marini ever recommend any surgery?,q,MR. MANARA,start_answer
+1016,1722,68,23,"No, sir.",a,THE WITNESS,start_question
+1017,1723,68,24,Did anybody at Marini ever recommend any injections?,q,MR. MANARA,start_answer
+1018,1726,69,2,No.,a,THE WITNESS,start_question
+1019,1727,69,3,I know they didn't recommend surgery or injections but did you receive any surgery or injections as a result of this accident?,q,MR. MANARA,start_answer
+1020,1730,69,6,No.,a,THE WITNESS,start_question
+1021,1731,69,7,Did anybody prescribe you any medication?,q,MR. MANARA,start_answer
+1022,1732,69,8,I honestly don't know because I don't get my prescriptions filled regularly.  I don't like taking medication so...,a,THE WITNESS,start_question
+1023,1735,69,11,Did anybody at Marini Chiropractic give you a written restriction?,q,MR. MANARA,start_answer
+1024,1737,69,13,No.,a,THE WITNESS,start_question
+1025,1738,69,14,You think there might have been some that were verbal though?,q,MR. MANARA,start_answer
+1026,1740,69,16,"Just verbally he told me, you know, to watch what I did with certain things because he knew I worked with kids so as far as the lifting and that kind of thing.",a,THE WITNESS,start_question
+1027,1744,69,20,It sounds like for this accident you stopped treating around the end of May?,q,MR. MANARA,start_answer
+1028,1746,69,22,"Yes, sir.",a,THE WITNESS,start_question
+1029,1747,69,23,Did you ever go back to Marini Chiropractic after May of 2017?,q,MR. MANARA,start_answer
+1030,1750,70,1,"Yes, I would go for follow-up visits.",a,THE WITNESS,start_question
+1031,1751,70,2,Did that trail off like you were going before the accident?,q,MR. MANARA,start_answer
+1032,1753,70,4,"It started out where I would go more than before the accident but then it eventually went back to -- yes, I was going only like once.  I was going once every couple of months.",a,THE WITNESS,start_question
+1033,1757,70,8,"When did you start going once a month, once every couple of months, when was that?",q,MR. MANARA,start_answer
+1034,1759,70,10,Maybe a couple of months after May.  So I went for a couple times a month for a few months after the accident.  And then maybe Fall about Fall of that year I would go back to my usual visit.,a,THE WITNESS,start_chat
+1035,1763,70,14,"Do you have anything, Counsel, past May of --",side_chat,MR. MANARA,start_chat
+1036,1765,70,16,"I do not, not past May 25th, right?",side_chat,MR. SAVINELLI,start_chat
+1037,1767,70,18,Yeah.,side_chat,MR. MANARA,start_chat
+1038,1768,70,19,"Yeah, that's what we have up to.",side_chat,MR. SAVINELLI,start_question
+1039,1771,70,22,"You also indicate that you saw your primary care doctor, Doctor Monstone?",q,MR. MANARA,start_answer
+1040,1773,70,24,Yes.,a,THE WITNESS,start_question
+1041,1775,71,1,Do you know when you saw her?,q,MR. MANARA,start_answer
+1042,1776,71,2,I don't know the specific date.  I just know that Doctor Marini actually recommended that I go to her.,a,THE WITNESS,start_question
+1043,1779,71,5,When you got to Doctor Monstone what were your complaints?,q,MR. MANARA,start_answer
+1044,1781,71,7,So I was seeing her for the anxiety.,a,THE WITNESS,start_question
+1045,1782,71,8,Anything else?,q,MR. MANARA,start_answer
+1046,1783,71,9,No.,a,THE WITNESS,start_question
+1047,1784,71,10,Okay. Did Doctor Marini prescribe you any medication for your anxiety?,q,MR. MANARA,start_answer
+1048,1787,71,13,"No, that's why he sent me to Stephanie.",a,THE WITNESS,start_question
+1049,1788,71,14,"I'm sorry, Doctor Monstone --",q,MR. MANARA,start_answer
+1050,1789,71,15,"Oh, sorry.",a,THE WITNESS,start_question
+1051,1790,71,16,"I apologize, your primary care doctor did they prescribe you any medication for that anxiety?",q,MR. MANARA,start_answer
+1052,1792,71,18,Yes.,a,THE WITNESS,start_question
+1053,1793,71,19,What type of medication is that?,q,MR. MANARA,start_answer
+1054,1794,71,20,"Again, I did not get it filled the first -- but I do believe it was -- what is it called, I know it's common.  It's similar to Valium but I don't know the exact name for it.",a,THE WITNESS,start_question
+1055,1798,71,24,You just never got it filled?,q,MR. MANARA,start_answer
+1056,1800,72,1,"No, not the first time.  She prescribed it and I did get it filled.  I took about one pill and I couldn't do it.",a,THE WITNESS,start_question
+1057,1803,72,4,Did she ever refer you to a psychologist or psychiatrist?,q,MR. MANARA,start_answer
+1058,1805,72,6,No.,a,THE WITNESS,start_question
+1059,1806,72,7,Or than Doctor Monstone did you ever go to see a psychiatrist or a psychologist for your anxiety?,q,MR. MANARA,start_answer
+1060,1808,72,9,No.,a,THE WITNESS,start_question
+1061,1809,72,10,Did you seek any other treatment other than Doctor Monstone for your anxiety?,q,MR. MANARA,start_answer
+1062,1811,72,12,No.,a,THE WITNESS,start_question
+1063,1812,72,13,How many times did you see Doctor Monstone?,q,MR. MANARA,start_answer
+1064,1813,72,14,After the accident probably about two.,a,THE WITNESS,start_question
+1065,1814,72,15,You think that was sometime in April and Mayish?,q,MR. MANARA,start_answer
+1066,1816,72,17,"I think so, yes, sir.",a,THE WITNESS,start_question
+1067,1817,72,18,Did Doctor Monstone do any treatment for you or just exams?,q,MR. MANARA,start_answer
+1068,1819,72,20,Just exams.,a,THE WITNESS,start_question
+1069,1820,72,21,Did Doctor Monstone refer you anywhere?,q,MR. MANARA,start_answer
+1070,1821,72,22,No.,a,THE WITNESS,start_question
+1071,1822,72,23,Did Doctor Marini refer you anywhere?,q,MR. MANARA,start_answer
+1072,1823,72,24,"No, just the two of those.",a,THE WITNESS,start_question
+1073,1825,73,1,Other than Doctor Monstone and Doctor Marini did you seek any other treatment as a result of this accident?,q,MR. MANARA,start_answer
+1074,1828,73,4,No.,a,THE WITNESS,start_question
+1075,1829,73,5,As you sit here today are you still treating for this accident?,q,MR. MANARA,start_answer
+1076,1831,73,7,No.,a,THE WITNESS,start_question
+1077,1832,73,8,Are you still treating with Doctor Marini as you sit here today?,q,MR. MANARA,start_answer
+1078,1834,73,10,Yes.,a,THE WITNESS,start_question
+1079,1835,73,11,When do you believe you stopped treating for this accident with Doctor Marini?,q,MR. MANARA,start_answer
+1080,1837,73,13,"Probably the Fall of that year, the Fall of 2017.",a,THE WITNESS,start_question
+1081,1839,73,15,Do you believe that it trailed off after May 25th of that year of 2017?,q,MR. MANARA,start_answer
+1082,1841,73,17,"Yes, it got better.",a,THE WITNESS,start_question
+1083,1842,73,18,I mean your treatment dates?,q,MR. MANARA,start_answer
+1084,1843,73,19,"Yes, yes.",a,THE WITNESS,start_question
+1085,1844,73,20,After May 25th you believe you slowed down?,q,MR. MANARA,start_answer
+1086,1845,73,21,"Yes, definitely.",a,THE WITNESS,start_question
+1087,1846,73,22,So not quite three to four times a week?,q,MR. MANARA,start_answer
+1088,1847,73,23,No.,a,THE WITNESS,start_question
+1089,1848,73,24,"And you believe the treatment that you were receiving after the Fall of 2017 was not from this accident, just kind of your baseline?",q,MR. MANARA,start_answer
+1090,1852,74,3,"Partially it was like I said because immediately after I was seeing him more than I was prior to the accident.  But eventually, yes, I went back to my regular treatment.",a,THE WITNESS,start_question
+1091,1856,74,7,And that's what I want to find out. When was that?,q,MR. MANARA,start_answer
+1092,1858,74,9,About the Fall.,a,THE WITNESS,start_question
+1093,1859,74,10,So about Fall of 2017 you went --,q,MR. MANARA,start_answer
+1094,1860,74,11,"Then I started seeing him about once a month or once every couple of months as usual, yes.",a,THE WITNESS,start_question
+1095,1862,74,13,So in the Fall of 2017 you started treating the same duration and the number of times per month as you were before the accident?,q,MR. MANARA,start_answer
+1096,1865,74,16,Correct.,a,THE WITNESS,start_question
+1097,1866,74,17,And then Fall of 2017 with Doctor Marini you kind of went back to your pre-accident appointment times and dates?,q,MR. MANARA,start_answer
+1098,1869,74,20,Yes.,a,THE WITNESS,start_question
+1099,1870,74,21,As you sit here today do you have any plans on getting any injections or surgery as a result of this accident?,q,MR. MANARA,start_answer
+1100,1873,74,24,No.,a,THE WITNESS,start_question
+1101,1875,75,1,"Have you ever had -- well, let me rephrase and ask another question. As you sit here today are you on any medical restrictions?",q,MR. MANARA,start_answer
+1102,1879,75,5,No.,a,THE WITNESS,start_question
+1103,1880,75,6,As you sit here today are your activities restricted in anyway as a result of the accident?,q,MR. MANARA,start_answer
+1104,1882,75,8,No.,a,THE WITNESS,start_question
+1105,1883,75,9,Have you ever had a prior MRI or imaging study before this accident in April of 2017?,q,MR. MANARA,start_answer
+1106,1885,75,11,Yes.,a,THE WITNESS,start_question
+1107,1886,75,12,Do you know when that was?,q,MR. MANARA,start_answer
+1108,1887,75,13,No.,a,THE WITNESS,start_question
+1109,1888,75,14,I see that you might have had an MRI in September of 2016; do you remember that?,q,MR. MANARA,start_answer
+1110,1890,75,16,"September, 2016?",a,THE WITNESS,start_question
+1111,1891,75,17,Yes.,q,MR. MANARA,start_answer
+1112,1892,75,18,I don't remember.,a,THE WITNESS,start_question
+1113,1893,75,19,And perhaps a CT August of 2016?,q,MR. MANARA,start_answer
+1114,1894,75,20,"So that must have been with my primary doctor with Stephanie, yes.",a,THE WITNESS,start_question
+1115,1896,75,22,Do you know what that would have been for or why?,q,MR. MANARA,start_answer
+1116,1898,75,24,I did a sleep study.  That had to be during that time.,a,THE WITNESS,start_question
+1117,1901,76,2,Would that have been of your neck?,q,MR. MANARA,start_answer
+1118,1902,76,3,Sleep study?,a,THE WITNESS,start_question
+1119,1903,76,4,Yes.,q,MR. MANARA,start_answer
+1120,1904,76,5,"No, a sleep study is when they monitor your sleeping pattern.  So they do an MRI of like your head area like to see your brain waves, that kind of thing.",a,THE WITNESS,start_question
+1121,1907,76,8,"Okay, all right. I know Doctor Marini is a chiropractor have you ever treated with a physical therapist before?",q,MR. MANARA,start_answer
+1122,1910,76,11,"Prior to the accident, no.",a,THE WITNESS,start_question
+1123,1911,76,12,How about after the accident?,q,MR. MANARA,start_answer
+1124,1912,76,13,Yes.,a,THE WITNESS,start_question
+1125,1913,76,14,Who did you treat with after the accident?,q,MR. MANARA,start_answer
+1126,1914,76,15,Excel Therapy.,a,THE WITNESS,start_question
+1127,1915,76,16,When did you start at Excel?,q,MR. MANARA,start_answer
+1128,1916,76,17,February of 2019.,a,THE WITNESS,start_question
+1129,1917,76,18,Where is Excel located?,q,MR. MANARA,start_answer
+1130,1918,76,19,Villanova.,a,THE WITNESS,start_question
+1131,1919,76,20,Why did you start at Excel?,q,MR. MANARA,start_answer
+1132,1920,76,21,It was due to the airline accident.  They treated me for my right ankle and foot.,a,THE WITNESS,start_question
+1133,1922,76,23,Which you did not injure here?,q,MR. MANARA,start_answer
+1134,1923,76,24,"Yes, sir.",a,THE WITNESS,start_question
+1135,1925,77,1,"Have you had any other injuries after April of 2017 to your neck, left shoulder or left knee?",q,MR. MANARA,start_answer
+1136,1927,77,3,"No, sir.",a,THE WITNESS,start_question
+1137,1928,77,4,Have you paid anything out-of-pocket as a result of this accident?,q,MR. MANARA,start_answer
+1138,1930,77,6,Just for my car.,a,THE WITNESS,start_question
+1139,1931,77,7,Property damage?,q,MR. MANARA,start_answer
+1140,1932,77,8,"Yes, sir.",a,THE WITNESS,start_chat
+1141,1933,77,9,"Counsel, I have a DHS lien of $595.80.  And I believe I just got a bill from the emergency room, Delco Memorial, which I'm assuming is the studies.",side_chat,MR. MANARA,start_chat
+1142,1937,77,13,Okay.,side_chat,MR. SAVINELLI,start_chat
+1143,1938,77,14,For 1700 bucks.  I don't think that's Act 6 though.,side_chat,MR. MANARA,start_chat
+1144,1940,77,16,Okay.,side_chat,MR. SAVINELLI,start_chat
+1145,1941,77,17,Do you have anything --,side_chat,MR. MANARA,start_chat
+1146,1942,77,18,All I have is what we've already provided to you.  So if that came from us then that's what we have.,side_chat,MR. SAVINELL,start_chat
+1147,1945,77,21,Are you aware if PIP is exhausted?  I think it's a different State policy.,side_chat,MR. MANARA,start_chat
+1148,1947,77,23,"Yeah, I'm not sure.",side_chat,MR. SAVINELLI,start_chat
+1149,1948,77,24,But I have everything you do?,side_chat,MR. MANARA,start_chat
+1150,1951,78,2,"Yes, yes.",side_chat,MR. SAVINELLI,start_chat
+1151,1952,78,3,"I'm asking, you tell me.",side_chat,MR. MANARA,start_chat
+1152,1953,78,4,Everything I sent yesterday?,side_chat,MR. SAVINELLI,start_chat
+1153,1955,78,6,Yes.,side_chat,MR. MANARA,start_chat
+1154,1956,78,7,Yes.,side_chat,MR. SAVINELLI,start_chat
+1155,1957,78,8,Got you. Is there a property damage claim?,side_chat,MR. MANARA,start_chat
+1156,1959,78,10,Not to my knowledge.,side_chat,MR. SAVINELLI,start_chat
+1157,1960,78,11,And not married so no loss of consortium.,side_chat,MR. MANARA,start_question
+1158,1963,78,14,"Ma'am, we are almost done.  I just want to real quick do a pain scale with you, okay. 10 would be the worse pain you've ever experienced in your entire life and 0 would be nothing at all.  So as a result of this accident you indicated to me that you injured your neck, your left shoulder area and your left knee.  There are no other parts that you injured other than your neck, your left shoulder and your knee; is that correct?",q,MR. MANARA,start_answer
+1159,1972,78,23,Yes.,a,THE WITNESS,start_question
+1160,1973,78,24,When you first started to feel pain in your neck how would you rate the pain in your neck?,q,MR. MANARA,start_answer
+1161,1976,79,2,Maybe like an 8.,a,THE WITNESS,start_question
+1162,1977,79,3,"Okay. At the end of treatment when I say the end of treatment when you tailed off in May of 2017, how would you rate the pain in your neck?",q,MR. MANARA,start_answer
+1163,1981,79,7,3.,a,THE WITNESS,start_question
+1164,1982,79,8,As you sit here today how would you rate the pain in your neck?,q,MR. MANARA,start_answer
+1165,1984,79,10,2.,a,THE WITNESS,start_question
+1166,1985,79,11,Discussing your left shoulder when you first started to feel pain in your left shoulder how would you rate that pain?,q,MR. MANARA,start_answer
+1167,1988,79,14,"My shoulder was the worst, probably like 9.",a,THE WITNESS,start_question
+1168,1989,79,15,At the end of treatment kind of when you tailed off in May of 2017 how would you rate the pain in your left shoulder?,q,MR. MANARA,start_answer
+1169,1992,79,18,"Same, about 3.",a,THE WITNESS,start_question
+1170,1993,79,19,As you sit here today how would you rate the pain in your left shoulder?,q,MR. MANARA,start_answer
+1171,1995,79,21,0.,a,THE WITNESS,start_question
+1172,1996,79,22,Resolved?,q,MR. MANARA,start_answer
+1173,1997,79,23,Yes.,a,THE WITNESS,start_question
+1174,1998,79,24,Okay. Discussing your left knee how would you rate the pain in your left knee?,q,MR. MANARA,start_answer
+1175,2002,80,3,It was like a 6.,a,THE WITNESS,start_question
+1176,2003,80,4,"When you first started therapy, sorry.",q,MR. MANARA,start_answer
+1177,2004,80,5,"Oh, I'm sorry, maybe like an 8.",a,THE WITNESS,start_question
+1178,2005,80,6,Okay. At the end of treatment when it kind of trailed off in May of 2017 how would you rate that pain in your left knee?,q,MR. MANARA,start_answer
+1179,2009,80,10,I would say about a 3.,a,THE WITNESS,start_question
+1180,2010,80,11,And as you sit here today how would you rate the pain in your left knee?,q,MR. MANARA,start_answer
+1181,2012,80,13,So my knee is really funny because I do have intermittent issues with my knee.  So I actually recently -- I still see him off and on because of my knee giving me problems.  So it can flare up sometimes from maybe a 5 and then on a regular day maybe like a 2.,a,THE WITNESS,start_question
+1182,2018,80,19,So in the weeks and months in the past few weeks and months you would say it's a 2 to a 5?,q,MR. MANARA,start_answer
+1183,2020,80,21,"Yes, sir.",a,THE WITNESS,start_question
+1184,2021,80,22,And you say you still see him did you mean Doctor Marini?,q,MR. MANARA,start_answer
+1185,2023,80,24,"Yes, sir.",a,THE WITNESS,start_question
+1186,2025,81,1,"Okay. Ma'am, earlier we indicated that we're going to talk about the accident, your injuries and the affects. Did the accident in April of 2017 have any affects on your life?",q,MR. MANARA,start_answer
+1187,2031,81,7,No.,a,THE WITNESS,start_question
+1188,2032,81,8,"I just want the record to be clear, the accident that occurred April 3rd of 2017, did that have any affects or changes in your life?",q,MR. MANARA,start_answer
+1189,2035,81,11,Outside of the ones I mentioned or do you want me to just reiterate what --,a,THE WITNESS,start_question
+1190,2037,81,13,I would like you to reiterate?,q,MR. MANARA,start_answer
+1191,2038,81,14,"I'm sorry, yes, I left one of my cases.  I had a brief period of like severe anxiety when driving.",a,THE WITNESS,start_question
+1192,2040,81,16,"That was you left one of the cases due to anxiety that's why, right?",q,MR. MANARA,start_answer
+1193,2042,81,18,"Yes, the anxiety from driving in that area, yes, sir.",a,THE WITNESS,start_question
+1194,2044,81,20,Other than leaving that case did this accident of April 3rd of 2017 have any affects on your life?,q,MR. MANARA,start_answer
+1195,2046,81,22,"No, sir.",a,THE WITNESS,start_question
+1196,2047,81,23,Okay.,q,MR. MANARA,start_chat
+1197,2048,81,24,That's actually all I have for you.,side_chat,MR. MANARA,start_chat
+1198,2051,82,2,Okay.,side_chat,THE WITNESS,symbols
+1199,2052,82,3,- - -,symbols,,is brackets
+1200,2053,82,4,(The deposition was concluded at 3:48 p.m.),brackets,,symbols
+1201,2055,82,6,- - - C E R T I F I C A T E,symbols,,symbols
+1202,2076,83,2,"- - - STATE OF PENNSYLVANIA: :  SS COUNTY OF PHILADELPHIA: I, Michelle Palys, Court Reporter-Notary Public within and for Philadelphia County, State of Pennsylvania, do hereby certify that the foregoing testimony of CONNIE CALLAWAY, was taken before me at Lexitas Philadelphia, Two Logan Square, Third Floor, 100 N. 18th Street, Philadelphia, Pennsylvania on August 29, 2019; that the foregoing testimony was taken by me in shorthand by myself and reduced to typing under my direction and control, that the foregoing pages contain a true and correct transcription of all of the testimony of said witness.",symbols,,symbols
+1203,2093,83,19,"...................... Notary Public May 8, 2021 INSTRUCTIONS TO WITNESSES Read your deposition over carefully. It is your right to read your deposition and make changes in form or substance.  You should assign a reason in the appropriate column on the errata sheet for any change made.  After making any change in form or substance which has been noted on the following errata sheet along with the reason for any change, sign your name on the errata sheet and date it.  Then sign your deposition at the end of your testimony in the space provided.  You are signing it subject to the changes you have made in the errata sheet, which will be attached to the deposition before filing.  You must sign it in front of a witness.  Have the witness sign in the space provided.  The witness need not be a notary public.  Any competent adult may witness your signature.  Return the original errata sheet & transcript to deposing attorney, (attorney asking questions) promptly! Court rules require filing within 30 days after you receive the deposition.  Thank you. I have read the foregoing deposition and the answers given by me are true and correct, to the best of my knowledge and belief.",symbols,,symbols
+1204,2130,85,4,_______________________ WITNESS TO SIGNATURE,symbols,,symbols
+1205,2138,85,10,___________________________ My Commission Expires,symbols,,symbols
+1206,2143,85,14,..................... ERRATA SHEET PAGE LINE #    CHANGE             REASON THEREFORE,symbols,,symbols
+1207,2157,86,3,__________________________________________,symbols,,symbols
+1208,2158,86,4,__________________________________________,symbols,,symbols
+1209,2159,86,5,__________________________________________,symbols,,symbols
+1210,2160,86,6,__________________________________________,symbols,,symbols
+1211,2161,86,7,__________________________________________,symbols,,symbols
+1212,2162,86,8,__________________________________________,symbols,,symbols
+1213,2163,86,9,__________________________________________,symbols,,symbols
+1214,2164,86,10,__________________________________________,symbols,,symbols
+1215,2165,86,11,__________________________________________,symbols,,symbols
+1216,2166,86,12,__________________________________________,symbols,,symbols
+1217,2167,86,13,__________________________________________,symbols,,symbols
+1218,2168,86,14,__________________________________________,symbols,,symbols
+1219,2169,86,15,__________________________________________,symbols,,symbols
+1220,2170,86,16,__________________________________________,symbols,,symbols
+1221,2171,86,17,__________________________________________,symbols,,symbols
+1222,2172,86,18,__________________________________________,symbols,,symbols
+1223,2173,86,19,__________________________________________,symbols,,symbols
+1224,2174,86,20,__________________________________________,symbols,,symbols
+1225,2175,86,21,__________________________________________,symbols,,symbols
+1226,2176,86,22,__________________________________________,symbols,,symbols
+1227,2177,86,23,__________________________________________,symbols,,symbols
+1228,2178,86,24,__________________________________________,symbols,,end

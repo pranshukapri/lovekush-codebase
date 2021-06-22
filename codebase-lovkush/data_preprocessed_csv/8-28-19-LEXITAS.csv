@@ -1,0 +1,286 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, testified as follows ....,,,symbols
+1,67,22,14,- - - EXAMINATION,symbols,,symbols
+2,69,22,16,- - -,symbols,,start_question
+3,71,22,18,Please state your full name for the record.,q,MR. GOODSTADT,start_answer
+4,73,22,20,Wayne Elliot Oliver.,a,THE WITNESS,start_question
+5,74,22,21,"Mr. Oliver, have you ever been deposed before?",q,MR. GOODSTADT,start_answer
+6,76,22,23,No.,a,THE WITNESS,start_question
+7,77,22,24,"Okay.  All right.  Let me give you some instructions generally speaking. Today's deposition shouldn't take all that long.  I'll try to keep it under half an hour, if not less.  It goes easier if you just listen to the question, and wait until I'm done before you answer.  It's tougher if you interrupt me because then we've got a record that doesn't come out well.  Do you understand that?",q,MR. GOODSTADT,start_answer
+8,88,23,10,I understand.,a,THE WITNESS,start_question
+9,89,23,11,"Okay.  The court reporter, who's seated immediately to your left, is going to take down all of my questions and all of your answers, so it's important that you speak up, and I think you're already off to a good start, and make sure she understands what you say.  Okay?",q,MR. GOODSTADT,start_answer
+10,96,23,18,I'm clear.,a,THE WITNESS,start_question
+11,97,23,19,"We all do some things informally that don't come out on the record well, so using that expression -- awful expression ""uh-huh"" or nodding your head, or using your hands as a gesture, doesn't come out on the record because the court reporter can't interpret that.  So try to keep all of your answers verbal.  Okay?",q,MR. GOODSTADT,start_answer
+12,106,24,3,Okay.,a,THE WITNESS,start_question
+13,107,24,4,"As I said, I'm going to ask you questions.  You're going to give answers. At the end of the deposition, the court reporter will prepare a deposition transcript that will contain all of the questions and all of the answers.  Do you understand that?",q,MR. GOODSTADT,start_answer
+14,114,24,11,I understand that.,a,THE WITNESS,start_question
+15,115,24,12,And do you understand that that is a transcript that can be used at trial?,q,MR. GOODSTADT,start_answer
+16,117,24,14,I understand that.,a,THE WITNESS,start_question
+17,118,24,15,"If you don't understand a question, I ask that you just tell me, and I'll rephrase it to make it clear for you. Okay?",q,MR. GOODSTADT,start_answer
+18,122,24,19,Okay.,a,THE WITNESS,start_question
+19,123,24,20,"If your attorney should object for whatever reason, don't answer.  If you're in the middle of an answer, stop answering, and wait until she and I work out that objection.  Okay?",q,MR. GOODSTADT,start_answer
+20,129,25,1,Okay.,a,THE WITNESS,start_question
+21,130,25,2,"Good. All right.  Where do you live, sir?",q,MR. GOODSTADT,start_answer
+22,133,25,5,"5425 Oxford Avenue, Philadelphia, PA  19124.",a,THE WITNESS,start_question
+23,135,25,7,And who do you live there with?,q,MR. GOODSTADT,start_answer
+24,136,25,8,Myself.,a,THE WITNESS,start_question
+25,137,25,9,How long have you lived there?,q,MR. GOODSTADT,start_answer
+26,138,25,10,It's been for about six years.,a,THE WITNESS,start_question
+27,139,25,11,Okay.  What do you do?,q,MR. GOODSTADT,start_answer
+28,140,25,12,I'm a security consultant.,a,THE WITNESS,start_question
+29,141,25,13,And who do you work for?,q,MR. GOODSTADT,start_answer
+30,142,25,14,"LDS, Incorporated.",a,THE WITNESS,start_question
+31,143,25,15,What is LDS?,q,MR. GOODSTADT,start_answer
+32,144,25,16,It's myself.,a,THE WITNESS,start_question
+33,145,25,17,Oh.  Okay.,q,MR. GOODSTADT,start_answer
+34,146,25,18,Self-employed.,a,THE WITNESS,start_question
+35,147,25,19,"Okay.  All right.  Got it. Have you looked at any documents, photographs, records, anything before your deposition today?",q,MR. GOODSTADT,start_answer
+36,151,25,23,Photos.,a,THE WITNESS,start_question
+37,152,25,24,Okay.,q,MR. GOODSTADT,start_answer
+38,154,26,1,Yes.,a,THE WITNESS,start_question
+39,155,26,2,What kind of photos did you look at?,q,MR. GOODSTADT,start_answer
+40,157,26,4,Of my vehicle.,a,THE WITNESS,start_question
+41,158,26,5,Just photos of your vehicle?,q,MR. GOODSTADT,start_answer
+42,159,26,6,And of the other vehicle involved in this accident.,a,THE WITNESS,start_question
+43,161,26,8,Both vehicles?,q,MR. GOODSTADT,start_answer
+44,162,26,9,Yes.,a,THE WITNESS,start_question
+45,163,26,10,Okay.  Have you had an opportunity to meet with your attorney so she could explain how the deposition would be conducted?,q,MR. GOODSTADT,start_answer
+46,167,26,14,No.  Other than today.,a,THE WITNESS,start_question
+47,168,26,15,"In other words, are you okay proceeding?  Have you gotten sufficient instructions from your attorney so you can go forward?",q,MR. GOODSTADT,start_answer
+48,172,26,19,I'm okay proceeding.,a,THE WITNESS,start_question
+49,173,26,20,Okay.  You understand that your testimony today is under oath?,q,MR. GOODSTADT,start_answer
+50,175,26,22,I do.,a,THE WITNESS,start_question
+51,176,26,23,And you understand that that's the same oath you would get in a court of law?,q,MR. GOODSTADT,start_answer
+52,180,27,2,I do.,a,THE WITNESS,start_question
+53,181,27,3,"Okay.  And as a result of this collision with my client, was your vehicle damaged?",q,MR. GOODSTADT,start_answer
+54,184,27,6,Yes.,a,THE WITNESS,start_question
+55,185,27,7,And what was the damage?,q,MR. GOODSTADT,start_answer
+56,186,27,8,To the front end of the 2017 Grand Jeep Cherokee.,a,THE WITNESS,start_question
+57,188,27,10,And was your vehicle drivable?,q,MR. GOODSTADT,start_answer
+58,189,27,11,It was.,a,THE WITNESS,start_question
+59,190,27,12,Okay.  And did you have it repaired?,q,MR. GOODSTADT,start_answer
+60,192,27,14,I did.,a,THE WITNESS,start_question
+61,193,27,15,Where did you have it repaired?,q,MR. GOODSTADT,start_answer
+62,194,27,16,I don't recall right now.,a,THE WITNESS,start_question
+63,195,27,17,Okay.  Do you recall what it cost to repair your vehicle?,q,MR. GOODSTADT,start_answer
+64,197,27,19,I don't recall that.,a,THE WITNESS,start_question
+65,198,27,20,Okay.  Do you remember how long your vehicle was in the shop?,q,MR. GOODSTADT,start_answer
+66,200,27,22,I don't recall that.,a,THE WITNESS,start_question
+67,201,27,23,Was your vehicle leaking any fluid at the scene?,q,MR. GOODSTADT,start_answer
+68,204,28,1,It may have.,a,THE WITNESS,start_question
+69,205,28,2,Okay.  But you found that you were able to drive it?,q,MR. GOODSTADT,start_answer
+70,207,28,4,I later found out that it was undrivable.,a,THE WITNESS,start_question
+71,209,28,6,Okay.  How far did you drive it before you found out it was undrivable?,q,MR. GOODSTADT,start_answer
+72,211,28,8,I don't recall.,a,THE WITNESS,start_question
+73,212,28,9,Were you able to drive home from the scene?,q,MR. GOODSTADT,start_answer
+74,214,28,11,No.,a,THE WITNESS,start_question
+75,215,28,12,Okay.  So then you had to have it towed at some point?,q,MR. GOODSTADT,start_answer
+76,217,28,14,Yes.,a,THE WITNESS,start_question
+77,218,28,15,Okay.  All right.  Do you remember the date of the accident?,q,MR. GOODSTADT,start_answer
+78,220,28,17,I don't exactly recall.,a,THE WITNESS,start_question
+79,221,28,18,Do you remember the month or the year?,q,MR. GOODSTADT,start_answer
+80,223,28,20,August.  I don't recall the year.,a,THE WITNESS,start_question
+81,224,28,21,Okay.  Do you recognize my client who's seated next to me?,q,MR. GOODSTADT,start_answer
+82,226,28,23,I do.,a,THE WITNESS,start_question
+83,227,28,24,And you recall that you were in a collision with her?,q,MR. GOODSTADT,start_answer
+84,230,29,2,I do.,a,THE WITNESS,start_question
+85,231,29,3,Do you remember what kind of vehicle she was operating?,q,MR. GOODSTADT,start_answer
+86,233,29,5,"Chevy, Chevrolet, large SUV.",a,THE WITNESS,start_question
+87,234,29,6,Okay.  And you had a Jeep?,q,MR. GOODSTADT,start_answer
+88,235,29,7,That's correct.,a,THE WITNESS,start_question
+89,236,29,8,Tell me what happened.,q,MR. GOODSTADT,start_answer
+90,237,29,9,"What happened?  That day of the accident, I was traveling on Washington Lane and stopped at a red light, red traffic light.  She was -- your client was in front of me.  The light was red.  Once the light turned green during the stormy conditions of the -- stormy conditions; it was raining hard.  Her vehicle began pulling off, pulled to the right and pulled back to the left and just, like, immediately stopped -- slammed on her brakes.  And then the front of my vehicle hit her vehicle.",a,THE WITNESS,start_question
+91,250,29,22,How long had it been raining?,q,MR. GOODSTADT,start_answer
+92,251,29,23,That entire morning.,a,THE WITNESS,start_question
+93,252,29,24,"Okay.  And, so, did the collision occur before noon?",q,MR. GOODSTADT,start_answer
+94,255,30,2,"I don't recall, but it was daylight.",a,THE WITNESS,start_question
+95,257,30,4,It was daylight?,q,MR. GOODSTADT,start_answer
+96,258,30,5,Yes.,a,THE WITNESS,start_question
+97,259,30,6,What was visibility like?,q,MR. GOODSTADT,start_answer
+98,260,30,7,"Due to the heavy rain conditions, poor.",a,THE WITNESS,start_question
+99,262,30,9,Okay.  Did you ever find out why she applied her brakes?,q,MR. GOODSTADT,start_answer
+100,264,30,11,Yes.,a,THE WITNESS,start_question
+101,265,30,12,And what did you find out?,q,MR. GOODSTADT,start_answer
+102,266,30,13,"From your client, after our conversation, she stated that she felt sorry for someone running for the bus on the very close corner, and she basically said she felt sorry for them and immediately stopped.",a,THE WITNESS,start_question
+103,272,30,19,Did you see that person before the impact occurred?,q,MR. GOODSTADT,start_answer
+104,274,30,21,I did not.,a,THE WITNESS,start_question
+105,275,30,22,Did you see them after the impact occurred?,q,MR. GOODSTADT,start_answer
+106,277,30,24,I did not.,a,THE WITNESS,start_question
+107,279,31,1,Did you have any reason not to believe my client?,q,MR. GOODSTADT,start_answer
+108,281,31,3,I held no judgement.,a,THE WITNESS,start_question
+109,282,31,4,"Okay.  Now, you told me earlier that you stopped for a red light at Washington Lane.  Was there an intersecting street?",q,MR. GOODSTADT,start_answer
+110,286,31,8,"Yes, there was.",a,THE WITNESS,start_question
+111,287,31,9,And what was the intersecting street?,q,MR. GOODSTADT,start_answer
+112,289,31,11,I believe it to be Stenton Avenue.,a,THE WITNESS,start_question
+113,290,31,12,Okay.  How many lanes on Washington Lane?,q,MR. GOODSTADT,start_answer
+114,292,31,14,One in each direction.,a,THE WITNESS,start_question
+115,293,31,15,How about Stenton?,q,MR. GOODSTADT,start_answer
+116,294,31,16,The same.,a,THE WITNESS,start_question
+117,295,31,17,Do you have any recollection as to how long you waited for the light to turn green?,q,MR. GOODSTADT,start_answer
+118,298,31,20,I do not.,a,THE WITNESS,start_question
+119,299,31,21,"One of the instructions I didn't give you was that if you're able to estimate, you can certainly give me an estimate.  If you can't estimate, it's an acceptable answer for you to tell me you don't know.  Okay?",q,MR. GOODSTADT,start_answer
+120,306,32,3,Yes.,a,THE WITNESS,start_question
+121,307,32,4,I'm not referring to the previous question.  It's just a general instruction.,q,MR. GOODSTADT,start_answer
+122,309,32,6,Okay.,a,THE WITNESS,start_question
+123,310,32,7,"Anytime I ask you something, if you can give me an estimate, great.  If you can't, just let me know.  Okay?",q,MR. GOODSTADT,start_chat
+124,313,32,10,I can answer?,side_chat,THE WITNESS,start_chat
+125,315,32,12,Yes.,side_chat,MS. KOSCIELNIAK,start_question
+126,317,32,14,Do you have any recollection as to how long you waited for the light to turn from red to green?,q,MR. GOODSTADT,start_answer
+127,320,32,17,"10, 15 seconds.",a,THE WITNESS,start_question
+128,321,32,18,"Okay.  Now, you also testified that once the light turned green, you observed my client pull her vehicle to the right?",q,MR. GOODSTADT,start_answer
+129,325,32,22,That's correct.,a,THE WITNESS,start_question
+130,326,32,23,And did you have any appreciation as to what she was doing or where she was going?,q,MR. GOODSTADT,start_answer
+131,330,33,2,Appreciation?  I'm not sure of your --,a,THE WITNESS,start_question
+132,332,33,4,Did you know why she did that?,q,MR. GOODSTADT,start_answer
+133,333,33,5,I did not know.,a,THE WITNESS,start_question
+134,334,33,6,Did my client have a turn signal on?,q,MR. GOODSTADT,start_answer
+135,336,33,8,"No, she did not.",a,THE WITNESS,start_question
+136,337,33,9,"When my client pulled to the right, did you try to pass her on the left?",q,MR. GOODSTADT,start_answer
+137,340,33,12,"It was my intention to go past her, and then -- yes, it was my intention.",a,THE WITNESS,start_question
+138,342,33,14,I understand it was your intention.  Did you try to pass her on the left?,q,MR. GOODSTADT,start_answer
+139,345,33,17,I remained in my lane and continued forward.,a,THE WITNESS,start_question
+140,347,33,19,So you didn't try to pass her?,q,MR. GOODSTADT,start_answer
+141,348,33,20,I remained in my lane and continued to proceed forward.,a,THE WITNESS,start_question
+142,350,33,22,"Well, that's not an answer to my question, so let me ask it again.  Did you try to pass her on the left?",q,MR. GOODSTADT,start_answer
+143,354,34,1,It was my intention to pass her.,a,THE WITNESS,start_question
+144,355,34,2,"I know what your intention was. I'm asking, did you try?",q,MR. GOODSTADT,start_answer
+145,357,34,4,"I couldn't.  Because of the actions of the vehicle in front of me, I could not pass her.",a,THE WITNESS,start_question
+146,360,34,7,Are you telling me you couldn't pass her because she pulled back into the lane?,q,MR. GOODSTADT,start_answer
+147,363,34,10,That's exactly what I'm telling you.,a,THE WITNESS,start_question
+148,365,34,12,All right.  Can you give me an estimate as to the speed she was traveling when you observed her pull to the right?,q,MR. GOODSTADT,start_answer
+149,368,34,15,Approximately 5 to 10 miles per hour --,a,THE WITNESS,start_question
+150,370,34,17,And how about when she pulled back to the left?,q,MR. GOODSTADT,start_answer
+151,372,34,19,"Accelerated out, probably 10 to 15.",a,THE WITNESS,start_question
+152,374,34,21,"So she was traveling about 5 to 10 miles per hour when she pulled to the right, and about 10 to 15 miles per hour when she pulled back to the left, correct?",q,MR. GOODSTADT,start_answer
+153,379,35,1,"About 10 to 15 when she pulled back out, accelerated out.",a,THE WITNESS,start_question
+154,381,35,3,To the left?,q,MR. GOODSTADT,start_answer
+155,382,35,4,To the left.,a,THE WITNESS,start_question
+156,383,35,5,Where did the impact take place?,q,MR. GOODSTADT,start_answer
+157,384,35,6,Location?,a,THE WITNESS,start_question
+158,385,35,7,Yes.,q,MR. GOODSTADT,start_answer
+159,386,35,8,On Washington Lane.,a,THE WITNESS,start_question
+160,387,35,9,"Well, did it take place in the intersection, at the beginning of the intersection, at the end of the intersection?",q,MR. GOODSTADT,start_answer
+161,391,35,13,At the -- at the beginning of the intersection.,a,THE WITNESS,start_question
+162,393,35,15,"So when the front of your vehicle struck the rear of her vehicle, how far was my client in the intersection?",q,MR. GOODSTADT,start_answer
+163,396,35,18,"About -- somewhere between a quarter of a car length to maybe, partially, half of a car length.",a,THE WITNESS,start_question
+164,399,35,21,"Okay.  So tell me about your actions.  You told me about her actions. In other words, you told me that she moved to the right and then moved back to the left.  When she moved to the right, did you move your vehicle?",q,MR. GOODSTADT,start_answer
+165,406,36,3,My vehicle remained in the operating lane going forward.,a,THE WITNESS,start_question
+166,408,36,5,So you moved forward?,q,MR. GOODSTADT,start_answer
+167,409,36,6,Yes.,a,THE WITNESS,start_question
+168,410,36,7,"And when she moved back to the left, tell me, what did you do with your vehicle?",q,MR. GOODSTADT,start_answer
+169,413,36,10,I braked hard.,a,THE WITNESS,start_question
+170,414,36,11,And that's because you were still moving forward?,q,MR. GOODSTADT,start_answer
+171,416,36,13,I braked or attempted to brake hard once she moved back in the operating lane.,a,THE WITNESS,start_question
+172,419,36,16,"Okay.  So if I understand what you're saying, when my client moved to the right, you began to move forward, correct?",q,MR. GOODSTADT,start_answer
+173,422,36,19,Correct.,a,THE WITNESS,start_question
+174,423,36,20,"And when she came back to the left, because you were already moving forward, you applied your brakes, correct?",q,MR. GOODSTADT,start_answer
+175,426,36,23,That's correct.,a,THE WITNESS,start_question
+176,427,36,24,Okay.  What was the distance between the front of your vehicle and the rear of her vehicle when my client moved to the right?,q,MR. GOODSTADT,start_answer
+177,432,37,4,Approximately a half a car length.,a,THE WITNESS,start_question
+178,433,37,5,And what was the distance between the front of your vehicle and my client's vehicle when she moved back to the left?,q,MR. GOODSTADT,start_answer
+179,436,37,8,About a quarter of a car length.,a,THE WITNESS,start_question
+180,437,37,9,And what was your speed when you observed my client move to the right?,q,MR. GOODSTADT,start_answer
+181,439,37,11,About 5 to 10 miles per hour.,a,THE WITNESS,start_question
+182,440,37,12,And what was your speed when my client moved back to the left?,q,MR. GOODSTADT,start_answer
+183,442,37,14,About 10 miles per hour.,a,THE WITNESS,start_question
+184,443,37,15,And what was your speed when you hit her?,q,MR. GOODSTADT,start_answer
+185,445,37,17,About 10 miles per hour.,a,THE WITNESS,start_question
+186,446,37,18,"And if I understand what you're telling me, the front of your Jeep struck the rear of my client's Chevy, correct?",q,MR. GOODSTADT,start_answer
+187,449,37,21,That's correct.,a,THE WITNESS,start_question
+188,450,37,22,"After the impact, did you get out of the vehicle?",q,MR. GOODSTADT,start_answer
+189,452,37,24,At some point I did.,a,THE WITNESS,start_question
+190,454,38,1,And did my client get out of the vehicle?,q,MR. GOODSTADT,start_answer
+191,456,38,3,At some point she did.,a,THE WITNESS,start_question
+192,457,38,4,And did you have a conversation with her?,q,MR. GOODSTADT,start_answer
+193,459,38,6,Yes.,a,THE WITNESS,start_question
+194,460,38,7,"Tell me what she said to you, tell me what you said to her.",q,MR. GOODSTADT,start_answer
+195,462,38,9,"What she said to me was, ""Are you okay?""  I asked the same of her, ""Are you okay?""  She said to me that she was sorry; there was a man running for the bus.  She felt -- she just saw this man was running for a bus, and she just felt bad for him because of the rain.  She wanted him to get to his bus, some bus.",a,THE WITNESS,start_question
+196,470,38,17,She wanted him to get to the bus because it was pouring?,q,MR. GOODSTADT,start_answer
+197,472,38,19,Something along that line.,a,THE WITNESS,start_question
+198,473,38,20,Okay.  And what did you say to her?,q,MR. GOODSTADT,start_answer
+199,475,38,22,"""Are you okay?""",a,THE WITNESS,start_question
+200,476,38,23,And what did she respond?,q,MR. GOODSTADT,start_answer
+201,477,38,24,She said she was fine.,a,THE WITNESS,start_question
+202,479,39,1,Did either of you mention calling the police?,q,MR. GOODSTADT,start_answer
+203,481,39,3,"No.  There was further conversation.  She mentioned that she was driving her daughter's car, and she was from Florida.  This wasn't her car; this was her daughter's car is what she said.",a,THE WITNESS,start_question
+204,486,39,8,Okay.  Did you talk about calling the police?,q,MR. GOODSTADT,start_answer
+205,488,39,10,"My thoughts were to call the police.  Did we talk about it?  I don't recall.  It was more just, like, ""Are you okay?""",a,THE WITNESS,start_question
+206,492,39,14,Did you exchange information?,q,MR. GOODSTADT,start_answer
+207,493,39,15,We did.,a,THE WITNESS,start_question
+208,494,39,16,Was there a bus near the intersection?,q,MR. GOODSTADT,start_answer
+209,496,39,18,I saw no bus.,a,THE WITNESS,start_question
+210,497,39,19,Not before the collision or after the collision?,q,MR. GOODSTADT,start_answer
+211,499,39,21,I saw no bus.,a,THE WITNESS,start_question
+212,500,39,22,I'm going to hand you a photograph.  First show it to your attorney.,q,MR. GOODSTADT,start_answer
+213,504,40,1,Mm-hmm.,a,THE WITNESS,is brackets
+214,505,40,2,(Document was marked for identification as Deposition Exhibit Oliver No. 1.),brackets,,symbols
+215,508,40,5,- - -,symbols,,start_question
+216,510,40,7,"Mr. Oliver, have you seen that photograph before?",q,MR. GOODSTADT,start_answer
+217,512,40,9,I have.,a,THE WITNESS,start_question
+218,513,40,10,And can you identify it for me?,q,MR. GOODSTADT,start_answer
+219,514,40,11,"It shows my vehicle, my 2017 Grand Jeep Cherokee front end damage.",a,THE WITNESS,start_question
+220,516,40,13,Do you know where the photo was taken?,q,MR. GOODSTADT,start_answer
+221,518,40,15,That was taken in front of the -- or along side of the body shop that repaired it.,a,THE WITNESS,start_question
+222,521,40,18,Okay.,q,MR. GOODSTADT,start_chat
+223,522,40,19,Go off the record a minute.,side_chat,MR. GOODSTADT,is brackets
+224,524,40,21,(A discussion was held off the record at this time.),brackets,,symbols
+225,526,40,23,- - -,symbols,,start_question
+226,529,41,1,All right.  A couple more. Can you give me an estimate as to how far you were behind my client's vehicle when you saw her come back to the left?,q,MR. GOODSTADT,start_answer
+227,534,41,6,Can you rephrase your question?,a,THE WITNESS,start_question
+228,535,41,7,"Sure. Your testimony was that my client moved to the right, and then she moved back to the left into the travel lane.  And my question is, how far was she in front of you when she moved back into the travel lane?",q,MR. GOODSTADT,start_answer
+229,542,41,14,How far was I away from her?,a,THE WITNESS,start_question
+230,543,41,15,Yeah.  How far was the front of your vehicle from any part of her vehicle?,q,MR. GOODSTADT,start_answer
+231,546,41,18,A quarter of a car length to a half of a car length.,a,THE WITNESS,start_question
+232,548,41,20,Was her vehicle angled at the time of impact?,q,MR. GOODSTADT,start_answer
+233,550,41,22,It was.,a,THE WITNESS,start_question
+234,551,41,23,"And at the time of impact, how much of her vehicle was in the travel lane, and how much of her vehicle was still outside the lane on the right?",q,MR. GOODSTADT,start_answer
+235,556,42,3,She accelerated into the travel lane at that point.,a,THE WITNESS,start_question
+236,558,42,5,"Well, let me ask it different.  At the time of impact, was her entire vehicle in the travel lane?",q,MR. GOODSTADT,start_answer
+237,561,42,8,Yes.,a,THE WITNESS,start_question
+238,562,42,9,"When your vehicle impacted the rear of the vehicle she was operating, did you impact one side of the rear or the other, or the entire rear?",q,MR. GOODSTADT,start_answer
+239,566,42,13,I only know it as the rear.  I don't recall exactly.,a,THE WITNESS,start_question
+240,568,42,15,Okay.  So you do have any recollection if you hit the right rear or the left rear?,q,MR. GOODSTADT,start_answer
+241,571,42,18,"Currently, no.  I just know it was the rear.",a,THE WITNESS,start_question
+242,573,42,20,Okay.  Were your lights on?,q,MR. GOODSTADT,start_answer
+243,574,42,21,They're automatic lights.  Yes.,a,THE WITNESS,start_question
+244,575,42,22,Were her lights on?,q,MR. GOODSTADT,start_answer
+245,576,42,23,"When you say ""lights,"" can you be more specific?",a,THE WITNESS,start_question
+246,579,43,1,Could you see her brake lights come on?,q,MR. GOODSTADT,start_answer
+247,581,43,3,I did.,a,THE WITNESS,start_question
+248,582,43,4,"So when you saw her brake lights come on, you knew she was stopping, right?",q,MR. GOODSTADT,start_answer
+249,585,43,7,That's correct.,a,THE WITNESS,start_question
+250,586,43,8,Okay.,q,MR. GOODSTADT,start_chat
+251,587,43,9,"Mr. Oliver, that's it.  I don't have anything further unless your attorney has questions for you.",side_chat,MR. GOODSTADT,start_chat
+252,591,43,13,Just a few.,side_chat,MS. KOSCIELNIAK,symbols
+253,593,43,15,- - - EXAMINATION,symbols,,symbols
+254,595,43,17,- - -,symbols,,start_question
+255,597,43,19,"Mr. Oliver, this photo that was identified as Oliver-1, was this taken immediately after the accident occurred?",q,MS. KOSCIELNIAK,start_answer
+256,600,43,22,No.,a,THE WITNESS,start_question
+257,601,43,23,Do you know who took this photograph?,q,MS. KOSCIELNIAK,start_answer
+258,604,44,1,No.,a,THE WITNESS,start_question
+259,605,44,2,"As a result of the accident in August of 2017, did your front bumper become dislodged or come off at the scene of the accident?",q,MS. KOSCIELNIAK,start_answer
+260,609,44,6,It was partially dislodged.,a,THE WITNESS,start_question
+261,610,44,7,Okay.  Did it come off at the scene of the accident?,q,MS. KOSCIELNIAK,start_answer
+262,612,44,9,"Not at the scene of the accident, no.",a,THE WITNESS,start_question
+263,614,44,11,Okay.  I'm going to show you two more photographs.  Do you recognize what's depicted in these?,q,MS. KOSCIELNIAK,start_chat
+264,617,44,14,Can I see it?,side_chat,MR. GOODSTADT,start_chat
+265,619,44,16,They were produced.,side_chat,MS. KOSCIELNIAK,start_chat
+266,621,44,18,Thank you.,side_chat,THE WITNESS,start_question
+267,623,44,20,Did you recognize what's depicted in those two photographs that we'll mark as Oliver-2 and Oliver-3?,q,MS. KOSCIELNIAK,start_answer
+268,626,44,23,I do recognize it.,a,THE WITNESS,start_question
+269,627,44,24,What is it?,q,MS. KOSCIELNIAK,start_answer
+270,629,45,1,It's my 2017 Grand Jeep Cherokee.,a,THE WITNESS,is brackets
+271,630,45,2,(Documents were marked for identification as Deposition Exhibit Oliver No. 2 and Oliver No. 3.),brackets,,symbols
+272,634,45,6,- - -,symbols,,start_question
+273,636,45,8,And do these photos accurately depict what your vehicle looked like after this accident occurred?,q,MS. KOSCIELNIAK,start_answer
+274,639,45,11,It does.,a,THE WITNESS,start_question
+275,640,45,12,Okay.,q,MS. KOSCIELNIAK,start_chat
+276,641,45,13,I don't have any other questions for you.  Thank you.,side_chat,MS. KOSCIELNIAK,start_chat
+277,644,45,16,That's it. You're done.  Thank you.,side_chat,MR. GOODSTADT,symbols
+278,646,45,18,- - -,symbols,,is brackets
+279,647,45,19,(Witness excused.),brackets,,symbols
+280,648,45,20,- - -,symbols,,is brackets
+281,649,45,21,(Deposition concluded at 2:30 p.m.),brackets,,symbols
+282,650,45,22,"- - - C E R T I F I C A T I O N I, Maria Rousakis, hereby certify that the foregoing is a true and correct transcript of the proceedings held in this matter as transcribed from the stenographic notes taken by me on Wednesday, August 28, 2019. Maria Rousakis",symbols,,is brackets
+283,675,46,20,"(This certification does not transcript, unless under the certifying reporter.)",brackets,,symbols
+284,681,46,24,- - -,symbols,,end

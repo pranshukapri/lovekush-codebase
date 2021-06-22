@@ -1,0 +1,244 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," objections at a later time.  Signing, sealing, and certification will be deemed waived.  These terms acceptable, counsel?",,,start_chat
+1,156,6,12,They are.,side_chat,MR. DAVIS,start_question
+2,158,6,14,"Ms. Saimesier, could you please state your full name and current address, please.",q,MR. MILEWSKI,start_answer
+3,161,6,17,"My name is Sicilia Saimesier.  I live at 1330 West Spencer Street in Philadelphia, Pennsylvania 19141.",a,THE WITNESS,start_question
+4,164,6,20,And were you employed prior to October 9th of 2018?,q,MR. MILEWSKI,start_answer
+5,166,6,22,"I was working with Genesis.  Now I'm working with Abramson Center, and it's been ten years.",a,THE WITNESS,start_question
+6,169,6,25,Okay.  So you were working for Abramson prior to October 9th of 2018?,q,MR. MILEWSKI,start_answer
+7,172,7,2,Abramson.,a,THE WITNESS,start_question
+8,173,7,3,What was your job with Abramson?,q,MR. MILEWSKI,start_answer
+9,174,7,4,CNA.,a,THE WITNESS,start_question
+10,175,7,5,What were your duties as a CNA?,q,MR. MILEWSKI,start_answer
+11,176,7,6,"Lift, push.  I did pulling as well.  Like, you have a device called a sling that you attach to machines so you can lift the patient.",a,THE WITNESS,start_question
+12,180,7,10,So it involved lifting of patients?,q,MR. MILEWSKI,start_answer
+13,182,7,12,Some patients you have to get a second person to help you lift them with both hands.,a,THE WITNESS,start_question
+14,185,7,15,"Were you injured on October 9, 2018?",q,MR. MILEWSKI,start_answer
+15,187,7,17,Yes.,a,THE WITNESS,start_question
+16,188,7,18,And how specifically were you injured?,q,MR. MILEWSKI,start_answer
+17,190,7,20,Was it when I was pushing the person?,a,THE WITNESS,start_question
+18,192,7,22,That's what I'm asking.  How were you injured on October 9th?,q,MR. MILEWSKI,start_answer
+19,194,7,24,"I was using a machine to lift the person, and I pulled the sling because the person was very heavy.  She could not bend her knee so you had to push the machine to help her move and that's how I hit my shoulder.",a,THE WITNESS,start_question
+20,200,8,4,So you injured your shoulder while lifting a patient?,q,MR. MILEWSKI,start_answer
+21,202,8,6,Yes.,a,THE WITNESS,start_question
+22,203,8,7,Where specifically in your shoulder?,q,MR. MILEWSKI,start_answer
+23,205,8,9,The right side and my neck.,a,THE WITNESS,start_question
+24,206,8,10,Did you continue working after your injury?,q,MR. MILEWSKI,start_answer
+25,208,8,12,No.  I had another patient to work with and somebody else came and give me assistance.,a,THE WITNESS,start_question
+26,211,8,15,Were you out of work for any period of time?,q,MR. MILEWSKI,start_answer
+27,213,8,17,Yes.,a,THE WITNESS,start_question
+28,214,8,18,When was that?,q,MR. MILEWSKI,start_answer
+29,215,8,19,"After the injury.  I don't remember exactly the date, but it was, like, three or four months.",a,THE WITNESS,start_question
+30,218,8,22,Then you returned to work?,q,MR. MILEWSKI,start_answer
+31,219,8,23,"Yes.  I returned to work, but since I was in a lot of pain the doctor restricted me to light-duty.",a,THE WITNESS,start_question
+32,223,9,1,Are you still working light-duty now?,q,MR. MILEWSKI,start_answer
+33,225,9,3,No.  They sent me back to the floor and they still send me to very hard places.,a,THE WITNESS,start_question
+34,228,9,6,When did you go back to working in that capacity?,q,MR. MILEWSKI,start_answer
+35,230,9,8,"I don't remember exactly, but I believe it was in the month of May or something like that.",a,THE WITNESS,start_question
+36,233,9,11,Did you receive treatment for your injuries after October 9th of 2018?,q,MR. MILEWSKI,start_answer
+37,235,9,13,Yes.  And I'm still receiving treatment now.,a,THE WITNESS,start_question
+38,237,9,15,Who have you received treatment from?,q,MR. MILEWSKI,start_answer
+39,239,9,17,I went to therapy and I was referred to Dr. Anand.,a,THE WITNESS,start_question
+40,241,9,19,Are you seeing anyone else besides Dr. Anand?,q,MR. MILEWSKI,start_answer
+41,243,9,21,No.  I don't think so.,a,THE WITNESS,start_question
+42,244,9,22,Are you also seeing Dr. Madnani?,q,MR. MILEWSKI,start_answer
+43,245,9,23,Yes.,a,THE WITNESS,start_question
+44,246,9,24,What treatment is he providing for you?,q,MR. MILEWSKI,start_answer
+45,249,10,1,"The treatment consist of patches that they put on my arm.  They give me acupuncture, and they want to give me needles too.",a,THE WITNESS,start_question
+46,253,10,5,Is this Dr. Madnani or Dr. Anand?,q,MR. MILEWSKI,start_answer
+47,255,10,7,Dr. Anand.,a,THE WITNESS,start_question
+48,256,10,8,How long have you been treating with Dr. Anand?,q,MR. MILEWSKI,start_answer
+49,258,10,10,"After the therapy sessions that were referred by my company, then I started doing therapy with Dr. Anand.",a,THE WITNESS,start_question
+50,261,10,13,Do you recall if that --,q,MR. MILEWSKI,start_answer
+51,262,10,14,I went to therapy to see Dr. Mark and Dr. Mark send me to Dr. Anand.,a,THE WITNESS,start_question
+52,264,10,16,What body part is Dr. Anand treating you for?,q,MR. MILEWSKI,start_answer
+53,266,10,18,"My arm, my shoulder.",a,THE WITNESS,start_question
+54,267,10,19,"And you started telling us already, what treatment is he giving to you?",q,MR. MILEWSKI,start_answer
+55,269,10,21,"He was going to give me injections.  He was going to do another nerve treatment, but I don't like the injection because it didn't help.",a,THE WITNESS,start_question
+56,273,10,25,Is he prescribing you any medications?,q,MR. MILEWSKI,start_answer
+57,276,11,2,Yes.,a,THE WITNESS,start_question
+58,277,11,3,And what are those for?,q,MR. MILEWSKI,start_answer
+59,278,11,4,For pain.,a,THE WITNESS,start_question
+60,279,11,5,And I believe you also said earlier that he's giving you acupuncture?,q,MR. MILEWSKI,start_answer
+61,281,11,7,Yes.  Acupuncture.,a,THE WITNESS,start_question
+62,282,11,8,Is the acupuncture helpful to you at all?,q,MR. MILEWSKI,start_answer
+63,284,11,10,Yes.,a,THE WITNESS,start_question
+64,285,11,11,How so?,q,MR. MILEWSKI,start_answer
+65,286,11,12,"When he does it, I don't feel a lot of pain.",a,THE WITNESS,start_question
+66,288,11,14,And how long does that relief last?,q,MR. MILEWSKI,start_answer
+67,290,11,16,A week.,a,THE WITNESS,start_question
+68,291,11,17,Does it affect your ability to function at all?,q,MR. MILEWSKI,start_answer
+69,293,11,19,Yes.,a,THE WITNESS,start_question
+70,294,11,20,Do the medications help you?,q,MR. MILEWSKI,start_answer
+71,295,11,21,Yes.  Some of them.,a,THE WITNESS,start_question
+72,296,11,22,How so?,q,MR. MILEWSKI,start_answer
+73,297,11,23,"Some of them such as the tramadol, it keeps me from sleeping.  I cannot sleep.",a,THE WITNESS,start_chat
+74,301,12,1,Did you say it keeps you from sleeping?,side_chat,MR. DAVIS,start_chat
+75,303,12,3,"I feel sleepy, but I cannot sleep.",side_chat,THE WITNESS,start_question
+76,306,12,6,Okay.  You said some of the medications are helpful to you.  In what way are the medications helpful?,q,MR. MILEWSKI,start_answer
+77,309,12,9,"Some of them are useful because after work I can take them, and I don't feel the pain and that helps me get some sleep too.",a,THE WITNESS,start_question
+78,312,12,12,Do you perform any chores at your house?,q,MR. MILEWSKI,start_answer
+79,314,12,14,"Yes.  Because I don't have any children and, you know, children here in the U.S., they don't help at all.  But when I was first injured, I was not able to do any chores because I was in pain.",a,THE WITNESS,start_question
+80,319,12,19,And are you able to do them now?,q,MR. MILEWSKI,start_answer
+81,320,12,20,Now I can do them a little bit better.,a,THE WITNESS,start_question
+82,322,12,22,Is there any specific ones that you could not do when you were first injured?,q,MR. MILEWSKI,start_answer
+83,324,12,24,Yes.  I could not even clean myself.  I could not take a shower.,a,THE WITNESS,start_question
+84,327,13,1,Do you believe that you would be able to do these activities without Dr. Anand's treatment?,q,MR. MILEWSKI,start_answer
+85,330,13,4,I don't know.,a,THE WITNESS,start_question
+86,331,13,5,Are you working currently?,q,MR. MILEWSKI,start_answer
+87,332,13,6,Yes.,a,THE WITNESS,start_question
+88,333,13,7,Do you believe you would be able to continue to work without Dr. Anand's treatment?,q,MR. MILEWSKI,start_answer
+89,336,13,10,No.,a,THE WITNESS,start_question
+90,337,13,11,Would you like to continue treating with Dr. Anand?,q,MR. MILEWSKI,start_answer
+91,339,13,13,Yes.,a,THE WITNESS,start_question
+92,340,13,14,How do you feel your pain level would be without his treatment?,q,MR. MILEWSKI,start_answer
+93,342,13,16,"I would say without his treatment, it would be seven.",a,THE WITNESS,start_question
+94,344,13,18,And how is your pain as we sit here right now with his treatment?,q,MR. MILEWSKI,start_answer
+95,346,13,20,I would say five now.,a,THE WITNESS,start_question
+96,347,13,21,"Ma'am, I'm handing you a document.  This is a copy of our contingent fee agreement.",q,MR. MILEWSKI,start_answer
+97,350,13,24,Uh-uh.,a,THE WITNESS,start_question
+98,351,13,25,Do you understand this document calls for us to represent you in this matter?,q,MR. MILEWSKI,start_answer
+99,354,14,2,Okay.,a,THE WITNESS,start_question
+100,355,14,3,Is that your signature there at the bottom?,q,MR. MILEWSKI,start_answer
+101,357,14,5,Yes.,a,THE WITNESS,start_question
+102,358,14,6,This is an Act 109 Affidavit. Can you please confirm that the information in paragraphs one through five is correct.,q,MR. MILEWSKI,start_answer
+103,361,14,9,Yes.,a,THE WITNESS,start_question
+104,362,14,10,"And you've indicated in paragraph 6A that you have no outstanding child support liens against you, correct?",q,MR. MILEWSKI,start_answer
+105,365,14,13,Yeah.,a,THE WITNESS,start_question
+106,366,14,14,Is that your signature there at the bottom?,q,MR. MILEWSKI,start_answer
+107,368,14,16,Yes.,a,THE WITNESS,start_chat
+108,369,14,17,"Counsel, I'm just going to move for the admission for those be admitted as Saimesier-1 and 2.  Do you have any objection?",side_chat,MR. MILEWSKI,start_chat
+109,373,14,21,No objection.,side_chat,MR. DAVIS,start_chat
+110,374,14,22,No other questions right now.,side_chat,MR. MILEWSKI,symbols
+111,376,14,24,- - -,symbols,,is brackets
+112,377,14,25,"(Whereupon, Saimesier-1 and Saimesier-2 were marked for identification.)",brackets,,symbols
+113,381,15,3,- - -,symbols,,start_question
+114,383,15,5,"Ma'am, my name is Chris Davis. I'm going to ask you some questions.",q,MR. DAVIS,start_answer
+115,385,15,7,Okay.,a,THE WITNESS,start_question
+116,386,15,8,"I represent your employer, the Abramson Center.",q,MR. DAVIS,start_answer
+117,388,15,10,Okay.,a,THE WITNESS,start_question
+118,389,15,11,You worked for Abramson Center as a certified nursing assistant; is that correct?,q,MR. DAVIS,start_answer
+119,392,15,14,Yes.,a,THE WITNESS,start_question
+120,393,15,15,You worked full-time at the North Wales facility; is that correct?,q,MR. DAVIS,start_answer
+121,395,15,17,Yes.,a,THE WITNESS,start_question
+122,396,15,18,"In October of 2018, you injured your right shoulder moving a patient; is that true?",q,MR. DAVIS,start_answer
+123,399,15,21,Yes.,a,THE WITNESS,start_question
+124,400,15,22,You went out of work for a period of time; is that correct?,q,MR. DAVIS,start_answer
+125,402,15,24,Yes.,a,THE WITNESS,start_question
+126,403,15,25,And you treated with a few different groups including Concentra Philadelphia; is that true?,q,MR. DAVIS,start_answer
+127,407,16,3,Yes.,a,THE WITNESS,start_question
+128,408,16,4,"While at Concentra, they gave you physical therapy; is that correct?",q,MR. DAVIS,start_answer
+129,410,16,6,Yes.,a,THE WITNESS,start_question
+130,411,16,7,And then eventually you stopped treating with Concentra; is that correct?,q,MR. DAVIS,start_answer
+131,413,16,9,Yes.,a,THE WITNESS,start_question
+132,414,16,10,"You were also seen by Dr. Craig Rubinstein at Rothman Institute, do you remember that?",q,MR. DAVIS,start_answer
+133,417,16,13,Yes.,a,THE WITNESS,start_question
+134,418,16,14,"He offered you an injection, but you declined; is that true?",q,MR. DAVIS,start_answer
+135,420,16,16,Yes.,a,THE WITNESS,start_question
+136,421,16,17,He no longer treats you; is that correct?,q,MR. DAVIS,start_answer
+137,423,16,19,Yes.,a,THE WITNESS,start_question
+138,424,16,20,All right.  Your current treatment is with a doctor by the name of Dr. Neil Anand; is that correct?,q,MR. DAVIS,start_answer
+139,427,16,23,Yes.,a,THE WITNESS,start_question
+140,428,16,24,My notes indicate that you first started treating with Dr. Anand in March of 2019.  Does that sound correct?,q,MR. DAVIS,start_answer
+141,432,17,2,Yes.,a,THE WITNESS,start_question
+142,433,17,3,And my notes also indicate that you have continued to treat with Dr. Anand up through today's deposition which is in late August of 2019; is that correct?,q,MR. DAVIS,start_answer
+143,437,17,7,Yes.,a,THE WITNESS,start_question
+144,438,17,8,And you roughly see Dr. Anand one time per month; is that true?,q,MR. DAVIS,start_answer
+145,440,17,10,Yes.,a,THE WITNESS,start_question
+146,441,17,11,"Now, when you first started treating with Dr. Anand, he prescribed you some medications; is that correct?",q,MR. DAVIS,start_answer
+147,444,17,14,Yes.,a,THE WITNESS,start_question
+148,445,17,15,I have the medications when you started with him.  It was tramadol?,q,MR. DAVIS,start_answer
+149,447,17,17,Yes.,a,THE WITNESS,start_question
+150,448,17,18,Pantoprazole?,q,MR. DAVIS,start_chat
+151,449,17,19,I don't even know how to say that.  Show her this if she knows it.,side_chat,MR. DAVIS,start_chat
+152,452,17,22,Yeah.  And I have a lot of them.,side_chat,THE WITNESS,start_question
+153,455,17,25,Right.  Also Zofran?,q,MR. DAVIS,start_answer
+154,457,18,1,Yes.,a,THE WITNESS,start_question
+155,458,18,2,Meloxicam?,q,MR. DAVIS,start_answer
+156,459,18,3,Yes.,a,THE WITNESS,start_question
+157,460,18,4,Some type of nasal spray?,q,MR. DAVIS,start_answer
+158,461,18,5,Yes.,a,THE WITNESS,start_question
+159,462,18,6,Gabapentin?,q,MR. DAVIS,start_answer
+160,463,18,7,Yes.,a,THE WITNESS,start_question
+161,464,18,8,Soma?,q,MR. DAVIS,start_answer
+162,465,18,9,Yes.,a,THE WITNESS,start_question
+163,466,18,10,Ambien?,q,MR. DAVIS,start_answer
+164,467,18,11,Yes.,a,THE WITNESS,start_question
+165,468,18,12,And some kind of patch that you put on your skin?,q,MR. DAVIS,start_answer
+166,470,18,14,I have one actually right now.,a,THE WITNESS,start_question
+167,471,18,15,What do you mean?  You're wearing a patch?,q,MR. DAVIS,start_answer
+168,473,18,17,Yeah.,a,THE WITNESS,start_question
+169,474,18,18,You have a patch on your shoulder right now?,q,MR. DAVIS,start_answer
+170,476,18,20,Yes.,a,THE WITNESS,start_question
+171,477,18,21,Is that the patch that's prescribed by Dr. Anand?,q,MR. DAVIS,start_answer
+172,479,18,23,Yes.,a,THE WITNESS,start_question
+173,480,18,24,Do you wear the patch daily?,q,MR. DAVIS,start_answer
+174,481,18,25,I wear it for 12 hours.  That's what I've been told.,a,THE WITNESS,start_question
+175,484,19,2,All right.  So Dr. Anand prescribes all these medications for you in the beginning of March.  Do you still continue to take all of those medications or have you discontinued any of them?,q,MR. DAVIS,start_answer
+176,489,19,7,I still take them.,a,THE WITNESS,start_question
+177,490,19,8,You still take them all?,q,MR. DAVIS,start_answer
+178,491,19,9,Yes.,a,THE WITNESS,start_question
+179,492,19,10,Do you still take them at the same level as you did in March as we sit here today?,q,MR. DAVIS,start_answer
+180,495,19,13,Yes.,a,THE WITNESS,start_question
+181,496,19,14,So you haven't increased or decreased the medication in any way since March; is that fair?,q,MR. DAVIS,start_answer
+182,499,19,17,No.,a,THE WITNESS,start_question
+183,500,19,18,No I'm wrong or no I'm correct?,q,MR. DAVIS,start_answer
+184,501,19,19,What you said is correct.,a,THE WITNESS,start_question
+185,502,19,20,"All right.  Now, you were out of work for several months due to your work injury; is that true?",q,MR. DAVIS,start_answer
+186,505,19,23,Yes.,a,THE WITNESS,start_question
+187,506,19,24,Then you were released to go to work and then you went back to the Abramson Center working light-duty; is that correct?,q,MR. DAVIS,start_answer
+188,510,20,2,But they did not really give me light-duty.,a,THE WITNESS,start_question
+189,512,20,4,"When you went back light-duty, were you working full-time, the same hours as you had before the work injury?",q,MR. DAVIS,start_answer
+190,515,20,7,Yes.,a,THE WITNESS,start_question
+191,516,20,8,All right.  And you continue to work for Abramson today; is that correct?,q,MR. DAVIS,start_answer
+192,518,20,10,Yes.,a,THE WITNESS,start_question
+193,519,20,11,You continue to work full-time for Abramson as of today; is that fair?,q,MR. DAVIS,start_answer
+194,521,20,13,Yes.,a,THE WITNESS,start_question
+195,522,20,14,And you also said that you were switched from light-duty to full-duty or the light-duty was no longer -- strike that.  You said at some point you started working full-duty; is that true?,q,MR. DAVIS,start_answer
+196,527,20,19,Yes.,a,THE WITNESS,start_question
+197,528,20,20,That was roughly May of 2019?,q,MR. DAVIS,start_answer
+198,529,20,21,Yes.,a,THE WITNESS,start_question
+199,530,20,22,"And so you've worked full-duty May, June, July, and August.  About four months now; is that correct?",q,MR. DAVIS,start_answer
+200,533,20,25,Yes.,a,THE WITNESS,start_question
+201,535,21,1,"All right.  When your attorney was asking you questions, you talked about that some of the medications were helping you.  I assume that some of the medications were not helping you.  Do you remember that?",q,MR. DAVIS,start_answer
+202,540,21,6,Yes.,a,THE WITNESS,start_question
+203,541,21,7,Which medications are not helping you in your opinion?,q,MR. DAVIS,start_answer
+204,543,21,9,The tramadol.,a,THE WITNESS,start_question
+205,544,21,10,The tramadol?,q,MR. DAVIS,start_answer
+206,545,21,11,Yes.,a,THE WITNESS,start_question
+207,546,21,12,Any other one of them?,q,MR. DAVIS,start_answer
+208,547,21,13,No.,a,THE WITNESS,start_question
+209,548,21,14,Do you continue to take the tramadol?,q,MR. DAVIS,start_answer
+210,550,21,16,No.,a,THE WITNESS,start_question
+211,551,21,17,When was the last time that you took the tramadol?,q,MR. DAVIS,start_answer
+212,553,21,19,The last time I took it twice. It kept me from sleeping so I told the doctor the issue and I stopped taking it.,a,THE WITNESS,start_question
+213,556,21,22,Do you remember when that was?,q,MR. DAVIS,start_answer
+214,557,21,23,I believe July.  I don't know.,a,THE WITNESS,start_question
+215,558,21,24,Okay.  July of 2019?,q,MR. DAVIS,start_answer
+216,559,21,25,Yes.,a,THE WITNESS,start_question
+217,561,22,1,All right.  Has Dr. Anand sent you to any other doctors?,q,MR. DAVIS,start_answer
+218,563,22,3,Sometimes they would refer me to Bensalem and also to the doctor over in Frankford.,a,THE WITNESS,start_question
+219,566,22,6,Have you seen either of those doctors in the last three months?,q,MR. DAVIS,start_answer
+220,568,22,8,Dr. Anand.,a,THE WITNESS,start_question
+221,569,22,9,You said that Dr. Anand sent you to other doctors; is that true?,q,MR. DAVIS,start_answer
+222,571,22,11,They were going to do the same treatment so I didn't go.,a,THE WITNESS,start_question
+223,573,22,13,"Okay.  So Dr. Anand referred you to other doctors, but you declined going.  Is that your testimony?",q,MR. DAVIS,start_answer
+224,576,22,16,"I did not decline to go.  I don't know the place where it's located, and I cannot go by myself.  If that's the case, you can always come when the doctor is present to see the doctor.",a,THE WITNESS,start_question
+225,581,22,21,"Okay.  The treatment that Dr. Anand gives you, does it involve -- do you know what strapping is?",q,MR. DAVIS,start_answer
+226,584,22,24,It's not -- what they do for me is not strapping.  They tape the arm when I go see him.,a,THE WITNESS,start_question
+227,588,23,2,Right.  Do they tape the arm every time that you go there?,q,MR. DAVIS,start_answer
+228,590,23,4,Not every time.,a,THE WITNESS,start_question
+229,591,23,5,And does taping of the arm give you any benefit?,q,MR. DAVIS,start_answer
+230,593,23,7,Yes.,a,THE WITNESS,start_question
+231,594,23,8,How does it help you?,q,MR. DAVIS,start_answer
+232,595,23,9,With pain feels better.  I feel better.,a,THE WITNESS,start_question
+233,597,23,11,"Okay.  And as I understand it, as we sit here today, your pain complaints are five out of ten.  Is that what you would call it?",q,MR. DAVIS,start_answer
+234,601,23,15,Yes.,a,THE WITNESS,start_question
+235,602,23,16,"And going back in time, how long has it been at five out of ten?",q,MR. DAVIS,start_answer
+236,604,23,18,Ever since I started taking the medications and I started wearing the patch.,a,THE WITNESS,start_question
+237,606,23,20,So around March of 2019?,q,MR. DAVIS,start_answer
+238,607,23,21,Yes.,a,THE WITNESS,start_chat
+239,608,23,22,No further questions.,side_chat,MR. DAVIS,start_chat
+240,610,23,24,Nothing further.,side_chat,MR. MILEWSKI,is brackets
+241,611,23,25,(Witness excused.),brackets,,is brackets
+242,613,24,1,"(Deposition ended at 3:11 p.m.) C E R T I F I C A T E I do hereby certify that I am a Notary Public in good standing, that the aforesaid testimony was taken before me, pursuant to notice, at the time and place indicated; that said deponent was by me duly sworn to tell the truth, the whole truth, and nothing but the truth; that the testimony of said deponent was correctly recorded in machine shorthand by me, to the best of my ability, and thereafter transcribed under my supervision with computer-aided transcription; that the deposition is a true and correct record of the testimony given by the witness; and that I am neither of counsel nor kin to any party in said action, nor interested in the outcome thereof. WITNESS my hand and official seal this 10th day of September, 2019. <%signature%>",brackets,,end

@@ -1,0 +1,498 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," been duly sworn, deposes and states as follows: EXAMINATION CONDUCTED",,,start_question
+1,159,5,9,"Good morning, Mr. Ferguson.  Can you hear me?",q,MS. ZIVKOVIC,start_answer
+2,161,5,11,"Yes.  You might have to speak a little louder because I'm a little bit hard of hearing.  I'm not deaf.  My children accuse me of it anyhow, I know that, being deaf.",a,THE WITNESS,start_question
+3,165,5,15,"My name is Katie Zivkovic.  If at any point you can't hear me or have trouble understanding a question that I ask you, please just ask me to repeat it and I'll do so.",q,MS. ZIVKOVIC,start_chat
+4,170,5,20,I'll just put the usual stipulations on the record.,side_chat,MS. ZIVKOVIC,start_chat
+5,172,5,22,That's fine.,side_chat,MR. GREENE,start_chat
+6,173,5,23,One objection is good for all.  Waive the notary and the transcript will be deemed signed if not done so in 30 days.,side_chat,MS. ZIVKOVIC,start_chat
+7,178,6,3,Correct.,side_chat,MR. GREENE,start_chat
+8,179,6,4,"And all objections, except as to form, reserved until trial, and all motions to strike reserved until trial.",side_chat,MS. ZIVKOVIC,start_chat
+9,182,6,7,Correct.,side_chat,MR. GREENE,start_chat
+10,183,6,8,Okay.,side_chat,MS. ZIVKOVIC,start_question
+11,184,6,9,"I'm going to be asking you probably the majority of the questions today.  And as you can see, there's a court reporter who needs to take down everything we say to each other or any other attorney here, so all your responses to my questions need to be in verbal format instead of, like, shaking your head no or something like that.  Okay?",q,MS. ZIVKOVIC,start_answer
+12,192,6,17,Yes.,a,THE WITNESS,start_question
+13,193,6,18,Have you had your deposition taken before?,q,MS. ZIVKOVIC,start_answer
+14,195,6,20,"Yes, several times.",a,THE WITNESS,start_question
+15,196,6,21,Okay.  Can you recall when?,q,MS. ZIVKOVIC,start_answer
+16,197,6,22,"I had one last year.  It was for Skolowzyk (phonetic) & Early, I think it was my brother, one for Danny Grant, one for Robert Beauregard, one for Carl Anderson and someone else.  I've done about three or four of them.  One for myself.",a,THE WITNESS,start_question
+17,204,7,4,Okay.,q,MS. ZIVKOVIC,start_answer
+18,205,7,5,"I had them all through Skolowzyk & Early.  They were my lawyer -- I was doing it for them, for their clients rather.",a,THE WITNESS,start_question
+19,208,7,8,Where is Skolowzyk & Early located?,q,MS. ZIVKOVIC,start_answer
+20,209,7,9,Where is what?,a,THE WITNESS,start_question
+21,210,7,10,"Skolowzyk & Early, is that what you said the name of the firm was?",q,MS. ZIVKOVIC,start_answer
+22,212,7,12,"Skolowzyk & Early out of New Haven. The name of it is Skolowzyk, Early & Sweeney. It used to be Sweeney and somebody else, but anyway, they're out of New Haven, Connecticut.",a,THE WITNESS,start_question
+23,216,7,16,So I think you listed five different depositions; is that correct?,q,MS. ZIVKOVIC,start_answer
+24,218,7,18,"I'd say four or five.  Some of them were about two people; in other words, the questions were involving two people, Anderson and Robert Beauregard.",a,THE WITNESS,start_question
+25,222,7,22,Okay.  Were all five of these depositions for asbestos cases?,q,MS. ZIVKOVIC,start_answer
+26,224,7,24,"Yes, they were.",a,THE WITNESS,start_question
+27,226,8,1,Okay.  And you think the last one you did was last year?,q,MS. ZIVKOVIC,start_answer
+28,228,8,3,It was either last year or the year before.  Time with me now is -- it might be six months or it might be five years.,a,THE WITNESS,start_question
+29,231,8,6,Do you recall when the first one you did was?,q,MS. ZIVKOVIC,start_answer
+30,233,8,8,"I'd probably say 17, 18 years ago.  I retired almost 20 years ago and it was a couple of years after I retired that I gave the depositions.",a,THE WITNESS,start_question
+31,237,8,12,And you said you did a deposition for yourself?,q,MS. ZIVKOVIC,start_answer
+32,239,8,14,"Yes, I had one.",a,THE WITNESS,start_question
+33,240,8,15,You had your own asbestos action?,q,MS. ZIVKOVIC,start_answer
+34,241,8,16,"Yes, I had a case, yes.",a,THE WITNESS,start_chat
+35,242,8,17,"Off the record. (Off the record, 11:38-11:38).",side_chat,MR. GREENE,start_question
+36,244,8,19,"Do you recall what year you had your own asbestos action, what year it was filed?",q,MS. ZIVKOVIC,start_answer
+37,246,8,21,"I think it was -- let's see, I retired in '84, probably '87, maybe around there.  I had copies of the depositions at home but I didn't look at them or anything else.  I think it's around that time, but I can't be sure.",a,THE WITNESS,start_question
+38,253,9,3,"Okay.  Can you tell me your address, please?",q,MS. ZIVKOVIC,start_answer
+39,255,9,5,"My address is 54 Aberdeen Avenue, Warwick, Rhode Island, 02888.",a,THE WITNESS,start_question
+40,257,9,7,"Okay.  And your Social Security number, please?",q,MS. ZIVKOVIC,start_answer
+41,259,9,9,037-18-4876.,a,THE WITNESS,start_question
+42,260,9,10,And date of birth?,q,MS. ZIVKOVIC,start_answer
+43,261,9,11,"October 25, 1922.",a,THE WITNESS,start_question
+44,262,9,12,"And Charles Ferguson, is that your full name?",q,MS. ZIVKOVIC,start_answer
+45,264,9,14,"Yes, Charles Francis Ferguson.",a,THE WITNESS,start_question
+46,265,9,15,"And can you tell me about your educational history, please?",q,MS. ZIVKOVIC,start_answer
+47,267,9,17,My education?,a,THE WITNESS,start_question
+48,268,9,18,Yes.,q,MS. ZIVKOVIC,start_answer
+49,269,9,19,"Yes, I went to junior high school.  I graduated -- I went to LaSalle Academy and I didn't graduate from LaSalle.  I went in the service and I went back again, and then I went back to the service but I have a GED.  I have a high school diploma.",a,THE WITNESS,start_question
+50,276,10,1,When did you obtain your GED?,q,MS. ZIVKOVIC,start_answer
+51,277,10,2,"Let's see, 1951 or '52.",a,THE WITNESS,start_question
+52,278,10,3,And when were you in the service?,q,MS. ZIVKOVIC,start_answer
+53,279,10,4,"I was in the service in 1943 to 1945. I was in the service -- let me put it this way, I was in three years, 11 months, and 21 days.",a,THE WITNESS,start_question
+54,283,10,8,Okay.  Which branch of the service?,q,MS. ZIVKOVIC,start_answer
+55,284,10,9,"I was in the military police, but I was a replacement.",a,THE WITNESS,start_question
+56,286,10,11,"Now, I understand that you worked at Narragansett Electric for a certain period of your career?",q,MS. ZIVKOVIC,start_answer
+57,289,10,14,"Yes, many times.",a,THE WITNESS,start_question
+58,290,10,15,Okay.  When did you first begin working there?,q,MS. ZIVKOVIC,start_answer
+59,292,10,17,"Well, you start out in the trade as a helper, and I would say helpers are -- they go all over the place or improvers.  I would say sometime around 1947, maybe late '47 but it was 1947.  I was what they call on a permit. I wasn't in the union at the time.  What they do is they give you a permit to work.  And then over a period of time when they need help or whatever or need new members, they accept you into the union.  So I was on permit for probably two years.  And then in 1948, September of 1948 I was accepted into the union, Local 31, Asbestos Heating and Frost Insulators Union, Local 31, Providence, Rhode Island.",a,THE WITNESS,start_question
+60,308,11,8,"So while you had the permit for two years, you were working at Narragansett Electric?",q,MS. ZIVKOVIC,start_answer
+61,311,11,11,"Yes, I worked there quite a bit.",a,THE WITNESS,start_question
+62,312,11,12,"When you say ""quite a bit,"" were you full-time working there?",q,MS. ZIVKOVIC,start_answer
+63,314,11,14,"Well, when you're in a trade or when you're an insulator and you're what they call an improver or helper, what you do is you work with a mechanic and then you have a helper. Well, what you do is you go and you work with different mechanics on different projects anyplace, you know, anyplace, Narragansett, Montaup, any of the places, but that's what your job is, you're actually a helper. And I worked there on different projects, new units, overhaul and repairs. Actually, what you do is you do a lot of cutting and carrying stock and that's what they call humping work, heavy work, you know. In those days they had the 100-pound bags of asbestos.",a,THE WITNESS,start_question
+64,331,12,6,"Okay.  And then in September 1948 when you became a member of Local 31, did you begin working -- were you still working at Narragansett?",q,MS. ZIVKOVIC,start_answer
+65,335,12,10,"When I went into the union, I probably was.  I can't pinpoint all that because I might have been on some other job, but for the first two or three years that I was in the local as a helper, I worked at Narragansett Electric, both South Street and Manchester, whenever they -- I worked wherever they needed extra help.",a,THE WITNESS,start_question
+66,343,12,18,So when you were on permit basically the union would send you wherever they needed help at a certain time?,q,MS. ZIVKOVIC,start_answer
+67,346,12,21,"Philip Carey, Armstrong, the different companies would say I need helpers, but the union business agent had control of where the helpers worked.",a,THE WITNESS,start_question
+68,351,13,1,All right.,q,MS. ZIVKOVIC,start_answer
+69,352,13,2,"And usually when you went to one of these companies you stayed with them during your apprenticeship training and it was a period of four years.  Each year you became first-year, second-year, third-year, fourth-year improver.  And then if you're qualified, then you become a mechanic and you could work on your own, otherwise, you had to work with somebody.  You could not work alone.",a,THE WITNESS,start_question
+70,361,13,11,So who was your employer when you worked at Narragansett?,q,MS. ZIVKOVIC,start_answer
+71,363,13,13,Philip Carey.,a,THE WITNESS,start_question
+72,364,13,14,And is that for the entire time that you worked at Narragansett?,q,MS. ZIVKOVIC,start_answer
+73,366,13,16,"Yeah.  I worked with Philip Carey for almost 28 years, give or take a couple years maybe when things were slow.",a,THE WITNESS,start_question
+74,369,13,19,Were you ever employed by Narragansett Electric?,q,MS. ZIVKOVIC,start_answer
+75,371,13,21,"No, not by them individually.  I came out of the union.  Philip Carey used to do a lot of the work for Narragansett Electric, you know, both plants, in other words, the big jobs.",a,THE WITNESS,start_question
+76,377,14,2,"Beginning in 19 -- let's see, you said for the first two or three years that you were a member of the union beginning in the end of 1948 you worked at Narragansett.  How often were you working there?",q,MS. ZIVKOVIC,start_answer
+77,382,14,7,"I was there quite a bit because they put a new unit in, and you know, you change the piping.",a,THE WITNESS,start_question
+78,385,14,10,Was your position still a helper?,q,MS. ZIVKOVIC,start_answer
+79,386,14,11,"Yeah, yeah, you're an improver for four years, so anything from that period on for four years is all as an improver.  You weren't allowed to work by yourself more or less.  In other words, you did all the cutting.  The mechanic would give you the measurements and you'd cut them and pass them up to him.  That's what -- the helper did more than the mechanic.",a,THE WITNESS,start_question
+80,395,14,20,Did your position ever change during the time that you worked at Narragansett?,q,MS. ZIVKOVIC,start_answer
+81,397,14,22,"No.  You bounce from job to job, but I spent a lot of time there in my early days in the trade.  And then of course when I became a mechanic, which was down the line, I did still work there as a mechanic when they put new units in or they had an overhaul or a repair, and I worked other places, too, other powerhouses, too.  They had their own prepared gangs, too. Narragansett had a -- their own one pipecoverer.  He did all the small work, but any of the big work they tear it out and we come in and do the job.  And I think I worked on one unit there and there was other unit over -- Manchester had a new unit put in.  But every seven years or six years or three years they tear the turbines, they take it down for insurance reasons, and they have to inspect it. I don't really know how that works, whether it's five years or seven years, but I know we used to have to go in there and do the covering, piping.",a,THE WITNESS,start_question
+82,421,15,21,When did you become a mechanic?,q,MS. ZIVKOVIC,start_answer
+83,422,15,22,"I'd say '53 or '54.  The reason why I say that is because when I got into the union, in other words, I had worked almost two years on permit.  And when you're taken into the union, those two years are supposed to count. In my case the business agent wasn't a very nice person and he made me revert back to a first-year helper because I wasn't in the union. So anyhow I had to go for four years, so actually it was six years -- I'd say close to six years before I received my mechanic's card.",a,THE WITNESS,start_question
+84,436,16,11,Do you recall what year was the last year you performed any work at Narragansett?,q,MS. ZIVKOVIC,start_answer
+85,438,16,13,"Oh, God, that's very difficult.  I've been retired for 20.  And what happened in the period before that, Narragansett used to have maybe some big jobs but not new units and stuff, and what they did was they took some members of their own repair gang or whatever, they had a crew, and what they did, they taught them how to put the covering on, in other words, become pipecoverers.",a,THE WITNESS,start_question
+86,447,16,22,"Sorry.  My question was:  What year was the last year you worked at Narragansett, if you recall?",q,MS. ZIVKOVIC,start_answer
+87,451,17,1,I can't remember.  It's too far back.,a,THE WITNESS,start_question
+88,452,17,2,Can you recall a decade?,q,MS. ZIVKOVIC,start_answer
+89,453,17,3,"I retired in '84 but I know I didn't work -- the point I was trying to get at was I couldn't remember when it happened is the fact that they had taken over their own covering. Before that Philip Carey people used to go in and do the work.  That's why I mentioned that, but I couldn't honestly tell you.  15, 20 years before that, I don't know.",a,THE WITNESS,start_question
+90,461,17,11,Okay.  Did Narragansett have more than one location that you worked at?,q,MS. ZIVKOVIC,start_answer
+91,463,17,13,"I worked all over the place, all over the plant.  In other words, all areas because that's all it is is piping, piping and equipment.",a,THE WITNESS,start_question
+92,467,17,17,Do you recall the locations that you worked at?,q,MS. ZIVKOVIC,start_answer
+93,469,17,19,Pardon?,a,THE WITNESS,start_question
+94,470,17,20,Do you recall the Narragansett locations that you worked at?,q,MS. ZIVKOVIC,start_answer
+95,472,17,22,"I worked in the turbine room, the pumping room.  Pipes go all over the place. There's no specific.  There's aerators, deaerators.  I can't think of some of the equipment.",a,THE WITNESS,start_question
+96,478,18,3,"I'm sorry, I meant the street location.  Which plant locations?",q,MS. ZIVKOVIC,start_answer
+97,480,18,5,"Oh, you mean South and Manchester?",a,THE WITNESS,start_question
+98,481,18,6,Are those the locations that you worked at?,q,MS. ZIVKOVIC,start_answer
+99,483,18,8,"Yeah, both locations, yes.",a,THE WITNESS,start_question
+100,484,18,9,Did you work at one location more than another?,q,MS. ZIVKOVIC,start_answer
+101,486,18,11,It was mixed up.  I can't break that down.,a,THE WITNESS,start_question
+102,488,18,13,Okay.  Do you remember Mr. Podedworny?,q,MS. ZIVKOVIC,start_answer
+103,490,18,15,Do I remember what?,a,THE WITNESS,start_question
+104,491,18,16,Mr. Podedworny?  Is that name familiar to you?,q,MS. ZIVKOVIC,start_answer
+105,493,18,18,No.,a,THE WITNESS,start_question
+106,494,18,19,When you had the permit from '47 to '48 and you worked at Narragansett --,q,MS. ZIVKOVIC,start_answer
+107,496,18,21,Yeah.,a,THE WITNESS,start_question
+108,497,18,22,-- how often would you work there over that two-year period roughly?,q,MS. ZIVKOVIC,start_answer
+109,499,18,24,"I worked there quite a bit, but I can't give you any specific time because sometimes I'd work there and then they'd pull me out and then I'd go back there again. Helpers were in demand.",a,THE WITNESS,start_question
+110,505,19,5,Would it be more than half of the year would you say?,q,MS. ZIVKOVIC,start_answer
+111,507,19,7,I couldn't tell you.,a,THE WITNESS,start_question
+112,508,19,8,"Okay.  As a Philip Carey pipecoverer, can you tell me what your duties were?",q,MS. ZIVKOVIC,start_answer
+113,510,19,10,As a helper?,a,THE WITNESS,start_question
+114,511,19,11,Yes.,q,MS. ZIVKOVIC,start_answer
+115,512,19,12,"Assist the mechanics and move the stock around and cut the insulation for the mechanic to put on the pipe, mix the asbestos cement and bring them anything that he needed, the covering, wire, whatever.",a,THE WITNESS,start_question
+116,517,19,17,"Was this the same at either location that you would have worked, either South Street or Manchester Street?",q,MS. ZIVKOVIC,start_answer
+117,520,19,20,Pardon?,a,THE WITNESS,start_question
+118,521,19,21,Were your duties as a helper the same at South Street and Manchester?,q,MS. ZIVKOVIC,start_answer
+119,523,19,23,"Anyplace you worked, that's what you did.  And in some cases if it's small work, they would let you apply, you know, if it's a small building and stuff like that, they'd let you apply the material, but that didn't happen very often.  You always had to work with a mechanic.",a,THE WITNESS,start_question
+120,531,20,6,Okay.  Do you believe you were exposed to asbestos while you were a helper?,q,MS. ZIVKOVIC,start_answer
+121,533,20,8,Pardon?,a,THE WITNESS,start_question
+122,534,20,9,Do you believe you were exposed to asbestos while you were a helper?,q,MS. ZIVKOVIC,start_answer
+123,536,20,11,"Oh, definitely, 100 percent, yes.",a,THE WITNESS,start_question
+124,537,20,12,Can you tell me what products you believe exposed you to asbestos as a helper at Narragansett?,q,MS. ZIVKOVIC,start_answer
+125,540,20,15,"There's a barrel of magnesium, all types of pipe insulation.  There's different brands, all types, all brands of types of asbestos.  I can't remember all of them but I know MW50, magnesium, high temps and blocks.",a,THE WITNESS,start_question
+126,545,20,20,So the products you named were pipe insulation?,q,MS. ZIVKOVIC,start_answer
+127,547,20,22,"Yes, pipe insulation.",a,THE WITNESS,start_question
+128,548,20,23,Did you say block?,q,MS. ZIVKOVIC,start_answer
+129,549,20,24,"Blocks, too.  That's for blocking the boilers.",a,THE WITNESS,start_question
+130,552,21,2,Any other products that you recall?,q,MS. ZIVKOVIC,start_answer
+131,553,21,3,All kinds of insulating cement.,a,THE WITNESS,start_question
+132,554,21,4,Is that all the products?,q,MS. ZIVKOVIC,start_answer
+133,555,21,5,"Yeah, I can't name the products. Philip Carey products, MW50, 48.",a,THE WITNESS,start_question
+134,557,21,7,"Okay.  The pipe insulation, do you recall the manufacturers of that product?",q,MS. ZIVKOVIC,start_answer
+135,559,21,9,"There's Philip Carey.  There's all kinds.  We used Philip Carey.  And then if they ran out or were short, they used to use all brands because at that time in the early part -- at that time in those years they were building a lot of powerhouses after the war and there was a lot of powerhouse work, and there was an awful lot of work for eight or ten years putting new units in and everything else, so a lot of times you'd use everybody's product.",a,THE WITNESS,start_question
+136,570,21,20,"Well, I'm trying to find out which manufacturers you recall of the pipe insulation product.  You mentioned Philip Carey.  Were there any others that you recall?",q,MS. ZIVKOVIC,start_answer
+137,574,21,24,"There's Carey and there was Manville, MW50, I don't know who made that, and then there was Armstrong Cork had some material.  I can't remember what they went by, Alco.  I can't really remember them all.",a,THE WITNESS,start_question
+138,580,22,5,Okay.,q,MS. ZIVKOVIC,start_answer
+139,581,22,6,There's too many of them.  They're not fresh in my mind right now.,a,THE WITNESS,start_question
+140,583,22,8,"Just what you recall, and if you recall at any point, let me know.",q,MS. ZIVKOVIC,start_answer
+141,585,22,10,Okay.,a,THE WITNESS,start_question
+142,586,22,11,Okay?,q,MS. ZIVKOVIC,start_answer
+143,587,22,12,Yeah.,a,THE WITNESS,start_question
+144,588,22,13,Can you describe the pipe insulation product and how you would use it?,q,MS. ZIVKOVIC,start_answer
+145,590,22,15,"Well, it came in sections, two halves, and then when you did -- if you had to do tube turns or 45s, elbows in the high-pressure steam lines, you would have to cut to go around the 90 degree or the elbow, you'd have to cut the insulation in pie shapes so that, you know, they'd block in.",a,THE WITNESS,start_question
+146,597,22,22,"So the insulation, you mentioned high-pressure steam lines?",q,MS. ZIVKOVIC,start_answer
+147,599,22,24,Yes.,a,THE WITNESS,start_question
+148,601,23,1,Was it used on anything else?,q,MS. ZIVKOVIC,start_answer
+149,602,23,2,"Certain materials -- they used mag and what they call high-temp blocks.  They used Kaylo.  They used -- I can't think of the name, asbestos cement, of course.  Another cement called 48 insulating cement, and then they had another kind called -- I think it was high-temp cement for extremely hot pipes when you did the elbows you fill up the seams.",a,THE WITNESS,start_question
+150,610,23,10,Okay.  These are cement manufacturers now that you're discussing?,q,MS. ZIVKOVIC,start_chat
+151,612,23,12,Objection.,side_chat,MR. GREENE,start_answer
+152,613,23,13,Other manufacturers?,a,THE WITNESS,start_question
+153,614,23,14,"I'm just trying to -- 48 insulating cement, that's a type of cement?",q,MS. ZIVKOVIC,start_answer
+154,616,23,16,"That's a cement, yes.",a,THE WITNESS,start_question
+155,617,23,17,Is that a brand name?,q,MS. ZIVKOVIC,start_answer
+156,618,23,18,Pardon?,a,THE WITNESS,start_question
+157,619,23,19,Was that a brand name?,q,MS. ZIVKOVIC,start_answer
+158,620,23,20,"It was a brand name.  I don't know who put it out.  Pitcher 88.  I think there's two names.  Well, maybe it's one name.  I know that was one of the names, Pitcher 88, P-I-T-C-H-E-R, and then MW50, that was Carey's, and then they had Manville products, too.  Manville had one, too, that was a special mix for high-temp pipes.",a,THE WITNESS,start_question
+159,629,24,4,Okay.,q,MS. ZIVKOVIC,start_answer
+160,630,24,5,"It had more asbestos, I guess, in it.",a,THE WITNESS,start_question
+161,631,24,6,Okay.  Was the pipe insulation used on any other type of lines besides steam lines?,q,MS. ZIVKOVIC,start_answer
+162,634,24,9,"No, this was strictly for -- mag and the other material was all used on steam lines.  Actually, high-pressure steam lines you used to use the material that would withstand the heat and the temperature of the pipe.  And then in a lot of cases you'd block -- you'd have block boiler walls and flat surfaces and you'd use tube turns. You would use a high-temp block on the first layer which might be 2 inches thick or 3 inches thick, and then you'd put a second layer.  So most of them, when you had a high-pressure steam line, you'd have anywhere's from 3 to 5 inches thick. A lot of times it was put on in two layers so that when you put it on -- you'd never have a straight joint.  In other words, you break the joint.  You put the first layer on, the next layer you put on would cover that seam so that no heat is escaping.",a,THE WITNESS,start_question
+163,655,25,5,All right.  You also mentioned a block product that you believe contained asbestos?,q,MS. ZIVKOVIC,start_answer
+164,658,25,8,"Yeah, they had mag blocks and high-temp blocks and they used to block the boiler walls.",a,THE WITNESS,start_question
+165,661,25,11,Do you recall any of the manufacturers?,q,MS. ZIVKOVIC,start_answer
+166,663,25,13,They were the same as I said before.,a,THE WITNESS,start_question
+167,664,25,14,Okay.  And you said they were used to block the boiler walls?,q,MS. ZIVKOVIC,start_answer
+168,666,25,16,"Boiler walls, yes.  That was back then.  Now they have a different method.  You know, you're asking me all the different questions on the material and everything else. I'm doing my best to tell you that I can remember, but back then this material we used, you know, today it's all changed completely. A lot of people -- some of you people around in this room here never heard of some of this stuff before, but it was all different and unfortunately or thankfully we found out at the time when I first worked with it. We didn't know how bad this stuff was, what it did to your lungs or anything else until Dr. Selikoff discovered how bad it was, so I might be confusing to you.  I don't know.  But I'm doing the best I can.  I have a pretty good memory but I could miss a few things.",a,THE WITNESS,start_question
+169,686,26,11,Okay.  Then you also mentioned a cement product?,q,MS. ZIVKOVIC,start_answer
+170,688,26,13,Yes.,a,THE WITNESS,start_question
+171,689,26,14,Do you recall the manufacturers of that product?,q,MS. ZIVKOVIC,start_answer
+172,691,26,16,"Well, Philip Carey's name was on the bag, but then there was Manville and they had others.",a,THE WITNESS,start_question
+173,694,26,19,What was that product used for?,q,MS. ZIVKOVIC,start_answer
+174,695,26,20,Asbestos.,a,THE WITNESS,start_question
+175,696,26,21,What was it used for?  What type of work did you use the cement product for?,q,MS. ZIVKOVIC,start_answer
+176,698,26,23,"We used to coat the boilers with it, coat the tanks with it.  You'd coat the blocks with it to seal them up or you use it on the elbows after you block them in to make it look nice and smooth.",a,THE WITNESS,start_question
+177,704,27,4,"All these products that we've discussed, were these products that were ordered through Philip Carey; do you know?",q,MS. ZIVKOVIC,start_answer
+178,707,27,7,"In other words, Philip Carey had the contract to do the job.  They would send us the material.",a,THE WITNESS,start_question
+179,710,27,10,Okay.  So Philip Carey always supplied the products that you used?,q,MS. ZIVKOVIC,start_answer
+180,712,27,12,Right.,a,THE WITNESS,start_question
+181,713,27,13,Okay.,q,MS. ZIVKOVIC,start_answer
+182,714,27,14,"We never ordered the stuff.  We'd say we need the blocks, we ran out of blocks but they took care of that.  That was all a contract.  They handled all of that.  We didn't have anything to do with that.",a,THE WITNESS,start_question
+183,719,27,19,Okay.  So you never were in a position where you were ordering products?,q,MS. ZIVKOVIC,start_answer
+184,721,27,21,No.,a,THE WITNESS,start_question
+185,722,27,22,"Okay.  When you became a mechanic, which you said was around 1953 or 1954?",q,MS. ZIVKOVIC,start_answer
+186,724,27,24,"Around there, yes.",a,THE WITNESS,start_question
+187,726,28,1,Okay.  What were your job duties at that point when you worked at Narragansett?,q,MS. ZIVKOVIC,start_answer
+188,728,28,3,"Well, I was allowed to work by myself.  In other words, I was allowed to apply the covering.  I could go on jobs by myself alone.",a,THE WITNESS,start_question
+189,732,28,7,Okay.  Do you believe you were exposed to asbestos while you were a mechanic at Narragansett?,q,MS. ZIVKOVIC,start_answer
+190,735,28,10,"Yes, I did.  I used all products, you know, that went with the job, with the insulation job, with the boilers, piping, whatever.  I could apply it myself then because I became a mechanic.",a,THE WITNESS,start_question
+191,740,28,15,Okay.  Were there any other products other than what we've already discussed that you used as a helper?,q,MS. ZIVKOVIC,start_answer
+192,743,28,18,"Well, a lot of products I don't remember.  There were a lot of other products but I can't remember them all.  Maybe take me three or four days I might be able to remember, but I can't remember them right now.",a,THE WITNESS,start_question
+193,748,28,23,"Okay.  Do you recall any of the mechanics that you worked for when you were a helper, the names of them?",q,MS. ZIVKOVIC,start_answer
+194,752,29,2,"Jimmy Fazackerly, Danny Grant, Andy Grant, Carl Anderson, John Richardson, Ted Hackett, my brother, Edward Ferguson.  I could name you probably 30 or 50 of them.",a,THE WITNESS,start_question
+195,756,29,6,Where in the plant at the Manchester location would you work?  Were there separate rooms in the Manchester Street plant?,q,MS. ZIVKOVIC,start_answer
+196,759,29,9,"Yeah, boiler room, pumping stations, you know, there were different areas, and the turbine room, you know.  They had the screen room.  We worked in, you know, most anyplace I would say.",a,THE WITNESS,start_question
+197,764,29,14,"Was the South Street plant similar, had the same, like a boiler room and a turbine room?",q,MS. ZIVKOVIC,start_answer
+198,767,29,17,"Pretty much the same, yeah.  The design might have been different but the boilers were there.",a,THE WITNESS,start_question
+199,770,29,20,Okay.,q,MS. ZIVKOVIC,start_answer
+200,771,29,21,"You know, in the early days they used coal.  They had a coal house that went from South Street to Manchester Street and had a conveyor.  It went right over the top of Point Street Bridge, and they used the coal in the boilers at Manchester Street.  That's how they got it over there.",a,THE WITNESS,start_question
+201,779,30,4,Do you believe you were exposed to asbestos from -- strike that. How many boilers were in the Manchester Street location?,q,MS. ZIVKOVIC,start_answer
+202,783,30,8,"I never counted the boilers.  I mean, the boilers were -- we never went down in that part.  We did all the work in the pipes going to it or they had to be off, but I couldn't tell you how many boilers were there.",a,THE WITNESS,start_question
+203,788,30,13,Do you recall how many boilers were in the South Street location?,q,MS. ZIVKOVIC,start_answer
+204,790,30,15,"South Street, I don't think South Street had any boilers.  The steam was piped from Manchester to South Street.  I think they had three units at South Street, I'm not sure. And they had -- what else did they have?  But that's where you would use the high-temp or high-pressure because of the high-pressure steam, but they pumped it over to South Street.",a,THE WITNESS,start_question
+205,799,30,24,"Okay.  Other than we talked about pipe insulation, block and cement, have we discussed all the asbestos-containing products at Narragansett that you believe you were exposed to?",q,MS. ZIVKOVIC,start_answer
+206,805,31,5,Yeah.,a,THE WITNESS,start_question
+207,806,31,6,Okay.  Do you recall ever working with a man name Luigi Malfonte?,q,MS. ZIVKOVIC,start_answer
+208,808,31,8,No.,a,THE WITNESS,start_question
+209,809,31,9,"And again, you can't recall when the last time was that you worked at Narragansett either by a decade like the '60s or the '70s?",q,MS. ZIVKOVIC,start_answer
+210,812,31,12,"No, I couldn't.",a,THE WITNESS,start_question
+211,813,31,13,Okay.,q,MS. ZIVKOVIC,start_answer
+212,814,31,14,"In fact, since you've asked me that question, I've been trying to think of -- associate something with before I retired, but the only thing I could think of was the part that -- instead of having an outside contractor come in to do the insulation except for big jobs, they let their own repair gang or their own people do it.  They created other jobs, I guess, but I can't really remember when that was.",a,THE WITNESS,start_question
+213,824,31,24,Okay?,q,MS. ZIVKOVIC,start_chat
+214,826,32,1,I think that's all the questions I have for now.  Some other attorneys may have some questions.  Thank you.,side_chat,MS. ZIVKOVIC,start_chat
+215,829,32,4,Thank you.,side_chat,THE WITNESS,symbols
+216,830,32,5,* * * * * EXAMINATION CONDUCTED,symbols,,start_question
+217,833,32,8,"Sir, my name is Todd Holbrook.  I do have some questions for you.  First, I want to just concentrate on the '50s, so try to keep that in mind.  Unless I say something else, I just want to look at the '50s for right now. Okay?",q,MR. HOLBROOK,start_answer
+218,839,32,14,Yes.,a,THE WITNESS,start_question
+219,840,32,15,"During the '50s, could you list for me all the places that you worked?  In other words, I know that you worked at Narragansett Electric.  Where else did you work at any time during the '50s?",q,MR. HOLBROOK,start_answer
+220,845,32,20,Montaup Electric.,a,THE WITNESS,start_question
+221,846,32,21,Where else?,q,MR. HOLBROOK,start_answer
+222,847,32,22,That's all I can remember.,a,THE WITNESS,start_question
+223,848,32,23,Do you know whether you worked at any other place during the '50s that you just can't recall where it was or do you believe that you worked solely at those two places during the '50s?,q,MR. HOLBROOK,start_answer
+224,854,33,4,"I didn't work solely there.  I just can't remember.  In this trade here, you have to understand that one day you can be working here and they can call you up and say they need some help on another job.  You might only be on that job for two days.  If I had kept a log, I would be able to tell you, but I never kept a log. And there's a lot of cases that -- I mean, right now I'm trying to go back since I talked to Vin, the places I worked, but I can't remember because we had so many different jobs.  Like I said, if they had a fire to put out, they were doing a job someplace, they'd call you up.  So I really can't pinpoint it for you.  It would be impossible.",a,THE WITNESS,start_question
+225,871,33,21,Is that because it's hard for you to remember things that happened 50 years ago?,q,MR. HOLBROOK,start_answer
+226,873,33,23,"Yeah.  I mean, you know, it's -- I probably could have -- they might have some of these small jobs to do where it's a two- or three-day job or something, they would send you out to do those.  You didn't strictly do powerhouses.  That was the trick to working in the powerhouses where a good mechanic -- where your skills came, you know, the trade showed up.  The others were small little buildings, small boilers and piping and stuff like that which could be mag -- not small tiny buildings, so you'd go there for three days and then you'd come out, and they'd send you back to Narragansett. You always went back to the job you had before.  If you finished the job up and you had no place to go, you'd go back to the job that you were on.  I mean, it's kind of -- you only had 80 members in the local, in the union, so they had to try to keep up with the other jobs.  And of course they put men on permit, too, but I couldn't tell you all the places.  It would be impossible.",a,THE WITNESS,start_question
+227,897,34,22,How many locations did Montaup have where you worked?,q,MR. HOLBROOK,start_answer
+228,899,34,24,Montaup?,a,THE WITNESS,start_question
+229,901,35,1,Yes.,q,MR. HOLBROOK,start_answer
+230,902,35,2,"They only had Somerset.  I worked in Somerset.  I worked at Montaup in Somerset quite a few times.  I worked there a lot, teardowns, because at Montaup they used -- when you tore a turbine down for overhaul and repair, they had blankets, they had three layers of blankets that you put on.  You tied them on with stainless steel wire. Whereas, in Narragansett they used to spray the bottom of it and then you covered the insulation, the piping from it or the steam to it, but I worked at Montaup quite a bit on two or three units down there.  And I also worked at the Taunton powerhouse.",a,THE WITNESS,start_question
+231,916,35,16,In the '50s?,q,MR. HOLBROOK,start_answer
+232,917,35,17,"No, not in the '50s.",a,THE WITNESS,start_question
+233,918,35,18,"Again, I want to concentrate in the '50s.",q,MR. HOLBROOK,start_answer
+234,920,35,20,Okay.  Montaup.,a,THE WITNESS,start_question
+235,921,35,21,Just a moment ago you said something about they sprayed the bottom of it at Narragansett.  What do you mean by that?,q,MR. HOLBROOK,start_answer
+236,924,35,24,"Well, on the turbine, I just explained to you about the blankets, they have asbestos blankets, they have angel hair in it. And what you do is you make -- in other words, say it's like a kidney shape part of the turbine -- have you ever seen the underneath of a turbine?",a,THE WITNESS,start_question
+237,932,36,7,No.,q,MR. HOLBROOK,start_answer
+238,933,36,8,"That's the only way I can explain it to you is the shape of it.  Whatever curves, you would have to make a blanket with that shape so it would fit up -- it's very tight. You had about this much space where it comes to the turbine on the top and then all the steam and all the piping going to it coming in the bottom.  And that vessel or that part of the turbine, they claim that the steel was like 2 or 3 inches thick. And I have seen it with my own eyes when they have an overhaul or repair, you would have to go in and take the blankets off. Well, you could only work for ten minutes. And then the closer you got to the turbine, the bottom of it, you could see red hot, so anyhow, I happened to work on them.",a,THE WITNESS,start_question
+239,951,37,1,What did they spray on it?,q,MR. HOLBROOK,start_answer
+240,952,37,2,"They sprayed an insulation material probably 3 or 4 inches thick.  I'll tell you who did the work.  They had blankets at one time, but I don't remember taking any blankets off there but they were the only ones that I know of that used the spray and they had a contract with Armstrong Cork.  I don't know what the business name was, but they used Armstrong Cork material. And they had a machine that sprayed this wet insulation on it.  And I know the gentleman that used to do all of them, his name was Axel Johnson, of course he's passed away right now, but he'd be the one to do it.",a,THE WITNESS,start_question
+241,966,37,16,"During the '50s you said you were up at Montaup quite a bit.  Do you have an idea how many times -- let me explain this question a little further because you're starting to answer.  How many times you were up there, and by that I mean you were working up there on a boiler installation and that was one time and you were working on a turbine installation and that was one time, something like that?",q,MR. HOLBROOK,start_answer
+242,976,38,1,"On the boiler installation I was there a couple of times, and on the turbine, during that period, maybe once or twice I went in and took the blankets off -- I mean, there was eight or ten of us, but I had been in there over the years after that, but you just want '52, I'd say twice, up to '52.",a,THE WITNESS,start_question
+243,983,38,8,"And during those same years in the '50s, how many times were you at Narragansett Electric?",q,MR. HOLBROOK,start_answer
+244,986,38,11,"Narragansett Electric, the first three or four years I spent quite a bit of time at Narragansett.  In fact, I would say in a four-year span if you want to put the days together like I say, you were in and out, in and out.  I was there for almost a whole year and Albert Carlson was the foreman and it was he and myself.  I was a helper at the time.",a,THE WITNESS,start_question
+245,994,38,19,Okay.  Let me be sure I understand that.  You're saying over the first three to four years that you were working as a helper?,q,MR. HOLBROOK,start_answer
+246,997,38,22,Yes.,a,THE WITNESS,start_question
+247,998,38,23,You were there at Narragansett for about a whole year if you put all that time together?,q,MR. HOLBROOK,start_answer
+248,1002,39,2,"Yeah, but I mean, I was there for more than a year.  But what I'm saying is for one year I was there almost the whole year.  I was in and out a few times.",a,THE WITNESS,start_question
+249,1006,39,6,That was during your time as a helper which was up to when?,q,MR. HOLBROOK,start_answer
+250,1008,39,8,'53.,a,THE WITNESS,start_question
+251,1009,39,9,"What about after '53, how many times were you in Narragansett until the end of the '50s?",q,MR. HOLBROOK,start_answer
+252,1012,39,12,I would say 20 times would probably be right.  I used to go in for precipitators. I was in there quite a bit.  I know that.,a,THE WITNESS,start_question
+253,1015,39,15,Do you have an estimate of the percentage of time you spent in Narragansett in the '50s?,q,MR. HOLBROOK,start_answer
+254,1018,39,18,"No, I don't.  I can't break that down but it was a lot.",a,THE WITNESS,start_question
+255,1020,39,20,"You mentioned a precipitator.  Would you list for me all the jobs you worked on at Narragansett after your time as a helper, after 1953?",q,MR. HOLBROOK,start_answer
+256,1024,39,24,"Yeah, I worked on overhaul and repairs and I worked on precipitators and various piping, steam piping, tanks, block tanks, and then you'd go in and if they had to take out a section of the precipitator, you'd have to go in and block that up.",a,THE WITNESS,start_question
+257,1031,40,6,Do you have a specific memory of being at Narragansett for the installation of a boiler at any time during the '50s?,q,MR. HOLBROOK,start_answer
+258,1034,40,9,Yeah.,a,THE WITNESS,start_question
+259,1035,40,10,When was that in the '50s?,q,MR. HOLBROOK,start_answer
+260,1036,40,11,South Street.,a,THE WITNESS,start_question
+261,1037,40,12,When was it?,q,MR. HOLBROOK,start_answer
+262,1038,40,13,"I'd say it was probably '52 or '53. It was in that time because Al Crecelius was the foreman and we had a crew of probably about 20 men, 20 people.",a,THE WITNESS,start_question
+263,1042,40,17,That was while you were still a helper?,q,MR. HOLBROOK,start_answer
+264,1044,40,19,Yeah.,a,THE WITNESS,start_question
+265,1045,40,20,So you were moving the stock around among other things?,q,MR. HOLBROOK,start_chat
+266,1047,40,22,Objection.,side_chat,MR. GREENE,start_answer
+267,1048,40,23,"You move the stock and assist the mechanics.  In other words, like I say, you'd cut the pieces for the elbows and they put them on.  In other words, they pair up. Sometimes two mechanics will work together; sometimes a helper and a mechanic.",a,THE WITNESS,start_question
+268,1055,41,5,"During that particular job while you were moving the stock around, what were you moving?  What stock was it that you were moving around?",q,MR. HOLBROOK,start_answer
+269,1059,41,9,"It was the insulation stock, piping, insulating blocks.  The cement was mixed down in the basement.",a,THE WITNESS,start_question
+270,1062,41,12,Who was the manufacturer of the pipecovering on that particular job?,q,MR. HOLBROOK,start_answer
+271,1064,41,14,I would have to say it was pretty much the same as I told you earlier.,a,THE WITNESS,start_question
+272,1066,41,16,Okay.,q,MR. HOLBROOK,start_answer
+273,1067,41,17,"Philip Carey.  There's another one. I'm missing a couple, Owens-Illinois, Alco, MW50, Pitcher cement.",a,THE WITNESS,start_question
+274,1070,41,20,I'll get to cement in a minute.  I'm just looking for pipecovering right now.,q,MR. HOLBROOK,start_answer
+275,1072,41,22,"Oh, all right.  High-temp blocks, mag blocks, Philip Carey.  I know we used other brands.  We used probably Manville blocks.",a,THE WITNESS,start_question
+276,1076,42,1,This is all on installing the one boiler at South Street in '52 or '53?,q,MR. HOLBROOK,start_answer
+277,1078,42,3,"Yeah, it was a new boiler.",a,THE WITNESS,start_question
+278,1079,42,4,"Okay.  Now, you said earlier focusing on the pipecovering again for a moment, you said earlier that you used Philip Carey unless you ran out of it?",q,MR. HOLBROOK,start_answer
+279,1083,42,8,"No.  We used to use Philip Carey but there were times that we used other brands and this is why I couldn't give you the name of all the brands because we did use them, and I've given other depositions too that regardless of the time when I ran out of blocks, there was an awful lot of powerhouses being built at that time and everything else, so you'd use whatever they sent you and they could have been Manville blocks, but we used all types of blocks.",a,THE WITNESS,start_question
+280,1094,42,19,"I understand what you're saying, sir, but you need to focus on my question, which is:  At that particular job, do you have a memory of actually using something other than Philip Carey pipecovering?",q,MR. HOLBROOK,start_chat
+281,1099,42,24,Objection.  Go ahead.,side_chat,MR. GREENE,start_answer
+282,1101,43,1,"Yeah, I do.  We used other kinds.",a,THE WITNESS,start_question
+283,1102,43,2,Okay.  How much of the pipecovering you used during the installation of that South Street boiler in '52 or '53 was Philip Carey pipecovering?,q,MR. HOLBROOK,start_answer
+284,1106,43,6,Most of it was but not all of it.  I used other brands.,a,THE WITNESS,start_question
+285,1108,43,8,Was 80 or 90 percent of it Philip Carey; do you know?,q,MR. HOLBROOK,start_chat
+286,1110,43,10,Objection.,side_chat,MR. GREENE,start_answer
+287,1111,43,11,I'd probably say 80 percent maybe. We'd use other brands.,a,THE WITNESS,start_question
+288,1113,43,13,How much of it was this Owens-Illinois product?,q,MR. HOLBROOK,start_answer
+289,1115,43,15,Maybe 10 percent or 20 percent.  I know they used it.,a,THE WITNESS,start_question
+290,1117,43,17,How much was the thing that you called Ecko or Alco?,q,MR. HOLBROOK,start_answer
+291,1119,43,19,"You know something, I can't give you percentages.  It's too far back for me to remember that.  I mean, you'll have to accept that.  We used all the different things.  I can't do that.  You're asking me to do too much.  I can't do it.  I'm doing the best I can and, you know, I'm not that sharp and I'm not that young but I'm doing my best.",a,THE WITNESS,start_chat
+292,1128,44,3,Do you want to take a break?,side_chat,MR. GREENE,start_chat
+293,1130,44,5,Yes.,side_chat,THE WITNESS,is brackets
+294,1131,44,6,"(Short recess taken, 12:30-12:36).",brackets,,start_chat
+295,1133,44,8,Back on the record.,side_chat,MR. HOLBROOK,start_question
+296,1134,44,9,"Sir, the Philip Carey pipecovering that you used at that South Street boiler installation, what did the boxes look like?",q,MR. HOLBROOK,start_answer
+297,1137,44,12,The boxes?  They were cardboard boxes.,a,THE WITNESS,start_question
+298,1139,44,14,What did they say on them?,q,MR. HOLBROOK,start_answer
+299,1140,44,15,I don't remember what they said on them.,a,THE WITNESS,start_question
+300,1142,44,17,Do you remember the color of any writing on them?,q,MR. HOLBROOK,start_answer
+301,1144,44,19,"I mean, I can't go back that far.",a,THE WITNESS,start_question
+302,1145,44,20,The material --,q,MR. HOLBROOK,start_answer
+303,1146,44,21,"Some had blue signs but I can't. It's been a long time since I've seen any and I can't really picture them that much.  I know some of them had red writing on them and stuff, but to tell you, I really couldn't honestly.  I'm sorry, but I can't.",a,THE WITNESS,start_question
+304,1153,45,3,Could you even say the box that had some red writing on it was there at that particular installation or is that just something you saw during your career?,q,MR. HOLBROOK,start_answer
+305,1157,45,7,"No.  Everything I was telling you was, you know, you asked me about Narragansett or Montaup, everything I'm telling you, the stock was there.",a,THE WITNESS,start_question
+306,1161,45,11,I'm not sure I understand your answer.  Are you saying that every product that you named this morning was present during this installation?,q,MR. HOLBROOK,start_answer
+307,1165,45,15,"What question did you just ask me, please?",a,THE WITNESS,start_question
+308,1167,45,17,"During the boiler installation at South Street in 1952 or 1953, do you know there was a box with red writing on it?",q,MR. HOLBROOK,start_answer
+309,1170,45,20,"Yeah, there was a box there.",a,THE WITNESS,start_question
+310,1171,45,21,What was in that box?,q,MR. HOLBROOK,start_answer
+311,1172,45,22,Blocks.,a,THE WITNESS,start_question
+312,1173,45,23,What did the red writing say?,q,MR. HOLBROOK,start_answer
+313,1174,45,24,"Well, I don't know.  And plus there could have been blocks in it or it could have been pipecovering, you know.  It could have been small pipecovering.  Sometimes the boxes would come and there would be only one section in it.  It would be maybe 10-inch pipe so you'd only have two halves.  Some might have four halves, but depending on the size, I can't describe it.  I can't describe any pictures or anything like that.",a,THE WITNESS,start_question
+314,1185,46,10,"I understand what you're saying, but I still have to ask a few more questions to make sure we have it on the record. The material that you said was Owens-Illinois, what was that material?",q,MR. HOLBROOK,start_answer
+315,1190,46,15,Blocks.,a,THE WITNESS,start_question
+316,1191,46,16,That was blocks?,q,MR. HOLBROOK,start_answer
+317,1192,46,17,Could have been some covering.,a,THE WITNESS,start_question
+318,1193,46,18,What did that material look like?,q,MR. HOLBROOK,start_answer
+319,1194,46,19,It was white.,a,THE WITNESS,start_question
+320,1195,46,20,Did it have any writing on the material itself?,q,MR. HOLBROOK,start_answer
+321,1197,46,22,No.,a,THE WITNESS,start_question
+322,1198,46,23,Did it have any writing on the box that it came in?,q,MR. HOLBROOK,start_answer
+323,1201,47,1,It had writing on the box.,a,THE WITNESS,start_question
+324,1202,47,2,Do you know what it said?,q,MR. HOLBROOK,start_answer
+325,1203,47,3,Right now I can't remember what it said.,a,THE WITNESS,start_question
+326,1205,47,5,Were there --,q,MR. HOLBROOK,start_answer
+327,1206,47,6,"Oh, wait a minute, yes, I do.  On the top of the box it said Owens-Illinois.",a,THE WITNESS,start_question
+328,1208,47,8,Right up at the top of the box?,q,MR. HOLBROOK,start_answer
+329,1209,47,9,"Right up at the top of the box on both sides, I think.",a,THE WITNESS,start_question
+330,1211,47,11,"Was there anything else on that box, any other names?",q,MR. HOLBROOK,start_answer
+331,1213,47,13,I didn't see any other writing on the box.,a,THE WITNESS,start_question
+332,1215,47,15,Do you know what color the writing was where it said Owens-Illinois?,q,MR. HOLBROOK,start_answer
+333,1217,47,17,Red.,a,THE WITNESS,start_question
+334,1218,47,18,Where did you use that block?,q,MR. HOLBROOK,start_answer
+335,1219,47,19,"On the different pipes, elbows, whatever.  I can't tell you any specific pipe. It was a steam pipe.  I can say that.",a,THE WITNESS,start_question
+336,1222,47,22,"The Ecko/Alco material, do you know who made that?",q,MR. HOLBROOK,start_answer
+337,1224,47,24,"No, I don't but I know we used it.",a,THE WITNESS,start_question
+338,1226,48,1,"I started asking you something about percentages, and you said some percentages, then you said you really didn't know.  Does that mean that when you said Philip Carey was 80 percent, this Owens-Illinois was 20 percent, you don't know for sure how much percentage that was?",q,MR. HOLBROOK,start_answer
+339,1233,48,8,"That's impossible because, you know, you pile the boxes up.  When you're blocking in a boiler wall, you use a box up in five minutes because all you do is just stack the blocks up and then you wire them, so percentage-wise, I can't give you any percentages.  I just can tell you that I used them or they were used.",a,THE WITNESS,start_question
+340,1241,48,16,Except that you can say Philip Carey was most of the material?,q,MR. HOLBROOK,start_answer
+341,1243,48,18,"Well, I'd say most of it, yeah.  I'd say a lot.",a,THE WITNESS,start_question
+342,1245,48,20,Was a lot of the material Manville as well?,q,MR. HOLBROOK,start_chat
+343,1247,48,22,Objection.,side_chat,MR. GREENE,start_answer
+344,1248,48,23,"No, we didn't use much Manville.  We used some but very, very little Manville.",a,THE WITNESS,start_question
+345,1251,49,1,Who was working with you on that boiler install at South Street in '52 or '53?,q,MR. HOLBROOK,start_answer
+346,1253,49,3,"Al Crecelius, James Cole, Johnny Richardson, Jimmy Fazackerly, Babe Martin, Eddy Richmond, John McCue, Howard Sherman, Albert Carlson, Carl Anderson, Bertil Carlson, George Johnson, Robert Beauregard, Al Crecelius, did I say that name?",a,THE WITNESS,start_question
+347,1259,49,9,Yes.,q,MR. HOLBROOK,start_answer
+348,1260,49,10,"Ernie Anderson.  I could go on but it would take me awhile.  I was secretary of the union so I know all the coverers.  It came to me pretty easy, but when you have a powerhouse job, you have 20 or 30 coverers.  Sometimes you take coverers from other outfits, other companies, like Armstrong or ACandS.",a,THE WITNESS,start_question
+349,1267,49,17,How long did it take to install that boiler on South Street?,q,MR. HOLBROOK,start_answer
+350,1269,49,19,How long did it take?,a,THE WITNESS,start_question
+351,1270,49,20,Yes.,q,MR. HOLBROOK,start_answer
+352,1271,49,21,I think the job was probably a year or more before they completed it.,a,THE WITNESS,start_question
+353,1273,49,23,Let me be a little more specific. How long was the insulation job on the installation of that boiler?,q,MR. HOLBROOK,start_answer
+354,1277,50,2,I couldn't tell you.  I would have no way of telling you that.,a,THE WITNESS,start_question
+355,1279,50,4,Do you have a specific memory of installing any turbines at South Street during the '50s?,q,MR. HOLBROOK,start_answer
+356,1282,50,7,Do I have any knowledge of --,a,THE WITNESS,start_question
+357,1283,50,8,Did you work at South Street in the '50s when a turbine was installed there?,q,MR. HOLBROOK,start_answer
+358,1285,50,10,Insulating the turbine?,a,THE WITNESS,start_question
+359,1286,50,11,Yes.,q,MR. HOLBROOK,start_answer
+360,1287,50,12,The piping to the turbine?,a,THE WITNESS,start_question
+361,1288,50,13,Yes.,q,MR. HOLBROOK,start_answer
+362,1289,50,14,"Yeah, I worked on it.",a,THE WITNESS,start_question
+363,1290,50,15,What year during the '50s that you did that work?,q,MR. HOLBROOK,start_answer
+364,1292,50,17,"When it was going on, which was probably '52 or '53, don't forget, I was a helper so I worked all over the place.  I could be working there, but I can honestly say I worked almost every job that was there at one time during that year, I worked it.",a,THE WITNESS,start_question
+365,1298,50,23,So that was basically the same time as the boiler was being installed you were working on a turbine being installed?,q,MR. HOLBROOK,start_answer
+366,1302,51,2,"Yeah, the boiler, they go together. One group was working on the turbine.  The other group was working on the boiler.  But I mean, sometimes you can't work on them until one is connected up to the other or in other words until it's tested and all that stuff.",a,THE WITNESS,start_question
+367,1308,51,8,"Do you know what boiler that was?  I mean, did they have a number for that particular boiler?",q,MR. HOLBROOK,start_answer
+368,1311,51,11,"They did but I don't remember.  I think it was a GE boiler, but I'm not positive because they had GE, Utica, and Stone & Webster had one, but the name of the boiler wasn't -- didn't make much difference to us.",a,THE WITNESS,start_question
+369,1316,51,16,"And the materials that you used installing the boiler, were they also the materials you used in installing the turbine?",q,MR. HOLBROOK,start_answer
+370,1319,51,19,"Yes, more or less.  Some of the material -- whatever -- in other words, high-pressure steam line.  In fact, some of the products that you use are simply just -- you know, they're not for ordinary steam or low-pressure steam, you wouldn't use some of this stuff. But a covering that we used to use that was suited for high-pressure steam was Kaylo.  That had more -- I guess it had more asbestos but it was so heavy.  It was very heavy and it was terrible stuff to cut. Nobody liked working with it, but I know they used that a lot on the turbines because it could withstand high pressure, you know, high temperatures is the word.",a,THE WITNESS,start_question
+371,1336,52,11,Is that something that you worked with during that particular turbine installation in '52 or '53?,q,MR. HOLBROOK,start_answer
+372,1339,52,14,"I think I might have cut a few elbows for mechanics, you know, but I did work with the material.",a,THE WITNESS,start_question
+373,1342,52,17,Was there other -- was that a block or a pipecovering material?,q,MR. HOLBROOK,start_answer
+374,1344,52,19,That was a pipecovering material.,a,THE WITNESS,start_question
+375,1345,52,20,Were there other pipecoverings used on that turbine installation?,q,MR. HOLBROOK,start_answer
+376,1347,52,22,Pardon?,a,THE WITNESS,start_question
+377,1348,52,23,You mentioned a number of pipecovering types that were used at South Street?,q,MR. HOLBROOK,start_answer
+378,1352,53,2,"There were other types that they used, too.",a,THE WITNESS,start_question
+379,1354,53,4,Other types used on that turbine as well?,q,MR. HOLBROOK,start_answer
+380,1356,53,6,Yeah.,a,THE WITNESS,start_question
+381,1357,53,7,And just the same as the list of names that you went through earlier?,q,MR. HOLBROOK,start_answer
+382,1359,53,9,Yes.,a,THE WITNESS,start_question
+383,1360,53,10,Mostly Philip Carey and those other names as well?,q,MR. HOLBROOK,start_chat
+384,1362,53,12,Objection.,side_chat,MR. GREENE,start_answer
+385,1363,53,13,"Well, I don't know.  I couldn't tell you exactly whether it was Philip Carey or Owens or Manville or what.  I mean, I couldn't pinpoint it.  I can't do that.  I don't know. I know I used the material, but I can't tell you what percentage it was or on what pipe I used it.  That's impossible.",a,THE WITNESS,start_question
+386,1370,53,20,"So similarly, you can't say what month it was in the '50s that you used a particular one?",q,MR. HOLBROOK,start_answer
+387,1373,53,23,"No, I can't do that.  That's too far back.",a,THE WITNESS,start_question
+388,1376,54,1,Did you work at South Street installing any other boilers or turbines in the 1950s?,q,MR. HOLBROOK,start_answer
+389,1379,54,4,"I did probably repair work, but like I say, I was there quite a bit, and I can't go into a good description of it.  All I can do is tell you I worked there, I applied it.",a,THE WITNESS,start_question
+390,1383,54,8,"The four or five other depositions you gave, did you discuss your work at Narragansett in those depositions?",q,MR. HOLBROOK,start_answer
+391,1386,54,11,"Gee, I don't know.  I must have but I'd have to read them.  I'm pretty sure I did but I don't know.  See, like I was telling this young lady here, I mean, I didn't go over or look through anything.  I have them at home.  I've got this much of them, but I'm sure I mentioned it in there because I don't think they missed any questions.",a,THE WITNESS,start_question
+392,1394,54,19,You've already anticipated my next question which was do you have any of the transcripts of the depositions at home?  You do have those at home?,q,MR. HOLBROOK,start_answer
+393,1398,54,23,"Yeah, my lawyer sent them to me but I haven't looked at them.",a,THE WITNESS,start_question
+394,1401,55,1,Do you think you have all the transcripts?,q,MR. HOLBROOK,start_answer
+395,1403,55,3,"I don't have all of them, no, but I have some.  I told him I didn't want them.",a,THE WITNESS,start_question
+396,1405,55,5,"Whatever you do have at home, would you give those to Mr. Greene so that he could give copies to us?",q,MR. HOLBROOK,start_chat
+397,1408,55,8,If you give them to me I'll make copies and I'll give them back to you.,side_chat,MR. GREENE,start_question
+398,1411,55,11,Is that okay with you?,q,MR. HOLBROOK,start_answer
+399,1412,55,12,Yes.,a,THE WITNESS,start_question
+400,1413,55,13,Thank you.,q,MR. HOLBROOK,start_answer
+401,1414,55,14,I'm not used to this.  It's been a long time.,a,THE WITNESS,start_question
+402,1416,55,16,"This might sound like a funny question but I've got to ask it anyway.  Do you know, as you sit here, whether you named any products in those depositions when you talked about Narragansett that you haven't named here today?",q,MR. HOLBROOK,start_answer
+403,1422,55,22,"Right now I can't, no.",a,THE WITNESS,start_question
+404,1423,55,23,Do you think your memory about what products were used was any better when you were deposed earlier than it is as you sit here today?,q,MR. HOLBROOK,start_chat
+405,1428,56,3,Objection.,side_chat,MR. GREENE,start_answer
+406,1429,56,4,"I don't know.  I can't measure that but I do know that -- I thought maybe today maybe Mr. Roberts, the lawyer, the governor's nephew or something like that, he did a great job of leading the deposition.  But anyhow, they had asked me a question about Robert Beauregard, and in fact, this was his case and I had worked with Bob and Bob was a meticulous guy and he kept a record of every single job he was on.  We were all amazed but that was the type of personality Bob was.  He was an awful nice guy also.  And the poor guy on top of it all, he retired and he never collected his first check.  He died of asbestosis. But anyway, getting back to the story.  They asked me if I had ever worked near where Bob lived.  He lived on Tiffany Street in North Attleboro.  And they said are you sure you never worked at a place with him in Attleboro?  And I said no.  I said for the love of me I can't figure it out. So anyhow, don't you think about six months later, you know how something comes up like Vin called me about the Kaylo and stuff, and I said now I know, I did work with him. He and I worked at a bank there.  It was like a two-day job, ductwork and stuff like that, and I remembered it but it was too late, of course. And then I also remembered that at that time he was putting an addition onto his own house for his mother.  He made a little apartment for her, so on our lunch hour we went over and he showed me what he was doing so this is how sometimes things happen.  You ask me these questions today, right.  Now six months down the line or somebody else will come up with some question, I'll remember something I didn't remember today.",a,THE WITNESS,start_question
+407,1469,57,19,But do you have any reason to believe your memory is better today than it was when you gave those depositions before?,q,MR. HOLBROOK,start_chat
+408,1472,57,22,Objection.,side_chat,MR. GREENE,start_answer
+409,1473,57,23,I don't know.  I think it's good.,a,THE WITNESS,start_question
+410,1474,57,24,But it is pretty hard to remember those things that happened 50 years ago?,q,MR. HOLBROOK,start_chat
+411,1477,58,2,Objection.,side_chat,MR. GREENE,start_answer
+412,1478,58,3,I'm trying.  Believe me I am.,a,THE WITNESS,start_chat
+413,1479,58,4,You're doing a great job.,side_chat,MR. GREENE,start_answer
+414,1481,58,6,I'm disappointed that I don't because I take pride in having a good memory.,a,THE WITNESS,start_question
+415,1483,58,8,"When you were doing this work for Philip Carey in the '50s, did they have their own people going around cleaning up as the job went on or was the cleanup done by somebody at Narragansett?",q,MR. HOLBROOK,start_answer
+416,1488,58,13,"Both cases, you cleaned up and they cleaned up.  They had to keep the place so that dust didn't get into the machinery and stuff, but you know the sad part of it is that all that stuff, we didn't know anything about it. When I worked at -- they used to laugh at me, especially when I was a helper. The first day on the job, you know, I was down -- the first day I worked, I was down at Montaup Electric in Somerset, and I mentioned the name Betel Carlson, he was like a fourth-year helper.  So we had the job of mixing the cement in the tub, you know, the asbestos. So anyhow, I think it was the second day there.  He said get that wheelbarrow over there and fill it with water and he said mix a bag of asbestos.  So anyhow, I get the bag and I fill the wheelbarrow with water and I go over and I pick -- they were 100-pound sacks in those days, burlap, and then when you touch them a cloud of dust comes up.  So anyhow, I take the bag and I pick it up like this and it went plop. I've got asbestos all over me, in my eyes, all over my face.  He had to take me to the Trusdale Hospital in Fall River and I had to clean all my eyes out because they were loaded with asbestos.  So that was my introduction to asbestos.",a,THE WITNESS,start_question
+417,1520,59,20,That was one of the dustier jobs you worked with mixing the cement?,q,MR. HOLBROOK,start_answer
+418,1522,59,22,"That stuff there, it's so bad that it's a cloud of dust, but I can remember if you were working in an area where the rays of the sun were coming through the light, and you know how dust, you can see the particles in the rays of the sun and if you were -- there was the sun at Montaup that we were down on the bottom in the basement and there was an opening where a ray of the sun used to go across the mixing box.  And when we'd mix that mud, we called it mud, you could see all these little -- looked like little snakes dancing in the rays, and they were so thick that you couldn't see through them.  That's how bad that stuff was, so that little stuff, that gets into your lung.",a,THE WITNESS,start_question
+419,1539,60,14,So mixing the cement was the dustiest part of your work?,q,MR. HOLBROOK,start_chat
+420,1541,60,16,Objection.,side_chat,MR. GREENE,start_answer
+421,1542,60,17,"Oh, yeah.",a,THE WITNESS,start_question
+422,1543,60,18,Do you know who was responsible for making the jobsite a safe place to work when you worked at Narragansett?,q,MR. HOLBROOK,start_chat
+423,1546,60,21,Objection.,side_chat,MR. GREENE,start_answer
+424,1547,60,22,OSHA and then they had state --,a,THE WITNESS,start_question
+425,1548,60,23,"I'm sorry to cut you off, and if Vin objects, I'll let him, but I'm not asking who was overseeing the safety.  I'm asking on a day-to-day basis who was it that was responsible for making sure that the jobsite was safe?  Was it Philip Carey?  Was it Narragansett?  Was it somebody else?",q,MR. HOLBROOK,start_answer
+426,1556,61,6,Our foreman.,a,THE WITNESS,start_question
+427,1557,61,7,Your foreman at Philip Carey?,q,MR. HOLBROOK,start_answer
+428,1558,61,8,"Yeah, but we also had to abide by the rules of the Narragansett Electric, too.  Have you ever been in a powerhouse?",a,THE WITNESS,start_question
+429,1561,61,11,"No.  Sir, I'm sorry, let me just ask my questions so we can all get out of here.",q,MR. HOLBROOK,start_answer
+430,1563,61,13,It's got to do with dust.  I'm not going to tell any more stories.,a,THE WITNESS,start_question
+431,1565,61,15,"Sir, a couple times today you said that you ran out of Philip Carey product sometimes because at that time people were building a lot of power plants.  What time are you referring to when you say at that time they were building a lot of power plants?",q,MR. HOLBROOK,start_answer
+432,1571,61,21,"Well, that was from probably 1949 or '50 up until 19 probably the '60s, they built the different powerhouses, were putting in new units, new turbines.  And in fact, they put the new boiler in Manchester Street during that period or shortly after.",a,THE WITNESS,start_question
+433,1578,62,3,You also mentioned something about Dr. Selikoff and that you didn't know how bad it was until Dr. Selikoff told you or something along those lines.  When was it that you learned that asbestos was bad for you?,q,MR. HOLBROOK,start_chat
+434,1583,62,8,Objection.,side_chat,MR. GREENE,start_answer
+435,1584,62,9,"Gee, I don't recall.  I know that we had the international -- he did some -- it's got to go quite a ways back but he came out of Mount Sinai Hospital.  I've got a book if you want to read it.",a,THE WITNESS,start_question
+436,1589,62,14,"When you learned that asbestos was bad for you, did you change your work behavior in any way?",q,MR. HOLBROOK,start_chat
+437,1592,62,17,Objection.,side_chat,MR. GREENE,start_answer
+438,1593,62,18,"Well, when we knew it, yes.  We used to wear paper masks, which were useless.  But when I was working I used to have this fitting cloth that we used to use, I used to put it on my mouth when I mixed the mud.  They used to laugh at me.  I have pleural plaques.",a,THE WITNESS,start_question
+439,1599,62,24,You did that when you were mixing the mud?,q,MR. HOLBROOK,start_answer
+440,1602,63,2,"That's right, I did.",a,THE WITNESS,start_question
+441,1603,63,3,"In any other aspect of your job, did you wear that little mask that you just talked about?",q,MR. HOLBROOK,start_answer
+442,1606,63,6,"You did later on.  When they found out it was bad, then they gave us these masks to wear, but before that they never gave us anything.  In other words, I was doing this for myself when I talked about putting that.",a,THE WITNESS,start_question
+443,1611,63,11,That was before you heard about Dr. Selikoff?,q,MR. HOLBROOK,start_answer
+444,1613,63,13,That's right.  That's what I'm saying.  I took care of myself.,a,THE WITNESS,start_question
+445,1615,63,15,"And you said after you learned about Dr. Selikoff, they gave you some masks.  Who was it that gave you masks?",q,MR. HOLBROOK,start_answer
+446,1618,63,18,They didn't really give us masks but they told us we should use masks.  Some guys wouldn't wear them.  They were paper masks. Then they found out later on --,a,THE WITNESS,start_question
+447,1622,63,22,I don't want to talk about later on.,q,MR. HOLBROOK,start_answer
+448,1623,63,23,"Well, they were useless, that's what I'm saying.  The dust got behind the mask.",a,THE WITNESS,start_question
+449,1626,64,1,"When they started giving you masks, did you wear one all the time you were working with asbestos?",q,MR. HOLBROOK,start_answer
+450,1629,64,4,"Yeah, when we found out, yeah.",a,THE WITNESS,start_question
+451,1630,64,5,Not just when you were mixing the mud like you talked about before?,q,MR. HOLBROOK,start_answer
+452,1632,64,7,"No, we wore them all the time, but it wasn't a case where it was mandatory that you had to wear them.  It was later on down the line that they issued the masks or they made it -- in fact --",a,THE WITNESS,start_question
+453,1637,64,12,Sir --,q,MR. HOLBROOK,start_chat
+454,1638,64,13,Let him finish.,side_chat,MR. GREENE,start_answer
+455,1639,64,14,"April or '76, '67, they had put out that you couldn't use asbestos or asbestos-related materials until after that date.  I think it was '67 or '76 because some of the companies that we worked for were sending us the old asbestos to use, and we refused to use it and made them send it back, but they were trying to get rid of it.",a,THE WITNESS,start_question
+456,1647,64,22,"Sir, you mentioned that Philip Carey supplied the products that you used when you were working in the '50s?",q,MR. HOLBROOK,start_answer
+457,1651,65,1,"Yeah, a lot of them.",a,THE WITNESS,start_question
+458,1652,65,2,Where did those products come from? What physical location did they come from?,q,MR. HOLBROOK,start_answer
+459,1654,65,4,"They had a warehouse in East Providence.  It came from Canada.  Their asbestos came from Canada, Canada mines.",a,THE WITNESS,start_question
+460,1657,65,7,"All of the product that they sent down to Narragansett, did that come through their warehouse?",q,MR. HOLBROOK,start_answer
+461,1660,65,10,"To the best of my knowledge, it did, but I know you have trucks back up with truckloads of blocks that didn't say Philip Carey on the side of the truck.",a,THE WITNESS,start_question
+462,1664,65,14,"How did you get to work when you were working at this Narragansett facility, the South Street station?",q,MR. HOLBROOK,start_answer
+463,1667,65,17,How did I get to work?,a,THE WITNESS,start_question
+464,1668,65,18,Yes.,q,MR. HOLBROOK,start_answer
+465,1669,65,19,"Sometimes I took a streetcar. Sometimes I walked.  I lived in Mount Pleasant up around LaSalle Academy, came from that neighborhood, community living.",a,THE WITNESS,start_question
+466,1673,65,23,What was your street address while you were working at South Street in the '50s?,q,MR. HOLBROOK,start_answer
+467,1676,66,1,397 Chalkstone Avenue.,a,THE WITNESS,start_question
+468,1677,66,2,What streets did you walk down to get to South Street?,q,MR. HOLBROOK,start_chat
+469,1679,66,4,Objection.,side_chat,MR. GREENE,start_answer
+470,1680,66,5,That's Eddy Street out there.  Eddy Street is where -- it goes by the two powerhouses.,a,THE WITNESS,start_question
+471,1683,66,8,"Walking out your door, tell me the streets that you walked to to get to the powerhouses.",q,MR. HOLBROOK,start_answer
+472,1686,66,11,"I walked down Chalkstone Avenue.  I walked down Raymond Street.  I walked down Promenade Street, downtown in back -- well, this area here, you know, back where the courthouse is and come down through the middle of downtown, cut over and walk through because that's where you had to take the streetcar. You got off the streetcar and sometimes you'd walk from there.  You could take two streetcars, but we used to take the streetcar and walk to Narragansett.",a,THE WITNESS,start_chat
+473,1697,66,22,"That's all the questions I have for you now, sir.",side_chat,MR. HOLBROOK,start_chat
+474,1699,66,24,I'm sorry if I offended you in any way.,side_chat,THE WITNESS,symbols
+475,1702,67,2,* * * * * EXAMINATION CONDUCTED,symbols,,start_question
+476,1705,67,5,My name is Brooks Glahn.  I just have a few questions for you.  You mentioned a mask a few minutes ago?,q,MR. GLAHN,start_answer
+477,1708,67,8,Yeah.,a,THE WITNESS,start_question
+478,1709,67,9,You said you were provided those masks.  Do you remember when they started providing you with those masks?,q,MR. GLAHN,start_answer
+479,1712,67,12,I really can't -- let me think a little bit.,a,THE WITNESS,start_chat
+480,1714,67,14,"Brooks, do you want to just clarify who gave him the masks before we go down that road?",side_chat,MR. GREENE,start_chat
+481,1717,67,17,Sure.,side_chat,MR. GLAHN,start_question
+482,1718,67,18,Do you know who gave you the masks?,q,MR. GLAHN,start_answer
+483,1719,67,19,Carey had the masks.,a,THE WITNESS,start_question
+484,1720,67,20,Philip Carey had the masks?,q,MR. GLAHN,start_answer
+485,1721,67,21,"They had to give them to you but you had a box of them, but you know something, they were useless.  The masks were useless because it had a little metal -- you probably use them around your house.  They had a little metal thing on them where you squeezed them on your nose and then they come around your mouth, but the air, you'd take those things off and you'd have a mark -- if you were working with asbestos dust, you'd have a mark around here like the milk one, only it went all the way around.",a,THE WITNESS,start_chat
+486,1734,68,9,Off the record for a second.,side_chat,MR. GREENE,is brackets
+487,1736,68,11,"(Discussion off the record, 1:04-1:05).",brackets,,start_chat
+488,1738,68,13,That's all I have.,side_chat,MR. GLAHN,start_chat
+489,1739,68,14,I don't any questions for you either.,side_chat,MR. GREENE,is brackets
+490,1741,68,16,"(Whereupon, the deposition was concluded at 1:05 p.m.) STATE OF RHODE ISLAND PROVIDENCE PLANTATIONS I, DEANNA L. VEINOTTE, Commissioner of the Professional Reporter, do hereby certify that on the 10th day of February, 2004; That the witness named in the deposition, sworn; That said deposition was taken before me was taken down by me in shorthand and my direction and supervision; That said deposition is a true record of objections made at the time of the counsel for nor related to any party to said outcome thereof. IN WITNESS WHEREOF, I have subscribed my February, 2004. Deanna L. Veinotte, Commissioner of Deeds My Commission expires:  November 22, 2005 PLEASE NOTE: THE FOREGOING CERTIFICATION OF THIS OF THE SAME BY ANY MEANS UNLESS UNDER THE CERTIFYING REPORTER. February 20, 2004 MOTLEY RICE, LLC South Main Street Providence, RI  02940 Vs: A.W. Chesterton, et al Dear Attorney Greene: deposition transcript of CHARLES FERGUSON above-captioned case. Civil Procedure, the witness has 30 days to Please have the witness read and sign the has not read and signed the original signature will be deemed signed. signature page/errata sheet to Attorney original deposition transcript.  Thank you in Sincerely, SIGNATURE - ERRATA SHEET I, CHARLES FERGUSON, hereby certify under read the foregoing transcript of my testimony true and accurate record of my testimony (with and/or deletions noted below). PAGE  LINE  CORRECTIONS, ADDITION OR DELETION Signed under the penalties of perjury this CHARLES FERGUSON",brackets,,symbols
+491,1859,73,1,******************************************* INSTRUCTIONS TO DEPONENT,symbols,,symbols
+492,1861,73,3,"******************************************* After reading this volume of your deposition, indicate any corrections or changes to your testimony and the reasons therefor on the Errata Sheet supplied to you, and sign it. DO NOT MAKE MARKS OR NOTATIONS ON THE",symbols,,symbols
+493,1869,73,10,******************************************* ERRATA SHEET HANDLING/DISTRIBUTION,symbols,,symbols
+494,1871,73,12,"******************************************* The original of the Errata Sheet has been delivered to Vincent Greene, Esq.  When the Errata Sheet has been completed by the deponent and signed, a copy thereof should be delivered to each party of record and the ORIGINAL thereof delivered to Katarina Zivkovic, Esq., to whom the original deposition transcript was delivered.",symbols,,symbols
+495,1881,73,22,******************************************* WITH THE COMPLETED AND SIGNED ERRATA SHEET,symbols,,symbols
+496,1885,73,24,*******************************************,symbols,,end
